@@ -1,0 +1,52 @@
+.book-now {
+  position: fixed;
+  bottom: 2vh;
+  right: 1vh;
+  max-height: 150px;
+  max-width: 150px;
+}
+.modal-form-header {
+  background: var(--darkOrange);
+}
+.call-button {
+  display: none;
+}
+.modal-form-heading {
+  color: #ffffff;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 20px !important;
+}
+.modal-form-footer {
+  background: #000000;
+}
+.modal-close-button {
+  background: #ffffff;
+  color: #000000;
+}
+.control-label {
+  font-family: "Roboto Condensed", sans-serif !important;
+  color: #000000 !important;
+}
+.modal-sub-heading {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+}
+@media (max-width: 768px) {
+  .book-now {
+    position: fixed;
+    bottom: 2vh;
+    left: 1vh;
+    max-height: 100px;
+    max-width: 100px;
+  }
+  .call-button {
+    display: block;
+    position: fixed;
+    padding-right: 12px;
+    padding-left: 12px;
+    bottom: 2vh;
+    right: 1vh;
+    border-radius: 50%;
+    background: var(--darkOrange);
+  }
+}

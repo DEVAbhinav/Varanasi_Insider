@@ -1,0 +1,47 @@
+.footer {
+  background: #121212;
+  padding: 3em 0;
+}
+
+.footer p {
+  font-size: 0.875em;
+  color: #fff;
+  margin: 1em 0;
+  line-height: 1.8em;
+}
+.footer-middle p {
+  margin: 0;
+}
+
+.footer h4 {
+  font-size: 1.7em;
+  color: rgb(223, 209, 209);
+  border-bottom: 1px solid #fff;
+  width: 89% !important;
+  margin-bottom: 1em;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.footer-right li {
+  color: #fff;
+  font-size: 0.875em;
+  line-height: 1.8em;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.footer h6 {
+  font-size: 1.7em;
+  background: var(--darkOrange);
+  padding: 0.5em 1.7em;
+  font-weight: 700;
+  color: #fff;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.footer-middle a {
+  color: var(--darkOrange);
+}
+li:hover {
+  color: var(--darkOrange) !important;
+}
+
+.footer-right li {
+  display: block;
+}

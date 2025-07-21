@@ -1,0 +1,59 @@
+[{
+    "vehicle":["WagonR"],
+    "people":["4"],
+    "luggage":["Small"],
+    "price":["5500"]
+},
+{
+    "vehicle":["Dzire"],
+    "people":["4"],
+    "luggage":["Medium"],
+    "price":["6500"]
+},{
+    "vehicle":["Honda Amaze"],
+    "people":["4"],
+    "luggage":["Large"],
+    "price":["6800",""]
+},{
+    "vehicle":["Ertiga"],
+    "people":["6"],
+    "luggage":["Small"],
+    "price":["7500"]
+},{
+    "vehicle":["Innova"],
+    "people":["7"],
+    "luggage":["Small"],
+    "price":["8500"]
+},{
+    "vehicle":["Innova Crysta"],
+    "people":["7"],
+    "luggage":["Medium"],
+    "price":["10000"]
+},{
+    "vehicle":["Citiline"],
+    "people":["9"],
+    "luggage":["Large"],
+    "price":["10500"]
+},{
+    "vehicle":["Traveller"],
+    "people":["12"],
+    "luggage":["Large"],
+    "price":["12500"]
+},{
+    "vehicle":["Traveller"],
+    "people":["17"],
+    "luggage":["Large"],
+    "price":["13500"]
+},{
+    "vehicle":["Traveller"],
+    "people":["20"],
+    "luggage":["Large"],
+    "price":["16000"]
+},{
+    "vehicle":["Traveller"],
+    "people":["26"],
+    "luggage":["Large"],
+    "price":["20000"]
+}]
+
+

@@ -1,0 +1,25 @@
+.container {
+  @apply py-20 bg-gray-50;
+}
+.sectionTitle {
+  @apply text-4xl font-bold text-center mb-12 text-gray-800;
+  font-family: serif;
+}
+.gridContainer {
+  @apply container mx-auto max-w-6xl grid grid-cols-1 md:grid-cols-3 gap-8 px-6;
+}
+.card {
+  @apply rounded-lg shadow-lg overflow-hidden bg-white transform hover:-translate-y-2 transition-transform duration-300 block;
+}
+.cardImage {
+  @apply w-full h-64 object-cover;
+}
+.cardContent {
+  @apply p-6;
+}
+.cardTitle {
+  @apply text-xl font-bold text-gray-800;
+}
+.cardPrice {
+  @apply text-yellow-600 font-semibold mt-2;
+}

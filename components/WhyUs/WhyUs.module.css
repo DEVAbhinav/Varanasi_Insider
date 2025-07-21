@@ -1,0 +1,22 @@
+.container {
+  @apply py-20 bg-white;
+}
+.sectionTitle {
+  @apply text-4xl font-bold text-center mb-12 text-gray-800;
+  font-family: serif;
+}
+.gridContainer {
+  @apply container mx-auto max-w-5xl grid grid-cols-1 md:grid-cols-3 gap-10 px-6;
+}
+.featureCard {
+  @apply text-center p-6;
+}
+.iconWrapper {
+  @apply text-5xl text-yellow-500 mb-4 inline-block;
+}
+.featureTitle {
+  @apply text-xl font-bold text-gray-800 mb-2;
+}
+.featureDescription {
+  @apply text-gray-600;
+}

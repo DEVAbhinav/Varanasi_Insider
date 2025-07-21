@@ -1,0 +1,113 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://banarasinsider.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Transport",
+          "item": "https://banarasinsider.com/en/transport/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi Airport Taxi Guide"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to book a prepaid taxi at Varanasi airport",
+      "image": "/images/posts/vns-prepaid-slip.jpg",
+      "totalTime": "PT5M",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Find the Prepaid Taxi counter inside arrivals hall, left of the exit."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Tell the officer your hotel or ghat."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Pay the fixed fare (cash, UPI or card; carry backup cash)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Collect the printed receipt—this is your contract."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Walk to Bays 5–8, show the slip to the coordinator and board your taxi."
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is there a night surcharge for prepaid taxis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The fare printed on your prepaid slip is final and all‑inclusive."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pay with UPI or card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, most days. Cash always works; keep some in case digital payment terminals are offline."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which app is better, Uber or Ola?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Either can be cheaper; check both on arrival because surge and driver supply vary."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is VNS airport from the ghats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Roughly 25 km (22–25 km), taking 45–90 minutes depending on traffic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I leave something in the cab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For prepaid taxis call the airport police with your receipt number; for app‑cabs use the in‑app lost‑item option."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Walk from Varanasi Airport Arrivals to Pillar 12 (Ride‑share pick‑up)",
+      "description": "A 30‑second POV guide showing exactly how to reach the Uber/Ola pick‑up point at VNS airport.",
+      "thumbnailUrl": "https://img.youtube.com/vi/your-video-id/maxresdefault.jpg",
+      "uploadDate": "2025-07-21",
+      "contentUrl": "https://www.youtube.com/watch?v=your-video-id"
+    }
+  ]
+}

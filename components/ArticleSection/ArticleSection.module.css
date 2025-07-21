@@ -1,0 +1,45 @@
+.articleBody {
+  @apply max-w-3xl mx-auto px-6;
+  font-family: serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #212529;
+}
+/* You can add more specific prose styles here if needed */
+.articleBody h2,
+.articleBody h3,
+.articleBody h4 {
+  font-family: sans-serif;
+  @apply font-bold text-gray-800;
+}
+.articleBody h2 {
+  @apply text-3xl mt-16 mb-4 border-b pb-2 border-gray-200;
+}
+.articleBody h3 {
+  @apply text-2xl mt-10 mb-4;
+}
+.articleBody p {
+  @apply mb-6;
+}
+.articleBody a {
+  @apply text-yellow-600 underline hover:text-yellow-700;
+}
+.articleBody img {
+  @apply rounded-lg shadow-md my-8;
+}
+.articleBody table {
+  @apply w-full my-8 text-sm;
+}
+.articleBody th {
+  @apply bg-gray-100 p-2 text-left;
+}
+.articleBody td {
+  @apply border-b p-2;
+}
+.articleBody ul,
+.articleBody ol {
+  @apply pl-6 mb-6;
+}
+.articleBody blockquote {
+  @apply border-l-4 border-yellow-400 pl-4 italic text-gray-600 my-8;
+}

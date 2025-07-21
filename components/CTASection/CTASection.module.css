@@ -1,0 +1,16 @@
+.container {
+    @apply bg-white py-20;
+}
+.content {
+    @apply text-center max-w-2xl mx-auto px-6;
+}
+.title {
+    @apply text-4xl font-bold text-gray-800;
+    font-family: serif;
+}
+.subtitle {
+    @apply mt-4 text-lg text-gray-600;
+}
+.ctaButton {
+    @apply mt-8 inline-block bg-yellow-500 text-white font-bold text-lg py-4 px-10 rounded-lg hover:bg-yellow-600 transition-colors;
+}

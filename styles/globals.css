@@ -1,0 +1,181 @@
+/* /styles/globals.css */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add styles for rendered markdown if needed */
+.prose h2 {
+  @apply text-2xl font-bold mt-8 mb-4;
+}
+.prose h3 {
+  @apply text-xl font-bold mt-6 mb-3;
+}
+.prose p {
+  @apply mb-4;
+}
+.prose a {
+  @apply text-blue-600 hover:underline;
+}
+.prose ul {
+  @apply list-disc list-inside mb-4;
+}
+.prose ol {
+  @apply list-decimal list-inside mb-4;
+}
+
+body {
+  background-color: #F8F9FA; /* Off-white background */
+  font-family: 'Source Sans 3', sans-serif; /* Default sans-serif font */
+}
+
+/* Make the serif font available for components that need it */
+.font-serif {
+  font-family: 'Lora', serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html,
+body {  
+  font-size: 100%;
+  overflow-x: hidden !important;
+}
+:root {
+  --darkOrange: #ffa43e;
+  --brown: #663d14;
+  --darkBrown: #1a0f05;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--darkOrange);
+  border-radius: 10px;
+}
+::selection {
+  color: var(--brown);
+  background: var(--darkOrange);
+}
+@font-face {
+  font-family: Avenir-bold;
+  src: url(/fonts/AvenirNextLTPro-Bold.otf);
+}
+@font-face {
+  font-family: Avenir-demi;
+  src: url(/fonts/AvenirNextLTPro-Demi.otf);
+}
+@font-face {
+  font-family: Avenir-medium;
+  src: url(/fonts/AvenirNextLTPro-Medium.otf);
+}
+@font-face {
+  font-family: Avenir-regular;
+  src: url(/fonts/AvenirNextLTPro-Regular.otf);
+}
+::placeholder{
+  font-family: Avenir-regular;
+  color: var(--brown) !important;
+  font-size: 15px;
+}
+.font-bold {
+  margin: 0;
+  font-family: Avenir-bold !important;
+}
+.font-demi {
+  margin: 0;
+  font-family: Avenir-demi;
+}
+.font-medium {
+  margin: 0;
+  font-family: Avenir-medium;
+}
+.font-regular {
+  margin: 0;
+  font-family: Avenir-regular;
+}
+.font-12{
+  font-size: 12px;
+}
+.font-14{
+  font-size: 14px;
+}
+.font-15{
+  font-size: 15px;
+}
+.font-16{
+  font-size: 16px;
+}
+.font-17{
+  font-size: 17px;
+}
+.font-18{
+  font-size: 18px;
+}
+.font-19{
+  font-size: 19px;
+}
+.font-20{
+  font-size: 20px;
+}
+.font-25{
+  font-size: 25px;
+}
+.text-brown{
+  color: var(--brown);
+}
+.text-orange{
+  color: var(--darkOrange)
+}
+a:hover {
+  text-decoration: none !important;
+}
+li {
+  list-style: none;
+  margin: 0;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: Avenir-bold;
+}
+.bg-orange{
+  background: var(--darkOrange) !important;
+}
+.bg-brown{
+  background: var(--brown);
+}
+.bg-dark-brown{
+  background: var(--darkBrown);
+}
+
+/* Mutual */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: -0.004em;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+h2.sub-heading {
+  font-size: 30px;
+}
+.modal-body{
+  background: '#FFFAF4' !important;
+}
+.underlined-heading{
+  border-bottom: 3px solid var(--darkOrange);
+  width: 65%;
+}
+@media(max-width: 768px){
+  .underlined-heading{
+    border-bottom: 3px solid var(--darkOrange);
+    width: 100%;
+  }
+}

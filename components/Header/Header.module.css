@@ -1,0 +1,13 @@
+.headerContainer {
+  @apply my-12;
+}
+.heroImage {
+  @apply w-full h-auto max-h-[500px] object-cover rounded-lg shadow-lg mt-8;
+}
+.titleWrapper {
+  @apply max-w-3xl mx-auto px-6 text-left mb-8;
+}
+.title {
+  font-family: serif;
+  @apply text-4xl md:text-5xl font-extrabold tracking-tight text-gray-800;
+}

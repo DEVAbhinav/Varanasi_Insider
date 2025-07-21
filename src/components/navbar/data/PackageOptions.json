@@ -1,0 +1,13 @@
+
+
+[
+  { "path": "/package/Airport", "title": "Airport" },
+  { "path": "/package/Varanasi to Ayodhya Taxi", "title": "Varanasi to Ayodhya Taxi" },
+  { "path": "/package/Varanasi to Ayodhya Bus", "title": "Varanasi to Ayodhya Bus" },
+  { "path": "/package/Varanasi to Ayodhya Train", "title": "Varanasi to Ayodhya Train" },
+  { "path": "/package/Varanasi to Gaya Taxi", "title": "Varanasi to Gaya Taxi" },
+  { "path": "/package/Varanasi to Gaya Bus", "title": "Varanasi to Gaya Bus" },
+  { "path": "/package/Varanasi to Gaya Train", "title": "Varanasi to Gaya Train" },
+  { "path": "/package/Vindhyachal", "title": "Varanasi to Vindhyachal" },
+  { "path": "/package/Prayagraj", "title": "Varanasi to Prayagraj" }
+]
