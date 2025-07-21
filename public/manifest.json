@@ -1,6 +1,6 @@
 {
-  "short_name": "Vinayak Travels",
-  "name": "Outstation Taxi Service - Vinayak Travels",
+  "short_name": "Varanasi Insider",
+  "name": "Varanasi Insider - Your Guide to the Holy City",
   "icons": [
     {
       "src": "favicon.jpeg",
@@ -13,13 +13,13 @@
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logo.jpeg",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#ffa43e",
   "background_color": "#ffffff"
 }
