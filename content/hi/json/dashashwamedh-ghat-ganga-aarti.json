@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://banarasinsider.com/hi/dashashwamedh-ghat-ganga-aarti/#article",
+      "headline": "दशाश्वमेध घाट गंगा आरती गाइड (2025)",
+      "inLanguage": "hi-IN",
+      "author": {
+        "@type": "Person",
+        "name": "Abhinav Pandey"
+      },
+      "datePublished": "2025-07-22",
+      "dateModified": "2025-07-22",
+      "image": "https://banarasinsider.com/images/posts/dashashwamedh-ghat-aarti.jpg",
+      "description": "भगवान राम के अश्वमेध यज्ञ से लेकर विश्व‑प्रसिद्ध गंगा आरती तक—दशाश्वमेध घाट की पूरी जानकारी, समय और पहुँच मार्ग।",
+      "mainEntityOfPage": "https://banarasinsider.com/hi/dashashwamedh-ghat-ganga-aarti/"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://banarasinsider.com/hi/dashashwamedh-ghat-ganga-aarti/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "आरती देखने के लिए टिकट ज़रूरी है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "नहीं, घाट की सीढ़ियों पर बैठकर आप निःशुल्क देख सकते हैं। नाव या कुर्सी के लिए शुल्क देना पड़ता है।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "सबसे अच्छा समय कब पहुँचे?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "भीड़ वाले दिनों में आरती शुरू होने से कम‑से‑कम 45 मिनट पहले पहुँचना बेहतर है।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "क्या फोटोग्राफ़ी की अनुमति है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "हाँ, व्यक्तिगत उपयोग के लिए अनुमति है; कृपया फ़्लैश न चलाएँ। व्यावसायिक शूट के लिए परमिट आवश्यक हो सकता है।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "देव दीपावली पर ट्रैफिक व्यवस्था कैसी रहती है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "दोपहर बाद मुख्य सड़कों पर यातायात बंद हो जाता है, इसलिए पैदल या नाव ही विकल्प होते हैं।"
+          }
+        }
+      ]
+    }
+  ]
+}
