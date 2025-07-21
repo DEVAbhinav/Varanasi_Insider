@@ -6,7 +6,7 @@ lastUpdated: "2025-07-21"
 lastVerified: "2025-07-21"
 author: "Abhinav Pandey"
 lang: en-IN
-canonical: "https://banarasinsider.com/en/varanasi-airport-taxi-guide/"
+canonical: "https://banarasi.kashitaxi.in/en/varanasi-airport-taxi-guide/"
 featuredImage: "/images/posts/varanasi-airport-taxi.jpg"
 description: "Your complete 2025 guide to booking a taxi at Varanasi (VNS) airport. Compare prepaid fares with Uber/Ola, find exact pick‑up zones, and dodge common scams."
 tags:
