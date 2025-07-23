@@ -12,7 +12,7 @@ import Footer from '../../components/Footer/Footer';
 // Import the new JsonLd component
 import JsonLd from '../../components/JsonLd/JsonLd';
 
-export default function Post({ postData, relatedPosts, jsonLdData }) {
+export default function Post({ postData, relatedPosts, jsonLdData, allPosts }) {
   return (
     <>
       {/* The standard Head component for title, meta description, etc. */}
@@ -30,7 +30,7 @@ export default function Post({ postData, relatedPosts, jsonLdData }) {
         <ArticleSection contentHtml={postData.contentHtml} />
       </main>
       <DynamicFooter relatedPosts={relatedPosts} />
-      <Footer />
+      <Footer allPosts={allPosts} />
     </>
   );
 }
@@ -39,12 +39,14 @@ export async function getStaticProps({ params }) {
   const postData = await getPostData(params.lang, params.slug);
   const relatedPosts = []; // Fetch related posts logic here
   const jsonLdData = getJsonLdData(params.lang, params.slug);
-
+  // Add a new prop with links to all posts
+  const allPosts = getAllPostPaths();
   return {
     props: {
       postData,
       relatedPosts,
-      jsonLdData, // Pass the JSON-LD data as a prop
+      jsonLdData,
+      allPosts, // new prop for Footer links
     },
   };
 }

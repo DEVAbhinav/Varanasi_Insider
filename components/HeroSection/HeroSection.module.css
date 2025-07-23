@@ -1,6 +1,10 @@
 .heroContainer {
   @apply relative bg-cover bg-center text-white py-24 px-6;
-  background-image: url('https://placehold.co/1600x800/333/555?text=Ganges+View');
+  background-image: url('/images/varanasi-hero.png');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height: 60vh;
 }
 .overlay {
   @apply absolute inset-0 bg-black bg-opacity-50;

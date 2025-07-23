@@ -11,3 +11,65 @@
   font-family: serif;
   @apply text-4xl md:text-5xl font-extrabold tracking-tight text-gray-800;
 }
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    z-index: 50;
+  }
+  
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1.25rem;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logoImage {
+    margin-right: 0.5rem;
+  }
+  
+  .logoText {
+    font-weight: 700;
+    font-size: 1.25rem;
+  }
+  
+  .nav {
+    display: none;
+  }
+  
+  @media (min-width: 768px) {
+    .nav {
+      display: flex;
+      gap: 1rem;
+    }
+  }
+  
+  .navLink {
+    color: #374151;
+  }
+  
+  .navLink:hover {
+    color: #f97316;
+  }
+  
+  .ctaButton {
+    background-color: #f97316;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+  }
+  
+  .ctaButton:hover {
+    background-color: #ea580c;
+  }

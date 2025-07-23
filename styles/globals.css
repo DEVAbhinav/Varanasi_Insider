@@ -86,73 +86,12 @@ body {
   color: var(--brown) !important;
   font-size: 15px;
 }
-.font-bold {
-  margin: 0;
-  font-family: Avenir-bold !important;
-}
-.font-demi {
-  margin: 0;
-  font-family: Avenir-demi;
-}
-.font-medium {
-  margin: 0;
-  font-family: Avenir-medium;
-}
-.font-regular {
-  margin: 0;
-  font-family: Avenir-regular;
-}
-.font-12{
-  font-size: 12px;
-}
-.font-14{
-  font-size: 14px;
-}
-.font-15{
-  font-size: 15px;
-}
-.font-16{
-  font-size: 16px;
-}
-.font-17{
-  font-size: 17px;
-}
-.font-18{
-  font-size: 18px;
-}
-.font-19{
-  font-size: 19px;
-}
-.font-20{
-  font-size: 20px;
-}
-.font-25{
-  font-size: 25px;
-}
-.text-brown{
-  color: var(--brown);
-}
-.text-orange{
-  color: var(--darkOrange)
-}
+
 a:hover {
   text-decoration: none !important;
 }
-li {
-  list-style: none;
-  margin: 0;
-}
 h1,h2,h3,h4,h5,h6{
   font-family: Avenir-bold;
-}
-.bg-orange{
-  background: var(--darkOrange) !important;
-}
-.bg-brown{
-  background: var(--brown);
-}
-.bg-dark-brown{
-  background: var(--darkBrown);
 }
 
 /* Mutual */
@@ -167,7 +106,7 @@ h2.sub-heading {
   font-size: 30px;
 }
 .modal-body{
-  background: '#FFFAF4' !important;
+  background: #FFFAF4 !important;
 }
 .underlined-heading{
   border-bottom: 3px solid var(--darkOrange);

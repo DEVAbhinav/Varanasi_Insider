@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import styles from './Footer.module.css';
 
-export default function Footer() {
+export default function Footer({ allPosts }) {
   return (
     <footer className={styles.footerWrapper}>
       <div className={styles.footerContainer}>
@@ -16,6 +16,20 @@ export default function Footer() {
           <a href="https://kashitaxi.in" target="_blank" rel="noopener noreferrer" className={styles.footerLink}>Book a Taxi</a>
           <Link href="/en/privacy-policy" className={styles.footerLink}>Privacy Policy</Link>
         </div>
+        {allPosts && allPosts.length > 0 && (
+          <div className={styles.allPostsSection}>
+            <h4 className={styles.linksTitle}>All Posts</h4>
+            <ul className={styles.allPostsList}>
+              {allPosts.map((post, index) => (
+                <li key={index}>
+                  <Link href={`/${post.params.lang}/${post.params.slug}`} className={styles.footerLink}>
+                    {post.params.slug}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </div>
       <div className={styles.copyright}>
         © {new Date().getFullYear()} Banaras Insider. All Rights Reserved.

@@ -1,0 +1,48 @@
+/* Empty CSS module for Hero component */
+
+.hero {
+  position: relative;
+}
+
+.backgroundImage {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.content {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.title {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+  .title {
+    font-size: 3rem;
+    line-height: 1;
+  }
+}
+
+.trustBadges {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
