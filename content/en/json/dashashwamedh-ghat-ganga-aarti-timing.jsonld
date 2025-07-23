@@ -1,0 +1,163 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://banarasinsider.com/en/dashashwamedh-ghat-ganga-aarti-timing/"
+      },
+      "headline": "Ganga Aarti Dashashwamedh Ghat Timing Today (2025) – Best Viewpoints & Boat Booking Tips",
+      "image": "https://banarasinsider.com/images/posts/dashashwamedh-ghat-aarti.jpg",
+      "datePublished": "2025-07-22",
+      "dateModified": "2025-07-22",
+      "author": {
+        "@type": "Person",
+        "name": "kaka Garu"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Banarasi Insider",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://banarasinsider.com/images/logo.jpeg"
+        }
+      },
+      "description": "Complete guide to the Ganga Aarti at Dashashwamedh Ghat, including today's timings, best viewing spots, boat booking prices, Dev Deepawali dates, and travel tips."
+    },
+    {
+      "@type": "Event",
+      "name": "Ganga Aarti at Dashashwamedh Ghat",
+      "description": "A 45-minute fire offering where religious priests ring synchronize bells, with shankh, and large lamps to Sanskrit chants.",
+      "startDate": "2025-01-01T17:45",
+      "endDate": "2025-12-31T18:45",
+      "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "Dashashwamedh Ghat",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Varanasi",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "IN"
+        }
+      },
+      "image": [
+        "https://banarasinsider.com/images/ganga-aarti.jpeg",
+        "https://banarasinsider.com/images/ganga-aarti-solo.jpeg",
+        "https://banarasinsider.com/images/ganga-aarti2.jpeg"
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Viewing from Ghat Steps",
+          "price": "0",
+          "priceCurrency": "INR",
+          "category": "Primary",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Front-row Chair",
+          "price": "200",
+          "priceCurrency": "INR",
+          "lowPrice": "200",
+          "highPrice": "350",
+          "category": "Primary",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Shared Boat",
+          "price": "300",
+          "priceCurrency": "INR",
+          "lowPrice": "300",
+          "highPrice": "500",
+          "category": "Primary",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Private Boat",
+          "price": "1200",
+          "priceCurrency": "INR",
+          "lowPrice": "1200",
+          "highPrice": "1800",
+          "category": "Primary",
+          "availability": "https://schema.org/InStock"
+        }
+      ],
+      "performer": {
+        "@type": "PerformingGroup",
+        "name": "Priests of Dashashwamedh Ghat"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Ganga Seva Nidhi"
+      }
+    },
+    {
+        "@type": "Event",
+        "name": "Dev Deepawali Ganga Aarti",
+        "description": "Special Ganga Aarti for Dev Deepawali where over a million diyas illuminate the ghats.",
+        "startDate": "2025-11-12T17:30",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "Dashashwamedh Ghat",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Varanasi",
+            "addressRegion": "Uttar Pradesh",
+            "addressCountry": "IN"
+          }
+        }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is Ganga Aarti safe for solo female travellers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The ghats are well-lit and police are visible, but follow normal solo-travel precautions: arrive early, keep valuables minimal, and avoid isolated lanes late at night."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What time should I arrive for Dev Deepawali?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Be at the ghats by 2 PM to claim a riverside spot. Main roads close to traffic after 4 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is photography allowed at the Aarti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Personal photography is allowed; disable flash. Professional shoots require prior permission from local authorities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the boat booking prices?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Shared boat: ₹300–₹500 pp • Private boat: ₹1,200–₹1,800 (4–6 seats). Negotiate on-site for best rates."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a ticket to watch the Aarti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Watching from the steps is free. Front-row chairs and boats charge separately."
+          }
+        }
+      ]
+    }
+  ]
+}
