@@ -1,113 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-	<loc>https://www.kashitaxi.in/</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>1</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/blogs/Kashi%20Vishwanath</loc>
-	<lastmod>2024-03-05T19:13:38+00:00</lastmod>
-	<priority>0.7</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/blogs/Ghats</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>0.7</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/blogs/Sarnath</loc>
-	<lastmod>2024-03-05T19:13:38+00:00</lastmod>
-	<priority>0.7</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/blogs/Bhu</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/blogs/DevDipawali</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/blogs/Prayagraj</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/blogs/Durgamandir</loc>
-	<lastmod>2024-03-05T19:13:38+00:00</lastmod>
-	<priority>0.8</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-	<loc>https://www.kashitaxi.in/blogs/Vindhyachal</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/blogs/Gaya</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/blogs/carRental</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/about</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/contact</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/package/airport</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>1</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/package/Prayagraj</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>1</priority>
-</url>
-
-<url>
-	<loc>https://www.kashitaxi.in/package/Varanasi%20to%20Ayodhya%20Taxi</loc>
-	<lastmod>2024-03-05T19:13:38+00:00</lastmod>
-	<priority>1</priority>
-</url>
-
-<url>
-	<loc>https://www.kashitaxi.in/package/Varanasi%20to%20Ayodhya%20Bus</loc>
-	<lastmod>2024-03-05T19:13:38+00:00</lastmod>
-	<priority>1</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/package/Varanasi%20to%20Ayodhya%20Train</loc>
-	<lastmod>2024-03-05T19:13:38+00:00</lastmod>
-	<priority>1</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/package/varanasi%20to%20Gaya%20Taxi</loc>
-	<lastmod>2024-02-16T16:20:02+01:00</lastmod>
-	<priority>1</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/package/Varanasi%20to%20Gaya%20Bus</loc>
-	<lastmod>2024-03-05T19:13:38+00:00</lastmod>
-	<priority>1</priority>
-</url>
-<url>
-	<loc>https://www.kashitaxi.in/package/Varanasi%20to%20Gaya%20Train</loc>
-	<lastmod>2024-03-05T19:13:38+00:00</lastmod>
-	<priority>1</priority>
-</url>
+  <url>
+    <loc>https://www.kashitaxi.in/</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/Kashi%20Vishwanath</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/Ghats</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/Sarnath</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/Bhu</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/DevDipawali</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/Prayagraj</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/Durgamandir</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/Vindhyachal</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/Gaya</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/blogs/carRental</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/about</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/contact</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/package/airport</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/package/Prayagraj</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/package/Varanasi%20to%20Ayodhya%20Taxi</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/package/Varanasi%20to%20Ayodhya%20Bus</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/package/Varanasi%20to%20Ayodhya%20Train</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/package/varanasi%20to%20Gaya%20Taxi</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/package/Varanasi%20to%20Gaya%20Bus</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.kashitaxi.in/package/Varanasi%20to%20Gaya%20Train</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://banarasi.kashitaxi.in/</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://banarasi.kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://banarasi.kashitaxi.in/en/guide-to-ghats-of-varanasi</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://banarasi.kashitaxi.in/en/varanasi-airport-taxi-guide</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://banarasi.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://banarasi.kashitaxi.in/hi/varanasi-ke-ghaton-ke-liye-guide</loc>
+    <lastmod>2025-07-23T17:56:23.275Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
