@@ -1,9 +1,5 @@
 .heroContainer {
-  @apply relative bg-cover bg-center text-white py-24 px-6;
-  background-image: url('/images/varanasi-hero.png');
-  background-size: cover;
-  background-position: center;
-  position: relative;
+  @apply relative text-white py-24 px-6;
   height: 60vh;
 }
 .overlay {

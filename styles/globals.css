@@ -1,5 +1,4 @@
 /* /styles/globals.css */
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -68,18 +67,22 @@ body {
 @font-face {
   font-family: Avenir-bold;
   src: url(/fonts/AvenirNextLTPro-Bold.otf);
+  font-display: swap;
 }
 @font-face {
   font-family: Avenir-demi;
   src: url(/fonts/AvenirNextLTPro-Demi.otf);
+  font-display: swap;
 }
 @font-face {
   font-family: Avenir-medium;
   src: url(/fonts/AvenirNextLTPro-Medium.otf);
+  font-display: swap;
 }
 @font-face {
   font-family: Avenir-regular;
   src: url(/fonts/AvenirNextLTPro-Regular.otf);
+  font-display: swap;
 }
 ::placeholder{
   font-family: Avenir-regular;

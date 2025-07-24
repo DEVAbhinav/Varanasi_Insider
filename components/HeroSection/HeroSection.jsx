@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import Image from 'next/image';
 import styles from './HeroSection.module.css';
 
 export default function HeroSection() {
@@ -19,6 +20,13 @@ export default function HeroSection() {
 
   return (
     <div className={styles.heroContainer}>
+      <Image
+        alt="Varanasi's ganga aarti in evening"
+        src="/images/varanasi-hero.png"
+        layout="fill"
+        objectFit="cover"
+        priority
+      />
       <div className={styles.overlay}></div>
       <div className={styles.content}>
         <h1 className={styles.title}>Varanasi's Most Trusted Taxi Service</h1>

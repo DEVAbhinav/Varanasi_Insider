@@ -1,4 +1,5 @@
 // /pages/_app.js
+import Script from 'next/script';
 
 // 1. Import your global stylesheet
 import '../styles/globals.css';
@@ -8,7 +9,16 @@ import '../styles/globals.css';
 // import '../components/SomeComponent/SomeComponent.module.css';
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />;
+  return (
+    <>
+      <Script
+        id="google-fonts"
+        src="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+        strategy="lazyOnload"
+      />
+      <Component {...pageProps} />
+    </>
+  );
 }
 
 export default MyApp;
