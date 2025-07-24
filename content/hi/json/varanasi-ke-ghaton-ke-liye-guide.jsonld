@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "वाराणसी के घाटों के लिए गाइड",
+  "author": {
+    "@type": "Person",
+    "name": "Sudhir पांडेय"
+  },
+  "datePublished": "2025-07-24",
+  "dateModified": "2025-07-24",
+  "description": "वाराणसी के प्रसिद्ध घाटों की मेरी पर्सनल गाइड। दशाश्वमेध घाट से लेकर अस्सी घाट तक, यहाँ हर घाट का अनुभव विस्तार से जानें।",
+  "inLanguage": "hi",
+  "image": [
+    "https://banarasi.kashitaxi.in/images/varanasi.jpg",
+    "https://banarasi.kashitaxi.in/images/ganga-aarti.jpeg"
+   ],
+  "url": "https://banarasi.kashitaxi.in/hi/varanasi-ke-ghaton-ke-liye-guide",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Banaras Insider",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://banarasi.kashitaxi.in/images/logo.jpeg"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://banarasi.kashitaxi.in/hi/varanasi-ke-ghaton-ke-liye-guide"
+  }
+}
