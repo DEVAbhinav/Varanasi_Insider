@@ -11,6 +11,7 @@ export default function Header({ title, featuredImage }) {
           src={featuredImage}
           alt={title}
           className={styles.heroImage}
+          fetchpriority="high"
         />
       )}
     </div>

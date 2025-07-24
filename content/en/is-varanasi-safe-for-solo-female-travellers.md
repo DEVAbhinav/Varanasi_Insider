@@ -15,6 +15,7 @@ metaDescription: "First‑hand safety tips, best hostels, dress code & scam aler
 I’ve clocked **80 km on foot during eight solo trips across Kashi’s ghats and gullies**, so the burning question *“is Varanasi safe for solo female travellers?”* lands in my inbox daily. **Short verdict:** *yes—if you pair street‑smart habits with a scarf‑in‑your‑bag mindset.* Varanasi’s violent‑crime rate against women hovers around **4 incidents per 100 000 women—lower than the national metro average of 6.3** in 2024, yet petty scams and sensory overload peak near Dashashwamedh after dark. This guide blends real‑life anecdotes, data, and micro‑checklists so you can explore with confidence.
 
 ---
+![Ganga aarti solo](/images/ganga-aarti-solo.jpeg "One person doing ganga aarti")
 
 ## Quick Safety Snapshot
 
@@ -51,6 +52,7 @@ I’ve clocked **80 km on foot during eight solo trips across Kashi’s ghats 
 * Pop in noise‑cancelling buds, practise the 4‑7‑8 breath for 60 s.
 
 ---
+![Sadhu with foreigner girl](/images/sadhu-foreigner-girl.jpeg "Sadgy with foreigner girl")
 
 ## Solo Female Travel Tips Varanasi
 
@@ -75,7 +77,7 @@ I’ve clocked **80 km on foot during eight solo trips across Kashi’s ghats 
 * **112** – police  
 * **1091** – Women Power‑line  
 * **1090** – Crime‑Stopper  
-* Trusted cab: **+91 95 053 053 53**
+* Trusted cab: **+91 9450301573**
 
 ---
 
