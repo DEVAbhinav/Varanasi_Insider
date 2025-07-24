@@ -15,7 +15,7 @@
   @apply w-full h-64 object-cover;
 }
 .cardContent {
-  @apply p-6;
+  @apply p-6 opacity-70;
 }
 .cardTitle {
   @apply text-xl font-bold text-gray-800;

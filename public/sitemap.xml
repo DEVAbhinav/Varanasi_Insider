@@ -169,4 +169,10 @@
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://banarasi.kashitaxi.in/pink-taxi-varanasi</loc>
+    <lastmod>2025-07-24T12:00:00.000Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>

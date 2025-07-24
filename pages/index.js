@@ -6,6 +6,7 @@ import PopularPackages from '../components/PopularPackages/PopularPackages';
 import CTASection from '../components/CTASection/CTASection';
 import Footer from '../components/Footer/Footer';
 import Head from 'next/head';
+import PinkTaxiSection from '../components/PinkTaxiSection/PinkTaxiSection';
 
 export default function HomePage() {
   return (
@@ -17,6 +18,7 @@ export default function HomePage() {
       <NavBar />
       <main>
         <HeroSection />
+        <PinkTaxiSection />
         <WhyUs />
         <PopularPackages />
         <CTASection />

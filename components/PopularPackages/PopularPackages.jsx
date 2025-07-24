@@ -5,19 +5,19 @@ const packages = [
 	{
 		slug: 'varanasi-local-darshan',
 		title: 'Varanasi Local Darshan',
-		image: 'https://placehold.co/600x400/FBBF24/333?text=Kashi+Temple',
+		image: '/images/kashi-temple-400x600.jpeg',
 		price: '₹1500',
 	},
 	{
 		slug: 'airport-pickup-drop',
 		title: 'Airport Pickup & Drop',
-		image: 'https://placehold.co/600x400/F87171/333?text=Airport+Taxi',
+		image: '/images/airport-taxi-600x400.jpeg',
 		price: '₹950',
 	},
 	{
 		slug: 'prayagraj-day-tour',
 		title: 'Prayagraj Day Tour',
-		image: 'https://placehold.co/600x400/60A5FA/333?text=Sangam',
+		image: '/images/sangam-600x400.jpeg',
 		price: '₹3500',
 	},
 ];
