@@ -7,8 +7,9 @@ import CTASection from '../components/CTASection/CTASection';
 import Footer from '../components/Footer/Footer';
 import Head from 'next/head';
 import PinkTaxiSection from '../components/PinkTaxiSection/PinkTaxiSection';
+import { getSortedPostsData } from '../lib/posts';
 
-export default function HomePage() {
+export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
@@ -23,7 +24,22 @@ export default function HomePage() {
         <PopularPackages />
         <CTASection />
       </main>
-      <Footer />
+      <Footer allPosts={allPosts} />
     </>
   );
+}
+
+export async function getStaticProps() {
+  const enPosts = getSortedPostsData('en').map(post => ({
+    params: { lang: 'en', slug: post.slug, title: post.title || post.slug }
+  }));
+  const hiPosts = getSortedPostsData('hi').map(post => ({
+    params: { lang: 'hi', slug: post.slug, title: post.title || post.slug }
+  }));
+  const allPosts = [...enPosts, ...hiPosts];
+  return {
+    props: {
+      allPosts,
+    },
+  };
 }

@@ -11,6 +11,8 @@ export default function Footer({ allPosts }) {
         </div>
         <div className={styles.linksSection}>
           <h4 className={styles.linksTitle}>Quick Links</h4>
+          <Link href="/" className={styles.footerLink}>Home</Link>
+          <Link href="/pink-taxi-varanasi" className={styles.footerLink}>Pink Taxi</Link>
           <Link href="/en/about" className={styles.footerLink}>About Us</Link>
           <Link href="/en/contact" className={styles.footerLink}>Contact</Link>
           <a href="https://kashitaxi.in" target="_blank" rel="noopener noreferrer" className={styles.footerLink}>Book a Taxi</a>
