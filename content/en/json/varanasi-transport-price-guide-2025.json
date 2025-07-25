@@ -1,0 +1,198 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://banarasi.kashitaxi.in/varanasi-transport-price-guide-2025#blog",
+      "url": "https://banarasi.kashitaxi.in/varanasi-transport-price-guide-2025",
+      "headline": "2025 Varanasi Transport Price Guide – Airport Taxis, Pink Cabs, Outstation Fares & Boat Rides",
+      "description": "Your one‑stop guide to Varanasi airport taxi price, women‑only pink taxis, Lucknow → Varanasi fares, Ganga Aarti boat booking price, one‑day tour cab charges, Assi Ghat ↔ airport distance, and Varanasi → Bodhgaya taxi cost.",
+      "image": "https://banarasi.kashitaxi.in/images/posts/varanasi-transport-price-guide.jpg",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-07-24",
+      "dateModified": "2025-07-24",
+      "author": {
+        "@type": "Person",
+        "name": "Abhinav Pandey"
+      },
+      "publisher": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "mainEntityOfPage": "https://banarasi.kashitaxi.in/varanasi-transport-price-guide-2025",
+      "keywords": [
+        "varanasi airport taxi price",
+        "ganga aarti boat booking price",
+        "varanasi pink taxi for women",
+        "lucknow to varanasi taxi fare",
+        "varanasi day tour cab charges",
+        "assi ghat to airport distance",
+        "varanasi to bodhgaya taxi cost"
+      ],
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://banarasi.kashitaxi.in/#org",
+      "name": "Kashi Taxi – Banarasi",
+      "url": "https://banarasi.kashitaxi.in",
+      "telephone": "+91-94503-01573",
+      "logo": "https://banarasi.kashitaxi.in/images/logo.svg",
+      "sameAs": ["https://www.instagram.com/kashitaxi"]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://banarasi.kashitaxi.in/varanasi-transport-price-guide-2025#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Varanasi airport taxi price in 2025?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "App‑based taxis cost ₹620–₹1,300 depending on the car; pre‑paid counter sedans start at ₹850."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a women‑only pink taxi service in Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The Pink Taxi fleet launches in December 2025 with verified women drivers and fares from ₹14 per km (day)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is a Lucknow to Varanasi taxi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sedan fares range ₹4,200–₹5,300 one‑way; SUVs up to ₹7,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does a private boat for Ganga Aarti cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Private motor boats start at ₹3,999 for up to six passengers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are Varanasi day‑tour cab charges?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Packages run ₹1,800–₹4,250 for 12 hours, depending on vehicle size."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Assi Ghat from the airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "28 km; an app taxi costs about ₹650 and takes 50–60 minutes in normal traffic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the taxi cost from Varanasi to Bodhgaya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "One‑way fares: ₹3,958 (hatchback) to ₹9,853 (tempo traveller)."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "TaxiService",
+      "@id": "https://banarasi.kashitaxi.in/#airportCab",
+      "name": "Varanasi Airport Taxi",
+      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "areaServed": { "@type": "City", "name": "Varanasi" },
+      "serviceType": "Airport Transfer",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Airport Taxi Price List 2025",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Sedan – Pre‑paid Counter",
+            "price": "850",
+            "priceCurrency": "INR",
+            "priceSpecification": { "@type": "UnitPriceSpecification", "unitCode": "KM", "price": "—" }
+          },
+          {
+            "@type": "Offer",
+            "name": "Sedan – App Taxi",
+            "price": "620",
+            "priceCurrency": "INR"
+          },
+          {
+            "@type": "Offer",
+            "name": "SUV – Pre‑paid Counter",
+            "price": "1100",
+            "priceCurrency": "INR"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "TaxiService",
+      "@id": "https://banarasi.kashitaxi.in/#pinkCab",
+      "name": "Pink Taxi for Women",
+      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "serviceType": "Women‑only Taxi",
+      "areaServed": { "@type": "City", "name": "Varanasi" },
+      "offers": {
+        "@type": "Offer",
+        "priceSpecification": {
+          "@type": "CompoundPriceSpecification",
+          "priceComponent": [
+            { "@type": "UnitPriceSpecification", "price": "14", "priceCurrency": "INR", "unitCode": "KM", "name": "Day rate" },
+            { "@type": "UnitPriceSpecification", "price": "16", "priceCurrency": "INR", "unitCode": "KM", "name": "Night rate" }
+          ]
+        },
+        "availabilityStarts": "2025-12-15"
+      }
+    },
+    {
+      "@type": "TaxiService",
+      "@id": "https://banarasi.kashitaxi.in/#lucknowVaranasi",
+      "name": "Lucknow to Varanasi Intercity Taxi",
+      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "serviceType": "Outstation Taxi",
+      "areaServed": [
+        { "@type": "City", "name": "Lucknow" },
+        { "@type": "City", "name": "Varanasi" }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "price": "4211",
+        "description": "Sedan one‑way fare via Purvanchal Expressway (toll extra)"
+      }
+    },
+    {
+      "@type": "BoatTrip",
+      "@id": "https://banarasi.kashitaxi.in/#gangaBoat",
+      "name": "Ganga Aarti Private Motor Boat (1–6 pax)",
+      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "departureBoatTerminal": "Dashashwamedh Ghat",
+      "offers": {
+        "@type": "Offer",
+        "price": "3999",
+        "priceCurrency": "INR",
+        "validThrough": "2025-11-30"
+      }
+    },
+    {
+      "@type": "TouristTrip",
+      "@id": "https://banarasi.kashitaxi.in/#dayTour",
+      "name": "Varanasi Full‑Day City Tour (12 h / 120 km)",
+      "touristType": "Individual, Family",
+      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "offers": {
+        "@type": "Offer",
+        "price": "2000",
+        "priceCurrency": "INR",
+        "description": "Sedan package covering Kashi Vishwanath, Sarnath, Ramnagar Fort & Ganga Aarti drop‑off"
+      }
+    }
+  ]
+}
