@@ -1,6 +1,6 @@
 ---
 title: "Jageshwar Mahadev Varanasi – Mythic Shivling That Grows Every Year"
-slug: "jageshwar-mahadev-varanasi-guide"
+slug: "jageshwar-mahadev-varanasi"
 date: "2025-07-25"
 lastUpdated: "2025-07-25"
 author: "Abhinav Pandey"
