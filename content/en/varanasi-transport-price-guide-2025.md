@@ -15,11 +15,14 @@ tags: ["varanasi airport taxi price","ganga aarti boat booking price","varanasi 
 
 ## Why This Guide Matters
 
-Varanasi, the spiritual heart of India, welcomes you with an experience unlike any other. Whether you’re touching down at Lal Bahadur Shastri International Airport, planning a day tour, or mapping an overland hop to Bodhgaya, **knowing the real‑world fares saves you from haggling, hidden surcharges, and last‑minute stress.** All numbers below were verified in **July 2025**.
+Varanasi’s airport is about 25–32 km from the city’s ghats and temples. The drive usually takes 40–45 minutes depending on traffic
+. Pre‑booking a taxi ensures a safe ride and a fixed fare. Small sedans like the Swift Dzire or Indica typically charge ₹750–₹950 for a one‑way transfer
+. Larger vehicles such as Ertiga or Innova cost more because they seat 6–7 passengers and carry extra luggage
+. For travellers arriving late at night or planning a full‑day tour, packages with 8 hours/80 km or 12 hours/200 km are available
 
 ---
 
-## 1 · Varanasi Airport Taxi Price (2025 Update)
+## [1 · Varanasi Airport Taxi Price (2025 Update)](/en/varanasi-airport-taxi-price-guide)
 
 | Vehicle | Pre‑paid Stand | Uber/Ola (off‑peak) | Notes |
 |---------|---------------|---------------------|-------|
@@ -33,12 +36,12 @@ Varanasi, the spiritual heart of India, welcomes you with an experience unlike a
 
 ---
 
-## 2 · Varanasi Pink Taxi for Women – Safety‑First Rides
+## [2 · Varanasi Pink Taxi for Women – Safety‑First Rides](/pink-taxi-varanasi)
 
 *Launching December 2025 (pilot slots already live on our portal).*
 
-| Time Band | Base 4 km | After 4 km | Night Surcharge |
-|-----------|-----------|-----------|-----------------|
+| Time Band   | Base 4 km | After 4 km | Night Surcharge |
+| ----------- | ----------- | ----------- | --------------- |
 | 06:00‑22:00 | ₹200 | ₹14/km | – |
 | 22:00‑06:00 | – | ₹16/km | +₹100 |
 
@@ -46,7 +49,7 @@ Reserve a verified woman driver through the upcoming Safe City app **or** pre�
 
 ---
 
-## 3 · Outstation: Lucknow → Varanasi Taxi Fare
+## [3 · Outstation: Lucknow → Varanasi Taxi Fare](/en/lucknow-to-varanasi-taxi-fare)
 
 | Provider | Car | One‑Way Fare | Time | Distance |
 |----------|-----|--------------|------|----------|
@@ -60,7 +63,7 @@ Reserve a verified woman driver through the upcoming Safe City app **or** pre�
 
 ---
 
-## 4 · Ganga Aarti Boat Booking Price (Dashashwamedh Ghat)
+## [4 · Ganga Aarti Boat Booking Price (Dashashwamedh Ghat)](/en/ganga-aarti-boat-booking-price)
 
 | Boat | Capacity | Inclusions | Rate (till Nov 2025) |
 |------|----------|------------|----------------------|
@@ -73,7 +76,7 @@ Secure your slot: **[Banarasi.KashiTaxi.in/boat](https://banarasi.kashitaxi.in/b
 
 ---
 
-## 5 · Varanasi Day Tour Cab Charges (12 h / 120 km)
+## [5 · Varanasi Day Tour Cab Charges (12 h / 120 km)](/en/varanasi-day-tour-cab-charges)
 
 | Vehicle | Package | Extra km | Night Fee (>22:00) |
 |---------|---------|----------|--------------------|
@@ -87,7 +90,7 @@ GST 5 % & parking extra.
 
 ---
 
-## 6 · Assi Ghat ↔ Airport
+## [6 · Assi Ghat ↔ Airport Distance & Fare](/en/assi-ghat-to-airport-distance)
 
 * **Distance:** 28 km  
 * **Time:** 50‑60 min normal, up to 90 min peak  
@@ -100,7 +103,7 @@ Lock a fixed **₹749** sedan on **Banarasi.KashiTaxi.in** (promo code **ASSI23*
 
 ---
 
-## 7 · Varanasi → Bodhgaya Taxi Cost
+## [7 · Varanasi → Bodhgaya Taxi Cost](/en/varanasi-to-bodhgaya-taxi-cost)
 
 | Car | One‑Way (Gozo) | Round‑Trip | Distance | Duration |
 |-----|---------------|------------|----------|----------|
@@ -141,6 +144,10 @@ Safe travels—and if you need wheels at any hour, remember **Banarasi.KashiTaxi
 
 ### Internal Links
 
-* **Airport Taxi** → [Airport‑to‑City Transfer Guide](/en/varanasi-airport-taxi-guide)
-* **Ganga Aarti Boat** → [Dashashwamedh Ghat Aarti Timing post](/en/dashashwamedh-ghat-ganga-aarti-timing)
-* **Pink Taxi** → [Pink Taxi landing page](/pink-taxi-varanasi)
+*   **Airport Taxi** → [Airport‑to‑City Transfer Guide](/en/varanasi-airport-taxi-price-guide)
+*   **Ganga Aarti Boat** → [Ganga Aarti Boat Booking Price Guide](/en/ganga-aarti-boat-booking-price)
+*   **Pink Taxi** → [Pink Taxi landing page](https://banarasi.kashitaxi.in/pink-taxi-varanasi)
+*   **Lucknow → Varanasi Taxi** → [Lucknow to Varanasi Taxi Fare Guide](/en/lucknow-to-varanasi-taxi-fare)
+*   **Varanasi Day Tour** → [Varanasi Day Tour Cab Charges Guide](/en/varanasi-day-tour-cab-charges)
+*   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-distance)
+*   **Varanasi → Bodhgaya** → [Varanasi to Bodhgaya Taxi Cost Guide](/en/varanasi-to-bodhgaya-taxi-cost)

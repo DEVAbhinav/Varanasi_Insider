@@ -9,8 +9,6 @@ import Header from '../../components/Header/Header';
 import ArticleSection from '../../components/ArticleSection/ArticleSection';
 import DynamicFooter from '../../components/DynamicFooter/DynamicFooter';
 import Footer from '../../components/Footer/Footer';
-// Import the new JsonLd component
-import JsonLd from '../../components/JsonLd/JsonLd';
 
 export default function Post({ postData, relatedPosts, jsonLdData, allPosts }) {
   return (
@@ -19,10 +17,14 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts }) {
       <Head>
         <title>{postData.title}</title>
         <meta name="description" content={postData.description} />
+        {/* Add your JSON-LD data here */}
+        {jsonLdData && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdData) }}
+          />
+        )}
       </Head>
-
-      {/* Add your JSON-LD data here */}
-      <JsonLd data={jsonLdData} />
 
       <NavBar />
       <main>

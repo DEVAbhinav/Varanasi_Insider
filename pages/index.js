@@ -8,6 +8,7 @@ import Footer from '../components/Footer/Footer';
 import Head from 'next/head';
 import PinkTaxiSection from '../components/PinkTaxiSection/PinkTaxiSection';
 import { getSortedPostsData } from '../lib/posts';
+import BikeRentalFlash from '../components/BikeRentalFlash/BikeRentalFlash';
 
 export default function HomePage({ allPosts }) {
   return (
@@ -18,8 +19,9 @@ export default function HomePage({ allPosts }) {
       </Head>
       <NavBar />
       <main>
-        <HeroSection />
         <PinkTaxiSection />
+        <HeroSection />
+        <BikeRentalFlash />
         <WhyUs />
         <PopularPackages />
         <CTASection />

@@ -3,13 +3,14 @@ import Link from 'next/link';
 
 export default function PinkTaxiSection() {
   return (
-    <section className="bg-pink-50 py-16 px-4 text-center">
-      <div className="max-w-4xl mx-auto">
-        <h2 className="text-4xl font-bold text-pink-600">Introducing Our Pink Taxi Service</h2>
-        <p className="mt-4 text-lg text-gray-700">Safe and reliable rides for women, by women.</p>
-        <Link href="/pink-taxi-varanasi" className="mt-8 inline-block bg-pink-500 text-white font-bold py-3 px-8 rounded-full hover:bg-pink-600 transition-colors">
-            Learn More about Pink Taxi
-        </Link>
+    <section className="bg-pink-50 py-3 px-4 text-center">
+      <div className="max-w-7xl mx-auto flex justify-center items-center">
+        <p className="text-md text-gray-700">
+          For women, by women: Our <strong className="text-pink-600">Pink Taxi Service</strong> offers safe and reliable rides. 
+          <Link href="/pink-taxi-varanasi" className="ml-2 font-bold text-pink-600 hover:underline">
+            Learn More &rarr;
+          </Link>
+        </p>
       </div>
     </section>
   );
