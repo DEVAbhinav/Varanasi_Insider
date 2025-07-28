@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://banarasi.kashitaxi.in/en/guide-to-10-most-important-ghats-of-varanasi"
+  },
+  "headline": "A Complete Guide to the 10 Most Important Ghats of Varanasi",
+  "description": "Explore the 10 most important ghats of Varanasi, from Assi to Adi Keshava. Our guide covers their history, significance, and tips for visiting.",
+  "image": "https://banarasi.kashitaxi.in/images/ghats-of-varanasi-panorama.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Abhinav Pandey"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Banarasi Kashitaxi",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://banarasi.kashitaxi.in/images/logo.png"
+    }
+  },
+  "datePublished": "2025-07-28",
+  "dateModified": "2025-07-28",
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Which is the main ghat in Varanasi?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dashashwamedh Ghat is considered the main and most spectacular ghat in Varanasi. It is famous for its vibrant evening Ganga Aarti, a must-see ritual that attracts thousands of visitors daily."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I take photos at the cremation ghats?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "While it is possible to take photos from a distance (e.g., from a boat), it is highly discouraged to take close-up photographs at the cremation ghats like Manikarnika and Harishchandra. These are sacred spaces for mourning, and it's crucial to show respect for the families and their privacy."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does a boat ride on the Ganges cost?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The cost of a boat ride can vary depending on the duration, type of boat (rowing vs. motor), and your negotiation skills. A one-hour morning or evening ride typically costs between ₹300 to ₹800 per boat. It's best to fix the price before starting the ride."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are the ghats safe for solo female travellers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The main ghats are generally safe during the day and early evening due to high foot traffic. However, it is advisable to avoid isolated ghats or narrow lanes after dark. Dressing modestly and being aware of your surroundings is recommended for a safe experience."
+        }
+      }
+    ]
+  }
+}

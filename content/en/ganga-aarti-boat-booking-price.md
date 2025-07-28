@@ -88,3 +88,5 @@ You should aim to be at the ghat and on your boat at least 30-45 minutes before 
 ---
 
 For any inquiries or to book your Ganga Aarti boat experience, contact our trusted local partner at **9450301573**.
+
+For a broader overview of the best spots along the river, check out our [Complete Guide to the 10 Most Important Ghats of Varanasi](/en/guide-to-10-most-important-ghats-of-varanasi).

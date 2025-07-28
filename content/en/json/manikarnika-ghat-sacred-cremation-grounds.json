@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://banarasi.kashitaxi.in/en/manikarnika-ghat-sacred-cremation-grounds"
+  },
+  "headline": "Manikarnika Ghat: Understanding the Sacred Cremation Grounds",
+  "description": "A guide to Manikarnika Ghat, Varanasi's most sacred cremation ground. Learn about its history, significance, and what to expect when visiting.",
+  "image": "https://banarasi.kashitaxi.in/images/manikarnika-ghat.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Abhinav Pandey"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Banarasi Kashitaxi",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://banarasi.kashitaxi.in/images/logo.png"
+    }
+  },
+  "datePublished": "2025-07-28",
+  "dateModified": "2025-07-28",
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why is Manikarnika Ghat so famous?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Manikarnika Ghat is famous because it is the principal cremation ghat in Varanasi. It is believed that anyone cremated here attains moksha (liberation from the cycle of rebirth), making it one of the most sacred places for Hindus to perform last rites."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can tourists visit Manikarnika Ghat?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, tourists can visit Manikarnika Ghat, but it is essential to do so with utmost respect and sensitivity. It is a place of mourning, not a tourist attraction. Photography is strictly prohibited."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the story behind Manikarnika Ghat's name?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "One popular legend states that the ghat is named after the 'manikarna' (earring) of Goddess Sati, which fell at this spot when Lord Shiva was carrying her body. Another legend says Lord Vishnu dug a pond (kund) here, and while he was meditating, Lord Shiva's earring fell into it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is there a fee to enter Manikarnika Ghat?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, there is no official fee to enter or observe the rituals at Manikarnika Ghat. Be cautious of anyone demanding money for access or for taking photos, as these are often scams."
+        }
+      }
+    ]
+  }
+}

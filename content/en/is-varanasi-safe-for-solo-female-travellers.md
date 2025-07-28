@@ -140,3 +140,5 @@ GoStops & Zostel both offer 4‑ to 6‑bed female dorms; book 2–3 weeks ahea
 
 **How to avoid scams in Varanasi?**  
 Decline “free” guiding offers, fix boat prices before boarding, and pay temple donations at official counters only.
+
+To get a better sense of the area, don't miss our [Complete Guide to the 10 Most Important Ghats of Varanasi](/en/guide-to-10-most-important-ghats-of-varanasi), which provides a comprehensive overview of the city's key riverfront locations.

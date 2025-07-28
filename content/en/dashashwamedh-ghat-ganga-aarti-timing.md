@@ -106,14 +106,13 @@ Total duration **≈ 45 minutes**, ending with a resounding *Har Har Mah
 * Ignore touts pushing “VIP seats” for ₹1,000+. Check with uniformed volunteers.  
 * Police helpdesk on‑site; helpline **+91‑94544 01119**.  
 * Carry essentials only; pick‑pocketing is rare but possible in dense crowds.
-* For more detailed advice, read our complete [Varanasi Solo Female Travel Safety Guide](/en/is-varanasi-safe-for-solo-female-travellers).
 
 ---
 
 ## 9. Frequently Asked Questions (FAQ)
 
 ### 9.1 Is Ganga Aarti safe for solo female travellers?
-Yes. The ghats are well‑lit and police are visible, but follow normal solo‑travel precautions: arrive early, keep valuables minimal, and avoid isolated lanes late at night. For a detailed breakdown, see our dedicated [guide to solo female safety in Varanasi](/en/is-varanasi-safe-for-solo-female-travellers).
+Yes. The ghats are well‑lit and police are visible, but follow normal solo‑travel precautions: arrive early, keep valuables minimal, and avoid isolated lanes late at night.
 
 ### 9.2 What time should I arrive for Dev Deepawali?
 Be at the ghats by **2 PM** to claim a riverside spot. Main roads close to traffic after 4 PM.
@@ -132,3 +131,5 @@ Watching from the steps is free. Front‑row chairs and boats charge separately.
 ### Need more help?
 
 First trip to Kashi? Dive into our [3‑day Varanasi itinerary](/en/varanasi-itinerary-3-days/) or book a reliable taxi to explore **Sarnath** and beyond.
+
+While you're here, explore our [Complete Guide to the 10 Most Important Ghats of Varanasi](/en/guide-to-10-most-important-ghats-of-varanasi) to discover other key spiritual sites along the river.
