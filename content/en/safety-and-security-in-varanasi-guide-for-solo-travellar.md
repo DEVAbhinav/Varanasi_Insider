@@ -1,6 +1,6 @@
 ---
 title: "Safety & Security in Varanasi: A First‑Person Guide"
-slug: "safety-security-varanasi"
+slug: "safety-and-security-in-varanasi-guide-for-solo-travellar"
 date: "2025-07-30"
 author: "Abhinav Pandey"
 ---

@@ -16,7 +16,7 @@ export default function Footer({ allPosts }) {
           <Link href="/en/about" className={styles.footerLink}>About Us</Link>
           <Link href="/en/contact" className={styles.footerLink}>Contact</Link>
           <a href="https://kashitaxi.in" target="_blank" rel="noopener noreferrer" className={styles.footerLink}>Book a Taxi</a>
-          <Link href="/en/privacy-policy" className={styles.footerLink}>Privacy Policy</Link>
+          <Link href="#" className={styles.footerLink}>Privacy Policy</Link>
         </div>
         {allPosts && allPosts.length > 0 && (
           <div className={styles.allPostsSection}>

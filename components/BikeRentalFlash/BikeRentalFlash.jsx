@@ -7,7 +7,7 @@ export default function BikeRentalFlash() {
       <div className={styles.container}>
         <p className={styles.description}>
           Explore the city on your own terms! We now offer <strong className={styles.strong}>Bike & Scooty Rentals</strong>.
-          <Link href="/bike-rentals" className={styles.ctaLink}>
+          <Link href="/bike-rentals-varanasi" className={styles.ctaLink}>
             Book Now &rarr;
           </Link>
         </p>

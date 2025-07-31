@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Taxtaxi | Best Outstation Taxi & Varanasi Travel Guides - 2025</title>
+        <title>Kashi Taxi | Best Outstation Taxi & Varanasi Travel Guides - 2025</title>
         <meta
           name="description"
           content="Book reliable outstation taxis and explore detailed Varanasi travel guides for 2025. Trusted by thousands of travelers."
