@@ -10,7 +10,7 @@ author: "Abhinav Pandey"
 ## TL;DR Safety Cheat Sheet for First-Time Visitors to Varanasi
 Varanasi is not a city you simply see; it's a city you feel, and it can be an intense, overwhelming experience. As someone who has spent years navigating its ancient alleys, I've distilled the most critical information you'll need to start your journey with confidence. Think of this as your essential briefing before you step into one of the world's oldest and most spiritually charged places.
 
-![Sunrise along the ghats of Varanasi](/images/varanasi-ghats-overview.jpg "Panoramic view of the ghats at dawn")
+![Sunrise along the ghats of Varanasi](/images/varanasi-hero.png "Panoramic view of the ghats at dawn")
 
 ### 60-Second Safety Overview
 **Why Go:** Forget the curated monuments of Delhi or the polished palaces of Jaipur. Varanasi's main attraction is life itself—a raw, unfiltered, 3,000-year-old tradition of devotion, life, and death unfolding in real-time on the banks of the sacred Ganges River. You don't just visit Varanasi's history; you walk directly into it. It is a profound, and at times challenging, immersion into the spiritual heart of India.   
