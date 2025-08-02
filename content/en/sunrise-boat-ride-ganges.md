@@ -73,3 +73,5 @@ To understand the significance of the locations you'll see, explore our [Complet
 **Can I book a private boat?** Yes, you can book a private boat for a more personal experience. The cost for a private boat typically ranges from ₹500 to ₹1000, while shared boats are cheaper at around ₹100-₹200 per person.
 
 **Which ghat is best to start the boat ride from?** Most sunrise boat rides start from either Assi Ghat or Dashashwamedh Ghat. Both are easily accessible and have many boatmen available in the early morning.
+
+If you want to see how this beautiful month compares to the rest of the year, see our complete guide on the [best time to visit Varanasi](/en/best-time-to-visit-varanasi).
