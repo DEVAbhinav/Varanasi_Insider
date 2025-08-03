@@ -1,5 +1,6 @@
 // /pages/_app.js
 import Script from 'next/script';
+import Head from 'next/head';
 
 // 1. Import your global stylesheet
 import '../styles/globals.css';
@@ -11,6 +12,9 @@ import '../styles/globals.css';
 function MyApp({ Component, pageProps }) {
   return (
     <>
+      <Head>
+        <link rel="icon" href="/favicon.jpeg" />
+      </Head>
       <Script
         id="google-fonts"
         src="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
