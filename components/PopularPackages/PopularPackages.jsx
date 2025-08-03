@@ -46,7 +46,7 @@ export default function PopularPackages() {
 							className={styles.cardImage}
 							width={pkg.width}
 							height={pkg.height}
-							sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+							sizes="(max-width: 768px) 100vw, 33vw"
 						/>
 						<div className={styles.cardContent}>
 							<h3 className={styles.cardTitle}>{pkg.title}</h3>

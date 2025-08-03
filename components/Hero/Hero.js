@@ -14,6 +14,7 @@ export default function Hero() {
           style={{ objectFit: 'cover' }}
           quality={80}
           priority
+          sizes="100vw"
         />
         {/* Overlay */}
         <div className={styles.overlay} />
