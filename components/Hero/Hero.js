@@ -10,8 +10,8 @@ export default function Hero() {
         <Image
           src="/images/varanasi-hero.png"
           alt="Varanasi Ghats"
-          layout="fill"
-          objectFit="cover"
+          fill
+          style={{ objectFit: 'cover' }}
           quality={80}
           priority
         />

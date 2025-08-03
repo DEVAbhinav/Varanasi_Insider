@@ -1,13 +1,19 @@
 // components/Pink/PinkHero.jsx
 import Link from 'next/link';
 import { ShieldCheckIcon, PhoneIcon } from '@heroicons/react/solid';
+import Image from 'next/image';
 
 export default function PinkHero() {
   return (
     <div className="relative bg-pink-50 text-center py-20 px-4 overflow-hidden">
       <div className="absolute inset-0">
         {/* Replace with an actual image of a woman driver at a ghat */}
-        <img src="/images/lady-taxi.jpeg" alt="Female taxi driver in Varanasi" className="w-full h-full object-cover opacity-20" />
+        <Image
+          src="/images/lady-taxi.jpeg"
+          alt="Female taxi driver in Varanasi"
+          fill
+          style={{ objectFit: 'cover', opacity: 0.2 }}
+        />
       </div>
       <div className="relative z-10">
         <h1 className="text-5xl font-bold text-pink-600">Women-Only Cabs in Varanasi</h1>

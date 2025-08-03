@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import styles from './PopularPackages.module.css';
 
 const packages = [
@@ -7,18 +8,24 @@ const packages = [
 		title: 'Varanasi Local Darshan',
 		image: '/images/kashi-temple-400x600.jpeg',
 		price: '₹1500',
+		width: 400,
+		height: 600,
 	},
 	{
 		slug: 'airport-pickup-drop',
 		title: 'Airport Pickup & Drop',
 		image: '/images/airport-taxi-600x400.jpeg',
 		price: '₹950',
+		width: 600,
+		height: 400,
 	},
 	{
 		slug: 'prayagraj-day-tour',
 		title: 'Prayagraj Day Tour',
 		image: '/images/sangam-600x400.jpeg',
 		price: '₹3500',
+		width: 600,
+		height: 400,
 	},
 ];
 
@@ -33,10 +40,13 @@ export default function PopularPackages() {
 						href={`/en/package/${pkg.slug}`}
 						className={styles.card}
 					>
-						<img
+						<Image
 							src={pkg.image}
 							alt={pkg.title}
 							className={styles.cardImage}
+							width={pkg.width}
+							height={pkg.height}
+							sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
 						/>
 						<div className={styles.cardContent}>
 							<h3 className={styles.cardTitle}>{pkg.title}</h3>

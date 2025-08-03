@@ -1,4 +1,6 @@
 // components/Pink/SafetyBlock.jsx
+import Image from 'next/image';
+
 export default function SafetyBlock() {
   return (
     <div className="py-20 px-4 bg-pink-50">
@@ -7,17 +9,32 @@ export default function SafetyBlock() {
         <div className="flex flex-wrap justify-center items-center gap-8">
           {/* Replace with actual logos */}
           <div className="flex items-center gap-2">
-            <img src="/images/up-police-logo.png" alt="UP Police 112" className="h-12"/>
+            <Image
+              src="/images/up-police-logo.png"
+              alt="UP Police 112"
+              width={48}
+              height={48}
+            />
             <p>UP Police 112</p>
           </div>
           <div className="flex items-center gap-2">
-            <img src="/images/mission-shakti-logo.png" alt="Mission Shakti" className="h-12"/>
+            <Image
+              src="/images/mission-shakti-logo.png"
+              alt="Mission Shakti"
+              width={48}
+              height={48}
+            />
             <p>Mission Shakti</p>
           </div>
           <div className="flex items-center gap-2">
-            <img src="/images/ministry-of-tourism-logo.png" alt="Ministry of Tourism" className="h-12"/>
-          <p className="font-semibold">Ministry of Tourism</p>
-        </div>
+            <Image
+              src="/images/ministry-of-tourism-logo.png"
+              alt="Ministry of Tourism"
+              width={48}
+              height={48}
+            />
+            <p className="font-semibold">Ministry of Tourism</p>
+          </div>
         </div>
       </div>
     </div>

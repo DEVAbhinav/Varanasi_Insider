@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import styles from './DynamicFooter.module.css';
 
 // Mock data for demonstration. In a real app, this would be a prop.
@@ -38,10 +39,12 @@ export default function DynamicFooter({ relatedPosts = mockRelatedPosts }) {
 							className={styles.card}
 						>
 							<div className={styles.imageContainer}>
-								<img
+								<Image
 									src={post.image}
 									alt={post.title}
 									className={styles.cardImage}
+									width={400}
+									height={300}
 								/>
 								<div className={styles.overlay}>
 									<h3 className={styles.cardTitle}>

@@ -1,4 +1,3 @@
-
 import Image from "next/image";
 import styles from './Header.module.css';
 
@@ -44,7 +43,7 @@ export default function Header({ title, featuredImage }) {
           <h1 className={styles.title}>{title || "This is dummy title"}</h1>
         </div>
         {/* {featuredImage && (
-          <img
+          <Image
             src={featuredImage}
             alt={title}
             className={styles.heroImage}

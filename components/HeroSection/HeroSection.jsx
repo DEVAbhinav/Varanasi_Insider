@@ -23,8 +23,8 @@ export default function HeroSection() {
       <Image
         alt="Varanasi's ganga aarti in evening"
         src="/images/varanasi-hero.png"
-        layout="fill"
-        objectFit="cover"
+        fill
+        style={{ objectFit: 'cover' }}
         priority
       />
       <div className={styles.overlay}></div>
