@@ -5,7 +5,7 @@ date: "2025-07-25"
 lastUpdated: "2025-07-25"
 author: "Abhinav Pandey"
 lang: en-IN
-canonical: "https://banarasinsider.com/en/jageshwar-mahadev-varanasi-guide/"
+canonical: "https://www.kashitaxi.in/en/jageshwar-mahadev-varanasi-guide/"
 featuredImage: "/images/posts/jageshwar-mahadev-varanasi.jpg"
 description: "Discover Varanasi’s Siddhpeeth Shri Jageshwar Mahadev—home to a self-growing Shiv lingam, hidden in Ishwargangi’s lanes."
 tags:
