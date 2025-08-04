@@ -48,6 +48,8 @@ Varanasi’s experience changes dramatically by season. Your choice affects **we
 * **Feels like:** Perfect for long walks; soft light and mist over the Ganga at sunrise; magical evening **Ganga Aarti** viewing.
 * **Why go:** The best combination of comfortable weather, vibrant culture, and ideal photography conditions.
 
+![A misty winter morning on the ghats of Varanasi.](/images/varanasi-ghat-early-morning.jpeg "A boatman on the Ganga during a foggy winter morning.")
+
 ### Summer in Varanasi (April–June) – Off-Season
 
 * **Typical temps:** **40–45 °C** peak; hot, dry **loo** winds.
@@ -60,6 +62,8 @@ Varanasi’s experience changes dramatically by season. Your choice affects **we
 * **Feels like:** Dramatic skies and freshly washed ghats, but the river swells and can flood the lower steps.
 * **Note:** **Ganga boat rides may be suspended** for safety when the water level is high. Keep your plans flexible.
 
+![Dramatic monsoon clouds over the Ganga river.](/images/varanasi-ghat-boat-eve-p.jpeg "A boat ride under dramatic monsoon skies in Varanasi.")
+
 ---
 
 ## Major Festivals & Events in Varanasi
@@ -67,6 +71,8 @@ Varanasi’s experience changes dramatically by season. Your choice affects **we
 * **Dev Deepawali (November, \~15 days after Diwali):** Millions of diyas (earthen lamps) light up every ghat—an unforgettable spectacle that requires **booking months in advance**.
 * **Mahashivratri (February–March):** Lord Shiva’s night is celebrated with grand processions, a large congregation of sadhus, and intense devotion, drawing huge crowds.
 * **Ganga Mahotsav (November):** A five-day festival of classical music and dance held on the riverfront, culminating around Dev Deepawali.
+
+![The ghats of Varanasi illuminated for the Dev Deepawali festival.](/images/varanasi-ghat-wallpaper-p.jpeg "Varanasi's ghats lit up with thousands of lamps for Dev Deepawali.")
 
 > Planning around festivals? See our guide to **[Ganga Aarti Timings](/en/dashashwamedh-ghat-ganga-aarti-timing)**.
 

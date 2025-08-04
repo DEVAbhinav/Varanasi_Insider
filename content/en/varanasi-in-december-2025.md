@@ -1,12 +1,12 @@
 ---
 
 title: "Varanasi in December: A 2025 Guide to Weather, Fog & Things to Do"
-slug: "varanasi-in-december-2025-guide"
+slug: "varanasi-in-december-2025"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
 author: "Abhinav Pandey"
 lang: en-IN
-featuredImage: "/images/varanasi-december-600x400.jpeg"
+featuredImage: "/images/varanasi-sunrise-p.jpeg"
 description: "Planning a trip to Varanasi in December 2025? Get expert tips on the winter weather, dealing with fog, what to wear, and the best things to do."
 keywords: "varanasi in december, varanasi weather december, varanasi fog, what to wear in varanasi in december, things to do in varanasi in december, is december good time to visit varanasi"
 tags:
@@ -39,6 +39,8 @@ For insights into how December compares to other times of the year, don't forget
 
 ## Varanasi Weather in December: Embracing the Winter Chill
 
+![A misty morning on the ghats of Varanasi in December](/images/varanasi-ghat-early-morning.jpeg "Misty morning on the ghats of Varanasi")
+
 While you won't find snow here, December in Varanasi definitely has a winter feel. The days are sunny but cooler, and the nights can get quite chilly. Be prepared for a significant drop in temperature, especially after sunset.
 
 Here’s what you can generally expect:
@@ -63,12 +65,16 @@ While Varanasi is deeply rooted in Hindu traditions, you’ll find a subtle fest
 December offers a fantastic opportunity to experience Varanasi without the peak crowds of the festival season.
 
 ### Witness a Serene Sunrise Boat Ride
+![A serene sunrise boat ride on the Ganges](/images/varanasi-river-sunrise-boat-p.jpeg "Sunrise boat ride on the Ganges")
+
 While the fog might be present, a sunrise boat ride in December offers a different kind of beauty. The misty Ganges, with the silhouettes of the ghats, is a sight to behold. Just be prepared for a potentially delayed start due to fog. Again, always verify the latest government tariffs or operator websites for boat ride pricing.
 
 ### Savour the Seasonal Delight of Malaiyyo
 This is a winter delicacy you absolutely must try! **Malaiyyo** is a frothy, light-as-air dessert made from milk, often flavoured with saffron and cardamom, and topped with pistachios and almonds. You'll find vendors selling it in the mornings, and it's the perfect way to warm up on a chilly day.
 
 ### Explore the Ghats on Foot
+![Walking along the ghats in the cool December weather](/images/varanasi-ghats-overview.jpeg "Walking along the ghats of Varanasi")
+
 With the cooler weather, December is ideal for leisurely walks along the ghats. Take your time to observe the daily life, the rituals, and the architectural beauty. Remember to consult our [Varanasi Safety Guide](/en/varanasi-safety-guide) for tips on navigating the ghats safely.
 
 ---

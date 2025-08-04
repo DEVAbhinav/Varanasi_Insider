@@ -5,7 +5,7 @@ date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "Abhinav Pandey"
 lang: en-IN
-featuredImage: "/images/blogGaya.png"
+featuredImage: "/images/GayaTaxi.jpg"
 description: "Travelling from Varanasi to Bodh Gaya? Discover the road distance, average travel time, and one-way taxi fares for different car categories. See how regional operators and national aggregators price this popular Buddhist pilgrimage route."
 tags:
   - varanasi
@@ -38,6 +38,8 @@ Bodh Gaya is located in the state of Bihar, to the east of Varanasi. The road di
 
 Fares for this popular route vary depending on the vehicle type and the operator. Here’s an estimated breakdown for a one-way trip in 2025:
 
+![A sedan taxi suitable for the Varanasi to Bodhgaya trip](/images/seden.png "Sedan taxi for Bodhgaya")
+
 | Vehicle | Seats | One-Way Fare (Approx.) | Notes |
 | :--- | :--- | :--- | :--- |
 | **Compact Hatchback** (e.g., Swift) | 4 + Driver | ₹5,000 - ₹5,500 | Basic and economical for 1-2 passengers. |
@@ -47,6 +49,8 @@ Fares for this popular route vary depending on the vehicle type and the operator
 | **Tempo Traveller** (12 Seater) | 12 + Driver | ₹9,500 - ₹11,000 | Ideal for large groups and pilgrimage tours. |
 
 *\*Fares are indicative. Always confirm the final price, including tolls and state taxes, before booking.*
+
+![A Tempo Traveller for larger groups going to Bodhgaya](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Bodhgaya")
 
 ---
 

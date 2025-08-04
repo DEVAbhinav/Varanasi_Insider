@@ -36,10 +36,7 @@ After check‑in, plan a [sunrise boat ride](/en/sunrise-boat-ride-varanasi/) or
 
 ## 2025 Fare Comparison — Airport ➜ City (Zone B: Ghats / Old City)
 
-![Official prepaid fare board inside VNS arrivals hall](/images/posts/vns-prepaid-fare-board.jpg "Prepaid fare board, shot 21 Jul 2025")  
-*Government‑approved slab for Zone B (Ghats / Old City).* :contentReference[oaicite:0]{index=0}
-
-![Off‑peak Uber fare estimate for VNS ➜ Dashashwamedh](/images/posts/vns-uber-fare-screenshot.jpg "Uber Go estimate, off‑peak, 21 Jul 2025") :contentReference[oaicite:1]{index=1}
+![A sedan taxi at Varanasi airport](/images/seden.png "A sedan taxi at Varanasi airport")
 
 | Service | Destination (Ghats Area) | Fare (Jul 2025) |
 | :-- | :-- | :-- |
@@ -66,8 +63,6 @@ After check‑in, plan a [sunrise boat ride](/en/sunrise-boat-ride-varanasi/) or
 4. **Collect the receipt** – keep it; fare is all‑inclusive (no night or luggage add‑ons).  
 5. **Proceed to Bays 5‑8**, show the slip to the coordinator, board.
 
-![Example prepaid slip (details blurred)](/images/posts/vns-prepaid-slip.jpg "Sample prepaid receipt – keep till drop‑off")
-
 ---
 
 ## Using Uber or Ola
@@ -83,13 +78,9 @@ After check‑in, plan a [sunrise boat ride](/en/sunrise-boat-ride-varanasi/) or
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/your-video-id" title="Walk to Pillar 12"></iframe>
 
-![Terminal map: arrivals → Bays 5‑8 & Pillar 12](/images/posts/vns-airport-pickup-map.svg "Walking map from exit to pick‑up lanes")
-
 * **Prepaid Counter:** inside arrivals hall, left of exit.  
 * **Prepaid Stands:** first lane, Bays 5‑8.  
 * **Uber/Ola:** Pillar 12 in the ride‑share lane.
-
-![Pillar 12 signage](/images/posts/vns-pillar-12-pickup.jpg "Look for this Pillar 12 sign")
 
 ---
 
@@ -112,7 +103,7 @@ After check‑in, plan a [sunrise boat ride](/en/sunrise-boat-ride-varanasi/) or
 3. **Lost item?** Call airport police with the slip number.  
 4. **Airport Police Helpline:** **+91‑94544 01119**
 
-![Airport police helpline board](/images/posts/vns-police-helpline-photo.jpg "Airport Police helpline board")
+![UP Police Logo](/images/up-police-logo.png "UP Police Logo")
 
 ---
 

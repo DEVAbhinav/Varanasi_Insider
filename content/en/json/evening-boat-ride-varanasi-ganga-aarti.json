@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://banarasi.kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti"
+  },
+  "headline": "Evening Boat Ride Varanasi: Watch Ganga Aarti from Water (2025 Guide)",
+  "description": "Your complete 2025 guide to the evening boat ride in Varanasi for the Ganga Aarti. Find timings, costs, booking tips, and the best view from the water.",
+  "image": [
+    "https://banarasi.kashitaxi.in/images/eveningAartiHero.jpg",
+    "https://banarasi.kashitaxi.in/images/ganga-aarti.jpeg",
+    "https://banarasi.kashitaxi.in/images/varanasi-river-bajra.jpeg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Abhinav Pandey"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Banarasi Kashitaxi",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://banarasi.kashitaxi.in/images/logo.png"
+    }
+  },
+  "datePublished": "2025-08-01",
+  "dateModified": "2025-08-01",
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the best time for an evening boat ride to see the Ganga Aarti in Varanasi?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The best time to board your boat is around 6:00 PM in winter or 6:30 PM in summer. This gets you to Dashashwamedh Ghat with about 45 minutes to spare before the Ganga Aarti ceremony begins at sunset."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does an evening boat ride for Ganga Aarti cost in Varanasi?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A seat on a shared rowboat typically costs between ₹250 and ₹500 per person. A private rowboat can cost from ₹1,500 to ₹3,000. Prices are negotiable."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which ghat is best for watching the evening Ganga Aarti from a boat?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dashashwamedh Ghat hosts the most famous and spectacular Ganga Aarti ceremony. An evening boat ride provides the best, unobstructed view of the rituals from the water."
+        }
+      }
+    ]
+  }
+}

@@ -5,7 +5,7 @@ date: "2025-08-02"
 lastUpdated: "2025-08-02"
 author: "Abhinav Pandey"
 lang: en-IN
-featuredImage: "/images/varanasi-monsoon-600x400.jpeg"
+featuredImage: "/images/pink-sky-ghat-varanasi-l.jpeg"
 description: "Planning a trip to Varanasi during the monsoon (July-September)? Our 2025 guide covers safety, boat rides, things to do, and what to expect from the rain."
 keywords: "varanasi in monsoon, varanasi in july, varanasi in august, varanasi in september, is it safe to visit varanasi in monsoon, boat ride varanasi monsoon"
 tags:
@@ -40,6 +40,8 @@ To understand why a monsoon trip is so different, you can compare it with other 
 
 ## Monsoon Rain Patterns & River Levels in Varanasi
 
+![The swollen Ganga river during monsoon, submerging the lower ghats](/images/varanasi-ghats-overview.jpeg "High water levels at Varanasi ghats in monsoon")
+
 The monsoon doesn't mean it rains all day, every day. Instead, expect intense, heavy downpours followed by periods of overcast, humid sunshine. The real game-changer is Mother Ganga. The river swells, her waters rising to reclaim the lower ghats. It’s a powerful sight, but it means you must be cautious. I always recommend checking official local government or disaster management websites for any river level alerts before and during your stay.
 
 ---
@@ -64,6 +66,8 @@ Rain doesn't stop life here; it just changes its rhythm. There are plenty of won
 This is the perfect rainy-day activity. Step into the world of the master weavers who create the legendary Banarasi sarees. Witnessing their intricate work on the handlooms is mesmerizing and a great way to support local artisans.
 
 ### Temple in varanasi Exploration
+![Exploring the Kashi Vishwanath Temple during a rainy day](/images/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple")
+
 The ancient temples of Varanasi, like the **Kashi Vishwanath** and **Sankat Mochan**, offer a spiritual refuge from the downpour. The sound of rain mixing with temple bells and chants is truly magical.
 
 ### Cafe Hopping and Food Tours
@@ -72,6 +76,8 @@ Duck into a local cafe to enjoy a hot cup of masala chai and samosas while watch
 ---
 
 ## Critical Safety Advisory: Boat Rides & Transport
+
+![Boat rides are often suspended during the monsoon for safety](/images/varanasi-boat-eve-l.jpeg "Boat on the Ganges")
 
 This is extremely important: **boat rides during the monsoon are often and rightly suspended**. The Ganges becomes turbulent and unpredictable, and official operators will halt services for safety. If you find someone offering a ride, I strongly advise against it. Your safety is paramount. For getting around, cycle-rickshaws are often your best bet as they can navigate water-logged lanes better than auto-rickshaws or cars. For more tips, our [Varanasi Safety Guide](/en/safety-and-security-in-varanasi-guide-for-solo-travellar) is a must-read.
 

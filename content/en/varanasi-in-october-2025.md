@@ -5,7 +5,7 @@ date: "2025-08-02"
 lastUpdated: "2025-08-02"
 author: "Abhinav Pandey"
 lang: en-IN
-featuredImage: "/images/varanasi-october-600x400.jpeg"
+featuredImage: "/images/pink-sky-ghat-varanasi-l.jpeg"
 description: "Planning to visit Varanasi in October 2025? Get expert tips on the weather, festivals like Navratri and Diwali, what to wear, and things to do."
 keywords: "varanasi in october, varanasi weather october, diwali in varanasi, navratri in varanasi, what to wear in varanasi in october, is october good time to visit varanasi"
 tags:
@@ -39,6 +39,8 @@ If you want to see how this beautiful month compares to the rest of the year, do
 
 ## Varanasi Weather in October: A Perfect Climate for Exploring
 
+![The beautiful weather over the ghats in October](/images/varanasi-ghats-overview.jpeg "The ghats of Varanasi in October")
+
 October marks the perfect transition from the wet monsoon to the cool winter. The days are comfortably warm and sunny, while the evenings start to have a pleasant, gentle coolness. The oppressive humidity of the past few months vanishes, making it the ideal time for walking around and soaking in the city's sights without feeling exhausted by the weather.
 
 *   **Daytime High:** Around 31°C (88°F)
@@ -54,6 +56,8 @@ October is all about festive energy. The entire city gets swept up in celebratio
 
 **The Lead-up to Diwali (Diwali is on October 20, 2025):** Throughout October, you can feel the excitement for Diwali building. Markets are buzzing, and the ghats start to get decorated. You get to witness the city preparing for its biggest festival of lights, which is a unique experience in itself.
 
+![The ghats decorated and lit up in the evening](/images/varanasi-ghat-boat-eve-p.jpeg "Evening lights on the ghats")
+
 > 📞 **Book your boat & taxi — WhatsApp +91 94503 01573**
 
 ---
@@ -63,6 +67,8 @@ October is all about festive energy. The entire city gets swept up in celebratio
 With the weather on your side, it's time to be outdoors. Here’s what I recommend.
 
 ### An Evening Ganga Aarti
+![The spectacular evening Ganga Aarti ceremony](/images/ganga-aarti.jpeg "The evening Ganga Aarti at Dashashwamedh Ghat")
+
 The evening Aarti at Dasaswamedh Ghat is a powerful spiritual performance. In October, the weather is perfect for sitting on the steps or watching from a boat without the discomfort of heat or rain. The energy is magnetic.
 
 ### Explore the Ghats and Alleyways

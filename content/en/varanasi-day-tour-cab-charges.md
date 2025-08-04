@@ -5,7 +5,7 @@ date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "Abhinav Pandey"
 lang: en-IN
-featuredImage: "/images/AyodhyaTaxi1.jpg"
+featuredImage: "/images/Sighseeing1.png"
 description: "Planning a full-day sightseeing tour in Varanasi? Compare 8 hour/80 km and 12 hour/200 km cab packages for different car categories and learn what’s typically included in local sightseeing fares."
 tags:
   - varanasi
@@ -24,11 +24,13 @@ Exploring Varanasi's rich tapestry of temples, ghats, and historical sites is be
 > **Book Your Varanasi City Tour!**  
 > Get a reliable cab and experienced driver for your full-day tour.  
 > **Call:** **[9450301573](tel:9450301573)**  
-> **Visit:** **[Banarasi.KashiTaxi.in/city-tours](https://banarasi.kashitaxi.in/city-tours)**
+> **Visit:** **[Banarasi.KashiTaxi.in/city-tours](https://banarasi.kashitaxi.in/)**
 
 ---
 
 ## How Much Do Full-Day Taxi Packages Cost in Varanasi?
+
+![A sedan car available for Varanasi day tours](/images/seden.png "Sedan car for sightseeing")
 
 Taxi operators in Varanasi typically offer two main packages for local sightseeing:
 *   **8 hours / 80 km:** Ideal for covering the main highlights within the city.
@@ -48,6 +50,8 @@ Here are the approximate charges for different vehicle types:
 
 *\*Fares are indicative and can vary. Always confirm the final price and inclusions before booking.*
 
+![A Tempo Traveller, ideal for larger groups on a Varanasi day tour](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for group tours")
+
 ---
 
 ## What to Expect from Your Day Tour Package
@@ -64,6 +68,8 @@ Extra hours or kilometers beyond the package limit are charged separately.
 1.  **Start Early:** Many temples, like the Kashi Vishwanath Temple, have important morning rituals. An early start helps you avoid the peak crowds and the midday heat.
 2.  **Plan Your Itinerary:** Discuss your must-see places with the operator or driver beforehand to create an efficient route. Key sites include Sarnath, Ramnagar Fort, Banaras Hindu University (BHU), and the various ghats.
 3.  **Driver's Meals:** For a long day tour, it is a common and appreciated courtesy to cover the cost of the driver's meals.
+
+![An overview of the ghats in Varanasi, a key part of any day tour](/images/varanasi-ghats-overview.jpeg "Varanasi Ghats Overview")
 
 ---
 

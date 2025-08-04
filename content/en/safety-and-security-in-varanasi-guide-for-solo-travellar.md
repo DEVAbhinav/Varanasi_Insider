@@ -171,6 +171,9 @@ For backpackers and solo travellers, Varanasi has a thriving hostel scene. Based
 | Wander Station | Prime location for immersion, situated in the alleys near the main Dashashwamedh Ghat. Boasts excellent security, a great rooftop cafe view, and female-only dorms.   | Its location deep within the old city maze can be very difficult for first-timers to find. The popular rooftop cafe is managed separately and can be overpriced.   | Seasoned travellers who want to be in the absolute heart of the old city's chaos and are confident navigating the alleys. |
 
 #### Solo Female Safety: Assi vs Godowlia After Dark
+
+![A solo female traveller enjoying a boat ride in Varanasi](/images/solo-femal-traveller-varanasi.jpeg "A solo female traveller on a boat in Varanasi")
+
 For solo female travellers, the choice of neighbourhood is a critical safety decision, especially concerning movement after dark.
 
 **Assi Ghat:** I consistently recommend Assi as the safer base. The area is described by travellers as "lively and hence safer". Its proximity to a main road allows for easy and direct access by auto-rickshaws or pre-booked taxis, minimizing the need to walk through dark, deserted alleys at night. While caution is always necessary, the more open and accessible layout is far less intimidating.   
@@ -203,6 +206,9 @@ Varanasi Guru, who post updates on their booking pages, and local news outlets. 
 **Best Sunrise Ghat in Varanasi:** For the iconic sunrise boat ride, the consensus is clear: Assi Ghat is the best place to start. As the southernmost of the main ghats, it allows for a beautiful, continuous journey northward along the entire riverfront as the sun rises in the east. This route ensures you see all the major ghats come to life. Furthermore, Assi Ghat is the location of the "Subah-e-Banaras," a serene morning Aarti ceremony with music and yoga, which you can witness before you embark.   
 
 ### How to Book Women-Only Pink Taxis in Varanasi
+
+![A Pink Taxi in Varanasi, a safe option for women travellers](/images/lady-taxi.jpeg "A Pink Taxi, driven by a woman, for female passengers")
+
 The introduction of Pink Taxis—cabs driven by women, for female passengers—is a welcome and important safety development. However, you cannot simply hail one on the street. These services require advance booking. According to local transport guides, you can reserve a Pink Taxi through a few specific channels:
 
 * The upcoming "Safe City" government app.
@@ -273,6 +279,9 @@ Scams in Varanasi are rarely violent but are designed to prey on a tourist's con
   * **How to Avoid:** Never, ever go to a shop recommended by a driver or a random person on the street. If you want to buy silk, do your own research online for reputable, fixed-price stores.
 
 ### 12 Golden Safety Rules for Women Travellers in Varanasi
+
+![A solo female traveller watching the Ganga Aarti ceremony](/images/ganga-aarti-solo.jpeg "A solo female traveller finding a moment of peace at the Ganga Aarti")
+
 As a solo female traveller, you will attract more attention in Varanasi. These rules are not about limiting your experience but about empowering you to control your interactions and stay safe.
 
 1. **Dress to Disappear:** The more you blend in, the less attention you'll attract. This means loose, non-revealing clothing covering your shoulders and knees. A long scarf (dupatta) is your most valuable accessory.   

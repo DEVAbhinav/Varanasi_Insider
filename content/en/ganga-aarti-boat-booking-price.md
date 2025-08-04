@@ -23,7 +23,7 @@ Watching the spectacular Ganga Aarti from a boat on the river is an unforgettabl
 > **Secure Your Front-Row Seat!**  
 > Book a private or shared boat for the Ganga Aarti with a trusted local operator.  
 > **Call:** **[9450301573](tel:9450301573)**  
-> **Visit:** **[Banarasi.KashiTaxi.in/boat](https://banarasi.kashitaxi.in/boat)**
+> **Visit:** **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)**
 
 ---
 

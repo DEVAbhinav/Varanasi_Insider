@@ -5,7 +5,7 @@ date: "2025-08-02"
 lastUpdated: "2025-08-02"
 author: "Abhinav Pandey"
 lang: en-IN
-featuredImage: "/images/varanasi-november-600x400.jpeg"
+featuredImage: "/images/varanasi-night-boat-ghat-p.jpeg"
 description: "Your complete insider guide to visiting Varanasi in November 2025. Get the correct Dev Deepawali date, weather info, packing tips, and what to expect."
 keywords: "varanasi in november, dev deepawali 2025 date, varanasi weather november, kartik purnima varanasi, visiting varanasi in november, varanasi travel guide"
 tags:
@@ -38,6 +38,8 @@ For a broader look at how this month stacks up against others, you might want to
 
 ## Varanasi's Weather in November: A Snapshot
 
+![The pleasant weather on the ghats in November](/images/varanasi-ghats-overview.jpeg "Pleasant weather on the ghats in November")
+
 Forget the intense summer heat or the monsoon humidity. November offers what I call "sweater weather." The days are bright, sunny, and pleasantly warm, while the mornings and evenings have a delightful chill that’s perfect for a hot cup of masala chai by the ghats. There's virtually no rain, so you can leave your umbrella behind.
 
 Here’s a quick look at the typical temperatures you can expect:
@@ -48,6 +50,8 @@ Here’s a quick look at the typical temperatures you can expect:
 ---
 
 ## Dev Deepawali 2025: The Festival of a Million Lights
+
+![The ghats of Varanasi illuminated for Dev Deepawali](/images/varanasi-ghat-boat-eve-p.jpeg "Ghats illuminated for Dev Deepawali")
 
 The undisputed highlight of November is Dev Deepawali. It's a spectacle that leaves even us locals speechless. We believe this is when the Gods descend to Earth to bathe in the Ganges, and we celebrate by lighting millions of *diyas* (earthen lamps) on every ghat, step, and balcony. It truly feels like the stars have fallen upon the city.
 
@@ -62,9 +66,13 @@ The undisputed highlight of November is Dev Deepawali. It's a spectacle that lea
 ## My Top Things to Do in Varanasi This November
 
 ### A Sunrise Boat Ride on the Ganges
+![A beautiful sunrise boat ride on the Ganges](/images/varanasi-river-sunrise-boat-p.jpeg "Sunrise boat ride on the Ganges")
+
 This is the quintessential Varanasi experience for a reason. Drifting on the river as the sun rises, watching the city come to life, is a spiritual experience. You’ll see locals taking their holy dip, cremations at Manikarnika Ghat, and the beautiful facades of the palaces along the river. I always advise visitors to check the latest government-approved tariff card or official operator websites to avoid overpaying for your ride.
 
 ### Witness the Grandeur of the Evening Ganga Aarti
+![The spectacular evening Ganga Aarti ceremony](/images/ganga-aarti.jpeg "Evening Ganga Aarti ceremony")
+
 The energy of the evening Aarti at Dashashwamedh Ghat is electric. The synchronised chanting, massive brass lamps, and incense smoke create an unforgettable atmosphere. Arrive early to get a good spot!
 
 ### Get Lost in the Ancient Alleys (Galis)

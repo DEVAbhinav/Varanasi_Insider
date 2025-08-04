@@ -31,6 +31,8 @@ If there's one piece of advice I give everyone who visits Varanasi, it's this: w
 
 But let's talk about the practical side: How much does this unforgettable experience actually cost? The price for a morning boat ride in Varanasi can feel a bit mysterious, and it often varies. As someone who navigates these waters daily, I want to give you a clear, honest guide to what you should expect to pay in 2025, so you can focus on the experience, not the expense.
 
+![A serene sunrise boat ride on the Ganga river in Varanasi.](/images/varanasi-river-sunrise-boat-p.jpeg "A boatman paddles during a beautiful sunrise on the Ganga.")
+
 ## TL;DR: 2025 Quick Price Guide
 
 For those who need the numbers upfront, here’s a quick look at the typical cost for a morning boat ride in Varanasi (based on my experience and data from reputable local operators):
@@ -49,6 +51,8 @@ During the monsoon (roughly July – September), the Ganga is powerful and swoll
 
 ### Boat Type (Row vs. Motor vs. Luxury Bajra)
 The classic, hand-paddled rowboat offers a peaceful, quiet journey—it's my personal favorite for soaking in the atmosphere. A motorboat is faster, covers more distance, and is better for larger groups. For a truly premium experience, you can hire a **bajra**, a traditional, often-decorated double-decker boat, perfect for larger families or special occasions.
+
+![A traditional luxury bajra boat on the Ganga river.](/images/varanasi-river-bajra.jpeg "A luxury bajra boat provides a premium experience for a morning boat ride in Varanasi.")
 
 ### Distance & Add-ons
 A standard 45-minute ride covering the main ghats is the baseline. If you want to go further, say from Assi Ghat all the way to Ramnagar Fort, the price will naturally increase. Adding a knowledgeable guide, making a special stop at a temple, or arranging for tea and breakfast on the boat will also add to the cost.

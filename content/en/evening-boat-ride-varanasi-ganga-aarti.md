@@ -44,6 +44,8 @@ There's a moment, just as the sun dips below the horizon, when Varanasi holds it
 
 The Ganga Aarti is a powerful, choreographed ritual of gratitude to the River Ganges. As your boatman steadies the vessel, you'll see young priests (pandits) in saffron robes take their places on raised platforms. The ceremony begins with the blowing of a conch shell, a sound that seems to clear the air itself. Then, the rhythmic chanting of mantras begins, synchronized with bells and the fragrant smoke from incense sticks (dhoop). The main event is the offering of fire, where priests wield heavy, multi-tiered brass lamps, moving them in hypnotic circles as they pay reverence to Mother Ganga. It's a symphony of fire, sound, and faith.
 
+![A close-up of the Ganga Aarti ceremony from a boat.](/images/ganga-aarti.jpeg "Priests performing the Ganga Aarti ritual with large brass lamps.")
+
 ## Our Ideal Evening Timeline for Aarti & Darshan
 
 | Time | Activity | My Insider Tip |
@@ -60,6 +62,8 @@ The Ganga Aarti is a powerful, choreographed ritual of gratitude to the River Ga
 - **Rowboat (My Top Recommendation):** The most authentic experience—quiet, close to the action, and perfect for photography and reflection.
 - **Motorboat:** Practical for larger groups (10-15) or covering distant ghats quickly, but engine noise can detract from the serene Aarti atmosphere.
 - **Luxury Bajra:** A premium barge with cushioned seating, an elevated viewing deck, and add-ons like dinner or live music—ideal for special occasions.
+
+![A luxury bajra boat on the Ganga river in Varanasi.](/images/varanasi-river-bajra.jpeg "A luxury bajra boat, perfect for a premium evening boat ride experience.")
 
 ## Varanasi Evening Boat Ride Price Guide (2025)
 

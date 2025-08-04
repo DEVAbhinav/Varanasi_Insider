@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://kashitaxi.in/en/what-to-wear-in-varanasi"
+      },
+      "headline": "What to Wear in Varanasi: A Guide for Every Season and Traveler",
+      "description": "A comprehensive guide on what to wear in Varanasi for men, women, and solo female travelers, with tips for every season. Learn about respectful attire for temples and ghats.",
+      "image": "https://kashitaxi.in/images/pink-sky-ghat-varanasi-l.jpeg",
+      "author": {
+        "@type": "Organization",
+        "name": "Varanasi Insider Team"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Varanasi Insider",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kashitaxi.in/images/logo.jpeg"
+        }
+      },
+      "datePublished": "2024-05-15",
+      "dateModified": "2025-08-04"
+    },
+    {
+      "@type": "HowTo",
+      "name": "How to Dress Appropriately in Varanasi",
+      "description": "This guide provides practical steps for dressing respectfully and comfortably in Varanasi, covering different seasons and situations.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Follow the General Dress Code",
+          "text": "Cover your shoulders and knees, choose loose-fitting clothing made of breathable fabrics like cotton or linen. This is the most important rule for respecting local customs.",
+          "image": "https://kashitaxi.in/images/sadhu-foreigner-girl.jpeg"
+        },
+        {
+          "@type": "HowToStep",
+          "name": "What Women Should Wear",
+          "text": "Women should opt for modest clothing like kurtas with leggings, long skirts, or maxi dresses. A scarf or shawl is a useful accessory for extra coverage when needed.",
+          "image": "https://kashitaxi.in/images/solo-femal-traveller-varanasi.jpeg"
+        },
+        {
+          "@type": "HowToStep",
+          "name": "What Men Should Wear",
+          "text": "Men can wear t-shirts or shirts with long pants or jeans. A traditional kurta-pajama is also a great option for comfort and respect."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Dress for the Season",
+          "text": "Pack lightweight cottons for summer (March-June), quick-drying clothes and rain gear for monsoon (July-September), and warm layers for winter (October-February)."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Adhere to Temple Dress Codes",
+          "text": "When visiting temples like Kashi Vishwanath, cover your head, remove your shoes, and avoid leather items. Respectful attire is essential for entering sacred sites.",
+          "image": "https://kashitaxi.in/images/kashi-temple-400x600.jpeg"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the general dress code for Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The general dress code in Varanasi is to wear modest clothing. It's recommended to cover your shoulders and knees, wear loose-fitting clothes, and choose breathable fabrics like cotton and linen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should women wear in Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Women are advised to wear modest clothing to avoid unwanted attention. Good options include long tops like kurtas with leggings, maxi skirts and dresses, and carrying a scarf for extra coverage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should men wear in Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Men can wear regular t-shirts and shirts with long pants or jeans. For a more traditional and comfortable option, a kurta-pajama is recommended."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the dress code for Kashi Vishwanath Temple?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "When visiting Kashi Vishwanath Temple, you must dress respectfully. This includes covering your head (a scarf is useful), removing your shoes before entry, and avoiding any leather items. Modest clothing that covers shoulders and knees is mandatory."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What to wear in Varanasi during the winter (October to February)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "During the winter months, it's best to dress in layers. Pack a mix of light and warm clothing, including a warm jacket or fleece for cool mornings and evenings. Closed-toe shoes are also recommended to keep your feet warm."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -3,7 +3,7 @@ title: "2025 Varanasi Transport Price Guide – Airport Taxis, Pink Cabs, Outs
 slug: "varanasi-transport-price-guide-2025"
 date: "2025-07-24"
 author: "Abhinav Pandey"
-featuredImage: "/images/varanasi-transport-price-guide.jpg"
+featuredImage: "/images/vnsayopyg.png"
 description: "Your one‑stop guide to Varanasi airport taxi price, women‑only pink taxis, Lucknow → Varanasi fares, Ganga Aarti boat booking price, one‑day tour cab charges, Assi Ghat ↔ airport distance, and Varanasi → Bodhgaya taxi cost. Book instantly at Banarasi.KashiTaxi.in or call 94503 01573."
 tags: ["varanasi airport taxi price","ganga aarti boat booking price","varanasi pink taxi for women"]
 ---
@@ -24,6 +24,8 @@ Varanasi’s airport is about 25–32 km from the city’s ghats and temples. T
 
 ## [1 · Varanasi Airport Taxi Price (2025 Update)](/en/varanasi-airport-taxi-price-guide)
 
+![A sedan taxi at Varanasi airport](/images/seden.png "Varanasi Airport Taxi")
+
 | Vehicle | Pre‑paid Stand | Uber/Ola (off‑peak) | Notes |
 |---------|---------------|---------------------|-------|
 | Sedan (Dzire/Etios) | ₹850 – ₹1,000 | ₹620 – ₹700 | Fixed coupons at arrivals hall; no surge. |
@@ -37,6 +39,8 @@ Varanasi’s airport is about 25–32 km from the city’s ghats and temples. T
 ---
 
 ## [2 · Varanasi Pink Taxi for Women – Safety‑First Rides](/pink-taxi-varanasi)
+
+![A Pink Taxi for women in Varanasi](/images/lady-taxi.jpeg "Varanasi Pink Taxi for Women")
 
 *Launching December 2025 (pilot slots already live on our portal).*
 
@@ -65,6 +69,8 @@ Reserve a verified woman driver through the upcoming Safe City app **or** pre�
 
 ## [4 · Ganga Aarti Boat Booking Price (Dashashwamedh Ghat)](/en/ganga-aarti-boat-booking-price)
 
+![A traditional Bajra boat for Ganga Aarti](/images/varanasi-river-bajra.jpeg "Bajra boat for Ganga Aarti")
+
 | Boat | Capacity | Inclusions | Rate (till Nov 2025) |
 |------|----------|------------|----------------------|
 | Private motor boat | 1‑6 | 84 ghats cruise + front‑row parking | **₹3,999** |
@@ -77,6 +83,8 @@ Secure your slot: **[Banarasi.KashiTaxi.in/boat](https://banarasi.kashitaxi.in/b
 ---
 
 ## [5 · Varanasi Day Tour Cab Charges (12 h / 120 km)](/en/varanasi-day-tour-cab-charges)
+
+![A Tempo Traveller for day tours in Varanasi](/images/tempo-travellar-side-l.jpeg "Tempo Traveller for Varanasi Day Tour")
 
 | Vehicle | Package | Extra km | Night Fee (>22:00) |
 |---------|---------|----------|--------------------|

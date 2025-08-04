@@ -1,0 +1,127 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Varanasi to Bodhgaya Taxi Cost (2025) – Fares & Travel Time",
+  "image": [
+    "/images/GayaTaxi.jpg",
+    "/images/seden.png",
+    "/images/tempo-travellar-outside-front-p.jpeg"
+  ],
+  "datePublished": "2025-07-28T08:00:00+08:00",
+  "dateModified": "2025-08-04T09:20:00+08:00",
+  "author": [{
+      "@type": "Person",
+      "name": "Abhinav Pandey",
+      "url": "https://www.kashitaxi.in/author/abhinav-pandey/"
+  }],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Varanasi Insider",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.kashitaxi.in/images/logo.jpeg"
+    }
+  },
+  "description": "Travelling from Varanasi to Bodh Gaya? Discover the road distance, average travel time, and one-way taxi fares for different car categories. See how regional operators and national aggregators price this popular Buddhist pilgrimage route.",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.kashitaxi.in/en/varanasi-to-bodhgaya-taxi-cost/"
+  },
+  "keywords": "varanasi to bodhgaya taxi cost, varanasi to bodhgaya taxi fare, varanasi to gaya taxi, bodhgaya taxi service",
+  "mainEntity": [{
+    "@type": "Product",
+    "name": "Varanasi to Bodhgaya One-Way Taxi Service",
+    "description": "One-way taxi service from Varanasi to Bodh Gaya, with options for different vehicle types to suit various group sizes and budgets.",
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "5000",
+      "highPrice": "11000",
+      "priceCurrency": "INR",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Compact Hatchback",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 5000,
+            "maxPrice": 5500,
+            "priceCurrency": "INR"
+          },
+          "description": "Basic and economical for 1-2 passengers (e.g., Swift)."
+        },
+        {
+          "@type": "Offer",
+          "name": "Sedan",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 5500,
+            "maxPrice": 6500,
+            "priceCurrency": "INR"
+          },
+          "description": "A comfortable option for small families (e.g., Dzire, Etios)."
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV/SUV",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 6500,
+            "maxPrice": 7500,
+            "priceCurrency": "INR"
+          },
+          "description": "Suitable for families or groups with more luggage (e.g., Ertiga, Innova)."
+        },
+        {
+          "@type": "Offer",
+          "name": "Premium SUV",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 8000,
+            "maxPrice": 10000,
+            "priceCurrency": "INR"
+          },
+          "description": "Offers a more spacious and luxurious ride (e.g., Innova Crysta)."
+        },
+        {
+          "@type": "Offer",
+          "name": "Tempo Traveller (12 Seater)",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 9500,
+            "maxPrice": 11000,
+            "priceCurrency": "INR"
+          },
+          "description": "Ideal for large groups and pilgrimage tours."
+        }
+      ]
+    }
+  }, {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Are there additional charges like tolls and state taxes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. When traveling from Uttar Pradesh to Bihar, a state entry tax is applicable. This, along with highway tolls, may be charged separately by some operators. Always clarify if these are included in your fare."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the best time to travel to Bodh Gaya?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The best time to visit Bodh Gaya is during the winter months, from October to March, when the weather is pleasant. Major Buddhist festivals like Buddha Purnima also draw large crowds, so plan accordingly."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I book a multi-day Buddhist circuit tour from Varanasi?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, most operators offer multi-day packages that cover the full Buddhist circuit, including Bodh Gaya, Rajgir, Nalanda, and other significant sites. This is often more cost-effective than booking individual trips."
+        }
+      }
+    ]
+  }]
+}

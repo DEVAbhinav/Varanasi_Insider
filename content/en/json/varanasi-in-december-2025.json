@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Varanasi in December: A 2025 Guide to Weather, Fog & Things to Do",
+  "image": [
+    "/images/varanasi-sunrise-p.jpeg",
+    "/images/varanasi-ghat-early-morning.jpeg",
+    "/images/varanasi-river-sunrise-boat-p.jpeg",
+    "/images/varanasi-ghats-overview.jpeg"
+  ],
+  "datePublished": "2025-08-02T08:00:00+08:00",
+  "dateModified": "2025-08-04T09:20:00+08:00",
+  "author": [{
+      "@type": "Person",
+      "name": "Abhinav Pandey",
+      "url": "https://www.kashitaxi.in/author/abhinav-pandey/"
+  }],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Varanasi Insider",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.kashitaxi.in/images/logo.jpeg"
+    }
+  },
+  "description": "Planning a trip to Varanasi in December 2025? Get expert tips on the winter weather, dealing with fog, what to wear, and the best things to do.",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.kashitaxi.in/en/varanasi-in-december-2025/"
+  },
+  "keywords": "varanasi in december, varanasi weather december, varanasi fog, what to wear in varanasi in december, things to do in varanasi in december, is december good time to visit varanasi",
+  "faqPage": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is December a good time to visit Varanasi?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, December is a great time to visit Varanasi. The weather is cool and pleasant for sightseeing, and the crowds are generally smaller than in the peak festival month of November. However, be prepared for chilly evenings and potential morning fog."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How cold is Varanasi in December?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Varanasi in December is cool, with daytime temperatures around 22°C (72°F) and nighttime temperatures dropping to as low as 8°C (46°F). Packing warm layers, including a jacket and thermals, is highly recommended."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How bad is the fog in Varanasi in December?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Fog in Varanasi in December can be quite dense, especially in the early mornings. This can sometimes delay flights, trains, and boat rides. However, it also creates a uniquely mystical and photogenic atmosphere over the Ganga."
+        }
+      }
+    ]
+  }
+}

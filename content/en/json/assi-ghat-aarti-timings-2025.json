@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://banarasi.kashitaxi.in/en/assi-ghat-aarti-timings-2025"
+  },
+  "headline": "Assi Ghat Aarti Timings (Morning & Evening) – 2025",
+  "description": "The exact Assi Ghat aarti time for the morning (Subah-e-Banaras) and evening ceremonies in 2025. Get a month-by-month schedule, pro tips, and more.",
+  "image": [
+    "https://banarasi.kashitaxi.in/images/varanasi-assi-ghat-aarti-l.jpeg",
+    "https://banarasi.kashitaxi.in/images/varanasi-assi-ghat-sunrise.jpeg",
+    "https://banarasi.kashitaxi.in/images/assi-aarti-evening-P.jpeg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Naval Kishore"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Banarasi Kashitaxi",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://banarasi.kashitaxi.in/images/logo.png"
+    }
+  },
+  "datePublished": "2025-08-04",
+  "dateModified": "2025-08-04",
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Do the Assi Ghat Ganga Aarti timings change on festival days?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes—on Dev Deepawali & Kartik Purnima the evening slot shifts later so the flame-arches align with the full-moon rise. Arrive 90 minutes early to get a spot."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is the Assi Ghat morning aarti time ever cancelled for rain?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Rarely. If it's raining heavily, the priests move the ceremony to a covered dais. The public yoga session may be skipped, but the aarti continues."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can tourists participate in the aarti?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "While you can't perform the main ritual, you can receive a blessing from the priests afterward. Simply queue politely to the left of the stage once the ceremony concludes."
+        }
+      }
+    ]
+  }
+}

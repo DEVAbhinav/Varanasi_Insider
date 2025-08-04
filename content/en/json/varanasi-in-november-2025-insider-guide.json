@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Varanasi in November 2025: A Guide to Dev Deepawali & Weather",
+  "image": [
+    "/images/varanasi-night-boat-ghat-p.jpeg",
+    "/images/varanasi-ghats-overview.jpeg",
+    "/images/varanasi-ghat-boat-eve-p.jpeg",
+    "/images/varanasi-river-sunrise-boat-p.jpeg",
+    "/images/ganga-aarti.jpeg"
+  ],
+  "datePublished": "2025-08-02T08:00:00+08:00",
+  "dateModified": "2025-08-04T09:20:00+08:00",
+  "author": [{
+      "@type": "Person",
+      "name": "Abhinav Pandey",
+      "url": "https://www.kashitaxi.in/author/abhinav-pandey/"
+  }],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Varanasi Insider",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.kashitaxi.in/images/logo.jpeg"
+    }
+  },
+  "description": "Your complete insider guide to visiting Varanasi in November 2025. Get the correct Dev Deepawali date, weather info, packing tips, and what to expect.",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.kashitaxi.in/en/varanasi-in-november-2025-insider-guide/"
+  },
+  "keywords": "varanasi in november, dev deepawali 2025 date, varanasi weather november, kartik purnima varanasi, visiting varanasi in november, varanasi travel guide",
+  "faqPage": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the date of Dev Deepawali in Varanasi in 2025?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dev Deepawali in Varanasi will be celebrated on Wednesday, November 5, 2025. This date corresponds to Kartik Purnima and is the city's most spectacular festival."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the weather like in Varanasi in November?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The weather in Varanasi in November is pleasantly cool and dry. Daytime temperatures are around 28°C (82°F), while nights are cooler at about 15°C (59°F), making it ideal for sightseeing."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it crowded in Varanasi in November?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, November is peak tourist season in Varanasi due to the excellent weather and the Dev Deepawali festival. Expect large crowds, especially around the ghats and temples. Booking flights, hotels, and tours well in advance is highly recommended."
+        }
+      }
+    ]
+  }
+}
