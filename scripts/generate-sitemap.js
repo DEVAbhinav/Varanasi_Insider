@@ -4,7 +4,7 @@ const matter = require('gray-matter');
 
 const SITEMAP_PATH = path.join(__dirname, '../public/sitemap.xml');
 const CONTENT_PATH = path.join(__dirname, '../content');
-const BASE_URL = 'https://banarasi.kashitaxi.in';
+const BASE_URL = 'https://www.kashitaxi.in';
 
 function getMarkdownFiles(dir) {
   const files = fs.readdirSync(dir);
