@@ -20,10 +20,14 @@ relatedPosts:
 
 Watching the spectacular Ganga Aarti from a boat on the river is an unforgettable experience. This guide provides updated prices for boat rides, details on guided tours, and essential booking tips.
 
+![Priests performing the Ganga Aarti at Dashashwamedh Ghat](/images/ganga-aarti.jpeg "Evening Ganga Aarti at Dashashwamedh Ghat")
+
 > **Secure Your Front-Row Seat!**  
 > Book a private or shared boat for the Ganga Aarti with a trusted local operator.  
 > **Call:** **[9450301573](tel:9450301573)**  
 > **Visit:** **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)**
+
+![Traditional bajra boat on the Ganges in Varanasi](/images/varanasi-river-bajra.jpeg "Traditional bajra boat for Aarti viewing")
 
 ---
 

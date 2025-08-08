@@ -17,6 +17,8 @@ tags:
 # Siddhpeeth **Shri Jageshwar Mahadev Mandir**, Varanasi  
 *A pocket guide for pilgrims, photographers & curious travellers*
 
+![Kashi temple exterior representative image](/images/varanasi-kashivishwanath-outside-l.jpeg "Representative exterior of a historic Shiva temple in Kashi")
+
 ---
 
 ## Quick-look facts
@@ -37,6 +39,8 @@ tags:
 * **Living myth in stone** – locals swear the Shiv-lingam physically elongates each Mahā Shivratri, a phenomenon recorded in *Kashi-Khaṇḍa* lore and measured by priests.  
 * **Siddh-peeth status** – considered a wish-fulfilling shrine; three months of consecutive darshan is believed to remove obstacles.  
 * **Off-beat Kashi** – far quieter than Dashāśwamedh or Kashi Vishwanath yet only ~2 km north-west of Chowk, perfect for heritage walks.
+
+![Kal Bhairav temple lane in Varanasi (symbolic of Shaivite shrines)](/images/varanasi-kal-bhairav-p.jpeg "Symbolic image from a Shaivite temple lane in Varanasi")
 
 ---
 

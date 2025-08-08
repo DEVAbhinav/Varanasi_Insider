@@ -23,6 +23,8 @@ relatedPosts:
 
 # Varanasi to Prayagraj (Allahabad): Tour Package & Yatra Guide
 
+![Allahabad/Prayagraj route visual](/images/prayagraj.jpg "Prayagraj (Allahabad) – home to the sacred Triveni Sangam")
+
 ***TL;DR: Planning a Varanasi to Prayagraj tour? This guide covers everything from travel distance and route options to a detailed Kashi-Triveni Sangam day trip itinerary, tour packages, and essential spiritual insights.***
 
 ## The Prayagraj Varanasi Spiritual Circuit
@@ -37,6 +39,8 @@ The **Varanasi Allahabad Prayag yatra** is a devotional journey, centred on holy
 ---
 
 ## Varanasi to Prayagraj: Distance, Route & Travel Options
+
+![Boat ride at the confluence (representative)](/images/sangam-600x400.jpeg "Boat ride to the Triveni Sangam for holy dip and rituals")
 
 Understanding the **Varanasi to Prayagraj distance** and travel modes is the first step in planning your trip.
 

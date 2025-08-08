@@ -20,11 +20,15 @@ relatedPosts:
 
 ## Varanasi Airport to City: An Overview
 
+![Airport taxi pickup at Varanasi (VNS)](/images/airport-taxi-600x400.jpeg "Airport taxi pickup at Varanasi (VNS)")
+
 Varanasi’s Lal Bahadur Shastri International Airport (VNS) is located about 25–32 km from the city’s main ghats and temples. The drive typically takes **40–45 minutes**, though this can vary with traffic. Pre-booking a taxi is the most convenient way to ensure a safe ride and a fixed fare.
 
 - **Sedans (Swift Dzire, Indica):** ₹750–₹950 for a one-way transfer.
 - **SUVs (Ertiga, Innova):** Cost more as they seat 6–7 passengers and offer more luggage space.
 - **Full-Day Packages:** For travellers planning extensive sightseeing, 8-hour/80 km or 12-hour/200 km packages are available.
+
+![Typical sedan used for airport transfers](/images/seden.png "Sedan commonly used for airport pick-ups and drops")
 
 ## How Much Does a Taxi Cost from Varanasi Airport?
 

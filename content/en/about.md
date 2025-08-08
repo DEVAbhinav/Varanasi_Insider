@@ -16,6 +16,8 @@ metaDescription: "Discover the story of Banarasi Kashitaxi, a family-run Varanas
 
 I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into a lifeline for pilgrims landing at Varanasi Junction. What began as a modest **Vinayak Travels Tour** counter in 1998 is now **Banarasi Kashitaxi**: a tech‑enabled fleet serving 30+ cities across Uttar Pradesh and Bihar, with special focus on women‑only Pink Taxis and curated Buddhist Circuit tours.
 
+![Women-driven Pink Taxi in Varanasi](/images/lady-taxi.jpeg "Women-driven Pink Taxi in Varanasi")
+
 ---
 
 ## Why We Exist
@@ -37,6 +39,8 @@ I grew up watching my father **Sudhir Pandey** turn a single Ambassador car in
 3. **Outstation Cabs** – Lucknow, Prayagraj, Bodhgaya, Ayodhya & more.  
 4. **Self‑Drive Scooters & Bikes** – Pick‑up at Sigra garage; photo KYC done offline in 5 min.  
 5. **Custom Tours** – Sunrise boat rides, Dev Deepawali packages, eight‑day Buddhist trail, food walks with local chefs.
+
+![Varanasi ghats panoramic hero](/images/varanasi-hero.png "Varanasi ghats at sunrise")
 
 ---
 

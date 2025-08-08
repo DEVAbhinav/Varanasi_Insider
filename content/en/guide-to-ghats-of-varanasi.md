@@ -10,9 +10,13 @@ tags: ['ghats', 'guide', 'varanasi', 'tourism']
 
 Varanasi's soul lives on its ghats, the long chain of steps leading down to the holy River Ganges. There are over 80 ghats, each with its own story and significance.
 
+![Overview of Varanasi's ghats from the river](/images/varanasi-ghats-overview.jpeg "Overview of Varanasi's ghats")
+
 ## Dashashwamedh Ghat: The Main Event
 
 This is the most spectacular and busiest ghat, famous for its daily evening Ganga Aarti ceremony. It's a must-see for any visitor.
+
+![Boats and evening lights along the ghats](/images/varanasi-ghat-boat-eve-p.jpeg "Boats and evening lights along the ghats")
 
 ### What to Expect
 * Crowds of devotees and tourists

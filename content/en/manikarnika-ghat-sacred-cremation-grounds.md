@@ -14,6 +14,8 @@ metaDescription: "A guide to Manikarnika Ghat, Varanasi's most sacred cremation 
 
 # Manikarnika Ghat: Understanding the Sacred Cremation Grounds
 
+![Panoramic ghats view (contextual, non-cremation)](/images/varanasi-ghats-overview.jpeg "A respectful, wide view of Varanasi's ghats – context for Manikarnika's riverfront setting")
+
 ## Introduction
 
 Manikarnika Ghat is Varanasi’s most sacred cremation ground, where funeral pyres burn continuously, symbolizing the eternal cycle of life and death. Believed to grant moksha (liberation from rebirth), this ghat offers a profound experience of Hindu funeral rituals. This guide explores its history, significance, and visitor guidelines.
@@ -29,6 +31,8 @@ Dating back to the 5th century, as noted in a Gupta inscription, Manikarnika Gha
 ## Significance
 
 In Hinduism, cremation at Manikarnika Ghat is believed to liberate the soul, granting moksha. The ghat operates 24/7, with an estimated 300 cremations daily, handled by the Dom community. The eternal fire and Manikarnika Kund add to its spiritual weight, making it a pivotal pilgrimage site.
+
+![Boats near the ghats at dusk (contextual)](/images/varanasi-ghat-boat-eve-p.jpeg "Boats at dusk near the ghats – a reflective moment away from cremation areas")
 
 ---
 

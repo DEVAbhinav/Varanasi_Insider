@@ -20,10 +20,14 @@ relatedPosts:
 
 Planning a road trip from Lucknow to Varanasi? This guide provides all the essential information you need, from travel time and distance to the latest taxi fares for different vehicle types.
 
+![Sedan taxi commonly used for intercity trips](/images/seden.png "Sedan taxi option for Lucknow → Varanasi road trips")
+
 > **Book Your Ride Instantly!**  
 > Get a fixed, all-inclusive fare for your Lucknow to Varanasi trip.  
 > **Call:** **[9450301573](tel:9450301573)**  
 > **Visit:** **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)**
+
+![Spacious SUV for family and group travel](/images/xuv.png "SUV option for extra luggage and comfort on the highway")
 
 ---
 

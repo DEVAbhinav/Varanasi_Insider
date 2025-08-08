@@ -20,10 +20,14 @@ relatedPosts:
 
 Planning your travel between Assi Ghat and Lal Bahadur Shastri International Airport (VNS)? This guide provides key details on the distance, travel time, and expected taxi fares to help you plan a smooth journey.
 
+![Sunrise at Assi Ghat – starting point for many travellers](/images/varanasi-assi-ghat-sunrise.jpeg "Assi Ghat at sunrise")
+
 > **Book Your Airport Transfer!**  
 > Get a fixed, reliable fare for your trip between Assi Ghat and the airport.  
 > **Call:** **[9450301573](tel:9450301573)**  
 > **Visit:** **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)**
+
+![Airport taxi pickup at Varanasi (VNS)](/images/airport-taxi-600x400.jpeg "Airport taxi pickup at VNS")
 
 ---
 

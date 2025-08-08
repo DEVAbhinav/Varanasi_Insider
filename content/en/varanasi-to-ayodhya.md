@@ -21,11 +21,15 @@ relatedPosts:
 
 # Your Ultimate Varanasi to Ayodhya Tour Package Guide
 
-Varanasi (Kashi) and Ayodhya rank among Hinduism’s **Sapta Puri**—the seven holy cities said to grant liberation. A **Kashi Ayodhya pilgrimage tour** is a sacred journey many undertake. Ayodhya, the birthplace of Lord Rama on the banks of the Sarayu, pulses with devotion, while Kashi, Lord Shiva’s city on the Ganga, is famed for its ghats and the Kashi Vishwanath Temple. A combined Varanasi–Ayodhya pilgrimage lets devotees earn immense *punya* by bathing in both sacred rivers and offering prayers at these timeless shrines.
+![Ayodhya train option visual (representative)](/images/AyodhyaTrain1.jpg "One of the convenient ways to reach Ayodhya from Varanasi is by train")
+
+Varanasi (Kashi) and Ayodhya rank among Hinduism’s **Sapta Puri**—the seven holy cities said to grant liberation. A **Kashi Ayodhya pilgrimage tour** is a sacred journey many undertake. Ayodhya, the birthplace of Lord Rama on the banks of the Sarayu, pulses with devotion, while Kashi, Lord Shiva’s city on the Ganga, is famed for its ghats and the Kashi Vishwanath Temple. A combined Varanasi–Ayodhya pilgrimage lets devotees earn immense punya by bathing in both sacred rivers and offering prayers at these timeless shrines.
 
 ---
 
 ## Varanasi to Ayodhya: Distance, Timings & Travel Options
+
+![Ayodhya road trip visual (representative)](/images/AyodhyaTaxi1.jpg "Comfortable road transfers for the Kashi → Ayodhya route")
 
 Understanding the **Varanasi Ayodhya distance by road** and other travel options is key to planning your trip.
 

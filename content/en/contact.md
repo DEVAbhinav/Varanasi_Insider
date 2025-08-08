@@ -16,12 +16,14 @@ metaDescription: "Contact Banarasi Kashitaxi for 24×7 taxi services in Varanasi
 
 Whether you need a late‑night airport transfer, a women‑only Pink Taxi, or a fully‑loaded eight‑day Buddhist Circuit itinerary, I’m just a call away. **Let’s make your Banaras journey smooth and stress‑free.**
 
+![Airport taxi pickup at Varanasi (VNS)](/images/airport-taxi-600x400.jpeg "Airport taxi pickup at Varanasi (VNS)")
+
 ---
 
 ## 📞 24 × 7 Taxi Hotline  
 
-- **Phone (India):** **+91 94503 01573**  
-- **WhatsApp / Alternate:** **+91 99354 74730**  
+- **Phone (India):** **+91 94503 01573**  
+- **WhatsApp / Alternate:** **+91 99354 74730**  
 - **International callers:** Use WhatsApp or dial with the +91 country code
 
 > _Tip: Screenshots of your flight/train ticket help us dispatch the right vehicle sooner._
@@ -41,6 +43,8 @@ We reply within **2 business hours** (often much quicker).
 Vinayak Travels Tour (Regd.)  
 **Shastri Nagar (near IP Mall), Sigra/Chetganj, Varanasi – 221 002, Uttar Pradesh, India**  
 Plus Code: `8X8Q+4R Varanasi, Uttar Pradesh`
+
+![Women-friendly Pink Taxi service](/images/lady-taxi.jpeg "Women-friendly Pink Taxi service")
 
 **Office Hours (IST)**  
 Mon–Sun  06:00 – 22:00  

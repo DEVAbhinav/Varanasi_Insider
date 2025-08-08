@@ -14,6 +14,8 @@ metaDescription: "Explore the 10 most important ghats of Varanasi, from Assi to 
 
 # A Complete Guide to the 10 Most Important Ghats of Varanasi
 
+![Panoramic view of Varanasi ghats](/images/varanasi-ghats-overview.jpeg "Panoramic view of Varanasi ghats")
+
 ## Introduction
 
 Varanasi, also known as Kashi or Benares, is one of the oldest continuously inhabited cities in the world and a spiritual epicenter of India. Situated along the sacred Ganges River, the city is renowned for its ghats—riverfront steps that serve as vital spaces for bathing, worship, meditation, and cremation. With over 80 ghats stretching along the river, each has its own unique history and significance. This comprehensive guide explores the 10 most important ghats of Varanasi, offering insights into their cultural, religious, and historical roles. Whether you’re a pilgrim seeking spiritual solace or a traveler eager to experience India’s rich heritage, these ghats provide a profound glimpse into Varanasi’s soul.
@@ -53,6 +55,8 @@ The following ghats are presented in geographical order from south to north, mak
 - **Location:** Central Varanasi, near Kashi Vishwanath Temple
 - **Significance:** Famous for the evening Ganga Aarti and its mythological ties to Lord Brahma
 - **Description:** [Dashashwamedh Ghat](/en/dashashwamedh-ghat-ganga-aarti-timing) is the heart of Varanasi, known for its vibrant Ganga Aarti ceremony held every evening. According to legend, Lord Brahma performed ten horse sacrifices (Dasa Ashwamedha Yajna) here to welcome Lord Shiva. The ghat is always bustling with pilgrims, priests, and tourists, offering a lively atmosphere and opportunities for boat rides to view the aarti from the river. For detailed timings, see our [Ganga Aarti timing guide](/en/dashashwamedh-ghat-ganga-aarti-timing).
+
+![Evening lights and boats near the ghats](/images/varanasi-ghat-boat-eve-p.jpeg "Evening lights and boats near the ghats")
 
 ### 6. Man Mandir Ghat
 
