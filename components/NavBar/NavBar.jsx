@@ -6,7 +6,7 @@ export default function NavBar() {
     <header className={styles.navHeader}>
       <nav className={styles.navContainer}>
         <Link href="/" className={styles.logo}>
-          Banaras Insider
+          Kashi taxi - A Vinayak Travels Venture
         </Link>
         <div className={styles.navLinks}>
           <Link href="/en/about" className={styles.navLink}>
@@ -15,7 +15,7 @@ export default function NavBar() {
           <Link href="/en/contact" className={styles.navLink}>
             Contact
           </Link>
-          <a href="https://kashitaxi.in" target="_blank" rel="noopener noreferrer" className={styles.navButton}>
+          <a href="https://www.kashitaxi.in" target="_blank" rel="noopener noreferrer" className={styles.navButton}>
             Book a Taxi
           </a>
         </div>

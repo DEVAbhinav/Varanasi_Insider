@@ -5,11 +5,11 @@
       "@type": "Article",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://kashitaxi.in/en/what-to-wear-in-varanasi"
+        "@id": "https://www.kashitaxi.in/en/what-to-wear-in-varanasi"
       },
       "headline": "What to Wear in Varanasi: A Guide for Every Season and Traveler",
       "description": "A comprehensive guide on what to wear in Varanasi for men, women, and solo female travelers, with tips for every season. Learn about respectful attire for temples and ghats.",
-      "image": "https://kashitaxi.in/images/pink-sky-ghat-varanasi-l.jpeg",
+      "image": "https://www.kashitaxi.in/images/pink-sky-ghat-varanasi-l.jpeg",
       "author": {
         "@type": "Organization",
         "name": "Varanasi Insider Team"
@@ -19,7 +19,7 @@
         "name": "Varanasi Insider",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://kashitaxi.in/images/logo.jpeg"
+          "url": "https://www.kashitaxi.in/images/logo.jpeg"
         }
       },
       "datePublished": "2024-05-15",
@@ -34,13 +34,13 @@
           "@type": "HowToStep",
           "name": "Follow the General Dress Code",
           "text": "Cover your shoulders and knees, choose loose-fitting clothing made of breathable fabrics like cotton or linen. This is the most important rule for respecting local customs.",
-          "image": "https://kashitaxi.in/images/sadhu-foreigner-girl.jpeg"
+          "image": "https://www.kashitaxi.in/images/sadhu-foreigner-girl.jpeg"
         },
         {
           "@type": "HowToStep",
           "name": "What Women Should Wear",
           "text": "Women should opt for modest clothing like kurtas with leggings, long skirts, or maxi dresses. A scarf or shawl is a useful accessory for extra coverage when needed.",
-          "image": "https://kashitaxi.in/images/solo-femal-traveller-varanasi.jpeg"
+          "image": "https://www.kashitaxi.in/images/solo-femal-traveller-varanasi.jpeg"
         },
         {
           "@type": "HowToStep",
@@ -56,7 +56,7 @@
           "@type": "HowToStep",
           "name": "Adhere to Temple Dress Codes",
           "text": "When visiting temples like Kashi Vishwanath, cover your head, remove your shoes, and avoid leather items. Respectful attire is essential for entering sacred sites.",
-          "image": "https://kashitaxi.in/images/kashi-temple-400x600.jpeg"
+          "image": "https://www.kashitaxi.in/images/kashi-temple-400x600.jpeg"
         }
       ]
     },

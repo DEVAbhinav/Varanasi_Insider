@@ -124,7 +124,7 @@ This is my single most important piece of advice for arriving at VNS: ignore the
 | Pink Cab | N/A | Fares are comparable to sedans/SUVs | This women-only service offers enhanced security but must be pre-booked (see Section 5 for details). |
 
 ### Late-Night Arrival Safety Tips & Verified Drivers
-Arriving late at night requires extra precaution, particularly for solo female travelers, as the city can feel unsafe after dark. If your flight or train arrives late, I strongly recommend pre-booking your transfer directly through your hotel or via a reputable local taxi company https://kashitaxi.in  at 9450301573 
+Arriving late at night requires extra precaution, particularly for solo female travelers, as the city can feel unsafe after dark. If your flight or train arrives late, I strongly recommend pre-booking your transfer directly through your hotel or via a reputable local taxi company https://www.kashitaxi.in  at 9450301573 
 
 Having a verified driver who knows your name and destination waiting for you is the safest possible way to arrive. Before you get in the car, confirm the driver's name and vehicle details with the information sent by the company. It's also wise to have your hotel's phone number readily available. You can ask the driver to call the hotel to confirm the exact drop-off point, which is especially helpful if your accommodation is tucked away in the hard-to-navigate old city alleys.
 
@@ -350,7 +350,7 @@ Having the right apps on your phone can dramatically improve your travel experie
 * **Bus Travel:** RedBus is the go-to platform for booking seats on inter-city buses.
 * **Food:** Zomato and Swiggy are the dominant food delivery apps, perfect for a quiet night in at your hotel.   
 * **Payments:** Google Pay or BHIM are the leading UPI apps. You can link your UPI One World wallet to them for easy payments.
-* **Local Guide:** And of course, Banaras Insider (your website), for our curated, in-depth guides, safety updates, and interactive maps.
+* **Local Guide:** And of course, Kashi Taxi (https://www.kashitaxi.in), for our curated, in-depth guides, safety updates, and interactive maps.
 
 ## Cultural Etiquette in Varanasi & What to Wear for Respectful Travel
 Varanasi is one of the most sacred cities in Hinduism, and your experience will be profoundly enriched—and your safety enhanced—by showing respect for its ancient customs. Cultural awareness is not just about being polite; it's about understanding the spiritual grammar of the city.
