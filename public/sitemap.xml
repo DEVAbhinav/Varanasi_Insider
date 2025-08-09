@@ -223,4 +223,10 @@
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
+   <url>
+    <loc>https://www.kashitaxi.in/rates/outstation-taxi-varanasi</loc>
+    <lastmod>2025-08-09T20:52:02.718Z</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
