@@ -238,19 +238,19 @@ export default function KashiTaxiIntro() {
                 <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/10 to-transparent" />
               </div>
               <div className="flex items-center gap-2">
-                <span className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-amber-100 text-amber-700">
+                <span className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-orange-100 text-orange-700">
                   <c.icon className="h-5 w-5"/>
                 </span>
                 <CardTitle className="text-base md:text-lg">{c.title}</CardTitle>
               </div>
               <CardContent className="mt-3 space-y-2 p-0 text-sm text-slate-600">
-                <div className="inline-flex items-center rounded-full bg-amber-50 px-3 py-1 text-xs font-semibold text-amber-900 ring-1 ring-amber-200">
+                <div className="inline-flex items-center rounded-full bg-orange-50 px-3 py-1 text-xs font-semibold text-orange-900 ring-1 ring-orange-200">
                   {c.price}
                 </div>
                 <p>{c.meta}</p>
                 <div className="flex flex-wrap gap-3 pt-1">
                   {c.links.map((l) => (
-                    <a key={l.href} href={l.href} className="text-amber-700 underline underline-offset-4 hover:text-amber-800">{l.label}</a>
+                    <a key={l.href} href={l.href} className="text-orange-700 underline underline-offset-4 hover:text-orange-800">{l.label}</a>
                   ))}
                 </div>
               </CardContent>
@@ -259,10 +259,10 @@ export default function KashiTaxiIntro() {
         </div>
 
         {/* tip */}
-        <div role="note" className="mt-6 rounded-md border border-amber-200 bg-amber-50 p-4 text-sm">
+        <div role="note" className="mt-6 rounded-md border border-orange-200 bg-orange-50 p-4 text-sm">
           <p>
             <strong>Tip:</strong> Early‑morning Subah‑e‑Banaras aarti? We do reliable 4:30–5:30 AM pickups. See timings: {" "}
-            <a className="text-amber-700 underline" href="/en/assi-ghat-aarti-timings-2025">Assi Ghat Aarti Timings 2025</a>
+            <a className="text-orange-700 underline" href="/en/assi-ghat-aarti-timings-2025">Assi Ghat Aarti Timings 2025</a>
           </p>
         </div>
       </motion.section>
@@ -270,10 +270,10 @@ export default function KashiTaxiIntro() {
       {/* ROUTES */}
       <motion.section id="routes" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
         <div className="mb-2 flex items-center gap-2">
-          <MapPin className="h-5 w-5 text-amber-600"/>
+          <MapPin className="h-5 w-5 text-orange-600"/>
           <h3 className="text-2xl font-semibold tracking-tight">Popular routes & day trips</h3>
         </div>
-        <div className="h-1 w-24 rounded-full bg-gradient-to-r from-amber-500 via-orange-500 to-rose-500"/>
+        <div className="h-1 w-24 rounded-full bg-gradient-to-r from-orange-500 via-orange-500 to-rose-500"/>
         <div className="mt-6 grid gap-5 md:grid-cols-2">
           <Card className="rounded-2xl border-2">
             <CardHeader>
@@ -312,9 +312,9 @@ export default function KashiTaxiIntro() {
             { icon: MessageCircle, title: "Easy booking", desc: "WhatsApp confirmation + driver/vehicle number in advance." },
             { icon: HeartHandshake, title: "Help for pilgrims", desc: "Nearest ghat access guidance & luggage assistance." },
           ].map((f) => (
-            <Card key={f.title} className="rounded-2xl border bg-white p-5 shadow-sm ring-1 ring-amber-100">
+            <Card key={f.title} className="rounded-2xl border bg-white p-5 shadow-sm ring-1 ring-orange-100">
               <div className="flex items-center gap-3">
-                <span className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-amber-100 text-amber-700">
+                <span className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-orange-100 text-orange-700">
                   <f.icon className="h-5 w-5"/>
                 </span>
                 <CardTitle className="text-base">{f.title}</CardTitle>
@@ -328,13 +328,13 @@ export default function KashiTaxiIntro() {
       {/* AIRPORT PICKUP */}
       <motion.section id="airport-pickup" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
         <div className="mb-2 flex items-center gap-2">
-          <PlaneLanding className="h-5 w-5 text-amber-600"/>
+          <PlaneLanding className="h-5 w-5 text-orange-600"/>
           <h3 className="text-2xl font-semibold tracking-tight">Varanasi Airport pickup—how it works</h3>
         </div>
-        <div className="h-1 w-24 rounded-full bg-gradient-to-r from-amber-500 via-orange-500 to-rose-500"/>
+        <div className="h-1 w-24 rounded-full bg-gradient-to-r from-orange-500 via-orange-500 to-rose-500"/>
         <p className="mt-3 text-slate-600">
           Your driver waits near Arrival Gate 2 with your nameboard. First 15 minutes of parking included; if your flight is delayed, we adjust the pickup and keep you posted. We’ll help with luggage and coordinate the best drop gate for the ghats (cars can’t enter some lanes—our team guides you to the nearest point). {" "}
-          <a href="/en/varanasi-airport-taxi-guide" className="text-amber-700 underline">Learn more</a>.
+          <a href="/en/varanasi-airport-taxi-guide" className="text-orange-700 underline">Learn more</a>.
         </p>
       </motion.section>
 
@@ -344,7 +344,7 @@ export default function KashiTaxiIntro() {
         <p className="text-slate-600">Assi Ghat, Dashashwamedh, Godowlia, Chowk, Lahurabir, Sigra/Chetganj, BHU, Lanka, Cantonment, Sarnath, Babatpur Airport (VNS) and all major hotels, homestays and hostels.</p>
         <div className="mt-4 flex flex-wrap gap-2">
           {["Assi Ghat","Dashashwamedh","Godowlia","Chowk","Lahurabir","Sigra","Chetganj","BHU","Lanka","Cantonment","Sarnath","Babatpur Airport"].map((t) => (
-            <span key={t} className="rounded-full border border-amber-200 bg-amber-50 px-3 py-1 text-xs font-medium text-amber-900">{t}</span>
+            <span key={t} className="rounded-full border border-orange-200 bg-orange-50 px-3 py-1 text-xs font-medium text-orange-900">{t}</span>
           ))}
         </div>
       </motion.section>
@@ -366,7 +366,7 @@ export default function KashiTaxiIntro() {
                   <MessageCircle className="mr-2 h-4 w-4"/> WhatsApp Us
                 </a>
               </Button>
-              <Button asChild variant="secondary" className="rounded-2xl border-amber-200 bg-amber-50 text-amber-900 hover:bg-amber-100">
+              <Button asChild variant="secondary" className="rounded-2xl border-orange-200 bg-orange-50 text-orange-900 hover:bg-orange-100">
                 <a href="tel:+919450301573" aria-label="Call now +91-94503-01573">
                   <Phone className="mr-2 h-4 w-4"/> Call Now
                 </a>
@@ -420,13 +420,13 @@ export default function KashiTaxiIntro() {
           We’re a Varanasi‑based taxi operator helping pilgrims and travellers with airport transfers, local sightseeing and outstation trips across Uttar Pradesh and Bihar. Our focus is simple: safe, clean, punctual rides with honest pricing and real, local support.
         </p>
         <p className="mt-2 text-sm">
-          More: <a className="text-amber-700 underline" href="/en/about">About us</a> · <a className="text-amber-700 underline" href="/en/contact">Contact</a>
+          More: <a className="text-orange-700 underline" href="/en/about">About us</a> · <a className="text-orange-700 underline" href="/en/contact">Contact</a>
         </p>
         <div className="mt-6 flex flex-wrap gap-3">
           <Button asChild className="rounded-2xl bg-gradient-to-r from-emerald-600 to-green-600 hover:from-emerald-700 hover:to-green-700">
             <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer"><MessageCircle className="mr-2 h-4 w-4"/> WhatsApp Us</a>
           </Button>
-          <Button asChild variant="secondary" className="rounded-2xl border-amber-200 bg-amber-50 text-amber-900 hover:bg-amber-100">
+          <Button asChild variant="secondary" className="rounded-2xl border-orange-200 bg-orange-50 text-orange-900 hover:bg-orange-100">
             <a href="tel:+919450301573"><Phone className="mr-2 h-4 w-4"/> Call Now</a>
           </Button>
         </div>

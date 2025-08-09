@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.kashitaxi.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.kashitaxi.in/en/" },
+        { "@type": "ListItem", "position": 3, "name": "Outstation Cabs from Varanasi" }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.kashitaxi.in/en/outstation-cabs-from-varanasi/#article",
+      "headline": "Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)",
+      "description": "Daily outstation cabs from Varanasi: Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 seater) with luggage carrier, GST invoice, fares, routes & FAQs.",
+      "url": "https://www.kashitaxi.in/en/outstation-cabs-from-varanasi/",
+      "image": [
+        "https://www.kashitaxi.in/images/tempotraveller.png"
+      ],
+      "author": { "@type": "Person", "name": "Abhinav Pandey" },
+      "publisher": { "@id": "https://www.kashitaxi.in/#org" },
+      "datePublished": "2025-08-10",
+      "dateModified": "2025-08-10",
+      "inLanguage": "en-IN",
+      "articleSection": [
+        "Popular Outstation Routes",
+        "Choose Your Vehicle",
+        "Fare Guidance",
+        "Luggage Carrier",
+        "FAQs"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/outstation-cabs-from-varanasi/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I choose 6 or 7 seats in Innova?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We log your preference (captain seats vs bench) during booking based on availability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you count distance—garage to garage or pickup to drop?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Industry standard is garage-to-garage; your quote will show the assumed start/return point."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I add a luggage carrier for Innova/Ertiga/SUV?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, request outstation cab with luggage carrier Varanasi while booking so we arrange the right rack and rain cover."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide bills?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes—WhatsApp estimate, trip sheet, and GST invoice on eligible bookings."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my plan changes mid-trip?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tell your chauffeur and message dispatch—fare adjusts transparently to actual km/days."
+          }
+        }
+      ]
+    }
+  ]
+}
