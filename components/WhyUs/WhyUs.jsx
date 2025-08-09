@@ -25,15 +25,17 @@ const features = [
 
 export default function WhyUs() {
 	return (
-		<section className={styles.container}>
-			<h2 className={styles.sectionTitle}>Why Choose Vinayak Travels Tour?</h2>
+		<section className={styles.container} aria-label="Why choose Vinayak Travels">
+			<header>
+				<h2 className={styles.sectionTitle}>Why Choose Vinayak Travels Tour?</h2>
+			</header>
 			<div className={styles.gridContainer}>
 				{features.map((feature, index) => (
-					<div key={index} className={styles.featureCard}>
-						<div className={styles.iconWrapper}>{feature.icon}</div>
+					<article key={index} className={styles.featureCard}>
+						<div className={styles.iconWrapper} role="img" aria-label={`${feature.title} icon`}>{feature.icon}</div>
 						<h3 className={styles.featureTitle}>{feature.title}</h3>
 						<p className={styles.featureDescription}>{feature.description}</p>
-					</div>
+					</article>
 				))}
 			</div>
 		</section>

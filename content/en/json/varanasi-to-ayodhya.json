@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.kashitaxi.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Routes", "item": "https://www.kashitaxi.in/en/" },
+        { "@type": "ListItem", "position": 3, "name": "Varanasi ↔ Ayodhya Taxi" }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/#ayodhya-transfer",
+      "serviceType": "Outstation Taxi",
+      "category": "Taxi Service",
+      "name": "Varanasi ⇄ Ayodhya Taxi Service",
+      "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya/",
+      "areaServed": [
+        { "@type": "City", "name": "Varanasi" },
+        { "@type": "City", "name": "Ayodhya" }
+      ],
+      "provider": { "@id": "https://www.kashitaxi.in/#org" },
+      "image": [
+        "/images/AyodhyaTrain1.jpg",
+        "/images/AyodhyaTaxi1.jpg"
+      ],
+      "offers": [
+        { "@type": "Offer", "name": "One-way Sedan (VNS → AY)", "priceCurrency": "INR", "price": "2500", "priceValidUntil": "2026-03-31", "availability": "https://schema.org/InStock" },
+        { "@type": "Offer", "name": "Same‑day Return Sedan", "priceCurrency": "INR", "price": "5000", "priceValidUntil": "2026-03-31", "availability": "https://schema.org/InStock" },
+        { "@type": "Offer", "name": "SUV Upgrade", "priceCurrency": "INR", "price": "1500", "priceValidUntil": "2026-03-31", "availability": "https://schema.org/InStock" }
+      ]
+    }
+  ]
+}

@@ -31,30 +31,34 @@ const packages = [
 
 export default function PopularPackages() {
 	return (
-		<section className={styles.container}>
-			<h2 className={styles.sectionTitle}>Popular Tour Packages</h2>
+		<section className={styles.container} aria-label="Popular tour packages">
+			<header>
+				<h2 className={styles.sectionTitle}>Popular Tour Packages</h2>
+			</header>
 			<div className={styles.gridContainer}>
 				{packages.map((pkg) => (
-					<Link
-						key={pkg.slug}
-						href={`/en/package/${pkg.slug}`}
-						className={styles.card}
-					>
-						<Image
-							src={pkg.image}
-							alt={pkg.title}
-							className={styles.cardImage}
-							width={pkg.width}
-							height={pkg.height}
-							sizes="(max-width: 768px) 100vw, 33vw"
-						/>
-						<div className={styles.cardContent}>
-							<h3 className={styles.cardTitle}>{pkg.title}</h3>
-							<p className={styles.cardPrice}>
-								Starts from {pkg.price}
-							</p>
-						</div>
-					</Link>
+					<article key={pkg.slug}>
+						<Link
+							href={`/en/package/${pkg.slug}`}
+							className={styles.card}
+							aria-label={`View details for ${pkg.title} package starting from ${pkg.price}`}
+						>
+							<Image
+								src={pkg.image}
+								alt={`${pkg.title} - Varanasi tour package`}
+								className={styles.cardImage}
+								width={pkg.width}
+								height={pkg.height}
+								sizes="(max-width: 768px) 100vw, 33vw"
+							/>
+							<div className={styles.cardContent}>
+								<h3 className={styles.cardTitle}>{pkg.title}</h3>
+								<p className={styles.cardPrice}>
+									Starts from {pkg.price}
+								</p>
+							</div>
+						</Link>
+					</article>
 				))}
 			</div>
 		</section>

@@ -1,4 +1,4 @@
-/* ...existing file header... */
+/* NavBar styles using Tailwind via @apply */
 .navHeader {
   @apply bg-white/80 backdrop-blur-sm border-b border-gray-200/80 sticky top-0 z-50;
 }
@@ -16,4 +16,10 @@
 }
 .navButton {
   @apply bg-yellow-500 text-white font-bold py-2 px-4 rounded-lg hover:bg-yellow-600 transition-colors text-sm;
+}
+.navButtonWhatsApp {
+  @apply bg-green-600 text-white font-bold py-2 px-3 rounded-lg hover:bg-green-700 transition-colors text-sm;
+}
+.navButtonCall {
+  @apply bg-blue-600 text-white font-bold py-2 px-3 rounded-lg hover:bg-blue-700 transition-colors text-sm;
 }

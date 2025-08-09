@@ -14,7 +14,7 @@ const CANONICAL = 'https://www.kashitaxi.in';
 
 function MyApp({ Component, pageProps }) {
   const { asPath } = useRouter();
-  const url = `${CANONICAL}${asPath.split('#')[0]}`;
+  const url = `${CANONICAL}${asPath.split('#')[0].split('?')[0]}`;
   return (
     <>
       <Head>

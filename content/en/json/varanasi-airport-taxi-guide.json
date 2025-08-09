@@ -8,13 +8,13 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://banarasi.kashitaxi.in/"
+          "item": "https://www.kashitaxi.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Transport",
-          "item": "https://banarasi.kashitaxi.in/en/transport/"
+          "item": "https://www.kashitaxi.in/en/"
         },
         {
           "@type": "ListItem",
@@ -26,7 +26,7 @@
     {
       "@type": "HowTo",
       "name": "How to book a prepaid taxi at Varanasi airport",
-      "image": "/images/posts/vns-prepaid-slip.jpg",
+      "image": "/images/airport-taxi-600x400.jpeg",
       "totalTime": "PT5M",
       "step": [
         {
@@ -108,6 +108,41 @@
       "thumbnailUrl": "https://img.youtube.com/vi/your-video-id/maxresdefault.jpg",
       "uploadDate": "2025-07-21",
       "contentUrl": "https://www.youtube.com/watch?v=your-video-id"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/#airport-transfer",
+      "serviceType": "Airport Transfer",
+      "category": "Taxi Service",
+      "name": "Varanasi Airport (VNS) ⇄ City Taxi",
+      "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide/",
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Varanasi"
+      },
+      "provider": { "@id": "https://www.kashitaxi.in/#org" },
+      "image": [
+        "/images/seden.png",
+        "/images/xuv.png"
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Prepaid Sedan (Airport → Ghats/City)",
+          "priceCurrency": "INR",
+          "price": "850",
+          "priceValidUntil": "2026-03-31",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Prepaid SUV (Airport → Ghats/City)",
+          "priceCurrency": "INR",
+          "price": "1100",
+          "priceValidUntil": "2026-03-31",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
     }
   ]
 }

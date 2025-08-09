@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.kashitaxi.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Routes", "item": "https://www.kashitaxi.in/en/" },
+        { "@type": "ListItem", "position": 3, "name": "Varanasi ↔ Prayagraj Taxi" }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/#prayagraj-transfer",
+      "serviceType": "Outstation Taxi",
+      "category": "Taxi Service",
+      "name": "Varanasi ⇄ Prayagraj (Allahabad) Taxi Service",
+      "url": "https://www.kashitaxi.in/en/varanasi-to-prayagraj/",
+      "areaServed": [
+        { "@type": "City", "name": "Varanasi" },
+        { "@type": "City", "name": "Prayagraj" }
+      ],
+      "provider": { "@id": "https://www.kashitaxi.in/#org" },
+      "image": [
+        "/images/prayagraj.jpg",
+        "/images/sangam-600x400.jpeg"
+      ],
+      "offers": [
+        { "@type": "Offer", "name": "Same‑day Return Sedan (VNS ⇄ PRYJ)", "priceCurrency": "INR", "price": "3500", "priceValidUntil": "2026-03-31", "availability": "https://schema.org/InStock" },
+        { "@type": "Offer", "name": "1N/2D Package (Sedan)", "priceCurrency": "INR", "price": "5500", "priceValidUntil": "2026-03-31", "availability": "https://schema.org/InStock" }
+      ]
+    }
+  ]
+}

@@ -19,9 +19,9 @@ export default function HeroSection() {
   };
 
   return (
-    <div className={styles.heroContainer}>
+    <section className={styles.heroContainer} aria-label="Varanasi taxi booking hero section">
       <Image
-        alt="Varanasi's ganga aarti in evening"
+        alt="Varanasi's ganga aarti in evening - scenic view of holy ghats"
         src="/images/varanasi-hero.png"
         fill
         style={{ objectFit: 'cover' }}
@@ -29,9 +29,11 @@ export default function HeroSection() {
       />
       <div className={styles.overlay}></div>
       <div className={styles.content}>
-        <h1 className={styles.title}>Varanasi's Most Trusted Taxi Service</h1>
-        <p className={styles.subtitle}>Reliable Airport Pickups, Local Sightseeing & Outstation Trips</p>
-        <form onSubmit={handleSubmit} className={styles.bookingForm}>
+        <header>
+          <h1 className={styles.title}>Varanasi's Most Trusted Taxi Service</h1>
+          <p className={styles.subtitle}>Reliable Airport Pickups, Local Sightseeing & Outstation Trips</p>
+        </header>
+        <form onSubmit={handleSubmit} className={styles.bookingForm} aria-label="Quick taxi booking form">
           <input
             type="text"
             placeholder="Your Name"
@@ -39,6 +41,7 @@ export default function HeroSection() {
             value={name}
             onChange={(e) => setName(e.target.value)}
             required
+            aria-label="Enter your full name"
           />
           <input
             type="text"
@@ -47,6 +50,7 @@ export default function HeroSection() {
             value={pickup}
             onChange={(e) => setPickup(e.target.value)}
             required
+            aria-label="Enter pickup location in Varanasi"
           />
           <input
             type="text"
@@ -55,11 +59,12 @@ export default function HeroSection() {
             value={dropoff}
             onChange={(e) => setDropoff(e.target.value)}
             required
+            aria-label="Enter destination location"
           />
-          <button type="submit" className={styles.submitButton}>Request a Call Back</button>
+          <button type="submit" className={styles.submitButton} aria-label="Submit booking request">Request a Call Back</button>
         </form>
-        {message && <p className={styles.successMessage}>{message}</p>}
+        {message && <p className={styles.successMessage} role="status" aria-live="polite">{message}</p>}
       </div>
-    </div>
+    </section>
   );
 }

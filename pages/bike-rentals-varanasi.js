@@ -4,7 +4,7 @@ import NavBar from '../components/NavBar/NavBar';
 import Footer from '../components/Footer/Footer';
 import fleet from '../data/fleet.json';
 import { getSortedPostsData } from '../lib/posts';
-import PinkTaxiSection from '../components/PinkTaxiSection/PinkTaxiSection';
+import PinkTaxiSection1 from '../components/PinkTaxiSection/PinkTaxiSection1';
 
 // SEO: Structured Data for Local Business
 const jsonLd = {
@@ -71,9 +71,7 @@ export default function BikeRentalsPage({ allPosts }) {
                 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
             </Head>
             <NavBar />
-            <div className="bg-gray-50 text-gray-800">
-                <PinkTaxiSection />
-                
+            <div className="bg-gray-50 text-gray-800">                
                 {/* Hero Section */}
                 <section className="relative h-[60vh] min-h-[400px] text-white">
                     <Image
@@ -97,6 +95,8 @@ export default function BikeRentalsPage({ allPosts }) {
                         </a>
                     </div>
                 </section>
+                <PinkTaxiSection1 />
+
 
                 {/* How It Works (Manual Flow) */}
                 <section className="bg-white py-16 sm:py-20">

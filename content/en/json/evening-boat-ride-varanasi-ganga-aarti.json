@@ -3,14 +3,14 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://banarasi.kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti"
+    "@id": "https://www.kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti/"
   },
   "headline": "Evening Boat Ride Varanasi: Watch Ganga Aarti from Water (2025 Guide)",
   "description": "Your complete 2025 guide to the evening boat ride in Varanasi for the Ganga Aarti. Find timings, costs, booking tips, and the best view from the water.",
   "image": [
-    "https://banarasi.kashitaxi.in/images/eveningAartiHero.jpg",
-    "https://banarasi.kashitaxi.in/images/ganga-aarti.jpeg",
-    "https://banarasi.kashitaxi.in/images/varanasi-river-bajra.jpeg"
+    "https://www.kashitaxi.in/images/varanasi-ghat-boat-eve-p.jpeg",
+    "https://www.kashitaxi.in/images/ganga-aarti.jpeg",
+    "https://www.kashitaxi.in/images/varanasi-river-bajra.jpeg"
   ],
   "author": {
     "@type": "Person",
@@ -18,10 +18,10 @@
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Banarasi Kashitaxi",
+    "name": "Kashi Taxi",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://banarasi.kashitaxi.in/images/logo.png"
+      "url": "https://www.kashitaxi.in/logo.jpeg"
     }
   },
   "datePublished": "2025-08-01",
