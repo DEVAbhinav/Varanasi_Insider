@@ -1,15 +1,39 @@
 // This is the main landing page for the entire site.
 import NavBar from '../components/NavBar/NavBar';
 import HeroSection from '../components/HeroSection/HeroSection';
-import CTASection from '../components/CTASection/CTASection';
 import Footer from '../components/Footer/Footer';
 import Head from 'next/head';
-import PinkTaxiSection1 from '../components/PinkTaxiSection/PinkTaxiSection1';
+import dynamic from 'next/dynamic';
 import { getSortedPostsData } from '../lib/posts';
-import BikeRentalFlash from '../components/BikeRentalFlash/BikeRentalFlash';
 import JsonLd from '../components/JsonLd/JsonLd';
 import getHomeSchema from '../components/JsonLd/homepageSchema';
-import KashiTaxiIntro from '../components/KashiTaxiIntro/KashiTaxiIntro';
+
+// Lightweight skeleton for section placeholders
+function SectionSkeleton({ title = 'Loading…' }) {
+  return (
+    <div className="mx-auto my-8 w-full max-w-5xl animate-pulse rounded-2xl border border-gray-200 bg-white/50 p-6">
+      <div className="h-6 w-40 rounded bg-gray-200" aria-hidden />
+      <div className="mt-4 h-4 w-full rounded bg-gray-100" aria-hidden />
+      <div className="mt-2 h-4 w-5/6 rounded bg-gray-100" aria-hidden />
+      <span className="sr-only">{title}</span>
+    </div>
+  );
+}
+
+const PinkTaxiSection1 = dynamic(() => import('../components/PinkTaxiSection/PinkTaxiSection1'), {
+  loading: () => <SectionSkeleton title="Pink Taxi" />,
+});
+const KashiTaxiIntro = dynamic(() => import('../components/KashiTaxiIntro/KashiTaxiIntro'), {
+  loading: () => <SectionSkeleton title="Kashi Taxi Intro" />,
+});
+const CTASection = dynamic(() => import('../components/CTASection/CTASection'), {
+  loading: () => <SectionSkeleton title="Get in touch" />,
+});
+// Only one BikeRentalFlash, loaded dynamically and below-the-fold
+const BikeRentalFlash = dynamic(() => import('../components/BikeRentalFlash/BikeRentalFlash'), {
+  loading: () => <SectionSkeleton title="Bike Rentals" />,
+  ssr: false,
+});
 
 export default function HomePage({ allPosts }) {
   const SITE = 'https://www.kashitaxi.in';
@@ -45,8 +69,9 @@ export default function HomePage({ allPosts }) {
       <JsonLd data={structuredData} />
       <NavBar />
       <main className="pb-24 md:pb-0">
-        <BikeRentalFlash />
+        {/* Keep above-the-fold lean: Hero first */}
         <HeroSection />
+        {/* Code-split sections below */}
         <PinkTaxiSection1 />
         <KashiTaxiIntro />
         <BikeRentalFlash />

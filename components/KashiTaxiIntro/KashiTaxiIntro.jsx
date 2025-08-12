@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { motion } from "framer-motion";
+// Removed framer-motion to reduce JS cost
 import {
   Phone,
   MessageCircle,
@@ -24,18 +24,10 @@ import { Badge } from "@/components/ui/badge";
 import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ui/accordion";
 import { Separator } from "@/components/ui/separator";
 
-// micro‑motion preset
-const fadeUp = {
-  initial: { opacity: 0, y: 16 },
-  whileInView: { opacity: 1, y: 0 },
-  transition: { duration: 0.5, ease: "easeOut" },
-  viewport: { once: true, margin: "-80px" },
-};
-
 // Beautiful, production‑ready KashiTaxiIntro with saffron/peach palette
-// ‑ Uses shadcn/ui + lucide + framer‑motion + next/image
-// ‑ No JSON‑LD (you already emit it at page level)
-// ‑ Keeps your IDs/links/phone numbers
+// – Uses shadcn/ui + lucide + next/image (animations removed for performance)
+// – No JSON‑LD (you already emit it at page level)
+// – Keeps your IDs/links/phone numbers
 export default function KashiTaxiIntro() {
   return (
     <section
@@ -43,7 +35,7 @@ export default function KashiTaxiIntro() {
       className="relative bg-gradient-to-b from-white via-white to-orange-50/30"
     >
       {/* TOP: intro + actions */}
-      <motion.div {...fadeUp} className="mx-auto max-w-6xl px-4 py-10 md:py-14">
+      <div className="mx-auto max-w-6xl px-4 py-10 md:py-14 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <div className="grid items-start gap-8 md:grid-cols-[1.25fr_.9fr]">
           {/* left: text */}
           <div>
@@ -111,7 +103,7 @@ export default function KashiTaxiIntro() {
             </CardContent>
           </Card>
         </div>
-      </motion.div>
+      </div>
 
       {/* STICKY SECTION TABS */}
       <div className="sticky top-16 z-30 border-y bg-gradient-to-r from-orange-50/90 via-orange-50/90 to-rose-50/90 backdrop-blur supports-[backdrop-filter]:bg-white/60">
@@ -142,7 +134,7 @@ export default function KashiTaxiIntro() {
       </div>
 
       {/* FARES */}
-      <motion.section id="fares" {...fadeUp} className="mx-auto max-w-6xl px-4 pt-10 md:pt-16 pb-6">
+      <section id="fares" className="mx-auto max-w-6xl px-4 pt-10 md:pt-16 pb-6 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <div className="mb-2 flex items-center gap-2">
           <IndianRupee className="h-5 w-5 text-orange-600"/>
           <h3 className="text-2xl font-semibold tracking-tight">Transparent taxi fares (2025)</h3>
@@ -265,10 +257,10 @@ export default function KashiTaxiIntro() {
             <a className="text-orange-700 underline" href="/en/assi-ghat-aarti-timings-2025">Assi Ghat Aarti Timings 2025</a>
           </p>
         </div>
-      </motion.section>
+      </section>
 
       {/* ROUTES */}
-      <motion.section id="routes" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+      <section id="routes" className="mx-auto max-w-6xl px-4 py-10 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <div className="mb-2 flex items-center gap-2">
           <MapPin className="h-5 w-5 text-orange-600"/>
           <h3 className="text-2xl font-semibold tracking-tight">Popular routes & day trips</h3>
@@ -298,10 +290,10 @@ export default function KashiTaxiIntro() {
             </CardContent>
           </Card>
         </div>
-      </motion.section>
+      </section>
 
       {/* WHY US */}
-      <motion.section id="why-kashi-taxi" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+      <section id="why-kashi-taxi" className="mx-auto max-w-6xl px-4 py-10 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <h3 className="text-2xl font-semibold tracking-tight">Why travellers choose Kashi Taxi</h3>
         <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {[
@@ -323,10 +315,10 @@ export default function KashiTaxiIntro() {
             </Card>
           ))}
         </div>
-      </motion.section>
+      </section>
 
       {/* AIRPORT PICKUP */}
-      <motion.section id="airport-pickup" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+      <section id="airport-pickup" className="mx-auto max-w-6xl px-4 py-10 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <div className="mb-2 flex items-center gap-2">
           <PlaneLanding className="h-5 w-5 text-orange-600"/>
           <h3 className="text-2xl font-semibold tracking-tight">Varanasi Airport pickup—how it works</h3>
@@ -336,10 +328,10 @@ export default function KashiTaxiIntro() {
           Your driver waits near Arrival Gate 2 with your nameboard. First 15 minutes of parking included; if your flight is delayed, we adjust the pickup and keep you posted. We’ll help with luggage and coordinate the best drop gate for the ghats (cars can’t enter some lanes—our team guides you to the nearest point). {" "}
           <a href="/en/varanasi-airport-taxi-guide" className="text-orange-700 underline">Learn more</a>.
         </p>
-      </motion.section>
+      </section>
 
       {/* SERVICE AREAS */}
-      <motion.section id="service-areas" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+      <section id="service-areas" className="mx-auto max-w-6xl px-4 py-10 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <h3 className="text-2xl font-semibold tracking-tight">Service areas in Varanasi</h3>
         <p className="text-slate-600">Assi Ghat, Dashashwamedh, Godowlia, Chowk, Lahurabir, Sigra/Chetganj, BHU, Lanka, Cantonment, Sarnath, Babatpur Airport (VNS) and all major hotels, homestays and hostels.</p>
         <div className="mt-4 flex flex-wrap gap-2">
@@ -347,10 +339,10 @@ export default function KashiTaxiIntro() {
             <span key={t} className="rounded-full border border-orange-200 bg-orange-50 px-3 py-1 text-xs font-medium text-orange-900">{t}</span>
           ))}
         </div>
-      </motion.section>
+      </section>
 
       {/* HOW TO BOOK */}
-      <motion.section id="how-to-book" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+      <section id="how-to-book" className="mx-auto max-w-6xl px-4 py-10 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <h3 className="text-2xl font-semibold tracking-tight">How to book (simple steps)</h3>
         <div className="mt-6 grid gap-5 md:grid-cols-2">
           <ol className="list-decimal space-y-3 pl-5 text-slate-600">
@@ -374,10 +366,10 @@ export default function KashiTaxiIntro() {
             </CardContent>
           </Card>
         </div>
-      </motion.section>
+      </section>
 
       {/* FAQS */}
-      <motion.section id="faqs" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+      <section id="faqs" className="mx-auto max-w-6xl px-4 py-10 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <h3 className="text-2xl font-semibold tracking-tight">FAQs</h3>
         <Accordion type="single" collapsible className="mt-4">
           <AccordionItem value="item-1">
@@ -411,10 +403,10 @@ export default function KashiTaxiIntro() {
             </AccordionContent>
           </AccordionItem>
         </Accordion>
-      </motion.section>
+      </section>
 
       {/* ABOUT / FOOTER CTA */}
-      <motion.section id="about" {...fadeUp} className="mx-auto max-w-6xl px-4 pb-12">
+      <section id="about" className="mx-auto max-w-6xl px-4 pb-12 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <h3 className="text-2xl font-semibold tracking-tight">About Kashi Taxi (Vinayak Travels Tour)</h3>
         <p className="mt-2 text-slate-600">
           We’re a Varanasi‑based taxi operator helping pilgrims and travellers with airport transfers, local sightseeing and outstation trips across Uttar Pradesh and Bihar. Our focus is simple: safe, clean, punctual rides with honest pricing and real, local support.
@@ -431,7 +423,7 @@ export default function KashiTaxiIntro() {
           </Button>
         </div>
         <p className="mt-4 text-xs text-slate-500">Last updated: August 2025</p>
-      </motion.section>
+      </section>
     </section>
   );
 }

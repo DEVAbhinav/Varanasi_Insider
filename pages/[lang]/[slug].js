@@ -1,46 +1,39 @@
 // /pages/[lang]/[slug].js
 
-import Head from 'next/head';
-import { getPostData, getAllPostPaths, getJsonLdData } from '../../lib/posts';
+// Removed direct import of lib/posts to prevent client bundle fs resolution issues
 
 // Import your page components
 import NavBar from '../../components/NavBar/NavBar';
 import Header from '../../components/Header/Header';
 import ArticleSection from '../../components/ArticleSection/ArticleSection';
-import DynamicFooter from '../../components/DynamicFooter/DynamicFooter';
 import Footer from '../../components/Footer/Footer';
+import HeadForBlogs from '../../components/SEO/HeadForBlogs';
+import RelatedPostsGrid from '../../components/RelatedPosts/RelatedPostsGrid';
 
-export default function Post({ postData, relatedPosts, jsonLdData, allPosts }) {
+export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug }) {
   return (
     <>
-      {/* The standard Head component for title, meta description, etc. */}
-      <Head>
-        <title>{postData.title}</title>
-        <meta name="description" content={postData.description} />
-        {/* Add your JSON-LD data here */}
-        {jsonLdData && (
-          <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdData) }}
-          />
-        )}
-      </Head>
+      {/* Centralized SEO Head */}
+      <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={pageSlug} jsonLdData={jsonLdData} />
 
       <NavBar />
       <main>
         <Header title={postData.title} featuredImage={postData.featuredImage} />
         <ArticleSection contentHtml={postData.contentHtml} />
+        {/* Related posts grid */}
+        <RelatedPostsGrid items={relatedPosts} lang={pageLang} />
       </main>
-      <DynamicFooter relatedPosts={relatedPosts} />
       <Footer allPosts={allPosts} />
     </>
   );
 }
 
 export async function getStaticProps({ params }) {
+  const { getPostData, getJsonLdData, getRelatedPosts, getAllPostPaths } = await import('../../lib/posts');
   const postData = await getPostData(params.lang, params.slug);
-  const relatedPosts = []; // Fetch related posts logic here
   const jsonLdData = getJsonLdData(params.lang, params.slug);
+  const relatedPosts = getRelatedPosts(params.lang, params.slug);
+
   // Add a new prop with links to all posts
   const allPosts = getAllPostPaths();
   return {
@@ -49,11 +42,14 @@ export async function getStaticProps({ params }) {
       relatedPosts,
       jsonLdData,
       allPosts, // new prop for Footer links
+      pageLang: params.lang,
+      pageSlug: params.slug,
     },
   };
 }
 
 export async function getStaticPaths() {
+  const { getAllPostPaths } = await import('../../lib/posts');
   const paths = getAllPostPaths();
   return {
     paths,
