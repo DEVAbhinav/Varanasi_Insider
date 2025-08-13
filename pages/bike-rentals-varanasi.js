@@ -3,7 +3,6 @@ import Image from 'next/image';
 import NavBar from '../components/NavBar/NavBar';
 import Footer from '../components/Footer/Footer';
 import fleet from '../data/fleet.json';
-import { getSortedPostsData } from '../lib/posts';
 import PinkTaxiSection1 from '../components/PinkTaxiSection/PinkTaxiSection1';
 
 // SEO: Structured Data for Local Business
@@ -216,13 +215,8 @@ export default function BikeRentalsPage({ allPosts }) {
 }
 
 export async function getStaticProps() {
-    const enPosts = getSortedPostsData('en').map(post => ({
-        params: { lang: 'en', slug: post.slug, title: post.title || post.slug }
-    }));
-    const hiPosts = getSortedPostsData('hi').map(post => ({
-        params: { lang: 'hi', slug: post.slug, title: post.title || post.slug }
-    }));
-    const allPosts = [...enPosts, ...hiPosts];
+    const { getAllPostsMeta } = await import('../lib/posts');
+    const allPosts = getAllPostsMeta();
     return {
         props: {
             allPosts,

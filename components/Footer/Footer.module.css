@@ -19,3 +19,32 @@
 .copyright {
   @apply text-center text-gray-500 mt-12 pt-8 border-t border-gray-700 text-sm;
 }
+
+/* All Posts section styling */
+.allPostsSection {
+  @apply md:col-span-1;
+}
+
+.allPostsGrid {
+  @apply grid grid-cols-1 gap-6;
+}
+
+.langColumn {
+  @apply space-y-2;
+}
+
+.langHeader {
+  @apply text-sm font-semibold text-yellow-400 uppercase tracking-wider;
+}
+
+.allPostsList {
+  @apply space-y-1;
+}
+
+.allPostsList li {
+  @apply text-sm;
+}
+
+.viewAll {
+  @apply text-sm text-yellow-400 hover:text-yellow-300 font-medium mt-3 inline-block;
+}

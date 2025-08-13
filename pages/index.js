@@ -4,7 +4,6 @@ import HeroSection from '../components/HeroSection/HeroSection';
 import Footer from '../components/Footer/Footer';
 import Head from 'next/head';
 import dynamic from 'next/dynamic';
-import { getSortedPostsData } from '../lib/posts';
 import JsonLd from '../components/JsonLd/JsonLd';
 import getHomeSchema from '../components/JsonLd/homepageSchema';
 
@@ -90,13 +89,8 @@ export default function HomePage({ allPosts }) {
 }
 
 export async function getStaticProps() {
-  const enPosts = getSortedPostsData('en').map(post => ({
-    params: { lang: 'en', slug: post.slug, title: post.title || post.slug }
-  }));
-  const hiPosts = getSortedPostsData('hi').map(post => ({
-    params: { lang: 'hi', slug: post.slug, title: post.title || post.slug }
-  }));
-  const allPosts = [...enPosts, ...hiPosts];
+  const { getAllPostsMeta } = await import('../lib/posts');
+  const allPosts = getAllPostsMeta();
   return {
     props: {
       allPosts,

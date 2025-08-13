@@ -4,7 +4,7 @@
 
 // Import your page components
 import NavBar from '../../components/NavBar/NavBar';
-import Header from '../../components/Header/Header';
+// import Header from '../../components/Header/Header';
 import ArticleSection from '../../components/ArticleSection/ArticleSection';
 import Footer from '../../components/Footer/Footer';
 import HeadForBlogs from '../../components/SEO/HeadForBlogs';
@@ -18,7 +18,7 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
       <NavBar />
       <main>
-        <Header title={postData.title} featuredImage={postData.featuredImage} />
+        {/* <Header title={postData.title} featuredImage={postData.featuredImage} /> */}
         <ArticleSection contentHtml={postData.contentHtml} />
         {/* Related posts grid */}
         <RelatedPostsGrid items={relatedPosts} lang={pageLang} />
@@ -29,19 +29,19 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 }
 
 export async function getStaticProps({ params }) {
-  const { getPostData, getJsonLdData, getRelatedPosts, getAllPostPaths } = await import('../../lib/posts');
+  const { getPostData, getJsonLdData, getRelatedPosts, getAllPostsMeta } = await import('../../lib/posts');
   const postData = await getPostData(params.lang, params.slug);
   const jsonLdData = getJsonLdData(params.lang, params.slug);
   const relatedPosts = getRelatedPosts(params.lang, params.slug);
 
-  // Add a new prop with links to all posts
-  const allPosts = getAllPostPaths();
+  // Get organized post metadata for Footer
+  const allPosts = getAllPostsMeta();
   return {
     props: {
       postData,
       relatedPosts,
       jsonLdData,
-      allPosts, // new prop for Footer links
+      allPosts, // now contains organized metadata
       pageLang: params.lang,
       pageSlug: params.slug,
     },

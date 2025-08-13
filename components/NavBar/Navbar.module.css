@@ -6,20 +6,26 @@
   @apply container mx-auto px-6 py-3 flex justify-between items-center max-w-5xl;
 }
 .logo {
-  @apply text-xl font-bold text-gray-800;
+  @apply text-xl font-bold text-gray-800 hover:text-yellow-600 transition-colors;
+  pointer-events: auto;
 }
 .navLinks {
   @apply flex items-center space-x-5;
 }
 .navLink {
-  @apply text-gray-600 hover:text-yellow-600 transition-colors text-sm;
+  @apply text-gray-600 hover:text-yellow-600 transition-colors text-sm cursor-pointer;
+  pointer-events: auto;
+  position: relative;
+  z-index: 10;
 }
 .navButton {
   @apply bg-yellow-500 text-white font-bold py-2 px-4 rounded-lg hover:bg-yellow-600 transition-colors text-sm;
 }
 .navButtonWhatsApp {
   @apply bg-green-600 text-white font-bold py-2 px-3 rounded-lg hover:bg-green-700 transition-colors text-sm;
+  pointer-events: auto;
 }
 .navButtonCall {
   @apply bg-blue-600 text-white font-bold py-2 px-3 rounded-lg hover:bg-blue-700 transition-colors text-sm;
+  pointer-events: auto;
 }

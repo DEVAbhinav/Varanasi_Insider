@@ -5,12 +5,18 @@ export default function NavBar() {
   return (
     <header className={styles.navHeader} role="banner">
       <nav className={styles.navContainer} role="navigation" aria-label="Main navigation">
-        <Link href="/" className={styles.logo} aria-label="Kashi Taxi homepage">
-          Kashi taxi - A Vinayak Travels Venture
+        <Link href="/" className={styles.logo} aria-label="Kashi Insider homepage">
+          Kashi Insider
         </Link>
         <div className={styles.navLinks}>
-          <Link href="/en/about" className={styles.navLink}>
-            About
+          <Link href="/" className={styles.navLink}>
+            Home
+          </Link>
+          <Link href="/en" className={styles.navLink}>
+            Travel Guides
+          </Link>
+          <Link href="/rates/outstation-taxi-varanasi" className={styles.navLink}>
+            Outstation Taxis
           </Link>
           <Link href="/en/contact" className={styles.navLink}>
             Contact
