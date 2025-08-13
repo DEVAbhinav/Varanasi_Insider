@@ -1,19 +1,21 @@
 ---
-title: "दशाश्वमेध घाट गंगा आरती गाइड (2025)"
+title: "दशाश्वमेध घाट गंगा आरती गाइड (2025) — समय, नाव बुकिंग, टिप्स"
 slug: "dashashwamedh-ghat-ganga-aarti"
 date: "2025-07-22"
 author: "Abhinav Pandey"
 lang: hi-IN
 canonical: "https://banarasi.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti/"
 featuredImage: "/images/posts/dashashwamedh-ghat-aarti.jpg"
-description: "भगवान राम के अश्वमेध यज्ञ से लेकर विश्व-प्रसिद्ध गंगा आरती तक—दशाश्वमेध घाट की पूरी जानकारी, समय और पहुँच मार्ग।"
+description: "भगवान राम के अश्वमेध यज्ञ से लेकर विश्व-प्रसिद्ध गंगा आरती तक—दशाश्वमेध घाट की पूरी जानकारी, समय और पहुंच मार्ग।"
 tags:
   - दशाश्वमेध घाट
   - गंगा आरती
   - वाराणसी
-  - देव दीपावली
+  - देव दीवाली
 lastUpdated: "2025-07-22"
 ---
+
+# दशाश्वमेध घाट गंगा आरती समय (2025): नाव बुकिंग और दर्शक टिप्स
 
 ## 1. इतिहास व महत्व  
 
