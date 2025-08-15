@@ -1,261 +1,307 @@
-[
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is Varanasi safe at night for solo women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Main ghats see decent foot traffic till about 9 p.m.; after that, stick to lit roads or a prepaid cab."
+      "0": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is Varanasi safe at night for solo women?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Main ghats see decent foot traffic till about 9 p.m.; after that, stick to lit roads or a prepaid cab."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I wear jeans in Varanasi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes—pair them with a hip-length tunic or kurta to keep knees & hips discreet."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are there female-only dorms in Varanasi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "GoStops & Zostel both offer 4- to 6-bed female dorms; book early in peak months."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How to avoid scams in Varanasi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Decline unsolicited guiding offers, fix boat prices in advance, and use official temple counters for donations."
+            }
           }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I wear jeans in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes—pair them with a hip-length tunic or kurta to keep knees & hips discreet."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there female-only dorms in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "GoStops & Zostel both offer 4- to 6-bed female dorms; book early in peak months."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How to avoid scams in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Decline unsolicited guiding offers, fix boat prices in advance, and use official temple counters for donations."
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "BlogPosting",
-      "headline": "Is Varanasi Safe for Solo Female Travellers? My Hard‑Won Tips (2025)",
-      "datePublished": "2025-07-24",
-      "dateModified": "2025-07-24",
-      "author": {
-        "@type": "Person",
-        "name": "Abhinav Pandey"
+        ]
       },
-      "image": "https://banarasi.kashitaxi.in/images/female-traveller-sadhu.jpg",
-      "inLanguage": "en-IN",
-      "url": "https://banarasi.kashitaxi.in/is-varanasi-safe-for-solo-female-travellers"
+      "1": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Is Varanasi Safe for Solo Female Travellers? My Hard‑Won Tips (2025)",
+        "datePublished": "2025-07-24",
+        "dateModified": "2025-07-24",
+        "author": {
+          "@type": "Person",
+          "name": "Abhinav Pandey"
+        },
+        "image": "https://www.kashitaxi.in/images/female-traveller-sadhu.jpg",
+        "inLanguage": "en-IN",
+        "url": "https://www.kashitaxi.in/is-varanasi-safe-for-solo-female-travellers"
+      },
+      "2": {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Quick Safety Snapshot for Solo Female Travellers in Varanasi",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "PropertyValue",
+              "name": "Overall comfort (day)",
+              "value": "7/10",
+              "description": "Fair police presence & friendly locals"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "PropertyValue",
+              "name": "Overall comfort (after 9 p.m.)",
+              "value": "5/10",
+              "description": "Ghats dimly lit; avoid secluded lanes"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "PropertyValue",
+              "name": "Petty-scam risk",
+              "value": "High",
+              "description": "Pushy touts near Dashashwamedh & Godowlia"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "PropertyValue",
+              "name": "Violent-crime risk",
+              "value": "Low",
+              "description": "Below national metro average"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "PropertyValue",
+              "name": "Stray-dog risk (night)",
+              "value": "Medium",
+              "description": "Packs roam riverside lanes after 10 p.m."
+            }
+          }
+        ]
+      },
+      "3": {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Best Hostels for Solo Women in Varanasi",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "LodgingBusiness",
+              "name": "GoStops Varanasi",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Assi"
+              },
+              "description": "Female-only dorms, 24h desk, nightly group walks, CCTV everywhere",
+              "url": "https://gostops.com"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "LodgingBusiness",
+              "name": "Zostel Varanasi",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Pandey Ghat"
+              },
+              "description": "Rooftop café with Ganga view, keycard entry to female dorms",
+              "url": "https://zostel.com"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "LodgingBusiness",
+              "name": "The Commune Hostel",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Bhelupur"
+              },
+              "description": "Women-run, ten-minute walk to BHU Gate, spotless AC dorms",
+              "url": "https://thecommune.in"
+            }
+          }
+        ]
+      },
+      "4": {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "What to Wear in Varanasi as a Woman",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "HowToTip",
+              "name": "Salwar-kurta + dupatta",
+              "text": "Instant modesty; blends in with locals."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "HowToTip",
+              "name": "Loose linen trousers + elbow-sleeve tee",
+              "text": "Breathable in 40°C heat; covers knees."
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "HowToTip",
+              "name": "Maxi dress + light shawl",
+              "text": "Temple-ready; quick to dress up for cafés."
+            }
+          }
+        ]
+      },
+      "5": {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Emergency Contacts & Resources in Varanasi",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "ContactPoint",
+              "contactType": "Police (all emergencies)",
+              "telephone": "112",
+              "description": "Fastest response"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "ContactPoint",
+              "contactType": "Women Power-line",
+              "telephone": "1091",
+              "description": "Dedicated female officers"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "ContactPoint",
+              "contactType": "UP Crime-Stopper",
+              "telephone": "1090",
+              "description": "Report harassment"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "ContactPoint",
+              "contactType": "Mahila Thana (women’s police station)",
+              "telephone": "+919454404392",
+              "description": "Near Bhelupur"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "ContactPoint",
+              "contactType": "Varanasi for Animals",
+              "telephone": "+918299764647",
+              "description": "Dog bite / stray issues"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "ContactPoint",
+              "contactType": "Tourist WhatsApp help",
+              "telephone": "+919454404442",
+              "description": "Commissioner’s desk (English/Hindi)"
+            }
+          }
+        ]
+      }
     },
     {
-      "@context": "https://schema.org",
-      "@type": "ItemList",
-      "name": "Quick Safety Snapshot for Solo Female Travellers in Varanasi",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "item": {
-            "@type": "PropertyValue",
-            "name": "Overall comfort (day)",
-            "value": "7/10",
-            "description": "Fair police presence & friendly locals"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "item": {
-            "@type": "PropertyValue",
-            "name": "Overall comfort (after 9 p.m.)",
-            "value": "5/10",
-            "description": "Ghats dimly lit; avoid secluded lanes"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "item": {
-            "@type": "PropertyValue",
-            "name": "Petty-scam risk",
-            "value": "High",
-            "description": "Pushy touts near Dashashwamedh & Godowlia"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 4,
-          "item": {
-            "@type": "PropertyValue",
-            "name": "Violent-crime risk",
-            "value": "Low",
-            "description": "Below national metro average"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 5,
-          "item": {
-            "@type": "PropertyValue",
-            "name": "Stray-dog risk (night)",
-            "value": "Medium",
-            "description": "Packs roam riverside lanes after 10 p.m."
-          }
-        }
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
       ]
     },
     {
-      "@context": "https://schema.org",
-      "@type": "ItemList",
-      "name": "Best Hostels for Solo Women in Varanasi",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/is-varanasi-safe-for-solo-female-travellers/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
-          "item": {
-            "@type": "LodgingBusiness",
-            "name": "GoStops Varanasi",
-            "address": {
-              "@type": "PostalAddress",
-              "addressLocality": "Assi"
-            },
-            "description": "Female-only dorms, 24h desk, nightly group walks, CCTV everywhere",
-            "url": "https://gostops.com"
-          }
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "item": {
-            "@type": "LodgingBusiness",
-            "name": "Zostel Varanasi",
-            "address": {
-              "@type": "PostalAddress",
-              "addressLocality": "Pandey Ghat"
-            },
-            "description": "Rooftop café with Ganga view, keycard entry to female dorms",
-            "url": "https://zostel.com"
-          }
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "item": {
-            "@type": "LodgingBusiness",
-            "name": "The Commune Hostel",
-            "address": {
-              "@type": "PostalAddress",
-              "addressLocality": "Bhelupur"
-            },
-            "description": "Women-run, ten-minute walk to BHU Gate, spotless AC dorms",
-            "url": "https://thecommune.in"
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "ItemList",
-      "name": "What to Wear in Varanasi as a Woman",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "item": {
-            "@type": "HowToTip",
-            "name": "Salwar-kurta + dupatta",
-            "text": "Instant modesty; blends in with locals."
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "item": {
-            "@type": "HowToTip",
-            "name": "Loose linen trousers + elbow-sleeve tee",
-            "text": "Breathable in 40°C heat; covers knees."
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "item": {
-            "@type": "HowToTip",
-            "name": "Maxi dress + light shawl",
-            "text": "Temple-ready; quick to dress up for cafés."
-          }
-        }
-      ]
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "ItemList",
-      "name": "Emergency Contacts & Resources in Varanasi",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "item": {
-            "@type": "ContactPoint",
-            "contactType": "Police (all emergencies)",
-            "telephone": "112",
-            "description": "Fastest response"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "item": {
-            "@type": "ContactPoint",
-            "contactType": "Women Power-line",
-            "telephone": "1091",
-            "description": "Dedicated female officers"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "item": {
-            "@type": "ContactPoint",
-            "contactType": "UP Crime-Stopper",
-            "telephone": "1090",
-            "description": "Report harassment"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 4,
-          "item": {
-            "@type": "ContactPoint",
-            "contactType": "Mahila Thana (women’s police station)",
-            "telephone": "+919454404392",
-            "description": "Near Bhelupur"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 5,
-          "item": {
-            "@type": "ContactPoint",
-            "contactType": "Varanasi for Animals",
-            "telephone": "+918299764647",
-            "description": "Dog bite / stray issues"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 6,
-          "item": {
-            "@type": "ContactPoint",
-            "contactType": "Tourist WhatsApp help",
-            "telephone": "+919454404442",
-            "description": "Commissioner’s desk (English/Hindi)"
-          }
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/is-varanasi-safe-for-solo-female-travellers/"
         }
       ]
     }
   ]
+}

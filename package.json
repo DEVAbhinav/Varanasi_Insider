@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-sitemap": "node scripts/generate-sitemap.js"
+    "generate-sitemap": "node scripts/generate-sitemap.js",
+    "update:breadcrumbs": "node scripts/update-jsonld-breadcrumbs.js"
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",

@@ -1,65 +1,127 @@
 {
   "@context": "https://schema.org",
-  "@type": "TaxiService",
-  "name": "Banarasi Kashitaxi",
-  "alternateName": "Vinayak Travels Tour",
-  "founder": {
-    "@type": "Person",
-    "name": "Sudhir Pandey"
-  },
-  "foundingDate": "1998",
-  "url": "https://banarasi.kashitaxi.in",
-  "logo": "https://banarasi.kashitaxi.in/images/logo.png",
-  "image": "https://banarasi.kashitaxi.in/images/posts/about-banarasi-kashitaxi.jpg",
-  "description": "Family‑run taxi and tour company offering airport transfers, Pink Taxis, outstation cabs, and custom tours in and around Varanasi.",
-  "telephone": "+91 94503 01573",
-  "email": "sudhir.vinayaktravels@gmail.com",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "L 10/125, Shastri Nagar (near IP Mall), Sigra/Chetganj",
-    "addressLocality": "Varanasi",
-    "addressRegion": "UP",
-    "postalCode": "221002",
-    "addressCountry": "IN"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "25.3105",
-    "longitude": "82.9874"
-  },
-  "areaServed": ["Varanasi","Prayagraj","Ayodhya","Lucknow","Bodhgaya","Sarnath"],
-  "openingHoursSpecification": [{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-    "opens": "06:00",
-    "closes": "22:00"
-  }],
-  "sameAs": [
-    "https://youtube.com/@KashiTaxi",
-    "https://instagram.com/banarasi.kashitaxi",
-    "https://facebook.com/KashiTaxi"
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "reviewCount": "600"
-  },
-  "member": [
+  "@graph": [
     {
-      "@type": "Person",
-      "name": "Sudhir Pandey",
-      "jobTitle": "Founder & Chief Mentor"
+      "@type": "TaxiService",
+      "name": "Banarasi Kashitaxi",
+      "alternateName": "Vinayak Travels Tour",
+      "founder": {
+        "@type": "Person",
+        "name": "Sudhir Pandey"
+      },
+      "foundingDate": "1998",
+      "url": "https://www.kashitaxi.in",
+      "logo": "https://www.kashitaxi.in/images/logo.png",
+      "image": "https://www.kashitaxi.in/images/posts/about-banarasi-kashitaxi.jpg",
+      "description": "Family‑run taxi and tour company offering airport transfers, Pink Taxis, outstation cabs, and custom tours in and around Varanasi.",
+      "telephone": "+91 94503 01573",
+      "email": "sudhir.vinayaktravels@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "L 10/125, Shastri Nagar (near IP Mall), Sigra/Chetganj",
+        "addressLocality": "Varanasi",
+        "addressRegion": "UP",
+        "postalCode": "221002",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3105",
+        "longitude": "82.9874"
+      },
+      "areaServed": [
+        "Varanasi",
+        "Prayagraj",
+        "Ayodhya",
+        "Lucknow",
+        "Bodhgaya",
+        "Sarnath"
+      ],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "06:00",
+          "closes": "22:00"
+        }
+      ],
+      "sameAs": [
+        "https://youtube.com/@KashiTaxi",
+        "https://instagram.com/banarasi.kashitaxi",
+        "https://facebook.com/KashiTaxi"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "600"
+      },
+      "member": [
+        {
+          "@type": "Person",
+          "name": "Sudhir Pandey",
+          "jobTitle": "Founder & Chief Mentor"
+        },
+        {
+          "@type": "Person",
+          "name": "Abhinav Pandey",
+          "jobTitle": "COO & Head of Digital"
+        },
+        {
+          "@type": "Person",
+          "name": "Kiran Dubey",
+          "jobTitle": "Pink Taxi Fleet Lead"
+        }
+      ],
+      "slogan": "Every traveller deserves a safe, transparent, and truly local ride."
     },
     {
-      "@type": "Person",
-      "name": "Abhinav Pandey",
-      "jobTitle": "COO & Head of Digital"
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
     },
     {
-      "@type": "Person",
-      "name": "Kiran Dubey",
-      "jobTitle": "Pink Taxi Fleet Lead"
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/about/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Banarasi Kashitaxi",
+          "item": "https://www.kashitaxi.in/en/about/"
+        }
+      ]
     }
-  ],
-  "slogan": "Every traveller deserves a safe, transparent, and truly local ride."
+  ]
 }

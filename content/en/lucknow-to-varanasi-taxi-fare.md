@@ -25,7 +25,7 @@ Planning a road trip from Lucknow to Varanasi? This guide provides all the essen
 > **Book Your Ride Instantly!**  
 > Get a fixed, all-inclusive fare for your Lucknow to Varanasi trip.  
 > **Call:** **[9450301573](tel:9450301573)**  
-> **Visit:** **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)**
+> **Visit:** **[www.kashitaxi.in](https://www.kashitaxi.in)**
 
 ![Spacious SUV for family and group travel](/images/xuv.png "SUV option for extra luggage and comfort on the highway")
 
@@ -56,7 +56,7 @@ Here’s a breakdown of approximate one-way taxi fares for 2025. Fares can vary 
 
 1.  **Plan Your Stops:** The route has several good spots for breaks, including dhabas and restaurants in towns like Sultanpur and Jaunpur.
 2.  **Choose the Right Vehicle:** For longer journeys, comfort is key. Sedans offer a good balance of price and comfort, while SUVs are better suited for larger groups or those with more luggage.
-3.  **Confirm Additional Fees:** Always ask if toll charges, driver allowances (for overnight trips), and taxes are included in the quoted fare. Reputable operators like **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)** provide all-inclusive pricing.
+3.  **Confirm Additional Fees:** Always ask if toll charges, driver allowances (for overnight trips), and taxes are included in the quoted fare. Reputable operators like **[www.kashitaxi.in](https://www.kashitaxi.in)** provide all-inclusive pricing.
 4.  **Book in Advance:** To get the best rates and ensure vehicle availability, especially during peak season, it's wise to book your taxi a few days in advance.
 
 ---
@@ -67,7 +67,7 @@ Here’s a breakdown of approximate one-way taxi fares for 2025. Fares can vary 
 The most common and direct route is via NH-31 (now part of the Lucknow-Varanasi Highway), which is approximately 314 km.
 
 ### 2. Are toll charges included in the taxi fare?
-This depends on the operator. Some provide an all-inclusive fare, while others add toll charges separately. Always clarify this before finalizing your booking. **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)** offers transparent, all-inclusive pricing.
+This depends on the operator. Some provide an all-inclusive fare, while others add toll charges separately. Always clarify this before finalizing your booking. **[www.kashitaxi.in](https://www.kashitaxi.in)** offers transparent, all-inclusive pricing.
 
 ### 3. Can I book a one-way taxi from Lucknow to Varanasi?
 Yes, one-way taxis are readily available and are often the most cost-effective option for this route.

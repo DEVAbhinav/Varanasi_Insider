@@ -6,7 +6,7 @@ author: "Abhinav Pandey"
 description: "Learn how a small Varanasi taxi stand grew into Banarasi Kashitaxi—your trusted partner for airport pickups, Pink Taxis, bespoke tours, and safe self‑drive rentals."
 featuredImage: "/images/posts/about-banarasi-kashitaxi.jpg"
 lang: en-IN
-canonical: "https://banarasi.kashitaxi.in/en/about"
+canonical: "https://www.kashitaxi.in/en/about"
 tags: ["about us", "our story", "Varanasi taxi", "Vinayak Travels Tour", "safe taxi Varanasi"]
 metaTitle: "About Us | Banarasi Kashitaxi | Trusted Varanasi Taxi Service Since 1998"
 metaDescription: "Discover the story of Banarasi Kashitaxi, a family-run Varanasi taxi service. We offer reliable airport transfers, Pink Taxis for women, and custom tours."
@@ -87,7 +87,7 @@ I grew up watching my father **Sudhir Pandey** turn a single Ambassador car in
 
 ## Ready to Ride?
 
-[Book your ride](https://banarasi.kashitaxi.in/en/book) or just ping us:
+[Book your ride](https://www.kashitaxi.in/en/book) or just ping us:
 
 * **Call/WhatsApp:** +91 94503 01573 | +91 99354 74730  
 * **E‑mail:** sudhir.vinayaktravels@gmail.com  

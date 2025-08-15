@@ -1,6 +1,7 @@
 // This is the main landing page for the entire site.
 import NavBar from '../components/NavBar/NavBar';
 import HeroSection from '../components/HeroSection/HeroSection';
+import GoogleReviews from '../components/GoogleReviews/GoogleReviews';
 import Footer from '../components/Footer/Footer';
 import Head from 'next/head';
 import dynamic from 'next/dynamic';
@@ -62,14 +63,18 @@ export default function HomePage({ allPosts }) {
         {/* Additional SEO Meta Tags */}
         <meta name="geo.region" content="IN-UP" />
         <meta name="geo.placename" content="Varanasi" />
-        <meta name="geo.position" content="25.3176;82.9739" />
-        <meta name="ICBM" content="25.3176, 82.9739" />
+        <meta name="geo.position" content="25.287133678944816;82.94264689837131" />
+        <meta name="ICBM" content="25.287133678944816, 82.94264689837131" />
       </Head>
       <JsonLd data={structuredData} />
       <NavBar />
       <main className="pb-24 md:pb-0">
         {/* Keep above-the-fold lean: Hero first */}
         <HeroSection />
+        
+        {/* Google Reviews Widget - Above the fold for social proof */}
+        <GoogleReviews />
+        
         {/* Code-split sections below */}
         <PinkTaxiSection1 />
         <KashiTaxiIntro />

@@ -212,7 +212,7 @@ Varanasi Guru, who post updates on their booking pages, and local news outlets. 
 The introduction of Pink Taxis—cabs driven by women, for female passengers—is a welcome and important safety development. However, you cannot simply hail one on the street. These services require advance booking. According to local transport guides, you can reserve a Pink Taxi through a few specific channels:
 
 * The upcoming "Safe City" government app.
-* The Pink Taxi section on the Banarasi.KashiTaxi.in website.
+* The Pink Taxi section on the www.kashitaxi.in website.
 * By calling the dedicated support number: 9450301573.   
 
 For solo female travelers, especially for airport transfers or late-night travel, pre-booking one of these services is the safest possible option.   

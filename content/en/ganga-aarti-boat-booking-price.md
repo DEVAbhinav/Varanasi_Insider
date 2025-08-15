@@ -25,7 +25,7 @@ Watching the spectacular Ganga Aarti from a boat on the river is an unforgettabl
 > **Secure Your Front-Row Seat!**  
 > Book a private or shared boat for the Ganga Aarti with a trusted local operator.  
 > **Call:** **[9450301573](tel:9450301573)**  
-> **Visit:** **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)**
+> **Visit:** **[www.kashitaxi.in](https://www.kashitaxi.in)**
 
 ![Traditional bajra boat on the Ganges in Varanasi](/images/varanasi-river-bajra.jpeg "Traditional bajra boat for Aarti viewing")
 
@@ -58,7 +58,7 @@ A guided tour enhances the experience with commentary on Varanasi's history, gha
 -   **Duration:** 2–3 hours.
 -   **Inclusions:** A guided tour typically includes a boat ride for the Aarti at Dashashwamedh Ghat, a visit to the Manikarnika Ghat (the main cremation ghat), and sometimes refreshments.
 -   **Best Time to Start:** 6:30 PM in summer and 5:15 PM in winter.
--   **Booking:** For a reliable and insightful guided tour, it's best to book through a trusted operator like **[Banarasi.KashiTaxi.in/boat](https://banarasi.kashitaxi.in/boat)** or by calling **[9450301573](tel:9450301573)**.
+-   **Booking:** For a reliable and insightful guided tour, it's best to book through a trusted operator like **[www.kashitaxi.in/boat](https://www.kashitaxi.in/boat)** or by calling **[9450301573](tel:9450301573)**.
 
 ---
 
@@ -77,7 +77,7 @@ A guided tour enhances the experience with commentary on Varanasi's history, gha
 A rowing boat offers a quiet, traditional, and eco-friendly experience, allowing you to soak in the sounds of the Aarti. A motor boat is faster and more comfortable, often covering more of the ghats in less time. The choice depends on your preference for serenity versus speed.
 
 ### 2. Can I book a single seat on a shared boat?
-Yes, booking a seat on a shared boat is a popular and budget-friendly option. You can often arrange this at the ghats, but for a guaranteed spot at a fixed price, it's better to book in advance through **[Banarasi.KashiTaxi.in/boat](https://banarasi.kashitaxi.in/boat)**.
+Yes, booking a seat on a shared boat is a popular and budget-friendly option. You can often arrange this at the ghats, but for a guaranteed spot at a fixed price, it's better to book in advance through **[www.kashitaxi.in/boat](https://www.kashitaxi.in/boat)**.
 
 ### 3. How long is the boat ride for the Ganga Aarti?
 A typical boat ride focused on the Ganga Aarti lasts about 1 to 1.5 hours. This gives you enough time to find a good viewing spot and watch the entire 45-minute ceremony.

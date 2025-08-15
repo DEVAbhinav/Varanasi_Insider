@@ -1,103 +1,150 @@
 {
   "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Safety & Security in Varanasi: A First‑Person Guide",
-  "url": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/",
-  "image": [
-    "https://www.kashitaxi.in/images/solo-femal-traveller-varanasi.jpeg",
-    "https://www.kashitaxi.in/images/lady-taxi.jpeg",
-    "https://www.kashitaxi.in/images/ganga-aarti-solo.jpeg"
-   ],
-  "datePublished": "2025-07-30T08:00:00+08:00",
-  "dateModified": "2025-08-04T09:20:00+08:00",
-  "author": {
-      "@type": "Person",
-      "name": "Abhinav Pandey",
-      "url": "https://www.kashitaxi.in/author/abhinav-pandey/"
+  "@graph": [
+    {
+      "@type": "NewsArticle",
+      "headline": "Safety & Security in Varanasi: A First‑Person Guide",
+      "url": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/",
+      "image": [
+        "https://www.kashitaxi.in/images/solo-femal-traveller-varanasi.jpeg",
+        "https://www.kashitaxi.in/images/lady-taxi.jpeg",
+        "https://www.kashitaxi.in/images/ganga-aarti-solo.jpeg"
+      ],
+      "datePublished": "2025-07-30T08:00:00+08:00",
+      "dateModified": "2025-08-04T09:20:00+08:00",
+      "author": {
+        "@type": "Person",
+        "name": "Abhinav Pandey",
+        "url": "https://www.kashitaxi.in/author/abhinav-pandey/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Varanasi Insider",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+        }
+      },
+      "description": "A detailed, first-person safety guide for tourists and solo female travellers visiting Varanasi. Covers the safest areas to stay, common scams to avoid, emergency numbers, and practical tips for a secure trip.",
+      "keywords": "Varanasi safety, solo female travel India, is Varanasi safe, Varanasi scams, Varanasi tourist guide, safety in Varanasi for foreigners, Varanasi travel tips",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/"
+      },
+      "mainEntity": [
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the all-in-one emergency number in Varanasi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The national emergency number is 112. It is an all-in-one number for Police, Fire, and Ambulance services, similar to 911 or 999."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the direct number for the police in Varanasi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The direct line to the police control room is 100."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which numbers should I call for a medical emergency?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For health-related emergencies, you can call 102 or 108 for an ambulance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is there a dedicated helpline for women in distress?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the helpline for women facing harassment or safety concerns is 1091 or 1090."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is there a multi-lingual helpline for tourists?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the National Tourist Helpline is 1363 and offers support in multiple languages."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "HowTo",
+          "name": "First 24-Hours Safety Checklist for Varanasi",
+          "step": [
+            {
+              "@type": "HowToStep",
+              "name": "Get a SIM Card",
+              "text": "Your first stop after clearing immigration at Lal Bahadur Shastri Airport (VNS) should be an official Airtel or Jio kiosk. Immediate connectivity is a safety essential. Have your passport, visa, and a passport-sized photo ready. An eSIM purchased online beforehand is an even smoother option."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Secure Some Cash",
+              "text": "Use an ATM inside the airport terminal to withdraw a few thousand rupees. Cash is essential for tuk-tuks, street food, and small purchases."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Take a Pre-Booked Taxi",
+              "text": "The simplest scam-free option is to pre-book your cab with a reputable service like Kashi Taxi (9450301573) or use the official prepaid counter at the airport. A fixed-fare ride to the city centre costs roughly ₹800-₹1000."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Dress the Part",
+              "text": "From the moment you arrive, dress conservatively. For women, this means loose-fitting trousers or a long skirt paired with a top that covers your shoulders. This minimizes unwanted attention."
+            }
+          ]
+        }
+      ]
     },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Varanasi Insider",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.kashitaxi.in/images/logo.jpeg"
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Safety & Security in Varanasi: A First‑Person Guide",
+          "item": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/"
+        }
+      ]
     }
-  },
-  "description": "A detailed, first-person safety guide for tourists and solo female travellers visiting Varanasi. Covers the safest areas to stay, common scams to avoid, emergency numbers, and practical tips for a secure trip.",
-  "keywords": "Varanasi safety, solo female travel India, is Varanasi safe, Varanasi scams, Varanasi tourist guide, safety in Varanasi for foreigners, Varanasi travel tips",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/"
-  },
-  "mainEntity": [{
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What is the all-in-one emergency number in Varanasi?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The national emergency number is 112. It is an all-in-one number for Police, Fire, and Ambulance services, similar to 911 or 999."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What is the direct number for the police in Varanasi?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The direct line to the police control room is 100."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Which numbers should I call for a medical emergency?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "For health-related emergencies, you can call 102 or 108 for an ambulance."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is there a dedicated helpline for women in distress?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, the helpline for women facing harassment or safety concerns is 1091 or 1090."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is there a multi-lingual helpline for tourists?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, the National Tourist Helpline is 1363 and offers support in multiple languages."
-        }
-      }
-    ]
-  },
-  {
-    "@type": "HowTo",
-    "name": "First 24-Hours Safety Checklist for Varanasi",
-    "step": [
-      {
-        "@type": "HowToStep",
-        "name": "Get a SIM Card",
-        "text": "Your first stop after clearing immigration at Lal Bahadur Shastri Airport (VNS) should be an official Airtel or Jio kiosk. Immediate connectivity is a safety essential. Have your passport, visa, and a passport-sized photo ready. An eSIM purchased online beforehand is an even smoother option."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Secure Some Cash",
-        "text": "Use an ATM inside the airport terminal to withdraw a few thousand rupees. Cash is essential for tuk-tuks, street food, and small purchases."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Take a Pre-Booked Taxi",
-        "text": "The simplest scam-free option is to pre-book your cab with a reputable service like Kashi Taxi (9450301573) or use the official prepaid counter at the airport. A fixed-fare ride to the city centre costs roughly ₹800-₹1000."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Dress the Part",
-        "text": "From the moment you arrive, dress conservatively. For women, this means loose-fitting trousers or a long skirt paired with a top that covers your shoulders. This minimizes unwanted attention."
-      }
-    ]
-  }]
+  ]
 }

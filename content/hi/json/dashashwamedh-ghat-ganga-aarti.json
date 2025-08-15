@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Article",
-      "@id": "https://banarasi.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti/#article",
+      "@id": "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti/#article",
       "headline": "दशाश्वमेध घाट गंगा आरती गाइड (2025)",
       "inLanguage": "hi-IN",
       "author": {
@@ -12,13 +12,13 @@
       },
       "datePublished": "2025-07-22",
       "dateModified": "2025-07-22",
-      "image": "https://banarasi.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg",
+      "image": "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg",
       "description": "भगवान राम के अश्वमेध यज्ञ से लेकर विश्व‑प्रसिद्ध गंगा आरती तक—दशाश्वमेध घाट की पूरी जानकारी, समय और पहुँच मार्ग।",
-      "mainEntityOfPage": "https://banarasi.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti/"
+      "mainEntityOfPage": "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti/"
     },
     {
       "@type": "FAQPage",
-      "@id": "https://banarasi.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti/#faq",
+      "@id": "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti/#faq",
       "mainEntity": [
         {
           "@type": "Question",

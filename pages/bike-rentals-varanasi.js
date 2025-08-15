@@ -10,9 +10,9 @@ const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
     name: 'Bike & Scooty Rentals in Varanasi',
-    image: 'https://banarasi.kashitaxi.in/images/logo.png', // Replace with your logo URL
-    '@id': 'https://banarasi.kashitaxi.in/bike-rentals', // Replace with your final URL
-    url: 'https://banarasi.kashitaxi.in/bike-rentals', // Replace with your final URL
+    image: 'https://www.kashitaxi.in/images/logo.png', // Replace with your logo URL
+    '@id': 'https://www.kashitaxi.in/bike-rentals', // Replace with your final URL
+    url: 'https://www.kashitaxi.in/bike-rentals', // Replace with your final URL
     telephone: '+91-9450301573', // Using a placeholder number
     priceRange: '₹₹',
     address: {
@@ -57,12 +57,12 @@ export default function BikeRentalsPage({ allPosts }) {
                 <title>Bike & Scooty Rental in Varanasi | Call to Book | Vinayak Travels</title>
                 <meta name="description" content="Rent a bike or scooty in Varanasi with Vinayak Travels. Call or WhatsApp to book Activa, Pulsar, and Royal Enfield at the best prices. Well-maintained vehicles, 24/7 support. Explore Kashi on your own terms!" />
                 <meta name="keywords" content="bike rental varanasi, scooty on rent in varanasi, rent a bike varanasi, vinayak travels, varanasi bike rent price, two wheeler on rent varanasi, kashi bike rental, call to book bike rental varanasi" />
-                <link rel="canonical" href="https://banarasi.kashitaxi.in/bike-rentals" />
+                <link rel="canonical" href="https://www.kashitaxi.in/bike-rentals" />
                 <meta property="og:title" content="Bike & Scooty Rental in Varanasi | Vinayak Travels" />
                 <meta property="og:description" content="Explore Kashi on your own terms with our easy bike rentals." />
-                <meta property="og:url" content="https://banarasi.kashitaxi.in/bike-rentals" />
+                <meta property="og:url" content="https://www.kashitaxi.in/bike-rentals" />
                 <meta property="og:site_name" content="Vinayak Travels Varanasi" />
-                <meta property="og:image" content="https://banarasi.kashitaxi.in/images/og-image-rentals.jpg" />
+                <meta property="og:image" content="https://www.kashitaxi.in/images/og-image-rentals.jpg" />
                 <meta property="og:image:width" content="1200" />
                 <meta property="og:image:height" content="630" />
                 <meta property="og:locale" content="en_IN" />

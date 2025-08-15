@@ -5,7 +5,7 @@ date: "2025-07-22"
 lastUpdated: "2025-07-22"
 author: "Abhinav Pandey"
 lang: en-IN
-canonical: "https://banarasi.kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing/"
+canonical: "https://www.kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing/"
 featuredImage: "/images/posts/dashashwamedh-ghat-aarti.jpg"
 description: "Complete guide to the Ganga Aarti at Dashashwamedh Ghat, including today's timings, best viewing spots, boat booking prices, Dev Deepawali dates, and travel tips."
 tags:

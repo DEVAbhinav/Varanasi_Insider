@@ -1,61 +1,109 @@
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Varanasi in October 2025: Weather, Festivals & Travel Guide",
-  "image": [
-    "/images/pink-sky-ghat-varanasi-l.jpeg",
-    "/images/varanasi-ghats-overview.jpeg",
-    "/images/varanasi-ghat-boat-eve-p.jpeg",
-    "/images/ganga-aarti.jpeg"
-  ],
-  "datePublished": "2025-08-02T08:00:00+08:00",
-  "dateModified": "2025-08-04T09:20:00+08:00",
-  "author": [{
-      "@type": "Person",
-      "name": "Abhinav Pandey",
-      "url": "https://www.kashitaxi.in/author/abhinav-pandey/"
-  }],
-  "publisher": {
-    "@type": "Organization",
-    "name": "Varanasi Insider",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.kashitaxi.in/images/logo.jpeg"
-    }
-  },
-  "description": "Planning to visit Varanasi in October 2025? Get expert tips on the weather, festivals like Navratri and Diwali, what to wear, and things to do.",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.kashitaxi.in/en/varanasi-in-october-2025/"
-  },
-  "keywords": "varanasi in october, varanasi weather october, diwali in varanasi, navratri in varanasi, what to wear in varanasi in october, is october good time to visit varanasi",
-  "faqPage": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is October a good time to visit Varanasi?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, October is an excellent time to visit Varanasi. The monsoon has ended, leaving the city clean and the weather pleasantly warm and dry. It's the beginning of the peak tourist season and the festive period, including Navratri and the build-up to Diwali."
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Varanasi in October 2025: Weather, Festivals & Travel Guide",
+      "image": [
+        "/images/pink-sky-ghat-varanasi-l.jpeg",
+        "/images/varanasi-ghats-overview.jpeg",
+        "/images/varanasi-ghat-boat-eve-p.jpeg",
+        "/images/ganga-aarti.jpeg"
+      ],
+      "datePublished": "2025-08-02T08:00:00+08:00",
+      "dateModified": "2025-08-04T09:20:00+08:00",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Abhinav Pandey",
+          "url": "https://www.kashitaxi.in/author/abhinav-pandey/"
         }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+        },
+        "@id": "https://www.kashitaxi.in#organization"
       },
-      {
-        "@type": "Question",
-        "name": "What is the weather like in Varanasi in October?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The weather in Varanasi in October is very comfortable. Daytime temperatures are around 31°C (88°F), and nighttime temperatures cool down to about 20°C (68°F). The high humidity of the monsoon season is gone."
-        }
+      "description": "Planning to visit Varanasi in October 2025? Get expert tips on the weather, festivals like Navratri and Diwali, what to wear, and things to do.",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/en/varanasi-in-october-2025/"
       },
-      {
-        "@type": "Question",
-        "name": "What should I wear in Varanasi in October?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "For daytime, light cotton clothes like t-shirts and comfortable pants are ideal. For the cooler evenings, it's a good idea to have a light shawl or a thin jacket, especially when you are near the river."
-        }
+      "keywords": "varanasi in october, varanasi weather october, diwali in varanasi, navratri in varanasi, what to wear in varanasi in october, is october good time to visit varanasi",
+      "faqPage": {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is October a good time to visit Varanasi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, October is an excellent time to visit Varanasi. The monsoon has ended, leaving the city clean and the weather pleasantly warm and dry. It's the beginning of the peak tourist season and the festive period, including Navratri and the build-up to Diwali."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the weather like in Varanasi in October?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The weather in Varanasi in October is very comfortable. Daytime temperatures are around 31°C (88°F), and nighttime temperatures cool down to about 20°C (68°F). The high humidity of the monsoon season is gone."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What should I wear in Varanasi in October?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For daytime, light cotton clothes like t-shirts and comfortable pants are ideal. For the cooler evenings, it's a good idea to have a light shawl or a thin jacket, especially when you are near the river."
+            }
+          }
+        ]
       }
-    ]
-  }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-in-october-2025/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi in October 2025: Weather, Festivals & Travel Guide",
+          "item": "https://www.kashitaxi.in/en/varanasi-in-october-2025/"
+        }
+      ]
+    }
+  ]
 }

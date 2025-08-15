@@ -24,7 +24,7 @@ Planning a pilgrimage or a road trip from the spiritual city of Varanasi to Bodh
 > **Book Your Trip to Bodh Gaya!**  
 > Get a transparent, all-inclusive fare for your journey.  
 > **Call:** **[9450301573](tel:9450301573)**  
-> **Visit:** **[Banarasi.KashiTaxi.in/buddhist-circuit](https://banarasi.kashitaxi.in/buddhist-circuit)**
+> **Visit:** **[www.kashitaxi.in/buddhist-circuit](https://www.kashitaxi.in/buddhist-circuit)**
 
 ---
 
@@ -57,7 +57,7 @@ Fares for this popular route vary depending on the vehicle type and the operator
 ## Important Tips for Your Varanasi to Bodh Gaya Trip
 
 1.  **Choose One-Way vs. Round-Trip:** A one-way fare is perfect if you plan to stay in Bodh Gaya. A round-trip package, where you are charged per kilometer, might be suitable for a same-day return.
-2.  **Check Inclusions:** When booking, verify if the fare includes tolls, state entry taxes (for entering Bihar), and the driver's allowance. Booking with a trusted operator like **[Banarasi.KashiTaxi.in/buddhist-circuit](https://banarasi.kashitaxi.in/buddhist-circuit)** ensures transparent pricing.
+2.  **Check Inclusions:** When booking, verify if the fare includes tolls, state entry taxes (for entering Bihar), and the driver's allowance. Booking with a trusted operator like **[www.kashitaxi.in/buddhist-circuit](https://www.kashitaxi.in/buddhist-circuit)** ensures transparent pricing.
 3.  **Plan Your Stops:** The route passes through several towns like Jaunpur and Sasaram. You can plan for breaks at roadside dhabas for meals.
 4.  **Book Ahead During Peak Season:** Bodh Gaya attracts a large number of pilgrims, especially during festivals like Buddha Purnima. It's essential to book your cab in advance during these times to avoid high prices and ensure availability.
 
@@ -66,7 +66,7 @@ Fares for this popular route vary depending on the vehicle type and the operator
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Are there additional charges like tolls and state taxes?
-Yes. When traveling from Uttar Pradesh to Bihar, a state entry tax is applicable. This, along with highway tolls, may be charged separately by some operators. Always clarify if these are included in your fare. Services like **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in/buddhist-circuit)** typically offer all-inclusive pricing for better clarity.
+Yes. When traveling from Uttar Pradesh to Bihar, a state entry tax is applicable. This, along with highway tolls, may be charged separately by some operators. Always clarify if these are included in your fare. Services like **[www.kashitaxi.in](https://www.kashitaxi.in/buddhist-circuit)** typically offer all-inclusive pricing for better clarity.
 
 ### 2. What is the best time to travel to Bodh Gaya?
 The best time to visit Bodh Gaya is during the winter months, from October to March, when the weather is pleasant. Major Buddhist festivals like Buddha Purnima also draw large crowds, so plan accordingly.

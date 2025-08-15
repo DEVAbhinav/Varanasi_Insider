@@ -43,3 +43,49 @@
 .articleBody blockquote {
   @apply border-l-4 border-yellow-400 pl-4 italic text-gray-600 my-8;
 }
+
+/* Inline CTA block (airport pickup) */
+.articleBody .inline-cta {
+  @apply my-8 p-6 rounded-xl border bg-white shadow-sm;
+  border-left: 6px solid #2563eb; /* blue-600 */
+}
+.articleBody .inline-cta h3 { @apply text-2xl font-bold mb-2; }
+.articleBody .inline-cta p { @apply mb-3; }
+.articleBody .inline-cta .cta-actions { @apply flex flex-wrap gap-3 mt-2; }
+.articleBody .inline-cta .btn-primary {
+  @apply inline-block px-4 py-2 rounded-lg text-white font-medium;
+  background: #2563eb;
+}
+.articleBody .inline-cta .btn-primary:hover { background: #1d4ed8; }
+.articleBody .inline-cta .btn-outline {
+  @apply inline-block px-4 py-2 rounded-lg font-medium border;
+  border-color: #2563eb; color: #2563eb;
+}
+.articleBody .inline-cta .btn-outline:hover { background: #eff6ff; }
+.articleBody .inline-cta .fine-print { @apply text-sm text-gray-600 mt-1; }
+
+/* Pink Taxi safety section */
+.articleBody .pink-safety {
+  @apply my-10 grid gap-6 items-center;
+  grid-template-columns: 1.2fr 0.8fr;
+}
+.articleBody .pink-copy p { @apply mb-4; }
+.articleBody .pink-copy ul { @apply list-disc pl-5 mb-4; }
+.articleBody .pink-copy .cta-actions { @apply flex flex-wrap gap-3; }
+.articleBody .pink-copy .btn-primary {
+  @apply inline-block px-4 py-2 rounded-lg text-white font-medium;
+  background: #db2777; /* pink-600 */
+}
+.articleBody .pink-copy .btn-primary:hover { background: #be185d; }
+.articleBody .pink-copy .btn-outline {
+  @apply inline-block px-4 py-2 rounded-lg font-medium border;
+  border-color: #db2777; color: #db2777;
+}
+.articleBody .pink-copy .btn-outline:hover { background: #fdf2f8; }
+.articleBody .pink-media img { @apply rounded-xl shadow-md; }
+
+@media (max-width: 768px) {
+  .articleBody .pink-safety {
+    grid-template-columns: 1fr;
+  }
+}

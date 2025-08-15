@@ -6,7 +6,7 @@ author: "Abhinav Pandey"
 description: "Contact Banarasi Kashitaxi for 24×7 taxi services in Varanasi. Call or WhatsApp for airport pickups, local tours, and outstation cabs. Get a free quote now."
 featuredImage: "/images/posts/contact-banarasi-kashitaxi.jpg"
 lang: en-IN
-canonical: "https://banarasi.kashitaxi.in/en/contact"
+canonical: "https://www.kashitaxi.in/en/contact"
 tags: ["contact", "support", "taxi booking", "Varanasi travel", "Varanasi airport taxi"]
 metaTitle: "Contact Us – 24×7 Varanasi Taxi Service | Banarasi Kashitaxi"
 metaDescription: "Contact Banarasi Kashitaxi for 24×7 taxi services in Varanasi. Call or WhatsApp for airport pickups, local tours, and outstation cabs. Get a free quote now."

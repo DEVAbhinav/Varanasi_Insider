@@ -2,28 +2,6 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://www.kashitaxi.in/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Transport",
-          "item": "https://www.kashitaxi.in/en/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Varanasi Airport Taxi Guide"
-        }
-      ]
-    },
-    {
       "@type": "HowTo",
       "name": "How to book a prepaid taxi at Varanasi airport",
       "image": "/images/airport-taxi-600x400.jpeg",
@@ -64,39 +42,39 @@
           "name": "Is there a night surcharge for prepaid taxis?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The fare printed on your prepaid slip is final and all‑inclusive."
+            "text": "No. The amount on your prepaid slip is all‑inclusive. App‑cab fares, however, may surge at night."
           }
         },
         {
           "@type": "Question",
-          "name": "Can I pay with UPI or card?",
+          "name": "Can I pay with UPI or card at the prepaid counter?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, most days. Cash always works; keep some in case digital payment terminals are offline."
+            "text": "Usually yes, but connectivity sometimes fails; carry some cash as a fallback."
           }
         },
         {
           "@type": "Question",
-          "name": "Which app is better, Uber or Ola?",
+          "name": "Which is better at the airport, Uber or Ola?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Either can be cheaper; check both on arrival because surge and driver supply vary."
+            "text": "Check both apps on arrival; supply and surge differ hour‑to‑hour."
           }
         },
         {
           "@type": "Question",
-          "name": "How far is VNS airport from the ghats?",
+          "name": "How far is the airport from the main ghats?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Roughly 25 km (22–25 km), taking 45–90 minutes depending on traffic."
+            "text": "Approximately 25 km (22–25 km by route), taking 45–90 minutes depending on traffic."
           }
         },
         {
           "@type": "Question",
-          "name": "What if I leave something in the cab?",
+          "name": "What to do if I leave belongings in a cab?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "For prepaid taxis call the airport police with your receipt number; for app‑cabs use the in‑app lost‑item option."
+            "text": "For prepaid, call the airport police with your slip number. For app‑cabs, use the in‑app ‘lost item’ feature."
           }
         }
       ]
@@ -120,7 +98,9 @@
         "@type": "AdministrativeArea",
         "name": "Varanasi"
       },
-      "provider": { "@id": "https://www.kashitaxi.in/#org" },
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
       "image": [
         "/images/seden.png",
         "/images/xuv.png"
@@ -141,6 +121,52 @@
           "price": "1100",
           "priceValidUntil": "2026-03-31",
           "availability": "https://schema.org/InStock"
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.kashitaxi.in#organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "How to book a prepaid taxi at Varanasi airport",
+          "item": "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide/"
         }
       ]
     }

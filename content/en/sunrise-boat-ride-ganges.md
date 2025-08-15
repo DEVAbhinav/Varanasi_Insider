@@ -6,7 +6,7 @@ author: "Abhinav Pandey"
 description: "A complete guide to taking a sunrise boat ride on the Ganges in Varanasi. Learn how to book, what to expect, and tips for a memorable experience."
 featuredImage: "/images/sunrise-boat-ride.jpg"
 lang: en-IN
-canonical: "https://banarasi.kashitaxi.in/en/sunrise-boat-ride-ganges"
+canonical: "https://www.kashitaxi.in/en/sunrise-boat-ride-ganges"
 tags: ["sunrise boat ride", "Ganges", "Varanasi", "boat tour", "travel guide"]
 metaTitle: "Sunrise Boat Ride on the Ganges: A Complete Guide (2025)"
 metaDescription: "A complete guide to taking a sunrise boat ride on the Ganges in Varanasi. Learn how to book, what to expect, and tips for a memorable experience."

@@ -25,7 +25,7 @@ Planning your travel between Assi Ghat and Lal Bahadur Shastri International Air
 > **Book Your Airport Transfer!**  
 > Get a fixed, reliable fare for your trip between Assi Ghat and the airport.  
 > **Call:** **[9450301573](tel:9450301573)**  
-> **Visit:** **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)**
+> **Visit:** **[www.kashitaxi.in](https://www.kashitaxi.in)**
 
 ![Airport taxi pickup at Varanasi (VNS)](/images/airport-taxi-600x400.jpeg "Airport taxi pickup at VNS")
 
@@ -47,7 +47,7 @@ Taxi fares can vary based on the type of vehicle and booking method. Here’s wh
 *   **SUVs (e.g., Ertiga, Innova):** For larger groups or those with more luggage, an SUV is a better choice. Fares for SUVs range from **₹900 to ₹1,250**.
 *   **Prepaid Taxis:** The prepaid taxi counter at the airport offers government-regulated rates, providing a hassle-free option upon arrival.
 
-For a guaranteed fixed fare and a reliable vehicle, booking in advance with a trusted service like **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)** is highly recommended.
+For a guaranteed fixed fare and a reliable vehicle, booking in advance with a trusted service like **[www.kashitaxi.in](https://www.kashitaxi.in)** is highly recommended.
 
 ---
 
@@ -71,7 +71,7 @@ Yes, app-based services like Ola and Uber are available in Varanasi. However, av
 While shared auto-rickshaws are the cheapest option for some routes in Varanasi, a direct auto-rickshaw to the airport can be less comfortable and may not be significantly cheaper than a budget sedan. For convenience and a fixed price, a pre-booked taxi is often the best value.
 
 ### 4. Is it safe to travel to the airport from Assi Ghat at night?
-Yes, it is generally safe. However, it is always recommended to use a reputable, pre-booked taxi service like **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)** for late-night travel to ensure you have a verified driver and vehicle.
+Yes, it is generally safe. However, it is always recommended to use a reputable, pre-booked taxi service like **[www.kashitaxi.in](https://www.kashitaxi.in)** for late-night travel to ensure you have a verified driver and vehicle.
 
 ---
 

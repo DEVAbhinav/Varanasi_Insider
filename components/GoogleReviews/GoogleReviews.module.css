@@ -1,0 +1,159 @@
+.container {
+  @apply max-w-6xl mx-auto px-4 py-12 bg-gradient-to-br from-blue-50 to-indigo-50;
+  border-radius: 16px;
+  margin: 2rem auto;
+}
+
+.loadingSkeleton {
+  @apply p-6 border border-gray-200 rounded-lg bg-white;
+}
+
+.errorState {
+  @apply p-6 border border-red-200 rounded-lg bg-red-50 text-center;
+}
+
+.errorState p {
+  @apply text-red-600 font-medium;
+}
+
+.header {
+  @apply flex flex-col md:flex-row justify-between items-start md:items-center mb-8 gap-4;
+}
+
+.titleSection {
+  @apply flex-1;
+}
+
+.title {
+  @apply text-3xl font-bold text-gray-900 mb-2;
+}
+
+.ratingOverview {
+  @apply flex flex-col sm:flex-row sm:items-center gap-2;
+}
+
+.starsContainer {
+  @apply flex items-center gap-2;
+}
+
+.ratingNumber {
+  @apply text-xl font-semibold text-gray-900;
+}
+
+.totalReviews {
+  @apply text-sm text-gray-600 flex items-center;
+}
+
+.actions {
+  @apply flex items-center gap-3;
+}
+
+.viewAllButton {
+  @apply inline-flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium text-sm;
+}
+
+.navButtons {
+  @apply hidden md:flex items-center gap-2;
+}
+
+.navBtn {
+  @apply w-8 h-8 rounded-full bg-white border border-gray-200 text-gray-700 hover:bg-gray-50 shadow-sm;
+}
+
+/* Scroller */
+.reviewsGrid {
+  position: relative;
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-rows: repeat(2, 1fr);
+  grid-auto-columns: 440px; /* desktop card width */
+  gap: 1.5rem 1.5rem; /* row and column gaps */
+  overflow-x: auto;
+  padding: 0 0 0.75rem 0;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
+.reviewsGrid::-webkit-scrollbar {
+  height: 8px;
+}
+
+.reviewsGrid::-webkit-scrollbar-track {
+  background: #eef2f7;
+  border-radius: 4px;
+}
+
+.reviewsGrid::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+.reviewsGrid::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Review Card */
+.reviewCard {
+  @apply bg-white p-4 rounded-lg shadow-sm border border-gray-100 hover:shadow-md transition-shadow;
+  scroll-snap-align: start;
+  min-height: 150px;
+}
+
+.reviewHeader {
+  @apply flex justify-between items-start mb-3;
+}
+
+.authorInfo {
+  @apply flex items-start gap-3;
+}
+
+.avatar {
+  @apply w-8 h-8 bg-gradient-to-br from-blue-500 to-indigo-600 text-white rounded-full flex items-center justify-center font-semibold text-xs;
+}
+
+.authorName {
+  @apply font-semibold text-gray-900 text-sm;
+}
+
+.reviewMeta {
+  @apply flex flex-col gap-1 mt-1;
+}
+
+.stars {
+  @apply flex gap-1;
+}
+
+.date {
+  @apply text-xs text-gray-500 flex items-center;
+}
+
+.verifiedBadge {
+  @apply text-[10px] bg-green-100 text-green-800 px-2 py-0.5 rounded-full font-medium;
+}
+
+.reviewText {
+  @apply text-gray-700 text-sm leading-relaxed;
+}
+
+.trustSignals {
+  @apply flex flex-wrap justify-center gap-6 pt-6 border-t border-gray-200;
+}
+
+.trustItem {
+  @apply flex items-center gap-2 text-sm font-medium text-gray-700;
+}
+
+/* Mobile: 1 row scroller */
+@media (max-width: 768px) {
+  .container {
+    @apply mx-4 px-4 py-8;
+  }
+  .reviewsGrid {
+    grid-template-rows: 1fr;
+    grid-auto-columns: 300px; /* mobile card width */
+    gap: 1rem;
+  }
+  .reviewCard {
+    min-height: 140px;
+  }
+}

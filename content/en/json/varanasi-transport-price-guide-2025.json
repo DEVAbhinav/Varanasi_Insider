@@ -3,11 +3,11 @@
   "@graph": [
     {
       "@type": "BlogPosting",
-      "@id": "https://banarasi.kashitaxi.in/varanasi-transport-price-guide-2025#blog",
-      "url": "https://banarasi.kashitaxi.in/varanasi-transport-price-guide-2025",
+      "@id": "https://www.kashitaxi.in/varanasi-transport-price-guide-2025#blog",
+      "url": "https://www.kashitaxi.in/varanasi-transport-price-guide-2025",
       "headline": "2025 Varanasi Transport Price Guide – Airport Taxis, Pink Cabs, Outstation Fares & Boat Rides",
       "description": "Your one‑stop guide to Varanasi airport taxi price, women‑only pink taxis, Lucknow → Varanasi fares, Ganga Aarti boat booking price, one‑day tour cab charges, Assi Ghat ↔ airport distance, and Varanasi → Bodhgaya taxi cost.",
-      "image": "https://banarasi.kashitaxi.in/images/posts/varanasi-transport-price-guide.jpg",
+      "image": "https://www.kashitaxi.in/images/posts/varanasi-transport-price-guide.jpg",
       "inLanguage": "en-IN",
       "datePublished": "2025-07-24",
       "dateModified": "2025-07-24",
@@ -15,8 +15,12 @@
         "@type": "Person",
         "name": "Abhinav Pandey"
       },
-      "publisher": { "@id": "https://banarasi.kashitaxi.in/#org" },
-      "mainEntityOfPage": "https://banarasi.kashitaxi.in/varanasi-transport-price-guide-2025",
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization",
+        "@type": "Organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      },
+      "mainEntityOfPage": "https://www.kashitaxi.in/varanasi-transport-price-guide-2025",
       "keywords": [
         "varanasi airport taxi price",
         "ganga aarti boat booking price",
@@ -30,16 +34,18 @@
     },
     {
       "@type": "Organization",
-      "@id": "https://banarasi.kashitaxi.in/#org",
+      "@id": "https://www.kashitaxi.in/#org",
       "name": "Kashi Taxi – Banarasi",
-      "url": "https://banarasi.kashitaxi.in",
+      "url": "https://www.kashitaxi.in",
       "telephone": "+91-94503-01573",
-      "logo": "https://banarasi.kashitaxi.in/images/logo.svg",
-      "sameAs": ["https://www.instagram.com/kashitaxi"]
+      "logo": "https://www.kashitaxi.in/images/logo.svg",
+      "sameAs": [
+        "https://www.instagram.com/kashitaxi"
+      ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://banarasi.kashitaxi.in/varanasi-transport-price-guide-2025#faq",
+      "@id": "https://www.kashitaxi.in/varanasi-transport-price-guide-2025#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -101,10 +107,15 @@
     },
     {
       "@type": "TaxiService",
-      "@id": "https://banarasi.kashitaxi.in/#airportCab",
+      "@id": "https://www.kashitaxi.in/#airportCab",
       "name": "Varanasi Airport Taxi",
-      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
-      "areaServed": { "@type": "City", "name": "Varanasi" },
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
       "serviceType": "Airport Transfer",
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
@@ -115,7 +126,11 @@
             "name": "Sedan – Pre‑paid Counter",
             "price": "850",
             "priceCurrency": "INR",
-            "priceSpecification": { "@type": "UnitPriceSpecification", "unitCode": "KM", "price": "—" }
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "unitCode": "KM",
+              "price": "—"
+            }
           },
           {
             "@type": "Offer",
@@ -134,18 +149,35 @@
     },
     {
       "@type": "TaxiService",
-      "@id": "https://banarasi.kashitaxi.in/#pinkCab",
+      "@id": "https://www.kashitaxi.in/#pinkCab",
       "name": "Pink Taxi for Women",
-      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
       "serviceType": "Women‑only Taxi",
-      "areaServed": { "@type": "City", "name": "Varanasi" },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
       "offers": {
         "@type": "Offer",
         "priceSpecification": {
           "@type": "CompoundPriceSpecification",
           "priceComponent": [
-            { "@type": "UnitPriceSpecification", "price": "14", "priceCurrency": "INR", "unitCode": "KM", "name": "Day rate" },
-            { "@type": "UnitPriceSpecification", "price": "16", "priceCurrency": "INR", "unitCode": "KM", "name": "Night rate" }
+            {
+              "@type": "UnitPriceSpecification",
+              "price": "14",
+              "priceCurrency": "INR",
+              "unitCode": "KM",
+              "name": "Day rate"
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "price": "16",
+              "priceCurrency": "INR",
+              "unitCode": "KM",
+              "name": "Night rate"
+            }
           ]
         },
         "availabilityStarts": "2025-12-15"
@@ -153,13 +185,21 @@
     },
     {
       "@type": "TaxiService",
-      "@id": "https://banarasi.kashitaxi.in/#lucknowVaranasi",
+      "@id": "https://www.kashitaxi.in/#lucknowVaranasi",
       "name": "Lucknow to Varanasi Intercity Taxi",
-      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
       "serviceType": "Outstation Taxi",
       "areaServed": [
-        { "@type": "City", "name": "Lucknow" },
-        { "@type": "City", "name": "Varanasi" }
+        {
+          "@type": "City",
+          "name": "Lucknow"
+        },
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        }
       ],
       "offers": {
         "@type": "Offer",
@@ -170,9 +210,11 @@
     },
     {
       "@type": "BoatTrip",
-      "@id": "https://banarasi.kashitaxi.in/#gangaBoat",
+      "@id": "https://www.kashitaxi.in/#gangaBoat",
       "name": "Ganga Aarti Private Motor Boat (1–6 pax)",
-      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
       "departureBoatTerminal": "Dashashwamedh Ghat",
       "offers": {
         "@type": "Offer",
@@ -183,16 +225,59 @@
     },
     {
       "@type": "TouristTrip",
-      "@id": "https://banarasi.kashitaxi.in/#dayTour",
+      "@id": "https://www.kashitaxi.in/#dayTour",
       "name": "Varanasi Full‑Day City Tour (12 h / 120 km)",
       "touristType": "Individual, Family",
-      "provider": { "@id": "https://banarasi.kashitaxi.in/#org" },
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
       "offers": {
         "@type": "Offer",
         "price": "2000",
         "priceCurrency": "INR",
         "description": "Sedan package covering Kashi Vishwanath, Sarnath, Ramnagar Fort & Ganga Aarti drop‑off"
       }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/varanasi-transport-price-guide-2025#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "2025 Varanasi Transport Price Guide – Airport Taxis, Pink Cabs, Outstation Fares & Boat Rides",
+          "item": "https://www.kashitaxi.in/varanasi-transport-price-guide-2025"
+        }
+      ]
     }
   ]
 }

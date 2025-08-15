@@ -16,11 +16,12 @@
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Varanasi Insider",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi",
         "logo": {
           "@type": "ImageObject",
           "url": "https://www.kashitaxi.in/images/logo.jpeg"
-        }
+        },
+        "@id": "https://www.kashitaxi.in#organization"
       },
       "datePublished": "2024-05-15",
       "dateModified": "2025-08-04"
@@ -102,6 +103,47 @@
             "@type": "Answer",
             "text": "During the winter months, it's best to dress in layers. Pack a mix of light and warm clothing, including a warm jacket or fleece for cool mornings and evenings. Closed-toe shoes are also recommended to keep your feet warm."
           }
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/what-to-wear-in-varanasi/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "What to Wear in Varanasi: A Guide for Every Season and Traveler",
+          "item": "https://www.kashitaxi.in/en/what-to-wear-in-varanasi/"
         }
       ]
     }

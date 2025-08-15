@@ -24,7 +24,7 @@ Exploring Varanasi's rich tapestry of temples, ghats, and historical sites is be
 > **Book Your Varanasi City Tour!**  
 > Get a reliable cab and experienced driver for your full-day tour.  
 > **Call:** **[9450301573](tel:9450301573)**  
-> **Visit:** **[Banarasi.KashiTaxi.in/city-tours](https://banarasi.kashitaxi.in/)**
+> **Visit:** **[www.kashitaxi.in/city-tours](https://www.kashitaxi.in/)**
 
 ---
 
@@ -57,7 +57,7 @@ Here are the approximate charges for different vehicle types:
 ## What to Expect from Your Day Tour Package
 
 ### Inclusions
-Most full-day packages from reputable operators like **[Banarasi.KashiTaxi.in/city-tours](https://banarasi.kashitaxi.in/city-tours)** include:
+Most full-day packages from reputable operators like **[www.kashitaxi.in/city-tours](https://www.kashitaxi.in/city-tours)** include:
 -   Fuel costs
 -   Driver's allowance
 -   Parking fees for the specified duration and distance.
@@ -85,7 +85,7 @@ Due to the distance, Sarnath is usually included in the 12-hour/200 km package. 
 No, the taxi package only covers transportation. You will need to pay for any entrance fees to temples, museums, or historical sites separately.
 
 ### 4. How do I book a reliable cab for a day tour?
-It's best to book through a trusted local operator to ensure you get a well-maintained vehicle and an experienced driver. You can book a verified cab through **[Banarasi.KashiTaxi.in/city-tours](https://banarasi.kashitaxi.in/city-tours)** or by calling **9450301573**.
+It's best to book through a trusted local operator to ensure you get a well-maintained vehicle and an experienced driver. You can book a verified cab through **[www.kashitaxi.in/city-tours](https://www.kashitaxi.in/city-tours)** or by calling **9450301573**.
 
 ---
 

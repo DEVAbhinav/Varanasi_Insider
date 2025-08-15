@@ -1,59 +1,105 @@
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://banarasi.kashitaxi.in/en/best-time-to-visit-varanasi"
-  },
-  "headline": "Best Time to Visit Varanasi: A 2025 Guide to Weather & Festivals",
-  "description": "Discover the best time to visit Varanasi in 2025. Our guide covers weather, festivals like Dev Deepawali, crowd levels, and monthly travel tips.",
-  "image": [
-    "https://banarasi.kashitaxi.in/images/varanasi-best-time-600x400.jpeg",
-    "https://banarasi.kashitaxi.in/images/varanasi-ghat-early-morning.jpeg",
-    "https://banarasi.kashitaxi.in/images/varanasi-ghat-boat-eve-p.jpeg",
-    "https://banarasi.kashitaxi.in/images/varanasi-ghat-wallpaper-p.jpeg"
-  ],
-  "author": {
-    "@type": "Person",
-    "name": "Abhinav Pandey"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Banarasi Kashitaxi",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://banarasi.kashitaxi.in/images/logo.png"
-    }
-  },
-  "datePublished": "2025-08-02",
-  "dateModified": "2025-08-02",
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What is the best month to visit Varanasi?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The best month to visit Varanasi is November. The weather is ideal, and you can experience major festivals like Dev Deepawali and Ganga Mahotsav. For great weather with fewer crowds, late February is also an excellent choice."
-        }
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/en/best-time-to-visit-varanasi"
       },
-      {
-        "@type": "Question",
-        "name": "When is the monsoon season in Varanasi?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The monsoon season in Varanasi is from July to September. During this time, you can expect high humidity and heavy rainfall, which can lead to the suspension of boat rides on the Ganga due to high water levels."
-        }
+      "headline": "Best Time to Visit Varanasi: A 2025 Guide to Weather & Festivals",
+      "description": "Discover the best time to visit Varanasi in 2025. Our guide covers weather, festivals like Dev Deepawali, crowd levels, and monthly travel tips.",
+      "image": [
+        "https://www.kashitaxi.in/images/varanasi-best-time-600x400.jpeg",
+        "https://www.kashitaxi.in/images/varanasi-ghat-early-morning.jpeg",
+        "https://www.kashitaxi.in/images/varanasi-ghat-boat-eve-p.jpeg",
+        "https://www.kashitaxi.in/images/varanasi-ghat-wallpaper-p.jpeg"
+      ],
+      "author": {
+        "@type": "Person",
+        "name": "Abhinav Pandey"
       },
-      {
-        "@type": "Question",
-        "name": "How many days are enough for a trip to Varanasi?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "A trip of at least 3 full days is recommended for Varanasi. This allows enough time to experience the sunrise and sunset Ganga Aarti ceremonies, take a boat ride, explore the main ghats and the old city. Add an extra day if you plan to visit Sarnath."
-        }
+      "publisher": {
+        "@type": "Organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/images/logo.png"
+        },
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "datePublished": "2025-08-02",
+      "dateModified": "2025-08-02",
+      "mainEntity": {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the best month to visit Varanasi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The best month to visit Varanasi is November. The weather is ideal, and you can experience major festivals like Dev Deepawali and Ganga Mahotsav. For great weather with fewer crowds, late February is also an excellent choice."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When is the monsoon season in Varanasi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The monsoon season in Varanasi is from July to September. During this time, you can expect high humidity and heavy rainfall, which can lead to the suspension of boat rides on the Ganga due to high water levels."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many days are enough for a trip to Varanasi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A trip of at least 3 full days is recommended for Varanasi. This allows enough time to experience the sunrise and sunset Ganga Aarti ceremonies, take a boat ride, explore the main ghats and the old city. Add an extra day if you plan to visit Sarnath."
+            }
+          }
+        ]
       }
-    ]
-  }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/best-time-to-visit-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Best Time to Visit Varanasi: A 2025 Guide to Weather & Festivals",
+          "item": "https://www.kashitaxi.in/en/best-time-to-visit-varanasi"
+        }
+      ]
+    }
+  ]
 }

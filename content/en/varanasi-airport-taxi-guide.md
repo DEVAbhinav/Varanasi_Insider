@@ -6,7 +6,7 @@ lastUpdated: "2025-07-21"
 lastVerified: "2025-07-21"
 author: "Abhinav Pandey"
 lang: en-IN
-canonical: "https://banarasi.kashitaxi.in/en/varanasi-airport-taxi-guide/"
+canonical: "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide/"
 featuredImage: "/images/posts/varanasi-airport-taxi.jpg"
 description: "Your complete 2025 guide to booking a taxi at Varanasi (VNS) airport. Compare prepaid fares with Uber/Ola, find exact pick‑up zones, and dodge common scams."
 tags:
@@ -45,6 +45,20 @@ After check‑in, plan a [sunrise boat ride](/en/sunrise-boat-ride-varanasi/) or
 | **Uber Go (Off‑peak)** | Ghats | **₹640 – ₹700** |
 | **Ola Micro (Off‑peak)** | Ghats | **₹620 – ₹680** |
 | **Auto‑rickshaw (negotiated)** | Walk outside airport | **₹500 – ₹600** |
+
+<div class="inline-cta" role="region" aria-label="Book airport pickup">
+  <h3>Skip the hassle — fixed, all‑inclusive airport pickup</h3>
+  <p>
+    Avoid uncertainty at the terminal. Book a <strong>Kashi Taxi</strong> for a
+    <strong>fixed, all‑inclusive fare</strong> with a professional driver waiting
+    at the arrivals gate. On‑time pickup guaranteed.
+  </p>
+  <div class="cta-actions">
+    <a class="btn-primary" href="tel:+919450301573">Call to Book</a>
+    <a class="btn-outline" href="https://wa.me/919935474730?text=Hi%2C%20I%20want%20to%20pre-book%20an%20airport%20pickup%20at%20VNS">Chat on WhatsApp</a>
+  </div>
+  <p class="fine-print">Transparent pricing • Driver details shared in advance • Free 15‑min wait at arrivals</p>
+</div>
 
 ### Return Trip — City ➜ Airport
 
@@ -107,10 +121,30 @@ After check‑in, plan a [sunrise boat ride](/en/sunrise-boat-ride-varanasi/) or
 
 ---
 
-## Accessibility Notes
+## The Safest Option for Solo & Female Travellers
 
-* Terminal ramps throughout; lifts near Gate 1.  
-* Sedans (Dzire/Etios) fit a folded wheelchair – confirm with coordinator.
+<div class="pink-safety">
+  <div class="pink-copy">
+    <p>
+      Travelling solo or with family? Choose our <strong>Pink Taxi</strong> — a
+      pre‑booked service designed for women’s safety and comfort from the moment
+      you exit arrivals.
+    </p>
+    <ul>
+      <li>Lady chauffeur option, trained and verified</li>
+      <li>Driver & vehicle details shared before pickup</li>
+      <li>Live trip tracking + WhatsApp support</li>
+      <li>Clean, AC cars with discreet assistance at the gate</li>
+    </ul>
+    <div class="cta-actions">
+      <a class="btn-primary" href="/pink-taxi-varanasi">Pre‑book Pink Taxi (Airport Pickup)</a>
+      <a class="btn-outline" href="https://wa.me/919935474730?text=Hi%2C%20I%20want%20to%20book%20Pink%20Taxi%20for%20VNS%20airport%20pickup">WhatsApp Us</a>
+    </div>
+  </div>
+  <div class="pink-media">
+    <img src="/images/lady-taxi.jpeg" alt="Pink Taxi service at Varanasi airport with lady chauffeur" />
+  </div>
+</div>
 
 ---
 

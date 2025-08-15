@@ -4,12 +4,12 @@ slug: "varanasi-transport-price-guide-2025"
 date: "2025-07-24"
 author: "Abhinav Pandey"
 featuredImage: "/images/vnsayopyg.png"
-description: "Your one‑stop guide to Varanasi airport taxi price, women‑only pink taxis, Lucknow → Varanasi fares, Ganga Aarti boat booking price, one‑day tour cab charges, Assi Ghat ↔ airport distance, and Varanasi → Bodhgaya taxi cost. Book instantly at Banarasi.KashiTaxi.in or call 94503 01573."
+description: "Your one‑stop guide to Varanasi airport taxi price, women‑only pink taxis, Lucknow → Varanasi fares, Ganga Aarti boat booking price, one‑day tour cab charges, Assi Ghat ↔ airport distance, and Varanasi → Bodhgaya taxi cost. Book instantly at www.kashitaxi.in or call 94503 01573."
 tags: ["varanasi airport taxi price","ganga aarti boat booking price","varanasi pink taxi for women"]
 ---
 
 > **Need a ride right now?**  
-> Book online at **[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)** or call **94503 01573** (24×7 WhatsApp).
+> Book online at **[www.kashitaxi.in](https://www.kashitaxi.in)** or call **94503 01573** (24×7 WhatsApp).
 
 ---
 
@@ -34,7 +34,7 @@ Varanasi’s airport is about 25–32 km from the city’s ghats and temples. T
 
 \*Autos wait outside Gate 4 to avoid the ₹120 entry toll. Late‑night driver allowance (₹300 after 21:00) may apply.
 
-**Quick‑book tip:** Skip the queue—**[Banarasi.KashiTaxi.in](https://banarasi.kashitaxi.in)** guarantees a sedan at **₹899 all‑inclusive**. For phone bookings, call **94503 01573**.
+**Quick‑book tip:** Skip the queue—**[www.kashitaxi.in](https://www.kashitaxi.in)** guarantees a sedan at **₹899 all‑inclusive**. For phone bookings, call **94503 01573**.
 
 ---
 
@@ -49,7 +49,7 @@ Varanasi’s airport is about 25–32 km from the city’s ghats and temples. T
 | 06:00‑22:00 | ₹200 | ₹14/km | – |
 | 22:00‑06:00 | – | ₹16/km | +₹100 |
 
-Reserve a verified woman driver through the upcoming Safe City app **or** pre‑book on **Banarasi.KashiTaxi.in → Pink Taxi** section (limited fleets). For support, call **94503 01573**.
+Reserve a verified woman driver through the upcoming Safe City app **or** pre‑book on **www.kashitaxi.in → Pink Taxi** section (limited fleets). For support, call **94503 01573**.
 
 ---
 
@@ -63,7 +63,7 @@ Reserve a verified woman driver through the upcoming Safe City app **or** pre�
 | VTS Cabs | Sedan | ~₹3,900\* | ~7 h | 335 km (E‑way) |
 
 \*Excludes ₹840 expressway toll.  
-**Flat‑fare deal:** Sedan at **₹4,299** all‑in when you reserve via **Banarasi.KashiTaxi.in → Outstation** at least 48 h in advance.
+**Flat‑fare deal:** Sedan at **₹4,299** all‑in when you reserve via **www.kashitaxi.in → Outstation** at least 48 h in advance.
 
 ---
 
@@ -78,7 +78,7 @@ Reserve a verified woman driver through the upcoming Safe City app **or** pre�
 | Bajra barge | 1‑30 | Sofa seating, refreshments | ₹11,999 |
 
 **Shared boat** budget: ₹150‑₹300 pp.  
-Secure your slot: **[Banarasi.KashiTaxi.in/boat](https://banarasi.kashitaxi.in/boat)** or WhatsApp **94503 01573**.
+Secure your slot: **[www.kashitaxi.in/boat](https://www.kashitaxi.in/boat)** or WhatsApp **94503 01573**.
 
 ---
 
@@ -94,7 +94,7 @@ Secure your slot: **[Banarasi.KashiTaxi.in/boat](https://banarasi.kashitaxi.in/b
 | Tempo Traveller (12‑seat) | ₹4,250 | ₹29 | ₹300 |
 
 GST 5 % & parking extra.  
-**Instant quote & pay:** **Banarasi.KashiTaxi.in → City Tours**.
+**Instant quote & pay:** **www.kashitaxi.in → City Tours**.
 
 ---
 
@@ -107,7 +107,7 @@ GST 5 % & parking extra.
   * Pre‑paid sedan ~ ₹900  
   * Auto ~ ₹550  
 
-Lock a fixed **₹749** sedan on **Banarasi.KashiTaxi.in** (promo code **ASSI23**).
+Lock a fixed **₹749** sedan on **www.kashitaxi.in** (promo code **ASSI23**).
 
 ---
 
@@ -120,7 +120,7 @@ Lock a fixed **₹749** sedan on **Banarasi.KashiTaxi.in** (promo code **ASSI23*
 | Tempo Traveller | ₹9,853 | ₹20/km | 260 km | ~7 h |
 
 State‑entry tax to Bihar (₹340) may apply.  
-Book direct: **Banarasi.KashiTaxi.in → Buddhist Circuit** or ring **94503 01573**.
+Book direct: **www.kashitaxi.in → Buddhist Circuit** or ring **94503 01573**.
 
 ---
 
@@ -146,7 +146,7 @@ Book direct: **Banarasi.KashiTaxi.in → Buddhist Circuit** or ring **94503 01
 4. **Share live location** (Uber/Ola safety or WhatsApp).  
 5. Save our number **94503 01573** in case of any en‑route issues.
 
-Safe travels—and if you need wheels at any hour, remember **Banarasi.KashiTaxi.in** is just one click or call away!
+Safe travels—and if you need wheels at any hour, remember **www.kashitaxi.in** is just one click or call away!
 
 ---
 
@@ -154,7 +154,7 @@ Safe travels—and if you need wheels at any hour, remember **Banarasi.KashiTaxi
 
 *   **Airport Taxi** → [Airport‑to‑City Transfer Guide](/en/varanasi-airport-taxi-price-guide)
 *   **Ganga Aarti Boat** → [Ganga Aarti Boat Booking Price Guide](/en/ganga-aarti-boat-booking-price)
-*   **Pink Taxi** → [Pink Taxi landing page](https://banarasi.kashitaxi.in/pink-taxi-varanasi)
+*   **Pink Taxi** → [Pink Taxi landing page](https://www.kashitaxi.in/pink-taxi-varanasi)
 *   **Lucknow → Varanasi Taxi** → [Lucknow to Varanasi Taxi Fare Guide](/en/lucknow-to-varanasi-taxi-fare)
 *   **Varanasi Day Tour** → [Varanasi Day Tour Cab Charges Guide](/en/varanasi-day-tour-cab-charges)
 *   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-distance)

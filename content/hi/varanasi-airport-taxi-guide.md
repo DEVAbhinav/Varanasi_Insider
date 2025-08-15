@@ -6,7 +6,7 @@ lastUpdated: "2025-07-21"
 lastVerified: "2025-07-21"
 author: "अभिनव पांडे"
 lang: "hi"
-canonical: "https://banarasi.kashitaxi.in/hi/varanasi-airport-taxi-guide/"
+canonical: "https://www.kashitaxi.in/hi/varanasi-airport-taxi-guide/"
 featuredImage: "/images/posts/varanasi-airport-taxi.jpg"
 description: "वाराणसी (VNS) हवाई अड्डे पर टैक्सी बुक करने के लिए आपकी पूरी 2025 गाइड। प्रीपेड किराये की तुलना उबर/ओला से करें, सटीक पिक-अप जोन खोजें, और आम धोखाधड़ी से बचें।"
 tags:

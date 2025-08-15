@@ -6,7 +6,7 @@ author: "Abhinav Pandey"
 description: "Explore the 10 most important ghats of Varanasi, from Assi to Adi Keshava. Our guide covers their history, significance, and tips for visiting."
 featuredImage: "/images/ghats-of-varanasi-panorama.jpg"
 lang: en-IN
-canonical: "https://banarasi.kashitaxi.in/en/guide-to-10-most-important-ghats-of-varanasi"
+canonical: "https://www.kashitaxi.in/en/guide-to-10-most-important-ghats-of-varanasi"
 tags: ["Varanasi ghats", "Ganges river", "top 10 ghats", "Varanasi travel guide", "Kashi"]
 metaTitle: "The 10 Most Important Ghats of Varanasi: A Complete Guide (2025)"
 metaDescription: "Explore the 10 most important ghats of Varanasi, from Assi to Adi Keshava. Our guide covers their history, significance, and tips for visiting."
