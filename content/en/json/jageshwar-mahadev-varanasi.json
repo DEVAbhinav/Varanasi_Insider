@@ -40,7 +40,12 @@
       "url": "https://www.kashitaxi.in/en/jageshwar-mahadev-varanasi/",
       "sameAs": [
         "https://www.youtube.com/watch?v=euU6XVaUxEs"
-      ]
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.kashitaxi.in#organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      }
     },
     {
       "@type": "Organization",
@@ -72,8 +77,8 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services",
-          "item": "https://www.kashitaxi.in/en/services/"
+          "name": "Travel Guides",
+          "item": "https://www.kashitaxi.in/en/"
         },
         {
           "@type": "ListItem",

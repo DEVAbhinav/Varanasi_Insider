@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /*
   Update all JSON-LD files under content/en/json to ensure
-  - BreadcrumbList with category-aware trail (Guides / Services / Packages)
+  - BreadcrumbList with category-aware trail (Guides / Services / Packages) using configurable routes
   - Wrap into @graph when needed
   - Normalize publisher to the business Organization (Kashi Taxi | Vinayak Travels Varanasi) with a stable @id
 */
@@ -11,23 +11,46 @@ const path = require('path');
 
 const ROOT = process.cwd();
 const DIR = path.join(ROOT, 'content', 'en', 'json');
-const BASE = 'https://www.kashitaxi.in';
+const DEFAULT_BASE = 'https://www.kashitaxi.in';
+const CONFIG_PATH = path.join(ROOT, 'config', 'breadcrumbs.config.json');
+
+// Load config with sane defaults
+function loadConfig() {
+  const defaults = {
+    baseUrl: DEFAULT_BASE,
+    categories: {
+      guides: { label: 'Travel Guides', path: '/en/', enabled: true },
+      services: { label: 'Services', path: '/en/services/', enabled: false },
+      packages: { label: 'Packages', path: '/en/packages/', enabled: false }
+    }
+  };
+  try {
+    if (fs.existsSync(CONFIG_PATH)) {
+      const raw = fs.readFileSync(CONFIG_PATH, 'utf8');
+      const userCfg = JSON.parse(raw);
+      return { ...defaults, ...userCfg, categories: { ...defaults.categories, ...(userCfg.categories || {}) } };
+    }
+  } catch (e) {
+    console.warn('Breadcrumbs config invalid, using defaults:', e.message);
+  }
+  return defaults;
+}
+
+const CFG = loadConfig();
 
 // Canonical Organization node to reference as publisher across pages
 const ORG = {
   '@type': 'Organization',
-  '@id': `${BASE}#organization`,
+  '@id': `${CFG.baseUrl}#organization`,
   name: 'Kashi Taxi | Vinayak Travels Varanasi',
   legalName: 'Vinayak Travels Varanasi',
-  // Add recognizable alternates if needed
   alternateName: ['Kashi Taxi'],
-  url: `${BASE}/`,
+  url: `${CFG.baseUrl}/`,
   logo: {
     '@type': 'ImageObject',
-    url: `${BASE}/favicon.jpeg`
+    url: `${CFG.baseUrl}/favicon.jpeg`
   },
   sameAs: [
-    // Google Business Profile short URL
     'https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA'
   ]
 };
@@ -67,7 +90,7 @@ function getPageUrl(data, filePath, slug) {
   // Non-graph fallback
   if (data.mainEntityOfPage && data.mainEntityOfPage['@id']) return data.mainEntityOfPage['@id'];
   // Construct from slug
-  return `${BASE}/en/${slug}/`;
+  return `${CFG.baseUrl}/en/${slug}/`;
 }
 
 function getTitle(data, slug) {
@@ -87,15 +110,11 @@ function ensureOrgInGraph(graph) {
 
 function normalizePublisher(node, graph) {
   if (!node) return;
-  // Ensure the canonical Organization node exists in the graph
   ensureOrgInGraph(graph);
-
-  // If no publisher or not an object, reference the org by @id
   if (!node.publisher || typeof node.publisher !== 'object') {
     node.publisher = { '@type': 'Organization', '@id': ORG['@id'], name: ORG.name };
     return;
   }
-  // Normalize existing publisher object
   node.publisher['@type'] = 'Organization';
   node.publisher['@id'] = ORG['@id'];
   node.publisher.name = ORG.name;
@@ -106,46 +125,49 @@ function classifyCategory(pageUrl, title, graph) {
   const url = (pageUrl || '').toLowerCase();
   const ttl = (title || '').toLowerCase();
 
-  // Type-based hints
+  // Force guides for Place-like content (temples, attractions)
+  const forceGuidesTypes = ['Place', 'HinduTemple', 'TouristAttraction', 'LandmarksOrHistoricalBuildings'];
   const hasType = (t) => graph && graph.some(n => {
     const ty = n['@type'];
     return ty === t || (Array.isArray(ty) && ty.includes(t));
   });
+  if (forceGuidesTypes.some(hasType)) return 'guides';
 
   if (hasType('Service') || hasType('TaxiService')) return 'services';
 
-  // URL hints for services
   const serviceHints = ['taxi', 'cab', 'airport', 'outstation', 'fare', 'price', 'charges', 'rental', 'bike', 'scooty', 'booking'];
   if (serviceHints.some(h => url.includes(h))) return 'services';
 
-  // Packages
   const packageHints = ['package', 'tour', 'itinerary', 'day-tour'];
   if (packageHints.some(h => url.includes(h) || ttl.includes(h))) return 'packages';
 
-  // Guides default
-  const guideHints = ['guide', 'timings', 'best', 'ghat', 'aarti', 'boat', 'things to do', 'how to'];
+  const guideHints = ['guide', 'timings', 'best', 'ghat', 'aarti', 'boat', 'things to do', 'how to', 'temple'];
   if (guideHints.some(h => url.includes(h) || ttl.includes(h))) return 'guides';
 
   return 'guides';
 }
 
 function categoryParent(category) {
-  switch (category) {
-    case 'services': return { name: 'Services', item: `${BASE}/en/services/` };
-    case 'packages': return { name: 'Packages', item: `${BASE}/en/packages/` };
-    case 'guides':
-    default: return { name: 'Travel Guides', item: `${BASE}/en/` };
-  }
+  const cfgCat = CFG.categories[category] || CFG.categories.guides;
+  if (!cfgCat.enabled || !cfgCat.path) return CFG.categories.guides;
+  return cfgCat;
+}
+
+function joinUrl(base, pathPart) {
+  const b = (base || '').replace(/\/+$/, '');
+  const p = (pathPart || '').replace(/^\/+/, '');
+  return p ? `${b}/${p}` : `${b}/`;
 }
 
 function buildBreadcrumbs(pageUrl, title, category) {
   const parent = categoryParent(category);
+  const parentItem = joinUrl(CFG.baseUrl, parent.path);
   return {
     '@type': 'BreadcrumbList',
     '@id': `${pageUrl}#breadcrumbs`,
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: `${BASE}/` },
-      { '@type': 'ListItem', position: 2, name: parent.name, item: parent.item },
+      { '@type': 'ListItem', position: 1, name: 'Home', item: joinUrl(CFG.baseUrl, '/') },
+      { '@type': 'ListItem', position: 2, name: parent.label, item: parentItem },
       { '@type': 'ListItem', position: 3, name: title.replace(/\s+/g, ' ').trim(), item: pageUrl }
     ]
   };
@@ -176,7 +198,7 @@ function processFile(filePath) {
   // Normalize publisher on primary node
   const primary = graph.find(n => {
     const t = n['@type'];
-    return t === 'BlogPosting' || (Array.isArray(t) && t.includes('BlogPosting')) || t === 'Article' || t === 'WebPage' || t === 'Service';
+    return t === 'BlogPosting' || (Array.isArray(t) && t.includes('BlogPosting')) || t === 'Article' || t === 'WebPage' || t === 'Service' || t === 'Place' || t === 'HinduTemple' || t === 'TouristAttraction';
   });
   if (primary) normalizePublisher(primary, graph);
 

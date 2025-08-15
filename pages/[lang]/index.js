@@ -28,6 +28,12 @@ export default function LangHome({ allPostsData, lang }) {
       <main className="container mx-auto px-6 py-12 max-w-4xl">
         <section>
           <h1 className="text-4xl font-bold mb-8 font-serif">Latest Articles</h1>
+          {lang === 'en' && (
+            <div className="flex gap-4 mb-6">
+              <Link href="/en/services/" className="text-yellow-700 font-semibold">Services →</Link>
+              <Link href="/en/packages/" className="text-yellow-700 font-semibold">Packages →</Link>
+            </div>
+          )}
           <ul className="space-y-10">
             {allPostsData.map(({ slug, date, title, description }) => (
               <li key={slug}>

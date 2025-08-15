@@ -1,0 +1,20 @@
+{
+  "baseUrl": "https://www.kashitaxi.in",
+  "categories": {
+    "guides": {
+      "label": "Travel Guides",
+      "path": "/en/",
+      "enabled": true
+    },
+    "services": {
+      "label": "Services",
+      "path": "/en/services/",
+      "enabled": true
+    },
+    "packages": {
+      "label": "Packages",
+      "path": "/en/packages/",
+      "enabled": true
+    }
+  }
+}
