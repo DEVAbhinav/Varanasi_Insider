@@ -70,7 +70,18 @@ export default function HomePage({ allPosts }) {
       <NavBar />
       <main className="pb-24 md:pb-0">
         {/* Keep above-the-fold lean: Hero first */}
-        <HeroSection />
+        <HeroSection
+          calculatorProps={{
+            cardClassName: 'bg-white/10 backdrop-blur-md border-white/20 text-white shadow-lg',
+            contentClassName: '[&_label]:text-white/85',
+            inputClassName: 'bg-white/95 text-slate-900 placeholder-slate-600',
+            headerTitleClassName: 'text-white font-semibold tracking-tight',
+            leftSummaryClassName: 'text-sm text-white/85',
+            totalLabelClassName: 'text-white/80',
+            totalValueClassName: 'text-white',
+            totalEffClassName: 'text-white/70',
+          }}
+        />
         
         {/* Google Reviews Widget - Above the fold for social proof */}
         <GoogleReviews />

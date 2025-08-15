@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React from "react";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
@@ -20,8 +20,8 @@ import {
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ui/accordion";
-import { Separator } from "@/components/ui/separator";
 import JsonLd from "@/components/JsonLd/JsonLd";
+import FareCalculator from "@/components/FareCalculator/FareCalculator";
 
 const fadeUp = {
   initial: { opacity: 0, y: 16 },
@@ -122,22 +122,6 @@ const ROUTE_LINKS = {
 };
 
 export default function OutstationTaxiGuide() {
-  // Fare calculator state
-  const [distance, setDistance] = useState(240); // default Prayagraj round-trip example
-  const [rate, setRate] = useState(12);
-  const [nights, setNights] = useState(0);
-  const [tolls, setTolls] = useState(400);
-  const [parking, setParking] = useState(0);
-  const [driverNight, setDriverNight] = useState(300);
-
-  const estimate = useMemo(() => {
-    const base = Number(distance || 0) * Number(rate || 0);
-    const dn = Number(nights || 0) * Number(driverNight || 0);
-    const total = base + dn + Number(tolls || 0) + Number(parking || 0);
-    const eff = distance ? total / distance : 0;
-    return { base, dn, total, eff };
-  }, [distance, rate, nights, tolls, parking, driverNight]);
-
   return (
     <>
       <Head>
@@ -351,46 +335,7 @@ export default function OutstationTaxiGuide() {
           <Calculator className="h-5 w-5 text-amber-700"/>
           <h2 className="text-2xl font-semibold tracking-tight">Outstation taxi fare calculator</h2>
         </div>
-        <Card className="border-2">
-          <CardContent className="grid gap-4 p-4 md:grid-cols-3">
-            <div>
-              <label className="text-xs font-medium text-slate-600">Distance (km)</label>
-              <input type="number" value={distance} onChange={(e)=>setDistance(Number(e.target.value))} className="mt-1 w-full rounded-md border px-3 py-2 text-sm"/>
-            </div>
-            <div>
-              <label className="text-xs font-medium text-slate-600">Per‑km rate (₹)</label>
-              <input type="number" step="0.5" value={rate} onChange={(e)=>setRate(Number(e.target.value))} className="mt-1 w-full rounded-md border px-3 py-2 text-sm"/>
-            </div>
-            <div>
-              <label className="text-xs font-medium text-slate-600">Driver night charge (₹/night)</label>
-              <input type="number" value={driverNight} onChange={(e)=>setDriverNight(Number(e.target.value))} className="mt-1 w-full rounded-md border px-3 py-2 text-sm"/>
-            </div>
-            <div>
-              <label className="text-xs font-medium text-slate-600">Nights</label>
-              <input type="number" value={nights} onChange={(e)=>setNights(Number(e.target.value))} className="mt-1 w-full rounded-md border px-3 py-2 text-sm"/>
-            </div>
-            <div>
-              <label className="text-xs font-medium text-slate-600">Tolls & state taxes (₹)</label>
-              <input type="number" value={tolls} onChange={(e)=>setTolls(Number(e.target.value))} className="mt-1 w-full rounded-md border px-3 py-2 text-sm"/>
-            </div>
-            <div>
-              <label className="text-xs font-medium text-slate-600">Parking (₹)</label>
-              <input type="number" value={parking} onChange={(e)=>setParking(Number(e.target.value))} className="mt-1 w-full rounded-md border px-3 py-2 text-sm"/>
-            </div>
-          </CardContent>
-          <Separator/>
-          <CardContent className="flex flex-wrap items-center justify-between gap-3 p-4">
-            <div className="text-sm text-slate-700">
-              <div>Base fare: <span className="font-semibold">₹{Math.round(estimate.base).toLocaleString("en-IN")}</span></div>
-              <div>Driver night: <span className="font-semibold">₹{Math.round(estimate.dn).toLocaleString("en-IN")}</span></div>
-            </div>
-            <div className="text-right">
-              <div className="text-xs text-slate-500">Estimated total</div>
-              <div className="text-2xl font-semibold text-amber-800">₹{Math.round(estimate.total).toLocaleString("en-IN")}</div>
-              <div className="text-xs text-slate-500">≈ ₹{estimate.eff.toFixed(1)}/km effective</div>
-            </div>
-          </CardContent>
-        </Card>
+        <FareCalculator />
       </motion.section>
 
       {/* FAQS (brief, SEO friendly) */}
