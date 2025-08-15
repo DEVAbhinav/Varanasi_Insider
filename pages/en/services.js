@@ -2,41 +2,41 @@ import Head from 'next/head';
 import Link from 'next/link';
 import NavBar from '../../components/NavBar/NavBar';
 import Footer from '../../components/Footer/Footer';
+import { getSortedPostsData } from '../../lib/posts';
+import { listByCategory, getBreadcrumbConfig } from '../../lib/categories';
 
-export default function ServicesPage() {
-  const items = [
-    { href: '/en/varanasi-airport-taxi-guide', title: 'Varanasi Airport Taxi Guide', desc: 'Fixed fares, tips, and the safest options from VNS airport.' },
-    { href: '/en/varanasi-airport-taxi-price-guide', title: 'Airport Taxi Price Guide', desc: 'Transparent pricing and how to avoid overcharges.' },
-    { href: '/en/varanasi-day-tour-cab-charges', title: 'Varanasi Day Tour Cab Charges', desc: 'Full-day and half-day cab pricing with inclusions.' },
-    { href: '/en/lucknow-to-varanasi-taxi-fare', title: 'Lucknow to Varanasi Taxi Fare', desc: 'Outstation fares and travel tips.' },
-    { href: '/en/bike-rentals-varanasi', title: 'Bike Rentals in Varanasi', desc: 'Scooty and bike rentals with documents checklist.' }
-  ];
-
+export async function getStaticProps() {
+  const allEnPosts = getSortedPostsData('en');
+  const services = listByCategory(allEnPosts, 'services');
+  const cfg = getBreadcrumbConfig();
   const jsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
       {
         '@type': 'CollectionPage',
-        '@id': 'https://www.kashitaxi.in/en/services/',
+        '@id': `${cfg.baseUrl}/en/services/`,
         name: 'Taxi & Travel Services in Varanasi',
         description: 'Curated list of taxi services, fares, airport transfers, and rentals in Varanasi.',
-        url: 'https://www.kashitaxi.in/en/services/',
-        isPartOf: { '@id': 'https://www.kashitaxi.in#website' },
-        breadcrumb: { '@id': 'https://www.kashitaxi.in/en/services/#breadcrumbs' },
-        about: items.map(i => ({ '@type': 'Thing', name: i.title, url: `https://www.kashitaxi.in${i.href}` })),
-        publisher: { '@type': 'Organization', '@id': 'https://www.kashitaxi.in#organization' }
+        url: `${cfg.baseUrl}/en/services/`,
+        isPartOf: { '@id': `${cfg.baseUrl}#website` },
+        breadcrumb: { '@id': `${cfg.baseUrl}/en/services/#breadcrumbs` },
+        about: services.map(p => ({ '@type': 'Thing', name: p.title || p.slug, url: `${cfg.baseUrl}/en/${p.slug}` })),
+        publisher: { '@type': 'Organization', '@id': `${cfg.baseUrl}#organization` }
       },
       {
         '@type': 'BreadcrumbList',
-        '@id': 'https://www.kashitaxi.in/en/services/#breadcrumbs',
+        '@id': `${cfg.baseUrl}/en/services/#breadcrumbs`,
         itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.kashitaxi.in/' },
-          { '@type': 'ListItem', position: 2, name: 'Services', item: 'https://www.kashitaxi.in/en/services/' }
+          { '@type': 'ListItem', position: 1, name: 'Home', item: `${cfg.baseUrl}/` },
+          { '@type': 'ListItem', position: 2, name: 'Services', item: `${cfg.baseUrl}/en/services/` }
         ]
       }
     ]
   };
+  return { props: { services, jsonLd } };
+}
 
+export default function ServicesPage({ services, jsonLd }) {
   return (
     <>
       <Head>
@@ -49,10 +49,10 @@ export default function ServicesPage() {
         <h1 className="text-4xl font-bold mb-8 font-serif">Taxi & Travel Services</h1>
         <p className="text-gray-700 mb-8">Browse our most requested services with transparent fares and safety-first options.</p>
         <div className="grid gap-6 sm:grid-cols-2">
-          {items.map((i) => (
-            <Link key={i.href} href={i.href} className="block border rounded-lg p-5 hover:shadow-md transition">
-              <h2 className="text-xl font-semibold">{i.title}</h2>
-              <p className="text-gray-600 mt-1">{i.desc}</p>
+          {services.map((p) => (
+            <Link key={p.slug} href={`/en/${p.slug}`} className="block border rounded-lg p-5 hover:shadow-md transition">
+              <h2 className="text-xl font-semibold">{p.title || p.slug}</h2>
+              <p className="text-gray-600 mt-1">{p.description || ''}</p>
               <span className="text-yellow-700 font-semibold inline-block mt-2">View →</span>
             </Link>
           ))}
