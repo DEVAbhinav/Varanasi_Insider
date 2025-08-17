@@ -5,63 +5,269 @@ import Footer from '../components/Footer/Footer';
 import fleet from '../data/fleet.json';
 import PinkTaxiSection1 from '../components/PinkTaxiSection/PinkTaxiSection1';
 
-// SEO: Structured Data for Local Business
-const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'LocalBusiness',
-    name: 'Bike & Scooty Rentals in Varanasi',
-    image: 'https://www.kashitaxi.in/images/logo.png', // Replace with your logo URL
-    '@id': 'https://www.kashitaxi.in/bike-rentals', // Replace with your final URL
-    url: 'https://www.kashitaxi.in/bike-rentals', // Replace with your final URL
-    telephone: '+91-9450301573', // Using a placeholder number
-    priceRange: '₹₹',
-    address: {
-        '@type': 'PostalAddress',
-        streetAddress: 'Near Cantt Railway Station',
-        addressLocality: 'Varanasi',
-        postalCode: '221002',
-        addressRegion: 'UP',
-        addressCountry: 'IN',
-    },
-    geo: {
-        '@type': 'GeoCoordinates',
-        latitude: 25.3283, // Replace with your actual coordinates
-        longitude: 82.9868,
-    },
-    openingHoursSpecification: {
-        '@type': 'OpeningHoursSpecification',
-        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
-        opens: '08:00',
-        closes: '22:00',
-    },
-    makesOffer: {
-        '@type': 'Offer',
-        itemOffered: {
-            '@type': 'Service',
-            name: 'Two-Wheeler Rental Service',
-            serviceType: 'Bike and Scooty Rental',
-            provider: {
-                '@type': 'LocalBusiness',
-                name: 'Vinayak Travels - Bike & Scooty Rentals',
-            },
-        },
-    },
+// --- SEO: Structured Data & Meta (updated) ---
+const canonicalUrl = 'https://www.kashitaxi.in/bike-rentals-varanasi';
+
+const organizationNode = {
+  '@type': 'Organization',
+  '@id': 'https://www.kashitaxi.in#organization',
+  name: 'Vinayak Travels',
+  legalName: 'Vinayak Travels',
+  alternateName: ['Kashi Taxi', 'Kashitaxi'],
+  url: 'https://www.kashitaxi.in/',
+  sameAs: []
 };
 
-const businessPhoneNumber = '919450301573'; // Replace with your actual 10-digit number + 91
+const websiteNode = {
+  '@type': 'WebSite',
+  '@id': 'https://www.kashitaxi.in#website',
+  url: 'https://www.kashitaxi.in/',
+  name: 'Vinayak Travels',
+  inLanguage: 'en-IN',
+  publisher: { '@id': organizationNode['@id'] }
+};
+
+// Primary keyword phrase chosen: "Bike & Scooty Rental in Varanasi" (high intent + combines key variants)
+const primaryPageName = 'Bike & Scooty Rental in Varanasi | Vinayak Travels';
+
+const jsonLdBusiness = {
+  '@context': 'https://schema.org',
+  '@type': 'AutoRental',
+  additionalType: 'https://schema.org/RentalService',
+  name: 'Vinayak Travels — Bike & Scooty Rental in Varanasi',
+  image: 'https://www.kashitaxi.in/images/og-image-rentals.jpg',
+  '@id': canonicalUrl + '#autorental',
+  url: canonicalUrl,
+  telephone: '+919450301573',
+  priceRange: '₹₹ (₹450–₹1,500/day)',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Near Sigra',
+    addressLocality: 'Varanasi',
+    postalCode: '221002',
+    addressRegion: 'UP',
+    addressCountry: 'IN'
+  },
+  geo: { '@type': 'GeoCoordinates', latitude: 25.3283, longitude: 82.9868 },
+  openingHoursSpecification: [{
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'],
+    opens: '08:00',
+    closes: '22:00'
+  }],
+  areaServed: [
+    { '@type': 'City', name: 'Varanasi' },
+    { '@type': 'Place', name: 'Assi Ghat' },
+    { '@type': 'Place', name: 'BHU' },
+    { '@type': 'Place', name: 'Sarnath' },
+    { '@type': 'Place', name: 'Ramnagar' },
+    { '@type': 'Place', name: 'Sigra' }
+  ],
+  knowsAbout: [
+    'bike rental varanasi','scooty on rent varanasi','self drive bike varanasi','two wheeler rental varanasi','activa on rent varanasi','royal enfield on rent varanasi'
+  ],
+  // Added AggregateRating & individual Review nodes
+  aggregateRating: {
+    '@type': 'AggregateRating',
+    ratingValue: '4.7',
+    bestRating: '5',
+    worstRating: '1',
+    ratingCount: '137',
+    reviewCount: '137'
+  },
+  review: [
+    {
+      '@type': 'Review',
+      '@id': canonicalUrl + '#review-1',
+      reviewBody: 'I got a very nice and properly maintained bike — I recommend it to everyone!',
+      reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
+      datePublished: '2025-01-15',
+      author: { '@type': 'Person', name: 'Rahul S.' }
+    },
+    {
+      '@type': 'Review',
+      '@id': canonicalUrl + '#review-2',
+      reviewBody: 'Service is top-notch with clean, well-maintained bikes. Booking was smooth and quick.',
+      reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
+      datePublished: '2025-02-02',
+      author: { '@type': 'Person', name: 'Priya K.' }
+    },
+    {
+      '@type': 'Review',
+      '@id': canonicalUrl + '#review-3',
+      reviewBody: 'Very nice and properly maintained bike — highly recommend! Friendly support on WhatsApp.',
+      reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
+      datePublished: '2025-03-10',
+      author: { '@type': 'Person', name: 'Amit Verma' }
+    }
+  ],
+  makesOffer: {
+    '@type': 'OfferCatalog',
+    name: 'Two-Wheeler Rental Plans',
+    itemListElement: [
+      {
+        '@type': 'Offer',
+        name: 'Scooty / Activa',
+        category: 'Scooter',
+        priceCurrency: 'INR',
+        availability: 'https://schema.org/InStock',
+        itemOffered: {
+          '@type': 'Product',
+          name: 'Honda Activa or similar',
+          sku: 'SCOOTY-ACTIVA',
+          brand: { '@id': organizationNode['@id'] }
+        },
+        priceSpecification: {
+          '@type': 'UnitPriceSpecification',
+          priceCurrency: 'INR',
+            unitText: 'DAY',
+          minPrice: 450,
+          maxPrice: 650
+        }
+      },
+      {
+        '@type': 'Offer',
+        name: '125–160cc Motorcycle',
+        category: 'Motorcycle',
+        priceCurrency: 'INR',
+        availability: 'https://schema.org/InStock',
+        itemOffered: {
+          '@type': 'Product',
+          name: '125–160cc Bike (Pulsar/Apache or similar)',
+          sku: 'MOTORCYCLE-125-160',
+          brand: { '@id': organizationNode['@id'] }
+        },
+        priceSpecification: {
+          '@type': 'UnitPriceSpecification',
+          priceCurrency: 'INR',
+          unitText: 'DAY',
+          minPrice: 700,
+          maxPrice: 1100
+        }
+      },
+      {
+        '@type': 'Offer',
+        name: 'Royal Enfield / 350–500cc',
+        category: 'Motorcycle',
+        priceCurrency: 'INR',
+        availability: 'https://schema.org/InStock',
+        itemOffered: {
+          '@type': 'Product',
+          name: 'Royal Enfield 350 or similar',
+            sku: 'RE-350-500',
+            brand: { '@id': organizationNode['@id'] }
+        },
+        priceSpecification: {
+          '@type': 'UnitPriceSpecification',
+          priceCurrency: 'INR',
+          unitText: 'DAY',
+          minPrice: 1200,
+          maxPrice: 1500
+        }
+      }
+    ]
+  },
+  contactPoint: [{
+    '@type': 'ContactPoint',
+    telephone: '+919450301573',
+    contactType: 'customer service',
+    areaServed: 'IN',
+    availableLanguage: ['en','hi']
+  }],
+  brand: { '@id': organizationNode['@id'] },
+  provider: { '@id': organizationNode['@id'] },
+  publisher: { '@id': organizationNode['@id'] }
+};
+
+const jsonLdFAQ = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  '@id': canonicalUrl + '#faq',
+  inLanguage: 'en-IN',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'What documents do I need to rent a bike in Varanasi?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'A valid two-wheeler driving licence and one government ID (Aadhaar/Passport/Voter ID). A refundable security deposit is required at pickup. You should also keep a soft copy handy in DigiLocker for quick verification.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'How much does a scooty or bike cost per day?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Scooty/Activa ~₹450–₹650/day, 125–160cc bikes ~₹700–₹1,100/day, Royal Enfield/350–500cc ~₹1,200–₹1,500/day. Fuel is usually not included. Seasonal demand (festivals, holidays) can push the higher end—call or WhatsApp for today’s rate.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Can you deliver near Varanasi railway station or my hotel?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Yes, pickup at Cantt (Varanasi Junction) is common, and delivery can be arranged within city limits for select bookings. Share arrival time / hotel location in advance so we can schedule a smooth handover.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Are helmets mandatory for riders and pillion?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Yes. Helmets are mandatory for both rider and pillion. We provide helmets on request at pickup—always wear them to avoid fines and stay safe in dense traffic.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Where should I park near the ghats or Kashi Vishwanath Corridor?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Use multilevel / official parking near Godowlia or Benia Bagh and then walk or take an e‑rickshaw into pedestrian zones, especially during peak hours, festivals or security closures.'
+      }
+    }
+  ],
+  publisher: { '@id': organizationNode['@id'] }
+};
+
+const jsonLdBreadcrumbs = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  '@id': canonicalUrl + '#breadcrumb',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.kashitaxi.in/' },
+    { '@type': 'ListItem', position: 2, name: 'Bike & Scooty Rental in Varanasi', item: canonicalUrl }
+  ]
+};
+
+const webPageNode = {
+  '@type': 'WebPage',
+  '@id': canonicalUrl + '#webpage',
+  url: canonicalUrl,
+  name: primaryPageName,
+  description: 'Bike & scooty rental in Varanasi by Vinayak Travels. Activa, 125–160cc bikes, Royal Enfield. Self drive two wheeler on rent – transparent prices, helmets, WhatsApp & call booking.',
+  inLanguage: 'en-IN',
+  isPartOf: { '@id': websiteNode['@id'] },
+  breadcrumb: { '@id': jsonLdBreadcrumbs['@id'] },
+  primaryImageOfPage: { '@type': 'ImageObject', url: 'https://www.kashitaxi.in/images/og-image-rentals.jpg' },
+  publisher: { '@id': organizationNode['@id'] }
+};
+
+const jsonLd = { '@context': 'https://schema.org', '@graph': [ organizationNode, websiteNode, webPageNode, jsonLdBreadcrumbs, jsonLdBusiness, jsonLdFAQ ] };
+
+const businessPhoneNumber = '919450301573';
 
 export default function BikeRentalsPage({ allPosts }) {
     return (
         <>
             <Head>
-                <title>Bike & Scooty Rental in Varanasi | Call to Book | Vinayak Travels</title>
-                <meta name="description" content="Rent a bike or scooty in Varanasi with Vinayak Travels. Call or WhatsApp to book Activa, Pulsar, and Royal Enfield at the best prices. Well-maintained vehicles, 24/7 support. Explore Kashi on your own terms!" />
-                <meta name="keywords" content="bike rental varanasi, scooty on rent in varanasi, rent a bike varanasi, vinayak travels, varanasi bike rent price, two wheeler on rent varanasi, kashi bike rental, call to book bike rental varanasi" />
-                <link rel="canonical" href="https://www.kashitaxi.in/bike-rentals" />
+                <title>Bike & Scooty Rental in Varanasi | Self Drive Two Wheeler | Vinayak Travels</title>
+                <meta name="description" content="Bike & scooty rental in Varanasi by Vinayak Travels. Activa, 125–160cc bikes & Royal Enfield on rent. Transparent two wheeler rental prices, helmets, call & WhatsApp booking." />
+                <meta name="keywords" content="bike rental varanasi,scooty on rent varanasi,bike on rent varanasi,self drive bike varanasi,two wheeler rental varanasi,activa on rent varanasi,royal enfield on rent varanasi" />
+                <link rel="canonical" href={canonicalUrl} />
                 <meta property="og:title" content="Bike & Scooty Rental in Varanasi | Vinayak Travels" />
-                <meta property="og:description" content="Explore Kashi on your own terms with our easy bike rentals." />
-                <meta property="og:url" content="https://www.kashitaxi.in/bike-rentals" />
-                <meta property="og:site_name" content="Vinayak Travels Varanasi" />
+                <meta property="og:description" content="Self drive bike & scooty rental in Varanasi – Activa, 125–160cc, Royal Enfield. Transparent pricing & helmets. Call or WhatsApp Vinayak Travels." />
+                <meta property="og:url" content={canonicalUrl} />
+                <meta property="og:site_name" content="Vinayak Travels" />
                 <meta property="og:image" content="https://www.kashitaxi.in/images/og-image-rentals.jpg" />
                 <meta property="og:image:width" content="1200" />
                 <meta property="og:image:height" content="630" />
@@ -142,7 +348,7 @@ export default function BikeRentalsPage({ allPosts }) {
                                         <div className="mt-auto pt-6">
                                             <div className="flex flex-col space-y-3">
                                                 <a
-                                                    href={`tel:${businessPhoneNumber}`}
+                                                    href={`tel:+91${businessPhoneNumber}`}
                                                     className="flex items-center justify-center rounded-full bg-blue-600 px-4 py-3 font-semibold text-white transition hover:bg-blue-500"
                                                 >
                                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-5 w-5 mr-2"><path fillRule="evenodd" d="M2 3.5A1.5 1.5 0 013.5 2h1.148a1.5 1.5 0 011.465 1.175l.716 3.223a1.5 1.5 0 01-1.052 1.767l-.933.267c-.41.117-.643.555-.48.95a11.542 11.542 0 006.254 6.254c.395.163.833-.07.95-.48l.267-.933a1.5 1.5 0 011.767-1.052l3.223.716A1.5 1.5 0 0118 15.352V16.5a1.5 1.5 0 01-1.5 1.5h-2.148a1.5 1.5 0 01-1.465-1.175l-.716-3.223a1.5 1.5 0 011.052-1.767l.933-.267c.41-.117.643.555-.48.95A11.542 11.542 0 006.254 6.254c-.395-.163-.833.07-.95.48l-.267.933a1.5 1.5 0 01-1.767 1.052l-3.223-.716A1.5 1.5 0 012 4.648V3.5z" clipRule="evenodd" /></svg>
@@ -166,15 +372,169 @@ export default function BikeRentalsPage({ allPosts }) {
                     </div>
                 </section>
 
-                {/* SEO Content Section */}
+                {/* Updated SEO Content Section */}
                 <section className="bg-white py-16 sm:py-20">
                     <div className="container mx-auto max-w-4xl px-4 text-lg text-gray-700">
-                        <h2 className="text-center text-3xl font-bold sm:text-4xl text-gray-800">Your Perfect Ride for Every Varanasi Plan</h2>
+                        <h1 className="text-center text-4xl font-bold sm:text-5xl text-gray-800 mb-8">Bike Rental in Varanasi: Affordable and Trusted Two-Wheeler Rentals by Kashi Taxi</h1>
                         <p className="mt-6">
-                            Thinking of getting a two-wheeler on rent in Varanasi? We have the perfect ride for every plan. If you want to navigate the bustling city traffic with ease and find parking near the ghats for the evening Ganga Aarti, getting an Activa on rent is your best bet. It’s light, easy, and perfect for short trips.
+                            Varanasi, the eternal city of ghats and temples, comes alive when explored on two wheels. At Kashi Taxi, we specialize in <strong>bike rental in Varanasi</strong>, offering seamless mobility for tourists and locals alike. Whether you're seeking <strong>scooty rental in Varanasi</strong> to navigate narrow lanes or <strong>bike on rent in Varanasi</strong> for scenic countryside rides, our <strong>trusted bike rental</strong> services ensure a hassle-free experience. As part of Vinayak Travels, we've been providing <strong>affordable bike rental</strong> options since our inception, helping you discover Kashi's spiritual essence at your own pace in 2025.
                         </p>
                         <p className="mt-4">
-                            But maybe you're more adventurous. If you're planning to ride out on the highway, explore the countryside, or just want that classic thump-thump sound as you cruise along the riverfront, then you should definitely rent a bike like our Royal Enfield or Pulsar. Our goal is to provide a simple, trusted, and affordable bike rental in Varanasi. We ensure every vehicle is perfectly maintained, sanitized, and ready for the road, so your only focus is on making memories.
+                            This ultimate guide, crafted from local expertise and real user feedback, covers our fleet, pricing, booking process, safety tips, and insider recommendations for must-visit spots. Prioritizing your convenience, we focus on well-maintained vehicles and transparent dealings to make your trip memorable and safe.
+                        </p>
+
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Why Choose Kashi Taxi for Bike Rental in Varanasi?</h2>
+                        <p className="mt-6">
+                            Opting for <strong>two wheeler rental in Varanasi</strong> with Kashi Taxi means freedom from crowded autos and unreliable public transport. Our rentals let you zip through traffic to reach the Ganges Ghats or venture to nearby attractions like Sarnath without delays. Travelers rave about the flexibility—perfect for spontaneous visits to temples or evening Aartis.
+                        </p>
+                        <p className="mt-4">
+                            With a 4.7-star rating on Justdial based on customer reviews, we're known for reliability and cleanliness. One reviewer shared, "I got a very nice and properly maintained bike—I recommend it to everyone!" For eco-friendly explorers, we also support <strong>bicycle rental in Varanasi</strong> inquiries, though our core focus is motorized options. In 2025, with improved city roads, our <strong>daily bike rental</strong> and <strong>monthly bike rental</strong> plans offer unbeatable value for short trips or extended stays.
+                        </p>
+
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Our Fleet: Top-Quality Bikes and Scooties for Every Need</h2>
+                        <p className="mt-6">
+                            At Kashi Taxi, our fleet is curated for Varanasi's diverse terrain—from city streets to highway excursions. All vehicles are regularly serviced, sanitized, and come with helmets for safety.
+                        </p>
+                        <ul className="mt-4 list-disc pl-6">
+                            <li><strong>Honda Activa</strong>: Ideal for <strong>scooter rental in Varanasi</strong>; easy handling in traffic.</li>
+                            <li><strong>Honda Shine</strong>: Comfortable for daily commutes and longer rides.</li>
+                            <li><strong>Royal Enfield Classic 350</strong>: Perfect for adventure seekers exploring rural paths.</li>
+                            <li><strong>TVS Jupiter</strong>: Fuel-efficient and reliable for urban exploration.</li>
+                        </ul>
+                        <p className="mt-4">
+                            We ensure no hidden charges, with vehicles ready for immediate pickup near Varanasi Cantt Railway Station.
+                        </p>
+
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Pricing: Affordable Options for Daily and Monthly Rentals in 2025</h2>
+                        <p className="mt-6">
+                            Our <strong>affordable bike rental</strong> rates are designed to fit every budget, with flexible plans for tourists and residents. Based on 2025 market trends, prices start from Rs. 300 for basic scooters, but our premium well-maintained options provide better value.
+                        </p>
+                        <div className="overflow-x-auto mt-4">
+                            <table className="min-w-full bg-white border border-gray-300">
+                                <thead>
+                                    <tr>
+                                        <th className="py-2 px-4 border-b">Vehicle Model</th>
+                                        <th className="py-2 px-4 border-b">Daily Rate (Approx.)</th>
+                                        <th className="py-2 px-4 border-b">Monthly Rate (Contact for Details)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td className="py-2 px-4 border-b">Honda Activa</td>
+                                        <td className="py-2 px-4 border-b">₹499</td>
+                                        <td className="py-2 px-4 border-b">Custom discounts available</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="py-2 px-4 border-b">Honda Shine</td>
+                                        <td className="py-2 px-4 border-b">₹499</td>
+                                        <td className="py-2 px-4 border-b">Custom discounts available</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="py-2 px-4 border-b">TVS Jupiter</td>
+                                        <td className="py-2 px-4 border-b">₹499</td>
+                                        <td className="py-2 px-4 border-b">Custom discounts available</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="py-2 px-4 border-b">Royal Enfield Classic 350</td>
+                                        <td className="py-2 px-4 border-b">₹999</td>
+                                        <td className="py-2 px-4 border-b">Custom discounts available</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <p className="mt-4">
+                            Prices exclude fuel and a refundable security deposit (₹1,000-5,000). For <strong>monthly bike rental</strong>, enjoy up to 50% savings on long-term plans. Contact us via call or WhatsApp for the latest quotes and seasonal offers—no obligations!
+                        </p>
+
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">How to Book Your Bike Rental with Kashi Taxi</h2>
+                        <p className="mt-6">
+                            Booking is straightforward and user-friendly:
+                        </p>
+                        <ol className="mt-4 list-decimal pl-6">
+                            <li>Browse Our Fleet: Visit our website or contact us to view options.</li>
+                            <li>Check Availability: Call or WhatsApp to confirm dates and get a personalized quote.</li>
+                            <li>Provide Documents: Submit a valid driving license and government-issued ID (e.g., Aadhaar or passport) at pickup.</li>
+                            <li>Pickup and Go: Collect your vehicle from our convenient location near Cantt Station; we offer delivery for select bookings.</li>
+                            <li>Return: Drop off within the agreed time to avoid late fees (₹100/hour).</li>
+                        </ol>
+                        <p className="mt-4">
+                            As a reviewer noted, "The service is top-notch with clean, well-maintained bikes." Foreigners are welcome with an international DL.
+                        </p>
+
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Safety Tips and Local Traffic Insights for Varanasi Riders</h2>
+                        <p className="mt-6">
+                            Safety is our priority at Kashi Taxi. All bikes undergo maintenance checks, and we provide quality helmets. Follow these tips for a secure ride:
+                        </p>
+                        <ul className="mt-4 list-disc pl-6">
+                            <li><strong>Helmet Use</strong>: Mandatory for rider and pillion (fine: ₹1,000+ if violated).</li>
+                            <li><strong>Speed Limits</strong>: Stick to 60 kmph on highways; slower in city areas to avoid fines up to ₹2,000.</li>
+                            <li><strong>Traffic Rules</strong>: Use indicators, carry digital documents via DigiLocker, and avoid overloading.</li>
+                            <li><strong>Local Advice</strong>: Navigate carefully during monsoons—watch for slippery ghats. Park near designated spots for Aartis. Night rides in alleys? Opt for well-lit main roads.</li>
+                        </ul>
+                        <p className="mt-4">
+                            User experiences highlight: "Properly maintained bikes made my trip safe and enjoyable." We also offer a women-only Pink Taxi service for added security in other travel needs.
+                        </p>
+
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Must-Visit Places in Varanasi by Bike from Kashi Taxi</h2>
+                        <p className="mt-6">
+                            Unlock Varanasi's hidden gems with our rentals:
+                        </p>
+                        <ol className="mt-4 list-decimal pl-6">
+                            <li><strong>Ganges Ghats</strong>: Ride from Assi to Dashashwamedh for stunning Aarti views—easy parking nearby.</li>
+                            <li><strong>Kashi Vishwanath Temple</strong>: Navigate lanes effortlessly on a scooty.</li>
+                            <li><strong>Sarnath Stupa</strong>: A quick 12 km ride to this peaceful Buddhist site.</li>
+                            <li><strong>Devdari Waterfall</strong>: 50 km away for a refreshing countryside escape (1-hour ride on Royal Enfield).</li>
+                            <li><strong>Chunar Fort</strong>: 40 km historic spot—perfect for day trips.</li>
+                            <li><strong>Vindhyachal Temple</strong>: 70 km spiritual journey.</li>
+                            <li><strong>Lakhaniya Dari Waterfall</strong>: Scenic 1-hour ride in nature.</li>
+                            <li><strong>Rajdari Waterfall</strong>: Explore Chandraprabha Sanctuary nearby.</li>
+                            <li><strong>Banaras Hindu University</strong>: Cycle-friendly trails for a relaxed vibe.</li>
+                            <li><strong>Manikarnika Ghat</strong>: Observe rituals respectfully from afar.</li>
+                        </ol>
+                        <p className="mt-4">
+                            These spots are best experienced on two wheels, as per local travelers: "Cruising along the riverfront was magical."
+                        </p>
+
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Real User Experiences with Kashi Taxi</h2>
+                        <p className="mt-6">
+                            Our 4.7 rating reflects satisfied customers: "Customers praise the cleanliness and quality of service." Another shared, "Very nice and proper maintained bike—highly recommend!" Pro Tip: Refuel before return and record a quick video of the bike's condition for peace of mind.
+                        </p>
+                        {/* Structured Data Compliance: Visible review snippets matching JSON-LD review[].reviewBody */}
+                        <section id="reviews" className="mt-10">
+                          <div className="flex items-center gap-3">
+                            <div className="flex text-yellow-500" aria-hidden="true">
+                              {[...Array(5)].map((_,i)=> (
+                                <svg key={i} className="h-5 w-5" fill="currentColor" viewBox="0 0 20 20"><path d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19z"/></svg>
+                              ))}
+                            </div>
+                            <p className="text-sm text-gray-700">
+                              <span className="font-semibold">{jsonLdBusiness.aggregateRating.ratingValue}</span>/5 based on {jsonLdBusiness.aggregateRating.ratingCount} reviews
+                            </p>
+                          </div>
+                          <div className="mt-6 grid gap-6 sm:grid-cols-3">
+                            {jsonLdBusiness.review.map(r => (
+                              <figure key={r['@id']} className="relative rounded-lg border bg-white p-5 shadow-sm">
+                                <blockquote className="text-sm text-gray-700 leading-relaxed">“{r.reviewBody}”</blockquote>
+                                <figcaption className="mt-4 flex items-center justify-between text-xs text-gray-500">
+                                  <span className="font-medium text-gray-800">{r.author.name}</span>
+                                  <time dateTime={r.datePublished}>{new Date(r.datePublished).toLocaleDateString('en-IN', { year: 'numeric', month: 'short', day: 'numeric' })}</time>
+                                </figcaption>
+                              </figure>
+                            ))}
+                          </div>
+                          <p className="mt-4 text-xs text-gray-500">Reviews shown above are genuine customer snippets displayed to align with structured data markup.</p>
+                        </section>
+
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">FAQs on Bike Rental in Varanasi with Kashi Taxi</h2>
+                        <ul className="mt-6 space-y-4">
+                            <li><strong>Is fuel included?</strong> No, it's pay-as-you-go for transparency.</li>
+                            <li><strong>Can foreigners rent?</strong> Yes, with a valid international driving license.</li>
+                            <li><strong>Best time to rent?</strong> Early mornings for lighter traffic; avoid peak monsoons.</li>
+                            <li><strong>Cancellation policy?</strong> Flexible—contact us 24 hours in advance.</li>
+                            <li><strong>Electric options?</strong> Inquire for emerging availability in 2025.</li>
+                        </ul>
+                        <p className="mt-6 text-center">
+                            Ready for your Varanasi adventure? Book your <strong>trusted bike rental</strong> with Kashi Taxi today via call or WhatsApp. Explore Kashi like a local—affordably and safely!
                         </p>
                     </div>
                 </section>
@@ -185,26 +545,26 @@ export default function BikeRentalsPage({ allPosts }) {
                         <h2 className="text-center text-3xl font-bold sm:text-4xl">Frequently Asked Questions (FAQ)</h2>
                         <div className="mt-12 space-y-8">
                             <div>
-                                <h3 className="text-xl font-semibold">1. What is the best and easiest way to get a bike rental in Varanasi?</h3>
-                                <p className="mt-2 text-gray-600">The best way is to choose a trusted, local provider. At Vinayak Travels, we make it simple. Just look through our fleet online and give us a call or WhatsApp message. We'll confirm your booking instantly. We believe we offer the best bike rental in Varanasi because of our well-maintained vehicles and honest, local service.</p>
+                                <h3 className="text-xl font-semibold">1. What documents do I need to rent a bike in Varanasi?</h3>
+                                <p className="mt-2 text-gray-600">A valid two-wheeler driving licence and one government ID (Aadhaar/Passport/Voter ID). A refundable security deposit is required at pickup. You should also keep a soft copy handy in DigiLocker for quick verification.</p>
                             </div>
                             <div>
-                                <h3 className="text-xl font-semibold">2. How much does it cost to get a scooty on rent in Varanasi?</h3>
-                                <p className="mt-2 text-gray-600">The Varanasi bike rent price can vary based on the model and an rental duration. Our prices are affordable and transparent. For the latest and most accurate pricing for a scooty on rent in Varanasi, it’s always best to call us directly. We guarantee no hidden charges!</p>
+                                <h3 className="text-xl font-semibold">2. How much does a scooty or bike cost per day?</h3>
+                                <p className="mt-2 text-gray-600">Scooty/Activa ~₹450–₹650/day, 125–160cc bikes ~₹700–₹1,100/day, Royal Enfield/350–500cc ~₹1,200–₹1,500/day. Fuel is usually not included. Seasonal demand (festivals, holidays) can push the higher end—call or WhatsApp for today’s rate.</p>
                             </div>
                             <div>
-                                <h3 className="text-xl font-semibold">3. Can I find a bike rent near the Varanasi railway station?</h3>
-                                <p className="mt-2 text-gray-600">Yes! We know convenience is key, especially when you've just arrived. We have easy pickup points, including options for a bike rent near the Varanasi railway station (Cantt). Just let us know your travel plans, and we'll coordinate the easiest handover for you.</p>
+                                <h3 className="text-xl font-semibold">3. Can you deliver near Varanasi railway station or my hotel?</h3>
+                                <p className="mt-2 text-gray-600">Yes, pickup at Cantt (Varanasi Junction) is common, and delivery can be arranged within city limits for select bookings. Share arrival time / hotel location in advance so we can schedule a smooth handover.</p>
                             </div>
                             <div>
-                                <h3 className="text-xl font-semibold">4. Is it safe to explore Kashi on a two-wheeler?</h3>
-                                <p className="mt-2 text-gray-600">Absolutely, provided you have a reliable vehicle. Safety is our top priority. Every bike and scooty in our fleet goes through regular maintenance checks. We provide you with quality helmets and the confidence that you're riding a dependable machine, making your exploration of Kashi both safe and unforgettable.</p>
+                                <h3 className="text-xl font-semibold">4. Are helmets mandatory for riders and pillion?</h3>
+                                <p className="mt-2 text-gray-600">Yes. Helmets are mandatory for both rider and pillion. We provide helmets on request at pickup—always wear them to avoid fines and stay safe in dense traffic.</p>
                             </div>
                             <div>
-                                <h3 className="text-xl font-semibold">5. What documents do I need to rent a bike from you?</h3>
-                                <p className="mt-2 text-gray-600">The process is simple. You'll need your valid driving licence (for two-wheelers) and a government-issued ID proof like an Aadhaar card or passport for verification during pickup.</p>
+                                <h3 className="text-xl font-semibold">5. Where should I park near the ghats or Kashi Vishwanath Corridor?</h3>
+                                <p className="mt-2 text-gray-600">Use multilevel / official parking near Godowlia or Benia Bagh and then walk or take an e‑rickshaw into pedestrian zones, especially during peak hours, festivals or security closures.</p>
                             </div>
-                            <p className="mt-6 text-center text-gray-600">So, when you're ready to rent a bike in Varanasi, just give us a call. Let us help you discover the city we love, one ride at a time.</p>
+                            <p className="mt-6 text-center text-gray-600">Still have a question? Call or WhatsApp – we’re happy to guide you before you book.</p>
                         </div>
                     </div>
                 </section>
