@@ -17,6 +17,12 @@ relatedPosts:
 
 Varanasi is a gateway to revered yatras across UP and beyond. Travel together in comfort to maintain a shared spiritual environment.
 
+## Vehicle Photos
+
+![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for pilgrimage/yatra groups")
+
+![Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Roomy coach suitable for yatras")
+
 ## Our Specialized Pilgrimage (Yatra) Packages
 
 ### Varanasi → Vindhyachal (Trikon Parikrama)

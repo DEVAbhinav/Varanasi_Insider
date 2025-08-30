@@ -16,6 +16,12 @@ relatedPosts:
 
 A glimpse of the under‑construction Shri Ram Mandir in Ayodhya—a must‑visit on this pilgrimage. Embark on a spiritual journey from Kashi to Ayodhya with our Tempo Traveller package. This is your definitive guide to a one‑day group tour from Varanasi to Ayodhya—covering itinerary, key temples, travel time, and an all‑inclusive fare. If you’re planning a family pilgrimage to Ram Janmabhoomi, or a group tour for elders, read on for a hassle‑free experience.
 
+## Vehicle Photos
+
+![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Ayodhya day trip from Varanasi")
+
+![Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Comfortable seating for long highway runs")
+
 ## Varanasi to Ayodhya Tempo Traveller Package Highlights
 
 - Distance & Travel Time: ~220 km one way; about 4–5 hours each side on well‑maintained highways. An early start (we recommend 5:00 AM) lets you cover all sites comfortably and return by late evening.

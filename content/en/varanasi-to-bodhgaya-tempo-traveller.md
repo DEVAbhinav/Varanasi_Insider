@@ -15,6 +15,12 @@ relatedPosts:
 
 All-inclusive pricing; 26-seater option available. Varanasi ↔ Bodhgaya is ~255–300 km, 5–6 hrs each way by road—Tempo Traveller is most comfortable for groups.
 
+## Vehicle Photos
+
+![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Bodhgaya day/overnight trip")
+
+![Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Supportive seats and AC — long distance comfort")
+
 ## Varanasi–Bodhgaya Itinerary (One‑Day Sample)
 
 - 4:00 AM: Depart Varanasi (essential early start)

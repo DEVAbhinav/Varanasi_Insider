@@ -15,6 +15,12 @@ relatedPosts:
 
 The holy Triveni Sangam at Prayagraj, where the Ganga and Yamuna meet—a highlight of our day tour. Travel from Kashi to the confluence in comfort! Our Varanasi–Prayagraj Tempo Traveller package is a curated day trip that takes your group to the most revered sites of Allahabad (Prayagraj)—including Triveni Sangam, sacred temples, and historic landmarks—in one day. If you have a family or group keen on a teerth yatra to Prayagraj, here’s everything you need to know about the journey, itinerary, and pricing.
 
+## Vehicle Photos
+
+![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Prayagraj same‑day package")
+
+![Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Comfortable, AC cabin for groups")
+
 ## Why Prayagraj?
 
 Prayagraj (formerly Allahabad) is one of the holiest cities in India, forming an essential part of the Kashi–Prayag spiritual circuit (kashitaxi.in). It is home to the Triveni Sangam—the confluence of three rivers: Ganga, Yamuna, and the mystical Saraswati. A bath at the Sangam is believed to wash away sins. Prayagraj also hosts the grand Kumbh Mela. For those in Varanasi, a day trip to Prayagraj is spiritually rewarding and logistically feasible, thanks to a modern highway connecting the two cities (kashitaxi.in).

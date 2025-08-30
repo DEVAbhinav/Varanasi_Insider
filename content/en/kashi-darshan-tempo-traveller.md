@@ -15,6 +15,12 @@ relatedPosts:
 
 Evening Ganga Aarti at Dashashwamedh Ghat—a mesmerizing end to a day of sightseeing in Kashi. Explore Varanasi’s timeless spiritual heritage with ease and comfort in a Tempo Traveller! Our Kashi Darshan local sightseeing package is perfect for groups who want to visit the famous temples, ghats, and cultural spots of Varanasi in one dedicated vehicle. Skip coordinating multiple autos or cabs—your whole group stays together for a seamless city tour.
 
+## Vehicle Photos
+
+![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Comfortable sightseeing vehicle for groups")
+
+![Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Clean interiors ideal for seniors and families")
+
 ## Kashi Darshan Tempo Traveller Package Overview
 
 - Duration: 8 hours (standard) or extend up to 12 hours (full‑day) as per preference. The classic package is 8hr/80km and covers the main highlights

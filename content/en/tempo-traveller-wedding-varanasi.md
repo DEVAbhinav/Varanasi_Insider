@@ -15,6 +15,12 @@ relatedPosts:
 
 High-stakes logistics done right: punctual, professional, and clean vehicles.
 
+## Vehicle Photos (Wedding Use)
+
+![Decor-ready Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Ideal for guest shuttles and airport pickups")
+
+![Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Spacious for group movements between venues")
+
 ## Wedding Tempo Traveller Services (Varanasi)
 
 - Guest Airport & Railway Transfers (LBS, Cantt, DDU)

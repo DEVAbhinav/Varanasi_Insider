@@ -16,6 +16,12 @@ relatedPosts:
 
 Built to answer the most common question: “What are the charges?”—and to establish trust with complete transparency.
 
+## Vehicle Photos
+
+![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller fleet in Varanasi")
+
+![Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Side profile — luggage options available")
+
 ## Varanasi Tempo Traveller Price Table
 
 | Vehicle Type (Seating) | Airport/DDU One Way | Local (8hr/80km) | Outstation (₹/km) |

@@ -19,6 +19,14 @@ relatedPosts:
 
 Have a bigger group ready to explore Varanasi or head out on a road trip? Our 17‑seater Tempo Traveller is the go‑to choice for large family groups, wedding parties, corporate outings, and pilgrimage groups who want to stay together comfortably. Below you’ll find features, pricing, use‑cases, and why many guests say it’s “better than a bus” for medium‑large groups.
 
+## Vehicle Photos (17‑Seater)
+
+![17‑Seater Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "17‑Seater Tempo Traveller — great for large groups")
+
+![17‑Seater Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Long body with ample luggage space")
+
+![17‑Seater Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Spacious AC interiors with pushback seats")
+
 ## Vehicle Overview: 17‑Seater (Mega Tempo)
 
 The 17‑seater is a stretched Traveller with an extra row—more seats without compromising comfort.

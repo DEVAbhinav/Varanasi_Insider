@@ -22,6 +22,14 @@ Enjoy 24/7 availability, transparent pricing, and on‑time service for every jo
 
 See the full 2025 price list: [/en/tempo-traveller-rates-varanasi](/en/tempo-traveller-rates-varanasi).
 
+## Vehicle Photos
+
+![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller fleet — representative image")
+
+![Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Side profile — space for luggage and groups")
+
+![Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Clean, AC interiors with pushback seats")
+
 ### Tempo Traveller Hire in Varanasi: Why Choose Us
 
 We provide 9 to 17‑seater AC Tempo Travellers equipped with pushback seats, ample legroom, and luggage carriers—ideal for groups of all sizes.

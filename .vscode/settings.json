@@ -1,2 +1,13 @@
 {
+    "workbench.editor.showTabs": "multiple",
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.compactTabs": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+
+    // Wrap long lines inside editors
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 100,
+    "editor.wrappingIndent": "same",
+    "diffEditor.wordWrap": "on"
 }

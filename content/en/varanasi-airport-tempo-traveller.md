@@ -15,6 +15,14 @@ relatedPosts:
 
 Immediate, transactional need—price is upfront. Also covers Cantt and DDU stations.
 
+## Vehicle Photos
+
+![Tempo Traveller outside front view](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for airport transfers in Varanasi")
+
+![Tempo Traveller side profile](/images/tempo-travellar-side-l.jpeg "Tempo Traveller side view — ample luggage space")
+
+![Tempo Traveller interiors](/images/tempo-travellar-inside.jpeg "Clean, AC interiors with pushback seats")
+
 ## Why Tempo Traveller Airport Transfers in Varanasi
 
 - Avoid chaos: one vehicle vs 2–3 cabs; no haggling

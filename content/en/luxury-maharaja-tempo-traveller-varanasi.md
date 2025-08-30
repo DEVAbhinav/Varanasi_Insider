@@ -15,6 +15,14 @@ relatedPosts:
 
 Ideal for corporate clients, high-end tourists, and families prioritizing comfort.
 
+## Vehicle Photos (Representative)
+
+![Maharaja/Urbania — outside front](/images/tempo-travellar-outside-front-p.jpeg "Representative exterior — premium variants available")
+
+![Maharaja/Urbania — side profile](/images/tempo-travellar-side-l.jpeg "Representative side view — actual luxury interiors vary by unit")
+
+![Maharaja/Urbania — interiors](/images/tempo-travellar-inside.jpeg "Representative seating — 1×1 Maharaja recliners on select models")
+
 ## Maharaja/Urbania Premium Features
 
 - 1x1 Maharaja recliner seats (window + aisle for each passenger)

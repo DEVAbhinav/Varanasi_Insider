@@ -15,6 +15,14 @@ relatedPosts:
 
 Looking for a 12‑seater Tempo Traveller in Varanasi? You’ve found the perfect ride for your mid‑sized group! Our 12‑seater (11 + driver) Tempo Traveller offers the ideal balance of capacity, comfort, and cost‑efficiency. Below is a detailed look at this vehicle—its features, pricing, and why it’s just right compared to smaller 9‑seaters or larger 17‑seaters.
 
+## Vehicle Photos (12‑Seater)
+
+![12‑Seater Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "12‑Seater Tempo Traveller — ideal for mid‑sized groups")
+
+![12‑Seater Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Side profile — compact yet roomy")
+
+![12‑Seater Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Clean AC cabin with pushback seats")
+
 ## Meet Our 12‑Seater Tempo Traveller
 
 Our 12‑seater Tempo Travellers are typically Force Traveller vans, customized for travel comfort. Expect:
