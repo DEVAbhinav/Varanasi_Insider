@@ -15,7 +15,8 @@ const organizationNode = {
   legalName: 'Vinayak Travels',
   alternateName: ['Kashi Taxi', 'Kashitaxi'],
   url: 'https://www.kashitaxi.in/',
-  sameAs: []
+  logo: { '@type': 'ImageObject', url: 'https://www.kashitaxi.in/favicon.jpeg' },
+  sameAs: ['https://wa.me/919935474730', 'https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA']
 };
 
 const websiteNode = {

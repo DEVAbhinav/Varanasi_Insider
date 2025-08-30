@@ -1,40 +1,85 @@
 ---
 lang: en
 title: Kashi Darshan by Tempo Traveller | 8-Hour City Tour ₹5,500
-description: Explore Varanasi’s sacred sites with our Kashi Darshan tour. 8 hours / 80 km at ₹5,500. Cover temples, ghats, and BHU.
+description: Book Kashi Darshan Tempo Traveller in Varanasi. 8hr/80km ₹5,500 (12‑seater) and 17‑seater available. Visit Kashi Vishwanath, BHU, Sankat Mochan, Durga Kund, Tulsi Manas, Sarnath, Dashashwamedh Ghat & Ganga Aarti. Transparent 2025 price.
 date: 2025-08-27
-tags: [kashi darshan, sightseeing, tempo traveller, varanasi]
+tags: [kashi darshan, varanasi local sightseeing, tempo traveller, kashi darshan tempo traveller, varanasi sightseeing package, book tempo traveller varanasi, 12 seater tempo traveller, 17 seater tempo traveller, ganga aarti]
+slug: kashi-darshan-tempo-traveller
 canonical: https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller
 relatedPosts:
   - tempo-traveller-rates-varanasi
   - tempo-traveller-varanasi
 ---
 
-# Complete Kashi Darshan: ₹5,500 (8hr/80km)
+# Kashi Darshan Local Sightseeing by Tempo Traveller
 
-Designed for groups already in Varanasi.
+Evening Ganga Aarti at Dashashwamedh Ghat—a mesmerizing end to a day of sightseeing in Kashi. Explore Varanasi’s timeless spiritual heritage with ease and comfort in a Tempo Traveller! Our Kashi Darshan local sightseeing package is perfect for groups who want to visit the famous temples, ghats, and cultural spots of Varanasi in one dedicated vehicle. Skip coordinating multiple autos or cabs—your whole group stays together for a seamless city tour.
 
-## Key Stops
+## Kashi Darshan Tempo Traveller Package Overview
 
-- Kashi Vishwanath Temple (Jyotirlinga)
-- Sankat Mochan Hanuman Temple
-- Durga (Monkey) Temple
-- Tulsi Manas Mandir
-- BHU New Vishwanath (Birla) Temple
-- Bharat Mata Temple
+- Duration: 8 hours (standard) or extend up to 12 hours (full‑day) as per preference. The classic package is 8hr/80km and covers the main highlights
+- Typical Timing: Choose your start time. Many begin around 9 AM and conclude by 5 PM, or extend into the evening for Ganga Aarti. Prefer dawn? Catch Subah‑e‑Banaras at Assi Ghat—we can start at 5 AM
+- Vehicle: 12‑seater Tempo Traveller (or 17‑seater for larger groups). Clean, AC, comfortable. PA system/music available; licensed English/Hindi guide can be arranged on request
+- Pricing: ₹5,500 for the 8hr/80km package (12‑seater). Includes vehicle, driver, and fuel. Need extra hours/km or a longer day? Ask for the extended 12hr/120km full‑day option. 17‑seater pricing available on request. See complete prices: [/en/tempo-traveller-rates-varanasi](/en/tempo-traveller-rates-varanasi)
+- Pickup/Drop: Anywhere within Varanasi city—hotel, railway station, Airbnb—tell us and we’ll be there
 
-## Why Choose a Tempo Traveller
+## Kashi Darshan Itinerary & Key Sights (Customizable)
 
-- AC comfort against heat and crowds
-- Stay together, share the journey
-- Fixed price; no surprises
-- Local driver expertise on timings and parking
+- Shri Kashi Vishwanath Temple: Start at Varanasi’s most revered Shiva temple. Driver drops at Godowlia (closest motorable). Short walk through the pedestrian zone to the Corridor and sanctum. Note: Mobiles/bags must be deposited—ask for locker info
+- Annapurna Devi & Vishalakshi Temple: Adjacent to Vishwanath; easy to include while in the old‑city area
+- BHU & New Vishwanath (Birla) Temple: Drive through the green BHU campus to the serene Birla Temple; a quiet architectural highlight
+- Durga Kund Temple: Iconic red temple near BHU with a picturesque pond (kund)
+- Sankat Mochan Hanuman Temple: Beloved Hanuman shrine; vibrant on Tuesdays/Saturdays. Mind the monkeys; driver watches the vehicle
+- Tulsi Manas Mandir: Close to Durga temple; Ramcharitmanas verses inscribed on the walls—peaceful and instructive
+- Lunch Break: Hygienic local thalis or cafes—driver suggests family‑friendly places. Try Banarasi Tamatar Chaat; end with a Meetha Paan
+- Sarnath (Optional; adds ~2–3 hours): Dhamek Stupa, Ashokan pillar site, and museums. Ideal if you start early or take the extended plan
+- Kala Bhairav Temple: Kashi’s Kotwal (protector)—a brief but powerful visit if the group wishes
+- Dashashwamedh Ghat & Ganga Aarti (Evening): Witness the aarti around 6:30–7:00 PM. Drop near Godowlia; short walk to the ghat. We can arrange reserved boat seating for a river‑view experience
 
-## Local Tip
+After aarti, return to the Tempo Traveller at the coordinated point and drop back to your hotel by ~8 PM.
 
-Vehicles park at designated points near the corridor; a short walk is part of the experience—wear comfortable footwear.
+## Benefits of a Tempo Traveller for Local Tour
 
-## Book Your City Tour
+- All‑in‑One Convenience: Leave bags, water, and spare clothes securely in your private vehicle; no need for cloak rooms at every stop
+- Navigating Narrow Lanes: Drivers know the closest permitted drop points and coordinate pickups so you never walk too far
+- Comfort in Traffic: AC, cushioned seats, higher ride height for better views; ideal for seniors—no switching vehicles multiple times
+- Knowledgeable Driver/Guide: Drivers share local tips and legends; licensed guides welcome (mic system available)
+- Group Bonding: Travel together—discuss, sing bhajans, or simply relax between sites
 
+## Kashi Darshan Tempo Traveller Price & Inclusions (Varanasi)
+
+- Standard Package (8hr/80km, 12‑seater): ₹5,500—includes AC vehicle, driver, and fuel
+- Extended Option: 12hr/120km available on request for full‑day flexibility (quote varies by seater/date)
+- 17‑Seater: Available for larger groups; ask for day‑trip pricing
+
+Additional on‑day costs (as applicable):
+
+- Temple shoe/phone lockers (₹5–₹20)
+- Optional boat ride at Assi (morning) or Dashashwamedh (evening): ~₹100–₹200/person shared; private boat ~₹1,000 total
+- Licensed guide (full day): ~₹1,200 (language options available)
+- Entry tickets: e.g., Sarnath Museum ₹25 (Indians), ₹300 (foreigners); Ramnagar Fort museum ₹50
+- Parking fees: nominal ₹50–₹100 at spots like Sarnath/BHU (driver handles; usually included unless unusually high)
+
+We believe in transparent pricing—no surprises. See full 2025 price list: [/en/tempo-traveller-rates-varanasi](/en/tempo-traveller-rates-varanasi)
+
+## FAQs
+
+- What is the Kashi Darshan Tempo Traveller price in Varanasi? ₹5,500 for 8hr/80km (12‑seater); 17‑seater available on request
+- Can we customize places to visit? Yes—your private tour is fully flexible. Share preferences when booking or with the driver; we’ll optimize the route
+- Is 8 hours enough? It covers the main landmarks comfortably. With more time, choose the extended plan or split into two days (e.g., city temples day + Sarnath/ghats day)
+- How much walking is there? Old‑city stretches (e.g., Vishwanath) are pedestrian‑only; expect ~500 m walks. We can arrange assistance/wheelchair if needed
+- Do we need to remove shoes at every temple? Yes; use shoe stands or carry socks. Dress modestly (shoulders/knees covered)
+- Can we attend morning aarti instead? Yes—start at Assi Ghat for Subah‑e‑Banaras at sunrise, then adjust the day accordingly
+
+## Popular Searches
+
+- kashi darshan tempo traveller price varanasi
+- varanasi local sightseeing package by tempo traveller
+- 12 seater / 17 seater tempo traveller kashi darshan
+- book tempo traveller varanasi for ganga aarti tour
+
+## Book Kashi Darshan Tempo Traveller (Varanasi)
+
+- Primary CTA: Book Kashi Darshan Now (₹5,500)
 - Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Kashi%20Darshan%20booking

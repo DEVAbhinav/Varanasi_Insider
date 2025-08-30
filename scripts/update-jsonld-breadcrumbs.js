@@ -4,6 +4,7 @@
   - BreadcrumbList with category-aware trail (Guides / Services / Packages) using configurable routes
   - Wrap into @graph when needed
   - Normalize publisher to the business Organization (Kashi Taxi | Vinayak Travels Varanasi) with a stable @id
+  - Upsert Organization node and standardize sameAs / logo / naming
 */
 
 const fs = require('fs');
@@ -44,13 +45,14 @@ const ORG = {
   '@id': `${CFG.baseUrl}#organization`,
   name: 'Kashi Taxi | Vinayak Travels Varanasi',
   legalName: 'Vinayak Travels Varanasi',
-  alternateName: ['Kashi Taxi'],
+  alternateName: ['Kashi Taxi', 'Kashitaxi'],
   url: `${CFG.baseUrl}/`,
   logo: {
     '@type': 'ImageObject',
     url: `${CFG.baseUrl}/favicon.jpeg`
   },
   sameAs: [
+    'https://wa.me/919935474730',
     'https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA'
   ]
 };
@@ -103,14 +105,27 @@ function getTitle(data, slug) {
   return toTitle(slug);
 }
 
-function ensureOrgInGraph(graph) {
-  const hasOrg = graph.some(n => n['@id'] === ORG['@id']);
-  if (!hasOrg) graph.push(ORG);
+function upsertOrg(graph) {
+  // Find existing org by @id
+  const idx = graph.findIndex(n => n['@id'] === ORG['@id'] && (n['@type'] === 'Organization' || (Array.isArray(n['@type']) && n['@type'].includes('Organization'))));
+  if (idx >= 0) {
+    const existing = graph[idx];
+    // Merge/standardize key identity fields
+    existing['@type'] = 'Organization';
+    existing.name = ORG.name;
+    existing.legalName = ORG.legalName;
+    existing.alternateName = ORG.alternateName;
+    existing.url = ORG.url;
+    existing.logo = ORG.logo;
+    existing.sameAs = ORG.sameAs;
+  } else {
+    graph.push({ ...ORG });
+  }
 }
 
 function normalizePublisher(node, graph) {
   if (!node) return;
-  ensureOrgInGraph(graph);
+  upsertOrg(graph);
   if (!node.publisher || typeof node.publisher !== 'object') {
     node.publisher = { '@type': 'Organization', '@id': ORG['@id'], name: ORG.name };
     return;
@@ -192,8 +207,8 @@ function processFile(filePath) {
     graph = [Object.fromEntries(Object.entries(data).filter(([k]) => k !== '@context'))];
   }
 
-  // Ensure org exists in graph before normalization
-  ensureOrgInGraph(graph);
+  // Ensure org exists/standardized in graph before normalization
+  upsertOrg(graph);
 
   // Normalize publisher on primary node
   const primary = graph.find(n => {

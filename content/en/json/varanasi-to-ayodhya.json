@@ -63,7 +63,8 @@
       "name": "Kashi Taxi | Vinayak Travels Varanasi",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
-        "Kashi Taxi"
+        "Kashi Taxi",
+        "Kashitaxi"
       ],
       "url": "https://www.kashitaxi.in/",
       "logo": {
@@ -71,6 +72,7 @@
         "url": "https://www.kashitaxi.in/favicon.jpeg"
       },
       "sameAs": [
+        "https://wa.me/919935474730",
         "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
       ]
     },

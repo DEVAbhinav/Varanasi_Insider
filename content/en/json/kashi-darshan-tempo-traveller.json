@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "TouristTrip",
+      "name": "Kashi Darshan by Tempo Traveller",
+      "description": "Explore Varanasi's sacred sites with our 8-hour/80km Kashi Darshan tour by Tempo Traveller for a fixed price of ₹5,500.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "offers": {
+        "@type": "Offer",
+        "name": "8-Hour/80km City Tour Package",
+        "price": "5500",
+        "priceCurrency": "INR",
+        "url": "https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller"
+      },
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "TouristAttraction",
+            "name": "Kashi Vishwanath Temple"
+          },
+          {
+            "@type": "TouristAttraction",
+            "name": "Sankat Mochan Hanuman Temple"
+          },
+          {
+            "@type": "TouristAttraction",
+            "name": "Durga Temple"
+          },
+          {
+            "@type": "TouristAttraction",
+            "name": "Tulsi Manas Mandir"
+          },
+          {
+            "@type": "TouristAttraction",
+            "name": "New Vishwanath Temple (BHU)"
+          },
+          {
+            "@type": "TouristAttraction",
+            "name": "Bharat Mata Temple"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/17-seater-tempo-traveller-varanasi/#product",
+      "name": "17 Seater Tempo Traveller",
+      "description": "Hire a 17‑seater Tempo Traveller in Varanasi for weddings, pilgrimages, corporate trips and outstation tours. Check 2025 prices for airport transfer, local 8hr/80km and per‑km outstation.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "TransportService",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "3000",
+        "highPrice": "6000",
+        "offerCount": "3",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Outstation Trip",
+            "price": "27",
+            "priceCurrency": "INR",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 27,
+              "priceCurrency": "INR",
+              "unitText": "PER_KM"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Local Kashi Darshan",
+            "price": "6000",
+            "priceCurrency": "INR"
+          },
+          {
+            "@type": "Offer",
+            "name": "Airport Transfer",
+            "price": "3000",
+            "priceCurrency": "INR"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/17-seater-tempo-traveller-varanasi/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the 17 seater Tempo Traveller price in Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Airport transfer ₹3,000; Local 8hr/80km ₹6,000; Outstation ₹27/km (min. 250 km/day); Driver allowance ₹600/night. Tolls, parking, and state taxes extra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many seats are there in a 17 seater Tempo Traveller?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Up to 17 passenger seats (plus driver) in a 2×1 layout; ideal comfort at 15–16 passengers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is AC included in the 17 seater hire?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, full‑cabin AC is included. Heating is also available for winter mornings."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the 17 seater have a TV or microphone?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An LCD screen and microphone system are available on select vehicles and can be requested when booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is included and excluded in the fare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Included: vehicle, driver, fuel within package/covered km. Excluded: tolls, parking, state permits, and night allowance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can it handle a lot of luggage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. There is a large rear boot and an optional roof carrier, ideal for weddings, airport drops, or equipment‑heavy trips."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/17-seater-tempo-traveller-varanasi/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/17-seater-tempo-traveller-varanasi/"
+        }
+      ]
+    }
+  ]
+}

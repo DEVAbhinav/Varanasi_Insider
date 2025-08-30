@@ -1,15 +1,28 @@
 import Link from 'next/link';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { Menu, X, Phone, MessageCircle, ChevronRight } from 'lucide-react';
 import styles from './Navbar.module.css';
 
 export default function NavBar() {
   const [open, setOpen] = useState(false);
+  const drawerRef = useRef(null);
 
   useEffect(() => {
     if (open) document.body.style.overflow = 'hidden';
     else document.body.style.overflow = '';
     return () => { document.body.style.overflow = ''; };
+  }, [open]);
+
+  useEffect(() => {
+    function onKeyDown(e) {
+      if (!open) return;
+      if (e.key === 'Escape') {
+        e.preventDefault();
+        setOpen(false);
+      }
+    }
+    window.addEventListener('keydown', onKeyDown);
+    return () => window.removeEventListener('keydown', onKeyDown);
   }, [open]);
 
   return (
@@ -27,6 +40,8 @@ export default function NavBar() {
         <div className={styles.navLinks}>
           <Link href="/" className={styles.navLink}>Home</Link>
           <Link href="/en" className={styles.navLink}>Travel Guides</Link>
+          <Link href="/en/services" className={styles.navLink}>Services</Link>
+          <Link href="/en/packages" className={styles.navLink}>Packages</Link>
           <Link href="/rates/outstation-taxi-varanasi" className={styles.navLink}>Outstation Taxis</Link>
           <Link href="/en/contact" className={styles.navLink}>Contact</Link>
           <a
@@ -74,6 +89,7 @@ export default function NavBar() {
         id="mobile-menu"
         role="dialog"
         aria-modal="true"
+        ref={drawerRef}
         className={`fixed inset-y-0 right-0 z-[100] w-72 max-w-[85vw] ${open ? 'translate-x-0' : 'translate-x-full'} transition-transform duration-200 ease-out bg-white/85 backdrop-blur-md text-gray-900 shadow-2xl ring-1 ring-black/10 md:hidden`}
       >
         <div className="p-4 border-b border-white/50 flex items-center justify-between">
@@ -91,6 +107,14 @@ export default function NavBar() {
             </Link>
             <Link href="/en" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
               <span>Travel Guides</span>
+              <ChevronRight className="h-4 w-4 text-rose-600" />
+            </Link>
+            <Link href="/en/services" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
+              <span>Services</span>
+              <ChevronRight className="h-4 w-4 text-rose-600" />
+            </Link>
+            <Link href="/en/packages" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
+              <span>Packages</span>
               <ChevronRight className="h-4 w-4 text-rose-600" />
             </Link>
             <Link href="/rates/outstation-taxi-varanasi" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">

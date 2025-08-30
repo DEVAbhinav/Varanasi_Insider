@@ -4,9 +4,9 @@
     {
       "@type": "TaxiService",
       "name": "Banarasi Kashitaxi",
-      "url": "https://banarasi.kashitaxi.in",
-      "logo": "https://banarasi.kashitaxi.in/images/logo.png",
-      "image": "https://banarasi.kashitaxi.in/images/posts/contact-banarasi-kashitaxi.jpg",
+      "url": "https://www.kashitaxi.in/",
+      "logo": "https://www.kashitaxi.in/images/logo.png",
+      "image": "https://www.kashitaxi.in/images/posts/contact-banarasi-kashitaxi.jpg",
       "description": "24×7 airport pickups, pink taxis for women travellers, outstation cabs and bespoke tours in Varanasi & nearby circuits.",
       "telephone": "+91 94503 01573",
       "email": "sudhir.vinayaktravels@gmail.com",
@@ -65,7 +65,8 @@
       "name": "Kashi Taxi | Vinayak Travels Varanasi",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
-        "Kashi Taxi"
+        "Kashi Taxi",
+        "Kashitaxi"
       ],
       "url": "https://www.kashitaxi.in/",
       "logo": {
@@ -73,6 +74,7 @@
         "url": "https://www.kashitaxi.in/favicon.jpeg"
       },
       "sameAs": [
+        "https://wa.me/919935474730",
         "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
       ]
     },

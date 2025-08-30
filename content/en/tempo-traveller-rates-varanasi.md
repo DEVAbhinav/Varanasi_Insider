@@ -4,6 +4,7 @@ title: Tempo Traveller Rate in Varanasi | 2025 Price List
 description: Transparent Tempo Traveller price list for Varanasi. Per-km outstation rates, 8-hour local packages, and airport transfer charges.
 date: 2025-08-27
 tags: [rates, price list, tempo traveller, varanasi]
+slug: tempo-traveller-rates-varanasi
 canonical: https://www.kashitaxi.in/en/tempo-traveller-rates-varanasi
 relatedPosts:
   - tempo-traveller-varanasi
@@ -11,11 +12,11 @@ relatedPosts:
   - 17-seater-tempo-traveller-varanasi
 ---
 
-# Transparent 2025 Tempo Traveller Rates (Varanasi)
+# Tempo Traveller Rates in Varanasi (2025 Price List)
 
-Market-aligned pricing compiled from leading operators.
+Built to answer the most common question: “What are the charges?”—and to establish trust with complete transparency.
 
-## Comprehensive Price List
+## Varanasi Tempo Traveller Price Table
 
 | Vehicle Type (Seating) | Airport/DDU One Way | Local (8hr/80km) | Outstation (₹/km) |
 | --- | --- | --- | --- |
@@ -24,26 +25,31 @@ Market-aligned pricing compiled from leading operators.
 | 17 Seater | ₹3,000 | ₹6,000 | ₹27 |
 | 20 Seater | ₹3,200 | ₹6,500 | ₹30 |
 | 26 Seater | ₹3,700 | ₹7,000 | ₹34 |
-| Maharaja (Luxury) | ₹3,500 | ₹7,500 | ₹27 |
-| Force Urbania (Premium) | ₹3,800 | ₹7,500 | ₹35 |
+| Maharaja (Luxury) | ₹3,500 | ₹7,500 | ₹30–₹34 |
+| Force Urbania (Premium) | ₹3,800 | ₹7,500 | ₹34–₹35 |
 
-## What’s Included
+> Rates reflect current 2025 market averages from leading operators.
 
-- Vehicle rental (AC Tempo Traveller)
-- Professional driver services
-- Fuel (as per trip/package)
+## Tempo Traveller Hire: What’s Included (Varanasi)
 
-## Charged Separately (Mainly Outstation)
+- AC vehicle rental (specified seating)
+- Professional, experienced driver
+- Fuel for specified trip/package
 
-- Toll taxes (as per receipts)
-- Parking fees (actuals)
-- State taxes/permits (e.g., Bihar ~₹2,400)
+## What’s Extra for Outstation Trips
+
+- Tolls, parking, state taxes/permits (as per receipts unless packaged)
 - Driver allowance (₹600–₹800/night for overnight trips)
-- Minimum daily distance: 250 km/day for outstation
+- Minimum distance for outstation: 250 km/day (flexible on multi‑day totals)
 
-## Get an Exact Quote
+## Package vs Per‑km (How to Choose)
 
-Every trip is unique—get a precise, no-obligation quote.
+- Fixed packages (e.g., Ayodhya ₹14,500, Prayagraj ₹8,500, Bodhgaya ₹16,000–₹18,000) simplify billing and include typical road taxes/parking
+- Per‑km suits custom/multi‑day itineraries; we share slips for all actuals for transparency
+
+## Get an Exact Tempo Traveller Quote (Varanasi)
+
+Every trip is unique. Get a precise, no‑obligation quote tailored to your itinerary.
 
 - Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Tempo%20Traveller%20exact%20quote

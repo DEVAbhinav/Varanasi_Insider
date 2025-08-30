@@ -2,34 +2,15 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "NewsArticle",
-      "headline": "Varanasi Day Tour Cab Charges (2025) – Full-Day Sightseeing Packages",
-      "image": [
-        "/images/Sighseeing1.png",
-        "/images/seden.png",
-        "/images/tempo-travellar-outside-front-p.jpeg",
-        "/images/varanasi-ghats-overview.jpeg"
-      ],
-      "datePublished": "2025-07-28T08:00:00+08:00",
-      "dateModified": "2025-08-04T09:20:00+08:00",
-      "author": [
-        {
-          "@type": "Person",
-          "name": "Abhinav Pandey",
-          "url": "https://www.kashitaxi.in/author/abhinav-pandey/"
-        }
-      ]
-    },
-    {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
       "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
         "Kashi Taxi",
         "Kashitaxi"
       ],
-      "url": "https://www.kashitaxi.in/",
       "logo": {
         "@type": "ImageObject",
         "url": "https://www.kashitaxi.in/favicon.jpeg"
@@ -40,8 +21,22 @@
       ]
     },
     {
+      "@type": "Product",
+      "name": "Luxury & Maharaja Tempo Traveller",
+      "description": "Experience premium group travel with Maharaja 1x1 recliner seating and the modern Force Urbania.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "3500",
+        "highPrice": "7500"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
-      "@id": "https://www.kashitaxi.in/en/varanasi-day-tour-cab-charges/#breadcrumbs",
+      "@id": "https://www.kashitaxi.in/en/luxury-maharaja-tempo-traveller-varanasi/#breadcrumbs",
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -58,8 +53,8 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi Day Tour Cab Charges (2025) – Full-Day Sightseeing Packages",
-          "item": "https://www.kashitaxi.in/en/varanasi-day-tour-cab-charges/"
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/luxury-maharaja-tempo-traveller-varanasi/"
         }
       ]
     }

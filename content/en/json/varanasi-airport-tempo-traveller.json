@@ -1,0 +1,102 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "name": "Varanasi Airport Tempo Traveller",
+      "description": "Fixed fare group airport transfers from Varanasi LBS Airport. Door-to-door service with ample space for luggage.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "areaServed": {
+        "@type": "Airport",
+        "name": "Lal Bahadur Shastri Airport",
+        "iataCode": "VNS"
+      },
+      "offers": {
+        "@type": "Offer",
+        "name": "Fixed Fare Airport Transfer",
+        "price": "2500",
+        "priceCurrency": "INR"
+      },
+      "mainEntity": {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Do you track our flight timings for pickups?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, we monitor your flight's status to ensure our driver is at the airport on time, even if your flight is delayed. There are no extra waiting charges for flight delays."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where will the driver meet us at the airport?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our driver will be waiting for you at the arrivals gate with a placard displaying your name for easy identification."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the ₹2,500 price all-inclusive?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, the price of ₹2,500 is all-inclusive for a one-way transfer from the airport to a location within Varanasi city limits. It includes the vehicle, driver, fuel, and parking charges."
+            }
+          }
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.kashitaxi.in#organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-airport-tempo-traveller/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/varanasi-airport-tempo-traveller/"
+        }
+      ]
+    }
+  ]
+}
