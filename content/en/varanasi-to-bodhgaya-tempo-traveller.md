@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Varanasi to Bodhgaya Tempo Traveller | Pilgrimage Package
-description: Same-day Varanasi to Bodhgaya Tempo Traveller package. Visit Mahabodhi Temple, Great Buddha, and monasteries. All-inclusive pricing.
+title: "Varanasi to Bodhgaya Tempo Traveller [2025 Package]"
+description: Varanasi to Bodhgaya Tempo Traveller—same‑day or overnight. Visit Mahabodhi, Great Buddha and monasteries. All‑inclusive 2025 pricing. Get a quote.
 date: 2025-08-27
 tags: [bodhgaya, buddhist circuit, tempo traveller]
 slug: varanasi-to-bodhgaya-tempo-traveller

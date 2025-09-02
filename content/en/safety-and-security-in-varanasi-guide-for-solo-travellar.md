@@ -1,8 +1,9 @@
 ---
-title: "Safety & Security in Varanasi: A First‑Person Guide"
+title: "Varanasi Safety & Security: Step‑by‑Step [2025 Guide]"
 slug: "safety-and-security-in-varanasi-guide-for-solo-travellar"
 date: "2025-07-30"
 author: "Abhinav Pandey"
+description: "Varanasi safety guide: practical tips, safe areas, emergency numbers and scams to avoid. Solo traveller friendly checklists. Read before you go."
 ---
 
 # Safety & Security in Varanasi: A First-Person Guide

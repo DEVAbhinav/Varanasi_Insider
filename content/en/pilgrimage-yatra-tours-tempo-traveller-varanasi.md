@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Pilgrimage & Yatra Tours from Varanasi by Tempo Traveller
-description: Book specialized pilgrimage tours from Varanasi—Ayodhya, Chitrakoot, Vindhyachal, Naimisaranya, Bodhgaya and more. Customizable packages.
+title: "Pilgrimage Yatra Varanasi by Tempo Traveller [2025]"
+description: "Book specialized pilgrimage tours from Varanasi—Ayodhya, Chitrakoot, Vindhyachal, Naimisaranya, Bodhgaya and more. Customizable Tempo packages."
 date: 2025-08-27
 tags: [pilgrimage, yatra, ayodhya, chitrakoot, vindhyachal, naimisaranya, bodhgaya]
 slug: pilgrimage-yatra-tours-tempo-traveller-varanasi

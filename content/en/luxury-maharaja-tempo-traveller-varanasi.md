@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Luxury & Maharaja Tempo Traveller in Varanasi | Premium Travel
-description: Experience premium travel with Maharaja 1x1 recliner seating and Force Urbania. Ideal for corporate and high-comfort tours.
+title: "Luxury & Maharaja Tempo Traveller Varanasi [2025]"
+description: "Luxury Tempo Traveller Varanasi with 1×1 Maharaja seats and Urbania comfort. Premium airport, local and outstation service. Explore features and enquire."
 date: 2025-08-27
 tags: [luxury, maharaja, urbania, premium travel]
 slug: luxury-maharaja-tempo-traveller-varanasi

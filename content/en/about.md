@@ -1,9 +1,9 @@
 ---
-title: "About Banarasi Kashitaxi – My Family’s Mission to Make Varanasi Travel Simple"
+title: "About Banarasi Kashitaxi: Trusted Varanasi Taxis (2025)"
 slug: "about"
 date: "2025-07-28"
 author: "Abhinav Pandey"
-description: "Learn how a small Varanasi taxi stand grew into Banarasi Kashitaxi—your trusted partner for airport pickups, Pink Taxis, bespoke tours, and safe self‑drive rentals."
+description: "Meet Banarasi Kashitaxi, a family-run Varanasi taxi service since 1998. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
 featuredImage: "/images/posts/about-banarasi-kashitaxi.jpg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/about"

@@ -7,7 +7,7 @@
         "@type": "WebPage",
         "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025"
       },
-      "headline": "Assi Ghat Aarti Timings (Morning & Evening) – 2025",
+      "headline": "Assi Ghat Morning Aarti Today & 2025 – Subah‑e‑Banaras",
       "description": "The exact Assi Ghat aarti time for the morning (Subah-e-Banaras) and evening ceremonies in 2025. Get a month-by-month schedule, pro tips, and more.",
       "image": [
         "https://www.kashitaxi.in/images/varanasi-assi-ghat-aarti-l.jpeg",
@@ -28,10 +28,26 @@
         "@id": "https://www.kashitaxi.in#organization"
       },
       "datePublished": "2025-08-04",
-      "dateModified": "2025-08-04",
+      "dateModified": "2025-09-01",
       "mainEntity": {
         "@type": "FAQPage",
         "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is the Assi Ghat morning Subah‑e‑Banaras aarti daily?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, the morning aarti is held daily. In heavy rain it may move to a covered dais; timings can shift by ±15 minutes with river level."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What time does the Assi Ghat aarti start in winter?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In winter (Oct–Mar), the morning aarti runs roughly 5:30–6:15 AM and the evening aarti 6:00–6:45 PM. Arrive 30–45 minutes early for a good spot."
+            }
+          },
           {
             "@type": "Question",
             "name": "Do the Assi Ghat Ganga Aarti timings change on festival days?",

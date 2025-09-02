@@ -1,12 +1,12 @@
 ---
-title: "Morning Boat Ride in Varanasi Price Guide (2025)"
+title: "Morning Boat Ride Varanasi: Prices [2025 Guide]"
 slug: "morning-boat-ride-varanasi-price"
 date: "2025-08-01"
 lastUpdated: "2025-08-01"
 author: "Abhinav Pandey"
 lang: en-IN
 featuredImage: "/images/sunriseBoatRide.jpeg"
-description: "Get the 2025 price for a morning boat ride in Varanasi. This guide covers shared and private boat costs, negotiation tips, and how to book a sunrise boat tour on the Ganga."
+description: "Morning boat ride Varanasi prices for shared and private boats. Negotiation tips and booking advice. See costs and plan your sunrise."
 keywords: "morning boat ride varanasi price, varanasi boat ride cost, sunrise boat ride varanasi, ganga boat ride price, private boat ride varanasi, shared boat ride varanasi, varanasi boat booking"
 tags:
   - varanasi

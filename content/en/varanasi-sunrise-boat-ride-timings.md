@@ -1,5 +1,5 @@
 ---
-title: "Varanasi Sunrise Boat Ride Timings: A 2025 Guide"
+title: "Varanasi Sunrise Boat Ride Timings [2025 Guide]"
 slug: "varanasi-sunrise-boat-ride-timings"
 date: "2025-08-01"
 lastUpdated: "2025-08-01"

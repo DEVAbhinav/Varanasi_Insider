@@ -1,12 +1,12 @@
 ---
-title: "Varanasi Prayagraj (Allahabad) Tour Package & Yatra Guide (2025)"
+title: "Varanasi to Prayagraj Tour Package [2025 Guide]"
 slug: "varanasi-to-prayagraj"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
 author: "Abhinav Pandey"
 lang: en-IN
 featuredImage: "/images/prayagraj.jpg"
-description: "Plan your Varanasi Prayagraj tour package with our 2025 guide. Find the Varanasi to Prayagraj distance, route, travel options, and details for a Kashi to Triveni Sangam day trip. Your complete guide to the Prayagraj Varanasi spiritual circuit."
+description: "Varanasi to Prayagraj tour package: distance, route, fares and Kashi–Triveni Sangam day trip itinerary. Plan your yatra and book easily."
 tags:
   - varanasi
   - prayagraj

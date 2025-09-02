@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Tempo Traveller on Rent in Varanasi | Reliable & Affordable
-description: Hire a Tempo Traveller in Varanasi (9–26 seater). Book for Kashi Darshan, outstation trips, weddings, and airport transfers. Transparent 2025 rates, clean AC fleet, experienced drivers.
+title: "Tempo Traveller Varanasi: Rates & Booking [2025]"
+description: "Hire a Tempo Traveller in Varanasi (9–26 seater). Kashi Darshan, outstation, weddings and airport transfers. Transparent 2025 rates and clean AC fleet."
 date: 2025-08-27
 tags: [tempo traveller, varanasi, tempo traveller hire, tempo traveller booking, tempo traveller rates, kashi darshan, airport transfer, 12 seater, 17 seater]
 slug: tempo-traveller-varanasi

@@ -1,5 +1,5 @@
 ---
-title: "Jageshwar Mahadev Varanasi – Mythic Shivling That Grows Every Year"
+title: "Jageshwar Mahadev Varanasi: Temple Guide [2025]"
 slug: "jageshwar-mahadev-varanasi"
 date: "2025-07-25"
 lastUpdated: "2025-07-25"
@@ -7,7 +7,7 @@ author: "Abhinav Pandey"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/jageshwar-mahadev-varanasi-guide/"
 featuredImage: "/images/varanasi-kal-bhairav-p.jpeg"
-description: "Discover Varanasi’s Siddhpeeth Shri Jageshwar Mahadev—home to a self-growing Shiv lingam, hidden in Ishwargangi’s lanes."
+description: "Jageshwar Mahadev Varanasi—self‑growing Shivling, history, timings and how to reach. See why this Siddhpeeth is a hidden gem. Learn more."
 tags:
   - jageshwar mahadev varanasi
   - hidden temples of kashi

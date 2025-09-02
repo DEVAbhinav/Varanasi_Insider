@@ -1,12 +1,12 @@
 ---
-title: "Ganga Aarti Boat Booking Price (2025) – Dashashwamedh Ghat Rates"
+title: "Ganga Aarti Boat Price Varanasi (2025): Best Seats"
 slug: "ganga-aarti-boat-booking-price"
 date: "2025-07-27"
 lastUpdated: "2025-07-27"
 author: "Abhinav Pandey"
 lang: en-IN
 featuredImage: "/images/ganga-aarti2.jpeg"
-description: "Experience the magical Ganga Aarti from a boat! Find the latest rowing-boat and motor-boat tariffs, understand what’s included in guided tours, and learn when to book your seat for the evening ritual at Dashashwamedh Ghat."
+description: "Ganga Aarti boat booking price in Varanasi: rowing vs motor rates, what’s included and when to book for front‑row views. Compare and reserve."
 tags:
   - ganga aarti
   - boat booking

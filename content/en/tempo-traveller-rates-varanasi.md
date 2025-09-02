@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Tempo Traveller Rate in Varanasi | 2025 Price List
-description: Transparent Tempo Traveller price list for Varanasi. Per-km outstation rates, 8-hour local packages, and airport transfer charges.
+title: "Tempo Traveller Rates Varanasi: 2025 Price List [Guide]"
+description: "Transparent Tempo Traveller rates in Varanasi: per‑km outstation, 8‑hour local and airport transfers. 2025 price list. Compare and request a quote."
 date: 2025-08-27
 tags: [rates, price list, tempo traveller, varanasi]
 slug: tempo-traveller-rates-varanasi

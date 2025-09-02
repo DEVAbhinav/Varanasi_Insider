@@ -1,5 +1,5 @@
 ---
-title: "Varanasi in October 2025: Weather, Festivals & Travel Guide"
+title: "Varanasi in October 2025: Weather & Festivals [Guide]"
 slug: "varanasi-in-october-2025"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"

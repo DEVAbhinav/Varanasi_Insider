@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Varanasi to Ayodhya Tempo Traveller | All-Inclusive ₹14,500
-description: Varanasi to Ayodhya Tempo Traveller package (one-day) at ₹14,500. Book 12 or 17 seater Tempo Traveller for Ram Mandir/Ram Janmabhoomi darshan. Fare includes tolls, parking, state tax, driver.
+title: "Varanasi to Ayodhya Tempo Traveller: ₹14,500 [2025]"
+description: "Varanasi to Ayodhya Tempo Traveller one‑day package at ₹14,500. 12/17‑seater for Ram Mandir darshan. Includes tolls, parking, taxes and driver."
 date: 2025-08-27
 tags: [ayodhya, varanasi to ayodhya tempo traveller, tempo traveller fare, ayodhya day trip, ram mandir, ram janmabhoomi, 12 seater tempo traveller, 17 seater tempo traveller, pilgrimage, one-day trip]
 slug: varanasi-to-ayodhya-tempo-traveller

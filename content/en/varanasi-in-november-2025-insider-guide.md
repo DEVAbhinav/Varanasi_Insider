@@ -1,5 +1,5 @@
 ---
-title: "Varanasi in November 2025: A Guide to Dev Deepawali & Weather"
+title: "Varanasi in November 2025: Dev Deepawali [Guide]"
 slug: "varanasi-in-november-2025-insider-guide"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"

@@ -1,5 +1,5 @@
 ---
-title: "Ganga Aarti Dashashwamedh Ghat Timing Today (2025) – Best Viewpoints & Boat Booking Tips"
+title: "Ganga Aarti Dashashwamedh: Timings Today (2025) [Guide]"
 slug: "dashashwamedh-ghat-ganga-aarti-timing"
 date: "2025-07-22"
 lastUpdated: "2025-07-22"
@@ -7,7 +7,7 @@ author: "Abhinav Pandey"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing/"
 featuredImage: "/images/posts/dashashwamedh-ghat-aarti.jpg"
-description: "Complete guide to the Ganga Aarti at Dashashwamedh Ghat, including today's timings, best viewing spots, boat booking prices, Dev Deepawali dates, and travel tips."
+description: "Today’s Dashashwamedh Ghat Ganga Aarti timing, best viewpoints and boat booking tips with verified 2025 info. Arrive early and get the best view."
 tags:
   - dashashwamedh ghat
   - ganga aarti

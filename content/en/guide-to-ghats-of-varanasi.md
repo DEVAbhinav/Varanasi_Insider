@@ -1,10 +1,10 @@
 ---
-title: 'A Guide to the Ghats of Varanasi'
+title: 'Ghats of Varanasi: Visitor Guide [2025]'
 slug: 'guide-to-ghats-of-varanasi'
 date: '2025-07-20'
 author: 'Abhinav Pandey'
 featuredImage: 'https://placehold.co/1200x600/FBBF24/333333?text=Ghats+of+Varanasi'
-description: 'Discover the most famous ghats along the Ganges in Varanasi, from the bustling Dashashwamedh to the serene Assi Ghat.'
+description: 'Ghats of Varanasi explained—from Dashashwamedh to Assi. Best spots, rituals and boat tips. Start here and explore smarter.'
 tags: ['ghats', 'guide', 'varanasi', 'tourism']
 ---
 

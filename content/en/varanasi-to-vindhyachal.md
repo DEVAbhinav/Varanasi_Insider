@@ -1,12 +1,12 @@
 ---
-title: "Varanasi to Vindhyachal Tour Package & Darshan Guide (2025)"
+title: "Varanasi to Vindhyachal Distance & Route (Taxi Fare)"
 slug: "varanasi-to-vindhyachal"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
 author: "Abhinav Pandey"
 lang: en-IN
 featuredImage: "/images/blogVindhyachal.png"
-description: "Plan your Varanasi to Vindhyachal tour with our 2025 guide. Find the distance, cab and taxi fare, train options, and a same-day darshan itinerary for your trip."
+description: "Varanasi to Vindhyachal distance 65–70 km (1.5–2 hrs). Best road route, tolls and taxi fare with darshan slots. Plan your same‑day trip."
 tags:
   - varanasi
   - vindhyachal
@@ -19,6 +19,15 @@ relatedPosts:
   - varanasi-transport-price-guide-2025
   - varanasi-to-prayagraj-pilgrimage-guide
   - varanasi-to-bodh-gaya-pilgrimage-guide
+---
+
+Updated: Sep 2025
+
+Answer Box
+| Distance | Time | Best Route | Taxi (₹) | Train (hrs) | Bus (hrs) |
+|---|---|---|---|---|---|
+| 65–70 km | 1.5–2 hrs | Varanasi → Mirzapur → Vindhyachal | 2,000–2,500 (sedan same‑day) | 1–2 | 2+ |
+
 ---
 
 # Varanasi to Vindhyachal Tour: Same-Day Darshan Guide

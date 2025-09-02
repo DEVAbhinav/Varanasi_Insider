@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Varanasi Airport Tempo Traveller | Fixed Fare ₹2,500
-description: Group airport transfers from LBS Airport at ₹2,500. Door-to-door service with space for luggage. Book instantly.
+title: "Varanasi Airport Tempo Traveller: ₹2,500 [2025]"
+description: "Group airport transfer Varanasi at ₹2,500 fixed fare. Door‑to‑door with luggage space and meet‑and‑greet. Call now to book."
 date: 2025-08-27
 tags: [airport transfer, lbs airport, tempo traveller]
 slug: varanasi-airport-tempo-traveller

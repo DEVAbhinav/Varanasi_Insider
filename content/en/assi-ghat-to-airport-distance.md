@@ -1,12 +1,12 @@
 ---
-title: "Assi Ghat to Airport Distance & Taxi Fare (2025 Guide)"
+title: "Assi Ghat to Airport: Distance & Fare (2025 Guide)"
 slug: "assi-ghat-to-airport-distance"
 date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "Abhinav Pandey"
 lang: en-IN
 featuredImage: "/images/blogbhugate.jpg"
-description: "Find out how far Assi Ghat is from Varanasi airport, how long the drive takes, and typical taxi fares for this popular route."
+description: "25–27 km | 50–70 min by car. Sedan ₹800–900. Assi Ghat ↔ Varanasi airport routes, traffic windows and late‑night tips. Learn more."
 tags:
   - assi ghat
   - varanasi airport
@@ -16,6 +16,15 @@ relatedPosts:
   - varanasi-transport-price-guide-2025
   - varanasi-airport-taxi-price-guide
   - ganga-aarti-boat-booking-price
+---
+
+Updated: Sep 2025
+
+Answer Box
+| Distance | Time | Best Route | Taxi (₹) | Night |
+|---|---|---|---|---|
+| 25–27 km | 50–70 min (peak) | Assi → BHU Gate/Lanka → Ring Rd → Airport | Sedan 800–900 · SUV 1,100–1,300 | Prepaid: no surcharge |
+
 ---
 
 Planning your travel between Assi Ghat and Lal Bahadur Shastri International Airport (VNS)? This guide provides key details on the distance, travel time, and expected taxi fares to help you plan a smooth journey.

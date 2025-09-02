@@ -1,12 +1,12 @@
 ---
-title: "Assi Ghat Aarti Timings (Morning & Evening) – 2025"
+title: "Assi Ghat Morning Aarti Today & 2025 – Subah‑e‑Banaras"
 slug: "assi-ghat-aarti-timings-2025"
 date: "2025-08-04"
 lastUpdated: "2025-08-04"
 author: "Naval Kishore"
 lang: en-IN
 featuredImage: "/images/varanasi-assi-ghat-aarti-l.jpeg"
-description: "The exact Assi Ghat aarti time for the morning (Subah-e-Banaras) and evening ceremonies in 2025. Get a month-by-month schedule, pro tips, and more."
+description: "Today’s Assi Ghat morning aarti timing (seasonal) with 2025 schedule. Best viewing points, crowd tips and photography rules. Check timings now."
 keywords: "assi ghat aarti time, assi ghat aarti timings, assi ghat aarti timings evening, assi ghat aarti timings morning, assi ghat ganga aarti timing, assi ghat morning aarti time"
 tags:
   - "Assi Ghat Aarti Timings"
@@ -19,6 +19,17 @@ relatedPosts:
   - varanasi-transport-price-guide-2025
   - safety-and-security-in-varanasi-guide-for-solo-travellar
   - varanasi-in-february-2026
+---
+
+Updated: Sep 2025
+
+Quick Answer
+- Today (Morning): 4:45–5:45 AM (seasonal)
+- Today (Evening): 6:00–7:30 PM (seasonal)
+- Duration: 40–45 min
+- Best spot: 2nd–3rd steps near center; arrive 30–45 min early
+- Daily? Yes (moved under cover in heavy rain)
+
 ---
 
 # Assi Ghat Aarti Timings (Morning & Evening) – My 2025 Insider Guide

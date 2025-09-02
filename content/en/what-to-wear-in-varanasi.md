@@ -1,9 +1,9 @@
 ---
-title: "What to Wear in Varanasi: A Guide for Every Season and Traveler"
+title: "What to Wear in Varanasi (Banaras): Temple‑Safe List"
 date: "2024-05-15"
 author: "Varanasi Insider Team"
 featuredImage: "/images/pink-sky-ghat-varanasi-l.jpeg"
-description: "A comprehensive guide on what to wear in Varanasi for men, women, and solo female travelers, with tips for every season. Learn about respectful attire for temples and ghats."
+description: "What to wear in Varanasi (Banaras) by season—men & women checklists and temple‑safe etiquette. Practical packing list inside."
 keywords:
   - "what to wear in varanasi"
   - "varanasi dress code"

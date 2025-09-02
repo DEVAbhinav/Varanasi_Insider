@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Tempo Traveller for Weddings in Varanasi | Reliable Guest Transport
-description: Seamless wedding transportation in Varanasi. Guest airport transfers, hotel shuttles, and multi-day hire with professional drivers.
+title: "Tempo Traveller Wedding Varanasi: Guest Transport [2025]"
+description: "Seamless wedding transport in Varanasi—guest airport transfers, hotel shuttles and multi‑day hire with professional drivers. Get a custom quote."
 date: 2025-08-27
 tags: [wedding, guest transport, tempo traveller, varanasi]
 slug: tempo-traveller-wedding-varanasi

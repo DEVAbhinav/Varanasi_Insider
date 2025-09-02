@@ -1,12 +1,12 @@
 ---
-title: "Varanasi to Bodhgaya Taxi Cost (2025) – Fares & Travel Time"
+title: "Varanasi to Bodh Gaya Distance & Taxi Cost (2025)"
 slug: "varanasi-to-bodhgaya-taxi-cost"
 date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "Abhinav Pandey"
 lang: en-IN
 featuredImage: "/images/GayaTaxi.jpg"
-description: "Travelling from Varanasi to Bodh Gaya? Discover the road distance, average travel time, and one-way taxi fares for different car categories. See how regional operators and national aggregators price this popular Buddhist pilgrimage route."
+description: "Varanasi to Bodh Gaya distance ~255 km, 5–6 hrs by road. 2025 taxi fares by car type + booking tips for this Buddhist route. Compare and book."
 tags:
   - varanasi
   - bodhgaya
@@ -17,6 +17,15 @@ relatedPosts:
   - varanasi-transport-price-guide-2025
   - lucknow-to-varanasi-taxi-fare
   - varanasi-day-tour-cab-charges
+---
+
+Updated: Sep 2025
+
+Answer Box
+| Distance | Time | Best Route | Taxi (₹) | Train (hrs) | Bus (hrs) |
+|---|---|---|---|---|---|
+| ~255 km | 5–6 hrs | Varanasi → Mohania → Dobhi → Bodh Gaya (AH1/NH19) | Sedan 5,500–6,500 · SUV 6,500–7,500 | 3–5 | 6–7 |
+
 ---
 
 Planning a pilgrimage or a road trip from the spiritual city of Varanasi to Bodh Gaya, where the Buddha attained enlightenment? This guide covers everything you need to know about the journey, including distance, travel time, and taxi fares.

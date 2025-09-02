@@ -1,10 +1,10 @@
 ---
-title: "2025 Varanasi Transport Price Guide – Airport Taxis, Pink Cabs, Outstation Fares & Boat Rides"
+title: "Varanasi Transport Prices 2025: Taxis & Boats [Guide]"
 slug: "varanasi-transport-price-guide-2025"
 date: "2025-07-24"
 author: "Abhinav Pandey"
 featuredImage: "/images/vnsayopyg.png"
-description: "Your one‑stop guide to Varanasi airport taxi price, women‑only pink taxis, Lucknow → Varanasi fares, Ganga Aarti boat booking price, one‑day tour cab charges, Assi Ghat ↔ airport distance, and Varanasi → Bodhgaya taxi cost. Book instantly at www.kashitaxi.in or call 94503 01573."
+description: "Varanasi transport prices 2025 in one guide: airport taxis, pink cabs, boat rides and outstation fares. Compare costs and book with confidence."
 tags: ["varanasi airport taxi price","ganga aarti boat booking price","varanasi pink taxi for women"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 lang: en
-title: 17 Seater Tempo Traveller Hire in Varanasi | Rates & Booking
-description: Hire a 17‑seater Tempo Traveller in Varanasi for weddings, pilgrimages, corporate trips and outstation tours. Check 2025 prices for airport transfer, local 8hr/80km and per‑km outstation. Book now.
+title: "17 Seater Tempo Traveller Varanasi: Rates [2025 Guide]"
+description: "17 Seater Tempo Traveller Varanasi for weddings, yatras and outstation trips. 2025 airport, local and per‑km rates. See prices and book today."
 date: 2025-08-27
 tags: [17 seater, tempo traveller, varanasi, fares, price, hire, booking, wedding, airport transfer, outstation]
 slug: 17-seater-tempo-traveller-varanasi

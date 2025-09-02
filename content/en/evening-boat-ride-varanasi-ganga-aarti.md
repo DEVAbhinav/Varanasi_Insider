@@ -1,12 +1,12 @@
 ---
-title: "Evening Boat Ride Varanasi: Watch Ganga Aarti from Water (2025 Guide)"
+title: "Evening Boat Ride Varanasi: Ganga Aarti [2025 Guide]"
 slug: "evening-boat-ride-varanasi-ganga-aarti"
 date: "2025-08-01"
 lastUpdated: "2025-08-01"
 author: "Abhinav Pandey"
 lang: en-IN
 featuredImage: "/images/eveningAartiHero.jpg"
-description: "Your complete 2025 guide to the evening boat ride in Varanasi for the Ganga Aarti. Find timings, costs, booking tips, and the best view from the water."
+description: "Evening boat ride Varanasi for Ganga Aarti: timings, costs and booking tips. Get the best water views with 2025 info. Reserve your seat now."
 keywords: "evening boat ride varanasi, ganga aarti boat ride, varanasi boat ride price, dashashwamedh ghat aarti, ganga aarti from boat, varanasi night boat ride"
 tags:
   - varanasi

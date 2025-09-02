@@ -1,12 +1,12 @@
 ---
-title: "Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)"
+title: "Outstation Cabs Varanasi: Innova, Ertiga, Tempo [2025]"
 slug: "outstation-cabs-from-varanasi"
 date: "2025-08-10"
 lastUpdated: "2025-08-10"
 author: "Abhinav Pandey"
 lang: en-IN
 featuredImage: "/images/tempotraveller.png"
-description: "Daily outstation cabs from Varanasi: Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 seater) with luggage carrier, GST invoice, fares, routes & FAQs."
+description: "Outstation cabs Varanasi: Innova, Ertiga, SUVs & Tempo (6–12). Fares, routes, GST invoice and FAQs. Get rates and book now."
 tags:
   - varanasi
   - outstation cab

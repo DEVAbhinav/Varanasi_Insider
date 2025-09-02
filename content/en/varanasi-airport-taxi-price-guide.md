@@ -1,12 +1,12 @@
 ---
-title: "Varanasi Airport Taxi Price Guide (2025) – Sedan, SUV & Tempo Traveller Fares"
+title: "Varanasi Airport Taxi Fare 2025: City/Assi/Dashashwamedh"
 slug: "varanasi-airport-taxi-price-guide"
 date: "2025-07-27"
 lastUpdated: "2025-07-27"
 author: "Abhinav Pandey"
 lang: en-IN
 featuredImage: "/images/airport-taxi-600x400.jpeg"
-description: "Affordable taxi service from Lal Bahadur Shastri International Airport (VNS) to Varanasi city. Compare fares for sedans, SUVs and tempo travellers, learn what’s included, and discover how long the 27–32 km airport transfer normally takes."
+description: "Sedan ₹700–900, SUV ₹1,100–1,400 incl. tolls. Fixed fares to City/Assi/Dashashwamedh. Night charges, waiting—WhatsApp to book."
 tags:
   - varanasi
   - airport taxi
@@ -16,6 +16,15 @@ relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
   - is-varanasi-safe-for-solo-female-travellers
   - varanasi-transport-price-guide-2025
+---
+
+Updated: Sep 2025
+
+Answer Box
+| Distance | Time | Fixed Fares (₹) | Areas | Notes |
+|---|---|---|---|---|
+| 25–32 km | 40–45 min | Sedan 700–900 · SUV 1,100–1,400 | City / Assi / Dashashwamedh | Prepaid: no night surcharge; 15‑min free waiting |
+
 ---
 
 ## Varanasi Airport to City: An Overview

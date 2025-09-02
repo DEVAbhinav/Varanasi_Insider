@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Kashi Darshan by Tempo Traveller | 8-Hour City Tour ₹5,500
-description: Book Kashi Darshan Tempo Traveller in Varanasi. 8hr/80km ₹5,500 (12‑seater) and 17‑seater available. Visit Kashi Vishwanath, BHU, Sankat Mochan, Durga Kund, Tulsi Manas, Sarnath, Dashashwamedh Ghat & Ganga Aarti. Transparent 2025 price.
+title: "Kashi Darshan Tempo Traveller: 8‑Hr Tour ₹5,500 [2025]"
+description: "Kashi Darshan by Tempo Traveller: 8hr/80km ₹5,500 (12‑seater). Cover Kashi Vishwanath, Sarnath and ghats. Transparent 2025 pricing—get a quote."
 date: 2025-08-27
 tags: [kashi darshan, varanasi local sightseeing, tempo traveller, kashi darshan tempo traveller, varanasi sightseeing package, book tempo traveller varanasi, 12 seater tempo traveller, 17 seater tempo traveller, ganga aarti]
 slug: kashi-darshan-tempo-traveller

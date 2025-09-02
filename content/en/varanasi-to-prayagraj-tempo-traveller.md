@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Varanasi to Prayagraj Tempo Traveller | Same-Day ₹8,500
-description: Book Varanasi to Prayagraj (Allahabad) Tempo Traveller same-day package at ₹8,500. 12 or 17 seater Tempo Traveller for Triveni Sangam darshan, Hanuman Mandir, Alopi Devi, Anand Bhavan. Fare includes tolls, parking, driver.
+title: "Varanasi to Prayagraj Tempo Traveller: ₹8,500 [2025]"
+description: "Varanasi to Prayagraj Tempo Traveller day package at ₹8,500. 12/17‑seater for Sangam darshan and temples. Fare includes tolls, parking, driver."
 date: 2025-08-27
 tags: [prayagraj, allahabad, varanasi to prayagraj tempo traveller, sangam darshan, triveni sangam, tempo traveller fare, book tempo traveller prayagraj, 12 seater tempo traveller, 17 seater tempo traveller, nh19]
 slug: varanasi-to-prayagraj-tempo-traveller

@@ -1,5 +1,5 @@
 ---
-title: "Varanasi Airport Taxi Guide: Fares, Pick‑ups & Scams (2025)"
+title: "Varanasi Airport Taxi Guide: Fares, Pick‑ups & Scams (2025)"
 slug: "varanasi-airport-taxi-guide"
 date: "2025-07-21"
 lastUpdated: "2025-07-21"

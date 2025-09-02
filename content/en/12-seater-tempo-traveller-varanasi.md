@@ -1,7 +1,7 @@
 ---
 lang: en
-title: 12 Seater Tempo Traveller on Rent in Varanasi | Fares & Booking
-description: Hire or rent a 12 seater Tempo Traveller in Varanasi—price list for airport transfer, local Kashi Darshan, and outstation trips. Book a 12‑seater tempo traveller in Varanasi at best fares.
+title: "12 Seater Tempo Traveller Varanasi: Rates [2025 Guide]"
+description: "12 Seater Tempo Traveller Varanasi rates for airport, local and outstation. Transparent 2025 prices and easy booking. Check fares and book now."
 date: 2025-08-27
 tags: [12 seater, tempo traveller, varanasi, fares, price, hire, booking, kashi darshan, airport transfer, outstation]
 slug: 12-seater-tempo-traveller-varanasi

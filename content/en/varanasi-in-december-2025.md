@@ -1,6 +1,6 @@
 ---
 
-title: "Varanasi in December: A 2025 Guide to Weather, Fog & Things to Do"
+title: "Varanasi in December 2025: Weather, Fog & Things to Do"
 slug: "varanasi-in-december-2025"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
