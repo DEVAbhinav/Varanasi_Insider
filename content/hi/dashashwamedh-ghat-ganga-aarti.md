@@ -2,7 +2,7 @@
 title: "दशाश्वमेध घाट गंगा आरती गाइड (2025) — समय, नाव बुकिंग, टिप्स"
 slug: "dashashwamedh-ghat-ganga-aarti"
 date: "2025-07-22"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: hi-IN
 canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti/"
 featuredImage: "/images/posts/dashashwamedh-ghat-aarti.jpg"

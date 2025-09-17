@@ -3,7 +3,7 @@ title: "Evening Boat Ride Varanasi: Ganga Aarti [2025 Guide]"
 slug: "evening-boat-ride-varanasi-ganga-aarti"
 date: "2025-08-01"
 lastUpdated: "2025-08-01"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/eveningAartiHero.jpg"
 description: "Evening boat ride Varanasi for Ganga Aarti: timings, costs and booking tips. Get the best water views with 2025 info. Reserve your seat now."

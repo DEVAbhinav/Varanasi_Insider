@@ -4,7 +4,7 @@ title: "Varanasi in December 2025: Weather, Fog & Things to Do"
 slug: "varanasi-in-december-2025"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/varanasi-sunrise-p.jpeg"
 description: "Planning a trip to Varanasi in December 2025? Get expert tips on the winter weather, dealing with fog, what to wear, and the best things to do."

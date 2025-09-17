@@ -3,7 +3,7 @@ title: "Ganga Aarti Boat Price Varanasi (2025): Best Seats"
 slug: "ganga-aarti-boat-booking-price"
 date: "2025-07-27"
 lastUpdated: "2025-07-27"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/ganga-aarti2.jpeg"
 description: "Ganga Aarti boat booking price in Varanasi: rowing vs motor rates, what’s included and when to book for front‑row views. Compare and reserve."

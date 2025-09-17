@@ -17,11 +17,11 @@ Looking for a 12‑seater Tempo Traveller in Varanasi? You’ve found the perfec
 
 ## Vehicle Photos (12‑Seater)
 
-![12‑Seater Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "12‑Seater Tempo Traveller — ideal for mid‑sized groups")
+![12‑Seater Tempo Traveller — modern exterior](/images/Tempo_travellar_side_back_white.jpeg "12‑Seater Tempo Traveller — ideal for mid‑sized groups")
 
-![12‑Seater Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Side profile — compact yet roomy")
+![12‑Seater Tempo Traveller — luxury interior seating](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Premium interior with comfortable seating arrangement")
 
-![12‑Seater Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Clean AC cabin with pushback seats")
+![12‑Seater Tempo Traveller — close-up seat details](/images/Tempo_travellar_seat_closup.jpeg "Close-up of comfortable push-back seats with armrests")
 
 ## Meet Our 12‑Seater Tempo Traveller
 

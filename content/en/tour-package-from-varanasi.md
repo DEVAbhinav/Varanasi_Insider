@@ -3,7 +3,7 @@ title: "Tour Packages from Varanasi: Ayodhya, Prayagraj (2025)"
 slug: "tour-package-from-varanasi"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/multiCityCircuit.png"
 description: "Best multi‑city tour packages from Varanasi—Ayodhya, Prayagraj and more. 2025 itineraries, taxi costs and booking info. Get the plan."

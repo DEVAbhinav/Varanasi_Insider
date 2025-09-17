@@ -4,7 +4,7 @@ slug: "varanasi-airport-taxi-guide"
 date: "2025-07-21"
 lastUpdated: "2025-07-21"
 lastVerified: "2025-07-21"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide/"
 featuredImage: "/images/posts/varanasi-airport-taxi.jpg"

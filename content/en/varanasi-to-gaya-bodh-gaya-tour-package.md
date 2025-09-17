@@ -3,7 +3,7 @@ title: "Varanasi to Gaya & Bodh Gaya Tour Package [2025]"
 slug: "varanasi-to-gaya-bodh-gaya-tour-package"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/blogGaya.png"
 description: "Varanasi to Gaya/Bodh Gaya tour package 2025: itinerary, trains, taxis and the Kashi–Gaya spiritual route. See fares and plan your yatra."

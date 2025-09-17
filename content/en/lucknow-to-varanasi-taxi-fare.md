@@ -3,7 +3,7 @@ title: "Lucknow to Varanasi Taxi Fare 2025: Sedan & SUV [Guide]"
 slug: "lucknow-to-varanasi-taxi-fare"
 date: "2025-07-27"
 lastUpdated: "2025-07-27"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/AyodhyaTaxi1.jpg"
 description: "Lucknow to Varanasi taxi fare with distance and time. See 2025 sedan, SUV and one‑way vs round‑trip rates. Compare options and book smart."

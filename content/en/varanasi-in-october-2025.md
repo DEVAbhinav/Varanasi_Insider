@@ -3,7 +3,7 @@ title: "Varanasi in October 2025: Weather & Festivals [Guide]"
 slug: "varanasi-in-october-2025"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/pink-sky-ghat-varanasi-l.jpeg"
 description: "Planning to visit Varanasi in October 2025? Get expert tips on the weather, festivals like Navratri and Diwali, what to wear, and things to do."

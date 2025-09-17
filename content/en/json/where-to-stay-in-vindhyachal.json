@@ -1,0 +1,197 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.kashitaxi.in/where-to-stay-in-vindhyachal#blog",
+      "url": "https://www.kashitaxi.in/where-to-stay-in-vindhyachal",
+      "headline": "Where to Stay in Vindhyachal (2025): Dharamshalas, Guest Houses & Hotels Near the Temple",
+      "description": "2025 Vindhyachal accommodation guide: best dharamshalas, guest houses, budget & mid-range hotels near Maa Vindhyavasini Temple and in Mirzapur with distances, facilities, Navratri tips, and booking strategy.",
+      "image": "https://www.kashitaxi.in/images/Vindhyachal2.jpg",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-09-17",
+      "dateModified": "2025-09-17",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh",
+        "description": "Local accommodation & pilgrimage logistics guide for Vindhyachal stays"
+      },
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization",
+        "@type": "Organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      },
+      "mainEntityOfPage": "https://www.kashitaxi.in/where-to-stay-in-vindhyachal",
+      "keywords": [
+        "where to stay in vindhyachal",
+        "vindhyachal accommodation",
+        "dharamshala in vindhyachal",
+        "hotels near vindhyavasini temple",
+        "vindhyachal stay guide",
+        "navratri stay vindhyachal",
+        "mirzapur hotels for vindhyachal",
+        "budget stay vindhyachal"
+      ],
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/where-to-stay-in-vindhyachal#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the best dharamshalas near Vindhyavasini Temple in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Popular dharamshalas near the temple include Goenka Dharamshala (≈260m), Surjidevi K. Jaipuria Trust (≈120m), and Birla Vishram Gruh (≈700m), all offering basic clean lodging and proximity for aarti and early darshan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I stay during Navratri in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book early (15–30 days ahead) near the temple for late-night/early-morning darshan—dharamshalas or budget hotels like B R Palace or Vindhya Residency. If full, use Mirzapur mid-range hotels (Konark Grand, Hotel Aadi Shakti Palace)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there AC rooms available close to the Vindhyachal temple?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes—Surjidevi K. Jaipuria Trust, Shailshiv Atithi Bhavan, B R Palace, and several small guest houses offer AC or air-cooled rooms within walking distance (50–700 meters)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I stay in Mirzapur or Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Stay in Vindhyachal for spiritual convenience; choose Mirzapur (6–8 km) if you need better amenities like larger rooms, generators, dining variety, or parking ease during peak Navratri."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Konark Grand Hotel from the Vindhyachal temple?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Konark Grand Hotel is roughly 6.5–7 km away in Mirzapur, making it suitable for travelers needing higher-end facilities while still being a 15–20 minute drive to the temple (longer on festival days)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need advance booking for Vindhyachal stay during Navratri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes—Navratri demand surges sharply. Secure rooms 3–4 weeks ahead. Walk-in availability becomes uncertain from Chaturthi onward, especially for rooms under ₹2,000."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.kashitaxi.in/where-to-stay-in-vindhyachal#list",
+      "name": "Vindhyachal Accommodation Options",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Goenka Dharamshala",
+          "description": "Basic rooms, near temple (≈260m)"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Surjidevi K. Jaipuria Trust",
+          "description": "AC & Non-AC very close (≈120m)"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Birla Vishram Gruh",
+          "description": "Air-cooled, CCTV (≈700m)"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Shailshiv Atithi Bhavan",
+          "description": "AC rooms 2–6 pax (≈700m)"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "B R Palace Vindhyachal",
+          "description": "AC & cooler, extremely close (≈50m)"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Konark Grand Hotel",
+          "description": "Mirzapur mid-upper, 6.8 km"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/where-to-stay-in-vindhyachal#service",
+      "name": "Vindhyachal Accommodation Assistance",
+      "description": "Pilgrimage stay coordination for dharamshala and hotel booking near Maa Vindhyavasini Temple",
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Vindhyachal & Mirzapur"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceRange": "₹400 - ₹3,800",
+        "priceCurrency": "INR",
+        "description": "Indicative nightly room rates across categories (excluding festival surge)"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/where-to-stay-in-vindhyachal#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Where to Stay in Vindhyachal (2025): Dharamshalas, Guest Houses & Hotels Near the Temple",
+          "item": "https://www.kashitaxi.in/where-to-stay-in-vindhyachal"
+        }
+      ]
+    }
+  ]
+}

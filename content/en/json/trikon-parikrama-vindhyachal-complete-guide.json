@@ -1,0 +1,333 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#blog",
+      "url": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide",
+      "headline": "Trikon Parikrama in Vindhyachal: Complete Guide to Sacred Triangle Circuit",
+      "description": "Complete guide to Trikon Parikrama in Vindhyachal Dham. Learn the sacred route, mythology, history, and step-by-step instructions for the holy triangle circuit of three powerful temples.",
+      "image": "https://www.kashitaxi.in/images/Vindhyachal2.jpg",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-09-16",
+      "dateModified": "2025-09-16",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh",
+        "description": "Experienced pilgrimage guide who has completed Trikon Parikrama over 300 times and guided thousands of pilgrims"
+      },
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization",
+        "@type": "Organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      },
+      "mainEntityOfPage": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide",
+      "keywords": [
+        "trikon parikrama vindhyachal",
+        "vindhyachal trikon parikrama route",
+        "trikon parikrama guide vindhyachal",
+        "sacred triangle vindhyachal",
+        "vindhyavasini kali khoh ashtabhuja temples",
+        "trikon parikrama distance vindhyachal",
+        "pad parikrama vindhyachal",
+        "vindhyachal temple circuit"
+      ],
+      "isAccessibleForFree": true,
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Trikon Parikrama",
+          "description": "Sacred triangle circuit of three temples in Vindhyachal representing complete divine feminine energy"
+        },
+        {
+          "@type": "Place",
+          "name": "Vindhyachal Dham",
+          "description": "Sacred pilgrimage site housing powerful Shaktipeeth temples"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Place",
+          "name": "Maa Vindhyavasini Temple",
+          "alternateName": "Main Temple",
+          "description": "Starting point of Trikon Parikrama representing Goddess Lakshmi"
+        },
+        {
+          "@type": "Place",
+          "name": "Kali Khoh Temple",
+          "description": "Cave temple dedicated to Goddess Mahakali"
+        },
+        {
+          "@type": "Place",
+          "name": "Ashtabhuja Temple",
+          "description": "Hilltop temple dedicated to eight-armed Goddess Saraswati"
+        }
+      ]
+    },
+    {
+      "@type": "TouristAttraction",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#parikrama",
+      "name": "Trikon Parikrama Circuit Vindhyachal",
+      "description": "Sacred 8-kilometer triangle circuit connecting three powerful Shaktipeeth temples",
+      "location": {
+        "@type": "Place",
+        "name": "Vindhyachal",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Vindhyachal",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "India"
+        }
+      },
+      "touristType": "Religious Pilgrims",
+      "isAccessibleForFree": true,
+      "includesAttraction": [
+        {
+          "@type": "Place",
+          "name": "Maa Vindhyavasini Temple"
+        },
+        {
+          "@type": "Place",
+          "name": "Kali Khoh Temple"
+        },
+        {
+          "@type": "Place",
+          "name": "Ashtabhuja Temple"
+        }
+      ]
+    },
+    {
+      "@type": "Guide",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#guide",
+      "name": "Complete Trikon Parikrama Guide",
+      "description": "Step-by-step instructions for completing the sacred triangle circuit in Vindhyachal",
+      "about": {
+        "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#parikrama"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Kashi Taxi – Banarasi",
+      "url": "https://www.kashitaxi.in",
+      "telephone": "+91-94503-01573",
+      "logo": "https://www.kashitaxi.in/images/logo.svg",
+      "sameAs": [
+        "https://www.instagram.com/kashitaxi"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "India"
+      },
+      "description": "Professional guided Trikon Parikrama services in Vindhyachal"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Trikon Parikrama in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trikon Parikrama in Vindhyachal is a sacred circuit covering three temples - Maa Vindhyavasini (Lakshmi), Kali Khoh (Mahakali), and Ashtabhuja (Mahasaraswati) - forming a holy triangle. This 8-kilometer spiritual journey represents complete worship of divine feminine energy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does Trikon Parikrama take in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trikon Parikrama in Vindhyachal takes 3-4 hours on foot (Pad Parikrama) or 1-2 hours by vehicle. The complete circuit covers approximately 8 kilometers and includes visits to multiple smaller temples along the route."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the correct route for Trikon Parikrama in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The traditional Trikon Parikrama route in Vindhyachal starts at Maa Vindhyavasini Temple, proceeds to Kali Khoh Temple (2 km), then to Ashtabhuja Temple (3 km from main temple), and returns to complete the sacred triangle circuit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which temples are included in Trikon Parikrama Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trikon Parikrama in Vindhyachal includes three main temples: Maa Vindhyavasini Temple (representing Goddess Lakshmi), Kali Khoh Temple (Goddess Mahakali), and Ashtabhuja Temple (Goddess Mahasaraswati), along with several smaller temples en route."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Trikon Parikrama be done by vehicle in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Trikon Parikrama in Vindhyachal can be completed by vehicle for those with physical limitations. However, performing it on foot (Pad Parikrama) is considered more meritorious and spiritually beneficial."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best time to do Trikon Parikrama in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The best time for Trikon Parikrama in Vindhyachal is early morning (5:00-8:00 AM) or evening (4:00-7:00 PM). During Navratri, late night parikrama (10:00 PM-3:00 AM) offers a unique spiritual experience with fewer crowds."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#service",
+      "name": "Guided Trikon Parikrama Service",
+      "description": "Professional guided Trikon Parikrama tours in Vindhyachal with complete spiritual support",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Vindhyachal"
+      },
+      "serviceType": "Religious Tourism",
+      "offers": {
+        "@type": "Offer",
+        "priceRange": "₹1,800 - ₹3,300",
+        "priceCurrency": "INR",
+        "description": "Complete guided Trikon Parikrama package including transportation, offerings, and expert guidance"
+      }
+    },
+    {
+      "@type": "Route",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#route",
+      "name": "Trikon Parikrama Sacred Route",
+      "description": "The traditional route for completing Trikon Parikrama in Vindhyachal",
+      "distance": "8 kilometers",
+      "estimatedTime": "PT3H",
+      "routeType": "Walking",
+      "waypoint": [
+        {
+          "@type": "Place",
+          "name": "Maa Vindhyavasini Temple",
+          "description": "Starting point - Goddess Lakshmi temple"
+        },
+        {
+          "@type": "Place",
+          "name": "Batuk Bhairav Temple",
+          "description": "First stop - Guardian deity"
+        },
+        {
+          "@type": "Place",
+          "name": "Kali Khoh Temple",
+          "description": "Second main temple - Goddess Mahakali cave"
+        },
+        {
+          "@type": "Place",
+          "name": "Ashtabhuja Temple",
+          "description": "Final temple - Goddess Mahasaraswati hilltop shrine"
+        }
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#vindhyavasini",
+      "name": "Maa Vindhyavasini Temple",
+      "description": "Main Shaktipeeth temple and starting point of Trikon Parikrama",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Temple Complex",
+        "addressLocality": "Vindhyachal",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "India"
+      },
+      "openingHours": "Mo-Su 04:00-22:00",
+      "isAccessibleForFree": true,
+      "touristType": "Religious Pilgrims"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#kalikhoh",
+      "name": "Kali Khoh Temple",
+      "description": "Ancient cave temple dedicated to Goddess Mahakali",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Vindhyachal",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "India"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.010000",
+        "longitude": "82.870000"
+      },
+      "openingHours": "Mo-Su 05:00-21:00",
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#ashtabhuja",
+      "name": "Ashtabhuja Temple",
+      "description": "Hilltop temple dedicated to eight-armed Goddess Mahasaraswati",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Vindhyachal",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "India"
+      },
+      "openingHours": "Mo-Su 05:00-20:00",
+      "isAccessibleForFree": true,
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "Elevation",
+        "value": "Hilltop Location"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Travel Guides",
+          "item": "https://www.kashitaxi.in/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trikon Parikrama in Vindhyachal: Complete Guide to Sacred Triangle Circuit",
+          "item": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide"
+        }
+      ]
+    }
+  ]
+}

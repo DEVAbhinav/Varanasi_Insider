@@ -2,7 +2,7 @@
 title: 'Ghats of Varanasi: Visitor Guide [2025]'
 slug: 'guide-to-ghats-of-varanasi'
 date: '2025-07-20'
-author: 'Abhinav Pandey'
+author: 'Kamal Nayan Singh'
 featuredImage: 'https://placehold.co/1200x600/FBBF24/333333?text=Ghats+of+Varanasi'
 description: 'Ghats of Varanasi explained—from Dashashwamedh to Assi. Best spots, rituals and boat tips. Start here and explore smarter.'
 tags: ['ghats', 'guide', 'varanasi', 'tourism']

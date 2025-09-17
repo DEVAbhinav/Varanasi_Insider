@@ -1,0 +1,258 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary#blog",
+      "url": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary",
+      "headline": "Varanasi to Vindhyachal Itinerary: 1-Day & 2-Day Pilgrimage Guide (2025)",
+      "description": "Expert 1-day and 2-day Varanasi to Vindhyachal itinerary guide for 2025 with timings, Trikon Parikrama sequence, Navratri strategy, meal suggestions, crowd tips, and sacred add-ons.",
+      "image": "https://www.kashitaxi.in/images/Lux-Tempo-Travellar-square.jpeg",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-09-17",
+      "dateModified": "2025-09-17",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh",
+        "description": "Local pilgrimage planner specializing in Varanasi to Vindhyachal itineraries and Trikon Parikrama sequencing"
+      },
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization",
+        "@type": "Organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      },
+      "mainEntityOfPage": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary",
+      "keywords": [
+        "varanasi to vindhyachal itinerary",
+        "1 day varanasi to vindhyachal trip",
+        "varanasi to vindhyachal day trip",
+        "vindhyachal itinerary",
+        "trikon parikrama itinerary",
+        "navratri vindhyachal itinerary",
+        "2 day vindhyachal itinerary"
+      ],
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary#oneday",
+      "name": "1-Day Varanasi to Vindhyachal Itinerary",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Depart Varanasi 05:30–06:00 AM"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vindhyavasini Temple Darshan"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kali Khoh Temple"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Ashtabhuja Temple"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sita Kund & Ramgaya Ghat"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Return to Varanasi 05:30–06:15 PM"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary#twoday",
+      "name": "2-Day Vindhyachal Pilgrimage Outline",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Day 1: Arrival & Trikon Parikrama"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Evening Sandhya Aarti"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Day 2: Mangala Aarti (optional)"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Sita Kund / Bhairav / Ramgaya Ghat"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Optional Side Trip (Chunar / Wyndham)"
+        }
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary#trip",
+      "name": "Varanasi to Vindhyachal Pilgrimage Trip",
+      "description": "Structured 1-day and 2-day pilgrimage sequences covering Trikon Parikrama and supplementary sacred sites.",
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Vindhyavasini Temple"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Kali Khoh Temple"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ashtabhuja Temple"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sita Kund"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Ramgaya Ghat"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the best 1 day Varanasi to Vindhyachal itinerary?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depart 5:30–6:00 AM → Vindhyavasini Darshan → Kali Khoh → Ashtabhuja (Trikon Parikrama complete) → Lunch → Sita Kund & Ramgaya Ghat → Optional Bhairav stops → Return 4:30–6:30 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Trikon Parikrama be completed comfortably in one day from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, with a pre-booked taxi and a 5:30–6:00 AM start, the full Trikon Parikrama plus 1–2 nearby sacred sites can be done with return by evening."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What changes in the itinerary during Navratri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Crowd timing shifts—late night/early dawn darshan slots are added. Start earlier (4:30–5:00 AM) or shift Vindhyavasini darshan to post-midnight for reduced queues."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a 2-day Vindhyachal itinerary better than a 1-day trip?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 2-day itinerary allows unhurried darshan, participation in evening aarti, Navratri Mela exploration, fasting meal arrangements, and repeated temple visits."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What time does the Mangala Aarti start in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "On regular days Mangala Aarti is around 4:00 AM; during Navratri it can begin as early as 3:00 AM with extended late-night darshan windows."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I include beyond the three main temples?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Add Sita Kund, Ramgaya Ghat, Batuk Bhairav, Patalpuri Hanuman, and (time permitting) Chunar Fort or Wyndham Falls on a 2-day plan."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary#service",
+      "name": "Varanasi to Vindhyachal Itinerary Planning",
+      "description": "Customized 1-day and 2-day Vindhyachal pilgrimage planning with transport, priest, and fasting meal coordination",
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Varanasi & Vindhyachal"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceRange": "₹1,300 - ₹7,500",
+        "priceCurrency": "INR",
+        "description": "Indicative per-person cost range across budget to premium itinerary styles"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi to Vindhyachal Itinerary: 1-Day & 2-Day Pilgrimage Guide (2025)",
+          "item": "https://www.kashitaxi.in/varanasi-to-vindhyachal-itinerary"
+        }
+      ]
+    }
+  ]
+}

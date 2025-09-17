@@ -3,7 +3,7 @@ title: "Outstation Cabs Varanasi: Innova, Ertiga, Tempo [2025]"
 slug: "outstation-cabs-from-varanasi"
 date: "2025-08-10"
 lastUpdated: "2025-08-10"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/tempotraveller.png"
 description: "Outstation cabs Varanasi: Innova, Ertiga, SUVs & Tempo (6–12). Fares, routes, GST invoice and FAQs. Get rates and book now."
@@ -22,6 +22,29 @@ relatedPosts:
   - varanasi-to-prayagraj
   - varanasi-to-gaya-bodh-gaya-tour-package
 ---
+
+# Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)
+
+**Planning a family yatra or a quick city-to-city hop?** We run outstation cabs from Varanasi every single day—Ayodhya, Prayagraj, Bodh Gaya, Lucknow and beyond—with commercial-permit vehicles, verified drivers, GST invoices and transparent fares. Pick your size: **6 seater, 7 seater, SUV, Innova Crysta, or Tempo Traveller** with **luggage carrier** on request.
+
+## Tempo Traveller for Ayodhya (Group Favourite)
+
+If your query is **book tempo traveller from Varanasi for Ayodhya**, here's our standard: clean interiors, punctual reporting, curated breakfast/tea stops, and time-boxed darshan plan. Options in **9/12/17-seater** with roof rack for extra bags—perfect for **large taxi for group travel Varanasi** needs.
+
+![Modern Urbania Tempo Traveller front view](/images/Urbania-front-Square.jpeg "Premium Urbania series for comfortable group travel")
+
+**Available Tempo Traveller Options:**
+
+![Spacious Tempo Traveller seating arrangement](/images/Tempo_travellar_1by1_beige_potrait.jpeg "Individual seating with optimal legroom and comfort")
+
+- **9-Seater:** Perfect for small family groups, temple committees
+- **12-Seater:** Most popular choice for extended family trips  
+- **17-Seater:** Ideal for large groups, wedding parties, corporate outings
+- **Luxury Urbania:** Premium comfort with superior interiors
+
+---
+
+## Choose Your Vehicle (Instant Clarity)
 
 # Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)
 
@@ -68,9 +91,20 @@ Comfy for 2–3 plus light luggage; agile and economical.
 
 ### Tempo Traveller (9/12/17)
 
+![Premium Tempo Traveller exterior view](/images/TempoTraveller_side_White.jpeg "Clean, well-maintained Tempo Traveller for outstation trips")
+
 Roomy, AC, pushback seats, bottle holders, charging points.
 **Best for:** groups, kirtan teams, school/college batches.
 **Keyword fit:** *book tempo traveller from Varanasi for Ayodhya*, *large taxi for group travel Varanasi*.
+
+![Tempo Traveller luxury interior](/images/Tempo_travellar_beige_brown_seating_potrait.jpeg "Comfortable push-back seats with ample legroom")
+
+**Interior Features:**
+- Push-back reclining seats for maximum comfort
+- Individual AC vents and reading lights
+- Charging points for every passenger
+- Ample legroom and headspace
+- Curtains for privacy and sun protection
 
 ---
 

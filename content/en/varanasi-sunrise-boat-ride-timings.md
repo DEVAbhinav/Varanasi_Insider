@@ -3,7 +3,7 @@ title: "Varanasi Sunrise Boat Ride Timings [2025 Guide]"
 slug: "varanasi-sunrise-boat-ride-timings"
 date: "2025-08-01"
 lastUpdated: "2025-08-01"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/varanasi-sunrise-p.jpeg"
 description: "Find the perfect time for your Varanasi sunrise boat ride with our verified 2025 timetable. Get expert tips on boarding times, best ghats, and booking."

@@ -1,0 +1,297 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#blog",
+      "url": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide",
+      "headline": "Navratri in Vindhyachal 2025: Complete Pilgrim's Practical Guide",
+      "description": "Complete practical guide for Navratri in Vindhyachal 2025. Get detailed darshan timings, festival schedule, special puja bookings, and essential tips for your spiritual journey to this powerful Shaktipeeth.",
+      "image": "https://www.kashitaxi.in/images/Vindhyachal1.jpg",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-09-16",
+      "dateModified": "2025-09-16",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh",
+        "description": "Local pilgrimage expert with over 10 years of experience organizing Navratri in Vindhyachal tours"
+      },
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization",
+        "@type": "Organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      },
+      "mainEntityOfPage": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide",
+      "keywords": [
+        "navratri in vindhyachal",
+        "navratri darshan timings in vindhyachal",
+        "vindhyachal navratri 2025",
+        "navratri festival vindhyachal",
+        "vindhyachal navratri schedule",
+        "navratri aarti timings vindhyachal",
+        "vindhyachal navratri mela",
+        "navratri fasting vindhyachal",
+        "vindhyachal navratri pujas",
+        "sharad navratri vindhyachal"
+      ],
+      "isAccessibleForFree": true,
+      "about": [
+        {
+          "@type": "Festival",
+          "name": "Navratri in Vindhyachal",
+          "description": "Nine-night festival celebrating Divine Feminine at Vindhyachal Shaktipeeth"
+        },
+        {
+          "@type": "Place",
+          "name": "Vindhyavasini Temple",
+          "description": "Main temple where Navratri is celebrated with grand festivities"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Event",
+          "name": "Sharad Navratri 2025",
+          "startDate": "2025-09-22",
+          "endDate": "2025-10-01"
+        },
+        {
+          "@type": "Event",
+          "name": "Chaitra Navratri 2025",
+          "startDate": "2025-03-30",
+          "endDate": "2025-04-07"
+        }
+      ]
+    },
+    {
+      "@type": "Event",
+      "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#sharadnavratri2025",
+      "name": "Sharad Navratri 2025 at Vindhyachal",
+      "description": "Nine-day festival celebrating Goddess Shakti with extended darshan timings and special rituals",
+      "startDate": "2025-09-22",
+      "endDate": "2025-10-01",
+      "location": {
+        "@type": "Place",
+        "name": "Vindhyavasini Temple, Vindhyachal",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Vindhyachal",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "India"
+        }
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Vindhyavasini Temple Trust"
+      },
+      "offers": {
+        "@type": "Offer",
+        "name": "VIP Darshan",
+        "price": "501",
+        "priceCurrency": "INR",
+        "description": "Fast-track darshan during Navratri"
+      }
+    },
+    {
+      "@type": "Event",
+      "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#chaitranavratri2025",
+      "name": "Chaitra Navratri 2025 at Vindhyachal",
+      "description": "Spring Navratri celebration marking Hindu New Year with special ceremonies",
+      "startDate": "2025-03-30",
+      "endDate": "2025-04-07",
+      "location": {
+        "@type": "Place",
+        "name": "Vindhyavasini Temple, Vindhyachal"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Kashi Taxi – Banarasi",
+      "url": "https://www.kashitaxi.in",
+      "telephone": "+91-94503-01573",
+      "logo": "https://www.kashitaxi.in/images/logo.svg",
+      "sameAs": [
+        "https://www.instagram.com/kashitaxi"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "India"
+      },
+      "description": "Professional Navratri in Vindhyachal pilgrimage services"
+    },
+    {
+      "@type": "Schedule",
+      "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#darshanschedule",
+      "name": "Navratri Darshan Timings in Vindhyachal",
+      "description": "Extended temple timings during Navratri festival",
+      "scheduleTimezone": "Asia/Kolkata",
+      "byDay": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "04:00",
+      "closes": "03:00",
+      "validFrom": "2025-09-22",
+      "validThrough": "2025-10-01"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the Navratri darshan timings in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "During Navratri in Vindhyachal, darshan timings are extended. Morning darshan is from 4:00 AM to 12:00 PM, afternoon darshan from 1:00 PM to 7:30 PM, evening darshan from 8:30 PM to 9:30 PM, and late night darshan from 10:30 PM to 3:00 AM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is Sharad Navratri 2025 in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sharad Navratri 2025 in Vindhyachal will be celebrated from September 22 to October 1, 2025, with Vijaya Dashami on October 1st. Each day has special significance and dedicated goddess worship."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to book special pujas during Navratri in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Special pujas like Durga Saptashati Path (₹12,899+), Navchandi Paath (₹40,000+), and Brahmin Bhoj (₹5,100+) can be booked through local priests or travel agencies. Advance booking is essential during Navratri period."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best time for darshan during Navratri in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The best time for darshan during Navratri in Vindhyachal is late night (post-midnight to 3:00 AM) or early morning (4:00-6:00 AM) to avoid heavy crowds and get peaceful darshan experience."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What food is available during Navratri fasting in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Navratri fasting food in Vindhyachal includes sabudana, kuttu flour, singhara flour, potatoes, paneer, milk products, fruits, and nuts. Local bhojanalayas and Marwadi restaurants like Annkut Marwadi Bhojnalai cater to fasting requirements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What cultural events happen during Navratri in Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Navratri in Vindhyachal features the grand Vindhyachal Navratri Mela with Vindhya Fest cultural programs, traditional Kajri folk music, classical dance performances, local handicrafts shopping, and regional delicacies."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#pujaservice",
+      "name": "Navratri Special Puja Arrangements in Vindhyachal",
+      "description": "Professional puja booking and arrangement services for Navratri in Vindhyachal",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Vindhyachal"
+      },
+      "serviceType": "Religious Services",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Durga Saptashati Path",
+          "price": "12899",
+          "priceCurrency": "INR",
+          "description": "Complete 700-verse recitation for protection and blessings"
+        },
+        {
+          "@type": "Offer",
+          "name": "Navchandi Paath",
+          "priceRange": "₹40,000 - ₹1,35,000",
+          "priceCurrency": "INR",
+          "description": "Elaborate ritual for obstacle removal and spiritual elevation"
+        },
+        {
+          "@type": "Offer",
+          "name": "Brahmin Bhoj",
+          "price": "5100",
+          "priceCurrency": "INR",
+          "description": "Sacred feeding ceremony for spiritual merit"
+        }
+      ]
+    },
+    {
+      "@type": "TouristAttraction",
+      "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#navratrimela",
+      "name": "Vindhyachal Navratri Mela",
+      "description": "Grand festival fair with cultural programs, shopping, and regional delicacies during Navratri",
+      "location": {
+        "@type": "Place",
+        "name": "Vindhyachal",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Vindhyachal",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "India"
+        }
+      },
+      "openingHours": "Mo-Su 18:00-22:00",
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Travel Guides",
+          "item": "https://www.kashitaxi.in/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Navratri in Vindhyachal 2025: Complete Pilgrim's Practical Guide",
+          "item": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide"
+        }
+      ]
+    }
+  ]
+}

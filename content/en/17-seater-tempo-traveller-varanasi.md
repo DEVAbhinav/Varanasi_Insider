@@ -21,11 +21,11 @@ Have a bigger group ready to explore Varanasi or head out on a road trip? Our 17
 
 ## Vehicle Photos (17‑Seater)
 
-![17‑Seater Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "17‑Seater Tempo Traveller — great for large groups")
+![17‑Seater Tempo Traveller — landscape view](/images/Tempo-Travellar_landscape_Village.jpeg "17‑Seater Tempo Traveller — great for large groups on scenic routes")
 
-![17‑Seater Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Long body with ample luggage space")
+![17‑Seater Urbania interior](/images/Urbania-Inside-Potrait.jpeg "Spacious Urbania interior with premium seating arrangement")
 
-![17‑Seater Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Spacious AC interiors with pushback seats")
+![17‑Seater luxury seat view](/images/Tempo_traveller_lux_seat_side.jpeg "Individual luxury seats with optimal comfort"]
 
 ## Vehicle Overview: 17‑Seater (Mega Tempo)
 

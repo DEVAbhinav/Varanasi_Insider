@@ -3,7 +3,7 @@ title: "Ganga Aarti Dashashwamedh: Timings Today (2025) [Guide]"
 slug: "dashashwamedh-ghat-ganga-aarti-timing"
 date: "2025-07-22"
 lastUpdated: "2025-07-22"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing/"
 featuredImage: "/images/posts/dashashwamedh-ghat-aarti.jpg"

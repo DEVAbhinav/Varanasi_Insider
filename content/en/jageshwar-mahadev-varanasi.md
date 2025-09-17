@@ -3,7 +3,7 @@ title: "Jageshwar Mahadev Varanasi: Temple Guide [2025]"
 slug: "jageshwar-mahadev-varanasi"
 date: "2025-07-25"
 lastUpdated: "2025-07-25"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/jageshwar-mahadev-varanasi-guide/"
 featuredImage: "/images/varanasi-kal-bhairav-p.jpeg"

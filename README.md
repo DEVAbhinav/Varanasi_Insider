@@ -74,7 +74,7 @@ This is the core workflow of the project. Every new article is a new Markdown fi
    title: 'My Awesome New Post Title'
    slug: 'my-new-post'
    date: '2025-07-21'
-   author: 'Abhinav Pandey'
+   author: 'Kamal Nayan Singh'
    featuredImage: '/images/posts/my-new-image.jpg'
    description: 'A short, compelling summary of the article for SEO.'
    tags: ['guide', 'food', 'varanasi']

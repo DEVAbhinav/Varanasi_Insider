@@ -3,7 +3,7 @@ title: "Varanasi to Prayagraj Tour Package [2025 Guide]"
 slug: "varanasi-to-prayagraj"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/prayagraj.jpg"
 description: "Varanasi to Prayagraj tour package: distance, route, fares and Kashi–Triveni Sangam day trip itinerary. Plan your yatra and book easily."

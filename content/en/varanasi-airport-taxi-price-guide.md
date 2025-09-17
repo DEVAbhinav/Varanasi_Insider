@@ -3,7 +3,7 @@ title: "Varanasi Airport Taxi Fare 2025: City/Assi/Dashashwamedh"
 slug: "varanasi-airport-taxi-price-guide"
 date: "2025-07-27"
 lastUpdated: "2025-07-27"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/airport-taxi-600x400.jpeg"
 description: "Sedan ₹700–900, SUV ₹1,100–1,400 incl. tolls. Fixed fares to City/Assi/Dashashwamedh. Night charges, waiting—WhatsApp to book."

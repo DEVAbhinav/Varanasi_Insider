@@ -3,7 +3,7 @@ title: "Varanasi in February 2026: Weather & Mahashivratri [Guide]"
 slug: "varanasi-in-february-2026"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/varanasi-sunrise-p.jpeg"
 description: "Planning a trip to Varanasi in February 2026? Get the Mahashivratri date, weather info, what to wear, and expert tips for the best experience."

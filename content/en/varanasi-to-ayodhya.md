@@ -3,7 +3,7 @@ title: "Varanasi to Ayodhya Tour Package [2025 Guide]"
 slug: "varanasi-to-ayodhya"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/blogAyodhya.jpg"
 description: "Plan your Kashi–Ayodhya yatra: distance, fares and day‑by‑day itinerary with Prayagraj. 2025 taxi package costs and tips. Get the plan."

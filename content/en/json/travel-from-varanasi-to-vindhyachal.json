@@ -1,0 +1,210 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal#blog",
+      "url": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal",
+      "headline": "Travel from Varanasi to Vindhyachal: Taxi, Tempo Traveller, Train & Bus Guide 2025",
+      "description": "Definitive 2025 guide to travel from Varanasi to Vindhyachal. Compare taxi, tempo traveller, train, and bus options with fares, timings, route tips, and booking advice—ideal for pilgrims planning Trikon Parikrama or Navratri visit.",
+      "image": "https://www.kashitaxi.in/images/Vindhyachal2.jpg",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-09-17",
+      "dateModified": "2025-09-17",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh",
+        "description": "Local transport & pilgrimage logistics expert for travel from Varanasi to Vindhyachal"
+      },
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization",
+        "@type": "Organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      },
+      "mainEntityOfPage": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal",
+      "keywords": [
+        "travel from varanasi to vindhyachal",
+        "taxi for vindhyachal",
+        "tempo travellers for vindhyachal",
+        "varanasi to vindhyachal distance",
+        "varanasi to vindhyachal cab fare",
+        "varanasi to vindhyachal train",
+        "varanasi to vindhyachal bus",
+        "vindhyachal travel guide",
+        "varanasi to vindhyachal tempo traveller"
+      ],
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the best way to travel from Varanasi to Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The best way to travel from Varanasi to Vindhyachal is by private taxi for comfort and flexibility (1.5–2 hours). Tempo Travellers are ideal for groups, while trains and UPSRTC buses are cheapest but less flexible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the Varanasi to Vindhyachal distance and travel time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The road distance from Varanasi to Vindhyachal is 60–70 km via NH19 and typically takes 1.5 to 2 hours by taxi, depending on traffic and festival congestion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is a taxi for Vindhyachal from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A taxi for Vindhyachal from Varanasi costs ₹2,000–₹2,500 (base 250 km package) for hatchback/sedan round-trip with waiting; SUVs cost ₹3,000–₹3,800; Tempo Travellers start ₹8,000+."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Tempo Travellers for Vindhyachal available from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Tempo Travellers (12–17 seater) from Varanasi to Vindhyachal are widely available and ideal for parikrama groups, costing ₹8,000–₹12,000 round-trip including waiting (Navratri surges extra)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which station is better: Vindhyachal or Mirzapur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vindhyachal (BDL) station is only ~1 km from the temple but has fewer train halts; Mirzapur (MZP) has more trains and better connectivity but is 7–9 km away—autos/taxis needed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there direct buses from Varanasi to Vindhyachal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "UPSRTC non-AC buses to Mirzapur/Vindhyachal depart every 30–60 minutes from Varanasi Cantt (Roadways) stand; avoid booking to 'Vindhyanagar' (different place)."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal#trip",
+      "name": "Travel from Varanasi to Vindhyachal",
+      "description": "All transport options including taxi, tempo traveller, train and bus for pilgrims traveling from Varanasi to Vindhyachal in 2025",
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Depart Varanasi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Vindhyavasini Temple Darshan"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kali Khoh Temple"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Ashtabhuja Temple"
+          }
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceRange": "₹2,000 - ₹12,000",
+        "priceCurrency": "INR",
+        "description": "Transport options from basic taxi to full tempo traveller package"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal#service",
+      "name": "Taxi for Vindhyachal",
+      "serviceType": "Transport Service",
+      "areaServed": {
+        "@type": "Place",
+        "name": "Varanasi"
+      },
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceRange": "₹2,000 - ₹3,800",
+        "priceCurrency": "INR",
+        "description": "Round-trip taxi packages to Vindhyachal with waiting"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal#tempoTravellerService",
+      "name": "Tempo Travellers for Vindhyachal",
+      "serviceType": "Group Transport",
+      "areaServed": {
+        "@type": "Place",
+        "name": "Varanasi"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "lowPrice": "8000",
+        "highPrice": "12000",
+        "priceCurrency": "INR",
+        "offerCount": 2,
+        "description": "Tempo Traveller group transport packages 12–17 seaters"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Travel from Varanasi to Vindhyachal: Taxi, Tempo Traveller, Train & Bus Guide 2025",
+          "item": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal"
+        }
+      ]
+    }
+  ]
+}

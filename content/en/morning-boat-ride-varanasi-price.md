@@ -3,7 +3,7 @@ title: "Morning Boat Ride Varanasi: Prices [2025 Guide]"
 slug: "morning-boat-ride-varanasi-price"
 date: "2025-08-01"
 lastUpdated: "2025-08-01"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/sunriseBoatRide.jpeg"
 description: "Morning boat ride Varanasi prices for shared and private boats. Negotiation tips and booking advice. See costs and plan your sunrise."

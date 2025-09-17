@@ -3,7 +3,7 @@ title: "Best Time to Visit Varanasi: A 2025 Guide to Weather & Festivals"
 slug: "best-time-to-visit-varanasi"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/varanasi-best-time-600x400.jpeg"
 description: "Discover the best time to visit Varanasi in 2025. Our guide covers weather, festivals like Dev Deepawali, crowd levels, and monthly travel tips."

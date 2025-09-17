@@ -3,7 +3,7 @@ title: "Varanasi in Monsoon 2025: July–Sept [Guide]"
 slug: "varanasi-in-monsoon-july-september-2025"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/pink-sky-ghat-varanasi-l.jpeg"
 description: "Varanasi in September–monsoon: rain 200–300 mm, humid, fewer crowds. Safety, boat status, what to wear & should you visit? Get local tips."

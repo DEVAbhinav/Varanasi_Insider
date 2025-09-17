@@ -3,7 +3,7 @@ title: "Varanasi Day Tour Cab Charges 2025: Packages [Guide]"
 slug: "varanasi-day-tour-cab-charges"
 date: "2025-07-28"
 lastUpdated: "2025-07-28"
-author: "Abhinav Pandey"
+author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/Sighseeing1.png"
 description: "Varanasi day tour cab charges: compare 8hr/80km and 12hr/200km packages by car type. What’s included and typical 2025 pricing. Get a quote."
