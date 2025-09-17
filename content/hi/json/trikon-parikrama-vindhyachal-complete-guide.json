@@ -1,0 +1,297 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.kashitaxi.in/hi/trikon-parikrama-vindhyachal-complete-guide#blogpost",
+      "headline": "विंध्याचल त्रिकोण परिक्रमा गाइड: विंध्यवासिनी, काली खोह, अष्टभुजी मंदिर दर्शन 2025",
+      "description": "विंध्याचल त्रिकोण परिक्रमा की संपूर्ण गाइड 2025। विंध्यवासिनी देवी, काली खोह और अष्टभुजी देवी मंदिरों का महत्व, मार्ग, दर्शन समय, परिक्रमा नियम और पूजा विधि—आध्यात्मिक लाभ के लिए स्थानीय अंतर्दृष्टि।",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/images/Vindhyachal1.jpg",
+        "width": 1200,
+        "height": 630
+      },
+      "author": {
+        "@type": "Person",
+        "name": "कमल नयन सिंह",
+        "url": "https://www.kashitaxi.in/about"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Kashi Taxi",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/logo.png",
+          "width": 200,
+          "height": 60
+        }
+      },
+      "datePublished": "2025-09-17",
+      "dateModified": "2025-09-17",
+      "inLanguage": "hi-IN",
+      "articleSection": "परिक्रमा गाइड",
+      "keywords": "विंध्याचल त्रिकोण परिक्रमा, विंध्यवासिनी देवी मंदिर, काली खोह मंदिर, अष्टभुजी देवी मंदिर, त्रिकोण परिक्रमा मार्ग, विंध्याचल परिक्रमा गाइड",
+      "about": [
+        {
+          "@type": "Place",
+          "name": "विंध्याचल त्रिकोण",
+          "description": "तीन पवित्र मंदिरों का त्रिकोण"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/hi/trikon-parikrama-vindhyachal-complete-guide#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "विंध्याचल त्रिकोण परिक्रमा क्या है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "विंध्याचल त्रिकोण परिक्रमा तीन पवित्र मंदिरों की परिक्रमा है: विंध्यवासिनी देवी मंदिर (मुख्य), काली खोह मंदिर (3 किमी), और अष्टभुजी देवी मंदिर (7 किमी)। इन तीनों मंदिरों के दर्शन से पूर्ण फल मिलता है।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "त्रिकोण परिक्रमा में कितना समय लगता है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "त्रिकोण परिक्रमा में सामान्यतः 3-4 घंटे लगते हैं यदि प्रत्येक मंदिर में दर्शन और पूजा करते हैं। केवल दर्शन के लिए 2-2.5 घंटे पर्याप्त हैं। नवरात्रि में भीड़ के कारण अतिरिक्त समय लग सकता है।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "त्रिकोण परिक्रमा का सही क्रम क्या है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "त्रिकोण परिक्रमा का सही क्रम है: पहले विंध्यवासिनी देवी मंदिर, फिर काली खोह मंदिर, और अंत में अष्टभुजी देवी मंदिर। कुछ भक्त विपरीत क्रम में भी करते हैं, दोनों मान्य हैं।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "काली खोह मंदिर की क्या विशेषता है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "काली खोह मंदिर एक प्राकृतिक भूमिगत गुफा में स्थित है जहां माता काली की मूर्ति है। यहां एक समय में केवल 2-3 व्यक्ति ही प्रवेश कर सकते हैं। गुफा में अंधेरा है और फ्लैशलाइट की जरूरत होती है।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "अष्टभुजी देवी मंदिर कहां स्थित है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "अष्टभुजी देवी मंदिर मिर्जापुर जिले में विंध्यवासिनी मंदिर से लगभग 7 किमी दूर स्थित है। यहां आठ भुजाओं वाली देवी की प्रतिमा है। मंदिर पहाड़ी पर स्थित है और सुंदर दृश्य दिखता है।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "त्रिकोण परिक्रमा के लिए वाहन की जरूरत है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "हां, त्रिकोण परिक्रमा के लिए वाहन आवश्यक है क्योंकि तीनों मंदिर अलग-अलग स्थानों पर हैं। टैक्सी, ऑटो, या टेम्पो ट्रैवलर बुक कर सकते हैं। पैदल यात्रा संभव नहीं है।"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Guide",
+      "@id": "https://www.kashitaxi.in/hi/trikon-parikrama-vindhyachal-complete-guide#parikramaguide",
+      "name": "विंध्याचल त्रिकोण परिक्रमा गाइड",
+      "description": "विंध्याचल की पवित्र त्रिकोण परिक्रमा की संपूर्ण जानकारी",
+      "about": {
+        "@type": "TouristDestination",
+        "name": "विंध्याचल त्रिकोण",
+        "description": "तीन पवित्र देवी मंदिरों का त्रिकोण"
+      }
+    },
+    {
+      "@type": "TouristTrip",
+      "@id": "https://www.kashitaxi.in/hi/trikon-parikrama-vindhyachal-complete-guide#trikonparikrama",
+      "name": "विंध्याचल त्रिकोण परिक्रमा",
+      "description": "तीन पवित्र देवी मंदिरों की आध्यात्मिक परिक्रमा",
+      "touristType": "Religious",
+      "duration": "PT3H",
+      "itinerary": [
+        {
+          "@type": "TouristAttraction",
+          "name": "विंध्यवासिनी देवी मंदिर",
+          "description": "मुख्य शक्तिपीठ मंदिर",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "विंध्याचल",
+            "addressRegion": "उत्तर प्रदेश",
+            "addressCountry": "भारत"
+          }
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "काली खोह मंदिर",
+          "description": "भूमिगत गुफा में स्थित माता काली का मंदिर",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "विंध्याचल",
+            "addressRegion": "उत्तर प्रदेश",
+            "addressCountry": "भारत"
+          }
+        },
+        {
+          "@type": "TouristAttraction",
+          "name": "अष्टभुजी देवी मंदिर",
+          "description": "आठ भुजाओं वाली देवी का पवित्र मंदिर",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "मिर्जापुर",
+            "addressRegion": "उत्तर प्रदेश",
+            "addressCountry": "भारत"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.kashitaxi.in/hi/trikon-parikrama-vindhyachal-complete-guide#templelist",
+      "name": "त्रिकोण परिक्रमा मंदिर सूची",
+      "description": "विंध्याचल त्रिकोण परिक्रमा के तीन मुख्य मंदिर",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Place",
+            "name": "विंध्यवासिनी देवी मंदिर",
+            "description": "मुख्य शक्तिपीठ - आदि शक्ति का निवास",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.2677",
+              "longitude": "82.6794"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "विंध्याचल",
+              "addressRegion": "उत्तर प्रदेश",
+              "postalCode": "231313",
+              "addressCountry": "भारत"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Place",
+            "name": "काली खोह मंदिर",
+            "description": "भूमिगत गुफा मंदिर - माता काली का निवास",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.2588",
+              "longitude": "82.6911"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "विंध्याचल",
+              "addressRegion": "उत्तर प्रदेश",
+              "postalCode": "231313",
+              "addressCountry": "भारत"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Place",
+            "name": "अष्टभुजी देवी मंदिर",
+            "description": "आठ भुजाओं वाली देवी का मंदिर",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "25.3012",
+              "longitude": "82.7156"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "मिर्जापुर",
+              "addressRegion": "उत्तर प्रदेश",
+              "postalCode": "231001",
+              "addressCountry": "भारत"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Route",
+      "@id": "https://www.kashitaxi.in/hi/trikon-parikrama-vindhyachal-complete-guide#parikramaroute",
+      "name": "त्रिकोण परिक्रमा मार्ग",
+      "description": "विंध्याचल त्रिकोण परिक्रमा का पूरा मार्ग",
+      "distance": "15-18 किमी",
+      "estimatedTime": "PT3H",
+      "routeType": "Road",
+      "waypoints": [
+        {
+          "@type": "Place",
+          "name": "विंध्यवासिनी देवी मंदिर",
+          "description": "परिक्रमा का प्रारंभ स्थल"
+        },
+        {
+          "@type": "Place",
+          "name": "काली खोह मंदिर",
+          "description": "दूसरा पड़ाव - भूमिगत गुफा मंदिर"
+        },
+        {
+          "@type": "Place",
+          "name": "अष्टभुजी देवी मंदिर",
+          "description": "तीसरा और अंतिम पड़ाव"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/hi/trikon-parikrama-vindhyachal-complete-guide#parikramaservice",
+      "name": "त्रिकोण परिक्रमा परिवहन सेवा",
+      "description": "विंध्याचल त्रिकोण परिक्रमा के लिए विशेष परिवहन सेवा",
+      "provider": {
+        "@type": "Organization",
+        "name": "Kashi Taxi",
+        "telephone": "+91-94503-01573",
+        "url": "https://www.kashitaxi.in"
+      },
+      "serviceType": "Religious Transportation",
+      "areaServed": {
+        "@type": "Place",
+        "name": "विंध्याचल त्रिकोण"
+      },
+      "offers": {
+        "@type": "Offer",
+        "name": "त्रिकोण परिक्रमा पैकेज",
+        "price": "800-1200",
+        "priceCurrency": "INR",
+        "description": "तीनों मंदिरों की परिक्रमा के लिए वाहन सेवा"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/hi/trikon-parikrama-vindhyachal-complete-guide#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "होम",
+          "item": "https://www.kashitaxi.in/hi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "परिक्रमा गाइड",
+          "item": "https://www.kashitaxi.in/hi/parikrama-guides"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "विंध्याचल त्रिकोण परिक्रमा",
+          "item": "https://www.kashitaxi.in/hi/trikon-parikrama-vindhyachal-complete-guide"
+        }
+      ]
+    }
+  ]
+}

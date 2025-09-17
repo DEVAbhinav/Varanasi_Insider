@@ -1,0 +1,287 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-itinerary#blogpost",
+      "headline": "वाराणसी से विंध्याचल यात्रा योजना: 1-दिन और 2-दिन की पूर्ण गाइड 2025",
+      "description": "वाराणसी से विंध्याचल यात्रा के लिए अंतिम विस्तृत यात्रा योजना। 1-दिन और 2-दिन की रणनीतियों में त्रिकोण परिक्रमा, दर्शन समय, भोजन सुझाव, नवरात्रि विशेष कार्यक्रम और परिवहन सलाह शामिल हैं—दिल्ली, मुंबई या वाराणसी से तीर्थयात्रियों के लिए आदर्श।",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/images/Vindhyachal1.jpg",
+        "width": 1200,
+        "height": 630
+      },
+      "author": {
+        "@type": "Person",
+        "name": "कमल नयन सिंह",
+        "url": "https://www.kashitaxi.in/about"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Kashi Taxi",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/logo.png",
+          "width": 200,
+          "height": 60
+        }
+      },
+      "datePublished": "2025-09-17",
+      "dateModified": "2025-09-17",
+      "inLanguage": "hi-IN",
+      "articleSection": "यात्रा योजना",
+      "keywords": "वाराणसी से विंध्याचल यात्रा योजना, विंध्याचल 1 दिन यात्रा योजना, विंध्याचल 2 दिन यात्रा योजना, त्रिकोण परिक्रमा योजना, विंध्याचल दर्शन समय सारणी, नवरात्रि विंध्याचल यात्रा योजना",
+      "about": [
+        {
+          "@type": "TouristTrip",
+          "name": "विंध्याचल तीर्थयात्रा",
+          "description": "वाराणसी से विंध्याचल की संपूर्ण तीर्थयात्रा"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-itinerary#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "वाराणसी से विंध्याचल 1 दिन में कवर हो सकता है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "हां, वाराणसी से विंध्याचल 1 दिन में कवर हो सकता है। सुबह 5:30 पर निकलकर त्रिकोण परिक्रमा, मुख्य मंदिर दर्शन और सायं 7:00 तक वाराणसी वापसी संभव है। हालांकि रुका हुआ दर्शन के लिए 2 दिन बेहतर हैं।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "त्रिकोण परिक्रमा पूरी करने में कितना समय लगता है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "त्रिकोण परिक्रमा पूरी करने में 3-4 घंटे लगते हैं यदि आप प्रत्येक मंदिर में दर्शन और पूजा करते हैं। केवल दर्शन के लिए 2-2.5 घंटे पर्याप्त हैं।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "विंध्याचल में दर्शन का सबसे अच्छा समय क्या है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "विंध्याचल में दर्शन का सबसे अच्छा समय सुबह 6:00–9:00 AM और शाम 5:00–7:00 PM है जब भीड़ कम होती है। नवरात्रि के दौरान सुबह जल्दी जाना बेहतर है।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "विंध्याचल में स्थानीय भोजन की क्या सिफारिशें हैं?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "विंध्याचल में शुद्ध शाकाहारी भोजन उपलब्ध है। स्थानीय व्यंजनों में कचौड़ी-सब्जी, जलेबी, ठंडाई, और धर्मशाला में सरल भोजन शामिल हैं। मंदिर के निकट कई भोजनालय हैं।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "नवरात्रि में विंध्याचल यात्रा की विशेष तैयारी क्या करनी चाहिए?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "नवरात्रि में 2-3 दिन पहले बुकिंग करें, सुबह जल्दी पहुंचें (5:00-6:00 AM), आरामदायक जूते पहनें, पानी की बोतल लें, और भीड़ के लिए धैर्य रखें। विशेष पूजा के लिए ऑनलाइन बुकिंग करें।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "वाराणसी से विंध्याचल यात्रा में कुल कितना खर्च आता है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "वाराणसी से विंध्याचल 1-दिन की यात्रा में परिवहन ₹2,000-2,500, भोजन ₹300-500, दक्षिणा ₹200-500 मिलाकर प्रति व्यक्ति ₹2,500-3,500 का खर्च आता है।"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-itinerary#1daytrip",
+      "name": "वाराणसी से विंध्याचल 1-दिन यात्रा",
+      "description": "वाराणसी से विंध्याचल की संपूर्ण 1-दिन तीर्थयात्रा",
+      "offers": {
+        "@type": "Offer",
+        "price": "2500-3500",
+        "priceCurrency": "INR",
+        "description": "प्रति व्यक्ति 1-दिन यात्रा लागत"
+      },
+      "itinerary": [
+        {
+          "@type": "TouristTrip",
+          "name": "प्रस्थान",
+          "description": "वाराणसी से प्रस्थान",
+          "startTime": "05:30",
+          "endTime": "07:30"
+        },
+        {
+          "@type": "TouristTrip", 
+          "name": "त्रिकोण परिक्रमा",
+          "description": "विंध्यवासिनी, काली खोह, अष्टभुजी मंदिर दर्शन",
+          "startTime": "07:30",
+          "endTime": "12:00"
+        },
+        {
+          "@type": "TouristTrip",
+          "name": "दोपहर का भोजन",
+          "description": "स्थानीय भोजन और आराम",
+          "startTime": "12:00", 
+          "endTime": "13:00"
+        },
+        {
+          "@type": "TouristTrip",
+          "name": "वापसी",
+          "description": "वाराणसी वापसी",
+          "startTime": "17:30",
+          "endTime": "19:30"
+        }
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-itinerary#2daytrip",
+      "name": "वाराणसी से विंध्याचल 2-दिन यात्रा",
+      "description": "वाराणसी से विंध्याचल की विस्तृत 2-दिन तीर्थयात्रा",
+      "offers": {
+        "@type": "Offer",
+        "price": "3900-6600",
+        "priceCurrency": "INR",
+        "description": "प्रति व्यक्ति 2-दिन यात्रा लागत"
+      },
+      "duration": "P2D",
+      "itinerary": [
+        {
+          "@type": "TouristTrip",
+          "name": "दिन 1 - आगमन",
+          "description": "विंध्याचल पहुंचना और प्रारंभिक दर्शन",
+          "startTime": "12:00",
+          "endTime": "21:00"
+        },
+        {
+          "@type": "TouristTrip",
+          "name": "दिन 2 - परिक्रमा",
+          "description": "संपूर्ण त्रिकोण परिक्रमा और वापसी",
+          "startTime": "06:00",
+          "endTime": "17:00"
+        }
+      ]
+    },
+    {
+      "@type": "Schedule",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-itinerary#schedule",
+      "name": "विंध्याचल दर्शन समय सारणी",
+      "description": "विंध्याचल मंदिरों की दैनिक दर्शन समय सारणी",
+      "scheduleTimezone": "Asia/Kolkata",
+      "byDay": [
+        {
+          "@type": "OpeningHoursSpecification", 
+          "dayOfWeek": "Monday",
+          "opens": "05:00",
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Tuesday", 
+          "opens": "05:00",
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Wednesday",
+          "opens": "05:00", 
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Thursday",
+          "opens": "05:00",
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Friday",
+          "opens": "05:00",
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "05:00",
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHouresSpecification",
+          "dayOfWeek": "Sunday",
+          "opens": "05:00", 
+          "closes": "22:00"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-itinerary#costbreakdown",
+      "name": "विंध्याचल यात्रा लागत विवरण",
+      "description": "वाराणसी से विंध्याचल यात्रा की विस्तृत लागत",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "परिवहन",
+          "description": "टैक्सी राउंड ट्रिप: ₹2,000-2,500"
+        },
+        {
+          "@type": "ListItem", 
+          "position": 2,
+          "name": "भोजन",
+          "description": "दैनिक भोजन: ₹300-500"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "दक्षिणा",
+          "description": "मंदिर दक्षिणा: ₹200-500"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "विविध",
+          "description": "पार्किंग और अन्य: ₹100-200"
+        }
+      ]
+    },
+    {
+      "@type": "Guide",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-itinerary#guide",
+      "name": "विंध्याचल यात्रा गाइड",
+      "description": "वाराणसी से विंध्याचल यात्रा की संपूर्ण गाइड",
+      "about": {
+        "@type": "TouristDestination",
+        "name": "विंध्याचल",
+        "description": "प्रसिद्ध शक्तिपीठ विंध्याचल"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-itinerary#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "होम",
+          "item": "https://www.kashitaxi.in/hi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "यात्रा योजना",
+          "item": "https://www.kashitaxi.in/hi/itineraries"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "वाराणसी से विंध्याचल यात्रा योजना",
+          "item": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-itinerary"
+        }
+      ]
+    }
+  ]
+}
