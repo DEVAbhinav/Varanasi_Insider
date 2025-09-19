@@ -1,0 +1,208 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit#trip",
+      "name": "Prayagraj Ayodhya Chitrakoot Circuit (Tempo Traveller 3–4 Day)",
+      "description": "3–4 day Prayagraj Ayodhya Chitrakoot circuit from Varanasi: Sangam snan, Ayodhya Ram Mandir phased darshan, Chitrakoot parikrama sequencing.",
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Day 1: Varanasi → Prayagraj (Sangam) → Ayodhya"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Day 2: Ayodhya immersion (Ram Mandir, Hanuman Garhi, Kanak Bhawan)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Day 3: Ayodhya → Chitrakoot (Ram Ghat, Gupt Godavari)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Day 4 (optional): Chitrakoot depth (Kamad Giri, Sphatik Shila) → Varanasi"
+          }
+        ]
+      },
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Prayagraj"
+        },
+        {
+          "@type": "City",
+          "name": "Ayodhya"
+        },
+        {
+          "@type": "Place",
+          "name": "Chitrakoot"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "description": "12 seater 4D example ~1000–1050 km @ ₹24/km + allowances + tolls (₹28,000–29,800 excl. lodging)."
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is 3 days enough for the Prayagraj Ayodhya Chitrakoot circuit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes for core darshan; add a 4th day for deeper Ram Katha sittings & broader Chitrakoot coverage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best sequence order?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Prayagraj → Ayodhya → Chitrakoot minimizes backtracking; reverse only for Ayodhya event constraints."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which vehicle size for 11 pilgrims?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12 seater for aisle comfort; upgrade to 17 seater if elderly travellers + larger bags present."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to mitigate peak crowd?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dawn Sangam immersion, early Ayodhya entry, mid‑morning Chitrakoot ghats, disciplined pre‑dawn departures."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is night driving required?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No with proper starts; only dusk arrivals if darshan windows slip."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit#sites",
+      "name": "Circuit Core Sites",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Triveni Sangam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ram Mandir Ayodhya"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hanuman Garhi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Kanak Bhawan"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ram Ghat Chitrakoot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Kamad Giri"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit#webpage",
+      "url": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit",
+      "name": "Prayagraj Ayodhya Chitrakoot Circuit Tempo Traveller Guide",
+      "datePublished": "2025-09-19",
+      "dateModified": "2025-09-19",
+      "inLanguage": "en-IN",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/images/prayagraj.jpg"
+      },
+      "about": {
+        "@id": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit#trip"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.kashitaxi.in#organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit"
+        }
+      ]
+    }
+  ]
+}

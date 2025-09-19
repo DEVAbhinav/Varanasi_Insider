@@ -1,0 +1,221 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.kashitaxi.in#website",
+      "url": "https://www.kashitaxi.in/",
+      "name": "Vinayak Travels",
+      "inLanguage": "en-IN",
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi#service",
+      "serviceType": "Corporate Tempo Traveller Hire Varanasi",
+      "name": "Corporate Group Tempo Traveller Varanasi",
+      "description": "Corporate Tempo Traveller hire in Varanasi for airport clusters, hotel-venue shuttles, offsites, CSR & educational visits. 9–26 seater AC fleet with dispatcher & SLAs.",
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Corporate Tempo Traveller Fleet",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "BusOrCoach",
+              "name": "9 Seater Corporate Tempo Traveller"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "4500",
+              "priceCurrency": "INR",
+              "description": "Local 8hr/80km"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "BusOrCoach",
+              "name": "12 Seater Corporate Tempo Traveller"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "5500",
+              "priceCurrency": "INR"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "BusOrCoach",
+              "name": "17 Seater Corporate Tempo Traveller"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "6000",
+              "priceCurrency": "INR"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "BusOrCoach",
+              "name": "20 Seater Corporate Tempo Traveller"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "6500",
+              "priceCurrency": "INR"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "BusOrCoach",
+              "name": "26 Seater Mini Coach"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "7000",
+              "priceCurrency": "INR"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "BusOrCoach",
+              "name": "Premium Urbania / Maharaja"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "7500",
+              "priceCurrency": "INR"
+            }
+          }
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.kashitaxi.in#organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do you manage multi-hotel corporate airport pickups in Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We cluster manifests by arrival time, assign order, share driver details 12–18h prior and create a dispatcher WhatsApp group for live ETAs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you provide GST invoice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. GST-compliant invoice issued—provide GSTIN and entity name at confirmation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you support schedule changes during conferences?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes—dispatcher evaluates slack and reissues updated timetable to all drivers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Best seating size for 14 delegates with kits?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "17 seater—gives spare seats for gear + aisle movement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Urbania useful for CXO movement?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes—1×1 recliner, quieter ride, premium interior for senior stakeholders."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi#webpage",
+      "url": "https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi",
+      "name": "Corporate Group Tempo Traveller Varanasi",
+      "isPartOf": {
+        "@id": "https://www.kashitaxi.in#website"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/images/Multi_Urbania-Square.jpeg"
+      },
+      "datePublished": "2025-09-18",
+      "dateModified": "2025-09-18",
+      "inLanguage": "en-IN",
+      "about": {
+        "@id": "https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi#service"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi"
+        }
+      ]
+    }
+  ]
+}

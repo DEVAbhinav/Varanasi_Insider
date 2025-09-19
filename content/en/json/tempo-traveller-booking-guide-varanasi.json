@@ -1,0 +1,127 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/tempo-traveller-booking-guide-varanasi#webpage",
+      "url": "https://www.kashitaxi.in/en/tempo-traveller-booking-guide-varanasi",
+      "name": "Tempo Traveller Booking Guide Varanasi",
+      "description": "Complete Tempo Traveller booking guide for Varanasi: enquiry steps, verification checklist, pricing structure, advance norms, cancellation models, fraud avoidance FAQs.",
+      "datePublished": "2025-09-19",
+      "dateModified": "2025-09-19",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.kashitaxi.in#organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.kashitaxi.in/en/tempo-traveller-booking-guide-varanasi#article",
+      "headline": "Tempo Traveller Booking Guide Varanasi",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh"
+      },
+      "datePublished": "2025-09-19",
+      "dateModified": "2025-09-19",
+      "inLanguage": "en-IN",
+      "mainEntityOfPage": {
+        "@id": "https://www.kashitaxi.in/en/tempo-traveller-booking-guide-varanasi#webpage"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/tempo-traveller-booking-guide-varanasi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How far in advance should we book a Tempo Traveller in Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Peak pilgrimage & winter weekends: 10–15 days; shoulder weekdays: 4–6 days; festival windows earlier preferred."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a normal advance amount?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "20–30% of projected hire; higher only for multi-state blocks or last-minute peak locking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do we get written confirmation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes—request a summary with dates, vehicle type, km rate, inclusions, driver allowance, escalation contact."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When do cancellation fees apply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": ">7 days: mostly refundable minus admin; 3–7 days: partial; <48 hrs: advance often retained."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to avoid fraud or broker padding?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Verify GST / business registration, request vehicle RC last digits, insist on traceable payment receipts."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/tempo-traveller-booking-guide-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/tempo-traveller-booking-guide-varanasi"
+        }
+      ]
+    }
+  ]
+}

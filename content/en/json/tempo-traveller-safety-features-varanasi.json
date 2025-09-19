@@ -1,0 +1,127 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/tempo-traveller-safety-features-varanasi#webpage",
+      "url": "https://www.kashitaxi.in/en/tempo-traveller-safety-features-varanasi",
+      "name": "Tempo Traveller Safety Features Varanasi",
+      "description": "Safety features & protocols for Tempo Traveller hire in Varanasi: vehicle checklist, driver standards, fatigue policy, night driving rules, emergency preparedness FAQs.",
+      "datePublished": "2025-09-19",
+      "dateModified": "2025-09-19",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.kashitaxi.in#organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.kashitaxi.in/en/tempo-traveller-safety-features-varanasi#article",
+      "headline": "Tempo Traveller Safety Features Varanasi",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh"
+      },
+      "datePublished": "2025-09-19",
+      "dateModified": "2025-09-19",
+      "inLanguage": "en-IN",
+      "mainEntityOfPage": {
+        "@id": "https://www.kashitaxi.in/en/tempo-traveller-safety-features-varanasi#webpage"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/tempo-traveller-safety-features-varanasi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do we verify a Tempo Traveller is safe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Inspect tyre tread, emergency exit clearance, fire extinguisher, seating integrity, recent service note."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is night highway driving allowed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Restricted to dusk arrivals; prolonged post‑10 PM highway push discouraged to mitigate fatigue risk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do drivers rotate on long multi-day circuits?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For >6 consecutive long days or >1,600 km overall, rotation or enforced rest introduced."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What emergency items should be aboard?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Basic first-aid kit, water reserve, torch, reflective triangle, functional fire extinguisher."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How to reduce motion fatigue for seniors?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Seat seniors front half, schedule hydration, maintain ventilation, cap drive blocks <2.5 hrs."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/tempo-traveller-safety-features-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/tempo-traveller-safety-features-varanasi"
+        }
+      ]
+    }
+  ]
+}

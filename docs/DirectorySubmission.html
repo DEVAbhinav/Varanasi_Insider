@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEO Directory Submission Guide for Travel Businesses</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Chosen Palette: Warm Neutrals -->
+    <!-- Application Structure Plan: A dashboard-style SPA designed for exploration. It starts with a strategic overview, followed by the core interactive tool: a filterable and sortable list of SEO directories. This is complemented by a dynamic bar chart for quick visual comparison. This structure was chosen to transform a static data list into a practical decision-making tool for a travel business owner, allowing them to filter directories by type (General, Niche, Local) and authority (DA score), directly addressing the user's need to find "good backlinks". -->
+    <!-- Visualization & Content Choices: Report Info: List of SEO directories with DA, type, and cost. Goal: Organize & Compare. Viz/Presentation: Interactive card-based grid and a dynamic bar chart. Interaction: Users can filter the grid and chart simultaneously by directory type (buttons) and DA score (slider). Justification: This dual-view (list + chart) allows for both detailed examination and high-level comparison, making the data more digestible and actionable. Library/Method: Vanilla JS for filtering and DOM updates, Chart.js (Canvas) for the responsive bar chart. CONFIRMING NO SVG/Mermaid. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #FDFBF8;
+            color: #333;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 400px;
+            max-height: 50vh;
+        }
+        .btn-active {
+            background-color: #3B82F6 !important;
+            color: white !important;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+        }
+        .card {
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+        }
+        .slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            background: #3B82F6;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+        input[type='range']::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            background: #3B82F6;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+        input[type='range']::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            background: #3B82F6;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <header class="text-center mb-12">
+            <h1 class="text-4xl md:text-5xl font-bold text-gray-800 tracking-tight">Interactive Guide to SEO Directory Submissions</h1>
+            <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">An essential tool for travel businesses to build high-quality backlinks and boost online visibility.</p>
+        </header>
+
+        <main>
+            <section id="strategy" class="mb-16">
+                 <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">Strategy Corner</h2>
+                 <div class="max-w-4xl mx-auto bg-white p-8 rounded-xl shadow-md">
+                    <p class="text-gray-700 mb-6">Directory submission remains a cornerstone of off-page SEO. For travel companies, being listed in high-authority and niche-specific directories not only provides valuable backlinks but also drives relevant traffic and builds brand trust. This interactive tool is designed to help you navigate and prioritize the best platforms for your business. Use the filters below to customize the directory list and find the perfect fit for your SEO strategy.</p>
+                     <div class="grid md:grid-cols-2 gap-6">
+                        <div class="bg-blue-50 p-6 rounded-lg">
+                            <h3 class="font-bold text-lg text-blue-800 mb-2">✓ Consistency is Crucial</h3>
+                            <p class="text-blue-700">Ensure your NAP (Name, Address, Phone Number) is identical across every single listing. Inconsistencies can confuse search engines and dilute your local SEO authority.</p>
+                        </div>
+                        <div class="bg-green-50 p-6 rounded-lg">
+                            <h3 class="font-bold text-lg text-green-800 mb-2">✓ Complete Your Profile</h3>
+                            <p class="text-green-700">Don't cut corners. Fill out every available field with rich information, including high-quality photos, detailed service descriptions, and accurate business hours.</p>
+                        </div>
+                        <div class="bg-yellow-50 p-6 rounded-lg">
+                            <h3 class="font-bold text-lg text-yellow-800 mb-2">✓ Prioritize Relevance</h3>
+                            <p class="text-yellow-700">While general high-DA sites are good, niche travel directories and local listings often provide more qualified traffic and stronger relevance signals to Google.</p>
+                        </div>
+                        <div class="bg-red-50 p-6 rounded-lg">
+                            <h3 class="font-bold text-lg text-red-800 mb-2">✓ Track Everything</h3>
+                            <p class="text-red-700">Maintain a simple spreadsheet to track your submissions. Note your login details, submission dates, and the final live URL for each directory.</p>
+                        </div>
+                     </div>
+                 </div>
+            </section>
+            
+            <section id="explorer" class="bg-white p-6 sm:p-8 rounded-2xl shadow-lg">
+                <div class="mb-8">
+                     <h2 class="text-3xl font-bold text-center mb-2 text-gray-800">Directory Explorer</h2>
+                     <p class="text-center text-gray-600">Use the filters to find the best directories for your business.</p>
+                </div>
+
+                <div class="flex flex-col md:flex-row justify-between items-center gap-6 mb-8 p-4 bg-gray-50 rounded-lg">
+                    <div id="category-filters" class="flex flex-wrap justify-center gap-2">
+                        <button data-filter="All" class="filter-btn btn-active px-4 py-2 text-sm font-medium bg-white border border-gray-300 rounded-full hover:bg-gray-100">All</button>
+                        <button data-filter="General" class="filter-btn px-4 py-2 text-sm font-medium bg-white border border-gray-300 rounded-full hover:bg-gray-100">General</button>
+                        <button data-filter="Niche" class="filter-btn px-4 py-2 text-sm font-medium bg-white border border-gray-300 rounded-full hover:bg-gray-100">Niche Travel</button>
+                        <button data-filter="Local" class="filter-btn px-4 py-2 text-sm font-medium bg-white border border-gray-300 rounded-full hover:bg-gray-100">Local</button>
+                    </div>
+
+                    <div class="w-full md:w-1/3">
+                        <label for="da-slider" class="block mb-2 text-sm font-medium text-gray-900 text-center md:text-left">Domain Authority (DA) ≥ <span id="da-value" class="font-bold">0</span></label>
+                        <input id="da-slider" type="range" min="0" max="100" value="0" class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer">
+                    </div>
+                </div>
+
+                <div id="directory-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                </div>
+                 <p id="no-results" class="text-center text-gray-500 py-10 hidden">No directories match your criteria. Try adjusting the filters.</p>
+            </section>
+            
+            <section id="visualization" class="mt-16">
+                 <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">Domain Authority Comparison</h2>
+                 <div class="bg-white p-4 sm:p-8 rounded-xl shadow-lg">
+                    <p class="text-center text-gray-600 mb-6">This chart visualizes the Domain Authority of the selected directories, helping you quickly identify the most powerful backlink opportunities.</p>
+                    <div class="chart-container">
+                        <canvas id="daChart"></canvas>
+                    </div>
+                 </div>
+            </section>
+
+        </main>
+        
+        <footer class="text-center mt-16 py-6 border-t">
+            <p class="text-gray-500">Generated by Interactive Reporting Solutions</p>
+        </footer>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const directoryData = [
+                { name: 'Google Business Profile', da: 100, type: 'Local', submission: 'Free', url: 'https://www.google.com/business/' },
+                { name: 'Apple Maps Connect', da: 100, type: 'Local', submission: 'Free', url: 'https://mapsconnect.apple.com/' },
+                { name: 'Bing Places', da: 95, type: 'Local', submission: 'Free', url: 'https://www.bingplaces.com/' },
+                { name: 'Yelp', da: 94, type: 'General', submission: 'Freemium', url: 'https://www.yelp.com/' },
+                { name: 'Tripadvisor', da: 93, type: 'Niche', submission: 'Freemium', url: 'https://www.tripadvisor.com/Owners' },
+                { name: 'Yellow Pages', da: 92, type: 'General', submission: 'Freemium', url: 'https://www.yp.com/' },
+                { name: 'Foursquare', da: 92, type: 'General', submission: 'Free', url: 'https://foursquare.com/business/' },
+                { name: 'Lonely Planet', da: 92, type: 'Niche', submission: 'Editorial', url: 'https://www.lonelyplanet.com/' },
+                { name: 'Viator', da: 88, type: 'Niche', submission: 'Partnership', url: 'https://www.viator.com/suppliers' },
+                { name: 'Spoke', da: 80, type: 'General', submission: 'Free', url: 'https://www.spoke.com/' },
+                { name: 'TravelPulse', da: 79, type: 'Niche', submission: 'Paid', url: 'https://www.travelpulse.com/' },
+                { name: 'Hotfrog', da: 75, type: 'General', submission: 'Freemium', url: 'https://www.hotfrog.com/' },
+                { name: 'TourRadar', da: 74, type: 'Niche', submission: 'Partnership', url: 'https://www.tourradar.com/operators' },
+                { name: 'Wanderu', da: 71, type: 'Niche', submission: 'Partnership', url: 'https://www.wanderu.com/' },
+                { name: 'Brownbook', da: 67, type: 'General', submission: 'Free', url: 'https://www.brownbook.net/' },
+                { name: 'State/City Tourism Board', da: 65, type: 'Local', submission: 'Partnership', url: '#' },
+                { name: 'Local Chamber of Commerce', da: 55, type: 'Local', submission: 'Membership', url: '#' },
+            ];
+
+            let currentFilter = 'All';
+            let currentDa = 0;
+            let daChart;
+
+            const grid = document.getElementById('directory-grid');
+            const noResults = document.getElementById('no-results');
+            const daSlider = document.getElementById('da-slider');
+            const daValue = document.getElementById('da-value');
+            const categoryFilters = document.getElementById('category-filters');
+
+            function getSubmissionClass(submission) {
+                switch (submission) {
+                    case 'Free': return 'bg-green-100 text-green-800';
+                    case 'Freemium': return 'bg-blue-100 text-blue-800';
+                    case 'Paid': return 'bg-yellow-100 text-yellow-800';
+                    case 'Partnership': return 'bg-purple-100 text-purple-800';
+                    case 'Editorial': return 'bg-gray-100 text-gray-800';
+                    case 'Membership': return 'bg-indigo-100 text-indigo-800';
+                    default: return 'bg-gray-100 text-gray-800';
+                }
+            }
+            
+            function renderDirectories(data) {
+                grid.innerHTML = '';
+                if (data.length === 0) {
+                    noResults.classList.remove('hidden');
+                } else {
+                    noResults.classList.add('hidden');
+                }
+
+                data.forEach(dir => {
+                    const card = `
+                        <div class="card bg-white rounded-lg shadow-md overflow-hidden border border-gray-200 flex flex-col">
+                            <div class="p-5 flex-grow">
+                                <h3 class="text-lg font-semibold text-gray-800 mb-2">${dir.name}</h3>
+                                <div class="flex items-baseline mb-3">
+                                    <span class="text-3xl font-bold text-blue-600">${dir.da}</span>
+                                    <span class="ml-2 text-sm text-gray-500">Domain Authority</span>
+                                </div>
+                                <div class="flex justify-between text-sm">
+                                    <span class="font-medium text-gray-600">Type:</span>
+                                    <span class="text-gray-800">${dir.type}</span>
+                                </div>
+                                 <div class="flex justify-between text-sm mt-1">
+                                    <span class="font-medium text-gray-600">Cost:</span>
+                                    <span class="px-2 py-0.5 text-xs font-semibold rounded-full ${getSubmissionClass(dir.submission)}">${dir.submission}</span>
+                                </div>
+                            </div>
+                            <div class="bg-gray-50 px-5 py-3">
+                               <a href="${dir.url}" target="_blank" rel="noopener noreferrer" class="w-full text-center block text-sm font-medium text-blue-600 hover:text-blue-800 transition-colors">
+                                    Visit Site →
+                                </a>
+                            </div>
+                        </div>
+                    `;
+                    grid.innerHTML += card;
+                });
+            }
+
+            function renderChart(data) {
+                const ctx = document.getElementById('daChart').getContext('2d');
+                const labels = data.map(d => d.name);
+                const daValues = data.map(d => d.da);
+                const backgroundColors = daValues.map(da => da > 90 ? 'rgba(59, 130, 246, 0.8)' : da > 75 ? 'rgba(99, 102, 241, 0.8)' : 'rgba(167, 139, 250, 0.8)');
+                const borderColors = daValues.map(da => da > 90 ? 'rgba(59, 130, 246, 1)' : da > 75 ? 'rgba(99, 102, 241, 1)' : 'rgba(167, 139, 250, 1)');
+                
+                if (daChart) {
+                    daChart.destroy();
+                }
+
+                daChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Domain Authority',
+                            data: daValues,
+                            backgroundColor: backgroundColors,
+                            borderColor: borderColors,
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        indexAxis: 'y',
+                        scales: {
+                            x: {
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Domain Authority (DA) Score'
+                                }
+                            },
+                            y: {
+                                ticks: {
+                                    autoSkip: false,
+                                    callback: function(value, index, values) {
+                                        let label = this.getLabelForValue(value);
+                                        return label.length > 20 ? label.substring(0, 20) + '...' : label;
+                                    }
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        return `DA: ${context.raw}`;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+
+            function filterAndRender() {
+                let filteredData = directoryData;
+                
+                if (currentFilter !== 'All') {
+                    filteredData = filteredData.filter(d => d.type === currentFilter);
+                }
+
+                filteredData = filteredData.filter(d => d.da >= currentDa);
+
+                filteredData.sort((a,b) => b.da - a.da);
+
+                renderDirectories(filteredData);
+                renderChart(filteredData);
+            }
+
+            categoryFilters.addEventListener('click', (e) => {
+                if (e.target.tagName === 'BUTTON') {
+                    currentFilter = e.target.dataset.filter;
+                    document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('btn-active'));
+                    e.target.classList.add('btn-active');
+                    filterAndRender();
+                }
+            });
+
+            daSlider.addEventListener('input', (e) => {
+                currentDa = parseInt(e.target.value, 10);
+                daValue.textContent = currentDa;
+                filterAndRender();
+            });
+            
+            daValue.textContent = daSlider.value;
+            filterAndRender();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour#trip",
+      "name": "Kashi Gaya Prayag Pind Daan Tour (Tempo Traveller)",
+      "description": "Multi-day Kashi (Varanasi) – Gaya – Prayagraj pind daan & tarpan ritual circuit with sequencing guidance and vehicle logistics.",
+      "itinerary": {
+        "@type": "ItemList",
+        "name": "Kashi Gaya Prayag Ritual Itinerary Options",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Day 1: Kashi arrival, Vishwanath Darshan, Ganga Aarti"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Day 2: Early depart → Gaya Pind Daan rites (Vishnupad & Phalgu)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Day 3: Drive to Prayagraj, prep for Sangam"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Day 4: Sangam snan & tarpan, return to Kashi"
+          }
+        ]
+      },
+      "travelMode": "BUS",
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "City",
+          "name": "Gaya"
+        },
+        {
+          "@type": "City",
+          "name": "Prayagraj"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "description": "Indicative 4D/3N 12 seater: ~950–1000 km @ ₹24/km + allowances & tolls (₹30,800–37,400 excl. lodging)."
+        },
+        "url": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour#sites",
+      "name": "Kashi Gaya Prayag Core Sites",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Kashi Vishwanath Temple",
+          "url": "https://www.kashitaxi.in/en/tempo-traveller-varanasi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vishnupad Temple Gaya"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Phalgu River Gaya"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Triveni Sangam Prayagraj"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the ideal order for Kashi Gaya Prayag Pind Daan tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Typical: Kashi prelim → Gaya Pind Daan → Prayagraj Sangam tarpan. Order can shift based on priest slot availability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many days are required for the circuit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tight 3D/2N possible; balanced & elder friendly 4D/3N preferred."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do we need to pre-book a panda in Gaya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes in peak Pitru Paksha / Amavasya. Pre-agree dakshina & language."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can women perform pind daan as karta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes—many priests facilitate when family custom allows or male heir absent."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Best Tempo Traveller size for elders & ritual items?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Up to 8 pax → 9 seater; 9–11 with elders → 12 seater; 12–16 + vessels → 17 seater."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour#webpage",
+      "url": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour",
+      "name": "Kashi Gaya Prayag Pind Daan Tour",
+      "datePublished": "2025-09-19",
+      "dateModified": "2025-09-19",
+      "inLanguage": "en-IN",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/images/prayagraj.jpg"
+      },
+      "about": {
+        "@id": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour#trip"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.kashitaxi.in#organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour"
+        }
+      ]
+    }
+  ]
+}

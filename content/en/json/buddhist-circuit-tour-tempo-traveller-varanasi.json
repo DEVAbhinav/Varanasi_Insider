@@ -1,0 +1,238 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi#trip",
+      "name": "Buddhist Circuit Tour from Varanasi (Tempo Traveller)",
+      "description": "Multi-day Buddhist circuit visiting Sarnath, Bodh Gaya, Rajgir, Nalanda, Kushinagar, optional Lumbini extension from Varanasi.",
+      "itinerary": {
+        "@type": "ItemList",
+        "name": "Buddhist Circuit Itinerary Options",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Day 1: Varanasi / Sarnath → Bodh Gaya"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Day 2: Bodh Gaya immersion"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Day 3: Bodh Gaya → Rajgir (Vulture Peak) → Nalanda"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Day 4: Nalanda study / transfer"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Day 5: Long transfer to Kushinagar"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Day 6: Kushinagar / Lumbini option"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Day 7: Return / Lumbini exploration & border crossing"
+          }
+        ]
+      },
+      "travelMode": "BUS",
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "City",
+          "name": "Bodh Gaya"
+        },
+        {
+          "@type": "City",
+          "name": "Rajgir"
+        },
+        {
+          "@type": "City",
+          "name": "Nalanda"
+        },
+        {
+          "@type": "City",
+          "name": "Kushinagar"
+        },
+        {
+          "@type": "Place",
+          "name": "Lumbini"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "description": "7D example 12 seater: ~1450–1520 km @ ₹24/km + allowances + tolls (₹42,400–45,700 excl. lodging)."
+        },
+        "url": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How many days for a core Buddhist circuit from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Core fast-track: 5 Days (Sarnath, Bodh Gaya, Rajgir/Nalanda, Kushinagar). With Lumbini: 7–8 Days."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What vehicle size fits 10–12 pilgrims with cushions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12 seater offers aisle + cushion storage. Upgrade to 17 seater if >11 or bulky gear."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Lumbini be added to a 5 day plan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not recommended; extend to 7–8 days to prevent fatigue and rushed meditations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do we need permits?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Indian citizens: no special permit. Carry passport/Aadhaar for Nepal border (Lumbini)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is night driving needed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Well-planned pacing avoids night highway runs; only dusk arrivals if departure slips."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi#sites",
+      "name": "Buddhist Circuit Key Sites",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Sarnath"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bodh Gaya"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rajgir (Vulture Peak)"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nalanda"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kushinagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Lumbini (Optional)"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi#webpage",
+      "url": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi",
+      "name": "Buddhist Circuit Tour from Varanasi",
+      "datePublished": "2025-09-19",
+      "dateModified": "2025-09-19",
+      "inLanguage": "en-IN",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/images/blogGaya.png"
+      },
+      "about": {
+        "@id": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi#trip"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.kashitaxi.in#organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi"
+        }
+      ]
+    }
+  ]
+}

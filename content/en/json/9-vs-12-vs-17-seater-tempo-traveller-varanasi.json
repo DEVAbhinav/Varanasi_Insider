@@ -1,0 +1,164 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.kashitaxi.in#website",
+      "url": "https://www.kashitaxi.in/",
+      "name": "Vinayak Travels",
+      "inLanguage": "en-IN",
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi#blog",
+      "headline": "9 vs 12 vs 17 Seater Tempo Traveller Varanasi: Which One to Book? (2025 Guide)",
+      "description": "Comparison of 9 vs 12 vs 17 seater Tempo Traveller in Varanasi – group size fit, per-head cost, luggage, pilgrimage suitability, rates, FAQs.",
+      "image": "https://www.kashitaxi.in/images/Lux-Tempo-Travellar-square.jpeg",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-09-18",
+      "dateModified": "2025-09-18",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh"
+      },
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization",
+        "@type": "Organization",
+        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+      },
+      "keywords": [
+        "9 vs 12 vs 17 seater tempo traveller varanasi",
+        "tempo traveller size comparison varanasi",
+        "tempo traveller capacity guide kashi"
+      ],
+      "articleSection": [
+        "Comparison",
+        "Tempo Traveller",
+        "Group Travel"
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi#sizes",
+      "name": "Tempo Traveller Size Comparison Varanasi",
+      "itemListOrder": "Ascending",
+      "numberOfItems": 3,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "9 Seater Tempo Traveller Varanasi",
+          "url": "https://www.kashitaxi.in/en/tempo-traveller-varanasi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "12 Seater Tempo Traveller Varanasi",
+          "url": "https://www.kashitaxi.in/en/12-seater-tempo-traveller-varanasi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "17 Seater Tempo Traveller Varanasi",
+          "url": "https://www.kashitaxi.in/en/17-seater-tempo-traveller-varanasi"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Which is better for Ayodhya from Varanasi – 9, 12 or 17 seater?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For Ayodhya (420–460 km RT) 12 seater is ideal up to 11 pax; upgrade to 17 if elders, heavy luggage or 12+ passengers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a 9 seater comfortable for long day trips?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Comfortable for 7–8 with light luggage up to ~5 hrs. For longer (Bodh Gaya 12–14 hr) consider 12/17 seater."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When does 17 seater per‑head cost justify upgrade?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At 11–13 passengers per‑head gap vs 12 narrows; added aisle & luggage ease justifies upgrade."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do all sizes include AC & pushback seats?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Recliner 1×1 only on Urbania / Maharaja luxury variants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can roof carrier be added last minute?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually yes with 12–24h notice; we pre-fit for wedding / airport cluster / pind daan luggage days."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kashi Taxi | Vinayak Travels Varanasi",
+          "item": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi"
+        }
+      ]
+    }
+  ]
+}
