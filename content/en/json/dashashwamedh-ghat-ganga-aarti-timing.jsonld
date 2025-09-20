@@ -7,13 +7,18 @@
         "@type": "WebPage",
         "@id": "https://www.kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing/"
       },
-      "headline": "Ganga Aarti Dashashwamedh Ghat Timing Today (2025) – Best Viewpoints & Boat Booking Tips",
-      "image": "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg",
+      "headline": "Ganga Aarti Dashashwamedh Ghat Timing Today (2025) – Best Viewpoints & Crowd Curve Planning",
+      "image": [
+        "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg",
+        "https://www.kashitaxi.in/images/ganga-aarti.jpeg",
+        "https://www.kashitaxi.in/images/ganga-aarti-solo.jpeg",
+        "https://www.kashitaxi.in/images/ganga-aarti2.jpeg"
+      ],
       "datePublished": "2025-07-22",
-      "dateModified": "2025-07-22",
+      "dateModified": "2025-09-20",
       "author": {
         "@type": "Person",
-        "name": "kaka Garu"
+        "name": "Kamal Nayan Singh"
       },
       "publisher": {
         "@type": "Organization",
@@ -24,12 +29,12 @@
         },
         "@id": "https://www.kashitaxi.in#organization"
       },
-      "description": "Complete guide to the Ganga Aarti at Dashashwamedh Ghat, including today's timings, best viewing spots, boat booking prices, Dev Deepawali dates, and travel tips."
+      "description": "Updated 2025 Dashashwamedh Ganga Aarti guide with verified timings, crowd density curve, vantage matrix, pricing ranges, Dev Deepawali adjustments & safety / photography tips."
     },
     {
       "@type": "Event",
       "name": "Ganga Aarti at Dashashwamedh Ghat",
-      "description": "A 45-minute fire offering where religious priests ring synchronize bells, with shankh, and large lamps to Sanskrit chants.",
+      "description": "A 45-minute fire offering where priests synchronize bells, conch blasts and layered brass lamps to Sanskrit chants.",
       "startDate": "2025-01-01T17:45",
       "endDate": "2025-12-31T18:45",
       "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
@@ -120,34 +125,26 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Is Ganga Aarti safe for solo female travellers?",
+          "name": "Is the Dashashwamedh Ganga Aarti safe for solo female travellers at night?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. The ghats are well-lit and police are visible, but follow normal solo-travel precautions: arrive early, keep valuables minimal, and avoid isolated lanes late at night."
+            "text": "High police visibility and continuous public presence. Use main lanes post-ceremony and pre-arrange pick-up at Godowlia."
           }
         },
         {
           "@type": "Question",
-          "name": "What time should I arrive for Dev Deepawali?",
+          "name": "What time do police barricades go up at Dashashwamedh Ghat?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Be at the ghats by 2 PM to claim a riverside spot. Main roads close to traffic after 4 PM."
+            "text": "Soft channeling starts ~45 minutes prior; tighter cordons 25–30 minutes before start on high season / festival days."
           }
         },
         {
           "@type": "Question",
-          "name": "Is photography allowed at the Aarti?",
+          "name": "Can I fly a drone during the Ganga Aarti?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Personal photography is allowed; disable flash. Professional shoots require prior permission from local authorities."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the boat booking prices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Shared boat: ₹300–₹500 pp • Private boat: ₹1,200–₹1,800 (4–6 seats). Negotiate on-site for best rates."
+            "text": "Generally no. Festival windows see explicit drone bans. Unauthorized flights risk confiscation."
           }
         },
         {
@@ -155,7 +152,15 @@
           "name": "Do I need a ticket to watch the Aarti?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Watching from the steps is free. Front-row chairs and boats charge separately."
+            "text": "Steps are free. Paid elements: front chairs (₹200–₹350), reserved galleries (festival), and boats (separate fares)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why are timings online sometimes different by 15 minutes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Seasonal sunset shifts plus buffer; effective lamp ignition can vary ±5–10 mins with crowd control adjustments."
           }
         }
       ]
@@ -198,7 +203,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Ganga Aarti Dashashwamedh Ghat Timing Today (2025) – Best Viewpoints & Boat Booking Tips",
+          "name": "Ganga Aarti Dashashwamedh Ghat Timing Today (2025) – Best Viewpoints & Crowd Curve Planning",
           "item": "https://www.kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing/"
         }
       ]
