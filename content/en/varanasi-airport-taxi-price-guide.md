@@ -1,12 +1,12 @@
 ---
-title: "Varanasi Airport Taxi Fare 2025: City/Assi/Dashashwamedh"
+title: "Varanasi Airport Taxi Fare 2025: ✅Fixed Rates to City"
 slug: "varanasi-airport-taxi-price-guide"
 date: "2025-07-27"
 lastUpdated: "2025-07-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/airport-taxi-600x400.jpeg"
-description: "Sedan ₹700–900, SUV ₹1,100–1,400 incl. tolls. Fixed fares to City/Assi/Dashashwamedh. Night charges, waiting—WhatsApp to book."
+description: "Get the latest 2025 taxi fare from Varanasi Airport (VNS) to city, Assi Ghat & Dashashwamedh. Sedan fares from ₹700. Book your airport transfer now!"
 tags:
   - varanasi
   - airport taxi

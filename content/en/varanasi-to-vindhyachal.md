@@ -1,12 +1,12 @@
 ---
-title: "Varanasi to Vindhyachal Distance & Route (Taxi Fare)"
+title: "Varanasi to Vindhyachal Taxi: ✅Book a Day Trip | Fare Starts @ ₹2000"
 slug: "varanasi-to-vindhyachal"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/blogVindhyachal.png"
-description: "Varanasi to Vindhyachal distance 65–70 km (1.5–2 hrs). Best road route, tolls and taxi fare with darshan slots. Plan your same‑day trip."
+description: "Plan your Varanasi to Vindhyachal trip. Get the latest taxi fare, a detailed same-day tour itinerary, and darshan timings. Book your cab online!"
 tags:
   - varanasi
   - vindhyachal

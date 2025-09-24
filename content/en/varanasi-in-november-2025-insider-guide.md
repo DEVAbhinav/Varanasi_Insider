@@ -1,12 +1,12 @@
 ---
-title: "Varanasi in November 2025: Dev Deepawali [Guide]"
+title: "Varanasi in November 2025: ✅Dev Deepawali Guide"
 slug: "varanasi-in-november-2025-insider-guide"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/varanasi-night-boat-ghat-p.jpeg"
-description: "Your complete insider guide to visiting Varanasi in November 2025. Get the correct Dev Deepawali date, weather info, packing tips, and what to expect."
+description: "A complete guide to visiting Varanasi in November 2025. Find the Dev Deepawali date, weather details, packing tips, and what to expect."
 keywords: "varanasi in november, dev deepawali 2025 date, varanasi weather november, kartik purnima varanasi, visiting varanasi in november, varanasi travel guide"
 tags:
   - varanasi

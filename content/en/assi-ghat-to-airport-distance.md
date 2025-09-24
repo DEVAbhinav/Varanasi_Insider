@@ -1,12 +1,12 @@
 ---
-title: "Assi Ghat to Airport: Distance & Fare (2025 Guide)"
+title: "Assi Ghat to Varanasi Airport: ✅Distance & Taxi Fare"
 slug: "assi-ghat-to-airport-distance"
 date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/blogbhugate.jpg"
-description: "25–27 km | 50–70 min by car. Sedan ₹800–900. Assi Ghat ↔ Varanasi airport routes, traffic windows and late‑night tips. Learn more."
+description: "Find the distance from Assi Ghat to Varanasi Airport (VNS). Get the latest taxi fares (Sedan from ₹800), travel time, and booking tips. Plan your transfer!"
 tags:
   - assi ghat
   - varanasi airport
