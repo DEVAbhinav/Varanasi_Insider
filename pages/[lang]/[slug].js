@@ -31,7 +31,7 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 export async function getStaticProps({ params }) {
   const { getPostData, getJsonLdData, getRelatedPosts, getAllPostsMeta } = await import('../../lib/posts');
   const postData = await getPostData(params.lang, params.slug);
-  const jsonLdData = getJsonLdData(params.lang, params.slug);
+  const jsonLdData = await getJsonLdData(params.lang, params.slug);
   const relatedPosts = getRelatedPosts(params.lang, params.slug);
 
   // Get organized post metadata for Footer
