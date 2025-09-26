@@ -1,12 +1,12 @@
 ---
-title: "Varanasi Airport Taxi Fare 2025: ✅Fixed Rates to City"
+title: "Varanasi Airport Taxi Fare 2025: Updated Price List from ₹600"
 slug: "varanasi-airport-taxi-price-guide"
 date: "2025-07-27"
 lastUpdated: "2025-07-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/airport-taxi-600x400.jpeg"
-description: "Get the latest 2025 taxi fare from Varanasi Airport (VNS) to city, Assi Ghat & Dashashwamedh. Sedan fares from ₹700. Book your airport transfer now!"
+description: "Find the latest taxi fares from Varanasi Airport (LBS Airport). See prices for sedans, SUVs, and get tips to avoid overpaying. Book a reliable ride."
 tags:
   - varanasi
   - airport taxi

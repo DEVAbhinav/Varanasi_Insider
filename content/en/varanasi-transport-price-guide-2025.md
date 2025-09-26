@@ -1,10 +1,10 @@
 ---
-title: "Varanasi Transport Prices 2025: Taxis & Boats [Guide]"
+title: "Varanasi Transport Price Guide 2025: Auto, Rickshaw & Taxi Fares"
 slug: "varanasi-transport-price-guide-2025"
 date: "2025-07-24"
 author: "Kamal Nayan Singh"
 featuredImage: "/images/vnsayopyg.png"
-description: "Varanasi transport prices 2025 in one guide: airport taxis, pink cabs, boat rides and outstation fares. Compare costs and book with confidence."
+description: "How much should you pay for an auto, e-rickshaw, or taxi in Varanasi? Our 2025 price guide helps you avoid scams and travel on a budget."
 tags: ["varanasi airport taxi price","ganga aarti boat booking price","varanasi pink taxi for women"]
 ---
 
