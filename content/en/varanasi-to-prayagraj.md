@@ -1,12 +1,12 @@
 ---
-title: "Varanasi to Prayagraj Tour Package [2025 Guide]"
+title: "Varanasi to Prayagraj Taxi Fare: Book a Cab from ₹2200"
 slug: "varanasi-to-prayagraj"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/prayagraj.jpg"
-description: "Varanasi to Prayagraj tour package: distance, route, fares and Kashi–Triveni Sangam day trip itinerary. Plan your yatra and book easily."
+description: "Find the best taxi fare for your trip from Varanasi to Prayagraj (Allahabad). Choose from our fleet of Sedans & SUVs. Transparent pricing, no hidden charges."
 tags:
   - varanasi
   - prayagraj

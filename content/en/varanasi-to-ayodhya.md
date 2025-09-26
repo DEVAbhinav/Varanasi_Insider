@@ -1,12 +1,12 @@
 ---
-title: "Varanasi to Ayodhya Tour Package [2025 Guide]"
+title: "Varanasi to Ayodhya Taxi Fare: One-Way Cab from ₹2500"
 slug: "varanasi-to-ayodhya"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/blogAyodhya.jpg"
-description: "Plan your Kashi–Ayodhya yatra: distance, fares and day‑by‑day itinerary with Prayagraj. 2025 taxi package costs and tips. Get the plan."
+description: "Book a reliable taxi from Varanasi to the Ayodhya Ram Mandir. See updated one-way & round-trip fares for Sedans & SUVs. Clean cars, professional drivers."
 tags:
   - varanasi
   - ayodhya

@@ -40,8 +40,8 @@ export default function PackagesPage({ packages, jsonLd }) {
   return (
     <>
       <Head>
-        <title>Varanasi Packages & Tours | Kashi Taxi</title>
-        <meta name="description" content="Browse Varanasi tour packages, day trips and boat rides. Transparent pricing with trusted operators." />
+        <title>Varanasi Tour Packages: City Tours, Ayodhya & Prayagraj Trips</title>
+        <meta name="description" content="Explore our top-rated tour packages from Varanasi. Find the perfect itinerary for your family, solo, or group trip. See all-inclusive prices & book online." />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </Head>
       <NavBar />
