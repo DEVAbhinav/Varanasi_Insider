@@ -6,7 +6,7 @@ lastUpdated: "2025-09-20"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/eveningAartiHero.jpg"
-description: "See the latest prices for a boat ride during the Ganga Aarti. Book a private or shared boat online. Includes a guide to the best viewing spots on the water."
+description: "See the latest prices for a boat ride during the Ganga Aarti, from ₹250. Book a private or shared boat online. Includes a guide to the best viewing spots on the water."
 keywords: "evening boat ride varanasi, ganga aarti boat ride, varanasi boat ride price, dashashwamedh ghat aarti, ganga aarti from boat, varanasi night boat ride"
 tags:
   - varanasi

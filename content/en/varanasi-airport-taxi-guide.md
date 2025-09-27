@@ -1,5 +1,5 @@
 ---
-title: "Varanasi Airport Taxi: 24/7 Service & Flat Rate Fares"
+title: "Varanasi Airport Taxi: 24/7 Service from ₹600"
 slug: "varanasi-airport-taxi-guide"
 date: "2025-07-21"
 lastUpdated: "2025-07-21"
