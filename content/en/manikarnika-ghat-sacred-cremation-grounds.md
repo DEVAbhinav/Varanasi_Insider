@@ -1,15 +1,15 @@
 ---
-title: "Manikarnika Ghat Varanasi: Visitor Guide [2025]"
+title: "Manikarnika Ghat: A Guide to Varanasi's Sacred Cremation Site [Visitor's Guide]"
 slug: "manikarnika-ghat-sacred-cremation-grounds"
 date: "2025-07-28"
 author: "Kamal Nayan Singh"
-description: "Manikarnika Ghat Varanasi guide: history, rituals, etiquette and what to expect at the sacred cremation ground. Read before you visit."
+description: "Learn the history and spiritual significance of Manikarnika Ghat. This guide for visitors explains what to expect, the photography etiquette, and its role in Hinduism."
 featuredImage: "/images/manikarnika-ghat.jpg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/manikarnika-ghat-sacred-cremation-grounds"
 tags: ["Manikarnika Ghat", "Varanasi", "cremation ghats", "Hindu rituals", "moksha"]
-metaTitle: "Manikarnika Ghat: A Guide to Varanasi's Sacred Cremation Grounds"
-metaDescription: "A guide to Manikarnika Ghat, Varanasi's most sacred cremation ground. Learn about its history, significance, and what to expect when visiting."
+metaTitle: "Manikarnika Ghat: A Guide to Varanasi's Sacred Cremation Site [Visitor's Guide]"
+metaDescription: "Learn the history and spiritual significance of Manikarnika Ghat. This guide for visitors explains what to expect, the photography etiquette, and its role in Hinduism."
 ---
 
 # Manikarnika Ghat: Understanding the Sacred Cremation Grounds
