@@ -20,32 +20,133 @@
       "publisher": {
         "@type": "Organization",
         "name": "Varanasi Insider",
-        "logo": {"@type": "ImageObject", "url": "https://www.kashitaxi.in/images/logo.jpeg"}
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+        }
       },
       "description": "2025 Varanasi safety & security guide: arrival tactics, neighbourhood risk comparison, women traveller strategies, transport pricing hacks, monsoon & health protocols.",
       "keywords": "Varanasi safety, solo female travel India, is Varanasi safe, Varanasi scams, Varanasi tourist guide, safety in Varanasi for foreigners, Varanasi travel tips",
-      "mainEntityOfPage": {"@type": "WebPage","@id": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/"},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/"
+      },
       "mainEntity": [
-        {"@type": "FAQPage","mainEntity": [
-          {"@type": "Question","name": "What is the all-in-one emergency number in Varanasi?","acceptedAnswer": {"@type": "Answer","text": "112 – unified Police / Fire / Ambulance."}},
-          {"@type": "Question","name": "Which numbers handle medical emergencies?","acceptedAnswer": {"@type": "Answer","text": "Dial 102 or 108 for ambulance services."}},
-          {"@type": "Question","name": "Is there a dedicated helpline for women in distress?","acceptedAnswer": {"@type": "Answer","text": "Yes – 1091 (Women Power‑line) and 1090 (Crime‑Stopper)."}},
-          {"@type": "Question","name": "Tourist multi-lingual helpline?","acceptedAnswer": {"@type": "Answer","text": "National Tourist Helpline 1363 offers multi‑language support."}},
-          {"@type": "Question","name": "How do I minimise taxi scams on arrival?","acceptedAnswer": {"@type": "Answer","text": "Pre‑book reputable operator or use official prepaid counter; retain receipt until drop‑off."}}
-        ]},
-        {"@type": "HowTo","name": "First 24-Hours Safety Checklist for Varanasi","step": [
-          {"@type": "HowToStep","name": "Get a SIM Card","text": "Purchase Airtel/Jio at airport or activate eSIM; ensure immediate data for navigation & SOS."},
-          {"@type": "HowToStep","name": "Secure Cash","text": "Withdraw at airport ATM; keep small notes for tuk‑tuks & tips."},
-          {"@type": "HowToStep","name": "Arrange Transport","text": "Use pre‑booked cab (e.g., Kashi Taxi) or prepaid desk; avoid tout clusters."},
-          {"@type": "HowToStep","name": "Adopt Local Dress Code","text": "Modest layers + light scarf reduce unwanted attention; respect temple norms."}
-        ]}
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the all-in-one emergency number in Varanasi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "112 – unified Police / Fire / Ambulance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which numbers handle medical emergencies?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dial 102 or 108 for ambulance services."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is there a dedicated helpline for women in distress?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes – 1091 (Women Power‑line) and 1090 (Crime‑Stopper)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Tourist multi-lingual helpline?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "National Tourist Helpline 1363 offers multi‑language support."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I minimise taxi scams on arrival?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pre‑book reputable operator or use official prepaid counter; retain receipt until drop‑off."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "HowTo",
+          "name": "First 24-Hours Safety Checklist for Varanasi",
+          "step": [
+            {
+              "@type": "HowToStep",
+              "name": "Get a SIM Card",
+              "text": "Purchase Airtel/Jio at airport or activate eSIM; ensure immediate data for navigation & SOS."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Secure Cash",
+              "text": "Withdraw at airport ATM; keep small notes for tuk‑tuks & tips."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Arrange Transport",
+              "text": "Use pre‑booked cab (e.g., Kashi Taxi) or prepaid desk; avoid tout clusters."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Adopt Local Dress Code",
+              "text": "Modest layers + light scarf reduce unwanted attention; respect temple norms."
+            }
+          ]
+        }
       ]
     },
-    {"@type": "Organization","@id": "https://www.kashitaxi.in#organization","name": "Kashi Taxi | Vinayak Travels Varanasi","legalName": "Vinayak Travels Varanasi","alternateName": ["Kashi Taxi","Kashitaxi"],"url": "https://www.kashitaxi.in/","logo": {"@type": "ImageObject","url": "https://www.kashitaxi.in/favicon.jpeg"},"sameAs": ["https://wa.me/919935474730","https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"]},
-    {"@type": "BreadcrumbList","@id": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/#breadcrumbs","itemListElement": [
-      {"@type": "ListItem","position": 1,"name": "Home","item": "https://www.kashitaxi.in/"},
-      {"@type": "ListItem","position": 2,"name": "Services","item": "https://www.kashitaxi.in/en/services/"},
-      {"@type": "ListItem","position": 3,"name": "Safety & Security in Varanasi 2025 – Comprehensive Traveller Handbook","item": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/"}
-    ]}
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Safety & Security in Varanasi 2025 – Comprehensive Traveller Handbook",
+          "item": "https://www.kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar/"
+        }
+      ]
+    }
   ]
 }
