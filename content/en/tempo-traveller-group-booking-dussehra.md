@@ -1,12 +1,12 @@
 ---
-title: "Group Travel Made Easy: Booking a Tempo Traveller for Dussehra [2025]"
+title: "Tempo Traveller Group Booking Dussehra Varanasi 2025: Family Transport Guide"
 slug: "tempo-traveller-group-booking-dussehra"
 date: "2025-09-29"
 lastUpdated: "2025-09-29"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/tempo-traveller-group-dussehra.jpg"
-description: "Complete guide to Tempo Traveller booking for Dussehra 2025 in Varanasi: group sizes, vehicle options, festival rates, and how to keep your family/group together during celebrations."
+description: "Tempo Traveller group booking Dussehra Varanasi 2025: Complete family transport guide with vehicle sizes, festival rates & coordination tips for 6-20+ people."
 tags:
   - tempo traveller dussehra 2025
   - group travel varanasi
@@ -25,7 +25,7 @@ relatedPosts:
   - book-taxi-varanasi-ramlila-dussehra
 ---
 
-# Group Travel Made Easy: Booking a Tempo Traveller for Dussehra
+# Tempo Traveller Group Booking Dussehra Varanasi 2025: Family Transport Guide
 
 ![Tempo Traveller Group Transport for Dussehra](/images/tempo-traveller-group-dussehra.jpg "Keep your family together with comfortable group transport")
 

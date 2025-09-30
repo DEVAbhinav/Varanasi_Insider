@@ -1,12 +1,12 @@
 ---
-title: "Your Complete Guide to Dussehra Ravana Dahan in Varanasi: October 2, 2025"
+title: "Dussehra Ravana Dahan Varanasi October 2, 2025: Complete Festival Guide & Transport Booking"
 slug: "dussehra-ravana-dahan-varanasi-oct-2"
 date: "2025-09-29"
 lastUpdated: "2025-09-29"
 author: "Kamal Nayan Singh"
 lang: en
 featuredImage: "/images/ravana-dahan-varanasi.jpg"
-description: "Complete guide to Dussehra Ravana Dahan in Varanasi on October 2, 2025: best locations, timings, crowd management tips, and pre-booked transport solutions."
+description: "Dussehra Ravana Dahan Varanasi October 2, 2025: Best effigy burning locations, exact timings, crowd survival tips & guaranteed festival transport booking."
 tags:
   - dussehra varanasi 2025
   - ravana dahan locations
@@ -32,7 +32,7 @@ relatedPosts:
   - book-taxi-varanasi-ramlila-dussehra
 ---
 
-# Your Complete Guide to Dussehra Ravana Dahan in Varanasi: October 2, 2025
+# Dussehra Ravana Dahan Varanasi October 2, 2025: Complete Festival Guide
 
 ![Ravana Dahan in Varanasi](/images/ravana-dahan-varanasi.jpg "Spectacular Ravana Dahan celebration in Varanasi")
 
