@@ -1,12 +1,12 @@
 ---
-title: "Assi Ghat Morning Aarti Today & 2025 – Subah‑e‑Banaras"
+title: "Assi Ghat Aarti Timings 2025: [Morning & Evening Ceremony]"
 slug: "assi-ghat-aarti-timings-2025"
 date: "2025-08-04"
 lastUpdated: "2025-09-20"
 author: "Naval Kishore"
 lang: en-IN
 featuredImage: "/images/varanasi-assi-ghat-aarti-l.jpeg"
-description: "Assi Ghat morning & evening aarti timings (Subah-e-Banaras & Sandhya) 2025 with monthly grid, crowd density vs Dashashwamedh, photography & yoga integration tips."
+description: "Get the latest summer and winter timings for the Assi Ghat Ganga Aarti. Learn what to expect, the duration, and tips for the best view."
 keywords: "assi ghat aarti time, assi ghat aarti timings, assi ghat aarti timings evening, assi ghat aarti timings morning, assi ghat ganga aarti timing, assi ghat morning aarti time"
 tags:
   - "Assi Ghat Aarti Timings"

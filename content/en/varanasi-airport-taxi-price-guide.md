@@ -1,12 +1,12 @@
 ---
-title: "Varanasi Airport Taxi Fare 2025: City/Assi/Dashashwamedh"
+title: "Varanasi Airport Taxi Fare 2025: Updated Price List from ₹600"
 slug: "varanasi-airport-taxi-price-guide"
 date: "2025-07-27"
 lastUpdated: "2025-07-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/airport-taxi-600x400.jpeg"
-description: "Sedan ₹700–900, SUV ₹1,100–1,400 incl. tolls. Fixed fares to City/Assi/Dashashwamedh. Night charges, waiting—WhatsApp to book."
+description: "Find the latest taxi fares from Varanasi Airport (LBS Airport). See prices for sedans, SUVs, and get tips to avoid overpaying. Book a reliable ride."
 tags:
   - varanasi
   - airport taxi
