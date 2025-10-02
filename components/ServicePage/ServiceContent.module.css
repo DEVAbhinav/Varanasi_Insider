@@ -1,0 +1,138 @@
+/* ServiceContent.module.css */
+.serviceArticle {
+  @apply text-gray-800 leading-relaxed;
+}
+
+/* Typography */
+.serviceArticle h1 {
+  @apply text-4xl md:text-5xl font-bold mb-6 mt-12 text-gray-900 font-serif border-b-4 border-yellow-500 pb-3;
+}
+
+.serviceArticle h2 {
+  @apply text-3xl md:text-4xl font-bold mb-5 mt-10 text-gray-900 font-serif;
+}
+
+.serviceArticle h3 {
+  @apply text-2xl md:text-3xl font-semibold mb-4 mt-8 text-gray-800;
+}
+
+.serviceArticle h4 {
+  @apply text-xl md:text-2xl font-semibold mb-3 mt-6 text-gray-800;
+}
+
+.serviceArticle p {
+  @apply mb-5 text-lg leading-relaxed;
+}
+
+.serviceArticle blockquote {
+  @apply border-l-4 border-yellow-500 pl-6 py-4 my-6 bg-yellow-50 italic text-gray-700 rounded-r-lg;
+}
+
+/* Lists */
+.serviceArticle ul {
+  @apply list-disc list-outside ml-6 mb-6 space-y-2;
+}
+
+.serviceArticle ol {
+  @apply list-decimal list-outside ml-6 mb-6 space-y-2;
+}
+
+.serviceArticle li {
+  @apply text-lg leading-relaxed pl-2;
+}
+
+/* Tables */
+.serviceArticle table {
+  @apply w-full border-collapse mb-8 shadow-md rounded-lg overflow-hidden;
+}
+
+.serviceArticle thead {
+  @apply bg-gradient-to-r from-yellow-500 to-yellow-600 text-white;
+}
+
+.serviceArticle th {
+  @apply px-4 md:px-6 py-4 text-left font-bold text-sm md:text-base;
+}
+
+.serviceArticle tbody tr {
+  @apply border-b border-gray-200 hover:bg-yellow-50 transition-colors;
+}
+
+.serviceArticle tbody tr:last-child {
+  @apply border-b-0;
+}
+
+.serviceArticle td {
+  @apply px-4 md:px-6 py-4 text-gray-700 text-sm md:text-base;
+}
+
+.serviceArticle tbody tr:nth-child(even) {
+  @apply bg-gray-50;
+}
+
+/* Links */
+.serviceArticle a {
+  @apply text-yellow-600 hover:text-yellow-700 underline font-medium transition-colors;
+}
+
+/* Code blocks */
+.serviceArticle code {
+  @apply bg-gray-100 px-2 py-1 rounded text-sm font-mono text-red-600;
+}
+
+.serviceArticle pre {
+  @apply bg-gray-900 text-gray-100 p-4 rounded-lg overflow-x-auto mb-6;
+}
+
+.serviceArticle pre code {
+  @apply bg-transparent text-gray-100 p-0;
+}
+
+/* Images */
+.serviceArticle img {
+  @apply rounded-lg shadow-lg my-6 max-w-full h-auto;
+}
+
+/* Horizontal rule */
+.serviceArticle hr {
+  @apply my-10 border-t-2 border-gray-300;
+}
+
+/* Strong/Bold */
+.serviceArticle strong {
+  @apply font-bold text-gray-900;
+}
+
+/* Emphasis/Italic */
+.serviceArticle em {
+  @apply italic text-gray-700;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 640px) {
+  .serviceArticle h1 {
+    @apply text-3xl;
+  }
+  
+  .serviceArticle h2 {
+    @apply text-2xl;
+  }
+  
+  .serviceArticle h3 {
+    @apply text-xl;
+  }
+  
+  .serviceArticle p,
+  .serviceArticle li {
+    @apply text-base;
+  }
+  
+  .serviceArticle table {
+    @apply text-sm;
+  }
+  
+  .serviceArticle th,
+  .serviceArticle td {
+    @apply px-2 py-2;
+  }
+}
