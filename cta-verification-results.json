@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-04T18:16:51.441873",
+  "summary": {
+    "total": 6,
+    "with_cta": 6,
+    "with_call_button": 6,
+    "with_whatsapp": 6,
+    "with_sticky_cta": 3,
+    "sticky_works_on_scroll": 2
+  },
+  "results": [
+    {
+      "page": "Homepage",
+      "url": "https://www.kashitaxi.in/",
+      "timestamp": "2025-10-04T18:16:12.406269",
+      "cta_found": true,
+      "call_button": true,
+      "whatsapp_button": true,
+      "cta_text": null,
+      "sticky_cta": true,
+      "sticky_visible_on_scroll": false,
+      "error": null
+    },
+    {
+      "page": "Blog Post - Navratri Guide",
+      "url": "https://www.kashitaxi.in/en/navratri-in-vindhyachal-practical-guide",
+      "timestamp": "2025-10-04T18:16:21.262720",
+      "cta_found": true,
+      "call_button": true,
+      "whatsapp_button": true,
+      "cta_text": "Need help planning your trip?",
+      "sticky_cta": false,
+      "sticky_visible_on_scroll": false,
+      "error": null
+    },
+    {
+      "page": "Blog Post - Safety Guide",
+      "url": "https://www.kashitaxi.in/en/is-varanasi-safe-for-solo-female-travellers",
+      "timestamp": "2025-10-04T18:16:26.611983",
+      "cta_found": true,
+      "call_button": true,
+      "whatsapp_button": true,
+      "cta_text": "Need help planning your trip?",
+      "sticky_cta": false,
+      "sticky_visible_on_scroll": false,
+      "error": null
+    },
+    {
+      "page": "Service Page - Airport Taxi",
+      "url": "https://www.kashitaxi.in/en/services/varanasi-airport-taxi-winter-2025",
+      "timestamp": "2025-10-04T18:16:31.943507",
+      "cta_found": true,
+      "call_button": true,
+      "whatsapp_button": true,
+      "cta_text": "Ready to book?",
+      "sticky_cta": true,
+      "sticky_visible_on_scroll": true,
+      "error": null
+    },
+    {
+      "page": "Service Page - City Tour",
+      "url": "https://www.kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2025",
+      "timestamp": "2025-10-04T18:16:39.089495",
+      "cta_found": true,
+      "call_button": true,
+      "whatsapp_button": true,
+      "cta_text": "Ready to book?",
+      "sticky_cta": true,
+      "sticky_visible_on_scroll": true,
+      "error": null
+    },
+    {
+      "page": "Blog Post - Dev Deepawali",
+      "url": "https://www.kashitaxi.in/en/dev-deepawali-2025-varanasi-ultimate-guide",
+      "timestamp": "2025-10-04T18:16:46.105616",
+      "cta_found": true,
+      "call_button": true,
+      "whatsapp_button": true,
+      "cta_text": "Need help planning your trip?",
+      "sticky_cta": false,
+      "sticky_visible_on_scroll": false,
+      "error": null
+    }
+  ]
+}
