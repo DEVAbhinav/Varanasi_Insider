@@ -10,6 +10,7 @@ import Footer from '../../components/Footer/Footer';
 import HeadForBlogs from '../../components/SEO/HeadForBlogs';
 import RelatedPostsGrid from '../../components/RelatedPosts/RelatedPostsGrid';
 import CTASection from '../../components/CTA/CTASection';
+import StickyContactBar from '../../components/StickyContactBar/StickyContactBar';
 
 export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug }) {
   return (
@@ -18,6 +19,13 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
       <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={pageSlug} jsonLdData={jsonLdData} />
 
       <NavBar />
+      
+      {/* Sticky Contact Bar - Appears on Scroll (Spiritual Theme) */}
+      <StickyContactBar 
+        phone={postData.phone || "9450301573"}
+        variant="spiritual"
+      />
+      
       <main>
         {/* <Header title={postData.title} featuredImage={postData.featuredImage} /> */}
         <ArticleSection contentHtml={postData.contentHtml} />
