@@ -9,6 +9,7 @@ import ArticleSection from '../../components/ArticleSection/ArticleSection';
 import Footer from '../../components/Footer/Footer';
 import HeadForBlogs from '../../components/SEO/HeadForBlogs';
 import RelatedPostsGrid from '../../components/RelatedPosts/RelatedPostsGrid';
+import CTASection from '../../components/CTA/CTASection';
 
 export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug }) {
   return (
@@ -20,6 +21,15 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
       <main>
         {/* <Header title={postData.title} featuredImage={postData.featuredImage} /> */}
         <ArticleSection contentHtml={postData.contentHtml} />
+        
+        {/* Modular CTA Section */}
+        <CTASection 
+          phone={postData.phone || "9450301573"}
+          title="Need help planning your trip?"
+          subtitle="Get personalized assistance for your Varanasi journey"
+          variant="default"
+        />
+        
         {/* Related posts grid */}
         <RelatedPostsGrid items={relatedPosts} lang={pageLang} />
       </main>
