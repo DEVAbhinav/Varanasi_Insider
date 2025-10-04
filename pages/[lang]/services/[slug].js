@@ -4,7 +4,7 @@ import Footer from '../../../components/Footer/Footer';
 import HeadForBlogs from '../../../components/SEO/HeadForBlogs';
 import ServiceHero from '../../../components/ServicePage/ServiceHero';
 import ServiceContent from '../../../components/ServicePage/ServiceContent';
-import StickyContactBar from '../../../components/StickyContactBar/StickyContactBar';
+import StickyContactBar from '../../../components/ServicePage/StickyContactBar';
 import CTASection from '../../../components/CTA/CTASection';
 
 export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, pageSlug }) {
@@ -20,10 +20,9 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
 
       <NavBar />
       
-      {/* Sticky Contact Bar - Shows on Scroll (Service Theme) */}
+      {/* Sticky Contact Bar - Shows on Scroll */}
       <StickyContactBar 
         phone={postData.phone}
-        variant="service"
       />
       
       <main className="min-h-screen bg-white">
