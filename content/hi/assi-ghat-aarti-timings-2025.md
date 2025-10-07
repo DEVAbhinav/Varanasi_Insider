@@ -42,7 +42,8 @@ canonical: "https://www.kashitaxi.in/hi/assi-ghat-aarti-timings-2025"
 - Sunrise Subah-e-Banaras लाइव सीट पूछताछ (Boat)
 - Evening Sandhya Aarti नाव / ज़मीन से गाइडेड व्यू
 - निजी फोटोग्राफी एंगल / ट्राइपॉड सलाह
-- एयरपोर्ट / होटल ↔ Assi Ghat ट्रांसफर पैकेज
+- एयरपोर्ट / होटल ↔ Assi Ghat ट्रांसफर पैकेज  
+- आधिकारिक कार्यक्रम अनुभव स्लॉट (सीट / विशेष पैकेज) बाहरी पोर्टल: [Subah-e-Banaras Booking →](https://subahebanaras.net/choose-your-experience/?ref=kashitaxi)
 [फ़ॉर्म द्वारा संपर्क करें](/hi/contact) | [महिला यात्रियों के लिए सुरक्षित टैक्सी](/hi/services/varanasi-safest-taxi-for-women)
 
 ---
@@ -127,7 +128,8 @@ canonical: "https://www.kashitaxi.in/hi/assi-ghat-aarti-timings-2025"
 मुख्य अनुष्ठान नहीं, पर अंत में आशीर्वाद ले सकते हैं – शांत कतार बनाएँ।
 
 **लाइव अपडेट चाहिए?**  
-Subahebanaras की साइट / शाम 8 बजे के लोकल नोटिस बोर्ड देखें या हमसे WhatsApp द्वारा पूछें।
+Subahebanaras की साइट / शाम 8 बजे के लोकल नोटिस बोर्ड देखें या हमसे WhatsApp द्वारा पूछें।  
+सीधे सीट या क्यूरेटेड अनुभव के लिए आधिकारिक पोर्टल: [Subah-e-Banaras Experience Booking](https://subahebanaras.net/choose-your-experience/?ref=kashitaxi)
 
 ## 2025 अनुभव तुलना (Assi बनाम Dashashwamedh सार)
 | मीट्रिक | अस्सी सुबह | दशाश्वमेध शाम | असर |
