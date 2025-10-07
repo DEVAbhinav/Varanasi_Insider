@@ -93,7 +93,7 @@ export default function NavBar() {
         className={`fixed inset-y-0 right-0 z-[100] w-72 max-w-[85vw] ${open ? 'translate-x-0' : 'translate-x-full'} transition-transform duration-200 ease-out bg-white/85 backdrop-blur-md text-gray-900 shadow-2xl ring-1 ring-black/10 md:hidden`}
       >
         <div className="p-4 border-b border-white/50 flex items-center justify-between">
-          <span className="text-base font-semibold">Kashi Insider</span>
+          <span className="text-base font-semibold">Kashi Taxi service</span>
           <button aria-label="Close menu" onClick={() => setOpen(false)} className="inline-flex h-9 w-9 items-center justify-center rounded-md hover:bg-white/60">
             <X className="h-5 w-5" />
           </button>

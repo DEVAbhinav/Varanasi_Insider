@@ -76,26 +76,6 @@ function generateSitemap() {
     });
   }
 
-  // Helper: add services from content/<lang>/services/*.md
-  function addServicesForLang(lang) {
-    const svcDir = path.join(CONTENT_PATH, lang, 'services');
-    if (!fs.existsSync(svcDir)) return;
-    const files = fs.readdirSync(svcDir).filter(f => f.endsWith('.md'));
-    files.forEach(file => {
-      const abs = path.join(svcDir, file);
-      const content = fs.readFileSync(abs, 'utf-8');
-      let slug = file.replace(/\.md$/, '');
-      try {
-        const { data } = matter(content);
-        if (data && typeof data.slug === 'string' && data.slug.trim()) {
-          slug = data.slug.trim();
-        }
-      } catch {}
-      const loc = `${BASE_URL}/${lang}/services/${slug}`;
-      addUrl(loc, undefined, '0.9', 'weekly'); // Higher priority for service pages
-    });
-  }
-
   // Add home page (always lastmod now)
   addUrl(`${BASE_URL}/`, undefined, '0.9', 'weekly');
 
@@ -134,10 +114,6 @@ function generateSitemap() {
   // Add package detail pages from content/<lang>/packages
   addPackagesForLang('en');
   addPackagesForLang('hi');
-
-  // Add service detail pages from content/<lang>/services
-  addServicesForLang('en');
-  addServicesForLang('hi');
 
   // Add static Next.js pages (non-dynamic, non-API); lastmod always now
   const pageRoutes = getPageRoutes(PAGES_PATH);

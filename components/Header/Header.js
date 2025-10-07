@@ -16,7 +16,7 @@ export default function Header({ title, featuredImage }) {
               height={40}
               className={styles.logoImage}
             />
-            <span className={styles.logoText}>Kashi Insider</span>
+            <span className={styles.logoText}>Kashi Taxi service</span>
           </div>
 
           {/* Navigation */}
