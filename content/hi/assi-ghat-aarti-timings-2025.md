@@ -64,7 +64,8 @@ canonical: "https://www.kashitaxi.in/hi/assi-ghat-aarti-timings-2025"
 
 ## दो अलग आरतियाँ क्यों?
 
-### सुबह – “Subah-e-Banaras”
+### सुबह – “Subah-e-Banaras”  
+(आधिकारिक अनुभव / सीट आरक्षण: [Subah-e-Banaras Booking](https://subahebanaras.net/choose-your-experience/?ref=kashitaxi))
 नीलवेला (Blue Hour) में हल्की मंत्र ध्वनि, शंख, योग व शास्त्रीय राग संयोजन। स्थानीय लोग इसे सामुदायिक शुद्ध शुरुआत मानते हैं। यात्री ताज़े गंगा जल से ताम्बे के लोटे भरते दिखाई देंगे।
 
 ![Subah-e-Banaras सूर्योदय दृश्य](/images/varanasi-assi-ghat-sunrise.jpeg "सुबह की आरती के दौरान अस्सी घाट पर शांत सूर्योदय")
