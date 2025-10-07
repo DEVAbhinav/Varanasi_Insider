@@ -18,6 +18,8 @@ relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
 ---
 
+# Lucknow to Varanasi Taxi Fare Guide 2025
+
 Updated: Sep 2025
 
 Answer Box

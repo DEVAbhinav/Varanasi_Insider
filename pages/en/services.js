@@ -57,6 +57,25 @@ export default function ServicesPage({ services, jsonLd }) {
             </Link>
           ))}
         </div>
+
+        <section className="mt-12 space-y-5 text-gray-700">
+          <h2 className="text-2xl font-semibold text-slate-900">Complete Varanasi Travel Desk – Airport, Local &amp; Outstation</h2>
+          <p>
+            From first hello to final drop, our dispatcher stays on WhatsApp <a className="text-yellow-700 underline" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a> and phone{' '}
+            <a className="text-yellow-700 underline" href="tel:+919450301573">+91-94503-01573</a>. We arrange airport taxis, Pink Taxi (women-only) rides,{' '}
+            <Link className="text-yellow-700 underline" href="/en/varanasi-day-tour-cab-charges">local sightseeing cabs</Link>,{' '}
+            <Link className="text-yellow-700 underline" href="/en/varanasi-to-ayodhya">Ayodhya / Prayagraj pilgrim circuits</Link>,{' '}
+            <Link className="text-yellow-700 underline" href="/en/varanasi-to-gaya-bodh-gaya-tour-package">Bodh Gaya spiritual tours</Link>, staff transport shuttles and 12–26 seater tempo travellers.
+          </p>
+          <p>
+            Every service listing includes transparent fare grids, kilometre limits and add-ons (parking, tolls, night allowance) so you know exactly what you pay. Combine multiple services into one itinerary, request English-speaking drivers or certified guides, and sync private boats or hotel pickups across family groups.
+          </p>
+          <p>
+            Planning during peak festivals? Start with our{' '}
+            <Link className="text-yellow-700 underline" href="/en/dashashwamedh-ghat-ganga-aarti-timing">Ganga Aarti guide</Link> or{' '}
+            <Link className="text-yellow-700 underline" href="/en/dev-deepawali-2025-varanasi-ultimate-guide">Dev Deepawali plan</Link> and we will layer the logistics—cabs, boats, darshan assistance and hotel coordination—into a single confirmation thread. One team, one payment trail, zero surprises.
+          </p>
+        </section>
       </main>
       <Footer />
     </>

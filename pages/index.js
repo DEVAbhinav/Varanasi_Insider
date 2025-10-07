@@ -86,7 +86,6 @@ export default function HomePage({ allPosts }) {
         {/* Google Reviews Widget - Above the fold for social proof */}
         <GoogleReviews />
         
-        {/* Code-split sections below */}
         <PinkTaxiSection1 />
         <KashiTaxiIntro />
         <BikeRentalFlash />

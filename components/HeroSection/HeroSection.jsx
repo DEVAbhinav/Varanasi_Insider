@@ -15,7 +15,7 @@ export default function HeroSection({ calculatorProps }) {
       <div className={styles.overlay}></div>
       <div className={styles.content}>
         <header>
-          <h1 className={styles.title}>Varanasi's Most Trusted Taxi Service</h1>
+          <h1 className={styles.title}>Varanasi's Most Trusted Taxi & Tempo Traveller Service</h1>
           <p className={styles.subtitle}>Reliable Airport Pickups, Local Sightseeing & Outstation Trips</p>
         </header>
         {/* Fare calculator over the hero image (replaces lead form) */}

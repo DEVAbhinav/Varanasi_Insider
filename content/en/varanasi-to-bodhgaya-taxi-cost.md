@@ -19,6 +19,8 @@ relatedPosts:
   - varanasi-day-tour-cab-charges
 ---
 
+# Varanasi to Bodh Gaya Taxi Cost & Distance 2025
+
 Updated: Sep 2025
 
 Answer Box

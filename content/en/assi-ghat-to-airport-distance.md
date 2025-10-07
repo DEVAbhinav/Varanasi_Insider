@@ -18,6 +18,8 @@ relatedPosts:
   - ganga-aarti-boat-booking-price
 ---
 
+# Assi Ghat to Varanasi Airport Distance & Taxi Fare 2025
+
 Updated: Sep 2025
 
 Answer Box

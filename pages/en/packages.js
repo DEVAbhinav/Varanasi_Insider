@@ -57,6 +57,25 @@ export default function PackagesPage({ packages, jsonLd }) {
             </Link>
           ))}
         </div>
+
+        <section className="mt-12 space-y-5 text-gray-700">
+          <h2 className="text-2xl font-semibold text-slate-900">Design a Varanasi Taxi Package That Fits Your Pilgrimage</h2>
+          <p>
+            Every itinerary begins with a quick call or WhatsApp on <a className="text-yellow-700 underline" href="tel:+919450301573">+91-94503-01573</a> /{' '}
+            <a className="text-yellow-700 underline" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a>. Tell us your arrival details, headcount and must-visit temples; we assemble cab, boat and guide options within
+            minutes. Short stays often pair the <Link className="text-yellow-700 underline" href="/en/varanasi-day-tour-cab-charges">8 hr / 80 km city tour</Link> with sunrise Subah-e-Banaras, while longer circuits stretch to{' '}
+            <Link className="text-yellow-700 underline" href="/en/varanasi-to-ayodhya">Ayodhya</Link>, <Link className="text-yellow-700 underline" href="/en/varanasi-to-prayagraj">Prayagraj</Link>,{' '}
+            <Link className="text-yellow-700 underline" href="/en/varanasi-to-gaya-bodh-gaya-tour-package">Bodh Gaya</Link> and Vindhyachal Shakti Peeth.
+          </p>
+          <p>
+            Each package clearly lists inclusions (vehicle category, kilometre limits, tolls, parking, night allowances) so you can budget upfront. Need a women-only chauffeur? We can weave in our{' '}
+            <Link className="text-yellow-700 underline" href="/pink-taxi-varanasi">Pink Taxi service</Link> for airport arrivals or late-night darshan runs. Families often request private boats for Dashashwamedh Aarti—check the updated pricing in our{' '}
+            <Link className="text-yellow-700 underline" href="/en/evening-boat-ride-varanasi-ganga-aarti">Evening Boat Ride guide</Link> and ask the team to sync boat timings with your cab schedule.
+          </p>
+          <p>
+            Travelling during Dev Deepawali, Mahashivratri or Kartik Purnima? Slots sell out early. Share your festival dates and we will lock accommodations, darshan assistance and buffer hours for traffic diversions. All confirmations arrive via WhatsApp with driver and vehicle details the evening before each leg so you stay informed without chasing the dispatcher.
+          </p>
+        </section>
       </main>
       <Footer />
     </>

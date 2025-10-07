@@ -8,6 +8,8 @@ description: 'Ghats of Varanasi explained—from Dashashwamedh to Assi. Best spo
 tags: ['ghats', 'guide', 'varanasi', 'tourism']
 ---
 
+# Ghats of Varanasi Visitor Guide 2025
+
 Varanasi's soul lives on its ghats, the long chain of steps leading down to the holy River Ganges. There are over 80 ghats, each with its own story and significance.
 
 ![Overview of Varanasi's ghats from the river](/images/varanasi-ghats-overview.jpeg "Overview of Varanasi's ghats")

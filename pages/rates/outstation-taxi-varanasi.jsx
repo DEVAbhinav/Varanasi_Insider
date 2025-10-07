@@ -22,6 +22,8 @@ import { Button } from "@/components/ui/button";
 import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ui/accordion";
 import JsonLd from "@/components/JsonLd/JsonLd";
 import FareCalculator from "@/components/FareCalculator/FareCalculator";
+import NavBar from "@/components/NavBar/NavBar";
+import Footer from "@/components/Footer/Footer";
 
 const fadeUp = {
   initial: { opacity: 0, y: 16 },
@@ -147,54 +149,57 @@ export default function OutstationTaxiGuide() {
         <JsonLd data={jsonLd} />
       </Head>
 
-      {/* HERO */}
-      <section className="relative">
-        <div className="absolute inset-0 -z-10">
-          <Image src="/images/varanasi-hero.png" alt="Varanasi Ghats" fill priority className="object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/55 via-black/35 to-amber-900/30" />
-        </div>
-        <div className="mx-auto max-w-6xl px-4 py-14 md:py-20">
-          <motion.h1 {...fadeUp} className="text-3xl font-semibold tracking-tight text-white md:text-4xl lg:text-5xl">
-            Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2025)
-          </motion.h1>
-          <motion.p {...fadeUp} className="mt-3 max-w-3xl text-white/90 md:text-lg">
-            Find the <strong>cheapest outstation cabs</strong>, compare <strong>per‑km taxi rates</strong>, book <strong>one‑way</strong> or <strong>round‑trip</strong> rides and estimate your <strong>trip cost</strong> in seconds. From Prayagraj to Lucknow, we’ve got you covered.
-          </motion.p>
-          <div className="mt-6 flex flex-wrap gap-3">
-            <Button asChild size="lg" className="rounded-2xl bg-emerald-600 hover:bg-emerald-700">
-              <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer"><MessageCircle className="mr-2 h-5 w-5"/> WhatsApp for a quote</a>
-            </Button>
-            <Button asChild size="lg" variant="secondary" className="rounded-2xl bg-amber-50/90 text-amber-950 hover:bg-amber-100">
-              <a href="tel:+919450301573"><Phone className="mr-2 h-5 w-5"/> Call now</a>
-            </Button>
+      <NavBar />
+
+      <main>
+        {/* HERO */}
+        <section className="relative">
+          <div className="absolute inset-0 -z-10">
+            <Image src="/images/varanasi-hero.png" alt="Varanasi Ghats" fill priority className="object-cover" />
+            <div className="absolute inset-0 bg-gradient-to-b from-black/55 via-black/35 to-amber-900/30" />
           </div>
+          <div className="mx-auto max-w-6xl px-4 py-14 md:py-20">
+            <motion.h1 {...fadeUp} className="text-3xl font-semibold tracking-tight text-white md:text-4xl lg:text-5xl">
+              Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2025)
+            </motion.h1>
+            <motion.p {...fadeUp} className="mt-3 max-w-3xl text-white/90 md:text-lg">
+              Find the <strong>cheapest outstation cabs</strong>, compare <strong>per‑km taxi rates</strong>, book <strong>one‑way</strong> or <strong>round‑trip</strong> rides and estimate your <strong>trip cost</strong> in seconds. From Prayagraj to Lucknow, we’ve got you covered.
+            </motion.p>
+            <div className="mt-6 flex flex-wrap gap-3">
+              <Button asChild size="lg" className="rounded-2xl bg-emerald-600 hover:bg-emerald-700">
+                <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer"><MessageCircle className="mr-2 h-5 w-5"/> WhatsApp for a quote</a>
+              </Button>
+              <Button asChild size="lg" variant="secondary" className="rounded-2xl bg-amber-50/90 text-amber-950 hover:bg-amber-100">
+                <a href="tel:+919450301573"><Phone className="mr-2 h-5 w-5"/> Call now</a>
+              </Button>
+            </div>
+          </div>
+        </section>
+
+        {/* STICKY TABS */}
+        <div className="sticky top-20 z-40 border-b bg-white/90 backdrop-blur">
+          <nav className="mx-auto max-w-6xl px-4">
+            <ul className="flex flex-wrap gap-2 py-2 text-sm">
+              {[
+                { id: "overview", label : "Rates overview", icon: IndianRupee },
+                { id: "rates", label: "Our rates", icon: Gauge },
+                { id: "oneway", label: "One‑way fares", icon: Route },
+                { id: "deals", label: "Round‑trip deals", icon: BadgeCheck },
+                { id: "calc", label: "Fare calculator", icon: Calculator },
+                { id: "faqs", label: "FAQs", icon: ChevronDown },
+              ].map((t) => (
+                <li key={t.id}>
+                  <a href={`#${t.id}`} className="inline-flex items-center gap-2 rounded-full bg-amber-50 px-3 py-1.5 text-amber-900 ring-1 ring-amber-200 hover:bg-amber-100">
+                    <t.icon className="h-4 w-4"/> {t.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
         </div>
-      </section>
 
-      {/* STICKY TABS */}
-      <div className="sticky top-14 z-40 border-b bg-white/90 backdrop-blur">
-        <nav className="mx-auto max-w-6xl px-4">
-          <ul className="flex flex-wrap gap-2 py-2 text-sm">
-            {[
-              { id: "overview", label : "Rates overview", icon: IndianRupee },
-              { id: "rates", label: "Our rates", icon: Gauge },
-              { id: "oneway", label: "One‑way fares", icon: Route },
-              { id: "deals", label: "Round‑trip deals", icon: BadgeCheck },
-              { id: "calc", label: "Fare calculator", icon: Calculator },
-              { id: "faqs", label: "FAQs", icon: ChevronDown },
-            ].map((t) => (
-              <li key={t.id}>
-                <a href={`#${t.id}`} className="inline-flex items-center gap-2 rounded-full bg-amber-50 px-3 py-1.5 text-amber-900 ring-1 ring-amber-200 hover:bg-amber-100">
-                  <t.icon className="h-4 w-4"/> {t.label}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </nav>
-      </div>
-
-      {/* OVERVIEW CARDS */}
-      <motion.section id="overview" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+        {/* OVERVIEW CARDS */}
+        <motion.section id="overview" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
         <h2 className="text-2xl font-semibold tracking-tight">Varanasi outstation taxi per‑km rate – what to expect</h2>
         <p className="mt-2 text-slate-600">Rates vary by vehicle and operator. Fuel is usually included; <em>tolls, parking, state tax and driver night charges</em> are typically extra. Use these ballpark ranges to benchmark quotes.</p>
         <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
@@ -208,10 +213,10 @@ export default function OutstationTaxiGuide() {
             </Card>
           ))}
         </div>
-      </motion.section>
+        </motion.section>
 
-      {/* OUR RATES (single table, no external providers) */}
-      <motion.section id="rates" {...fadeUp} className="mx-auto max-w-6xl px-4 py-6">
+        {/* OUR RATES (single table, no external providers) */}
+        <motion.section id="rates" {...fadeUp} className="mx-auto max-w-6xl px-4 py-6">
         <h2 className="text-2xl font-semibold tracking-tight">Kashi Taxi outstation rates (2025)</h2>
         <p className="mt-2 text-slate-600">Transparent fares by vehicle class. Fuel included; add <em>tolls, state tax, parking</em> and any <em>driver night</em> charges if applicable.</p>
         <div className="mt-4">
@@ -256,10 +261,10 @@ export default function OutstationTaxiGuide() {
             </Card>
           ))}
         </div>
-      </motion.section>
+        </motion.section>
 
-      {/* ONE-WAY FARES – visual cards */}
-      <motion.section id="oneway" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+        {/* ONE-WAY FARES – visual cards */}
+        <motion.section id="oneway" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
         <h2 className="text-2xl font-semibold tracking-tight">Popular one‑way taxi fares from Varanasi</h2>
         <p className="mt-2 text-slate-600">Indicative sedan prices; tolls and state taxes may be extra depending on operator and route.</p>
         <div className="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -299,10 +304,10 @@ export default function OutstationTaxiGuide() {
             );
           })}
         </div>
-      </motion.section>
+        </motion.section>
 
-      {/* ROUND-TRIP DEALS */}
-      <motion.section id="deals" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+        {/* ROUND-TRIP DEALS */}
+        <motion.section id="deals" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
         <h2 className="text-2xl font-semibold tracking-tight">Round‑trip cab deals vs one‑way rates</h2>
         <p className="mt-2 text-slate-600">Round‑trip bookings usually have a lower per‑km rate; one‑way rides bundle more inclusions. Compare before you book.</p>
         <div className="mt-4 overflow-x-auto">
@@ -327,46 +332,49 @@ export default function OutstationTaxiGuide() {
             </tbody>
           </table>
         </div>
-      </motion.section>
+        </motion.section>
 
-      {/* CALCULATOR */}
-      <motion.section id="calc" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
-        <div className="mb-4 flex items-center gap-2">
-          <Calculator className="h-5 w-5 text-amber-700"/>
-          <h2 className="text-2xl font-semibold tracking-tight">Outstation taxi fare calculator</h2>
-        </div>
-        <FareCalculator />
-      </motion.section>
+        {/* CALCULATOR */}
+        <motion.section id="calc" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+          <div className="mb-4 flex items-center gap-2">
+            <Calculator className="h-5 w-5 text-amber-700"/>
+            <h2 className="text-2xl font-semibold tracking-tight">Outstation taxi fare calculator</h2>
+          </div>
+          <FareCalculator />
+        </motion.section>
 
-      {/* FAQS (brief, SEO friendly) */}
-      <motion.section id="faqs" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
-        <h2 className="text-2xl font-semibold tracking-tight">FAQs — Varanasi outstation taxi booking</h2>
-        <Accordion type="single" collapsible className="mt-4">
-          <AccordionItem value="f1">
-            <AccordionTrigger>What is the minimum km for outstation taxis from Varanasi?</AccordionTrigger>
-            <AccordionContent>Most operators charge a <strong>minimum 250 km/day</strong> for outstation trips. If your itinerary is shorter, you may still pay for the minimum run.</AccordionContent>
-          </AccordionItem>
-          <AccordionItem value="f2">
-            <AccordionTrigger>Are tolls and driver night charges included in the per‑km rate?</AccordionTrigger>
-            <AccordionContent>Typically <strong>no</strong>. Per‑km rates mostly include fuel. Budget extra for <em>tolls, state taxes, parking</em> and <em>driver night allowances</em> (about ₹300–₹350/night).</AccordionContent>
-          </AccordionItem>
-          <AccordionItem value="f3">
-            <AccordionTrigger>Which is the cheapest cab type for outstation?</AccordionTrigger>
-            <AccordionContent>For 2–4 travellers, <strong>Indigo/Indica/Dzire</strong> class sedans offer the lowest price (₹8.5–₹11/km). For 5–7 travellers, <strong>Ertiga/Innova</strong> SUVs balance cost and comfort (₹14–₹18/km).</AccordionContent>
-          </AccordionItem>
-          <AccordionItem value="f4">
-            <AccordionTrigger>Can I book one‑way taxis from Varanasi?</AccordionTrigger>
-            <AccordionContent>Yes. One‑way fares are convenient for point‑to‑point trips to <em>Ayodhya, Prayagraj, Bodhgaya, Lucknow</em> and more. Per‑km is usually higher than round‑trip because the cab returns empty.</AccordionContent>
-          </AccordionItem>
-        </Accordion>
+        {/* FAQS (brief, SEO friendly) */}
+        <motion.section id="faqs" {...fadeUp} className="mx-auto max-w-6xl px-4 py-10">
+          <h2 className="text-2xl font-semibold tracking-tight">FAQs — Varanasi outstation taxi booking</h2>
+          <Accordion type="single" collapsible className="mt-4">
+            <AccordionItem value="f1">
+              <AccordionTrigger>What is the minimum km for outstation taxis from Varanasi?</AccordionTrigger>
+              <AccordionContent>Most operators charge a <strong>minimum 250 km/day</strong> for outstation trips. If your itinerary is shorter, you may still pay for the minimum run.</AccordionContent>
+            </AccordionItem>
+            <AccordionItem value="f2">
+              <AccordionTrigger>Are tolls and driver night charges included in the per‑km rate?</AccordionTrigger>
+              <AccordionContent>Typically <strong>no</strong>. Per‑km rates mostly include fuel. Budget extra for <em>tolls, state taxes, parking</em> and <em>driver night allowances</em> (about ₹300–₹350/night).</AccordionContent>
+            </AccordionItem>
+            <AccordionItem value="f3">
+              <AccordionTrigger>Which is the cheapest cab type for outstation?</AccordionTrigger>
+              <AccordionContent>For 2–4 travellers, <strong>Indigo/Indica/Dzire</strong> class sedans offer the lowest price (₹8.5–₹11/km). For 5–7 travellers, <strong>Ertiga/Innova</strong> SUVs balance cost and comfort (₹14–₹18/km).</AccordionContent>
+            </AccordionItem>
+            <AccordionItem value="f4">
+              <AccordionTrigger>Can I book one‑way taxis from Varanasi?</AccordionTrigger>
+              <AccordionContent>Yes. One‑way fares are convenient for point‑to‑point trips to <em>Ayodhya, Prayagraj, Bodhgaya, Lucknow</em> and more. Per‑km is usually higher than round‑trip because the cab returns empty.</AccordionContent>
+            </AccordionItem>
+          </Accordion>
 
-        {/* CTA */}
-        <div className="mt-8 flex flex-wrap gap-3">
-          <Button asChild className="rounded-2xl bg-emerald-600 hover:bg-emerald-700"><a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer"><MessageCircle className="mr-2 h-4 w-4"/> WhatsApp for best deal</a></Button>
-          <Button asChild variant="secondary" className="rounded-2xl bg-amber-50 text-amber-950 hover:bg-amber-100"><a href="tel:+919450301573"><Phone className="mr-2 h-4 w-4"/> Call now</a></Button>
-        </div>
-        <p className="mt-4 text-xs text-slate-500">Last updated: August 2025</p>
-      </motion.section>
+          {/* CTA */}
+          <div className="mt-8 flex flex-wrap gap-3">
+            <Button asChild className="rounded-2xl bg-emerald-600 hover:bg-emerald-700"><a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer"><MessageCircle className="mr-2 h-4 w-4"/> WhatsApp for best deal</a></Button>
+            <Button asChild variant="secondary" className="rounded-2xl bg-amber-50 text-amber-950 hover:bg-amber-100"><a href="tel:+919450301573"><Phone className="mr-2 h-4 w-4"/> Call now</a></Button>
+          </div>
+          <p className="mt-4 text-xs text-slate-500">Last updated: August 2025</p>
+        </motion.section>
+      </main>
+
+      <Footer />
     </>
   );
 }

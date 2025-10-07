@@ -8,6 +8,8 @@ status: "merged"
 seoNote: "Consolidated into evening boat ride guide to reduce duplication; keep stub for users/bookmarks until 301 added."
 ---
 
+# Ganga Aarti Boat Price in Varanasi 2025
+
 > This pricing content has been **merged into the updated Evening Boat Ride Ganga Aarti Guide** for a single authoritative resource (boarding windows, fare bands, alignment tactics).
 >
 > Primary page: **[Evening Boat Ride – Ganga Aarti On‑Water Positioning & Fare Guide 2025](/en/evening-boat-ride-varanasi-ganga-aarti/)**

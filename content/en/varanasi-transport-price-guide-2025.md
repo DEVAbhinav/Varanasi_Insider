@@ -8,6 +8,8 @@ description: "How much should you pay for an auto, e-rickshaw, or taxi in Varana
 tags: ["varanasi airport taxi price","ganga aarti boat booking price","varanasi pink taxi for women"]
 ---
 
+# Varanasi Transport Price Guide 2025: Auto, Rickshaw & Taxi Fares
+
 > **Need a ride right now?**  
 > Book online at **[www.kashitaxi.in](https://www.kashitaxi.in)** or call **94503 01573** (24×7 WhatsApp).
 

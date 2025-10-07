@@ -55,30 +55,30 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
 
 export async function getStaticProps({ params }) {
   const { getPostData, getJsonLdData, getAllPostsMeta } = await import('../../../lib/posts');
-  
-  // Try to get the post from services folder first, then landing, then guides
+  const fs = await import('fs');
+  const path = await import('path');
+
+  const lookupOrder = ['services', 'landing', 'guides'];
   let postData;
   let jsonLdData;
-  
-  try {
-    postData = await getPostData(params.lang, `services/${params.slug}`);
-    jsonLdData = await getJsonLdData(params.lang, `services/${params.slug}`);
-  } catch (e) {
-    try {
-      postData = await getPostData(params.lang, `landing/${params.slug}`);
-      jsonLdData = await getJsonLdData(params.lang, `landing/${params.slug}`);
-    } catch (e2) {
-      try {
-        postData = await getPostData(params.lang, `guides/${params.slug}`);
-        jsonLdData = await getJsonLdData(params.lang, `guides/${params.slug}`);
-      } catch (e3) {
-        return { notFound: true };
-      }
+
+  for (const folder of lookupOrder) {
+    const candidatePath = path.join(process.cwd(), 'content', params.lang, folder, `${params.slug}.md`);
+
+    if (fs.existsSync(candidatePath)) {
+      const scopedSlug = `${folder}/${params.slug}`;
+      postData = await getPostData(params.lang, scopedSlug);
+      jsonLdData = await getJsonLdData(params.lang, scopedSlug);
+      break;
     }
   }
 
+  if (!postData) {
+    return { notFound: true };
+  }
+
   const allPosts = getAllPostsMeta();
-  
+
   return {
     props: {
       postData,

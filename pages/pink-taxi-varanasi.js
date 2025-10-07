@@ -7,6 +7,7 @@ import KeyBenefits from '../components/Pink/KeyBenefits';
 import FareEstimator from '../components/Pink/FareEstimator';
 import TourPackages from '../components/Pink/TourPackages';
 import SafetyBlock from '../components/Pink/SafetyBlock';
+import SeoCopy from '../components/Pink/SeoCopy';
 
 export default function PinkPage() {
   return (
@@ -22,6 +23,7 @@ export default function PinkPage() {
         <KeyBenefits />
         <FareEstimator />
         <TourPackages />
+  <SeoCopy />
         <SafetyBlock />
         {/* Placeholder for other sections */}
       </main>
