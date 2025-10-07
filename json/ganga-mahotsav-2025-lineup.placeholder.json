@@ -1,0 +1,39 @@
+{
+  "festival": {
+    "id": "ganga-mahotsav-2025",
+    "name_hi": "गंगा महोत्सव 2025",
+    "name_en": "Ganga Mahotsav 2025",
+    "location": {
+      "venue": "Assi Ghat Amphitheatre",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "geo": { "lat": 25.2824, "lng": 83.0106 }
+    },
+    "dates": { "start": "2025-11-06", "end": "2025-11-08", "days": 3 },
+    "timezone": "Asia/Kolkata",
+    "status": "provisional",
+    "lastUpdated": "2025-10-07"
+  },
+  "meta": {"language": "hi", "version": 1, "generatedBy": "content-pipeline"},
+  "days": [
+    {"date": "2025-11-06", "label": "Day 1 - Hindustani Focus", "slots": [
+      {"start": "18:00", "end": "18:30", "segment": "opening"},
+      {"start": "18:30", "end": "19:30", "segment": "instrumental", "artistPlaceholderId": "sitar_maestro_TBA"},
+      {"start": "20:00", "end": "21:00", "segment": "vocal", "artistPlaceholderId": "vocalist_TBA"},
+      {"start": "21:00", "end": "22:00", "segment": "ensemble", "artistPlaceholderId": "ensemble_TBA"}
+    ]},
+    {"date": "2025-11-07", "label": "Day 2 - Dance & Fusion", "slots": [
+      {"start": "18:00", "end": "18:45", "segment": "bharatanatyam", "artistPlaceholderId": "bharatanatyam_TBA"},
+      {"start": "18:45", "end": "19:30", "segment": "kathak", "artistPlaceholderId": "kathak_TBA"},
+      {"start": "20:00", "end": "20:45", "segment": "odissi", "artistPlaceholderId": "odissi_TBA"},
+      {"start": "20:45", "end": "21:30", "segment": "fusion_dance", "artistPlaceholderId": "fusion_TBA"}
+    ]},
+    {"date": "2025-11-08", "label": "Day 3 - Masters & Emerging", "slots": [
+      {"start": "18:00", "end": "19:00", "segment": "veteran_tribute", "artistPlaceholderId": "veteran_maestro_TBA"},
+      {"start": "19:00", "end": "20:00", "segment": "young_artists", "artistPlaceholderId": "young_platform_TBA"},
+      {"start": "20:30", "end": "21:30", "segment": "headline", "artistPlaceholderId": "headline_star_TBA"},
+      {"start": "21:30", "end": "22:30", "segment": "grand_finale", "artistPlaceholderId": "finale_collaboration_TBA"}
+    ]}
+  ]
+}
