@@ -20,6 +20,8 @@ translationStatus: human
 auditNote: "Stub created to avoid duplicate pricing content; internal links preserved."
 ---
 
+# गंगा आरती नाव कीमत 2025 – समेकित सारांश (Redirect Stub)
+
 > **अपडेट:** गंगा आरती नाव कीमत (साझा / प्राइवेट / मोटर / लक्ज़री) अब एकीकृत पेज पर: **[शाम नाव राइड – गंगा आरती ऑन-वॉटर गाइड](/hi/evening-boat-ride-varanasi-ganga-aarti)**
 >
 > यह पेज केवल अंतरिम उपयोगकर्ता बुकमार्क / पुरानी लिंक हेतु है। शीघ्र 301 रीडायरेक्ट सेट होगा।
