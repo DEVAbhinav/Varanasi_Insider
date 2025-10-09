@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "कासी टैक्सी | विनायक ट्रैवल्स वाराणसी",
+      "url": "https://www.kashitaxi.in/"
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller#trip",
+      "name": "त्रिवेणी संगम सूर्योदय स्नान टेम्पो ट्रैवलर",
+      "description": "निजी नाव, पंडित समन्वय और प्राइवेसी टेंट सहित वाराणसी से त्रिवेणी संगम स्नान पैकेज (₹9,300)।",
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "04:30 वाराणसी से प्रस्थान"},
+          {"@type": "ListItem", "position": 2, "name": "06:30 संगम पार्किंग"},
+          {"@type": "ListItem", "position": 3, "name": "07:00 निजी नाव से स्नान और संकल्प"},
+          {"@type": "ListItem", "position": 4, "name": "08:15 बदलाव टेंट एवं चाय"},
+          {"@type": "ListItem", "position": 5, "name": "09:00 बड़े हनुमानजी"},
+          {"@type": "ListItem", "position": 6, "name": "13:30 वापसी"}
+        ]
+      },
+      "travelMode": "BUS",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "price": "9300",
+        "url": "https://www.kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller"
+      },
+      "provider": {"@id": "https://www.kashitaxi.in#organization"},
+      "areaServed": [{"@type": "City", "name": "वाराणसी"}, {"@type": "City", "name": "प्रयागराज"}]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "पैकेज शुल्क?", "acceptedAnswer": {"@type": "Answer", "text": "12-सीटर के लिए ₹9,300 जिसमें निजी नाव, वाहन, ड्राइवर, टोल व बेसिक पूजा किट शामिल।"}},
+        {"@type": "Question", "name": "स्नान के लिए किस समय पहुँचना चाहिए?", "acceptedAnswer": {"@type": "Answer", "text": "भीड़ वाले दिनों में 3:30–4:00 AM प्रस्थान करें ताकि 6:30 AM तक संगम पहुँच सकें।"}},
+        {"@type": "Question", "name": "क्या वरिष्ठों के लिए सहायता है?", "acceptedAnswer": {"@type": "Answer", "text": "हाँ, ई-रिक्शा शटल, लाइफ जैकेट, हैंड वार्मर और ORS किट उपलब्ध।"}},
+        {"@type": "Question", "name": "क्या कल्पवास मल्टी-डे सेवा मिलती है?", "acceptedAnswer": {"@type": "Answer", "text": "हाँ, टेंट सिटी ट्रांसफर और राशन रन के साथ कस्टम पैकेज।"}}
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller",
+      "name": "वाराणसी से त्रिवेणी संगम टेम्पो ट्रैवलर",
+      "primaryImageOfPage": {"@type": "ImageObject", "url": "https://www.kashitaxi.in/images/sangam-600x400.jpeg"},
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "inLanguage": "hi-IN",
+      "about": {"@id": "https://www.kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller#trip"},
+      "publisher": {"@id": "https://www.kashitaxi.in#organization"}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "होम", "item": "https://www.kashitaxi.in/"},
+        {"@type": "ListItem", "position": 2, "name": "सेवाएँ", "item": "https://www.kashitaxi.in/hi/services/"},
+        {"@type": "ListItem", "position": 3, "name": "त्रिवेणी संगम स्नान", "item": "https://www.kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "कासी टैक्सी | विनायक ट्रैवल्स वाराणसी",
+      "url": "https://www.kashitaxi.in/"
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller#trip",
+      "name": "वाराणसी से नैमिषारण्य 1N/2D टेम्पो ट्रैवलर",
+      "description": "चक्रतीर्थ, ललिता देवी, सूकदेव पीठ और दधीचि कुंड समेत 2 दिन की वाराणसी से नैमिषारण्य टेम्पो ट्रैवलर यात्रा।",
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "दिन 1: 04:45 प्रस्थान → लखनऊ हॉल्ट → ललिता देवी → सूकदेव पीठ → चक्रतीर्थ संध्या"},
+          {"@type": "ListItem", "position": 2, "name": "दिन 2: चक्रतीर्थ प्रातः ध्यान → हनुमान गढ़ी → सीता कुंड → पांडव किला (ऐच्छिक) → वाराणसी वापसी"}
+        ]
+      },
+      "travelMode": "BUS",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "description": "12-सीटर संदर्भ: ~820 किमी @ ₹24/किमी + ड्राइवर नाइट भत्ता + टोल (कुल लगभग ₹22,000)।"
+        },
+        "url": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller"
+      },
+      "provider": {"@id": "https://www.kashitaxi.in#organization"},
+      "areaServed": [{"@type": "City", "name": "वाराणसी"}, {"@type": "Place", "name": "नैमिषारण्य"}]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "दूरी कितनी है?", "acceptedAnswer": {"@type": "Answer", "text": "लगभग 390–410 किमी (लखनऊ/सीतापुर रूट)।"}},
+        {"@type": "Question", "name": "क्या एक दिन में करना चाहिए?", "acceptedAnswer": {"@type": "Answer", "text": "नहीं, 1N/2D योजना ही सार्थक दर्शन देती है।"}},
+        {"@type": "Question", "name": "महत्वपूर्ण स्थल?", "acceptedAnswer": {"@type": "Answer", "text": "चक्रतीर्थ, ललिता देवी, दधीचि कुंड, सूकदेव/व्यास गद्दी, हनुमान गढ़ी, सीता कुंड।"}},
+        {"@type": "Question", "name": "लागत क्या होगी?", "acceptedAnswer": {"@type": "Answer", "text": "12-सीटर पर ~₹21,500–₹22,500 (किलोमीटर, भत्ता, टोल सहित)।"}}
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller",
+      "name": "वाराणसी से नैमिषारण्य टेम्पो ट्रैवलर",
+      "primaryImageOfPage": {"@type": "ImageObject", "url": "https://www.kashitaxi.in/images/tempo-traveller-fleet.jpg"},
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "inLanguage": "hi-IN",
+      "about": {"@id": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller#trip"},
+      "publisher": {"@id": "https://www.kashitaxi.in#organization"}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "होम", "item": "https://www.kashitaxi.in/"},
+        {"@type": "ListItem", "position": 2, "name": "सेवाएँ", "item": "https://www.kashitaxi.in/hi/services/"},
+        {"@type": "ListItem", "position": 3, "name": "नैमिषारण्य यात्रा", "item": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller"}
+      ]
+    }
+  ]
+}

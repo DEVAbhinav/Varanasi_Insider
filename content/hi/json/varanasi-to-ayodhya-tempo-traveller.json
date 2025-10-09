@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "कासी टैक्सी | विनायक ट्रैवल्स वाराणसी",
+      "url": "https://www.kashitaxi.in/"
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller#trip",
+      "name": "वाराणसी से अयोध्या डे-ट्रिप टेम्पो ट्रैवलर",
+      "description": "राम जन्मभूमि, सरयू घाट, हनुमानगढ़ी और कनक भवन दर्शन के लिए ₹14,500 ऑल-इन वाराणसी से अयोध्या टेम्पो ट्रैवलर पैकेज।",
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "05:00 प्रस्थान वाराणसी"},
+          {"@type": "ListItem", "position": 2, "name": "10:00 सरयू स्नान व घाट समय"},
+          {"@type": "ListItem", "position": 3, "name": "10:30 श्री राम जन्मभूमि मंदिर दर्शन"},
+          {"@type": "ListItem", "position": 4, "name": "12:30 हनुमानगढ़ी"},
+          {"@type": "ListItem", "position": 5, "name": "14:00 कनक भवन व सीता रसोई"},
+          {"@type": "ListItem", "position": 6, "name": "16:30 वापसी, 21:00 वाराणसी आगमन"}
+        ]
+      },
+      "travelMode": "BUS",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "price": "14500",
+        "url": "https://www.kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller"
+      },
+      "provider": {"@id": "https://www.kashitaxi.in#organization"},
+      "areaServed": [{"@type": "City", "name": "वाराणसी"}, {"@type": "City", "name": "अयोध्या"}]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "किराया क्या है?", "acceptedAnswer": {"@type": "Answer", "text": "डे-ट्रिप के लिए ₹14,500 (वाहन, फ्यूल, टोल, पार्किंग, टैक्स समेत)।"}},
+        {"@type": "Question", "name": "यात्रा समय?", "acceptedAnswer": {"@type": "Answer", "text": "लगभग 4–5 घंटे एक तरफ़ (~220 किमी)।"}},
+        {"@type": "Question", "name": "कौन-कौन से स्थल कवर होते हैं?", "acceptedAnswer": {"@type": "Answer", "text": "राम जन्मभूमि, सरयू घाट, हनुमानगढ़ी, कनक भवन, दशरथ महल (समय अनुसार)।"}},
+        {"@type": "Question", "name": "सीटर विकल्प?", "acceptedAnswer": {"@type": "Answer", "text": "12-सीटर एवं 17-सीटर AC टेम्पो ट्रैवलर उपलब्ध।"}}
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller",
+      "name": "वाराणसी से अयोध्या टेम्पो ट्रैवलर",
+      "primaryImageOfPage": {"@type": "ImageObject", "url": "https://www.kashitaxi.in/images/blogAyodhya.jpg"},
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "inLanguage": "hi-IN",
+      "about": {"@id": "https://www.kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller#trip"},
+      "publisher": {"@id": "https://www.kashitaxi.in#organization"}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "होम", "item": "https://www.kashitaxi.in/"},
+        {"@type": "ListItem", "position": 2, "name": "सेवाएँ", "item": "https://www.kashitaxi.in/hi/services/"},
+        {"@type": "ListItem", "position": 3, "name": "अयोध्या डे-ट्रिप", "item": "https://www.kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller"}
+      ]
+    }
+  ]
+}

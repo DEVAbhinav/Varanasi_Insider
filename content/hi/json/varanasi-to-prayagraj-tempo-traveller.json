@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "कासी टैक्सी | विनायक ट्रैवल्स वाराणसी",
+      "url": "https://www.kashitaxi.in/"
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller#trip",
+      "name": "वाराणसी से प्रयागराज डे-ट्रिप टेम्पो ट्रैवलर",
+      "description": "₹8,500 में त्रिवेणी संगम स्नान, बड़े हनुमानजी, अलोपी देवी और आनंद भवन सहित वाराणसी से प्रयागराज दिनभर का निजी टेम्पो ट्रैवलर पैकेज।",
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "07:00 वाराणसी से प्रस्थान (NH19)"},
+          {"@type": "ListItem", "position": 2, "name": "10:00 त्रिवेणी संगम स्नान एवं नाव"},
+          {"@type": "ListItem", "position": 3, "name": "11:30 बड़े हनुमानजी, अक्षयवट"},
+          {"@type": "ListItem", "position": 4, "name": "12:30 अलोपी देवी"},
+          {"@type": "ListItem", "position": 5, "name": "13:15 लंच और 14:30 आनंद भवन (इच्छानुसार)"},
+          {"@type": "ListItem", "position": 6, "name": "15:30 वापसी, 18:30 वाराणसी ड्रॉप"}
+        ]
+      },
+      "travelMode": "BUS",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "INR",
+        "price": "8500",
+        "url": "https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller"
+      },
+      "provider": {"@id": "https://www.kashitaxi.in#organization"},
+      "areaServed": [{"@type": "City", "name": "वाराणसी"}, {"@type": "City", "name": "प्रयागराज"}]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "किराया कितना है?", "acceptedAnswer": {"@type": "Answer", "text": "12-सीटर AC टेम्पो ट्रैवलर का ऑल-इन किराया ₹8,500 है।"}},
+        {"@type": "Question", "name": "यात्रा समय कितना लगता है?", "acceptedAnswer": {"@type": "Answer", "text": "NH19 से लगभग 2.5–3 घंटे एक तरफ़ (121 किमी)।"}},
+        {"@type": "Question", "name": "क्या एक दिन में आराम से हो जाता है?", "acceptedAnswer": {"@type": "Answer", "text": "हाँ, सुबह 7 से शाम 6:30 तक मुख्य स्थल कवर हो जाते हैं।"}},
+        {"@type": "Question", "name": "क्या नाव और पंडित की व्यवस्था होती है?", "acceptedAnswer": {"@type": "Answer", "text": "हाँ, विश्वसनीय निजी नाव और पंडा पैनल से पहले ही समन्वय करते हैं।"}}
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller",
+      "name": "वाराणसी से प्रयागराज टेम्पो ट्रैवलर",
+      "primaryImageOfPage": {"@type": "ImageObject", "url": "https://www.kashitaxi.in/images/prayagraj.jpg"},
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "inLanguage": "hi-IN",
+      "about": {"@id": "https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller#trip"},
+      "publisher": {"@id": "https://www.kashitaxi.in#organization"}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "होम", "item": "https://www.kashitaxi.in/"},
+        {"@type": "ListItem", "position": 2, "name": "सेवाएँ", "item": "https://www.kashitaxi.in/hi/services/"},
+        {"@type": "ListItem", "position": 3, "name": "प्रयागराज डे-टूर", "item": "https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller"}
+      ]
+    }
+  ]
+}
