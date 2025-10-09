@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi",
+        "Kashi Tempo Traveller"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-janmabhoomi-tempo-traveller#trip",
+      "name": "Varanasi to Ram Janmabhoomi Security-Focused Tempo Traveller",
+      "description": "Security-led Tempo Traveller charter covering Ram Janmabhoomi frisking lanes, lockers, and express queue monitoring with ₹14,800 pricing from Varanasi.",
+      "travelMode": "BUS",
+      "itinerary": {
+        "@type": "ItemList",
+        "name": "Ram Janmabhoomi Security Sequence",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Parking at Ramkatha complex and liaison briefing"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Security queue navigation and locker arrangement"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ram Lala darshan and compliant exit routing"
+          }
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "14800",
+        "priceCurrency": "INR",
+        "name": "Ram Janmabhoomi security liaison Tempo Traveller package",
+        "url": "https://www.kashitaxi.in/en/varanasi-to-ram-janmabhoomi-tempo-traveller"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "City",
+          "name": "Ayodhya"
+        }
+      ],
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-janmabhoomi-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much time should we keep for Ram Janmabhoomi security checks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Plan 60–75 minutes from parking bay to sanctum on regular days; weekends and festivals can stretch to 90 minutes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What items are banned inside Ram Janmabhoomi complex?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bags above 12 inches, liquids, power banks, large prasad boxes, and metal pooja items are disallowed. Phones must stay on silent."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you arrange lockers for valuables?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we book Shri Ram Janmabhoomi Trust lockers at Gate 3 and issue tamper-proof tags for each group."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the fare for this security-focused package?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pricing starts at ₹14,800 for a 12 seater including security liaison and queue monitoring support."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-janmabhoomi-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/en/varanasi-to-ram-janmabhoomi-tempo-traveller",
+      "name": "Varanasi to Ram Janmabhoomi Tempo Traveller",
+      "description": "Security-focused Ram Janmabhoomi Tempo Traveller charter with express queue guidance, lockers, and ₹14,800 all-inclusive pricing from Varanasi.",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-janmabhoomi-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi to Ram Janmabhoomi Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-ram-janmabhoomi-tempo-traveller"
+        }
+      ]
+    }
+  ]
+}

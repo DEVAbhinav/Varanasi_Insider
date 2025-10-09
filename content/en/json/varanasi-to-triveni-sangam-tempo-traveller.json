@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi",
+        "Kashi Tempo Traveller"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller#trip",
+      "name": "Varanasi to Triveni Sangam Tempo Traveller Package",
+      "description": "Private Tempo Traveller from Varanasi to Triveni Sangam with sunrise snan scheduling, private boat, and priest concierge for ₹9,300.",
+      "travelMode": "BUS",
+      "itinerary": {
+        "@type": "ItemList",
+        "name": "Triveni Sangam Ritual Flow",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Pre-dawn departure and Sangam parking arrival"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Private boat boarding and priest-led snan"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Post-snan dressing tent and heritage add-ons"
+          }
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "9300",
+        "priceCurrency": "INR",
+        "name": "Triveni Sangam sunrise snan Tempo Traveller package",
+        "url": "https://www.kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "City",
+          "name": "Prayagraj"
+        }
+      ],
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a Varanasi to Triveni Sangam Tempo Traveller cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 12 seater with private boat and priest coordination is ₹9,300 inclusive, while 17 seaters are typically ₹10,500."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you arrange prasad, pandit, and puja samagri at Sangam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, vetted priests supply kalash, flowers, roli, janeu, and kurta for the yajman so devotees only carry personal change clothes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What time should we reach Sangam for sunrise snan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Leave Varanasi by 3:30 AM on peak snan days to arrive before 6:30 AM sunrise; 5:30 AM departure works for regular days."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Tempo Traveller parked close to the ghat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "On regular days vehicles park at Sangam Gate 3 within a 7-minute walk; heavy crowds trigger reserved e-rickshaw shuttles for elders."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller",
+      "name": "Varanasi to Triveni Sangam Tempo Traveller",
+      "description": "Triveni Sangam sunrise snan Tempo Traveller with private boat, priest concierge, and ₹9,300 transparent pricing from Varanasi.",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi to Triveni Sangam Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller"
+        }
+      ]
+    }
+  ]
+}

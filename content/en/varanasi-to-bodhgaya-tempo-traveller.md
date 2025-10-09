@@ -15,13 +15,13 @@ relatedPosts:
 
 All-inclusive pricing; 26-seater option available. Varanasi ↔ Bodhgaya is ~255–300 km, 5–6 hrs each way by road—Tempo Traveller is most comfortable for groups.
 
-## Vehicle Photos
+## Tempo Traveller Photos for Bodhgaya Pilgrimage
 
 ![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Bodhgaya day/overnight trip")
 
 ![Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Supportive seats and AC — long distance comfort")
 
-## Varanasi–Bodhgaya Itinerary (One‑Day Sample)
+## Varanasi to Bodhgaya Tempo Traveller Itinerary (One‑Day Sample)
 
 - 4:00 AM: Depart Varanasi (essential early start)
 - 9:30–10:00 AM: Arrive Gaya — Pind Daan at Vishnupad; visit Mangala Gauri (Shakti Peeth)
@@ -32,20 +32,20 @@ All-inclusive pricing; 26-seater option available. Varanasi ↔ Bodhgaya is ~255
 - 5:30 PM: Return to Varanasi
 - 11:00 PM: Arrival
 
-## Varansi–Bodhgaya Route & Travel Basics
+## Varanasi to Bodhgaya Route & Travel Basics
 
 - Distance: ~255 km via NH19/AH1 (Varanasi → Mohania → Dobhi → Bodhgaya)
 - Driving Time: 5–6 hours one way (buffer for breaks/roadworks)
 - Optional Detour: Sasaram (Sher Shah Suri Tomb) if leaving very early
 
-## What You’ll See
+## Bodhgaya Pilgrimage Highlights You’ll See
 
 - Mahabodhi Temple and the sacred Bodhi Tree (UNESCO World Heritage)
 - Great Buddha Statue (80 ft)
 - Country monasteries: Thai, Japanese, Tibetan, Bhutanese, etc.
 - Gaya’s Vishnupad Temple for Pind Daan (optional but popular with Kashi pilgrims)
 
-## Tempo Traveller Pricing & Inclusions
+## Bodhgaya Tempo Traveller Pricing & Inclusions
 
 Typical same‑day 12‑seater all‑inclusive: ₹16,000–₹18,000; 17‑seater slightly higher. Packages generally include:
 - Private Tempo Traveller with experienced driver
@@ -54,47 +54,47 @@ Typical same‑day 12‑seater all‑inclusive: ₹16,000–₹18,000; 17‑seat
 
 Overnight plan: usually ₹20,000–₹22,000 (driver lodging/DA included). We also quote per‑km on request.
 
-## Comfort Stops & Safety
+## Comfort Stops & Safety on the Bodhgaya Route
 
 - Planned breakfast/lunch halts at clean facilities en route (driver suggests best options)
 - First‑aid kit on board; cautious driving—no rash driving
 - Monsoon note: possible potholes; our drivers know the cautious stretches
 
-## Pilgrimage Circuit Options
+## Bodhgaya Buddhist Circuit Tempo Traveller Options
 
 Extend to a Buddhist Circuit: Varanasi & Sarnath → Bodhgaya → Rajgir & Nalanda → Kushinagar → Lumbini. We support 3–5 day custom circuits with the same vehicle/driver throughout.
 
-## Customer Stories
+## Bodhgaya Tempo Traveller Customer Stories
 
 - Buddhist pilgrims played chants on board; driver maintained a quiet, respectful ambience
 - Family combining Kashi + Gaya: even an 80‑year‑old managed the long day comfortably
 - History enthusiasts added Sher Shah’s Tomb at Sasaram and still reached Bodhgaya by lunch
 
-## FAQs
+## FAQs for Varanasi to Bodhgaya Tempo Traveller
 
 - Is same‑day feasible? Yes, with a very early start; overnight is more relaxed
 - Are guides included? Driver coordinates logistics; licensed guides can be arranged extra
 - How long at Mahabodhi? Keep at least 1–2 hours; photography rules apply near sanctum
 
-## What to Carry
+## What to Carry for Bodhgaya Pilgrimage by Tempo Traveller
 
 - Socks (for hot stone floors), cap/umbrella, water/snacks, ID, small offerings
 
-## Booking & Preparation
+## Booking & Preparation for Bodhgaya Tempo Traveller Packages
 
 - Book a few days in advance (outstation driver scheduling)
 - Start early (often 4–6 AM) to optimize temple time and return not too late
 - In Gaya, set donation amounts clearly to avoid priest hassles; our driver can help coordinate
 
-## Multi-Day Buddhist Circuit (Custom)
+## Multi-Day Buddhist Circuit Tempo Traveller (Custom)
 
 Varanasi & Sarnath → Bodhgaya → Rajgir & Nalanda → Kushinagar → Lumbini (Nepal). Fully customizable with quotes on request.
 
-## Tips
+## Tips for Varanasi to Bodhgaya Travellers
 
 Carry water/snacks; mobiles/cameras are deposited before entering the Mahabodhi complex; spend quiet time near the Bodhi Tree for a serene experience.
 
-## Book Now
+## Book Your Varanasi to Bodhgaya Tempo Traveller
 
 - Primary CTA: Book Your Bodhgaya Day Trip (₹16,000)
 - Secondary CTA: Customize Your Buddhist Circuit Tour

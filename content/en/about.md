@@ -2,7 +2,7 @@
 title: "About Banarasi Kashitaxi: Trusted Varanasi Taxis (2025)"
 slug: "about"
 date: "2025-07-28"
-author: "Abhinav Pandey"
+author: "Utkarsh Pandey"
 description: "Meet Banarasi Kashitaxi, a family-run Varanasi taxi service since 1998. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
 featuredImage: "/images/posts/about-banarasi-kashitaxi.jpg"
 lang: en-IN
@@ -12,7 +12,7 @@ metaTitle: "About Us | Banarasi Kashitaxi | Trusted Varanasi Taxi Service Since 
 metaDescription: "Discover the story of Banarasi Kashitaxi, a family-run Varanasi taxi service. We offer reliable airport transfers, Pink Taxis for women, and custom tours."
 ---
 
-# नमस्ते! I’m Abhinav Pandey—Here’s Our Story 🚖✨
+# नमस्ते! I’m Utkarsh Pandey—Here’s Our Story 🚖✨
 
 I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into a lifeline for pilgrims landing at Varanasi Junction. What began as a modest **Vinayak Travels Tour** counter in 1998 is now **Banarasi Kashitaxi**: a tech‑enabled fleet serving 30+ cities across Uttar Pradesh and Bihar, with special focus on women‑only Pink Taxis and curated Buddhist Circuit tours.
 

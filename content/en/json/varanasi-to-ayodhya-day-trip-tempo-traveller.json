@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi",
+        "Kashi Tempo Traveller"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller#trip",
+      "name": "Varanasi to Ayodhya Day Trip Tempo Traveller",
+      "description": "Sunrise-to-night Ram Mandir day trip from Varanasi with 12-seater Tempo Traveller, darshan coordination, wheelchair support, and ₹14,500 transparent pricing.",
+      "travelMode": "BUS",
+      "itinerary": {
+        "@type": "ItemList",
+        "name": "Ayodhya Day Trip Highlights",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Ram Mandir morning darshan"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hanuman Garhi and Kanak Bhawan visit"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Saryu Aarti and return to Varanasi"
+          }
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "14500",
+        "priceCurrency": "INR",
+        "name": "All-inclusive Ayodhya day trip Tempo Traveller package",
+        "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "City",
+          "name": "Ayodhya"
+        }
+      ],
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can Ayodhya be covered comfortably in a single day from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. With a 4:30–5:00 AM start you can complete Ram Mandir darshan, Hanuman Garhi, Kanak Bhawan, and Saryu Aarti before returning to Varanasi by 9:00 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the price of a Tempo Traveller day trip to Ayodhya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "₹14,500 for a 12 seater all-inclusive package covering vehicle, driver, tolls, and parking. 17 seaters cost ₹15,500."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you include meal stops in the day plan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Breakfast near Handia, lunch at trusted Ayodhya restaurants, and a tea break on the return leg are scheduled, with special diets arranged on request."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you manage senior citizens on this long day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rest intervals every 90 minutes, travel pillows, wheelchair support at Ram Mandir, and elevator access coordination keep seniors comfortable."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller",
+      "name": "Varanasi to Ayodhya Day Trip Tempo Traveller Guide",
+      "description": "Step-by-step Ram Mandir day trip playbook with Tempo Traveller pricing, itinerary, and support for elders from Varanasi.",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi to Ayodhya Day Trip Tempo Traveller Guide",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller"
+        }
+      ]
+    }
+  ]
+}

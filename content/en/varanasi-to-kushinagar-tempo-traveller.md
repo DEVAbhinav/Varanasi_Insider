@@ -1,7 +1,7 @@
 ---
 lang: en
-title: "Varanasi to Kushinagar Tempo Traveller (2025): Mahaparinirvana Pilgrimage Guide"
-description: "Varanasi to Kushinagar by Tempo Traveller – Mahaparinirvana Temple, Ramabhar Stupa, meditation windows, 1N/2D itinerary, costs, tips, vehicle sizing."
+title: "Varanasi to Kushinagar Tempo Traveller | Mahaparinirvana 1N Plan"
+description: "Secure a cushioned Traveller for Mahaparinirvana Temple, Ramabhar Stupa, and dawn meditation slots. 1N/2D itineraries with vetted hotels—lock your dates."
 slug: varanasi-to-kushinagar-tempo-traveller
 date: 2025-09-19
 author: "Kamal Nayan Singh"
@@ -34,14 +34,17 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 
 > Core Principle: Preserve dawn + dusk at site; avoid starting return leg late evening.
 
-## Distance & Timing
+| ![Mahaparinirvana Temple entrance during dawn meditation hour](/images/blogbhugate.jpg "Mahaparinirvana Temple dawn meditation window") | ![Traveller interior arranged with meditation cushions and blankets](/images/Temp_travellar_inside.jpeg "Interior arranged for reflective travel") | ![Luxury Traveller seats reclined for overnight rest](/images/Tempo_traveller_lux_seat_side.jpeg "Recliner seats ready for serene journey") |
+| --- | --- | --- |
+
+## Varanasi to Kushinagar Distance & Travel Time
 | Segment | Km | Typical Drive (hrs) | Notes |
 | --- | --- | --- | --- |
 | Varanasi → Kushinagar | 260–280 | 7–8 | Early departure (≤6 AM) recommended |
 | Local Transfers (hotel ↔ sites) | 5–10 | - | Minimal intra-town |
 | Kushinagar → Varanasi | 260–280 | 7–8 | Start post-breakfast |
 
-## 1N/2D Sample Flow
+## Kushinagar 1N/2D Tempo Traveller Itinerary
 | Day | Morning | Midday | Evening |
 | --- | --- | --- | --- |
 | 1 | Depart Varanasi early; en route tea halt | Hotel check-in + rest | Mahaparinirvana Temple meditation + Stupa walk |
@@ -49,19 +52,23 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 
 > Optional: Add brief reflective journaling circle pre-departure for group cohesion.
 
-## Practice Windows
+## Meditation Practice Windows in Kushinagar
 - Dawn hush inside Mahaparinirvana Temple hall.
 - Late afternoon soft light along stupa grounds.
 - Early second morning – quieter Ramabhar perimeter before day traffic.
 
-## Vehicle Selection
+![Ramabhar Stupa lawns bathed in soft evening light](/images/blogGaya.png "Ramabhar Stupa during golden hour")
+
+![Travellers journaling under tree canopy after meditation](/images/varanasi-ghat-early-morning.jpeg "Journaling break mirroring Kushinagar retreats")
+
+## Kushinagar Tempo Traveller Vehicle Selection
 | Group Size | Recommended | Why |
 | --- | --- | --- |
 | ≤8 | 9 Seater | Agile | 
 | 9–11 | 12 Seater | Aisle & cushion stacking |
 | 12–16 | 17 Seater | Legroom on 7–8 hr leg |
 
-## Cost Illustration (12 Seater – ~540–560 km total)
+## Kushinagar Tempo Traveller Cost Illustration (12 Seater – ~540–560 km total)
 | Component | Estimate (₹) | Notes |
 | --- | --- | --- |
 | Km @₹24 | 12,960–13,440 | Distance variance |
@@ -69,14 +76,14 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 | Tolls & Parking | 1,000–1,300 | Border district mix |
 | Total Transport | 14,600–15,300 | Excludes lodging / meals |
 
-## Packing & Comfort
+## Packing & Comfort Tips for Kushinagar Pilgrimage
 - Light meditation shawl / wrap
 - Hydration (electrolyte sachets)
 - Thin cushion / mat
 - Slip-on footwear
 - ID copies (group coordination)
 
-## Visual Gallery (Symbolic Until Field Photos Added)
+## Kushinagar Visual Gallery (Symbolic Until Field Photos Added)
 | Meditation Interior Mood | Fleet Exterior | Interior Aisle |
 | --- | --- | --- |
 | ![Varanasi to Kushinagar tempo traveller interior ambience](/images/Tempo_travellar_neon_inside.jpeg "Evening ambient lighting – calm re-entry") | ![Tempo traveller exterior kushinagar circuit](/images/tempo-travellar-outside-front-p.jpeg "Exterior – recognition at hotel") | ![Interior seating for pilgrimage group](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Aisle for cushion storage") |
@@ -87,12 +94,12 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 
 > Replace with authentic Mahaparinirvana Temple & Ramabhar Stupa images once obtained (ensure proper attribution policies if external sources used).
 
-## Ethical Conduct
+## Ethical Conduct for Kushinagar Buddhist Sites
 - Maintain silence cues inside inner hall.
 - No intrusive flash near resting Buddha statue.
 - Pack out waste; limited structured disposal in peripheral lanes.
 
-## FAQs – Kushinagar Trip
+## FAQs – Kushinagar Tempo Traveller Trip
 (See faqSchema list.)
 
 ## Related

@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi",
+        "Kashi Tempo Traveller"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller#trip",
+      "name": "Varanasi to Ayodhya 12-Seater Tempo Traveller Charter",
+      "description": "Family-focused 12-seater Tempo Traveller from Varanasi to Ayodhya with seat-map guidance, cushions, luggage planning, and ₹14,500 all-inclusive fare.",
+      "travelMode": "BUS",
+      "itinerary": {
+        "@type": "ItemList",
+        "name": "12-Seater Ayodhya Charter Inclusions",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Varanasi departure with family seating plan"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Ram Mandir and Hanuman Garhi darshan assistance"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Return drop with luggage and prasad handling"
+          }
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "14500",
+        "priceCurrency": "INR",
+        "name": "12-seater Ayodhya Tempo Traveller package",
+        "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "City",
+          "name": "Ayodhya"
+        }
+      ],
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How many passengers does a 12 seater Tempo Traveller fit comfortably?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ideal for 8–11 passengers plus driver with aisle access for elders and rear luggage space."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the fare for a 12 seater Traveller from Varanasi to Ayodhya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "₹14,500 all-inclusive for a same-day return covering vehicle, driver, tolls, parking, and basic refreshments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there enough luggage space for prasad and shopping?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rear boot accommodates 5–6 medium bags and a roof carrier is provided for suitcases or bulk prasad boxes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do seats recline fully for elders to rest?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Seats recline to 135° with adjustable headrests, and travel cushions and blankets are supplied on request."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller",
+      "name": "Varanasi to Ayodhya 12-Seater Tempo Traveller",
+      "description": "Seat-map, fare, and comfort guide for 12-seater Tempo Traveller family charters from Varanasi to Ayodhya Ram Mandir.",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi to Ayodhya 12-Seater Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller"
+        }
+      ]
+    }
+  ]
+}

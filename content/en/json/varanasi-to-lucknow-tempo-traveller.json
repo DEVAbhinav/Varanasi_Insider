@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi",
+        "Kashi Tempo Traveller"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller#trip",
+      "name": "Varanasi to Lucknow Tempo Traveller Transfer",
+      "description": "Corporate and wedding-ready Tempo Traveller shuttle from Varanasi to Lucknow with Wi-Fi, night-driver rotations, and ₹12,500 all-inclusive drop pricing.",
+      "travelMode": "BUS",
+      "itinerary": {
+        "@type": "ItemList",
+        "name": "Lucknow Shuttle Sequence",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Pickup in Varanasi city or airport"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Purvanchal Expressway cruise with meal halt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Drop at Lucknow hotels, venues, or airport"
+          }
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "12500",
+        "priceCurrency": "INR",
+        "name": "Varanasi to Lucknow Tempo Traveller drop package",
+        "url": "https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "City",
+          "name": "Lucknow"
+        }
+      ],
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the fare for a Varanasi to Lucknow Tempo Traveller?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 12 seater is billed at ₹23/km (minimum 340 km) with typical fixed quotes of ₹12,500–₹13,500; 17 seaters are ₹26/km."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the drive from Varanasi to Lucknow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 320 km run via Purvanchal Expressway takes 5.5–6 hours including one meal halt, with minor toll queues on weekends."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can we get on-board Wi-Fi and charging points?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Premium Travellers provide 4G Wi-Fi dongles, fast USB charging, and laptop trays suitable for corporate travellers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide night driving for airport pickups?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "24×7 operations are supported, with ₹600 night allowance after 11 PM and optional two-driver rotations for red-eye runs."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller",
+      "name": "Varanasi to Lucknow Tempo Traveller",
+      "description": "Wi-Fi enabled Tempo Traveller shuttle from Varanasi to Lucknow with corporate-grade comfort and transparent fare starting ₹12,500.",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi to Lucknow Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller"
+        }
+      ]
+    }
+  ]
+}

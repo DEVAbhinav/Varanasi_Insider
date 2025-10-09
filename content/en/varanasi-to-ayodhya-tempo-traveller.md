@@ -5,6 +5,7 @@ description: "Varanasi to Ayodhya Tempo Traveller one‑day package at ₹14,500
 date: 2025-08-27
 tags: [ayodhya, varanasi to ayodhya tempo traveller, tempo traveller fare, ayodhya day trip, ram mandir, ram janmabhoomi, 12 seater tempo traveller, 17 seater tempo traveller, pilgrimage, one-day trip]
 slug: varanasi-to-ayodhya-tempo-traveller
+featuredImage: /images/blogAyodhya.jpg
 canonical: https://www.kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller
 relatedPosts:
   - pilgrimage-yatra-tours-tempo-traveller-varanasi
@@ -16,7 +17,7 @@ relatedPosts:
 
 A glimpse of the under‑construction Shri Ram Mandir in Ayodhya—a must‑visit on this pilgrimage. Embark on a spiritual journey from Kashi to Ayodhya with our Tempo Traveller package. This is your definitive guide to a one‑day group tour from Varanasi to Ayodhya—covering itinerary, key temples, travel time, and an all‑inclusive fare. If you’re planning a family pilgrimage to Ram Janmabhoomi, or a group tour for elders, read on for a hassle‑free experience.
 
-## Vehicle Photos
+## Tempo Traveller Photos for Ayodhya Pilgrimage
 
 ![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Ayodhya day trip from Varanasi")
 
@@ -37,14 +38,18 @@ We’ve crafted an optimized plan covering Ayodhya’s must‑see spiritual site
 - ~10:00 AM: Arrive Ayodhya; head to Saryu River for a holy dip or quiet time by the ghats
 - 10:30–11:30 AM: Shri Ram Janmabhoomi Temple (Ram Lala Temple). Open for darshan; expect security checks
 - 12:30 PM: Hanuman Garhi (hilltop temple; ~70–76 steps; great panoramic view)
-- 1:00–2:00 PM: Lunch at a clean, group‑friendly vegetarian restaurant (local specialties available)
+- 1:00–2:00 PM: Lunch at a clean, group-friendly vegetarian restaurant (local specialties available)
 - 2:15 PM: Kanak Bhavan; nearby Sita Rasoi (adds heritage context beyond the main temple)
-- 3:15 PM: Dashrath Mahal (time‑permitting; quick stop for Ramayana history)
+- 3:15 PM: Dashrath Mahal (time-permitting; quick stop for Ramayana history)
 - 4:00–4:15 PM: Optional Saryu Aarti (if ahead of schedule); else begin return
 - ~4:30 PM: Depart Ayodhya; tea break en route
-- ~9:00 PM: Arrive back in Varanasi (traffic‑dependent)
+- ~9:00 PM: Arrive back in Varanasi (traffic-dependent)
 
 Itinerary is flexible. Want extended prayer at Ram Janmabhoomi or shopping for prasad/souvenirs? Tell us—we buffer extra time as this is a private tour for your group.
+
+![Ram Mandir complex lit up during evening darshan](/images/AyodhyaTrain3.jpg "Ram Mandir illuminated during evening darshan")
+
+![Guptar Ghat boat ride during sunset add-on](/images/Tempo-Travellar_landscape_Village.jpeg "Sunset boat ride add-on at Guptar Ghat")
 
 ## Why a Tempo Traveller for Ayodhya Yatra?
 
@@ -66,7 +71,7 @@ To book, WhatsApp “Ayodhya trip, travel date, number of people” and we’ll 
 
 Cancellation policy: Full refund if informed 24+ hours in advance. We understand family plans can change—just keep us informed.
 
-## Expert Recommendation
+## Ayodhya Darshan Expert Recommendations
 
 At Hanuman Garhi, groups with seniors should take the steps slowly—the view and darshan are worth it. Try local snacks like khasta kachori or dahi jalebi from reputable vendors for a taste of Ayodhya.
 
@@ -76,13 +81,21 @@ At Hanuman Garhi, groups with seniors should take the steps slowly—the view an
 - Which seater options are available? 12‑seater and 17‑seater Tempo Traveller from Varanasi to Ayodhya, depending on group size.
 - How long is the journey? About 4–5 hours each way (~220 km), via well‑maintained highways.
 
-## Book Your Ayodhya Trip
+## Book Your Varanasi to Ayodhya Tempo Traveller
 
 - Primary CTA: Book Your Ayodhya Trip Now (₹14,500)
 - Custom needs? Request a Custom Quote
 - Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Ayodhya%20day%20trip%20booking
 - Website: https://www.kashitaxi.in/
+
+![Tempo Traveller waiting outside Ram Mandir security gates](/images/AyodhyaBus2.jpg "Tempo Traveller waiting outside Ram Mandir security gates")
+
+## Secure Your Ram Mandir Darshan Seat
+
+Confirm your Traveller today for priority darshan briefing, vetted coordinators, and on-road comfort tuned for elders.
+
+[Reserve My Ayodhya Charter](/booking)
 
 ## Related
 

@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Kashi Taxi",
+        "Kashitaxi",
+        "Kashi Tempo Traveller"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Trip",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller#trip",
+      "name": "Varanasi to Ram Mandir Tempo Traveller Package",
+      "description": "Priority darshan Tempo Traveller charter from Varanasi to Ayodhya Ram Mandir with coordinator support, security briefings, and ₹14,500 starting fare.",
+      "travelMode": "BUS",
+      "itinerary": {
+        "@type": "ItemList",
+        "name": "Ram Mandir Same-Day Flow",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Pre-dawn departure and Prayagraj bypass halt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Ram Mandir darshan with coordinator guidance"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Saryu ghats and return to Varanasi"
+          }
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "14500",
+        "priceCurrency": "INR",
+        "name": "Ram Mandir Tempo Traveller same-day package",
+        "url": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "City",
+          "name": "Ayodhya"
+        }
+      ],
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the fare for a Varanasi to Ram Mandir Tempo Traveller?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 12 seater Tempo Traveller for a Varanasi to Ram Mandir day trip is ₹14,500 all-inclusive; 17 seaters range ₹15,500–₹16,500 depending on festival demand."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How early should we leave Varanasi for Ram Mandir darshan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depart 4:30–5:00 AM to clear Prayagraj bypass traffic and reach Ayodhya reporting zone by 9:30 AM for priority queue slots."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you arrange Ram Mandir VIP or Sugam Darshan passes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We guide pilgrims through the official Shri Ram Janmabhoomi portal to block Sugam Darshan slots and coordinate queue navigation on arrival."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a same-day return comfortable for elders?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes with rest halts every 90 minutes, light snacks, and push-back seats; many families also add a short post-lunch nap window before departure."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller#webpage",
+      "url": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller",
+      "name": "Varanasi to Ram Mandir Tempo Traveller Package",
+      "description": "Priority Ram Mandir darshan Tempo Traveller charter with vetted drivers, security tips, and ₹14,500 transparent pricing from Varanasi.",
+      "inLanguage": "en-IN",
+      "datePublished": "2025-10-09",
+      "dateModified": "2025-10-09",
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi to Ram Mandir Tempo Traveller Package",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller"
+        }
+      ]
+    }
+  ]
+}
