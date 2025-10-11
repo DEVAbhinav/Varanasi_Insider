@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "dev:api": "cd api && func start --port 7071",
+    "dev:full": "./dev-start.sh",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
@@ -33,6 +35,7 @@
     "remark": "^15.0.1",
     "remark-gfm": "^4.0.1",
     "remark-html": "^16.0.1",
+    "resend": "^4.0.1",
     "sharp": "^0.34.3",
     "sweetalert": "^2.1.2",
     "tailwind-merge": "^3.3.1",

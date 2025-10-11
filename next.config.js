@@ -11,6 +11,21 @@ const nextConfig = {
     return config
   },
 
+  // Proxy API calls to local Azure Functions in development
+  async rewrites() {
+    return {
+      beforeFiles: [
+        // In development, proxy /api/* to Azure Functions running on port 7071
+        ...(process.env.NODE_ENV === 'development' ? [
+          {
+            source: '/api/:path*',
+            destination: 'http://localhost:7071/api/:path*',
+          },
+        ] : []),
+      ],
+    };
+  },
+
   async redirects() {
     return [
       // ===================================
