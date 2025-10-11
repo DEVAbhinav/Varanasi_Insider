@@ -86,9 +86,9 @@ export default function BookingWidget() {
   if (success) {
     return (
       <div className={styles.bookingWidget}>
-        <div className="text-center p-6">
-          <div className="text-4xl mb-4">✅</div>
-          <h3 className="text-xl font-bold text-green-600 mb-2">Thank You!</h3>
+        <div className="text-center p-8 bg-gradient-to-br from-green-50 to-emerald-50 rounded-xl">
+          <div className="text-5xl mb-4">✅</div>
+          <h3 className="text-2xl font-bold text-green-600 mb-3">Thank You!</h3>
           <p className="text-gray-700 mb-4">
             We received your inquiry and will contact you shortly.
           </p>
@@ -105,7 +105,7 @@ export default function BookingWidget() {
       <h2 className={styles.title}>Quick Booking</h2>
 
       {error && (
-        <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded mb-4">
+        <div className="bg-red-50 border-2 border-red-200 text-red-700 px-4 py-3 rounded-xl mb-4 font-medium">
           {error}
         </div>
       )}
@@ -215,11 +215,11 @@ export default function BookingWidget() {
           className={styles.ctaButton}
           disabled={loading}
         >
-          {loading ? 'Sending...' : '🚕 Get Quote & Book'}
+          {loading ? 'Sending...' : '🚕 Get Quote & Book Now'}
         </button>
 
-        <p className="text-xs text-gray-500 text-center mt-3">
-          Or call directly: <a href="tel:9450301573" className="text-blue-600">94503 01573</a>
+        <p className="text-xs text-gray-600 text-center mt-4 font-medium">
+          Or call directly: <a href="tel:9450301573" className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">94503 01573</a>
         </p>
       </form>
     </div>

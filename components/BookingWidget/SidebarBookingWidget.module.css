@@ -1,0 +1,45 @@
+.widget {
+  background: linear-gradient(135deg, #ffffff 0%, rgba(224, 242, 254, 0.4) 100%);
+  border-radius: 1.5rem;
+  box-shadow: 
+    0 20px 25px -5px rgba(14, 165, 233, 0.15),
+    0 10px 10px -5px rgba(14, 165, 233, 0.1),
+    0 0 0 1px rgba(14, 165, 233, 0.1);
+  border: 1px solid rgba(14, 165, 233, 0.15);
+  overflow: hidden;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  backdrop-filter: blur(12px);
+}
+
+.widget:hover {
+  box-shadow: 
+    0 25px 30px -5px rgba(14, 165, 233, 0.2),
+    0 12px 15px -5px rgba(14, 165, 233, 0.15),
+    0 0 0 1px rgba(14, 165, 233, 0.2);
+  transform: translateY(-2px);
+}
+
+/* Desktop: Sticky sidebar */
+@media (min-width: 1024px) {
+  .widget {
+    position: sticky;
+    top: 5rem;
+  }
+}
+
+/* Mobile: Fixed bottom with collapse */
+@media (max-width: 768px) {
+  .widget {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 40;
+    border-radius: 1.5rem 1.5rem 0 0;
+    max-height: 85vh;
+    overflow-y: auto;
+    box-shadow: 
+      0 -20px 25px -5px rgba(14, 165, 233, 0.15),
+      0 -10px 10px -5px rgba(14, 165, 233, 0.1);
+  }
+}

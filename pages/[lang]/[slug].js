@@ -11,6 +11,7 @@ import HeadForBlogs from '../../components/SEO/HeadForBlogs';
 import RelatedPostsGrid from '../../components/RelatedPosts/RelatedPostsGrid';
 import CTASection from '../../components/CTA/CTASection';
 import StickyContactBar from '../../components/ServicePage/StickyContactBar';
+import SidebarBookingWidget from '../../components/BookingWidget/SidebarBookingWidget';
 
 export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug }) {
   return (
@@ -27,7 +28,28 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
       
       <main>
         {/* <Header title={postData.title} featuredImage={postData.featuredImage} /> */}
-        <ArticleSection contentHtml={postData.contentHtml} />
+        
+        {/* Two-column layout: Article + Sidebar on desktop, stacked on mobile */}
+        <div className="container mx-auto px-4 py-8">
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
+            {/* Main article content - takes 8 columns on desktop */}
+            <div className="lg:col-span-8">
+              <ArticleSection contentHtml={postData.contentHtml} />
+            </div>
+            
+            {/* Sidebar booking widget - takes 4 columns on desktop, hidden on mobile initially */}
+            <aside className="lg:col-span-4">
+              <div className="hidden lg:block">
+                <SidebarBookingWidget />
+              </div>
+            </aside>
+          </div>
+        </div>
+
+        {/* Mobile: Fixed bottom booking widget */}
+        <div className="lg:hidden">
+          <SidebarBookingWidget />
+        </div>
         
         {/* Modular CTA Section */}
         <CTASection 

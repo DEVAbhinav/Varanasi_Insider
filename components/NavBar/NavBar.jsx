@@ -44,6 +44,12 @@ export default function NavBar() {
           <Link href="/en/packages" className={styles.navLink}>Packages</Link>
           <Link href="/rates/outstation-taxi-varanasi" className={styles.navLink}>Outstation Taxis</Link>
           <Link href="/en/contact" className={styles.navLink}>Contact</Link>
+          <Link 
+            href="/booking" 
+            className="hidden md:inline-flex items-center gap-2 rounded-full bg-pink-600 px-6 py-2.5 text-sm font-semibold text-white shadow-lg hover:bg-pink-700 transition-all hover:scale-105"
+          >
+            Book Now
+          </Link>
           <a
             href="https://wa.me/919935474730"
             target="_blank"
@@ -124,6 +130,10 @@ export default function NavBar() {
             <Link href="/en/contact" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
               <span>Contact</span>
               <ChevronRight className="h-4 w-4 text-rose-600" />
+            </Link>
+            <Link href="/booking" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-pink-600 to-pink-700 px-4 py-3 text-white font-bold text-base ring-1 ring-pink-700 shadow-lg hover:shadow-xl hover:from-pink-700 hover:to-pink-800 focus:outline-none focus:ring-2 focus:ring-pink-400/50">
+              <span>📱 Book Now</span>
+              <ChevronRight className="h-5 w-5" />
             </Link>
           </div>
 

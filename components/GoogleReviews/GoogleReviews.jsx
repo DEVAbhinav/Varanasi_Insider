@@ -107,6 +107,13 @@ export default function GoogleReviews() {
 
 	return (
 		<section className={styles.container} aria-labelledby="reviews-heading">
+			{/* Wave separator at top */}
+			<div className={styles.waveTop}>
+				<svg viewBox="0 0 1200 120" preserveAspectRatio="none" className={styles.waveSvg}>
+					<path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="rgb(239 246 255)" opacity="0.6"></path>
+				</svg>
+			</div>
+
 			<div className={styles.header}>
 				<div className={styles.titleSection}>
 					<h2 id="reviews-heading" className={styles.title}>
@@ -193,6 +200,13 @@ export default function GoogleReviews() {
 					<MapPin className="w-5 h-5 text-green-500" />
 					<span>Google Verified</span>
 				</div>
+			</div>
+
+			{/* Wave separator at bottom */}
+			<div className={styles.waveBottom}>
+				<svg viewBox="0 0 1200 120" preserveAspectRatio="none" className={styles.waveSvg}>
+					<path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="rgb(240 253 250)" opacity="0.5"></path>
+				</svg>
 			</div>
 		</section>
 	);
