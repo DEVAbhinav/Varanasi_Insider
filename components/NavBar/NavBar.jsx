@@ -32,8 +32,8 @@ export default function NavBar() {
       style={{ paddingTop: 'env(safe-area-inset-top)' }}
     >
       <nav className={styles.navContainer} role="navigation" aria-label="Primary">
-        <Link href="/" className={styles.logo} aria-label="Kashi Insider homepage">
-          Kashi Insider
+        <Link href="/" className={styles.logo} aria-label="Varanasi Taxi & Tempo Traveller homepage">
+          Varanasi Insider
         </Link>
 
         {/* Desktop links */}
@@ -104,8 +104,8 @@ export default function NavBar() {
           </div>
           <div className="relative z-10 flex items-center justify-between">
             <div>
-              <span className="text-xl font-bold text-white drop-shadow-md">Kashi Taxi</span>
-              <p className="text-xs text-cyan-50 mt-0.5">Your trusted travel partner</p>
+              <span className="text-xl font-bold text-white drop-shadow-md">Varanasi Travels</span>
+              <p className="text-xs text-cyan-50 mt-0.5">Taxi, Tempo Traveller & Tour Packages</p>
             </div>
             <button 
               aria-label="Close menu" 

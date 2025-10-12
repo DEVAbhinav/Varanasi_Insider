@@ -40,14 +40,14 @@ export default function KashiTaxiIntro() {
           {/* left: text */}
           <div>
             <h2 id="overview" className="text-3xl font-semibold tracking-tight md:text-4xl">
-              Kashi Taxi – 24×7 Varanasi Taxi Service (Airport, Local & Outstation)
+              Varanasi Taxi & Tempo Traveller – 24×7 Service (Airport, Local & Outstation)
             </h2>
             <p className="mt-3 text-base text-slate-600 md:text-lg">
               <strong>Book a cab in Varanasi in 60 seconds.</strong> Clean AC cars, polite drivers, on‑time pickups—from airport arrivals to temple darshan, outstation runs, tempo travellers and Pink Taxi (ladies-only) rides across Uttar Pradesh and Bihar.
             </p>
 
             <p className="mt-4 text-base leading-relaxed text-slate-600 md:text-lg">
-              Kashi Taxi (Vinayak Travels Tour) handles <strong>Varanasi airport pickups, local 8 hr / 80 km darshan circuits, Ayodhya &amp; Prayagraj pilgrim tours, Bodh Gaya spiritual trips, Vindhyachal same‑day journeys</strong> and multi-day tempo traveller packages. WhatsApp <a className="text-orange-700 underline" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a> or call <a className="text-orange-700 underline" href="tel:+919450301573">+91-94503-01573</a> for instant cab quotes, itinerary help and pricing that includes tolls, parking and night allowances upfront.
+              Varanasi Travels (Vinayak Travels Tour) handles <strong>Varanasi airport pickups, local 8 hr / 80 km Kashi Darshan circuits, Ayodhya &amp; Prayagraj pilgrim tours, Bodh Gaya spiritual trips, Vindhyachal same‑day journeys</strong> and multi-day tempo traveller packages. WhatsApp <a className="text-orange-700 underline" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a> or call <a className="text-orange-700 underline" href="tel:+919450301573">+91-94503-01573</a> for instant cab quotes, itinerary help and pricing that includes tolls, parking and night allowances upfront.
             </p>
 
             {/* trust chips */}

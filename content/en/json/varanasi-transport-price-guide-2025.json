@@ -18,7 +18,7 @@
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",
-        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+        "name": "Varanasi Taxi & Tempo Traveller | Vinayak Travels"
       },
       "mainEntityOfPage": "https://www.kashitaxi.in/varanasi-transport-price-guide-2025",
       "keywords": [
@@ -241,11 +241,14 @@
     {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "name": "Varanasi Taxi & Tempo Traveller | Vinayak Travels",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
         "Kashi Taxi",
-        "Kashitaxi"
+        "Varanasi Travels",
+        "Varanasi Tour",
+        "Varanasi Tempo Traveller",
+        "Varanasi Cab Service"
       ],
       "url": "https://www.kashitaxi.in/",
       "logo": {

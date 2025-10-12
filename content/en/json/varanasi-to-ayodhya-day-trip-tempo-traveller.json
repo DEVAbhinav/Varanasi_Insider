@@ -4,13 +4,15 @@
     {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "name": "Varanasi Taxi & Tempo Traveller | Vinayak Travels",
       "url": "https://www.kashitaxi.in/",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
         "Kashi Taxi",
-        "Kashitaxi",
-        "Kashi Tempo Traveller"
+        "Varanasi Travels",
+        "Varanasi Tour",
+        "Varanasi Tempo Traveller",
+        "Varanasi Cab Service"
       ],
       "logo": {
         "@type": "ImageObject",

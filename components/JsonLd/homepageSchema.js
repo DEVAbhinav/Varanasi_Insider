@@ -8,7 +8,7 @@ const getHomeSchema = (site) => ({
       '@type': 'WebSite',
       '@id': `${site}/#website`,
       url: `${site}/`,
-      name: 'Kashi Taxi',
+      name: 'Varanasi Taxi & Tempo Traveller - Vinayak Travels',
       inLanguage: 'en',
       publisher: { '@id': `${site}/#org` },
       potentialAction: {
@@ -18,10 +18,10 @@ const getHomeSchema = (site) => ({
       },
     },
     {
-      '@type': ['LocalBusiness', 'TaxiService'],
+      '@type': ['LocalBusiness', 'TaxiService', 'TouristInformationCenter'],
       '@id': `${site}/#org`,
-      name: 'Vinayak Travels',
-      alternateName: ['Kashi Taxi', 'Varanasi Taxi Service', 'Vinayak Travels Tour'],
+      name: 'Varanasi Taxi & Tempo Traveller Service | Vinayak Travels',
+      alternateName: ['Kashi Taxi', 'Varanasi Travels', 'Varanasi Tour', 'Vinayak Travels Varanasi', 'Tempo Traveller Varanasi', 'Varanasi Cab Service'],
       url: `${site}/`,
       logo: `${site}/images/logo.jpeg`,
       image: [
@@ -30,8 +30,8 @@ const getHomeSchema = (site) => ({
         `${site}/images/kashi-taxi-service.jpg`
       ],
       description:
-        '24×7 professional taxi service in Varanasi for airport transfers, local darshan, outstation trips, and city tours. Clean AC vehicles with experienced drivers.',
-      slogan: 'Your trusted travel partner in Kashi',
+        'Varanasi Taxi, Tempo Traveller & Tour Packages by Vinayak Travels. 24×7 service for airport transfers, local tours, outstation trips, and pilgrimage tours. Clean AC vehicles with experienced drivers.',
+      slogan: 'Your trusted travel partner in Varanasi',
       telephone: '+91-9450301573',
       faxNumber: '+91-9935474730',
       email: 'info@kashitaxi.in',
@@ -90,30 +90,38 @@ const getHomeSchema = (site) => ({
       ],
       hasOfferCatalog: {
         '@type': 'OfferCatalog',
-        name: 'Taxi Services',
+        name: 'Varanasi Taxi & Tempo Traveller Services',
         itemListElement: [
           {
             '@type': 'Offer',
             itemOffered: {
               '@type': 'Service',
               name: 'Airport Transfer Service',
-              description: 'Varanasi Airport pickup and drop service',
+              description: 'Varanasi Airport taxi pickup and drop service',
             },
           },
           {
             '@type': 'Offer',
             itemOffered: {
               '@type': 'Service',
-              name: 'Local Darshan Tours',
-              description: 'Varanasi city tours and temple visits',
+              name: 'Local Varanasi Tours',
+              description: 'Varanasi city tours, temple visits and Ganga Aarti trips',
             },
           },
           {
             '@type': 'Offer',
             itemOffered: {
               '@type': 'Service',
-              name: 'Outstation Taxi',
-              description: 'Long-distance travel to Ayodhya, Prayagraj, Bodhgaya',
+              name: 'Tempo Traveller Hire',
+              description: 'Group travel with Tempo Traveller for pilgrimage tours',
+            },
+          },
+          {
+            '@type': 'Offer',
+            itemOffered: {
+              '@type': 'Service',
+              name: 'Outstation Varanasi Travels',
+              description: 'Long-distance travel to Ayodhya, Prayagraj, Bodhgaya, Vindhyachal',
             },
           },
         ],

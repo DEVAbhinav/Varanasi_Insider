@@ -42,22 +42,22 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Kashi Taxi – 24×7 Varanasi Taxi Service (Airport, Local & Outstation)</title>
+        <title>Varanasi Taxi & Tempo Traveller | Tour Packages ☎ 9450301573 - Vinayak Travels</title>
         <meta
           name="description"
-          content="24×7 Varanasi taxi for airport, local darshan & outstation. Clean AC cars, polite drivers, transparent fares. WhatsApp +91-99354-74730 | Call +91-94503-01573."
+          content="Varanasi Taxi, Tempo Traveller & Tour Packages by Vinayak Travels. Airport cab ₹800, Local tours ₹2,500, Tempo traveller hire. 24×7 Varanasi travels service. Book now!"
         />
-        <meta name="keywords" content="Varanasi taxi, Kashi taxi, airport pickup, local darshan, outstation taxi in varanasi, Kashi taxi outstation" />
+        <meta name="keywords" content="varanasi taxi, varanasi tempo traveller, varanasi tour, varanasi travels, airport taxi varanasi, tempo traveller hire varanasi, varanasi tour packages, varanasi cab service, varanasi local sightseeing, outstation taxi varanasi" />
         <meta name="author" content="Vinayak Travels" />
         <meta name="robots" content="index, follow" />
         
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Kashi Taxi – 24×7 Varanasi Taxi Service (Airport, Local & Outstation)" />
-        <meta property="og:description" content="24×7 Varanasi taxi for airport, local darshan & outstation. Clean AC cars, polite drivers, transparent fares." />
+        <meta property="og:title" content="Varanasi Taxi & Tempo Traveller Service | Tour Packages - Vinayak Travels" />
+        <meta property="og:description" content="Book Varanasi Taxi, Tempo Traveller & Tour Packages. Airport transfer, Local sightseeing, Outstation tours. 24×7 Varanasi travels service." />
         <meta property="og:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Kashi Taxi" />
+        <meta property="og:site_name" content="Varanasi Taxi & Tempo Traveller - Vinayak Travels" />
         <meta property="og:locale" content="en_IN" />
         
         {/* Additional SEO Meta Tags */}
