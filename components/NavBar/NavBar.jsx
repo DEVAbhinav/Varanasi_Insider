@@ -39,17 +39,11 @@ export default function NavBar() {
         {/* Desktop links */}
         <div className={styles.navLinks}>
           <Link href="/" className={styles.navLink}>Home</Link>
+          <Link href="/en/varanasi-airport-taxi-guide" className={styles.navLink}>Airport Taxi</Link>
+          <Link href="/en/tempo-traveller-varanasi" className={styles.navLink}>Tempo Traveller</Link>
+          <Link href="/en/outstation-cabs-from-varanasi" className={styles.navLink}>Outstation Cabs</Link>
+          <Link href="/en/services/varanasi-full-day-city-tour-winter-2025" className={styles.navLink}>Local Sightseeing</Link>
           <Link href="/en" className={styles.navLink}>Travel Guides</Link>
-          <Link href="/en/services" className={styles.navLink}>Services</Link>
-          <Link href="/en/packages" className={styles.navLink}>Packages</Link>
-          <Link href="/rates/outstation-taxi-varanasi" className={styles.navLink}>Outstation Taxis</Link>
-          <Link href="/en/contact" className={styles.navLink}>Contact</Link>
-          <Link 
-            href="/booking" 
-            className="hidden md:inline-flex items-center gap-2 rounded-full bg-pink-600 px-6 py-2.5 text-sm font-semibold text-white shadow-lg hover:bg-pink-700 transition-all hover:scale-105"
-          >
-            Book Now
-          </Link>
           <a
             href="https://wa.me/919935474730"
             target="_blank"
@@ -105,43 +99,39 @@ export default function NavBar() {
           </button>
         </div>
         <div className="p-5 pt-4">
-          {/* Button-like list items (with soft pink gradient) */}
+          {/* Button-like list items (with aqua/teal gradient) */}
           <div className="space-y-3">
-            <Link href="/" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
+            <Link href="/" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-cyan-50 to-teal-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-cyan-200 shadow-sm hover:shadow-md hover:from-cyan-100 hover:to-teal-100 focus:outline-none focus:ring-2 focus:ring-cyan-400/50">
               <span>Home</span>
-              <ChevronRight className="h-4 w-4 text-rose-600" />
+              <ChevronRight className="h-4 w-4 text-cyan-600" />
             </Link>
-            <Link href="/en" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
+            <Link href="/en/varanasi-airport-taxi-guide" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-cyan-50 to-teal-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-cyan-200 shadow-sm hover:shadow-md hover:from-cyan-100 hover:to-teal-100 focus:outline-none focus:ring-2 focus:ring-cyan-400/50">
+              <span>Airport Taxi</span>
+              <ChevronRight className="h-4 w-4 text-cyan-600" />
+            </Link>
+            <Link href="/en/tempo-traveller-varanasi" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-cyan-50 to-teal-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-cyan-200 shadow-sm hover:shadow-md hover:from-cyan-100 hover:to-teal-100 focus:outline-none focus:ring-2 focus:ring-cyan-400/50">
+              <span>Tempo Traveller</span>
+              <ChevronRight className="h-4 w-4 text-cyan-600" />
+            </Link>
+            <Link href="/en/outstation-cabs-from-varanasi" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-cyan-50 to-teal-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-cyan-200 shadow-sm hover:shadow-md hover:from-cyan-100 hover:to-teal-100 focus:outline-none focus:ring-2 focus:ring-cyan-400/50">
+              <span>Outstation Cabs</span>
+              <ChevronRight className="h-4 w-4 text-cyan-600" />
+            </Link>
+            <Link href="/en/services/varanasi-full-day-city-tour-winter-2025" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-cyan-50 to-teal-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-cyan-200 shadow-sm hover:shadow-md hover:from-cyan-100 hover:to-teal-100 focus:outline-none focus:ring-2 focus:ring-cyan-400/50">
+              <span>Local Sightseeing</span>
+              <ChevronRight className="h-4 w-4 text-cyan-600" />
+            </Link>
+            <Link href="/en" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-cyan-50 to-teal-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-cyan-200 shadow-sm hover:shadow-md hover:from-cyan-100 hover:to-teal-100 focus:outline-none focus:ring-2 focus:ring-cyan-400/50">
               <span>Travel Guides</span>
-              <ChevronRight className="h-4 w-4 text-rose-600" />
-            </Link>
-            <Link href="/en/services" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
-              <span>Services</span>
-              <ChevronRight className="h-4 w-4 text-rose-600" />
-            </Link>
-            <Link href="/en/packages" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
-              <span>Packages</span>
-              <ChevronRight className="h-4 w-4 text-rose-600" />
-            </Link>
-            <Link href="/rates/outstation-taxi-varanasi" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
-              <span>Outstation Taxis</span>
-              <ChevronRight className="h-4 w-4 text-rose-600" />
-            </Link>
-            <Link href="/en/contact" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-rose-50 to-pink-50 px-4 py-3 text-gray-950 font-medium text-base ring-1 ring-rose-200 shadow-sm hover:shadow-md hover:from-rose-100 hover:to-pink-100 focus:outline-none focus:ring-2 focus:ring-rose-400/50">
-              <span>Contact</span>
-              <ChevronRight className="h-4 w-4 text-rose-600" />
-            </Link>
-            <Link href="/booking" onClick={() => setOpen(false)} className="w-full inline-flex items-center justify-between rounded-lg bg-gradient-to-r from-pink-600 to-pink-700 px-4 py-3 text-white font-bold text-base ring-1 ring-pink-700 shadow-lg hover:shadow-xl hover:from-pink-700 hover:to-pink-800 focus:outline-none focus:ring-2 focus:ring-pink-400/50">
-              <span>📱 Book Now</span>
-              <ChevronRight className="h-5 w-5" />
+              <ChevronRight className="h-4 w-4 text-cyan-600" />
             </Link>
           </div>
 
           <div className="mt-3 grid grid-cols-2 gap-3">
-            <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 rounded-lg bg-green-600 text-white py-2.5">
+            <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 rounded-lg bg-green-600 text-white py-2.5 hover:bg-green-700 transition-colors shadow-md">
               <MessageCircle className="h-4 w-4" /> <span>WhatsApp</span>
             </a>
-            <a href="tel:+919450301573" className="inline-flex items-center justify-center gap-2 rounded-lg bg-blue-600 text-white py-2.5">
+            <a href="tel:+919450301573" className="inline-flex items-center justify-center gap-2 rounded-lg bg-gradient-to-r from-cyan-500 to-teal-500 text-white py-2.5 hover:from-cyan-600 hover:to-teal-600 transition-all shadow-md">
               <Phone className="h-4 w-4" /> <span>Call</span>
             </a>
           </div>

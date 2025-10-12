@@ -1,10 +1,41 @@
 import Head from 'next/head';
 import Image from 'next/image';
+import dynamic from 'next/dynamic';
 import NavBar from '../components/NavBar/NavBar';
 import Footer from '../components/Footer/Footer';
 import GoogleReviews from '../components/GoogleReviews/GoogleReviews';
+import JsonLd from '../components/JsonLd/JsonLd';
+import getHomeSchema from '../components/JsonLd/homepageSchema';
+import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
+import { getAllPostsMeta } from '../lib/posts';
+
+// Lightweight skeleton for section placeholders
+function SectionSkeleton({ title = 'Loading…' }) {
+  return (
+    <div className="mx-auto my-8 w-full max-w-5xl animate-pulse rounded-2xl border border-gray-200 bg-white/50 p-6">
+      <div className="h-6 w-40 rounded bg-gray-200" aria-hidden />
+      <div className="mt-4 h-4 w-full rounded bg-gray-100" aria-hidden />
+      <div className="mt-2 h-4 w-5/6 rounded bg-gray-100" aria-hidden />
+      <span className="sr-only">{title}</span>
+    </div>
+  );
+}
+
+// Dynamic imports for below-the-fold sections
+const BikeRentalsSection = dynamic(() => import('../components/BikeRentalsSection/BikeRentalsSection'), {
+  loading: () => <SectionSkeleton title="Bike Rentals" />,
+  ssr: false,
+});
+
+const CTASectionHome = dynamic(() => import('../components/CTASectionHome/CTASectionHome'), {
+  loading: () => <SectionSkeleton title="Book Now" />,
+  ssr: false,
+});
 
 export default function HomePage({ allPosts }) {
+  const SITE = 'https://www.kashitaxi.in';
+  const structuredData = getHomeSchema(SITE);
+
   return (
     <>
       <Head>
@@ -14,9 +45,26 @@ export default function HomePage({ allPosts }) {
           content="Book Varanasi taxi online - Airport cab ₹800, Local Kashi darshan ₹2500, Tempo traveller hire, Outstation taxi. AC vehicles, 24×7 service, fixed rates. Call 9450301573"
         />
         <meta name="keywords" content="varanasi taxi, varanasi cab service, airport taxi varanasi, kashi taxi, tempo traveller varanasi, varanasi to prayagraj taxi, varanasi local sightseeing cab, varanasi airport cab fare, outstation taxi from varanasi" />
+        <meta name="author" content="Vinayak Travels" />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.varanasiinsider.com/home" />
+        <link rel="canonical" href="https://www.kashitaxi.in/home" />
+        
+        {/* Open Graph Meta Tags */}
+        <meta property="og:title" content="Varanasi Taxi Service | Airport Cab, Local Sightseeing & Tempo Traveller ☎ 9450301573" />
+        <meta property="og:description" content="Book Varanasi taxi online - Airport cab ₹800, Local Kashi darshan ₹2500, Tempo traveller hire. AC vehicles, 24×7 service, fixed rates." />
+        <meta property="og:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
+        <meta property="og:url" content="https://www.kashitaxi.in/home" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Kashi Taxi" />
+        <meta property="og:locale" content="en_IN" />
+        
+        {/* Geo Location Meta Tags for Local SEO */}
+        <meta name="geo.region" content="IN-UP" />
+        <meta name="geo.placename" content="Varanasi" />
+        <meta name="geo.position" content="25.287133678944816;82.94264689837131" />
+        <meta name="ICBM" content="25.287133678944816, 82.94264689837131" />
       </Head>
+      <JsonLd data={structuredData} />
 
       <NavBar />
 
@@ -119,117 +167,8 @@ export default function HomePage({ allPosts }) {
               </p>
             </div>
 
-            {/* Search Your Ride Widget - Premium Glassmorphism */}
-            <div className="max-w-5xl mx-auto mt-4">
-              <div className="bg-white/90 backdrop-blur-2xl rounded-2xl shadow-[0_20px_80px_rgba(0,0,0,0.25)] p-4 md:p-6 border-2 border-white/40 relative overflow-hidden">
-                {/* Subtle shine effect */}
-                <div className="absolute inset-0 bg-gradient-to-br from-white/20 via-transparent to-transparent pointer-events-none"></div>
-                
-                <h2 className="relative text-lg md:text-xl font-bold text-center mb-4 bg-gradient-to-r from-cyan-600 via-teal-600 to-cyan-600 bg-clip-text text-transparent drop-shadow-sm">
-                  Book Varanasi Taxi Online – Get Instant Fare
-                </h2>
-
-                {/* Search Form */}
-                <div className="relative grid md:grid-cols-4 gap-3 mb-3">
-                  {/* Pickup Location */}
-                  <div className="space-y-1">
-                    <label className="block text-xs font-semibold text-gray-800">
-                      Pickup Location
-                    </label>
-                    <div className="relative">
-                      <div className="absolute left-3 top-1/2 -translate-y-1/2 text-red-500 text-sm">
-                        📍
-                      </div>
-                      <input
-                        type="text"
-                        placeholder="Enter location"
-                        className="w-full pl-10 pr-3 py-2.5 rounded-lg border-2 border-gray-200 focus:border-cyan-400 focus:ring-2 focus:ring-cyan-100 text-gray-800 placeholder-gray-500 transition-all outline-none bg-white/95 shadow-sm text-sm"
-                      />
-                    </div>
-                  </div>
-
-                  {/* Destination */}
-                  <div className="space-y-1">
-                    <label className="block text-xs font-semibold text-gray-800">
-                      Destination
-                    </label>
-                    <div className="relative">
-                      <div className="absolute left-3 top-1/2 -translate-y-1/2 text-red-500 text-sm">
-                        🎯
-                      </div>
-                      <input
-                        type="text"
-                        placeholder="Select destination"
-                        className="w-full pl-10 pr-3 py-2.5 rounded-lg border-2 border-gray-200 focus:border-cyan-400 focus:ring-2 focus:ring-cyan-100 text-gray-800 placeholder-gray-500 transition-all outline-none bg-white/95 shadow-sm text-sm"
-                      />
-                    </div>
-                  </div>
-
-                  {/* Travel Date */}
-                  <div className="space-y-1">
-                    <label className="block text-xs font-semibold text-gray-800">
-                      Travel Date
-                    </label>
-                    <div className="relative">
-                      <div className="absolute left-3 top-1/2 -translate-y-1/2 text-red-500 text-sm">
-                        📅
-                      </div>
-                      <input
-                        type="date"
-                        className="w-full pl-10 pr-3 py-2.5 rounded-lg border-2 border-gray-200 focus:border-cyan-400 focus:ring-2 focus:ring-cyan-100 text-gray-800 transition-all outline-none bg-white/95 shadow-sm text-sm"
-                        min={new Date().toISOString().split('T')[0]}
-                      />
-                    </div>
-                  </div>
-
-                  {/* Passengers */}
-                  <div className="space-y-1">
-                    <label className="block text-xs font-semibold text-gray-800">
-                      Passengers
-                    </label>
-                    <div className="relative">
-                      <div className="absolute left-3 top-1/2 -translate-y-1/2 text-blue-500 text-sm">
-                        👥
-                      </div>
-                      <select className="w-full pl-10 pr-3 py-2.5 rounded-lg border-2 border-gray-200 focus:border-cyan-400 focus:ring-2 focus:ring-cyan-100 text-gray-800 transition-all outline-none bg-white/95 appearance-none cursor-pointer shadow-sm text-sm">
-                        <option>1 Adult</option>
-                        <option>2 Adults</option>
-                        <option>3 Adults</option>
-                        <option>4 Adults</option>
-                        <option>5+ Adults</option>
-                      </select>
-                    </div>
-                  </div>
-                </div>
-
-                {/* Compact Search Button */}
-                <button className="relative w-full py-2 px-6 bg-gradient-to-r from-cyan-500 via-teal-500 to-cyan-600 text-white font-semibold text-sm rounded-lg shadow-[0_8px_30px_rgba(6,182,212,0.35)] hover:shadow-[0_10px_35px_rgba(6,182,212,0.45)] hover:scale-[1.01] transition-all duration-300 flex items-center justify-center gap-2 overflow-hidden group">
-                  <div className="absolute inset-0 bg-gradient-to-r from-white/0 via-white/20 to-white/0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700"></div>
-                  <span className="text-base relative z-10">🔍</span>
-                  <span className="relative z-10">Search Available Rides</span>
-                </button>
-
-                {/* Compact Trust Indicators */}
-                <div className="relative flex flex-wrap justify-center gap-2 mt-3">
-                  <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-gradient-to-br from-white/70 to-white/50 backdrop-blur-md border border-white/50 shadow-md hover:shadow-lg transition-all hover:scale-105">
-                    <span className="text-teal-600 text-xs font-bold">✓</span>
-                    <span className="text-gray-800 font-semibold text-[10px] md:text-xs">Instant Confirmation</span>
-                  </div>
-                  <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-gradient-to-br from-white/70 to-white/50 backdrop-blur-md border border-white/50 shadow-md hover:shadow-lg transition-all hover:scale-105">
-                    <span className="text-teal-600 text-xs font-bold">✓</span>
-                    <span className="text-gray-800 font-semibold text-[10px] md:text-xs">AC Vehicles</span>
-                  </div>
-                  <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-gradient-to-br from-white/70 to-white/50 backdrop-blur-md border border-white/50 shadow-md hover:shadow-lg transition-all hover:scale-105">
-                    <span className="text-teal-600 text-xs font-bold">✓</span>
-                    <span className="text-gray-800 font-semibold text-[10px] md:text-xs">Expert Drivers</span>
-                  </div>
-                  <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-gradient-to-br from-white/70 to-white/50 backdrop-blur-md border border-white/50 shadow-md hover:shadow-lg transition-all hover:scale-105">
-                    <span className="text-teal-600 text-xs font-bold">✓</span>
-                    <span className="text-gray-800 font-semibold text-[10px] md:text-xs">Fixed Rates</span>
-                  </div>
-                </div>
-              </div>
-            </div>
+            {/* Functional Booking Widget */}
+            <HeroBookingWidget />
           </div>
         </div>
 
@@ -253,8 +192,22 @@ export default function HomePage({ allPosts }) {
       </section>
 
       {/* Popular Packages Section - Light Aqua Background */}
-      <section className="relative py-16 bg-gradient-to-b from-cyan-50 via-white to-teal-50">
-        <div className="container mx-auto px-4">
+      <section className="relative py-16 bg-gradient-to-b from-cyan-50 via-white to-teal-50 overflow-hidden">
+        {/* Subtle Dot Pattern */}
+        <div className="absolute inset-0 opacity-[0.08]">
+          <div className="absolute inset-0" style={{
+            backgroundImage: `
+              radial-gradient(circle at 15% 25%, rgba(6,182,212,0.4) 2px, transparent 2px),
+              radial-gradient(circle at 45% 15%, rgba(20,184,166,0.3) 1.5px, transparent 1.5px),
+              radial-gradient(circle at 75% 35%, rgba(6,182,212,0.35) 2.5px, transparent 2.5px),
+              radial-gradient(circle at 25% 65%, rgba(20,184,166,0.4) 2px, transparent 2px),
+              radial-gradient(circle at 85% 75%, rgba(6,182,212,0.3) 1.8px, transparent 1.8px)
+            `,
+            backgroundSize: '800px 800px',
+          }}></div>
+        </div>
+        
+        <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
               Best Varanasi Taxi Packages & Rates
@@ -366,8 +319,22 @@ export default function HomePage({ allPosts }) {
       </section>
 
       {/* Services Section - White to Light Teal */}
-      <section className="relative py-16 bg-gradient-to-b from-white to-cyan-50">
-        <div className="container mx-auto px-4">
+      <section className="relative py-16 bg-gradient-to-b from-white to-cyan-50 overflow-hidden">
+        {/* Subtle Dot Pattern */}
+        <div className="absolute inset-0 opacity-[0.06]">
+          <div className="absolute inset-0" style={{
+            backgroundImage: `
+              radial-gradient(circle at 20% 30%, rgba(6,182,212,0.35) 2px, transparent 2px),
+              radial-gradient(circle at 60% 20%, rgba(20,184,166,0.3) 1.5px, transparent 1.5px),
+              radial-gradient(circle at 80% 50%, rgba(6,182,212,0.4) 2.2px, transparent 2.2px),
+              radial-gradient(circle at 30% 70%, rgba(20,184,166,0.35) 1.8px, transparent 1.8px),
+              radial-gradient(circle at 90% 80%, rgba(6,182,212,0.3) 2px, transparent 2px)
+            `,
+            backgroundSize: '700px 700px',
+          }}></div>
+        </div>
+        
+        <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
               Varanasi Cab Services – All Types of Vehicles
@@ -439,166 +406,50 @@ export default function HomePage({ allPosts }) {
             </a>
           </div>
         </div>
-      </section>
 
-      {/* Google Reviews Section - Flowing with Waves */}
-      <section className="relative py-16 bg-gradient-to-br from-cyan-50/60 via-white to-teal-50/40 overflow-hidden">
-        {/* Decorative Wave Pattern Background */}
-        <div className="absolute inset-0 opacity-30">
-          <svg className="absolute top-0 left-0 w-full h-full" viewBox="0 0 1200 800" preserveAspectRatio="none">
-            <path d="M0,300 Q300,250 600,300 T1200,300 L1200,800 L0,800 Z" fill="#ecfeff" opacity="0.3"/>
-            <path d="M0,400 Q300,350 600,400 T1200,400 L1200,800 L0,800 Z" fill="#5eead4" opacity="0.1"/>
-          </svg>
-        </div>
-
-        <div className="container mx-auto px-4 relative z-10">
-          <div className="text-center mb-10">
-            <div className="inline-flex items-center gap-2 mb-3 px-4 py-1 bg-white/60 backdrop-blur-sm rounded-full border border-teal-200/50 shadow-sm">
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-600 to-teal-600 font-bold text-xs uppercase tracking-wider">
-                Trusted by Thousands
-              </span>
-            </div>
-            <h2 className="text-3xl md:text-4xl font-bold mb-2">
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-600 via-teal-600 to-cyan-600">
-                What Our Customers Say
-              </span>
-            </h2>
-            <div className="flex items-center justify-center gap-3 mb-2">
-              <div className="flex gap-0.5">
-                {[...Array(5)].map((_, i) => (
-                  <svg key={i} className="w-5 h-5 text-yellow-400 fill-current drop-shadow" viewBox="0 0 20 20">
-                    <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z" />
-                  </svg>
-                ))}
-              </div>
-              <div className="flex items-baseline gap-1">
-                <div className="text-2xl font-bold bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">4.8</div>
-                <div className="text-xs text-gray-500">· 87 Reviews</div>
-              </div>
-            </div>
-            <p className="text-gray-600 text-sm max-w-2xl mx-auto">
-              Real experiences from travelers who explored Varanasi with us
-            </p>
-          </div>
-
-          <GoogleReviews />
-        </div>
-
-        {/* Flowing Wave Separator to Next Section */}
-        <div className="absolute bottom-0 left-0 right-0 -mb-1">
-          <svg viewBox="0 0 1200 120" preserveAspectRatio="none" className="w-full h-20 md:h-28">
-            <defs>
-              <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" style={{ stopColor: '#fff7ed', stopOpacity: 1 }} />
-                <stop offset="50%" style={{ stopColor: '#ffedd5', stopOpacity: 1 }} />
-                <stop offset="100%" style={{ stopColor: '#fff7ed', stopOpacity: 1 }} />
-              </linearGradient>
-            </defs>
-            <path d="M0,60 C200,20 400,100 600,60 C800,20 1000,100 1200,60 L1200,120 L0,120 Z" fill="url(#waveGradient)" opacity="0.8"/>
-            <path d="M0,80 C200,40 400,120 600,80 C800,40 1000,120 1200,80 L1200,120 L0,120 Z" fill="#fff7ed"/>
-          </svg>
-        </div>
-      </section>
-
-      {/* Bike Rentals Section */}
-      <section className="relative py-20 bg-gradient-to-br from-orange-50 to-amber-50">
-        <div className="container mx-auto px-4 relative z-10">
-          <div className="max-w-6xl mx-auto">
-            <div className="grid md:grid-cols-2 gap-12 items-center">
-              <div className="order-2 md:order-1">
-                <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-                  <Image
-                    src="/images/scooty-varanasi-ghat.jpeg"
-                    alt="Bike Rentals in Varanasi - Two Wheeler on Rent"
-                    width={600}
-                    height={400}
-                    className="object-cover"
-                  />
-                </div>
-              </div>
-              <div className="order-1 md:order-2">
-                <div className="inline-block mb-4 px-4 py-1.5 bg-orange-200 text-orange-800 rounded-full text-sm font-semibold">
-                  EXPLORE AT YOUR OWN PACE
-                </div>
-                <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gray-900">
-                  Bike Rentals in Varanasi
-                </h2>
-                <p className="text-gray-700 mb-6 text-lg leading-relaxed">
-                  Explore Varanasi's narrow lanes and hidden gems on a two-wheeler. 
-                  We offer scooters and bikes on rent with helmet, documents, and 24×7 support.
-                </p>
-                <ul className="space-y-3 mb-8">
-                  <li className="flex items-start gap-3">
-                    <span className="text-2xl">✓</span>
-                    <span className="text-gray-700">Honda Activa, Dio & Royal Enfield available</span>
-                  </li>
-                  <li className="flex items-start gap-3">
-                    <span className="text-2xl">✓</span>
-                    <span className="text-gray-700">Free helmet & riding gloves</span>
-                  </li>
-                  <li className="flex items-start gap-3">
-                    <span className="text-2xl">✓</span>
-                    <span className="text-gray-700">Daily, weekly & monthly rental options</span>
-                  </li>
-                  <li className="flex items-start gap-3">
-                    <span className="text-2xl">✓</span>
-                    <span className="text-gray-700">Home delivery & pickup available</span>
-                  </li>
-                </ul>
-                <a
-                  href="/bike-rentals-varanasi"
-                  className="inline-flex items-center gap-2 px-8 py-4 bg-orange-600 text-white font-bold rounded-xl hover:bg-orange-700 transition-all shadow-lg hover:shadow-xl hover:-translate-y-1"
-                >
-                  Rent Bike Now →
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Wave Separator - Bike to CTA (Teal) */}
+        {/* Wave Separator - Services to Reviews */}
         <div className="absolute bottom-0 left-0 right-0 -mb-1">
           <svg viewBox="0 0 1200 120" preserveAspectRatio="none" className="w-full h-16 md:h-24">
-            <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#14b8a6"></path>
+            <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#cffafe"></path>
           </svg>
         </div>
       </section>
 
-      {/* CTA Section - Aqua/Teal Gradient */}
-      <section className="relative py-20 bg-gradient-to-br from-cyan-500 via-teal-500 to-cyan-600 text-white overflow-hidden">
-        {/* Decorative Pattern */}
-        <div className="absolute inset-0 opacity-10">
+      {/* Google Reviews Section - Rich Cyan Gradient */}
+      <section className="relative py-16 bg-gradient-to-br from-cyan-100 via-teal-50 to-cyan-50 overflow-hidden">
+        {/* Premium Dot Pattern - More Visible */}
+        <div className="absolute inset-0 opacity-[0.12]">
           <div className="absolute inset-0" style={{
-            backgroundImage: 'radial-gradient(circle at 25px 25px, white 2%, transparent 0%), radial-gradient(circle at 75px 75px, white 2%, transparent 0%)',
-            backgroundSize: '100px 100px'
+            backgroundImage: `
+              radial-gradient(circle at 10% 20%, rgba(6,182,212,0.5) 2.5px, transparent 2.5px),
+              radial-gradient(circle at 35% 10%, rgba(20,184,166,0.4) 2px, transparent 2px),
+              radial-gradient(circle at 65% 30%, rgba(6,182,212,0.45) 3px, transparent 3px),
+              radial-gradient(circle at 85% 15%, rgba(20,184,166,0.5) 2.2px, transparent 2.2px),
+              radial-gradient(circle at 20% 60%, rgba(6,182,212,0.4) 2.5px, transparent 2.5px),
+              radial-gradient(circle at 50% 50%, rgba(20,184,166,0.45) 2px, transparent 2px),
+              radial-gradient(circle at 75% 70%, rgba(6,182,212,0.5) 2.8px, transparent 2.8px),
+              radial-gradient(circle at 30% 85%, rgba(20,184,166,0.4) 2.3px, transparent 2.3px),
+              radial-gradient(circle at 90% 90%, rgba(6,182,212,0.45) 2px, transparent 2px)
+            `,
+            backgroundSize: '900px 900px',
           }}></div>
         </div>
+        
+        <GoogleReviews />
 
-        <div className="container mx-auto px-4 relative z-10">
-          <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">
-              Book Varanasi Taxi Now – Best Rates Guaranteed
-            </h2>
-            <p className="text-xl md:text-2xl text-blue-50 mb-8 font-light">
-              24×7 cab service with professional drivers. Airport taxi, local tours & outstation trips available
-            </p>
-            <div className="flex flex-wrap justify-center gap-4">
-              <a
-                href="/booking"
-                className="inline-flex items-center gap-2 px-8 py-4 bg-white text-cyan-700 font-bold rounded-xl hover:bg-blue-50 transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1 text-lg"
-              >
-                🚕 Book Varanasi Taxi Online
-              </a>
-              <a
-                href="tel:9450301573"
-                className="inline-flex items-center gap-2 px-8 py-4 bg-transparent border-2 border-white text-white font-bold rounded-xl hover:bg-white hover:text-cyan-700 transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1 text-lg"
-              >
-                📞 Call: 94503 01573
-              </a>
-            </div>
-          </div>
+        {/* Wave Separator - Reviews to Bike Rentals */}
+        <div className="absolute bottom-0 left-0 right-0 -mb-1">
+          <svg viewBox="0 0 1200 120" preserveAspectRatio="none" className="w-full h-16 md:h-24">
+            <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#fff7ed"></path>
+          </svg>
         </div>
       </section>
+
+      {/* Bike Rentals Section - Dynamically Loaded */}
+      <BikeRentalsSection />
+
+      {/* CTA Section - Dynamically Loaded */}
+      <CTASectionHome />
 
       <Footer allPosts={allPosts} />
     </>
@@ -606,7 +457,6 @@ export default function HomePage({ allPosts }) {
 }
 
 export async function getStaticProps() {
-  const { getAllPostsMeta } = await import('../lib/posts');
   const allPosts = getAllPostsMeta();
   return {
     props: {

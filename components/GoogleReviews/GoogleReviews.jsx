@@ -107,18 +107,19 @@ export default function GoogleReviews() {
 
 	return (
 		<section className={styles.container} aria-labelledby="reviews-heading">
-			{/* Wave separator at top */}
-			<div className={styles.waveTop}>
-				<svg viewBox="0 0 1200 120" preserveAspectRatio="none" className={styles.waveSvg}>
-					<path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="rgb(239 246 255)" opacity="0.6"></path>
-				</svg>
-			</div>
-
 			<div className={styles.header}>
 				<div className={styles.titleSection}>
+					<div className="inline-flex items-center gap-2 mb-3 px-4 py-1.5 bg-gradient-to-r from-cyan-100 to-teal-100 rounded-full border border-cyan-200 shadow-sm">
+						<span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-600 to-teal-600 font-bold text-xs uppercase tracking-wider">
+							Trusted by Thousands
+						</span>
+					</div>
 					<h2 id="reviews-heading" className={styles.title}>
 						What Our Customers Say
 					</h2>
+					<p className="text-gray-600 text-sm mb-3 max-w-2xl">
+						Real experiences from travelers who explored Varanasi with us
+					</p>
 					<div className={styles.ratingOverview}>
 						<div className={styles.starsContainer}>
 							{renderStars(Math.round(parseFloat(averageRating)))}
@@ -200,13 +201,6 @@ export default function GoogleReviews() {
 					<MapPin className="w-5 h-5 text-green-500" />
 					<span>Google Verified</span>
 				</div>
-			</div>
-
-			{/* Wave separator at bottom */}
-			<div className={styles.waveBottom}>
-				<svg viewBox="0 0 1200 120" preserveAspectRatio="none" className={styles.waveSvg}>
-					<path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="rgb(240 253 250)" opacity="0.5"></path>
-				</svg>
 			</div>
 		</section>
 	);
