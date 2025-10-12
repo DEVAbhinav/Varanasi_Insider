@@ -32,6 +32,12 @@ jobs:
           api_location: "" # Api source code path - optional
           output_location: ".next" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
+        env:
+          # Resend Email Configuration
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
+          RESEND_TO_EMAIL: ${{ secrets.RESEND_TO_EMAIL }}
+          RESEND_CC_EMAIL: ${{ secrets.RESEND_CC_EMAIL }}
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
