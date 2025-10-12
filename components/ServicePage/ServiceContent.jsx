@@ -17,7 +17,7 @@ export default function ServiceContent({ contentHtml }) {
 
           {/* Sidebar with Booking Widget - 1/3 width */}
           <aside className="lg:col-span-1">
-            <div className="sticky top-24">
+            <div className="lg:sticky lg:top-24">
               <SidebarBookingWidget />
             </div>
           </aside>
