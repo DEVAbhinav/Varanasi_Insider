@@ -32,25 +32,45 @@ export default function StickyContactBar({ phone }) {
 
   return (
     <>
-      {/* Desktop/Tablet Version - Bottom Sticky Bar */}
+      {/* Desktop/Tablet Version - Bottom Sticky Bar with Aquatic Wave Theme */}
       <div
         className={`fixed bottom-0 left-0 right-0 z-50 transition-transform duration-300 ${
           isVisible ? 'translate-y-0' : 'translate-y-full'
-        } hidden md:block`}
+        } hidden md:block relative overflow-hidden`}
         style={{ 
-          background: 'linear-gradient(to right, #eab308, #f59e0b)',
-          boxShadow: '0 -2px 8px rgba(0, 0, 0, 0.1)'
+          boxShadow: '0 -4px 20px rgba(0, 0, 0, 0.15)'
         }}
       >
-        <div className="max-w-7xl mx-auto px-6 py-2.5 flex items-center justify-between">
-          <div className="text-white">
+        {/* Base Gradient Layer - Deep Rich Blue to Cyan */}
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-500 via-cyan-400 to-teal-400"></div>
+        
+        {/* Overlay Gradient for Depth */}
+        <div className="absolute inset-0 bg-gradient-to-l from-cyan-500/40 via-transparent to-teal-500/50"></div>
+        
+        {/* Organic Dot Pattern - Aquatic Texture */}
+        <div className="absolute inset-0 opacity-[0.20]">
+          <div className="absolute inset-0" style={{
+            backgroundImage: `
+              radial-gradient(circle at 7% 33%, rgba(255,255,255,0.7) 1px, transparent 1px),
+              radial-gradient(circle at 23% 58%, rgba(255,255,255,0.6) 0.8px, transparent 0.8px),
+              radial-gradient(circle at 41% 21%, rgba(255,255,255,0.8) 1.2px, transparent 1.2px),
+              radial-gradient(circle at 58% 45%, rgba(255,255,255,0.7) 0.9px, transparent 0.9px),
+              radial-gradient(circle at 73% 19%, rgba(255,255,255,0.6) 1px, transparent 1px),
+              radial-gradient(circle at 89% 68%, rgba(255,255,255,0.8) 1.1px, transparent 1.1px)
+            `,
+            backgroundSize: '300px 100px',
+          }}></div>
+        </div>
+
+        <div className="relative z-10 max-w-7xl mx-auto px-6 py-2.5 flex items-center justify-between">
+          <div className="text-white drop-shadow-md">
             <p className="text-base font-bold">Ready to book your ride?</p>
-            <p className="text-xs text-yellow-50">Instant confirmation • Transparent pricing • Safe & reliable</p>
+            <p className="text-xs text-white/90">Instant confirmation • Transparent pricing • Safe & reliable</p>
           </div>
           <div className="flex gap-3">
             <a
               href={`tel:${phone}`}
-              className="inline-flex items-center px-5 py-2 bg-white text-yellow-600 font-bold rounded-lg hover:bg-gray-100 transition-all transform hover:scale-105 shadow-lg text-sm"
+              className="inline-flex items-center px-5 py-2 bg-white/95 text-cyan-700 font-bold rounded-lg hover:bg-white transition-all transform hover:scale-105 shadow-lg text-sm backdrop-blur-sm"
             >
               <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
@@ -91,10 +111,10 @@ export default function StickyContactBar({ phone }) {
           </svg>
         </a>
 
-        {/* Call Button */}
+        {/* Call Button - Aquatic Theme */}
         <a
           href={`tel:${phone}`}
-          className="flex items-center justify-center w-14 h-14 bg-yellow-500 text-black rounded-full shadow-2xl hover:bg-yellow-600 transition-all transform hover:scale-110 active:scale-95"
+          className="flex items-center justify-center w-14 h-14 bg-gradient-to-br from-cyan-500 to-teal-500 text-white rounded-full shadow-2xl hover:from-cyan-600 hover:to-teal-600 transition-all transform hover:scale-110 active:scale-95"
           aria-label="Call Now"
         >
           <svg className="w-7 h-7" fill="currentColor" viewBox="0 0 20 20">
@@ -128,7 +148,7 @@ export default function StickyContactBar({ phone }) {
           }
           
           a[aria-label="Call Now"]:before {
-            background: rgba(234, 179, 8, 0.5);
+            background: rgba(6, 182, 212, 0.5);
           }
         `}</style>
       </div>
