@@ -62,7 +62,7 @@ High-stakes logistics done right: punctual, professional, and clean vehicles.
 - Night‑before: fueling, cleaning, any decor; route plans with alternates; time buffers
 - Share driver numbers in advance; one vehicle reserved for VIPs if needed
 
-## Why Trust Kashi Taxi
+## Why Trust Varanasi Taxi
 
 - Proven experience across Varanasi weddings
 - Courteous, uniformed drivers; on-time promise

@@ -19,7 +19,7 @@
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",
-        "name": "Kashi Taxi | Vinayak Travels Varanasi"
+        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
       },
       "mainEntityOfPage": "https://www.kashitaxi.in/travel-from-varanasi-to-vindhyachal",
       "keywords": [
@@ -166,10 +166,10 @@
     {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
-        "Kashi Taxi",
+        "Varanasi Taxi",
         "Kashitaxi"
       ],
       "url": "https://www.kashitaxi.in/",

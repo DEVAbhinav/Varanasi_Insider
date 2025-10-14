@@ -102,7 +102,7 @@ If using Gmail:
 2. **Security** → Enable **2-Step Verification**
 3. **Security** → **App passwords**
 4. Select **Mail** and **Other (Custom name)**
-5. Enter "Kashi Taxi Bookings"
+5. Enter "Varanasi Taxi Bookings"
 6. Copy the 16-character password
 7. Use it as `SMTP_PASSWORD` in `.env.local`
 
@@ -132,7 +132,7 @@ The API sends beautiful HTML emails with:
 ```
 ┌────────────────────────────────────────┐
 │  🚕 New Booking Request                │
-│  Kashi Taxi - Varanasi                 │
+│  Varanasi Taxi - Varanasi                 │
 └────────────────────────────────────────┘
 
 CUSTOMER DETAILS

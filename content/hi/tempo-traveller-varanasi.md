@@ -6,7 +6,7 @@ title: "वाराणसी टेम्पो ट्रैवलर रें
 metaTitle: "वाराणसी Tempo Traveller Rent 2025 | 9,12,17 सीटर रेट व बुकिंग"
 metaDescription: "वाराणसी में 9,12,16/17,20,26 सीटर टेम्पो ट्रैवलर किराये पर – काशी दर्शन, अयोध्या, प्रयागराज, बोधगया, शादी व एयरपोर्ट ट्रांसफर के लिए 2025 की पारदर्शी दरें। तुरंत क्वोट पाएं।"
 description: "वाराणसी टेम्पो ट्रैवलर 2025 रेंट गाइड – 9 से 26 सीटर, काशी दर्शन, आउटस्टेशन यात्रा, शादी व एयरपोर्ट ग्रुप ट्रांसफर। साफ वाहन, अनुभवी ड्राइवर, स्पष्ट रेट।"
-author: "Kashi Taxi Team"
+author: "Varanasi Taxi Team"
 canonical: "https://www.kashitaxi.in/hi/tempo-traveller-varanasi"
 keywords: ["वाराणसी टेम्पो ट्रैवलर","tempo traveller varanasi hindi","kashi tempo traveller rent","12 seater tempo traveller kashi","17 seater tempo traveller rent","varanasi tempo traveller booking","tempo traveller airport transfer varanasi"]
 relatedPosts:

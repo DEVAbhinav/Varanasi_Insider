@@ -2,9 +2,9 @@
 
 ## Executive Summary
 
-**Objective:** Migrate primary keyword from "Kashi Taxi" to "Varanasi Taxi" to capture 10x more search volume.
+**Objective:** Migrate primary keyword from "Varanasi Taxi" to "Varanasi Taxi" to capture 10x more search volume.
 
-**Current State:** Using "Kashi Taxi" (low search volume < 10%)  
+**Current State:** Using "Varanasi Taxi" (low search volume < 10%)  
 **Target State:** Using "Varanasi Taxi" (high search volume, 10x better)
 
 **Impact:** Major improvement in organic traffic and search visibility
@@ -32,9 +32,9 @@
 ```
 
 #### Brand Name Decision
-**Option 1 (Recommended):** Keep "Kashi Taxi" as brand name but emphasize "Varanasi"
+**Option 1 (Recommended):** Keep "Varanasi Taxi" as brand name but emphasize "Varanasi"
 ```
-Kashi Taxi - Varanasi's #1 Cab Service
+Varanasi Taxi - Varanasi's #1 Cab Service
 ```
 
 **Option 2:** Full rebrand to "Vinayak Travels Varanasi"
@@ -44,7 +44,7 @@ Vinayak Travels - Varanasi Taxi Service
 
 **Option 3:** Hybrid approach
 ```
-Logo/Brand: Kashi Taxi (recognition)
+Logo/Brand: Varanasi Taxi (recognition)
 SEO/Content: Varanasi Taxi (search volume)
 Schema: Both names (alternateName)
 ```
@@ -64,7 +64,7 @@ Schema: Both names (alternateName)
 **Pattern:**
 ```javascript
 // BEFORE
-<title>Kashi Taxi Service | Airport Cab</title>
+<title>Varanasi Taxi Service | Airport Cab</title>
 
 // AFTER
 <title>Varanasi Taxi Service | Airport Cab, Tempo Traveller ☎ 9450301573</title>
@@ -85,7 +85,7 @@ Schema: Both names (alternateName)
 {
   "@type": "Organization",
   "name": "Varanasi Taxi - Vinayak Travels",
-  "alternateName": "Kashi Taxi",  // Keep for brand recognition
+  "alternateName": "Varanasi Taxi",  // Keep for brand recognition
   "legalName": "Vinayak Travels",
   "areaServed": {
     "@type": "City",
@@ -114,7 +114,7 @@ Schema: Both names (alternateName)
 
 // Or keep brand with context
 <div>
-  <h1>Kashi Taxi</h1>
+  <h1>Varanasi Taxi</h1>
   <p>Varanasi's #1 Cab Service</p>
 </div>
 ```
@@ -202,7 +202,7 @@ in the holy city of Kashi...
 **Pattern:**
 ```jsx
 // BEFORE
-<img alt="Kashi Taxi at Dashashwamedh Ghat" />
+<img alt="Varanasi Taxi at Dashashwamedh Ghat" />
 
 // AFTER
 <img alt="Varanasi Taxi at Dashashwamedh Ghat - Kashi Cab Service" />
@@ -214,14 +214,14 @@ in the holy city of Kashi...
 
 #### 3.2 Internal Links
 **Check all components for:**
-- Link text using "Kashi Taxi"
+- Link text using "Varanasi Taxi"
 - Breadcrumbs with "Kashi"
 - Navigation labels
 
 **Pattern:**
 ```jsx
 // BEFORE
-<a href="/services">Kashi Taxi Services</a>
+<a href="/services">Varanasi Taxi Services</a>
 
 // AFTER
 <a href="/services">Varanasi Taxi Services</a>
@@ -235,7 +235,7 @@ in the holy city of Kashi...
 **All pages:**
 ```html
 <!-- BEFORE -->
-<meta property="og:title" content="Kashi Taxi Service" />
+<meta property="og:title" content="Varanasi Taxi Service" />
 
 <!-- AFTER -->
 <meta property="og:title" content="Varanasi Taxi Service | Book Airport Cab, Tempo Traveller" />
@@ -255,10 +255,10 @@ Add FAQ about why both names:
   "@type": "FAQPage",
   "mainEntity": [{
     "@type": "Question",
-    "name": "Is Kashi Taxi the same as Varanasi Taxi?",
+    "name": "Is Varanasi Taxi the same as Varanasi Taxi?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes! Kashi and Varanasi are names for the same holy city. We're Varanasi's trusted taxi service, also known as Kashi Taxi."
+      "text": "Yes! Kashi and Varanasi are names for the same holy city. We're Varanasi's trusted taxi service, also known as Varanasi Taxi."
     }
   }]
 }
@@ -314,7 +314,7 @@ Add FAQ about why both names:
 
 | Search | Replace | Context |
 |--------|---------|---------|
-| `Kashi Taxi Service` | `Varanasi Taxi Service` | Everywhere |
+| `Varanasi Taxi Service` | `Varanasi Taxi Service` | Everywhere |
 | `Kashi Cab` | `Varanasi Cab` | Service names |
 | `Kashi Airport` | `Varanasi Airport` | Location refs |
 | `taxi in Kashi` | `taxi in Varanasi` | Phrases |
@@ -344,10 +344,10 @@ grep -r "Kashi" --include="*.js" --include="*.jsx" --include="*.md" . > kashi-in
 ### Step 2: Smart replacement (with verification)
 ```bash
 # Components
-find ./components -type f \( -name "*.js" -o -name "*.jsx" \) -exec sed -i '' 's/Kashi Taxi/Varanasi Taxi/g' {} +
+find ./components -type f \( -name "*.js" -o -name "*.jsx" \) -exec sed -i '' 's/Varanasi Taxi/Varanasi Taxi/g' {} +
 
 # Pages
-find ./pages -type f -name "*.js" -exec sed -i '' 's/Kashi Taxi/Varanasi Taxi/g' {} +
+find ./pages -type f -name "*.js" -exec sed -i '' 's/Varanasi Taxi/Varanasi Taxi/g' {} +
 
 # Content (more careful)
 find ./content -type f -name "*.md" -exec sed -i '' 's/Kashi Airport/Varanasi Airport/g' {} +
@@ -419,7 +419,7 @@ npm run generate:sitemap
 ☐ Monitor organic traffic growth
 ☐ Check click-through rates in GSC
 ☐ Review user behavior (bounce rate, session duration)
-☐ Monitor branded searches for "Kashi Taxi" (should decline)
+☐ Monitor branded searches for "Varanasi Taxi" (should decline)
 ```
 
 ### Month 2-3: Optimization
@@ -491,9 +491,9 @@ If issues arise:
 5. ✅ Navigation labels → "Varanasi"
 
 **What to Keep:**
-1. ✅ Brand name: "Kashi Taxi" or "Vinayak Travels"
+1. ✅ Brand name: "Varanasi Taxi" or "Vinayak Travels"
 2. ✅ Cultural references: "Kashi Darshan", "Kashi Vishwanath"
-3. ✅ JSON-LD alternateName: "Kashi Taxi"
+3. ✅ JSON-LD alternateName: "Varanasi Taxi"
 4. ✅ Natural mentions in content: "Varanasi (Kashi)"
 
 **This gives you:**

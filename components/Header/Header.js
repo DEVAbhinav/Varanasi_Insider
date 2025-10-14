@@ -11,12 +11,12 @@ export default function Header({ title, featuredImage }) {
           <div className={styles.logo}>
             <Image
               src="/images/logo.jpeg"
-              alt="kashi Taxi Logo"
+              alt="Varanasi Taxi Logo"
               width={40}
               height={40}
               className={styles.logoImage}
             />
-            <span className={styles.logoText}>Kashi Taxi service</span>
+            <span className={styles.logoText}>Varanasi Taxi service</span>
           </div>
 
           {/* Navigation */}

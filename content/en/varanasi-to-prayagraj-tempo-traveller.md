@@ -61,7 +61,7 @@ Timings are flexible. If you wish to attend a special Sangam aarti or extend pra
 
 Prayagraj Darshan is a deeply spiritual journey. Pilgrims often say, “snana in Prayag and mrityu in Kashi” as two sure paths to salvation (kashitaxi.in). A Sangam dip is said to be equal to years of penance. Planning during Kumbh 2025? Inform us early—we manage heavy‑crowd logistics for pilgrims during Kumbh.
 
-## Why Book Your Prayagraj Tempo Traveller with Banarasi Kashi Taxi?
+## Why Book Your Prayagraj Tempo Traveller with Banarasi Varanasi Taxi?
 
 - Proficient Drivers: Know the exact Sangam entrances and parking; advise on interacting with priests for a peaceful ritual; can connect you with a reliable priest if you want a proper puja
 - Comfort Assured: Clean AC Tempo Traveller, supportive seats, mobile charging—arrive fresh for the holy dip

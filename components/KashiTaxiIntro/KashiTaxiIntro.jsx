@@ -31,7 +31,7 @@ import { Separator } from "@/components/ui/separator";
 export default function KashiTaxiIntro() {
   return (
     <section
-      aria-label="Kashi Taxi – Varanasi cab service"
+      aria-label="Varanasi Taxi – Varanasi cab service"
       className="relative bg-gradient-to-b from-white via-white to-orange-50/30"
     >
       {/* TOP: intro + actions */}
@@ -298,7 +298,7 @@ export default function KashiTaxiIntro() {
 
       {/* WHY US */}
       <section id="why-kashi-taxi" className="mx-auto max-w-6xl px-4 py-10 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
-        <h3 className="text-2xl font-semibold tracking-tight">Why travellers choose Kashi Taxi</h3>
+        <h3 className="text-2xl font-semibold tracking-tight">Why travellers choose Varanasi Taxi</h3>
         <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {[
             { icon: ShieldCheck, title: "Local, trusted & responsive", desc: "Varanasi‑based team that actually picks up the phone—day or night." },
@@ -411,7 +411,7 @@ export default function KashiTaxiIntro() {
 
       {/* ABOUT / FOOTER CTA */}
       <section id="about" className="mx-auto max-w-6xl px-4 pb-12 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
-        <h3 className="text-2xl font-semibold tracking-tight">About Kashi Taxi (Vinayak Travels Tour)</h3>
+        <h3 className="text-2xl font-semibold tracking-tight">About Varanasi Taxi (Vinayak Travels Tour)</h3>
         <p className="mt-2 text-slate-600">
           We’re a Varanasi‑based taxi operator helping pilgrims and travellers with airport transfers, local sightseeing and outstation trips across Uttar Pradesh and Bihar. Our focus is simple: safe, clean, punctual rides with honest pricing and real, local support.
         </p>

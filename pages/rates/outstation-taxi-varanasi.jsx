@@ -140,7 +140,7 @@ export default function OutstationTaxiGuide() {
         <meta property="og:type" content="article" />
         <meta property="og:url" content={PAGE_URL} />
         <meta property="og:image" content={OG_IMG} />
-        <meta property="og:site_name" content="Kashi Taxi" />
+        <meta property="og:site_name" content="Varanasi Taxi" />
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2025)" />
@@ -217,7 +217,7 @@ export default function OutstationTaxiGuide() {
 
         {/* OUR RATES (single table, no external providers) */}
         <motion.section id="rates" {...fadeUp} className="mx-auto max-w-6xl px-4 py-6">
-        <h2 className="text-2xl font-semibold tracking-tight">Kashi Taxi outstation rates (2025)</h2>
+        <h2 className="text-2xl font-semibold tracking-tight">Varanasi Taxi outstation rates (2025)</h2>
         <p className="mt-2 text-slate-600">Transparent fares by vehicle class. Fuel included; add <em>tolls, state tax, parking</em> and any <em>driver night</em> charges if applicable.</p>
         <div className="mt-4">
           <Card className="border">

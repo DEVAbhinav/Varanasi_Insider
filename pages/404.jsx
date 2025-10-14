@@ -317,7 +317,7 @@ export default function Custom404() {
   return (
     <>
       <Head>
-        <title>404 — Lost in Kashi | Kashi Taxi</title>
+        <title>404 — Lost in Kashi | Varanasi Taxi</title>
         <meta name="robots" content="noindex, follow" />
       </Head>
       <NavBar />

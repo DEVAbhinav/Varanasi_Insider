@@ -103,7 +103,7 @@ This **Ayodhya Prayagraj Varanasi itinerary** is a popular choice for pilgrims.
 | **2 D / 1 N Ayodhya tour package** | 8,000 – 10,000 | 11,000 – 13,000 | Transport only |
 | **3 D Kashi–Prayagraj–Ayodhya circuit package** | 12,000 – 15,000 | 16,000 – 18,000 | All-inclusive transport |
 
-> 📞 **Plan your Yatra with Kashi Taxi – +91 94503 01573**  
+> 📞 **Plan your Yatra with Varanasi Taxi – +91 94503 01573**  
 > Experienced drivers, devotional ambience, flexible itineraries for your **Varanasi to Ayodhya tour package**.
 
 ---

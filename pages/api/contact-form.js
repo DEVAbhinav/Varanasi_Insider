@@ -62,7 +62,7 @@ export default async function handler(req, res) {
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9;">
         <div style="background-color: #ffffff; padding: 30px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
           <h2 style="color: #FF1493; margin-bottom: 20px; border-bottom: 2px solid #FF1493; padding-bottom: 10px;">
-            🚖 New Booking Inquiry - Kashi Taxi
+            🚖 New Booking Inquiry - Varanasi Taxi
           </h2>
           
           <div style="background-color: #fff5f9; padding: 15px; border-left: 4px solid #FF1493; margin-bottom: 20px;">
@@ -104,7 +104,7 @@ export default async function handler(req, res) {
           </div>
           
           <p style="text-align: center; color: #666; font-size: 12px; margin-top: 20px;">
-            This is an automated notification from Kashi Taxi booking system.
+            This is an automated notification from Varanasi Taxi booking system.
           </p>
         </div>
       </div>

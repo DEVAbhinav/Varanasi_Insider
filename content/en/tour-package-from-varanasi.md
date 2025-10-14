@@ -105,7 +105,7 @@ This package is for those who wish to perform ancestral rites in Gaya.
 
 \*Prices are for transport only and include driver, fuel, tolls, and taxes. Hotels & meals are extra.
 
-> **Book Your Varanasi Tour Package** – WhatsApp **+91 94503 01573** (Kashi Taxi). As a top-rated **Varanasi tour operator**, we provide clean vehicles, professional drivers, and expert guidance.
+> **Book Your Varanasi Tour Package** – WhatsApp **+91 94503 01573** (Varanasi Taxi). As a top-rated **Varanasi tour operator**, we provide clean vehicles, professional drivers, and expert guidance.
 
 ---
 

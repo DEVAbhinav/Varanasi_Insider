@@ -19,7 +19,7 @@
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Kashi Taxi",
+        "name": "Varanasi Taxi",
         "logo": {
           "@type": "ImageObject",
           "url": "https://www.kashitaxi.in/logo.png",
@@ -165,7 +165,7 @@
       "description": "वाराणसी से विंध्याचल नवरात्रि तीर्थयात्रा की संपूर्ण व्यवस्था",
       "provider": {
         "@type": "Organization",
-        "name": "Kashi Taxi",
+        "name": "Varanasi Taxi",
         "telephone": "+91-94503-01573",
         "url": "https://www.kashitaxi.in"
       },

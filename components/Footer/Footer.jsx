@@ -35,7 +35,7 @@ export default function Footer({ allPosts }) {
     <footer className={styles.footerWrapper}>
       <div className={styles.footerContainer}>
         <div className={styles.logoSection}>
-          <h3 className={styles.footerTitle}>Kashi Taxi</h3>
+          <h3 className={styles.footerTitle}>Varanasi Taxi</h3>
           <p className={styles.footerSubtitle}>A Vinayak Travels Tour Venture</p>
         </div>
         <div className={styles.linksSection}>

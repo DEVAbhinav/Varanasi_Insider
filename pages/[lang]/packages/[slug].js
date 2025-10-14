@@ -354,7 +354,7 @@ export async function getStaticProps({ params }) {
       "@type": "Product",
       name: `${t.name} (${t.duration || ""})`,
       description: (t.includes || []).join("; "),
-      brand: { "@type": "Brand", name: "Kashi Taxi" },
+      brand: { "@type": "Brand", name: "Varanasi Taxi" },
       areaServed: "Varanasi",
       offers: {
         "@type": "AggregateOffer",

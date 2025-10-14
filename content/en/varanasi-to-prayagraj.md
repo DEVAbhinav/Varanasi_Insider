@@ -100,7 +100,7 @@ A **Kashi to Triveni Sangam day trip** is a popular and spiritually fulfilling e
 
 \*Approx., all-inclusive transport (fuel, tolls, driver). SUV cost higher.
 
-📞 **Book your Varanasi Prayagraj Tour Package with Kashi Taxi – +91 94503 01573**
+📞 **Book your Varanasi Prayagraj Tour Package with Varanasi Taxi – +91 94503 01573**
 
 ---
 

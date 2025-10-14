@@ -3,7 +3,7 @@
   Update all JSON-LD files under content/en/json to ensure
   - BreadcrumbList with category-aware trail (Guides / Services / Packages) using configurable routes
   - Wrap into @graph when needed
-  - Normalize publisher to the business Organization (Kashi Taxi | Vinayak Travels Varanasi) with a stable @id
+  - Normalize publisher to the business Organization (Varanasi Taxi | Vinayak Travels Varanasi) with a stable @id
   - Upsert Organization node and standardize sameAs / logo / naming
 */
 
@@ -43,9 +43,9 @@ const CFG = loadConfig();
 const ORG = {
   '@type': 'Organization',
   '@id': `${CFG.baseUrl}#organization`,
-  name: 'Kashi Taxi | Vinayak Travels Varanasi',
+  name: 'Varanasi Taxi | Vinayak Travels Varanasi',
   legalName: 'Vinayak Travels Varanasi',
-  alternateName: ['Kashi Taxi', 'Kashitaxi'],
+  alternateName: ['Varanasi Taxi', 'Kashitaxi'],
   url: `${CFG.baseUrl}/`,
   logo: {
     '@type': 'ImageObject',

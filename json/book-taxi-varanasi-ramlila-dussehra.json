@@ -65,7 +65,7 @@
     "type": "Service",
     "name": "Varanasi Festival Transport Booking",
     "description": "Guaranteed taxi and vehicle rental for Ramlila and Dussehra festivals",
-    "provider": "Kashi Taxi",
+    "provider": "Varanasi Taxi",
     "offers": {
       "price": "2000-6000 INR per day",
       "priceCurrency": "INR"

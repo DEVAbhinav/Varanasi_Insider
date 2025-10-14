@@ -46,7 +46,7 @@ export default function ServicesPage({ services, jsonLd }) {
   return (
     <CategoryPageLayout
       title="Taxi & Travel Services in Varanasi"
-      metaTitle="Varanasi Taxi Services | Airport Transfer, Local Tours & Outstation | Kashi Taxi"
+      metaTitle="Varanasi Taxi Services | Airport Transfer, Local Tours & Outstation | Varanasi Taxi"
       metaDescription="Professional taxi services in Varanasi - Airport transfers ₹800, local sightseeing, tempo traveller hire, outstation cabs. 24×7 service with transparent fares. Call 9450301573"
       heroTitle="Varanasi Taxi & Travel Services"
       heroSubtitle="Airport transfers, local sightseeing & outstation trips with transparent fares and safety-first approach"

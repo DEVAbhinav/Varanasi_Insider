@@ -1,13 +1,13 @@
 ---
-title: "Privacy Policy - Kashi Taxi Services"
+title: "Privacy Policy - Varanasi Taxi Services"
 slug: "privacy-policy"
 date: "2025-10-04"
 lastUpdated: "2025-10-04"
-author: "Kashi Taxi"
+author: "Varanasi Taxi"
 lang: en-IN
-description: "Privacy Policy for Kashi Taxi Services. Learn how we collect, use, and protect your personal information."
-metaTitle: "Privacy Policy | Kashi Taxi Varanasi"
-metaDescription: "Read our privacy policy to understand how Kashi Taxi collects, uses, and protects your personal information when you use our services."
+description: "Privacy Policy for Varanasi Taxi Services. Learn how we collect, use, and protect your personal information."
+metaTitle: "Privacy Policy | Varanasi Taxi Varanasi"
+metaDescription: "Read our privacy policy to understand how Varanasi Taxi collects, uses, and protects your personal information when you use our services."
 ---
 
 # Privacy Policy
@@ -16,7 +16,7 @@ metaDescription: "Read our privacy policy to understand how Kashi Taxi collects,
 
 ## Introduction
 
-Welcome to Kashi Taxi ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website www.kashitaxi.in or use our services.
+Welcome to Varanasi Taxi ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website www.kashitaxi.in or use our services.
 
 ## Information We Collect
 
@@ -135,7 +135,7 @@ If you are accessing our website from outside India, please be aware that your i
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
-**Kashi Taxi Services**
+**Varanasi Taxi Services**
 - **Phone:** +91 9450301573
 - **WhatsApp:** +91 9450301573
 - **Email:** info@kashitaxi.in

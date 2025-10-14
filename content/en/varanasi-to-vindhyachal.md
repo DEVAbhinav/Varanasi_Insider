@@ -89,7 +89,7 @@ Hiring a taxi is the preferred mode of travel for this trip.
 
 \*Prices are approximate. For exact **Varanasi to Vindhyachal taxi fare**, it's best to confirm at the time of booking.
 
-> **Book Your Tour:** For a reliable **Varanasi to Vindhyachal cab**, contact Kashi Taxi at **+91 94503 01573**. They offer well-maintained vehicles and experienced drivers.
+> **Book Your Tour:** For a reliable **Varanasi to Vindhyachal cab**, contact Varanasi Taxi at **+91 94503 01573**. They offer well-maintained vehicles and experienced drivers.
 
 ---
 

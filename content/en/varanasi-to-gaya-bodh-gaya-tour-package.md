@@ -116,7 +116,7 @@ Covering all three grants spiritual upliftment for self (*moksha*), ancestors, a
 
 \*Transport only; hotels/meals extra.
 
-> **Plan your Kashi–Gaya Yatra** — WhatsApp **+91 94503 01573** (Kashi Taxi).  
+> **Plan your Kashi–Gaya Yatra** — WhatsApp **+91 94503 01573** (Varanasi Taxi).  
 > Devotional drivers, safe vehicles, ritual assistance, and timing tips for your **Varanasi to Gaya tour package**.
 
 ---

@@ -13,7 +13,7 @@ const organizationNode = {
   '@id': 'https://www.kashitaxi.in#organization',
   name: 'Vinayak Travels',
   legalName: 'Vinayak Travels',
-  alternateName: ['Kashi Taxi', 'Kashitaxi'],
+  alternateName: ['Varanasi Taxi', 'Kashitaxi'],
   url: 'https://www.kashitaxi.in/',
   logo: { '@type': 'ImageObject', url: 'https://www.kashitaxi.in/favicon.jpeg' },
   sameAs: ['https://wa.me/919935474730', 'https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA']
@@ -376,17 +376,17 @@ export default function BikeRentalsPage({ allPosts }) {
                 {/* Updated SEO Content Section */}
                 <section className="bg-white py-16 sm:py-20">
                     <div className="container mx-auto max-w-4xl px-4 text-lg text-gray-700">
-                        <h1 className="text-center text-4xl font-bold sm:text-5xl text-gray-800 mb-8">Bike Rental in Varanasi: Affordable and Trusted Two-Wheeler Rentals by Kashi Taxi</h1>
+                        <h1 className="text-center text-4xl font-bold sm:text-5xl text-gray-800 mb-8">Bike Rental in Varanasi: Affordable and Trusted Two-Wheeler Rentals by Varanasi Taxi</h1>
                         <p className="mt-6">
-                            Varanasi, the eternal city of ghats and temples, comes alive when explored on two wheels. At Kashi Taxi, we specialize in <strong>bike rental in Varanasi</strong>, offering seamless mobility for tourists and locals alike. Whether you're seeking <strong>scooty rental in Varanasi</strong> to navigate narrow lanes or <strong>bike on rent in Varanasi</strong> for scenic countryside rides, our <strong>trusted bike rental</strong> services ensure a hassle-free experience. As part of Vinayak Travels, we've been providing <strong>affordable bike rental</strong> options since our inception, helping you discover Kashi's spiritual essence at your own pace in 2025.
+                            Varanasi, the eternal city of ghats and temples, comes alive when explored on two wheels. At Varanasi Taxi, we specialize in <strong>bike rental in Varanasi</strong>, offering seamless mobility for tourists and locals alike. Whether you're seeking <strong>scooty rental in Varanasi</strong> to navigate narrow lanes or <strong>bike on rent in Varanasi</strong> for scenic countryside rides, our <strong>trusted bike rental</strong> services ensure a hassle-free experience. As part of Vinayak Travels, we've been providing <strong>affordable bike rental</strong> options since our inception, helping you discover Kashi's spiritual essence at your own pace in 2025.
                         </p>
                         <p className="mt-4">
                             This ultimate guide, crafted from local expertise and real user feedback, covers our fleet, pricing, booking process, safety tips, and insider recommendations for must-visit spots. Prioritizing your convenience, we focus on well-maintained vehicles and transparent dealings to make your trip memorable and safe.
                         </p>
 
-                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Why Choose Kashi Taxi for Bike Rental in Varanasi?</h2>
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Why Choose Varanasi Taxi for Bike Rental in Varanasi?</h2>
                         <p className="mt-6">
-                            Opting for <strong>two wheeler rental in Varanasi</strong> with Kashi Taxi means freedom from crowded autos and unreliable public transport. Our rentals let you zip through traffic to reach the Ganges Ghats or venture to nearby attractions like Sarnath without delays. Travelers rave about the flexibility—perfect for spontaneous visits to temples or evening Aartis.
+                            Opting for <strong>two wheeler rental in Varanasi</strong> with Varanasi Taxi means freedom from crowded autos and unreliable public transport. Our rentals let you zip through traffic to reach the Ganges Ghats or venture to nearby attractions like Sarnath without delays. Travelers rave about the flexibility—perfect for spontaneous visits to temples or evening Aartis.
                         </p>
                         <p className="mt-4">
                             With a 4.7-star rating on Justdial based on customer reviews, we're known for reliability and cleanliness. One reviewer shared, "I got a very nice and properly maintained bike—I recommend it to everyone!" For eco-friendly explorers, we also support <strong>bicycle rental in Varanasi</strong> inquiries, though our core focus is motorized options. In 2025, with improved city roads, our <strong>daily bike rental</strong> and <strong>monthly bike rental</strong> plans offer unbeatable value for short trips or extended stays.
@@ -394,7 +394,7 @@ export default function BikeRentalsPage({ allPosts }) {
 
                         <h2 className="mt-12 text-3xl font-bold text-gray-800">Our Fleet: Top-Quality Bikes and Scooties for Every Need</h2>
                         <p className="mt-6">
-                            At Kashi Taxi, our fleet is curated for Varanasi's diverse terrain—from city streets to highway excursions. All vehicles are regularly serviced, sanitized, and come with helmets for safety.
+                            At Varanasi Taxi, our fleet is curated for Varanasi's diverse terrain—from city streets to highway excursions. All vehicles are regularly serviced, sanitized, and come with helmets for safety.
                         </p>
                         <ul className="mt-4 list-disc pl-6">
                             <li><strong>Honda Activa</strong>: Ideal for <strong>scooter rental in Varanasi</strong>; easy handling in traffic.</li>
@@ -447,7 +447,7 @@ export default function BikeRentalsPage({ allPosts }) {
                             Prices exclude fuel and a refundable security deposit (₹1,000-5,000). For <strong>monthly bike rental</strong>, enjoy up to 50% savings on long-term plans. Contact us via call or WhatsApp for the latest quotes and seasonal offers—no obligations!
                         </p>
 
-                        <h2 className="mt-12 text-3xl font-bold text-gray-800">How to Book Your Bike Rental with Kashi Taxi</h2>
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">How to Book Your Bike Rental with Varanasi Taxi</h2>
                         <p className="mt-6">
                             Booking is straightforward and user-friendly:
                         </p>
@@ -464,7 +464,7 @@ export default function BikeRentalsPage({ allPosts }) {
 
                         <h2 className="mt-12 text-3xl font-bold text-gray-800">Safety Tips and Local Traffic Insights for Varanasi Riders</h2>
                         <p className="mt-6">
-                            Safety is our priority at Kashi Taxi. All bikes undergo maintenance checks, and we provide quality helmets. Follow these tips for a secure ride:
+                            Safety is our priority at Varanasi Taxi. All bikes undergo maintenance checks, and we provide quality helmets. Follow these tips for a secure ride:
                         </p>
                         <ul className="mt-4 list-disc pl-6">
                             <li><strong>Helmet Use</strong>: Mandatory for rider and pillion (fine: ₹1,000+ if violated).</li>
@@ -476,7 +476,7 @@ export default function BikeRentalsPage({ allPosts }) {
                             User experiences highlight: "Properly maintained bikes made my trip safe and enjoyable." We also offer a women-only Pink Taxi service for added security in other travel needs.
                         </p>
 
-                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Must-Visit Places in Varanasi by Bike from Kashi Taxi</h2>
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Must-Visit Places in Varanasi by Bike from Varanasi Taxi</h2>
                         <p className="mt-6">
                             Unlock Varanasi's hidden gems with our rentals:
                         </p>
@@ -496,7 +496,7 @@ export default function BikeRentalsPage({ allPosts }) {
                             These spots are best experienced on two wheels, as per local travelers: "Cruising along the riverfront was magical."
                         </p>
 
-                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Real User Experiences with Kashi Taxi</h2>
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Real User Experiences with Varanasi Taxi</h2>
                         <p className="mt-6">
                             Our 4.7 rating reflects satisfied customers: "Customers praise the cleanliness and quality of service." Another shared, "Very nice and proper maintained bike—highly recommend!" Pro Tip: Refuel before return and record a quick video of the bike's condition for peace of mind.
                         </p>
@@ -526,7 +526,7 @@ export default function BikeRentalsPage({ allPosts }) {
                           <p className="mt-4 text-xs text-gray-500">Reviews shown above are genuine customer snippets displayed to align with structured data markup.</p>
                         </section>
 
-                        <h2 className="mt-12 text-3xl font-bold text-gray-800">FAQs on Bike Rental in Varanasi with Kashi Taxi</h2>
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">FAQs on Bike Rental in Varanasi with Varanasi Taxi</h2>
                         <ul className="mt-6 space-y-4">
                             <li><strong>Is fuel included?</strong> No, it's pay-as-you-go for transparency.</li>
                             <li><strong>Can foreigners rent?</strong> Yes, with a valid international driving license.</li>
@@ -535,7 +535,7 @@ export default function BikeRentalsPage({ allPosts }) {
                             <li><strong>Electric options?</strong> Inquire for emerging availability in 2025.</li>
                         </ul>
                         <p className="mt-6 text-center">
-                            Ready for your Varanasi adventure? Book your <strong>trusted bike rental</strong> with Kashi Taxi today via call or WhatsApp. Explore Kashi like a local—affordably and safely!
+                            Ready for your Varanasi adventure? Book your <strong>trusted bike rental</strong> with Varanasi Taxi today via call or WhatsApp. Explore Kashi like a local—affordably and safely!
                         </p>
                     </div>
                 </section>

@@ -51,7 +51,7 @@ After check‑in, plan a [sunrise boat ride](/en/sunrise-boat-ride-varanasi/) or
 <div class="inline-cta" role="region" aria-label="Book airport pickup">
   <h3>Skip the hassle — fixed, all‑inclusive airport pickup</h3>
   <p>
-    Avoid uncertainty at the terminal. Book a <strong>Kashi Taxi</strong> for a
+    Avoid uncertainty at the terminal. Book a <strong>Varanasi Taxi</strong> for a
     <strong>fixed, all‑inclusive fare</strong> with a professional driver waiting
     at the arrivals gate. On‑time pickup guaranteed.
   </p>

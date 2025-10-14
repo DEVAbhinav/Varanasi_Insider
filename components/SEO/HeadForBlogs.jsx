@@ -20,10 +20,10 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
   const urlPath = `/${langForPath}/${slugForPath}`
   const canonical = `${SITE}${urlPath}`
 
-  const title = postData.title || 'Kashi Taxi'
+  const title = postData.title || 'Varanasi Taxi'
   const description = postData.description || ''
   const keywords = postData.keywords || (Array.isArray(postData.tags) ? postData.tags.join(', ') : undefined)
-  const author = postData.author || 'Kashi Taxi'
+  const author = postData.author || 'Varanasi Taxi'
   const published = postData.date || undefined
   const modified = postData.lastUpdated || postData.date || undefined
   const ogLocale = (postData.lang || (langForPath === 'hi' ? 'hi-IN' : 'en-IN')).replace('-', '_')
@@ -47,7 +47,7 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
       <meta property="og:type" content="article" />
       <meta property="og:url" content={canonical} />
       <meta property="og:image" content={ogImage} />
-      <meta property="og:site_name" content="Kashi Taxi" />
+      <meta property="og:site_name" content="Varanasi Taxi" />
       <meta property="og:locale" content={ogLocale} />
       {published && <meta property="article:published_time" content={published} />}
       {modified && <meta property="article:modified_time" content={modified} />}

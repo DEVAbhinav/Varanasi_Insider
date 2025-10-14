@@ -89,7 +89,7 @@ Row 4: 3 seats + rear luggage bay
 
 - **Experience:** Drivers trained to handle family dynamics—kids, elders, varied appetites.
 - **Expertise:** We supply a “family checklist” PDF (ID copies, medication timings, darshan slot reminder).
-- **Authoritativeness:** Covered by Kashi Taxi’s commercial permit; vehicles pass quarterly fitness checks.
+- **Authoritativeness:** Covered by Varanasi Taxi’s commercial permit; vehicles pass quarterly fitness checks.
 - **Trust:** WhatsApp tracker, driver photo, and emergency contacts shared 12 hours before journey.
 
 ## Comfort Tips for 12-Seater Ayodhya Tempo Traveller

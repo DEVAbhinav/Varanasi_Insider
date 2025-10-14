@@ -32,7 +32,7 @@ import getHomeSchema from '../components/JsonLd/homepageSchema';
   - `og:image` - Hero image for social cards
   - `og:url` - Canonical URL
   - `og:type` - Website type
-  - `og:site_name` - Kashi Taxi branding
+  - `og:site_name` - Varanasi Taxi branding
   - `og:locale` - Indian English locale (en_IN)
 
 ```html
@@ -41,7 +41,7 @@ import getHomeSchema from '../components/JsonLd/homepageSchema';
 <meta property="og:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
 <meta property="og:url" content="https://www.kashitaxi.in/home" />
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="Kashi Taxi" />
+<meta property="og:site_name" content="Varanasi Taxi" />
 <meta property="og:locale" content="en_IN" />
 ```
 
@@ -98,7 +98,7 @@ const CTASectionHome = dynamic(() => import('../components/CTASectionHome/CTASec
 
 | SEO Element | `/` (index.js) | `/home` (home.js) | Winner |
 |-------------|---------------|------------------|--------|
-| **Title Tag** | Generic "Kashi Taxi" | Phone + Pricing "☎ 9450301573" | 🏆 /home |
+| **Title Tag** | Generic "Varanasi Taxi" | Phone + Pricing "☎ 9450301573" | 🏆 /home |
 | **Meta Description** | Good | Better with ₹800, ₹2500 pricing | 🏆 /home |
 | **Keywords Meta** | Basic | Comprehensive long-tail keywords | 🏆 /home |
 | **H1 Heading** | Missing | Strong SEO H1 present | 🏆 /home |

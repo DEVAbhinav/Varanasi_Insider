@@ -351,7 +351,7 @@ Having the right apps on your phone can dramatically improve your travel experie
 * **Bus Travel:** RedBus is the go-to platform for booking seats on inter-city buses.
 * **Food:** Zomato and Swiggy are the dominant food delivery apps, perfect for a quiet night in at your hotel.   
 * **Payments:** Google Pay or BHIM are the leading UPI apps. You can link your UPI One World wallet to them for easy payments.
-* **Local Guide:** And of course, Kashi Taxi (https://www.kashitaxi.in), for our curated, in-depth guides, safety updates, and interactive maps.
+* **Local Guide:** And of course, Varanasi Taxi (https://www.kashitaxi.in), for our curated, in-depth guides, safety updates, and interactive maps.
 
 ## Cultural Etiquette in Varanasi & What to Wear for Respectful Travel
 Varanasi is one of the most sacred cities in Hinduism, and your experience will be profoundly enriched—and your safety enhanced—by showing respect for its ancient customs. Cultural awareness is not just about being polite; it's about understanding the spiritual grammar of the city.

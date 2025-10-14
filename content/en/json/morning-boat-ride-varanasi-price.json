@@ -25,7 +25,7 @@
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Kashi Taxi | Vinayak Travels Varanasi",
+        "name": "Varanasi Taxi | Vinayak Travels Varanasi",
         "logo": {
           "@type": "ImageObject",
           "url": "https://www.kashitaxi.in/images/logo.jpeg"
@@ -36,10 +36,10 @@
     {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
-        "Kashi Taxi",
+        "Varanasi Taxi",
         "Kashitaxi"
       ],
       "url": "https://www.kashitaxi.in/",

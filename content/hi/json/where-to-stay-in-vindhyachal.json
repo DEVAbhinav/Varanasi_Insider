@@ -19,7 +19,7 @@
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Kashi Taxi",
+        "name": "Varanasi Taxi",
         "logo": {
           "@type": "ImageObject",
           "url": "https://www.kashitaxi.in/logo.png",
@@ -258,7 +258,7 @@
       "description": "विंध्याचल में विश्वसनीय आवास बुकिंग सेवा",
       "provider": {
         "@type": "Organization",
-        "name": "Kashi Taxi",
+        "name": "Varanasi Taxi",
         "telephone": "+91-94503-01573",
         "url": "https://www.kashitaxi.in"
       },

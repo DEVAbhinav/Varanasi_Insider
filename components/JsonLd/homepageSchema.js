@@ -21,7 +21,7 @@ const getHomeSchema = (site) => ({
       '@type': ['LocalBusiness', 'TaxiService', 'TouristInformationCenter'],
       '@id': `${site}/#org`,
       name: 'Varanasi Taxi & Tempo Traveller Service | Vinayak Travels',
-      alternateName: ['Kashi Taxi', 'Varanasi Travels', 'Varanasi Tour', 'Vinayak Travels Varanasi', 'Tempo Traveller Varanasi', 'Varanasi Cab Service'],
+      alternateName: ['Varanasi Taxi', 'Varanasi Travels', 'Varanasi Tour', 'Vinayak Travels Varanasi', 'Tempo Traveller Varanasi', 'Varanasi Cab Service'],
       url: `${site}/`,
       logo: `${site}/images/logo.jpeg`,
       image: [

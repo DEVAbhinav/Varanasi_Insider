@@ -26,7 +26,7 @@ export default function LangHome({ allPostsData, lang }) {
   return (
     <>
       <Head>
-        <title>Varanasi Travel Guides & Tips | Kashi Taxi Blog</title>
+        <title>Varanasi Travel Guides & Tips | Varanasi Taxi Blog</title>
         <meta name="description" content="Expert travel guides, tips and local insights for visiting Varanasi. Temple guides, ghat information, festival calendars, and transportation advice." />
       </Head>
       

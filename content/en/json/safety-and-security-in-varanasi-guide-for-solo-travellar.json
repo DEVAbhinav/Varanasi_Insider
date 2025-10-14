@@ -94,7 +94,7 @@
             {
               "@type": "HowToStep",
               "name": "Arrange Transport",
-              "text": "Use pre‑booked cab (e.g., Kashi Taxi) or prepaid desk; avoid tout clusters."
+              "text": "Use pre‑booked cab (e.g., Varanasi Taxi) or prepaid desk; avoid tout clusters."
             },
             {
               "@type": "HowToStep",
@@ -108,10 +108,10 @@
     {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "Kashi Taxi | Vinayak Travels Varanasi",
+      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
-        "Kashi Taxi",
+        "Varanasi Taxi",
         "Kashitaxi"
       ],
       "url": "https://www.kashitaxi.in/",

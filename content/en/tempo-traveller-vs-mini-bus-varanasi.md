@@ -3,7 +3,7 @@ title: "Tempo Traveller vs Mini Bus in Varanasi – Which Suits Your Group?"
 description: "Choosing between Tempo Traveller and Mini Bus for Varanasi? I compare 17-seater vs 32-seater on cost, flexibility & comfort for 15-30 person groups."
 keywords: "tempo traveller vs mini bus varanasi, 17 seater vs 32 seater bus, group transport comparison varanasi, large group travel varanasi"
 date: 2025-01-10
-author: "Kamal - Banarasi Kashi Taxi"
+author: "Kamal - Banarasi Varanasi Taxi"
 image: "/images/tempo-vs-bus-comparison.jpg"
 lang: "en"
 category: "Tempo Traveller Services"
@@ -425,6 +425,6 @@ If your group is **27+**, Mini Bus is your only single-vehicle option (or go mul
 
 ---
 
-**About the Author:** I'm Kamal, born and raised in Varanasi. I started Banarasi Kashi Taxi in 2010 with just one Tempo Traveller. Today we operate 12 Tempos and 4 Mini Buses. My passion is helping groups experience Kashi the right way – comfortably, affordably, and authentically.
+**About the Author:** I'm Kamal, born and raised in Varanasi. I started Banarasi Varanasi Taxi in 2010 with just one Tempo Traveller. Today we operate 12 Tempos and 4 Mini Buses. My passion is helping groups experience Kashi the right way – comfortably, affordably, and authentically.
 
 *Last updated: January 10, 2025*
