@@ -1,14 +1,20 @@
 ---
-
-title: "Varanasi in December 2025: Weather, Fog & Things to Do"
+title: "Varanasi in December 2025: Fog Hacks, Packing & Plans"
 slug: "varanasi-in-december-2025"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/varanasi-sunrise-p.jpeg"
-description: "Planning a trip to Varanasi in December 2025? Get expert tips on the winter weather, dealing with fog, what to wear, and the best things to do."
-keywords: "varanasi in december, varanasi weather december, varanasi fog, what to wear in varanasi in december, things to do in varanasi in december, is december good time to visit varanasi"
+metaTitle: "Varanasi in December 2025 Weather – Fog Survival, Packing & Events"
+metaDescription: "Use our December 2025 Varanasi fog survival game plan: exact temps, flight delay odds, what to pack, sunrise boat alternatives & festival calendar."
+description: "December 2025 Varanasi fog survival plan—exact temps, flight delay odds, packing list, sunrise boat alternatives, and festive events in one cheat sheet."
+keywords:
+  - "varanasi in december 2025"
+  - "varanasi fog forecast december"
+  - "what to wear varanasi winter"
+  - "varanasi december things to do"
+  - "is december good time to visit varanasi"
 tags:
   - varanasi
   - december
@@ -39,7 +45,7 @@ For insights into how December compares to other times of the year, don't forget
 
 ## Varanasi Weather in December: Embracing the Winter Chill
 
-![A misty morning on the ghats of Varanasi in December](/images/varanasi-ghat-early-morning.jpeg "Misty morning on the ghats of Varanasi")
+![Sunrise boat silhouette cutting through December fog in Varanasi](/images/varanasi-ghat-early-morning.jpeg "Misty morning on the ghats of Varanasi")
 
 While you won't find snow here, December in Varanasi definitely has a winter feel. The days are sunny but cooler, and the nights can get quite chilly. Be prepared for a significant drop in temperature, especially after sunset.
 

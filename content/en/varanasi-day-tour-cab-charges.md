@@ -1,12 +1,20 @@
 ---
-title: "Varanasi Day Tour Cab Charges (2025): Price List & Itineraries"
+title: "Varanasi Day Tour Cab Charges 2025: Price Grid & VIP Routing"
 slug: "varanasi-day-tour-cab-charges"
 date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/Sighseeing1.png"
-description: "See the latest cab charges for a full-day Varanasi sightseeing tour. We have packages including Sarnath, temples, and ghats. Book your tour today."
+metaTitle: "Varanasi Day Tour Cab Price 2025 – ₹1,800 to ₹6,500 Packages"
+metaDescription: "Unlock the 2025 Varanasi day tour cab rate-card, temple queue hacks, sunrise-to-aarti route, and WhatsApp script to lock drivers before they sell out."
+description: "2025 Varanasi day tour cab price grid, temple queue hacks, sunrise-to-aarti VIP routing, and WhatsApp script to lock your driver before surge pricing hits."
+keywords:
+  - "varanasi day tour cab charges"
+  - "varanasi sightseeing taxi package 2025"
+  - "varanasi city tour price"
+  - "varanasi day tour itinerary by cab"
+  - "book varanasi taxi full day"
 tags:
   - varanasi
   - day tour
@@ -32,7 +40,7 @@ Exploring Varanasi's rich tapestry of temples, ghats, and historical sites is be
 
 ## How Much Do Full-Day Taxi Packages Cost in Varanasi?
 
-![A sedan car available for Varanasi day tours](/images/seden.png "Sedan car for sightseeing")
+![Varanasi day tour cab rate card graphic showing 8hr/12hr packages](/images/Sighseeing1.png "Varanasi day tour rate card 2025")
 
 Taxi operators in Varanasi typically offer two main packages for local sightseeing:
 *   **8 hours / 80 km:** Ideal for covering the main highlights within the city.
@@ -52,7 +60,7 @@ Here are the approximate charges for different vehicle types:
 
 *\*Fares are indicative and can vary. Always confirm the final price and inclusions before booking.*
 
-![A Tempo Traveller, ideal for larger groups on a Varanasi day tour](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for group tours")
+![Tempo Traveller staged for a 14-stop Varanasi family itinerary](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for group tours")
 
 ---
 

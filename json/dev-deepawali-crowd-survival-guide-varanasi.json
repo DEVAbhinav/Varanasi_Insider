@@ -51,7 +51,7 @@
   },
   "technicalSeo": {
     "slug": "dev-deepawali-crowd-survival-guide-varanasi",
-    "featuredImage": "/images/dev-deepawali-massive-crowds.jpg",
+    "featuredImage": "/images/varanasi-evening-aarti-ritual-2025.jpg",
     "imageAlt": "Massive crowds during Dev Deepawali festival at Varanasi ghats requiring safety management",
     "estimatedReadingTime": "10 minutes",
     "wordCount": 3000,
@@ -66,7 +66,60 @@
     "name": "How to survive massive crowds at Dev Deepawali festival",
     "description": "Comprehensive safety guide for navigating 500,000+ festival attendees",
     "totalTime": "PT45M",
-    "supply": ["Water", "Emergency contacts", "Safety equipment"]
+    "supply": [
+      "Water",
+      "Emergency contacts",
+      "Safety equipment",
+      "Offline maps",
+      "First-aid kit"
+    ],
+    "step": [
+      {
+        "position": 1,
+        "name": "Lock transport before noon",
+        "text": "Reserve a shuttle-linked parking slot 1.5 km away (Rajghat or Dhobi Ghat) before noon to avoid barricade closures."
+      },
+      {
+        "position": 2,
+        "name": "Arrive at ghats by 4:30 PM",
+        "text": "Reach your chosen ghat by 4:30 PM to capture visuals before police harden barricades."
+      },
+      {
+        "position": 3,
+        "name": "Pre-plan twin exit routes",
+        "text": "Designate both left-bank and right-bank exit corridors so your group can pivot if one lane locks down."
+      },
+      {
+        "position": 4,
+        "name": "Color-code your group",
+        "text": "Use matching bands or scarves so family members can spot each other even when mobile networks fail."
+      },
+      {
+        "position": 5,
+        "name": "Pre-download helplines and maps",
+        "text": "Save police helpline numbers (112, 1091) and offline maps since network congestion spikes after 6 PM."
+      },
+      {
+        "position": 6,
+        "name": "Carry a micro medical kit",
+        "text": "Pack ORS, adhesive bandages, and dust masks to manage exhaustion and smoke-heavy segments on the ghats."
+      },
+      {
+        "position": 7,
+        "name": "Assign buddy roles",
+        "text": "Pair each child or elder with a dedicated adult who shepherds them through crowd surges."
+      },
+      {
+        "position": 8,
+        "name": "Pre-book vantage points",
+        "text": "Choose rooftop or boat access by mid-afternoon; last-minute changes can triple prices and add risk."
+      },
+      {
+        "position": 9,
+        "name": "Capture photos early and exit before 7:45 PM",
+        "text": "Finish key photos by 6:15 PM, then move toward pre-selected exits before the mass dispersal wave peaks."
+      }
+    ]
   },
   "relatedPages": [
     "dev-deepawali-2025-varanasi-ultimate-guide",

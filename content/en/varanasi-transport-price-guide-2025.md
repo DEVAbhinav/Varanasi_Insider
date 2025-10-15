@@ -1,11 +1,20 @@
 ---
-title: "Varanasi Transport Price Guide 2025: Auto, Rickshaw & Taxi Fares"
+title: "Varanasi Transport Price Guide 2025: Fare Cheatsheet & Scam Shields"
 slug: "varanasi-transport-price-guide-2025"
 date: "2025-07-24"
 author: "Kamal Nayan Singh"
-featuredImage: "/images/vnsayopyg.png"
-description: "How much should you pay for an auto, e-rickshaw, or taxi in Varanasi? Our 2025 price guide helps you avoid scams and travel on a budget."
+featuredImage: "/images/varanasi-ghats-overview.jpeg"
+metaTitle: "Varanasi Transport Prices 2025 – Auto, E-Rickshaw, Taxi & Boat Fares"
+metaDescription: "Download the 2025 Varanasi transport cheatsheet: auto, e-rickshaw, taxi, boat fares, night surcharge scripts, and WhatsApp templates to shut down overcharging."
+description: "2025 Varanasi transport cheatsheet covering auto, e-rickshaw, taxi, boat fares, night surcharge scripts, and WhatsApp templates to stop overcharging."
 tags: ["varanasi airport taxi price","ganga aarti boat booking price","varanasi pink taxi for women"]
+keywords:
+  - "varanasi transport price guide"
+  - "varanasi auto fare 2025"
+  - "varanasi e rickshaw price"
+  - "varanasi taxi fare list"
+  - "varanasi boat ride cost"
+  - "avoid transport scams varanasi"
 ---
 
 # Varanasi Transport Price Guide 2025: Auto, Rickshaw & Taxi Fares
@@ -26,7 +35,7 @@ Varanasi’s airport is about 25–32 km from the city’s ghats and temples. T
 
 ## [1 · Varanasi Airport Taxi Price (2025 Update)](/en/varanasi-airport-taxi-price-guide)
 
-![A sedan taxi at Varanasi airport](/images/seden.png "Varanasi Airport Taxi")
+![Verified airport sedan lined up at Varanasi arrivals](/images/seden.png "Varanasi Airport Taxi")
 
 | Vehicle | Pre‑paid Stand | Uber/Ola (off‑peak) | Notes |
 |---------|---------------|---------------------|-------|
@@ -42,7 +51,7 @@ Varanasi’s airport is about 25–32 km from the city’s ghats and temples. T
 
 ## [2 · Varanasi Pink Taxi for Women – Safety‑First Rides](/pink-taxi-varanasi)
 
-![A Pink Taxi for women in Varanasi](/images/lady-taxi.jpeg "Varanasi Pink Taxi for Women")
+![Pink Taxi woman driver greeting passenger in Varanasi](/images/lady-taxi.jpeg "Varanasi Pink Taxi for Women")
 
 *Launching December 2025 (pilot slots already live on our portal).*
 
@@ -71,7 +80,7 @@ Reserve a verified woman driver through the upcoming Safe City app **or** pre�
 
 ## [4 · Ganga Aarti Boat Booking Price (Dashashwamedh Ghat)](/en/ganga-aarti-boat-booking-price)
 
-![A traditional Bajra boat for Ganga Aarti](/images/varanasi-river-bajra.jpeg "Bajra boat for Ganga Aarti")
+![Bajra boat decorated for Dev Deepawali bookings](/images/varanasi-river-bajra.jpeg "Bajra boat for Ganga Aarti")
 
 | Boat | Capacity | Inclusions | Rate (till Nov 2025) |
 |------|----------|------------|----------------------|

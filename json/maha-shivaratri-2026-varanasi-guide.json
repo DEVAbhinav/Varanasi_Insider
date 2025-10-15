@@ -51,7 +51,7 @@
   },
   "technicalSeo": {
     "slug": "maha-shivaratri-2026-varanasi-guide",
-    "featuredImage": "/images/kashi-vishwanath-shivaratri.jpg",
+    "featuredImage": "/images/varanasi-kashi-vishwanath-l.jpeg",
     "imageAlt": "Kashi Vishwanath temple during Maha Shivaratri with massive devotee crowds",
     "estimatedReadingTime": "15 minutes",
     "wordCount": 4200,
@@ -63,12 +63,29 @@
   },
   "structuredData": {
     "type": "Event",
-    "name": "Maha Shivaratri 2026 Varanasi",
-    "startDate": "2026-02-15T06:00:00+05:30",
-    "endDate": "2026-02-16T06:00:00+05:30",
-    "location": "Kashi Vishwanath Temple, Varanasi, Uttar Pradesh, India",
-    "description": "World's largest Shiva festival celebration in the holy city of Kashi",
-    "eventStatus": "scheduled"
+    "name": "Maha Shivaratri 2026 at Kashi Vishwanath Temple",
+    "startDate": "2026-02-15T05:00:00+05:30",
+    "endDate": "2026-02-16T04:00:00+05:30",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "scheduled",
+    "location": {
+      "name": "Kashi Vishwanath Temple",
+      "address": {
+        "streetAddress": "Kashi Vishwanath Corridor",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "221001",
+        "addressCountry": "IN"
+      }
+    },
+    "image": [
+      "https://www.kashitaxi.in/images/varanasi-kashi-vishwanath-l.jpeg"
+    ],
+    "description": "Celebrate Maha Shivaratri 2026 in Varanasi with all-night Shiv Baraat processions, Kashi Vishwanath darshan strategies, and crowd navigation tips.",
+    "organizer": {
+      "name": "Varanasi Insider",
+      "url": "https://www.kashitaxi.in"
+    }
   },
   "relatedPages": [
     "kashi-vishwanath-shivaratri-crowd-survival-guide",

@@ -1,13 +1,21 @@
 ---
-title: "Varanasi in October 2025: Weather & Festivals [Guide]"
+title: "Varanasi in October 2025: Weather, Navratri & Diwali Playbook"
 slug: "varanasi-in-october-2025"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/pink-sky-ghat-varanasi-l.jpeg"
-description: "Planning to visit Varanasi in October 2025? Get expert tips on the weather, festivals like Navratri and Diwali, what to wear, and things to do."
-keywords: "varanasi in october, varanasi weather october, diwali in varanasi, navratri in varanasi, what to wear in varanasi in october, is october good time to visit varanasi"
+metaTitle: "Varanasi in October 2025 Weather – Navratri, Diwali Prep & Packing"
+metaDescription: "Plan your October 2025 Varanasi trip with live weather, Navratri + Diwali calendar, crowd warnings, what to wear, and must-book rituals before seats vanish."
+description: "October 2025 Varanasi weather intel, Navratri-to-Diwali calendar, crowd warnings, packing list, and ritual bookings so you don’t miss the city’s festive high."
+keywords:
+  - "varanasi in october 2025"
+  - "varanasi weather october"
+  - "diwali in varanasi 2025"
+  - "navratri in varanasi dates"
+  - "what to wear in varanasi october"
+  - "is october good time to visit varanasi"
 tags:
   - varanasi
   - october
@@ -39,7 +47,7 @@ If you want to see how this beautiful month compares to the rest of the year, do
 
 ## Varanasi Weather in October: A Perfect Climate for Exploring
 
-![The beautiful weather over the ghats in October](/images/varanasi-ghats-overview.jpeg "The ghats of Varanasi in October")
+![Golden October light over Varanasi ghats as Navratri begins](/images/varanasi-ghats-overview.jpeg "The ghats of Varanasi in October")
 
 October marks the perfect transition from the wet monsoon to the cool winter. The days are comfortably warm and sunny, while the evenings start to have a pleasant, gentle coolness. The oppressive humidity of the past few months vanishes, making it the ideal time for walking around and soaking in the city's sights without feeling exhausted by the weather.
 
@@ -56,7 +64,7 @@ October is all about festive energy. The entire city gets swept up in celebratio
 
 **The Lead-up to Diwali (Diwali is on October 20, 2025):** Throughout October, you can feel the excitement for Diwali building. Markets are buzzing, and the ghats start to get decorated. You get to witness the city preparing for its biggest festival of lights, which is a unique experience in itself.
 
-![The ghats decorated and lit up in the evening](/images/varanasi-ghat-boat-eve-p.jpeg "Evening lights on the ghats")
+![Ghats glowing with diyas during October evenings in Varanasi](/images/varanasi-ghat-boat-eve-p.jpeg "Evening lights on the ghats")
 
 > 📞 **Book your boat & taxi — WhatsApp +91 94503 01573**
 

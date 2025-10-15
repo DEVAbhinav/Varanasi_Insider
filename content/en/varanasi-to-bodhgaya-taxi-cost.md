@@ -1,12 +1,20 @@
 ---
-title: "Varanasi to Bodh Gaya Distance & Taxi Cost (2025)"
+title: "Varanasi to Bodh Gaya Taxi 2025: Fare Grid & Booking Script"
 slug: "varanasi-to-bodhgaya-taxi-cost"
 date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/GayaTaxi.jpg"
-description: "Varanasi to Bodh Gaya distance ~255 km, 5–6 hrs by road. 2025 taxi fares by car type + booking tips for this Buddhist route. Compare and book."
+metaTitle: "Varanasi to Bodh Gaya Taxi Cost Today – 2025 Route, Stops & Deals"
+metaDescription: "See 2025 Varanasi → Bodh Gaya taxi fares by vehicle, ideal stopovers, WhatsApp script for fixed quotes, and dawn departure strategy from pilgrims who drive it weekly."
+description: "2025 Varanasi → Bodh Gaya taxi fares, route intel, pit-stop map, and WhatsApp script to lock fixed quotes before touts call back."
+keywords:
+  - "varanasi to bodh gaya taxi cost"
+  - "varanasi to bodh gaya distance by road"
+  - "bodh gaya taxi fare 2025"
+  - "varanasi to bodh gaya cab booking"
+  - "buddhist circuit taxi varanasi"
 tags:
   - varanasi
   - bodhgaya
@@ -49,7 +57,7 @@ Bodh Gaya is located in the state of Bihar, to the east of Varanasi. The road di
 
 Fares for this popular route vary depending on the vehicle type and the operator. Here’s an estimated breakdown for a one-way trip in 2025:
 
-![A sedan taxi suitable for the Varanasi to Bodhgaya trip](/images/seden.png "Sedan taxi for Bodhgaya")
+![Clean sedan staged for the dawn Varanasi to Bodh Gaya run](/images/seden.png "Sedan taxi for Bodhgaya")
 
 | Vehicle | Seats | One-Way Fare (Approx.) | Notes |
 | :--- | :--- | :--- | :--- |
