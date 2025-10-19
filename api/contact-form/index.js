@@ -156,11 +156,110 @@ module.exports = async function (context, req) {
       emailPayload.cc = process.env.RESEND_CC_EMAIL;
     }
 
-    const { data, error: emailError } = await resend.emails.send(emailPayload);
+    const { data: adminEmailData, error: adminEmailError } = await resend.emails.send(emailPayload);
 
-    if (emailError) {
-      console.error('Resend email error:', emailError);
+    if (adminEmailError) {
+      console.error('Resend email error:', adminEmailError);
       // Continue to save lead even if email fails
+    }
+
+    let customerEmailData = null;
+    let customerEmailError = null;
+
+    if (email) {
+      const safeCustomerName = name?.trim() || 'Guest';
+      const customerEmailHtml = `
+        <!DOCTYPE html>
+        <html>
+        <head>
+          <style>
+            body { font-family: 'Segoe UI', Arial, sans-serif; line-height: 1.6; color: #1f2937; background: #f8fafc; }
+            .container { max-width: 620px; margin: 0 auto; padding: 24px; }
+            .card { background: #ffffff; border-radius: 18px; padding: 28px; box-shadow: 0 18px 45px rgba(15, 23, 42, 0.08); }
+            .badge { display: inline-block; padding: 6px 14px; border-radius: 999px; background: #ecfeff; color: #0891b2; font-weight: 600; font-size: 12px; letter-spacing: 0.4px; text-transform: uppercase; }
+            h1 { margin: 18px 0 12px; color: #0f172a; font-size: 28px; }
+            h2 { margin: 28px 0 12px; color: #0369a1; font-size: 18px; }
+            p { margin: 0 0 16px; }
+            ul { padding-left: 20px; margin: 0 0 18px; }
+            li { margin-bottom: 10px; }
+            .cta-group { margin: 28px 0; display: flex; gap: 12px; flex-wrap: wrap; }
+            .cta { background: linear-gradient(135deg, #0ea5e9, #22d3ee); color: #ffffff; padding: 14px 22px; border-radius: 999px; text-decoration: none; font-weight: 600; box-shadow: 0 10px 25px rgba(14, 165, 233, 0.35); }
+            .cta-secondary { background: #ecfeff; color: #0369a1; padding: 14px 22px; border-radius: 999px; text-decoration: none; font-weight: 600; box-shadow: 0 10px 25px rgba(8, 145, 178, 0.15); }
+            .highlight { background: #eef2ff; padding: 16px; border-radius: 14px; margin: 20px 0; }
+            .footer { margin-top: 36px; font-size: 13px; color: #475569; text-align: center; }
+            @media (max-width: 480px) {
+              .cta-group { flex-direction: column; }
+            }
+          </style>
+        </head>
+        <body>
+          <div class="container">
+            <div class="card">
+              <span class="badge">Thank you for reaching out</span>
+              <h1>Hi ${safeCustomerName}, your Varanasi trip is now on our priority list ✅</h1>
+              <p>Thanks for sharing your travel details with <strong>Kashi Taxi | Varanasi Insider</strong>. Our concierge will call you shortly from <strong>+91 99354 74730</strong> to lock in cars, timings, and best-value routes.</p>
+
+              <div class="highlight">
+                <h2>What happens next (within 30 minutes)</h2>
+                <ul>
+                  <li>We confirm your pick-up time, crew details, and any add-ons like guide support or airport meet-and-greet.</li>
+                  <li>We send a quick WhatsApp intro with your driver photo, vehicle number, and live location tracking once assigned.</li>
+                  <li>You receive our <strong>local festival and traffic playbook</strong> so you can glide past crowds and checkpoints.</li>
+                </ul>
+              </div>
+
+              <h2>Premium fleet ready when you are</h2>
+              <ul>
+                <li><strong>Dzire &amp; Etios Sedans</strong> – Perfect for 1-3 guests with airport assistance and luggage support.</li>
+                <li><strong>Innova Crysta &amp; Hycross</strong> – Captain seats, chilled water, experienced pilgrimage pilots.</li>
+                <li><strong>Tempo Travellers (9/12/17 Seater)</strong> – Recliner seats, luggage racks, festival buffer kits for big crews.</li>
+              </ul>
+
+              <h2>Guest-favorite Varanasi packages</h2>
+              <ul>
+                <li><strong>Sunrise Dashashwamedh + Sarnath Circuit</strong> – 6 hour spiritual immersion with vetted guides.</li>
+                <li><strong>Prayagraj &amp; Ayodhya Day Dash</strong> – 14 hour express with curated darshan slots and meal stops.</li>
+                <li><strong>Dev Deepawali Crowd Shield</strong> – Festival escort with crowd-flow maps, rooftop access, and medical standby.</li>
+              </ul>
+
+              <div class="cta-group">
+                <a href="https://wa.me/919935474730?text=Hi%20team%20Kashi%20Taxi!%20I%20just%20sent%20an%20inquiry." class="cta">📲 WhatsApp Concierge</a>
+                <a href="tel:+919935474730" class="cta-secondary">📞 Call +91 99354 74730</a>
+              </div>
+
+              <p>Save our contact, reply with any must-see spots or timing constraints, and we will personalise the itinerary before we loop in your driver.</p>
+
+              <p>If you need immediate support, call <a href="tel:+919450301573" style="color: #0369a1; font-weight: 600; text-decoration: none;">+91 94503 01573</a>. We are live from <strong>5:30 AM to midnight</strong>.</p>
+
+              <p>🙏 We’re excited to host you in Kashi.<br><strong>Team Kashi Taxi | Varanasi Insider</strong></p>
+
+              <div class="footer">
+                <p>Rated 4.9★ by 700+ pilgrims • Sanitised vehicles • Festival crowd intelligence on-call</p>
+              </div>
+            </div>
+          </div>
+        </body>
+        </html>
+      `;
+
+      try {
+        const { data: customerData, error: customerError } = await resend.emails.send({
+          from: process.env.RESEND_FROM_EMAIL || 'bookings@kashitaxi.in',
+          to: email,
+          subject: 'We received your Kashi Taxi request – let’s plan your ride',
+          html: customerEmailHtml,
+        });
+
+        customerEmailData = customerData;
+
+        if (customerError) {
+          customerEmailError = customerError;
+          console.error('Resend customer email error:', customerError);
+        }
+      } catch (customerSendError) {
+        customerEmailError = customerSendError;
+        console.error('Resend customer email exception:', customerSendError);
+      }
     }
 
     // Save lead to JSON file as backup
@@ -177,8 +276,10 @@ module.exports = async function (context, req) {
       source: source || 'Website',
       parentPageTitle: parentPageTitle || null,
       parentPageUrl: parentPageUrl || null,
-      emailSent: !emailError,
-      emailId: data?.id || null,
+      emailSent: !adminEmailError,
+      emailId: adminEmailData?.id || null,
+      customerEmailSent: !!customerEmailData?.id && !customerEmailError,
+      customerEmailId: customerEmailData?.id || null,
     };
 
     try {
@@ -224,7 +325,8 @@ module.exports = async function (context, req) {
         success: true,
         message: 'Thank you! We will contact you shortly.',
         whatsappLink,
-        emailSent: !emailError,
+        emailSent: !adminEmailError,
+        customerEmailSent: !!customerEmailData?.id && !customerEmailError,
       }),
     };
 
