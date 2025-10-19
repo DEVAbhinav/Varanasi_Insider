@@ -2,7 +2,7 @@
 import styles from './ServiceContent.module.css';
 import SidebarBookingWidget from '../BookingWidget/SidebarBookingWidget';
 
-export default function ServiceContent({ contentHtml }) {
+export default function ServiceContent({ contentHtml, pageTitle, pageUrl }) {
   return (
     <section className="py-12 px-4 md:px-6 lg:px-12">
       <div className="max-w-7xl mx-auto">
@@ -18,7 +18,10 @@ export default function ServiceContent({ contentHtml }) {
           {/* Sidebar with Booking Widget - 1/3 width */}
           <aside className="lg:col-span-1">
             <div className="lg:sticky lg:top-24">
-              <SidebarBookingWidget />
+              <SidebarBookingWidget 
+                pageTitle={pageTitle}
+                pageUrl={pageUrl}
+              />
             </div>
           </aside>
         </div>

@@ -1,7 +1,8 @@
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import styles from './SidebarBookingWidget.module.css';
 
-export default function SidebarBookingWidget() {
+export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
   const [formData, setFormData] = useState({
     name: '',
     phone: '',
@@ -12,6 +13,7 @@ export default function SidebarBookingWidget() {
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
+  const router = useRouter();
 
   const handleChange = (e) => {
     setFormData({
@@ -33,6 +35,10 @@ export default function SidebarBookingWidget() {
     }
 
     try {
+  const widgetPageTitle = pageTitle || (typeof document !== 'undefined' ? document.title : '');
+  const browserLocation = typeof window !== 'undefined' ? window.location.href : '';
+  const widgetPageUrl = browserLocation || pageUrl || router.asPath || '';
+
       const response = await fetch('/api/contact-form', {
         method: 'POST',
         headers: {
@@ -45,8 +51,10 @@ export default function SidebarBookingWidget() {
           passengers: formData.passengers,
           tripType: 'Quick Inquiry',
           pickupDate: formData.date,
-          message: `Quick inquiry from blog sidebar. Date: ${formData.date}, Passengers: ${formData.passengers}`,
-          source: 'Blog Sidebar Widget',
+          message: `Quick inquiry from sidebar widget.${widgetPageTitle ? ` Page: ${widgetPageTitle}.` : ''} Date: ${formData.date}, Passengers: ${formData.passengers}${widgetPageUrl ? `. Link: ${widgetPageUrl}` : ''}`,
+          source: 'Sidebar Widget',
+          parentPageTitle: widgetPageTitle || null,
+          parentPageUrl: widgetPageUrl || null,
         }),
       });
 

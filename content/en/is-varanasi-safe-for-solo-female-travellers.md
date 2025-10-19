@@ -11,11 +11,11 @@ tags: ["safety", "solo female travel", "Varanasi", "travel tips"]
 metaTitle: "Is Varanasi Safe for Solo Female Travellers in 2025? Safety Blueprint"
 metaDescription: "Download the 2025 solo female Varanasi safety blueprint—walkable zones, dress code cheat-sheet, WhatsApp SOS scripts, hostel picks, and tout shut-down lines."
 keywords:
-	- "is varanasi safe for solo female"
-	- "varanasi solo female tips 2025"
-	- "women safety varanasi ghats"
-	- "varanasi safe hostels for women"
-	- "what to wear varanasi female"
+  - "is varanasi safe for solo female"
+  - "varanasi solo female tips 2025"
+  - "women safety varanasi ghats"
+  - "varanasi safe hostels for women"
+  - "what to wear varanasi female"
 ---
 
 # Is Varanasi Safe for Solo Female Travellers in 2025?

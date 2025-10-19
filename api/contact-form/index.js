@@ -32,7 +32,7 @@ module.exports = async function (context, req) {
 
   try {
     // Parse request body
-    const { name, phone, email, passengers, tripType, pickupDate, message, source } = req.body;
+  const { name, phone, email, passengers, tripType, pickupDate, message, source, parentPageTitle, parentPageUrl } = req.body;
 
     // Validate required fields
     if (!name || !phone) {
@@ -112,6 +112,15 @@ module.exports = async function (context, req) {
               <div class="value" style="white-space: pre-wrap;">${message}</div>
             </div>
             ` : ''}
+            ${(parentPageTitle || parentPageUrl) ? `
+            <div class="field">
+              <span class="label">Widget Location:</span>
+              <div class="value">
+                ${parentPageTitle ? `<div><strong>Page:</strong> ${parentPageTitle}</div>` : ''}
+                ${parentPageUrl ? `<div><strong>URL:</strong> <a href="${parentPageUrl}" target="_blank" rel="noopener">${parentPageUrl}</a></div>` : ''}
+              </div>
+            </div>
+            ` : ''}
             <div class="field">
               <span class="label">Source:</span>
               <span class="value">${source || 'Website'}</span>
@@ -166,6 +175,8 @@ module.exports = async function (context, req) {
       pickupDate: pickupDate || null,
       message: message || null,
       source: source || 'Website',
+      parentPageTitle: parentPageTitle || null,
+      parentPageUrl: parentPageUrl || null,
       emailSent: !emailError,
       emailId: data?.id || null,
     };

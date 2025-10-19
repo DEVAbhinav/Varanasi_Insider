@@ -7,12 +7,12 @@ excerpt: "Use 9 field-tested tactics to beat the 500k+ Dev Deepawali rush—crow
 author: "Varanasi Insider Safety Team"
 tags: ["Dev Deepawali Safety", "Crowd Management", "Festival Safety", "Varanasi Safety", "Tourist Safety", "Emergency Planning"]
 keywords:
-	- "dev deepawali crowd 2025"
-	- "dev deepawali survival guide"
-	- "varanasi dev deepawali safety"
-	- "dev deepawali exit routes"
-	- "dev deepawali 2025 timings"
-	- "dev deepawali crowd management"
+  - "dev deepawali crowd 2025"
+  - "dev deepawali survival guide"
+  - "varanasi dev deepawali safety"
+  - "dev deepawali exit routes"
+  - "dev deepawali 2025 timings"
+  - "dev deepawali crowd management"
 category: "Safety Guides"
 readingTime: "10 minutes"
 featured: true

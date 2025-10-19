@@ -40,7 +40,10 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
             {/* Sidebar booking widget - takes 4 columns on desktop, hidden on mobile initially */}
             <aside className="lg:col-span-4">
               <div className="hidden lg:block">
-                <SidebarBookingWidget />
+                <SidebarBookingWidget 
+                  pageTitle={postData.title}
+                  pageUrl={`/${pageLang}/${pageSlug}`}
+                />
               </div>
             </aside>
           </div>
@@ -48,7 +51,10 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
         {/* Mobile: Fixed bottom booking widget */}
         <div className="lg:hidden">
-          <SidebarBookingWidget />
+          <SidebarBookingWidget 
+            pageTitle={postData.title}
+            pageUrl={`/${pageLang}/${pageSlug}`}
+          />
         </div>
         
         {/* Modular CTA Section */}

@@ -35,7 +35,11 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
         />
 
         {/* Service Content */}
-        <ServiceContent contentHtml={postData.contentHtml} />
+        <ServiceContent 
+          contentHtml={postData.contentHtml}
+          pageTitle={postData.title}
+          pageUrl={`/${pageLang}/services/${pageSlug}`}
+        />
 
         {/* Modular Bottom CTA Bar */}
         {postData.phone && (
