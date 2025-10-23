@@ -26,6 +26,13 @@ function MyApp({ Component, pageProps }) {
         src="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
         strategy="lazyOnload"
       />
+      {/* Ahrefs Analytics */}
+      <Script
+        id="ahrefs-analytics"
+        src="https://analytics.ahrefs.com/analytics.js"
+        data-key="cX0oTWGk+R3vy5vu+yxoCw"
+        strategy="afterInteractive"
+      />
       <Component {...pageProps} />
     </>
   );
