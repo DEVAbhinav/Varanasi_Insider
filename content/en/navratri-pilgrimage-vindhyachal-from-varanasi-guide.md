@@ -272,7 +272,7 @@ For those seeking a more immersive **Vindhyachal from Varanasi** experience, I r
 
 ## Accommodation Guide: Where to Stay Near Vindhyachal Temples
 
-Choosing the right accommodation can significantly enhance your pilgrimage experience. For detailed information about all accommodation options, pricing, booking strategies, and Navratri-specific tips, see our comprehensive [Where to Stay in Vindhyachal](/en/where-to-stay-in-vindhyachal) guide. Here's a quick overview:
+Choosing the right accommodation can significantly enhance your pilgrimage experience. For detailed information about all accommodation options, pricing, booking strategies, and Navratri-specific tips, see our comprehensive [Where to Stay in Vindhyachal](/en/services/where-to-stay-in-vindhyachal) guide. Here's a quick overview:
 
 ### Budget-Friendly Dharamshalas (₹200-500/night)
 
@@ -598,7 +598,7 @@ For comprehensive information about all aspects of your Vindhyachal pilgrimage a
 - [Trikon Parikrama Complete Guide](/en/trikon-parikrama-vindhyachal-complete-guide) - Sacred circuit route, rituals & significance
 - [Travel from Varanasi to Vindhyachal](/en/travel-from-varanasi-to-vindhyachal) - Transport options, costs & booking tips
 - [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary) - 1-day & 2-day detailed plans
-- [Where to Stay in Vindhyachal](/en/where-to-stay-in-vindhyachal) - Accommodation options near temples
+- [Where to Stay in Vindhyachal](/en/services/where-to-stay-in-vindhyachal) - Accommodation options near temples
 
 ### Varanasi Travel Resources:
 - [Best Time to Visit Varanasi](/en/best-time-to-visit-varanasi) - Plan your overall Varanasi experience

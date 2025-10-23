@@ -371,7 +371,7 @@ For complete pilgrimage planning and related guides, explore:
 - [Navratri in Vindhyachal Practical Guide](/en/navratri-in-vindhyachal-practical-guide) - Festival-specific information
 - [Travel from Varanasi to Vindhyachal](/en/travel-from-varanasi-to-vindhyachal) - Transport options & costs
 - [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary) - Day trip & 2-day plans
-- [Where to Stay in Vindhyachal](/en/where-to-stay-in-vindhyachal) - Accommodation near temples
+- [Where to Stay in Vindhyachal](/en/services/where-to-stay-in-vindhyachal) - Accommodation near temples
 - [Varanasi Transport Guide](/en/varanasi-transport-price-guide-2025) - Travel arrangements
 
 **May the divine trinity of Maa Vindhyavasini, Maa Kali, and Maa Saraswati shower their choicest blessings upon your Trikon Parikrama journey. Jai Mata Di! 🙏**

@@ -281,7 +281,7 @@ While **Dashashwamedh Ghat** is the most famous viewing spot, it's also the most
 **November 3-7, 2025 (Extended Stay Benefits):**
 - **November 3-4:** Pre-festival exploration, lamp preparation viewing
 - **November 5:** Main Dev Deepawali celebration
-- **November 6-8:** [Ganga Mahotsav cultural festival](/en/ganga-mahotsav-2025-classical-festival)
+- **November 6-8:** [Ganga Mahotsav cultural festival](/en/ganga-mahotsav-2025-classical-festival-varanasi)
 - **November 9:** Post-festival recovery, normal city exploration
 
 **Smart Planning Tips:**
@@ -304,7 +304,7 @@ Many visitors focus only on Dev Deepawali itself, missing the **Ganga Mahotsav**
 - **Audience:** Culture enthusiasts, smaller crowds
 - **Experience:** More relaxed, contemplative atmosphere
 
-*For complete Ganga Mahotsav guide, see **[Ganga Mahotsav 2025: Classical Music & Dance Festival](/en/ganga-mahotsav-2025-classical-festival)***
+*For complete Ganga Mahotsav guide, see **[Ganga Mahotsav 2025: Classical Music & Dance Festival](/en/ganga-mahotsav-2025-classical-festival-varanasi)***
 
 ---
 
@@ -371,7 +371,7 @@ A: Book 2-3 months in advance. Prices increase 300-500% during festival week. La
 ### Essential Dev Deepawali Resources
 - **[Dev Deepawali Boat Ride Pricing Guide 2025](/en/dev-deepawali-boat-ride-pricing-guide-2025)** - Complete booking strategies
 - **[5 Best Dev Deepawali Viewing Spots](/en/dev-deepawali-best-viewing-spots-varanasi)** - Alternative crowd-free locations
-- **[Ganga Mahotsav 2025 Guide](/en/ganga-mahotsav-2025-classical-festival)** - Extend your stay with classical performances
+- **[Ganga Mahotsav 2025 Guide](/en/ganga-mahotsav-2025-classical-festival-varanasi)** - Extend your stay with classical performances
 
 ### Varanasi Festival Calendar
 - **[Ultimate Ramlila & Dussehra Guide 2025](/en/ultimate-guide-ramlila-dussehra-varanasi-2025)** - October festival season

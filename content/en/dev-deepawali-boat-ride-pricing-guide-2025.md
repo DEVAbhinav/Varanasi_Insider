@@ -329,7 +329,7 @@ A: Most operators continue unless conditions are dangerous. Reputable operators 
 ### Complete Dev Deepawali Resources
 - **[Ultimate Guide to Dev Deepawali 2025 Varanasi](/en/dev-deepawali-2025-varanasi-ultimate-guide)** - Complete festival overview
 - **[5 Best Dev Deepawali Viewing Spots](/en/dev-deepawali-best-viewing-spots-varanasi)** - Alternatives to boat rides
-- **[Ganga Mahotsav 2025 Guide](/en/ganga-mahotsav-2025-classical-festival)** - Post-Dev Deepawali cultural festival
+- **[Ganga Mahotsav 2025 Guide](/en/ganga-mahotsav-2025-classical-festival-varanasi)** - Post-Dev Deepawali cultural festival
 
 ### Varanasi Festival Calendar
 - **[Ultimate Ramlila & Dussehra Guide 2025](/en/ultimate-guide-ramlila-dussehra-varanasi-2025)** - October festival season

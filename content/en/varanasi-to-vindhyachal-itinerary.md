@@ -224,6 +224,6 @@ Related Guides:
 - [Travel from Varanasi to Vindhyachal](/en/travel-from-varanasi-to-vindhyachal) - Transport options & costs
 - [Trikon Parikrama Complete Guide](/en/trikon-parikrama-vindhyachal-complete-guide) - Sacred temple circuit details
 - [Navratri in Vindhyachal Practical Guide](/en/navratri-in-vindhyachal-practical-guide) - Festival-specific timings
-- [Where to Stay in Vindhyachal](/en/where-to-stay-in-vindhyachal) - Accommodation near temples
+- [Where to Stay in Vindhyachal](/en/services/where-to-stay-in-vindhyachal) - Accommodation near temples
 
 **Jai Maa Vindhyavasini!**

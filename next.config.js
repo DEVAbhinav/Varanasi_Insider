@@ -290,6 +290,127 @@ const nextConfig = {
         destination: '/en/varanasi-in-december-2025',
         permanent: true,
       },
+
+      // ===================================
+      // CATEGORY 14: Site Audit Fixes (2025-10-23)
+      // Redirects based on sitemap verification
+      // ===================================
+      
+      // Generic content pages - redirect to related existing content
+      {
+        source: '/en/best-things-to-do-in-varanasi',
+        destination: '/en/guide-to-10-most-important-ghats-of-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/en/vegetarian-cafes-near-assi-ghat',
+        destination: '/en/assi-ghat-aarti-timings-2025',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-itinerary-3-days',
+        destination: '/en/tour-package-from-varanasi',
+        permanent: true,
+      },
+      
+      // Festival and Shivaratri content
+      {
+        source: '/en/maha-shivaratri-varanasi',
+        destination: '/en/maha-shivaratri-2026-varanasi-guide',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-festivals-calendar-2025-2026',
+        destination: '/en/varanasi-in-december-2025',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-festival-safety-guide',
+        destination: '/en/is-varanasi-safe-for-solo-female-travellers',
+        permanent: true,
+      },
+      
+      // Dev Deepawali content
+      {
+        source: '/en/ganga-mahotsav-2025-classical-festival',
+        destination: '/en/ganga-mahotsav-2025-classical-festival-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/en/dev-deepawali-crowd-survival-guide',
+        destination: '/en/dev-deepawali-crowd-survival-guide-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/en/dev-deepawali-varanasi-guide',
+        destination: '/en/dev-deepawali-2025-varanasi-ultimate-guide',
+        permanent: true,
+      },
+      
+      // Service pages - redirect to actual service pages
+      {
+        source: '/en/varanasi-safest-taxi-for-women',
+        destination: '/en/services/varanasi-safest-taxi-for-women',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-airport-taxi-winter-2025',
+        destination: '/en/services/varanasi-airport-taxi-winter-2025',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-full-day-city-tour-winter-2025',
+        destination: '/en/services/varanasi-full-day-city-tour-winter-2025',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-ayodhya-prayagraj-pilgrimage-taxi',
+        destination: '/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi',
+        permanent: true,
+      },
+      {
+        source: '/en/landing/dev-deepawali-taxi-booking-varanasi',
+        destination: '/en/varanasi-airport-taxi-price-guide',
+        permanent: true,
+      },
+      
+      // Vindhyachal accommodation - English only (Hindi exists at base level)
+      {
+        source: '/en/where-to-stay-in-vindhyachal',
+        destination: '/en/services/where-to-stay-in-vindhyachal',
+        permanent: true,
+      },
+      
+      // Group tour packages
+      {
+        source: '/en/varanasi-group-tour-packages',
+        destination: '/en/packages/varanasi-customised-packages-tour',
+        permanent: true,
+      },
+      
+      // Hindi pages - redirect to existing Hindi service pages
+      {
+        source: '/hi/buddhist-circuit-tour-tempo-traveller-varanasi',
+        destination: '/en/buddhist-circuit-tour-tempo-traveller-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/hi/pink-taxi-varanasi',
+        destination: '/hi/services/varanasi-safest-taxi-for-women',
+        permanent: true,
+      },
+      {
+        source: '/hi/varanasi-safest-taxi-for-women',
+        destination: '/hi/services/varanasi-safest-taxi-for-women',
+        permanent: true,
+      },
+      
+      // Home page redirect
+      {
+        source: '/home',
+        destination: '/',
+        permanent: true,
+      },
     ];
   },
 }

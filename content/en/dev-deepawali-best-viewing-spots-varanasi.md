@@ -363,7 +363,7 @@ A: Have 2-3 location options planned. If your first choice is overwhelmed, move 
 - **[Dev Deepawali Crowd Survival Guide](/en/dev-deepawali-crowd-survival-guide)** - Safety and logistics
 
 ### Extended Festival Experience
-- **[Ganga Mahotsav 2025 Guide](/en/ganga-mahotsav-2025-classical-festival)** - Post-Dev Deepawali cultural festival
+- **[Ganga Mahotsav 2025 Guide](/en/ganga-mahotsav-2025-classical-festival-varanasi)** - Post-Dev Deepawali cultural festival
 - **[Complete Festival Transport Hub](/en/book-taxi-varanasi-ramlila-dussehra)** - All festival transport solutions
 
 ### Varanasi Festival Calendar

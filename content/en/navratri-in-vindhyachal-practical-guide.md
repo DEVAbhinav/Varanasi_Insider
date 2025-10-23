@@ -363,7 +363,7 @@ For comprehensive travel information and related guides, explore:
 - [Trikon Parikrama Complete Guide](/en/trikon-parikrama-vindhyachal-complete-guide) - Sacred temple circuit details
 - [Travel from Varanasi to Vindhyachal](/en/travel-from-varanasi-to-vindhyachal) - Transport options & costs
 - [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary) - Day trip & 2-day plans
-- [Where to Stay in Vindhyachal](/en/where-to-stay-in-vindhyachal) - Accommodation near temples
+- [Where to Stay in Vindhyachal](/en/services/where-to-stay-in-vindhyachal) - Accommodation near temples
 - [Varanasi in October 2025](/en/varanasi-in-october-2025) - Perfect for Sharad Navratri timing
 
 **May Maa Vindhyavasini bless your Navratri journey with divine grace, spiritual fulfillment, and unforgettable memories. Jai Mata Di! 🙏**
