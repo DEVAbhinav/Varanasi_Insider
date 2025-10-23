@@ -1,5 +1,5 @@
 ---
-title: "Varanasi Airport Taxi Fare Today: 2025 Rates & Safe Booking"
+title: "Varanasi Airport Taxi Fare 2025: Updated Price List from ₹600"
 slug: "varanasi-airport-taxi-price-guide"
 date: "2025-07-27"
 lastUpdated: "2025-07-27"

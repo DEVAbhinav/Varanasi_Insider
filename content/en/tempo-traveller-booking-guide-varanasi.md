@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "Tempo Traveller Booking Guide Varanasi (2025): Process, Documents, Pricing & Trust Signals"
+title: "Tempo Traveller Booking Varanasi 2025: ₹25/km Process, Documents & Instant Confirmation"
 description: "Complete Tempo Traveller booking guide for Varanasi – enquiry steps, verification, pricing structure, advance, cancellation norms, fraud avoidance, FAQ."
 slug: tempo-traveller-booking-guide-varanasi
 date: 2025-09-19

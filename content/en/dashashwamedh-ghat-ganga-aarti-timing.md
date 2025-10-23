@@ -1,5 +1,5 @@
 ---
-title: "Dashashwamedh Ghat Aarti Tonight: Timings, Seats & Exit Plan"
+title: "Dashashwamedh Ghat Ganga Aarti: 2025 Timings & Best Viewing Spots"
 slug: "dashashwamedh-ghat-ganga-aarti-timing"
 date: "2025-07-22"
 lastUpdated: "2025-09-20"

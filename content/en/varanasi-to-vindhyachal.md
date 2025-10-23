@@ -1,5 +1,5 @@
 ---
-title: "Varanasi to Vindhyachal Taxi 2025: Fare, Darshan Slots & Navratri Plan"
+title: "Varanasi to Vindhyachal Taxi: ✅Book a Day Trip | Fare Starts @ ₹2000"
 slug: "varanasi-to-vindhyachal"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"

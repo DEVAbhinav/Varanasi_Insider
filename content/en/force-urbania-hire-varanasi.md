@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "Force Urbania Hire in Varanasi (2025): Premium Group Travel vs Standard Tempo Traveller"
+title: "Force Urbania Hire Varanasi 2025: Premium 17-Seater from ₹35/km vs Standard Tempo"
 description: "Force Urbania hire in Varanasi – when to upgrade from a standard Tempo Traveller: comfort specs, seating layout, pricing bands, ideal use cases (corporate, senior pilgrims, study retreats)."
 slug: force-urbania-hire-varanasi
 date: 2025-09-19

@@ -39,23 +39,23 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Varanasi Taxi & Tempo Traveller | Tour Packages ☎ 9450301573 - Vinayak Travels</title>
+        <title>Varanasi Taxi Service 2025: Airport Transfer, Tours & Tempo Traveller | Book ☎ 9450301573</title>
         <meta
           name="description"
-          content="Varanasi Taxi, Tempo Traveller & Tour Packages by Vinayak Travels. Airport cab ₹800, Local tours ₹2,500, Tempo traveller hire. 24×7 Varanasi travels service. Book now!"
+          content="Varanasi Taxi, Tempo Traveller & Tour Packages. Airport cab from ₹800, Local tours ₹2,500, Tempo traveller hire. 24×7 Varanasi travels service. Book now!"
         />
         <meta name="keywords" content="varanasi taxi, varanasi tempo traveller, varanasi tour, varanasi travels, airport taxi varanasi, tempo traveller hire varanasi, varanasi tour packages, varanasi cab service, varanasi local tours, outstation taxi varanasi, varanasi sightseeing, varanasi to ayodhya, varanasi to prayagraj" />
-        <meta name="author" content="Vinayak Travels" />
+        <meta name="author" content="Varanasi Taxi" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.kashitaxi.in/home" />
         
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Varanasi Taxi & Tempo Traveller Service | Tour Packages - Vinayak Travels" />
-        <meta property="og:description" content="Book Varanasi Taxi, Tempo Traveller & Tour Packages. Airport transfer, Local tours, Outstation travel. 24×7 Varanasi travels service by Vinayak Travels." />
+        <meta property="og:title" content="Varanasi Taxi Service 2025: Airport Transfer, Tours & Tempo Traveller" />
+        <meta property="og:description" content="Book Varanasi Taxi, Tempo Traveller & Tour Packages. Airport transfer from ₹800, Local tours, Outstation travel. 24×7 Varanasi travels service." />
         <meta property="og:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/home" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Varanasi Taxi & Tempo Traveller - Vinayak Travels" />
+        <meta property="og:site_name" content="Varanasi Taxi & Tempo Traveller" />
         <meta property="og:locale" content="en_IN" />
         
         {/* Geo Location Meta Tags for Local SEO */}
