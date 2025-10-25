@@ -4,15 +4,12 @@
     {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "Varanasi Taxi & Tempo Traveller | Vinayak Travels",
+      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
       "url": "https://www.kashitaxi.in/",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
         "Varanasi Taxi",
-        "Varanasi Travels",
-        "Varanasi Tour",
-        "Varanasi Tempo Traveller",
-        "Varanasi Cab Service"
+        "Kashitaxi"
       ],
       "logo": {
         "@type": "ImageObject",
@@ -119,7 +116,9 @@
       "datePublished": "2025-10-09",
       "dateModified": "2025-10-09",
       "publisher": {
-        "@id": "https://www.kashitaxi.in#organization"
+        "@id": "https://www.kashitaxi.in#organization",
+        "@type": "Organization",
+        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
       }
     },
     {
@@ -141,7 +140,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi to Prayagraj Kumbh Tempo Traveller",
+          "name": "Varanasi Taxi | Vinayak Travels Varanasi",
           "item": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-kumbh-tempo-traveller"
         }
       ]

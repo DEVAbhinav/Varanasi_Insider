@@ -6,7 +6,7 @@
       "@id": "https://www.kashitaxi.in/en/nag-nathaiya-festival-varanasi-2025#blog",
       "url": "https://www.kashitaxi.in/en/nag-nathaiya-festival-varanasi-2025",
       "headline": "Nag Nathaiya Festival 2025 (Lakkha Mela) Tulsi Ghat Varanasi Guide",
-  "description": "Complete 2025 Nag Nathaiya (Lakkha Mela) guide: confirmed date (25 Oct 2025), Krishna–Kaliya Leela sequence, best boat & ghat viewing strategies, safety, lodging, photography & logistics for Tulsi Ghat Varanasi.",
+      "description": "Complete 2025 Nag Nathaiya (Lakkha Mela) guide: confirmed date (25 Oct 2025), Krishna–Kaliya Leela sequence, best boat & ghat viewing strategies, safety, lodging, photography & logistics for Tulsi Ghat Varanasi.",
       "image": [
         "https://www.kashitaxi.in/images/nag-nathaiya-krishna-serpent-varanasi.jpg"
       ],
@@ -21,22 +21,22 @@
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",
-        "name": "Varanasi Taxi | Vinayak Travels"
+        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
       },
       "mainEntityOfPage": "https://www.kashitaxi.in/en/nag-nathaiya-festival-varanasi-2025",
       "keywords": [
-  "Nag Nathaiya 2025",
-  "Lakkha Mela Tulsi Ghat",
-  "Krishna Kaliya leela Varanasi",
-  "Nag Nathaiya boat view",
-  "Tulsi Ghat festival October",
-  "Varanasi Kartik festival"
+        "Nag Nathaiya 2025",
+        "Lakkha Mela Tulsi Ghat",
+        "Krishna Kaliya leela Varanasi",
+        "Nag Nathaiya boat view",
+        "Tulsi Ghat festival October",
+        "Varanasi Kartik festival"
       ],
       "about": [
         {
           "@type": "Festival",
-            "name": "Nag Nathaiya Festival",
-            "description": "Reenactment of Krishna subduing serpent Kaliya at Tulsi Ghat"
+          "name": "Nag Nathaiya Festival",
+          "description": "Reenactment of Krishna subduing serpent Kaliya at Tulsi Ghat"
         },
         {
           "@type": "Place",
@@ -65,23 +65,28 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "description": "Traditional Krishna–Kaliya serpent subduing reenactment with devotional chants, boat audiences and mass gathering at Tulsi Ghat Varanasi.",
-  "startDate": "2025-10-25T15:30:00+05:30",
-  "endDate": "2025-10-25T17:30:00+05:30",
+      "startDate": "2025-10-25T15:30:00+05:30",
+      "endDate": "2025-10-25T17:30:00+05:30",
       "location": {
         "@type": "Place",
         "name": "Tulsi Ghat, Varanasi",
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "Varanasi",
-            "addressRegion": "Uttar Pradesh",
-            "addressCountry": "IN"
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "IN"
         }
       },
       "image": "https://www.kashitaxi.in/images/nag-nathaiya-krishna-serpent-varanasi.jpg",
       "isAccessibleForFree": true,
       "audience": {
         "@type": "Audience",
-        "audienceType": ["Pilgrims", "Cultural Tourists", "Devotees", "Photographers"]
+        "audienceType": [
+          "Pilgrims",
+          "Cultural Tourists",
+          "Devotees",
+          "Photographers"
+        ]
       },
       "performer": {
         "@type": "Person",
@@ -99,22 +104,34 @@
         {
           "@type": "Question",
           "name": "Is the Nag Nathaiya 2025 date confirmed?",
-          "acceptedAnswer": {"@type": "Answer", "text": "Yes. Confirmed for 25 Oct 2025 (Kartik Shukla Chaturthi)."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Confirmed for 25 Oct 2025 (Kartik Shukla Chaturthi)."
+          }
         },
         {
           "@type": "Question",
           "name": "Best way to watch Nag Nathaiya for first-timers?",
-          "acceptedAnswer": {"@type": "Answer", "text": "A licensed mid-river boat offers clear, safe framing of the dive and serpent stance; arrive/anchor before 3:10 PM."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A licensed mid-river boat offers clear, safe framing of the dive and serpent stance; arrive/anchor before 3:10 PM."
+          }
         },
         {
           "@type": "Question",
           "name": "Can visitors participate in the ritual portion?",
-          "acceptedAnswer": {"@type": "Answer", "text": "Participation is limited to the designated child performer and assisting priests; visitors observe respectfully from ghat or boats."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Participation is limited to the designated child performer and assisting priests; visitors observe respectfully from ghat or boats."
+          }
         },
         {
           "@type": "Question",
           "name": "Is photography allowed during Nag Nathaiya?",
-          "acceptedAnswer": {"@type": "Answer", "text": "Yes, non-flash photography is generally allowed. Avoid blocking devotees, disable flash and stabilize early for the emergence moment."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, non-flash photography is generally allowed. Avoid blocking devotees, disable flash and stabilize early for the emergence moment."
+          }
         }
       ]
     },
@@ -123,21 +140,45 @@
       "@id": "https://www.kashitaxi.in/en/nag-nathaiya-festival-varanasi-2025#festival-logistics",
       "name": "Nag Nathaiya Festival Transport & Boat Arrangement",
       "description": "Coordinated taxi transfers, licensed boat reservation and local guide assistance for Nag Nathaiya viewing at Tulsi Ghat.",
-      "areaServed": {"@type": "Place", "name": "Varanasi"},
+      "areaServed": {
+        "@type": "Place",
+        "name": "Varanasi"
+      },
       "serviceType": "Festival Logistics",
-      "provider": {"@id": "https://www.kashitaxi.in#organization"},
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
       "offers": [
-        {"@type": "Offer", "name": "Shared Boat Seat", "price": "400", "priceCurrency": "INR", "description": "Per-person shared mid-river boat (indicative festival pricing)"},
-        {"@type": "Offer", "name": "Private 6-Seater Boat", "priceRange": "₹2400-3500", "priceCurrency": "INR"},
-        {"@type": "Offer", "name": "Car + Boat Combo", "priceRange": "₹3200-5200", "priceCurrency": "INR"}
+        {
+          "@type": "Offer",
+          "name": "Shared Boat Seat",
+          "price": "400",
+          "priceCurrency": "INR",
+          "description": "Per-person shared mid-river boat (indicative festival pricing)"
+        },
+        {
+          "@type": "Offer",
+          "name": "Private 6-Seater Boat",
+          "priceRange": "₹2400-3500",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "Offer",
+          "name": "Car + Boat Combo",
+          "priceRange": "₹3200-5200",
+          "priceCurrency": "INR"
+        }
       ]
     },
     {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "Varanasi Taxi | Vinayak Travels",
+      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
       "legalName": "Vinayak Travels Varanasi",
-      "alternateName": ["Varanasi Taxi", "Kashitaxi"],
+      "alternateName": [
+        "Varanasi Taxi",
+        "Kashitaxi"
+      ],
       "url": "https://www.kashitaxi.in/",
       "logo": {
         "@type": "ImageObject",
@@ -152,9 +193,24 @@
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/nag-nathaiya-festival-varanasi-2025#breadcrumbs",
       "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.kashitaxi.in/"},
-        {"@type": "ListItem", "position": 2, "name": "Festivals", "item": "https://www.kashitaxi.in/en/"},
-        {"@type": "ListItem", "position": 3, "name": "Nag Nathaiya Festival 2025 Guide", "item": "https://www.kashitaxi.in/en/nag-nathaiya-festival-varanasi-2025"}
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nag Nathaiya Festival 2025 (Lakkha Mela) Tulsi Ghat Varanasi Guide",
+          "item": "https://www.kashitaxi.in/en/nag-nathaiya-festival-varanasi-2025"
+        }
       ]
     }
   ]

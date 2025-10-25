@@ -19,7 +19,7 @@
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",
-        "name": "Varanasi Taxi & Tempo Traveller | Vinayak Travels"
+        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
       },
       "mainEntityOfPage": "https://www.kashitaxi.in/trikon-parikrama-vindhyachal-complete-guide",
       "keywords": [
@@ -289,14 +289,11 @@
     {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "Varanasi Taxi & Tempo Traveller | Vinayak Travels",
+      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
         "Varanasi Taxi",
-        "Varanasi Travels",
-        "Varanasi Tour",
-        "Varanasi Tempo Traveller",
-        "Varanasi Cab Service"
+        "Kashitaxi"
       ],
       "url": "https://www.kashitaxi.in/",
       "logo": {
