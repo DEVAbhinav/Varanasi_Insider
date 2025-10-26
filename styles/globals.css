@@ -94,11 +94,17 @@
 .prose tbody tr:nth-child(even) {
   @apply bg-muted/40;
 }
+.prose tbody tr:hover {
+  @apply bg-accent/40 transition-colors;
+}
 .dark .prose thead th {
   @apply bg-zinc-800;
 }
 .dark .prose tbody tr:nth-child(even) {
   @apply bg-zinc-800/50;
+}
+.dark .prose tbody tr:hover {
+  @apply bg-zinc-700/60;
 }
 /* Responsive wrapper for tables if needed */
 .prose table { display: table; }
