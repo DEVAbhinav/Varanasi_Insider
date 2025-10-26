@@ -62,7 +62,7 @@ metaDescription: "वाराणसी में 24×7 टैक्सी स�
 |----------|--------|-------------|
 | यूट्यूब | [`/@KashiTaxi`](https://youtube.com/@KashiTaxi) | रूट वॉकथ्रू, किराया हैक्स, पर्दे के पीछे की कहानियां |
 | इंस्टाग्राम| [`@banarasi.kashitaxi`](https://instagram.com/banarasi.kashitaxi) | दैनिक बनारस रील्स और त्योहारी छूट |
-| फेसबुक | [`/KashiTaxi`](https://facebook.com/KashiTaxi) | लाइव समर्थन चैट और यात्रा समाचार |
+| फेसबुक | [`Kashi Taxi`](https://www.facebook.com/profile.php?id=100063817792339) | लाइव समर्थन चैट और यात्रा समाचार |
 
 ---
 

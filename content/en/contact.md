@@ -62,7 +62,7 @@ Mon–Sun  06:00 – 22:00
 |----------|--------|-------------|
 | YouTube  | [`/@KashiTaxi`](https://youtube.com/@KashiTaxi) | Route walkthroughs, fare hacks, behind‑the‑scenes stories |
 | Instagram| [`@banarasi.kashitaxi`](https://instagram.com/banarasi.kashitaxi) | Daily Banaras reels & festive discounts |
-| Facebook | [`/KashiTaxi`](https://facebook.com/KashiTaxi) | Live support chat & travel news |
+| Facebook | [`Kashi Taxi`](https://www.facebook.com/profile.php?id=100063817792339) | Live support chat & travel news |
 
 ---
 
