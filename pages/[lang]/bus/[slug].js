@@ -49,9 +49,7 @@ export async function getStaticProps({ params }) {
   const fsp = await import('fs/promises');
   const path = await import('path');
   const matter = (await import('gray-matter')).default;
-  const { remark } = await import('remark');
-  const html = (await import('remark-html')).default;
-  const gfm = (await import('remark-gfm')).default;
+  const { markdownToHtml } = await import('../../../lib/markdown');
 
   const baseDir = path.join(process.cwd(), 'content', params.lang, 'bus');
   const filePath = path.join(baseDir, `${params.slug}.md`);
@@ -60,9 +58,7 @@ export async function getStaticProps({ params }) {
   }
   const raw = await fsp.readFile(filePath, 'utf8');
   const { data: frontmatter, content } = matter(raw);
-  // Enable GitHub Flavored Markdown (tables, strikethrough, task lists)
-  const processed = await remark().use(gfm).use(html).process(content);
-  const contentHtml = processed.toString();
+  const contentHtml = await markdownToHtml(content);
 
   // Attempt to load JSON-LD sidecar if present at content/<lang>/json/<slug>.json
   let jsonLdData = null;

@@ -313,15 +313,13 @@ export async function getStaticProps({ params }) {
   const fs = await import("fs/promises");
   const path = await import("path");
   const matter = (await import("gray-matter")).default;
-  const { remark } = await import("remark");
-  const html = (await import("remark-html")).default;
+  const { markdownToHtml } = await import("../../../lib/markdown");
 
   const contentDir = path.join(process.cwd(), "content", params.lang, "packages");
   const filePath = path.join(contentDir, `${params.slug}.md`);
   const raw = await fs.readFile(filePath, "utf8");
   const { data: frontmatter, content } = matter(raw);
-  const processed = await remark().use(html).process(content);
-  const contentHtml = processed.toString();
+  const contentHtml = await markdownToHtml(content);
 
   // Also collect all packages (for related grid)
   let allPackages = [];
