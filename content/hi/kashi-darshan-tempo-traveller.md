@@ -18,6 +18,8 @@ canonical: "https://www.kashitaxi.in/hi/kashi-darshan-tempo-traveller"
 
 # काशी दर्शन लोकल Sightseeing Tempo Traveller से
 
+> **TL;DR:** काशी दर्शन टेम्पो ट्रैवलर पैकेज 8 घंटे/80 किमी में काशी विश्वनाथ, BHU, घाट और गंगा आरती को ₹5,500 में आरामदायक AC वाहन व लोकल ड्राइवर के साथ कवर कराता है; 12 और 17 सीटर विकल्प समूह को एक साथ रखता है। माइक्रो-टिप: आरती शामिल करनी हो तो 9 AM बजाय 11 AM स्टार्ट चुनें ताकि शाम ट्रैफिक बफर मिले।
+
 ## त्वरित बुकिंग CTA
 > WhatsApp: https://wa.me/919935474730?text=Kashi%20Darshan%20Tempo%20Hindi | Call: +91 99354 74730  
 > “Kashi Darshan + Date + Pax + 12/17” लिखें → itinerary + रेट reply

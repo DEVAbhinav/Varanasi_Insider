@@ -17,6 +17,8 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 
 # वाराणसी Tempo Traveller Rates (2025 किराया सूची)
 
+> **TL;DR:** वाराणसी टेम्पो ट्रैवलर रेट कार्ड 9 से 26 सीटर तक के एयरपोर्ट, 8hr/80km और आउटस्टेशन प्रति किमी दरें, पैकेज बनाम पर-किमी फैसले और ड्राइवर भत्ता स्पष्ट करता है ताकि आप क्वोट लेते समय कुछ भी मिस न करें। माइक्रो-टिप: देव दीपावली या सावन में बुकिंग करनी हो तो 15 दिन पहले अग्रिम भेजें—सीजन में ₹500-₹800 तक सरचार्ज जुड़ जाता है।
+
 ## त्वरित बुकिंग CTA (Rates / Availability)
 > WhatsApp: https://wa.me/919935474730?text=Tempo%20Traveller%20Rates%20Vns%20Quote | Call: +91 99354 74730  
 > “Date + Pax + Local/Outstation” भेजें → Instant best price
