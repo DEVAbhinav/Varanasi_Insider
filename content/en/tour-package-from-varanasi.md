@@ -20,7 +20,7 @@ relatedPosts:
   - varanasi-to-bodh-gaya-pilgrimage-guide
 ---
 
-# Tour Packages from Varanasi: Multi-City Pilgrim Circuits
+# Tour Packages from Varanasi: varanasi tour package & Multi-City Pilgrim Circuits
 
 ## Your Trusted Varanasi Tour Package Provider
 
