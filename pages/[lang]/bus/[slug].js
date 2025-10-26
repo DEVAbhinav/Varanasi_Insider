@@ -51,6 +51,7 @@ export async function getStaticProps({ params }) {
   const matter = (await import('gray-matter')).default;
   const { remark } = await import('remark');
   const html = (await import('remark-html')).default;
+  const gfm = (await import('remark-gfm')).default;
 
   const baseDir = path.join(process.cwd(), 'content', params.lang, 'bus');
   const filePath = path.join(baseDir, `${params.slug}.md`);
@@ -59,7 +60,8 @@ export async function getStaticProps({ params }) {
   }
   const raw = await fsp.readFile(filePath, 'utf8');
   const { data: frontmatter, content } = matter(raw);
-  const processed = await remark().use(html).process(content);
+  // Enable GitHub Flavored Markdown (tables, strikethrough, task lists)
+  const processed = await remark().use(gfm).use(html).process(content);
   const contentHtml = processed.toString();
 
   // Attempt to load JSON-LD sidecar if present at content/<lang>/json/<slug>.json

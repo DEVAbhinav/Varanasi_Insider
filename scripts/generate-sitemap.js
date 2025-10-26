@@ -16,6 +16,8 @@ function getPageRoutes(dir, baseRoute = '') {
       if (['api'].includes(entry.name) || entry.name.startsWith('_') || entry.name.startsWith('[')) continue;
       routes.push(...getPageRoutes(path.join(dir, entry.name), path.join(baseRoute, entry.name)));
     } else if (/\.(js|jsx)$/.test(entry.name) && !entry.name.startsWith('_') && !entry.name.startsWith('[')) {
+      // Skip backup or draft files (e.g., index.backup.js) so they don't leak into sitemap
+      if (entry.name.includes('.backup.')) continue;
       let route = '/' + path.join(baseRoute, entry.name).replace(/\\/g, '/').replace(/\.(js|jsx)$/i, '');
       route = route.replace(/\/(index)$/i, '/').replace(/\/+$/, '/');
       const base = path.basename(route);
@@ -77,6 +79,9 @@ function generateSitemap() {
 
   // Static page routes from /pages (excluding dynamic because content pages cover them)
   getPageRoutes(PAGES_PATH).forEach(r => add(`${BASE_URL}${r}`, r === '/' ? '0.9' : '0.7', 'monthly'));
+
+  // Reinforce root path frequency (ensure weekly, may have been overridden by page enumeration logic)
+  add(`${BASE_URL}/`, '0.9', 'weekly');
 
   // Build XML
   const nowIso = new Date().toISOString();
