@@ -19,6 +19,8 @@ tags: ["Kashi Yatra","South India Departures","Pilgrimage Bus","Vishwanath Templ
 
 # Kashi Yatra Bus Package (South India Departures)
 
+> **TL;DR:** Kashi Yatra bus packages from Chennai/Bengaluru/Hyderabad run 6–7 days with overnight coaches plus two Varanasi hotel nights, covering sunrise boat, Vishwanath, Annapurna, and Visalakshi, with per-person tiers ₹8,999–₹17,999. Confirm language support, meal preferences, and any Prayagraj/Ayodhya add-ons when locking seats. Scroll for itineraries, pricing grid, and elder-care inclusions.
+
 *Last Updated: 25 Oct 2025*
 
 **Quick Answer:** A **6–7 day Kashi (Varanasi) pilgrimage by deluxe A/C bus + short hotel stay** optimized for South Indian groups (Chennai • Bengaluru • Hyderabad). Includes Ganga Aarti at Dashashwamedh, sunrise boat ride, Kashi Vishwanath, Annapurna & Visalakshi darshan, and optional Prayagraj / Ayodhya extension.

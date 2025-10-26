@@ -10,6 +10,8 @@ tags: ['ghats', 'guide', 'varanasi', 'tourism']
 
 # Ghats of Varanasi Visitor Guide 2025
 
+> **TL;DR:** Ghats of Varanasi guide 2025 maps Dashashwamedh Aarti, Assi sunrise yoga, cremation protocols at Manikarnika, and boat bargaining basics so you move smarter across 80+ ghats. Arrive 45 minutes early for evening Aarti and book dawn boats from vetted oarsmen near the Assi cafe strip. Micro-tip: cache offline maps of alleys to dodge post-Aarti barricades.
+
 Varanasi's soul lives on its ghats, the long chain of steps leading down to the holy River Ganges. There are over 80 ghats, each with its own story and significance.
 
 ![Overview of Varanasi's ghats from the river](/images/varanasi-ghats-overview.jpeg "Overview of Varanasi's ghats")

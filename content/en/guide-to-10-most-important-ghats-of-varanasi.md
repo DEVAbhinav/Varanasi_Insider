@@ -14,6 +14,10 @@ metaDescription: "Explore the 10 most important ghats of Varanasi, from Assi to 
 
 # A Complete Guide to the 10 Most Important Ghats of Varanasi
 
+> **TL;DR:** Navigate the top 10 Varanasi ghats from Assi to Adi Keshava with a south-to-north route that balances sunrise rituals, architectural icons, and cremation etiquette; budget 3-4 hours on foot plus a sunrise boat glide for perspective. Micro-tip: screenshot Subah-e-Banaras timings so you hit Assi Ghat yoga before crowds.
+
+<!-- Moved panoramic image below TL;DR to prioritize summary-first flow. -->
+
 ![Panoramic view of Varanasi ghats](/images/varanasi-ghats-overview.jpeg "Panoramic view of Varanasi ghats")
 
 ## Introduction

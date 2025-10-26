@@ -22,6 +22,8 @@ relatedPosts:
 
 # Varanasi to Gaya & Bodh Gaya Tour Package: A Complete Guide
 
+> **TL;DR:** Varanasi to Gaya and Bodh Gaya tour package covers 248 km via NH19 with 3-day plans priced ₹11,000–₹13,000 for sedan transport, delivering Mahabodhi meditation and Vishnupad Pind Daan. Lock Pitru Paksha slots early and fix dakshina with your panda before rituals. Scroll for itineraries, fare grids, and WhatsApp coordination.
+
 ![Train option for Gaya/Bodh Gaya](/images/GayaTrain.jpg "Fast trains connect Varanasi to Gaya conveniently")
 
 ## The Kashi Gaya Spiritual Route

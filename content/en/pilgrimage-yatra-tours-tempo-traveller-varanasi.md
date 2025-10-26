@@ -15,6 +15,8 @@ relatedPosts:
 
 # Your Trusted Partner for Sacred Journeys from Varanasi
 
+> **TL;DR:** Our pilgrimage yatra Tempo Traveller circuits connect Varanasi with Vindhyachal, Chitrakoot, Naimisaranya, Gaya, and more using 9-17 seater fleets priced from ₹7,500 for day runs with priest coordination on request; tailor durations to ritual windows. Micro-tip: share your sankalp schedule while booking so we can sequence meals and parikrama timers.
+
 Varanasi is a gateway to revered yatras across UP and beyond. Travel together in comfort to maintain a shared spiritual environment.
 
 ## Vehicle Photos

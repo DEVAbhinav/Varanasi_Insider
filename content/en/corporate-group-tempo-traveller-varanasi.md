@@ -24,6 +24,8 @@ faqSchema:
 
 # Corporate Group Tempo Traveller Varanasi – Reliable Shuttle & Event Logistics (2025)
 
+> **TL;DR:** Corporate tempo traveller Varanasi services cover 9–26 seaters with SLAs, dispatcher support, and GST invoices for airport clusters, shuttle loops, and CSR runs; local 8hr/80km rates start ₹4,500 (9 seater) to ₹7,000 (26 seater). Send manifests and luggage footprint 48 hours ahead so we can stage vehicles and buffers. Scroll for fleet tables, processes, and add-ons.
+
 Need structured, punctual group movement in Kashi for a corporate event, conference, educational batch, NGO field immersion or leadership offsite? Our corporate Tempo Traveller service in Varanasi provides 9, 12, 17, 20 and 26 seater AC vehicles with disciplined drivers, clear SLAs, route planning and real‑time coordination.
 
 ## Corporate Tempo Traveller Fleet Photos (Varanasi)

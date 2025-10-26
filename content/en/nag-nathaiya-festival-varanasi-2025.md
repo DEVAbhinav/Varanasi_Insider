@@ -17,6 +17,8 @@ relatedPosts: ["ganga-mahotsav-2025-classical-festival-varanasi", "dev-deepawali
 
 # Nag Nathaiya Festival 2025 (Lakkha Mela) Tulsi Ghat Varanasi Guide
 
+> **TL;DR:** Nag Nathaiya 2025 lights up Tulsi Ghat on Saturday 25 October with the Krishna Kaliya dive between 3:30 and 5 PM, drawing 100,000 plus devotees; arrive by 1 PM or anchor a licensed boat before 3:10 PM for clean sightlines. Micro-tip: carry a 70-200mm lens and polarized filter to nail the serpent stance without flare.
+
 *Last Updated: October 25, 2025*
 
 **Quick Answer:** Nag Nathaiya (locally called *Lakkha Mela* due to the huge crowd) is the dramatic reenactment of **Lord Krishna subduing the serpent Kaliya**. In 2025 it is **confirmed for Saturday, 25 October (Kartik Shukla Chaturthi)** at **Tulsi Ghat (near Assi)**. The boy portraying Krishna dives from a symbolic Kadamba tree into the Ganga, emerges standing on a multi‑hooded serpent effigy, and plays the flute—an unforgettable spiritual tableau.

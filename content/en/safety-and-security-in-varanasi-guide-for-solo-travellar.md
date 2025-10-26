@@ -8,7 +8,9 @@ description: "Our comprehensive safety guide for solo travellers in Varanasi. Le
 
 # Safety & Security in Varanasi: A First-Person Guide
 
-## TL;DR Safety Cheat Sheet for First-Time Visitors to Varanasi
+> **TL;DR:** Varanasi stays manageable for solo travellers when you base near Assi, schedule daylight ghat runs, pre-book verified taxis, and keep emergency numbers (112, 1091) handy; expect sensory overload in Dashashwamedh lanes and tout scams around boats. Micro-tip: snap a photo of your hotel's lane landmarks during daylight so late returns stay oriented.
+
+## Safety Cheat Sheet for First-Time Visitors to Varanasi
 Varanasi is not a city you simply see; it's a city you feel, and it can be an intense, overwhelming experience. As someone who has spent years navigating its ancient alleys, I've distilled the most critical information you'll need to start your journey with confidence. Think of this as your essential briefing before you step into one of the world's oldest and most spiritually charged places.
 
 ![Sunrise along the ghats of Varanasi](/images/varanasi-hero.png "Panoramic view of the ghats at dawn")

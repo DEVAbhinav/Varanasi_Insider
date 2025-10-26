@@ -10,6 +10,8 @@ seoNote: "Consolidated into evening boat ride guide to reduce duplication; keep 
 
 # Ganga Aarti Boat Price in Varanasi 2025
 
+> **TL;DR:** 2025 Ganga Aarti boat prices start at ₹250 shared and stretch beyond ₹10,000 for luxury bajras, but the live fare tracker now sits inside our evening boat ride hub, so use this page as a quick bookmark until the redirect ships. Micro-tip: screenshot the fare table before you hit the ghats so you can negotiate with confidence.
+
 > This pricing content has been **merged into the updated Evening Boat Ride Ganga Aarti Guide** for a single authoritative resource (boarding windows, fare bands, alignment tactics).
 >
 > Primary page: **[Evening Boat Ride – Ganga Aarti On‑Water Positioning & Fare Guide 2025](/en/evening-boat-ride-varanasi-ganga-aarti/)**

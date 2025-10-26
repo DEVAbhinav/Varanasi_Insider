@@ -29,6 +29,8 @@ faqSchema:
 
 # Morning Boat Ride in Varanasi Price Guide (Analytical 2025 Edition)
 
+> **TL;DR:** Morning boat ride Varanasi prices sit ₹1,800 to ₹2,400 for private rowboats and ₹80 to ₹150 per shared seat in 2025, while October to March demand adds 15 to 25 percent premiums; board 30 to 45 minutes before sunrise and confirm life jackets plus route before paying. Micro-tip: carry ₹100 notes for deposits because dawn UPI signals often drop.
+
 > **Scope:** This page is the *pricing economics & negotiation* hub. Timing, atmospheric boarding logistics now live on the Sunrise Timings page; evening alignment lives on the Evening Boat Ride guide. Here you get cost structures, tariff vs premium deltas & scripting.
 
 ![Pre‑dawn private rowboat negotiating mild current before sunrise](/images/varanasi-river-sunrise-boat-p.jpeg "Pre‑dawn positioning – private rowboat before negotiation finalization")

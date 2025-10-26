@@ -31,6 +31,8 @@ faqSchema:
 
 # Varanasi to Ayodhya 12 Seater Tempo Traveller – Family Playbook
 
+> **TL;DR:** Varanasi to Ayodhya 12 seater tempo traveller runs ₹14,500 for 15 hours, covering Ram Mandir, Hanuman Garhi, and family-friendly stops with cushions, ORS, and coordinator support. Seat elders in Row 2 and pre-request roof carrier if you’re hauling prasad boxes. Scroll for seat map, sample timeline, and instant WhatsApp booking.
+
 Travelling with parents, kids, and maybe a family pandit? The 12 seater Tempo Traveller is the sweet spot—compact enough for Varanasi’s lanes, spacious enough for elders to stretch, and economical compared to two Innovas. This page is your deep dive into how we customise the **Varanasi to Ayodhya 12 seater** experience.
 
 > **Key Specs:** 11 + driver seating · ₹14,500 same-day · 220 km one way · dual AC vents · ambient lighting · USB chargers.

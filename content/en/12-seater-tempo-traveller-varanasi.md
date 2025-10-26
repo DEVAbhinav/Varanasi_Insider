@@ -13,6 +13,8 @@ relatedPosts:
 
 # 12 Seater Tempo Traveller on Rent in Varanasi
 
+> **TL;DR:** 12 seater tempo traveller Varanasi pricing sits at ₹2,500 for airport runs, ₹5,500 for 8hr Kashi Darshan, and ₹24/km for outstation with a 250 km minimum plus ₹600 night allowance. Book 10-20% advance for festival dates and request a roof carrier if luggage exceeds 10 bags. Scroll for amenities, itineraries, and booking checklist.
+
 Looking for a 12‑seater Tempo Traveller in Varanasi? You’ve found the perfect ride for your mid‑sized group! Our 12‑seater (11 + driver) Tempo Traveller offers the ideal balance of capacity, comfort, and cost‑efficiency. Below is a detailed look at this vehicle—its features, pricing, and why it’s just right compared to smaller 9‑seaters or larger 17‑seaters.
 
 ## Vehicle Photos (12‑Seater)

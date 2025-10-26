@@ -34,9 +34,11 @@ relatedPosts:
 
 # Dev Deepawali 2025 Varanasi November 5: Million Lamps Festival Complete Guide
 
-![Ganga Aarti Dev Deepawali](/images/ganga-aarti.jpeg "Ganga Aarti ceremony during Dev Deepawali 2025 with millions of lamps illuminating Varanasi ghats")
+> **TL;DR:** Dev Deepawali 2025 falls on November 5th (Kartik Purnima) in Varanasi. Experience millions of earthen lamps illuminating all 84 ghats, creating the world's most spectacular spiritual light show. Book boat rides (₹200-₹13,000+ range), arrive early (3-4 PM), expect massive crowds (100,000+), and plan transport in advance for the "Diwali of the Gods."
 
-***TL;DR: Dev Deepawali 2025 falls on November 5th (Kartik Purnima) in Varanasi. Experience millions of earthen lamps illuminating all 84 ghats, creating the world's most spectacular spiritual light show. Book boat rides (₹200-₹13,000+ range), arrive early (3-4 PM), expect massive crowds (100,000+), and plan transport in advance for the "Diwali of the Gods."***
+<!-- Note: Hero image shifted below TL;DR for compliance with new summary placement. -->
+
+![Ganga Aarti Dev Deepawali](/images/ganga-aarti.jpeg "Ganga Aarti ceremony during Dev Deepawali 2025 with millions of lamps illuminating Varanasi ghats")
 
 ## What is Dev Deepawali: The Diwali of the Gods
 

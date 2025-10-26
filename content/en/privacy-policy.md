@@ -12,6 +12,8 @@ metaDescription: "Read our privacy policy to understand how Varanasi Taxi collec
 
 # Privacy Policy
 
+> **TL;DR:** We collect booking details (name, contact, itinerary) and device analytics to confirm rides, send updates, and prevent fraud; data is shared only with drivers, payment processors, and legal authorities when required. Micro-tip: email info@kashitaxi.in if you want access, corrections, or deletion—we respond within statutory timelines.
+
 **Last Updated:** October 4, 2025
 
 ## Introduction

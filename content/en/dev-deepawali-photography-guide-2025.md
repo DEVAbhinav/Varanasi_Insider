@@ -17,6 +17,8 @@ relatedPosts: ["dev-deepawali-2025-varanasi-ultimate-guide", "dev-deepawali-best
 
 # Photographer's Guide to Capturing Dev Deepawali 2025: Camera Settings, Best Spots & Pro Tips
 
+> **TL;DR:** Dev Deepawali's lamp-lit ghats demand pro-level prep—pack a fast lens kit, pre-scout Ramnagar panoramas, and lock boat slots by 4 PM for motionless exposures. Expect ISO 800-3200 shifts, manual focus tweaks, and crowd-free rooftops for hero shots. Micro-tip: save your best Dev Deepawali photography presets as custom slots before heading out.
+
 *Last Updated: September 30, 2025*
 
 **Quick Answer:** Dev Deepawali offers some of India's most spectacular photography opportunities, but capturing those magical lamp-lit scenes requires specific camera settings, precise timing, and insider knowledge of the best angles. This complete guide ensures you'll return with professional-quality images.

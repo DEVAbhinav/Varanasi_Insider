@@ -85,6 +85,8 @@ published: true
 
 # Varanasi Customised Tour Packages (1–4 Day Itineraries)
 
+> **TL;DR:** Varanasi customised tour packages cover one to four day itineraries with sedan or Innova, private sunrise and Aarti boats, guides, and VIP darshan add-ons typically totaling ₹4,200 to ₹13,600 before extras; mix and match by season with a 10 percent buffer for surge weeks. Micro-tip: lock boat slots first—they dictate every other appointment.
+
 Plan a flexible Varanasi trip your way — from sunrise private boats to evening Ganga Aarti, temple darshan and Sarnath. Our customised 1–4 day packages include vetted cabs (Sedan/Innova), private boats, and optional VIP Darshan. Transparent pricing, local planning, and WhatsApp support.
 
 - Looking for airport transfers? See our [Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide).

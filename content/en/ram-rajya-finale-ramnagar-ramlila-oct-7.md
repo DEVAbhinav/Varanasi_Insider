@@ -34,9 +34,11 @@ relatedPosts:
 
 # Ram Rajya Finale October 7, 2025: Ramnagar Ramlila UNESCO Coronation Guide
 
-![Varanasi Kashi Vishwanath Temple](/images/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple - spiritual heart of Varanasi where Lord Rama's story concludes")
+> **TL;DR:** Ram Rajya finale on 7 October 2025 crowns Lord Rama at Ramnagar Fort between 5 and 7:30 PM with Maharaja Kashi Naresh in attendance, capping the 31-day UNESCO Ramlila; arrive by 4:30 PM, pre-book return transport, and pick your vantage early. Micro-tip: screenshot the fort layout so you can brief your group on regroup points before networks jam.
 
-***TL;DR: The Ram Rajya finale on October 7, 2025, marks the grand conclusion of the 31-day UNESCO heritage Ramnagar Ramlila. Experience Lord Rama's coronation ceremony at Ramnagar Fort from 5:00-7:30 PM, complete with royal procession, Maharaja's presence, and the triumphant end of the world's most authentic Ramayana performance.***
+<!-- Moved contextual image below TL;DR to prioritize summary-first layout. -->
+
+![Varanasi Kashi Vishwanath Temple](/images/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple - spiritual heart of Varanasi where Lord Rama's story concludes")
 
 ## What is Ram Rajya: The Ultimate Ramlila Finale
 

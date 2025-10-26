@@ -34,9 +34,11 @@ relatedPosts:
 
 # Dussehra Ravana Dahan Varanasi October 2, 2025: Complete Festival Guide
 
-![Ravana Dahan in Varanasi](/images/ravana-dahan-varanasi.jpg "Spectacular Ravana Dahan celebration in Varanasi")
+> **TL;DR:** Dussehra Varanasi 2025 lights up October 2 with synchronized Ravana Dahan at Lanka, Sigra, and BHU, so lock transport before 3 PM, arrive 60 minutes early, and earmark a return corridor to dodge post-firework paralysis. Expect 50k+ spectators at prime grounds. Micro-tip: screenshot police diversion map to share with your driver offline.
 
-***TL;DR: Dussehra 2025 in Varanasi falls on October 2nd, coinciding with Gandhi Jayanti. This complete guide covers the best Ravana Dahan locations, exact festival timings, crowd management strategies, and how to book guaranteed festival transport to avoid post-event chaos.***
+<!-- Moved hero image below TL;DR to prioritize quick-read summary. -->
+
+![Ravana Dahan in Varanasi](/images/ravana-dahan-varanasi.jpg "Spectacular Ravana Dahan celebration in Varanasi")
 
 ## What is Dussehra Ravana Dahan Festival in Varanasi?
 
@@ -77,9 +79,11 @@ relatedPosts:
 
 # Your Guide to Dussehra (Ravana Dahan) in Varanasi on Oct 2nd
 
-![Ravana Dahan in Varanasi](/images/ravana-dahan-varanasi.jpg "Spectacular Ravana Dahan celebration in Varanasi")
+> **TL;DR:** October 2 Dussehra in Varanasi overlaps Gandhi Jayanti, so expect double security layers around Lanka, Sigra, and BHU effigy grounds; reach entrances by 6 PM, pre-book your Varanasi festival transport, and align exit meet-points before fireworks flare. Micro-tip: keep a spare UPI-lite account ready because mobile networks wobble during dispersal.
 
-***TL;DR: Dussehra 2025 in Varanasi falls on October 2nd, coinciding with Gandhi Jayanti. This guide covers the best Ravana Dahan locations, exact timings, crowd management, and how to book guaranteed transport to avoid post-event chaos.***
+<!-- Shifted image below TL;DR to maintain summary-first layout. -->
+
+![Ravana Dahan in Varanasi](/images/ravana-dahan-varanasi.jpg "Spectacular Ravana Dahan celebration in Varanasi")
 
 ## What is Ravana Dahan in Varanasi?
 

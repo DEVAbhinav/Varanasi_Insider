@@ -13,6 +13,8 @@ relatedPosts:
 
 # Kashi Darshan Local Sightseeing by Tempo Traveller
 
+> **TL;DR:** Kashi Darshan Tempo Traveller package covers 8hr/80km for ₹5,500 with 12-seater, hitting Vishwanath, BHU, Sarnath add-on, and Dashashwamedh Aarti; start 9 AM or pre-dawn, keep lockers cash, and upgrade to 17-seater if over 12 travellers. Micro-tip: share a live WhatsApp pin after each drop so the driver stages pickup near the lane exit.
+
 Evening Ganga Aarti at Dashashwamedh Ghat—a mesmerizing end to a day of sightseeing in Kashi. Explore Varanasi’s timeless spiritual heritage with ease and comfort in a Tempo Traveller! Our Kashi Darshan local sightseeing package is perfect for groups who want to visit the famous temples, ghats, and cultural spots of Varanasi in one dedicated vehicle. Skip coordinating multiple autos or cabs—your whole group stays together for a seamless city tour.
 
 ## Vehicle Photos

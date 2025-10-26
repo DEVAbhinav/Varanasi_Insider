@@ -30,6 +30,8 @@ faqSchema:
 
 # Prayagraj – Ayodhya – Chitrakoot Circuit by Tempo Traveller (2025)
 
+> **TL;DR:** This Prayagraj Ayodhya Chitrakoot Tempo Traveller circuit covers roughly 1,000 km over three to four days, syncing Sangam snan, Ram Mandir darshan, and Chitrakoot parikrama; expect ₹24,000 to ₹30,000 transport for a 12-seater plus allowances. Micro-tip: lock Ayodhya early morning slots first—every other departure cascades from that window.
+
 A compact **3–4 day circuit** – this **prayagraj ayodhya chitrakoot circuit** links Sangam spirituality (Prayagraj), Ram Janmabhoomi & temple complex (Ayodhya), and forest hermitage resonance (Chitrakoot). Proper sequencing protects morning ritual windows and limits fatigue while enabling an efficient tempo traveller prayagraj ayodhya tour without night driving.
 
 > Core Strategy: Start with Sangam (predictable timing), slot Ayodhya mid, conclude contemplative Chitrakoot for gentler finish; avoid forcing Ayodhya Chitrakoot from Varanasi direct in one stretch.

@@ -41,6 +41,8 @@ Answer Box
 
 # Varanasi to Vindhyachal Tour: Same-Day Darshan Guide
 
+> **TL;DR:** Varanasi to Vindhyachal taxi fares sit at ₹2,000-₹2,500 for an 8-hour sedan covering Maa Vindhyavasini, Kali Khoh, and Ashtabhuja with a 65 km drive via Mirzapur. Leave by 7 AM and pre-brief pandas if you want a smooth Trikon Parikrama without surprise charges. Scroll for itinerary, fare grid, and WhatsApp booking script.
+
 ![Cab crossing the Mirzapur bridge en route to Vindhyachal darshan](/images/Vindhyachal1.jpg "Road trip from Varanasi to Vindhyachal – a popular Shakti Peeth pilgrimage")
 
 ## The Kashi-Vindhyachal Spiritual Connection

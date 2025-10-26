@@ -34,9 +34,11 @@ relatedPosts:
 
 # Complete Map & Guide to Ramnagar Ramlila's UNESCO 'Moving Stages'
 
-![Ramnagar Ramlila Moving Stages Map](/images/ramnagar-ramlila-map.jpg "Understanding the unique moving performance locations in Ramnagar")
+> **TL;DR:** Ramnagar Ramlila turns the entire town into moving stages across more than fifteen venues, shifting nightly between the fort, Nati Imli, Lanka fields, and Ashok Vatika; expect one to two kilometres of walking and crowd flows up to 15,000 people, so use local transport support or route maps to stay on pace. Micro-tip: capture the nightly schedule board at Ramnagar Fort before you leave; it is the only authoritative update.
 
-***TL;DR: The UNESCO Ramnagar Ramlila transforms the entire town into a living stage with performances moving between different locations nightly. This comprehensive guide explains the moving stage concept, maps key venues, and provides expert transport solutions for following this UNESCO heritage performance.***
+<!-- Relocated map image below TL;DR to emphasize summary first. -->
+
+![Ramnagar Ramlila Moving Stages Map](/images/ramnagar-ramlila-map.jpg "Understanding the unique moving performance locations in Ramnagar")
 
 ## The "Moving Stage" Concept Explained for Visitors
 

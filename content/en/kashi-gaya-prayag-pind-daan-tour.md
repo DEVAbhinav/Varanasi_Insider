@@ -30,6 +30,8 @@ faqSchema:
 
 # Kashi Gaya Prayag Pind Daan Tour – Structured Ritual & Travel Plan (2025)
 
+> **TL;DR:** Our Kashi Gaya Prayag Pind Daan tour blueprint sequences Vishwanath darshan, Gaya Vishnupad rites, and Prayagraj Sangam tarpan over a three to four day window with a Tempo Traveller, keeping elders fresh and rituals on tithi. Expect ₹31,000-₹37,000 for a 12-seater circuit. Micro-tip: pre-reserve your Gaya panda with language preference to avoid last-minute mismatches.
+
 Undertaking the **Kashi Gaya Prayag Pind Daan tour** is one of the most meaningful multi‑city spiritual circuits you can plan from Varanasi. I’ve facilitated numerous family groups performing ancestral rites (shraddha / pind daan / tarpan) and have refined a practical, fatigue‑aware approach—especially when elders are part of the yatra.
 
 > Core Principle: Preserve ritual sanctity by giving each site its appropriate morning energy window (cooler, calmer, focused).

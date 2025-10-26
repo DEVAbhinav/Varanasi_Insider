@@ -17,6 +17,8 @@ tags: ["Kashi Yatra","Rameshwaram","Twin Jyotirlinga","Multi-Modal Pilgrimage","
 
 # Kashi – Rameshwaram Twin Jyotirlinga Yatra (Flight + Bus Connectors)
 
+> **TL;DR:** Kashi–Rameshwaram twin Jyotirlinga yatra blends flights, rail, and coach to cover Vishwanath and Ramanathaswamy in 6–14 day variants, with per-person scaffolds ₹24,999–₹48,999 depending on pace and add-ons. Lock Sugam darshan slots and Madurai–Rameshwaram transfers 60 days ahead, noting elder mobility and teerth snan plans. Scroll for route patterns, connector templates, and cost matrix.
+
 *Last Updated: 25 Oct 2025*
 
 **Quick Answer:** A **multi‑modal twin-Jyotirlinga pilgrimage** linking **Kashi Vishwanath (Varanasi)** in the north and **Ramanathaswamy Temple (Rameshwaram)** in the south via optimised **flight + coach + optional rail connectors**. Choose a **fast (6–7 day)**, **standard (9–10 day)** or **deep (12–14 day)** circuit based on pace, budget and spiritual add‑ons (Sarnath, Gaya, Prayagraj, Madurai temples, Kanyakumari).

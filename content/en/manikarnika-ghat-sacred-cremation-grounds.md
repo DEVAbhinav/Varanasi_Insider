@@ -14,6 +14,10 @@ metaDescription: "A guide to Manikarnika Ghat, Varanasi's most sacred cremation 
 
 # Manikarnika Ghat: Understanding the Sacred Cremation Grounds
 
+> **TL;DR:** Manikarnika Ghat Varanasi runs nonstop cremations where moksha-seekers perform final rites, so approach with quiet respect, skip photography, and visit 7 AM-9 PM with a vetted guide for context. Micro-tip: carry a light scarf to filter smoke and signal humility near the pyres.
+
+<!-- Shifted contextual image below TL;DR to keep summary upfront. -->
+
 ![Panoramic ghats view (contextual, non-cremation)](/images/varanasi-ghats-overview.jpeg "A respectful, wide view of Varanasi's ghats – context for Manikarnika's riverfront setting")
 
 ## Introduction

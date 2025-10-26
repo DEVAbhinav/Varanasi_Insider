@@ -14,6 +14,8 @@ metaDescription: "Discover the story of Banarasi Kashitaxi, a family-run Varanas
 
 # नमस्ते! I’m Utkarsh Pandey—Here’s Our Story 🚖✨
 
+> **TL;DR:** Banarasi Kashitaxi is a family-run Varanasi taxi network scaling from one Ambassador in 1998 to GPS-tracked airport shuttles, Pink Taxis, and curated Buddhist circuits in 2025. Expect transparent fares, locally trained chauffeurs, and a 24x7 helpline anchored by the Pandey family. Scroll for services, values, and booking contacts.
+
 I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into a lifeline for pilgrims landing at Varanasi Junction. What began as a modest **Vinayak Travels Tour** counter in 1998 is now **Banarasi Kashitaxi**: a tech‑enabled fleet serving 30+ cities across Uttar Pradesh and Bihar, with special focus on women‑only Pink Taxis and curated Buddhist Circuit tours.
 
 ![Women-driven Pink Taxi in Varanasi](/images/lady-taxi.jpeg "Women-driven Pink Taxi in Varanasi")

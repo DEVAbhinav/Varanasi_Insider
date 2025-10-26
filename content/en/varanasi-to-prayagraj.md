@@ -23,9 +23,11 @@ relatedPosts:
 
 # Varanasi to Prayagraj (Allahabad): Tour Package & Yatra Guide
 
-![Allahabad/Prayagraj route visual](/images/prayagraj.jpg "Prayagraj (Allahabad) – home to the sacred Triveni Sangam")
+> **TL;DR:** Varanasi to Prayagraj tour packages span 121 km via NH19 with sedan fares around ₹3,500 and curated Sangam day plans covering Triveni bath, Bade Hanumanji, and Alopi Devi. Lock a trustworthy boatman before boarding and carry dry clothes for the post-dip temple circuit. Scroll for travel modes, itineraries, and booking contacts.
 
-***TL;DR: Planning a Varanasi to Prayagraj tour? This guide covers everything from travel distance and route options to a detailed Kashi-Triveni Sangam day trip itinerary, tour packages, and essential spiritual insights.***
+<!-- Note: Image repositioned below TL;DR per new layout requirement. -->
+
+![Allahabad/Prayagraj route visual](/images/prayagraj.jpg "Prayagraj (Allahabad) – home to the sacred Triveni Sangam")
 
 ## The Prayagraj Varanasi Spiritual Circuit
 

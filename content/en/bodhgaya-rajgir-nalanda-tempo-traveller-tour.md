@@ -30,6 +30,8 @@ faqSchema:
 
 # Bodh Gaya – Rajgir – Nalanda Focus Circuit (2025)
 
+> **TL;DR:** Bodh Gaya–Rajgir–Nalanda tempo traveller loop covers ~780 km over 3 days, pricing ₹21.5k–₹22.6k for 12-seater transport, delivering dawn Bodhi Tree sits, pre-8 AM Vulture Peak climbs, and Nalanda scholarly walks. Cap groups at 8–12 to preserve silence and carry headlamps for predawn ascent. Scroll for day-wise pacing, cost grid, and packing list.
+
 A **short-form Buddhist learning & practice loop** when you lack time for the full multi-state circuit. Prioritize dawn under the Bodhi Tree, a pre-sunrise ascent of Vulture Peak, and a slow, reflective walk along Nalanda’s monastic quadrangles. This concise **bodh gaya rajgir nalanda tour** outline helps teams balance meditation with study without overextension.
 
 > Guiding Logic: Anchor meditative depth first (Bodh Gaya) so subsequent scholarly & terrain elements layer meaningfully.

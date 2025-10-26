@@ -29,6 +29,8 @@ faqSchema:
 
 # Evening Boat Ride Varanasi: Watch Ganga Aarti from the Water (Differentiated 2025 Planning Guide)
 
+> **TL;DR:** Evening boat ride Varanasi seats disappear 40 minutes before the Ganga Aarti, so decide between shared ₹250 benches and ₹3,000 private rowboats ahead of time, board early to claim the central arc, and prep ISO 2000 and f2.8 settings for flame detail. Micro-tip: carry a thin cushion; wooden planks bruise during 60-minute holds.
+
 > **Core Value:** This page focuses on *on‑water logistics & boat selection intelligence* (seat classes, alignment tactics, lens & exposure tips) rather than repeating full ceremony narrative (see Dashashwamedh timing guide for crowd curve).
 
 ## 1. 2025 Boarding & Alignment Matrix

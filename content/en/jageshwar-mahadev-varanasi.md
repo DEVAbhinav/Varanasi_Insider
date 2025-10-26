@@ -15,6 +15,9 @@ tags:
 ---
 
 # Siddhpeeth **Shri Jageshwar Mahadev Mandir**, Varanasi  
+
+> **TL;DR:** Jageshwar Mahadev Varanasi rewards pilgrims with a self-growing Shivling, quiet siddhpeeth ambiance, and easy access from Chowk; plan a weekday 10 am visit, pair it with Mrityunjaya and Tilbhandeshwar stops, and budget ₹80 for an e-rickshaw. Micro-tip: carry a temple-ready shoe bag because footwear stays at street level.
+
 *A pocket guide for pilgrims, photographers & curious travellers*
 
 ![Kashi temple exterior representative image](/images/varanasi-kashivishwanath-outside-l.jpeg "Representative exterior of a historic Shiva temple in Kashi")

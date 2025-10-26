@@ -13,6 +13,8 @@ relatedPosts:
 
 # Varanasi to Bodhgaya Tempo Traveller: Same‑Day/Overnight Package
 
+> **TL;DR:** Varanasi to Bodhgaya tempo traveller charters cost ₹16,000–₹18,000 for a same-day 12-seater covering Vishnupad Pind Daan plus Mahabodhi Temple, with a 5-6 hour run via NH19. Roll out by 4 AM and pre-negotiate Gaya priest dakshina to keep the itinerary on schedule. Scroll for route details, pricing, and Buddhist circuit extensions.
+
 All-inclusive pricing; 26-seater option available. Varanasi ↔ Bodhgaya is ~255–300 km, 5–6 hrs each way by road—Tempo Traveller is most comfortable for groups.
 
 ## Tempo Traveller Photos for Bodhgaya Pilgrimage

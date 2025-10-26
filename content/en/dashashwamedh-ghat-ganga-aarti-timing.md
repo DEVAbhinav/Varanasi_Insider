@@ -30,6 +30,8 @@ relatedPosts:
 
 # Dashashwamedh Ghat Ganga Aarti Timings & Best Viewing Spots 2025
 
+> **TL;DR:** Dashashwamedh Ghat Ganga Aarti fires at 6:45 PM (5:45 PM Oct–Mar) with chairs selling out 30–45 minutes prior and crowd density peaking 700–860 people per 100 m; Dev Deepawali 12 Nov 2025 starts ~5:30 PM. Arrive 40 minutes early, pre-select exit via Godowlia left flank, and ignore touts selling ₹600+ 'VIP' seats. Scroll for crowd curves, vantage matrix, and boat pricing.
+
 <div class="answer-box" aria-label="Dashashwamedh Ganga Aarti quick answers">
   <strong>Answer box (refreshed daily 5 PM):</strong>
   <ul>

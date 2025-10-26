@@ -17,6 +17,8 @@ tags: ["Kashi Yatra","Prayagraj Sangam","Ayodhya Ram Mandir","South India Depart
 
 # Kashi • Prayagraj • Ayodhya 3-City Bus Pilgrimage (South India)
 
+> **TL;DR:** Kashi–Prayagraj–Ayodhya South India bus pilgrimage packages run 7 or 9 days ex Chennai/Bengaluru/Hyderabad, bundling Ganga Aarti, Sangam snan, and Ram Mandir darshan with per-person tiers from ₹9,999 to ₹21,999. Share elder count and Pind Daan needs while booking so we can stage rest stops and priests in advance. Scroll for itineraries, distance matrix, and inclusion grid.
+
 *Last Updated: 25 Oct 2025*
 
 **Quick Answer:** A **7–9 day structured multi-circuit pilgrimage** covering Kashi (Varanasi) core darshans & Ganga Aarti, Prayagraj Sangam ritual dip/boat, and Ayodhya Ram Mandir darshan — purpose-built for South Indian devotional groups (Chennai • Bengaluru • Hyderabad) with elder-friendly pacing and modular add‑ons.

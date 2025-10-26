@@ -31,6 +31,8 @@ faqSchema:
 
 # Varanasi to Ayodhya Day Trip Tempo Traveller Guide
 
+> **TL;DR:** Varanasi to Ayodhya day trip tempo traveller at ₹14,500 covers Ram Mandir, Hanuman Garhi, Kanak Bhawan, and Saryu Aarti in a 15-hour charter with wheelchair-ready support. Lock your slot by sharing headcount 48 hours out so we can pre-book wheelchairs and meal stops. Scroll for exact timeline, fleet options, and WhatsApp booking steps.
+
 Planning a sunrise-to-night pilgrimage from Kashi to Ayodhya? This page packages proven run sheets from the 60+ day trips we executed post Ram Mandir inauguration. Think of it as a logistics playbook—leave Varanasi before dawn, reach Ram Lala in time for morning darshan, savour prasadam, and still be back at Godowlia for bedtime.
 
 > **Quick Stats:** 220 km one way · 4.5 hours driving · 15-hour charter · ₹14,500 (12 seater) · 17 seater ₹15,500.

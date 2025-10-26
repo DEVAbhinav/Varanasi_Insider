@@ -14,6 +14,8 @@ metaDescription: "Contact Banarasi Kashitaxi for 24×7 taxi services in Varanasi
 
 # Talk to Your Local Varanasi Travel Expert 🚕✨
 
+> **TL;DR:** Contact Banarasi Kashitaxi anytime via +91 94503 01573 or WhatsApp +91 99354 74730 for airport pickups, Pink Taxis, or multi-day tours; office at Shastri Nagar near IP Mall with 6:00–22:00 desk and 24×7 phone support. Share travel screenshots to speed dispatch. Scroll for full contact channels, social links, and visit directions.
+
 Whether you need a late‑night airport transfer, a women‑only Pink Taxi, or a fully‑loaded eight‑day Buddhist Circuit itinerary, I’m just a call away. **Let’s make your Banaras journey smooth and stress‑free.**
 
 ![Airport taxi pickup at Varanasi (VNS)](/images/airport-taxi-600x400.jpeg "Airport taxi pickup at Varanasi (VNS)")

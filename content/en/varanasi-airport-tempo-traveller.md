@@ -13,6 +13,8 @@ relatedPosts:
 
 # Varanasi Airport Tempo Traveller Transfer: Fixed ₹2,500
 
+> **TL;DR:** Varanasi airport tempo traveller transfers cost fixed ₹2,500 for city drops, absorbing parking, tolls, and flight delays while moving 12-17 passengers with luggage. Share flight number and drop sequence 4 hours ahead so we can station the vehicle near arrivals with placard and step stool. Scroll for service details, FAQs, and booking steps.
+
 Immediate, transactional need—price is upfront. Also covers Cantt and DDU stations.
 
 ## Vehicle Photos

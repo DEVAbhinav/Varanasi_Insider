@@ -17,6 +17,8 @@ relatedPosts: ["dev-deepawali-2025-varanasi-ultimate-guide", "maha-shivaratri-20
 
 # Makar Sankranti 2026 Varanasi: Holy Dips & Kite Wars Complete Guide (January 14)
 
+> **TL;DR:** Makar Sankranti 2026 in Varanasi lands on 14 January with dawn Ganga snaan, Surya puja, and rooftop kite wars from late morning; stake out ghats by 5:30 AM for holy dips, then shift to Dashashwamedh rooftops by noon for competitive flying. Micro-tip: pre-order glass-coated manjha and cotton gloves from Thatheri Bazaar a day earlier to avoid sold-out stalls.
+
 *Last Updated: September 30, 2025*
 
 **Quick Answer:** Makar Sankranti in Varanasi (January 14, 2026) combines ancient spiritual traditions with joyful celebrations. Experience holy Ganga baths at sunrise, participate in massive community kite festivals, and witness the city transform into a colorful playground where devotion meets recreation.

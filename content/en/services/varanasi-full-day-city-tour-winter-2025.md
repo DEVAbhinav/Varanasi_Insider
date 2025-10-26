@@ -18,6 +18,8 @@ lastUpdated: "2025-10-02"
 
 # Varanasi Full-Day City Tour by Car: Packages & Pricing for Winter 2025
 
+> **TL;DR:** Winter 2025 full-day car tours run ₹2,200 for sedans and ₹3,200 for Innovas, covering sunrise boats, Kashi Vishwanath, Sarnath, BHU, and evening Aarti with optional Malaiyyo hunts and Ramnagar add-ons; plan eight to ten hours and pre-book boats and VIP passes. Micro-tip: lock your sunrise slot first because every other stop cascades from that early start.
+
 > Experience Varanasi's layered spiritual and cultural heritage with a private car + driver for 8–10 hours. Pre-designed routes or custom itinerary. November–February optimal season.
 
 ## Best Cab Service in Varanasi in December & November: Why Winter is Prime Sightseeing Season

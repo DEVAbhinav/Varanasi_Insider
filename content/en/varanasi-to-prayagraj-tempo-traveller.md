@@ -14,6 +14,8 @@ relatedPosts:
 
 # Varanasi to Prayagraj (Allahabad) Tempo Traveller – Sangam Darshan Package
 
+> **TL;DR:** Varanasi to Prayagraj tempo traveller day package is ₹8,500 for a 12-seater (₹9,500 for 17-seater) covering Triveni Sangam, Bade Hanumanji, and Alopi Devi with a 121 km drive via NH19. Confirm life jacket-ready boat and priest charges before dipping to stay focused on the ritual. Scroll for itinerary, inclusions, and WhatsApp booking link.
+
 The holy Triveni Sangam at Prayagraj, where the Ganga and Yamuna meet—a highlight of our day tour. Travel from Kashi to the confluence in comfort! Our Varanasi–Prayagraj Tempo Traveller package is a curated day trip that takes your group to the most revered sites of Allahabad (Prayagraj)—including Triveni Sangam, sacred temples, and historic landmarks—in one day. If you have a family or group keen on a teerth yatra to Prayagraj, here’s everything you need to know about the journey, itinerary, and pricing.
 
 ## Tempo Traveller Photos for Prayagraj Pilgrimage

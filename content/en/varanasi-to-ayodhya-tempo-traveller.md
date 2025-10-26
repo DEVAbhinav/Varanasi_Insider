@@ -15,6 +15,8 @@ relatedPosts:
 
 # Varanasi to Ayodhya Tempo Traveller Fare & Package
 
+> **TL;DR:** Varanasi to Ayodhya tempo traveller charter costs ₹14,500 for a 12-seater or ₹15,500 for a 17-seater covering Ram Mandir, Hanuman Garhi, and Saryu Aarti in a 15-hour run. Start at 5 AM and screenshot your darshan QR codes for smoother security checks. Scroll for itinerary, fleet photos, and booking instructions.
+
 A glimpse of the under‑construction Shri Ram Mandir in Ayodhya—a must‑visit on this pilgrimage. Embark on a spiritual journey from Kashi to Ayodhya with our Tempo Traveller package. This is your definitive guide to a one‑day group tour from Varanasi to Ayodhya—covering itinerary, key temples, travel time, and an all‑inclusive fare. If you’re planning a family pilgrimage to Ram Janmabhoomi, or a group tour for elders, read on for a hassle‑free experience.
 
 ## Tempo Traveller Photos for Ayodhya Pilgrimage
