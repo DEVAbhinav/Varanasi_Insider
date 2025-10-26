@@ -80,6 +80,30 @@
   @apply list-decimal list-inside mb-4;
 }
 
+/* Unified table styling for all markdown-rendered pages (blogs, services, packages, bus) */
+.prose table {
+  @apply w-full text-sm border-collapse my-6 rounded-md overflow-hidden;
+}
+.prose thead th {
+  @apply bg-muted font-medium text-left text-foreground/90;
+}
+.prose thead th,
+.prose tbody td {
+  @apply border px-3 py-2 align-top;
+}
+.prose tbody tr:nth-child(even) {
+  @apply bg-muted/40;
+}
+.dark .prose thead th {
+  @apply bg-zinc-800;
+}
+.dark .prose tbody tr:nth-child(even) {
+  @apply bg-zinc-800/50;
+}
+/* Responsive wrapper for tables if needed */
+.prose table { display: table; }
+.prose :where(table) { width: 100%; }
+
 body {
   background-color: #F8F9FA; /* Off-white background */
   font-family: 'Source Sans 3', sans-serif; /* Default sans-serif font */
