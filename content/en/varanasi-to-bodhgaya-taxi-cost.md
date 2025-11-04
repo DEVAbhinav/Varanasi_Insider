@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Bodh Gaya Taxi 2025: Fare Grid & Booking Script"
+title: "Varanasi to Bodh Gaya Distance — 255 km | Taxi Cost & Travel Time 2025"
 slug: "varanasi-to-bodhgaya-taxi-cost"
 date: "2025-07-28"
-lastUpdated: "2025-07-28"
+lastUpdated: "2025-11-04"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/GayaTaxi.jpg"
-metaTitle: "Varanasi to Bodh Gaya Taxi Cost Today – 2025 Route, Stops & Deals"
-metaDescription: "See 2025 Varanasi → Bodh Gaya taxi fares by vehicle, ideal stopovers, WhatsApp script for fixed quotes, and dawn departure strategy from pilgrims who drive it weekly."
+metaTitle: "Varanasi to Bodh Gaya Distance — 255 km | Taxi Cost & Travel Time 2025"
+metaDescription: "Varanasi → Bodh Gaya distance: 255 km by road. Typical travel time 5–6 hrs (via NH19). Taxi fares ₹3,500–₹5,000; bus & train options + booking links. Updated 2025."
 description: "2025 Varanasi → Bodh Gaya taxi fares, route intel, pit-stop map, and WhatsApp script to lock fixed quotes before touts call back."
 keywords:
   - "varanasi to bodh gaya taxi cost"
@@ -27,9 +27,38 @@ relatedPosts:
   - varanasi-day-tour-cab-charges
 ---
 
-# Varanasi to Bodh Gaya Taxi Cost & Distance 2025
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {
+      "@type":"Question",
+      "name":"How far is Bodh Gaya from Varanasi?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Bodh Gaya is about 255 km from Varanasi by road (approx. 5–6 hours via NH19)."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"How long does it take by taxi?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Typical taxi time is 5–6 hours depending on traffic; estimated fares ₹3,500–₹5,000."
+      }
+    }
+  ]
+}
+</script>
 
-Updated: Sep 2025
+---
+
+# Varanasi to Bodh Gaya — Distance 255 km • Travel Time 5–6 hrs
+
+**Varanasi to Bodh Gaya distance: 255 km by road. Typical travel time 5–6 hours via NH19.**
+
+Updated: Nov 2025
 
 Answer Box
 | Distance | Time | Best Route | Taxi (₹) | Train (hrs) | Bus (hrs) |

@@ -1,11 +1,13 @@
 ---
-title: "Dev Deepawali 2025 Varanasi November 5: Million Lamps Festival Complete Guide & Booking"
+title: "Dev Deepawali 2025 — November 5, 2025 | Kashi Dev Diwali Guide"
 slug: "dev-deepawali-2025-varanasi-ultimate-guide"
 date: "2025-09-30"
-lastUpdated: "2025-09-30"
+lastUpdated: "2025-11-04"
 author: "Kamal Nayan Singh"
 lang: en
 featuredImage: "/images/ganga-aarti.jpeg"
+metaTitle: "Dev Deepawali 2025 — November 5, 2025 | Kashi Dev Diwali Guide"
+metaDescription: "Dev Deepawali 2025: November 5, 2025 (Kartik Purnima). Million lamps on the ghats, schedule, best viewing ghats, travel & safety tips for Varanasi."
 description: "Dev Deepawali 2025 Varanasi guide for November 5: Kartik Purnima million lamps festival, boat ride pricing ₹200-₹13K, best ghats, crowd management & complete travel planning for Diwali of Gods."
 tags:
   - dev deepawali 2025 varanasi
@@ -30,6 +32,28 @@ relatedPosts:
   - ganga-mahotsav-2025-classical-festival
   - ultimate-guide-ramlila-dussehra-varanasi-2025
   - book-taxi-varanasi-ramlila-dussehra
+---
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Event",
+  "name":"Dev Deepawali (Kashi) 2025",
+  "startDate":"2025-11-05",
+  "location":{
+    "@type":"Place",
+    "name":"Ghats of Varanasi",
+    "address":{
+      "@type":"PostalAddress",
+      "addressLocality":"Varanasi",
+      "addressRegion":"Uttar Pradesh",
+      "addressCountry":"IN"
+    }
+  },
+  "description":"Dev Deepawali 2025 in Varanasi: program schedule, best ghats for viewing, travel tips and safety information."
+}
+</script>
+
 ---
 
 # Dev Deepawali 2025 Varanasi November 5: Million Lamps Festival Complete Guide

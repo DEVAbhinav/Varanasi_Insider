@@ -1,11 +1,13 @@
 ---
-title: "Assi Ghat Aarti Timings 2025: [Morning & Evening Ceremony]"
+title: "Assi Ghat Aarti Time 2025 — Morning 5:30 AM | Evening 6:00 PM"
 slug: "assi-ghat-aarti-timings-2025"
 date: "2025-08-04"
-lastUpdated: "2025-09-20"
+lastUpdated: "2025-11-04"
 author: "Naval Kishore"
 lang: en-IN
 featuredImage: "/images/varanasi-assi-ghat-aarti-l.jpeg"
+metaTitle: "Assi Ghat Aarti Time 2025 — Morning 5:30 AM | Evening 6:00 PM"
+metaDescription: "Assi Ghat Aarti timing — Morning: 5:30 AM, Evening: 6:00 PM (seasonal). Full 2025 schedule, best viewing tips & boat ride prices."
 description: "Get the latest summer and winter timings for the Assi Ghat Ganga Aarti. Learn what to expect, the duration, and tips for the best view."
 keywords: "assi ghat aarti time, assi ghat aarti timings, assi ghat aarti timings evening, assi ghat aarti timings morning, assi ghat ganga aarti timing, assi ghat morning aarti time"
 tags:
@@ -21,11 +23,76 @@ relatedPosts:
   - varanasi-in-february-2026
 ---
 
-Updated: Sep 2025
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Event",
+      "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025#morning",
+      "name": "Assi Ghat Morning Aarti",
+      "startDate": "2025-11-05T05:30:00+05:30",
+      "location": {
+        "@type": "Place",
+        "name": "Assi Ghat, Varanasi",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Varanasi",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "IN"
+        }
+      },
+      "description": "Morning Ganga aarti at Assi Ghat (Subah-e-Banaras). Typical start: 5:30 AM."
+    },
+    {
+      "@type": "Event",
+      "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025#evening",
+      "name": "Assi Ghat Evening Aarti",
+      "startDate": "2025-11-05T18:00:00+05:30",
+      "location": {
+        "@type": "Place",
+        "name": "Assi Ghat, Varanasi"
+      },
+      "description": "Evening Ganga aarti at Assi Ghat. Typical start: 6:00 PM."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025#place",
+      "name": "Assi Ghat",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "opens": "05:30",
+          "closes": "06:15",
+          "dayOfWeek": [
+            "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+          ]
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "opens": "18:00",
+          "closes": "18:45",
+          "dayOfWeek": [
+            "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+          ]
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+---
+
+# Assi Ghat Aarti Timings — Today & 2025 Schedule
+
+**Next Aarti: Evening 6:00 PM (November 4, 2025) | Morning: 5:30 AM (November 5, 2025)**
+
+Updated: Nov 2025
 
 Quick Answer
-- Today (Morning): 4:45–5:45 AM (seasonal)
-- Today (Evening): 6:00–7:30 PM (seasonal)
+- Today (Morning): 5:30 AM (Winter timing)
+- Today (Evening): 6:00 PM (Winter timing)
 - Duration: 40–45 min
 - Best spot: 2nd–3rd steps near center; arrive 30–45 min early
 - Daily? Yes (moved under cover in heavy rain)

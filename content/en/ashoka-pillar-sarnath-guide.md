@@ -43,9 +43,9 @@ faqSchema:
     answer: "The Lion Capital from Ashoka Pillar Sarnath was adopted as India's National Emblem in 1950 because it represents India's ancient Buddhist heritage, secular values, and artistic excellence. The four lions symbolize power, courage, and Buddha's teaching spreading in four directions. The Ashoka Chakra wheel on the capital's base became the central motif on India's national flag."
 ---
 
-# Ashoka Pillar Sarnath: Original Ashok Stambh, Lion Capital & Buddhist Edicts Guide 2025
+# Ashoka Pillar Sarnath Guide: Complete History of India's National Emblem Origin
 
-> **TL;DR:** The original Ashoka Pillar Sarnath (Ashok Stambh) stands at its authentic 250 BCE location in Sarnath archaeological site, 10 km from Varanasi. Though broken during 12th-century invasions, the inscribed Sarnath pillar shaft remains in situ with Ashoka's Buddhist edicts. The famous Lion Capital from this Sarnath pillar—now India's National Emblem—is displayed in Sarnath Museum. Visit timing: Site 6 AM-6 PM daily (pillar), Museum 9 AM-5 PM (Lion Capital, closed Fridays). Entry: ₹5-300. Photography allowed outdoors.
+> **TL;DR - Where is the original Ashoka Pillar at Sarnath?** The original Ashoka pillar was originally ~50 ft tall; the surviving sandstone shaft (now ~7.5 ft) still stands in situ at the Sarnath archaeological site, ≈50 m from Dhamek Stupa. The Lion Capital (four lions, India's national emblem) is preserved in the Sarnath Museum. Emperor Ashoka erected this sandstone pillar in 250 BCE. The Dharma Chakra (24-spoke wheel) from this pillar appears on India's flag. "Satyameva Jayate" inscription is India's national motto. Visit: 6 AM-6 PM daily. Entry: ₹5-300 combo ticket. From Varanasi: 10 km, 30 min drive. Best time: October-March, 6-8 AM for peaceful viewing.
 
 The **Ashoka Pillar Sarnath** (also known as **Ashok Stambh Sarnath** or the **original Sarnath pillar**) is one of India's most historically significant monuments. Erected by the great Mauryan Emperor Ashoka around **250 BCE**, this magnificent **Sarnath pillar** originally stood over 15 meters tall, crowned with the world-famous **Lion Capital**—a masterpiece of ancient Indian sculpture that has become India's National Emblem.
 
