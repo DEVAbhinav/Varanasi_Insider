@@ -44,9 +44,9 @@ faqSchema:
     answer: "Yes, Sarnath has international Sarnath Buddhist temples from 7+ countries: Thai Temple (golden Thai architecture), Tibetan Temple (prayer wheels, Gelug tradition), Sri Lankan Temple (Sinhalese style), Japanese Temple (Zen minimalist), Chinese Temple (Chan Buddhist), Burmese Temple (Myanmar traditions), Korean Temple. Each Sarnath temple reflects its country's unique Buddhist architectural and artistic traditions."
 ---
 
-# Sarnath Buddhist Temple Guide 2025: All Temples, Timings & Prayer Schedules
+# Sarnath Buddhist Temple Guide: Complete Temple Timing, Architecture & Prayer Schedule
 
-> **TL;DR:** Sarnath has 7+ international Sarnath Buddhist temples near Varanasi. Main Sarnath temple is Mulagandha Kuti Vihar (built 1931) with Japanese frescoes, sacred Bodhi tree, golden Buddha statue. Temple timing: 4:30-11:00 AM, 1:30-5:30 PM; evening prayers 4:00-5:00 PM. Other Sarnath temples: Thai (golden architecture), Tibetan (prayer wheels), Sri Lankan, Japanese, Chinese. All temples free entry, modest dress required. Distance: 10 km from Varanasi, 30 min drive. Best visit: October-March, attend evening prayer ceremony for authentic experience.
+> **TL;DR - Which is the main Sarnath Buddhist temple and timing?** Mulagandha Kuti Vihar is the main Sarnath temple, built on Buddha's meditation spot. Timing: 4:30-11:00 AM, 1:30-5:30 PM daily; evening prayers 4:00-5:00 PM (must attend). Features: Japanese frescoes depicting Buddha's life, sacred Bodhi tree, golden Buddha statue. Other temples: Thai Temple (8 AM-6 PM, golden architecture), Tibetan Temple (6 AM-6 PM, prayer wheels, morning chanting 6-7 AM), Sri Lankan Temple (white stupa). All temples free entry. Sarnath has 10+ international Buddhist temples representing different countries. From Varanasi: 10 km, 30 min. Best visit: October-March, attend evening prayers for spiritual experience.
 
 Sarnath, the sacred site where Buddha delivered his first sermon 2,500 years ago, has become a living museum of global Buddhism. International Buddhist communities have built beautiful **Sarnath Buddhist temples** representing their unique traditions—from Thailand's golden spires to Tibet's prayer wheels, from Sri Lanka's white stupas to Japan's Zen simplicity.
 

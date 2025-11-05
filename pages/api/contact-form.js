@@ -4,6 +4,34 @@
 
 import { Resend } from 'resend';
 
+const normalizePhoneNumber = (rawPhone) => {
+  if (!rawPhone) {
+    return null;
+  }
+
+  let digits = rawPhone.replace(/\D/g, '') || '';
+
+  if (!digits) {
+    return null;
+  }
+
+  digits = digits.replace(/^0+/, '');
+
+  if (!digits) {
+    return null;
+  }
+
+  if (digits.startsWith('91') && digits.length >= 12) {
+    return digits.slice(0, 12);
+  }
+
+  if (digits.length === 10) {
+    return `91${digits}`;
+  }
+
+  return digits;
+};
+
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 export default async function handler(req, res) {
@@ -35,8 +63,13 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: 'Invalid phone number' });
   }
 
+  const normalizedPhone = normalizePhoneNumber(phone);
+  const sanitizedDial = phone ? phone.replace(/[^0-9+]/g, '') : null;
+  const whatsappHref = normalizedPhone ? `https://wa.me/${normalizedPhone}` : null;
+  const telHref = normalizedPhone ? `tel:+${normalizedPhone}` : sanitizedDial ? `tel:${sanitizedDial}` : null;
+
   // Log the inquiry (you can add database logging here)
-  console.log('� New booking inquiry:', {
+  console.log('🚕 New booking inquiry:', {
     name,
     phone,
     email,
@@ -68,7 +101,7 @@ export default async function handler(req, res) {
           <div style="background-color: #fff5f9; padding: 15px; border-left: 4px solid #FF1493; margin-bottom: 20px;">
             <h3 style="color: #333; margin-top: 0;">Customer Details</h3>
             <p style="margin: 5px 0;"><strong>Name:</strong> ${name}</p>
-            <p style="margin: 5px 0;"><strong>Phone:</strong> <a href="tel:${phone}" style="color: #FF1493; text-decoration: none;">${phone}</a></p>
+            <p style="margin: 5px 0;"><strong>Phone:</strong> <a href="${telHref}" style="color: #FF1493; text-decoration: none;">${phone}</a>${whatsappHref ? ` &middot; <a href="${whatsappHref}" style="color: #FF1493; text-decoration: none;">WhatsApp</a>` : ''}</p>
             ${email ? `<p style="margin: 5px 0;"><strong>Email:</strong> <a href="mailto:${email}" style="color: #FF1493; text-decoration: none;">${email}</a></p>` : ''}
           </div>
           
@@ -96,12 +129,12 @@ export default async function handler(req, res) {
             <p style="margin: 5px 0;"><strong>Inquiry Time:</strong> ${new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })}</p>
           </div>
           
+          ${(whatsappHref || telHref) ? `
           <div style="text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee;">
-            <a href="${whatsappLink}" 
-               style="display: inline-block; background-color: #25D366; color: white; padding: 12px 30px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-              💬 Contact Customer on WhatsApp
-            </a>
+            ${whatsappHref ? `<a href="${whatsappHref}" style="display: inline-block; background-color: #25D366; color: white; padding: 12px 30px; text-decoration: none; border-radius: 5px; font-weight: bold;">WhatsApp Customer</a>` : ''}
+            ${telHref ? `<a href="${telHref}" style="display: inline-block; background-color: #FF1493; color: white; padding: 12px 30px; text-decoration: none; border-radius: 5px; font-weight: bold;${whatsappHref ? ' margin-left: 10px;' : ''}">Call Now</a>` : ''}
           </div>
+          ` : ''}
           
           <p style="text-align: center; color: #666; font-size: 12px; margin-top: 20px;">
             This is an automated notification from Varanasi Taxi booking system.

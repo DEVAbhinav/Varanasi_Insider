@@ -44,7 +44,7 @@ faqSchema:
 
 # Sarnath Attractions Guide: 15 Must-Visit Places with Complete Details
 
-> **TL;DR:** Sarnath has 15+ major attractions including Dhamek Stupa (128 ft main monument), Ashoka Pillar (original 250 BCE pillar), Archaeological Museum (Lion Capital, Buddha statues), Mulagandha Kuti Vihar (main Buddhist temple), Deer Park (Buddha's teaching site), 10+ international Buddhist temples, monastery ruins, and Chaukhandi Stupa. All within 1-2 km walking distance. Complete visit: 3-4 hours. Entry: ₹5-300 (combo ticket saves money). Best season: October-March. Distance from Varanasi: 10 km (30 min).
+> **TL;DR - What are the main Sarnath attractions and places to visit?** Top 5 must-see Sarnath attractions: 1) **Dhamek Stupa** (128 ft Buddhist monument, Buddha's first sermon location), 2) **Archaeological Museum** (Lion Capital—India's national emblem), 3) **Mulagandha Kuti Vihar** (main Buddhist temple, evening prayers 4-5 PM), 4) **Ashoka Pillar** (original 250 BCE pillar location), 5) **Deer Park** (Buddha's teaching spot). Additional places: 10+ international Buddhist temples (Thai, Tibetan, Sri Lankan), monastery ruins, Chaukhandi Stupa. All within 1-2 km walking distance. Complete visit: 3-4 hours. Entry: ₹5-300 combo ticket (saves money). Timing: 6 AM-6 PM (museum closed Fridays). From Varanasi: 10 km, 30 min. Best season: October-March.
 
 Discovering all **Sarnath attractions** requires more than just visiting the famous Dhamek Stupa—this sacred Buddhist site holds 15+ significant **places to visit in Sarnath**, each telling a unique story of Buddha's first teachings, Emperor Ashoka's Buddhist empire, and international Buddhist devotion spanning centuries.
 

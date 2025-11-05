@@ -2,6 +2,34 @@ const { Resend } = require('resend');
 const fs = require('fs').promises;
 const path = require('path');
 
+const normalizePhoneNumber = (rawPhone) => {
+  if (!rawPhone) {
+    return null;
+  }
+
+  let digits = rawPhone.replace(/\D/g, '') || '';
+
+  if (!digits) {
+    return null;
+  }
+
+  digits = digits.replace(/^0+/, '');
+
+  if (!digits) {
+    return null;
+  }
+
+  if (digits.startsWith('91') && digits.length >= 12) {
+    return digits.slice(0, 12);
+  }
+
+  if (digits.length === 10) {
+    return `91${digits}`;
+  }
+
+  return digits;
+};
+
 module.exports = async function (context, req) {
   // Handle CORS preflight
   if (req.method === 'OPTIONS') {
@@ -32,7 +60,7 @@ module.exports = async function (context, req) {
 
   try {
     // Parse request body
-  const { name, phone, email, passengers, tripType, pickupDate, message, source, parentPageTitle, parentPageUrl } = req.body;
+    const { name, phone, email, passengers, tripType, pickupDate, message, source, parentPageTitle, parentPageUrl } = req.body;
 
     // Validate required fields
     if (!name || !phone) {
@@ -46,6 +74,10 @@ module.exports = async function (context, req) {
       };
       return;
     }
+
+    const normalizedPhone = normalizePhoneNumber(phone);
+    const whatsappHref = normalizedPhone ? `https://wa.me/${normalizedPhone}` : null;
+    const telHref = normalizedPhone ? `tel:+${normalizedPhone}` : null;
 
     // Initialize Resend
     const resend = new Resend(process.env.RESEND_API_KEY);
@@ -80,7 +112,10 @@ module.exports = async function (context, req) {
             </div>
             <div class="field">
               <span class="label">Phone:</span>
-              <span class="value">${phone}</span>
+              <span class="value">
+                ${phone}
+                ${whatsappHref ? ` &middot; <a href="${whatsappHref}" style="color: #FF1493; text-decoration: none;">WhatsApp</a>` : ''}
+              </span>
             </div>
             ${email ? `
             <div class="field">
@@ -129,10 +164,12 @@ module.exports = async function (context, req) {
               <span class="label">Submitted:</span>
               <span class="value">${new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })}</span>
             </div>
+            ${whatsappHref || telHref ? `
             <div style="margin-top: 20px; text-align: center;">
-              <a href="https://wa.me/91${phone.replace(/\D/g, '')}" class="cta">WhatsApp Customer</a>
-              <a href="tel:+91${phone.replace(/\D/g, '')}" class="cta">Call Now</a>
+              ${whatsappHref ? `<a href="${whatsappHref}" class="cta">WhatsApp Customer</a>` : ''}
+              ${telHref ? `<a href="${telHref}" class="cta">Call Now</a>` : ''}
             </div>
+            ` : ''}
           </div>
           <div class="footer">
             <p>Kashi Taxi - Varanasi Insider<br>
