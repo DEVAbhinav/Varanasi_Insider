@@ -37,7 +37,7 @@ function safeReadFrontmatter(absPath) {
 function collectContentUrls() {
   const urls = [];
   if (!fs.existsSync(CONTENT_PATH)) return urls;
-  const langs = fs.readdirSync(CONTENT_PATH).filter(l => !l.startsWith('.'));
+  const langs = fs.readdirSync(CONTENT_PATH).filter(l => !l.startsWith('.') && !['destinations'].includes(l));
   const sectionFolders = ['packages','bus','services','landing','guides'];
   for (const lang of langs) {
     const langRoot = path.join(CONTENT_PATH, lang);
@@ -62,6 +62,31 @@ function collectContentUrls() {
       });
     });
   }
+  
+  // Destination pages (content/[lang]/destinations/[destination]/[category]/[slug].md)
+  const destLangs = ['en', 'hi'];
+  destLangs.forEach(lang => {
+    const destRoot = path.join(CONTENT_PATH, lang, 'destinations');
+    if (fs.existsSync(destRoot)) {
+      const destinations = fs.readdirSync(destRoot).filter(d => !d.startsWith('.') && fs.statSync(path.join(destRoot, d)).isDirectory());
+      destinations.forEach(destination => {
+        const destDir = path.join(destRoot, destination);
+        const categories = fs.readdirSync(destDir).filter(c => !c.startsWith('.') && fs.statSync(path.join(destDir, c)).isDirectory());
+        categories.forEach(category => {
+          const categoryDir = path.join(destDir, category);
+          const files = fs.readdirSync(categoryDir).filter(f => f.endsWith('.md'));
+          files.forEach(file => {
+            const abs = path.join(categoryDir, file);
+            const fm = safeReadFrontmatter(abs);
+            const slug = fm.slug || file.replace(/\.md$/, '');
+            // Map to /lang/destination/category/slug (e.g., /en/varanasi/tour-packages/same-day-tour)
+            urls.push({ loc: `${BASE_URL}/${lang}/${destination}/${category}/${slug}`, priority: '0.8', changefreq: 'weekly' });
+          });
+        });
+      });
+    }
+  });
+  
   return urls;
 }
 
