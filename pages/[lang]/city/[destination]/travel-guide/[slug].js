@@ -1,14 +1,15 @@
 import DestinationContentPage from '@/components/DestinationPage/DestinationContentPage';
-import { DESTINATION_CATEGORIES, getDestinationEntry, getDestinationPaths } from '@/lib/destinationContent';
-import { getAllPostsMeta } from '@/lib/posts';
 
-const CATEGORY = DESTINATION_CATEGORIES.TRAVEL_GUIDE;
+const CATEGORY = 'travel-guide';
 
 export default function TravelGuidePage({ entry, allPosts }) {
   return <DestinationContentPage entry={entry} category={CATEGORY} allPosts={allPosts} />;
 }
 
 export async function getStaticProps({ params }) {
+  const { getDestinationEntry } = await import('@/lib/destinationContent');
+  const { getAllPostsMeta } = await import('@/lib/posts');
+  
   const entry = await getDestinationEntry(params.lang, CATEGORY, params.destination, params.slug);
   const allPosts = getAllPostsMeta();
 
@@ -21,6 +22,7 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
+  const { getDestinationPaths } = await import('@/lib/destinationContent');
   const langs = ['en', 'hi'];
   const allPaths = [];
   

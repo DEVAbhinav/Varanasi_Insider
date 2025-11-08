@@ -79,8 +79,8 @@ function collectContentUrls() {
             const abs = path.join(categoryDir, file);
             const fm = safeReadFrontmatter(abs);
             const slug = fm.slug || file.replace(/\.md$/, '');
-            // Map to /lang/destination/category/slug (e.g., /en/varanasi/tour-packages/same-day-tour)
-            urls.push({ loc: `${BASE_URL}/${lang}/${destination}/${category}/${slug}`, priority: '0.8', changefreq: 'weekly' });
+            // Map to /lang/city/destination/category/slug (e.g., /en/city/varanasi/tour-packages/same-day-tour)
+            urls.push({ loc: `${BASE_URL}/${lang}/city/${destination}/${category}/${slug}`, priority: '0.8', changefreq: 'weekly' });
           });
         });
       });
