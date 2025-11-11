@@ -4,7 +4,7 @@ slug: "ganga-mahotsav-2025-classical-festival-varanasi"
 date: "2025-09-30"
 lastModified: "2025-09-30"
 excerpt: "Discover Ganga Mahotsav 2025 in Varanasi - India's premier classical music and dance festival. Complete guide to performances, artists, venues, and booking information for November 6-8, 2025."
-author: "Varanasi Insider Cultural Team"
+author: "Travel Agent Varanasi Cultural Team"
 tags: ["Ganga Mahotsav", "Classical Music", "Classical Dance", "Varanasi Festivals", "Cultural Festival", "Assi Ghat", "Indian Classical Arts"]
 keywords: ["Ganga Mahotsav 2025", "Varanasi music festival November", "classical dance Varanasi", "Assi Ghat performances", "Indian classical music festival", "Ganga Mahotsav tickets", "classical festival after Dev Deepawali", "Varanasi cultural festival November"]
 category: "Cultural Festivals"

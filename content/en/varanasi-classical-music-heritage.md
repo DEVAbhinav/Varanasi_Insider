@@ -3,7 +3,7 @@ title: "Varanasi Classical Music Heritage: Gharanas, Legends & Living Traditions
 slug: "varanasi-classical-music-heritage"
 date: "2025-10-07"
 lastUpdated: "2025-10-07"
-author: "Varanasi Insider Cultural Team"
+author: "Travel Agent Varanasi Cultural Team"
 lang: en
 featuredImage: "/images/posts/varanasi-music-heritage.jpeg"
 description: "Explore Varanasi's classical music heritage: Benaras gharana, thumri tradition, shehnai legacy of Bismillah Khan, instrument lanes & modern revival."

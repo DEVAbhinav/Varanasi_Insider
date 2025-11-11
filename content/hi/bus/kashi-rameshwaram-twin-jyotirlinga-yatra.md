@@ -4,7 +4,7 @@ slug: "kashi-rameshwaram-twin-jyotirlinga-yatra"
 date: "2025-10-25"
 lastModified: "2025-10-25"
 excerpt: "काशी विश्वनाथ + रामेश्वरम (रामनाथस्वामी) जुड़वा ज्योतिर्लिंग दर्शन – तीव्र / मानक / गहन संस्करण, उड़ान + कोच कनेक्टर, दर्शन रणनीति, वरिष्ठ यात्रियों हेतु सहायता।"
-author: "Varanasi Insider तीर्थ टीम"
+author: "Travel Agent Varanasi तीर्थ टीम"
 category: "Pilgrimage"
 readingTime: "11 मिनट"
 featured: false

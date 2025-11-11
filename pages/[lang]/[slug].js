@@ -12,8 +12,16 @@ import RelatedPostsGrid from '../../components/RelatedPosts/RelatedPostsGrid';
 import CTASection from '../../components/CTA/CTASection';
 import StickyContactBar from '../../components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '../../components/BookingWidget/SidebarBookingWidget';
+import ItineraryTimeline from '../../components/DestinationPage/ItineraryTimeline';
 
 export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug }) {
+  const contentHtmlBefore = postData?.contentHtmlBefore ?? postData?.contentHtml ?? '';
+  const contentHtmlAfter = postData?.contentHtmlAfter ?? null;
+  const itinerary = postData?.itinerary || null;
+  const itinerarySections = Array.isArray(postData?.itinerarySections) ? postData.itinerarySections : [];
+  const itineraryDays = Array.isArray(itinerary?.days) ? itinerary.days : [];
+  const hasSegmentHtml = itinerarySections.length === itineraryDays.length && itinerarySections.length > 0;
+
   return (
     <>
       {/* Centralized SEO Head */}
@@ -34,7 +42,38 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
             {/* Main article content - takes 8 columns on desktop */}
             <div className="lg:col-span-8">
-              <ArticleSection contentHtml={postData.contentHtml} />
+              {contentHtmlBefore?.trim() && (
+                <ArticleSection contentHtml={contentHtmlBefore} />
+              )}
+
+              {itineraryDays.length > 0 && (
+                hasSegmentHtml ? (
+                  itineraryDays.map((day, index) => {
+                    const sectionHtml = itinerarySections[index]?.html;
+                    return (
+                      <div key={`${day?.label || index}-section`} className={index === 0 ? 'mt-8 space-y-6' : 'mt-10 space-y-6'}>
+                        {sectionHtml?.trim() && (
+                          <ArticleSection contentHtml={sectionHtml} />
+                        )}
+                        <ItineraryTimeline
+                          itinerary={itinerary}
+                          days={[day]}
+                          hideHeader={index !== 0}
+                          className="mt-2"
+                        />
+                      </div>
+                    );
+                  })
+                ) : (
+                  <div className="mt-8">
+                    <ItineraryTimeline itinerary={itinerary} />
+                  </div>
+                )
+              )}
+
+              {contentHtmlAfter?.trim() && (
+                <ArticleSection contentHtml={contentHtmlAfter} />
+              )}
             </div>
             
             {/* Sidebar booking widget - takes 4 columns on desktop, hidden on mobile initially */}

@@ -1,6 +1,6 @@
 # Dynamic Google Business Reviews Setup
 
-This implementation provides dynamic Google Business reviews for the Varanasi Insider website using the Google Places API.
+This implementation provides dynamic Google Business reviews for the Travel Agent Varanasi website using the Google Places API.
 
 ## Features
 

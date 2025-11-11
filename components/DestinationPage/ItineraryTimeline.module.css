@@ -1,0 +1,79 @@
+.timeline {
+  position: relative;
+}
+
+.event {
+  width: 100%;
+  position: relative;
+}
+
+.eventLeft,
+.eventRight {
+  position: relative;
+}
+
+@media (min-width: 1024px) {
+  .timeline::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 2px;
+    transform: translateX(-50%);
+    background: linear-gradient(180deg, rgba(125, 211, 252, 0) 0%, rgba(125, 211, 252, 0.75) 22%, rgba(125, 211, 252, 0.75) 78%, rgba(125, 211, 252, 0) 100%);
+  }
+
+  .event {
+    width: 50%;
+  }
+
+  .event::before,
+  .event::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .event::before {
+    width: 38px;
+    height: 2px;
+    background: linear-gradient(90deg, rgba(125, 211, 252, 0.7), rgba(14, 165, 233, 0.45));
+  }
+
+  .event::after {
+    width: 14px;
+    height: 14px;
+    border-radius: 999px;
+    background: var(--itinerary-accent, #0ea5e9);
+    border: 4px solid #ffffff;
+    box-shadow: 0 4px 16px rgba(14, 165, 233, 0.22);
+  }
+
+  .eventLeft {
+    margin-right: auto;
+    padding-right: 2.75rem;
+  }
+
+  .eventLeft::before {
+    right: -38px;
+  }
+
+  .eventLeft::after {
+    right: -45px;
+  }
+
+  .eventRight {
+    margin-left: auto;
+    padding-left: 2.75rem;
+  }
+
+  .eventRight::before {
+    left: -38px;
+  }
+
+  .eventRight::after {
+    left: -45px;
+  }
+}

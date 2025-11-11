@@ -103,7 +103,7 @@ Stretching the itinerary over 72 hours gives breathing room to absorb Kashi’s 
 
 ---
 
-[^overview]: Varanasi Insider three-day package blueprint, 2025.
+[^overview]: Travel Agent Varanasi three-day package blueprint, 2025.
 [^audience]: Customer persona mapping from CRM (Q3 2025).
 [^stay]: Accommodation master list curated Oct 2025.
 [^arrival]: Ground operations SOP, 2024 revision.

@@ -4,7 +4,7 @@ slug: "maha-shivaratri-2026-varanasi-guide"
 date: "2025-09-30"
 lastModified: "2025-09-30"
 excerpt: "Plan Maha Shivaratri 2026 (Feb 15) in Varanasi with the Shiv Baraat playbook: temple queues, darshan slots, akhada timings, and all-night crowd flow intel."
-author: "Varanasi Insider Spiritual Team"
+author: "Travel Agent Varanasi Spiritual Team"
 tags: ["Maha Shivaratri", "Kashi Vishwanath", "Shiv Baraat", "Varanasi Festivals", "Lord Shiva", "Spiritual Tourism", "February 2026"]
 keywords:
   - "maha shivaratri 2026 varanasi"

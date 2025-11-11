@@ -4,7 +4,7 @@ slug: "dev-deepawali-crowd-survival-guide-varanasi"
 date: "2025-09-30"
 lastModified: "2025-09-30"
 excerpt: "Use 9 field-tested tactics to beat the 500k+ Dev Deepawali rush—crowd flow maps, exit drills, WhatsApp alerts, and emergency response playbook for 5 Nov 2025."
-author: "Varanasi Insider Safety Team"
+author: "Travel Agent Varanasi Safety Team"
 tags: ["Dev Deepawali Safety", "Crowd Management", "Festival Safety", "Varanasi Safety", "Tourist Safety", "Emergency Planning"]
 keywords:
   - "dev deepawali crowd 2025"

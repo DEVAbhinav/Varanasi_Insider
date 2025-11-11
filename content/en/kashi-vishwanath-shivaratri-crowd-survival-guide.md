@@ -4,7 +4,7 @@ slug: "kashi-vishwanath-shivaratri-crowd-survival-guide"
 date: "2025-09-30"
 lastModified: "2025-09-30"
 excerpt: "Navigate Kashi Vishwanath Temple's overwhelming Maha Shivaratri crowds safely. Expert strategies for darshan, crowd survival, and alternatives for February 15, 2026."
-author: "Varanasi Insider Temple Guide Team"
+author: "Travel Agent Varanasi Temple Guide Team"
 tags: ["Kashi Vishwanath", "Maha Shivaratri", "Temple Crowds", "Darshan Strategy", "Safety Guide", "Temple Navigation", "Spiritual Tourism"]
 keywords: ["Kashi Vishwanath queue time Shivaratri", "how to avoid crowds Kashi temple", "Shivaratri darshan strategy", "visit day before Shivaratri", "Kashi Vishwanath VIP darshan", "temple crowd management", "safest time visit Kashi Vishwanath"]
 category: "Temple Guides"

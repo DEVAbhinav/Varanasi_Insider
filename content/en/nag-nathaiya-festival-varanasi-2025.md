@@ -4,7 +4,7 @@ slug: "nag-nathaiya-festival-varanasi-2025"
 date: "2025-10-25"
 lastModified: "2025-10-25"
 excerpt: "Nag Nathaiya (Lakkha Mela) 2025 at Tulsi Ghat: Date, timings, Krishna–Kaliya Leela reenactment sequence, best viewing spots (including boat strategy), safety, logistics, stay & travel planning tips."
-author: "Varanasi Insider Festival Desk"
+author: "Travel Agent Varanasi Festival Desk"
 tags: ["Nag Nathaiya", "Lakkha Mela", "Tulsi Ghat", "Krishna Leela", "Varanasi Festivals", "Kartik Month", "Boat Viewing"]
 keywords: ["Nag Nathaiya 2025 Varanasi", "Nag Nathaiya Tulsi Ghat date", "Lakkha Mela Varanasi", "Krishna Kaliya leela Varanasi", "Nag Nathaiya boat viewing", "Tulsi Ghat festival October", "Kartik festival Varanasi", "Nag Nathaiya tips"]
 category: "Cultural Festivals"

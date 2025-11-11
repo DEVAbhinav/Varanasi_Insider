@@ -2,6 +2,7 @@ import Head from 'next/head';
 import NavBar from '@/components/NavBar/NavBar';
 import Footer from '@/components/Footer/Footer';
 import ArticleSection from '@/components/ArticleSection/ArticleSection';
+import ItineraryTimeline from '@/components/DestinationPage/ItineraryTimeline';
 import CTASection from '@/components/CTA/CTASection';
 import StickyContactBar from '@/components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '@/components/BookingWidget/SidebarBookingWidget';
@@ -31,7 +32,7 @@ export default function DestinationContentPage({ entry, category, allPosts }) {
   const pageCategory = category || entry.category;
   const slugPath = `/${entry.destination}/${pageCategory}/${entry.slug}`;
   const canonicalUrl = `${SITE_BASE}${slugPath}`;
-  const title = entry.title || 'Kashi Taxi | Varanasi Insider';
+  const title = entry.title || 'Kashi Taxi | Travel Agent Varanasi';
   const description = entry.description || '';
   const keywords = Array.isArray(entry.keywords)
     ? entry.keywords.join(', ')
@@ -42,6 +43,14 @@ export default function DestinationContentPage({ entry, category, allPosts }) {
   const ogImage = toAbsoluteUrl(entry.featuredImage);
   const phoneNumber = entry.phone || DEFAULT_PHONE;
   const headerEyebrow = entry.eyebrow || CATEGORY_TITLE_MAP[pageCategory] || 'Destination Insight';
+
+  const itinerary = entry.itinerary;
+  const itinerarySections = Array.isArray(entry.itinerarySections) ? entry.itinerarySections : [];
+  const contentHtmlBefore = entry.contentHtmlBefore ?? entry.contentHtml;
+  const contentHtmlAfter = entry.contentHtmlAfter;
+
+  const itineraryDays = Array.isArray(itinerary?.days) ? itinerary.days : [];
+  const hasSegmentHtml = itinerarySections.length === itineraryDays.length && itinerarySections.length > 0;
 
   return (
     <>
@@ -96,7 +105,34 @@ export default function DestinationContentPage({ entry, category, allPosts }) {
         <div className="container mx-auto px-4 py-10">
           <div className="grid grid-cols-1 gap-8 lg:grid-cols-12">
             <article className="lg:col-span-8">
-              <ArticleSection contentHtml={entry.contentHtml} />
+              {contentHtmlBefore && contentHtmlBefore.trim() && (
+                <ArticleSection contentHtml={contentHtmlBefore} />
+              )}
+
+              {hasSegmentHtml ? (
+                itineraryDays.map((day, index) => {
+                  const sectionHtml = itinerarySections[index]?.html;
+                  return (
+                    <div key={`${day?.label || index}-section`} className={index === 0 ? 'mt-8 space-y-6' : 'mt-10 space-y-6'}>
+                      {sectionHtml && sectionHtml.trim() && (
+                        <ArticleSection contentHtml={sectionHtml} />
+                      )}
+                      <ItineraryTimeline
+                        itinerary={itinerary}
+                        days={[day]}
+                        hideHeader={index !== 0}
+                        className={index === 0 ? 'mt-2' : 'mt-2'}
+                      />
+                    </div>
+                  );
+                })
+              ) : (
+                <ItineraryTimeline itinerary={itinerary} />
+              )}
+
+              {contentHtmlAfter && contentHtmlAfter.trim() && (
+                <ArticleSection contentHtml={contentHtmlAfter} />
+              )}
             </article>
             <aside className="lg:col-span-4">
               <div className="hidden lg:block">

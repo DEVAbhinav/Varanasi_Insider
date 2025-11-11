@@ -33,7 +33,7 @@ export default function NavBar() {
     >
       <nav className={styles.navContainer} role="navigation" aria-label="Primary">
         <Link href="/" className={styles.logo} aria-label="Varanasi Taxi & Tempo Traveller homepage">
-          Varanasi Insider
+          Travel Agent Varanasi
         </Link>
 
         {/* Desktop links */}

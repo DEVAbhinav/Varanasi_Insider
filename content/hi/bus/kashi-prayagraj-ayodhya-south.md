@@ -4,7 +4,7 @@ slug: "kashi-prayagraj-ayodhya-south"
 date: "2025-10-25"
 lastModified: "2025-10-25"
 excerpt: "दक्षिण भारत (चेन्नई • बेंगलुरु • हैदराबाद) से काशी–प्रयागराज–अयोध्या 7–9 दिन की संरचित बस तीर्थ यात्रा: दो वैरिएंट, संगम स्नान, राम मंदिर दर्शन रणनीति, मूल्य श्रेणियाँ, ऐड‑ऑन, वरिष्ठ अनुकूल लॉजिस्टिक्स।"
-author: "Varanasi Insider तीर्थ डेस्क"
+author: "Travel Agent Varanasi तीर्थ डेस्क"
 category: "Pilgrimage"
 readingTime: "11 मिनट"
 featured: false

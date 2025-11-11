@@ -108,7 +108,7 @@ An express but immersive 8–10 hour Varanasi circuit designed for travellers wi
 
 ---
 
-[^overview]: Varanasi Insider product research dossier, October 2025.
+[^overview]: Travel Agent Varanasi product research dossier, October 2025.
 [^duration]: Operator SLAs for 8–10 hour packages logged in booking system.
 [^audience]: Kashi Taxi CRM traveller segmentation report (Q3 2025).
 [^start]: Temple queue analytics captured from Sugam darshan logs, 2024–25.

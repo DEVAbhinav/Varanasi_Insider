@@ -4,7 +4,7 @@ slug: "dev-deepawali-photography-guide-2025"
 date: "2025-09-30"
 lastModified: "2025-09-30"
 excerpt: "Complete photography guide for Dev Deepawali 2025. Camera settings, golden hour timing, best angles, and insider spots for capturing stunning lamp-lit images without crowds."
-author: "Varanasi Insider Photography Team"
+author: "Travel Agent Varanasi Photography Team"
 tags: ["Dev Deepawali Photography", "Varanasi Photography", "Festival Photography", "Night Photography", "Camera Settings", "Photography Tips"]
 keywords: ["Dev Deepawali photography tips", "best camera settings Dev Deepawali", "photography spots Varanasi festival", "Dev Deepawali photography guide", "night photography Varanasi", "lamp photography Varanasi", "Ganges photography tips", "Dev Deepawali photo spots", "camera settings festival lighting"]
 category: "Photography Guides"

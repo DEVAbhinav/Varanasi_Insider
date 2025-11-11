@@ -4,7 +4,7 @@ slug: "shiv-baraat-viewing-guide-varanasi"
 date: "2025-09-30"
 lastModified: "2025-09-30"
 excerpt: "Watch Varanasi's spectacular Shiv Baraat procession safely on Maha Shivaratri 2026. Best viewing spots, safety strategies, and insider tips for February 15, 2026."
-author: "Varanasi Insider Safety Team"
+author: "Travel Agent Varanasi Safety Team"
 tags: ["Shiv Baraat", "Maha Shivaratri", "Procession Viewing", "Safety Guide", "Varanasi Festivals", "Cultural Events", "Crowd Safety"]
 keywords: ["Shiv Baraat Varanasi", "wedding procession Shivaratri", "Godowlia Shivaratri", "safe viewing Shiv Baraat", "Shiv Baraat procession route", "best spots watch Shiv Baraat", "Shivaratri procession safety"]
 category: "Event Viewing Guides"

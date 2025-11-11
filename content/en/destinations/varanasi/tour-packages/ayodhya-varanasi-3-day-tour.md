@@ -128,7 +128,7 @@ The base itinerary below follows Option 1.
 
 ---
 
-[^overview]: Varanasi Insider combined circuit blueprint, 2025.
+[^overview]: Travel Agent Varanasi combined circuit blueprint, 2025.
 [^distance]: NH19/NH27 distance logs, Oct 2024.
 [^audience]: CRM pilgrim persona analysis, 2025.
 [^routing]: Historical booking patterns tracked April–Sept 2025.

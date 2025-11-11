@@ -136,7 +136,7 @@ ctaSubtitle: "Hotels, boats, darshan slots and food walk seats confirmed in one 
 [^arrival]: Airport/rail pickup SLAs logged in trip operations manual.
 [^kv]: Shri Kashi Vishwanath Temple board timings, 2025.
 [^kaal]: Kaal Bhairav temple trust advisory, 2024.
-[^oldcity]: Varanasi Insider alley walk script, 2025.
+[^oldcity]: Travel Agent Varanasi alley walk script, 2025.
 [^boat]: Kashi Motor Boat Association tariff sheet, Sept 2025.
 [^aarti]: District crowd advisory for Dashashwamedh ghat, Nov 2024.
 [^sunrise]: Subah-e-Banaras program schedule, 2025.

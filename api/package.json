@@ -1,7 +1,7 @@
 {
   "name": "varanasi-insider-api",
   "version": "1.0.0",
-  "description": "Azure Functions API for Varanasi Insider",
+  "description": "Azure Functions API for Travel Agent Varanasi",
   "main": "index.js",
   "scripts": {
     "start": "func start",

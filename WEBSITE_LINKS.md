@@ -1,4 +1,4 @@
-# Varanasi Insider - Complete Website Links
+# Travel Agent Varanasi - Complete Website Links
 
 **Total Pages:** 189 pages
 **Last Updated:** October 12, 2025

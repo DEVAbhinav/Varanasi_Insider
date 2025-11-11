@@ -4,7 +4,7 @@ slug: "kashi-yatra-south-india-bus-package"
 date: "2025-10-25"
 lastModified: "2025-10-25"
 excerpt: "6–7 day Kashi (Varanasi) Yatra bus pilgrimage from South India – itinerary, darshan timings, pricing tiers, inclusions, elder-friendly logistics, optional Prayagraj/Ayodhya add-ons."
-author: "Varanasi Insider Pilgrimage Desk"
+author: "Travel Agent Varanasi Pilgrimage Desk"
 category: "Pilgrimage"
 readingTime: "9 minutes"
 featured: true

@@ -4,7 +4,7 @@ slug: "shivaratri-cultural-deep-dive-varanasi"
 date: "2025-09-30"
 lastModified: "2025-09-30"
 excerpt: "Explore the deeper cultural traditions of Maha Shivaratri in Varanasi. Understanding bhang consumption, Aghori practices, and authentic spiritual customs beyond the surface celebrations."
-author: "Varanasi Insider Cultural Research Team"
+author: "Travel Agent Varanasi Cultural Research Team"
 tags: ["Maha Shivaratri Culture", "Bhang Tradition", "Aghori Sadhus", "Spiritual Practices", "Hindu Philosophy", "Cultural Anthropology", "Sacred Traditions"]
 keywords: ["bhang Maha Shivaratri Varanasi", "Aghori sadhus Shivaratri", "cannabis tradition Varanasi", "Shivaratri cultural practices", "deep meaning Maha Shivaratri", "spiritual traditions Varanasi", "authentic Hindu practices"]
 category: "Cultural Studies"

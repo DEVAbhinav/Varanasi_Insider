@@ -3,7 +3,7 @@ title: "Varanasi Instrument Market Guide 2025: Where to Buy Tabla, Shehnai, Sita
 slug: "varanasi-instrument-market-guide"
 date: "2025-10-07"
 lastUpdated: "2025-10-07"
-author: "Varanasi Insider Field Team"
+author: "Travel Agent Varanasi Field Team"
 lang: en
 featuredImage: "/images/posts/varanasi-instrument-market.jpeg"
 description: "Authentic guide to Varanasi's instrument markets: tabla shell lanes, shehnai makers, sitar workshops, pricing brackets, quality checks, humidity prep & ethical buying."

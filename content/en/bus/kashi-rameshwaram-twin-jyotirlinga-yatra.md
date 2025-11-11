@@ -4,7 +4,7 @@ slug: "kashi-rameshwaram-twin-jyotirlinga-yatra"
 date: "2025-10-25"
 lastModified: "2025-10-25"
 excerpt: "Plan a Kashi (Varanasi) + Rameshwaram twin-Jyotirlinga pilgrimage: route patterns (fast / budget / split), 6–7 / 9–10 / 12–14 day itinerary variants, flight + bus connectors, darshan timing strategy, pricing scaffolding, elder support." 
-author: "Varanasi Insider Pilgrimage Desk"
+author: "Travel Agent Varanasi Pilgrimage Desk"
 category: "Pilgrimage"
 readingTime: "13 minutes"
 featured: true

@@ -104,7 +104,7 @@ function generateHTMLReport() {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Content Translation Audit - Varanasi Insider</title>
+    <title>Content Translation Audit - Travel Agent Varanasi</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -136,7 +136,7 @@ function generateHTMLReport() {
         <div class="glassmorphism rounded-2xl shadow-2xl p-8 mb-8">
             <div class="text-center">
                 <h1 class="text-5xl font-bold text-gray-900 mb-3">Content Translation Audit</h1>
-                <p class="text-xl text-gray-600 mb-4">Varanasi Insider - English to Hindi Coverage Analysis</p>
+                <p class="text-xl text-gray-600 mb-4">Travel Agent Varanasi - English to Hindi Coverage Analysis</p>
                 <p class="text-sm text-gray-500">Generated on ${new Date().toLocaleString()}</p>
             </div>
         </div>
@@ -348,7 +348,7 @@ function generateHTMLReport() {
         </div>
 
         <footer class="text-center mt-12 text-white">
-            <p class="text-sm opacity-75">Content Translation Audit Tool v1.0 | Varanasi Insider</p>
+            <p class="text-sm opacity-75">Content Translation Audit Tool v1.0 | Travel Agent Varanasi</p>
         </footer>
     </div>
 
@@ -471,7 +471,7 @@ fs.writeFileSync(path.join(__dirname, '../docs/CONTENT-TRANSLATION-AUDIT.json'),
 
 // Console output
 console.log('╔════════════════════════════════════════════════════════════╗');
-console.log('║     CONTENT TRANSLATION AUDIT - VARANASI INSIDER           ║');
+console.log('║     CONTENT TRANSLATION AUDIT - Travel Agent Varanasi           ║');
 console.log('╚════════════════════════════════════════════════════════════╝\n');
 
 console.log('📊 STATISTICS:');
