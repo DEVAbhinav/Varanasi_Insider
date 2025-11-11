@@ -64,7 +64,7 @@ export default function NavBar() {
 
         {/* Mobile hamburger */}
         <button
-          className="inline-flex items-center justify-center md:hidden h-10 w-10 rounded-lg text-gray-700 hover:bg-gray-100 transition-colors"
+          className="inline-flex items-center justify-center md:hidden h-10 w-10 rounded-lg text-gray-600 hover:bg-gray-50 hover:text-gray-900 transition-colors duration-200"
           aria-label="Open menu"
           aria-controls="mobile-menu"
           aria-expanded={open}
@@ -78,7 +78,7 @@ export default function NavBar() {
       {/* Overlay (behind the drawer) */}
       {open && (
         <div
-          className="fixed inset-0 z-40 bg-black/70 md:hidden"
+          className="fixed inset-0 z-40 bg-black/50 backdrop-blur-sm md:hidden"
           onClick={() => setOpen(false)}
           aria-hidden
         />

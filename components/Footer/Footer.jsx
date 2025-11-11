@@ -84,6 +84,9 @@ export default function Footer({ allPosts }) {
       <div className={styles.copyright}>
         © {new Date().getFullYear()} Vinayak Travels. All Rights Reserved.
       </div>
+      <div className={styles.credit}>
+        Made and managed with ♥ by <a href="https://www.vistalabs.in/" target="_blank" rel="noopener noreferrer">Vista Labs</a>
+      </div>
     </footer>
   );
 }

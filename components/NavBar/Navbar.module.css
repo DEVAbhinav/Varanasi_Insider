@@ -1,26 +1,41 @@
-/* NavBar styles using Tailwind via @apply - Aqua/Teal Theme */
+/* NavBar styles using Tailwind via @apply - Modern, Easy on Eyes */
 .navHeader {
-  @apply bg-gradient-to-r from-cyan-50/95 via-white/95 to-teal-50/95 backdrop-blur-md border-b border-cyan-200/60 sticky top-0 z-50 shadow-sm;
+  @apply bg-white/95 backdrop-blur-xl border-b border-gray-200/60 sticky top-0 z-50;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
 }
 .navContainer {
-  @apply container mx-auto px-4 py-3 flex justify-between items-center max-w-5xl;
+  @apply container mx-auto px-6 py-2.5 flex justify-between items-center max-w-6xl;
 }
 .logo {
-  @apply text-xl font-bold bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent hover:from-cyan-700 hover:to-teal-700 transition-all;
+  @apply text-lg font-bold bg-gradient-to-r from-cyan-600 via-teal-600 to-cyan-700 bg-clip-text text-transparent hover:from-cyan-700 hover:via-teal-700 hover:to-cyan-800 transition-all duration-200;
   pointer-events: auto;
+  letter-spacing: -0.02em;
 }
 .navLinks {
-  @apply hidden md:flex items-center space-x-5;
+  @apply hidden md:flex items-center gap-6;
 }
 .navLink {
-  @apply text-gray-700 hover:text-cyan-600 transition-colors text-sm font-medium cursor-pointer;
+  @apply text-gray-700 hover:text-cyan-600 transition-all duration-200 text-sm font-medium cursor-pointer relative;
   pointer-events: auto;
 }
+.navLink::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(to right, #06b6d4, #14b8a6);
+  transition: width 0.2s ease;
+}
+.navLink:hover::after {
+  width: 100%;
+}
 .navButtonWhatsApp {
-  @apply bg-green-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-green-700 transition-all shadow-md hover:shadow-lg text-sm;
+  @apply bg-gradient-to-r from-green-500 to-emerald-600 text-white font-semibold py-2 px-4 rounded-lg hover:from-green-600 hover:to-emerald-700 transition-all duration-200 text-sm shadow-sm hover:shadow-md;
 }
 .navButtonCall {
-  @apply bg-gradient-to-r from-cyan-500 to-teal-500 text-white font-semibold py-2 px-4 rounded-lg hover:from-cyan-600 hover:to-teal-600 transition-all shadow-md hover:shadow-lg text-sm;
+  @apply bg-gradient-to-r from-cyan-500 to-teal-500 text-white font-semibold py-2 px-4 rounded-lg hover:from-cyan-600 hover:to-teal-600 transition-all duration-200 shadow-sm hover:shadow-md text-sm;
 }
 .hideOnMobile { @apply hidden md:inline-flex; }
 

@@ -20,6 +20,14 @@
   @apply text-center text-gray-500 mt-12 pt-8 border-t border-gray-700 text-sm;
 }
 
+.credit {
+  @apply text-center text-gray-600 mt-2 text-xs;
+}
+
+.credit a {
+  @apply text-gray-500 hover:text-yellow-400 transition-colors;
+}
+
 /* All Posts section styling */
 .allPostsSection {
   @apply md:col-span-1;
