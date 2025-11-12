@@ -1,0 +1,190 @@
+---
+title: "Varanasi Airport to Kashi Vishwanath Temple: Distance, Time, Taxi Fare (2025)"
+slug: "varanasi-airport-to-kashi-vishwanath-distance"
+date: "2025-11-12"
+lastUpdated: "2025-11-12"
+author: "Kamal Nayan Singh"
+lang: en
+metaTitle: "Varanasi Airport to Kashi Vishwanath Temple: Distance, Time, Taxi Fare (2025)"
+metaDescription: "Plan your ride from Varanasi Airport to Kashi Vishwanath Temple: 25–26 km distance, 40–55 minute drive, fixed taxi fares, best route, and darshan tips for 2025."
+description: "Travel from Varanasi Airport (VNS) to Kashi Vishwanath Temple with confidence: definitive distance, travel time, taxi fares, and corridor entry guidance for 2025."
+keywords:
+  - "varanasi airport to kashi vishwanath distance"
+  - "vns to kashi vishwanath taxi time"
+  - "kashi vishwanath airport cab fare"
+  - "best route varanasi airport to kashi vishwanath"
+tags:
+  - taxi
+  - varanasi airport
+  - kashi vishwanath
+template: destination
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - kashi-vishwanath-shivaratri-crowd-survival-guide
+faqSchema:
+  - question: "How far is Kashi Vishwanath Temple from Varanasi Airport?"
+    answer: "The distance from Varanasi Airport (VNS) to Kashi Vishwanath Temple is 25–26 km via Ring Road and Lahartara-Godowlia corridor, with a typical drive time of 40–55 minutes in normal traffic."
+  - question: "How long does a taxi take from Varanasi Airport to Kashi Vishwanath?"
+    answer: "Expect a 40–55 minute ride; add a 15-minute buffer in the evening when the Ganga corridor security tightens before Ganga Aarti."
+  - question: "What is the taxi fare from Varanasi Airport to Kashi Vishwanath Temple?"
+    answer: "Pre-booked sedans cost ₹800–900, mid SUVs ₹1,100–1,300, and tempo Travellers ₹2,100 with driver allowance included."
+  - question: "Is Ola or Uber reliable for the Kashi Vishwanath airport drop?"
+    answer: "Ola and Uber run from the airport but surge pricing is common at dawn and after 8 PM; a reserved taxi guarantees corridor access and flat fares."
+  - question: "Can taxis drop close to Kashi Vishwanath Corridor at night?"
+    answer: "Yes, pre-booked taxis can enter the Godowlia control point until 10 PM; later arrivals must coordinate a 200 m assisted walk to the corridor gate."
+---
+# Varanasi Airport to Kashi Vishwanath Temple: Distance, Time, Taxi Fare (2025)
+
+**The distance from Varanasi Airport (VNS) to Kashi Vishwanath Temple is 25–26 km via Ring Road and Lahartara–Godowlia, and the drive typically takes 40–55 minutes outside peak checkpoints.**
+
+| Key fact | Detail |
+| --- | --- |
+| Distance | 25–26 km |
+| Time | 40–55 minutes |
+| Best route | Ring Road → Lahartara → Godowlia → Corridor gate |
+| Typical fare | Sedan ₹800–900 · SUV ₹1,100–1,300 |
+
+## Book your Varanasi Airport to Kashi Vishwanath transfer
+- Call dispatch: **[9450301573](tel:9450301573)**
+- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Kashi%20Vishwanath)**
+
+> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, corridor-ready).
+
+## Best Varanasi Airport to Kashi Vishwanath Temple route
+Take the airport exit toward Ring Road, merge onto the Harhua flyover, and continue straight to Lahartara. From Lahartara, follow the Godowlia corridor approach; security marshals allow pre-booked taxis to the barricade behind the Kashi Vishwanath Corridor entrance. If Lahartara is closed during VIP movement, detour via Nadesar and Sigra to rejoin at Godowlia. Evenings before Ganga Aarti can add 10–12 minutes, so plan buffers accordingly.
+
+## Varanasi Airport to Kashi Vishwanath Temple taxi fare
+- Economy sedan (Dzire/Amaze): **₹800–900** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Mid SUV (Ertiga/Innova): **₹1,100–1,300** including luggage handling and corridor access permit.
+- Tempo Traveller (12-seater): **₹2,100** with driver allowance covered; ideal for family yatras.
+- Night buffer: add **₹150** for rides after 9 PM, waived on prepaid slips.
+
+*Flash fare excludes Dev Deepawali, Maha Shivaratri, and other peak festival blocks and applies to direct Kashi Vishwanath corridor drops within city limits.
+
+For multi-stop temple circuits, see the [airport taxi fares 2025](/en/varanasi-airport-taxi-price-guide) matrix.
+
+## Pickup at VNS and drop at Kashi Vishwanath Temple
+Meet your driver inside the arrivals hall at **Gate 3, opposite Costa Coffee**, where the control desk issues visitor passes. At the temple side, vehicles halt at the Godowlia barricade; porters or e-rickshaws cover the final 200 metres to the corridor gate. Inform dispatch if you need wheelchair assistance so a guard can clear the inner lane before you arrive.
+
+## Varanasi Airport to Kashi Vishwanath Temple map and landmarks
+Expect to pass **Harhua flyover**, **BHU Trauma Centre crossing**, and **Godowlia Chowk**—use them to gauge progress. During daytime, you can request a brief stop at the **Annapurna Mandir lane** entrance for prasad pickup before entering the corridor. No map embed here keeps the above-the-fold answer fast for snippet eligibility.
+
+## Varanasi Airport to Kashi Vishwanath Temple FAQs
+
+### How far is Kashi Vishwanath Temple from Varanasi Airport?
+It is 25–26 km via Ring Road and Lahartara–Godowlia, averaging 40–55 minutes barring security lockdowns.
+
+### How long does a taxi take from VNS to Kashi Vishwanath Corridor?
+Sedans cover the run in 40–55 minutes; plan 15 extra minutes within two hours of the evening Ganga Aarti when checkpoints slow entry.
+
+### Is Ola or Uber reliable for this drop?
+App cabs operate but frequently surge at dawn and post-8 PM; drivers also hesitate at the corridor barricade. Pre-booked taxis keep fixed pricing and have corridor escort clearance.
+
+### What is the cheapest option to reach the temple?
+Shared autos to Godowlia are cheaper but do not enter the corridor and add luggage hassles. A pre-booked sedan at ₹800 remains the most efficient door-to-gate option with receipt support.
+
+### Can taxis drop close to the temple late at night?
+Yes, reserved taxis can reach the corridor control point until 10 PM. After that, security guides passengers on foot or via battery carts for the last stretch.
+
+## Varanasi Airport to Kashi Vishwanath Temple safety and reliability
+All dispatched drivers carry verified ID, corridor permits, and digital payment QR codes. Your booking message lists the fare and vehicle number—share it with family before boarding. Request a live location share once the driver departs the airport to stay updated through the old city lanes.
+
+For darshan planning, pair this transfer with our [Kashi Vishwanath crowd guide](/en/kashi-vishwanath-shivaratri-crowd-survival-guide) to match queue windows with your arrival.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TaxiService",
+  "name": "Varanasi Airport to Kashi Vishwanath Temple Taxi",
+  "serviceType": "Airport transfer",
+  "url": "https://www.kashitaxi.in/en/varanasi-airport-to-kashi-vishwanath-distance",
+  "description": "25–26 km Varanasi airport transfer to Kashi Vishwanath Temple with 40–55 minute drive time and flash ₹690 sedan drop.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.kashitaxi.in/#org",
+    "name": "Varanasi Taxi - Vinayak Travels",
+    "url": "https://www.kashitaxi.in/",
+    "telephone": "+919450301573"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Kashi Vishwanath Temple, Varanasi"
+  },
+  "serviceArea": {
+    "@type": "City",
+    "name": "Varanasi"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "https://wa.me/919450301573?text=Airport%20pickup%20for%20Kashi%20Vishwanath",
+    "availableLanguage": ["en", "hi"],
+    "servicePhone": {
+      "@type": "ContactPoint",
+      "telephone": "+919450301573",
+      "contactType": "reservations"
+    }
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "INR",
+  "lowPrice": 690,
+  "highPrice": 2100,
+  "offerCount": 3,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Flash Weekday Sedan Drop",
+        "priceCurrency": "INR",
+  "price": 690,
+        "availability": "https://schema.org/InStock",
+        "availabilityEnds": "2025-12-31",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "Kashi Vishwanath Corridor"
+        },
+        "description": "₹690 sedan drop when confirmed within 2 hours of pickup; weekday, 15-minute standby, corridor-ready."
+      },
+      {
+        "@type": "Offer",
+        "name": "Standard Sedan Drop",
+        "priceCurrency": "INR",
+  "price": 800,
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "Kashi Vishwanath Corridor"
+        },
+        "description": "₹800–₹900 sedan transfer with Godowlia barricade assistance."
+      },
+      {
+        "@type": "Offer",
+        "name": "Tempo Traveller Drop",
+        "priceCurrency": "INR",
+  "price": 2100,
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "Kashi Vishwanath Corridor"
+        },
+        "description": "Tempo Traveller temple transfer with driver allowance included."
+      }
+    ]
+  },
+  "timeRequired": "PT40M",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "DriveTimeHigh",
+      "value": "PT55M"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Distance",
+      "value": "25-26 km"
+    }
+  ],
+  "knowsAbout": [
+    "Kashi Vishwanath corridor entry permits",
+    "Godowlia barricade procedure",
+    "Varanasi airport gate 3 pickups"
+  ]
+}
+</script>
