@@ -120,7 +120,7 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
         )}
 
         <div>
-          <label className="block text-xs font-semibold text-gray-700 mb-1.5">
+          <label className="block text-xs font-bold text-gray-800 mb-1.5 uppercase tracking-wide">
             Your Name *
           </label>
           <input
@@ -129,14 +129,14 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
             value={formData.name}
             onChange={handleChange}
             placeholder="Enter name"
-            className="w-full px-3.5 py-2.5 text-sm border-2 border-blue-100 rounded-xl focus:ring-3 focus:ring-cyan-200 focus:border-cyan-400 transition-all bg-white hover:border-cyan-200"
+            className="w-full px-3.5 py-2.5 text-sm border-2 border-blue-100 rounded-xl focus:ring-3 focus:ring-cyan-200 focus:border-cyan-400 transition-all bg-white hover:border-cyan-200 placeholder-gray-400"
             required
           />
         </div>
 
         <div>
-          <label className="block text-xs font-semibold text-gray-700 mb-1.5">
-            Phone *
+          <label className="block text-xs font-bold text-gray-800 mb-1.5 uppercase tracking-wide">
+            Phone Number *
           </label>
           <input
             type="tel"
@@ -185,13 +185,18 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
         <button 
           type="submit"
           disabled={loading}
-          className="w-full bg-gradient-to-r from-blue-500 via-cyan-500 to-teal-400 hover:from-blue-600 hover:via-cyan-600 hover:to-teal-500 text-white font-bold py-3 px-4 rounded-xl transition-all duration-300 text-sm disabled:opacity-50 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0"
+          className="w-full bg-gradient-to-r from-blue-600 via-cyan-600 to-teal-500 hover:from-blue-700 hover:via-cyan-700 hover:to-teal-600 text-white font-extrabold py-3.5 px-4 rounded-xl transition-all duration-300 text-base disabled:opacity-50 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:translate-y-0 uppercase tracking-wide flex items-center justify-center gap-2"
         >
-          {loading ? 'Sending...' : '🚕 Get Quote Now'}
+          {loading ? 'Sending...' : (
+            <>
+              <span>🚀</span>
+              <span>GET MY FREE QUOTE</span>
+            </>
+          )}
         </button>
 
-        <p className="text-xs text-gray-600 text-center mt-3 font-medium">
-          Or call: <a href="tel:9450301573" className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">94503 01573</a>
+        <p className="text-xs text-gray-500 text-center mt-3 font-medium">
+          Prefer talking? Call <a href="tel:9450301573" className="text-cyan-700 font-bold hover:text-cyan-800 transition-colors underline decoration-cyan-300 decoration-2 underline-offset-2">94503 01573</a>
         </p>
       </form>
     </div>
