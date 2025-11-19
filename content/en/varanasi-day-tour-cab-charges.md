@@ -1,12 +1,12 @@
 ---
-title: "Varanasi Day Tour Cab Charges 2025: Price Grid & VIP Routing"
+title: "Varanasi Sightseeing Cab: 8hr Ghats & Temples Tour from ₹1,800"
 slug: "varanasi-day-tour-cab-charges"
 date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/Sighseeing1.png"
-metaTitle: "Varanasi Day Tour Cab Price 2025 – ₹1,800 to ₹6,500 Packages"
+metaTitle: "Varanasi Sightseeing Cab: 8hr Ghats & Temples Tour from ₹1,800"
 metaDescription: "Unlock the 2025 Varanasi day tour cab rate-card, temple queue hacks, sunrise-to-aarti route, and WhatsApp script to lock drivers before they sell out."
 description: "2025 Varanasi day tour cab price grid, temple queue hacks, sunrise-to-aarti VIP routing, and WhatsApp script to lock your driver before surge pricing hits."
 keywords:

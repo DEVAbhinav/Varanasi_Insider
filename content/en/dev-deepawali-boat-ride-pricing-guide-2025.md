@@ -1,5 +1,5 @@
 ---
-title: "Dev Deepawali Boat Ride Scam Exposed: Complete Pricing & Booking Guide 2025"
+title: "Dev Deepawali Boat Booking 2025: Front-Row Ganga Aarti Views [Best Price]"
 slug: "dev-deepawali-boat-ride-pricing-guide-2025"
 date: "2025-09-30"
 lastUpdated: "2025-09-30"

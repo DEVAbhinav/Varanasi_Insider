@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to Assi Ghat Taxi Fare — From ₹700 | 25–30 km"
+title: "Varanasi Airport Taxi Fare 2025: Fixed-Price Cabs from ₹700"
 slug: "varanasi-airport-taxi-price-guide"
 date: "2025-07-27"
 lastUpdated: "2025-11-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/airport-taxi-600x400.jpeg"
-metaTitle: "Varanasi Airport to Assi/Dashashwamedh Taxi Fare 2025 — Sedan ₹700"
-metaDescription: "Updated Nov 2025 airport taxi fares: sedan ₹700–₹950, Innova ₹1,250–₹1,550, tempo ₹2,100. 25–30 km ride in 40–45 min with WhatsApp booking, night surcharge & refund policy."
+metaTitle: "Varanasi Airport Taxi Fare 2025: Fixed Airport-to-City Cabs from ₹700"
+metaDescription: "Updated Nov 2025 Varanasi airport taxi fares: sedan ₹700–₹950, Innova ₹1,250–₹1,550, tempo ₹2,100. 25–30 km in 40–45 min with one-tap WhatsApp booking, capped night surcharge and clear refund policy."
 description: "Updated Nov 2025 Varanasi airport taxi fares to Assi, Dashashwamedh, BHU, and Sarnath with live tables, booking scripts, pickup point map, and refund policies."
 keywords:
   - "varanasi airport taxi fare today"

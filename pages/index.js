@@ -39,7 +39,7 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Varanasi Taxi Service 2025: Airport Transfer, Tours & Tempo Traveller | Book ☎ 9450301573</title>
+        <title>Varanasi Taxi Service: Airport, City & Outstation Cabs from ₹12/km</title>
         <meta
           name="description"
           content="Varanasi Taxi, Tempo Traveller & Tour Packages. Airport cab from ₹800, Local tours ₹2,500, Tempo traveller hire. 24×7 Varanasi travels service. Book now!"
@@ -49,9 +49,9 @@ export default function HomePage({ allPosts }) {
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.kashitaxi.in/home" />
         
-        {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Varanasi Taxi Service 2025: Airport Transfer, Tours & Tempo Traveller" />
-        <meta property="og:description" content="Book Varanasi Taxi, Tempo Traveller & Tour Packages. Airport transfer from ₹800, Local tours, Outstation travel. 24×7 Varanasi travels service." />
+  {/* Open Graph Meta Tags */}
+  <meta property="og:title" content="Varanasi Taxi Service: Airport, City & Outstation Cabs from ₹12/km" />
+  <meta property="og:description" content="Varanasi Taxi, Tempo Traveller & Outstation Cabs. Airport cab from ₹800, local tours from ₹2,500, outstation and tempo traveller hire. 24×7 Varanasi cab service." />
         <meta property="og:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/home" />
         <meta property="og:type" content="website" />

@@ -1,9 +1,9 @@
----
-title: "Varanasi Solo Travel Safety Guide: 10 Practical Tips for 2025"
+title: "Is Varanasi Safe? 2025 Solo Traveler Safety & Scam Guide"
 slug: "safety-and-security-in-varanasi-guide-for-solo-travellar"
 date: "2025-07-30"
 author: "Abhinav Pandey"
 description: "Our comprehensive safety guide for solo travellers in Varanasi. Learn about common scams, safe areas to stay, and essential safety contacts."
+metaTitle: "Is Varanasi Safe in 2025? Solo Traveller Scam & Safety Blueprint"
 ---
 
 # Safety & Security in Varanasi: A First-Person Guide

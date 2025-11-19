@@ -1,5 +1,5 @@
 ---
-title: "Varanasi Boat Ride Price 2025 — Shared ₹80 | Private ₹1,800"
+title: "Morning Boat Ride Varanasi: Sunrise Ghat Views from ₹80-1800"
 slug: "morning-boat-ride-varanasi-price"
 date: "2025-08-01"
 lastUpdated: "2025-11-05"
