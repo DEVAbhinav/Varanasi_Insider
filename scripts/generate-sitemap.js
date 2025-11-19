@@ -22,7 +22,7 @@ function getPageRoutes(dir, baseRoute = '') {
       let route = '/' + path.join(baseRoute, entry.name).replace(/\\/g, '/').replace(/\.(js|jsx)$/i, '');
       route = route.replace(/\/(index)$/i, '/').replace(/\/+$/, '/');
       const base = path.basename(route);
-      if (!['404', '500', '_error', '_document', '_app'].includes(base)) routes.push(route);
+      if (!['404', '500', '_error', '_document', '_app', 'sitemap.xml'].includes(base)) routes.push(route);
     }
   }
   return routes;
