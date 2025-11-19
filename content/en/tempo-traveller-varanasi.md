@@ -16,6 +16,12 @@ relatedPosts:
 
 # Tempo Traveller on Rent in Varanasi – Reliable & Affordable Group Travel
 
+> **At a Glance: Tempo Traveller Rental**
+> - **Fleet Options:** 9, 12, 17, 20, 26 Seater & Luxury Urbania.
+> - **Starting Rates:** Airport Transfer ₹2,500 | Local 8hr/80km ₹5,500.
+> - **Outstation Rate:** ₹24–₹27 per km (min 250km/day).
+> - **Best For:** Kashi Darshan, Ayodhya/Prayagraj trips, Weddings.
+
 Planning group travel in Varanasi? Our Tempo Traveller services offer the perfect blend of space, comfort, and convenience. Whether you’re organizing a family trip, a pilgrimage tour, or an airport pickup for a large group, Banarasi Varanasi Taxi has you covered with clean, well‑maintained vehicles and experienced drivers (kashitaxi.in).
 
 Enjoy 24/7 availability, transparent pricing, and on‑time service for every journey (kashitaxi.in).

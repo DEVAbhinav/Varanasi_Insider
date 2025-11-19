@@ -28,6 +28,30 @@ relatedPosts:
 
 # वाराणसी से चित्रकूट Tempo Traveller पैकेज (2025)
 
+> **यात्रा सारांश (Quick Facts)**
+> - **दूरी:** ~270 किमी (6–7 घंटे) प्रयागराज के रास्ते।
+> - **सुझाव:** 2 दिन / 1 रात (एक दिन की यात्रा बहुत थकाऊ होती है)।
+> - **प्रमुख पड़ाव:** कामदगिरि परिक्रमा, रामघाट आरती, हनुमान धारा, गुप्त गोदावरी।
+> **अनुमानित किराया (12 सीटर):** ₹16,500–₹18,500 (2 दिनों के लिए सब कुछ शामिल)।
+
+## वाराणसी से चित्रकूट यात्रा की तस्वीरें
+
+| मार्ग पर वाहन | आरामदायक इंटीरियर (12 सीटर) | लग्जरी / महाराजा सीट |
+| --- | --- | --- |
+| ![Tempo Traveller Varanasi to Chitrakoot highway scene](/images/Tempo-Travellar_landscape_Village.jpeg "वाराणसी से चित्रकूट मार्ग पर टेम्पो ट्रैवलर") | ![12 seater tempo traveller interior aisle comfort Chitrakoot trip](/images/Temp-Travellar-Inside_Square_1by1.jpeg "आरामदायक इंटीरियर – 1N/2D चित्रकूट यात्रा के लिए आदर्श") | ![Luxury tempo traveller seat for Chitrakoot pilgrimage](/images/Tempo_traveller_lux_seat_side.jpeg "प्रीमियम सीटिंग विकल्प") |
+
+
+
+### टेम्पो ट्रैवलर फ्लीट और सुविधाएँ
+
+| बाहरी दृश्य (Front) | साइड प्रोफाइल (Highway) | सीट कुशनिंग |
+| --- | --- | --- |
+| ![Tempo traveller front view varanasi to chitrakoot](/images/tempo-travellar-outside-front-p.jpeg "चित्रकूट प्रस्थान से पहले फ्रंट प्रोफाइल") | ![Tempo traveller side profile chitrakoot route](/images/tempo-travellar-side-l.jpeg "साइड प्रोफाइल – सामान और खिड़की वेंटिलेशन") | ![Seat cushioning tempo traveller chitrakoot](/images/Tempo_travellar_seat_closup.jpeg "पुशबैक सीट कुशनिंग विवरण") |
+
+| इंटीरियर लाइटिंग | पिछला हिस्सा और सामान | प्रीमियम अर्बानिया केबिन |
+| --- | --- | --- |
+| ![Ambient lighting inside tempo traveller chitrakoot trip](/images/Tempo_travellar_neon_inside.jpeg "सुबह/शाम की यात्रा के लिए सॉफ्ट लाइटिंग") | ![Rear access and luggage tempo traveller chitrakoot](/images/Tempo_travellar_side_back_white.jpeg "पिछला दरवाजा और सामान रखने की जगह") | ![Urbania premium interior option chitrakoot pilgrimage](/images/Urbania-Inside-Potrait.jpeg "प्रीमियम अर्बानिया – ऊँची छत और रिक्लाइनर आराम") |
+
 चित्रकूट रामायण से जुड़ी आध्यात्मिक भूमि है। **वाराणसी से चित्रकूट टेम्पो ट्रैवलर** के साथ 1 रात / 2 दिन का संयोजित कार्यक्रम आपको कामदगिरि परिक्रमा, रामघाट की शाम और हनुमान धारा जैसी प्रमुख स्थलों का सुचारू अनुभव देता है।
 
 > **त्वरित संकेत:** 600–630 किलोमीटर बिलिंग, 12-सीटर के लिए औसतन ₹16,500–₹18,500। 1N स्टे से यात्रा आरामदायक बनती है।
@@ -81,6 +105,7 @@ relatedPosts:
 - **गुप्त गोदावरी गुफाएँ:** टॉर्च या मोबाइल फ्लैशलाइट रखें; फिसलन पर ध्यान दें।
 
 ## सीटिंग विकल्प और पैकेज
+
 | वाहन प्रकार | सीट | क्यों उपयुक्त |
 | --- | --- | --- |
 | 9-सीटर | 7–8 यात्री | छोटा परिवार, बजट-केंद्रित |

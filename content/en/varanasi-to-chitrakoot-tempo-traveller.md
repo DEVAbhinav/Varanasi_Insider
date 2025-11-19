@@ -30,6 +30,12 @@ featuredImage: /images/Tempo-Travellar_landscape_Village.jpeg
 
 # Varanasi to Chitrakoot Tempo Traveller – 2 Day Pilgrimage Itinerary & Package (2025)
 
+> **Quick Trip Facts**
+> - **Distance:** ~270 km (6–7 hours) via Prayagraj.
+> - **Recommended Duration:** 2 Days / 1 Night (Same-day is too exhausting).
+> - **Key Stops:** Kamadgiri Parikrama, Ramghat Aarti, Hanuman Dhara, Gupt Godavari.
+> - **Est. Fare (12 Seater):** ₹16,500–₹18,500 (All-inclusive for 2 days).
+
 ## Varanasi to Chitrakoot Tempo Traveller Trip Photos
 
 | Fleet on Route | Comfortable Interior (12 Seater) | Luxury / Maharaja Seat |
