@@ -2,7 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 
-const SITEMAP_PATH = path.join(__dirname, '../public/sitemap.xml');
+// Security through obscurity - using non-standard sitemap name
+const SITEMAP_PATH = path.join(__dirname, '../public/kt-secret-map-v9.xml');
 const CONTENT_PATH = path.join(__dirname, '../content');
 const PAGES_PATH = path.join(__dirname, '../pages');
 const BASE_URL = 'https://www.kashitaxi.in';
@@ -47,7 +48,8 @@ function collectContentUrls() {
       const abs = path.join(langRoot, file);
       const fm = safeReadFrontmatter(abs);
       const slug = fm.slug || file.replace(/\.md$/, '');
-      urls.push({ loc: `${BASE_URL}/${lang}/${slug}`, priority: '0.8', changefreq: 'weekly' });
+      const lastmod = fm.lastUpdated || fm.date;
+      urls.push({ loc: `${BASE_URL}/${lang}/${slug}`, priority: '0.8', changefreq: 'weekly', lang, slug, type: 'root', lastmod });
     });
     // Section folders
     sectionFolders.forEach(folder => {
@@ -58,7 +60,8 @@ function collectContentUrls() {
         const abs = path.join(secDir, file);
         const fm = safeReadFrontmatter(abs);
         const slug = fm.slug || file.replace(/\.md$/, '');
-        urls.push({ loc: `${BASE_URL}/${lang}/${folder}/${slug}`, priority: '0.8', changefreq: 'weekly' });
+        const lastmod = fm.lastUpdated || fm.date;
+        urls.push({ loc: `${BASE_URL}/${lang}/${folder}/${slug}`, priority: '0.8', changefreq: 'weekly', lang, slug, folder, type: 'section', lastmod });
       });
     });
   }
@@ -79,8 +82,9 @@ function collectContentUrls() {
             const abs = path.join(categoryDir, file);
             const fm = safeReadFrontmatter(abs);
             const slug = fm.slug || file.replace(/\.md$/, '');
+            const lastmod = fm.lastUpdated || fm.date;
             // Map to /lang/city/destination/category/slug (e.g., /en/city/varanasi/tour-packages/same-day-tour)
-            urls.push({ loc: `${BASE_URL}/${lang}/city/${destination}/${category}/${slug}`, priority: '0.8', changefreq: 'weekly' });
+            urls.push({ loc: `${BASE_URL}/${lang}/city/${destination}/${category}/${slug}`, priority: '0.8', changefreq: 'weekly', lang, slug, destination, category, type: 'destination', lastmod });
           });
         });
       });
@@ -92,32 +96,105 @@ function collectContentUrls() {
 
 function generateSitemap() {
   const urlEntries = new Map();
-  const add = (loc, priority = '0.8', changefreq = 'weekly') => urlEntries.set(loc, { priority, changefreq });
+  const contentUrls = collectContentUrls();
+  
+  const add = (loc, priority = '0.8', changefreq = 'weekly', meta = {}) => {
+    urlEntries.set(loc, { priority, changefreq, ...meta });
+  };
 
-  // Core landings
-  add(`${BASE_URL}/`, '0.9', 'weekly');
-  add(`${BASE_URL}/en/`, '0.7', 'weekly');
-  add(`${BASE_URL}/hi/`, '0.7', 'weekly');
+  // Core landings with hreflang
+  add(`${BASE_URL}/`, '0.9', 'weekly', { hreflang: [
+    { lang: 'x-default', url: `${BASE_URL}/` },
+    { lang: 'en', url: `${BASE_URL}/en/` },
+    { lang: 'hi', url: `${BASE_URL}/hi/` }
+  ]});
+  add(`${BASE_URL}/en/`, '0.7', 'weekly', { hreflang: [
+    { lang: 'x-default', url: `${BASE_URL}/` },
+    { lang: 'en', url: `${BASE_URL}/en/` },
+    { lang: 'hi', url: `${BASE_URL}/hi/` }
+  ]});
+  add(`${BASE_URL}/hi/`, '0.7', 'weekly', { hreflang: [
+    { lang: 'x-default', url: `${BASE_URL}/` },
+    { lang: 'en', url: `${BASE_URL}/en/` },
+    { lang: 'hi', url: `${BASE_URL}/hi/` }
+  ]});
 
-  // Content-derived URLs
-  collectContentUrls().forEach(u => add(u.loc, u.priority, u.changefreq));
+  // Build hreflang map for content pages
+  const hreflangMap = new Map();
+  
+  contentUrls.forEach(u => {
+    const key = `${u.type}:${u.folder || ''}:${u.destination || ''}:${u.category || ''}:${u.slug}`;
+    if (!hreflangMap.has(key)) {
+      hreflangMap.set(key, {});
+    }
+    hreflangMap.get(key)[u.lang] = u.loc;
+  });
+
+  // Content-derived URLs with hreflang
+  contentUrls.forEach(u => {
+    const key = `${u.type}:${u.folder || ''}:${u.destination || ''}:${u.category || ''}:${u.slug}`;
+    const alternates = hreflangMap.get(key);
+    const hreflang = [];
+    
+    // Add alternates for all available languages
+    if (alternates.en) {
+      hreflang.push({ lang: 'en', url: alternates.en });
+    }
+    if (alternates.hi) {
+      hreflang.push({ lang: 'hi', url: alternates.hi });
+    }
+    
+    // Add x-default (prefer EN if available, otherwise use current)
+    if (alternates.en) {
+      hreflang.push({ lang: 'x-default', url: alternates.en });
+    }
+    
+    add(u.loc, u.priority, u.changefreq, { 
+      hreflang: hreflang.length > 1 ? hreflang : [],
+      lastmod: u.lastmod 
+    });
+  });
 
   // Static page routes from /pages (excluding dynamic because content pages cover them)
   getPageRoutes(PAGES_PATH).forEach(r => add(`${BASE_URL}${r}`, r === '/' ? '0.9' : '0.7', 'monthly'));
 
   // Reinforce root path frequency (ensure weekly, may have been overridden by page enumeration logic)
-  add(`${BASE_URL}/`, '0.9', 'weekly');
+  add(`${BASE_URL}/`, '0.9', 'weekly', { hreflang: [
+    { lang: 'x-default', url: `${BASE_URL}/` },
+    { lang: 'en', url: `${BASE_URL}/en/` },
+    { lang: 'hi', url: `${BASE_URL}/hi/` }
+  ]});
 
-  // Build XML
+  // Build XML with hreflang support
   const nowIso = new Date().toISOString();
   const sorted = Array.from(urlEntries.keys()).sort();
   const body = sorted.map(loc => {
-    const { priority, changefreq } = urlEntries.get(loc);
-    return `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${nowIso}</lastmod>\n    <priority>${priority}</priority>\n    <changefreq>${changefreq}</changefreq>\n  </url>`;
+    const { priority, changefreq, hreflang, lastmod } = urlEntries.get(loc);
+    
+    let finalLastmod = nowIso;
+    if (lastmod) {
+      const d = new Date(lastmod);
+      if (!isNaN(d.getTime())) {
+        finalLastmod = d.toISOString();
+      }
+    }
+
+    let urlBlock = `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${finalLastmod}</lastmod>\n    <priority>${priority}</priority>\n    <changefreq>${changefreq}</changefreq>`;
+    
+    // Add hreflang links if available
+    if (hreflang && hreflang.length > 0) {
+      hreflang.forEach(alt => {
+        urlBlock += `\n    <xhtml:link rel="alternate" hreflang="${alt.lang}" href="${alt.url}" />`;
+      });
+    }
+    
+    urlBlock += '\n  </url>';
+    return urlBlock;
   }).join('\n');
-  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${body}\n</urlset>`;
+  
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${body}\n</urlset>`;
   fs.writeFileSync(SITEMAP_PATH, xml);
-  console.log('Sitemap regenerated (fresh, no merge). URLs:', sorted.length);
+  console.log('Sitemap regenerated with hreflang tags. URLs:', sorted.length);
 }
 
 generateSitemap();

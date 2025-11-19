@@ -14,7 +14,7 @@ relatedPosts:
 
 # Tempo Traveller Rates in Varanasi (2025 Price List)
 
-Built to answer the most common question: “What are the charges?”—and to establish trust with complete transparency.
+Built to answer the most common question: "What are the charges?"—and to establish trust with complete transparency.
 
 ## Vehicle Photos
 
