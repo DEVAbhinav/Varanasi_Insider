@@ -1,7 +1,7 @@
 # 10 Detailed Event Pages for Varanasi in December
 
 ---
-
+@doit
 ## Page 1: Kashi Tamil Sangamam 4.0 – A Cultural Bridge Between South and North
 
 **Dates:** December 2-15, 2025  
@@ -58,6 +58,7 @@ This is an ideal event if you're seeking authentic cultural immersion beyond typ
 
 ---
 
+@doit
 ## Page 2: Mahindra Kabira Festival – A Celebration of the 15th-Century Mystic Poet
 
 **Dates:** December 19-21, 2025  
@@ -133,6 +134,7 @@ Unlike large commercial events, Kabira Festival maintains intimacy and depth. Yo
 - Photography guidelines are strict during performances; respect artist privacy
 
 ---
+
 
 ## Page 3: Sunrise Boat Rides on the Ganges – Spiritual Awakening at Dawn
 
@@ -244,7 +246,7 @@ Many boatmen are descendants of families with 200+ years of river history. Engag
 - Consider this more as pilgrimage than tourism
 
 ---
-
+@doit
 ## Page 4: Mahindra Kabira Festival – Morning Music Sessions at Sunrise
 
 **Dates:** December 20-21, 2025  
@@ -516,7 +518,7 @@ The festival season begins in December. While Mahindra Kabira Festival (Dec 19-2
 - Visit multiple times if staying longer – each Aarti feels unique
 
 ---
-
+@do it
 ## Page 6: Malaiyo – The Rare Winter Sweet Only Found in December
 
 **Availability:** Early morning hours only (5:00-11:00 AM)  
@@ -690,7 +692,7 @@ Unlike engineered tourist experiences, malaiyo exists because conditions align n
 Eating malaiyo in December is more than consuming a sweet – it's tasting Varanasi's soul distilled into foam.
 
 ---
-
+@doit
 ## Page 7: Sunrise Yoga at the Sacred Ghats – Mind, Body, Spirit Integration
 
 **Best Locations:** Assi Ghat, Dashashwamedh Ghat, Mansarovar Ghat  
@@ -921,7 +923,7 @@ Many sessions include 15-30 minutes seated meditation:
 - Moderate prices (not peak domestic tourism)
 
 ---
-
+@doit
 ## Page 8: Banarasi Silk Shopping – Threads of Tradition and Beauty
 
 **Best Shopping Districts:** Madhuban Wholesale Market, Thatheri Bazar, Godowlia  

@@ -72,7 +72,7 @@ Once logged, you get:
 
 ---
 
-## � How to Book Your Varanasi Airport Taxi (3-Step Playbook)
+## How to Book Your Varanasi Airport Taxi (3-Step Playbook)
 
 1. **Ping dispatch before take-off.** Share your PNR/flight number, landing time, pax count, luggage style, and any temple or hotel priorities. You get a written fare confirmation so there’s no negotiation outside Babatpur arrivals.
 2. **Receive your digital docket.** We WhatsApp the driver photo, plate, Fastag balance, GST invoice preference, and the queued barricade recommendation (Godowlia, Assi, NaMo promenade, etc.).
@@ -82,7 +82,7 @@ Once logged, you get:
 
 ---
 
-## � Vehicle Fleet Overview
+## 🚗 Vehicle Fleet Overview
 
 | Vehicle Class | Capacity | Best For | Typical Use Case |
 | --- | --- | --- | --- |
@@ -111,7 +111,7 @@ Use this table to set expectations with senior citizens, wedding guests, or film
 
 ---
 
-## � Permits, Payments & Safety Checklist
+## 🛡️ Permits, Payments & Safety Checklist
 
 - **Receipts & GST:** Standard airport taxis include tolls + parking. For corporate claims, request a GST invoice (Varanasi Taxi – Vinayak Travels, GSTIN 09AAFFV5752L1ZF) before you board.
 - **Temple access permits:** Kal Bhairav, Kashi Vishwanath corridor, and certain ghats during Dev Deepawali require pre-submitted manifests. Share ID copies 12 hours in advance to avoid barricade denials.
@@ -121,7 +121,7 @@ Use this table to set expectations with senior citizens, wedding guests, or film
 
 ---
 
-## �🛫 Passenger Flow, Terminals & Amenities
+## 🧳🛫 Passenger Flow, Terminals & Amenities
 
 | Zone | What to expect | Insider note |
 | --- | --- | --- |
@@ -451,7 +451,7 @@ Tap a tab to filter destinations. Every card shows a representative visual and a
 
 ---
 
-## �️ Popular Outstation Pairings & Ideal Departure Windows
+## 🧭 Popular Outstation Pairings & Ideal Departure Windows
 
 | Route | Distance / Time | Ideal Departure | Notes |
 | --- | --- | --- | --- |
@@ -465,7 +465,7 @@ These pairings convert airport arrivals into immediate pilgrim, leisure, or busi
 
 ---
 
-## �🛰️ Route Intelligence & Weather Triggers
+## 🛰️ Route Intelligence & Weather Triggers
 
 - **Ring Road chokepoint:** If there’s a blockade near Lahartara, drivers switch via Nadesar–Sigra which adds ~10 minutes but keeps you moving.
 - **Festival lockdowns:** Mahashivratri, Dev Deepawali, Kartik Purnima – only vehicles with prior manifests are allowed near Godowlia/Assi.
