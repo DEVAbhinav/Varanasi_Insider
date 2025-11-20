@@ -44,6 +44,12 @@ export default function Footer({ allPosts }) {
           <Link href="/pink-taxi-varanasi" className={styles.footerLink}>Pink Taxi</Link>
           <Link href="/en/about" className={styles.footerLink}>About Us</Link>
           <Link href="/en/contact" className={styles.footerLink}>Contact</Link>
+          <Link
+            href="/en/destinations/varanasi/varanasi-december-2025-experience-hub"
+            className={styles.footerLink}
+          >
+            December 2025 Hub
+          </Link>
           <a href="https://www.kashitaxi.in" target="_blank" rel="noopener noreferrer" className={styles.footerLink}>Book a Taxi</a>
           <Link href="#" className={styles.footerLink}>Privacy Policy</Link>
         </div>
