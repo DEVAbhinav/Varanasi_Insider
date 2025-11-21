@@ -1,5 +1,6 @@
 // components/JsonLd/homepageSchema.js
 // Returns JSON-LD for the homepage (WebSite + LocalBusiness + TaxiService + FAQPage)
+import { SOCIAL_PROFILE_URLS } from '../../config/socials';
 
 const getHomeSchema = (site) => ({
   '@context': 'https://schema.org',
@@ -154,10 +155,7 @@ const getHomeSchema = (site) => ({
           availableLanguage: ['en', 'hi'],
         },
       ],
-      sameAs: [
-        'https://wa.me/919935474730',
-        'https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA',
-      ],
+      sameAs: SOCIAL_PROFILE_URLS,
       foundingDate: '2018',
       numberOfEmployees: '15-25',
       knowsAbout: [

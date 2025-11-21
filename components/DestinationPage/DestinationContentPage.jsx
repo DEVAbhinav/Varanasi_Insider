@@ -8,7 +8,7 @@ import StickyContactBar from '@/components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '@/components/BookingWidget/SidebarBookingWidget';
 import HreflangTags from '@/components/SEO/HreflangTags';
 
-const SITE_BASE = 'https://www.kashitaxi.in';
+const DEFAULT_SITE_BASE = 'https://www.kashitaxi.in';
 const DEFAULT_PHONE = '9935474730';
 
 const CATEGORY_TITLE_MAP = {
@@ -18,11 +18,11 @@ const CATEGORY_TITLE_MAP = {
   'travel-guide': 'Travel Guide',
 };
 
-const toAbsoluteUrl = (url) => {
+const toAbsoluteUrl = (url, siteBase = DEFAULT_SITE_BASE) => {
   if (!url) {
-    return `${SITE_BASE}/images/varanasi-hero.png`;
+    return `${siteBase}/images/varanasi-hero.png`;
   }
-  return url.startsWith('http') ? url : `${SITE_BASE}${url}`;
+  return url.startsWith('http') ? url : `${siteBase}${url}`;
 };
 
 export default function DestinationContentPage({ entry, category, allPosts, pageLang = 'en', hreflangAlternates = [] }) {
@@ -31,10 +31,11 @@ export default function DestinationContentPage({ entry, category, allPosts, page
   }
 
   const pageCategory = category || entry.category;
+  const siteBase = entry.siteBase || DEFAULT_SITE_BASE;
   const langForPage = entry.lang || pageLang || 'en';
   const slugPath = `/city/${entry.destination}/${pageCategory}/${entry.slug}`;
-  const localizedPath = `/${langForPage}${slugPath}`;
-  const canonicalUrl = `${SITE_BASE}${localizedPath}`;
+  const localizedPath = entry.localizedPath || `/${langForPage}${slugPath}`;
+  const canonicalUrl = entry.canonicalUrl || `${siteBase}${localizedPath}`;
   const title = entry.title || 'Kashi Taxi | Travel Agent Varanasi';
   const description = entry.description || '';
   const keywords = Array.isArray(entry.keywords)
@@ -43,9 +44,24 @@ export default function DestinationContentPage({ entry, category, allPosts, page
   const published = entry.date || undefined;
   const modified = entry.lastUpdated || entry.date || undefined;
   const ogType = pageCategory === 'travel-guide' ? 'article' : 'website';
-  const ogImage = toAbsoluteUrl(entry.featuredImage);
+  const ogImage = toAbsoluteUrl(entry.featuredImage, siteBase);
   const phoneNumber = entry.phone || DEFAULT_PHONE;
   const headerEyebrow = entry.eyebrow || CATEGORY_TITLE_MAP[pageCategory] || 'Destination Insight';
+  const breadcrumbs = Array.isArray(entry.breadcrumbs) ? entry.breadcrumbs : [];
+
+  const breadcrumbJsonLd = breadcrumbs.length >= 2
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        '@id': `${canonicalUrl}#breadcrumbs`,
+        itemListElement: breadcrumbs.map((crumb, index) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          name: crumb.name,
+          item: crumb.item || canonicalUrl,
+        })),
+      }
+    : null;
 
   const itinerary = entry.itinerary;
   const itinerarySections = Array.isArray(entry.itinerarySections) ? entry.itinerarySections : [];
@@ -82,6 +98,12 @@ export default function DestinationContentPage({ entry, category, allPosts, page
             dangerouslySetInnerHTML={{ __html: JSON.stringify(entry.jsonLd) }}
           />
         )}
+        {breadcrumbJsonLd && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+          />
+        )}
       </Head>
 
       <NavBar />
@@ -102,6 +124,25 @@ export default function DestinationContentPage({ entry, category, allPosts, page
               <p className="mt-4 max-w-2xl text-base text-gray-600">
                 {description}
               </p>
+            )}
+            {breadcrumbs.length > 0 && (
+              <nav
+                className="mt-4 flex flex-wrap items-center justify-center gap-1 text-xs text-gray-500 sm:text-sm lg:justify-start"
+                aria-label="Breadcrumb"
+              >
+                {breadcrumbs.map((crumb, index) => (
+                  <span key={`${crumb.item || index}-${crumb.name}`} className="flex items-center">
+                    {index > 0 && <span className="mx-2 text-gray-300">›</span>}
+                    {crumb.item ? (
+                      <a href={crumb.item} className="text-gray-600 transition hover:text-pink-600 hover:underline">
+                        {crumb.name}
+                      </a>
+                    ) : (
+                      <span>{crumb.name}</span>
+                    )}
+                  </span>
+                ))}
+              </nav>
             )}
           </div>
         </header>

@@ -38,6 +38,16 @@ You need to have Node.js and npm (or yarn) installed on your machine.
 
 The application will now be running on http://localhost:3000. The site will automatically reload if you make changes to the code.
 
+### Environment variables
+
+Create a `.env.local` file (Next.js loads it automatically) and add any private keys you need. Google Analytics v4 is wired up by default with the property ID `G-57P08K8G17`. If you need to point to a different GA4 property, override it with `NEXT_PUBLIC_GA_MEASUREMENT_ID`; when this variable is present the site will automatically inject the gtag script and track route changes. Example:
+
+```env
+NEXT_PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXXXX
+```
+
+Restart the dev server after modifying environment variables.
+
 ## Project Structure
 
 The folder structure is organized to separate content, logic, pages, and components.

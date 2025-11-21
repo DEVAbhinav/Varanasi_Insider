@@ -296,6 +296,18 @@ const nextConfig = {
       // Redirects based on sitemap verification
       // ===================================
       
+      // Section folder canonicalization
+      {
+        source: '/:lang(en|hi)/guides/:slug',
+        destination: '/:lang/services/:slug',
+        permanent: true,
+      },
+      {
+        source: '/:lang(en|hi)/landing/:slug',
+        destination: '/:lang/services/:slug',
+        permanent: true,
+      },
+
       // Generic content pages - redirect to related existing content
       {
         source: '/en/best-things-to-do-in-varanasi',

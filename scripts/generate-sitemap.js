@@ -40,6 +40,11 @@ function collectContentUrls() {
   if (!fs.existsSync(CONTENT_PATH)) return urls;
   const langs = fs.readdirSync(CONTENT_PATH).filter(l => !l.startsWith('.') && !['destinations'].includes(l));
   const sectionFolders = ['packages','bus','services','landing','guides'];
+  const routeBaseMap = {
+    services: 'services',
+    landing: 'services',
+    guides: 'services',
+  };
   for (const lang of langs) {
     const langRoot = path.join(CONTENT_PATH, lang);
     // Root-level markdown (posts at /lang/slug)
@@ -61,7 +66,8 @@ function collectContentUrls() {
         const fm = safeReadFrontmatter(abs);
         const slug = fm.slug || file.replace(/\.md$/, '');
         const lastmod = fm.lastUpdated || fm.date;
-        urls.push({ loc: `${BASE_URL}/${lang}/${folder}/${slug}`, priority: '0.8', changefreq: 'weekly', lang, slug, folder, type: 'section', lastmod });
+        const routeBase = routeBaseMap[folder] || folder;
+        urls.push({ loc: `${BASE_URL}/${lang}/${routeBase}/${slug}`, priority: '0.8', changefreq: 'weekly', lang, slug, folder: routeBase, type: 'section', lastmod });
       });
     });
   }

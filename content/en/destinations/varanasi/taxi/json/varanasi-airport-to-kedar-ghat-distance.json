@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TaxiService",
+  "name": "Varanasi Airport to Kedar Ghat Taxi",
+  "serviceType": "Airport transfer",
+  "url": "https://www.kashitaxi.in/en/varanasi-airport-to-kedar-ghat-distance",
+  "description": "26 km Varanasi airport transfer to Kedar Ghat with 40–55 minute drive time, Shiv aarti access, and flash ₹690 sedan drop.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.kashitaxi.in/#org",
+    "name": "Varanasi Taxi - Vinayak Travels",
+    "url": "https://www.kashitaxi.in/",
+    "telephone": "+919450301573"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Kedar Ghat, Varanasi"
+  },
+  "serviceArea": {
+    "@type": "City",
+    "name": "Varanasi"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "https://wa.me/919450301573?text=Airport%20pickup%20for%20Kedar%20Ghat",
+    "availableLanguage": [
+      "en",
+      "hi"
+    ],
+    "servicePhone": {
+      "@type": "ContactPoint",
+      "telephone": "+919450301573",
+      "contactType": "reservations"
+    }
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "INR",
+    "lowPrice": 690,
+    "highPrice": 2100,
+    "offerCount": 3,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Flash Weekday Sedan Drop",
+        "priceCurrency": "INR",
+        "price": 690,
+        "availability": "https://schema.org/InStock",
+        "availabilityEnds": "2025-12-31",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "Kedar Ghat"
+        },
+        "description": "₹690 sedan drop when confirmed within 2 hours of pickup; weekday, 15-minute standby at Harishchandra lane."
+      },
+      {
+        "@type": "Offer",
+        "name": "Standard Sedan Drop",
+        "priceCurrency": "INR",
+        "price": 800,
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "Kedar Ghat"
+        },
+        "description": "₹800–₹900 sedan transfer with Shiv temple escort support."
+      },
+      {
+        "@type": "Offer",
+        "name": "Tempo Traveller Drop",
+        "priceCurrency": "INR",
+        "price": 2100,
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "Kedar Ghat"
+        },
+        "description": "Tempo Traveller group transfer with driver allowance and lane marshal coordination."
+      }
+    ]
+  },
+  "timeRequired": "PT40M",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "DriveTimeHigh",
+      "value": "PT55M"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Distance",
+      "value": "26 km"
+    }
+  ],
+  "knowsAbout": [
+    "Kedar Ghat Shiv aarti",
+    "Harishchandra lane access",
+    "Varanasi airport gate 3 pickups"
+  ]
+}
