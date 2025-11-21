@@ -27,7 +27,7 @@ const currency = (n) => `₹${Number(n || 0).toLocaleString("en-IN")}`;
 const withBuffer = (n, pct = 10) => Math.round(Number(n || 0) * (1 + pct / 100));
 const waLink = (phone, text) => `https://wa.me/91${phone}?text=${encodeURIComponent(text)}`;
 
-export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPackages, pageLang, pageSlug }) {
+export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPackages, pageLang, pageSlug, alternateLanguages = [] }) {
   const { title, subtitle, heroImage, coverAlt, phone = "9450301573", components, tiers = [], addOns = [], vehicles = [], seasonNotes = {}, breadcrumbs = [], faqs = [] } = pkgData || {};
   const bufferPct = components?.buffer_percent ?? 10;
   const [imgSrc, setImgSrc] = useState(heroImage && heroImage.trim() ? heroImage : "/images/varanasi-hero.png");
@@ -44,7 +44,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
   return (
     <>
       {/* Central SEO Head: pass slug with packages/ segment so canonical matches route */}
-      <HeadForBlogs postData={{ title, description: subtitle, featuredImage: heroImage }} pageLang={pageLang} pageSlug={`packages/${pageSlug}`} jsonLdData={jsonLdData} />
+  <HeadForBlogs postData={{ title, description: subtitle, featuredImage: heroImage }} pageLang={pageLang} pageSlug={`packages/${pageSlug}`} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
 
       <NavBar />
 
@@ -314,6 +314,7 @@ export async function getStaticProps({ params }) {
   const path = await import("path");
   const matter = (await import("gray-matter")).default;
   const { markdownToHtml } = await import("../../../lib/markdown");
+  const { buildAlternateLanguageUrls } = await import("../../../lib/hreflang");
 
   const contentDir = path.join(process.cwd(), "content", params.lang, "packages");
   const filePath = path.join(contentDir, `${params.slug}.md`);
@@ -365,6 +366,12 @@ export async function getStaticProps({ params }) {
     })),
   };
 
+  const alternateLanguages = buildAlternateLanguageUrls({
+    relativeFilePath: path.join('packages', `${params.slug}.md`),
+    routePath: `packages/${params.slug}`,
+    fallbackLangs: [params.lang],
+  });
+
   return {
     props: {
       pkgData: frontmatter,
@@ -373,6 +380,7 @@ export async function getStaticProps({ params }) {
       allPackages,
       pageLang: params.lang,
       pageSlug: params.slug,
+      alternateLanguages,
     },
   };
 }

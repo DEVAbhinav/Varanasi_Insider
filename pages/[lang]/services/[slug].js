@@ -7,15 +7,16 @@ import ServiceContent from '../../../components/ServicePage/ServiceContent';
 import StickyContactBar from '../../../components/ServicePage/StickyContactBar';
 import CTASection from '../../../components/CTA/CTASection';
 
-export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, pageSlug }) {
+export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, pageSlug, alternateLanguages = [] }) {
   return (
     <>
       {/* SEO Head */}
       <HeadForBlogs 
         postData={postData} 
         pageLang={pageLang} 
-        pageSlug={pageSlug} 
+        pageSlug={`services/${pageSlug}`} 
         jsonLdData={jsonLdData} 
+        alternateLanguages={alternateLanguages}
       />
 
       <NavBar />
@@ -59,12 +60,14 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
 
 export async function getStaticProps({ params }) {
   const { getPostData, getJsonLdData, getAllPostsMeta } = await import('../../../lib/posts');
+  const { buildAlternateLanguageUrls } = await import('../../../lib/hreflang');
   const fs = await import('fs');
   const path = await import('path');
 
   const lookupOrder = ['services', 'landing', 'guides'];
   let postData;
   let jsonLdData;
+  let sourceFolder = null;
 
   for (const folder of lookupOrder) {
     const candidatePath = path.join(process.cwd(), 'content', params.lang, folder, `${params.slug}.md`);
@@ -73,6 +76,7 @@ export async function getStaticProps({ params }) {
       const scopedSlug = `${folder}/${params.slug}`;
       postData = await getPostData(params.lang, scopedSlug);
       jsonLdData = await getJsonLdData(params.lang, scopedSlug);
+      sourceFolder = folder;
       break;
     }
   }
@@ -82,6 +86,13 @@ export async function getStaticProps({ params }) {
   }
 
   const allPosts = getAllPostsMeta();
+  const relativeContentPath = path.join(sourceFolder || 'services', `${params.slug}.md`);
+  const routePath = `services/${params.slug}`;
+  const alternateLanguages = buildAlternateLanguageUrls({
+    relativeFilePath: relativeContentPath,
+    routePath,
+    fallbackLangs: [params.lang],
+  });
 
   return {
     props: {
@@ -90,6 +101,7 @@ export async function getStaticProps({ params }) {
       allPosts,
       pageLang: params.lang,
       pageSlug: params.slug,
+      alternateLanguages,
     },
   };
 }

@@ -9,10 +9,10 @@ import StickyContactBar from '../../../components/ServicePage/StickyContactBar';
 import CTASection from '../../../components/CTA/CTASection';
 import ArticleSection from '../../../components/ArticleSection/ArticleSection';
 
-export default function BusPilgrimagePage({ postData, relatedBusPages, jsonLdData, pageLang, pageSlug }) {
+export default function BusPilgrimagePage({ postData, relatedBusPages, jsonLdData, pageLang, pageSlug, alternateLanguages = [] }) {
   return (
     <>
-      <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={`bus/${pageSlug}`} jsonLdData={jsonLdData} />
+  <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={`bus/${pageSlug}`} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
       <NavBar />
       <StickyContactBar phone={postData.phone || '9450301573'} />
       <main>
@@ -50,6 +50,7 @@ export async function getStaticProps({ params }) {
   const path = await import('path');
   const matter = (await import('gray-matter')).default;
   const { markdownToHtml } = await import('../../../lib/markdown');
+  const { buildAlternateLanguageUrls } = await import('../../../lib/hreflang');
 
   const baseDir = path.join(process.cwd(), 'content', params.lang, 'bus');
   const filePath = path.join(baseDir, `${params.slug}.md`);
@@ -88,6 +89,12 @@ export async function getStaticProps({ params }) {
     }).filter(Boolean);
   } catch {}
 
+  const alternateLanguages = buildAlternateLanguageUrls({
+    relativeFilePath: path.join('bus', `${params.slug}.md`),
+    routePath: `bus/${params.slug}`,
+    fallbackLangs: [params.lang],
+  });
+
   return {
     props: {
       postData: { ...frontmatter, contentHtml },
@@ -95,6 +102,7 @@ export async function getStaticProps({ params }) {
       jsonLdData,
       pageLang: params.lang,
       pageSlug: params.slug,
+      alternateLanguages,
     },
   };
 }

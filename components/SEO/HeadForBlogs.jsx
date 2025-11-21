@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import HreflangTags from './HreflangTags'
 
 /**
  * HeadForBlogs
@@ -10,8 +11,9 @@ import Head from 'next/head'
  * - pageSlug: dynamic route slug (for canonical building)
  * - jsonLdData: optional JSON-LD object to inline
  * - siteBase: override site origin (defaults to https://www.kashitaxi.in)
+ * - alternateLanguages: optional array of {lang, url} for hreflang tags
  */
-export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, jsonLdData, siteBase = 'https://www.kashitaxi.in' }) {
+export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, jsonLdData, siteBase = 'https://www.kashitaxi.in', alternateLanguages = [] }) {
   if (!postData) return null
 
   const SITE = siteBase
@@ -40,6 +42,8 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
       <meta name="author" content={author} />
       <meta name="robots" content="index, follow" />
       <link rel="canonical" href={canonical} />
+
+      <HreflangTags pageLang={langForPath} canonical={canonical} alternates={alternateLanguages} />
 
       {/* Open Graph */}
       <meta property="og:title" content={title} />

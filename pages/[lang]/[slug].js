@@ -14,7 +14,7 @@ import StickyContactBar from '../../components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '../../components/BookingWidget/SidebarBookingWidget';
 import ItineraryTimeline from '../../components/DestinationPage/ItineraryTimeline';
 
-export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug }) {
+export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug, alternateLanguages = [] }) {
   const contentHtmlBefore = postData?.contentHtmlBefore ?? postData?.contentHtml ?? '';
   const contentHtmlAfter = postData?.contentHtmlAfter ?? null;
   const itinerary = postData?.itinerary || null;
@@ -25,7 +25,7 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
   return (
     <>
       {/* Centralized SEO Head */}
-      <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={pageSlug} jsonLdData={jsonLdData} />
+  <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={pageSlug} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
 
       <NavBar />
       
@@ -114,12 +114,18 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
 export async function getStaticProps({ params }) {
   const { getPostData, getJsonLdData, getRelatedPosts, getAllPostsMeta } = await import('../../lib/posts');
+  const { buildAlternateLanguageUrls } = await import('../../lib/hreflang');
   const postData = await getPostData(params.lang, params.slug);
   const jsonLdData = await getJsonLdData(params.lang, params.slug);
   const relatedPosts = getRelatedPosts(params.lang, params.slug);
 
   // Get organized post metadata for Footer
   const allPosts = getAllPostsMeta();
+  const alternateLanguages = buildAlternateLanguageUrls({
+    relativeFilePath: `${params.slug}.md`,
+    routePath: params.slug,
+    fallbackLangs: [params.lang],
+  });
   return {
     props: {
       postData,
@@ -128,6 +134,7 @@ export async function getStaticProps({ params }) {
       allPosts, // now contains organized metadata
       pageLang: params.lang,
       pageSlug: params.slug,
+      alternateLanguages,
     },
   };
 }

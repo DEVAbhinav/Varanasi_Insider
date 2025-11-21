@@ -29,7 +29,7 @@ const websiteNode = {
 };
 
 // Primary keyword phrase chosen: "Bike & Scooty Rental in Varanasi" (high intent + combines key variants)
-const primaryPageName = 'Scooty on Rent in Varanasi — From ₹350/day | Airport Pickup';
+const primaryPageName = 'Bike & Scooty Rental in Varanasi — From ₹350/day | Self-Drive';
 
 const jsonLdBusiness = {
   '@context': 'https://schema.org',
@@ -222,12 +222,21 @@ export default function BikeRentalsPage({ allPosts }) {
     return (
         <>
             <Head>
-                <title>Scooty on Rent in Varanasi — From ₹350/day | Airport Pickup</title>
-                <meta name="description" content="Book a scooty in Varanasi from ₹350/day. Free helmet, simple documents, WhatsApp confirmation, airport & Assi pickup by Vinayak Travels." />
+                <title>Bike & Scooty Rental in Varanasi from ₹350/day | Self-Drive</title>
+                <meta name="description" content="Bike rental in Varanasi from ₹350/day. Activa, Royal Enfield, 125-160cc bikes with helmet, simple documents, WhatsApp booking, airport & Assi pickup by Vinayak Travels." />
                 <meta name="keywords" content="bike rental varanasi,scooty on rent varanasi,bike on rent varanasi,self drive bike varanasi,two wheeler rental varanasi,activa on rent varanasi,royal enfield on rent varanasi" />
                 <link rel="canonical" href={canonicalUrl} />
-                <meta property="og:title" content="Scooty on Rent in Varanasi — From ₹350/day | Vinayak Travels" />
-                <meta property="og:description" content="Scooty on rent in Varanasi from ₹350/day with helmets, airport delivery and instant WhatsApp confirmation." />
+                
+                {/* Hreflang tags for international SEO - prevents duplicate content penalties */}
+                <link rel="alternate" hrefLang="en" href={canonicalUrl} />
+                <link rel="alternate" hrefLang="en-IN" href={canonicalUrl} />
+                <link rel="alternate" hrefLang="en-US" href={canonicalUrl} />
+                <link rel="alternate" hrefLang="en-GB" href={canonicalUrl} />
+                <link rel="alternate" hrefLang="en-AU" href={canonicalUrl} />
+                <link rel="alternate" hrefLang="x-default" href={canonicalUrl} />
+                
+                <meta property="og:title" content="Bike & Scooty Rental in Varanasi from ₹350/day | Vinayak Travels" />
+                <meta property="og:description" content="Bike rental & scooty on rent in Varanasi from ₹350/day with helmets, airport delivery and instant WhatsApp confirmation." />
                 <meta property="og:url" content={canonicalUrl} />
                 <meta property="og:site_name" content="Vinayak Travels" />
                 <meta property="og:image" content="https://www.kashitaxi.in/images/og-image-rentals.jpg" />
@@ -250,9 +259,9 @@ export default function BikeRentalsPage({ allPosts }) {
                         className="brightness-75"
                     />
                     <div className="relative z-10 flex h-full flex-col items-center justify-center text-center px-4">
-            <h1 className="text-4xl font-extrabold md:text-6xl">Scooty on Rent in Varanasi</h1>
+            <h1 className="text-4xl font-extrabold md:text-6xl">Bike & Scooty Rental in Varanasi</h1>
             <p className="mt-4 max-w-2xl text-lg md:text-xl">
-              Activa & scooty rentals from ₹350/day with helmets, instant WhatsApp booking, Assi & airport pickup.
+              Bike rental & scooty on rent from ₹350/day — Activa, Royal Enfield, 125-160cc bikes with helmets, instant WhatsApp booking, Assi & airport pickup.
                         </p>
                         <a
                             href="#fleet"
@@ -273,7 +282,7 @@ export default function BikeRentalsPage({ allPosts }) {
                             <div>
                                 <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-blue-100 text-2xl font-bold text-blue-600">1</div>
                                 <h3 className="mt-6 text-xl font-semibold">Browse Our Fleet</h3>
-                                <p className="mt-2 text-gray-600">Choose the perfect bike or scooty for your trip from our selection below.</p>
+                                <p className="mt-2 text-gray-600">Choose from scooties (Activa, TVS Jupiter) or bikes (Royal Enfield, 125-160cc) for your Varanasi exploration.</p>
                             </div>
                             <div>
                                 <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-blue-100 text-2xl font-bold text-blue-600">2</div>
@@ -337,17 +346,17 @@ export default function BikeRentalsPage({ allPosts }) {
                 {/* Updated SEO Content Section */}
                 <section className="bg-white py-16 sm:py-20">
                     <div className="container mx-auto max-w-4xl px-4 text-lg text-gray-700">
-                        <h1 className="text-center text-4xl font-bold sm:text-5xl text-gray-800 mb-8">Scooty on Rent in Varanasi: Affordable, Trusted & Airport-Friendly</h1>
+                        <h1 className="text-center text-4xl font-bold sm:text-5xl text-gray-800 mb-8">Bike Rental in Varanasi: Scooty & Motorcycle on Rent from ₹350/day</h1>
                         <p className="mt-6">
-                            Varanasi, the eternal city of ghats and temples, comes alive when explored on two wheels. At Varanasi Taxi, we specialize in <strong>scooty on rent in Varanasi</strong>, giving you the freedom to cruise from Assi to Dashashwamedh without haggling with autos. Whether you're navigating temple lanes or planning a quick airport pickup, our <strong>scooty rental in Varanasi</strong> plans start at just ₹350/day with helmets and easy paperwork. Prefer a bigger ride? We also stock 125–160cc bikes and Royal Enfield options, all serviced weekly and sanitized before handover.
+                            Varanasi, the eternal city of ghats and temples, comes alive when explored on two wheels. At Varanasi Taxi, we specialize in <strong>bike rental in Varanasi</strong> and <strong>scooty on rent in Varanasi</strong>, giving you the freedom to cruise from Assi to Dashashwamedh without haggling with autos. Whether you need a nimble Activa for navigating temple lanes or a powerful Royal Enfield for highway rides to Sarnath, our <strong>two wheeler rental in Varanasi</strong> starts at just ₹350/day with helmets and easy paperwork. All vehicles are serviced weekly and sanitized before handover.
                         </p>
                         <p className="mt-4">
-                            This ultimate guide, crafted from local expertise and real user feedback, covers our fleet, pricing, booking process, safety tips, and insider recommendations for must-visit spots. Prioritizing your convenience, we focus on well-maintained vehicles and transparent dealings to make your trip memorable and safe.
+                            This ultimate guide, crafted from local expertise and real user feedback, covers our fleet, pricing, booking process, safety tips, and insider recommendations for must-visit spots. Whether you're looking for <strong>bike on rent in Varanasi</strong> or a simple scooter, we prioritize well-maintained vehicles and transparent dealings to make your trip memorable and safe.
                         </p>
 
                         <h2 className="mt-12 text-3xl font-bold text-gray-800">Why Choose Varanasi Taxi for Bike Rental in Varanasi?</h2>
                         <p className="mt-6">
-                            Opting for <strong>two wheeler rental in Varanasi</strong> with Varanasi Taxi means freedom from crowded autos and unreliable public transport. Our rentals let you zip through traffic to reach the Ganges Ghats or venture to nearby attractions like Sarnath without delays. Travelers rave about the flexibility—perfect for spontaneous visits to temples or evening Aartis.
+                            Opting for <strong>bike rental in Varanasi</strong> with Varanasi Taxi means freedom from crowded autos and unreliable public transport. Our two-wheeler rentals let you zip through traffic to reach the Ganges Ghats or venture to nearby attractions like Sarnath without delays. Travelers rave about the flexibility—perfect for spontaneous visits to temples or evening Aartis. Whether you choose a scooty for city lanes or a bike for longer distances, we've got you covered.
                         </p>
                         <p className="mt-4">
                             With a 4.7-star rating on Justdial based on customer reviews, we're known for reliability and cleanliness. One reviewer shared, "I got a very nice and properly maintained bike—I recommend it to everyone!" For eco-friendly explorers, we also support <strong>bicycle rental in Varanasi</strong> inquiries, though our core focus is motorized options. In 2025, with improved city roads, our <strong>daily bike rental</strong> and <strong>monthly bike rental</strong> plans offer unbeatable value for short trips or extended stays.
@@ -365,6 +374,62 @@ export default function BikeRentalsPage({ allPosts }) {
                         </ul>
                         <p className="mt-4">
                             We ensure no hidden charges, with vehicles ready for immediate pickup near Varanasi Cantt Railway Station.
+                        </p>
+
+                        <h2 className="mt-12 text-3xl font-bold text-gray-800">Bike vs Scooty: Which Should You Choose for Varanasi?</h2>
+                        <p className="mt-6">
+                            Not sure whether to rent a bike or scooty in Varanasi? Here's a quick comparison to help you decide:
+                        </p>
+                        <div className="overflow-x-auto mt-4">
+                            <table className="min-w-full bg-white border border-gray-300">
+                                <thead>
+                                    <tr className="bg-gray-100">
+                                        <th className="py-3 px-4 border-b text-left">Feature</th>
+                                        <th className="py-3 px-4 border-b text-left">Scooty (Activa, Jupiter)</th>
+                                        <th className="py-3 px-4 border-b text-left">Bike (Royal Enfield, Shine)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td className="py-2 px-4 border-b font-semibold">Best For</td>
+                                        <td className="py-2 px-4 border-b">City rides, temple lanes, ghats</td>
+                                        <td className="py-2 px-4 border-b">Highway trips, Sarnath, waterfalls</td>
+                                    </tr>
+                                    <tr className="bg-gray-50">
+                                        <td className="py-2 px-4 border-b font-semibold">Ease of Riding</td>
+                                        <td className="py-2 px-4 border-b">Very easy, automatic</td>
+                                        <td className="py-2 px-4 border-b">Requires gear shifting</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="py-2 px-4 border-b font-semibold">Fuel Efficiency</td>
+                                        <td className="py-2 px-4 border-b">45-55 km/l</td>
+                                        <td className="py-2 px-4 border-b">35-40 km/l</td>
+                                    </tr>
+                                    <tr className="bg-gray-50">
+                                        <td className="py-2 px-4 border-b font-semibold">Price Range</td>
+                                        <td className="py-2 px-4 border-b">₹350-450/day</td>
+                                        <td className="py-2 px-4 border-b">₹700-1,500/day</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="py-2 px-4 border-b font-semibold">Long Distance</td>
+                                        <td className="py-2 px-4 border-b">Comfortable up to 30 km</td>
+                                        <td className="py-2 px-4 border-b">Perfect for 50-100 km trips</td>
+                                    </tr>
+                                    <tr className="bg-gray-50">
+                                        <td className="py-2 px-4 border-b font-semibold">Parking</td>
+                                        <td className="py-2 px-4 border-b">Fits in narrow spaces</td>
+                                        <td className="py-2 px-4 border-b">Needs more space</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="py-2 px-4 border-b font-semibold">Recommended For</td>
+                                        <td className="py-2 px-4 border-b">First-timers, solo travelers</td>
+                                        <td className="py-2 px-4 border-b">Experienced riders, adventure</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <p className="mt-4">
+                            <strong>Our Recommendation:</strong> Choose a scooty for exploring Varanasi's old city, temples, and ghats. Opt for a bike if you're planning trips to Sarnath, Chunar Fort, or nearby waterfalls. Both come with helmets and full insurance coverage.
                         </p>
 
                         <h2 className="mt-12 text-3xl font-bold text-gray-800">Pricing: Affordable Options for Daily and Monthly Rentals in 2025</h2>

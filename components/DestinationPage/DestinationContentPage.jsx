@@ -6,6 +6,7 @@ import ItineraryTimeline from '@/components/DestinationPage/ItineraryTimeline';
 import CTASection from '@/components/CTA/CTASection';
 import StickyContactBar from '@/components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '@/components/BookingWidget/SidebarBookingWidget';
+import HreflangTags from '@/components/SEO/HreflangTags';
 
 const SITE_BASE = 'https://www.kashitaxi.in';
 const DEFAULT_PHONE = '9935474730';
@@ -24,14 +25,16 @@ const toAbsoluteUrl = (url) => {
   return url.startsWith('http') ? url : `${SITE_BASE}${url}`;
 };
 
-export default function DestinationContentPage({ entry, category, allPosts }) {
+export default function DestinationContentPage({ entry, category, allPosts, pageLang = 'en', hreflangAlternates = [] }) {
   if (!entry) {
     return null;
   }
 
   const pageCategory = category || entry.category;
-  const slugPath = `/${entry.destination}/${pageCategory}/${entry.slug}`;
-  const canonicalUrl = `${SITE_BASE}${slugPath}`;
+  const langForPage = entry.lang || pageLang || 'en';
+  const slugPath = `/city/${entry.destination}/${pageCategory}/${entry.slug}`;
+  const localizedPath = `/${langForPage}${slugPath}`;
+  const canonicalUrl = `${SITE_BASE}${localizedPath}`;
   const title = entry.title || 'Kashi Taxi | Travel Agent Varanasi';
   const description = entry.description || '';
   const keywords = Array.isArray(entry.keywords)
@@ -60,6 +63,7 @@ export default function DestinationContentPage({ entry, category, allPosts }) {
         {keywords && <meta name="keywords" content={keywords} />}
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href={canonicalUrl} />
+        <HreflangTags pageLang={langForPage} canonical={canonicalUrl} alternates={hreflangAlternates} />
         <meta property="og:title" content={title} />
         {description && <meta property="og:description" content={description} />}
         <meta property="og:type" content={ogType} />
@@ -138,7 +142,7 @@ export default function DestinationContentPage({ entry, category, allPosts }) {
               <div className="hidden lg:block">
                 <SidebarBookingWidget
                   pageTitle={title}
-                  pageUrl={slugPath}
+                  pageUrl={localizedPath}
                 />
               </div>
             </aside>
@@ -148,7 +152,7 @@ export default function DestinationContentPage({ entry, category, allPosts }) {
         <div className="lg:hidden">
           <SidebarBookingWidget
             pageTitle={title}
-            pageUrl={slugPath}
+            pageUrl={localizedPath}
           />
         </div>
 

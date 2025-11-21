@@ -102,21 +102,36 @@ function generateSitemap() {
     urlEntries.set(loc, { priority, changefreq, ...meta });
   };
 
-  // Core landings with hreflang
+  // Core landings with hreflang - using proper ISO language-region codes
   add(`${BASE_URL}/`, '0.9', 'weekly', { hreflang: [
     { lang: 'x-default', url: `${BASE_URL}/` },
     { lang: 'en', url: `${BASE_URL}/en/` },
-    { lang: 'hi', url: `${BASE_URL}/hi/` }
+    { lang: 'en-IN', url: `${BASE_URL}/en/` },
+    { lang: 'en-US', url: `${BASE_URL}/en/` },
+    { lang: 'en-GB', url: `${BASE_URL}/en/` },
+    { lang: 'en-AU', url: `${BASE_URL}/en/` },
+    { lang: 'hi', url: `${BASE_URL}/hi/` },
+    { lang: 'hi-IN', url: `${BASE_URL}/hi/` }
   ]});
   add(`${BASE_URL}/en/`, '0.7', 'weekly', { hreflang: [
     { lang: 'x-default', url: `${BASE_URL}/` },
     { lang: 'en', url: `${BASE_URL}/en/` },
-    { lang: 'hi', url: `${BASE_URL}/hi/` }
+    { lang: 'en-IN', url: `${BASE_URL}/en/` },
+    { lang: 'en-US', url: `${BASE_URL}/en/` },
+    { lang: 'en-GB', url: `${BASE_URL}/en/` },
+    { lang: 'en-AU', url: `${BASE_URL}/en/` },
+    { lang: 'hi', url: `${BASE_URL}/hi/` },
+    { lang: 'hi-IN', url: `${BASE_URL}/hi/` }
   ]});
   add(`${BASE_URL}/hi/`, '0.7', 'weekly', { hreflang: [
     { lang: 'x-default', url: `${BASE_URL}/` },
     { lang: 'en', url: `${BASE_URL}/en/` },
-    { lang: 'hi', url: `${BASE_URL}/hi/` }
+    { lang: 'en-IN', url: `${BASE_URL}/en/` },
+    { lang: 'en-US', url: `${BASE_URL}/en/` },
+    { lang: 'en-GB', url: `${BASE_URL}/en/` },
+    { lang: 'en-AU', url: `${BASE_URL}/en/` },
+    { lang: 'hi', url: `${BASE_URL}/hi/` },
+    { lang: 'hi-IN', url: `${BASE_URL}/hi/` }
   ]});
 
   // Build hreflang map for content pages
@@ -130,23 +145,30 @@ function generateSitemap() {
     hreflangMap.get(key)[u.lang] = u.loc;
   });
 
-  // Content-derived URLs with hreflang
+  // Content-derived URLs with hreflang - using proper ISO codes to prevent duplicate content
   contentUrls.forEach(u => {
     const key = `${u.type}:${u.folder || ''}:${u.destination || ''}:${u.category || ''}:${u.slug}`;
     const alternates = hreflangMap.get(key);
     const hreflang = [];
     
-    // Add alternates for all available languages
+    // Add alternates for all available languages with regional codes
     if (alternates.en) {
       hreflang.push({ lang: 'en', url: alternates.en });
+      hreflang.push({ lang: 'en-IN', url: alternates.en });
+      hreflang.push({ lang: 'en-US', url: alternates.en });
+      hreflang.push({ lang: 'en-GB', url: alternates.en });
+      hreflang.push({ lang: 'en-AU', url: alternates.en });
     }
     if (alternates.hi) {
       hreflang.push({ lang: 'hi', url: alternates.hi });
+      hreflang.push({ lang: 'hi-IN', url: alternates.hi });
     }
     
     // Add x-default (prefer EN if available, otherwise use current)
     if (alternates.en) {
       hreflang.push({ lang: 'x-default', url: alternates.en });
+    } else {
+      hreflang.push({ lang: 'x-default', url: u.loc });
     }
     
     add(u.loc, u.priority, u.changefreq, { 
@@ -162,7 +184,12 @@ function generateSitemap() {
   add(`${BASE_URL}/`, '0.9', 'weekly', { hreflang: [
     { lang: 'x-default', url: `${BASE_URL}/` },
     { lang: 'en', url: `${BASE_URL}/en/` },
-    { lang: 'hi', url: `${BASE_URL}/hi/` }
+    { lang: 'en-IN', url: `${BASE_URL}/en/` },
+    { lang: 'en-US', url: `${BASE_URL}/en/` },
+    { lang: 'en-GB', url: `${BASE_URL}/en/` },
+    { lang: 'en-AU', url: `${BASE_URL}/en/` },
+    { lang: 'hi', url: `${BASE_URL}/hi/` },
+    { lang: 'hi-IN', url: `${BASE_URL}/hi/` }
   ]});
 
   // Build XML with hreflang support
