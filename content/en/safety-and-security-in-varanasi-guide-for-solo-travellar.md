@@ -417,7 +417,9 @@ A few words in the local language can go a long way in creating positive interac
 | Taxis & Auto-Rickshaws | Round up to nearest ₹10 or ₹20 |
 
 ## Top Things to Do in Varanasi & Safe Day Trips
-Beyond the essential logistics and safety protocols, Varanasi's soul is revealed through its core experiences. These are the moments that will define your trip. Here’s how to approach them with a plan, ensuring you get the most out of each one.
+Beyond the essential logistics and safety protocols, Varanasi's soul is revealed through its core experiences. These are the moments that will define your trip. Here's how to approach them with a plan, ensuring you get the most out of each one.
+
+> Complete guide to attractions: **[Tourist Spots in Varanasi](/en/tourist-spots-varanasi)**
 
 ### Sunrise Boat Ride on the Ganges: Step-by-Step
 A boat ride on the Ganges at dawn is the quintessential Varanasi experience; it’s when the city is at its most serene and mystical.   

@@ -1057,7 +1057,7 @@ Varanasi sightseeing is a journey into India's spiritual heart, where ancient tr
 - **Budget**: ₹5,000-9,000 per day for mid-range experience
 - **Advance booking essential**: Dev Deepawali (Nov 12, 2025) requires 4-6 weeks advance planning
 
-> **Ready to Book Your Tour?** Check our **[Varanasi Local Sightseeing Package](/en/destinations/varanasi/sightseeing/varanasi-local-sightseeing-package)** with half-day and full-day options from ₹1,800. Start with our **[Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)** and plan your arrival logistics. For complete tour packages, see **[Tour Packages from Varanasi](/en/tour-package-from-varanasi)** and **[Varanasi Customised Packages Tour](/en/packages/varanasi-customised-packages-tour)**.
+> **Ready to Book Your Tour?** Check our **[Varanasi Local Sightseeing Package](/en/destinations/varanasi/sightseeing/varanasi-local-sightseeing-package)** with half-day and full-day options from ₹1,800. Start with our **[Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)** and plan your arrival logistics. For complete tour packages, see **[Tour Packages from Varanasi](/en/tour-package-from-varanasi)** and **[Varanasi Tour Package](/en/packages/varanasi-tour-package)**.
 
 **Multi-City Pilgrimage Tours:**
 

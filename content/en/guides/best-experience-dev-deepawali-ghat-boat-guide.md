@@ -230,6 +230,6 @@ We offer combined bookings:
 - [Dev Deepawali 2025 Complete Festival Guide](/en/dev-deepawali-2025-varanasi-ultimate-guide)
 - [Fixed-Fare Dev Deepawali Taxi Booking](/en/landing/dev-deepawali-taxi-booking-varanasi)
 - [Dev Deepawali Crowd Survival Guide](/en/dev-deepawali-crowd-survival-guide-varanasi)
-- [Varanasi Customised Tour Packages](/en/packages/varanasi-customised-packages-tour)
+- [Varanasi Tour Packages](/en/packages/varanasi-tour-package)
 
 > Solo female traveler? See our [Safest Taxi for Women service](/en/services/varanasi-safest-taxi-for-women).

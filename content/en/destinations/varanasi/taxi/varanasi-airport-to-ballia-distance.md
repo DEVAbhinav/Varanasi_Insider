@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to Ballia: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Ballia: Outstation Taxi | ₹24/km Fixed Rate"
 slug: "varanasi-airport-to-ballia-distance"
 date: "2025-11-19"
-lastUpdated: "2025-11-19"
+lastUpdated: "2025-11-22"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Ballia: Distance, Time, Taxi Fare (2025)"
-metaDescription: "Plan your 150–154 km taxi from Varanasi Airport to Ballia: 3–4 hour drive via NH-31, fare bands, and list of important temples and Surha Tal bird sanctuary."
-description: "Airport-to-town taxi guide from Varanasi Airport (VNS) to Ballia with distance, travel time, fares, and pilgrimage plus nature sightseeing ideas."
+metaTitle: "VNS to Ballia Outstation Cab: 150km, 3hrs | ₹2,500 Sedan"
+metaDescription: "150km VNS to Ballia in 3-4hrs via NH-31. Sedan ₹2,500, Innova ₹3,200. Surha Tal bird sanctuary stops included. Book: 9450301573"
+description: "Long-distance airport to Ballia taxi at competitive rates. 150km via NH-31, 3-4hrs, bird sanctuary stops. Sedan ₹2,500. Call 9450301573."
 keywords:
   - "varanasi airport to ballia distance"
   - "vns to ballia taxi fare"

@@ -141,7 +141,7 @@ Our **women-centric taxi service** provides the highest level of safety for solo
 
 - [Pink Taxi in Varanasi](/pink-taxi-varanasi)
 - [Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)
-- [Varanasi Customised Tour Packages](/en/packages/varanasi-customised-packages-tour)
+- [Varanasi Tour Packages](/en/packages/varanasi-tour-package)
 
 ---
 

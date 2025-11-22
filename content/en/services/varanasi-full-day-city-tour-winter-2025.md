@@ -223,4 +223,4 @@ Our **full-day taxi for Varanasi sightseeing** (8–10 hours) offers comprehensi
 - [Safest Taxi for Women](/en/services/varanasi-safest-taxi-for-women)
 - [Dev Deepawali Festival Transport](/en/landing/dev-deepawali-taxi-booking-varanasi)
 
-> Planning multi-day stay? See [Varanasi Customised Tour Packages](/en/packages/varanasi-customised-packages-tour).
+> Planning multi-day stay? See [Varanasi Tour Packages](/en/packages/varanasi-tour-package).

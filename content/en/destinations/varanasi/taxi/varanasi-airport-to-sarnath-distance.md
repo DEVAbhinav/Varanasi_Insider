@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to Sarnath: Distance, Time, Taxi Fare (2025)"
+title: "Airport to Sarnath Buddha Temple: ₹850 Direct Taxi | 50min Transfer"
 slug: "varanasi-airport-to-sarnath-distance"
 date: "2025-11-12"
-lastUpdated: "2025-11-12"
+lastUpdated: "2025-11-22"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Sarnath: Distance, Time, Taxi Fare (2025)"
-metaDescription: "Plan your Buddhist circuit arrival: 32 km distance from Varanasi Airport to Sarnath, 50–60 minute drive, taxi fares, Dhamek Stupa hours, and route tips for 2025."
-description: "Travel smoothly from Varanasi Airport (VNS) to Sarnath with confirmed distance, travel time, taxi fares, route alternatives, and Dhamek Stupa timing guidance for 2025."
+metaTitle: "Varanasi Airport→Sarnath Stupa Cab ₹850 | Buddhist Circuit Drop"
+metaDescription: "32km VNS to Sarnath (Dhamek Stupa, ASI museum) in 50-60min. Sedan ₹850, SUV ₹1,200. Last entry 4:30 PM—book early arrival. Call 9450301573"
+description: "Buddhist pilgrimage taxi from Varanasi Airport to Sarnath at ₹850. 32km, 50-60min. Museum closes 4:30 PM. Early booking recommended. Call 9450301573."
 keywords:
   - "varanasi airport to sarnath distance"
   - "vns to sarnath taxi fare"

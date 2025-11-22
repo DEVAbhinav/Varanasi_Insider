@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to Assi Ghat: Distance, Time, Taxi Fare (2025)"
+title: "Airport to Assi Ghat for Morning Aarti: ₹800 | 4:30 AM Pickup Available"
 slug: "varanasi-airport-to-assi-ghat-distance"
 date: "2025-11-12"
-lastUpdated: "2025-11-12"
+lastUpdated: "2025-11-22"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Assi Ghat: Distance, Time, Taxi Fare (2025)"
-metaDescription: "Get the 27–28 km distance, 40–60 minute travel time, taxi fares, and Subah-e-Banaras timing tips for your 2025 transfer from Varanasi Airport to Assi Ghat."
-description: "Navigate from Varanasi Airport (VNS) to Assi Ghat effortlessly with definitive distance, travel time, taxi fares, route advice, and sunrise Subah-e-Banaras cues for 2025."
+metaTitle: "VNS→Assi Ghat Taxi ₹800 | Subah-e-Banaras, BHU, Café Access"
+metaDescription: "27km VNS to Assi Ghat in 40-60min. ₹800 sedan via BHU-Lanka. Pre-dawn pickup for Subah-e-Banaras (5:15 AM). Book: wa.me/919450301573"
+description: "Catch morning aarti! Airport to Assi Ghat taxi at ₹800. 27km, 40-60min. Pre-dawn pickups for Subah-e-Banaras. Café culture access. Book: 9450301573."
 keywords:
   - "varanasi airport to assi ghat distance"
   - "vns to assi ghat taxi fare"

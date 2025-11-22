@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to Prayagraj (Allahabad): Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Prayagraj: Direct Taxi 2.5hrs | ₹1,500 Sedan"
 slug: "varanasi-airport-to-prayagraj-distance"
 date: "2025-11-19"
-lastUpdated: "2025-11-19"
+lastUpdated: "2025-11-22"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Prayagraj: Distance, Time, Taxi Fare (2025)"
-metaDescription: "Plan your 118–125 km taxi from Varanasi Airport to Prayagraj (Allahabad): 2–3 hour drive via NH-19, one-way and round-trip fares, pickup points, and key Sangam attractions."
-description: "Smooth airport-to-city transfer from Varanasi Airport (VNS) to Prayagraj with confirmed distance, drive time, taxi fares, and Sangam-side sightseeing tips."
+metaTitle: "Book VNS→Prayagraj Cab: NH-19 Route, Sangam Drop | Fixed ₹1,500"
+metaDescription: "118km VNS to Prayagraj/Allahabad in 2-3hrs via NH-19. Sedan ₹1,500-2,000, Innova ₹2,600. Sangam, Civil Lines drop. Multiple stops OK. Call 9450301573"
+description: "Outstation taxi from Varanasi Airport to Prayagraj at ₹1,500-2,000. 118km, 2.5hrs via NH-19. Sangam, temples en route. Multiple stops included. Book: 9450301573."
 keywords:
   - "varanasi airport to prayagraj distance"
   - "vns to allahabad taxi fare"

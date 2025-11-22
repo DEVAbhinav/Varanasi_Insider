@@ -63,6 +63,22 @@ export default function DestinationContentPage({ entry, category, allPosts, page
       }
     : null;
 
+  const faqJsonLd = Array.isArray(entry.faqSchema) && entry.faqSchema.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        '@id': `${canonicalUrl}#faq`,
+        mainEntity: entry.faqSchema.map((faq) => ({
+          '@type': 'Question',
+          name: faq.question,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: faq.answer,
+          },
+        })),
+      }
+    : null;
+
   const itinerary = entry.itinerary;
   const itinerarySections = Array.isArray(entry.itinerarySections) ? entry.itinerarySections : [];
   const contentHtmlBefore = entry.contentHtmlBefore ?? entry.contentHtml;
@@ -102,6 +118,12 @@ export default function DestinationContentPage({ entry, category, allPosts, page
           <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+          />
+        )}
+        {faqJsonLd && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
           />
         )}
       </Head>

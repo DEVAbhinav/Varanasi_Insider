@@ -440,7 +440,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 **Features**: Ganga-view rooms, spa facilities, fine dining, heritage architecture, concierge services, VIP temple arrangements  
 **Ideal For**: Luxury travelers, honeymoon packages, VIP corporate groups
 
-> **Premium transport**: [Luxury Innova Crysta on Rent](/en/services/innova-crysta-on-rent-in-varanasi) | [Book Airport Taxi Service](/en/services/varanasi-airport-taxi-service)
+> **Premium transport**: [Outstation Cabs from Varanasi](/en/outstation-cabs-from-varanasi) | [Book Airport Taxi Service](/en/services/varanasi-airport-taxi-service)
 
 ## Transportation & Connectivity for Varanasi Tour
 

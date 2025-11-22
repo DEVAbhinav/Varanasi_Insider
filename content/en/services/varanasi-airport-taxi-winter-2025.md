@@ -160,7 +160,7 @@ Our **VNS airport taxi service** provides fixed-fare, pre-booked transfers from 
 ---
 
 **Related Services:**
-- [Varanasi Customised Tour Packages](/en/packages/varanasi-customised-packages-tour)
+- [Varanasi Tour Packages](/en/packages/varanasi-tour-package)
 - [Safest Taxi for Women](/en/services/varanasi-safest-taxi-for-women)
 - [Dev Deepawali Festival Transport](/en/landing/dev-deepawali-taxi-booking-varanasi)
 - [Pink Taxi Service](/pink-taxi-varanasi)

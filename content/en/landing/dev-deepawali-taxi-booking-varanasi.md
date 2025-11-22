@@ -123,4 +123,4 @@ Each itinerary gets a colour-coded movement brief (PDF + WhatsApp summary).
 
 ---
 
-Need multi-day planning? See our [Varanasi Customised Tour Packages](/en/packages/varanasi-customised-packages-tour) or explore [Airport Transfers Guide](/en/varanasi-airport-taxi-guide).
+Need multi-day planning? See our [Varanasi Tour Packages](/en/packages/varanasi-tour-package) or explore [Airport Transfers Guide](/en/varanasi-airport-taxi-guide).

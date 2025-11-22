@@ -290,7 +290,7 @@ A: Vehicle, driver, fuel, waiting time, and basic maintenance. Excludes parking 
 
 - [9 vs 12 vs 17 Seater Tempo Traveller Comparison](/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
 - [Complete Festival Transport Guide](/en/book-taxi-varanasi-ramlila-dussehra)
-- [Varanasi Group Tour Packages](/en/varanasi-group-tour-packages)
+- [Varanasi Tempo Traveller Services](/en/tempo-traveller-varanasi)
 - [Festival Safety & Crowd Management](/en/varanasi-festival-safety-guide)
 
 ---
