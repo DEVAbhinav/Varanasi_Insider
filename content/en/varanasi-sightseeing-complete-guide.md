@@ -499,6 +499,18 @@ Emperor Ashoka erected a polished sandstone pillar here around 250 BCE. The orig
 
 ![Kashi Vishwanath Temple golden spire](/images/varanasi-kashvishwanath-outside-p.jpeg "Golden spire of Kashi Vishwanath Temple")
 
+| Vishwanath Dham Exterior 1 | Vishwanath Dham Exterior 2 | Vishwanath Dham Exterior 3 |
+| --- | --- | --- |
+| ![](/images/vishwanath-dham-temple-exterior-1.jpeg "Vishwanath Dham Temple Exterior 1") | ![](/images/vishwanath-dham-temple-exterior-2.jpeg "Vishwanath Dham Temple Exterior 2") | ![](/images/vishwanath-dham-temple-exterior-3.jpeg "Vishwanath Dham Temple Exterior 3") |
+
+| Vishwanath Dham Exterior 4 | Vishwanath Dham Exterior 5 | Vishwanath Dham Exterior 6 |
+| --- | --- | --- |
+| ![](/images/vishwanath-dham-temple-exterior-4.jpeg "Vishwanath Dham Temple Exterior 4") | ![](/images/vishwanath-dham-temple-exterior-5.jpeg "Vishwanath Dham Temple Exterior 5") | ![](/images/vishwanath-dham-temple-exterior-6.jpeg "Vishwanath Dham Temple Exterior 6") |
+
+| Vishwanath Dham Exterior 7 | Vishwanath Dham Exterior 8 | Vishwanath Dham Exterior 9 |
+| --- | --- | --- |
+| ![](/images/vishwanath-dham-temple-exterior-7.jpeg "Vishwanath Dham Temple Exterior 7") | ![](/images/vishwanath-dham-temple-exterior-8.jpeg "Vishwanath Dham Temple Exterior 8") | ![](/images/vishwanath-dham-temple-exterior-9.jpeg "Vishwanath Dham Temple Exterior 9") |
+
 **Temple Timings** (2025):
 
 - **Opening**: 2:30-3:00 AM (for priests)
@@ -1093,3 +1105,11 @@ Varanasi sightseeing is a journey into India's spiritual heart, where ancient tr
 **Need assistance planning your Varanasi sightseeing tour?**
 
 WhatsApp **+91 94503 01573** for customized itineraries, verified guides, and reliable transport arrangements.
+
+---
+
+## Varanasi Tourist Guide
+
+| Tourist Icon 1 | Tourist Icon 2 | Tourist Icon 3 | Tourist Icon 4 |
+| --- | --- | --- | --- |
+| ![](/images/tourist-icon-friendly-guide-1.jpeg "Tourist Icon 1") | ![](/images/tourist-icon-friendly-guide-2.jpeg "Tourist Icon 2") | ![](/images/tourist-icon-friendly-guide-3.jpeg "Tourist Icon 3") | ![](/images/tourist-icon-friendly-guide-4.jpeg "Tourist Icon 4") |

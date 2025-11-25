@@ -23,6 +23,14 @@ Evening Ganga Aarti at Dashashwamedh Ghat—a mesmerizing end to a day of sights
 
 ![Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Clean interiors ideal for seniors and families")
 
+| Vishwanath Dham Exterior 1 | Vishwanath Dham Exterior 2 |
+| --- | --- |
+| ![](/images/vishwanath-dham-temple-exterior-1.jpeg "Vishwanath Dham Temple Exterior 1") | ![](/images/vishwanath-dham-temple-exterior-2.jpeg "Vishwanath Dham Temple Exterior 2") |
+
+| Tourist Icon 1 | Tourist Icon 2 |
+| --- | --- |
+| ![](/images/tourist-icon-friendly-guide-1.jpeg "Tourist Icon 1") | ![](/images/tourist-icon-friendly-guide-2.jpeg "Tourist Icon 2") |
+
 ## Kashi Darshan Tempo Traveller Package Overview
 
 - Duration: 8 hours (standard) or extend up to 12 hours (full‑day) as per preference. The classic package is 8hr/80km and covers the main highlights
