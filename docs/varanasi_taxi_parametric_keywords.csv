@@ -1,0 +1,65 @@
+Keyword,Parameter Type,Sub-Category,Distance,Fare Range,Search Intent,Priority,Customer Value,Notes
+Varanasi to Prayagraj taxi,Destination City,High Volume Routes (100-200 km),121 km,"₹1,700-₹3,500",High,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Allahabad cab,Destination City,High Volume Routes (100-200 km),121 km,"₹1,700-₹3,500",High,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Ayodhya taxi,Destination City,High Volume Routes (100-200 km),220 km,"₹2,475-₹4,500",Very High,High,High Revenue,Outstation route - High booking potential
+Varanasi to Gaya cab,Destination City,High Volume Routes (100-200 km),255 km,"₹2,850-₹5,246",High,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Bodhgaya taxi,Destination City,High Volume Routes (100-200 km),255 km,"₹3,100-₹5,265",High,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Gorakhpur taxi,Destination City,Medium Volume Routes (200-400 km),211 km,"₹2,464-₹3,500",High,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Lucknow cab,Destination City,Medium Volume Routes (200-400 km),312 km,"₹3,352-₹4,500",High,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Chitrakoot taxi,Destination City,Medium Volume Routes (200-400 km),289 km,"₹4,999-₹5,195",Medium,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Patna cab,Destination City,Medium Volume Routes (200-400 km),300 km,"₹3,239-₹6,660",Medium,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Khajuraho taxi,Destination City,Medium Volume Routes (200-400 km),392 km,"₹5,840-₹8,453",Medium,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Agra taxi,Destination City,Long Distance Routes (400+ km),651 km,"₹7,900-₹13,581",Medium,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Kolkata cab,Destination City,Long Distance Routes (400+ km),684 km,"₹8,500-₹14,988",Medium,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Delhi taxi,Destination City,Long Distance Routes (400+ km),854 km,"₹6,544-₹14,935",High,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Jaipur cab,Destination City,Long Distance Routes (400+ km),893 km,"₹9,724-₹19,715",Medium,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Kathmandu taxi,Destination City,Long Distance Routes (400+ km),666 km,"₹12,500-₹26,500",Medium,Medium,High Revenue,Outstation route - High booking potential
+Varanasi to Nepal cab,Destination City,Long Distance Routes (400+ km),400-666 km,"₹12,500-₹32,000",Medium,Medium,High Revenue,Outstation route - High booking potential
+Varanasi airport taxi,Service Type,Airport Transfer,Varies,"₹700-₹1,550",Very High,High,High Frequency,Service-specific targeting
+Varanasi airport to city cab,Service Type,Airport Transfer,Varies,₹700-₹950,Very High,High,High Frequency,Service-specific targeting
+LBS airport taxi Varanasi,Service Type,Airport Transfer,Varies,"₹700-₹1,250",High,Medium,High Frequency,Service-specific targeting
+Varanasi airport pickup,Service Type,Airport Transfer,Varies,₹700-₹950,High,Medium,High Frequency,Service-specific targeting
+Varanasi airport to Assi ghat taxi,Service Type,Airport Transfer,Varies,₹700-₹950,High,Medium,High Frequency,Service-specific targeting
+Varanasi airport to Dashashwamedh ghat cab,Service Type,Airport Transfer,Varies,₹700-₹950,High,Medium,High Frequency,Service-specific targeting
+Varanasi local taxi,Service Type,Local Sightseeing,Varies,"₹1,100-₹2,200",Very High,High,High Frequency,Service-specific targeting
+Kashi darshan cab,Service Type,Local Sightseeing,Varies,"₹1,100-₹2,200",Very High,High,Medium,Service-specific targeting
+Varanasi sightseeing taxi,Service Type,Local Sightseeing,Varies,"₹1,500-₹2,300",High,Medium,Medium,Service-specific targeting
+Varanasi full day cab,Service Type,Local Sightseeing,Varies,"₹1,850-₹2,500",High,Medium,Medium,Service-specific targeting
+Varanasi half day taxi,Service Type,Local Sightseeing,Varies,"₹1,100-₹1,400",Medium,Medium,Medium,Service-specific targeting
+Varanasi temple tour cab,Service Type,Local Sightseeing,Varies,"₹1,100-₹2,200",High,Medium,Medium,Service-specific targeting
+one way taxi Varanasi,Service Type,One Way & Round Trip,Varies,₹9-11/km,High,Medium,Medium,Service-specific targeting
+one way cab from Varanasi,Service Type,One Way & Round Trip,Varies,₹9-11/km,High,Medium,Medium,Service-specific targeting
+round trip taxi Varanasi,Service Type,One Way & Round Trip,Varies,₹8-15/km,Medium,Medium,Medium,Service-specific targeting
+Varanasi outstation cab,Service Type,One Way & Round Trip,Varies,₹9-17/km,High,Medium,Medium,Service-specific targeting
+Char Dham taxi from Varanasi,Use Case/Purpose,Religious/Pilgrimage,Varies,"₹32,000-₹42,000",High,Medium,Very High,Specific customer intent
+Varanasi to Char Dham yatra cab,Use Case/Purpose,Religious/Pilgrimage,Varies,"₹32,000-₹42,000",High,Medium,Very High,Specific customer intent
+Kashi Vishwanath temple taxi,Use Case/Purpose,Religious/Pilgrimage,Varies,"₹600-₹1,000",Very High,High,Medium,Specific customer intent
+Varanasi ghat taxi service,Use Case/Purpose,Religious/Pilgrimage,Varies,"₹600-₹1,000",High,Medium,Medium,Specific customer intent
+Sarnath taxi from Varanasi,Use Case/Purpose,Religious/Pilgrimage,Varies,"₹800-₹1,200",High,Medium,Medium,Specific customer intent
+corporate cab service Varanasi,Use Case/Purpose,Corporate/Business,Varies,₹11-18/km,Medium,Medium,Medium,Specific customer intent
+Varanasi corporate taxi,Use Case/Purpose,Corporate/Business,Varies,₹11-18/km,Medium,Medium,Medium,Specific customer intent
+business travel cab Varanasi,Use Case/Purpose,Corporate/Business,Varies,₹11-18/km,Medium,Medium,Medium,Specific customer intent
+employee transport Varanasi,Use Case/Purpose,Corporate/Business,Varies,₹11-22/km,Medium,Medium,Medium,Specific customer intent
+wedding car rental Varanasi,Use Case/Purpose,Special Events,Varies,Custom,Medium,Medium,Very High,Specific customer intent
+luxury cab for wedding Varanasi,Use Case/Purpose,Special Events,Varies,Custom,Medium,Medium,Very High,Specific customer intent
+tempo traveller Varanasi,Use Case/Purpose,Special Events,Varies,₹24-38/km,High,Medium,Medium,Specific customer intent
+group taxi Varanasi,Use Case/Purpose,Special Events,Varies,"₹2,000-₹7,200",High,Medium,Medium,Specific customer intent
+taxi near Assi ghat,Pickup Location,Popular Pickup Points,Local,"₹600-₹1,500",Very High,High,High Frequency,Location-based local SEO
+cab near Dashashwamedh ghat,Pickup Location,Popular Pickup Points,Local,"₹600-₹1,500",Very High,High,High Frequency,Location-based local SEO
+taxi near Varanasi railway station,Pickup Location,Popular Pickup Points,Local,"₹600-₹1,500",Very High,High,High Frequency,Location-based local SEO
+cab near Varanasi Cantt,Pickup Location,Popular Pickup Points,Local,"₹600-₹1,500",High,High,High Frequency,Location-based local SEO
+taxi near BHU Varanasi,Pickup Location,Popular Pickup Points,Local,"₹600-₹1,500",High,High,High Frequency,Location-based local SEO
+cab near Godowlia Varanasi,Pickup Location,Popular Pickup Points,Local,"₹600-₹1,500",High,High,High Frequency,Location-based local SEO
+taxi service in Varanasi,Generic/Brand,High Intent Search Terms,All,Varies,Very High,High,Very High,Core service keywords - highest volume
+cab service Varanasi,Generic/Brand,High Intent Search Terms,All,Varies,Very High,High,Very High,Core service keywords - highest volume
+taxi booking Varanasi,Generic/Brand,High Intent Search Terms,All,Varies,Very High,High,Very High,Core service keywords - highest volume
+cab booking Varanasi,Generic/Brand,High Intent Search Terms,All,Varies,Very High,High,Very High,Core service keywords - highest volume
+taxi near me Varanasi,Generic/Brand,High Intent Search Terms,All,Varies,Very High,High,Very High,Core service keywords - highest volume
+cab near me Varanasi,Generic/Brand,High Intent Search Terms,All,Varies,Very High,High,Very High,Core service keywords - highest volume
+Varanasi taxi fare,Generic/Brand,High Intent Search Terms,All,Varies,High,High,Very High,Core service keywords - highest volume
+Varanasi cab rates,Generic/Brand,High Intent Search Terms,All,Varies,High,High,Very High,Core service keywords - highest volume
+best taxi service Varanasi,Generic/Brand,High Intent Search Terms,All,Varies,High,High,Very High,Core service keywords - highest volume
+cheap cab Varanasi,Generic/Brand,High Intent Search Terms,All,Varies,High,High,Very High,Core service keywords - highest volume
+24x7 taxi Varanasi,Time/Availability,Time-Specific,All,Standard rates,Medium,Medium,Medium,Availability-based targeting
+night taxi service Varanasi,Time/Availability,Time-Specific,All,Standard rates,Medium,Medium,Medium,Availability-based targeting
+early morning cab Varanasi,Time/Availability,Time-Specific,All,Standard rates,Medium,Medium,Medium,Availability-based targeting

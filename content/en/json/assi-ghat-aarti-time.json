@@ -1,0 +1,149 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-time",
+      "url": "https://www.kashitaxi.in/en/assi-ghat-aarti-time",
+      "name": "Assi Ghat Aarti Time Today – Morning & Evening Live Schedule",
+      "description": "Live Assi Ghat aarti schedule with today’s timings, sunrise/sunset seasonal changes, taxi tips, etiquette, and booking CTAs.",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@id": "https://www.kashitaxi.in/#website"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Assi Ghat Aarti Time Today – Morning & Evening Live Schedule",
+      "description": "Morning Subah-e-Banaras and evening Sandhya Aarti timings updated daily with arrival tips, weather notes, taxi bookings, and FAQ.",
+      "image": [
+        "https://www.kashitaxi.in/images/varanasi-assi-ghat-sunrise.jpeg",
+        "https://www.kashitaxi.in/images/assi-aarti-evening-P.jpeg"
+      ],
+      "datePublished": "2025-11-25",
+      "dateModified": "2025-11-25",
+      "author": {
+        "@type": "Person",
+        "name": "Naval Kishore"
+      },
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-time"
+      }
+    },
+    {
+      "@type": "Event",
+      "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-time#morning",
+      "name": "Assi Ghat Morning Aarti (Subah-e-Banaras)",
+      "startDate": "2025-11-25T06:30:00+05:30",
+      "endDate": "2025-11-25T07:00:00+05:30",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "Assi Ghat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Assi Ghat Rd",
+          "addressLocality": "Varanasi",
+          "addressRegion": "UP",
+          "postalCode": "221005",
+          "addressCountry": "IN"
+        }
+      },
+      "description": "Daily morning Subah-e-Banaras ritual with yoga, Vedic chants, and lamp ceremony. Arrive 20 minutes early for best seating."
+    },
+    {
+      "@type": "Event",
+      "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-time#evening",
+      "name": "Assi Ghat Evening Sandhya Aarti",
+      "startDate": "2025-11-25T18:00:00+05:30",
+      "endDate": "2025-11-25T19:00:00+05:30",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "Assi Ghat",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Varanasi",
+          "addressRegion": "UP",
+          "addressCountry": "IN"
+        }
+      },
+      "description": "Evening lamp ceremony with classical music and choreographed diyas. Arrive 30 minutes early, especially during festival season."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-time#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What time is Assi Ghat aarti today?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Morning Subah-e-Banaras runs 6:30-7:00 AM and the evening Sandhya Aarti 6:00-7:00 PM this week. Timings are updated nightly at 9:00 PM IST."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How early should I arrive for Assi Ghat aarti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Arrive 20 minutes early in winter and 40 minutes early during festivals or Dev Deepawali to secure second-step seating."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the aarti timing change by season?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Morning slots follow sunrise (5:15-6:30 AM across the year) and evenings follow sunset (5:45-7:30 PM). Fog, monsoon, or festivals can shift start times by ±15 minutes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there an entry fee for Assi Ghat aarti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No entry fee; a voluntary donation of ₹50-₹100 supports the cultural troupe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a taxi for Assi Ghat aarti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Call +91-94503-01573 or WhatsApp the dispatch team for 5:45 AM and 5:00 PM pickups with wait service, blankets, and cold towels based on season."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-time#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Guides",
+          "item": "https://www.kashitaxi.in/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Assi Ghat Aarti Time Today",
+          "item": "https://www.kashitaxi.in/en/assi-ghat-aarti-time"
+        }
+      ]
+    }
+  ]
+}
