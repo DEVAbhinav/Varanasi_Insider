@@ -25,6 +25,8 @@ eyebrow: "Music & Spirituality"
 ctaTitle: "Attending the Festival?"
 ctaSubtitle: "Secure your airport transfer to Guleria Kothi or Shivala Ghat in advance."
 
+---
+
 # Mahindra Kabira Festival – A Celebration of the 15th-Century Mystic Poet
 
 **Festival Snapshot**
