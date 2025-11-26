@@ -1,6 +1,6 @@
 ---
 title: "वाराणसी दिसंबर 2025: उत्सव, सूर्योदय रूटीन और शॉपिंग"
-slug: "varanasi-december-2025-guide"
+slug: "varanasi-december-2025-experience-hub"
 date: "2025-11-20"
 lastUpdated: "2025-11-20"
 author: "Varanasi Insider Team"

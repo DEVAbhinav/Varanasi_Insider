@@ -440,7 +440,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 **Features**: Ganga-view rooms, spa facilities, fine dining, heritage architecture, concierge services, VIP temple arrangements  
 **Ideal For**: Luxury travelers, honeymoon packages, VIP corporate groups
 
-> **Premium transport**: [Outstation Cabs from Varanasi](/en/outstation-cabs-from-varanasi) | [Book Airport Taxi Service](/en/services/varanasi-airport-taxi-service)
+> **Premium transport**: [Outstation Cabs from Varanasi](/en/outstation-cabs-from-varanasi) | [Book Airport Taxi](/en/varanasi-airport-taxi-guide)
 
 ## Transportation & Connectivity for Varanasi Tour
 
@@ -462,7 +462,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 | **Town Car Service** | ₹1,800–₹2,600 | Premium option |
 | **Bus** | ₹50–₹100 | Hotel India / Hotel Vaibhav routes |
 
-> **Book hassle-free pickup**: [Varanasi Airport Taxi Service](/en/services/varanasi-airport-taxi-service) | [Outstation Cab Service](/en/services/outstation-cab-service)
+> **Book hassle-free pickup**: [Varanasi Airport Taxi](/en/varanasi-airport-taxi-guide) | [Outstation Cabs](/en/outstation-cabs-from-varanasi)
 
 ### Local Transportation for Varanasi City Tour
 
@@ -500,7 +500,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 | **Varanasi to Ayodhya** | ₹7,499–₹11,499 | Sedan (4-seat) / Innova (6-7 seat) / Tempo (12-seat) |
 | **Multi-City Circuit** | Custom quotes | Based on days & destinations |
 
-> **Group travel**: [Tempo Traveller on Rent in Varanasi](/en/tempo-traveller-on-rent-in-varanasi) | [Varanasi to Vindhyachal Tempo Traveller](/en/varanasi-to-vindhyachal-tempo-traveller)
+> **Group travel**: [Tempo Traveller Varanasi](/en/tempo-traveller-varanasi) | [Varanasi to Vindhyachal Tempo Traveller](/en/varanasi-to-vindhyachal-tempo-traveller)
 
 ### Walking & Ghat Areas
 
@@ -583,7 +583,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 - Varanasi + Prayagraj tour package (3 days): ₹12,000–₹18,000 per person
 - Varanasi + Ayodhya + Prayagraj tour package (5 days): ₹18,000–₹28,000 per person
 
-> **Nearby pilgrimages**: [Varanasi to Vindhyachal Dham Complete Guide](/en/varanasi-to-vindhyachal-dham-complete-guide) | [Varanasi to Chunar Fort Guide](/en/varanasi-to-chunar-fort-guide)
+> **Nearby pilgrimages**: [Varanasi to Vindhyachal Guide](/en/varanasi-to-vindhyachal) | [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary)
 
 ## Practical Tips for Varanasi Tour
 
@@ -608,7 +608,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 | **Walking Required** | Old city lanes are vehicle-restricted (30–45 min walks) |
 | **Bargaining** | Expected in markets (start at 40–50% of quoted price) |
 
-> **Essential guides**: [Things to Do in Varanasi](/en/things-to-do-in-varanasi) | [Varanasi Sightseeing Guide](/en/varanasi-sightseeing-guide)
+> **Essential guides**: [Tourist Spots Varanasi](/en/tourist-spots-varanasi) | [Varanasi Sightseeing Complete Guide](/en/varanasi-sightseeing-complete-guide)
 
 ---
 

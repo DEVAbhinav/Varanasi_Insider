@@ -1,0 +1,233 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LocalBusiness", "TaxiService", "EmergencyService"],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Varanasi Taxi - Vinayak Travels",
+      "alternateName": ["KashiTaxi", "24/7 Taxi Varanasi", "Night Cab Service Varanasi"],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "sameAs": [
+        "https://wa.me/919450301573",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi#service",
+      "name": "24/7 Taxi Service in Varanasi - Night Cab & Emergency Transport",
+      "description": "24/7 taxi service in Varanasi. Night cabs, early morning transfers, emergency rides anytime. Professional drivers, safe service.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "24/7 Emergency & Night Taxi Service",
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://wa.me/919450301573?text=24/7%20Emergency%20Taxi",
+        "availableLanguage": ["en", "hi"],
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+919450301573",
+          "contactType": "emergency",
+          "availableLanguage": ["English", "Hindi"],
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+            "opens": "00:00",
+            "closes": "23:59"
+          }
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Early Morning Taxi Service (5-6 AM)",
+          "description": "Early morning airport transfer or city pickup with surcharge",
+          "priceCurrency": "INR",
+          "price": "700",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "700",
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Surcharge",
+              "value": "100",
+              "description": "₹100 early shift premium"
+            }
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Early Morning Transfer",
+            "description": "Perfect for early flights with 100% on-time guarantee"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Night Taxi Service (11 PM - 5 AM)",
+          "description": "Late night and early morning taxi with enhanced safety features",
+          "priceCurrency": "INR",
+          "price": "800",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "800",
+            "additionalProperty": {
+              "@type": "PropertyValue",
+              "name": "Night Surcharge",
+              "value": "200",
+              "description": "₹200 night premium for enhanced safety"
+            }
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Night Cab Service",
+            "description": "GPS tracking, verified drivers, emergency protocols active"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Medical Emergency Transport",
+          "description": "Urgent medical transport with trained drivers and emergency protocols",
+          "priceCurrency": "INR",
+          "price": "1500",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "1500",
+            "unitText": "fixed rate (any distance within Varanasi)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Emergency Medical Transport",
+            "description": "2-5 minute dispatch, drivers trained in first aid"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Night Shift Worker Transportation",
+          "description": "Reliable transport for manufacturing, BPO, and healthcare night shift workers",
+          "priceCurrency": "INR",
+          "price": "400",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "400",
+            "unitText": "per day per employee (night shift premium included)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26",
+          "eligibleCustomerType": {
+            "@type": "BusinessEntityType",
+            "name": "Corporate Monthly Subscribers"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Late Night Event Transportation",
+          "description": "Safe return journey from parties, weddings, and late-night events",
+          "priceCurrency": "INR",
+          "price": "800",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "800",
+            "description": "Standard rate + ₹200 night surcharge"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Response Time",
+          "value": "2-5 minutes",
+          "description": "Average dispatch time for emergency calls"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Driver Training",
+          "value": "First Aid & Emergency Protocols",
+          "description": "All night drivers trained in basic first aid"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Features",
+          "value": "GPS Tracking, SOS Button, Real-time Monitoring",
+          "description": "Enhanced safety for night travel"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "24/7 Taxi Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi"
+        }
+      ]
+    }
+  ]
+}

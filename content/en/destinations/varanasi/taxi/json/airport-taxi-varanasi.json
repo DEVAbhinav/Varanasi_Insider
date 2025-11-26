@@ -1,0 +1,176 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LocalBusiness", "TaxiService"],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Varanasi Taxi - Vinayak Travels",
+      "alternateName": ["KashiTaxi", "Varanasi Airport Taxi"],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "sameAs": [
+        "https://wa.me/919450301573",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-taxi-varanasi#service",
+      "name": "Varanasi Airport Taxi Service",
+      "description": "Reliable airport taxi from Varanasi International Airport (LBS/VNS). Fixed fares, 24/7 service, professional drivers. One-way & round-trip options available.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "Airport Transfer",
+      "areaServed": {
+        "@type": "Place",
+        "name": "Varanasi International Airport (LBS/VNS)"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://wa.me/919450301573?text=Book%20Airport%20Taxi",
+        "availableLanguage": ["en", "hi"],
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+919450301573",
+          "contactType": "reservations",
+          "availableLanguage": ["English", "Hindi"]
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Airport to City Center Sedan",
+          "description": "Airport to City Center/Ghats transfer in AC Sedan",
+          "priceCurrency": "INR",
+          "price": "600",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "600",
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Sedan Airport Transfer",
+            "description": "AC Sedan with professional driver"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Airport to City Center SUV",
+          "description": "Airport to City Center/Ghats transfer in AC SUV",
+          "priceCurrency": "INR",
+          "price": "800",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "800",
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "SUV Airport Transfer",
+            "description": "Spacious AC SUV with professional driver"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Airport to Assi Ghat Sedan",
+          "description": "Airport to Assi Ghat transfer in AC Sedan",
+          "priceCurrency": "INR",
+          "price": "750",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "750",
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        },
+        {
+          "@type": "Offer",
+          "name": "Airport to Dashashwamedh Ghat Sedan",
+          "description": "Airport to Dashashwamedh Ghat transfer in AC Sedan",
+          "priceCurrency": "INR",
+          "price": "700",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "700",
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        },
+        {
+          "@type": "Offer",
+          "name": "Airport Meet & Greet Service",
+          "description": "Premium meet and greet service with name board and luggage assistance",
+          "priceCurrency": "INR",
+          "price": "100",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "100",
+            "unitText": "additional charge"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-taxi-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Airport Taxi Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-taxi-varanasi"
+        }
+      ]
+    }
+  ]
+}

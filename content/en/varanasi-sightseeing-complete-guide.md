@@ -596,7 +596,7 @@ Unlike any other temple in India, **Bharat Mata Temple** is dedicated to Mother 
 
 Yes, though rushed. A focused **Varanasi one day tour package** can cover key highlights, but you'll miss the city's contemplative pace.
 
-> **Ready to Book?** See our complete **[Varanasi Local Sightseeing Package](/en/destinations/varanasi/sightseeing/varanasi-local-sightseeing-package)** with pre-designed itineraries, transparent pricing, and instant booking options.
+> **Ready to Book?** See our complete **[Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package)** with pre-designed itineraries, transparent pricing, and instant booking options.
 
 **One-Day Varanasi Tour** (12-14 hours)
 
@@ -644,7 +644,7 @@ Yes, though rushed. A focused **Varanasi one day tour package** can cover key hi
 - **Boat Ride**: ₹800-1,500
 - **Total**: ₹5,500-9,000 per person (₹3,000-5,500 for budget option)
 
-> **Book Your Tour Package:** See our **[Varanasi Local Sightseeing Package](/en/destinations/varanasi/sightseeing/varanasi-local-sightseeing-package)** for complete pricing, vehicle options, and instant booking. Also check: **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)**, **[Varanasi Full Day City Tour Winter 2025](/en/services/varanasi-full-day-city-tour-winter-2025)**, and **[Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)** for group tours.
+> **Book Your Tour Package:** See our **[Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package)** for complete pricing, vehicle options, and instant booking. Also check: **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** and **[Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)** for group tours.
 
 ### Two-Day Varanasi Itinerary with Sarnath
 
@@ -1057,7 +1057,7 @@ Varanasi sightseeing is a journey into India's spiritual heart, where ancient tr
 - **Budget**: ₹5,000-9,000 per day for mid-range experience
 - **Advance booking essential**: Dev Deepawali (Nov 12, 2025) requires 4-6 weeks advance planning
 
-> **Ready to Book Your Tour?** Check our **[Varanasi Local Sightseeing Package](/en/destinations/varanasi/sightseeing/varanasi-local-sightseeing-package)** with half-day and full-day options from ₹1,800. Start with our **[Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)** and plan your arrival logistics. For complete tour packages, see **[Tour Packages from Varanasi](/en/tour-package-from-varanasi)** and **[Varanasi Tour Package](/en/packages/varanasi-tour-package)**.
+> **Ready to Book Your Tour?** Check our **[Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package)** with half-day and full-day options from ₹1,800. Start with our **[Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)** and plan your arrival logistics. For complete tour packages, see **[Tour Packages from Varanasi](/en/tour-package-from-varanasi)** and **[Varanasi Tour Package](/en/packages/varanasi-tour-package)**.
 
 **Multi-City Pilgrimage Tours:**
 

@@ -1,0 +1,196 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LocalBusiness", "TaxiService"],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Varanasi Taxi - Vinayak Travels",
+      "alternateName": ["KashiTaxi", "Taxi Near BHU"],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Banaras Hindu University (BHU)",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Varanasi",
+            "addressRegion": "Uttar Pradesh"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Varanasi"
+        }
+      ],
+      "openingHours": "Mo-Su 00:00-24:00",
+      "sameAs": [
+        "https://wa.me/919450301573",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-near-bhu#service",
+      "name": "Taxi Near BHU Varanasi - Quick Cab Pickup",
+      "description": "Book taxi near BHU Varanasi instantly. Fast pickup from Banaras Hindu University campus, professional drivers, fixed rates. Available 24/7.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "Local Taxi Service Near BHU",
+      "areaServed": {
+        "@type": "Place",
+        "name": "Banaras Hindu University (BHU) Campus",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "25.2677",
+          "longitude": "82.9913"
+        }
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://wa.me/919450301573?text=Book%20Taxi%20from%20BHU",
+        "availableLanguage": ["en", "hi"],
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+919450301573",
+          "contactType": "reservations",
+          "availableLanguage": ["English", "Hindi"]
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "BHU to Assi Ghat",
+          "description": "Quick 10-minute ride from BHU campus to Assi Ghat",
+          "priceCurrency": "INR",
+          "price": "250",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "250",
+            "unitText": "per trip (3 km)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        },
+        {
+          "@type": "Offer",
+          "name": "BHU to Dashashwamedh Ghat",
+          "description": "15-minute ride to the main ghat area",
+          "priceCurrency": "INR",
+          "price": "350",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "350",
+            "unitText": "per trip (5 km)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        },
+        {
+          "@type": "Offer",
+          "name": "BHU to Railway Station",
+          "description": "Quick transfer to Varanasi Junction railway station",
+          "priceCurrency": "INR",
+          "price": "400",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "400",
+            "unitText": "per trip (7 km)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        },
+        {
+          "@type": "Offer",
+          "name": "BHU to Airport",
+          "description": "Direct transfer to Varanasi International Airport",
+          "priceCurrency": "INR",
+          "price": "650",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "650",
+            "unitText": "per trip (20 km)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        },
+        {
+          "@type": "Offer",
+          "name": "BHU to Sarnath",
+          "description": "50-minute trip to Sarnath Buddhist site",
+          "priceCurrency": "INR",
+          "price": "800",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "800",
+            "unitText": "per trip (30 km)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pickup Time",
+          "value": "5-10 minutes",
+          "description": "Average time from booking to pickup at BHU"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Coverage Area",
+          "value": "All BHU Campus Gates",
+          "description": "North Campus, South Campus, Main Gate, Vivekananda Gate"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-near-bhu#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Taxi Near BHU",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-near-bhu"
+        }
+      ]
+    }
+  ]
+}

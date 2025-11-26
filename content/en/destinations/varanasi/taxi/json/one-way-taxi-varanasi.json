@@ -1,0 +1,191 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LocalBusiness", "TaxiService"],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Varanasi Taxi - Vinayak Travels",
+      "alternateName": ["KashiTaxi", "Varanasi One-Way Taxi"],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "sameAs": [
+        "https://wa.me/919450301573",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/one-way-taxi-varanasi#service",
+      "name": "One-Way Taxi & Round-Trip Cab Service in Varanasi",
+      "description": "Book one-way and round-trip taxis in Varanasi. Flexible drop-off, transparent pricing, professional drivers. Airport, hotels, stations available.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "One-Way & Round-Trip Taxi",
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://wa.me/919450301573?text=Book%20One-Way%20Taxi",
+        "availableLanguage": ["en", "hi"],
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+919450301573",
+          "contactType": "reservations",
+          "availableLanguage": ["English", "Hindi"]
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Airport to City Center One-Way",
+          "description": "One-way transfer from airport to city center",
+          "priceCurrency": "INR",
+          "price": "600",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "600",
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        },
+        {
+          "@type": "Offer",
+          "name": "Railway Station to Hotel One-Way",
+          "description": "One-way transfer from railway station to hotel",
+          "priceCurrency": "INR",
+          "price": "400",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "400",
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        },
+        {
+          "@type": "Offer",
+          "name": "Hotel to Sarnath One-Way",
+          "description": "One-way transfer from hotel to Sarnath",
+          "priceCurrency": "INR",
+          "price": "700",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "700",
+            "unitText": "per trip (28 km)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        },
+        {
+          "@type": "Offer",
+          "name": "Airport Round-Trip Package (1-2 Days)",
+          "description": "Airport pickup and drop round-trip package for 1-2 day stays",
+          "priceCurrency": "INR",
+          "price": "1800",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "1800",
+            "unitText": "per package (2 transfers)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Airport Round-Trip Sedan Package",
+            "description": "Includes airport pickup and drop with sedan"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "City Tour Round-Trip Package (3-4 Days)",
+          "description": "Comprehensive round-trip package including city tour and transfers",
+          "priceCurrency": "INR",
+          "price": "6500",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "6500",
+            "unitText": "per package (3-4 days)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "City Tour Round-Trip Package",
+            "description": "Includes city tour, airport transfers, and daily transportation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Extended Exploration Package (5-7 Days)",
+          "description": "Extended round-trip package for complete Varanasi exploration",
+          "priceCurrency": "INR",
+          "price": "12000",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": "12000",
+            "unitText": "per package (5-7 days)"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-11-26"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/one-way-taxi-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "One-Way Taxi Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/one-way-taxi-varanasi"
+        }
+      ]
+    }
+  ]
+}

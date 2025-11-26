@@ -1,6 +1,6 @@
 ---
 title: "Varanasi in December 2025: Festivals, Sunrise Rituals & Shopping"
-slug: "varanasi-december-2025-guide"
+slug: "varanasi-december-2025-experience-hub"
 date: "2025-11-20"
 lastUpdated: "2025-11-20"
 author: "Varanasi Insider Team"
