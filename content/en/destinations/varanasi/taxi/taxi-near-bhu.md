@@ -37,6 +37,9 @@ Located at Banaras Hindu University campus in Varanasi? **KashiTaxi provides qui
 
 ## Taxi Fares from BHU Varanasi to Popular Locations
 
+![Varanasi Temple Map](/images/Varanasi-temple-map.jpeg)
+*Varanasi Temple Map - Quick access from BHU to all major temples*
+
 | Destination | Distance | Sedan Fare | SUV Fare | Time |
 |---|---|---|---|---|
 | BHU to Assi Ghat | 3 km | ₹250 | ₹350 | 10 min |

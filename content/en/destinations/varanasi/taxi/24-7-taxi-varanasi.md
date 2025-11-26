@@ -40,6 +40,9 @@ faqSchema:
 
 **KashiTaxi operates 24 hours, 7 days a week** to serve your transportation needs at any time. Whether it's an early morning flight, late-night arrival, or emergency medical transport, our professional drivers are always ready.
 
+![Varanasi Tourist Map](/images/varanasi%20tourist%20map-flat-lanscape.jpeg)
+*Varanasi Tourist Map - 24/7 service coverage across all locations*
+
 ## Why 24/7 Varanasi Taxi Service Matters
 
 ✅ **Peace of Mind:** Always have reliable transport available

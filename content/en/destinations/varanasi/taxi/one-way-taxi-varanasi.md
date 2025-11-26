@@ -41,6 +41,9 @@ Whether you need a **simple one-way transfer** to a hotel or a **round-trip pack
 
 ## Varanasi One-Way Taxi Service - Point-to-Point Transfers
 
+![Varanasi Tourist Map](/images/varanasi%20tourist%20map-flat-lanscape.jpeg)
+*Varanasi Tourist Map - One-way and round-trip routes across the city*
+
 ### What is Varanasi One-Way Taxi Service?
 
 A **one-way taxi** takes you from Point A to Point B without returning. Perfect for:

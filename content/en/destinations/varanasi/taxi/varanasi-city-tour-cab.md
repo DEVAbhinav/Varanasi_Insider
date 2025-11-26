@@ -39,6 +39,9 @@ faqSchema:
 
 Experience the spiritual beauty of Varanasi with **KashiTaxi's comprehensive city tour packages**. Our expert drivers know every temple, ghat, and hidden gem in the city. Whether you have 4 hours or a full day, we've curated the perfect itinerary to experience authentic Kashi Darshan.
 
+![Varanasi Tourist Map](/images/varanasi%20tourist%20map-flat-lanscape.jpeg)
+*Varanasi Tourist Map - Major attractions and routes covered in our city tour packages*
+
 ## Why Choose KashiTaxi for Varanasi City Tour Cab Service?
 
 ✅ **Experienced Drivers:** Born and raised in Varanasi, know all local legends and shortcuts
@@ -108,6 +111,9 @@ Comfortable return to your accommodation
 
 Perfect for first-time visitors with limited time:
 
+![Varanasi Temple Map](/images/Varanasi-temple-map.jpeg)
+*Varanasi Temple Map - Major temples and spiritual sites in the city*
+
 - Direct drop at Kashi Vishwanath Temple entrance
 - Driver waits outside temple
 - 45-60 minutes temple time
@@ -119,6 +125,9 @@ Perfect for first-time visitors with limited time:
 ## Varanasi Ghat Walk Taxi Tour - Spiritual Experience (3 Hours) - ₹900-1300
 
 Experience Varanasi's spiritual soul:
+
+![Varanasi Major Ghats Map](/images/Varanasi-major-ghats.jpeg)
+*Varanasi Major Ghats - Explore the sacred riverfront bathing spots*
 
 - Dashashwamedh Ghat (morning ritual & evening aarti)
 - Assi Ghat (peaceful atmosphere)
