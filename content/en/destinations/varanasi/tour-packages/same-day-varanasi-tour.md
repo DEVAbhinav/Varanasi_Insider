@@ -27,6 +27,13 @@ tags:
 relatedPosts: []
 ctaTitle: "Reserve your one-day Kashi darshan"
 ctaSubtitle: "Priority temple slots, a sanitized chauffeur-driven cab, and a ritual-savvy storyteller are just a confirmation away."
+offers:
+  - price: "2500"
+    priceCurrency: "INR"
+aggregateRating:
+  ratingValue: "4.9"
+  reviewCount: "230"
+brand: "Kashi Taxi"
 ---
 
 ## Overview

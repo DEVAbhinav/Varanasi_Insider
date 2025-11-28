@@ -30,6 +30,17 @@ faqSchema:
     answer: "Yes, we accept all payment methods including cards, UPI, net banking, and cash."
   - question: "What is the cancellation policy?"
     answer: "Free cancellation up to 2 hours. 50% charge if cancelled between 30 min to 2 hours."
+offers:
+  - price: "600"
+    priceCurrency: "INR"
+    name: "Airport to City Sedan"
+provider:
+  name: "Kashi Taxi"
+  telephone: "+91-9450301573"
+areaServed: ["Varanasi Airport", "Varanasi City", "Sarnath", "BHU"]
+aggregateRating:
+  ratingValue: "4.9"
+  reviewCount: "850"
 ---
 
 # Airport Taxi Service in Varanasi | VNS LBS Airport Transfers

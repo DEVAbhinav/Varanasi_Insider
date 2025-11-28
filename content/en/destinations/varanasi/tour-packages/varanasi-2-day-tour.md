@@ -26,6 +26,13 @@ tags:
 relatedPosts: []
 ctaTitle: "Lock your 2-day Varanasi stay"
 ctaSubtitle: "Hotels, boats, darshan slots and food walk seats confirmed in one concierge call."
+offers:
+  - price: "3999"
+    priceCurrency: "INR"
+aggregateRating:
+  ratingValue: "4.8"
+  reviewCount: "124"
+brand: "Kashi Taxi"
 ---
 
 ## Package Snapshot

@@ -25,6 +25,13 @@ relatedPosts: []
 ctaTitle: "Plan your 3-day Kashi immersion"
 ctaSubtitle: "From sunup aartis to silk workshops and cultural add-ons, we tailor each day to your crew's energy and interests."
 eyebrow: "72-Hour Masterplan"
+offers:
+  - price: "7988"
+    priceCurrency: "INR"
+aggregateRating:
+  ratingValue: "4.8"
+  reviewCount: "140"
+brand: "Kashi Taxi"
 ---
 
 ## Overview

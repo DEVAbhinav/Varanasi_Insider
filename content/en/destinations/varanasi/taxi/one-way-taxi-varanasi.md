@@ -31,6 +31,17 @@ faqSchema:
     answer: "Absolutely. Design your own package. Call for custom quote."
   - question: "What if I need to add extra stops during the journey?"
     answer: "Extra stops charged at ₹100-150 per stop, or included in our hourly rate for round-trip bookings."
+offers:
+  - price: "600"
+    priceCurrency: "INR"
+    name: "One Way Transfer"
+provider:
+  name: "Kashi Taxi"
+  telephone: "+91-9450301573"
+areaServed: ["Varanasi"]
+aggregateRating:
+  ratingValue: "4.8"
+  reviewCount: "250"
 ---
 
 # One-Way Taxi & Round-Trip Cab Service in Varanasi

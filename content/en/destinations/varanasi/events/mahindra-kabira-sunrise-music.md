@@ -22,6 +22,17 @@ featuredImage: "/images/varanasi-river-sunrise-boat-p.jpeg"
 eyebrow: "Exclusive Experience"
 ctaTitle: "Need an Early Morning Ride?"
 ctaSubtitle: "Pre-book your taxi for a 5:30 AM drop at the ghats to catch the sunrise sessions."
+startDate: "2025-12-20"
+endDate: "2025-12-21"
+location:
+  name: "Guleria Kothi"
+  address: "Varanasi Ghats"
+offers:
+  - price: "5000"
+    priceCurrency: "INR"
+organizer:
+  name: "Mahindra Kabira Festival"
+  url: "https://mahindrakabira.com"
 ---
 
 # Mahindra Kabira Festival – Morning Music Sessions at Sunrise

@@ -16,6 +16,37 @@ structuredData: true
 published: true
 date: "2025-11-25"
 lastUpdated: "2025-11-25"
+areaServed: ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "Sarnath", "BHU", "Cantonment"]
+provider:
+  name: "Banarasi Kashitaxi"
+  telephone: "+919450301573"
+  url: "https://www.kashitaxi.in/en/services/varanasi-airport-to-city-cab"
+offers:
+  - name: "Sedan Drop"
+    price: "700"
+    priceCurrency: "INR"
+    description: "Swift Dzire / Etios with 30-min delay buffer"
+  - name: "Innova Crysta Drop"
+    price: "1250"
+    priceCurrency: "INR"
+    description: "6-seater Crysta with surge protection"
+  - name: "Tempo Traveller Drop"
+    price: "2000"
+    priceCurrency: "INR"
+    description: "12-seater with luggage coach and night allowance"
+faq:
+  - question: "Do fares stay fixed during Dev Deepawali or other peak days?"
+    answer: "Yes. Festival blackout dates only pause the Flash ₹690 sedan but the published fare grid remains unchanged and every confirmation carries a Surge Shield note to block last-minute markups."
+  - question: "What if my flight is delayed beyond the 30-minute buffer?"
+    answer: "Flights under 90-minute delay are absorbed for free. Beyond that we either keep the same driver at ₹100 per 15-minute standby or re-dispatch a new cab at no extra booking fee."
+  - question: "Can I split payment or pay digitally?"
+    answer: "Yes. Pay via UPI, card-on-file, or cash. GST invoices list the surge-shielded fare so expense teams can reconcile."
+  - question: "How do you prevent touts from hijacking my ride?"
+    answer: "Drivers send a selfie and vehicle plate on WhatsApp and an OTP is exchanged before boarding, ensuring no third party can intercept your booking."
+  - question: "How much is a Varanasi airport to city cab at night?"
+    answer: "Sedans add ₹150 after 9 PM, SUVs add ₹200, and Innova Crysta quotes cap at ₹1,699 while tempo travellers already include driver allowance so there are no hidden night markups."
+  - question: "Can I book a direct cab from Varanasi airport to Assi Ghat or Dashashwamedh?"
+    answer: "Yes. Assi Ghat drops remain ₹700–₹950 for sedans and Dashashwamedh ₹750–₹950 with the final 200 metres on foot; drivers arrange barricade passes and Pink Taxi/porter handoffs when needed."
 ---
 
 # Varanasi Airport to City Cab (2025 Fixed Fares)
@@ -29,31 +60,6 @@ lastUpdated: "2025-11-25"
 - **Night Policy:** Flat +₹150 (sedan) / +₹200 (SUV) / already included for tempo; never more than published grid.
 - **Contact:** WhatsApp/Call **+91 94503 01573** with flight screenshot for instant confirmation.
 - **Reference:** Cross-check fares with the [Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide) whenever you need the wider city transport matrix.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Varanasi Airport to City Cab",
-  "serviceType": "Airport Taxi",
-  "areaServed": ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "Sarnath", "BHU", "Cantonment"],
-  "provider": {
-    "@type": "LocalBusiness",
-    "name": "Banarasi Kashitaxi",
-    "telephone": "+919450301573",
-    "url": "https://www.kashitaxi.in/en/services/varanasi-airport-to-city-cab"
-  },
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Airport to City Cab Fixed Fares",
-    "itemListElement": [
-      {"@type": "Offer","name": "Sedan Drop","price": "700","priceCurrency": "INR","description": "Swift Dzire / Etios with 30-min delay buffer"},
-      {"@type": "Offer","name": "Innova Crysta Drop","price": "1250","priceCurrency": "INR","description": "6-seater Crysta with surge protection"},
-      {"@type": "Offer","name": "Tempo Traveller Drop","price": "2000","priceCurrency": "INR","description": "12-seater with luggage coach and night allowance"}
-    ]
-  }
-}
-</script>
 
 <div class="price-snapshot" aria-label="Varanasi airport to city cab live price grid">
   <h2>Today’s Airport-to-City Fare Snapshot (refreshed 6-hourly)</h2>
@@ -204,63 +210,6 @@ Sedans add only ₹150 after 9 PM (₹1,699 cap for Innova Crysta). Tempo Trave
 
 **Q6. Can I book straight from the airport to Assi Ghat or Dashashwamedh?**  
 Yes. Assi drops stay ₹700–₹950 for sedans, while Dashashwamedh ₹750–₹950 with last 200 m on foot. Drivers coordinate barricade passes and can hand you off to Pink Taxi or porter services if required.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do fares stay fixed during Dev Deepawali or other peak days?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Festival blackout dates only pause the Flash ₹690 sedan but the published fare grid remains unchanged and every confirmation carries a Surge Shield note to block last-minute markups."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if my flight is delayed beyond the 30-minute buffer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Flights under 90-minute delay are absorbed for free. Beyond that we either keep the same driver at ₹100 per 15-minute standby or re-dispatch a new cab at no extra booking fee."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I split payment or pay digitally?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Pay via UPI, card-on-file, or cash. GST invoices list the surge-shielded fare so expense teams can reconcile."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do you prevent touts from hijacking my ride?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drivers send a selfie and vehicle plate on WhatsApp and an OTP is exchanged before boarding, ensuring no third party can intercept your booking."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much is a Varanasi airport to city cab at night?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sedans add ₹150 after 9 PM, SUVs add ₹200, and Innova Crysta quotes cap at ₹1,699 while tempo travellers already include driver allowance so there are no hidden night markups."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I book a direct cab from Varanasi airport to Assi Ghat or Dashashwamedh?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Assi Ghat drops remain ₹700–₹950 for sedans and Dashashwamedh ₹750–₹950 with the final 200 metres on foot; drivers arrange barricade passes and Pink Taxi/porter handoffs when needed."
-      }
-    }
-  ]
-}
-</script>
 
 ## Related Services
 

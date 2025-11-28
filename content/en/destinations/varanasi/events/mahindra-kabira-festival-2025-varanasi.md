@@ -24,6 +24,17 @@ featuredImage: "/images/varanasi-boat-eve-l.jpeg"
 eyebrow: "Music & Spirituality"
 ctaTitle: "Attending the Festival?"
 ctaSubtitle: "Secure your airport transfer to Guleria Kothi or Shivala Ghat in advance."
+startDate: "2025-12-19"
+endDate: "2025-12-21"
+location:
+  name: "Guleria Kothi"
+  address: "Varanasi, Uttar Pradesh"
+offers:
+  - price: "5000"
+    priceCurrency: "INR"
+organizer:
+  name: "Mahindra Kabira Festival"
+  url: "https://mahindrakabira.com"
 
 ---
 

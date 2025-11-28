@@ -27,6 +27,13 @@ tags:
 relatedPosts: []
 ctaTitle: "Plan your Ayodhya + Kashi yatra"
 ctaSubtitle: "Priority darshan slots, Saryu & Ganga Aartis, intercity cabs and vetted hotels organised end-to-end."
+offers:
+  - price: "8499"
+    priceCurrency: "INR"
+aggregateRating:
+  ratingValue: "4.7"
+  reviewCount: "95"
+brand: "Kashi Taxi"
 ---
 
 ## Overview

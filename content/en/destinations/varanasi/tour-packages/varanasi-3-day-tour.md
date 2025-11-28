@@ -26,6 +26,13 @@ tags:
 relatedPosts: []
 ctaTitle: "Plan your 3-day Kashi stay"
 ctaSubtitle: "Heritage hotels, premium boats, and festival-proof routing arranged end-to-end."
+offers:
+  - price: "7988"
+    priceCurrency: "INR"
+aggregateRating:
+  ratingValue: "4.8"
+  reviewCount: "150"
+brand: "Kashi Taxi"
 ---
 
 ## Why Three Days?

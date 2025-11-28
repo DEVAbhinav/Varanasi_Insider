@@ -31,6 +31,17 @@ faqSchema:
     answer: "No, rates remain same year-round. Peak season discounts may apply occasionally."
   - question: "What if I want a multi-day package?"
     answer: "Call us for custom quotes. Multi-day trips get better rates."
+offers:
+  - price: "600"
+    priceCurrency: "INR"
+    name: "Airport Transfer"
+provider:
+  name: "Kashi Taxi"
+  telephone: "+91-9450301573"
+areaServed: ["Varanasi"]
+aggregateRating:
+  ratingValue: "4.9"
+  reviewCount: "300"
 ---
 
 # Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi

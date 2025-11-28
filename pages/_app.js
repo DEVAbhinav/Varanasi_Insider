@@ -6,6 +6,8 @@ import { useRouter } from 'next/router';
 import MobileLeadPopup from '../components/MobileLeadPopup/MobileLeadPopup';
 import { SOCIAL_PROFILE_URLS } from '../config/socials';
 
+import { generateOrganizationSchema } from '../lib/schemaGenerator';
+
 // 1. Import your global stylesheet
 import '../styles/globals.css';
 
@@ -16,32 +18,7 @@ import '../styles/globals.css';
 const CANONICAL = 'https://www.kashitaxi.in';
 const DEFAULT_GA_ID = 'G-57P08K8G17';
 const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || DEFAULT_GA_ID;
-const ORGANIZATION_JSON_LD = {
-  '@context': 'https://schema.org',
-  '@type': ['Organization', 'LocalBusiness', 'TaxiService'],
-  '@id': `${CANONICAL}/#organization`,
-  name: 'Varanasi Taxi |  Vinayak Travels',
-  url: CANONICAL,
-  logo: `${CANONICAL}/images/logo.jpeg`,
-  sameAs: SOCIAL_PROFILE_URLS,
-  contactPoint: [
-    {
-      '@type': 'ContactPoint',
-      telephone: '+91-9450301573',
-      contactType: 'customer service',
-      areaServed: ['IN'],
-      availableLanguage: ['en', 'hi'],
-    },
-  ],
-  address: {
-    '@type': 'PostalAddress',
-    streetAddress: 'Shastri Nagar, Sigra',
-    addressLocality: 'Varanasi',
-    addressRegion: 'Uttar Pradesh',
-    postalCode: '221010',
-    addressCountry: 'IN',
-  },
-};
+const ORGANIZATION_JSON_LD = generateOrganizationSchema();
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter();
@@ -77,7 +54,7 @@ function MyApp({ Component, pageProps }) {
         src="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
         strategy="lazyOnload"
       />
-  {GA_MEASUREMENT_ID && (
+      {GA_MEASUREMENT_ID && (
         <>
           <Script
             id="ga-loader"
@@ -103,8 +80,8 @@ function MyApp({ Component, pageProps }) {
         data-key="cX0oTWGk+R3vy5vu+yxoCw"
         strategy="afterInteractive"
       />
-  <Component {...pageProps} />
-  <MobileLeadPopup delay={30000} />
+      <Component {...pageProps} />
+      <MobileLeadPopup delay={30000} />
     </>
   );
 }

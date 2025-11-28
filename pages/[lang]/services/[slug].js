@@ -11,24 +11,24 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
   return (
     <>
       {/* SEO Head */}
-      <HeadForBlogs 
-        postData={postData} 
-        pageLang={pageLang} 
-        pageSlug={`services/${pageSlug}`} 
-        jsonLdData={jsonLdData} 
+      <HeadForBlogs
+        postData={postData}
+        pageLang={pageLang}
+        pageSlug={`services/${pageSlug}`}
+        jsonLdData={jsonLdData}
         alternateLanguages={alternateLanguages}
       />
 
       <NavBar />
-      
+
       {/* Sticky Contact Bar - Shows on Scroll */}
-      <StickyContactBar 
+      <StickyContactBar
         phone={postData.phone}
       />
-      
+
       <main className="min-h-screen bg-white">
         {/* Hero Section with CTA */}
-        <ServiceHero 
+        <ServiceHero
           title={postData.title}
           subtitle={postData.subtitle}
           heroImage={postData.featuredImage || postData.heroImage}
@@ -36,7 +36,7 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
         />
 
         {/* Service Content */}
-        <ServiceContent 
+        <ServiceContent
           contentHtml={postData.contentHtml}
           pageTitle={postData.title}
           pageUrl={`/${pageLang}/services/${pageSlug}`}
@@ -44,7 +44,7 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
 
         {/* Modular Bottom CTA Bar */}
         {postData.phone && (
-          <CTASection 
+          <CTASection
             phone={postData.phone}
             title="Ready to book?"
             subtitle="Get instant confirmation and transparent pricing"
@@ -61,6 +61,7 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
 export async function getStaticProps({ params }) {
   const { getPostData, getJsonLdData, getAllPostsMeta } = await import('../../../lib/posts');
   const { buildAlternateLanguageUrls } = await import('../../../lib/hreflang');
+  const { generateServiceSchema, generateFAQSchema, generateBreadcrumbSchema, generateArticleSchema } = await import('../../../lib/schemaGenerator');
   const fs = await import('fs');
   const path = await import('path');
 
@@ -75,7 +76,9 @@ export async function getStaticProps({ params }) {
     if (fs.existsSync(candidatePath)) {
       const scopedSlug = `${folder}/${params.slug}`;
       postData = await getPostData(params.lang, scopedSlug);
-      jsonLdData = await getJsonLdData(params.lang, scopedSlug);
+      // We still fetch existing JSON-LD for backward compatibility or manual overrides
+      const existingJsonLd = await getJsonLdData(params.lang, scopedSlug);
+      jsonLdData = existingJsonLd || { '@context': 'https://schema.org', '@graph': [] };
       sourceFolder = folder;
       break;
     }
@@ -83,6 +86,55 @@ export async function getStaticProps({ params }) {
 
   if (!postData) {
     return { notFound: true };
+  }
+
+  // --- Dynamic Schema Generation ---
+  const siteUrl = 'https://www.kashitaxi.in';
+  const pageUrl = `${siteUrl}/${params.lang}/services/${params.slug}`;
+
+  // 1. Breadcrumbs
+  const breadcrumbs = [
+    { name: 'Home', url: '/' },
+    { name: 'Services', url: `/${params.lang}/services/` },
+    { name: postData.title, url: pageUrl }
+  ];
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
+  jsonLdData['@graph'].push(breadcrumbSchema);
+
+  // 2. Service Schema (if applicable)
+  if (postData.schemaType === 'Service' || postData.offers) {
+    const serviceSchema = generateServiceSchema({
+      title: postData.title,
+      description: postData.description,
+      url: pageUrl,
+      image: postData.featuredImage,
+      offers: postData.offers,
+      provider: postData.provider, // Optional override from frontmatter
+      areaServed: postData.areaServed // Optional override
+    });
+    jsonLdData['@graph'].push(serviceSchema);
+  }
+
+  // 3. FAQ Schema
+  if (postData.faq) {
+    const faqSchema = generateFAQSchema(postData.faq);
+    if (faqSchema) {
+      jsonLdData['@graph'].push(faqSchema);
+    }
+  }
+
+  // 4. Article Schema (fallback if not a service)
+  if (!postData.schemaType && !postData.offers) {
+    const articleSchema = generateArticleSchema({
+      title: postData.title,
+      description: postData.description,
+      url: pageUrl,
+      image: postData.featuredImage,
+      datePublished: postData.date,
+      dateModified: postData.lastUpdated,
+      authorName: postData.author
+    });
+    jsonLdData['@graph'].push(articleSchema);
   }
 
   const allPosts = getAllPostsMeta();
@@ -109,21 +161,21 @@ export async function getStaticProps({ params }) {
 export async function getStaticPaths() {
   const fs = await import('fs');
   const path = await import('path');
-  
+
   const contentDir = path.join(process.cwd(), 'content');
   const paths = [];
-  
+
   // Get all service/landing/guide pages
   const folders = ['services', 'landing', 'guides'];
   const langs = ['en', 'hi'];
-  
+
   for (const lang of langs) {
     for (const folder of folders) {
       const folderPath = path.join(contentDir, lang, folder);
-      
+
       if (fs.existsSync(folderPath)) {
         const files = fs.readdirSync(folderPath);
-        
+
         files
           .filter(file => file.endsWith('.md'))
           .forEach(file => {
@@ -137,7 +189,7 @@ export async function getStaticPaths() {
       }
     }
   }
-  
+
   return {
     paths,
     fallback: false,

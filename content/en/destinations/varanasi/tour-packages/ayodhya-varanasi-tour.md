@@ -25,6 +25,13 @@ relatedPosts: []
 ctaTitle: "Plan your Ayodhya + Varanasi darshan"
 ctaSubtitle: "We stitch together priority temple entries, intercity transfers, Saryu & Ganga aartis, and safe hotel stays for your crew."
 eyebrow: "Dual-City Pilgrimage"
+offers:
+  - price: "8499"
+    priceCurrency: "INR"
+aggregateRating:
+  ratingValue: "4.7"
+  reviewCount: "85"
+brand: "Kashi Taxi"
 ---
 
 ## Overview

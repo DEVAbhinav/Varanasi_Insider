@@ -31,9 +31,16 @@ relatedPosts:
   - varanasi-sightseeing-complete-guide
   - varanasi-day-tour-cab-charges
   - services/varanasi-full-day-city-tour-winter-2025
-  - kashi-darshan-tempo-traveller
   - tempo-traveller-varanasi
   - varanasi-transport-price-guide-2025
+offers:
+  - price: "1800"
+    priceCurrency: "INR"
+    name: "Half Day Sightseeing"
+aggregateRating:
+  ratingValue: "4.7"
+  reviewCount: "100"
+brand: "Kashi Taxi"
 faqSchema:
   - question: "What is the price of Varanasi local sightseeing package?"
     answer: "Varanasi local sightseeing packages start from ₹1,800 for half-day sedan tour (4 hours/40 km) covering main temples and ghats. Full-day packages with Sarnath cost ₹2,200-3,500 depending on vehicle type (sedan/Innova/tempo traveller)."

@@ -31,6 +31,17 @@ faqSchema:
     answer: "Free up to 2 hours before booking. 50% charge between 30 min-2 hours."
   - question: "Do you provide quotes for bulk bookings?"
     answer: "Yes, call us for corporate/group rates."
+offers:
+  - price: "300"
+    priceCurrency: "INR"
+    name: "Hourly Rental"
+provider:
+  name: "Kashi Taxi"
+  telephone: "+91-9450301573"
+areaServed: ["Varanasi"]
+aggregateRating:
+  ratingValue: "4.8"
+  reviewCount: "500"
 ---
 
 # Taxi Service in Varanasi | Professional Cab Booking 24/7 | KashiTaxi

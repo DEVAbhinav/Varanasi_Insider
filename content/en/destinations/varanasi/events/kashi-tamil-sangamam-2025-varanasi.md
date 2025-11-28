@@ -22,6 +22,17 @@ featuredImage: "/images/varanasi-ghats-overview.jpeg"
 eyebrow: "Cultural Event"
 ctaTitle: "Visiting for the Sangamam?"
 ctaSubtitle: "Book your airport transfer or local taxi for a hassle-free experience during the festival."
+startDate: "2025-12-02"
+endDate: "2025-12-15"
+location:
+  name: "Banaras Hindu University"
+  address: "Varanasi, Uttar Pradesh"
+offers:
+  - price: "0"
+    priceCurrency: "INR"
+organizer:
+  name: "Ministry of Education, Govt of India"
+  url: "https://kashitamil.iitm.ac.in"
 ---
 
 # Kashi Tamil Sangamam 4.0 – A Cultural Bridge Between South and North

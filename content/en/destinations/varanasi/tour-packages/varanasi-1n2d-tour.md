@@ -25,6 +25,13 @@ relatedPosts: []
 ctaTitle: "Hold your 2-day Varanasi plan"
 ctaSubtitle: "Our concierge secures hotel rooms, dual boat rides, and licensed guides for a relaxed 48-hour pilgrimage."
 eyebrow: "48-Hour Immersion"
+offers:
+  - price: "3999"
+    priceCurrency: "INR"
+aggregateRating:
+  ratingValue: "4.8"
+  reviewCount: "112"
+brand: "Kashi Taxi"
 ---
 
 ## Overview
