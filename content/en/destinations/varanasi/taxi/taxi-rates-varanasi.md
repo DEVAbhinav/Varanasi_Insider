@@ -7,7 +7,10 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi"
 metaDescription: "Check transparent taxi rates in Varanasi. Airport transfer, city tour, outstation rates. No hidden charges, fixed fares. Book now."
-description: "Check transparent taxi rates in Varanasi. Airport transfer, city tour, outstation rates. No hidden charges, fixed fares. Book now."
+description: "Complete guide to taxi rates in Varanasi for 2025. Check per km charges for sedan, SUV, and tempo traveller. Airport transfer and sightseeing costs."
+location:
+  name: "Varanasi"
+  address: "Varanasi, Uttar Pradesh"
 keywords:
   - "Varanasi taxi fare"
   - "Varanasi cab rates"

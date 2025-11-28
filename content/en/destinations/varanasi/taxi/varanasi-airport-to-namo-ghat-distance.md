@@ -32,6 +32,9 @@ faqSchema:
     answer: "Apps reach the Ravidas Gate but often avoid the restricted promenade bays; pre-booked taxis have passes to enter the parking apron."
   - question: "When should I depart the airport for the evening light show?"
     answer: "For the 7 PM light-and-sound show, leave the airport by 5 PM to check in, freshen up, and arrive 30 minutes before seating opens."
+location:
+  name: "Namo Ghat"
+  address: "Namo Ghat, Varanasi, Uttar Pradesh 221001"
 ---
 # Varanasi Airport to NaMo Ghat: Distance, Time, Taxi Fare (2025)
 

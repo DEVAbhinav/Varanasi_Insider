@@ -32,6 +32,9 @@ faqSchema:
     answer: "Ola and Uber run from the airport but surge pricing is common at dawn and after 8 PM; a reserved taxi guarantees corridor access and flat fares."
   - question: "Can taxis drop close to Kashi Vishwanath Corridor at night?"
     answer: "Yes, pre-booked taxis can enter the Godowlia control point until 10 PM; later arrivals must coordinate a 200 m assisted walk to the corridor gate."
+location:
+  name: "Kashi Vishwanath Temple"
+  address: "Varanasi, Uttar Pradesh 221001"
 ---
 <script type="application/ld+json">
 {

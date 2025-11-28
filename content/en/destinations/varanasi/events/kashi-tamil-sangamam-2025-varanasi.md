@@ -4,6 +4,10 @@ slug: "kashi-tamil-sangamam-2025-varanasi"
 date: "2025-11-20"
 lastUpdated: "2025-11-20"
 author: "Varanasi Insider Team"
+excerpt: "Experience the grand cultural confluence of Kashi Tamil Sangamam 2025. Complete guide to registration, venue, schedule, and taxi services for this historic event."
+location:
+  name: "Namo Ghat"
+  address: "Namo Ghat, Varanasi, Uttar Pradesh 221001"
 lang: en
 metaTitle: "Kashi Tamil Sangamam 2025 Varanasi | Dates, Schedule & BHU Venue Guide"
 metaDescription: "Plan your December trip to Kashi Tamil Sangamam 4.0 in Varanasi (Dec 2-15, 2025). Get the full schedule, BHU venues, registration tips, and travel logistics in one place."

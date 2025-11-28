@@ -9,7 +9,10 @@ canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-3-day-tour"
 featuredImage: "/images/varanasi-three-day-tour.jpg"
 metaTitle: "3 Day Varanasi Tour Package | Complete Kashi Cultural Immersion"
 metaDescription: "Slow-paced 3-day Kashi immersion with twin boat rides, complete temple loop, Sarnath deep dive, Ramnagar Fort, culture shows and premium concierge support."
-description: "Slow-paced 3-day Kashi immersion with twin boat rides, complete temple loop, Sarnath deep dive, Ramnagar Fort, culture shows and premium concierge support."
+description: "Complete 3-day Varanasi tour package. Experience the holy city's essence with visits to all major temples, ghats, Sarnath, and Ramnagar Fort."
+location:
+  name: "Varanasi"
+  address: "Varanasi, Uttar Pradesh"
 destination: "varanasi"
 category: "tour-packages"
 keywords:

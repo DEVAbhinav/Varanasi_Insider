@@ -8,6 +8,7 @@ lang: en
 metaTitle: "Mahindra Kabira Festival 2025, Varanasi: Dates, Tickets, Lineup & Travel Guide"
 metaDescription: "Heading to Varanasi for Mahindra Kabira Festival 2025 (Dec 19-21)? Get ticket prices, artist lineup, sunrise concert info, hotel zones and ghat travel logistics in one guide."
 description: "Three-day itinerary for Mahindra Kabira Festival 2025 in Varanasi – dates, ticket options, artist lineup, and travel planning tips for staying near the ghats."
+excerpt: "Experience the soul-stirring Mahindra Kabira Festival 2025 in Varanasi. Complete guide to tickets, lineup, venue (Guleria Kothi), and taxi services."
 keywords:
   - "Mahindra Kabira Festival 2025"
   - "Kabir festival Varanasi"

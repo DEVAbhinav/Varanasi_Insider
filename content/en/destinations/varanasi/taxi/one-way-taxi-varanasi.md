@@ -7,7 +7,10 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "One-Way Taxi & Round-Trip Cab Service in Varanasi | KashiTaxi"
 metaDescription: "Book one-way and round-trip taxis in Varanasi. Flexible drop-off, transparent pricing, professional drivers. Airport, hotels, stations available."
-description: "Book one-way and round-trip taxis in Varanasi. Flexible drop-off, transparent pricing, professional drivers. Airport, hotels, stations available."
+description: "Book one-way taxi from Varanasi to Prayagraj, Ayodhya, Gaya, and more. Save up to 40% on return fare. Reliable intercity cab service."
+location:
+  name: "Varanasi"
+  address: "Varanasi, Uttar Pradesh"
 keywords:
   - "one way taxi Varanasi"
   - "round trip taxi Varanasi"

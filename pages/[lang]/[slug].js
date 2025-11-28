@@ -13,6 +13,7 @@ import CTASection from '../../components/CTA/CTASection';
 import StickyContactBar from '../../components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '../../components/BookingWidget/SidebarBookingWidget';
 import ItineraryTimeline from '../../components/DestinationPage/ItineraryTimeline';
+import MapWidget from '../../components/Map/MapWidget';
 
 export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug, alternateLanguages = [] }) {
   const contentHtmlBefore = postData?.contentHtmlBefore ?? postData?.contentHtml ?? '';
@@ -25,18 +26,18 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
   return (
     <>
       {/* Centralized SEO Head */}
-  <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={pageSlug} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
+      <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={pageSlug} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
 
       <NavBar />
-      
+
       {/* Sticky Contact Bar - Appears on Scroll */}
-      <StickyContactBar 
+      <StickyContactBar
         phone={postData.phone || "9450301573"}
       />
-      
+
       <main>
         {/* <Header title={postData.title} featuredImage={postData.featuredImage} /> */}
-        
+
         {/* Two-column layout: Article + Sidebar on desktop, stacked on mobile */}
         <div className="container mx-auto px-4 py-8">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
@@ -74,12 +75,25 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
               {contentHtmlAfter?.trim() && (
                 <ArticleSection contentHtml={contentHtmlAfter} />
               )}
+
+              {/* Map Section */}
+              {(postData?.mapUrl || postData?.location?.placeId || postData?.location?.mapLink || postData?.location?.name) && (
+                <div className="mt-8">
+                  <h2 className="text-2xl font-bold mb-4 text-gray-900">Location</h2>
+                  <MapWidget
+                    src={postData?.mapUrl || postData?.location?.mapLink}
+                    placeId={postData?.location?.placeId}
+                    query={postData?.location?.name || postData?.title}
+                    title={`Map of ${postData?.title}`}
+                  />
+                </div>
+              )}
             </div>
-            
+
             {/* Sidebar booking widget - takes 4 columns on desktop, hidden on mobile initially */}
             <aside className="lg:col-span-4">
               <div className="hidden lg:block">
-                <SidebarBookingWidget 
+                <SidebarBookingWidget
                   pageTitle={postData.title}
                   pageUrl={`/${pageLang}/${pageSlug}`}
                 />
@@ -90,20 +104,20 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
         {/* Mobile: Fixed bottom booking widget */}
         <div className="lg:hidden">
-          <SidebarBookingWidget 
+          <SidebarBookingWidget
             pageTitle={postData.title}
             pageUrl={`/${pageLang}/${pageSlug}`}
           />
         </div>
-        
+
         {/* Modular CTA Section */}
-        <CTASection 
+        <CTASection
           phone={postData.phone || "9450301573"}
           title="Need help planning your trip?"
           subtitle="Get personalized assistance for your Varanasi journey"
           variant="default"
         />
-        
+
         {/* Related posts grid */}
         <RelatedPostsGrid items={relatedPosts} lang={pageLang} />
       </main>

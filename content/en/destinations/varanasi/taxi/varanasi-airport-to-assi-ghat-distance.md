@@ -21,6 +21,9 @@ template: destination
 relatedPosts:
   - varanasi-airport-taxi-price-guide
   - assi-ghat-aarti-timings-2025
+location:
+  name: "Assi Ghat"
+  address: "Assi Ghat, Varanasi, Uttar Pradesh 221005"
 faqSchema:
   - question: "How far is Assi Ghat from Varanasi Airport?"
     answer: "Assi Ghat sits 27–28 km from Varanasi Airport (VNS) via BHU–Lanka–Ring Road, with the drive taking 40–60 minutes in standard traffic."

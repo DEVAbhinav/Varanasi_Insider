@@ -7,6 +7,7 @@ import CTASection from '@/components/CTA/CTASection';
 import StickyContactBar from '@/components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '@/components/BookingWidget/SidebarBookingWidget';
 import HreflangTags from '@/components/SEO/HreflangTags';
+import MapWidget from '@/components/Map/MapWidget';
 
 const DEFAULT_SITE_BASE = 'https://www.kashitaxi.in';
 const DEFAULT_PHONE = '9935474730';
@@ -51,32 +52,32 @@ export default function DestinationContentPage({ entry, category, allPosts, page
 
   const breadcrumbJsonLd = breadcrumbs.length >= 2
     ? {
-        '@context': 'https://schema.org',
-        '@type': 'BreadcrumbList',
-        '@id': `${canonicalUrl}#breadcrumbs`,
-        itemListElement: breadcrumbs.map((crumb, index) => ({
-          '@type': 'ListItem',
-          position: index + 1,
-          name: crumb.name,
-          item: crumb.item || canonicalUrl,
-        })),
-      }
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      '@id': `${canonicalUrl}#breadcrumbs`,
+      itemListElement: breadcrumbs.map((crumb, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: crumb.name,
+        item: crumb.item || canonicalUrl,
+      })),
+    }
     : null;
 
   const faqJsonLd = Array.isArray(entry.faqSchema) && entry.faqSchema.length > 0
     ? {
-        '@context': 'https://schema.org',
-        '@type': 'FAQPage',
-        '@id': `${canonicalUrl}#faq`,
-        mainEntity: entry.faqSchema.map((faq) => ({
-          '@type': 'Question',
-          name: faq.question,
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: faq.answer,
-          },
-        })),
-      }
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      '@id': `${canonicalUrl}#faq`,
+      mainEntity: entry.faqSchema.map((faq) => ({
+        '@type': 'Question',
+        name: faq.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: faq.answer,
+        },
+      })),
+    }
     : null;
 
   const itinerary = entry.itinerary;
@@ -199,6 +200,19 @@ export default function DestinationContentPage({ entry, category, allPosts, page
 
               {contentHtmlAfter && contentHtmlAfter.trim() && (
                 <ArticleSection contentHtml={contentHtmlAfter} />
+              )}
+
+              {/* Map Section */}
+              {(entry?.mapUrl || entry?.location?.placeId || entry?.location?.mapLink || entry?.location?.name) && (
+                <div className="mt-8">
+                  <h2 className="text-2xl font-bold mb-4 text-gray-900">Location</h2>
+                  <MapWidget
+                    src={entry?.mapUrl || entry?.location?.mapLink}
+                    placeId={entry?.location?.placeId}
+                    query={entry?.location?.name || entry?.title}
+                    title={`Map of ${entry?.title}`}
+                  />
+                </div>
               )}
             </article>
             <aside className="lg:col-span-4">

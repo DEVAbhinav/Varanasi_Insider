@@ -1,6 +1,9 @@
 ---
 title: "Kashi Vishwanath Maha Shivaratri 2026: Beat 8-Hour Queues Crowd Survival Guide"
 slug: "kashi-vishwanath-shivaratri-crowd-survival-guide"
+location:
+  name: "Kashi Vishwanath Temple"
+  address: "Varanasi, Uttar Pradesh 221001"
 date: "2025-09-30"
 lastModified: "2025-09-30"
 excerpt: "Navigate Kashi Vishwanath Temple's overwhelming Maha Shivaratri crowds safely. Expert strategies for darshan, crowd survival, and alternatives for February 15, 2026."

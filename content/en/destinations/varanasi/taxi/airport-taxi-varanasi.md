@@ -7,7 +7,10 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Airport Taxi in Varanasi | VNS Airport to City Cab Service | KashiTaxi"
 metaDescription: "Book reliable airport taxi from Varanasi International Airport (LBS). Fixed fares, 24/7 service, professional drivers. One-way & round-trip options available."
-description: "Book reliable airport taxi from Varanasi International Airport (LBS). Fixed fares, 24/7 service, professional drivers. One-way & round-trip options available."
+description: "Reliable airport taxi service in Varanasi. Pre-paid and post-paid options available. Book sedan, SUV, or tempo traveller for airport transfers."
+location:
+  name: "Lal Bahadur Shastri International Airport"
+  address: "Varanasi, Uttar Pradesh 221006"
 keywords:
   - "Varanasi airport taxi"
   - "LBS airport taxi Varanasi"

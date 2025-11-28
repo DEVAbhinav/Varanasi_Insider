@@ -29,6 +29,9 @@ relatedPosts:
   - ashoka-pillar-sarnath-guide
   - sarnath-buddhist-temple-guide
   - sarnath-timing-visit-guide
+location:
+  name: "Sarnath"
+  address: "Sarnath, Varanasi, Uttar Pradesh 221007"
 faqSchema:
   - question: "What are the main attractions in Sarnath?"
     answer: "Top Sarnath attractions are: 1) Dhamek Stupa (main monument, 128 ft Buddhist stupa marking Buddha's first sermon location), 2) Ashoka Pillar (250 BCE original pillar with Lion Capital, India's national emblem), 3) Archaeological Museum housing Lion Capital sculpture, 4) Mulagandha Kuti Vihar (main Buddhist temple with Japanese frescoes and sacred Bodhi tree), 5) Deer Park (where Buddha taught), 6) Chaukhandi Stupa (5th century welcome monument). Entry: ₹5-300. All attractions within 1 km walking distance."

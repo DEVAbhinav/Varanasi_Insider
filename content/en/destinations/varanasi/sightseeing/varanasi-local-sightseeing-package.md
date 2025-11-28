@@ -9,6 +9,9 @@ featuredImage: "/images/varanasi-ghats-overview.jpeg"
 metaTitle: "Varanasi Local Sightseeing Package ₹1,800 | Book Cab Tour 2025"
 metaDescription: "Book Varanasi local sightseeing package from ₹1,800. Half-day & full-day cab tours covering temples, ghats, Sarnath. Sedan, Innova, Tempo Traveller options. Transparent pricing."
 description: "Comprehensive Varanasi local sightseeing packages with pre-designed itineraries. Half-day temple tours from ₹1,800, full-day packages with Sarnath from ₹2,200. Book sedan, SUV, or tempo traveller."
+location:
+  name: "Varanasi"
+  address: "Varanasi, Uttar Pradesh"
 keywords:
   - "varanasi local sightseeing package"
   - "varanasi sightseeing package price"

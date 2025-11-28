@@ -32,6 +32,10 @@ faqSchema:
     answer: "Yes, one-way drops are available with no forced return. You only pay extra per km if you extend the route beyond your agreed itinerary."
   - question: "Can I cover Prayagraj sightseeing on the same day as arrival?"
     answer: "If you land before noon, a 2–3 hour drive lets you reach Prayagraj in time for Sangam boat ride, Akshay Vat darshan, and an evening aarti before hotel check-in."
+description: "Book taxi from Varanasi Airport to Prayagraj (Allahabad). Check distance, fare, and travel time for Sangam visit."
+location:
+  name: "Prayagraj"
+  address: "Prayagraj, Uttar Pradesh"
 ---
 # Varanasi Airport to Prayagraj (Allahabad): Distance, Time, Taxi Fare (2025)
 

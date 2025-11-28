@@ -32,6 +32,9 @@ faqSchema:
     answer: "Apps reach until Maidagin, yet drivers often refuse the last stretch; pre-booked taxis coordinate with local volunteers for the ghat lane."
   - question: "Is it safe to visit Manikarnika Ghat at night after landing?"
     answer: "The ghat operates 24/7; travel with an escorted guide after 9 PM, keep valuables secured, and respect photography restrictions around cremations."
+location:
+  name: "Manikarnika Ghat"
+  address: "Manikarnika Ghat, Varanasi, Uttar Pradesh 221001"
 ---
 # Varanasi Airport to Manikarnika Ghat: Distance, Time, Taxi Fare (2025)
 

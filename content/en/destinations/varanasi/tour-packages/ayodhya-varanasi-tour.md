@@ -10,6 +10,10 @@ featuredImage: "/images/sample-ayodhya-varanasi-tour.jpg"
 metaTitle: "Ayodhya Varanasi Tour Package 3 Days | Ram Janmabhoomi to Kashi"
 metaDescription: "Bridge Ram's Ayodhya and Shiva's Kashi in one seamless 3-day pilgrimage with private transfers, curated darshan slots, and riverside rituals."
 description: "Bridge Ram's Ayodhya and Shiva's Kashi in one seamless 3-day pilgrimage with private transfers, curated darshan slots, and riverside rituals."
+keywordescription: "Complete Ayodhya-Varanasi tour package covering Ram Mandir, Kashi Vishwanath, and Sarnath. Customizable itinerary with private cab and hotel options."
+location:
+  name: "Ayodhya"
+  address: "Ayodhya, Uttar Pradesh"
 keywords:
   - ayodhya varanasi tour package
   - ram janmabhoomi kashi yatra

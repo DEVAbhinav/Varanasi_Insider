@@ -9,7 +9,10 @@ canonical: "https://www.kashitaxi.in/varanasi/tour-packages/same-day-varanasi-to
 featuredImage: "/images/varanasi-sunrise-boat.jpg"
 metaTitle: "Same Day Varanasi Tour Package | 8-10 Hour Guided Kashi Darshan"
 metaDescription: "8–10 hour escorted darshan covering Kashi Vishwanath, Sarnath, iconic ghats, curated street food and the Dashashwamedh Ganga Aarti."
-description: "8–10 hour escorted darshan covering Kashi Vishwanath, Sarnath, iconic ghats, curated street food and the Dashashwamedh Ganga Aarti."
+description: "Experience the best of Varanasi in one day. Visit Kashi Vishwanath, Sarnath, and Ganga Aarti with our same-day tour package. Private cab and guide included."
+location:
+  name: "Varanasi"
+  address: "Varanasi, Uttar Pradesh"
 destination: "varanasi"
 category: "tour-packages"
 keywords:

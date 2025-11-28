@@ -22,6 +22,9 @@ tags:
   - varanasi
   - ghats
   - dev deepawali
+location:
+  name: "Dashashwamedh Ghat"
+  address: "Dashashwamedh Ghat Rd, Ghats of Varanasi, Godowlia, Varanasi, Uttar Pradesh 221001"
 relatedPosts:
   - varanasi-airport-taxi-guide
   - kashi-vishwanath-temple-guide

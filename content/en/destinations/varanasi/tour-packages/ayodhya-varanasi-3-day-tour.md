@@ -8,7 +8,10 @@ lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/ayodhya-varanasi-3-day-tour"
 featuredImage: "/images/ayodhya-varanasi-tour.jpg"
 metaTitle: "Ayodhya Varanasi 3 Day Tour Package | Ram Janmabhoomi + Kashi Vishwanath Circuit"
-metaDescription: "Twin-city pilgrimage connecting Ram Janmabhoomi and Kashi Vishwanath with curated darshan support, Saryu & Ganga Aartis, and verified intercity transfers."
+metaDescription: "Comprehensive 3-day Ayodhya & Varanasi tour package. Covers Ram Janmabhoomi, Kashi Vishwanath, Sarnath, and Ganga Aarti. Includes cab, hotel, and guide."
+location:
+  name: "Ayodhya"
+  address: "Ayodhya, Uttar Pradesh"
 description: "Twin-city pilgrimage connecting Ram Janmabhoomi and Kashi Vishwanath with curated darshan support, Saryu & Ganga Aartis, and verified intercity transfers."
 destination: "varanasi"
 category: "tour-packages"

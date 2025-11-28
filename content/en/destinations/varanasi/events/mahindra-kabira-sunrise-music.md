@@ -6,8 +6,7 @@ lastUpdated: "2025-11-20"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Mahindra Kabira Sunrise Music 2025 | Morning Raag on the Ganges"
-metaDescription: "Catch the most magical part of Mahindra Kabira Festival 2025 – sunrise raag sessions at Guleria Kothi. Timings, featured artists, seating tips, and what to carry in Varanasi's December chill."
-description: "Focused guide to Mahindra Kabira Festival's sunrise music in Varanasi – exact timings, lineup, seating tips, and what to pack for chilly December mornings on the ghats."
+metaDescription: "Start your day with soul-stirring music at the Mahindra Kabira Festival 2025. Guide to sunrise sessions at Guleria Kothi and morning boat access."
 keywords:
   - "Morning Raag Varanasi"
   - "Mahindra Kabira sunrise music"

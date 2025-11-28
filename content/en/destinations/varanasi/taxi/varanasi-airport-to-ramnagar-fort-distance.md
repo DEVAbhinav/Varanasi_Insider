@@ -21,6 +21,9 @@ template: destination
 relatedPosts:
   - varanasi-airport-taxi-price-guide
   - ramnagar-ramlila-moving-stages-guide
+location:
+  name: "Ramnagar Fort"
+  address: "Ramnagar Fort, Varanasi, Uttar Pradesh 221008"
 faqSchema:
   - question: "How far is Ramnagar Fort from Varanasi Airport?"
     answer: "Ramnagar Fort is 35–36 km from Varanasi Airport (VNS) via Ring Road and the Ramnagar bridge, with typical drive times of 55–70 minutes."

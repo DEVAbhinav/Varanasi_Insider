@@ -7,7 +7,10 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Airport to Dashashwamedh Ghat: Distance, Time, Taxi Fare (2025)"
 metaDescription: "Answer every query on VNS airport to Dashashwamedh Ghat transfers: 25 km distance, 40–55 minute drive, taxi fare bands, Ganga Aarti timing tips, and trusted pickup guidance for 2025."
-description: "Use this 2025 guide to travel from Varanasi Airport to Dashashwamedh Ghat: definitive distance, travel time, taxi fares, best route, Ganga Aarti timing, and pickup protocol."
+description: "Guide for travel from Varanasi Airport to Dashashwamedh Ghat. Taxi charges, distance, and travel tips for main ghat area."
+location:
+  name: "Dashashwamedh Ghat"
+  address: "Dashashwamedh Ghat Rd, Varanasi, Uttar Pradesh 221001"
 keywords:
   - "varanasi airport to dashashwamedh distance"
   - "vns to dashashwamedh taxi fare"
