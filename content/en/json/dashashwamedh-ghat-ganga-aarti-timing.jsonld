@@ -118,7 +118,23 @@
           "addressRegion": "Uttar Pradesh",
           "addressCountry": "IN"
         }
-      }
+      },
+      "performer": {
+        "@type": "Organization",
+        "name": "Local Committee"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Vinayak Travels"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock"
+      },
+      "image": "https://www.kashitaxi.in/images/varanasi-hero.png",
+      "endDate": "2025-11-12T14:00:00+05:30"
     },
     {
       "@type": "FAQPage",

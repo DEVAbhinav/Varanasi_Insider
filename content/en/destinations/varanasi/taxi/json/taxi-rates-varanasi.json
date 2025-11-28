@@ -2,10 +2,16 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": ["LocalBusiness", "TaxiService"],
+      "@type": [
+        "LocalBusiness",
+        "TaxiService"
+      ],
       "@id": "https://www.kashitaxi.in/#org",
       "name": "Varanasi Taxi - Vinayak Travels",
-      "alternateName": ["KashiTaxi", "Varanasi Taxi Rates"],
+      "alternateName": [
+        "KashiTaxi",
+        "Varanasi Taxi Rates"
+      ],
       "url": "https://www.kashitaxi.in/",
       "telephone": "+919450301573",
       "priceRange": "₹₹",
@@ -46,12 +52,18 @@
       "availableChannel": {
         "@type": "ServiceChannel",
         "serviceUrl": "https://wa.me/919450301573?text=Check%20Taxi%20Rates",
-        "availableLanguage": ["en", "hi"],
+        "availableLanguage": [
+          "en",
+          "hi"
+        ],
         "servicePhone": {
           "@type": "ContactPoint",
           "telephone": "+919450301573",
           "contactType": "reservations",
-          "availableLanguage": ["English", "Hindi"]
+          "availableLanguage": [
+            "English",
+            "Hindi"
+          ]
         }
       },
       "offers": [
@@ -68,21 +80,21 @@
               "@type": "Offer",
               "name": "Airport to City Center",
               "priceCurrency": "INR",
-              "price": "600",
+              "price": 600,
               "availability": "https://schema.org/InStock"
             },
             {
               "@type": "Offer",
               "name": "Airport to Assi Ghat",
               "priceCurrency": "INR",
-              "price": "750",
+              "price": 750,
               "availability": "https://schema.org/InStock"
             },
             {
               "@type": "Offer",
               "name": "Airport to Railway Station",
               "priceCurrency": "INR",
-              "price": "500",
+              "price": 500,
               "availability": "https://schema.org/InStock"
             }
           ]
@@ -100,21 +112,21 @@
               "@type": "Offer",
               "name": "Temple Tour (2 hours)",
               "priceCurrency": "INR",
-              "price": "600",
+              "price": 600,
               "availability": "https://schema.org/InStock"
             },
             {
               "@type": "Offer",
               "name": "Half-Day Tour (4 hours)",
               "priceCurrency": "INR",
-              "price": "1200",
+              "price": 1200,
               "availability": "https://schema.org/InStock"
             },
             {
               "@type": "Offer",
               "name": "Full-Day Tour (8 hours)",
               "priceCurrency": "INR",
-              "price": "2500",
+              "price": 2500,
               "availability": "https://schema.org/InStock"
             }
           ]
@@ -132,7 +144,7 @@
               "@type": "Offer",
               "name": "Varanasi to Sarnath",
               "priceCurrency": "INR",
-              "price": "1200",
+              "price": 1200,
               "description": "Round-trip to Sarnath (28 km)",
               "availability": "https://schema.org/InStock"
             },
@@ -140,7 +152,7 @@
               "@type": "Offer",
               "name": "Varanasi to Prayagraj",
               "priceCurrency": "INR",
-              "price": "4000",
+              "price": 4000,
               "description": "Round-trip to Prayagraj (130 km)",
               "availability": "https://schema.org/InStock"
             },
@@ -148,7 +160,7 @@
               "@type": "Offer",
               "name": "Varanasi to Bodhgaya",
               "priceCurrency": "INR",
-              "price": "8000",
+              "price": 8000,
               "description": "Round-trip to Bodhgaya (240 km)",
               "availability": "https://schema.org/InStock"
             }
@@ -167,21 +179,21 @@
               "@type": "Offer",
               "name": "12-Seater Tempo Traveller (8 hours)",
               "priceCurrency": "INR",
-              "price": "2500",
+              "price": 2500,
               "availability": "https://schema.org/InStock"
             },
             {
               "@type": "Offer",
               "name": "14-Seater Tempo Traveller (8 hours)",
               "priceCurrency": "INR",
-              "price": "3000",
+              "price": 3000,
               "availability": "https://schema.org/InStock"
             },
             {
               "@type": "Offer",
               "name": "17-Seater Tempo Traveller (8 hours)",
               "priceCurrency": "INR",
-              "price": "3500",
+              "price": 3500,
               "availability": "https://schema.org/InStock"
             }
           ]

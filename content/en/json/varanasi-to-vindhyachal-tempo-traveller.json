@@ -49,7 +49,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "6200",
+        "price": 6200,
         "priceCurrency": "INR",
         "name": "Vindhyachal 8-hour Tempo Traveller package",
         "url": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller"

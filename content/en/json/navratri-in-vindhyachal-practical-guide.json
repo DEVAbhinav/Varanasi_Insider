@@ -52,13 +52,67 @@
           "@type": "Event",
           "name": "Sharad Navratri 2025",
           "startDate": "2025-09-22",
-          "endDate": "2025-10-01"
+          "endDate": "2025-10-01",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "performer": {
+            "@type": "Organization",
+            "name": "Local Committee"
+          },
+          "organizer": {
+            "@type": "Organization",
+            "name": "Vinayak Travels"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "image": "https://www.kashitaxi.in/images/varanasi-hero.png",
+          "description": "Sharad Navratri 2025",
+          "location": {
+            "@type": "Place",
+            "name": "Vindhyavasini Temple, Vindhyachal",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Vindhyachal",
+              "addressRegion": "Uttar Pradesh",
+              "addressCountry": "India"
+            }
+          }
         },
         {
           "@type": "Event",
           "name": "Chaitra Navratri 2025",
           "startDate": "2025-03-30",
-          "endDate": "2025-04-07"
+          "endDate": "2025-04-07",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "performer": {
+            "@type": "Organization",
+            "name": "Local Committee"
+          },
+          "organizer": {
+            "@type": "Organization",
+            "name": "Vinayak Travels"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "image": "https://www.kashitaxi.in/images/varanasi-hero.png",
+          "description": "Chaitra Navratri 2025",
+          "location": {
+            "@type": "Place",
+            "name": "Vindhyavasini Temple, Vindhyachal",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Vindhyachal",
+              "addressRegion": "Uttar Pradesh",
+              "addressCountry": "India"
+            }
+          }
         }
       ]
     },
@@ -86,10 +140,16 @@
       "offers": {
         "@type": "Offer",
         "name": "VIP Darshan",
-        "price": "501",
+        "price": 501,
         "priceCurrency": "INR",
         "description": "Fast-track darshan during Navratri"
-      }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "performer": {
+        "@type": "Organization",
+        "name": "Local Committee"
+      },
+      "image": "https://www.kashitaxi.in/images/varanasi-hero.png"
     },
     {
       "@type": "Event",
@@ -101,7 +161,23 @@
       "location": {
         "@type": "Place",
         "name": "Vindhyavasini Temple, Vindhyachal"
-      }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "performer": {
+        "@type": "Organization",
+        "name": "Local Committee"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Vinayak Travels"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock"
+      },
+      "image": "https://www.kashitaxi.in/images/varanasi-hero.png"
     },
     {
       "@type": "Organization",
@@ -212,7 +288,7 @@
         {
           "@type": "Offer",
           "name": "Durga Saptashati Path",
-          "price": "12899",
+          "price": 12899,
           "priceCurrency": "INR",
           "description": "Complete 700-verse recitation for protection and blessings"
         },
@@ -226,7 +302,7 @@
         {
           "@type": "Offer",
           "name": "Brahmin Bhoj",
-          "price": "5100",
+          "price": 5100,
           "priceCurrency": "INR",
           "description": "Sacred feeding ceremony for spiritual merit"
         }

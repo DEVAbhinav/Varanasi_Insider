@@ -46,7 +46,7 @@ export default function Footer({ allPosts }) {
           <Link href="/en/about" className={styles.footerLink}>About Us</Link>
           <Link href="/en/contact" className={styles.footerLink}>Contact</Link>
           <Link
-            href="/en/destinations/varanasi/varanasi-december-2025-experience-hub"
+            href="/en/varanasi-december-2025-experience-hub"
             className={styles.footerLink}
           >
             December 2025 Hub

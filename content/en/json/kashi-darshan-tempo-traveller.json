@@ -30,7 +30,7 @@
       "offers": {
         "@type": "Offer",
         "name": "8-Hour/80km City Tour Package",
-        "price": "5500",
+        "price": 5500,
         "priceCurrency": "INR",
         "url": "https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller"
       },

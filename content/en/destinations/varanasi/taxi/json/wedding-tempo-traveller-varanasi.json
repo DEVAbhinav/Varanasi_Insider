@@ -2,10 +2,18 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": ["LocalBusiness", "TaxiService", "RentalCarAgency"],
+      "@type": [
+        "LocalBusiness",
+        "TaxiService",
+        "RentalCarAgency"
+      ],
       "@id": "https://www.kashitaxi.in/#org",
       "name": "Varanasi Taxi - Vinayak Travels",
-      "alternateName": ["KashiTaxi", "Varanasi Wedding Taxi", "Tempo Traveller Varanasi"],
+      "alternateName": [
+        "KashiTaxi",
+        "Varanasi Wedding Taxi",
+        "Tempo Traveller Varanasi"
+      ],
       "url": "https://www.kashitaxi.in/",
       "telephone": "+919450301573",
       "priceRange": "₹₹₹",
@@ -50,12 +58,18 @@
       "availableChannel": {
         "@type": "ServiceChannel",
         "serviceUrl": "https://wa.me/919450301573?text=Book%20Wedding%20Taxi",
-        "availableLanguage": ["en", "hi"],
+        "availableLanguage": [
+          "en",
+          "hi"
+        ],
         "servicePhone": {
           "@type": "ContactPoint",
           "telephone": "+919450301573",
           "contactType": "reservations",
-          "availableLanguage": ["English", "Hindi"]
+          "availableLanguage": [
+            "English",
+            "Hindi"
+          ]
         }
       },
       "offers": [
@@ -64,11 +78,11 @@
           "name": "Bridal Car Service",
           "description": "Luxury decorated vehicle for bride and groom with professional chauffeur",
           "priceCurrency": "INR",
-          "price": "4000",
+          "price": 4000,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "4000",
+            "price": 4000,
             "minPrice": "4000",
             "maxPrice": "6000",
             "unitText": "per vehicle (4-8 hours)"
@@ -78,7 +92,14 @@
           "itemOffered": {
             "@type": "Product",
             "name": "Decorated Wedding Car",
-            "description": "Luxury vehicle with flowers, ribbons, custom decoration"
+            "description": "Luxury vehicle with flowers, ribbons, custom decoration",
+            "image": "https://www.kashitaxi.in/images/seden.png",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "0",
+              "availability": "https://schema.org/InStock"
+            }
           }
         },
         {
@@ -86,11 +107,11 @@
           "name": "12-Seater Tempo Traveller",
           "description": "AC tempo traveller for family outings and group tours",
           "priceCurrency": "INR",
-          "price": "2500",
+          "price": 2500,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "2500",
+            "price": 2500,
             "unitText": "per day (8-10 hours)"
           },
           "availability": "https://schema.org/InStock",
@@ -107,11 +128,11 @@
           "name": "14-Seater Tempo Traveller",
           "description": "Spacious AC tempo traveller for larger groups",
           "priceCurrency": "INR",
-          "price": "3000",
+          "price": 3000,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "3000",
+            "price": 3000,
             "unitText": "per day (8-10 hours)"
           },
           "availability": "https://schema.org/InStock",
@@ -127,11 +148,11 @@
           "name": "17-Seater Tempo Traveller",
           "description": "Extra large AC tempo traveller for big groups and extended tours",
           "priceCurrency": "INR",
-          "price": "3500",
+          "price": 3500,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "3500",
+            "price": 3500,
             "unitText": "per day (8-10 hours)"
           },
           "availability": "https://schema.org/InStock",
@@ -147,11 +168,11 @@
           "name": "Complete Wedding Transport Package",
           "description": "Bridal car plus 2-3 guest vehicles with coordinated timing",
           "priceCurrency": "INR",
-          "price": "15000",
+          "price": 15000,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "15000",
+            "price": 15000,
             "minPrice": "15000",
             "maxPrice": "25000",
             "unitText": "per package (20-30 guests)"
@@ -168,11 +189,11 @@
           "name": "Varanasi Pilgrimage Group Tour",
           "description": "Multi-day pilgrimage tour package for groups with tempo traveller",
           "priceCurrency": "INR",
-          "price": "7500",
+          "price": 7500,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "7500",
+            "price": 7500,
             "minPrice": "7500",
             "maxPrice": "12000",
             "unitText": "per 3 days"

@@ -53,7 +53,22 @@
           "addressCountry": "IN"
         }
       },
-      "description": "Daily morning Subah-e-Banaras ritual with yoga, Vedic chants, and lamp ceremony. Arrive 20 minutes early for best seating."
+      "description": "Daily morning Subah-e-Banaras ritual with yoga, Vedic chants, and lamp ceremony. Arrive 20 minutes early for best seating.",
+      "performer": {
+        "@type": "Organization",
+        "name": "Local Committee"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Vinayak Travels"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock"
+      },
+      "image": "https://www.kashitaxi.in/images/varanasi-hero.png"
     },
     {
       "@type": "Event",
@@ -73,7 +88,22 @@
           "addressCountry": "IN"
         }
       },
-      "description": "Evening lamp ceremony with classical music and choreographed diyas. Arrive 30 minutes early, especially during festival season."
+      "description": "Evening lamp ceremony with classical music and choreographed diyas. Arrive 30 minutes early, especially during festival season.",
+      "performer": {
+        "@type": "Organization",
+        "name": "Local Committee"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Vinayak Travels"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock"
+      },
+      "image": "https://www.kashitaxi.in/images/varanasi-hero.png"
     },
     {
       "@type": "FAQPage",

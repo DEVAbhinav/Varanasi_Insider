@@ -37,7 +37,7 @@
       "offers": {
         "@type": "Offer",
         "name": "Fixed Fare Airport Transfer",
-        "price": "2500",
+        "price": 2500,
         "priceCurrency": "INR"
       },
       "publisher": {

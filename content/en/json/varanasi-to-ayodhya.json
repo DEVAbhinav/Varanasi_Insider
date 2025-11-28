@@ -30,7 +30,7 @@
           "@type": "Offer",
           "name": "One-way Sedan (VNS → AY)",
           "priceCurrency": "INR",
-          "price": "2500",
+          "price": 2500,
           "priceValidUntil": "2026-03-31",
           "availability": "https://schema.org/InStock"
         },
@@ -38,7 +38,7 @@
           "@type": "Offer",
           "name": "Same‑day Return Sedan",
           "priceCurrency": "INR",
-          "price": "5000",
+          "price": 5000,
           "priceValidUntil": "2026-03-31",
           "availability": "https://schema.org/InStock"
         },
@@ -46,7 +46,7 @@
           "@type": "Offer",
           "name": "SUV Upgrade",
           "priceCurrency": "INR",
-          "price": "1500",
+          "price": 1500,
           "priceValidUntil": "2026-03-31",
           "availability": "https://schema.org/InStock"
         }

@@ -49,7 +49,35 @@
         {
           "@type": "Event",
           "name": "Navratri Festival",
-          "description": "Nine-night festival celebrating the Divine Feminine"
+          "description": "Nine-night festival celebrating the Divine Feminine",
+          "startDate": "2025-09-22",
+          "endDate": "2025-10-01",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "performer": {
+            "@type": "Organization",
+            "name": "Local Committee"
+          },
+          "organizer": {
+            "@type": "Organization",
+            "name": "Vinayak Travels"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          "image": "https://www.kashitaxi.in/images/varanasi-hero.png",
+          "location": {
+            "@type": "Place",
+            "name": "Vindhyavasini Temple, Vindhyachal",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Vindhyachal",
+              "addressRegion": "Uttar Pradesh",
+              "addressCountry": "India"
+            }
+          }
         }
       ],
       "mentions": [
@@ -222,7 +250,19 @@
       "organizer": {
         "@type": "Organization",
         "name": "Vindhyavasini Temple Trust"
-      }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "performer": {
+        "@type": "Organization",
+        "name": "Local Committee"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock"
+      },
+      "image": "https://www.kashitaxi.in/images/varanasi-hero.png"
     },
     {
       "@type": "Organization",

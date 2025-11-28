@@ -2,10 +2,16 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": ["LocalBusiness", "TaxiService"],
+      "@type": [
+        "LocalBusiness",
+        "TaxiService"
+      ],
       "@id": "https://www.kashitaxi.in/#org",
       "name": "Varanasi Taxi - Vinayak Travels",
-      "alternateName": ["KashiTaxi", "Varanasi Taxi Service"],
+      "alternateName": [
+        "KashiTaxi",
+        "Varanasi Taxi Service"
+      ],
       "url": "https://www.kashitaxi.in/",
       "telephone": "+919450301573",
       "priceRange": "₹₹",
@@ -91,15 +97,29 @@
       "availableChannel": {
         "@type": "ServiceChannel",
         "serviceUrl": "https://wa.me/919450301573?text=Book%20Taxi%20Service",
-        "availableLanguage": ["en", "hi"],
+        "availableLanguage": [
+          "en",
+          "hi"
+        ],
         "servicePhone": {
           "@type": "ContactPoint",
           "telephone": "+919450301573",
           "contactType": "customer service",
-          "availableLanguage": ["English", "Hindi"],
+          "availableLanguage": [
+            "English",
+            "Hindi"
+          ],
           "hoursAvailable": {
             "@type": "OpeningHoursSpecification",
-            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
             "opens": "00:00",
             "closes": "23:59"
           }
@@ -117,11 +137,11 @@
               "description": "From Varanasi International Airport to any location with fixed fares"
             },
             "priceCurrency": "INR",
-            "price": "600",
+            "price": 600,
             "priceSpecification": {
               "@type": "PriceSpecification",
               "priceCurrency": "INR",
-              "price": "600",
+              "price": 600,
               "minPrice": "600",
               "maxPrice": "800"
             }
@@ -134,11 +154,11 @@
               "description": "Half-day & full-day Kashi Darshan tours"
             },
             "priceCurrency": "INR",
-            "price": "2500",
+            "price": 2500,
             "priceSpecification": {
               "@type": "PriceSpecification",
               "priceCurrency": "INR",
-              "price": "2500",
+              "price": 2500,
               "minPrice": "1200",
               "maxPrice": "3500"
             }
@@ -167,11 +187,11 @@
               "description": "Professional transportation for businesses"
             },
             "priceCurrency": "INR",
-            "price": "300",
+            "price": 300,
             "priceSpecification": {
               "@type": "UnitPriceSpecification",
               "priceCurrency": "INR",
-              "price": "300",
+              "price": 300,
               "unitText": "per hour"
             }
           }

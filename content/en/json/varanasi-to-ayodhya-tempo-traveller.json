@@ -38,7 +38,7 @@
       "offers": {
         "@type": "Offer",
         "name": "All-Inclusive One-Day Tour Package",
-        "price": "14500",
+        "price": 14500,
         "priceCurrency": "INR",
         "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller"
       }

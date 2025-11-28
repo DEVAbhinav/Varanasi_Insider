@@ -100,7 +100,8 @@
                 "description": "Ideal for large groups and pilgrimage tours."
               }
             ]
-          }
+          },
+          "image": "https://www.kashitaxi.in/images/seden.png"
         },
         {
           "@type": "FAQPage",

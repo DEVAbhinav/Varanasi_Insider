@@ -38,7 +38,7 @@
       "offers": {
         "@type": "Offer",
         "name": "Same-Day Pilgrimage Package",
-        "price": "16000",
+        "price": 16000,
         "priceCurrency": "INR",
         "url": "https://www.kashitaxi.in/en/varanasi-to-bodhgaya-tempo-traveller"
       }

@@ -137,7 +137,7 @@ const getHomeSchema = (site) => ({
             '@type': 'OpeningHoursSpecification',
             dayOfWeek: [
               'Monday',
-              'Tuesday', 
+              'Tuesday',
               'Wednesday',
               'Thursday',
               'Friday',
@@ -157,7 +157,11 @@ const getHomeSchema = (site) => ({
       ],
       sameAs: SOCIAL_PROFILE_URLS,
       foundingDate: '2018',
-      numberOfEmployees: '15-25',
+      numberOfEmployees: {
+        '@type': 'QuantitativeValue',
+        minValue: 15,
+        maxValue: 25,
+      },
       knowsAbout: [
         'Varanasi Tourism',
         'Airport Transfer',
@@ -169,10 +173,10 @@ const getHomeSchema = (site) => ({
       ],
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.8',
-        reviewCount: '87',
-        bestRating: '5',
-        worstRating: '1',
+        ratingValue: 4.8,
+        reviewCount: 150,
+        bestRating: 5,
+        worstRating: 1,
       },
       review: [
         {

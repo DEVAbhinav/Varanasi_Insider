@@ -30,7 +30,7 @@
           "@type": "Offer",
           "name": "Same‑day Return Sedan (VNS ⇄ PRYJ)",
           "priceCurrency": "INR",
-          "price": "3500",
+          "price": 3500,
           "priceValidUntil": "2026-03-31",
           "availability": "https://schema.org/InStock"
         },
@@ -38,7 +38,7 @@
           "@type": "Offer",
           "name": "1N/2D Package (Sedan)",
           "priceCurrency": "INR",
-          "price": "5500",
+          "price": 5500,
           "priceValidUntil": "2026-03-31",
           "availability": "https://schema.org/InStock"
         }

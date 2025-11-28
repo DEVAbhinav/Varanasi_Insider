@@ -55,7 +55,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "4500",
+              "price": 4500,
               "priceCurrency": "INR",
               "description": "Local 8hr/80km"
             }
@@ -68,7 +68,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "5500",
+              "price": 5500,
               "priceCurrency": "INR"
             }
           },
@@ -80,7 +80,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "6000",
+              "price": 6000,
               "priceCurrency": "INR"
             }
           },
@@ -92,7 +92,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "6500",
+              "price": 6500,
               "priceCurrency": "INR"
             }
           },
@@ -104,7 +104,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "7000",
+              "price": 7000,
               "priceCurrency": "INR"
             }
           },
@@ -116,7 +116,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "7500",
+              "price": 7500,
               "priceCurrency": "INR"
             }
           }

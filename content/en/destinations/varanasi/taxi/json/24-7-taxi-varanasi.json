@@ -2,10 +2,18 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": ["LocalBusiness", "TaxiService", "EmergencyService"],
+      "@type": [
+        "LocalBusiness",
+        "TaxiService",
+        "EmergencyService"
+      ],
       "@id": "https://www.kashitaxi.in/#org",
       "name": "Varanasi Taxi - Vinayak Travels",
-      "alternateName": ["KashiTaxi", "24/7 Taxi Varanasi", "Night Cab Service Varanasi"],
+      "alternateName": [
+        "KashiTaxi",
+        "24/7 Taxi Varanasi",
+        "Night Cab Service Varanasi"
+      ],
       "url": "https://www.kashitaxi.in/",
       "telephone": "+919450301573",
       "priceRange": "₹₹",
@@ -27,7 +35,15 @@
       "openingHours": "Mo-Su 00:00-24:00",
       "openingHoursSpecification": {
         "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
         "opens": "00:00",
         "closes": "23:59"
       },
@@ -51,22 +67,44 @@
       },
       "hoursAvailable": {
         "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
         "opens": "00:00",
         "closes": "23:59"
       },
       "availableChannel": {
         "@type": "ServiceChannel",
         "serviceUrl": "https://wa.me/919450301573?text=24/7%20Emergency%20Taxi",
-        "availableLanguage": ["en", "hi"],
+        "availableLanguage": [
+          "en",
+          "hi"
+        ],
         "servicePhone": {
           "@type": "ContactPoint",
           "telephone": "+919450301573",
           "contactType": "emergency",
-          "availableLanguage": ["English", "Hindi"],
+          "availableLanguage": [
+            "English",
+            "Hindi"
+          ],
           "hoursAvailable": {
             "@type": "OpeningHoursSpecification",
-            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
             "opens": "00:00",
             "closes": "23:59"
           }
@@ -78,11 +116,11 @@
           "name": "Early Morning Taxi Service (5-6 AM)",
           "description": "Early morning airport transfer or city pickup with surcharge",
           "priceCurrency": "INR",
-          "price": "700",
+          "price": 700,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "700",
+            "price": 700,
             "additionalProperty": {
               "@type": "PropertyValue",
               "name": "Surcharge",
@@ -103,11 +141,11 @@
           "name": "Night Taxi Service (11 PM - 5 AM)",
           "description": "Late night and early morning taxi with enhanced safety features",
           "priceCurrency": "INR",
-          "price": "800",
+          "price": 800,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "800",
+            "price": 800,
             "additionalProperty": {
               "@type": "PropertyValue",
               "name": "Night Surcharge",
@@ -128,11 +166,11 @@
           "name": "Medical Emergency Transport",
           "description": "Urgent medical transport with trained drivers and emergency protocols",
           "priceCurrency": "INR",
-          "price": "1500",
+          "price": 1500,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "1500",
+            "price": 1500,
             "unitText": "fixed rate (any distance within Varanasi)"
           },
           "availability": "https://schema.org/InStock",
@@ -148,11 +186,11 @@
           "name": "Night Shift Worker Transportation",
           "description": "Reliable transport for manufacturing, BPO, and healthcare night shift workers",
           "priceCurrency": "INR",
-          "price": "400",
+          "price": 400,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "400",
+            "price": 400,
             "unitText": "per day per employee (night shift premium included)"
           },
           "availability": "https://schema.org/InStock",
@@ -167,11 +205,11 @@
           "name": "Late Night Event Transportation",
           "description": "Safe return journey from parties, weddings, and late-night events",
           "priceCurrency": "INR",
-          "price": "800",
+          "price": 800,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "800",
+            "price": 800,
             "description": "Standard rate + ₹200 night surcharge"
           },
           "availability": "https://schema.org/InStock",

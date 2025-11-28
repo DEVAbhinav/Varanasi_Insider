@@ -39,7 +39,7 @@
           {
             "@type": "Offer",
             "name": "Outstation Trip",
-            "price": "24",
+            "price": 24,
             "priceCurrency": "INR",
             "priceSpecification": {
               "@type": "UnitPriceSpecification",
@@ -51,23 +51,24 @@
           {
             "@type": "Offer",
             "name": "Local Kashi Darshan",
-            "price": "5500",
+            "price": 5500,
             "priceCurrency": "INR"
           },
           {
             "@type": "Offer",
             "name": "Airport Transfer",
-            "price": "2500",
+            "price": 2500,
             "priceCurrency": "INR"
           },
           {
             "@type": "Offer",
             "name": "Railway Station Transfer",
-            "price": "2500",
+            "price": 2500,
             "priceCurrency": "INR"
           }
         ]
-      }
+      },
+      "image": "https://www.kashitaxi.in/images/seden.png"
     },
     {
       "@type": "FAQPage",

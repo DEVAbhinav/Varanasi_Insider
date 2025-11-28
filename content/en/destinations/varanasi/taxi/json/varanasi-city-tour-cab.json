@@ -2,10 +2,17 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": ["LocalBusiness", "TaxiService", "TouristInformationCenter"],
+      "@type": [
+        "LocalBusiness",
+        "TaxiService",
+        "TouristInformationCenter"
+      ],
       "@id": "https://www.kashitaxi.in/#org",
       "name": "Varanasi Taxi - Vinayak Travels",
-      "alternateName": ["KashiTaxi", "Varanasi City Tour Cab"],
+      "alternateName": [
+        "KashiTaxi",
+        "Varanasi City Tour Cab"
+      ],
       "url": "https://www.kashitaxi.in/",
       "telephone": "+919450301573",
       "priceRange": "₹₹",
@@ -38,7 +45,11 @@
       "provider": {
         "@id": "https://www.kashitaxi.in/#org"
       },
-      "touristType": ["Pilgrims", "Tourists", "Families"],
+      "touristType": [
+        "Pilgrims",
+        "Tourists",
+        "Families"
+      ],
       "itinerary": [
         {
           "@type": "TouristAttraction",
@@ -72,11 +83,11 @@
           "name": "Full-Day City Tour - Sedan",
           "description": "Complete 8-hour Kashi Darshan covering all major temples and ghats with AC Sedan",
           "priceCurrency": "INR",
-          "price": "2500",
+          "price": 2500,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "2500",
+            "price": 2500,
             "unitText": "per day (8 hours)"
           },
           "availability": "https://schema.org/InStock",
@@ -92,11 +103,11 @@
           "name": "Full-Day City Tour - SUV",
           "description": "Complete 8-hour Kashi Darshan covering all major temples and ghats with AC SUV",
           "priceCurrency": "INR",
-          "price": "3500",
+          "price": 3500,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "3500",
+            "price": 3500,
             "unitText": "per day (8 hours)"
           },
           "availability": "https://schema.org/InStock",
@@ -107,11 +118,11 @@
           "name": "Half-Day Morning Tour - Sedan",
           "description": "4-hour morning tour covering sunrise at ghats, Kashi Vishwanath Temple, and Annapurna Temple",
           "priceCurrency": "INR",
-          "price": "1200",
+          "price": 1200,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "1200",
+            "price": 1200,
             "unitText": "per half day (4 hours)"
           },
           "availability": "https://schema.org/InStock",
@@ -122,11 +133,11 @@
           "name": "Half-Day Afternoon Tour - Sedan",
           "description": "4-hour afternoon tour covering Assi Ghat, evening aarti, and temple walks",
           "priceCurrency": "INR",
-          "price": "1200",
+          "price": 1200,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "1200",
+            "price": 1200,
             "unitText": "per half day (4 hours)"
           },
           "availability": "https://schema.org/InStock",
@@ -137,11 +148,11 @@
           "name": "Temple Tour - 2 Hours",
           "description": "Quick 2-hour temple-focused tour covering Kashi Vishwanath and Annapurna Temple",
           "priceCurrency": "INR",
-          "price": "600",
+          "price": 600,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "600",
+            "price": 600,
             "unitText": "per 2 hours"
           },
           "availability": "https://schema.org/InStock",
@@ -152,11 +163,11 @@
           "name": "Ghat Walk Tour - 3 Hours",
           "description": "3-hour spiritual ghat walking tour with taxi support",
           "priceCurrency": "INR",
-          "price": "900",
+          "price": 900,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": "900",
+            "price": 900,
             "unitText": "per 3 hours"
           },
           "availability": "https://schema.org/InStock",

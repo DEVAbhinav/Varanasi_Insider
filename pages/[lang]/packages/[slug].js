@@ -36,15 +36,15 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
   const crumbs = breadcrumbs?.length
     ? breadcrumbs
     : [
-        { name: "Home", item: "https://www.kashitaxi.in/" },
-        { name: "Packages", item: "https://www.kashitaxi.in/en/packages/" },
-        { name: title || "Package", item: `https://www.kashitaxi.in/en/packages/${pageSlug}` },
-      ];
+      { name: "Home", item: "https://www.kashitaxi.in/" },
+      { name: "Packages", item: "https://www.kashitaxi.in/en/packages/" },
+      { name: title || "Package", item: `https://www.kashitaxi.in/en/packages/${pageSlug}` },
+    ];
 
   return (
     <>
       {/* Central SEO Head: pass slug with packages/ segment so canonical matches route */}
-  <HeadForBlogs postData={{ title, description: subtitle, featuredImage: heroImage }} pageLang={pageLang} pageSlug={`packages/${pageSlug}`} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
+      <HeadForBlogs postData={{ title, description: subtitle, featuredImage: heroImage }} pageLang={pageLang} pageSlug={`packages/${pageSlug}`} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
 
       <NavBar />
 
@@ -122,7 +122,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
         {/* Quick highlights row */}
         <section className="bg-muted/30 py-4">
           <div className="mx-auto max-w-6xl px-4 grid gap-3 md:grid-cols-4">
-            {[{label: "Private Boats (not shared)", icon: Ship}, {label: "Instant WhatsApp Quote", icon: Phone}, {label: "Transparent Pricing", icon: IndianRupee}, {label: "Live Coordination", icon: CheckCircle2}].map((h, i) => (
+            {[{ label: "Private Boats (not shared)", icon: Ship }, { label: "Instant WhatsApp Quote", icon: Phone }, { label: "Transparent Pricing", icon: IndianRupee }, { label: "Live Coordination", icon: CheckCircle2 }].map((h, i) => (
               <div key={i} className="flex items-center gap-2 text-sm md:text-base"><h.icon className="h-4 w-4" /><span>{h.label}</span></div>
             ))}
           </div>
@@ -342,7 +342,7 @@ export async function getStaticProps({ params }) {
           };
         })
     );
-  } catch {}
+  } catch { }
 
   // Build OfferCatalog JSON-LD based on tiers
   const jsonLdData = {
@@ -353,6 +353,7 @@ export async function getStaticProps({ params }) {
       "@type": "Product",
       name: `${t.name} (${t.duration || ""})`,
       description: (t.includes || []).join("; "),
+      image: frontmatter.heroImage ? `https://www.kashitaxi.in${frontmatter.heroImage}` : "https://www.kashitaxi.in/images/varanasi-hero.png",
       brand: { "@type": "Brand", name: "Varanasi Taxi" },
       areaServed: "Varanasi",
       offers: {
@@ -360,7 +361,7 @@ export async function getStaticProps({ params }) {
         priceCurrency: "INR",
         lowPrice: String(withBuffer(t.indicative_total || 0, frontmatter.components?.buffer_percent ?? 10)),
         highPrice: String(withBuffer((t.indicative_total || 0) * 1.3, frontmatter.components?.buffer_percent ?? 10)),
-        offerCount: "3",
+        offerCount: 3,
         availability: "https://schema.org/InStock",
       },
     })),
@@ -403,7 +404,7 @@ export async function getStaticPaths() {
             const slug = f.replace(/\.md$/, "");
             paths.push({ params: { lang, slug } });
           });
-      } catch {}
+      } catch { }
     }
   } catch (e) {
     // no-op if directory missing

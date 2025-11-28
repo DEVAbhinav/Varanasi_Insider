@@ -49,7 +49,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "14800",
+        "price": 14800,
         "priceCurrency": "INR",
         "name": "Ram Janmabhoomi security liaison Tempo Traveller package",
         "url": "https://www.kashitaxi.in/en/varanasi-to-ram-janmabhoomi-tempo-traveller"

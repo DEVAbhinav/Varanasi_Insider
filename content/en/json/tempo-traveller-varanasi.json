@@ -97,7 +97,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "5500",
+              "price": 5500,
               "priceCurrency": "INR",
               "valueAddedTaxIncluded": true
             }
@@ -111,7 +111,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "2500",
+              "price": 2500,
               "priceCurrency": "INR",
               "valueAddedTaxIncluded": true
             }
@@ -125,7 +125,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "14500",
+              "price": 14500,
               "priceCurrency": "INR",
               "valueAddedTaxIncluded": true
             }
@@ -139,7 +139,7 @@
             },
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "8500",
+              "price": 8500,
               "priceCurrency": "INR",
               "valueAddedTaxIncluded": true
             }

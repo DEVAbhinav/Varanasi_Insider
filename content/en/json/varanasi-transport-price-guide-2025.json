@@ -124,7 +124,7 @@
           {
             "@type": "Offer",
             "name": "Sedan – Pre‑paid Counter",
-            "price": "850",
+            "price": 850,
             "priceCurrency": "INR",
             "priceSpecification": {
               "@type": "UnitPriceSpecification",
@@ -135,13 +135,13 @@
           {
             "@type": "Offer",
             "name": "Sedan – App Taxi",
-            "price": "620",
+            "price": 620,
             "priceCurrency": "INR"
           },
           {
             "@type": "Offer",
             "name": "SUV – Pre‑paid Counter",
-            "price": "1100",
+            "price": 1100,
             "priceCurrency": "INR"
           }
         ]
@@ -166,14 +166,14 @@
           "priceComponent": [
             {
               "@type": "UnitPriceSpecification",
-              "price": "14",
+              "price": 14,
               "priceCurrency": "INR",
               "unitCode": "KM",
               "name": "Day rate"
             },
             {
               "@type": "UnitPriceSpecification",
-              "price": "16",
+              "price": 16,
               "priceCurrency": "INR",
               "unitCode": "KM",
               "name": "Night rate"
@@ -204,7 +204,7 @@
       "offers": {
         "@type": "Offer",
         "priceCurrency": "INR",
-        "price": "4211",
+        "price": 4211,
         "description": "Sedan one‑way fare via Purvanchal Expressway (toll extra)"
       }
     },
@@ -218,7 +218,7 @@
       "departureBoatTerminal": "Dashashwamedh Ghat",
       "offers": {
         "@type": "Offer",
-        "price": "3999",
+        "price": 3999,
         "priceCurrency": "INR",
         "validThrough": "2025-11-30"
       }
@@ -233,7 +233,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "2000",
+        "price": 2000,
         "priceCurrency": "INR",
         "description": "Sedan package covering Kashi Vishwanath, Sarnath, Ramnagar Fort & Ganga Aarti drop‑off"
       }

@@ -49,7 +49,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "12500",
+        "price": 12500,
         "priceCurrency": "INR",
         "name": "Varanasi to Lucknow Tempo Traveller drop package",
         "url": "https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller"

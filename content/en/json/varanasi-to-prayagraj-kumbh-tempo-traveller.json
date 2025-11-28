@@ -49,7 +49,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "14500",
+        "price": 14500,
         "priceCurrency": "INR",
         "name": "Mahakumbh snan day Tempo Traveller package",
         "url": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-kumbh-tempo-traveller"

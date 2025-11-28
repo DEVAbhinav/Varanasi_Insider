@@ -49,7 +49,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "14500",
+        "price": 14500,
         "priceCurrency": "INR",
         "name": "12-seater Ayodhya Tempo Traveller package",
         "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller"

@@ -38,7 +38,7 @@
       "offers": {
         "@type": "Offer",
         "name": "All-Inclusive Same-Day Tour Package",
-        "price": "8500",
+        "price": 8500,
         "priceCurrency": "INR",
         "url": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller"
       }

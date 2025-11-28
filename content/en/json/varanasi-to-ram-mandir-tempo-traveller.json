@@ -49,7 +49,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "14500",
+        "price": 14500,
         "priceCurrency": "INR",
         "name": "Ram Mandir Tempo Traveller same-day package",
         "url": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller"

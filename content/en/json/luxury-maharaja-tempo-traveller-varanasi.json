@@ -39,25 +39,25 @@
           {
             "@type": "Offer",
             "name": "Local Luxury Tour (8hr/80km)",
-            "price": "7500",
+            "price": 7500,
             "priceCurrency": "INR"
           },
           {
             "@type": "Offer",
             "name": "Airport Transfer (Maharaja)",
-            "price": "3500",
+            "price": 3500,
             "priceCurrency": "INR"
           },
           {
             "@type": "Offer",
             "name": "Airport Transfer (Urbania)",
-            "price": "3800",
+            "price": 3800,
             "priceCurrency": "INR"
           },
           {
             "@type": "Offer",
             "name": "Outstation Trip (per km)",
-            "price": "34",
+            "price": 34,
             "priceCurrency": "INR",
             "priceSpecification": {
               "@type": "UnitPriceSpecification",
@@ -67,7 +67,8 @@
             }
           }
         ]
-      }
+      },
+      "image": "https://www.kashitaxi.in/images/seden.png"
     },
     {
       "@type": "BreadcrumbList",

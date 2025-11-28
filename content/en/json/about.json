@@ -60,8 +60,8 @@
       ],
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.8",
-        "reviewCount": "600"
+        "ratingValue": 4.8,
+        "reviewCount": 600
       },
       "member": [
         {

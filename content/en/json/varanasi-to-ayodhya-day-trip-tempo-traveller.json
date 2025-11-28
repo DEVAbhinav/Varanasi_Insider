@@ -49,7 +49,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": "14500",
+        "price": 14500,
         "priceCurrency": "INR",
         "name": "All-inclusive Ayodhya day trip Tempo Traveller package",
         "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller"
