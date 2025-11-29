@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X } from 'lucide-react';
+import * as gtag from '../../lib/gtag';
 import SidebarBookingWidget from '../BookingWidget/SidebarBookingWidget';
 import styles from './MobileLeadPopup.module.css';
 
@@ -14,6 +15,11 @@ export default function MobileLeadPopup({ delay = 30000 }) {
     if (!hasSeenPopup) {
       const timer = setTimeout(() => {
         setIsVisible(true);
+        gtag.event({
+          action: 'popup_shown',
+          category: 'Engagement',
+          label: 'Mobile Lead Popup',
+        });
       }, delay);
       return () => clearTimeout(timer);
     }
@@ -22,6 +28,11 @@ export default function MobileLeadPopup({ delay = 30000 }) {
   const handleClose = () => {
     setIsVisible(false);
     sessionStorage.setItem('hasSeenLeadPopup', 'true');
+    gtag.event({
+      action: 'popup_dismissed',
+      category: 'Engagement',
+      label: 'Mobile Lead Popup',
+    });
   };
 
   return (

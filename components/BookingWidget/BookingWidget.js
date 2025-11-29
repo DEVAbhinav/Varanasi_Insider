@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import * as gtag from '../../lib/gtag';
 import styles from './BookingWidget.module.css';
 
 export default function BookingWidget() {
@@ -16,6 +17,14 @@ export default function BookingWidget() {
   const [error, setError] = useState('');
 
   const handleChange = (e) => {
+    // Track form interaction start (once)
+    if (!formData[e.target.name] && e.target.value) {
+      gtag.event({
+        action: 'form_start',
+        category: 'Form',
+        label: 'Booking Widget',
+      });
+    }
     setFormData({
       ...formData,
       [e.target.name]: e.target.value,
@@ -58,8 +67,27 @@ export default function BookingWidget() {
 
       if (response.ok) {
         setSuccess(true);
+
+        // Track successful lead generation
+        gtag.event({
+          action: 'generate_lead',
+          category: 'Form',
+          label: 'Booking Widget',
+          value: 1, // Lead Value
+          trip_origin: formData.from,
+          trip_destination: formData.to,
+          travel_date: formData.date,
+          passenger_count: formData.passengers,
+          source_widget: 'Booking Widget'
+        });
+
         // Redirect to WhatsApp as backup
         setTimeout(() => {
+          gtag.event({
+            action: 'whatsapp_redirect',
+            category: 'Conversion',
+            label: 'Booking Widget Success',
+          });
           window.open(data.whatsappLink, '_blank');
         }, 1500);
         
