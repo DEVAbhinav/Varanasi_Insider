@@ -32,7 +32,6 @@ faqSchema:
     answer: "Ola/Uber cover the route but frequently switch to higher category fares; pre-booking locks a flat rate and museum-friendly arrival slots."
   - question: "What are the visiting hours for Dhamek Stupa after landing?"
     answer: "Dhamek Stupa opens 6 AM–5 PM (last entry 4:30 PM). Land before 2:30 PM to comfortably clear immigration, ride 60 minutes, and buy tickets before the cutoff."
-description: "Travel guide from Varanasi Airport to Sarnath. Distance, taxi fare, and best route. Visit Dhamek Stupa directly from airport."
 location:
   name: "Sarnath"
   address: "Sarnath, Varanasi, Uttar Pradesh 221007"

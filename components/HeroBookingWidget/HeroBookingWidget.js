@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import * as gtag from '../../lib/gtag';
 
 export default function HeroBookingWidget() {
   const [step, setStep] = useState(1); // Step 1: Trip details, Step 2: Contact info
@@ -16,6 +17,14 @@ export default function HeroBookingWidget() {
   const [error, setError] = useState('');
 
   const handleChange = (e) => {
+    // Track form interaction start (once)
+    if (!formData[e.target.name] && e.target.value) {
+      gtag.event({
+        action: 'form_start',
+        category: 'Form',
+        label: 'Hero Booking Widget',
+      });
+    }
     setFormData({
       ...formData,
       [e.target.name]: e.target.value,
@@ -26,6 +35,16 @@ export default function HeroBookingWidget() {
   const handleSearchRides = (e) => {
     e.preventDefault();
     
+    // Track ride search attempt
+    gtag.event({
+      action: 'search_rides_attempt',
+      category: 'Engagement',
+      label: 'Hero Booking Widget',
+      trip_origin: formData.pickup,
+      trip_destination: formData.destination,
+      travel_date: formData.date
+    });
+
     // Validate step 1
     if (!formData.pickup || !formData.destination) {
       setError('Please enter both pickup location and destination');
@@ -39,6 +58,11 @@ export default function HeroBookingWidget() {
 
     // Move to step 2 for contact details
     setStep(2);
+    gtag.event({
+      action: 'view_contact_step',
+      category: 'Funnel',
+      label: 'Hero Booking Widget',
+    });
     setError('');
   };
 
@@ -86,8 +110,26 @@ export default function HeroBookingWidget() {
       if (response.ok) {
         setSuccess(true);
         
+        // Track successful lead generation
+        gtag.event({
+          action: 'generate_lead',
+          category: 'Form',
+          label: 'Hero Booking Widget',
+          value: 1, // Lead Value
+          trip_origin: formData.pickup,
+          trip_destination: formData.destination,
+          travel_date: formData.date,
+          passenger_count: formData.passengers,
+          source_widget: 'Hero Booking Widget'
+        });
+
         // Redirect to WhatsApp after showing success
         setTimeout(() => {
+          gtag.event({
+            action: 'whatsapp_redirect',
+            category: 'Conversion',
+            label: 'Hero Booking Widget Success',
+          });
           const whatsappMessage = encodeURIComponent(
             `Hi! I need a taxi from ${formData.pickup} to ${formData.destination} on ${formData.date} for ${formData.passengers} passenger(s). My name is ${formData.name}.`
           );

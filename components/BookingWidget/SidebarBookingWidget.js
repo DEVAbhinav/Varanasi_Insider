@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useRouter } from 'next/router';
+import * as gtag from '../../lib/gtag';
 import styles from './SidebarBookingWidget.module.css';
 
 export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
@@ -16,6 +17,14 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
   const router = useRouter();
 
   const handleChange = (e) => {
+    // Track form interaction start (once)
+    if (!formData[e.target.name] && e.target.value) {
+      gtag.event({
+        action: 'form_start',
+        category: 'Form',
+        label: 'Sidebar Booking Widget',
+      });
+    }
     setFormData({
       ...formData,
       [e.target.name]: e.target.value,
@@ -62,7 +71,26 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
 
       if (response.ok) {
         setSuccess(true);
+
+        // Track successful lead generation
+        gtag.event({
+          action: 'generate_lead',
+          category: 'Form',
+          label: 'Sidebar Booking Widget',
+          value: 1, // Lead Value
+          trip_origin: 'Varanasi', // Implied
+          travel_date: formData.date,
+          passenger_count: formData.passengers,
+          source_widget: 'Sidebar Booking Widget',
+          page_location: widgetPageUrl
+        });
+
         setTimeout(() => {
+          gtag.event({
+            action: 'whatsapp_redirect',
+            category: 'Conversion',
+            label: 'Sidebar Booking Widget Success',
+          });
           window.open(data.whatsappLink, '_blank');
         }, 1500);
         
