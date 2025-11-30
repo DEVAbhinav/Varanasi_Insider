@@ -9,6 +9,12 @@ export default defineConfig({
     browserName: 'chromium',
     headless: true,
   },
+  webServer: {
+    command: 'npm start',
+    url: 'http://localhost:3000',
+    timeout: 120000,
+    reuseExistingServer: !process.env.CI,
+  },
   projects: [
     {
       name: 'chromium',
