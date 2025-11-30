@@ -30,96 +30,30 @@ relatedPosts:
     {
       "@type": "Event",
       "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025#morning",
-      "name": "Assi Ghat Morning Aarti (Subah-e-Banaras)",
-      "description": "Morning Ganga aarti at Assi Ghat (Subah-e-Banaras). Typical start: 5:30 AM.",
-      "url": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025",
+      "name": "Assi Ghat Morning Aarti",
       "startDate": "2025-11-05T05:30:00+05:30",
-      "endDate": "2025-11-05T06:15:00+05:30",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "image": [
-        "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
-      ],
       "location": {
         "@type": "Place",
         "name": "Assi Ghat, Varanasi",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "Near Sigra",
           "addressLocality": "Varanasi",
           "addressRegion": "Uttar Pradesh",
-          "postalCode": "221002",
           "addressCountry": "IN"
         }
       },
-      "organizer": {
-        "@type": "Organization",
-        "@id": "https://www.kashitaxi.in#kashi-taxi",
-        "name": "Kashi Taxi – Varanasi Taxi & Travel Agency",
-        "url": "https://www.kashitaxi.in/",
-        "telephone": "+91 94503 01573"
-      },
-      "performer": {
-        "@type": "PerformingGroup",
-        "name": "Subah-e-Banaras Aarti Group"
-      },
-      "offers": {
-        "@type": "Offer",
-        "name": "Assi Ghat Morning Aarti Taxi & Boat Packages",
-        "url": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025#booking",
-        "price": "0",
-        "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "validFrom": "2025-01-01T00:00:00+05:30",
-        "validThrough": "2025-12-31T23:59:59+05:30"
-      }
+      "description": "Morning Ganga aarti at Assi Ghat (Subah-e-Banaras). Typical start: 5:30 AM."
     },
     {
       "@type": "Event",
       "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025#evening",
       "name": "Assi Ghat Evening Aarti",
-      "description": "Evening Ganga aarti at Assi Ghat. Typical start: 6:00 PM.",
-      "url": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025",
       "startDate": "2025-11-05T18:00:00+05:30",
-      "endDate": "2025-11-05T18:45:00+05:30",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "image": [
-        "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
-      ],
       "location": {
         "@type": "Place",
-        "name": "Assi Ghat, Varanasi",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Near Sigra",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "postalCode": "221002",
-          "addressCountry": "IN"
-        }
+        "name": "Assi Ghat, Varanasi"
       },
-      "organizer": {
-        "@type": "Organization",
-        "@id": "https://www.kashitaxi.in#kashi-taxi",
-        "name": "Kashi Taxi – Varanasi Taxi & Travel Agency",
-        "url": "https://www.kashitaxi.in/",
-        "telephone": "+91 94503 01573"
-      },
-      "performer": {
-        "@type": "PerformingGroup",
-        "name": "Assi Ghat Evening Aarti Performers"
-      },
-      "offers": {
-        "@type": "Offer",
-        "name": "Assi Ghat Evening Aarti Taxi & Boat Packages",
-        "url": "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025#booking",
-        "price": "0",
-        "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "validFrom": "2025-01-01T00:00:00+05:30",
-        "validThrough": "2025-12-31T23:59:59+05:30"
-      }
+      "description": "Evening Ganga aarti at Assi Ghat. Typical start: 6:00 PM."
     },
     {
       "@type": "Place",

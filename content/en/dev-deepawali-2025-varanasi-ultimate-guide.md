@@ -36,52 +36,21 @@ relatedPosts:
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "Event",
-  "@id": "https://www.kashitaxi.in/en/dev-deepawali-2025-varanasi-ultimate-guide#event",
-  "name": "Dev Deepawali (Kashi) 2025",
-  "description": "Dev Deepawali 2025 in Varanasi on November 5 (Kartik Purnima): complete schedule, best ghats for viewing, boat ride pricing, travel tips and safety information.",
-  "url": "https://www.kashitaxi.in/en/dev-deepawali-2025-varanasi-ultimate-guide",
-  "startDate": "2025-11-05T18:00:00+05:30",
-  "endDate": "2025-11-05T23:59:00+05:30",
-  "eventStatus": "https://schema.org/EventScheduled",
-  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-  "image": [
-    "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
-  ],
-  "location": {
-    "@type": "Place",
-    "name": "Ghats of Varanasi",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Near Sigra",
-      "addressLocality": "Varanasi",
-      "addressRegion": "Uttar Pradesh",
-      "postalCode": "221002",
-      "addressCountry": "IN"
+  "@context":"https://schema.org",
+  "@type":"Event",
+  "name":"Dev Deepawali (Kashi) 2025",
+  "startDate":"2025-11-05",
+  "location":{
+    "@type":"Place",
+    "name":"Ghats of Varanasi",
+    "address":{
+      "@type":"PostalAddress",
+      "addressLocality":"Varanasi",
+      "addressRegion":"Uttar Pradesh",
+      "addressCountry":"IN"
     }
   },
-  "organizer": {
-    "@type": "Organization",
-    "@id": "https://www.kashitaxi.in#kashi-taxi",
-    "name": "Kashi Taxi – Varanasi Taxi & Travel Agency",
-    "url": "https://www.kashitaxi.in/",
-    "telephone": "+91 94503 01573"
-  },
-  "performer": {
-    "@type": "PerformingGroup",
-    "name": "Local Ganga Aarti Mandli and Dev Deepawali Performers"
-  },
-  "offers": {
-    "@type": "Offer",
-    "name": "Dev Deepawali 2025 Varanasi Taxi & Boat Packages",
-    "url": "https://www.kashitaxi.in/en/dev-deepawali-2025-varanasi-ultimate-guide#booking",
-    "price": "0",
-    "priceCurrency": "INR",
-    "availability": "https://schema.org/InStock",
-    "validFrom": "2025-09-01T00:00:00+05:30",
-    "validThrough": "2025-11-05T23:59:59+05:30"
-  }
+  "description":"Dev Deepawali 2025 in Varanasi: program schedule, best ghats for viewing, travel tips and safety information."
 }
 </script>
 
