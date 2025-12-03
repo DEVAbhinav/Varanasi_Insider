@@ -51,6 +51,12 @@ export default function Footer({ allPosts }) {
           >
             December 2025 Hub
           </Link>
+          <Link
+            href="/en/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi"
+            className={styles.footerLink}
+          >
+            Kashi Tamil Sangamam
+          </Link>
           <a href="https://www.kashitaxi.in" target="_blank" rel="noopener noreferrer" className={styles.footerLink}>Book a Taxi</a>
           <Link href="#" className={styles.footerLink}>Privacy Policy</Link>
         </div>
