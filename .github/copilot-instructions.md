@@ -185,10 +185,10 @@ npm run update:breadcrumbs
 Create `.env.local` for local development:
 
 ```env
-NEXT_PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXXXX  # Google Analytics 4 property ID
+NEXT_PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXXXX  # Google Analytics 4 property ID (replace with actual ID)
 ```
 
-Default GA4 property: `G-57P08K8G17` (only override if needed)
+Note: The site has a default GA4 property configured. Override this variable only if you need to use a different property for testing.
 
 ## API Routes & Functions
 
