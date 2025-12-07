@@ -3,12 +3,12 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.varanasiinsider.com/#organization",
+      "@id": "https://www.kashitaxi.in/#organization",
       "name": "KashiTaxi",
       "url": "https://www.kashitaxi.in",
       "email": "info@kashitaxi.in",
       "telephone": "+91 94503 01573",
-      "logo": "https://www.varanasiinsider.com/images/varanasi-boat-eve-l.jpeg",
+      "logo": "https://www.kashitaxi.in/images/varanasi-boat-eve-l.jpeg",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Dashashwamedh Road",
@@ -20,14 +20,14 @@
     },
     {
       "@type": "Event",
-      "@id": "https://www.varanasiinsider.com/en/destinations/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking#event",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking#event",
       "name": "Makar Sankranti 2026 Kite Festival Taxi Booking",
       "description": "Door-to-door taxi coordination for Makar Sankranti 2026 in Varanasi, covering sunrise snan runs and rooftop kite sessions.",
       "startDate": "2026-01-14T04:00:00+05:30",
       "endDate": "2026-01-14T22:00:00+05:30",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
-      "image": "https://www.varanasiinsider.com/images/varanasi-boat-eve-l.jpeg",
+      "image": "https://www.kashitaxi.in/images/varanasi-boat-eve-l.jpeg",
       "location": {
         "@type": "Place",
         "name": "Varanasi Ghats & Rooftops",
@@ -41,7 +41,7 @@
         }
       },
       "organizer": {
-        "@id": "https://www.varanasiinsider.com/#organization"
+        "@id": "https://www.kashitaxi.in/#organization"
       },
       "offers": [
         {
@@ -69,11 +69,11 @@
     },
     {
       "@type": "Service",
-      "@id": "https://www.varanasiinsider.com/#makar-sankranti-taxi-service",
+      "@id": "https://www.kashitaxi.in/#makar-sankranti-taxi-service",
       "name": "Makar Sankranti Taxi Coordination",
       "serviceType": "Taxi & Shuttle",
       "provider": {
-        "@id": "https://www.varanasiinsider.com/#organization"
+        "@id": "https://www.kashitaxi.in/#organization"
       },
       "areaServed": {
         "@type": "City",
@@ -89,13 +89,13 @@
         "priceCurrency": "INR",
         "price": "1200",
         "availabilityStarts": "2025-12-01",
-        "url": "https://www.varanasiinsider.com/en/destinations/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking"
+        "url": "https://www.kashitaxi.in/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking"
       }
     },
     {
       "@type": "Review",
       "itemReviewed": {
-        "@id": "https://www.varanasiinsider.com/#makar-sankranti-taxi-service"
+        "@id": "https://www.kashitaxi.in/#makar-sankranti-taxi-service"
       },
       "author": {
         "@type": "Person",
