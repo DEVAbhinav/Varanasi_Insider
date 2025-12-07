@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Corporate Mobility & Chauffeur Service for Banaras Lit Fest 2026",
+  "description": "Corporate mobility partnership for Banaras Lit Fest 2026 including VIP chauffeur service, media fleets and publisher delegation transport at Taj Ganges, Varanasi.",
+  "provider": {
+    "@type": "Organization",
+    "name": "KashiTaxi",
+    "url": "https://www.kashitaxi.in/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.kashitaxi.in/android-chrome-192x192.png"
+    }
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Varanasi"
+  },
+  "serviceType": "Corporate event mobility",
+  "serviceOutput": "Chauffeured vehicles, VIP transfers and media logistics for Banaras Lit Fest 2026",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "BLF 2026 Corporate Mobility Packages",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "VIP Speaker & Guest Transport"
+      },
+      {
+        "@type": "Offer",
+        "name": "Media & Journalist Fleet Service"
+      },
+      {
+        "@type": "Offer",
+        "name": "Publisher & Sponsor Delegation Transport"
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.kashitaxi.in/en/destinations/varanasi/events/banaras-lit-fest-2026-corporate-mobility-partner"
+  }
+}
