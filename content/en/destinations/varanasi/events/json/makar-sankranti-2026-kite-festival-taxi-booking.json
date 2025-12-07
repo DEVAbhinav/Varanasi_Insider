@@ -1,113 +1,43 @@
 {
   "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Organization",
-      "@id": "https://www.kashitaxi.in/#organization",
-      "name": "KashiTaxi",
-      "url": "https://www.kashitaxi.in",
-      "email": "info@kashitaxi.in",
-      "telephone": "+91 94503 01573",
-      "logo": "https://www.kashitaxi.in/images/varanasi-boat-eve-l.jpeg",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Dashashwamedh Road",
-        "addressLocality": "Varanasi",
-        "addressRegion": "Uttar Pradesh",
-        "postalCode": "221001",
-        "addressCountry": "IN"
-      }
-    },
-    {
-      "@type": "Event",
-      "@id": "https://www.kashitaxi.in/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking#event",
-      "name": "Makar Sankranti 2026 Kite Festival Taxi Booking",
-      "description": "Door-to-door taxi coordination for Makar Sankranti 2026 in Varanasi, covering sunrise snan runs and rooftop kite sessions.",
-      "startDate": "2026-01-14T04:00:00+05:30",
-      "endDate": "2026-01-14T22:00:00+05:30",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "image": "https://www.kashitaxi.in/images/varanasi-boat-eve-l.jpeg",
-      "location": {
-        "@type": "Place",
-        "name": "Varanasi Ghats & Rooftops",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Ghats of Varanasi",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "postalCode": "221001",
-          "addressCountry": "IN"
-        }
-      },
-      "organizer": {
-        "@id": "https://www.kashitaxi.in/#organization"
-      },
-      "offers": [
-        {
-          "@type": "Offer",
-          "name": "Standard Sedan",
-          "price": "1200",
-          "priceCurrency": "INR",
-          "availability": "https://schema.org/InStock"
-        },
-        {
-          "@type": "Offer",
-          "name": "Premium SUV",
-          "price": "1600",
-          "priceCurrency": "INR",
-          "availability": "https://schema.org/InStock"
-        },
-        {
-          "@type": "Offer",
-          "name": "Group Van",
-          "price": "3500",
-          "priceCurrency": "INR",
-          "availability": "https://schema.org/InStock"
-        }
-      ]
-    },
-    {
-      "@type": "Service",
-      "@id": "https://www.kashitaxi.in/#makar-sankranti-taxi-service",
-      "name": "Makar Sankranti Taxi Coordination",
-      "serviceType": "Taxi & Shuttle",
-      "provider": {
-        "@id": "https://www.kashitaxi.in/#organization"
-      },
-      "areaServed": {
-        "@type": "City",
-        "name": "Varanasi"
-      },
-      "availableChannel": {
-        "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919450301573",
-        "availableLanguage": ["en", "hi"]
-      },
-      "offers": {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "price": "1200",
-        "availabilityStarts": "2025-12-01",
-        "url": "https://www.kashitaxi.in/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking"
-      }
-    },
-    {
-      "@type": "Review",
-      "itemReviewed": {
-        "@id": "https://www.kashitaxi.in/#makar-sankranti-taxi-service"
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Kavita Sharma"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "reviewBody": "Driver walked my mother through the barricades, kept the SUV warm, and had us back at the hotel before sunrise crowds swelled.",
-      "datePublished": "2025-01-15"
+  "@type": "Event",
+  "name": "Makar Sankranti 2026 Kite Festival Taxi Service in Varanasi",
+  "description": "Pre-dawn snan, rooftop kite flying and city movement supported by KashiTaxi's dedicated taxi service for Makar Sankranti 2026 in Varanasi.",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "startDate": "2026-01-14T04:00:00+05:30",
+  "endDate": "2026-01-14T23:00:00+05:30",
+  "eventSchedule": {
+    "@type": "Schedule",
+    "startDate": "2026-01-14",
+    "endDate": "2026-01-14",
+    "repeatFrequency": "P1D",
+    "scheduleTimezone": "Asia/Kolkata"
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Varanasi Ghats & Rooftops",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Varanasi",
+      "addressRegion": "Uttar Pradesh",
+      "postalCode": "221001",
+      "addressCountry": "IN"
     }
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "KashiTaxi",
+    "url": "https://www.kashitaxi.in/"
+  },
+  "offers": {
+    "@type": "Offer",
+    "availability": "https://schema.org/InStock",
+    "priceCurrency": "INR",
+    "price": "1800",
+    "url": "https://www.kashitaxi.in/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking"
+  },
+  "image": [
+    "https://www.kashitaxi.in/images/varanasi-kite-festival-sunrise.jpeg"
   ]
 }
