@@ -1,8 +1,8 @@
 ---
 title: "Kartik Purnima Ganga Snan in Varanasi 2025: Dates, Rituals & Complete Guide"
 slug: "kartik-purnima-ganga-snan-varanasi-2025"
-date: "2025-11-01"
-lastUpdated: "2025-11-01"
+date: "2025-12-01"
+lastUpdated: "2025-12-01"
 author: "Varanasi Insider Team"
 excerpt: "Experience the divine Kartik Purnima Ganga Snan in Varanasi 2025. Complete guide to dates, rituals, best ghats, taxi services, and spiritual significance of this sacred bathing festival."
 lang: en
