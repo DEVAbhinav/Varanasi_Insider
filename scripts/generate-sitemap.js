@@ -16,10 +16,11 @@ function getPageRoutes(dir, baseRoute = '') {
     if (entry.isDirectory()) {
       if (['api'].includes(entry.name) || entry.name.startsWith('_') || entry.name.startsWith('[')) continue;
       routes.push(...getPageRoutes(path.join(dir, entry.name), path.join(baseRoute, entry.name)));
-    } else if (/\.(js|jsx)$/.test(entry.name) && !entry.name.startsWith('_') && !entry.name.startsWith('[')) {
+    } else if (/(\.(js|jsx|ts|tsx))$/i.test(entry.name) && !entry.name.startsWith('_') && !entry.name.startsWith('[')) {
       // Skip backup or draft files (e.g., index.backup.js) so they don't leak into sitemap
       if (entry.name.includes('.backup.')) continue;
-      let route = '/' + path.join(baseRoute, entry.name).replace(/\\/g, '/').replace(/\.(js|jsx)$/i, '');
+      if (entry.name.endsWith('.d.ts')) continue;
+      let route = '/' + path.join(baseRoute, entry.name).replace(/\\/g, '/').replace(/\.(js|jsx|ts|tsx)$/i, '');
       route = route.replace(/\/(index)$/i, '/').replace(/\/+$/, '/');
       const base = path.basename(route);
       if (!['404', '500', '_error', '_document', '_app', 'sitemap.xml'].includes(base)) routes.push(route);
