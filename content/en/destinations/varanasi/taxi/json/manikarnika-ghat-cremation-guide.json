@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TaxiService",
+  "name": "Manikarnika Ghat Taxi & Etiquette Service",
+  "serviceType": "Cremation ghat access",
+  "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/manikarnika-ghat-cremation-guide",
+  "description": "Respectful access to Manikarnika Ghat with Maidagin drop, etiquette briefing, and waiting service.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.kashitaxi.in/#org",
+    "name": "Kashi Taxi",
+    "url": "https://www.kashitaxi.in/",
+    "telephone": "+919450301573"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Manikarnika Ghat, Varanasi"
+  },
+  "serviceArea": {
+    "@type": "City",
+    "name": "Varanasi"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "https://wa.me/919450301573?text=Visit%20Manikarnika%20Ghat",
+    "availableLanguage": ["en", "hi"],
+    "servicePhone": {
+      "@type": "ContactPoint",
+      "telephone": "+919450301573",
+      "contactType": "reservations"
+    }
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "INR",
+    "lowPrice": 450,
+    "highPrice": 1800,
+    "offerCount": 3,
+    "offers": [
+      {"@type": "Offer", "name": "Maidagin drop sedan", "priceCurrency": "INR", "price": 450, "description": "City drop to Maidagin Gate with 45-minute standby."},
+      {"@type": "Offer", "name": "Evening sacred tour", "priceCurrency": "INR", "price": 1300, "description": "Manikarnika + Dashashwamedh Aarti circuit with waiting."},
+      {"@type": "Offer", "name": "Airport to Maidagin", "priceCurrency": "INR", "price": 900, "description": "All-inclusive airport to Maidagin drop for Manikarnika visit."}
+    ]
+  },
+  "timeRequired": "PT45M",
+  "additionalProperty": [
+    {"@type": "PropertyValue", "name": "DistanceAirport", "value": "27 km"},
+    {"@type": "PropertyValue", "name": "DistanceAssi", "value": "5 km"},
+    {"@type": "PropertyValue", "name": "DriveTimePeakAirport", "value": "PT90M"},
+    {"@type": "PropertyValue", "name": "DriveTimePeakAssi", "value": "PT50M"}
+  ],
+  "knowsAbout": [
+    "Maidagin legal drop point",
+    "No photography cremation etiquette",
+    "Sacred lane walking route"
+  ]
+}
