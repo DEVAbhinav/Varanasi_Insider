@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TaxiService",
+  "name": "केदार और हरिश्चंद्र घाट टैक्सी सेवा",
+  "serviceType": "तीर्थ और मंदिर ट्रांसफर",
+  "url": "https://www.kashitaxi.in/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+  "description": "केदार और हरिश्चंद्र घाट के लिए सांस्कृतिक ब्रीफिंग और फिक्स्ड तीर्थ किराये वाली टैक्सी सेवा।",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.kashitaxi.in/#org",
+    "name": "Kashi Taxi",
+    "url": "https://www.kashitaxi.in/",
+    "telephone": "+919450301573"
+  },
+  "areaServed": {"@type": "Place", "name": "केदार घाट और हरिश्चंद्र घाट, वाराणसी"},
+  "serviceArea": {"@type": "City", "name": "Varanasi"},
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "https://wa.me/919450301573?text=Book%20Kedar%20Harishchandra%20taxi",
+    "availableLanguage": ["hi", "en", "ta", "te", "kn", "ml"],
+    "servicePhone": {"@type": "ContactPoint", "telephone": "+919450301573", "contactType": "reservations"}
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "INR",
+    "lowPrice": 400,
+    "highPrice": 1500,
+    "offerCount": 3,
+    "offers": [
+      {"@type": "Offer", "name": "केदार गेट ड्रॉप", "priceCurrency": "INR", "price": 400, "description": "सम्मानजनक अप्रोच के साथ सिटी ड्रॉप।"},
+      {"@type": "Offer", "name": "तीर्थ सर्किट 3 घंटे", "priceCurrency": "INR", "price": 1200, "description": "केदार, हरिश्चंद्र, गोडौलिया एक्सेस + स्टैंडबाय।"},
+      {"@type": "Offer", "name": "एयरपोर्ट से केदार सेडान", "priceCurrency": "INR", "price": 900, "description": "बबतपुर से केदार गेट ड्रॉप, ऑल-इन्क्लूसिव।"}
+    ]
+  },
+  "timeRequired": "PT15M",
+  "additionalProperty": [
+    {"@type": "PropertyValue", "name": "DistanceAirport", "value": "25 km"},
+    {"@type": "PropertyValue", "name": "DistanceAssi", "value": "4 km"},
+    {"@type": "PropertyValue", "name": "DriveTimePeakAirport", "value": "PT75M"},
+    {"@type": "PropertyValue", "name": "DriveTimePeakAssi", "value": "PT35M"}
+  ],
+  "knowsAbout": ["Kedar Gate", "Harishchandra cremation etiquette", "South Indian pilgrim needs"]
+}
