@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TaxiService",
+  "name": "Taxi Service in Sigra, Varanasi",
+  "serviceType": "Local taxi pickup",
+  "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-service-in-sigra-varanasi",
+  "description": "Local Sigra taxi service with 10–15 minute pickups from Shastri Nagar, IP Mall, Rath Yatra, and Mahmoorganj. Fixed fares, no surge, police-verified drivers.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.kashitaxi.in/#org",
+    "name": "Kashi Taxi",
+    "url": "https://www.kashitaxi.in/",
+    "telephone": "+919450301573"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Sigra, Varanasi"
+  },
+  "serviceArea": {
+    "@type": "City",
+    "name": "Varanasi"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "https://wa.me/919450301573?text=Book%20cab%20from%20Sigra",
+    "availableLanguage": ["en", "hi"],
+    "servicePhone": {
+      "@type": "ContactPoint",
+      "telephone": "+919450301573",
+      "contactType": "reservations"
+    }
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "INR",
+    "lowPrice": 800,
+    "highPrice": 1800,
+    "offerCount": 3,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Sigra to Airport Sedan",
+        "priceCurrency": "INR",
+        "price": 800,
+        "description": "Babatpur airport drop from Sigra with fixed fare and no surge."
+      },
+      {
+        "@type": "Offer",
+        "name": "Sigra to Kashi Vishwanath Local Package",
+        "priceCurrency": "INR",
+        "price": 1600,
+        "description": "4 hr / 40 km sedan local for Godowlia/temple access."
+      },
+      {
+        "@type": "Offer",
+        "name": "Sigra to Sarnath Local Package",
+        "priceCurrency": "INR",
+        "price": 1800,
+        "description": "4 hr / 40 km sedan for Sarnath via Sigra pickup."
+      }
+    ]
+  },
+  "timeRequired": "PT15M",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "DistanceAirport", "value": "24 km" },
+    { "@type": "PropertyValue", "name": "DistanceKashiVishwanath", "value": "3.5 km" },
+    { "@type": "PropertyValue", "name": "DriveTimePeakAirport", "value": "PT70M" },
+    { "@type": "PropertyValue", "name": "DriveTimePeakKashiVishwanath", "value": "PT40M" }
+  ],
+  "knowsAbout": [
+    "Sigra Crossing traffic timings",
+    "Mahmoorganj back routes",
+    "Rath Yatra crossing detours"
+  ]
+}

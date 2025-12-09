@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TaxiService",
+  "name": "Taxi Service at Varanasi Cantt Station",
+  "serviceType": "Railway station pickup",
+  "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi-cantt-station",
+  "description": "24/7 Cantt Station pickups with PNR-based tracking, designated circulating area meeting, and fixed fares to city hubs and airport.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.kashitaxi.in/#org",
+    "name": "Kashi Taxi",
+    "url": "https://www.kashitaxi.in/",
+    "telephone": "+919450301573"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Varanasi Junction (Cantt)"
+  },
+  "serviceArea": {
+    "@type": "City",
+    "name": "Varanasi"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "https://wa.me/919450301573?text=Book%20taxi%20at%20Varanasi%20Cantt",
+    "availableLanguage": ["en", "hi"],
+    "servicePhone": {
+      "@type": "ContactPoint",
+      "telephone": "+919450301573",
+      "contactType": "reservations"
+    }
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "INR",
+    "lowPrice": 450,
+    "highPrice": 900,
+    "offerCount": 3,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Cantt to Godowlia",
+        "priceCurrency": "INR",
+        "price": 450,
+        "description": "Fixed sedan drop to Godowlia/Dashashwamedh access point."
+      },
+      {
+        "@type": "Offer",
+        "name": "Cantt to Assi/Lanka",
+        "priceCurrency": "INR",
+        "price": 550,
+        "description": "Sedan drop to Assi or BHU gate with luggage help on request."
+      },
+      {
+        "@type": "Offer",
+        "name": "Cantt to Airport",
+        "priceCurrency": "INR",
+        "price": 900,
+        "description": "35–50 minute sedan transfer to VNS airport from Cantt side."
+      }
+    ]
+  },
+  "timeRequired": "PT20M",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "DistanceGodowlia", "value": "4.5 km" },
+    { "@type": "PropertyValue", "name": "DistanceAssi", "value": "6 km" },
+    { "@type": "PropertyValue", "name": "DriveTimePeakHigh", "value": "PT80M" },
+    { "@type": "PropertyValue", "name": "DriveTimePeakLow", "value": "PT15M" }
+  ],
+  "knowsAbout": [
+    "Cantt circulating area access",
+    "Platform 1 vs Platform 8 pickup coordination",
+    "Late-night safe station exits"
+  ]
+}

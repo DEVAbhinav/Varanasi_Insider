@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TaxiService",
+  "name": "Prepaid Airport Taxi Varanasi",
+  "serviceType": "Airport transfer",
+  "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-taxi-service-varanasi",
+  "description": "Meet-and-greet, fixed-fare airport taxi from VNS (Babatpur) with flight tracking, all-inclusive pricing, and zero commission detours.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.kashitaxi.in/#org",
+    "name": "Kashi Taxi",
+    "url": "https://www.kashitaxi.in/",
+    "telephone": "+919450301573"
+  },
+  "areaServed": {
+    "@type": "Airport",
+    "name": "Lal Bahadur Shastri International Airport (VNS)"
+  },
+  "serviceArea": {
+    "@type": "City",
+    "name": "Varanasi"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "https://wa.me/919450301573?text=Schedule%20airport%20pickup",
+    "availableLanguage": ["en", "hi"],
+    "servicePhone": {
+      "@type": "ContactPoint",
+      "telephone": "+919450301573",
+      "contactType": "reservations"
+    }
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "INR",
+    "lowPrice": 750,
+    "highPrice": 1150,
+    "offerCount": 3,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Airport to Cantt/Sigra Sedan",
+        "priceCurrency": "INR",
+        "price": 750,
+        "description": "All-inclusive sedan drop to Cantt or Sigra with placard pickup."
+      },
+      {
+        "@type": "Offer",
+        "name": "Airport to Godowlia Sedan",
+        "priceCurrency": "INR",
+        "price": 800,
+        "description": "Fixed fare to Godowlia/Dashashwamedh with nearest vehicle access."
+      },
+      {
+        "@type": "Offer",
+        "name": "Airport to Assi/BHU Sedan",
+        "priceCurrency": "INR",
+        "price": 850,
+        "description": "Drop to Assi/Lanka/BHU with parking and tolls included."
+      }
+    ]
+  },
+  "timeRequired": "PT50M",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "DistanceGodowlia", "value": "26 km" },
+    { "@type": "PropertyValue", "name": "DistanceAssi", "value": "29 km" },
+    { "@type": "PropertyValue", "name": "DriveTimePeakHigh", "value": "PT100M" },
+    { "@type": "PropertyValue", "name": "DriveTimePeakLow", "value": "PT45M" }
+  ],
+  "knowsAbout": [
+    "NH-31 approach and Gilat Bazar congestion",
+    "Placard pickup at VNS arrivals",
+    "Zero-commission hotel drop policy"
+  ]
+}
