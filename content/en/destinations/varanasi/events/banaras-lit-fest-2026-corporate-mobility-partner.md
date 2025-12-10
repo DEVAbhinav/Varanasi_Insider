@@ -257,4 +257,4 @@ If you’re an organizer, publisher, media lead or sponsor coordinator for BLF 2
 2. Tell us **how many vehicles you expect to need at peak** (for example: 3 VIP cars + 4 media vans + 2 delegation vehicles).
 3. Flag any **special constraints** – very late arrivals, special-needs guests, off-venue events.
 
-**CTA:** Email your outline to `BLF.Partnership@kashitaxi.in` or message `+91 94503 01573` on WhatsApp with subject line **“BLF 2026 Corporate Mobility”**. We’ll respond with a draft fleet plan, indicative pricing, and a single point-of-contact you can loop into your internal planning documents.
+**CTA:** Email your outline to `taxiinvaranasiii@gmail.com` or message `+91 94503 01573` on WhatsApp with subject line **“BLF 2026 Corporate Mobility”**. We’ll respond with a draft fleet plan, indicative pricing, and a single point-of-contact you can loop into your internal planning documents.

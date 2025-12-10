@@ -74,4 +74,4 @@ Our guests trust the people behind the wheel. This page is for the drivers who m
 ## Call to Action for Partners
 - Want your photo live? **Message 94503 01573** with your headshot and details.
 - Need more airport or Tent City runs? Ask ops to add you to priority rosters.
-- Have feedback to improve training? Email **support@kashitaxi.in**.
+- Have feedback to improve training? Email **taxiinvaranasiii@gmail.com**.

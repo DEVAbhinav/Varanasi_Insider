@@ -151,7 +151,7 @@ The **Taj Gateway Hotel** is strategically located in the Assi Ghat area, one of
 - Provide your flight number and arrival time
 
 **Step 2: Arrange Private Taxi (Our Service)**
-- Email: transfers@kashitaxi.in
+- Email: taxiinvaranasiii@gmail.com
 - WhatsApp: +91-9450301573
 - Provide:
   - Flight number and arrival time
@@ -262,7 +262,7 @@ The **Taj Gateway Hotel** is strategically located in the Assi Ghat area, one of
 **Questions Before Booking?**
 
 - **WhatsApp:** +91-9450301573
-- **Email:** transfers@kashitaxi.in
+- **Email:** taxiinvaranasiii@gmail.com
 - **Call:** +91-9450301573
 
 We're here 24/7 to ensure your Varanasi arrival is smooth and stress-free.

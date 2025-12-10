@@ -12,7 +12,7 @@ metaDescription: "Read our privacy policy to understand how Varanasi Taxi collec
 
 # Privacy Policy
 
-> **TL;DR:** We collect booking details (name, contact, itinerary) and device analytics to confirm rides, send updates, and prevent fraud; data is shared only with drivers, payment processors, and legal authorities when required. Micro-tip: email info@kashitaxi.in if you want access, corrections, or deletion—we respond within statutory timelines.
+> **TL;DR:** We collect booking details (name, contact, itinerary) and device analytics to confirm rides, send updates, and prevent fraud; data is shared only with drivers, payment processors, and legal authorities when required. Micro-tip: email taxiinvaranasiii@gmail.com if you want access, corrections, or deletion—we respond within statutory timelines.
 
 **Last Updated:** October 4, 2025
 
@@ -140,7 +140,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy, 
 **Varanasi Taxi Services**
 - **Phone:** +91 9450301573
 - **WhatsApp:** +91 9450301573
-- **Email:** info@kashitaxi.in
+- **Email:** taxiinvaranasiii@gmail.com
 - **Website:** www.kashitaxi.in
 - **Address:** Varanasi, Uttar Pradesh, India
 

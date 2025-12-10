@@ -227,7 +227,7 @@ We've designed our **Taj Ganges taxi service** specifically for luxury hotel gue
 
 ### Option 2: Email Booking
 
-- Email: taj-guests@kashitaxi.in
+- Email: taxiinvaranasiii@gmail.com
 - Subject: "[Your Hotel] Transfer Required - Check-in [Date]"
 - Tell us: Guest count, preferences, dates, requirements
 - Receive detailed proposal within 2 hours
@@ -272,7 +272,7 @@ We've designed our **Taj Ganges taxi service** specifically for luxury hotel gue
 
 **Taj Guests Hotline:** +91-9450301573  
 **WhatsApp:** +91-9450301573  
-**Email:** taj-guests@kashitaxi.in  
+**Email:** taxiinvaranasiii@gmail.com  
 
 **Ask for:** "Taj Guest Premium Package" – includes welcome gift + local tips card
 

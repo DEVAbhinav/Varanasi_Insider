@@ -250,7 +250,7 @@ This guide answers every question about the **Varanasi to Sarnath taxi** journey
 
 **Step 1: Contact us 1 day in advance**
 - WhatsApp: +91-9450301573
-- Email: sarnath@kashitaxi.in
+- Email: taxiinvaranasiii@gmail.com
 
 **Step 2: Provide Details**
 - Preferred date and time
@@ -385,7 +385,7 @@ A: Yes, all our guides are fluent English speakers and trained for international
 
 **Quick Booking:**
 - **WhatsApp:** +91-9450301573
-- **Email:** sarnath@kashitaxi.in
+- **Email:** taxiinvaranasiii@gmail.com
 - **Call:** +91-9450301573
 
 We'll handle transport. You focus on the sacred experience.

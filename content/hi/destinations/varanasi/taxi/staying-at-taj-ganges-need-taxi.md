@@ -261,7 +261,7 @@ aggregateRating:
 
 **आपातकालीन संपर्क:** +91-9450301573  
 **WhatsApp:** +91-9450301573  
-**ईमेल:** taj-guests@kashitaxi.in  
+**ईमेल:** taxiinvaranasiii@gmail.com  
 
 ### आपको जिन दस्तावेज़ों की आवश्यकता होगी:
 - वैध पासपोर्ट (हमेशा साथ रखें)
@@ -283,7 +283,7 @@ aggregateRating:
 
 **हमसे संपर्क करें:**
 - **WhatsApp:** +91-9450301573
-- **ईमेल:** taj-guests@kashitaxi.in
+- **ईमेल:** taxiinvaranasiii@gmail.com
 - **कॉल:** +91-9450301573
 
 ## ताज गंगेस अतिथियों के लिए संबंधित गाइड

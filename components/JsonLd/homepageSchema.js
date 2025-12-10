@@ -35,7 +35,7 @@ const getHomeSchema = (site) => ({
       slogan: 'Your trusted travel partner in Varanasi',
       telephone: '+91-9450301573',
       faxNumber: '+91-9935474730',
-      email: 'info@kashitaxi.in',
+      email: 'taxiinvaranasiii@gmail.com',
       address: {
         '@type': 'PostalAddress',
         streetAddress: 'Vinayak Travels, Varanasi',

@@ -175,7 +175,7 @@ aggregateRating:
 
 ### विकल्प 2: ईमेल बुकिंग
 
-- ईमेल: taj-guests@kashitaxi.in
+- ईमेल: taxiinvaranasiii@gmail.com
 - विषय: "[आपका होटल] ट्रांसफर आवश्यक - चेक-इन [तारीख]"
 
 ### विकल्प 3: इन-होटल बुकिंग
@@ -196,7 +196,7 @@ aggregateRating:
 
 **ताज अतिथि हॉटलाइन:** +91-9450301573  
 **WhatsApp:** +91-9450301573  
-**ईमेल:** taj-guests@kashitaxi.in  
+**ईमेल:** taxiinvaranasiii@gmail.com  
 
 **मांगें:** "ताज गेस्ट प्रीमियम पैकेज" – स्वागत उपहार + स्थानीय टिप्स कार्ड शामिल
 

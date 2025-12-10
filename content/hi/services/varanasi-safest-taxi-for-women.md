@@ -135,7 +135,7 @@ relatedPosts:
 ## बुकिंग अब
 - कॉल: +91 9450301573 / +91 99354 74730
 - WhatsApp: https://wa.me/919935474730?text=Safe%20Taxi%20Varanasi%20Booking
-- ईमेल (यदि प्रयोग): support@kashitaxi.in
+- ईमेल (यदि प्रयोग): taxiinvaranasiii@gmail.com
 
 ---
 ### संबंधित संसाधन

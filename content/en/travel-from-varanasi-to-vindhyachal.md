@@ -108,6 +108,6 @@ Traveling from the spiritual city of Varanasi to the sacred Shaktipeeth of Vindh
 For hassle-free transport arrangements with experienced drivers familiar with temple locations and optimal timing:
 
 📞 **WhatsApp:** +91 94503 01573  
-📧 **Email:** info@kashitaxi.in
+📧 **Email:** taxiinvaranasiii@gmail.com
 
 *All vehicles come with commercial permits, experienced drivers, and transparent pricing.*

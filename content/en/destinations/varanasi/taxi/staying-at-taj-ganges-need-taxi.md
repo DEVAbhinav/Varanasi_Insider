@@ -313,7 +313,7 @@ We've answered the **10 most common questions** from Taj Ganges guests. Read on.
 
 **Emergency Contact:** +91-9450301573  
 **WhatsApp:** +91-9450301573  
-**Email:** taj-guests@kashitaxi.in  
+**Email:** taxiinvaranasiii@gmail.com  
 
 ### Documents You'll Need:
 - Valid passport (always carry)
@@ -341,7 +341,7 @@ We'll handle all the logistical stress. You focus on the spiritual experience.
 
 **Contact Us:**
 - **WhatsApp:** +91-9450301573
-- **Email:** taj-guests@kashitaxi.in
+- **Email:** taxiinvaranasiii@gmail.com
 - **Call:** +91-9450301573
 
 ## Related Guides for Taj Ganges Guests

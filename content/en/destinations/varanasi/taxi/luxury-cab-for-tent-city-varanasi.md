@@ -570,6 +570,6 @@ We know Ravidas Ghat. We know the boat timings. We know Tent City's protocols. W
 📞 **Call:** [94503 01573](tel:+919450301573)  
 📱 **WhatsApp:** [wa.me/919450301573](https://wa.me/919450301573?text=Luxury%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city)  
 🌐 **Website:** [kashitaxi.in](https://kashitaxi.in)  
-📧 **Email:** [support@kashitaxi.in](mailto:support@kashitaxi.in)
+📧 **Email:** [taxiinvaranasiii@gmail.com](mailto:taxiinvaranasiii@gmail.com)
 
 **Pre-book your Innova Crysta today. Arrive in luxury.**
