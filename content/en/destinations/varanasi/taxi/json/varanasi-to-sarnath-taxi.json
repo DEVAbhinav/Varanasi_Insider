@@ -1,0 +1,293 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LocalBusiness",
+        "TaxiService"
+      ],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Varanasi Taxi - Vinayak Travels",
+      "alternateName": [
+        "KashiTaxi",
+        "Varanasi to Sarnath Taxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "sameAs": [
+        "https://wa.me/919450301573",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi#service",
+      "name": "Varanasi to Sarnath Taxi Service",
+      "description": "Complete Varanasi to Sarnath taxi service. 60km distance, ₹1000-1500 cost, Buddhist pilgrimage tours with professional drivers and guides.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "Day Trip Transportation",
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "Place",
+          "name": "Sarnath"
+        }
+      ],
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://wa.me/919450301573?text=Book%20Varanasi%20to%20Sarnath%20Taxi",
+        "availableLanguage": [
+          "en",
+          "hi"
+        ],
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+919450301573",
+          "contactType": "reservations",
+          "availableLanguage": [
+            "English",
+            "Hindi"
+          ]
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "One-Way Varanasi to Sarnath Taxi",
+          "description": "Direct taxi from Varanasi to Sarnath (60km, 90 mins)",
+          "priceCurrency": "INR",
+          "price": 1200,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 1200,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Sarnath One-Way Transfer",
+            "description": "AC Sedan/SUV with professional driver",
+            "image": "https://www.kashitaxi.in/images/seden.png",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "1200",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Return Trip with Waiting",
+          "description": "Round-trip to Sarnath with 3-4 hours waiting time",
+          "priceCurrency": "INR",
+          "price": 2000,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 2000,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        },
+        {
+          "@type": "Offer",
+          "name": "Full-Day Sarnath Experience",
+          "description": "Complete Sarnath tour with transport, guide, and lunch (7-8 hours)",
+          "priceCurrency": "INR",
+          "price": 2500,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 2500,
+            "unitText": "per day"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        },
+        {
+          "@type": "Offer",
+          "name": "Sarnath + Bodhgaya Combo Package",
+          "description": "2-day Buddhist pilgrimage covering Sarnath and Bodhgaya",
+          "priceCurrency": "INR",
+          "price": 5500,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 5500,
+            "unitText": "per package"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1100",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "TouristTrip",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi#trip",
+      "name": "Varanasi to Sarnath Buddhist Pilgrimage",
+      "description": "Day trip from Varanasi to Sarnath, the site of Buddha's first sermon. Visit Dhamek Stupa, Ashoka Pillar, Sarnath Museum, and Buddhist temples.",
+      "touristType": [
+        "Buddhist Pilgrim",
+        "History Enthusiast",
+        "Cultural Tourist"
+      ],
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Pickup from Varanasi Hotel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Drive to Sarnath (60km, 90 mins)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Visit Dhamek Stupa"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Explore Sarnath Museum"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Visit Buddhist Temples"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Walk through Deer Park"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Return to Varanasi"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I do a Sarnath day trip from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, 4-5 hour visits are perfect. You can easily visit Sarnath and return to Varanasi the same day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a guide for Sarnath?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the site is self-explanatory. However, a guide adds depth to your experience for ₹500-800."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I'm not Buddhist, should I still visit Sarnath?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! It's historically fascinating and spiritually interesting regardless of religion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the distance from Varanasi to Sarnath?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sarnath is approximately 60 kilometers from Varanasi city center, taking about 90 minutes by taxi in normal traffic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does Varanasi to Sarnath taxi cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "One-way taxi costs ₹1,200-1,500. Return trip with waiting is ₹2,000-2,500. Full-day experience with guide is ₹2,500-3,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best time to visit Sarnath?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Early morning (6:30 AM - 9 AM) is best for peaceful experience with minimal crowds and excellent photography light. Avoid 10 AM - 3 PM due to heat and crowds."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Varanasi to Sarnath Taxi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi"
+        }
+      ]
+    }
+  ]
+}

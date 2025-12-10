@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LocalBusiness",
+        "TaxiService"
+      ],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Varanasi Taxi - Vinayak Travels",
+      "alternateName": [
+        "KashiTaxi",
+        "Taj Ganges Transport Service"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "sameAs": [
+        "https://wa.me/919450301573",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/staying-at-taj-ganges-need-taxi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What's the safest way to get around Varanasi as a foreigner?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Private pre-booked taxi service (like KashiTaxi) or hotel-arranged transport are the safest options. Avoid auto-rickshaws for solo travel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much should a taxi cost from Taj Ganges Hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hotel to Airport: ₹1,100-1,300. Hotel to Kashi Vishwanath: ₹200-300. Hotel to Sarnath: ₹1,500-1,800. Hourly rate: ₹400-500/hr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use Uber or Ola from Taj Ganges?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sometimes. Service availability varies by time of day with potential surge pricing (₹1500-2000). Pre-booking private taxi at fixed rate is better."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I book transport before arriving at the hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, absolutely. Pre-booking ensures fixed pricing, driver waiting with name board, WhatsApp updates, and no negotiation stress."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the must-see spots from Taj Ganges?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Within walking distance: Assi Ghat, Tulsi Ghat. Short taxi trips: Kashi Vishwanath Temple, Manikarnika Ghat, Dashaswamedh Ghat. Day trips: Sarnath, Bodhgaya."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the best time for ghat tours?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sunrise (5-7 AM) is best for peaceful, spiritual experience. Sunset (4-6 PM) with Ganga Aarti is also excellent. Avoid 12-4 PM due to crowds and heat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do ghat tours actually take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sunrise Ghat Walk: 60-90 minutes. Sunset + Ganga Aarti: 60-90 minutes. Complete Ghat System (full-day): 7-8 hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book tours?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Airport transfer: 2 days before. Sunrise ghat tour: 1 day before. Sightseeing tours: 3-5 days in advance. Special requests: 1 week in advance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are drivers and guides reliable and trustworthy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, with proper booking. Our drivers have 5+ years experience, background verification, regular reviews, insurance coverage, and emergency protocol training."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I need transport at odd hours?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "24-hour service is available. Early morning (2-6 AM) and late evening (10 PM-12 AM) trips are at standard rates with no night premium."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/staying-at-taj-ganges-need-taxi#service",
+      "name": "Taj Ganges Transport & Sightseeing Guide",
+      "description": "Complete FAQ guide for Taj Ganges guests covering transport options, ghat tours, costs, safety tips, and booking information for Varanasi sightseeing.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "Transportation Information",
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Taj Ganges Hotel Varanasi"
+        },
+        {
+          "@type": "Place",
+          "name": "Varanasi"
+        }
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Hotel to Kashi Vishwanath Taxi",
+          "priceCurrency": "INR",
+          "price": 200,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 200,
+            "unitText": "per trip"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Hourly Taxi Rate",
+          "priceCurrency": "INR",
+          "price": 400,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 400,
+            "unitText": "per hour"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/staying-at-taj-ganges-need-taxi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Staying at Taj Ganges Need Taxi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/staying-at-taj-ganges-need-taxi"
+        }
+      ]
+    }
+  ]
+}

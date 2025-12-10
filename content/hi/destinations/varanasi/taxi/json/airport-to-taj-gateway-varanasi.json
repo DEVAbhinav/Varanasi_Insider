@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LocalBusiness",
+        "TaxiService"
+      ],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "वाराणसी टैक्सी - विनायक ट्रेवल्स",
+      "alternateName": [
+        "काशी टैक्सी",
+        "ताज गेटवे एयरपोर्ट ट्रांसफर"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "वाराणसी",
+        "addressRegion": "उत्तर प्रदेश",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "वाराणसी"
+      },
+      "openingHours": "Mo-Su 00:00-24:00"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/hi/city/varanasi/taxi/airport-to-taj-gateway-varanasi#service",
+      "name": "एयरपोर्ट से ताज गेटवे वाराणसी ट्रांसफर सेवा",
+      "description": "वाराणसी एयरपोर्ट (VNS) से ताज गेटवे होटल तक पूर्ण एयरपोर्ट ट्रांसफर सेवा। निश्चित किराए, पेशेवर ड्राइवर, 24/7 उपलब्धता।",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "एयरपोर्ट होटल ट्रांसफर",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "एयरपोर्ट से ताज गेटवे सेडान",
+          "priceCurrency": "INR",
+          "price": 900
+        },
+        {
+          "@type": "Offer",
+          "name": "एयरपोर्ट से ताज गेटवे SUV",
+          "priceCurrency": "INR",
+          "price": 1200
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "होम",
+          "item": "https://www.kashitaxi.in/hi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "वाराणसी",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "टैक्सी सेवाएं",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "एयरपोर्ट से ताज गेटवे वाराणसी",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/taxi/airport-to-taj-gateway-varanasi"
+        }
+      ]
+    }
+  ]
+}

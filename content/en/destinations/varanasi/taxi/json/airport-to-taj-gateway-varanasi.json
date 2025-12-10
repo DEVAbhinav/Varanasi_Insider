@@ -1,0 +1,239 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LocalBusiness",
+        "TaxiService"
+      ],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Varanasi Taxi - Vinayak Travels",
+      "alternateName": [
+        "KashiTaxi",
+        "Taj Gateway Airport Transfer"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "sameAs": [
+        "https://wa.me/919450301573",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi#service",
+      "name": "Airport to Taj Gateway Varanasi Transfer Service",
+      "description": "Complete airport transfer service from Varanasi Airport (VNS) to Taj Gateway Hotel. Fixed fares, professional drivers, 24/7 availability.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "Airport Hotel Transfer",
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Lal Bahadur Shastri International Airport (VNS)"
+        },
+        {
+          "@type": "Place",
+          "name": "Taj Gateway Hotel Varanasi"
+        }
+      ],
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://wa.me/919450301573?text=Book%20Airport%20to%20Taj%20Gateway%20Transfer",
+        "availableLanguage": [
+          "en",
+          "hi"
+        ],
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+919450301573",
+          "contactType": "reservations",
+          "availableLanguage": [
+            "English",
+            "Hindi"
+          ]
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Airport to Taj Gateway Sedan",
+          "description": "VNS Airport to Taj Gateway Hotel transfer in AC Sedan",
+          "priceCurrency": "INR",
+          "price": 900,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 900,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Sedan Airport to Taj Gateway Transfer",
+            "description": "AC Sedan with professional driver for Taj Gateway guests",
+            "image": "https://www.kashitaxi.in/images/seden.png",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "900",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Airport to Taj Gateway SUV",
+          "description": "VNS Airport to Taj Gateway Hotel transfer in AC SUV/Innova",
+          "priceCurrency": "INR",
+          "price": 1200,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 1200,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "SUV Airport to Taj Gateway Transfer",
+            "description": "Spacious AC SUV with professional driver for families",
+            "image": "https://www.kashitaxi.in/images/innova.png",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "1200",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Premium Airport to Taj Gateway Transfer",
+          "description": "Premium SUV/Innova with meet & greet service",
+          "priceCurrency": "INR",
+          "price": 1500,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 1500,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1250",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the distance from Varanasi Airport to Taj Gateway Hotel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The distance from Lal Bahadur Shastri International Airport (VNS) to Taj Gateway Hotel is approximately 23-25 kilometers, taking 45-60 minutes in normal traffic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my flight is delayed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Inform your driver immediately via WhatsApp. There are no additional charges for flight delays - our drivers track flight status automatically."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pay by credit card?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we accept all major cards, Google Pay, WhatsApp Pay, UPI, and cash payments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the driver English-speaking?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, all our drivers speak basic English and are familiar with hotel landmarks in Varanasi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I request a female driver?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Female drivers are available on request with 48-hour advance notice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does the airport to Taj Gateway transfer cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The transfer costs ₹900-1200 for sedan, ₹1200-1500 for SUV, and ₹1500-2000 for premium Innova with meet & greet service."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Airport to Taj Gateway Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LocalBusiness",
+        "TaxiService"
+      ],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "वाराणसी टैक्सी - विनायक ट्रेवल्स",
+      "alternateName": [
+        "काशी टैक्सी",
+        "ताज गंगेस परिवहन सेवा"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "वाराणसी",
+        "addressRegion": "उत्तर प्रदेश",
+        "addressCountry": "IN"
+      },
+      "openingHours": "Mo-Su 00:00-24:00"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/hi/city/varanasi/taxi/staying-at-taj-ganges-need-taxi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "विदेशी के रूप में वाराणसी में घूमने का सबसे सुरक्षित तरीका क्या है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "प्राइवेट प्री-बुक्ड टैक्सी सेवा (जैसे KashiTaxi) या होटल-व्यवस्थित परिवहन सबसे सुरक्षित विकल्प हैं।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ताज गंगेस होटल से टैक्सी की कितनी लागत होनी चाहिए?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "होटल से एयरपोर्ट: ₹1,100-1,300। होटल से काशी विश्वनाथ: ₹200-300। होटल से सारनाथ: ₹1,500-1,800।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "घाट टूर के लिए सबसे अच्छा समय क्या है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "सनराइज (5-7 AM) शांतिपूर्ण, आध्यात्मिक अनुभव के लिए सर्वोत्तम है। गंगा आरती के साथ सनसेट (4-6 PM) भी उत्कृष्ट है।"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "होम",
+          "item": "https://www.kashitaxi.in/hi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "वाराणसी",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "टैक्सी सेवाएं",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ताज गंगेस में रुके हैं टैक्सी चाहिए",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/taxi/staying-at-taj-ganges-need-taxi"
+        }
+      ]
+    }
+  ]
+}

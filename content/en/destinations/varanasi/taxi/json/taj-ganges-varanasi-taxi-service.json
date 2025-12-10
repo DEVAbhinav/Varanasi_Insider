@@ -1,0 +1,256 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LocalBusiness",
+        "TaxiService"
+      ],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Varanasi Taxi - Vinayak Travels",
+      "alternateName": [
+        "KashiTaxi",
+        "Taj Ganges Taxi Service"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "sameAs": [
+        "https://wa.me/919450301573",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service#service",
+      "name": "Taj Ganges Varanasi Premium Taxi Service",
+      "description": "Premium taxi service for Taj Ganges Varanasi guests. Reliable transport for ghat tours, sightseeing & airport transfers at 50% less than hotel concierge.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "Hotel Guest Transportation",
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Taj Ganges Hotel Varanasi"
+        },
+        {
+          "@type": "Place",
+          "name": "Varanasi Ghats"
+        },
+        {
+          "@type": "Place",
+          "name": "Sarnath"
+        }
+      ],
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://wa.me/919450301573?text=Taj%20Ganges%20Guest%20Taxi%20Booking",
+        "availableLanguage": [
+          "en",
+          "hi"
+        ],
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+919450301573",
+          "contactType": "reservations",
+          "availableLanguage": [
+            "English",
+            "Hindi"
+          ]
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Sunrise Ghat Tour",
+          "description": "Private sunrise ghat tour with guide (5 AM - 7 AM)",
+          "priceCurrency": "INR",
+          "price": 800,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 800,
+            "unitText": "per tour"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        },
+        {
+          "@type": "Offer",
+          "name": "Sunset Ghat Tour + Ganga Aarti",
+          "description": "Private sunset tour with Ganga Aarti ceremony (5 PM - 7 PM)",
+          "priceCurrency": "INR",
+          "price": 1000,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 1000,
+            "unitText": "per tour"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        },
+        {
+          "@type": "Offer",
+          "name": "Taj Ganges Airport Transfer",
+          "description": "Airport pickup/drop-off for Taj Ganges guests",
+          "priceCurrency": "INR",
+          "price": 1200,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 1200,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        },
+        {
+          "@type": "Offer",
+          "name": "Half-Day Varanasi Spiritual Experience",
+          "description": "Sunrise ghat, temples, street food tour (8 AM - 1 PM)",
+          "priceCurrency": "INR",
+          "price": 2000,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 2000,
+            "unitText": "per tour"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        },
+        {
+          "@type": "Offer",
+          "name": "Full-Day Varanasi Immersion",
+          "description": "Complete Varanasi experience with meals and boat ride (7 AM - 6 PM)",
+          "priceCurrency": "INR",
+          "price": 4500,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 4500,
+            "unitText": "per tour"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        },
+        {
+          "@type": "Offer",
+          "name": "Sarnath Day Trip from Taj Ganges",
+          "description": "Full-day Buddhist pilgrimage to Sarnath with guide",
+          "priceCurrency": "INR",
+          "price": 2500,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 2500,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-09"
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "980",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you coordinate with Taj Ganges hotel staff?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, hotel reception can arrange our service for you, or you can contact us directly for the same pricing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is English guaranteed with your drivers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, all our guides and drivers are fluent English speakers trained for international guests."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you accommodate dietary preferences on tours?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely – vegetarian, vegan, and gluten-free options are all accommodated on our tours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer photographer guides?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, professional photographer guides are available for ₹500 extra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much cheaper is KashiTaxi compared to hotel concierge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our services are typically 40-73% cheaper than hotel concierge rates. For example, sunrise ghat tour is ₹800 vs hotel's ₹3,000 - saving you ₹2,200."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Taj Ganges Varanasi Taxi Service",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service"
+        }
+      ]
+    }
+  ]
+}

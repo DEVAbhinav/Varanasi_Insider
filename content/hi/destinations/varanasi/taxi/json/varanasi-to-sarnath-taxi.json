@@ -1,0 +1,125 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LocalBusiness",
+        "TaxiService"
+      ],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "वाराणसी टैक्सी - विनायक ट्रेवल्स",
+      "alternateName": [
+        "काशी टैक्सी",
+        "वाराणसी से सारनाथ टैक्सी"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "वाराणसी",
+        "addressRegion": "उत्तर प्रदेश",
+        "addressCountry": "IN"
+      },
+      "openingHours": "Mo-Su 00:00-24:00"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/hi/city/varanasi/taxi/varanasi-to-sarnath-taxi#service",
+      "name": "वाराणसी से सारनाथ टैक्सी सेवा",
+      "description": "पूर्ण वाराणसी से सारनाथ टैक्सी सेवा। 60 किमी दूरी, ₹1000-1500 लागत, पेशेवर ड्राइवरों और गाइडों के साथ बौद्ध तीर्थयात्रा टूर।",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "डे ट्रिप परिवहन",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "वन-वे वाराणसी से सारनाथ टैक्सी",
+          "priceCurrency": "INR",
+          "price": 1200
+        },
+        {
+          "@type": "Offer",
+          "name": "इंतजार के साथ राउंड ट्रिप",
+          "priceCurrency": "INR",
+          "price": 2000
+        },
+        {
+          "@type": "Offer",
+          "name": "पूर्ण-दिन सारनाथ अनुभव",
+          "priceCurrency": "INR",
+          "price": 2500
+        }
+      ]
+    },
+    {
+      "@type": "TouristTrip",
+      "name": "वाराणसी से सारनाथ बौद्ध तीर्थयात्रा",
+      "description": "वाराणसी से सारनाथ तक डे ट्रिप, बुद्ध के पहले उपदेश का स्थल। धामेक स्तूप, अशोक स्तंभ, सारनाथ संग्रहालय और बौद्ध मंदिरों का दौरा करें।",
+      "touristType": [
+        "बौद्ध तीर्थयात्री",
+        "इतिहास उत्साही",
+        "सांस्कृतिक पर्यटक"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "क्या मैं वाराणसी से सारनाथ डे ट्रिप कर सकता हूं?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "हां, 4-5 घंटे की यात्राएं बिल्कुल सही हैं। आप आसानी से सारनाथ जा सकते हैं और उसी दिन वाराणसी लौट सकते हैं।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "वाराणसी से सारनाथ की दूरी कितनी है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "सारनाथ वाराणसी शहर के केंद्र से लगभग 60 किलोमीटर दूर है, सामान्य ट्रैफिक में टैक्सी से लगभग 90 मिनट लगते हैं।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "वाराणसी से सारनाथ टैक्सी की लागत कितनी है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "एक तरफ टैक्सी की लागत ₹1,200-1,500 है। इंतजार के साथ राउंड ट्रिप ₹2,000-2,500 है। गाइड के साथ पूर्ण-दिन अनुभव ₹2,500-3,000 है।"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "होम",
+          "item": "https://www.kashitaxi.in/hi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "वाराणसी",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "टैक्सी सेवाएं",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "वाराणसी से सारनाथ टैक्सी",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/taxi/varanasi-to-sarnath-taxi"
+        }
+      ]
+    }
+  ]
+}
