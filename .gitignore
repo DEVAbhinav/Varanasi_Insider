@@ -35,3 +35,7 @@ yarn-error.log*
 next-env.d.ts
 .env.local
 api/local.settings.json
+
+# Docs and test results
+docs/
+test-results/
