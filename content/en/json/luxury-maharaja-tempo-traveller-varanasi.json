@@ -23,12 +23,24 @@
     {
       "@type": "Product",
       "@id": "https://www.kashitaxi.in/en/luxury-maharaja-tempo-traveller-varanasi/#product",
-      "name": "Luxury & Maharaja Tempo Traveller",
-      "description": "Premium group travel in Varanasi with Maharaja 1×1 recliner seating and Force Urbania. Ideal for corporate, VIP, and high-comfort tours.",
-      "brand": {
+      "name": "Luxury Maharaja Tempo Traveller Varanasi (Urbania)",
+      "description": "Premium group travel in Varanasi with Maharaja 1×1 recliner seating and Force Urbania. Ideal for corporate, VIP, weddings and high-comfort tours.",
+      "brand": "Force Urbania / Maharaja Tempo Traveller",
+      "manufacturer": {
         "@id": "https://www.kashitaxi.in#organization"
       },
       "category": "TransportService",
+      "areaServed": {
+        "@type": "Place",
+        "name": "Varanasi, Uttar Pradesh"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "15",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

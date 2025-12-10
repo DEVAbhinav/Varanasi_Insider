@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "Luxury & Maharaja Tempo Traveller Varanasi [2025]"
+title: "Luxury Tempo Traveller Varanasi (Maharaja/Urbania) – 8hr Tour from ₹7,500"
 description: "Luxury Tempo Traveller Varanasi with 1×1 Maharaja seats and Urbania comfort. Premium airport, local and outstation service. Explore features and enquire."
 date: 2025-08-27
 tags: [luxury, maharaja, urbania, premium travel]
@@ -13,9 +13,21 @@ relatedPosts:
 
 # Luxury Tempo Traveller in Varanasi (Maharaja & Urbania)
 
+**Maharaja 1x1 recliner seats, triple AC and VIP service for weddings, corporate and high‑end pilgrims.**
+
 > **TL;DR:** Luxury Tempo Traveller Varanasi with Maharaja 1x1 seats and Urbania comfort handles airport, local, and outstation runs; rates start ₹3,500 per transfer, ₹7,500 for 8hr charters, and ₹34/km outstation. Micro-tip: reserve 25-30% advance weeks ahead to lock limited luxury inventory and pre-arrange branded amenities. Scroll for feature checklist, sample pricing, and WhatsApp enquiry link.
 
 Ideal for corporate clients, high-end tourists, and families prioritizing comfort.
+
+## Luxury Tempo Traveller Pricing (Indicative)
+
+| Service Type | Vehicle | Indicative Rate |
+| --- | --- | --- |
+| Local Luxury Tour (8hr/80km) | Maharaja / Urbania | ₹7,500 |
+| Airport Transfer (Premium) | Maharaja / Urbania | ₹3,500–₹3,800 |
+| Outstation Trip (Premium) | Maharaja / Urbania | ₹34–₹35 / km |
+
+> Final quotes depend on specific requirements. Tolls/state taxes extra unless packaged.
 
 ## Vehicle Photos (Representative)
 
@@ -46,16 +58,6 @@ Ideal for corporate clients, high-end tourists, and families prioritizing comfor
 - Curtains/tinted windows for privacy; climate set to guest preference
 - Option to play documentaries or briefings on the screen during transfers
 - For VIP groups/weddings, a helper can assist with doors and luggage at no extra charge
-
-## Luxury Tempo Traveller Pricing (Indicative)
-
-| Service Type | Vehicle | Indicative Rate |
-| --- | --- | --- |
-| Local Luxury Tour (8hr/80km) | Maharaja / Urbania | ₹7,500 |
-| Airport Transfer (Premium) | Maharaja / Urbania | ₹3,500–₹3,800 |
-| Outstation Trip (Premium) | Maharaja / Urbania | ₹34–₹35 / km |
-
-> Final quotes depend on specific requirements. Tolls/state taxes extra unless packaged.
 
 ## Luxury Booking & Availability (Varanasi)
 

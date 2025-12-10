@@ -1,5 +1,5 @@
 ---
-title: "Varanasi to Gaya & Bodh Gaya Tour Package [2025]"
+title: "Varanasi to Bodh Gaya Taxi Fare 2025 – 255 km, 5–6 hrs, Sedan from ₹5,500"
 slug: "varanasi-to-gaya-bodh-gaya-tour-package"
 date: "2025-08-07"
 lastUpdated: "2025-08-07"
@@ -20,7 +20,11 @@ relatedPosts:
   - varanasi-transport-price-guide-2025
 ---
 
-# Varanasi to Gaya & Bodh Gaya Tour Package: A Complete Guide
+# Varanasi to Bodh Gaya Taxi Fare 2025 – 255 km, 5–6 hrs, Sedan from ₹5,500
+
+**Sedan from ₹5,500 · SUV from ₹6,500 · Tempo Traveller from ₹9,500 – all‑inclusive options available.**
+
+> **Book Your Trip to Bodh Gaya!** Need a reliable taxi for the Buddhist circuit? Get instant fares and availability via WhatsApp: **+91 94503 01573**. One-way, round-trip, and multi-day packages available.
 
 > **TL;DR:** Varanasi to Gaya and Bodh Gaya tour package covers 248 km via NH19 with 3-day plans priced ₹11,000–₹13,000 for sedan transport, delivering Mahabodhi meditation and Vishnupad Pind Daan. Lock Pitru Paksha slots early and fix dakshina with your panda before rituals. Scroll for itineraries, fare grids, and WhatsApp coordination.
 

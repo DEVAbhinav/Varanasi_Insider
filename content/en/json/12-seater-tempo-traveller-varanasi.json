@@ -23,12 +23,17 @@
     {
       "@type": "Product",
       "@id": "https://www.kashitaxi.in/en/12-seater-tempo-traveller-varanasi/#product",
-      "name": "12 Seater Tempo Traveller",
-      "description": "Hire or rent a 12 seater Tempo Traveller in Varanasi—airport transfer, local 8hr/80km Kashi Darshan, and outstation per‑km fares.",
+      "name": "12 Seater Tempo Traveller Varanasi",
+      "description": "Hire or rent a 12 seater Tempo Traveller in Varanasi—airport transfer, local 8hr/80km Kashi Darshan, and outstation per‑km fares. Perfect for families and small groups.",
       "brand": {
         "@id": "https://www.kashitaxi.in#organization"
       },
-      "category": "TransportService",
+      "category": "Family & small group tempo traveller",
+      "vehicleSeatingCapacity": 12,
+      "areaServed": {
+        "@type": "Place",
+        "name": "Varanasi, Uttar Pradesh"
+      },
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

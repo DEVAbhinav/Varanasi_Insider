@@ -1,0 +1,185 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
+      "url": "https://www.kashitaxi.in/",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Varanasi Taxi",
+        "Kashitaxi"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "27",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-gaya-bodh-gaya-tour-package/#product",
+      "name": "Varanasi to Bodh Gaya Taxi (Sedan & SUV)",
+      "description": "Book Varanasi to Bodh Gaya taxi for Buddhist circuit pilgrimage. 255 km, 5-6 hours travel with sedan, SUV, and tempo traveller options. All-inclusive rates with tolls and Bihar tax.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "TransportService",
+      "areaServed": {
+        "@type": "Place",
+        "name": "Varanasi to Bodh Gaya",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Uttar Pradesh to Bihar",
+          "addressCountry": "IN"
+        }
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "5500",
+        "highPrice": "10000",
+        "offerCount": "3",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Sedan (One-way)",
+            "price": 5500,
+            "priceCurrency": "INR",
+            "description": "One-way sedan taxi from Varanasi to Bodh Gaya covering 255 km"
+          },
+          {
+            "@type": "Offer",
+            "name": "SUV (One-way)",
+            "price": 6500,
+            "priceCurrency": "INR",
+            "description": "One-way SUV taxi from Varanasi to Bodh Gaya covering 255 km"
+          },
+          {
+            "@type": "Offer",
+            "name": "Tempo Traveller (One-way)",
+            "price": 9500,
+            "priceCurrency": "INR",
+            "description": "One-way tempo traveller from Varanasi to Bodh Gaya for groups"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "27",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "image": "https://www.kashitaxi.in/images/blogGaya.png"
+    },
+    {
+      "@type": "TouristTrip",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-gaya-bodh-gaya-tour-package/#trip",
+      "name": "Varanasi to Gaya & Bodh Gaya Buddhist Circuit",
+      "description": "3-day spiritual journey covering Mahabodhi Temple, Vishnupad Temple, and Buddhist circuit sites",
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "TouristDestination",
+            "name": "Varanasi",
+            "description": "Starting point - Kashi Vishwanath Temple"
+          },
+          {
+            "@type": "TouristDestination",
+            "name": "Bodh Gaya",
+            "description": "Mahabodhi Temple Complex, Bodhi Tree, International Monasteries"
+          },
+          {
+            "@type": "TouristDestination",
+            "name": "Gaya",
+            "description": "Vishnupad Temple, Pind Daan rituals, Phalgu River Ghats"
+          }
+        ]
+      },
+      "touristType": "Buddhist Pilgrims, Hindu Devotees, Spiritual Tourists"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-gaya-bodh-gaya-tour-package/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the best Varanasi to Gaya tour package?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 3-day/2-night package is highly recommended. It provides enough time to comfortably cover the key sites in both Bodh Gaya (Mahabodhi Temple) and Gaya (Pind Daan at Vishnupad Temple) without rushing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does a typical Varanasi Bodh Gaya tour itinerary look like?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A typical 3-day itinerary involves traveling from Varanasi to Bodh Gaya on Day 1 for Buddhist site exploration, visiting Gaya for Hindu rituals on Day 2, and returning to Varanasi on Day 3."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a direct Varanasi to Bodh Gaya train?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, there are over 10 daily trains connecting Varanasi to Gaya, which is the nearest major railway station to Bodh Gaya. The journey is quick, with fast trains like the Rajdhani taking under 3 hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I take a Varanasi to Bodh Gaya bus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "While buses are available and are a budget-friendly option, they are less frequent than trains, with most services running overnight. Taxis or trains are generally more convenient."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the Kashi Gaya spiritual route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is a pilgrimage that combines the Hindu holy city of Kashi (Varanasi), for personal salvation, with Gaya, for ancestral salvation (Pind Daan), and Bodh Gaya, the site of Buddha's enlightenment."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-gaya-bodh-gaya-tour-package/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tour Packages",
+          "item": "https://www.kashitaxi.in/en/tour-packages/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi to Bodh Gaya Taxi",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-gaya-bodh-gaya-tour-package/"
+        }
+      ]
+    }
+  ]
+}

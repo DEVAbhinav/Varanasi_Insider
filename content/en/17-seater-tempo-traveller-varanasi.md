@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "17 Seater Tempo Traveller Varanasi: Rates [2025 Guide]"
+title: "17‑Seater Tempo Traveller in Varanasi – Group Cab from ₹27/km (2025 Rates)"
 description: "17 Seater Tempo Traveller Varanasi for weddings, yatras and outstation trips. 2025 airport, local and per‑km rates. See prices and book today."
 date: 2025-08-27
 tags: [17 seater, tempo traveller, varanasi, fares, price, hire, booking, wedding, airport transfer, outstation]
@@ -15,11 +15,24 @@ relatedPosts:
   - varanasi-to-bodhgaya-tempo-traveller
 ---
 
-# 17 Seater Tempo Traveller in Varanasi: Spacious Hire & Rates
+# 17‑Seater Tempo Traveller in Varanasi – Group Cab from ₹27/km (2025 Rates)
+
+**Perfect for 2‑3 families or 8‑17 pilgrims · AC tempo with driver · Local 8hr/80km from ₹6,000 · Outstation from ₹27/km**
+
+**➡️ [Get Group Fare on WhatsApp](https://wa.me/919935474730?text=17-seater%20booking) · Call: [+91 99354 74730](tel:+919935474730)**
+
+| Service Type | Rate | Details |
+| --- | --- | --- |
+| **Outstation Trip** | ₹27 / km | Minimum 250 km per day |
+| **Local Kashi Darshan** | ₹6,000 | 8 hours / 80 km |
+| **Airport Transfer** | ₹3,000 | LBS Airport pickup/drop |
+| **Wedding & Event Hire** | Custom Quote | Multi‑day and custom packages |
+
+> Notes: Tolls, parking, and state taxes are extra for outstation unless packaged. Driver allowance ₹600/night for overnight trips. Extended 12hr/120km local available on request.
 
 > **TL;DR:** 17 seater tempo traveller Varanasi rates start at ₹3,000 for airport drops, ₹6,000 for 8hr local charters, and ₹27/km for outstation runs with a 250 km minimum plus ₹600 night allowance. Seat 15-17 passengers comfortably and request mic or screen during booking if you need announcements. Scroll for route combos, pricing tables, and WhatsApp booking.
 
-Have a bigger group ready to explore Varanasi or head out on a road trip? Our 17‑seater Tempo Traveller is the go‑to choice for large family groups, wedding parties, corporate outings, and pilgrimage groups who want to stay together comfortably. Below you’ll find features, pricing, use‑cases, and why many guests say it’s “better than a bus” for medium‑large groups.
+Have a bigger group ready to explore Varanasi or head out on a road trip? Our 17‑seater Tempo Traveller is the go‑to choice for large family groups, wedding parties, corporate outings, and pilgrimage groups who want to stay together comfortably. Below you'll find features, pricing, use‑cases, and why many guests say it's "better than a bus" for medium‑large groups.
 
 ## Vehicle Photos (17‑Seater)
 
@@ -41,20 +54,7 @@ The 17‑seater is a stretched Traveller with an extra row—more seats without 
 - Ride Quality: Very stable on highways; slightly larger footprint in narrow lanes, handled expertly by our senior drivers
 - Safety & Maintenance: ABS with EBD, good tyres and braking, and regular maintenance for reliability
 
-In essence, this mini‑coach gives you bus‑like capacity with the agility of a Traveller.
-
-## 17‑Seater Price in Varanasi (2025)
-
-For full details, see the complete [Tempo Traveller Rates in Varanasi](/en/tempo-traveller-rates-varanasi).
-
-| Service Type | Rate | Details |
-| --- | --- | --- |
-| Outstation Trip | ₹27 / km | Minimum 250 km per day |
-| Local Kashi Darshan | ₹6,000 | 8 hours / 80 km |
-| Airport Transfer | ₹3,000 | LBS Airport pickup/drop |
-| Wedding & Event Hire | Custom Quote | Multi‑day and custom packages |
-
-> Notes: Tolls, parking, and state taxes are extra for outstation unless packaged. Driver allowance ₹600/night for overnight trips. Extended 12hr/120km local available on request.
+In essence, this mini‑coach gives you bus‑like capacity with the agility of a Traveller. Perfect for pilgrim groups, school/college tours, and family functions where everyone travels together.
 
 ## Ideal Scenarios for a 17‑Seater
 
