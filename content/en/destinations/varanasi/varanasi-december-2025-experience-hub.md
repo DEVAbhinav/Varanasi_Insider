@@ -28,6 +28,8 @@ ctaSubtitle: "Reserve a full-day cab for sunrise rituals, festival venues, and s
 
 # December 2025 Experience Console – Plan Every Sunrise, Festival & Food Trail
 
+> **TL;DR:** December 2025 in Varanasi = Kashi Tamil Sangamam + Mahindra Kabira Festival + malaiyo season + sunrise yoga + Banarasi silk shopping. Weather: 12–26°C, crisp mornings, golden afternoons. Book a full-day cab to stitch sunrise rituals, festival venues, and shopping loops together. *Jump to the tab switchboard below to browse experiences by category.*
+
 | Snapshot | Details |
 | --- | --- |
 | **Prime Window** | 2–31 December 2025 (Tamil Sangamam ➝ Kabira ➝ Christmas bustle) |

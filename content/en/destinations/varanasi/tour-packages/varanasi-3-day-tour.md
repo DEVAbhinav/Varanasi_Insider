@@ -38,6 +38,8 @@ aggregateRating:
 brand: "Kashi Taxi"
 ---
 
+> **TL;DR:** 3-day Kashi package (₹7,988+) includes twin boat rides (sunrise + sunset), Kashi Vishwanath + temple loop, Sarnath deep dive, Ramnagar Fort, silk shopping, and cultural performances. Ideal for spiritual seekers, families, and photographers. *See the day-by-day breakdown below for detailed timings and add-ons.*
+
 ## Why Three Days?
 
 Stretching the itinerary over 72 hours gives breathing room to absorb Kashi’s layered rituals, heritage pockets and culinary scene without rush. You experience sunrise and sunset Aartis, temple clusters, Sarnath archaeology, Ramnagar royalty, silk ateliers, and curated cultural performances.[^overview]

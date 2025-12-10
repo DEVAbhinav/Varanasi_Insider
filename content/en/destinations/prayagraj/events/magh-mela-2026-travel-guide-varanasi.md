@@ -41,6 +41,8 @@ organizer:
 
 # Magh Mela 2026 Complete Travel & Transportation Guide from Varanasi
 
+> **TL;DR:** Magh Mela 2026 runs Jan 3 – Feb 16 at Triveni Sangam, Prayagraj. Key snan dates: Paush Purnima (Jan 3), Makar Sankranti (Jan 14), Mauni Amavasya (Jan 29), Basant Panchami (Feb 2). Varanasi to Prayagraj = 120 km, ~1.5 hrs via NH-19. Book taxi to avoid train chaos. *See date-wise taxi strategy below.*
+
 Magh Mela 2026 in Prayagraj (Allahabad) is one of India's holiest gatherings, attracting over 100 million pilgrims during January–February. If you're traveling from Varanasi – India's spiritual capital and gateway to Triveni Sangam – this guide covers all critical bathing dates, safe routes, and why private taxi service is ideal for families, elderly devotees, and first-time visitors.
 
 ## Magh Mela 2026 Sacred Bathing Dates – Varanasi to Prayagraj Taxi Planning

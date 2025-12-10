@@ -101,6 +101,8 @@ faqSchema:
 
 # Taxi Service near Shivala Ghat (Hotel Hub & Quiet Retreat)
 
+> **TL;DR:** Shivala Ghat = quiet hotel hub near Sonarpura Crossing. Heritage Inn has direct drop; ghat-side guesthouses need 100–150m walk. Safe for solo travelers, temple bells at 4–5 AM but no cruise horns. Fares: ₹450 city drop, ₹900 from airport. *See "Hotels with direct taxi access" below for parking info.*
+
 Shivala Ghat is a peaceful stay cluster with boutique hotels and meditation-friendly lanes. Vehicle access narrows near the water, so **most drops happen at Sonarpura Crossing** before you walk the last 100-150 meters.
 
 ## Distance and time from Shivala Ghat to key locations

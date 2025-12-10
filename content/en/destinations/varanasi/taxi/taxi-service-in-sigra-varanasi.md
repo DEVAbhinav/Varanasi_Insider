@@ -119,6 +119,8 @@ faqSchema:
 
 # Reliable Taxi Service in Sigra, Varanasi (Near Shastri Nagar & IP Mall)
 
+> **TL;DR:** Sigra taxi pickups in 10–15 minutes from Shastri Nagar, IP Mall, Rath Yatra, and Mahmoorganj. Fixed fares, no surge pricing even in peak season. Call 9450301573 or WhatsApp your pickup pin. *Scroll to the fare table for rates to airport (₹800), Kashi Vishwanath, and Sarnath.*
+
 Looking for a cab in Sigra? Skip last-minute cancellations. Kashi Taxi is headquartered in **Shastri Nagar**, so a driver can reach IP Mall, Rath Yatra, Mahmoorganj, or Vidyapeeth in **10–15 minutes** with fixed, no-surge pricing.
 
 ## Distance and time from Sigra to major hubs

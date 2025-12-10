@@ -101,6 +101,8 @@ faqSchema:
 
 # Manikarnika Ghat Taxi & Etiquette Guide (Sacred Cremation Access)
 
+> **TL;DR:** Manikarnika is Varanasi’s main cremation ghat. Legal drop point: Maidagin Gate (200m walk to ghat). No photography allowed. Dress modestly, stay quiet, stand aside. Foreigners welcome if respectful. Fares: ₹450 city drop, ₹900 from airport. *Read "How to visit respectfully" below before going.*
+
 Manikarnika is a sacred cremation ground, not a tourist spot. We drop at **Maidagin Gate** (legal, respectful point) and you walk the final 200 meters through the pedestrian lane.
 
 ## Distance and time from Manikarnika to key locations

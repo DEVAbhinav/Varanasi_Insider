@@ -26,4 +26,6 @@ tabs:
 ---
 # Varanasi Airport Transfer Directory
 
+> **TL;DR:** All airport taxi routes from VNS (Babatpur) to temples, train stations, and outstation cities. Use tabs to filter by destination type: Temples & Ghats, Rail Heads, or Outstation. Fixed fares, distances, and traffic tips for each route. *Tap any card below to see the complete route guide with pricing.*
+
 All airport taxi routes from Varanasi Airport to temples, train stations, and outstation cities—with fares, distances, and traffic tips. Use the tabs below to browse by destination type, then tap any card for the complete route guide.

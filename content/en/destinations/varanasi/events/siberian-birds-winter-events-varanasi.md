@@ -30,6 +30,8 @@ ctaSubtitle: "Bundle bird-watching with a city tour taxi in one tap."
 
 # Siberian Birds & Winter Festivals: The Best of Varanasi in January
 
+> **TL;DR:** January in Varanasi = Siberian gulls at dawn (best 7:30–9:30 AM with boat + Sev snacks), Makar Sankranti kite festival (Jan 14), and Magh Mela day trips. Book a Bajra boat for stable bird photography. *Scroll to "Festival Calendar" for exact dates and taxi-ready CTAs.*
+
 ## Siberian Birds & Winter Festivals: Why January is Magical in Varanasi
 If you can brave the morning chill, January rewards you with something summer tourists never see: The arrival of the Siberian Guests.
 

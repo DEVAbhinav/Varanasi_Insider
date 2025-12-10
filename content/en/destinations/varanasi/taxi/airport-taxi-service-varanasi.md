@@ -118,6 +118,8 @@ faqSchema:
 
 # Prepaid Airport Taxi Varanasi: No Hidden Charges, On-Time Pickup
 
+> **TL;DR:** Varanasi Airport (VNS) to city = 20–29 km, 35–100 mins depending on destination and traffic. Fixed fares: ₹750–850 sedan, ₹1,050–1,150 SUV. Includes meet-and-greet, flight tracking, and zero hidden charges. *See the rate table below for exact pricing by destination.*
+
 Arriving at Lal Bahadur Shastri International Airport (Babatpur)? Skip the prepaid counter queue and the mid-ride "bakshish" requests. Pre-book with Kashi Taxi for a **meet-and-greet, fixed-price transfer** straight into the city.
 
 ## Distance and time from Babatpur airport to city

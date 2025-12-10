@@ -101,7 +101,9 @@ faqSchema:
 
 # Kedar Ghat & Harishchandra Ghat Taxi Service (Pilgrims & Seekers)
 
-Kedar and Harishchandra sit in Varanasi’s spiritual core. Lanes are narrow, crowds are devotional, and respectful driving matters. We handle Kedar Gate access, quiet approach, and clear guidance on where you can and cannot drive.
+> **TL;DR:** Kedar Ghat = Shiva temple ghat (no cremation). Harishchandra = quieter cremation ghat. Manikarnika = main cremation ghat. Drop point: Kedar Gate. South Indian language support (Tamil, Telugu, Kannada, Malayalam). Fixed pilgrim rates: ₹400 city drop, ₹900 from airport. *Read FAQ below for cremation etiquette.*
+
+Kedar and Harishchandra sit in Varanasi's spiritual core. Lanes are narrow, crowds are devotional, and respectful driving matters. We handle Kedar Gate access, quiet approach, and clear guidance on where you can and cannot drive.
 
 ## Distance and time from Kedar Ghat to key locations
 

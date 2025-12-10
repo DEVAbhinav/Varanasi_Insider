@@ -30,6 +30,8 @@ ctaSubtitle: "Hold a full-day cab so warm clothes and shopping bags stay safe."
 
 # Winter Food Guide & Perfect 3-Day January Itinerary for Varanasi
 
+> **TL;DR:** January = malaiyo (milk foam with saffron, sold until 11 AM), chooda matar (winter pea poha), and kali gajar halwa (black carrot). Best spots: Thatheri Bazar for malaiyo, Kashi Chat Bhandar for breakfast. Pair with a lazy 3-day itinerary starting at 7:30 AM. *Scroll to "Lazy Winter Itinerary" for the day-by-day plan and taxi tips.*
+
 ## Eat, Pray, Explore: The Ultimate Winter Food & Itinerary Guide
 Varanasi in winter tastes different. The summer lassis are replaced by hot milk, and the morning kachoris get a seasonal twist.
 

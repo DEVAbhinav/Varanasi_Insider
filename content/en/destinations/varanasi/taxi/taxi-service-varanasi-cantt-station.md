@@ -119,6 +119,8 @@ faqSchema:
 
 # Taxi Service at Varanasi Cantt Railway Station (Junction) - 24/7 Pickup
 
+> **TL;DR:** Pre-book Varanasi Junction (Cantt) pickup with PNR/train tracking. Driver meets at circulating area or Platform 8 gate. 24/7 service, GPS-tracked vehicles, 30-min standby included for delays. Cantt to Godowlia: ₹450, Cantt to Assi: ₹550. *See fare table and meeting point guide below.*
+
 Varanasi Junction (Cantt) is crowded at all hours—autos, touts, and porters everywhere. Book a **Kashi Taxi** to step off the train into a safe, private car with the fare fixed in advance.
 
 ## Distance and time from Cantt Station
