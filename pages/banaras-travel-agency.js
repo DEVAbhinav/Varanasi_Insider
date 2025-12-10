@@ -90,6 +90,87 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
           },
         ],
       },
+      {
+        '@type': 'BreadcrumbList',
+        '@id': `${site}/banaras-travel-agency/#breadcrumb`,
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: 'Home',
+            item: `${site}/`,
+          },
+          {
+            '@type': 'ListItem',
+            position: 2,
+            name: 'Banaras Travel Agency',
+            item: `${site}/banaras-travel-agency`,
+          },
+        ],
+      },
+      {
+        '@type': 'FAQPage',
+        '@id': `${site}/banaras-travel-agency/#faq`,
+        name: 'Banaras Travel Agency FAQs',
+        mainEntity: [
+          {
+            '@type': 'Question',
+            name: "What if I'm not religious but interested in Banaras?",
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Absolutely welcome. Many non-religious travelers come for history, culture, photography, and spirituality without religious belief. We customize tours for cultural, heritage, and wellness interests.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'Do you offer Pind Daan (death rituals) and cremation services?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'We coordinate with priests and dharamshalas for Pind Daan, Shradh ceremonies, and cremation rites. These are sensitive, personal services handled with utmost respect and cultural understanding.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'What language support do you provide?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'English, Hindi, Tamil, Telugu, Kannada, Gujarati. Special requests for other languages can be accommodated with advance notice.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'Can I book a full-day city tour without pre-booking my hotel?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Yes. We can suggest accommodations, arrange bookings, or coordinate pickups directly from the airport.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'Are your prices fixed or negotiable?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Quoted prices are firm and transparent. However, discounts apply for extended stays (5+ days) and group bookings (4+ people).',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: "What's included in a \"full-day package\"?",
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: "Transportation, professional guide, entry fees to temples/monuments, breakfast, and driver's gratuity. Meals at restaurants, personal shopping, and optional activities (special ceremonies, extra guides) are separate.",
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'Can you arrange trips to nearby cities (Prayagraj, Gaya, Ayodhya)?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Yes, we organize multi-city pilgrimage packages covering Varanasi + Prayagraj + Gaya + Ayodhya circuits.',
+            },
+          },
+        ],
+      },
     ],
   };
 
@@ -105,6 +186,21 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
           name="keywords"
           content="banaras travel agency, varanasi travel agency, kashi taxi, varanasi tours, banaras tour packages, kashi darshan, varanasi airport transfer, tempo traveller varanasi"
         />
+        <meta property="og:title" content="Best Banaras Travel Agency | Expert Tours & Packages" />
+        <meta
+          property="og:description"
+          content="Banaras travel agency for spiritual journeys, airport transfers, tempo traveller rentals, and custom pilgrimage packages. Local guides, vetted hotels, 24/7 support."
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.kashitaxi.in/banaras-travel-agency" />
+        <meta property="og:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Best Banaras Travel Agency | Expert Tours & Packages" />
+        <meta
+          name="twitter:description"
+          content="Banaras travel agency for spiritual journeys, airport transfers, tempo traveller rentals, and custom pilgrimage packages. Local guides, vetted hotels, 24/7 support."
+        />
+        <meta name="twitter:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
         <link rel="canonical" href="https://www.kashitaxi.in/banaras-travel-agency" />
       </Head>
       <JsonLd data={structuredData} />
