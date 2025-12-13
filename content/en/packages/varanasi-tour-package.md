@@ -98,6 +98,8 @@ This **1-day Varanasi city tour** covers all essential attractions:
 
 > **Essential reading**: [Kashi Vishwanath Shivaratri Crowd Survival Guide](/en/kashi-vishwanath-shivaratri-crowd-survival-guide) for temple visit tips.
 
+> **Complete spiritual itinerary**: [Kashi Vishwanath Temple & Ganga Aarti Spiritual Journey 2025](/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025)
+
 #### Other Significant Temples
 
 | Temple | Built | Significance |
@@ -166,7 +168,7 @@ The **Ganga Aarti** is the most iconic experience in any **Varanasi tour package
 | **Dashashwamedh Ghat (Evening)** | **Summer**: 19:00 / **Winter**: 18:00 | 45 min | Nov–Feb (most crowded) |
 | **Assi Ghat (Evening)** | **Summer**: 18:30 / **Winter**: 18:00 | 45 min | Year-round |
 
-> **Detailed timings**: [Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing) | [Assi Ghat Aarti Timings 2025](/en/assi-ghat-aarti-timings-2025)
+> **Detailed timings**: [Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing) | [Assi Ghat Aarti Timings 2025](/en/assi-ghat-aarti-timings-2025) | [Ganga Aarti Timing Varanasi 2025](/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2025)
 
 #### Viewing Options for Varanasi Tour Packages
 
@@ -178,7 +180,9 @@ The **Ganga Aarti** is the most iconic experience in any **Varanasi tour package
 | **Dev Deepawali Boat Special** | ₹500–₹800 | Mandatory advance booking | Festival illumination view |
 | **Private Boat Charter** | ₹1,800–₹2,800 | 24–48 hrs advance | Exclusive group experience |
 
-> **Boat booking guides**: [Morning Boat Ride Varanasi Price](/en/morning-boat-ride-varanasi-price) | [Evening Boat Ride & Ganga Aarti](/en/evening-boat-ride-varanasi-ganga-aarti) | [Ganga Aarti Boat Booking Price](/en/ganga-aarti-boat-booking-price)
+> **Boat booking guides**: [Morning Boat Ride Varanasi Price](/en/morning-boat-ride-varanasi-price) | [Evening Boat Ride & Ganga Aarti](/en/evening-boat-ride-varanasi-ganga-aarti) | [Ganga Aarti Boat Booking Price](/en/ganga-aarti-boat-booking-price) | [84 Ghats Boat Tour Varanasi](/en/city/varanasi/activities/84-ghats-boat-tour-varanasi)
+
+> **Complete ghat guides**: [Dashashwamedh Ghat Boat Ride & Aarti Guide](/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide)
 
 > **Varanasi Tour Tip**: The seven-priest synchronized ritual uses multi-tiered brass lamps, flowers, sacred mantras, conch shells, and incense. Pre-book VIP seating or boat rides during Dev Deepawali (Nov 5) and Mahashivratri (Feb 26) when demand surges 300%.
 

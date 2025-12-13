@@ -38,6 +38,10 @@ relatedPosts:
   - varanasi-to-sarnath-tempo-traveller
   - sunrise-boat-ride-ganges
   - best-time-to-visit-varanasi
+  - ganga-aarti-timing-varanasi-2025
+  - 84-ghats-boat-tour-varanasi
+  - dashashwamedh-ghat-boat-ride-ganga-aarti-guide
+  - kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025
 faqSchema:
   - question: "What are the top 5 tourist spots in Varanasi?"
     answer: "The top 5 tourist spots in Varanasi are: (1) Dashashwamedh Ghat for evening Ganga Aarti, (2) Kashi Vishwanath Temple, (3) Sunrise boat ride on the Ganges, (4) Sarnath Buddhist site, and (5) Assi Ghat for morning aarti and cultural atmosphere."
@@ -95,6 +99,8 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 **Accessibility:** Wheelchair-friendly pathways available
 
 > Complete Aarti guide: **[Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing)**
+
+> Updated 2025 timings: **[Ganga Aarti Timing Varanasi 2025](/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2025)** | **[Dashashwamedh Ghat Boat Ride & Aarti Guide](/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide)**
 
 ---
 
@@ -228,6 +234,8 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 > Complete boat guide: **[Sunrise Boat Ride Ganges](/en/sunrise-boat-ride-ganges)** and **[Morning Boat Ride Varanasi Price](/en/morning-boat-ride-varanasi-price)**
 
+> Cover all 84 ghats: **[84 Ghats Boat Tour Varanasi](/en/city/varanasi/activities/84-ghats-boat-tour-varanasi)** — complete route maps, top ghats, and pricing guide.
+
 ---
 
 ### 🚖 Need Transport to Visit These Tourist Spots?
@@ -293,6 +301,8 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 **Location:** Heart of old Varanasi, pedestrian-only Vishwanath Gali
 
 **Peak Crowds:** Fridays, Mondays, Shravan month, Maha Shivratri
+
+> Complete pilgrimage itinerary: **[Kashi Vishwanath Temple & Ganga Aarti Spiritual Journey 2025](/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025)**
 
 ---
 

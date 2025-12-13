@@ -26,6 +26,10 @@ relatedPosts:
   - sunrise-boat-ride-varanasi-timing
   - varanasi-transport-price-guide-2025
   - is-varanasi-safe-for-solo-female-travellers
+  - ganga-aarti-timing-varanasi-2025
+  - 84-ghats-boat-tour-varanasi
+  - dashashwamedh-ghat-boat-ride-ganga-aarti-guide
+  - kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025
 faqSchema:
   - question: "What is the best month to visit Varanasi?"
     answer: "The best month to visit Varanasi is November. The weather is ideal, and you can experience major festivals like Dev Deepawali and Ganga Mahotsav. For great weather with fewer crowds, late February is also an excellent choice."
