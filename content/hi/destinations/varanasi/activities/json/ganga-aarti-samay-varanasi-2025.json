@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/hi/city/varanasi/activities/ganga-aarti-samay-varanasi-2025"
+      },
+      "headline": "वाराणसी में गंगा आरती का समय (2025)",
+      "description": "2025 के लिए वाराणसी में गंगा आरती के समय की संपूर्ण जानकारी—दशाश्वमेध, अस्सी और अन्य घाटों पर सुबह और शाम की आरती का पूरा शेड्यूल।",
+      "image": [
+        "https://www.kashitaxi.in/images/ganga-aarti.jpeg",
+        "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg"
+      ],
+      "datePublished": "2025-06-19",
+      "dateModified": "2025-06-19",
+      "author": {
+        "@type": "Person",
+        "name": "कमल नयन सिंह"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "काशी टैक्सी",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+        },
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "inLanguage": "hi"
+    },
+    {
+      "@type": "Event",
+      "name": "वाराणसी घाटों पर गंगा आरती",
+      "description": "वाराणसी के घाटों पर होने वाली पवित्र अग्नि पूजा। अस्सी घाट पर सुबह की आरती और दशाश्वमेध घाट पर शाम की आरती हजारों श्रद्धालुओं को आकर्षित करती है।",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "वाराणसी घाट",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "वाराणसी",
+          "addressRegion": "उत्तर प्रदेश",
+          "addressCountry": "IN"
+        }
+      },
+      "image": [
+        "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "घाट की सीढ़ियों से मुफ्त दर्शन",
+          "price": "0",
+          "priceCurrency": "INR",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "नाव से दर्शन",
+          "price": "300",
+          "priceCurrency": "INR",
+          "lowPrice": "300",
+          "highPrice": "1800",
+          "availability": "https://schema.org/InStock"
+        }
+      ],
+      "performer": {
+        "@type": "PerformingGroup",
+        "name": "वाराणसी घाटों के पुजारी"
+      },
+      "inLanguage": "hi"
+    }
+  ]
+}

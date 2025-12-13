@@ -1,0 +1,109 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/hi/city/varanasi/sightseeing/dashashwamedh-ghat-naav-ganga-aarti-guide"
+      },
+      "headline": "दशाश्वमेध घाट: नाव यात्रा और शाम की आरती",
+      "description": "दशाश्वमेध घाट की संपूर्ण 2025 गाइड—शाम की गंगा आरती का समय, नाव की सवारी के विकल्प, फोटोग्राफी टिप्स और दोनों अनुभवों को कैसे मिलाएं।",
+      "image": [
+        "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg",
+        "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
+      ],
+      "datePublished": "2025-06-19",
+      "dateModified": "2025-06-19",
+      "author": {
+        "@type": "Person",
+        "name": "कमल नयन सिंह"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "काशी टैक्सी",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+        },
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "inLanguage": "hi"
+    },
+    {
+      "@type": "TouristAttraction",
+      "name": "दशाश्वमेध घाट",
+      "description": "वाराणसी का सबसे प्रसिद्ध घाट, जो पुजारियों द्वारा अग्नि दीपों के साथ की जाने वाली भव्य शाम की गंगा आरती के लिए विख्यात है।",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "दशाश्वमेध घाट",
+        "addressLocality": "वाराणसी",
+        "addressRegion": "उत्तर प्रदेश",
+        "postalCode": "221001",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.3109,
+        "longitude": 83.0107
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "image": [
+        "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg"
+      ],
+      "isAccessibleForFree": true,
+      "publicAccess": true
+    },
+    {
+      "@type": "Event",
+      "name": "दशाश्वमेध घाट पर गंगा आरती",
+      "description": "पुजारियों द्वारा प्रतिदिन शाम को की जाने वाली 45 मिनट की अग्नि पूजा—घंटियों, शंख ध्वनि और पीतल के दीपों के साथ।",
+      "startDate": "2025-01-01T17:45",
+      "endDate": "2025-12-31T18:45",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "दशाश्वमेध घाट",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "वाराणसी",
+          "addressRegion": "उत्तर प्रदेश",
+          "addressCountry": "IN"
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "घाट की सीढ़ियां (मुफ्त)",
+          "price": "0",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "Offer",
+          "name": "अगली पंक्ति की कुर्सी",
+          "price": "200",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "Offer",
+          "name": "साझा नाव",
+          "price": "300",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "Offer",
+          "name": "निजी नाव",
+          "lowPrice": "1200",
+          "highPrice": "1800",
+          "priceCurrency": "INR"
+        }
+      ],
+      "performer": {
+        "@type": "PerformingGroup",
+        "name": "दशाश्वमेध घाट के पुजारी"
+      },
+      "inLanguage": "hi"
+    }
+  ]
+}

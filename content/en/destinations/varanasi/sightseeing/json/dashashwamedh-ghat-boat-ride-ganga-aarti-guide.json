@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide"
+      },
+      "headline": "Dashashwamedh Ghat: Boat Ride & Evening Aarti",
+      "description": "Complete 2025 guide to Dashashwamedh Ghat—evening Ganga Aarti timings, boat ride options, photography tips, and how to combine both experiences.",
+      "image": [
+        "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg",
+        "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
+      ],
+      "datePublished": "2025-06-19",
+      "dateModified": "2025-06-19",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Kashi Taxi",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+        },
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "TouristAttraction",
+      "name": "Dashashwamedh Ghat",
+      "description": "The most iconic ghat in Varanasi, famous for the spectacular evening Ganga Aarti ceremony performed by priests with fire lamps.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dashashwamedh Ghat",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "221001",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.3109,
+        "longitude": 83.0107
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "image": [
+        "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg"
+      ],
+      "isAccessibleForFree": true,
+      "publicAccess": true
+    },
+    {
+      "@type": "Event",
+      "name": "Ganga Aarti at Dashashwamedh Ghat",
+      "description": "A 45-minute fire offering ceremony performed every evening by priests with synchronized bells, conch blasts, and layered brass lamps.",
+      "startDate": "2025-01-01T17:45",
+      "endDate": "2025-12-31T18:45",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "Dashashwamedh Ghat",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Varanasi",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "IN"
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Ghat Steps (Free)",
+          "price": "0",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "Offer",
+          "name": "Front-row Chair",
+          "price": "200",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "Offer",
+          "name": "Shared Boat",
+          "price": "300",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "Offer",
+          "name": "Private Boat",
+          "lowPrice": "1200",
+          "highPrice": "1800",
+          "priceCurrency": "INR"
+        }
+      ],
+      "performer": {
+        "@type": "PerformingGroup",
+        "name": "Priests of Dashashwamedh Ghat"
+      }
+    }
+  ]
+}

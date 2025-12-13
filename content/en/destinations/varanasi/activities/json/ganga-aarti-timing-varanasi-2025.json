@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2025"
+      },
+      "headline": "Ganga Aarti Timing in Varanasi (2025)",
+      "description": "Complete seasonal guide to Ganga Aarti timings in Varanasi for 2025—morning and evening schedules at Dashashwamedh, Assi, and other ghats with boat integration tips.",
+      "image": [
+        "https://www.kashitaxi.in/images/ganga-aarti.jpeg",
+        "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg"
+      ],
+      "datePublished": "2025-06-19",
+      "dateModified": "2025-06-19",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Kashi Taxi",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+        },
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Ganga Aarti at Varanasi Ghats",
+      "description": "A sacred fire offering ceremony performed at Varanasi's ghats. Morning aarti at Assi Ghat and evening aarti at Dashashwamedh Ghat draw thousands of devotees and visitors.",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "Varanasi Ghats",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Varanasi",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "IN"
+        }
+      },
+      "image": [
+        "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Free Viewing from Ghat Steps",
+          "price": "0",
+          "priceCurrency": "INR",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Boat Viewing",
+          "price": "300",
+          "priceCurrency": "INR",
+          "lowPrice": "300",
+          "highPrice": "1800",
+          "availability": "https://schema.org/InStock"
+        }
+      ],
+      "performer": {
+        "@type": "PerformingGroup",
+        "name": "Priests of Varanasi Ghats"
+      }
+    }
+  ]
+}

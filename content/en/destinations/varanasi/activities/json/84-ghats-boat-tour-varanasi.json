@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/en/city/varanasi/activities/84-ghats-boat-tour-varanasi"
+      },
+      "headline": "The 84 Ghats Boat Tour",
+      "description": "Complete guide to the 84 Ghats boat tour in Varanasi—covering all ghats from Rajghat to Assi Ghat with pricing, timings, and insider tips.",
+      "image": [
+        "https://www.kashitaxi.in/images/varanasi-boat-ride-sunrise.jpeg",
+        "https://www.kashitaxi.in/images/varanasi-ghat-sunrise-P.jpeg"
+      ],
+      "datePublished": "2025-06-19",
+      "dateModified": "2025-06-19",
+      "author": {
+        "@type": "Person",
+        "name": "Kamal Nayan Singh"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Kashi Taxi",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+        },
+        "@id": "https://www.kashitaxi.in#organization"
+      }
+    },
+    {
+      "@type": "TouristTrip",
+      "name": "84 Ghats Boat Tour Varanasi",
+      "description": "A complete boat journey covering all 84 ghats of Varanasi along the sacred Ganges river—from Rajghat in the north to Assi Ghat in the south.",
+      "touristType": ["Pilgrims", "Cultural Tourists", "Photographers"],
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Rajghat to Panchganga Ghat Zone"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Manikarnika Ghat Cremation Zone"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dashashwamedh Ghat Central Zone"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kedar to Assi Ghat Southern Zone"
+          }
+        ]
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "lowPrice": "1500",
+        "highPrice": "5000",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock"
+      },
+      "provider": {
+        "@type": "TravelAgency",
+        "name": "Kashi Taxi",
+        "url": "https://www.kashitaxi.in/",
+        "telephone": "+91-9935474730"
+      }
+    }
+  ]
+}
