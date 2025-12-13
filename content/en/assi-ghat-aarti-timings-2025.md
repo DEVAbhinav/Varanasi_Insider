@@ -9,7 +9,7 @@ featuredImage: "/images/varanasi-assi-ghat-aarti-l.jpeg"
 metaTitle: "Assi Ghat Aarti Time 2025 — Morning 5:30 AM | Evening 6:00 PM"
 metaDescription: "Assi Ghat Aarti timing — Morning: 5:30 AM, Evening: 6:00 PM (seasonal). Full 2025 schedule, best viewing tips & boat ride prices."
 description: "Get the latest summer and winter timings for the Assi Ghat Ganga Aarti. Learn what to expect, the duration, and tips for the best view."
-keywords: "assi ghat aarti time, assi ghat aarti timings, assi ghat aarti timings evening, assi ghat aarti timings morning, assi ghat ganga aarti timing, assi ghat morning aarti time"
+keywords: "assi ghat aarti, assi ghat aarti time, assi ghat aarti timings, assi ghat ganga aarti timings, assi ghat morning aarti time, subah e banaras assi ghat, assi ghat sunrise aarti, varanasi morning aarti, sunrise boat ride assi ghat"
 tags:
   - "Assi Ghat Aarti Timings"
   - "Ganga Aarti"
@@ -117,9 +117,9 @@ As a local who runs sunrise boat rides for a living, I’m at Assi Ghat almost e
 
 ## Why Two Aartis?
 
-### Morning – “Subah-e-Banaras”
+### Morning – "Subah-e-Banaras"
 
-Begins in the blue hour before sunrise with Vedic chants, conch‐shells and a short yoga-in-public session. Locals treat it as a community wellness ritual; pilgrims bring copper pots for the first Ganga water of the day.
+The **Subah e Banaras Assi Ghat** experience begins in the blue hour before sunrise with Vedic chants, conch‐shells and a short yoga-in-public session. This **Assi Ghat sunrise aarti** is when locals treat it as a community wellness ritual; pilgrims bring copper pots for the first Ganga water of the day. It's the quintessential **varanasi morning aarti** experience.
 
 ![Sunrise at Assi Ghat during Subah-e-Banaras](/images/varanasi-assi-ghat-sunrise.jpeg "A serene sunrise during the morning aarti at Assi Ghat.")
 
@@ -150,7 +150,9 @@ Starts just after the sun disappears, lamps reflected in the water like a corrid
 
 Data compiled from updated priest rota & tourism board circulars.
 
-## How I Secure the “Front-Row” Experience
+**Tip:** A **sunrise boat ride from Assi Ghat** departing at 4:45 AM gives you perfect positioning to witness the **Assi Ghat Ganga aarti** from the water.
+
+## How I Secure the "Front-Row" Experience
 
 * Alarm at 4:30 AM. I grab a kulhad chai en-route; the vendor at Bhadaini Bridge never misses a day.
 * Reach by 4:50 AM (summer) / 5:10 AM (winter). That lets me claim a seat on the second step—high enough for photos, low enough to feel the river spray.
