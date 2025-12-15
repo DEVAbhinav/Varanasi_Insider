@@ -96,7 +96,7 @@ The optimal period for visiting this Banaras tourist spot is **October through M
 - **April-June** (Summer): Scorching heat with temperatures soaring between 30-45°C makes outdoor sightseeing extremely challenging.
 - **July-August** (Peak Monsoon): Heavy rainfall can cause the Ganges to swell dramatically, submerging many ghats and making them inaccessible or slippery.
 
-> For detailed month-by-month planning, see our **[Best Time to Visit Varanasi](/en/best-time-to-visit-varanasi)** guide. Specific seasonal insights: **[Varanasi in October](/en/varanasi-in-october-2025)**, **[Varanasi in November](/en/varanasi-in-november-2025-insider-guide)**, **[Varanasi in December](/en/varanasi-in-december-2025)**, **[Varanasi in February](/en/varanasi-in-february-2026)**, and **[Varanasi in Monsoon](/en/varanasi-in-monsoon-july-september-2025)**.
+> For detailed month-by-month planning, see our **[Best Time to Visit Varanasi](/en/best-time-to-visit-varanasi)** guide. Specific seasonal insights: **[Varanasi in October](/en/varanasi-in-october-2025)**, **[Varanasi in November](/en/varanasi-in-november-2025-insider-guide)**, **[Varanasi in December](/en/varanasi-in-december-2025)**, **[Varanasi in January](/en/city/varanasi/travel-guide/varanasi-in-january-2025)**, **[Varanasi in February](/en/varanasi-in-february-2026)**, and **[Varanasi in Monsoon](/en/varanasi-in-monsoon-july-september-2025)**.
 
 ### How to Reach Varanasi: Getting to the City
 

@@ -292,6 +292,25 @@ const nextConfig = {
       },
 
       // ===================================
+      // CATEGORY 13b: January Guide Consolidation
+      // ===================================
+      {
+        source: '/en/varanasi-january-weather-travel-guide',
+        destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2025',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-in-january',
+        destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2025',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-january-2025',
+        destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2025',
+        permanent: true,
+      },
+
+      // ===================================
       // CATEGORY 14: Site Audit Fixes (2025-10-23)
       // Redirects based on sitemap verification
       // ===================================

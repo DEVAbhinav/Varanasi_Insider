@@ -161,7 +161,7 @@ Varanasi’s experience changes dramatically by season. Your choice affects **we
 | **Oct** | [**Varanasi in October**](/en/varanasi-in-october-2025): Pleasant weather; post-monsoon freshness; festivals begin.            | Crowds and prices start rising.                            |
 | **Nov** | [**Varanasi in November**](/en/varanasi-in-november-2025-insider-guide): Ideal weather; **Dev Deepawali**, **Ganga Mahotsav**.                 | Extremely crowded; book far in advance.                    |
 | **Dec** | [**Varanasi in December**](/en/varanasi-in-december-2025): Crisp air; misty mornings; festive vibe.                              | Cold nights; peak tourist crowds.                          |
-| **Jan** | Coldest month; great for photography; slightly fewer than Dec crowds. | Fog may delay flights/trains; pack warm layers.            |
+| **Jan** | [**Varanasi in January**](/en/city/varanasi/travel-guide/varanasi-in-january-2025): Best month overall; **Makar Sankranti**; magical fog.       | Fog may delay flights/trains; pack warm layers.            |
 | **Feb** | [**Varanasi in February**](/en/varanasi-in-february-2026): Near-perfect daytime temps; **Mahashivratri**.                        | Festival surge in crowds.                                  |
 | **Mar** | Still pleasant; late-season deals possible.                           | Heat builds late month.                                    |
 | **Apr** | Very few tourists; lowest prices.                                     | Getting uncomfortably hot.                                 |
