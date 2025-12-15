@@ -367,7 +367,7 @@ const nextConfig = {
       },
       {
         source: '/en/varanasi-airport-taxi-winter-2025',
-        destination: '/en/destinations/varanasi/taxi/airport-taxi-service-varanasi',
+        destination: '/en/city/varanasi/taxi/airport-taxi-service-varanasi',
         permanent: true,
       },
       {
