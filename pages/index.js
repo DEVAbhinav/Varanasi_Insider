@@ -246,14 +246,14 @@ export default function HomePage({ allPosts }) {
             {driverSpotlight.map((driver) => (
               <div
                 key={driver.name}
-                className="snap-start shrink-0 w-28 rounded-lg border border-cyan-100 bg-white shadow-sm/40 p-2.5 flex flex-col items-center hover:-translate-y-0.5 hover:shadow-md transition"
+                className="snap-start shrink-0 w-32 rounded-lg border border-cyan-100 bg-white shadow-sm/40 p-3 flex flex-col items-center hover:-translate-y-0.5 hover:shadow-md transition"
               >
-                <div className="relative h-14 w-14 overflow-hidden rounded-full border border-cyan-100 bg-cyan-50/60">
+                <div className="relative h-18 w-18 overflow-hidden rounded-full border border-cyan-100 bg-cyan-50/60">
                   <Image
                     src={driver.img}
                     alt={`${driver.name} - KashiTaxi driver`}
                     fill
-                    sizes="56px"
+                    sizes="72px"
                     className="object-cover object-center"
                     priority={false}
                   />
