@@ -40,7 +40,7 @@ export default function HomePage({ allPosts }) {
       name: 'Mishra Ji',
       years: '22 yrs driving Varanasi',
       route: 'Airport + city specialist',
-      img: '/images/profile/mishra-ji.jpeg',
+      img: '/images/Tempo%20Traveller%20Mishra%20ji%20with%20germal%20tourist.jpeg',
     },
     {
       name: 'Rajan Ji',
@@ -58,7 +58,7 @@ export default function HomePage({ allPosts }) {
       name: 'Akhilesh (Tempo Lead)',
       years: '12 yrs, group trips',
       route: 'Airport + outstation vans',
-      img: '/images/Tempo%20traveller%20Happy%20Customer.jpeg',
+      img: '/images/Tempo%20Traveller%20group.jpeg',
     },
     {
       name: 'Urbania Crew',
@@ -224,9 +224,9 @@ export default function HomePage({ allPosts }) {
       </section>
 
       {/* Driver Spotlight - ultra-compact horizontal strip */}
-      <section className="bg-gradient-to-r from-cyan-50/80 via-white to-teal-50/70 border-y border-cyan-100/60 py-4">
-        <div className="container mx-auto px-4">
-          <div className="flex items-center justify-between gap-3 mb-2">
+      <section className="bg-gradient-to-r from-cyan-50/70 via-white to-teal-50/70 border-y border-cyan-100/70 py-3">
+        <div className="container mx-auto px-4 max-w-6xl">
+          <div className="flex items-center justify-between gap-3 mb-1.5">
             <div className="flex items-center gap-2">
               <span className="h-6 w-6 rounded-full bg-cyan-100 text-cyan-700 text-xs font-semibold grid place-items-center">☆</span>
               <div>
@@ -240,27 +240,27 @@ export default function HomePage({ allPosts }) {
             </div>
           </div>
           <div
-            className="flex gap-3 overflow-x-auto pb-2 snap-x snap-mandatory [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+            className="flex gap-2.5 overflow-x-auto pb-1.5 snap-x snap-mandatory [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden justify-start md:justify-center scroll-smooth"
             aria-label="Driver partners carousel"
           >
             {driverSpotlight.map((driver) => (
               <div
                 key={driver.name}
-                className="snap-start shrink-0 w-32 rounded-xl border border-cyan-100 bg-white shadow-sm/50 p-3 flex flex-col items-center hover:-translate-y-0.5 hover:shadow-md transition"
+                className="snap-start shrink-0 w-28 rounded-lg border border-cyan-100 bg-white shadow-sm/40 p-2.5 flex flex-col items-center hover:-translate-y-0.5 hover:shadow-md transition"
               >
-                <div className="relative h-16 w-16 overflow-hidden rounded-full border border-cyan-100 bg-cyan-50/60">
+                <div className="relative h-14 w-14 overflow-hidden rounded-full border border-cyan-100 bg-cyan-50/60">
                   <Image
                     src={driver.img}
                     alt={`${driver.name} - KashiTaxi driver`}
                     fill
-                    sizes="64px"
-                    className="object-cover"
+                    sizes="56px"
+                    className="object-cover object-center"
                     priority={false}
                   />
                 </div>
-                <p className="mt-2 text-[13px] font-semibold text-gray-900 text-center leading-tight">{driver.name}</p>
-                <p className="text-[11px] text-gray-500 text-center leading-snug">{driver.route}</p>
-                <p className="text-[11px] font-semibold text-cyan-700 mt-1">{driver.years}</p>
+                <p className="mt-2 text-[12px] font-semibold text-gray-900 text-center leading-tight">{driver.name}</p>
+                <p className="text-[10px] text-gray-500 text-center leading-snug">{driver.route}</p>
+                <p className="text-[10px] font-semibold text-cyan-700 mt-1">{driver.years}</p>
               </div>
             ))}
           </div>
