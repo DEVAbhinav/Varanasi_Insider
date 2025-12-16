@@ -22,8 +22,8 @@ tags:
   - varanasi
 template: destination
 aggregateRating:
-  ratingValue: "4.7"
-  reviewCount: "167"
+  ratingValue: "4.5"
+  reviewCount: "189"
 faqSchema:
   - question: "Is there a surcharge for 24/7 service?"
     answer: "Yes, early morning (5-6 AM): +₹100 | Late night (11 PM-5 AM): +₹200"

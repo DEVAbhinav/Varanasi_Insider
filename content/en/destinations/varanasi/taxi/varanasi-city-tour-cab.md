@@ -21,8 +21,8 @@ tags:
   - sightseeing
 template: destination
 aggregateRating:
-  ratingValue: "4.7"
-  reviewCount: "167"
+  ratingValue: "4.8"
+  reviewCount: "152"
 faqSchema:
   - question: "Do I need to book in advance?"
     answer: "Not mandatory, but we recommend booking 24 hours prior for best availability."

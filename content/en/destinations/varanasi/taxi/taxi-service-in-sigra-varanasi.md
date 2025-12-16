@@ -72,8 +72,8 @@ faqSchema:
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.7",
-        "ratingCount": "167"
+        "ratingValue": "4.6",
+        "ratingCount": "143"
       },
       "offers": {
         "@type": "AggregateOffer",

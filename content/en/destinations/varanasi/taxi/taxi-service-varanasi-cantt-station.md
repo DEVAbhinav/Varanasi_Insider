@@ -73,7 +73,7 @@ faqSchema:
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.7",
-        "ratingCount": "167"
+        "ratingCount": "176"
       },
       "offers": {
         "@type": "AggregateOffer",
