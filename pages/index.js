@@ -35,6 +35,38 @@ const CTASectionHome = dynamic(() => import('../components/CTASectionHome/CTASec
 export default function HomePage({ allPosts }) {
   const SITE = 'https://www.kashitaxi.in';
   const structuredData = getHomeSchema(SITE);
+  const driverSpotlight = [
+    {
+      name: 'Mishra Ji',
+      years: '22 yrs driving Varanasi',
+      route: 'Airport + city specialist',
+      img: '/images/profile/mishra-ji.jpeg',
+    },
+    {
+      name: 'Rajan Ji',
+      years: '15 yrs, ex-tour coach',
+      route: 'Airport & hotel runs',
+      img: '/images/Rajan%20Ji%20Citiline%20w%20Customer.jpeg',
+    },
+    {
+      name: 'Kiran (Pink Taxi)',
+      years: '8 yrs, women-first',
+      route: 'Family & solo women rides',
+      img: '/images/lady-taxi.jpeg',
+    },
+    {
+      name: 'Akhilesh (Tempo Lead)',
+      years: '12 yrs, group trips',
+      route: 'Airport + outstation vans',
+      img: '/images/Tempo%20traveller%20Happy%20Customer.jpeg',
+    },
+    {
+      name: 'Urbania Crew',
+      years: '9 yrs, long routes',
+      route: 'Premium outstation shifts',
+      img: '/images/Urbania-front-Square.jpeg',
+    },
+  ];
 
   return (
     <>
@@ -188,6 +220,44 @@ export default function HomePage({ allPosts }) {
           <svg viewBox="0 0 1200 120" preserveAspectRatio="none" className="relative w-full h-24 md:h-36">
             <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#ecfeff"></path>
           </svg>
+        </div>
+      </section>
+
+      {/* Driver Spotlight - slim horizontal gallery */}
+      <section className="bg-white py-6 border-b border-gray-100">
+        <div className="container mx-auto px-4">
+          <div className="flex items-baseline justify-between gap-4 mb-3">
+            <div>
+              <p className="text-[11px] font-semibold uppercase tracking-[0.12em] text-cyan-700">Driver partners</p>
+              <h2 className="text-lg font-semibold text-gray-900">Trusted faces on duty</h2>
+            </div>
+            <span className="text-[11px] text-gray-500 hidden sm:inline">Swipe &gt;</span>
+          </div>
+          <div
+            className="flex gap-3 overflow-x-auto pb-1 snap-x snap-mandatory [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+            aria-label="Driver partners carousel"
+          >
+            {driverSpotlight.map((driver) => (
+              <div
+                key={driver.name}
+                className="snap-start shrink-0 w-36 rounded-2xl border border-gray-100 bg-white shadow-sm/50 p-3 flex flex-col items-center hover:-translate-y-0.5 hover:shadow-md transition"
+              >
+                <div className="relative h-20 w-20 overflow-hidden rounded-full border border-cyan-50 bg-cyan-50/40">
+                  <Image
+                    src={driver.img}
+                    alt={`${driver.name} - KashiTaxi driver`}
+                    fill
+                    sizes="80px"
+                    className="object-cover"
+                    priority={false}
+                  />
+                </div>
+                <p className="mt-3 text-sm font-semibold text-gray-900 text-center leading-tight">{driver.name}</p>
+                <p className="text-[11px] text-gray-500 text-center leading-snug">{driver.route}</p>
+                <p className="text-[11px] font-semibold text-cyan-700 mt-1">{driver.years}</p>
+              </div>
+            ))}
+          </div>
         </div>
       </section>
 
