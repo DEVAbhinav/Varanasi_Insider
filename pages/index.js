@@ -223,36 +223,42 @@ export default function HomePage({ allPosts }) {
         </div>
       </section>
 
-      {/* Driver Spotlight - slim horizontal gallery */}
-      <section className="bg-white py-6 border-b border-gray-100">
+      {/* Driver Spotlight - ultra-compact horizontal strip */}
+      <section className="bg-gradient-to-r from-cyan-50/80 via-white to-teal-50/70 border-y border-cyan-100/60 py-4">
         <div className="container mx-auto px-4">
-          <div className="flex items-baseline justify-between gap-4 mb-3">
-            <div>
-              <p className="text-[11px] font-semibold uppercase tracking-[0.12em] text-cyan-700">Driver partners</p>
-              <h2 className="text-lg font-semibold text-gray-900">Trusted faces on duty</h2>
+          <div className="flex items-center justify-between gap-3 mb-2">
+            <div className="flex items-center gap-2">
+              <span className="h-6 w-6 rounded-full bg-cyan-100 text-cyan-700 text-xs font-semibold grid place-items-center">☆</span>
+              <div>
+                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Driver partners</p>
+                <h2 className="text-base font-semibold text-gray-900 leading-snug">Trusted faces on duty</h2>
+              </div>
             </div>
-            <span className="text-[11px] text-gray-500 hidden sm:inline">Swipe &gt;</span>
+            <div className="flex items-center gap-3 text-[11px] text-gray-500">
+              <span className="hidden sm:inline">Swipe &gt;</span>
+              <a href="tel:+919450301573" className="inline-flex items-center gap-1 text-cyan-700 font-semibold">Call dispatch</a>
+            </div>
           </div>
           <div
-            className="flex gap-3 overflow-x-auto pb-1 snap-x snap-mandatory [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+            className="flex gap-3 overflow-x-auto pb-2 snap-x snap-mandatory [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
             aria-label="Driver partners carousel"
           >
             {driverSpotlight.map((driver) => (
               <div
                 key={driver.name}
-                className="snap-start shrink-0 w-36 rounded-2xl border border-gray-100 bg-white shadow-sm/50 p-3 flex flex-col items-center hover:-translate-y-0.5 hover:shadow-md transition"
+                className="snap-start shrink-0 w-32 rounded-xl border border-cyan-100 bg-white shadow-sm/50 p-3 flex flex-col items-center hover:-translate-y-0.5 hover:shadow-md transition"
               >
-                <div className="relative h-20 w-20 overflow-hidden rounded-full border border-cyan-50 bg-cyan-50/40">
+                <div className="relative h-16 w-16 overflow-hidden rounded-full border border-cyan-100 bg-cyan-50/60">
                   <Image
                     src={driver.img}
                     alt={`${driver.name} - KashiTaxi driver`}
                     fill
-                    sizes="80px"
+                    sizes="64px"
                     className="object-cover"
                     priority={false}
                   />
                 </div>
-                <p className="mt-3 text-sm font-semibold text-gray-900 text-center leading-tight">{driver.name}</p>
+                <p className="mt-2 text-[13px] font-semibold text-gray-900 text-center leading-tight">{driver.name}</p>
                 <p className="text-[11px] text-gray-500 text-center leading-snug">{driver.route}</p>
                 <p className="text-[11px] font-semibold text-cyan-700 mt-1">{driver.years}</p>
               </div>
