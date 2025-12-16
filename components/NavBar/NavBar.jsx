@@ -90,7 +90,7 @@ export default function NavBar() {
         role="dialog"
         aria-modal="true"
         ref={drawerRef}
-        className={`fixed inset-y-0 right-0 z-[100] w-80 max-w-[85vw] ${open ? 'translate-x-0' : 'translate-x-full'} transition-transform duration-300 ease-out bg-gradient-to-b from-white to-cyan-50/30 shadow-2xl md:hidden`}
+        className={`fixed inset-y-0 right-0 z-[100] w-80 max-w-[85vw] ${open ? 'translate-x-0' : 'translate-x-full'} transition-transform duration-300 ease-out bg-white shadow-2xl md:hidden`}
         style={{ paddingTop: 'env(safe-area-inset-top)' }}
       >
         {/* Premium gradient header */}
@@ -117,7 +117,7 @@ export default function NavBar() {
           </div>
         </div>
 
-        <div className="p-4 pt-5 overflow-y-auto h-[calc(100vh-140px)]">
+        <div className="p-4 pt-5 overflow-y-auto h-[calc(100vh-140px)] bg-white">
           {/* Menu items with icons */}
           <nav className="space-y-2" aria-label="Mobile navigation">
             <Link 

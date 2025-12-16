@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import dynamic from 'next/dynamic';
+import { useRef, useState } from 'react';
 import NavBar from '../components/NavBar/NavBar';
 import Footer from '../components/Footer/Footer';
 import GoogleReviews from '../components/GoogleReviews/GoogleReviews';
@@ -35,37 +36,65 @@ const CTASectionHome = dynamic(() => import('../components/CTASectionHome/CTASec
 export default function HomePage({ allPosts }) {
   const SITE = 'https://www.kashitaxi.in';
   const structuredData = getHomeSchema(SITE);
+  const driverStripRef = useRef(null);
+  const cardRefs = useRef([]);
+  const [cardIndex, setCardIndex] = useState(0);
+  const scrollToCard = (target) => {
+    const el = cardRefs.current[target];
+    if (el?.scrollIntoView) {
+      el.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      setCardIndex(target);
+    }
+  };
   const driverSpotlight = [
     {
-      name: 'Mishra Ji',
-      years: '22 yrs driving Varanasi',
-      route: 'Airport + city specialist',
-      img: '/images/Tempo%20Traveller%20Mishra%20ji%20with%20germal%20tourist.jpeg',
-    },
-    {
-      name: 'Rajan Ji',
-      years: '15 yrs, ex-tour coach',
-      route: 'Airport & hotel runs',
-      img: '/images/Rajan%20Ji%20Citiline%20w%20Customer.jpeg',
-    },
-    {
-      name: 'Kiran (Pink Taxi)',
-      years: '8 yrs, women-first',
-      route: 'Family & solo women rides',
-      img: '/images/lady-taxi.jpeg',
-    },
-    {
-      name: 'Akhilesh (Tempo Lead)',
-      years: '12 yrs, group trips',
-      route: 'Airport + outstation vans',
+      name: 'Happy guest groups',
+      years: 'Real tempo traveller handoff',
+      route: 'Families and friends starting their Kashi tour together',
       img: '/images/Tempo%20Traveller%20group.jpeg',
     },
     {
-      name: 'Urbania Crew',
-      years: '9 yrs, long routes',
-      route: 'Premium outstation shifts',
+      name: 'Safe airport pickup',
+      years: '22 yrs in Varanasi',
+      route: 'Meet & greet, flight-tracked arrivals',
+      img: '/images/Tempo%20Traveller%20Mishra%20ji%20with%20germal%20tourist.jpeg',
+    },
+    {
+      name: 'Hotel-to-ghat escort',
+      years: '15 yrs guiding guests',
+      route: 'Door-to-door help through barricades',
+      img: '/images/Rajan%20Ji%20Citiline%20w%20Customer.jpeg',
+    },
+    {
+      name: 'Pink Taxi safety',
+      years: '8 yrs women-first fleet',
+      route: 'Family & solo women travel support',
+      img: '/images/lady-taxi.jpeg',
+    },
+    {
+      name: 'Ladies-only ride',
+      years: 'Trusted for solo trips',
+      route: 'Single traveller pickup with full-day assistance',
+      img: '/images/solo-femal-traveller-varanasi.jpeg',
+    },
+    {
+      name: 'Group vans & tempo',
+      years: '12 yrs group moves',
+      route: 'Airport, weddings, multi-van convoys',
+      img: '/images/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg',
+    },
+    {
+      name: 'Premium outstation',
+      years: '9 yrs long routes',
+      route: 'Urbania & SUV fleet for long trips',
       img: '/images/Urbania-front-Square.jpeg',
     },
+    {
+      name: 'Happy customer handover',
+      years: 'Trip-end smiles captured',
+      route: 'Tempo traveller guests wrapping up a smooth journey',
+      img: '/images/Tempo%20traveller%20Happy%20Customer.jpeg',
+    }
   ];
 
   return (
@@ -224,45 +253,70 @@ export default function HomePage({ allPosts }) {
       </section>
 
       {/* Driver Spotlight - ultra-compact horizontal strip */}
-      <section className="bg-gradient-to-r from-cyan-50/70 via-white to-teal-50/70 border-y border-cyan-100/70 py-3">
-        <div className="container mx-auto px-4 max-w-6xl">
+      <section className="bg-gradient-to-r from-cyan-50/70 via-white to-teal-50/70 border-y border-cyan-100/70 py-3 md:py-6 mt-4 md:mt-6">
+        <div className="container mx-auto px-4 max-w-6xl overflow-visible">
           <div className="flex items-center justify-between gap-3 mb-1.5">
             <div className="flex items-center gap-2">
-              <span className="h-6 w-6 rounded-full bg-cyan-100 text-cyan-700 text-xs font-semibold grid place-items-center">☆</span>
+              <span className="h-6 w-6 rounded-full bg-cyan-100 text-cyan-700 text-xs font-semibold grid place-items-center">✓</span>
               <div>
-                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Driver partners</p>
-                <h2 className="text-base font-semibold text-gray-900 leading-snug">Trusted faces on duty</h2>
+                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Worry-free tours</p>
+                <h2 className="text-base font-semibold text-gray-900 leading-snug">Trip assurance highlights</h2>
               </div>
             </div>
-            <div className="flex items-center gap-3 text-[11px] text-gray-500">
-              <span className="hidden sm:inline">Swipe &gt;</span>
+            <div className="flex items-center gap-2 text-[11px] text-gray-500">
               <a href="tel:+919450301573" className="inline-flex items-center gap-1 text-cyan-700 font-semibold">Call dispatch</a>
             </div>
           </div>
           <div
-            className="flex gap-2.5 overflow-x-auto pb-1.5 snap-x snap-mandatory [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden justify-start md:justify-center scroll-smooth"
+            className="flex gap-4 overflow-x-auto overflow-y-visible pb-2 md:pb-6 snap-x snap-mandatory [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden justify-start md:justify-center scroll-smooth"
             aria-label="Driver partners carousel"
+            ref={driverStripRef}
           >
-            {driverSpotlight.map((driver) => (
+            {driverSpotlight.map((driver, idx) => (
               <div
                 key={driver.name}
-                className="snap-start shrink-0 w-32 rounded-lg border border-cyan-100 bg-white shadow-sm/40 p-3 flex flex-col items-center hover:-translate-y-0.5 hover:shadow-md transition"
+                className="group relative snap-start shrink-0 w-44 rounded-2xl border border-cyan-100 bg-white shadow-md p-4 flex flex-col items-center origin-center transition-transform duration-200 ease-out hover:scale-[1.25] hover:shadow-2xl hover:z-30"
+                ref={(el) => {
+                  if (el) cardRefs.current[idx] = el;
+                }}
               >
-                <div className="relative h-20 w-20 overflow-hidden rounded-full border border-cyan-100 bg-cyan-50/60">
+                <div className="relative h-36 w-36 overflow-hidden rounded-full border border-cyan-100 bg-cyan-50/60">
                   <Image
                     src={driver.img}
                     alt={`${driver.name} - KashiTaxi driver`}
-                    fill
-                    sizes="72px"
-                    className="object-cover object-center"
+                    width={320}
+                    height={320}
+                    quality={100}
+                    unoptimized
+                    sizes="320px"
+                    className="h-full w-full object-cover object-center"
                     priority={false}
                   />
                 </div>
                 <p className="mt-2 text-[12px] font-semibold text-gray-900 text-center leading-tight">{driver.name}</p>
-                <p className="text-[10px] text-gray-500 text-center leading-snug">{driver.route}</p>
-                <p className="text-[10px] font-semibold text-cyan-700 mt-1">{driver.years}</p>
+                <p className="text-[11px] text-gray-600 text-center leading-snug">{driver.route}</p>
+                <p className="text-[11px] font-semibold text-cyan-700 mt-1">{driver.years}</p>
               </div>
             ))}
+          </div>
+
+          <div className="mt-1.5 md:mt-3 flex items-center justify-center gap-3 text-[12px] text-gray-600">
+            <button
+              type="button"
+              onClick={() => scrollToCard((cardIndex - 1 + driverSpotlight.length) % driverSpotlight.length)}
+              className="inline-flex items-center justify-center h-9 w-9 rounded-full border border-cyan-100 bg-white text-cyan-700 shadow-sm hover:bg-cyan-50"
+              aria-label="Scroll drivers left"
+            >
+              ←
+            </button>
+            <button
+              type="button"
+              onClick={() => scrollToCard((cardIndex + 1) % driverSpotlight.length)}
+              className="inline-flex items-center justify-center h-9 w-9 rounded-full border border-cyan-100 bg-white text-cyan-700 shadow-sm hover:bg-cyan-50"
+              aria-label="Scroll drivers right"
+            >
+              →
+            </button>
           </div>
         </div>
       </section>

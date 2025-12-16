@@ -100,17 +100,18 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <link rel="icon" href="/favicon.jpeg" />
         <link rel="canonical" href={url} />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+        />
         <script
           id="organization-jsonld"
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(ORGANIZATION_JSON_LD) }}
         />
       </Head>
-      <Script
-        id="google-fonts"
-        src="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
-        strategy="lazyOnload"
-      />
       {gtag.GA_MEASUREMENT_ID && (
         <>
           <Script

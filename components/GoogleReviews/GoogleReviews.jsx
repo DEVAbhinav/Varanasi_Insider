@@ -72,7 +72,7 @@ const customerReviews = [
 
 export default function GoogleReviews() {
 	const averageRating = '4.8';
-	const totalReviews = 87;
+	const totalReviews = 169;
 
 	// Smooth scroll controls for desktop
 	const scrollerRef = useRef(null);
