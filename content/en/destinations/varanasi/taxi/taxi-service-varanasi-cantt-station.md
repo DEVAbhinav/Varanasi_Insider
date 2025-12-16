@@ -70,6 +70,11 @@ faqSchema:
           "contactType": "reservations"
         }
       },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "ratingCount": "167"
+      },
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

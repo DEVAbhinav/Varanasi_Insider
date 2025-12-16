@@ -19,6 +19,9 @@ tags:
   - varanasi
   - location-based
 template: destination
+aggregateRating:
+  ratingValue: "4.7"
+  reviewCount: "167"
 ---
 
 # Taxi Near BHU Varanasi | Quick Cab Service
