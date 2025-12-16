@@ -22,6 +22,11 @@ featuredImage: "/images/varanasi-ghats-overview.jpeg"
 eyebrow: "सांस्कृतिक उत्सव"
 ctaTitle: "संगमम के लिए आ रहे हैं?"
 ctaSubtitle: "एयरपोर्ट से BHU/असी तक बिना तनाव के पहुँचने के लिए टैक्सी अभी बुक करें।"
+startDate: "2025-12-02T09:00:00+05:30"
+endDate: "2025-12-15T21:00:00+05:30"
+location:
+  name: "BHU कैंपस, वाराणसी"
+  address: "Banaras Hindu University, Lanka, Varanasi, Uttar Pradesh 221005, India"
 ---
 
 # काशी तमिल संगमम 4.0 – उत्तर और दक्षिण का जीवंत संगम

@@ -22,6 +22,11 @@ featuredImage: "/images/varanasi-river-sunrise-boat-p.jpeg"
 eyebrow: "एक्सक्लूसिव अनुभव"
 ctaTitle: "सुबह 5:30 की ड्रॉप चाहिए?"
 ctaSubtitle: "गुलेरिया घाट तक जल्दी पहुँचने के लिए टैक्सी अभी रिज़र्व करें।"
+startDate: "2025-12-20T06:30:00+05:30"
+endDate: "2025-12-21T07:15:00+05:30"
+location:
+  name: "गुलेरिया कोठी की सीढ़ियाँ, वाराणसी"
+  address: "Guleria Kothi, Near Manikarnika Ghat, Varanasi, Uttar Pradesh 221001, India"
 ---
 
 # महिंद्रा कबीर उत्सव – सूर्योदय राग की अनुभूति

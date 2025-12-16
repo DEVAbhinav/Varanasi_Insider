@@ -3,6 +3,7 @@
   "@graph": [
     {
       "@type": "TaxiService",
+      "@id": "https://www.kashitaxi.in/en/about#service",
       "name": "Banarasi Kashitaxi",
       "alternateName": "Vinayak Travels Tour",
       "founder": {
@@ -10,8 +11,8 @@
         "name": "Sudhir Pandey"
       },
       "foundingDate": "1998",
-      "url": "https://www.kashitaxi.in",
-      "logo": "https://www.kashitaxi.in/images/logo.png",
+      "url": "https://www.kashitaxi.in/",
+      "logo": "https://www.kashitaxi.in/images/logo.jpeg",
       "image": "https://www.kashitaxi.in/images/posts/about-banarasi-kashitaxi.jpg",
       "description": "Family‑run taxi and tour company offering airport transfers, Pink Taxis, outstation cabs, and custom tours in and around Varanasi.",
       "telephone": "+91 94503 01573",
@@ -84,7 +85,7 @@
     },
     {
       "@type": "Organization",
-      "@id": "https://www.kashitaxi.in#organization",
+      "@id": "https://www.kashitaxi.in/#organization",
       "name": "Varanasi Taxi | Vinayak Travels Varanasi",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [

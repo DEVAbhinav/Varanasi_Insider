@@ -22,6 +22,11 @@ featuredImage: "/images/varanasi-boat-eve-l.jpeg"
 eyebrow: "संगीत और अध्यात्म"
 ctaTitle: "फेस्टिवल पास मिल गया?"
 ctaSubtitle: "गुलेरिया कोठी या शिवाला घाट के लिए एयरपोर्ट-टू-घाट कैब अभी ब्लॉक करें।"
+startDate: "2025-12-19T18:00:00+05:30"
+endDate: "2025-12-21T23:00:00+05:30"
+location:
+  name: "Guleria Kothi (सुबह) और शिवाला घाट (शाम), वाराणसी"
+  address: "Guleria Kothi, Near Manikarnika Ghat, Varanasi, Uttar Pradesh 221001, India"
 ---
 
 # महिंद्रा कबीर उत्सव – 15वीं सदी के संत की धुनें, 21वीं सदी की प्रस्तुति
