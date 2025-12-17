@@ -3,8 +3,8 @@ lang: hi
 slug: guide-to-10-most-important-ghats-of-varanasi
 sourceSlug: guide-to-10-most-important-ghats-of-varanasi
 title: "वाराणसी के 10 प्रमुख घाट – पूर्ण 2025 गाइड (Top Ghats)"
-metaTitle: "10 प्रमुख वाराणसी घाट 2025: इतिहास, महत्व, टिप्स"
-metaDescription: "अस्सी से आदिकेशव तक वाराणसी के 10 महत्वपूर्ण घाट – इतिहास, धार्मिक महत्व, यात्रा सुझाव, समय व शिष्टाचार – 2025 हिंदी गाइड।"
+metaTitle: "वाराणसी के 10 प्रसिद्ध घाट 2025: दशाश्वमेध आरती से मणिकर्णिका तक"
+metaDescription: "गंगा आरती 6 PM, सुबह-ए-बनारस 5:30 AM, मोक्ष घाट मणिकर्णिका – 10 घाटों की पूरी जानकारी, समय, नियम और यात्रा टिप्स →"
 description: "कुल 80+ घाटों में से चयनित 10 – सांस्कृतिक, आध्यात्मिक, चित्रात्मक व अनुष्ठानिक महत्व के आधार पर सार व विस्तार।"
 keywords: ["varanasi ke ghat hindi","10 varanasi ghat guide","assi ghat subah-e-banaras","kedar ghat significance","harishchandra cremation ghat","dashashwamedh ganga aarti","man mandir observatory","scindia ghat submerged temple","manikarnika ghat moksha","panchganga ghat legend","adi keshav ghat origin","varanasi ghat history","kashi top ghats","ghat visit tips varanasi"]
 featuredImage: "/images/varanasi-ghats-overview.jpeg"

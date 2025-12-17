@@ -37,8 +37,9 @@ export default function DestinationContentPage({ entry, category, allPosts, page
   const slugPath = `/city/${entry.destination}/${pageCategory}/${entry.slug}`;
   const localizedPath = entry.localizedPath || `/${langForPage}${slugPath}`;
   const canonicalUrl = entry.canonicalUrl || `${siteBase}${localizedPath}`;
-  const title = entry.title || 'Kashi Taxi | Travel Agent Varanasi';
-  const description = entry.description || '';
+  // Prefer metaTitle/metaDescription for SERP; fall back to title/description
+  const title = entry.metaTitle || entry.title || 'Kashi Taxi | Travel Agent Varanasi';
+  const description = entry.metaDescription || entry.description || '';
   const keywords = Array.isArray(entry.keywords)
     ? entry.keywords.join(', ')
     : entry.keywords;

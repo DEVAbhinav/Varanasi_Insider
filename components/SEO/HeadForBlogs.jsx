@@ -22,8 +22,9 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
   const urlPath = `/${langForPath}/${slugForPath}`
   const canonical = `${SITE}${urlPath}`
 
-  const title = postData.title || 'Varanasi Taxi'
-  const description = postData.description || ''
+  // Prefer metaTitle/metaDescription for SERP; fall back to title/description
+  const title = postData.metaTitle || postData.title || 'Varanasi Taxi'
+  const description = postData.metaDescription || postData.description || ''
   const keywords = postData.keywords || (Array.isArray(postData.tags) ? postData.tags.join(', ') : undefined)
   const author = postData.author || 'Varanasi Taxi'
   const published = postData.date || undefined

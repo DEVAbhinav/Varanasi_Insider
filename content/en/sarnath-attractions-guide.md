@@ -6,8 +6,8 @@ lastUpdated: "2025-10-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/blogSarnath.png"
-metaTitle: "15 Sarnath Attractions Guide 2025: Complete Places to Visit List (With Timing & Entry)"
-metaDescription: "Complete guide to Sarnath attractions: Dhamek Stupa, Ashoka Pillar, Buddhist temples, archaeological museum, Deer Park, Chaukhandi Stupa. Includes timing, entry fees, must-see ranking, and itineraries."
+metaTitle: "15 Sarnath Attractions 2025: Dhamek Stupa, Museum ₹5-100 Entry"
+metaDescription: "Dhamek Stupa, Ashoka Pillar, Lion Capital Museum, 10+ Buddhist temples. Entry ₹5-100. Open 6 AM-6 PM (museum closed Fri). 3-4 hr visit from Varanasi →"
 description: "Discover all 15+ Sarnath attractions including Dhamek Stupa (main monument), original Ashoka Pillar, Mulagandha Kuti Vihar temple, Lion Capital museum, Deer Park, international Buddhist temples, monastery ruins. Complete with timing, entry fees, must-see rankings, and attraction-by-attraction visitor guide."
 keywords:
   - "sarnath attractions"

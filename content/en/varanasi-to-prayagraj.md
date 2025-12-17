@@ -120,6 +120,12 @@ A: Yes, it's a very popular and feasible day trip. Leaving Varanasi early in the
 **Q: What is the Prayagraj Varanasi spiritual circuit?**  
 A: It is a pilgrimage route that combines the spiritual power of Kashi (Varanasi), the city of Lord Shiva, with Prayagraj, the "King of Holy Places" famous for the Triveni Sangam.
 
+**Q: What is the lowest price round-trip cab fare from Varanasi to Prayagraj?**  
+A: Same-day sedan round trips typically start around **₹2,000–₹2,500** via NH19; SUVs cost more. This usually covers fuel, tolls, and driver allowance for a day visit to Sangam and nearby temples.
+
+**Q: How much is a Varanasi to Prayagraj taxi fare for a pilgrimage day trip?**  
+A: Expect about **₹2,500–₹3,500** for a comfortable sedan covering Varanasi ⇄ Prayagraj with Triveni Sangam, Bade Hanumanji, and Alopi Devi stops. Round-trip cab bookings remain the most convenient way to complete the yatra in one day.
+
 ---
 
 ## Travel Tips for Your Yatra

@@ -2,12 +2,12 @@
 title: "Varanasi to Vindhyachal Taxi Fare — From ₹2,000 | 65–70 km 2025"
 slug: "varanasi-to-vindhyachal"
 date: "2025-08-07"
-lastUpdated: "2025-11-05"
+lastUpdated: "2025-12-17"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/Vindhyachal1.jpg"
-metaTitle: "Varanasi to Vindhyachal Taxi Fare 2025 — Sedan ₹2,000 | 65 km"
-metaDescription: "Book a Varanasi to Vindhyachal taxi from ₹2,000 for the 65–70 km run via Mirzapur. Updated Nov 2025 itinerary, darshan checklist, WhatsApp booking & Navratri tips."
+metaTitle: "Varanasi to Vindhyachal Taxi ₹2,000 | Vindhyavasini Darshan 2hr Trip"
+metaDescription: "65 km, 1.5hr drive. Sedan ₹2,000, SUV ₹2,800. Same-day Vindhyavasini + Kali Khoh + Ashtabhuja darshan. Navratri booking open →"
 description: "Updated Nov 2025 Varanasi to Vindhyachal taxi fares, verified 65–70 km route, Navratri crowd plan, darshan timings, and WhatsApp booking template."
 keywords:
   - "varanasi to vindhyachal taxi"

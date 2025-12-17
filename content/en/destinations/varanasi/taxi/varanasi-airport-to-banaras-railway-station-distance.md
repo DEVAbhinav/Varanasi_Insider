@@ -5,8 +5,8 @@ date: "2025-11-12"
 lastUpdated: "2025-11-30"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Banaras Station Taxi ₹690 Flash | 27km, 45min Direct Drop"
-metaDescription: "Pre-book Varanasi Airport to Banaras Railway Station (Manduadih/BSBS) taxi at ₹690 flash rate. 27km, 45-60min. Driver waits at Gate 3. WhatsApp 9450301573"
+metaTitle: "VNS Airport → Banaras Station ₹690 | 27 km, 45 min Drop"
+metaDescription: "Airport to Banaras Railway Station (Manduadih): 27 km, 45-60 min. Sedan ₹750-950, flash ₹690. Platform drop included. Never miss your train →"
 description: "Never miss your train! Pre-book VNS to Banaras Railway Station taxi at ₹690. Flight tracking, platform drop, luggage assistance. 27km, 45-60min. Call 9450301573."
 keywords:
   - "varanasi airport to banaras railway station distance"
