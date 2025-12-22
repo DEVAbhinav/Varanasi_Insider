@@ -1,0 +1,350 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly#product",
+      "name": "Varanasi Gaya Prayagraj Tour Package for Elderly - 4N/5D Fatigue-Free Pilgrimage",
+      "description": "Complete 4-5 day Varanasi Gaya Prayagraj pilgrimage tour designed for elderly parents and families. Includes private AC transport, elderly-friendly hotels with accessibility features, VIP darshan slots, priest coordination for pind daan, and 24/7 medical support. Perfect for NRI families and senior citizens.",
+      "image": [
+        "https://www.kashitaxi.in/images/varanasi-ganga-aarti.jpg",
+        "https://www.kashitaxi.in/images/prayagraj.jpg",
+        "https://www.kashitaxi.in/images/vishnupad-temple-gaya.jpg"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "KashiTaxi"
+      },
+      "sku": "VGPT-ELDERLY-4N5D",
+      "mpn": "KASHITAXI-VGP-2026",
+      "category": "Tour Packages > Pilgrimage Tours > Elderly-Friendly Tours",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "32000",
+        "highPrice": "55000",
+        "offerCount": "3",
+        "priceValidUntil": "2026-03-31",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly",
+        "seller": {
+          "@type": "LocalBusiness",
+          "name": "KashiTaxi",
+          "telephone": "+91-9450301573",
+          "url": "https://www.kashitaxi.in"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "2 Adults Package",
+            "price": "45000",
+            "priceCurrency": "INR",
+            "description": "Most personalized experience for couples or parent-child pilgrimage",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "value": 2
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "3-4 Adults Family Package",
+            "price": "38000",
+            "priceCurrency": "INR",
+            "description": "Best value for small families, price per person",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "minValue": 3,
+              "maxValue": 4
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "5+ Adults Group Package",
+            "price": "32000",
+            "priceCurrency": "INR",
+            "description": "Group discount for larger families, price per person",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "minValue": 5
+            }
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "127",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh Kumar (NRI, USA)"
+          },
+          "reviewBody": "Brought my 78-year-old parents from California. KashiTaxi handled everything perfectly - the VIP darshan at Kashi Vishwanath, accessible hotels, and the pind daan ceremony at Gaya was arranged with such respect. My mother said it was the best trip of her life."
+        },
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya Sharma"
+          },
+          "reviewBody": "My father-in-law has diabetes and mobility issues. Was worried about the pilgrimage but KashiTaxi accommodated everything - meal timings, wheelchair assistance at temples, ground floor rooms. They truly understand elderly needs."
+        }
+      ]
+    },
+    {
+      "@type": "TouristTrip",
+      "@id": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly#trip",
+      "name": "Varanasi Gaya Prayagraj Pilgrimage Circuit - Elderly-Friendly",
+      "description": "A fatigue-free 4-5 day pilgrimage through India's three holiest cities: Varanasi (Kashi Vishwanath), Gaya (Vishnupad Temple), and Prayagraj (Triveni Sangam). Designed specifically for elderly pilgrims with mobility concerns.",
+      "touristType": ["Elderly Pilgrims", "Senior Citizens", "NRI Families", "Multi-generational Families"],
+      "itinerary": {
+        "@type": "ItemList",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "TouristAttraction",
+              "name": "Day 1: Arrival Varanasi + Ganga Aarti",
+              "description": "Airport/railway pickup, hotel check-in with accessibility assistance, rest period, evening Ganga Aarti at Dashashwamedh Ghat with seated viewing platform"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "TouristAttraction",
+              "name": "Day 2: Varanasi Deep Dive",
+              "description": "5:30 AM sunrise boat ride, early morning VIP darshan at Kashi Vishwanath Temple, Sarnath Buddhist site visit, evening Assi Ghat walk"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "TouristAttraction",
+              "name": "Day 3: Varanasi to Gaya",
+              "description": "260 km journey with 3 rest breaks, afternoon arrival, mandatory rest period, evening Vishnupad Temple darshan"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "TouristAttraction",
+              "name": "Day 4: Gaya - Pind Daan & Ancestral Rites",
+              "description": "Early morning Vishnupad Temple puja, pind daan ceremony with certified priest (if desired), Mangla Gauri Temple visit, optional Brahmayoni Hill"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "TouristAttraction",
+              "name": "Day 5: Gaya to Prayagraj + Triveni Sangam",
+              "description": "125 km journey to Prayagraj, Triveni Sangam boat ride and darshan, optional Anand Bhavan museum, departure"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "KashiTaxi",
+      "image": "https://www.kashitaxi.in/images/logo.png",
+      "url": "https://www.kashitaxi.in",
+      "telephone": "+91-9450301573",
+      "email": "info@kashitaxi.in",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Varanasi",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "221001",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.3176,
+        "longitude": 82.9739
+      },
+      "priceRange": "₹₹-₹₹₹",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/kashitaxi",
+        "https://www.instagram.com/kashitaxi"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "My mother is diabetic. Can you handle special meals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Before booking, we ask for a detailed medical form. We identify safe restaurants, avoid street sweets, and coordinate meal timing with insulin schedules. We're not nutritionists, but we're meticulous about dietary integrity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is travel insurance necessary for the Varanasi Gaya tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Highly recommended, not mandatory. Most international health insurance covers India. If your parents don't have it, we can guide you to quick-purchase policies (often 3-5% of package cost). Cover medical evacuation and hospitalization."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can my 82-year-old father with a walker participate in the pilgrimage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. We'll arrange car access to temple entrances (where possible), accessible routes within temples, seating for darshan, extra assistance from our driver, and modified activities (skip stairs, reduce walking distances). The pilgrimage isn't diminished—it's adapted."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my parents want to extend the trip?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tell us. We can add days, adjust the pace, or shift focus. If they want to spend 3 days in Varanasi instead of 2, we reschedule. If they want to add Ayodhya or Mathura, we build it in. Flexibility is built into our model."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if someone gets sick mid-trip?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We have hospital partnerships in all three cities. We'll arrange doctor consultation (usually via WhatsApp video initially). If hospitalization is needed, we handle admissions, insurance coordination, and stay with your parents until discharge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is the best time to visit Varanasi, Gaya, and Prayagraj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "October-February (winter) is ideal. Varanasi averages 20-25°C. March-May is hot (35-40°C). June-September is monsoon season. Winter is ideal for elderly pilgrims who tire easily in heat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the ideal duration for Kashi Gaya Prayag tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We recommend 4-5 days for a fatigue-free experience. While the circuit can be completed in 3 days, 4-5 days allows for proper rest periods critical for elderly travelers and deeper spiritual engagement at each site."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does the Varanasi Gaya Prayagraj tour package cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our packages range from ₹32,000-55,000 per person depending on group size (2-6+ adults), hotel choice (3-star vs 4-star), and season (peak Oct-March vs off-season)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you arrange pind daan ceremony at Gaya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, pind daan is the emotional centerpiece of Gaya pilgrimage. We connect you with certified priests at Vishnupad Temple, handle all logistics, and allocate 90 minutes minimum for this sacred ritual. We never rush ancestral rites."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the tour suitable for NRI families visiting from abroad?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. We specialize in NRI pilgrimage packages. We speak fluent English, offer WhatsApp video coordination across timezones, handle travel insurance assistance, and understand the unique challenges of returning to India after years abroad."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What hotels do you use for elderly pilgrims?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We use personally vetted 3-4 star hotels with: elevated toilet seats, grab bars in bathrooms, non-slip floors, ground floor or elevator access, firm modern mattresses (critical for back pain), and 24-hour room service. Comfort isn't luxury for elderly—it's healthcare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you arrange VIP darshan at Kashi Vishwanath Temple?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We book early morning darshan slots (5:30-7 AM) when crowds are 90% lower, and leverage our local network for VIP entry lanes with valid documentation. We never force 2+ hour waits on elderly pilgrims."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tour Packages",
+          "item": "https://www.kashitaxi.in/en/tour-packages"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi Gaya Prayagraj Tour Package for Elderly",
+          "item": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly#webpage",
+      "url": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly",
+      "name": "Varanasi Gaya Tour Package: Fatigue-Free Pilgrimage for Elderly Parents & Families (2026)",
+      "description": "Book our 4-5 day Varanasi Gaya Prayagraj tour package with private transport, elderly-friendly hotels & expert local guides. No crowds, no stress—pure devotion.",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://www.kashitaxi.in#website"
+      },
+      "about": {
+        "@id": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly#product"
+      },
+      "breadcrumb": {
+        "@id": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly#breadcrumb"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/images/varanasi-ganga-aarti.jpg"
+      },
+      "datePublished": "2025-12-22",
+      "dateModified": "2025-12-22"
+    }
+  ]
+}
