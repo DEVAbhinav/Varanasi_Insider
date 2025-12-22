@@ -64,8 +64,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": "25.3109",
-          "longitude": "83.0107"
+          "latitude": "25.3063",
+          "longitude": "83.0102"
         }
       },
       "image": ["https://www.kashitaxi.in/images/ganga-aarti.jpeg"],
