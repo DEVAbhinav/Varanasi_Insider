@@ -204,6 +204,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi/#product",
+      "name": "Wedding Tempo Traveller Varanasi - Barat & Group Rental",
+      "description": "Book wedding tempo traveller in Varanasi. 12-17 seater AC vehicles for barat, sangeet, reception. Decorated bridal car ₹4000, group packages ₹7500-25000.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "Wedding Transportation",
+      "image": "https://www.kashitaxi.in/images/tempo-traveller.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "4000",
+        "highPrice": "25000",
+        "offerCount": "6",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "234",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi#breadcrumbs",
       "itemListElement": [

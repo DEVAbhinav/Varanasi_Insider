@@ -53,5 +53,26 @@
     "Sonarpura Crossing drop points",
     "Hotel Heritage Inn parking",
     "Shivala quiet zone etiquette"
-  ]
+  ],
+  "makesOffer": {
+    "@type": "Product",
+    "name": "Shivala Ghat Taxi Service Varanasi",
+    "description": "Book taxi to Shivala Ghat Varanasi. City drop ₹450, airport ₹900, ghat hop ₹1800. Sonarpura Crossing expertise, quiet-area drivers.",
+    "category": "Ghat Taxi Service",
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "450",
+      "highPrice": "1800",
+      "availability": "https://schema.org/InStock",
+      "priceValidUntil": "2026-12-31"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "189",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  }
 }

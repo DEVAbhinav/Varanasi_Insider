@@ -211,6 +211,33 @@
       }
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi/#product",
+      "name": "Buddhist Circuit Tour from Varanasi - 5-7 Day Package",
+      "description": "Book Buddhist circuit tour from Varanasi by tempo traveller. Sarnath, Bodh Gaya, Rajgir, Nalanda, Kushinagar, Lumbini option. ₹35,000-55,000 for group.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Buddhist Pilgrimage Tour",
+      "image": "https://www.kashitaxi.in/images/blogGaya.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "35000",
+        "highPrice": "55000",
+        "offerCount": "4",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "89",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi#breadcrumbs",
       "itemListElement": [

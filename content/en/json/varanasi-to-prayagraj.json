@@ -69,6 +69,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-prayagraj/#product",
+      "name": "Varanasi to Prayagraj Taxi - Sangam Trip",
+      "description": "Book Varanasi to Prayagraj taxi for Triveni Sangam. Same-day return ₹3500, 1N/2D package ₹5500. 120km, 2.5-3 hours. Kumbh 2025 special rates.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Outstation Taxi",
+      "image": "https://www.kashitaxi.in/images/prayagraj.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "3500",
+        "highPrice": "5500",
+        "offerCount": "2",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "423",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-prayagraj/#breadcrumbs",
       "itemListElement": [

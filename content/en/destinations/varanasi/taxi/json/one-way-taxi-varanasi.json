@@ -184,6 +184,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/one-way-taxi-varanasi/#product",
+      "name": "One-Way Taxi Varanasi - Drop Cab Service",
+      "description": "Book one-way taxi in Varanasi. Airport transfer ₹600, city to station ₹500, outstation drops available. No return fare, pay only for distance traveled.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "One-Way Taxi Service",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "500",
+        "highPrice": "12000",
+        "offerCount": "8",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "534",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/one-way-taxi-varanasi#breadcrumbs",
       "itemListElement": [

@@ -83,6 +83,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/sunrise-boat-ride-ganges/#product",
+      "name": "Sunrise Boat Ride Varanasi - Ganges Morning Tour",
+      "description": "Book sunrise boat ride in Varanasi. 1-2 hour tour from Assi to Manikarnika Ghat. Private boat ₹500-1000, shared ₹100-200/person. Best sunrise experience.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Boat Ride Experience",
+      "image": "https://www.kashitaxi.in/images/sunrise-boat-ride.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "100",
+        "highPrice": "1000",
+        "offerCount": "4",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "567",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/sunrise-boat-ride-ganges#breadcrumbs",
       "itemListElement": [

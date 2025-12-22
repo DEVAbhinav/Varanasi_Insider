@@ -81,6 +81,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti/#product",
+      "name": "Evening Boat Ride Varanasi - Ganga Aarti View",
+      "description": "Book evening boat ride for Ganga Aarti in Varanasi. Shared ₹250-500, private ₹1500-3000, motorboat ₹4000-6000. Best river view of Dashashwamedh Aarti.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Boat Ride Experience",
+      "image": "https://www.kashitaxi.in/images/eveningAartiHero.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "250",
+        "highPrice": "10000",
+        "offerCount": "5",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "789",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti/#breadcrumbs",
       "itemListElement": [

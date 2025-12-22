@@ -238,6 +238,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi/#product",
+      "name": "24/7 Taxi Varanasi - Night Cab & Emergency Service",
+      "description": "24 hour taxi service in Varanasi. Night cab booking, early morning airport transfer, emergency rides. Safe drivers, GPS tracking, instant pickup.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "24/7 Taxi Service",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "500",
+        "highPrice": "1500",
+        "offerCount": "6",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "678",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi#breadcrumbs",
       "itemListElement": [

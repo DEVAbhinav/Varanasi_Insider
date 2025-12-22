@@ -206,6 +206,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi/#product",
+      "name": "Airport to Taj Gateway Varanasi - Hotel Transfer",
+      "description": "Book airport to Taj Gateway Varanasi transfer. Sedan ₹900, SUV ₹1200, Innova ₹1500. Flight tracking, meet & greet, English-speaking drivers.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "Airport Hotel Transfer",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "900",
+        "highPrice": "2000",
+        "offerCount": "4",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "145",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi#breadcrumbs",
       "itemListElement": [

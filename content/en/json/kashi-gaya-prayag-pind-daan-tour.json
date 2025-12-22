@@ -175,6 +175,33 @@
       }
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour/#product",
+      "name": "Kashi Gaya Prayag Pind Daan Tour - 4 Day Ritual Circuit",
+      "description": "Book Kashi Gaya Prayag pind daan tour by tempo traveller. Vishwanath darshan, Gaya pind daan, Sangam tarpan. ₹30,800-37,400 for group (4D/3N).",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Hindu Pilgrimage Tour",
+      "image": "https://www.kashitaxi.in/images/prayagraj.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "30800",
+        "highPrice": "37400",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "134",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour#breadcrumbs",
       "itemListElement": [

@@ -2,38 +2,135 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "@id": "https://www.kashitaxi.in/en/outstation-cabs-from-varanasi/#article",
-      "headline": "Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)",
-      "description": "Daily outstation cabs from Varanasi: Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 seater) with luggage carrier, GST invoice, fares, routes & FAQs.",
-      "url": "https://www.kashitaxi.in/en/outstation-cabs-from-varanasi/",
-      "image": [
-        "https://www.kashitaxi.in/images/tempotraveller.png"
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Varanasi Taxi",
+        "Kashitaxi"
       ],
-      "author": {
-        "@type": "Person",
-        "name": "Kamal Nayan Singh"
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
       },
-      "publisher": {
-        "@id": "https://www.kashitaxi.in#organization",
-        "@type": "Organization",
-        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
-      },
-      "datePublished": "2025-08-10",
-      "dateModified": "2025-08-10",
-      "inLanguage": "en-IN",
-      "articleSection": [
-        "Popular Outstation Routes",
-        "Choose Your Vehicle",
-        "Fare Guidance",
-        "Luggage Carrier",
-        "FAQs"
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
       ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/outstation-cabs-from-varanasi/#product",
+      "name": "Outstation Cabs from Varanasi (Innova, Ertiga, SUV, Tempo Traveller)",
+      "description": "Book outstation cabs from Varanasi - Innova Crysta, Ertiga, SUVs & Tempo Traveller (6-17 seater). Luggage carrier available. Routes to Ayodhya, Prayagraj, Bodhgaya, Lucknow. GST invoice provided.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Outstation Cab Service",
+      "image": "https://www.kashitaxi.in/images/tempotraveller.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "12",
+        "highPrice": "35",
+        "offerCount": "5",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Ertiga Outstation (7 Seater)",
+            "description": "₹12-14 per km, min 250 km/day",
+            "price": 12,
+            "priceCurrency": "INR",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 12,
+              "priceCurrency": "INR",
+              "unitText": "PER_KM"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Innova Crysta Outstation (6-7 Seater)",
+            "description": "₹16-18 per km, min 250 km/day",
+            "price": 16,
+            "priceCurrency": "INR",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 16,
+              "priceCurrency": "INR",
+              "unitText": "PER_KM"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "12 Seater Tempo Traveller Outstation",
+            "description": "₹24 per km, min 250 km/day",
+            "price": 24,
+            "priceCurrency": "INR",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 24,
+              "priceCurrency": "INR",
+              "unitText": "PER_KM"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "17 Seater Tempo Traveller Outstation",
+            "description": "₹27 per km, min 250 km/day",
+            "price": 27,
+            "priceCurrency": "INR",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 27,
+              "priceCurrency": "INR",
+              "unitText": "PER_KM"
+            },
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Force Urbania Outstation (Premium)",
+            "description": "₹34-35 per km, min 250 km/day",
+            "price": 34,
+            "priceCurrency": "INR",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": 34,
+              "priceCurrency": "INR",
+              "unitText": "PER_KM"
+            },
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "423",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
     },
     {
       "@type": "FAQPage",
       "@id": "https://www.kashitaxi.in/en/outstation-cabs-from-varanasi/#faq",
       "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the outstation cab rate from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ertiga ₹12-14/km, Innova Crysta ₹16-18/km, 12 Seater Tempo ₹24/km, 17 Seater Tempo ₹27/km, Force Urbania ₹34-35/km. Minimum 250 km/day. Driver allowance ₹400-800/night extra."
+          }
+        },
         {
           "@type": "Question",
           "name": "Can I choose 6 or 7 seats in Innova?",
@@ -60,39 +157,12 @@
         },
         {
           "@type": "Question",
-          "name": "Do you provide bills?",
+          "name": "Do you provide GST bills?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Yes—WhatsApp estimate, trip sheet, and GST invoice on eligible bookings."
           }
-        },
-        {
-          "@type": "Question",
-          "name": "What if my plan changes mid-trip?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tell your chauffeur and message dispatch—fare adjusts transparently to actual km/days."
-          }
         }
-      ]
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://www.kashitaxi.in#organization",
-      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
-      "legalName": "Vinayak Travels Varanasi",
-      "alternateName": [
-        "Varanasi Taxi",
-        "Kashitaxi"
-      ],
-      "url": "https://www.kashitaxi.in/",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://www.kashitaxi.in/favicon.jpeg"
-      },
-      "sameAs": [
-        "https://wa.me/919935474730",
-        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
       ]
     },
     {
@@ -108,13 +178,13 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services",
-          "item": "https://www.kashitaxi.in/en/services/"
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)",
+          "name": "Outstation Cabs from Varanasi",
           "item": "https://www.kashitaxi.in/en/outstation-cabs-from-varanasi/"
         }
       ]

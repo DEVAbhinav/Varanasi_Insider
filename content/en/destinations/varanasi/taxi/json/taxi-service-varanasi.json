@@ -199,6 +199,33 @@
       }
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi/#product",
+      "name": "Taxi Service in Varanasi - Book Cab Online 24/7",
+      "description": "Book taxi/cab in Varanasi online 24/7. Airport transfer from ₹600, city tours from ₹1,200, outstation travel. Fixed fares, professional drivers, trusted service since 2015.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "Taxi Service",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "600",
+        "highPrice": "5000",
+        "offerCount": "6",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "1247",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi#breadcrumbs",
       "itemListElement": [

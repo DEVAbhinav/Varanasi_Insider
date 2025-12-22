@@ -21,14 +21,99 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller/#product",
+      "name": "Varanasi to Vindhyachal Tempo Traveller (Maa Vindhyavasini Darshan)",
+      "description": "Book Varanasi to Vindhyachal Tempo Traveller for Maa Vindhyavasini darshan. Complete Trikon Parikrama - Vindhyavasini, Kali Khoh, Ashtabhuja temples. 80 km one-way, same-day trip.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Pilgrimage Day Trip",
+      "image": "https://www.kashitaxi.in/images/tempotraveller.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "5500",
+        "highPrice": "8500",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "9 Seater Tempo to Vindhyachal",
+            "price": 5500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "12 Seater Tempo to Vindhyachal",
+            "price": 6200,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "17 Seater Tempo to Vindhyachal",
+            "price": 8500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "198",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Varanasi to Vindhyachal Tempo Traveller price?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "9 Seater at ₹5,500, 12 Seater at ₹6,200, and 17 Seater at ₹8,500 for 8-hour package including fuel, tolls, parking. Navratri or overnight at ₹7,200–₹8,800."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Vindhyachal from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vindhyachal is 80 km from Varanasi (2-2.5 hours drive). Same-day trip easily possible with 4-5 hours for darshan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does Trikon Parikrama take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Expect 2.5–3 hours to cover Maa Vindhyavasini, Kali Khoh, and Ashtabhuja temples when starting around 5:30 AM to beat crowds."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you arrange priests and VIP darshan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, registered Vindhyachal pandas arranged in advance with fixed dakshina. VIP darshan passes available during Navratri."
+          }
+        }
+      ]
+    },
+    {
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller#trip",
-      "name": "Varanasi to Vindhyachal Tempo Traveller Charter",
-      "description": "Navratri-ready Tempo Traveller from Varanasi to Vindhyachal with priest coordination, elder-care kits, and ₹6,200 transparent fare for 12 seaters.",
-      "travelMode": "BUS",
+      "name": "Vindhyachal Darshan Flow",
       "itinerary": {
         "@type": "ItemList",
-        "name": "Vindhyachal Darshan Flow",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -47,78 +132,8 @@
           }
         ]
       },
-      "offers": {
-        "@type": "Offer",
-        "price": 6200,
-        "priceCurrency": "INR",
-        "name": "Vindhyachal 8-hour Tempo Traveller package",
-        "url": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller"
-      },
-      "areaServed": [
-        {
-          "@type": "City",
-          "name": "Varanasi"
-        },
-        {
-          "@type": "City",
-          "name": "Vindhyachal"
-        }
-      ],
       "provider": {
         "@id": "https://www.kashitaxi.in#organization"
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the fare for a Tempo Traveller from Varanasi to Vindhyachal?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A 12 seater costs ₹6,200 for an 8-hour charter including fuel, tolls, parking, and driver; Navratri or overnight extensions bill at ₹7,200–₹7,800."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How long does the Trikon Parikrama take?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Expect 2.5–3 hours to cover Maa Vindhyavasini, Kali Khoh, and Ashtabhuja when starting around 5:30 AM to beat crowds."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you arrange priests and VIP darshan passes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Registered Vindhyachal pandas are scheduled in advance, fix dakshina upfront, and guide devotees through rituals and VIP lanes."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the route safe for seniors?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Roads are smooth and Travellers carry walking sticks, folding stools, and ORS sachets to keep elders comfortable."
-          }
-        }
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller#webpage",
-      "url": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller",
-      "name": "Varanasi to Vindhyachal Tempo Traveller",
-      "description": "Maa Vindhyavasini darshan Tempo Traveller charter with priest coordination, Navratri crowd strategy, and ₹6,200 fare from Varanasi.",
-      "inLanguage": "en-IN",
-      "datePublished": "2025-10-09",
-      "dateModified": "2025-10-09",
-      "publisher": {
-        "@id": "https://www.kashitaxi.in#organization",
-        "@type": "Organization",
-        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
       }
     },
     {
@@ -134,14 +149,14 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services",
-          "item": "https://www.kashitaxi.in/en/services/"
+          "name": "Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/tempo-traveller-varanasi/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi Taxi | Vinayak Travels Varanasi",
-          "item": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller"
+          "name": "Varanasi to Vindhyachal Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal-tempo-traveller/"
         }
       ]
     }

@@ -21,27 +21,92 @@
       ]
     },
     {
-      "@type": "TravelAction",
-      "name": "Varanasi to Prayagraj by Tempo Traveller",
-      "description": "Book a same-day, all-inclusive Tempo Traveller package from Varanasi to Prayagraj for ₹8,500.",
-      "agent": {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller/#product",
+      "name": "Varanasi to Prayagraj Tempo Traveller (Triveni Sangam Day Trip)",
+      "description": "Book a same-day Tempo Traveller from Varanasi to Prayagraj. Visit Triveni Sangam, Hanuman Mandir, and Allahabad Fort. AC vehicle, experienced driver, fuel, tolls included. 125 km one-way, 3-4 hours journey.",
+      "brand": {
         "@id": "https://www.kashitaxi.in#organization"
       },
-      "fromLocation": {
-        "@type": "City",
-        "name": "Varanasi"
-      },
-      "toLocation": {
-        "@type": "City",
-        "name": "Prayagraj"
-      },
+      "category": "Tempo Traveller Day Trip",
+      "image": "https://www.kashitaxi.in/images/tempotraveller.png",
       "offers": {
-        "@type": "Offer",
-        "name": "All-Inclusive Same-Day Tour Package",
-        "price": 8500,
+        "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "url": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller"
+        "lowPrice": "7500",
+        "highPrice": "12000",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "12 Seater Tempo Traveller to Prayagraj",
+            "price": 7500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "12 Seater AC Premium with Sangam Boat",
+            "price": 8500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "17 Seater Tempo Traveller to Prayagraj",
+            "price": 12000,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "reviewCount": "189",
+        "bestRating": "5",
+        "worstRating": "1"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Varanasi to Prayagraj Tempo Traveller price?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12 Seater Tempo Traveller starts at ₹7,500 for same-day return. Premium package with Sangam boat ride at ₹8,500. 17 Seater available at ₹12,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does Varanasi to Prayagraj take by Tempo Traveller?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The journey takes 3-4 hours one way (125 km via NH-2). Day trip allows 4-5 hours for sightseeing at Sangam."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can we do Triveni Sangam snan in a day trip?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! Same-day Sangam snan is our most popular option. Depart 5 AM, reach by 9 AM, complete snan ritual, visit temples, return by 6-7 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is included in Prayagraj Tempo Traveller package?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Package includes AC Tempo Traveller, experienced driver, fuel, toll taxes, and parking. Sangam boat ride (₹500-800) extra unless premium package."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -56,13 +121,13 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services",
-          "item": "https://www.kashitaxi.in/en/services/"
+          "name": "Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/tempo-traveller-varanasi/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi Taxi | Vinayak Travels Varanasi",
+          "name": "Varanasi to Prayagraj Tempo Traveller",
           "item": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller/"
         }
       ]

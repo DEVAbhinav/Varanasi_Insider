@@ -176,6 +176,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-city-tour-cab/#product",
+      "name": "Varanasi City Tour Cab - Kashi Darshan Package",
+      "description": "Book Varanasi city tour cab. Half-day ₹1200, full-day ₹2000. Visit Kashi Vishwanath, Dashashwamedh Ghat, Sarnath. AC vehicle, local driver guide.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "City Tour Package",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "600",
+        "highPrice": "2500",
+        "offerCount": "5",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "456",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-city-tour-cab#breadcrumbs",
       "itemListElement": [

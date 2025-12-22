@@ -21,10 +21,108 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller/#product",
+      "name": "Varanasi to Kushinagar Tempo Traveller (Buddhist Circuit 1N/2D)",
+      "description": "Book Varanasi to Kushinagar Tempo Traveller for Buddhist pilgrimage. Visit Mahaparinirvana Temple, Ramabhar Stupa. 260-280 km one way, 7-8 hours journey. AC vehicle with experienced driver.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Buddhist Circuit Tour",
+      "image": "https://www.kashitaxi.in/images/blogGaya.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "14000",
+        "highPrice": "19000",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "12 Seater Tempo to Kushinagar 1N/2D",
+            "description": "540-560 km round trip @ ₹24/km + driver allowance",
+            "price": 14600,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "17 Seater Tempo to Kushinagar 1N/2D",
+            "description": "540-560 km round trip @ ₹27/km + driver allowance",
+            "price": 16500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Luxury Urbania to Kushinagar 1N/2D",
+            "description": "Premium comfort for senior pilgrims",
+            "price": 19000,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "143",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Varanasi to Kushinagar Tempo Traveller price?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12 Seater at ₹14,600 and 17 Seater at ₹16,500 for 1N/2D trip (540-560 km). Includes AC vehicle, driver, fuel. Driver night allowance ₹600-800 extra. Lodging not included."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the drive from Varanasi to Kushinagar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Approx 260–280 km one way (7–8 hours with disciplined halts). Total round trip 540-560 km."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is same-day Varanasi to Kushinagar return possible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not recommended—14+ hours driving is exhausting and reduces pilgrimage quality. Overnight stay recommended for meditation at Mahaparinirvana Temple."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which vehicle for 10-12 Buddhist pilgrims?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12 seater for comfort with aisle space. 17 seater if >11 pax or bulky luggage. Urbania for senior pilgrims needing premium comfort."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can we combine Kushinagar with Bodh Gaya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not in 2 days—too compressed for quality meditation. Recommend separate circuits or extend to 4-5 days for full Buddhist circuit (Varanasi-Sarnath-Kushinagar-Bodhgaya)."
+          }
+        }
+      ]
+    },
+    {
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller#trip",
-      "name": "Varanasi to Kushinagar Tempo Traveller 1N/2D",
-      "description": "Varanasi to Kushinagar Tempo Traveller pilgrimage: Mahaparinirvana Temple meditation, Ramabhar Stupa reflection, dawn & dusk practice windows.",
+      "name": "Varanasi to Kushinagar Buddhist Pilgrimage 1N/2D",
       "itinerary": {
         "@type": "ItemList",
         "itemListElement": [
@@ -42,91 +140,6 @@
       },
       "provider": {
         "@id": "https://www.kashitaxi.in#organization"
-      },
-      "areaServed": [
-        {
-          "@type": "City",
-          "name": "Varanasi"
-        },
-        {
-          "@type": "Place",
-          "name": "Kushinagar"
-        }
-      ],
-      "offers": {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "priceSpecification": {
-          "@type": "PriceSpecification",
-          "description": "12 seater example ~540–560 km @ ₹24/km + allowance + tolls (₹14,600–15,300 excl. lodging)."
-        }
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://www.kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How long is the drive from Varanasi to Kushinagar?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Approx 260–280 km (7–8 hours with disciplined halts)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is a same-day return practical?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Not recommended—fatigue reduces meditation quality; stay 1 night."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Ideal meditation window?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Dawn hush inside Mahaparinirvana precinct + golden hour Ramabhar Stupa."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Which vehicle size for 10–12 pilgrims?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "12 seater for aisle & cushion stacking; 17 seater if >11 pax or bulky luggage."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do we combine with Bodh Gaya in 2 days?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Too compressed; extend or separate circuits for quality practice windows."
-          }
-        }
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://www.kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller#webpage",
-      "url": "https://www.kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller",
-      "name": "Varanasi to Kushinagar Tempo Traveller Guide",
-      "datePublished": "2025-09-19",
-      "dateModified": "2025-09-19",
-      "inLanguage": "en-IN",
-      "primaryImageOfPage": {
-        "@type": "ImageObject",
-        "url": "https://www.kashitaxi.in/images/blogGaya.png"
-      },
-      "about": {
-        "@id": "https://www.kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller#trip"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "@id": "https://www.kashitaxi.in#organization",
-        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
       }
     },
     {
@@ -142,14 +155,14 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services",
-          "item": "https://www.kashitaxi.in/en/services/"
+          "name": "Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/tempo-traveller-varanasi/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi Taxi | Vinayak Travels Varanasi",
-          "item": "https://www.kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller"
+          "name": "Varanasi to Kushinagar Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller/"
         }
       ]
     }

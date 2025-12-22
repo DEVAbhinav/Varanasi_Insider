@@ -223,6 +223,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service/#product",
+      "name": "Taj Ganges Varanasi Taxi - Premium Hotel Guest Service",
+      "description": "Book taxi for Taj Ganges Varanasi guests. Sunrise ghat tour ₹800, sunset aarti ₹1000, airport transfer ₹1500. 50% cheaper than hotel concierge, English-speaking drivers.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "Hotel Guest Transportation",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "800",
+        "highPrice": "4000",
+        "offerCount": "8",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "178",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service#breadcrumbs",
       "itemListElement": [

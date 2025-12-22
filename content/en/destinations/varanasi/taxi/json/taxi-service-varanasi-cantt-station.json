@@ -71,5 +71,26 @@
     "Cantt circulating area access",
     "Platform 1 vs Platform 8 pickup coordination",
     "Late-night safe station exits"
-  ]
+  ],
+  "makesOffer": {
+    "@type": "Product",
+    "name": "Taxi at Varanasi Cantt Station - Railway Pickup Service",
+    "description": "Book taxi at Varanasi Cantt railway station. Godowlia ₹450, Assi ₹550, Airport ₹900. PNR tracking, platform coordination, 24/7 service.",
+    "category": "Railway Station Taxi",
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "450",
+      "highPrice": "900",
+      "availability": "https://schema.org/InStock",
+      "priceValidUntil": "2026-12-31"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "567",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  }
 }

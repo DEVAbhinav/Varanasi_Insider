@@ -77,6 +77,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya/#product",
+      "name": "Varanasi to Ayodhya Taxi - Ram Mandir Trip",
+      "description": "Book Varanasi to Ayodhya taxi for Ram Mandir darshan. One-way sedan ₹2500, same-day return ₹5000. 200km, 4-5 hours. Professional drivers.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Outstation Taxi",
+      "image": "https://www.kashitaxi.in/images/AyodhyaTaxi1.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "2500",
+        "highPrice": "6500",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "567",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya/#breadcrumbs",
       "itemListElement": [

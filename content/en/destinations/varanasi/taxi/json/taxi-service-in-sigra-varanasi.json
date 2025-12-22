@@ -71,5 +71,26 @@
     "Sigra Crossing traffic timings",
     "Mahmoorganj back routes",
     "Rath Yatra crossing detours"
-  ]
+  ],
+  "makesOffer": {
+    "@type": "Product",
+    "name": "Taxi Service in Sigra Varanasi - Local Cab Booking",
+    "description": "Book taxi from Sigra Varanasi. Airport ₹800, Kashi Vishwanath ₹1600, Sarnath ₹1800. Fast 10-15 min pickup, fixed fares, no surge pricing.",
+    "category": "Local Taxi Service",
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "800",
+      "highPrice": "1800",
+      "availability": "https://schema.org/InStock",
+      "priceValidUntil": "2026-12-31"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "312",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  }
 }

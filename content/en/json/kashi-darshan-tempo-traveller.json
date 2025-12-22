@@ -21,18 +21,99 @@
       ]
     },
     {
-      "@type": "TouristTrip",
-      "name": "Kashi Darshan by Tempo Traveller",
-      "description": "Explore Varanasi's sacred sites with our 8-hour/80km Kashi Darshan tour by Tempo Traveller for a fixed price of ₹5,500.",
-      "provider": {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller/#product",
+      "name": "Kashi Darshan by Tempo Traveller (Full Day Temple Tour)",
+      "description": "Book Kashi Darshan by Tempo Traveller in Varanasi. Visit Kashi Vishwanath, Sankat Mochan, Durga Temple, BHU Temple and more in 8 hours/80 km package. AC vehicle with experienced driver.",
+      "brand": {
         "@id": "https://www.kashitaxi.in#organization"
       },
+      "category": "Temple Tour Package",
+      "image": "https://www.kashitaxi.in/images/tempotraveller.png",
       "offers": {
-        "@type": "Offer",
-        "name": "8-Hour/80km City Tour Package",
-        "price": 5500,
+        "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "url": "https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller"
+        "lowPrice": "4500",
+        "highPrice": "7500",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "9 Seater Tempo Kashi Darshan",
+            "price": 4500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "12 Seater Tempo Kashi Darshan",
+            "price": 5500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "17 Seater Tempo Kashi Darshan",
+            "price": 7500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "312",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Kashi Darshan Tempo Traveller price?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "9 Seater at ₹4,500, 12 Seater at ₹5,500, and 17 Seater at ₹7,500 for 8 hours/80 km package. Driver batta, fuel, and parking included."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which temples are covered in Kashi Darshan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kashi Vishwanath Temple, Sankat Mochan Hanuman Temple, Durga Temple (Monkey Temple), Tulsi Manas Mandir, New Vishwanath Temple at BHU, and Bharat Mata Temple."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is Kashi Darshan by Tempo Traveller?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standard package is 8 hours with 80 km limit. Starts from hotel pickup, covers 6-8 temples, and returns to hotel. Extra hours at ₹500/hr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Ganga Aarti included in Kashi Darshan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evening Ganga Aarti at Dashashwamedh Ghat can be included. Request morning start (6 AM) or evening end (8 PM) to accommodate Aarti timing."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "TouristTrip",
+      "@id": "https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller/#trip",
+      "name": "Kashi Darshan Temple Circuit",
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
       },
       "itinerary": {
         "@type": "ItemList",
@@ -77,13 +158,13 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services",
-          "item": "https://www.kashitaxi.in/en/services/"
+          "name": "Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/tempo-traveller-varanasi/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi Taxi | Vinayak Travels Varanasi",
+          "name": "Kashi Darshan Tempo Traveller",
           "item": "https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller/"
         }
       ]

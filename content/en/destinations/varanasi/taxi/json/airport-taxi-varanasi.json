@@ -169,6 +169,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-taxi-varanasi/#product",
+      "name": "Varanasi Airport Taxi - Book Cab from LBS Airport",
+      "description": "Book Varanasi Airport taxi from Lal Bahadur Shastri International Airport (VNS/LBS). Sedan ₹600, SUV ₹800, Innova ₹900. Fixed fares, 24/7 service, meet & greet available.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "Airport Transfer",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "600",
+        "highPrice": "1200",
+        "offerCount": "4",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "876",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-taxi-varanasi#breadcrumbs",
       "itemListElement": [

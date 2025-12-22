@@ -53,5 +53,26 @@
     "Maidagin legal drop point",
     "No photography cremation etiquette",
     "Sacred lane walking route"
-  ]
+  ],
+  "makesOffer": {
+    "@type": "Product",
+    "name": "Manikarnika Ghat Taxi Varanasi - Sacred Tour",
+    "description": "Book taxi to Manikarnika Ghat Varanasi. Maidagin drop ₹450, evening sacred tour ₹1300, airport pickup ₹900. Etiquette briefing, respectful drivers.",
+    "category": "Sacred Site Taxi",
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "450",
+      "highPrice": "1800",
+      "availability": "https://schema.org/InStock",
+      "priceValidUntil": "2026-12-31"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "267",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  }
 }

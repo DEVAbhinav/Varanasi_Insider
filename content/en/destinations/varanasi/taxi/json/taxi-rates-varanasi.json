@@ -201,6 +201,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-rates-varanasi/#product",
+      "name": "Varanasi Taxi Rates 2026 - Cab Fare Chart",
+      "description": "Varanasi taxi rates & fare chart 2026. Airport ₹500-800, city tour ₹1500-2500, outstation ₹12/km. No hidden charges, transparent pricing.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "Taxi Fare Guide",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "500",
+        "highPrice": "8000",
+        "offerCount": "15",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "923",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-rates-varanasi#breadcrumbs",
       "itemListElement": [

@@ -139,6 +139,33 @@
       }
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/bodhgaya-rajgir-nalanda-tempo-traveller-tour/#product",
+      "name": "Bodh Gaya Rajgir Nalanda Tour - 3 Day Buddhist Circuit",
+      "description": "Book 2-3 day Bodh Gaya Rajgir Nalanda tempo traveller tour from Varanasi. Bodhi Tree meditation, Vulture Peak, Nalanda ruins. ₹21,500-22,600 for group.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Buddhist Pilgrimage Tour",
+      "image": "https://www.kashitaxi.in/images/blogGaya.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "21500",
+        "highPrice": "22600",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "156",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/bodhgaya-rajgir-nalanda-tempo-traveller-tour#breadcrumbs",
       "itemListElement": [

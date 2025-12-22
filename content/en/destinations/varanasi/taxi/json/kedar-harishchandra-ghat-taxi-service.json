@@ -53,5 +53,26 @@
     "Kedar Gate access",
     "Harishchandra cremation etiquette",
     "South Indian pilgrim needs"
-  ]
+  ],
+  "makesOffer": {
+    "@type": "Product",
+    "name": "Kedar Harishchandra Ghat Taxi - Pilgrim Service",
+    "description": "Book taxi to Kedar & Harishchandra Ghat Varanasi. Drop ₹400, pilgrim circuit ₹1200, airport ₹900. Respectful drivers, multi-language support.",
+    "category": "Pilgrim Taxi Service",
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "400",
+      "highPrice": "1500",
+      "availability": "https://schema.org/InStock",
+      "priceValidUntil": "2026-12-31"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "234",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  }
 }

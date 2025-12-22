@@ -45,6 +45,33 @@
       }
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/pilgrimage-yatra-tours-tempo-traveller-varanasi/#product",
+      "name": "Pilgrimage Yatra Tours from Varanasi - Tempo Traveller",
+      "description": "Book pilgrimage tours from Varanasi by tempo traveller. Ayodhya, Chitrakoot, Vindhyachal, Naimisaranya, Bodhgaya. Custom packages, group rates.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Pilgrimage Tour Package",
+      "image": "https://www.kashitaxi.in/images/tempo-travellar-outside-front-p.jpeg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "7500",
+        "highPrice": "45000",
+        "offerCount": "10",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "456",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/pilgrimage-yatra-tours-tempo-traveller-varanasi/#breadcrumbs",
       "itemListElement": [

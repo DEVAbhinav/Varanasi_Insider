@@ -21,27 +21,92 @@
       ]
     },
     {
-      "@type": "TravelAction",
-      "name": "Varanasi to Ayodhya by Tempo Traveller",
-      "description": "Book a one-day, all-inclusive Tempo Traveller package from Varanasi to Ayodhya for ₹14,500.",
-      "agent": {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller/#product",
+      "name": "Varanasi to Ayodhya Tempo Traveller (Ram Mandir Day Trip)",
+      "description": "Book a one-day, all-inclusive Tempo Traveller package from Varanasi to Ayodhya. Visit Ram Janmabhoomi Temple with AC vehicle, experienced driver, fuel, tolls included. 200 km one-way, 5-6 hours journey.",
+      "brand": {
         "@id": "https://www.kashitaxi.in#organization"
       },
-      "fromLocation": {
-        "@type": "City",
-        "name": "Varanasi"
-      },
-      "toLocation": {
-        "@type": "City",
-        "name": "Ayodhya"
-      },
+      "category": "Tempo Traveller Day Trip",
+      "image": "https://www.kashitaxi.in/images/tempotraveller.png",
       "offers": {
-        "@type": "Offer",
-        "name": "All-Inclusive One-Day Tour Package",
-        "price": 14500,
+        "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller"
+        "lowPrice": "12000",
+        "highPrice": "18000",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "12 Seater Tempo Traveller to Ayodhya",
+            "price": 12000,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "12 Seater AC Premium Package",
+            "price": 14500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "17 Seater Tempo Traveller to Ayodhya",
+            "price": 18000,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "234",
+        "bestRating": "5",
+        "worstRating": "1"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Varanasi to Ayodhya Tempo Traveller price?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12 Seater Tempo Traveller starts at ₹12,000 for a same-day return trip. All-inclusive packages with guide at ₹14,500. 17 Seater available at ₹18,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does Varanasi to Ayodhya take by Tempo Traveller?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The journey takes 5-6 hours one way (200 km). Day trip departs early morning (4-5 AM) and returns by evening (8-9 PM)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is same-day Varanasi to Ayodhya trip possible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! Same-day return is our most popular option. Start at 4 AM, reach Ayodhya by 10 AM, visit Ram Mandir, and return to Varanasi by 8-9 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is included in the Ayodhya Tempo Traveller package?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Package includes AC Tempo Traveller, experienced driver, fuel, toll taxes, and parking. Meals and Ram Mandir guide extra on request."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -56,13 +121,13 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services",
-          "item": "https://www.kashitaxi.in/en/services/"
+          "name": "Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/tempo-traveller-varanasi/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi Taxi | Vinayak Travels Varanasi",
+          "name": "Varanasi to Ayodhya Tempo Traveller",
           "item": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller/"
         }
       ]

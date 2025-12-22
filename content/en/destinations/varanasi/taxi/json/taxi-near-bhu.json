@@ -175,6 +175,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-near-bhu/#product",
+      "name": "Taxi Near BHU Varanasi - Campus Cab Service",
+      "description": "Book taxi near BHU Varanasi. Quick pickup from all campus gates. Assi Ghat ₹250, Airport ₹650, Sarnath ₹800. 5-10 min pickup, 24/7 service.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "Local Taxi Service",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "250",
+        "highPrice": "800",
+        "offerCount": "5",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "456",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/taxi-near-bhu#breadcrumbs",
       "itemListElement": [

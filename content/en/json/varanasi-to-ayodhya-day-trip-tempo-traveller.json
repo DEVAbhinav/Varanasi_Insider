@@ -122,6 +122,33 @@
       }
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller/#product",
+      "name": "Varanasi to Ayodhya Day Trip - Ram Mandir Tempo Traveller",
+      "description": "Book Varanasi to Ayodhya day trip by tempo traveller. Ram Mandir darshan, Hanuman Garhi, Saryu Aarti. ₹14,500 all-inclusive, 12-seater, wheelchair support.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Day Trip Package",
+      "image": "https://www.kashitaxi.in/images/ayodhya-ram-mandir.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "14500",
+        "highPrice": "16500",
+        "offerCount": "2",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "345",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller#breadcrumbs",
       "itemListElement": [

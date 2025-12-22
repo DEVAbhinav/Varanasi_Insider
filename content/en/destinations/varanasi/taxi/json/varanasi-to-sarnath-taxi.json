@@ -260,6 +260,33 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi/#product",
+      "name": "Varanasi to Sarnath Taxi - Buddhist Tour Cab",
+      "description": "Book Varanasi to Sarnath taxi. 60km, 90 mins. One-way ₹1200, round-trip ₹2000, full-day with guide ₹3000. Visit Dhamek Stupa, Mulagandhakuti, Museum.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "category": "Day Trip Taxi",
+      "image": "https://www.kashitaxi.in/images/seden.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "1200",
+        "highPrice": "3000",
+        "offerCount": "4",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "389",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi#breadcrumbs",
       "itemListElement": [

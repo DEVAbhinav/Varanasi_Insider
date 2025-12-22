@@ -21,18 +21,104 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller/#product",
+      "name": "Varanasi to Chitrakoot Tempo Traveller (Ram Van Gaman 1N/2D)",
+      "description": "Book Varanasi to Chitrakoot Tempo Traveller for Ram Van Gaman pilgrimage. Visit Ramghat, Kamadgiri Parikrama, Hanuman Dhara, Gupt Godavari Caves. 270-285 km one-way, 1N/2D package.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Pilgrimage Tour Package",
+      "image": "https://www.kashitaxi.in/images/TempoTraveller_side_White.jpeg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "14500",
+        "highPrice": "19000",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "9 Seater Tempo Chitrakoot 1N/2D",
+            "price": 14500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "12 Seater Tempo Chitrakoot 1N/2D",
+            "price": 16000,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "17 Seater Tempo Chitrakoot 1N/2D",
+            "price": 19000,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "156",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Varanasi to Chitrakoot Tempo Traveller price?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "9 Seater at ₹14,500, 12 Seater at ₹16,000, and 17 Seater at ₹19,000 for 1N/2D package. Includes 600-630 km, driver allowance, tolls. Lodging extra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Chitrakoot from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Chitrakoot is 270–285 km from Varanasi via Prayagraj (NH19 + NH35). Journey takes 6–7 hours with two stops."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is same-day Chitrakoot trip possible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Possible but not advised. 1N/2D plan allows Kamadgiri Parikrama, evening/morning Ramghat Aarti, and all core sites without fatigue."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is covered in Chitrakoot 2-day itinerary?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Day 1: Drive, Ramghat, evening Aarti, Kamadgiri. Day 2: Hanuman Dhara, Sphatik Shila, Bharat Milap, Gupt Godavari Caves, return to Varanasi."
+          }
+        }
+      ]
+    },
+    {
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller#trip",
-      "name": "Varanasi to Chitrakoot 1N/2D Tempo Traveller Pilgrimage",
-      "description": "1 night / 2 day Varanasi to Chitrakoot Tempo Traveller pilgrimage covering Ramghat, Kamadgiri Parikrama, Hanuman Dhara, Gupt Godavari Caves and Sphatik Shila.",
+      "name": "Chitrakoot 2 Day Itinerary",
       "itinerary": {
         "@type": "ItemList",
-        "name": "Chitrakoot 2 Day Itinerary",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Day 1: Varanasi departure → Prayagraj corridor halt → Arrival Chitrakoot → Ramghat → Kamadgiri Parikrama / Aarti"
+            "name": "Day 1: Varanasi departure → Prayagraj halt → Chitrakoot → Ramghat → Kamadgiri Parikrama / Aarti"
           },
           {
             "@type": "ListItem",
@@ -41,95 +127,8 @@
           }
         ]
       },
-      "travelMode": "BUS",
-      "offers": {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "priceSpecification": {
-          "@type": "PriceSpecification",
-          "description": "Indicative 12 seater package: Base km 600–630 @ ₹24/km + allowance + tolls (₹15,900–₹16,200)."
-        },
-        "url": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller"
-      },
       "provider": {
         "@id": "https://www.kashitaxi.in#organization"
-      },
-      "areaServed": [
-        {
-          "@type": "City",
-          "name": "Varanasi"
-        },
-        {
-          "@type": "City",
-          "name": "Chitrakoot"
-        }
-      ]
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the distance from Varanasi to Chitrakoot by road?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Varanasi to Chitrakoot distance is roughly 270–285 km via Prayagraj (NH19 + NH35) taking 6–7 hours with two stops."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Chitrakoot doable as a same-day trip from Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Possible but not advised. A 1N/2D plan allows Kamadgiri Parikrama, evening/morning Ramghat and core sites without fatigue."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is covered in a 2 day Chitrakoot itinerary?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Day 1: Drive, Ramghat, Aarti, Kamadgiri (or morning Day 2). Day 2: Hanuman Dhara, Sphatik Shila, Bharat Milap, Gupt Godavari Caves then return."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Best Tempo Traveller size for Chitrakoot pilgrimage?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Up to 8 pax light luggage → 9 seater; 9–11 or elders → 12 seater; 12–16 or multi‑family → 17 seater."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the indicative 2 day cost?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "12 seater: ~600–630 km @ ₹24/km + driver allowance + toll/parking ≈ ₹15,900–₹16,500 (non-luxury)."
-          }
-        }
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller#webpage",
-      "url": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller",
-      "name": "Varanasi to Chitrakoot Tempo Traveller",
-      "primaryImageOfPage": {
-        "@type": "ImageObject",
-        "url": "/images/TempoTraveller_side_White.jpeg"
-      },
-      "datePublished": "2025-09-18",
-      "dateModified": "2025-09-18",
-      "inLanguage": "en-IN",
-      "about": {
-        "@id": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller#trip"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "@id": "https://www.kashitaxi.in#organization",
-        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
       }
     },
     {
@@ -145,14 +144,14 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services",
-          "item": "https://www.kashitaxi.in/en/services/"
+          "name": "Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/tempo-traveller-varanasi/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi Taxi | Vinayak Travels Varanasi",
-          "item": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller"
+          "name": "Varanasi to Chitrakoot Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller/"
         }
       ]
     }

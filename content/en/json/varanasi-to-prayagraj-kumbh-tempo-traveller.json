@@ -122,6 +122,33 @@
       }
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-kumbh-tempo-traveller/#product",
+      "name": "Varanasi to Prayagraj Mahakumbh 2025 Tempo Traveller",
+      "description": "Book Mahakumbh 2025 tempo traveller from Varanasi. Permit-ready, two-driver, barricade passes. Shahi Snan day ₹14,500, night halt available.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Kumbh Mela Package",
+      "image": "https://www.kashitaxi.in/images/prayagraj.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "14500",
+        "highPrice": "18000",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-03-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "234",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-kumbh-tempo-traveller#breadcrumbs",
       "itemListElement": [

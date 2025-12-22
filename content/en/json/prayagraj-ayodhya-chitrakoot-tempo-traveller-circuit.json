@@ -181,6 +181,33 @@
       }
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit/#product",
+      "name": "Prayagraj Ayodhya Chitrakoot Tour - 3-4 Day Ram Circuit",
+      "description": "Book Prayagraj Ayodhya Chitrakoot circuit by tempo traveller. Sangam snan, Ram Mandir darshan, Chitrakoot parikrama. ₹28,000-29,800 for group.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Hindu Pilgrimage Tour",
+      "image": "https://www.kashitaxi.in/images/prayagraj.jpg",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "28000",
+        "highPrice": "29800",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "178",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
       "@type": "BreadcrumbList",
       "@id": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit#breadcrumbs",
       "itemListElement": [

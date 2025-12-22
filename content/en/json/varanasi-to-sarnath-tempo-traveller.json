@@ -21,11 +21,97 @@
       ]
     },
     {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller/#product",
+      "name": "Varanasi to Sarnath Tempo Traveller (Buddhist Heritage Half-Day)",
+      "description": "Book Varanasi to Sarnath Tempo Traveller for Buddhist heritage tour. Visit Dhamek Stupa, Sarnath Museum, Mulagandha Kuti Vihara. 10 km from Varanasi, 6-hour package with AC vehicle.",
+      "brand": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "category": "Buddhist Heritage Tour",
+      "image": "https://www.kashitaxi.in/images/tempotraveller.png",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "2800",
+        "highPrice": "4500",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "9 Seater Tempo to Sarnath",
+            "price": 2800,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "12 Seater Tempo to Sarnath",
+            "price": 3200,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "17 Seater Tempo to Sarnath",
+            "price": 4500,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "267",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the Varanasi to Sarnath Tempo Traveller price?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "9 Seater at ₹2,800, 12 Seater at ₹3,200, and 17 Seater at ₹4,500 for 6-hour package. Includes driver, fuel, parking, and guide coordination."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Sarnath from Varanasi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sarnath is just 10 km from Varanasi city center (20-30 minutes drive). Half-day tour of 5-6 hours is perfect for covering all sites."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is covered in Sarnath Tempo Traveller tour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dhamek Stupa, Mulagandha Kuti Vihara, Sarnath Museum (Ashoka Pillar), Chaukhandi Stupa, Thai/Japanese/Chinese monasteries, and vegetarian lunch stop."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide licensed guides at Sarnath?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, ASI-licensed English and Hindi-speaking guides available at ₹500-800 extra. Recommended for understanding Buddhist history and significance."
+          }
+        }
+      ]
+    },
+    {
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller#trip",
-      "name": "Varanasi to Sarnath Tempo Traveller Half-Day Tour",
-      "description": "AC Tempo Traveller shuttle from Varanasi to Sarnath with ASI guide coordination, museum fast-track entry, and ₹3,200 six-hour charter pricing.",
-      "travelMode": "BUS",
+      "name": "Sarnath Buddhist Heritage Half-Day Tour",
       "itinerary": {
         "@type": "ItemList",
         "name": "Sarnath Half-Day Highlights",
@@ -47,78 +133,8 @@
           }
         ]
       },
-      "offers": {
-        "@type": "Offer",
-        "price": 3200,
-        "priceCurrency": "INR",
-        "name": "Sarnath 6-hour Tempo Traveller package",
-        "url": "https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller"
-      },
-      "areaServed": [
-        {
-          "@type": "City",
-          "name": "Varanasi"
-        },
-        {
-          "@type": "City",
-          "name": "Sarnath"
-        }
-      ],
       "provider": {
         "@id": "https://www.kashitaxi.in#organization"
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the cost of hiring a Tempo Traveller from Varanasi to Sarnath?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A 12 seater AC Traveller for a 6-hour circuit costs ₹3,200 inclusive of driver, fuel, parking, and guide coordination; 17 seaters are ₹3,900."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How long does a Sarnath tour take?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Expect 5–6 hours to cover Dhamek Stupa, Mulagandha Kuti Vihara, Sarnath Museum, Chaukhandi Stupa, and international monasteries."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you provide licensed guides?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, ASI-licensed English and Hindi-speaking guides are reserved to customize narration for pilgrims, scholars, or school groups."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the Tempo Traveller suitable for narrow Sarnath lanes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Roads accommodate 17 seaters comfortably and we stage drop points close to each monument with AC respite inside the vehicle."
-          }
-        }
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller#webpage",
-      "url": "https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller",
-      "name": "Varanasi to Sarnath Tempo Traveller",
-      "description": "Buddhist heritage shuttle from Varanasi to Sarnath with guide coordination, museum fast track, and ₹3,200 Tempo Traveller pricing.",
-      "inLanguage": "en-IN",
-      "datePublished": "2025-10-09",
-      "dateModified": "2025-10-09",
-      "publisher": {
-        "@id": "https://www.kashitaxi.in#organization",
-        "@type": "Organization",
-        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
       }
     },
     {
@@ -134,14 +150,14 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services",
-          "item": "https://www.kashitaxi.in/en/services/"
+          "name": "Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/tempo-traveller-varanasi/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi Taxi | Vinayak Travels Varanasi",
-          "item": "https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller"
+          "name": "Varanasi to Sarnath Tempo Traveller",
+          "item": "https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller/"
         }
       ]
     }

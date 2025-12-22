@@ -71,5 +71,26 @@
     "NH-31 approach and Gilat Bazar congestion",
     "Placard pickup at VNS arrivals",
     "Zero-commission hotel drop policy"
-  ]
+  ],
+  "makesOffer": {
+    "@type": "Product",
+    "name": "Prepaid Airport Taxi Varanasi - VNS Cab Booking",
+    "description": "Book prepaid airport taxi Varanasi. Meet & greet, flight tracking, fixed fares. Cantt ₹750, Godowlia ₹800, Assi ₹850. No hidden charges.",
+    "category": "Airport Transfer",
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "INR",
+      "lowPrice": "750",
+      "highPrice": "1150",
+      "availability": "https://schema.org/InStock",
+      "priceValidUntil": "2026-12-31"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "723",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  }
 }
