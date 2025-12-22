@@ -35,8 +35,6 @@ ctaSubtitle: "Book a boat ride for the best viewing experience – no crowds, un
 location:
   name: "Dashashwamedh Ghat, Varanasi"
   address: "Dashashwamedh Ghat Rd, Varanasi, Uttar Pradesh 221001"
-  placeId: "ChIJO6MFOsAQjjkRHDUOXxBuHfU"
-  mapLink: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3606.7!2d83.0102!3d25.3063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e318e3a06a33b%3A0xf51d6e105c0e351c!2sDashashwamedh%20Ghat!5e0!3m2!1sen!2sin!4v1"
 relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
   - assi-ghat-aarti-timings-2025
