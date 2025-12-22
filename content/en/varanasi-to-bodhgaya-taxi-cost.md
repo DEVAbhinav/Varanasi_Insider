@@ -2,12 +2,12 @@
 title: "Varanasi to Bodh Gaya Taxi: Same Day Buddhist Circuit from ₹5,500"
 slug: "varanasi-to-bodhgaya-taxi-cost"
 date: "2025-07-28"
-lastUpdated: "2025-11-04"
+lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/GayaTaxi.jpg"
-metaTitle: "Varanasi to Bodh Gaya Taxi: Same Day Buddhist Circuit from ₹5,500"
-metaDescription: "Varanasi → Bodh Gaya distance: 255 km by road. Typical travel time 5–6 hrs (via NH19). Taxi fares ₹3,500–₹5,000; bus & train options + booking links. Updated 2025."
+metaTitle: "Varanasi to Bodh Gaya: 255km by Road | Taxi ₹3,500 [2026]"
+metaDescription: "Varanasi to Bodh Gaya distance = 255 km (5-6 hr drive via NH19). Taxi from ₹3,500. Same-day Buddhist circuit: Mahabodhi + Vishnupad. Route map + fare table →"
 description: "2025 Varanasi → Bodh Gaya taxi fares, route intel, pit-stop map, and WhatsApp script to lock fixed quotes before touts call back."
 keywords:
   - "varanasi to bodh gaya taxi cost"
@@ -26,31 +26,6 @@ relatedPosts:
   - lucknow-to-varanasi-taxi-fare
   - varanasi-day-tour-cab-charges
 ---
-
-<script type="application/ld+json">
-{
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity":[
-    {
-      "@type":"Question",
-      "name":"How far is Bodh Gaya from Varanasi?",
-      "acceptedAnswer":{
-        "@type":"Answer",
-        "text":"Bodh Gaya is about 255 km from Varanasi by road (approx. 5–6 hours via NH19)."
-      }
-    },
-    {
-      "@type":"Question",
-      "name":"How long does it take by taxi?",
-      "acceptedAnswer":{
-        "@type":"Answer",
-        "text":"Typical taxi time is 5–6 hours depending on traffic; estimated fares ₹3,500–₹5,000."
-      }
-    }
-  ]
-}
-</script>
 
 ---
 

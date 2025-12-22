@@ -4,7 +4,7 @@
     {
       "@type": "Organization",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
+      "name": "Kashi Taxi",
       "url": "https://www.kashitaxi.in/",
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
@@ -16,9 +16,57 @@
         "url": "https://www.kashitaxi.in/favicon.jpeg"
       },
       "sameAs": [
-        "https://wa.me/919935474730",
+        "https://wa.me/919450301573",
         "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
       ]
+    },
+    {
+      "@type": "Product",
+      "name": "Varanasi to Bodhgaya Tempo Traveller",
+      "description": "12-seater Maharaja Tempo Traveller from Varanasi to Bodhgaya (255 km, 5-6 hours). Same-day Buddhist pilgrimage: Mahabodhi Temple, Vishnupad Pind Daan, Great Buddha Statue.",
+      "image": "https://www.kashitaxi.in/images/tempo-travellar-outside-front-p.jpeg",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kashi Taxi"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "lowPrice": "16000",
+        "highPrice": "24000",
+        "priceCurrency": "INR",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "12-Seater Tempo Traveller (Same Day)",
+            "price": "16000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "12-Seater Tempo Traveller (Overnight)",
+            "price": "18000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "26-Seater Tempo Traveller",
+            "price": "24000",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "87",
+        "bestRating": "5"
+      }
     },
     {
       "@type": "TravelAction",
@@ -35,6 +83,10 @@
         "@type": "City",
         "name": "Bodhgaya"
       },
+      "distance": {
+        "@type": "Distance",
+        "name": "255 km"
+      },
       "offers": {
         "@type": "Offer",
         "name": "Same-Day Pilgrimage Package",
@@ -42,6 +94,35 @@
         "priceCurrency": "INR",
         "url": "https://www.kashitaxi.in/en/varanasi-to-bodhgaya-tempo-traveller"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the distance from Varanasi to Bodhgaya by tempo traveller?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Varanasi to Bodhgaya is 255 km by road. A tempo traveller takes 5-6 hours via NH19 (Varanasi → Mohania → Gaya → Bodhgaya)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a tempo traveller cost from Varanasi to Bodhgaya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12-seater Maharaja tempo traveller: ₹16,000 same-day, ₹18,000 overnight. 26-seater: ₹24,000. Includes driver, fuel, parking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can we do Gaya Pind Daan and Bodhgaya in one day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Leave Varanasi at 4 AM, reach Gaya by 9:30 AM for Vishnupad Pind Daan, then Bodhgaya (13 km) for Mahabodhi Temple. Return by 11 PM."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",

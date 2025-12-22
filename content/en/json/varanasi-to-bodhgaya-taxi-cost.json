@@ -3,14 +3,14 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Varanasi to Bodhgaya Taxi Cost (2025) – Fares & Travel Time",
+      "headline": "Varanasi to Bodhgaya Taxi Cost 2026 – Distance 255km, Fares from ₹3,500",
       "image": [
         "/images/GayaTaxi.jpg",
         "/images/seden.png",
         "/images/tempo-travellar-outside-front-p.jpeg"
       ],
       "datePublished": "2025-07-28T08:00:00+08:00",
-      "dateModified": "2025-08-04T09:20:00+08:00",
+      "dateModified": "2025-12-22T09:20:00+08:00",
       "author": [
         {
           "@type": "Person",
@@ -37,75 +37,84 @@
         {
           "@type": "Product",
           "name": "Varanasi to Bodhgaya One-Way Taxi Service",
-          "description": "One-way taxi service from Varanasi to Bodh Gaya, with options for different vehicle types to suit various group sizes and budgets.",
+          "description": "One-way taxi service from Varanasi to Bodh Gaya (255 km, 5-6 hours). Options for different vehicle types including sedan, SUV, and tempo traveller.",
           "offers": {
             "@type": "AggregateOffer",
-            "lowPrice": "5000",
+            "lowPrice": "3500",
             "highPrice": "11000",
             "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
             "offers": [
               {
                 "@type": "Offer",
-                "name": "Compact Hatchback",
-                "priceSpecification": {
-                  "@type": "PriceSpecification",
-                  "minPrice": 5000,
-                  "maxPrice": 5500,
-                  "priceCurrency": "INR"
-                },
-                "description": "Basic and economical for 1-2 passengers (e.g., Swift)."
+                "name": "Sedan (Swift Dzire)",
+                "price": "3500",
+                "priceCurrency": "INR",
+                "availability": "https://schema.org/InStock",
+                "description": "4-seater sedan, comfortable for 1-3 passengers."
               },
               {
                 "@type": "Offer",
-                "name": "Sedan",
-                "priceSpecification": {
-                  "@type": "PriceSpecification",
-                  "minPrice": 5500,
-                  "maxPrice": 6500,
-                  "priceCurrency": "INR"
-                },
-                "description": "A comfortable option for small families (e.g., Dzire, Etios)."
+                "name": "Ertiga (6-Seater)",
+                "price": "4500",
+                "priceCurrency": "INR",
+                "availability": "https://schema.org/InStock",
+                "description": "6-seater MPV with extra luggage space."
               },
               {
                 "@type": "Offer",
-                "name": "MPV/SUV",
-                "priceSpecification": {
-                  "@type": "PriceSpecification",
-                  "minPrice": 6500,
-                  "maxPrice": 7500,
-                  "priceCurrency": "INR"
-                },
-                "description": "Suitable for families or groups with more luggage (e.g., Ertiga, Innova)."
-              },
-              {
-                "@type": "Offer",
-                "name": "Premium SUV",
-                "priceSpecification": {
-                  "@type": "PriceSpecification",
-                  "minPrice": 8000,
-                  "maxPrice": 10000,
-                  "priceCurrency": "INR"
-                },
-                "description": "Offers a more spacious and luxurious ride (e.g., Innova Crysta)."
+                "name": "Innova Crysta",
+                "price": "5500",
+                "priceCurrency": "INR",
+                "availability": "https://schema.org/InStock",
+                "description": "Premium 6-8 seater SUV for families."
               },
               {
                 "@type": "Offer",
                 "name": "Tempo Traveller (12 Seater)",
-                "priceSpecification": {
-                  "@type": "PriceSpecification",
-                  "minPrice": 9500,
-                  "maxPrice": 11000,
-                  "priceCurrency": "INR"
-                },
+                "price": "9500",
+                "priceCurrency": "INR",
+                "availability": "https://schema.org/InStock",
                 "description": "Ideal for large groups and pilgrimage tours."
               }
             ]
           },
-          "image": "https://www.kashitaxi.in/images/seden.png"
+          "image": "https://www.kashitaxi.in/images/seden.png",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "156",
+            "bestRating": "5"
+          }
         },
         {
           "@type": "FAQPage",
           "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the distance from Varanasi to Bodhgaya?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Varanasi to Bodhgaya distance is 255 km by road via NH19. The journey takes 5-6 hours by taxi through Mohania and Gaya."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does it take from Varanasi to Bodh Gaya by car?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "By taxi, Varanasi to Bodh Gaya takes 5-6 hours (255 km). Route: Varanasi → Mohania → Dobhi → Gaya → Bodhgaya via NH19/AH1."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How much does a taxi cost from Varanasi to Bodhgaya?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Taxi fares: Sedan ₹3,500, Ertiga ₹4,500, Innova ₹5,500, Tempo Traveller ₹9,500. Price includes fuel and driver. Tolls extra."
+              }
+            },
             {
               "@type": "Question",
               "name": "Are there additional charges like tolls and state taxes?",
@@ -116,18 +125,10 @@
             },
             {
               "@type": "Question",
-              "name": "What is the best time to travel to Bodh Gaya?",
+              "name": "Can I do same-day return from Varanasi to Bodhgaya?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The best time to visit Bodh Gaya is during the winter months, from October to March, when the weather is pleasant. Major Buddhist festivals like Buddha Purnima also draw large crowds, so plan accordingly."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Can I book a multi-day Buddhist circuit tour from Varanasi?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Yes, most operators offer multi-day packages that cover the full Buddhist circuit, including Bodh Gaya, Rajgir, Nalanda, and other significant sites. This is often more cost-effective than booking individual trips."
+                "text": "Yes. Leave Varanasi by 5-6 AM, reach Bodhgaya by 11 AM, visit Mahabodhi Temple (3-4 hours), return by 10-11 PM. Round trip fare: Sedan ₹6,500, Innova ₹9,500."
               }
             }
           ]
