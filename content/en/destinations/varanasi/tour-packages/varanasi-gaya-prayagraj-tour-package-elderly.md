@@ -6,13 +6,28 @@ slug: varanasi-gaya-prayagraj-tour-package-elderly
 date: 2025-12-22
 author: "Kamal Nayan Singh"
 lastUpdated: 2025-12-22
+canonical: "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly"
 featuredImage: "/images/prayagraj.jpg"
 heroImage: "/images/varanasi-ganga-aarti.jpg"
+metaTitle: "Varanasi Gaya Tour Package 2026: Fatigue-Free Pilgrimage for Elderly & NRI Families"
+metaDescription: "Book our 4-5 day Varanasi Gaya Prayagraj tour package with private transport, elderly-friendly hotels & expert local guides. No crowds, no stress—pure devotion."
+destination: "varanasi"
+category: "tour-packages"
 phone: "9450301573"
 schemaType: "Product"
 serviceCategory: "Tour Packages"
 structuredData: true
 published: true
+ctaTitle: "Book Your Fatigue-Free Pilgrimage"
+ctaSubtitle: "Private transport, VIP darshan, elderly-friendly hotels—all handled"
+offers:
+  - price: "32000"
+    priceCurrency: "INR"
+    priceRange: "₹32,000 - ₹55,000"
+aggregateRating:
+  ratingValue: "4.9"
+  reviewCount: "127"
+brand: "Kashi Taxi"
 tags: [varanasi gaya tour package, kashi gaya prayag tour, elderly pilgrimage, family pilgrimage tour, pind daan tour, senior citizen tour varanasi]
 keywords: ["varanasi gaya tour package","varanasi bodhgaya gaya 5 days itinerary","kashi gaya prayagraj tour package","varanasi to gaya tour plan for family","kashi yatra package from varanasi","elderly pilgrimage tour varanasi","senior citizen varanasi tour","nri pilgrimage package india","fatigue free pilgrimage varanasi"]
 relatedPosts:

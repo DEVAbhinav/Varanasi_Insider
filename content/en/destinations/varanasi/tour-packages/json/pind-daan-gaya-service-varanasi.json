@@ -1,0 +1,409 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#product",
+      "name": "Verified Pind Daan Service in Gaya - Scam-Free Ancestral Ritual",
+      "description": "Legitimate pind daan service in Gaya with verified Gayawal Pandas. Complete ritual at Falgu River, Vishnupad Temple, and Akshayavat with transparent pricing, ancestral record documentation, and 100% legitimacy guarantee. Perfect for sons performing ancestral rites, NRI families, and Pitru Paksha pilgrims.",
+      "image": [
+        "https://www.kashitaxi.in/images/vishnupad-temple-gaya.jpg",
+        "https://www.kashitaxi.in/images/pind-daan-gaya-ritual.jpg",
+        "https://www.kashitaxi.in/images/falgu-river-gaya.jpg"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "KashiTaxi"
+      },
+      "sku": "PIND-DAAN-GAYA-VERIFIED",
+      "mpn": "KASHITAXI-PDG-2025",
+      "category": "Pilgrimage Services > Pind Daan > Gaya",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "4350",
+        "highPrice": "23300",
+        "offerCount": "5",
+        "priceValidUntil": "2025-12-31",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "seller": {
+          "@type": "LocalBusiness",
+          "name": "KashiTaxi",
+          "telephone": "+91-9450301573",
+          "url": "https://www.kashitaxi.in"
+        },
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Standard Pind Daan (1-3 Ancestors)",
+            "price": "4350",
+            "priceCurrency": "INR",
+            "description": "Single day complete ritual for 1-3 ancestors at all three sacred sites",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "minValue": 1,
+              "maxValue": 3
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Extended 3-Day Pind Daan (3-6 Ancestors)",
+            "price": "10850",
+            "priceCurrency": "INR",
+            "description": "Three day ritual for multiple ancestors or separate paternal/maternal lineages"
+          },
+          {
+            "@type": "Offer",
+            "name": "Extended 5-Day Pind Daan (6-10 Ancestors)",
+            "price": "17850",
+            "priceCurrency": "INR",
+            "description": "Five day comprehensive ritual for large family genealogies"
+          },
+          {
+            "@type": "Offer",
+            "name": "Narayan Bali Shradh",
+            "price": "7000",
+            "priceCurrency": "INR",
+            "description": "Special ritual for ancestors who died under unusual circumstances"
+          },
+          {
+            "@type": "Offer",
+            "name": "Live Video Option for NRIs",
+            "price": "2500",
+            "priceCurrency": "INR",
+            "description": "Additional live video coordination for those who cannot travel"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "89",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh K. (NRI, USA)"
+          },
+          "reviewBody": "Damodar Lal had records of my great-grandfather's 1952 pind daan visit. He showed me the exact page in his register. My family's genealogy became real—not just stories. The entire ritual was authentic and deeply moving."
+        },
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya M. (Mumbai)"
+          },
+          "reviewBody": "My father died unexpectedly. Mahesh Lal guided us through Narayan Bali—the more complex ritual. He explained every step with such clarity that we felt the ritual was truly honoring Dad's unusual circumstances."
+        },
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amir S. (NRI, California)"
+          },
+          "reviewBody": "I was in California when my father passed. Munnu connected me via live video during the entire pind daan. I could see the Vishnupad, chant the Sankalp, see my father's offering. It wasn't in-person, but it felt real."
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#service",
+      "name": "Verified Pind Daan Service in Gaya",
+      "description": "Complete ancestral ritual service with verified Gayawal Pandas at Vishnupad Temple, Falgu River, and Akshayavat in Gaya",
+      "serviceType": "Pilgrimage Service",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "KashiTaxi",
+        "telephone": "+91-9450301573"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Gaya",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Bihar"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Varanasi",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "Uttar Pradesh"
+          }
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Pind Daan Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Standard Pind Daan (1-3 Ancestors)"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Extended Multi-Day Pind Daan"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Narayan Bali Shradh"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tripindi Shradh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "KashiTaxi",
+      "image": "https://www.kashitaxi.in/images/logo.png",
+      "url": "https://www.kashitaxi.in",
+      "telephone": "+91-9450301573",
+      "email": "info@kashitaxi.in",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Varanasi",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "221001",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.3176,
+        "longitude": 82.9739
+      },
+      "priceRange": "₹₹-₹₹₹",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "opens": "06:00",
+        "closes": "22:00"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can my mother or sister perform pind daan, or must it be the son?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Traditionally, the eldest son performs. However, modern practice allows daughters or other female relatives to perform if there's no son. The ritual's validity comes from loving intention and proper procedure, not the performer's gender."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I don't know my ancestors' exact names?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The pandit will work with you. He'll ask your father's full name, grandfather's name, and as far back as you know. The Sankalp can include 'all known and unknown ancestors' if genealogy is unclear."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a risk the pandit will cheat me?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "With our verified pandits, no. They have reputations spanning 20-30 years and are embedded in the temple authority system. We document the ritual and stay connected—any post-ritual complaints are addressed immediately."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I do pind daan for my mother or both parents together?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Multiple ancestors can be included in one day's ritual. The pandit creates separate pind for each. Cost increases slightly for materials and time, but it's the same ritual procedure."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if I perform pind daan and later learn the pandit wasn't legitimate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We refund 100% of priest fees and arrange a repeat ritual with a verified Gayawal Panda at no additional cost. We guarantee legitimacy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it wrong to perform pind daan outside Pitru Paksha?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pitru Paksha is optimal, but not mandatory. Pind daan can be performed anytime during the year. It's less powerful outside the Paksha window according to tradition, but it's still valid."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does pind daan cost in Gaya 2025?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standard pind daan for 1-3 ancestors costs ₹4,350-6,300 total including pandit dakshina, temple fees, materials, Gayawal Panda registration, and transport. Extended packages for 5+ ancestors range from ₹10,850-23,300."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is Pitru Paksha 2025?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pitru Paksha 2025 runs from September 7-21. The most auspicious time (Kutup Muhurat) is September 21 from 11:47 AM - 12:37 PM."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I wear for pind daan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "White dhoti/kurta (traditional), no leather, no shoes during ritual. If you don't own a dhoti, we can arrange rental for ₹100-200 from Gaya shops."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if I get emotional during the ritual?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This is expected and honored. The pandit trains for this. Take all the time you need. There's no schedule. Tears are part of the ritual's sacredness."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can NRIs perform pind daan via live video if they cannot travel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer live video coordination for NRIs who cannot travel. You participate via WhatsApp/Zoom, see the entire ritual in real-time, and give verbal sankalp. However, being present in person is traditionally more powerful."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I perform pind daan multiple times for the same ancestor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Traditionally, once is sufficient and complete. However, performing annually on the ancestor's death anniversary is common and spiritually beneficial."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Event",
+      "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#pitrupaksha2025",
+      "name": "Pitru Paksha 2025 - Pind Daan in Gaya",
+      "description": "The most auspicious 15-day window for performing pind daan (ancestral rites) in Gaya at Vishnupad Temple",
+      "startDate": "2025-09-07",
+      "endDate": "2025-09-21",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "location": {
+        "@type": "Place",
+        "name": "Vishnupad Temple",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Gaya",
+          "addressRegion": "Bihar",
+          "addressCountry": "IN"
+        }
+      },
+      "organizer": {
+        "@type": "LocalBusiness",
+        "name": "KashiTaxi",
+        "url": "https://www.kashitaxi.in"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "4350",
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2025-01-01"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/destinations/varanasi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Tour Packages",
+          "item": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Pind Daan Gaya Service",
+          "item": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#webpage",
+      "url": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+      "name": "Pind Daan in Gaya 2025: Verified Gayawal Panda Service from Varanasi | Cost & Dates",
+      "description": "Book legitimate pind daan in Gaya with verified Gayawal Pandas. Transparent cost breakdown, physical ritual, ancestral records. No fake priests. Dates, procedures, and pricing for 2025.",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://www.kashitaxi.in#website"
+      },
+      "about": {
+        "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#product"
+      },
+      "breadcrumb": {
+        "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#breadcrumb"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/images/vishnupad-temple-gaya.jpg"
+      },
+      "datePublished": "2025-12-22",
+      "dateModified": "2025-12-22"
+    }
+  ]
+}
