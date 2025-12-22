@@ -2,11 +2,11 @@
 title: "Airport to Dashashwamedh Taxi ₹690 | 40-min | Book Now"
 slug: "varanasi-airport-to-dashashwamedh-distance"
 date: "2025-11-12"
-lastUpdated: "2025-11-30"
+lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Airport to Dashashwamedh Ghat Taxi ₹690 | 40-min | Book Now"
-metaDescription: "Varanasi Airport to Dashashwamedh Ghat taxi ₹690 (Flash offer 2 hours). 25km, 40-55 min. Book instant or call 9450301573. Catch 6:30 PM Ganga Aarti."
+metaTitle: "VNS Airport to Dashashwamedh Ghat: 25km, ₹690 Taxi [2026]"
+metaDescription: "Airport to Dashashwamedh = 25km, 40 min. ₹690 fixed fare. Reach by 5 PM for 6 PM Ganga Aarti! No surge pricing. Book: 9450301573"
 description: "Varanasi Airport to Dashashwamedh Ghat taxi ₹690 (Flash offer 2 hours). 25km, 40-55 min. Book instant or call 9450301573. Catch 6:30 PM Ganga Aarti."
 location:
   name: "Dashashwamedh Ghat"

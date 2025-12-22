@@ -1,9 +1,11 @@
 ---
 slug: "varanasi-full-day-city-tour-winter-2025"
 lang: "en"
-title: "Varanasi Full-Day City Tour by Car: Packages & Pricing for Winter 2025"
+title: "Varanasi Full-Day City Tour by Car: Packages & Pricing for Winter 2025-26"
 subtitle: "Experience Varanasi's spiritual heritage with private car + driver. Pre-designed routes or custom itineraries for November–February."
-description: "Full day taxi for Varanasi sightseeing – winter 2025 packages ₹2,200–₹3,500. Sedan/Innova local hire, temple tours, Sarnath, Ganga Aarti. Custom itineraries."
+metaTitle: "Varanasi Full Day Tour ₹2,200: Winter 2025-26 Package [Book]"
+metaDescription: "Winter city tour ₹2,200 sedan, ₹3,500 Innova. 8hr package: Kashi Vishwanath, Sarnath, ghats, Ganga Aarti. Nov-Feb best weather. Call 9450301573"
+description: "Full day taxi for Varanasi sightseeing – winter 2025-26 packages ₹2,200–₹3,500. Sedan/Innova local hire, temple tours, Sarnath, Ganga Aarti. Custom itineraries."
 keywords: ["full day taxi for Varanasi sightseeing price","Varanasi taxi service in November","best cab service in Varanasi in December","winter tour packages Varanasi by car","taxi for Kashi Vishwanath Temple darshan","Varanasi local sightseeing by car","where to find Malaiyyo in Varanasi cab tour"]
 featuredImage: "/images/varanasi-ghat-wallpaper-p.jpeg"
 heroImage: "/images/varanasi-ghat-wallpaper-p.jpeg"

@@ -1,11 +1,13 @@
 ---
-title: "Varanasi to Vindhyachal Navratri Pilgrimage: Ultimate Guide 2025"
+title: "Varanasi to Vindhyachal Navratri Pilgrimage: Ultimate Guide 2026"
 slug: "navratri-pilgrimage-vindhyachal-from-varanasi-guide"
 date: "2025-09-16"
-lastUpdated: "2025-09-16"
+lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/Vindhyachal1.jpg"
+metaTitle: "Varanasi to Vindhyachal Navratri 2026: 80km, Trikon Parikrama"
+metaDescription: "Vindhyachal from Varanasi = 80km (2hr). Navratri 2026: Mar 19-27 & Oct dates. Trikon Parikrama route, taxi ₹2,200, darshan timing. Complete guide →"
 description: "Complete guide to planning your Navratri pilgrimage from Varanasi to Vindhyachal Shaktipeeth. Learn about Trikon Parikrama, travel options, accommodation, and sacred rituals for the ultimate spiritual journey."
 keywords: "varanasi to vindhyachal, vindhyachal from varanasi, navratri vindhyachal 2025, trikon parikrama guide, varanasi to vindhyachal travel, vindhyavasini temple navratri, shaktipeeth pilgrimage, vindhyachal darshan timing, varanasi to vindhyachal distance"
 tags:
