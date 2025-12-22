@@ -1,0 +1,265 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LocalBusiness", "TaxiService"],
+      "@id": "https://www.kashitaxi.in/#org",
+      "name": "Varanasi Taxi - Vinayak Travels",
+      "alternateName": ["KashiTaxi", "Varanasi to Gaya Taxi"],
+      "url": "https://www.kashitaxi.in/",
+      "telephone": "+919450301573",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.3176",
+        "longitude": "82.9739"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Varanasi"
+      },
+      "openingHours": "Mo-Su 00:00-24:00",
+      "sameAs": [
+        "https://wa.me/919450301573",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service#service",
+      "name": "Varanasi to Gaya Taxi Service",
+      "description": "Door-to-door taxi service from Varanasi to Gaya for pilgrims. 260 km journey in 5-6 hours with AC vehicles, vetted drivers, and flexible timing. Sedan ₹2,850, SUV ₹4,200, Innova Crysta ₹6,500.",
+      "provider": {
+        "@id": "https://www.kashitaxi.in/#org"
+      },
+      "serviceType": "Outstation Taxi",
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Varanasi"
+        },
+        {
+          "@type": "Place",
+          "name": "Gaya"
+        },
+        {
+          "@type": "Place",
+          "name": "Bodhgaya"
+        }
+      ],
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://wa.me/919450301573?text=Book%20Varanasi%20to%20Gaya%20Taxi",
+        "availableLanguage": ["en", "hi"],
+        "servicePhone": {
+          "@type": "ContactPoint",
+          "telephone": "+919450301573",
+          "contactType": "reservations",
+          "availableLanguage": ["English", "Hindi"]
+        }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Sedan Taxi - Varanasi to Gaya",
+          "description": "Budget 4-seater sedan (Dzire/Xcent) for 260 km journey",
+          "priceCurrency": "INR",
+          "price": 2850,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 2850,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-22",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Varanasi to Gaya Sedan Transfer",
+            "description": "AC Sedan with professional driver, 260 km, 5-6 hours",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "2850",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "SUV Taxi - Varanasi to Gaya",
+          "description": "Spacious 6-7 seater SUV (Ertiga/Xylo) for families",
+          "priceCurrency": "INR",
+          "price": 4200,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 4200,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-22",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Varanasi to Gaya SUV Transfer",
+            "description": "AC SUV with professional driver, 260 km, 5-6 hours",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "4200",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Innova Crysta - Varanasi to Gaya",
+          "description": "Premium 7-seater with reclining seats for maximum comfort",
+          "priceCurrency": "INR",
+          "price": 6500,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 6500,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-22",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Varanasi to Gaya Innova Crysta",
+            "description": "Premium AC vehicle with reclining seats, USB charging",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "6500",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Tempo Traveller - Varanasi to Gaya",
+          "description": "12-17 seater for large groups, per-person cost ₹1,833+",
+          "priceCurrency": "INR",
+          "price": 22000,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 22000,
+            "unitText": "per vehicle"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2025-12-22",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Varanasi to Gaya Tempo Traveller",
+            "description": "Large group transport, 12-17 seats, AC",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "22000",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        }
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "234",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long does Varanasi to Gaya take by taxi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "260 km distance takes 5 hours 40 minutes via NH-19 and NH-120. With one rest stop, expect 6-6.5 hours total travel time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's included in the taxi fare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Driver, fuel, AC, tolls (₹350-450), insurance, vehicle maintenance. NOT included: meals, optional parking, driver tip."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I stop at Bodhgaya instead of Gaya city?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Bodhgaya is 25 km from Gaya station. Update destination at booking. Cost increases ₹500-800."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can we take breaks in between?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Tell driver where to stop. Highway dhabas are reliable. Stops add 30-60 minutes to total time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if the driver cancels?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We provide alternative vehicle immediately (same or better quality) or full refund. No acceptable driver cancellations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can we book for 8+ people?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Tempo Traveller (12-17 seater). Quote will be for full vehicle at ₹22,000-26,000 total."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Varanasi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taxi Services",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Varanasi to Gaya Taxi",
+          "item": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service"
+        }
+      ]
+    }
+  ]
+}
