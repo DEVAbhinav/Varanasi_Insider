@@ -21,7 +21,7 @@ lastUpdated: "2025-10-26"
 ![Varanasi Ghats Early Morning](/images/varanasi-ghat-early-morning.jpeg)
 *Serene morning view of Varanasi's ancient ghats along the holy Ganges*
 
-> **TL;DR:** Varanasi tour packages range ₹7,000–₹50,000+ covering complete Varanasi city tour, Varanasi temple tour (Kashi Vishwanath), 84 ghats, Ganga Aarti (evening: 18:00 winter/19:00 summer), Sarnath Buddhist site, and multi-city circuits. Best time for Varanasi tour: **November–March** (10–25°C). Peak festivals: **Dev Deepawali (Nov 5)**, **Mahashivratri (Feb 26)**. Accommodations: ₹199 budget to ₹50,000 heritage palaces.
+> **TL;DR:** Varanasi tour packages range ₹7,000–₹50,000+ covering complete Varanasi city tour, Varanasi temple tour (Kashi Vishwanath), 84 ghats, Ganga Aarti (evening: 18:00 winter/19:00 summer), Sarnath Buddhist site, and multi-city circuits. Best time for Varanasi tour: **November–March** (10–25°C). Peak festivals: **Dev Deepawali (Nov 24)**, **Mahashivratri (Feb 15)**. Accommodations: ₹199 budget to ₹50,000 heritage palaces.
 
 ## Why Choose a Varanasi Tour Package?
 
@@ -41,8 +41,8 @@ Varanasi, the world's oldest living city, offers an unparalleled spiritual and c
 | **November** | 10–25°C | Perfect weather | **Dev Deepawali (Nov 5)**, Ganga Mahotsav |
 | **December** | 10–22°C | Cool mornings | Pleasant sightseeing |
 | **January** | 9–21°C | Coolest month | Makar Sankranti |
-| **February** | 12–26°C | Pleasant, warming | **Mahashivratri (Feb 26)** |
-| **March** | 18–33°C | Starting to warm | Holi celebrations |
+| **February** | 12–26°C | Pleasant, warming | **Mahashivratri (Feb 15)** |
+| **March** | 18–33°C | Starting to warm | Holi (Mar 4) |
 
 **Advantages**: Perfect for ghat walks, temple visits, sunrise boat rides  
 **Hotel Pricing**: ₹4,500–₹12,000/night (book 2–3 months ahead)
@@ -184,7 +184,7 @@ The **Ganga Aarti** is the most iconic experience in any **Varanasi tour package
 
 > **Complete ghat guides**: [Dashashwamedh Ghat Boat Ride & Aarti Guide](/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide)
 
-> **Varanasi Tour Tip**: The seven-priest synchronized ritual uses multi-tiered brass lamps, flowers, sacred mantras, conch shells, and incense. Pre-book VIP seating or boat rides during Dev Deepawali (Nov 5) and Mahashivratri (Feb 26) when demand surges 300%.
+> **Varanasi Tour Tip**: The seven-priest synchronized ritual uses multi-tiered brass lamps, flowers, sacred mantras, conch shells, and incense. Pre-book VIP seating or boat rides during Dev Deepawali (Nov 24) and Mahashivratri (Feb 15) when demand surges 300%.
 
 ## Recommended Tour Packages
 
@@ -295,8 +295,8 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 | **November** | 10–25°C | Perfect weather, festival peak | **Dev Deepawali (Nov 5)**, Ganga Mahotsav |
 | **December** | 10–22°C | Cool, crisp mornings | Ganga Mahotsav continuation |
 | **January** | 9–21°C | Coolest month, fog mornings | Makar Sankranti |
-| **February** | 12–26°C | Pleasant, warming up | **Mahashivratri (Feb 26, 2026)** |
-| **March** | 18–33°C | Starting to warm | Holi celebrations |
+| **February** | 12–26°C | Pleasant, warming up | **Mahashivratri (Feb 15, 2026)** |
+| **March** | 18–33°C | Starting to warm | Holi (Mar 4, 2026) |
 
 #### Peak Season Advantages
 

@@ -6,8 +6,8 @@ lastUpdated: "2025-12-01"
 author: "Varanasi Insider Team"
 excerpt: "Celebrate Makar Sankranti 2026 in Varanasi with sacred Ganga Snan, kite festival, and harvest celebrations. Complete guide to dates, rituals, best ghats, and taxi booking."
 lang: en
-metaTitle: "Makar Sankranti Ganga Snan Varanasi 2026 | Kite Festival & Rituals"
-metaDescription: "Makar Sankranti 2026 (Jan 14): Sacred bathing, kite festival, til-gud prasad. Complete Varanasi guide with dates, rituals, best ghats, taxi services. Celebrate harvest festival spiritually."
+metaTitle: "Makar Sankranti Varanasi 2026: Jan 14 Snan Timing & Ghats"
+metaDescription: "Makar Sankranti 2026 = Jan 14 (Wed). Holy snan 6:30-10 AM, kite flying 2-5 PM. Best ghats: Dashashwamedh, Assi. Book taxi now—23 days left!"
 description: "Makar Sankranti 2026 (Jan 14): Sacred bathing, kite festival, til-gud prasad. Complete Varanasi guide with dates, rituals, best ghats, taxi services. Celebrate harvest festival spiritually."
 keywords:
   - "Makar Sankranti Varanasi"

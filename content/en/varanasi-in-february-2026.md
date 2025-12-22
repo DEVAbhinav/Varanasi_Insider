@@ -24,7 +24,7 @@ faqSchema:
   - question: "Is February a good time to visit Varanasi?"
     answer: "Yes, February is one of the best months to visit Varanasi. The weather is ideal—pleasantly warm during the day and cool in the evenings—perfect for sightseeing. It's also the month of the major festival of Mahashivratri."
   - question: "What is the date of Mahashivratri in 2026?"
-    answer: "In 2026, Mahashivratri will be celebrated on Tuesday, February 17th. Expect large, devout crowds and vibrant processions, especially around the Kashi Vishwanath Temple."
+    answer: "In 2026, Mahashivratri will be celebrated on Sunday, February 15th. Expect large, devout crowds and vibrant processions, especially around the Kashi Vishwanath Temple."
   - question: "Is fog a problem in Varanasi in February?"
     answer: "No, the dense fog that can affect travel in December and January has typically cleared by February, leading to bright, sunny days and clear skies, which are ideal for photography and boat rides."
 ---
@@ -52,7 +52,7 @@ You can truly pack your days with activities without worrying about the weather 
 
 Varanasi is the city of Lord Shiva, and Mahashivratri is his great night. The energy during this festival is something you have to feel to believe. The city throbs with devotion.
 
-**Mark Your Calendar:** In 2026, Mahashivratri will be celebrated on **Tuesday, February 17th**.
+**Mark Your Calendar:** In 2026, Mahashivratri will be celebrated on **Sunday, February 15th**.
 
 Expect to see grand processions of sadhus and devotees, especially on the route leading to the Kashi Vishwanath Temple. The temples are decorated, chants fill the air all night, and there's a unique, fervent atmosphere everywhere. If you plan to be here for Mahashivratri, be prepared for large, passionate crowds.
 
@@ -97,7 +97,7 @@ Layering is the name of the game for a comfortable February trip.
 > Yes, February is one of the best months to visit Varanasi. The weather is ideal—pleasantly warm during the day and cool in the evenings—perfect for sightseeing. It's also the month of the major festival of Mahashivratri.
 
 > **What is the date of Mahashivratri in 2026?**
-> In 2026, Mahashivratri will be celebrated on **Tuesday, February 17th**. Expect large, devout crowds and vibrant processions, especially around the Kashi Vishwanath Temple.
+> In 2026, Mahashivratri will be celebrated on **Sunday, February 15th**. Expect large, devout crowds and vibrant processions, especially around the Kashi Vishwanath Temple.
 
 > **Is fog a problem in Varanasi in February?**
 > No, the dense fog that can affect travel in December and January has typically cleared by February, leading to bright, sunny days and clear skies, which are ideal for photography and boat rides.

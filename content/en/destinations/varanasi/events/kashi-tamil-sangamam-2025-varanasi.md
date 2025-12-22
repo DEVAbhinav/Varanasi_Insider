@@ -6,8 +6,8 @@ lastUpdated: "2025-11-20"
 author: "Varanasi Insider Team"
 excerpt: "Experience the grand cultural confluence of Kashi Tamil Sangamam 2025. Complete guide to registration, venue, schedule, and taxi services for this historic event."
 lang: en
-metaTitle: "Kashi Tamil Sangamam 4.0 Varanasi Dec 2025 | Dates, Schedule, Taxi"
-metaDescription: "Kashi Tamil Sangamam 4.0 (Dec 2–15, 2025): Dates, venue, 1,400+ delegates, heritage walks, cultural programs. Book taxi, accommodation & group tours in Varanasi."
+metaTitle: "Kashi Tamil Sangamam 2025 Recap | 2026 Dates Coming Soon"
+metaDescription: "Kashi Tamil Sangamam 4.0 ended Dec 15, 2025. 1,400+ delegates attended. See photos, highlights & what happened. 2026 dates expected soon →"
 description: "Kashi Tamil Sangamam 4.0 (Dec 2–15, 2025): Dates, venue, 1,400+ delegates, heritage walks, cultural programs. Book taxi, accommodation & group tours in Varanasi."
 keywords:
   - "Kashi Tamil Sangamam 2025"

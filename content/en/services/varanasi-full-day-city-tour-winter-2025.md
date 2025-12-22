@@ -25,7 +25,7 @@ lastUpdated: "2025-10-02"
 ## Best Cab Service in Varanasi in December & November: Why Winter is Prime Sightseeing Season
 
 - **Weather**: Crisp mornings (12–15°C), pleasant afternoons (22–24°C)—ideal for temple walks, ghat exploration
-- **Festivals**: Dev Deepawali (Nov 5), Ganga Mahotsav (Nov 6–8), potential Mahashivratri (Feb 26, 2026)
+- **Festivals**: Dev Deepawali (Nov 5), Ganga Mahotsav (Nov 6–8), Mahashivratri (Feb 15, 2026)
 - **Visibility**: Clear skies for sunrise boat rides, evening photography
 - **Special Experiences**: Malaiyyo (saffron milk-foam dessert) available only Dec–Jan
 
