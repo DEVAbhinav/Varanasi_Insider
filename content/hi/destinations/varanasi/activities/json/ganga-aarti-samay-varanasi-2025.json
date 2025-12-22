@@ -7,17 +7,18 @@
         "@type": "WebPage",
         "@id": "https://www.kashitaxi.in/hi/city/varanasi/activities/ganga-aarti-samay-varanasi-2025"
       },
-      "headline": "वाराणसी में गंगा आरती का समय (2025)",
-      "description": "2025 के लिए वाराणसी में गंगा आरती के समय की संपूर्ण जानकारी—दशाश्वमेध, अस्सी और अन्य घाटों पर सुबह और शाम की आरती का पूरा शेड्यूल।",
+      "headline": "वाराणसी में गंगा आरती का समय 2026: पूर्ण मौसमी गाइड",
+      "description": "आज शाम की गंगा आरती 6 बजे (सर्दियों में) दशाश्वमेध घाट पर। 2026 का पूरा महीने-वार शेड्यूल, नाव समय और देव दीपावली व कार्तिक पूर्णिमा की विशेष टाइमिंग।",
       "image": [
         "https://www.kashitaxi.in/images/ganga-aarti.jpeg",
         "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg"
       ],
       "datePublished": "2025-06-19",
-      "dateModified": "2025-06-19",
+      "dateModified": "2025-12-22",
       "author": {
         "@type": "Person",
-        "name": "कमल नयन सिंह"
+        "name": "वाराणसी इनसाइडर टीम",
+        "url": "https://www.kashitaxi.in/about"
       },
       "publisher": {
         "@type": "Organization",
@@ -28,52 +29,174 @@
         },
         "@id": "https://www.kashitaxi.in#organization"
       },
-      "inLanguage": "hi"
+      "inLanguage": "hi",
+      "about": {
+        "@type": "Thing",
+        "name": "गंगा आरती",
+        "sameAs": "https://hi.wikipedia.org/wiki/गंगा_आरती"
+      }
     },
     {
       "@type": "Event",
-      "name": "वाराणसी घाटों पर गंगा आरती",
-      "description": "वाराणसी के घाटों पर होने वाली पवित्र अग्नि पूजा। अस्सी घाट पर सुबह की आरती और दशाश्वमेध घाट पर शाम की आरती हजारों श्रद्धालुओं को आकर्षित करती है।",
-      "startDate": "2025-01-01",
-      "endDate": "2025-12-31",
+      "name": "दशाश्वमेध घाट पर शाम की गंगा आरती",
+      "description": "दशाश्वमेध घाट पर रोजाना होने वाली पवित्र अग्नि पूजा। 7-8 पुजारी संस्कृत मंत्रों के साथ 45 मिनट तक दीपदान करते हैं। हजारों श्रद्धालु इसमें शामिल होते हैं।",
+      "startDate": "2026-01-01T17:30:00+05:30",
+      "endDate": "2026-12-31T18:15:00+05:30",
+      "eventSchedule": {
+        "@type": "Schedule",
+        "repeatFrequency": "P1D",
+        "byDay": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "startTime": "17:30:00",
+        "endTime": "18:15:00",
+        "scheduleTimezone": "Asia/Kolkata"
+      },
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "location": {
         "@type": "Place",
-        "name": "वाराणसी घाट",
+        "name": "दशाश्वमेध घाट",
         "address": {
           "@type": "PostalAddress",
+          "streetAddress": "दशाश्वमेध घाट",
           "addressLocality": "वाराणसी",
           "addressRegion": "उत्तर प्रदेश",
+          "postalCode": "221001",
           "addressCountry": "IN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "25.3109",
+          "longitude": "83.0107"
         }
       },
-      "image": [
-        "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
-      ],
+      "image": ["https://www.kashitaxi.in/images/ganga-aarti.jpeg"],
       "offers": [
         {
           "@type": "Offer",
           "name": "घाट की सीढ़ियों से मुफ्त दर्शन",
           "price": "0",
           "priceCurrency": "INR",
-          "availability": "https://schema.org/InStock"
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-01-01"
         },
         {
           "@type": "Offer",
           "name": "नाव से दर्शन",
-          "price": "300",
+          "price": "200",
           "priceCurrency": "INR",
-          "lowPrice": "300",
-          "highPrice": "1800",
-          "availability": "https://schema.org/InStock"
+          "lowPrice": "200",
+          "highPrice": "4500",
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-01-01"
         }
       ],
       "performer": {
         "@type": "PerformingGroup",
-        "name": "वाराणसी घाटों के पुजारी"
+        "name": "दशाश्वमेध घाट के पुजारी"
       },
+      "duration": "PT45M",
       "inLanguage": "hi"
+    },
+    {
+      "@type": "Event",
+      "name": "अस्सी घाट पर सुबह की आरती (सुबह-ए-बनारस)",
+      "description": "अस्सी घाट पर योग, हवन और संक्षिप्त आरती का शांत अनुभव। कम पर्यटकों के साथ अधिक आध्यात्मिक अनुभव।",
+      "startDate": "2026-01-01T05:30:00+05:30",
+      "endDate": "2026-12-31T06:15:00+05:30",
+      "eventSchedule": {
+        "@type": "Schedule",
+        "repeatFrequency": "P1D",
+        "startTime": "05:30:00",
+        "endTime": "06:15:00",
+        "scheduleTimezone": "Asia/Kolkata"
+      },
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "अस्सी घाट",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "अस्सी घाट",
+          "addressLocality": "वाराणसी",
+          "addressRegion": "उत्तर प्रदेश",
+          "postalCode": "221005",
+          "addressCountry": "IN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "25.2883",
+          "longitude": "83.0059"
+        }
+      },
+      "duration": "PT45M",
+      "inLanguage": "hi"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "आज वाराणसी में गंगा आरती कितने बजे है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "दशाश्वमेध घाट पर शाम की आरती: 5:30 बजे (सर्दियों में अक्टूबर-मार्च), 7:00 बजे (गर्मियों में अप्रैल-जून)। अस्सी घाट पर सुबह की आरती: 5:30 बजे (सर्दियों में), 4:45 बजे (गर्मियों में)। अच्छी जगह के लिए 45 मिनट पहले पहुंचें।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "गंगा आरती कितनी देर तक चलती है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "गंगा आरती 40-45 मिनट तक चलती है। इसमें शंख बजाना, 7-8 पुजारियों द्वारा दीपदान, धूप अर्पण और संस्कृत मंत्र शामिल हैं।"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "क्या नाव से गंगा आरती देख सकते हैं?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "हां! नाव से दर्शन ₹200-300 प्रति व्यक्ति (शेयर्ड) या ₹1,800-4,500 (प्राइवेट)। नाव आरती से 45 मिनट पहले निकलती है। फायदे: भीड़ नहीं, आंखों के स्तर पर दीपों का नजारा, बेहतर फोटो। व्हाट्सएप: +91 94503 01573"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "2026 में देव दीपावली कब है?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "देव दीपावली 2026 24 नवंबर (मंगलवार) को है। विशेष आरती शाम 5:15 से 7:50 बजे तक (2.5 घंटे)। 84 घाटों पर 10 लाख+ दीये जलाए जाते हैं। दोपहर 3 बजे तक पहुंचें; नाव 5-7 दिन पहले बुक करें।"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "होम",
+          "item": "https://www.kashitaxi.in/hi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "वाराणसी",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "गतिविधियां",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/activities"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "गंगा आरती समय 2026",
+          "item": "https://www.kashitaxi.in/hi/city/varanasi/activities/ganga-aarti-samay-varanasi-2025"
+        }
+      ]
     }
   ]
 }
