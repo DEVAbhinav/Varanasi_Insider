@@ -285,8 +285,8 @@ Plan temple visits early in the morning or post-lunch to avoid heavy queues at p
 
 ### Similar Routes from Varanasi You Might Like
 
-- [Varanasi to Ayodhya Cabs](/en/city/ayodhya/taxi) - 219 km | 4 hrs | Ram Mandir visit
-- [Varanasi to Gaya Taxi](/en/city/gaya/taxi) - 115 km | 3 hrs | Vishnupad Temple
+- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) - 219 km | 4 hrs | Ram Mandir visit
+- [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Vishnupad Temple
 - [Varanasi Airport to Prayagraj](/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance) - Airport transfers
 
 ### Travel Blog Posts

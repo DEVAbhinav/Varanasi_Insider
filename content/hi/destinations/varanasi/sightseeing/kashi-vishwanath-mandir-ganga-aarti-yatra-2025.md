@@ -21,7 +21,7 @@ tags:
   - pilgrimage
   - ganga aarti
 template: destination
-featuredImage: "/images/kashi-vishwanath-temple-night.jpeg"
+
 eyebrow: "मंदिर + आरती यात्रा"
 ctaTitle: "एक ही दिन मंदिर + आरती की योजना?"
 ctaSubtitle: "एक योजना के साथ दर्शन समय, घाट पहुँच और नाव दृश्य का समन्वय करें।"

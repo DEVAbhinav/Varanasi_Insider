@@ -1,0 +1,1010 @@
+{
+  "timestamp": "2025-12-23T13:58:32.586Z",
+  "summary": {
+    "totalBroken": 95,
+    "totalFiles": 80
+  },
+  "brokenImages": [
+    {
+      "path": "/images/tempo-traveller-fleet.jpg",
+      "originalPath": "/images/tempo-traveller-fleet.jpg",
+      "suggestions": [
+        {
+          "path": "/images/tempo-travellar-side-l.jpeg",
+          "score": 58,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/tempo-travellar-side-l.jpeg",
+          "score": 58,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi.md",
+        "content/en/book-taxi-varanasi-ramlila-dussehra.md",
+        "content/en/corporate-group-tempo-traveller-varanasi.md",
+        "content/en/tempo-traveller-varanasi.md",
+        "content/en/varanasi-to-naimisharanya-tempo-traveller.md"
+      ]
+    },
+    {
+      "path": "/images/posts/about-banarasi-kashitaxi.jpg",
+      "originalPath": "/images/posts/about-banarasi-kashitaxi.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/about.md",
+        "content/hi/about.md"
+      ]
+    },
+    {
+      "path": "/images/book-taxi-dussehra-varanasi.jpg",
+      "originalPath": "/images/book-taxi-dussehra-varanasi.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/book-taxi-varanasi-ramlila-dussehra.md"
+      ]
+    },
+    {
+      "path": "/images/posts/contact-banarasi-kashitaxi.jpg",
+      "originalPath": "/images/posts/contact-banarasi-kashitaxi.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/contact.md",
+        "content/hi/contact.md"
+      ]
+    },
+    {
+      "path": "/images/sample-ayodhya-1n2d.jpg",
+      "originalPath": "/images/sample-ayodhya-1n2d.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/ayodhya/tour-packages/ayodhya-1n2d-tour.md"
+      ]
+    },
+    {
+      "path": "/images/ayodhya-two-day-tour.jpg",
+      "originalPath": "/images/ayodhya-two-day-tour.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/ayodhya/tour-packages/ayodhya-2-day-tour.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-night-lights.jpeg",
+      "originalPath": "/images/varanasi-night-lights.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/events/banaras-lit-fest-2026-corporate-mobility-partner.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-ghats-morning.jpeg",
+      "originalPath": "/images/varanasi-ghats-morning.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/varanasi-ghat-early-morning.jpeg",
+          "score": 62,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/varanasi-ghat-early-morning.jpeg",
+          "score": 62,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/varanasi-ghats-overview.jpeg",
+          "score": 59,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/destinations/varanasi/events/banaras-lit-fest-2026-venue-guide-hotels-logistics.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-ghat-evening-p.jpeg",
+      "originalPath": "/images/varanasi-ghat-evening-p.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/varanashi-ghat-evening-P.jpeg",
+          "score": 77,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/varanashi-ghat-evening-P.jpeg",
+          "score": 77,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/varanasi-river-boat-evening-p.jpeg",
+          "score": 58,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/destinations/varanasi/food/varanasi-winter-food-itinerary.md",
+        "content/en/destinations/varanasi/taxi/varanasi-airport-transfer-guide.md",
+        "content/en/destinations/varanasi/varanasi-december-2025-experience-hub.md",
+        "content/hi/destinations/varanasi/taxi/varanasi-airport-transfer-guide.md",
+        "content/hi/destinations/varanasi/varanasi-december-2025-experience-hub.md"
+      ]
+    },
+    {
+      "path": "/images/kashi-vishwanath-temple-night.jpeg",
+      "originalPath": "/images/kashi-vishwanath-temple-night.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025.md",
+        "content/hi/destinations/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2025.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi%20tourist%20map-flat-lanscape.jpeg",
+      "originalPath": "/images/varanasi%20tourist%20map-flat-lanscape.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/varanasi tourist map-flat-lanscape.jpeg",
+          "score": 67,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/varanasi tourist map-flat-lanscape.jpeg",
+          "score": 67,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/destinations/varanasi/taxi/24-7-taxi-varanasi.md",
+        "content/en/destinations/varanasi/taxi/airport-taxi-varanasi.md",
+        "content/en/destinations/varanasi/taxi/one-way-taxi-varanasi.md",
+        "content/en/destinations/varanasi/taxi/taxi-rates-varanasi.md",
+        "content/en/destinations/varanasi/taxi/taxi-service-varanasi.md",
+        "content/en/destinations/varanasi/taxi/varanasi-city-tour-cab.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-to-gaya-taxi.jpg",
+      "originalPath": "/images/varanasi-to-gaya-taxi.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/taxi/varanasi-to-gaya-taxi-service.md"
+      ]
+    },
+    {
+      "path": "/images/vishnupad-temple-gaya.jpg",
+      "originalPath": "/images/vishnupad-temple-gaya.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/taxi/varanasi-to-gaya-taxi-service.md",
+        "content/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/ayodhya-varanasi-tour.jpg",
+      "originalPath": "/images/ayodhya-varanasi-tour.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/tour-packages/ayodhya-varanasi-3-day-tour.md"
+      ]
+    },
+    {
+      "path": "/images/sample-ayodhya-varanasi-tour.jpg",
+      "originalPath": "/images/sample-ayodhya-varanasi-tour.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/tour-packages/ayodhya-varanasi-tour.md"
+      ]
+    },
+    {
+      "path": "/images/pind-daan-gaya-ritual.jpg",
+      "originalPath": "/images/pind-daan-gaya-ritual.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-sunrise-boat.jpg",
+      "originalPath": "/images/varanasi-sunrise-boat.jpg",
+      "suggestions": [
+        {
+          "path": "/images/varanasi-sunrise-p.jpeg",
+          "score": 65,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/varanasi-sunrise-p.jpeg",
+          "score": 65,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/varanasi-river-sunrise-boat-p.jpeg",
+          "score": 58,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/destinations/varanasi/tour-packages/same-day-varanasi-tour.md"
+      ]
+    },
+    {
+      "path": "/images/sample-varanasi-1n2d.jpg",
+      "originalPath": "/images/sample-varanasi-1n2d.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/tour-packages/varanasi-1n2d-tour.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-two-day-tour.jpg",
+      "originalPath": "/images/varanasi-two-day-tour.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/tour-packages/varanasi-2-day-tour.md"
+      ]
+    },
+    {
+      "path": "/images/sample-varanasi-2n3d.jpg",
+      "originalPath": "/images/sample-varanasi-2n3d.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/tour-packages/varanasi-2n3d-tour.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-three-day-tour.jpg",
+      "originalPath": "/images/varanasi-three-day-tour.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/tour-packages/varanasi-3-day-tour.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-ganga-aarti.jpg",
+      "originalPath": "/images/varanasi-ganga-aarti.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/destinations/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly.md",
+        "content/en/packages/varanasi-tour-package.md",
+        "content/en/safety-and-security-in-varanasi-guide-for-solo-travellar.md"
+      ]
+    },
+    {
+      "path": "/images/Varanasi%20weather%20January%20Lscape.jpeg",
+      "originalPath": "/images/Varanasi%20weather%20January%20Lscape.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/Varanasi weather January Lscape.jpeg",
+          "score": 61,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/Varanasi weather January Lscape.jpeg",
+          "score": 61,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/destinations/varanasi/travel-guide/varanasi-in-january-2025.md"
+      ]
+    },
+    {
+      "path": "/images/ravana-dahan-varanasi.jpg",
+      "originalPath": "/images/ravana-dahan-varanasi.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/dussehra-ravana-dahan-varanasi-oct-2.md"
+      ]
+    },
+    {
+      "path": "/images/eveningAartiHero.jpg",
+      "originalPath": "/images/eveningAartiHero.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/evening-boat-ride-varanasi-ganga-aarti.md",
+        "content/hi/evening-boat-ride-varanasi-ganga-aarti.md",
+        "content/hi/ganga-aarti-boat-booking-price.md"
+      ]
+    },
+    {
+      "path": "/images/ghats-of-varanasi-panorama.jpg",
+      "originalPath": "/images/ghats-of-varanasi-panorama.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/guide-to-10-most-important-ghats-of-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/manikarnika-ghat.jpg",
+      "originalPath": "/images/manikarnika-ghat.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/manikarnika-ghat-sacred-cremation-grounds.md"
+      ]
+    },
+    {
+      "path": "/images/sunriseBoatRide.jpeg",
+      "originalPath": "/images/sunriseBoatRide.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/morning-boat-ride-varanasi-price.md"
+      ]
+    },
+    {
+      "path": "/images/vindhyachal-navratri-darshan-queue.jpeg",
+      "originalPath": "/images/vindhyachal-navratri-darshan-queue.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/navratri-in-vindhyachal-practical-guide.md",
+        "content/hi/navratri-in-vindhyachal-practical-guide.md"
+      ]
+    },
+    {
+      "path": "/images/vindhyachal-navratri-puja.jpeg",
+      "originalPath": "/images/vindhyachal-navratri-puja.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/navratri-in-vindhyachal-practical-guide.md",
+        "content/hi/navratri-in-vindhyachal-practical-guide.md"
+      ]
+    },
+    {
+      "path": "/images/vindhyachal-navratri-mela.jpeg",
+      "originalPath": "/images/vindhyachal-navratri-mela.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/navratri-in-vindhyachal-practical-guide.md",
+        "content/hi/navratri-in-vindhyachal-practical-guide.md"
+      ]
+    },
+    {
+      "path": "/images/navratri-vrat-thali.jpeg",
+      "originalPath": "/images/navratri-vrat-thali.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/navratri-in-vindhyachal-practical-guide.md",
+        "content/hi/navratri-in-vindhyachal-practical-guide.md"
+      ]
+    },
+    {
+      "path": "/images/trikon-parikrama-map.jpeg",
+      "originalPath": "/images/trikon-parikrama-map.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/navratri-pilgrimage-vindhyachal-from-varanasi-guide.md",
+        "content/hi/navratri-pilgrimage-vindhyachal-from-varanasi-guide.md"
+      ]
+    },
+    {
+      "path": "/images/vindhyachal-navratri-crowd.jpeg",
+      "originalPath": "/images/vindhyachal-navratri-crowd.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/navratri-pilgrimage-vindhyachal-from-varanasi-guide.md"
+      ]
+    },
+    {
+      "path": "/images/vindhyachal-darshan-queue.jpeg",
+      "originalPath": "/images/vindhyachal-darshan-queue.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/navratri-pilgrimage-vindhyachal-from-varanasi-guide.md"
+      ]
+    },
+    {
+      "path": "/images/vindhyachal-prasad.jpeg",
+      "originalPath": "/images/vindhyachal-prasad.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/navratri-pilgrimage-vindhyachal-from-varanasi-guide.md"
+      ]
+    },
+    {
+      "path": "/images/tempotraveller.png",
+      "originalPath": "/images/tempotraveller.png",
+      "suggestions": [],
+      "sources": [
+        "content/en/outstation-cabs-from-varanasi.md",
+        "content/hi/outstation-cabs-from-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/ramnagar-ramlila-map.jpg",
+      "originalPath": "/images/ramnagar-ramlila-map.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/ramnagar-ramlila-moving-stages-guide.md"
+      ]
+    },
+    {
+      "path": "/images/sunrise-boat-ride.jpg",
+      "originalPath": "/images/sunrise-boat-ride.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/sunrise-boat-ride-ganges.md"
+      ]
+    },
+    {
+      "path": "/images/tempo-traveller-group-dussehra.jpg",
+      "originalPath": "/images/tempo-traveller-group-dussehra.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-group-booking-dussehra.md"
+      ]
+    },
+    {
+      "path": "/images/tempo-travellar_side_back_white.jpeg",
+      "originalPath": "/images/tempo-travellar_side_back_white.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/Tempo_travellar_side_back_white.jpeg",
+          "score": 77,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/Tempo_travellar_side_back_white.jpeg",
+          "score": 77,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/TempoTraveller_side_White.jpeg",
+          "score": 62,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/tempo-traveller-safety-features-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/tempo-vs-bus-comparison.jpg",
+      "originalPath": "/images/tempo-vs-bus-comparison.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/tempo-bus-side-comparison.jpg",
+      "originalPath": "/images/tempo-bus-side-comparison.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/tempo-narrow-lane.jpg",
+      "originalPath": "/images/tempo-narrow-lane.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/bus-parking-challenge.jpg",
+      "originalPath": "/images/bus-parking-challenge.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/cost-per-person-comparison.jpg",
+      "originalPath": "/images/cost-per-person-comparison.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/interior-comfort-comparison.jpg",
+      "originalPath": "/images/interior-comfort-comparison.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/time-efficiency-comparison.jpg",
+      "originalPath": "/images/time-efficiency-comparison.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/driver-navigating-varanasi.jpg",
+      "originalPath": "/images/driver-navigating-varanasi.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/two-tempos-comparison.jpg",
+      "originalPath": "/images/two-tempos-comparison.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/senior-pilgrimage-group.jpg",
+      "originalPath": "/images/senior-pilgrimage-group.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/wedding-tempo-decorated.jpg",
+      "originalPath": "/images/wedding-tempo-decorated.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/pricing-breakdown-chart.jpg",
+      "originalPath": "/images/pricing-breakdown-chart.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/old-city-lanes-challenge.jpg",
+      "originalPath": "/images/old-city-lanes-challenge.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/decision-flowchart.jpg",
+      "originalPath": "/images/decision-flowchart.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/safety-features-comparison.jpg",
+      "originalPath": "/images/safety-features-comparison.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/happy-group-testimonial.jpg",
+      "originalPath": "/images/happy-group-testimonial.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-mini-bus-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/tempo-traveller-vs-cars-comparison.jpg",
+      "originalPath": "/images/tempo-traveller-vs-cars-comparison.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/family-tempo-traveller-varanasi.jpg",
+      "originalPath": "/images/family-tempo-traveller-varanasi.jpg",
+      "suggestions": [
+        {
+          "path": "/images/solo-femal-traveller-varanasi.jpeg",
+          "score": 59,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/solo-femal-traveller-varanasi.jpeg",
+          "score": 59,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/cost-comparison-local-tour.jpg",
+      "originalPath": "/images/cost-comparison-local-tour.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/tempo-ayodhya-ram-mandir.jpg",
+      "originalPath": "/images/tempo-ayodhya-ram-mandir.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/family-bhajan-tempo.jpg",
+      "originalPath": "/images/family-bhajan-tempo.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/tempo-luggage-space.jpg",
+      "originalPath": "/images/tempo-luggage-space.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/elderly-comfort-tempo.jpg",
+      "originalPath": "/images/elderly-comfort-tempo.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/driver-helping-family.jpg",
+      "originalPath": "/images/driver-helping-family.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-narrow-lanes.jpg",
+      "originalPath": "/images/varanasi-narrow-lanes.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/corporate-team-tempo.jpg",
+      "originalPath": "/images/corporate-team-tempo.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/wedding-guests-tempo.jpg",
+      "originalPath": "/images/wedding-guests-tempo.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/route-pricing-comparison.jpg",
+      "originalPath": "/images/route-pricing-comparison.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/transparent-pricing.jpg",
+      "originalPath": "/images/transparent-pricing.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/safe-tempo-service.jpg",
+      "originalPath": "/images/safe-tempo-service.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/happy-family-testimonial.jpg",
+      "originalPath": "/images/happy-family-testimonial.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/tempo-traveller-vs-multiple-cars-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/multiCityCircuit.png",
+      "originalPath": "/images/multiCityCircuit.png",
+      "suggestions": [],
+      "sources": [
+        "content/en/tour-package-from-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/vindhyavasini-temple-main.jpeg",
+      "originalPath": "/images/vindhyavasini-temple-main.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/trikon-parikrama-vindhyachal-complete-guide.md",
+        "content/hi/trikon-parikrama-vindhyachal-complete-guide.md"
+      ]
+    },
+    {
+      "path": "/images/trikon-parikrama-route-map.jpeg",
+      "originalPath": "/images/trikon-parikrama-route-map.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/trikon-parikrama-vindhyachal-complete-guide.md",
+        "content/hi/trikon-parikrama-vindhyachal-complete-guide.md"
+      ]
+    },
+    {
+      "path": "/images/kali-khoh-temple-cave.jpeg",
+      "originalPath": "/images/kali-khoh-temple-cave.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/trikon-parikrama-vindhyachal-complete-guide.md",
+        "content/hi/trikon-parikrama-vindhyachal-complete-guide.md"
+      ]
+    },
+    {
+      "path": "/images/ashtabhuja-temple-hilltop.jpeg",
+      "originalPath": "/images/ashtabhuja-temple-hilltop.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/trikon-parikrama-vindhyachal-complete-guide.md",
+        "content/hi/trikon-parikrama-vindhyachal-complete-guide.md"
+      ]
+    },
+    {
+      "path": "/images/parikrama-route-temples.jpeg",
+      "originalPath": "/images/parikrama-route-temples.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/trikon-parikrama-vindhyachal-complete-guide.md",
+        "content/hi/trikon-parikrama-vindhyachal-complete-guide.md"
+      ]
+    },
+    {
+      "path": "/images/trikon-parikrama-completion.jpeg",
+      "originalPath": "/images/trikon-parikrama-completion.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/trikon-parikrama-vindhyachal-complete-guide.md",
+        "content/hi/trikon-parikrama-vindhyachal-complete-guide.md"
+      ]
+    },
+    {
+      "path": "/images/posts/varanasi-airport-taxi.jpg",
+      "originalPath": "/images/posts/varanasi-airport-taxi.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/en/varanasi-airport-taxi-guide.md",
+        "content/hi/varanasi-airport-taxi-guide.md"
+      ]
+    },
+    {
+      "path": "/images/posts/varanasi-music-heritage.jpeg",
+      "originalPath": "/images/posts/varanasi-music-heritage.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/varanasi-classical-music-heritage.md",
+        "content/hi/varanasi-classical-music-heritage.md"
+      ]
+    },
+    {
+      "path": "/images/posts/varanasi-instrument-market.jpeg",
+      "originalPath": "/images/posts/varanasi-instrument-market.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/en/varanasi-instrument-market-guide.md",
+        "content/hi/varanasi-instrument-market-guide.md"
+      ]
+    },
+    {
+      "path": "/images/Temp_travellar_inside.jpeg",
+      "originalPath": "/images/Temp_travellar_inside.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/tempo-travellar-inside.jpeg",
+          "score": 69,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/tempo-travellar-inside.jpeg",
+          "score": 69,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/Tempo_travellar_neon_inside.jpeg",
+          "score": 62,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/varanasi-to-ayodhya-12-seater-tempo-traveller.md",
+        "content/en/varanasi-to-ayodhya-day-trip-tempo-traveller.md",
+        "content/en/varanasi-to-kushinagar-tempo-traveller.md"
+      ]
+    },
+    {
+      "path": "/images/Tempo_travellar_side_l.jpeg",
+      "originalPath": "/images/Tempo_travellar_side_l.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/tempo-travellar-side-l.jpeg",
+          "score": 69,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/tempo-travellar-side-l.jpeg",
+          "score": 69,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/TempoTraveller_side_White.jpeg",
+          "score": 58,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/varanasi-to-ayodhya-12-seater-tempo-traveller.md",
+        "content/en/varanasi-to-sarnath-tempo-traveller.md"
+      ]
+    },
+    {
+      "path": "/images/Temp_travellar_neon_inside.jpeg",
+      "originalPath": "/images/Temp_travellar_neon_inside.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/Tempo_travellar_neon_inside.jpeg",
+          "score": 77,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/Tempo_travellar_neon_inside.jpeg",
+          "score": 77,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/varanasi-to-lucknow-tempo-traveller.md"
+      ]
+    },
+    {
+      "path": "/images/ganga-river-boat-evening-p.jpeg",
+      "originalPath": "/images/ganga-river-boat-evening-p.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/varanasi-river-boat-evening-p.jpeg",
+          "score": 63,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/varanasi-river-boat-evening-p.jpeg",
+          "score": 63,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/varanasi-to-prayagraj-kumbh-tempo-traveller.md",
+        "content/en/varanasi-to-triveni-sangam-tempo-traveller.md"
+      ]
+    },
+    {
+      "path": "/images/Tempo_travellar_inside.jpeg",
+      "originalPath": "/images/Tempo_travellar_inside.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/tempo-travellar-inside.jpeg",
+          "score": 73,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/tempo-travellar-inside.jpeg",
+          "score": 73,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/Tempo_travellar_neon_inside.jpeg",
+          "score": 65,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/varanasi-to-prayagraj-kumbh-tempo-traveller.md"
+      ]
+    },
+    {
+      "path": "/images/Temp_traveller_lux_seat_side.jpeg",
+      "originalPath": "/images/Temp_traveller_lux_seat_side.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/Tempo_traveller_lux_seat_side.jpeg",
+          "score": 77,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/Tempo_traveller_lux_seat_side.jpeg",
+          "score": 77,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/en/varanasi-travel-agent.md"
+      ]
+    },
+    {
+      "path": "/images/varanasi-best-time-600x400.jpeg",
+      "originalPath": "/images/varanasi-best-time-600x400.jpeg",
+      "suggestions": [],
+      "sources": [
+        "content/hi/best-time-to-visit-varanasi.md"
+      ]
+    },
+    {
+      "path": "/images/ganga-aarti2.jpeg",
+      "originalPath": "/images/ganga-aarti2.jpeg",
+      "suggestions": [
+        {
+          "path": "/images/ganga-aarti.jpeg",
+          "score": 73,
+          "reason": "similar name"
+        },
+        {
+          "path": "/images/ganga-aarti.jpeg",
+          "score": 73,
+          "reason": "similar name"
+        }
+      ],
+      "sources": [
+        "content/hi/dashashwamedh-ghat-detailed-guide.md",
+        "content/hi/dashashwamedh-ghat-ganga-aarti-timing.md"
+      ]
+    },
+    {
+      "path": "/images/posts/dashashwamedh-ghat-aarti.jpg",
+      "originalPath": "/images/posts/dashashwamedh-ghat-aarti.jpg",
+      "suggestions": [],
+      "sources": [
+        "content/hi/dashashwamedh-ghat-ganga-aarti.md"
+      ]
+    },
+    {
+      "path": "/images/trust-badge-1.png",
+      "originalPath": "/images/trust-badge-1.png",
+      "suggestions": [],
+      "sources": [
+        "components/Hero/Hero.js"
+      ]
+    },
+    {
+      "path": "/images/trust-badge-2.png",
+      "originalPath": "/images/trust-badge-2.png",
+      "suggestions": [],
+      "sources": [
+        "components/Hero/Hero.js"
+      ]
+    },
+    {
+      "path": "/images/trust-badge-3.png",
+      "originalPath": "/images/trust-badge-3.png",
+      "suggestions": [],
+      "sources": [
+        "components/Hero/Hero.js"
+      ]
+    },
+    {
+      "path": "/images/trust-badge-4.png",
+      "originalPath": "/images/trust-badge-4.png",
+      "suggestions": [],
+      "sources": [
+        "components/Hero/Hero.js"
+      ]
+    }
+  ]
+}

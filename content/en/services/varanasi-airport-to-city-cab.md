@@ -127,14 +127,14 @@ This grid helps the page qualify for long-tail queries like *“Varanasi airport
 
 | Route / Intent | Distance | Sedan Fare | Deep Dive |
 | --- | --- | --- | --- |
-| Assi Ghat / Bhelupura cafés | 26–27 km | ₹700–₹950 | [Airport → Assi Ghat](/en/destinations/varanasi/taxi/varanasi-airport-to-assi-ghat-distance) |
-| Dashashwamedh / Godowlia (Ganga Aarti) | 24–25 km | ₹750–₹950 | [Airport → Dashashwamedh](/en/destinations/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance) |
-| Sarnath Buddhist circuit | 32 km | ₹850–₹1,050 | [Airport → Sarnath](/en/destinations/varanasi/taxi/varanasi-airport-to-sarnath-distance) |
-| Varanasi Junction (Cantt Station) | 22 km | ₹690 Flash / ₹750 std | [Airport → Cantt Station](/en/destinations/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance) |
-| Banaras City Station (BCY) / Old City | 21 km | ₹700–₹900 | [Airport → City Station](/en/destinations/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance) |
-| Kashi Vishwanath Corridor & temples | 25 km | ₹750–₹950 | [Airport → Kashi Vishwanath](/en/destinations/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance) |
-| BHU / Lanka hostels | 20 km | ₹800–₹950 | [Airport → BHU/Lanka guide](/en/services/varanasi-airport-taxi-winter-2025#vns-airport-to-assi-ghat-godowlia-major-hotels-fixed-taxi-fares-winter-2025) |
-| NaMo Ghat / Light Show | 24 km | ₹800–₹1,000 | [Airport → NaMo Ghat](/en/destinations/varanasi/taxi/varanasi-airport-to-namo-ghat-distance) |
+| Assi Ghat / Bhelupura cafés | 26–27 km | ₹700–₹950 | [Airport → Assi Ghat](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance) |
+| Dashashwamedh / Godowlia (Ganga Aarti) | 24–25 km | ₹750–₹950 | [Airport → Dashashwamedh](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance) |
+| Sarnath Buddhist circuit | 32 km | ₹850–₹1,050 | [Airport → Sarnath](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance) |
+| Varanasi Junction (Cantt Station) | 22 km | ₹690 Flash / ₹750 std | [Airport → Cantt Station](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance) |
+| Banaras City Station (BCY) / Old City | 21 km | ₹700–₹900 | [Airport → City Station](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance) |
+| Kashi Vishwanath Corridor & temples | 25 km | ₹750–₹950 | [Airport → Kashi Vishwanath](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance) |
+| BHU / Lanka hostels | 20 km | ₹800–₹950 | [Airport → BHU/Lanka guide](/en/varanasi-airport-taxi-price-guide) |
+| NaMo Ghat / Light Show | 24 km | ₹800–₹1,000 | [Airport → NaMo Ghat](/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance) |
 
 Use these links for detailed turn-by-turn routes, ghat barricade intel, and backup pickup points.
 
@@ -171,7 +171,7 @@ Use these links for detailed turn-by-turn routes, ghat barricade intel, and back
 | Cancel <3 hrs after driver dispatch | 50% retained to cover standby | Same |
 | Night security concern | Pink Taxi or female chauffeur upgrade (subject to availability) | Mention “pink” during booking |
 
-Bookmark this section (or the [airport transfer guide](/en/destinations/varanasi/taxi/varanasi-airport-transfer-guide)) if you need to show hotel concierges the official policy.
+Bookmark this section (or the [airport transfer guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide)) if you need to show hotel concierges the official policy.
 
 ## Recent Traveller Highlights
 
@@ -213,9 +213,9 @@ Yes. Assi drops stay ₹700–₹950 for sedans, while Dashashwamedh ₹750–�
 
 ## Related Services
 
-- [Winter 2025 Airport Taxi Service](/en/services/varanasi-airport-taxi-winter-2025)
+- [Airport Taxi Price Guide 2025](/en/varanasi-airport-taxi-price-guide)
 - [Safest Taxi for Women](/en/services/varanasi-safest-taxi-for-women)
 - [Pink Taxi (Women-Only)](/pink-taxi-varanasi)
-- [Outstation & Pilgrimage Cabs](/en/services/outstation-cab-service)
+- [Outstation Cabs from Varanasi](/en/outstation-cabs-from-varanasi)
 
 Need a long-haul drop after landing? Tell us in the chat and we’ll convert your airport pickup into a full-day city + outstation contract on the same booking ID.

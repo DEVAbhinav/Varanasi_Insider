@@ -39,8 +39,8 @@ faqSchema:
   "@type": "LocalBusiness",
   "name": "Kashi Taxi - Airport to Varanasi Junction (Cantt)",
   "image": "https://www.kashitaxi.in/images/kashi-taxi-logo.png",
-  "@id": "https://www.kashitaxi.in/en/destinations/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance",
-  "url": "https://www.kashitaxi.in/en/destinations/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance",
+  "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance",
+  "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance",
   "telephone": "+919450301573",
   "priceRange": "₹690-₹2050",
   "address": {

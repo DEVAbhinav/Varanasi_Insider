@@ -24,7 +24,7 @@ tags:
   - pilgrimage
   - ganga aarti
 template: destination
-featuredImage: "/images/kashi-vishwanath-temple-night.jpeg"
+
 eyebrow: "Temple + Aarti Journey"
 ctaTitle: "Planning Temple + Aarti Same Day?"
 ctaSubtitle: "Coordinate darshan timing, ghat access, and boat viewing with a single plan."

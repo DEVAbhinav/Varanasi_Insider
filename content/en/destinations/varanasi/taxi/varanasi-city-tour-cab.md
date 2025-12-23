@@ -42,7 +42,7 @@ faqSchema:
 
 Experience the spiritual beauty of Varanasi with **KashiTaxi's comprehensive city tour packages**. Our expert drivers know every temple, ghat, and hidden gem in the city. Whether you have 4 hours or a full day, we've curated the perfect itinerary to experience authentic Kashi Darshan.
 
-![Varanasi Tourist Map](/images/varanasi%20tourist%20map-flat-lanscape.jpeg)
+![Varanasi Tourist Map](/images/varanasi tourist map-flat-lanscape.jpeg)
 *Varanasi Tourist Map - Major attractions and routes covered in our city tour packages*
 
 ## Why Choose KashiTaxi for Varanasi City Tour Cab Service?

@@ -355,12 +355,12 @@ A: हां, हमारे सभी गाइड धाराप्रवा
 
 ## संबंधित गाइड
 
-- [सारनाथ संपूर्ण गाइड](/hi/sarnath-complete-guide) – पूर्ण बौद्ध तीर्थ स्थल विवरण
-- [बौद्ध सर्किट टूर टेम्पो ट्रैवलर वाराणसी](/hi/buddhist-circuit-tour-tempo-traveller-varanasi) – समूह तीर्थ पैकेज
+- [सारनाथ संपूर्ण गाइड](/en/sarnath-complete-guide) – पूर्ण बौद्ध तीर्थ स्थल विवरण
+- [बौद्ध सर्किट टूर टेम्पो ट्रैवलर वाराणसी](/en/buddhist-circuit-tour-tempo-traveller-varanasi) – समूह तीर्थ पैकेज
 - [वाराणसी से बोधगया टैक्सी लागत](/hi/varanasi-to-bodhgaya-taxi-cost) – विस्तारित बौद्ध तीर्थ
 - [वाराणसी से बोधगया टेम्पो ट्रैवलर](/hi/varanasi-to-bodhgaya-tempo-traveller) – समूह यात्रा विकल्प
 - [वाराणसी से सारनाथ टेम्पो ट्रैवलर](/hi/varanasi-to-sarnath-tempo-traveller) – बड़े वाहन विकल्प
-- [एयरपोर्ट से ताज गेटवे वाराणसी](/hi/destinations/varanasi/taxi/airport-to-taj-gateway-varanasi) – एयरपोर्ट ट्रांसफर गाइड
-- [ताज गंगेस वाराणसी टैक्सी सेवा](/hi/destinations/varanasi/taxi/taj-ganges-varanasi-taxi-service) – प्रीमियम होटल सेवा
+- [एयरपोर्ट से ताज गेटवे वाराणसी](/hi/city/varanasi/taxi/airport-to-taj-gateway-varanasi) – एयरपोर्ट ट्रांसफर गाइड
+- [ताज गंगेस वाराणसी टैक्सी सेवा](/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service) – प्रीमियम होटल सेवा
 - [वाराणसी के घाटों की गाइड](/hi/varanasi-ke-ghaton-ke-liye-guide) – प्रसिद्ध रिवरफ्रंट अन्वेषण
 - [काशी गया प्रयाग पिंड दान टूर](/hi/kashi-gaya-prayag-pind-daan-tour) – आध्यात्मिक तीर्थ सर्किट

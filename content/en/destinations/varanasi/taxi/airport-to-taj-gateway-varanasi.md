@@ -273,8 +273,8 @@ We're here 24/7 to ensure your Varanasi arrival is smooth and stress-free.
 - [Varanasi Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide) – Pricing breakdown for all routes
 - [Varanasi Sightseeing Complete Guide](/en/varanasi-sightseeing-complete-guide) – Must-see locations and attractions
 - [Guide to Ghats of Varanasi](/en/guide-to-ghats-of-varanasi) – Explore the famous riverfront
-- [Taj Ganges Varanasi Taxi Service](/en/destinations/varanasi/taxi/taj-ganges-varanasi-taxi-service) – Premium service for hotel guests
-- [Varanasi to Sarnath Taxi](/en/destinations/varanasi/taxi/varanasi-to-sarnath-taxi) – Day trip guide to Buddhist pilgrimage site
+- [Taj Ganges Varanasi Taxi Service](/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service) – Premium service for hotel guests
+- [Varanasi to Sarnath Taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) – Day trip guide to Buddhist pilgrimage site
 - [Is Varanasi Safe for Solo Female Travellers](/en/is-varanasi-safe-for-solo-female-travellers) – Safety tips and advice
 
 ## About KashiTaxi

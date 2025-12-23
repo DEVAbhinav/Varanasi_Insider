@@ -6,7 +6,7 @@ slug: varanasi-to-naimisharanya-tempo-traveller
 date: 2025-09-18
 author: "Kamal Nayan Singh"
 lastUpdated: 2025-09-18
-featuredImage: /images/tempo-traveller-fleet.jpg
+featuredImage: /images/Tempo-Travellar_landscape_Village.jpeg
 tags: [naimisharanya, varanasi to naimisharanya, tempo traveller, chakratirth, lalita devi, pilgrimage]
 keywords: ["varanasi to naimisharanya tempo traveller","naimisharanya from varanasi distance","chakratirth naimisharanya yatra","lalita devi temple naimisharanya","varanasi to naimisharanya itinerary","naimisharanya pilgrimage tempo traveller","naimisharanya tour from varanasi"]
 relatedPosts:
@@ -34,7 +34,7 @@ faqSchema:
 
 | Fleet Exterior Start (Pre‑Dawn) | Interior Aisle (12 / 17 Seater) | Premium / Luxury Variant |
 | --- | --- | --- |
-| ![Varanasi to Naimisharanya tempo traveller fleet pre dawn start](/images/tempo-traveller-fleet.jpg "Fleet staging before departure for Naimisharanya from Varanasi") | ![Tempo traveller interior comfort naimisharanya itinerary](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Spacious aisle helps on 8–9 hour outbound drive") | ![Luxury tempo traveller seating for naimisharanya pilgrims](/images/Tempo_traveller_lux_seat_side.jpeg "Luxury seating option – comfort for elders on long spiritual circuits") |
+| ![Varanasi to Naimisharanya tempo traveller fleet pre dawn start](/images/Tempo-Travellar_landscape_Village.jpeg "Fleet staging before departure for Naimisharanya from Varanasi") | ![Tempo traveller interior comfort naimisharanya itinerary](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Spacious aisle helps on 8–9 hour outbound drive") | ![Luxury tempo traveller seating for naimisharanya pilgrims](/images/Tempo_traveller_lux_seat_side.jpeg "Luxury seating option – comfort for elders on long spiritual circuits") |
 
 > Capture and add real Naimisharanya site images soon (Chakratirth, Lalita Devi temple entrance, Sukadeva Peeth). Suggested filenames: /images/Naimisharanya-Chakratirth-Aarti.jpg, /images/Lalita-Devi-Darshan.jpg.
 

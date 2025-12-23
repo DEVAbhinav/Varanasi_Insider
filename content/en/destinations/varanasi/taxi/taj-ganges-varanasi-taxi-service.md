@@ -295,9 +295,9 @@ A: Yes, professional photographer guides available (₹500 extra).
 
 ## More Resources for Taj Ganges Guests
 
-- [Airport to Taj Gateway Varanasi Transfer](/en/destinations/varanasi/taxi/airport-to-taj-gateway-varanasi) – Airport pickup guide
-- [Staying at Taj Ganges? Need Taxi FAQ](/en/destinations/varanasi/taxi/staying-at-taj-ganges-need-taxi) – Complete FAQ guide
-- [Varanasi to Sarnath Taxi](/en/destinations/varanasi/taxi/varanasi-to-sarnath-taxi) – Buddhist pilgrimage day trip
+- [Airport to Taj Gateway Varanasi Transfer](/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi) – Airport pickup guide
+- [Staying at Taj Ganges? Need Taxi FAQ](/en/city/varanasi/taxi/staying-at-taj-ganges-need-taxi) – Complete FAQ guide
+- [Varanasi to Sarnath Taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) – Buddhist pilgrimage day trip
 - [Guide to 10 Most Important Ghats of Varanasi](/en/guide-to-10-most-important-ghats-of-varanasi) – Essential ghat exploration
 - [Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing) – Famous evening ceremony
 - [Sarnath Complete Guide](/en/sarnath-complete-guide) – Buddhist pilgrimage site details

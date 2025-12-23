@@ -354,10 +354,10 @@ Choose from:
 
 ### Similar Pilgrimage Routes from Varanasi
 
-- [Varanasi to Prayagraj Cabs](/en/city/prayagraj/taxi) - 120 km | 2.5 hrs | Triveni Sangam
-- [Varanasi to Gaya Taxi](/en/city/gaya/taxi) - 115 km | 3 hrs | Vishnupad Temple
-- [Ayodhya Tour Packages](/en/city/ayodhya/tour-packages) - Multi-day Ayodhya packages
-- [Ayodhya 2 Day Tour](/en/city/ayodhya/tour-packages/ayodhya-2-day-tour) - Complete Ayodhya experience
+- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj) - 120 km | 2.5 hrs | Triveni Sangam
+- [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Vishnupad Temple
+- [Ayodhya Day Trip Tempo Traveller](/en/varanasi-to-ayodhya-day-trip-tempo-traveller) - Complete Ayodhya experience
+- [Varanasi to Ayodhya Tempo Traveller](/en/varanasi-to-ayodhya-tempo-traveller) - Multi-day Ayodhya packages
 
 ### Combine with Other Destinations
 

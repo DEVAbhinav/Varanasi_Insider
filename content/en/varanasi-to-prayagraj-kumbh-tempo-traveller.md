@@ -35,7 +35,7 @@ Mahakumbh 2025 (January–February) is expected to draw over 40 crore pilgrims. 
 
 > **Highlights:** Permit-ready Travellers · two-driver roster · portable toilets · camp coordination · live crowd alerts.
 
-| ![Shahi Snan procession approaching Triveni Sangam at dawn](/images/sangam-600x400.jpeg "Shahi Snan procession at Triveni Sangam") | ![Traveller convoy parked inside dedicated Kumbh sector at night](/images/prayagraj.jpg "Traveller convoy staged inside Kumbh sector") | ![Akhara camp tents lit up with pilgrim crowds in evening](/images/ganga-river-boat-evening-p.jpeg "Akhara camp ambience during Mahakumbh") |
+| ![Shahi Snan procession approaching Triveni Sangam at dawn](/images/sangam-600x400.jpeg "Shahi Snan procession at Triveni Sangam") | ![Traveller convoy parked inside dedicated Kumbh sector at night](/images/prayagraj.jpg "Traveller convoy staged inside Kumbh sector") | ![Akhara camp tents lit up with pilgrim crowds in evening](/images/varanasi-river-boat-evening-p.jpeg "Akhara camp ambience during Mahakumbh") |
 | --- | --- | --- |
 
 ## Mahakumbh 2025 Snan Calendar & Crowd Levels
@@ -68,7 +68,7 @@ Mahakumbh 2025 (January–February) is expected to draw over 40 crore pilgrims. 
 - 4:00 PM: Optional Sangam Aarti or Anand Bhavan visit (if roads reopen).
 - 7:00 PM: Night stay at camp or return toward Varanasi depending on crowd advisories.
 
-![Portable restroom and hydration station beside Traveller in Kumbh camp](/images/Tempo_travellar_inside.jpeg "Portable restroom and hydration setup in camp")
+![Portable restroom and hydration station beside Traveller in Kumbh camp](/images/tempo-travellar-inside.jpeg "Portable restroom and hydration setup in camp")
 
 ![Pilgrims warming up near camp kitchen after snan](/images/dashashwamedh-aarti-platforms-2025.jpg "Pilgrims regrouping at camp kitchen post snan")
 

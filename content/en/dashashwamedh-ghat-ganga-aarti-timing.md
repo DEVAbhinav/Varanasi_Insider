@@ -185,4 +185,4 @@ Seasonal sunset shifts + buffer. Organizers keep a nominal start time; effective
 ---
 
 ### Need more help?
-First trip to Kashi? Dive into our [3‑day Varanasi itinerary](/en/varanasi-itinerary-3-days/) or explore more spiritual river experiences via our ghats mega guide.
+First trip to Kashi? Dive into our [Complete Varanasi Sightseeing Guide](/en/varanasi-sightseeing-complete-guide) or explore more spiritual river experiences via our ghats mega guide.

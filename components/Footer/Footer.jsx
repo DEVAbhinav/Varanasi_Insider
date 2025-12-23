@@ -42,15 +42,9 @@ export default function Footer({ allPosts }) {
           <h4 className={styles.linksTitle}>Quick Links</h4>
           <Link href="/" className={styles.footerLink}>Home</Link>
           <Link href="/pink-taxi-varanasi" className={styles.footerLink}>Pink Taxi</Link>
-          <Link href="/en/city/varanasi/taxi" className={styles.footerLink}>Airport Transfers</Link>
+          <Link href="/en/varanasi-airport-taxi-guide" className={styles.footerLink}>Airport Transfers</Link>
           <Link href="/en/about" className={styles.footerLink}>About Us</Link>
           <Link href="/en/contact" className={styles.footerLink}>Contact</Link>
-          <Link
-            href="/en/varanasi-december-2025-experience-hub"
-            className={styles.footerLink}
-          >
-            December 2025 Hub
-          </Link>
           <Link
             href="/en/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi"
             className={styles.footerLink}

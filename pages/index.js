@@ -380,7 +380,7 @@ export default function HomePage({ allPosts }) {
 
             {/* Airport Taxi Card */}
             <a
-              href="/en/services/varanasi-airport-taxi-winter-2025"
+              href="/en/varanasi-airport-taxi-price-guide"
               className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="relative h-48">

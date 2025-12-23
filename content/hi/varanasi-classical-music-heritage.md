@@ -7,7 +7,7 @@ metaTitle: "वाराणसी शास्त्रीय संगीत: �
 metaDescription: "बनारस शास्त्रीय संगीत – तबला घराना शैली, ठुमरी सौंदर्य, उस्‍ताद बिस्मिल्लाह ख़ाँ शहनाई, वाद्य गलियाँ, संरक्षण व वर्तमान फ़्यूज़न तनाव।"
 description: "राग, लय व भक्ति 3000 वर्ष सतत – बनारस घराना तबला, ठुमरी, द्रुपद प्रतिध्वनि, शहनाई उत्थान, वाद्य शिल्प गलियाँ व आधुनिक संरक्षा।"
 keywords: ["varanasi classical music hindi","बनारस घराना तबला","ठुमरी बनारस शैली","बिस्मिल्लाह खान शहनाई","वाराणसी शहनाई विरासत","benaras tabla style hindi","music instrument lanes varanasi","वाराणसी संगीत इतिहास","क्लासिकल संगीत बनारस"]
-featuredImage: "/images/posts/varanasi-music-heritage.jpeg"
+
 relatedPosts:
   - varanasi-instrument-market-guide
   - ganga-mahotsav-2025-classical-festival-varanasi

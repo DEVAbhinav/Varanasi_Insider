@@ -31,4 +31,4 @@ This is the most spectacular and busiest ghat, famous for its daily evening Gang
 
 Located at the confluence of the Ganga and Assi rivers, this ghat is popular among long-term students, researchers, and tourists looking for a more relaxed vibe.
 
-For more details on transport, see our **[Varanasi Airport Taxi Guide](/en/varanasi-airport-to-ghat-taxi)**.
+For more details on transport, see our **[Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)**.

@@ -22,7 +22,7 @@ tags:
   - itineraries
   - travel-planning
 template: destination
-featuredImage: "/images/varanasi-ghat-evening-p.jpeg"
+featuredImage: "/images/varanashi-ghat-evening-P.jpeg"
 eyebrow: "January Lifestyle"
 ctaTitle: "Plan your 3-day loop"
 ctaSubtitle: "Hold a full-day cab so warm clothes and shopping bags stay safe."
@@ -99,4 +99,4 @@ Don't waste your precious winter daylight haggling for autos.
 
 [Book a Taxi for 3 Days](/en/varanasi-travel-agent) to keep your winter jackets, shopping bags, and shoes safe while you explore.
 
-[Check Airport Transfer Rates](/en/services/varanasi-airport-taxi-winter-2025) for a fog-safe pickup.
+[Check Airport Transfer Rates](/en/varanasi-airport-taxi-price-guide) for a fog-safe pickup.

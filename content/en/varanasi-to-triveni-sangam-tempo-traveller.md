@@ -36,7 +36,7 @@ For many devotees, the essence of Prayagraj is the sacred confluence—*Triveni 
 
 > **Package Snapshot:** 12 seater Traveller · ₹9,300 inclusive · private boat for snan · verified priest · dressing tents · return to Varanasi by sunset.
 
-| ![Traveller convoy arriving at Prayagraj Sangam parking pre-dawn](/images/prayagraj.jpg "Traveller convoy reaching Sangam parking") | ![Devotees boarding a private boat at Triveni Sangam](/images/sangam-600x400.jpeg "Private boat boarding at Triveni Sangam") | ![Kalpavas camp lights along Sangam banks at night](/images/ganga-river-boat-evening-p.jpeg "Evening ambience at Sangam ghats") |
+| ![Traveller convoy arriving at Prayagraj Sangam parking pre-dawn](/images/prayagraj.jpg "Traveller convoy reaching Sangam parking") | ![Devotees boarding a private boat at Triveni Sangam](/images/sangam-600x400.jpeg "Private boat boarding at Triveni Sangam") | ![Kalpavas camp lights along Sangam banks at night](/images/varanasi-river-boat-evening-p.jpeg "Evening ambience at Sangam ghats") |
 | --- | --- | --- |
 
 ## Triveni Sangam Ritual-Focused Itinerary

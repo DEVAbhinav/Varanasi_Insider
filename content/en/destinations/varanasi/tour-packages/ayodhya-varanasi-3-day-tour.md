@@ -6,7 +6,7 @@ lastUpdated: "2025-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/ayodhya-varanasi-3-day-tour"
-featuredImage: "/images/ayodhya-varanasi-tour.jpg"
+
 metaTitle: "Ayodhya Varanasi 3 Day Tour Package | Ram Janmabhoomi + Kashi Vishwanath Circuit"
 metaDescription: "Comprehensive 3-day Ayodhya & Varanasi tour package. Covers Ram Janmabhoomi, Kashi Vishwanath, Sarnath, and Ganga Aarti. Includes cab, hotel, and guide."
 location:

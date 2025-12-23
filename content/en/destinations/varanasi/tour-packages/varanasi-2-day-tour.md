@@ -6,7 +6,7 @@ lastUpdated: "2025-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-2-day-tour"
-featuredImage: "/images/varanasi-two-day-tour.jpg"
+
 metaTitle: "Varanasi 2 Day Tour Package | Weekend Kashi Itinerary with Ganga Aarti"
 metaDescription: "Balanced two-day Kashi immersion with sunrise and sunset boat rides, Sarnath, BHU, curated food walks and concierge-managed darshan."
 description: "Balanced two-day Kashi immersion with sunrise and sunset boat rides, Sarnath, BHU, curated food walks and concierge-managed darshan."

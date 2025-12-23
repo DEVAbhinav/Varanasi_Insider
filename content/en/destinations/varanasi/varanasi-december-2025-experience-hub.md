@@ -37,7 +37,7 @@ ctaSubtitle: "Reserve a full-day cab for sunrise rituals, festival venues, and s
 | **Morning Stack** | Sunrise yoga, Kabira dawn raags, malaiyo tasting |
 | **Daytime Stack** | BHU cultural circuits, silk shopping, Sarnath runs |
 | **Evening Stack** | Ghat walks, music sessions, godowlia food crawl |
-| **Taxi Tip** | Anchor everything with airport transfers + outstation runs from the [Varanasi Airport Guide](/en/destinations/varanasi/taxi/varanasi-airport-transfer-guide) |
+| **Taxi Tip** | Anchor everything with airport transfers + outstation runs from the [Varanasi Airport Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) |
 
 Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive into the deep-dive article for itineraries, price bands, and CTA blocks.
 
@@ -126,14 +126,14 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
 
       <div class="december-tab-panel is-active" data-december-panel="festivals">
         <div class="december-card-grid">
-          <a class="december-card" href="/en/destinations/varanasi/events/kashi-tamil-sangamam-2025-varanasi">
+          <a class="december-card" href="/en/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi">
             <img src="/images/varanasi-ghats-overview.jpeg" alt="Kashi Tamil Sangamam cultural walks" loading="lazy" />
             <div class="december-card-body">
               <h4>Kashi Tamil Sangamam 4.0</h4>
               <p>Dec 2–15 · BHU conclaves, heritage walks, Tamil workshops, intercultural exchanges.</p>
             </div>
           </a>
-          <a class="december-card" href="/en/destinations/varanasi/events/mahindra-kabira-festival-2025-varanasi">
+          <a class="december-card" href="/en/city/varanasi/events/mahindra-kabira-festival-2025-varanasi">
             <img src="/images/varanasi-boat-eve-l.jpeg" alt="Mahindra Kabira evening concert" loading="lazy" />
             <div class="december-card-body">
               <h4>Mahindra Kabira Festival</h4>
@@ -145,14 +145,14 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
 
       <div class="december-tab-panel" data-december-panel="sunrise">
         <div class="december-card-grid">
-          <a class="december-card" href="/en/destinations/varanasi/events/mahindra-kabira-sunrise-music">
+          <a class="december-card" href="/en/city/varanasi/events/mahindra-kabira-sunrise-music">
             <img src="/images/varanasi-river-sunrise-boat-p.jpeg" alt="Sunrise music boats" loading="lazy" />
             <div class="december-card-body">
               <h4>Kabira Sunrise Music</h4>
               <p>6:30 AM raags at Guleria Kothi with packing lists, artist lineup, seating etiquette.</p>
             </div>
           </a>
-          <a class="december-card" href="/en/destinations/varanasi/activities/sunrise-yoga-varanasi-2025">
+          <a class="december-card" href="/en/city/varanasi/activities/sunrise-yoga-varanasi-2025">
             <img src="/images/varanasi-ghat-early-morning.jpeg" alt="Sunrise yoga at Assi Ghat" loading="lazy" />
             <div class="december-card-body">
               <h4>Sunrise Yoga Playbook</h4>
@@ -164,7 +164,7 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
 
       <div class="december-tab-panel" data-december-panel="food">
         <div class="december-card-grid">
-          <a class="december-card" href="/en/destinations/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2025">
+          <a class="december-card" href="/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi">
             <img src="/images/varanasi-hero.png" alt="Banarasi silk boutique" loading="lazy" />
             <div class="december-card-body">
               <h4>Banarasi Silk Shopping</h4>
@@ -172,7 +172,7 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
             </div>
           </a>
           <a class="december-card" href="/en/destinations/varanasi/food/malaiyo-varanasi-guide">
-            <img src="/images/varanasi-ghat-evening-p.jpeg" alt="Malaiyo vendors" loading="lazy" />
+            <img src="/images/varanashi-ghat-evening-P.jpeg" alt="Malaiyo vendors" loading="lazy" />
             <div class="december-card-body">
               <h4>Malaiyo Morning Trail</h4>
               <p>Thatheri Bazar map, ₹20–₹50 price bands, sunrise tasting etiquette, taxi loops.</p>
@@ -211,7 +211,7 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
 
 | Scenario | Pair These Pages | Taxi Move |
 | --- | --- | --- |
-| **Cultural Deep Dive (Dec 2–15)** | Sangamam + Silk Shopping | Book BHU ➝ Thatheri ➝ Assi loops via [Varanasi Airport Transfer Guide](/en/destinations/varanasi/taxi/varanasi-airport-transfer-guide). |
+| **Cultural Deep Dive (Dec 2–15)** | Sangamam + Silk Shopping | Book BHU ➝ Thatheri ➝ Assi loops via [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide). |
 | **Sunrise Power Week** | Sunrise Yoga + Kabira Dawn Sets + Malaiyo | Lock 4:45 AM pickups, cab waits near Assi, then drop at Godowlia for breakfast trail. |
 | **Weekend Festival Sprint (Dec 19–21)** | Kabira Festival + Silk + Malaiyo | Combo pass + daytime shopping taxi; add Ayodhya/Prayagraj runs post-festival. |
 

@@ -33,8 +33,8 @@ ctaSubtitle: "Book a December-ready full-day taxi to loop Madhuban, Thatheri Baz
 | **Price Ladder** | ₹500 dupattas · ₹2,000-8,000 blends · ₹15,000-50,000+ heirloom katan |
 | **December Sweet Spot** | 9-22 December (cool weather, fresh inventory, negotiable crowds) |
 | **Ideal Duration** | 4-6 hours with a pre-booked taxi loop + chai refuel stops |
-| **Pair It With** | [Sunrise yoga warm-up](/en/destinations/varanasi/activities/sunrise-yoga-varanasi-2025) & [Malaiyo breakfast trail](/en/destinations/varanasi/food/malaiyo-varanasi-guide) |
-| **Transport Hack** | Use the [Varanasi Airport Transfer Guide](/en/destinations/varanasi/taxi/varanasi-airport-transfer-guide) for airport-city-weaver runs |
+| **Pair It With** | [Sunrise yoga warm-up](/en/city/varanasi/activities/sunrise-yoga-varanasi-2025) & [Malaiyo breakfast trail](/en/destinations/varanasi/food/malaiyo-varanasi-guide) |
+| **Transport Hack** | Use the [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) for airport-city-weaver runs |
 
 **Snapshot:** Madhuban for direct-from-loom wholesale, Thatheri Bazar for artisan-family stores, and Godowlia for tourist-friendly curation.
 **Price Reality:** ₹500 stoles, ₹2,000-8,000 blended sarees, ₹15,000-50,000+ pure katan heirlooms.
@@ -85,7 +85,7 @@ Banarasi silk sarees represent over 400 years of continuous textile tradition. W
 > | --- | --- | --- |
 > | Pure Katan | ₹15,000-50,000+ | Reserve pieces before 20 Dec; wedding rush spikes demand |
 > | Georgette Banarasi | ₹5,000-15,000 | Plenty of pastel palettes post-Subah-e-Banaras showcases |
-> | Chanderi/Silk Blends | ₹2,000-8,000 | Great gifting inventory around [Mahindra Kabira Festival](/en/destinations/varanasi/events/mahindra-kabira-festival-2025-varanasi) weekends |
+> | Chanderi/Silk Blends | ₹2,000-8,000 | Great gifting inventory around [Mahindra Kabira Festival](/en/city/varanasi/events/mahindra-kabira-festival-2025-varanasi) weekends |
 > | Dupattas & Stoles | ₹500-2,500 | Ideal souvenirs if you're on tight timelines between ghats and shopping loops |
 
 ### Shopping Locations & Experiences
@@ -171,10 +171,10 @@ Banarasi silk sarees represent over 400 years of continuous textile tradition. W
 
 ### December 2025 Silk Shopper Playbook
 
-- **Stack your mornings wisely:** Start with [Sunrise Yoga at Assi](/en/destinations/varanasi/activities/sunrise-yoga-varanasi-2025) or music at the [Mahindra Kabira Festival](/en/destinations/varanasi/events/mahindra-kabira-festival-2025-varanasi), then roll into shopping with an elevated mood.
-- **Block a dedicated taxi:** Use the CTA to secure a full-day cab (airport pickup → hotel → Madhuban → Thatheri Bazar) via the [Varanasi Airport Transfer Guide](/en/destinations/varanasi/taxi/varanasi-airport-transfer-guide) so you can stash purchases safely between runs.
+- **Stack your mornings wisely:** Start with [Sunrise Yoga at Assi](/en/city/varanasi/activities/sunrise-yoga-varanasi-2025) or music at the [Mahindra Kabira Festival](/en/city/varanasi/events/mahindra-kabira-festival-2025-varanasi), then roll into shopping with an elevated mood.
+- **Block a dedicated taxi:** Use the CTA to secure a full-day cab (airport pickup → hotel → Madhuban → Thatheri Bazar) via the [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) so you can stash purchases safely between runs.
 - **Fuel the loop:** Slot a [Malaiyo tasting break](/en/destinations/varanasi/food/malaiyo-varanasi-guide) around noon to refresh sugar levels without derailing the budget.
-- **Leave buffer for tailoring & shipping:** Serious buyers should finish purchases by 22 December to allow minor fall adjustments before big events like [Kashi Tamil Sangamam](/en/destinations/varanasi/events/kashi-tamil-sangamam-2025-varanasi).
+- **Leave buffer for tailoring & shipping:** Serious buyers should finish purchases by 22 December to allow minor fall adjustments before big events like [Kashi Tamil Sangamam](/en/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi).
 
 ### Price Negotiation Guide
 
@@ -263,11 +263,11 @@ Banarasi silk sarees represent over 400 years of continuous textile tradition. W
 - **11:00 AM:** [Malaiyo + chai break](/en/destinations/varanasi/food/malaiyo-varanasi-guide) to reset palate and energy before the next round.
 - **12:00 PM:** Visit established retail shop for comparison, quality evaluation; shortlist 2-3 pieces.
 - **1:30 PM:** Negotiate final purchase at preferred location and load bags into the cab for safekeeping.
-- **3:00 PM:** Return to hotel or airport (if flying out the same evening) – coordinate via [Varanasi Airport Transfer Guide](/en/destinations/varanasi/taxi/varanasi-airport-transfer-guide).
+- **3:00 PM:** Return to hotel or airport (if flying out the same evening) – coordinate via [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide).
 
 **Full-Day Experience:**
-- **Early morning:** Madhuban wholesale browsing right after sunrise rituals (or [Sunrise Yoga](/en/destinations/varanasi/activities/sunrise-yoga-varanasi-2025)).
-- **Late morning:** Temple/cultural activity break (Subah-e-Banaras concerts or [Mahindra Kabira Festival](/en/destinations/varanasi/events/mahindra-kabira-festival-2025-varanasi)).
+- **Early morning:** Madhuban wholesale browsing right after sunrise rituals (or [Sunrise Yoga](/en/city/varanasi/activities/sunrise-yoga-varanasi-2025)).
+- **Late morning:** Temple/cultural activity break (Subah-e-Banaras concerts or [Mahindra Kabira Festival](/en/city/varanasi/events/mahindra-kabira-festival-2025-varanasi)).
 - **Afternoon:** Thatheri Bazar authentic shopping + weaver home visits with your cab on standby for parcel drops.
 - **Evening:** Godowlia tourist market (if energy remains) followed by airport drop or riverfront dinner taxi run.
 

@@ -71,7 +71,7 @@ I've personally completed this parikrama over 200 times, and each journey brings
 
 ### The Three Sacred Points of the Divine Triangle
 
-![Map showing the Trikon Parikrama route](/images/trikon-parikrama-map.jpeg "The sacred triangle route connecting three powerful temples")
+
 
 The **Trikon Parikrama** encompasses three magnificent temples, each representing a different aspect of divine feminine energy:
 
@@ -132,7 +132,7 @@ In my experience, the spring Navratri has a unique charm. The weather is pleasan
 **Dates:** September 22 - October 1, 2025  
 **Significance:** Most important Navratri, celebrated with greatest fervor
 
-![Devotees during Navratri celebrations](/images/vindhyachal-navratri-crowd.jpeg "Massive gathering of devotees during Sharad Navratri")
+
 
 The autumn Navratri is considered more significant and attracts larger crowds from across India:
 
@@ -356,7 +356,7 @@ From my years of helping pilgrims with bookings, here's what I've learned:
 
 ### Queue Management and Fast-Track Options
 
-![Long queues during Navratri at Vindhyachal](/images/vindhyachal-darshan-queue.jpeg "Devotees waiting patiently for darshan during Navratri")
+
 
 #### Smart Queue Tips for Navratri
 Based on my years of experience managing groups during festivals:
@@ -421,7 +421,7 @@ From my countless visits, these are the prasad items I always recommend to first
 
 > **Personal Experience:** The peda from Vindhyavasini temple has a unique taste that I haven't found anywhere else. Many of my regular pilgrims specifically ask me to arrange for extra prasad to take home.
 
-![Traditional prasad from Vindhyachal temples](/images/vindhyachal-prasad.jpeg "Sacred prasad offerings from Maa Vindhyavasini temple")
+
 
 #### Recommended Vegetarian Restaurants
 

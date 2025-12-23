@@ -306,84 +306,84 @@ Tap a tab to filter destinations. Every card shows a representative visual and a
 
   <div class="airport-tab-panel is-active" data-tab-panel="shrines">
     <div class="airport-card-grid">
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance">
         <img src="/images/Vishwanath-Mandir-Evenging-Square-Outside.jpeg" alt="Kashi Vishwanath Temple" loading="lazy" />
         <div class="airport-card-body">
           <h4>Kashi Vishwanath Temple</h4>
           <p>26 km · 50–60 min · Corridor gate & e-rickshaw handoff.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance">
         <img src="/images/dashashwamedh-aarti-platforms-2025.jpg" alt="Dashashwamedh Ghat aarti" loading="lazy" />
         <div class="airport-card-body">
           <h4>Dashashwamedh Ghat</h4>
           <p>25 km · 55–65 min · Evening aarti lane closures planned.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-assi-ghat-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance">
         <img src="/images/assi-aarti-evening-P.jpeg" alt="Assi Ghat twilight" loading="lazy" />
         <div class="airport-card-body">
           <h4>Assi Ghat</h4>
           <p>28 km · 60 min · Subah-e-Banaras friendly drop lane.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-manikarnika-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance">
         <img src="/images/varanasi-ghat-priests-2025.jpg" alt="Manikarnika Ghat flames" loading="lazy" />
         <div class="airport-card-body">
           <h4>Manikarnika Ghat</h4>
           <p>25 km · 55 min · Last 200 m walking lane near cremation deck.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-namo-ghat-distance">
-        <img src="/images/varanasi-ghat-evening-p.jpeg" alt="NaMo Ghat promenade" loading="lazy" />
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance">
+        <img src="/images/varanashi-ghat-evening-P.jpeg" alt="NaMo Ghat promenade" loading="lazy" />
         <div class="airport-card-body">
           <h4>NaMo Ghat (Khidkiya)</h4>
           <p>24 km · 40–45 min · Dedicated promenade parking apron.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-sarnath-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance">
         <img src="/images/Sarnath-Stoopa-Square-beautiful-large.jpeg" alt="Sarnath Dhamek Stupa" loading="lazy" />
         <div class="airport-card-body">
           <h4>Sarnath</h4>
           <p>30 km · 50 min · Buddha circuit with museum halt.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-ramnagar-fort-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-distance">
         <img src="/images/varanasi-river-bajra.jpeg" alt="Ramnagar Fort on the Ganges" loading="lazy" />
         <div class="airport-card-body">
           <h4>Ramnagar Fort</h4>
           <p>34 km · 70 min · Old bridge crossing + museum timings.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-kedar-ghat-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-distance">
         <img src="/images/varanasi-ghat-early-morning.jpeg" alt="Kedar Ghat sunrise" loading="lazy" />
         <div class="airport-card-body">
           <h4>Kedar Ghat</h4>
           <p>26 km · 55 min · Narrow lanes, porter optional.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-scindia-ghat-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-distance">
         <img src="/images/varanasi-boat-eve-l.jpeg" alt="Scindia Ghat evening boat" loading="lazy" />
         <div class="airport-card-body">
           <h4>Scindia Ghat</h4>
           <p>25 km · 55 min · Sunken Shiva temple photo stop.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-tulsi-ghat-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-distance">
         <img src="/images/varanasi-boat-bird-river-p.jpeg" alt="Tulsi Ghat boats" loading="lazy" />
         <div class="airport-card-body">
           <h4>Tulsi Ghat</h4>
           <p>27 km · 60 min · Krishnalila & akhada lane briefing.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-panchganga-ghat-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-distance">
         <img src="/images/varanasi-subeh-e-banaras-p.jpeg" alt="Panchganga Ghat" loading="lazy" />
         <div class="airport-card-body">
           <h4>Panchganga Ghat</h4>
           <p>25 km · 55 min · Five rivers confluence darshan.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-raj-ghat-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-raj-ghat-distance">
         <img src="/images/varanasi-ghats-overview.jpeg" alt="Raj Ghat panorama" loading="lazy" />
         <div class="airport-card-body">
           <h4>Raj Ghat</h4>
@@ -395,35 +395,35 @@ Tap a tab to filter destinations. Every card shows a representative visual and a
 
   <div class="airport-tab-panel" data-tab-panel="rail">
     <div class="airport-card-grid">
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance">
         <img src="/images/AyodhyaTrain1.jpg" alt="Varanasi Junction platforms" loading="lazy" />
         <div class="airport-card-body">
           <h4>Varanasi Junction (Cantt)</h4>
           <p>26 km · 50 min · Cantt entry gate + parking advice.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance">
         <img src="/images/AyodhyaTrain2.jpg" alt="Banaras railway station" loading="lazy" />
         <div class="airport-card-body">
           <h4>Banaras Station (Manduadih)</h4>
           <p>32 km · 60 min · Modern concourse + drop lane.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-ddu-junction-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance">
         <img src="/images/AyodhyaTrain3.jpg" alt="DDU Junction" loading="lazy" />
         <div class="airport-card-body">
           <h4>Pt. Deen Dayal Upadhyaya (DDU)</h4>
           <p>42 km · 70 min · Mughalsarai ramp + night safety brief.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-mughalsarai-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance">
         <img src="/images/AyodhyaTrain2.jpg" alt="Mughalsarai town drop" loading="lazy" />
         <div class="airport-card-body">
           <h4>Mughalsarai Town</h4>
           <p>41 km · 70 min · Local bazaar / hotel transfers.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance">
         <img src="/images/varanasi-hero.png" alt="Varanasi City Station approach" loading="lazy" />
         <div class="airport-card-body">
           <h4>Varanasi City Station (BCY)</h4>
@@ -435,70 +435,70 @@ Tap a tab to filter destinations. Every card shows a representative visual and a
 
   <div class="airport-tab-panel" data-tab-panel="outstation">
     <div class="airport-card-grid">
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-prayagraj-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance">
         <img src="/images/prayagraj.jpg" alt="Prayagraj Sangam" loading="lazy" />
         <div class="airport-card-body">
           <h4>Prayagraj</h4>
           <p>121 km · 3.5 hr · Sangam darshan & VIP routes.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance">
         <img src="/images/Vindhyachal2.jpg" alt="Vindhyachal temple" loading="lazy" />
         <div class="airport-card-body">
           <h4>Mirzapur / Vindhyachal</h4>
           <p>70 km · 1.5–2 hr · Shakti Peeth triangle planning.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-gorakhpur-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance">
         <img src="/images/varanasi-sunrise-p.jpeg" alt="Gorakhpur highway" loading="lazy" />
         <div class="airport-card-body">
           <h4>Gorakhpur</h4>
           <p>220 km · 4.5 hr · NH-31 corridor + Nepal add-ons.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-patna-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-patna-distance">
         <img src="/images/varanasi-river-boat-evening-p.jpeg" alt="Patna skyline" loading="lazy" />
         <div class="airport-card-body">
           <h4>Patna</h4>
           <p>260 km · 5.5 hr · Ganga bridges + toll advisories.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-ghazipur-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-ghazipur-distance">
         <img src="/images/varanasi-boat-eve-l.jpeg" alt="Ghazipur Ganga view" loading="lazy" />
         <div class="airport-card-body">
           <h4>Ghazipur</h4>
           <p>89 km · 2 hr · NH-31 stretch with opium factory stop.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-jaunpur-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-jaunpur-distance">
         <img src="/images/varanasi-kashivishwanath-outside-l.jpeg" alt="Shahi bridge near Jaunpur" loading="lazy" />
         <div class="airport-card-body">
           <h4>Jaunpur</h4>
           <p>60 km · 1.5 hr · Shahi bridge & imambara stopovers.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-mau-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-mau-distance">
         <img src="/images/varanasi-river-sunrise-boat-p.jpeg" alt="Mau highway" loading="lazy" />
         <div class="airport-card-body">
           <h4>Mau</h4>
           <p>130 km · 3 hr · Textile town drop with luggage racks.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-ballia-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-ballia-distance">
         <img src="/images/varanasi-kal-bhairav-p.jpeg" alt="Ballia countryside" loading="lazy" />
         <div class="airport-card-body">
           <h4>Ballia</h4>
           <p>160 km · 3.5 hr · Ganga ferry timing coordination.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-deoria-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-deoria-distance">
         <img src="/images/varanasi-river-bajra.jpeg" alt="Deoria tal trees" loading="lazy" />
         <div class="airport-card-body">
           <h4>Deoria</h4>
           <p>190 km · 4 hr · Eastern UP agrarian belt run.</p>
         </div>
       </a>
-      <a class="airport-card" href="/en/destinations/varanasi/taxi/varanasi-airport-to-jalalpur-distance">
+      <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-jalalpur-distance">
         <img src="/images/varanasi-river-boat-evening-p.jpeg" alt="Jalalpur route" loading="lazy" />
         <div class="airport-card-body">
           <h4>Jalalpur</h4>

@@ -4,7 +4,7 @@ slug: "manikarnika-ghat-sacred-cremation-grounds"
 date: "2025-07-28"
 author: "Kamal Nayan Singh"
 description: "Manikarnika Ghat Varanasi guide: history, rituals, etiquette and what to expect at the sacred cremation ground. Read before you visit."
-featuredImage: "/images/manikarnika-ghat.jpg"
+
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/manikarnika-ghat-sacred-cremation-grounds"
 tags: ["Manikarnika Ghat", "Varanasi", "cremation ghats", "Hindu rituals", "moksha"]

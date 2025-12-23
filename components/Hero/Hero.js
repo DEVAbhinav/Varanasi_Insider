@@ -28,10 +28,10 @@ export default function Hero() {
 
         {/* Trust Badges */}
         <div className={styles.trustBadges}>
-          <Image src="/images/trust-badge-1.png" alt="Trust Badge" width={60} height={60} />
-          <Image src="/images/trust-badge-2.png" alt="Trust Badge" width={60} height={60} />
-          <Image src="/images/trust-badge-3.png" alt="Trust Badge" width={60} height={60} />
-          <Image src="/images/trust-badge-4.png" alt="Trust Badge" width={60} height={60} />
+          <Image src="" alt="Trust Badge" width={60} height={60} />
+          <Image src="" alt="Trust Badge" width={60} height={60} />
+          <Image src="" alt="Trust Badge" width={60} height={60} />
+          <Image src="" alt="Trust Badge" width={60} height={60} />
         </div>
 
         {/* Booking Widget */}

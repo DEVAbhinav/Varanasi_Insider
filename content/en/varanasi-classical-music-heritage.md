@@ -5,7 +5,7 @@ date: "2025-10-07"
 lastUpdated: "2025-10-07"
 author: "Travel Agent Varanasi Cultural Team"
 lang: en
-featuredImage: "/images/posts/varanasi-music-heritage.jpeg"
+
 description: "Explore Varanasi's classical music heritage: Benaras gharana, thumri tradition, shehnai legacy of Bismillah Khan, instrument lanes & modern revival."
 keywords: ["Varanasi classical music","Benaras gharana","Bismillah Khan shehnai","Varanasi thumri","Indian classical music heritage","Varanasi music history","Benaras tabla style","music instrument market Varanasi"]
 tags:

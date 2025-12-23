@@ -59,7 +59,7 @@ The **Trikon Parikrama Vindhyachal** involves visiting three principal temples t
 
 The **Maa Vindhyavasini Devi Temple** stands as the spiritual anchor of Vindhyachal and the starting point of every **Trikon Parikrama in Vindhyachal**. Having spent countless hours in meditation and prayer at this sacred site, I can attest that it is revered as a powerful Shaktipeeth where the Goddess is believed to grant wishes instantly.
 
-![Maa Vindhyavasini Temple main entrance](/images/vindhyavasini-temple-main.jpeg "The magnificent entrance of Maa Vindhyavasini Temple")
+
 
 ### Ancient Mythological Origins
 
@@ -88,7 +88,7 @@ Based on my research into the temple's history and archaeological evidence, chro
 
 The **Trikon Parikrama in Vindhyachal** is the sacred pilgrimage circuit that defines the spiritual landscape of this holy town. Having guided over 2,000 pilgrims through this journey, I can tell you that it involves visiting three principal temples which together form a holy triangle spanning approximately **8 kilometers**.
 
-![Detailed map of Trikon Parikrama route](/images/trikon-parikrama-route-map.jpeg "Complete route map showing all temples and stops")
+
 
 This journey is a symbolic worship of the complete divine feminine energy, encompassing the goddesses of wealth (Lakshmi), knowledge (Saraswati), and protection (Kali). From my experience, the pilgrimage is a narrative journey: one begins by seeking prosperity, then seeks the power to overcome obstacles, and finally attains the wisdom to use both. This makes the **Trikon Parikrama** a holistic spiritual endeavor rather than just three separate temple visits.
 
@@ -120,7 +120,7 @@ The **Trikon Parikrama Vindhyachal** traditionally begins at the main shrine of 
 
 Located about 2 kilometers from the main temple, the **Kali Khoh temple** is situated in an ancient cave. Having spent many contemplative hours in this powerful energy center, I can tell you this shrine is dedicated to the fierce form of the Goddess, Mahakali.
 
-![Kali Khoh cave temple entrance](/images/kali-khoh-temple-cave.jpeg "The ancient cave entrance of Kali Khoh Temple")
+
 
 #### **The Legend of Raktabija**
 The presiding legend that I always share with my pilgrims narrates the story of Maa Kali's battle with the demon Raktabija. This demon possessed a boon where every drop of his blood that touched the earth would spawn a new demon, making him invincible. To defeat him, Maa Kali stretched her tongue across the land, consuming every drop of his blood before he could replicate, thus annihilating evil.
@@ -143,7 +143,7 @@ Worshipping here is believed to grant devotees the strength to overcome obstacle
 
 The final point of the **Trikon Parikrama triangle** is the Ashtabhuja Temple, perched atop a hillock 3 kilometers from the Vindhyavasini temple. From my numerous visits to this elevated shrine, I can tell you this temple is dedicated to Goddess Mahasaraswati, the bestower of knowledge, arts, and wisdom.
 
-![Ashtabhuja Temple on hilltop](/images/ashtabhuja-temple-hilltop.jpeg "Ashtabhuja Temple situated on the sacred hilltop")
+
 
 #### **The Yogmaya Connection**
 The deity here is identified as Yogmaya, Lord Krishna's sister, in her eight-armed (Ashtabhuja) form. According to the legend I've studied, after escaping Kansa, she took refuge on this hill. A visit to this temple completes the **Trikon Parikrama**, symbolizing the attainment of divine wisdom and enlightenment.
@@ -196,7 +196,7 @@ For devotees undertaking the **Trikon Parikrama on foot** (Pad Parikrama), which
 **Significance:** Underground temple, unique architecture
 **Special Feature:** Subterranean prayer hall
 
-![Smaller temples along parikrama route](/images/parikrama-route-temples.jpeg "Various smaller temples visited during the sacred circuit")
+
 
 ### Pad Parikrama vs. Vehicle Parikrama
 
@@ -360,7 +360,7 @@ Having studied the theological significance and experienced it personally hundre
 
 The combination of ancient mythology, historical significance, and living spiritual tradition creates an atmosphere where the divine feminine energy is tangibly present. Whether you're seeking material prosperity, protection from obstacles, or spiritual wisdom, the **Trikon Parikrama Vindhyachal** provides a comprehensive pathway to divine blessings.
 
-![Completed Trikon Parikrama pilgrims](/images/trikon-parikrama-completion.jpeg "Satisfied pilgrims after completing the sacred circuit")
+
 
 From the prosperity blessings of Maa Vindhyavasini to the protective power of Maa Kali at Kali Khoh, and finally to the enlightening wisdom of Maa Saraswati at Ashtabhuja Temple, this sacred circuit encompasses the complete spectrum of divine feminine energy. The additional smaller temples along the route add layers of spiritual significance, making every step a prayer and every moment a blessing.
 

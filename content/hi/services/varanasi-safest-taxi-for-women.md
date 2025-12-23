@@ -139,9 +139,9 @@ relatedPosts:
 
 ---
 ### संबंधित संसाधन
-- [/hi/pink-taxi-varanasi](/hi/pink-taxi-varanasi) (यदि उपलब्ध नहीं तो निर्माण लंबित)
-- [/hi/varanasi-airport-taxi-guide](/hi/varanasi-airport-taxi-guide)
-- [/hi/tempo-traveller-varanasi](/hi/tempo-traveller-varanasi)
+- [पिंक टैक्सी वाराणसी](/pink-taxi-varanasi)
+- [वाराणसी एयरपोर्ट टैक्सी गाइड](/hi/varanasi-airport-taxi-guide)
+- [टेम्पो ट्रैवलर वाराणसी](/hi/tempo-traveller-varanasi)
 
 ---
 आगे किस पेज को लोकलाइज़ करें — बताएं।

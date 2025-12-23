@@ -123,7 +123,7 @@ Ask before confirming:
 
 | Seat Integrity | Rear Access Clearance | Multiple Fleet Allocation |
 | --- | --- | --- |
-| ![Seat cushioning & mount check](/images/Tempo_traveller_lux_seat_side.jpeg "Seat base firmness inspection") | ![Rear door access for evacuation consideration](/images/tempo-travellar_side_back_white.jpeg "Rear clearance – luggage not blocking egress") | ![Multiple vehicles coordination safety staging](/images/Multi_Urbania-Square.jpeg "Stagger departures – avoid convoy bunching") |
+| ![Seat cushioning & mount check](/images/Tempo_traveller_lux_seat_side.jpeg "Seat base firmness inspection") | ![Rear door access for evacuation consideration](/images/Tempo_travellar_side_back_white.jpeg "Rear clearance – luggage not blocking egress") | ![Multiple vehicles coordination safety staging](/images/Multi_Urbania-Square.jpeg "Stagger departures – avoid convoy bunching") |
 
 > Replace symbolic frames with real inspection shots for higher E‑E‑A‑T once photography captured.
 

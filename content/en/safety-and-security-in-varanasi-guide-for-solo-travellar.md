@@ -45,7 +45,7 @@ Varanasi is not a city you simply see; it's a city you feel, and it can be an in
 
 ## Why Visit Varanasi? A Living Museum on the Ganges
 
-![Priests performing the evening Ganga Aarti](/images/varanasi-ganga-aarti.jpg "The spectacular Ganga Aarti at Dashashwamedh Ghat")
+
 
 When travellers ask me what makes Varanasi different, I tell them this: in Delhi or Jaipur, you visit monuments that house history. In Varanasi, history is the air you breathe and the ground you walk on. It is a city that functions as a living, breathing museum to a civilization that has refused to stop.
 

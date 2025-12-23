@@ -485,9 +485,9 @@ Our drivers are Varanasi natives who understand:
 - **[Bharat Milap at Nati Imli October 3, 2025](/en/bharat-milap-nati-imli-oct-3)** - Most emotional Ramlila episode
 - **[Ramnagar Ramlila Moving Stages Guide](/en/ramnagar-ramlila-moving-stages-guide)** - UNESCO heritage experience
 - **[Book Taxi Varanasi Ramlila Dussehra](/en/book-taxi-varanasi-ramlila-dussehra)** - Main booking & conversion page
-- [Complete Varanasi Festival Calendar 2025-2026](/en/varanasi-festivals-calendar-2025-2026) - All major festivals with dates
-- [Dev Deepawali Ultimate Guide](/en/dev-deepawali-varanasi-guide) - November festival of lights
-- [Maha Shivaratri in Varanasi](/en/maha-shivaratri-varanasi) - February Shiva celebration
+- [Dev Deepawali 2025 Ultimate Guide](/en/dev-deepawali-2025-varanasi-ultimate-guide) - November festival of lights
+- [Maha Shivaratri 2026 Varanasi Guide](/en/maha-shivaratri-2026-varanasi-guide) - February Shiva celebration
+- [Best Time to Visit Varanasi](/en/best-time-to-visit-varanasi) - Season and festival planning
 
 **Transport Solutions:**
 - **[Tempo Traveller Group Booking Dussehra](/en/tempo-traveller-group-booking-dussehra)** - Festival group transport guide

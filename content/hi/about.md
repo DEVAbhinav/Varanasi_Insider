@@ -4,7 +4,7 @@ slug: "about"
 date: "2025-07-28"
 author: "अभिनव पांडे"
 description: "जानें कि कैसे एक छोटा वाराणसी टैक्सी स्टैंड में विकसित हुआ—एयरपोर्ट पिकअप, पिंक टैक्सी, विशेष टूर और सुरक्षित सेल्फ-ड्राइव रेंटल के लिए आपका विश्वसनीय साथी।"
-featuredImage: "/images/posts/about-banarasi-kashitaxi.jpg"
+featuredImage: "/images/aboutUs.svg"
 lang: "hi"
 canonical: "https://www.kashitaxi.in/hi/about"
 tags: ["हमारे बारे में", "हमारी कहानी", "वाराणसी टैक्सी", "विनायक ट्रैवल्स टूर", "सुरक्षित टैक्सी वाराणसी"]

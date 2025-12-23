@@ -370,7 +370,7 @@ export default function Custom404() {
                   <li><Link className="inline-flex w-full items-center justify-center rounded-full bg-emerald-600 px-4 py-2 font-medium text-white hover:bg-emerald-700" href="/">Go to Homepage</Link></li>
                   <li><Link className="inline-flex w-full items-center justify-center rounded-full bg-purple-600 px-4 py-2 font-medium text-white hover:bg-purple-700" href="/pink-taxi-varanasi">Pink Taxi</Link></li>
                   <li><Link className="inline-flex w-full items-center justify-center rounded-full bg-indigo-600 px-4 py-2 font-medium text-white hover:bg-indigo-700" href="/bike-rentals-varanasi">Bike Rentals</Link></li>
-                  <li><Link className="inline-flex w-full items-center justify-center rounded-full bg-orange-600 px-4 py-2 font-medium text-white hover:bg-orange-700" href="/rates/outstation-taxi-varanasi">Outstation Rates</Link></li>
+                  <li><Link className="inline-flex w-full items-center justify-center rounded-full bg-orange-600 px-4 py-2 font-medium text-white hover:bg-orange-700" href="/en/outstation-cabs-from-varanasi">Outstation Rates</Link></li>
                 </ul>
               </div>
 

@@ -397,8 +397,8 @@ We'll handle transport. You focus on the sacred experience.
 - [Varanasi to Bodhgaya Taxi Cost](/en/varanasi-to-bodhgaya-taxi-cost) – Extended Buddhist pilgrimage
 - [Varanasi to Bodhgaya Tempo Traveller](/en/varanasi-to-bodhgaya-tempo-traveller) – Group travel options
 - [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) – Larger vehicle options
-- [Airport to Taj Gateway Varanasi](/en/destinations/varanasi/taxi/airport-to-taj-gateway-varanasi) – Airport transfer guide
-- [Taj Ganges Varanasi Taxi Service](/en/destinations/varanasi/taxi/taj-ganges-varanasi-taxi-service) – Premium hotel service
+- [Airport to Taj Gateway Varanasi](/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi) – Airport transfer guide
+- [Taj Ganges Varanasi Taxi Service](/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service) – Premium hotel service
 - [Varanasi Sightseeing Complete Guide](/en/varanasi-sightseeing-complete-guide) – City attractions
 - [Guide to Ghats of Varanasi](/en/guide-to-ghats-of-varanasi) – Famous riverfront exploration
 - [Kashi Gaya Prayag Pind Daan Tour](/en/kashi-gaya-prayag-pind-daan-tour) – Spiritual pilgrimage circuit

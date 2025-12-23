@@ -43,7 +43,7 @@ organizer:
 - **Entry:** Included with delegate or daily pass (limited stand-by seats for locals)
 - **Best For:** Classical music lovers, photographers, meditators craving quiet
 
-> Planning the full festival? Read the [complete Mahindra Kabira Festival guide](/en/destinations/varanasi/events/mahindra-kabira-festival-2025-varanasi) for tickets, lineup, and hotel zones.
+> Planning the full festival? Read the [complete Mahindra Kabira Festival guide](/en/city/varanasi/events/mahindra-kabira-festival-2025-varanasi) for tickets, lineup, and hotel zones.
 
 **Dates:** December 20-21, 2025
 **Time:** 6:30 AM (approximately 45 minutes)

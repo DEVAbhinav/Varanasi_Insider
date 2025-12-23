@@ -21,7 +21,7 @@ tags:
   - mobility
   - chauffeur-service
 template: destination
-featuredImage: "/images/varanasi-night-lights.jpeg"
+
 eyebrow: "BLF 2026 Corporate"
 ctaTitle: "Discuss BLF 2026 Mobility Partnership"
 ctaSubtitle: "Share your delegate counts and dates for a custom corporate mobility plan."

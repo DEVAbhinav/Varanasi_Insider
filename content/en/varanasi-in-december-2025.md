@@ -81,7 +81,7 @@ This is a winter delicacy you absolutely must try! **Malaiyyo** is a frothy, lig
 ### Explore the Ghats on Foot
 ![Walking along the ghats in the cool December weather](/images/varanasi-ghats-overview.jpeg "Walking along the ghats of Varanasi")
 
-With the cooler weather, December is ideal for leisurely walks along the ghats. Take your time to observe the daily life, the rituals, and the architectural beauty. Remember to consult our [Varanasi Safety Guide](/en/varanasi-safety-guide) for tips on navigating the ghats safely.
+With the cooler weather, December is ideal for leisurely walks along the ghats. Take your time to observe the daily life, the rituals, and the architectural beauty. Remember to consult our [Solo Travel Safety Guide](/en/is-varanasi-safe-for-solo-female-travellers) for tips on navigating the ghats safely.
 
 ---
 

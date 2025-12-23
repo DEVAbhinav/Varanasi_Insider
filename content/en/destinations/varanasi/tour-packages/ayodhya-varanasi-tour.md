@@ -6,7 +6,7 @@ lastUpdated: "2025-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/ayodhya-varanasi-tour"
-featuredImage: "/images/sample-ayodhya-varanasi-tour.jpg"
+
 metaTitle: "Ayodhya Varanasi Tour Package 3 Days | Ram Janmabhoomi to Kashi"
 metaDescription: "Bridge Ram's Ayodhya and Shiva's Kashi in one seamless 3-day pilgrimage with private transfers, curated darshan slots, and riverside rituals."
 description: "Bridge Ram's Ayodhya and Shiva's Kashi in one seamless 3-day pilgrimage with private transfers, curated darshan slots, and riverside rituals."

@@ -6,7 +6,7 @@ lastUpdated: "2025-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/ayodhya/tour-packages/ayodhya-1n2d-tour"
-featuredImage: "/images/sample-ayodhya-1n2d.jpg"
+
 metaTitle: "1 Night 2 Days Ayodhya Tour Package | Ram Janmabhoomi Darshan"
 metaDescription: "Immerse in Ram Janmabhoomi, Hanuman Garhi, Saryu Aarti, and Ayodhya's heritage in a focused overnight pilgrimage with private cab and concierge support."
 description: "Immerse in Ram Janmabhoomi, Hanuman Garhi, Saryu Aarti, and Ayodhya's heritage in a focused overnight pilgrimage with private cab and concierge support."

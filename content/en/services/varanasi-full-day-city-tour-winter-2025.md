@@ -220,7 +220,7 @@ Our **full-day taxi for Varanasi sightseeing** (8–10 hours) offers comprehensi
 ---
 
 **Related Services:**
-- [Varanasi Airport Transfers](/en/services/varanasi-airport-taxi-winter-2025)
+- [Varanasi Airport Transfers](/en/varanasi-airport-taxi-price-guide)
 - [Pilgrimage Circuit (Ayodhya, Prayagraj)](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi)
 - [Safest Taxi for Women](/en/services/varanasi-safest-taxi-for-women)
 - [Dev Deepawali Festival Transport](/en/landing/dev-deepawali-taxi-booking-varanasi)

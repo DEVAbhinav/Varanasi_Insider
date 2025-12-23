@@ -7,7 +7,7 @@ metaTitle: "वाराणसी घूमने का बेस्ट टा�
 metaDescription: "वाराणसी घूमने का सबसे अच्छा समय अक्टूबर से मार्च। देव दीपावली (नवंबर), महाशिवरात्रि समय, मौसम व भीड़ के अनुसार month-wise प्लानिंग गाइड।"
 description: "वाराणसी यात्रा के लिए सबसे उपयुक्त महीने, मौसम की जानकारी, त्योहार कैलेंडर, होटल रेट व भीड़ का विश्लेषण। लोकल सुझाव के साथ।"
 keywords: ["वाराणसी घूमने का सबसे अच्छा समय","best time to visit varanasi hindi","वाराणसी मौसम गाइड","varanasi weather guide","देव दीपावली समय","महाशिवरात्रि वाराणसी","Varanasi travel season calendar"]
-featuredImage: "/images/varanasi-best-time-600x400.jpeg"
+
 relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
   - varanasi-in-november-2025-insider-guide

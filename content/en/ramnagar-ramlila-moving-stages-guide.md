@@ -5,7 +5,7 @@ date: "2025-09-29"
 lastUpdated: "2025-09-29"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/ramnagar-ramlila-map.jpg"
+
 description: "Understanding Ramnagar Ramlila's unique moving stage concept: location guide, episode schedule, navigation tips, and dedicated transport for following the UNESCO heritage performance."
 tags:
   - ramnagar ramlila moving stages
@@ -38,7 +38,7 @@ relatedPosts:
 
 <!-- Relocated map image below TL;DR to emphasize summary first. -->
 
-![Ramnagar Ramlila Moving Stages Map](/images/ramnagar-ramlila-map.jpg "Understanding the unique moving performance locations in Ramnagar")
+
 
 ## The "Moving Stage" Concept Explained for Visitors
 

@@ -346,9 +346,9 @@ We'll handle all the logistical stress. You focus on the spiritual experience.
 
 ## Related Guides for Taj Ganges Guests
 
-- [Airport to Taj Gateway Varanasi Transfer](/en/destinations/varanasi/taxi/airport-to-taj-gateway-varanasi) – Complete airport pickup guide
-- [Taj Ganges Varanasi Premium Taxi Service](/en/destinations/varanasi/taxi/taj-ganges-varanasi-taxi-service) – Premium taxi service for hotel guests
-- [Varanasi to Sarnath Taxi](/en/destinations/varanasi/taxi/varanasi-to-sarnath-taxi) – Buddhist pilgrimage day trip
+- [Airport to Taj Gateway Varanasi Transfer](/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi) – Complete airport pickup guide
+- [Taj Ganges Varanasi Premium Taxi Service](/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service) – Premium taxi service for hotel guests
+- [Varanasi to Sarnath Taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) – Buddhist pilgrimage day trip
 - [Sarnath Complete Guide](/en/sarnath-complete-guide) – Buddhist pilgrimage site
 - [Guide to Ghats of Varanasi](/en/guide-to-ghats-of-varanasi) – Comprehensive ghat guide
 - [Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing) – Evening ceremony timings

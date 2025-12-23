@@ -265,5 +265,5 @@ Keep the momentum of your sunrise practice by stacking short pilgrimages with tr
 - Festival season energy supports spiritual practice.
 - Holiday timing allows longer stays for many.
 - Moderate prices (not peak domestic tourism).
-- Pair practice days with evening concerts at the [Mahindra Kabira Festival](/en/destinations/varanasi/events/mahindra-kabira-festival-2025-varanasi) for a full culture immersion.
-- Coordinate predawn pickups or airport rides through the [Varanasi Airport Transfer Guide](/en/destinations/varanasi/taxi/varanasi-airport-transfer-guide) if you're flying in or staying far from Assi.
+- Pair practice days with evening concerts at the [Mahindra Kabira Festival](/en/city/varanasi/events/mahindra-kabira-festival-2025-varanasi) for a full culture immersion.
+- Coordinate predawn pickups or airport rides through the [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) if you're flying in or staying far from Assi.

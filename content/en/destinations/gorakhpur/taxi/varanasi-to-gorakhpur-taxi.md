@@ -391,9 +391,9 @@ Choose from:
 
 ### Similar Routes from Varanasi
 
-- [Varanasi to Ayodhya Taxi](/en/city/ayodhya/taxi) - 219 km | 4 hrs | Ram Mandir
-- [Varanasi to Gaya Cab](/en/city/gaya/taxi) - 115 km | 3 hrs | Vishnupad Temple
-- [Varanasi to Bodhgaya Taxi](/en/city/bodhgaya/taxi) - 234 km | 4 hrs | Buddhist circuit
+- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) - 219 km | 4 hrs | Ram Mandir
+- [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Vishnupad Temple
+- [Varanasi to Bodhgaya Taxi](/en/varanasi-to-bodhgaya-taxi-cost) - 234 km | 4 hrs | Buddhist circuit
 
 ### Multi-Destination Packages
 

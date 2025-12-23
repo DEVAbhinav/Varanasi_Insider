@@ -76,7 +76,7 @@ This is the quintessential Varanasi experience for a reason. Drifting on the riv
 The energy of the evening Aarti at Dashashwamedh Ghat is electric. The synchronised chanting, massive brass lamps, and incense smoke create an unforgettable atmosphere. Arrive early to get a good spot!
 
 ### Get Lost in the Ancient Alleys (Galis)
-The soul of Varanasi lies in its maze of narrow alleyways. Put your map away and just wander. You'll find hidden temples, tiny shops selling silks, and the best lassi you've ever had. While exploring is a must, always be aware of your surroundings; our [Varanasi Safety Guide](/en/varanasi-safety-guide) has some great tips for navigating the city.
+The soul of Varanasi lies in its maze of narrow alleyways. Put your map away and just wander. You'll find hidden temples, tiny shops selling silks, and the best lassi you've ever had. While exploring is a must, always be aware of your surroundings; our [Solo Travel Safety Guide](/en/is-varanasi-safe-for-solo-female-travellers) has some great tips for navigating the city.
 
 ---
 

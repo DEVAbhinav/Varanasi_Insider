@@ -202,11 +202,11 @@ aggregateRating:
 
 ## ताज गंगेस अतिथियों के लिए अधिक संसाधन
 
-- [एयरपोर्ट से ताज गेटवे वाराणसी ट्रांसफर](/hi/destinations/varanasi/taxi/airport-to-taj-gateway-varanasi) – एयरपोर्ट पिकअप गाइड
-- [ताज गंगेस में रह रहे हैं? टैक्सी FAQ](/hi/destinations/varanasi/taxi/staying-at-taj-ganges-need-taxi) – संपूर्ण FAQ गाइड
-- [वाराणसी से सारनाथ टैक्सी](/hi/destinations/varanasi/taxi/varanasi-to-sarnath-taxi) – बौद्ध तीर्थ दिन यात्रा
+- [एयरपोर्ट से ताज गेटवे वाराणसी ट्रांसफर](/hi/city/varanasi/taxi/airport-to-taj-gateway-varanasi) – एयरपोर्ट पिकअप गाइड
+- [ताज गंगेस में रह रहे हैं? टैक्सी FAQ](/hi/city/varanasi/taxi/staying-at-taj-ganges-need-taxi) – संपूर्ण FAQ गाइड
+- [वाराणसी से सारनाथ टैक्सी](/hi/city/varanasi/taxi/varanasi-to-sarnath-taxi) – बौद्ध तीर्थ दिन यात्रा
 - [दशाश्वमेध घाट गंगा आरती टाइमिंग](/hi/dashashwamedh-ghat-ganga-aarti-timing) – प्रसिद्ध शाम की आरती
-- [सारनाथ संपूर्ण गाइड](/hi/sarnath-complete-guide) – बौद्ध तीर्थ स्थल विवरण
+- [सारनाथ संपूर्ण गाइड](/en/sarnath-complete-guide) – बौद्ध तीर्थ स्थल विवरण
 - [सुबह की नाव सवारी वाराणसी कीमत](/hi/morning-boat-ride-varanasi-price) – सूर्योदय नाव अनुभव
 - [शाम की नाव सवारी वाराणसी गंगा आरती](/hi/evening-boat-ride-varanasi-ganga-aarti) – गंगा पर सूर्यास्त आरती
 - [वाराणसी दिन टूर कैब चार्जेस](/hi/varanasi-day-tour-cab-charges) – दर्शनीय स्थलों की कीमत गाइड

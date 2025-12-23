@@ -8,7 +8,7 @@ author: "Kamal Nayan Singh"
 lastUpdated: 2025-12-22
 canonical: "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly"
 featuredImage: "/images/prayagraj.jpg"
-heroImage: "/images/varanasi-ganga-aarti.jpg"
+
 metaTitle: "Varanasi Gaya Tour Package 2026: Fatigue-Free Pilgrimage for Elderly & NRI Families"
 metaDescription: "Book our 4-5 day Varanasi Gaya Prayagraj tour package with private transport, elderly-friendly hotels & expert local guides. No crowds, no stress—pure devotion."
 destination: "varanasi"
@@ -58,7 +58,7 @@ faqSchema:
 
 # The Fatigue-Free Pilgrimage: Varanasi Gaya Tour Package for Elderly Parents & Families
 
-![Varanasi Ganga Aarti Evening](/images/varanasi-ganga-aarti.jpg)
+
 *Sacred Ganga Aarti at Dashashwamedh Ghat—the spiritual beginning of your pilgrimage*
 
 > **Tour Snapshot: Varanasi Gaya Prayagraj Circuit**

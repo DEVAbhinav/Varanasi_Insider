@@ -6,8 +6,8 @@ lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en
 canonical: "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi"
-featuredImage: "/images/vishnupad-temple-gaya.jpg"
-heroImage: "/images/pind-daan-gaya-ritual.jpg"
+
+
 metaTitle: "Pind Daan in Gaya 2025: Verified Gayawal Panda Service from Varanasi | Cost & Dates"
 metaDescription: "Book legitimate pind daan in Gaya with verified Gayawal Pandas. Transparent cost breakdown, physical ritual, ancestral records. No fake priests. Dates, procedures, and pricing for 2025."
 description: "Book legitimate pind daan in Gaya with verified Gayawal Pandas. Transparent cost breakdown, physical ritual, ancestral records. No fake priests. Dates, procedures, and pricing for 2025."
@@ -82,7 +82,7 @@ faqSchema:
 
 # The Scam-Free Sankalp: Verified Pind Daan Service from Varanasi to Gaya
 
-![Pind Daan Ritual at Vishnupad Temple Gaya](/images/pind-daan-gaya-ritual.jpg)
+
 *Sacred pind daan ceremony at Vishnupad Temple—honoring your ancestors with verified Gayawal Pandas*
 
 > **Service Snapshot: Pind Daan in Gaya**

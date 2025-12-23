@@ -5,7 +5,7 @@ date: "2025-08-10"
 lastUpdated: "2025-08-10"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/tempotraveller.png"
+
 description: "Outstation cabs Varanasi: Innova, Ertiga, SUVs & Tempo (6–12). Fares, routes, GST invoice and FAQs. Get rates and book now."
 tags:
   - varanasi

@@ -4,7 +4,7 @@ slug: "sunrise-boat-ride-ganges"
 date: "2025-07-28"
 author: "Kamal Nayan Singh"
 description: "Sunrise boat ride Varanasi tips: booking, route, what to expect, safety and costs. See the best ghats and plan the perfect morning."
-featuredImage: "/images/sunrise-boat-ride.jpg"
+
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/sunrise-boat-ride-ganges"
 tags: ["sunrise boat ride", "Ganges", "Varanasi", "boat tour", "travel guide"]

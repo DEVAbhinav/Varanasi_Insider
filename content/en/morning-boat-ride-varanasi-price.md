@@ -5,7 +5,7 @@ date: "2025-08-01"
 lastUpdated: "2025-11-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/sunriseBoatRide.jpeg"
+
 metaTitle: "Varanasi Boat Ride Price 2025 — Sunrise Shared ₹80, Private ₹1,800"
 metaDescription: "Updated Nov 2025 boat ride prices in Varanasi: shared seats ₹80–₹150, private rowboats ₹1,800+, motorboats ₹3,500+. Includes sunrise timing hacks & booking script."
 description: "Updated Nov 2025 boat ride prices in Varanasi covering shared seats, private rowboats, motorboats, luxury bajras, negotiation tactics, and booking scripts."

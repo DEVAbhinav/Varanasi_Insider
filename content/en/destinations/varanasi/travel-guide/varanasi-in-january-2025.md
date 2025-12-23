@@ -76,7 +76,7 @@ faqSchema:
 | **Sunset Time** | ~5:30 PM |
 | **Season Status** | **PEAK TOURIST SEASON** ✓ |
 
-![Varanasi January Weather Overview - Temperature and conditions at a glance](/images/Varanasi%20weather%20January%20Lscape.jpeg "Varanasi January Weather Infographic")
+![Varanasi January Weather Overview - Temperature and conditions at a glance](/images/Varanasi weather January Lscape.jpeg "Varanasi January Weather Infographic")
 
 ## Is January the Best Time to Visit Varanasi?
 

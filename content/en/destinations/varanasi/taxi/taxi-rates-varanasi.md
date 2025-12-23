@@ -53,7 +53,7 @@ aggregateRating:
 
 At **KashiTaxi**, we believe in transparent pricing. All our rates are published, fixed, and include GST. No meter tamping, no surprise charges—just honest, professional taxi service.
 
-![Varanasi Tourist Map](/images/varanasi%20tourist%20map-flat-lanscape.jpeg)
+![Varanasi Tourist Map](/images/varanasi tourist map-flat-lanscape.jpeg)
 *Varanasi Tourist Map - Our service coverage across all major locations*
 
 ## Varanasi Airport Taxi Rate Card

@@ -6,7 +6,7 @@ lastUpdated: "2025-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/ayodhya/tour-packages/ayodhya-2-day-tour"
-featuredImage: "/images/ayodhya-two-day-tour.jpg"
+
 metaTitle: "Ayodhya 2 Day Tour Package | Ram Janmabhoomi Pilgrimage Itinerary"
 metaDescription: "Focused Ram Janmabhoomi pilgrimage featuring Hanuman Garhi, Kanak Bhawan, Saryu Aarti, heritage walks and sattvic food trails."
 description: "Focused Ram Janmabhoomi pilgrimage featuring Hanuman Garhi, Kanak Bhawan, Saryu Aarti, heritage walks and sattvic food trails."

@@ -150,7 +150,7 @@ For Varanasi residents, malaiyo's appearance marks winter officially begun. It's
 
 **Accompanying Experience:**
 - Pair with chai tea (hot, spiced, served in small clay cups).
-- Book an early [sunrise yoga session on the ghats](/en/destinations/varanasi/activities/sunrise-yoga-varanasi-2025) and reward yourself with malaiyo afterward.
+- Book an early [sunrise yoga session on the ghats](/en/city/varanasi/activities/sunrise-yoga-varanasi-2025) and reward yourself with malaiyo afterward.
 - Watch the ghat life awakening around you.
 - Observe other malaiyo eaters – mix of locals, pilgrims, travelers.
 - Journal the experience while sensations are fresh.

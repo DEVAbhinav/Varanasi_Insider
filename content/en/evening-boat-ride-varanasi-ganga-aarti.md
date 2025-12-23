@@ -5,7 +5,7 @@ date: "2025-08-01"
 lastUpdated: "2025-09-20"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/eveningAartiHero.jpg"
+
 description: "Evening boat ride Varanasi for Ganga Aarti: 2025 capacity classes, dynamic fare bands, best lens choices & booking workflow."
 keywords: "evening boat ride varanasi, ganga aarti boat ride, varanasi boat ride price, dashashwamedh ghat aarti, ganga aarti from boat, varanasi night boat ride"
 tags:
@@ -50,7 +50,7 @@ faqSchema:
 | Motorboat | 10–15 | ₹4,000–₹6,000 | Faster reposition, engine hum | Mid‑size groups |
 | Luxury Bajra | 15–30 | ₹10,000+ | Cushioned deck, elevation | Premium events |
 
-![Evening boat alignment arc in front of Dashashwamedh Ghat](/images/eveningAartiHero.jpg "Central arc of boats forming viewing crescent – evening Ganga Aarti 2025")
+
 
 ## 3. Recommended Camera & Phone Settings (On‑Water)
 - Mirrorless: ISO 2000, f/2.8, 1/80s (increase shutter once lamps fully lit).  

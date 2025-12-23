@@ -4,7 +4,7 @@ slug: "about"
 date: "2025-07-28"
 author: "Utkarsh Pandey"
 description: "Meet Banarasi Kashitaxi, a family-run Varanasi taxi service since 1998. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
-featuredImage: "/images/posts/about-banarasi-kashitaxi.jpg"
+featuredImage: "/images/aboutUs.svg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/about"
 tags: ["about us", "our story", "Varanasi taxi", "Vinayak Travels Tour", "safe taxi Varanasi"]

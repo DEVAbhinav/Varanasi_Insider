@@ -5,7 +5,7 @@ date: "2025-10-07"
 lastUpdated: "2025-10-07"
 author: "Travel Agent Varanasi Field Team"
 lang: en
-featuredImage: "/images/posts/varanasi-instrument-market.jpeg"
+
 description: "Authentic guide to Varanasi's instrument markets: tabla shell lanes, shehnai makers, sitar workshops, pricing brackets, quality checks, humidity prep & ethical buying."
 keywords: ["Varanasi instrument market","buy tabla Varanasi","shehnai maker Benaras","sitar workshop Varanasi","tabla price guide India","music instrument shops Varanasi","Benaras crafts music","sitar buying tips India"]
 tags:

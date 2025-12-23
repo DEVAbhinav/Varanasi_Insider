@@ -221,7 +221,7 @@ Our specialized **pilgrimage taxi service** connects Varanasi (Kashi Vishwanath)
 ---
 
 **Related Services:**
-- [Varanasi Airport Transfers](/en/services/varanasi-airport-taxi-winter-2025)
+- [Varanasi Airport Transfers](/en/varanasi-airport-taxi-price-guide)
 - [Varanasi Tour Packages](/en/packages/varanasi-tour-package)
 - [Safest Taxi for Women (Solo Female Pilgrims)](/en/services/varanasi-safest-taxi-for-women)
 

@@ -143,5 +143,5 @@ ctaSubtitle: "असी या दशाश्वमेध घाट तक स�
 - मौसम आउटडोर योग के लिए उत्तम।
 - अंतरराष्ट्रीय योग समुदाय शहर में मौजूद।
 - त्योहार ऊर्जा, लंबी छुट्टियाँ, किफायती दाम।
-- [महिंद्रा कबीर उत्सव](/hi/destinations/varanasi/events/mahindra-kabira-festival-2025-varanasi) की शामें + सुबह योग = पूर्ण अनुभव।
-- [एयरपोर्ट ट्रांसफर गाइड](/hi/destinations/varanasi/taxi/varanasi-airport-transfer-guide) से देर रात/सुबह ड्रॉप सुनिश्चित करें।
+- [महिंद्रा कबीर उत्सव](/hi/city/varanasi/events/mahindra-kabira-festival-2025-varanasi) की शामें + सुबह योग = पूर्ण अनुभव।
+- [एयरपोर्ट ट्रांसफर गाइड](/hi/city/varanasi/taxi/varanasi-airport-transfer-guide) से देर रात/सुबह ड्रॉप सुनिश्चित करें।

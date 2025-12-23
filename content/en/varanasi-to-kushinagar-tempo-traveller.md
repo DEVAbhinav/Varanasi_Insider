@@ -34,7 +34,7 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 
 > Core Principle: Preserve dawn + dusk at site; avoid starting return leg late evening.
 
-| ![Mahaparinirvana Temple entrance during dawn meditation hour](/images/blogbhugate.jpg "Mahaparinirvana Temple dawn meditation window") | ![Traveller interior arranged with meditation cushions and blankets](/images/Temp_travellar_inside.jpeg "Interior arranged for reflective travel") | ![Luxury Traveller seats reclined for overnight rest](/images/Tempo_traveller_lux_seat_side.jpeg "Recliner seats ready for serene journey") |
+| ![Mahaparinirvana Temple entrance during dawn meditation hour](/images/blogbhugate.jpg "Mahaparinirvana Temple dawn meditation window") | ![Traveller interior arranged with meditation cushions and blankets](/images/tempo-travellar-inside.jpeg "Interior arranged for reflective travel") | ![Luxury Traveller seats reclined for overnight rest](/images/Tempo_traveller_lux_seat_side.jpeg "Recliner seats ready for serene journey") |
 | --- | --- | --- |
 
 ## Varanasi to Kushinagar Distance & Travel Time

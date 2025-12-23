@@ -95,7 +95,7 @@ Vindhyachal celebrates both Chaitra Navratri (March-April) and Sharad Navratri (
 
 Based on my years of experience managing **Navratri darshan timings in Vindhyachal**, I can tell you that during Navratri, the temple administration extends its hours significantly to manage the massive influx of pilgrims. Darshan can be a time-consuming process, often taking two to three hours due to the heavy rush. However, the extended timings, which run late into the night until 3:00 AM, offer a strategic advantage.
 
-![Devotees waiting for darshan during Navratri](/images/vindhyachal-navratri-darshan-queue.jpeg "Long queues during Navratri darshan at Vindhyavasini Temple")
+
 
 ### Complete Navratri Darshan Schedule
 
@@ -130,7 +130,7 @@ Based on my years of experience managing **Navratri darshan timings in Vindhyach
 
 **Navratri in Vindhyachal** is an auspicious time for performing special Vedic rituals to seek the Goddess's blessings. From my experience helping pilgrims arrange these ceremonies, popular pujas conducted at Vindhyachal include the Navchandi Paath, Satchandi Paath, and Durga Saptashati Path.
 
-![Special puja arrangements during Navratri](/images/vindhyachal-navratri-puja.jpeg "Sacred fire ceremony during Navratri at Vindhyavasini Temple")
+
 
 ### Popular Navratri Pujas and Current Pricing (2025)
 
@@ -182,7 +182,7 @@ Based on my experience, the process for booking these pujas can be complex for f
 
 The nine days of **Navratri in Vindhyachal** are accompanied by a grand **Vindhyachal Navratri Mela** that transforms the sacred town into a vibrant cultural hub. Having attended these celebrations for years, I can tell you it's an experience that beautifully blends spirituality with rich cultural heritage.
 
-![Vindhyachal Navratri Mela celebrations](/images/vindhyachal-navratri-mela.jpeg "Colorful cultural performances at Vindhyachal Navratri Mela")
+
 
 ### Vindhya Fest: Cultural Extravaganza
 
@@ -220,7 +220,7 @@ The nine days of **Navratri in Vindhyachal** are accompanied by a grand **Vindhy
 
 Many devotees observe a fast (vrat) during **Navratri in Vindhyachal**, consuming a restricted diet. From my experience helping fasting pilgrims, finding appropriate fasting food can be a concern. Let me share my comprehensive guide based on years of helping pilgrims maintain their vrat while in Vindhyachal.
 
-![Navratri fasting food thali](/images/navratri-vrat-thali.jpeg "Traditional Navratri fasting food available in Vindhyachal")
+
 
 ### Permitted Navratri Fasting Foods
 

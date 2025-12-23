@@ -112,7 +112,7 @@ The optimal period for visiting this Banaras tourist spot is **October through M
 - **App-based Rides**: Uber and Ola available
 - **Tempo Traveller** (for groups): ₹2,500 for airport pickup
 
-> Complete airport transfer guides: **[Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)**, **[Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide)**, **[Airport Taxi Winter 2025](/en/services/varanasi-airport-taxi-winter-2025)**, and **[Airport Tempo Traveller](/en/varanasi-airport-tempo-traveller)** for group transfers. For distance calculations: **[Assi Ghat to Airport Distance](/en/assi-ghat-to-airport-distance)**.
+> Complete airport transfer guides: **[Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)**, **[Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide)**, and **[Airport Tempo Traveller](/en/varanasi-airport-tempo-traveller)** for group transfers. For distance calculations: **[Assi Ghat to Airport Distance](/en/assi-ghat-to-airport-distance)**.
 
 **By Train**
 

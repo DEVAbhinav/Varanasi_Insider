@@ -5,8 +5,8 @@ title: "Varanasi Tour Package: Complete City Tour & Temple Tour Guide 2025"
 subtitle: "Complete Varanasi tour packages—city tours, temple tours, Ganga Aarti, Sarnath, festivals, and accommodations."
 description: "Best Varanasi tour package guide 2025 covering Varanasi city tour, Varanasi temple tour, Kashi Vishwanath darshan, 84 ghats, Ganga Aarti timings, Sarnath Buddhist site, Dev Deepawali. 1-4 day Varanasi tour itineraries with pricing ₹7,000-₹50,000."
 keywords: ["Varanasi tour package","Varanasi tour","Varanasi city tour","Varanasi temple tour","Varanasi tour packages 2025","best Varanasi tour","Kashi Vishwanath Temple tour","Ganga Aarti Varanasi","Sarnath day trip","Varanasi trip planning"]
-featuredImage: "/images/varanasi-ganga-aarti.jpg"
-heroImage: "/images/varanasi-ganga-aarti.jpg"
+
+
 phone: "9450301573"
 schemaType: "Service"
 serviceCategory: "Tour Packages"
@@ -654,7 +654,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 
 ## Related Varanasi Tour Services
 
-- [Varanasi Airport Taxi Service](/en/services/varanasi-airport-taxi-winter-2025)
+- [Varanasi Airport Taxi Service](/en/varanasi-airport-taxi-price-guide)
 - [Safest Taxi for Women Travelers in Varanasi](/en/services/varanasi-safest-taxi-for-women)
 - [Varanasi-Ayodhya-Prayagraj Tour Package](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi)
 - [Dev Deepawali Varanasi Tour Transport](/en/landing/dev-deepawali-taxi-booking-varanasi)

@@ -6,7 +6,7 @@ lastUpdated: "2025-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-1n2d-tour"
-featuredImage: "/images/sample-varanasi-1n2d.jpg"
+
 metaTitle: "1 Night 2 Days Varanasi Tour Package | Weekend Kashi Itinerary"
 metaDescription: "Witness sunrise and sunset on the Ganges, temple circuits, Sarnath, and Banarasi street food over an immersive 2-day private itinerary."
 description: "Perfect 2-day Varanasi itinerary (1 Night 2 Days). Covers Kashi Vishwanath, Sarnath, Ganga Aarti, and morning boat ride. Includes hotel and private cab."

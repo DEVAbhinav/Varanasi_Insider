@@ -362,7 +362,7 @@ A: Have 2-3 location options planned. If your first choice is overwhelmed, move 
 - **[Ultimate Guide to Dev Deepawali 2025 Varanasi](/en/dev-deepawali-2025-varanasi-ultimate-guide)** - Complete festival overview
 - **[Dev Deepawali Boat Ride Pricing Guide](/en/dev-deepawali-boat-ride-pricing-guide-2025)** - Honest boat booking strategies
 - **[Dev Deepawali Photography Guide](/en/dev-deepawali-photography-guide-2025)** - Technical tips for perfect shots
-- **[Dev Deepawali Crowd Survival Guide](/en/dev-deepawali-crowd-survival-guide)** - Safety and logistics
+- **[Dev Deepawali Crowd Survival Guide](/en/dev-deepawali-crowd-survival-guide-varanasi)** - Safety and logistics
 
 ### Extended Festival Experience
 - **[Ganga Mahotsav 2025 Guide](/en/ganga-mahotsav-2025-classical-festival-varanasi)** - Post-Dev Deepawali cultural festival

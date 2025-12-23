@@ -52,7 +52,7 @@ Choosing between a 9 seater, 12 seater or 17 seater Tempo Traveller in Varanasi 
 
 | Luggage & Rear Access | Fleet Mix (Standard + Luxury) | Spacious Luxury Cabin |
 | --- | --- | --- |
-| ![Rear luggage access tempo traveller 12/17 varanasi](/images/Tempo_travellar_side_back_white.jpeg "Rear & Side Profile Showing Luggage Loading Area") | ![Tempo traveller fleet mix Varanasi including luxury](/images/tempo-traveller-fleet.jpg "Operational Fleet Mix – Standard + Premium Units") | ![Super luxury tempo traveller interior seating comfort Varanasi](/images/Temp_traveller_super_luxury_inside.jpeg "Super Luxury Cabin – Extra Legroom & Lighting") |
+| ![Rear luggage access tempo traveller 12/17 varanasi](/images/Tempo_travellar_side_back_white.jpeg "Rear & Side Profile Showing Luggage Loading Area") | ![Tempo traveller fleet mix Varanasi including luxury](/images/Tempo-Travellar_landscape_Village.jpeg "Operational Fleet Mix – Standard + Premium Units") | ![Super luxury tempo traveller interior seating comfort Varanasi](/images/Temp_traveller_super_luxury_inside.jpeg "Super Luxury Cabin – Extra Legroom & Lighting") |
 
 > These real photos help you visually gauge aisle width, seat pitch and luggage practicality between 9 vs 12 vs 17 seater Tempo Traveller options in Varanasi.
 

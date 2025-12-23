@@ -158,7 +158,7 @@ Perfect for families, corporate groups, and pilgrimage tours with our **tempo tr
 
 **Features:** Push-back seats, ample luggage space, ice box, first-aid kit, music system
 
-![Tempo Traveller luxury interior](/images/Temp_traveller_lux_seat_side.jpeg "Luxury tempo traveller interior - push-back reclining seats")
+![Tempo Traveller luxury interior](/images/Tempo_traveller_lux_seat_side.jpeg "Luxury tempo traveller interior - push-back reclining seats")
 
 ![Tempo Traveller spacious seating](/images/Tempo_travellar_beige_brown_seating_potrait.jpeg "Comfortable tempo traveller seating - premium upholstery")
 

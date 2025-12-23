@@ -426,9 +426,9 @@ Choose from:
 
 ### Similar Routes from Varanasi
 
-- [Varanasi to Ayodhya Taxi](/en/city/ayodhya/taxi) - 219 km | 4 hrs | Ram Mandir
-- [Varanasi to Prayagraj Cab](/en/city/prayagraj/taxi) - 120 km | 2.5 hrs | Triveni Sangam
-- [Varanasi to Gorakhpur Taxi](/en/city/gorakhpur/taxi) - 200 km | 4 hrs | Nepal gateway
+- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) - 219 km | 4 hrs | Ram Mandir
+- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj) - 120 km | 2.5 hrs | Triveni Sangam
+- [Outstation Cabs from Varanasi](/en/outstation-cabs-from-varanasi) - 200 km | 4 hrs | Gorakhpur, Nepal gateway
 
 ### Multi-Destination Packages
 

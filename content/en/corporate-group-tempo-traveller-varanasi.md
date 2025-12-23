@@ -32,7 +32,7 @@ Need structured, punctual group movement in Kashi for a corporate event, confere
 
 | Fleet Mix Exterior | Premium Urbania Interior | Standard 12 Seater Aisle |
 | --- | --- | --- |
-| ![Corporate tempo traveller fleet varanasi multi size](/images/tempo-traveller-fleet.jpg "Corporate Tempo Traveller Fleet – 9 to 26 Seater Lineup") | ![Corporate premium urbania tempo traveller interior varanasi](/images/Urbania-Inside-Potrait.jpeg "Premium Urbania / Maharaja Style Interior – Ideal for CXO & International Delegations") | ![12 seater corporate tempo traveller interior aisle varanasi](/images/Temp-Travellar-Inside_Square_1by1.jpeg "12 Seater Interior – Clear Aisle & Team Interaction Space") |
+| ![Corporate tempo traveller fleet varanasi multi size](/images/Tempo-Travellar_landscape_Village.jpeg "Corporate Tempo Traveller Fleet – 9 to 26 Seater Lineup") | ![Corporate premium urbania tempo traveller interior varanasi](/images/Urbania-Inside-Potrait.jpeg "Premium Urbania / Maharaja Style Interior – Ideal for CXO & International Delegations") | ![12 seater corporate tempo traveller interior aisle varanasi](/images/Temp-Travellar-Inside_Square_1by1.jpeg "12 Seater Interior – Clear Aisle & Team Interaction Space") |
 
 | Luxury Seat Detail | Rear Loading & Side Profile | Super Luxury Cabin |
 | --- | --- | --- |

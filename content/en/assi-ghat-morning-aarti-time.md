@@ -40,4 +40,4 @@ relatedPosts:
 - Sit during mantras, stand only when priests invite devotees forward.
 - Avoid flash; it distracts performers and other pilgrims.
 
-> 🔁 Return to the [main aarti page](/en/assi-ghat-aarti-time) for live updates and evening schedule.
+> 🔁 Check our [Evening Aarti Guide](/en/assi-ghat-evening-aarti-time) or [Assi Ghat Aarti Timings 2025](/en/assi-ghat-aarti-timings-2025) for live updates.

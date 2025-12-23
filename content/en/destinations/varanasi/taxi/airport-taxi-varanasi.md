@@ -127,7 +127,7 @@ For business travelers and international tourists, we offer **meet-and-greet ser
 
 ## Varanasi Airport Taxi to Popular Hotels & Ghats
 
-![Varanasi Tourist Map](/images/varanasi%20tourist%20map-flat-lanscape.jpeg)
+![Varanasi Tourist Map](/images/varanasi tourist map-flat-lanscape.jpeg)
 *Varanasi Tourist Map - Airport transfer routes to major destinations*
 
 | Destination | Distance | Approx. Time | Sedan Fare | SUV Fare |

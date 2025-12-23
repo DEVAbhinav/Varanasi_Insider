@@ -4,7 +4,7 @@ slug: "contact"
 date: "2025-07-28"
 author: "अभिनव पांडे"
 description: "वाराणसी में 24×7 टैक्सी सेवाओं के लिए बनारसी काशीटैक्सी से संपर्क करें। एयरपोर्ट पिकअप, स्थानीय टूर और आउटस्टेशन कैब के लिए कॉल या व्हाट्सएप करें। अभी मुफ्त उद्धरण प्राप्त करें।"
-featuredImage: "/images/posts/contact-banarasi-kashitaxi.jpg"
+featuredImage: "/images/aboutUs.svg"
 lang: "hi"
 canonical: "https://www.kashitaxi.in/hi/contact"
 tags: ["संपर्क", "समर्थन", "टैक्सी बुकिंग", "वाराणसी यात्रा", "वाराणसी एयरपोर्ट टैक्सी"]

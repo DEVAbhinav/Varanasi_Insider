@@ -64,10 +64,10 @@ Follow Ring Road toward Lahartara, proceed straight into Sigra, and turn onto Ch
 
 | BCY exit lane | Primary ghat | Walk / e-rickshaw time | Deep-dive guide |
 | --- | --- | --- | --- |
-| Platform 1 main gate | Dashashwamedh Ghat | 7 min e-rickshaw | [Dashashwamedh airport guide](/en/destinations/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance) |
-| Rear ghat gate | Manikarnika Ghat | 6 min walk | [Manikarnika transfer tips](/en/destinations/varanasi/taxi/varanasi-airport-to-manikarnika-distance) |
-| Maidagin exit | Assi/Kedar axis | 12 min via shared auto + 5 min walk | [Assi Ghat route](/en/destinations/varanasi/taxi/varanasi-airport-to-assi-ghat-distance) |
-| Chaukhamba loop | NaMo/Khidkiya promenade | 15 min via e-rickshaw + car swap | [NaMo Ghat drop](/en/destinations/varanasi/taxi/varanasi-airport-to-namo-ghat-distance) |
+| Platform 1 main gate | Dashashwamedh Ghat | 7 min e-rickshaw | [Dashashwamedh airport guide](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance) |
+| Rear ghat gate | Manikarnika Ghat | 6 min walk | [Manikarnika transfer tips](/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance) |
+| Maidagin exit | Assi/Kedar axis | 12 min via shared auto + 5 min walk | [Assi Ghat route](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance) |
+| Chaukhamba loop | NaMo/Khidkiya promenade | 15 min via e-rickshaw + car swap | [NaMo Ghat drop](/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance) |
 
 Share the ghat you’re targeting while booking so dispatch can lock the right BCY exit and porter.
 

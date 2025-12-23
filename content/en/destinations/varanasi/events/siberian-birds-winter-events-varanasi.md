@@ -59,7 +59,7 @@ Varanasi doesn't just fly kites; we fight with them. On January 14th, the entire
 
 Tourist Tip: The best view isn't from the ground. Ask your hotel if they have rooftop access, or head to the ghats to watch the spectacle from below.
 
-👉 [Read our full guide to Makar Sankranti Kite Wars](/en/destinations/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking)
+👉 [Read our full guide to Makar Sankranti Kite Wars](/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking)
 
 ### Magh Mela (Prayagraj Day Trip)
 

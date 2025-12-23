@@ -22,7 +22,7 @@ tags:
   - logistics
   - travel-guide
 template: destination
-featuredImage: "/images/varanasi-ghats-morning.jpeg"
+featuredImage: "/images/varanasi-ghat-early-morning.jpeg"
 eyebrow: "Banaras Lit Fest 2026"
 ctaTitle: "Arrange Your BLF 2026 Transport"
 ctaSubtitle: "Share your dates and hotel on WhatsApp for a custom Taj Ganges logistics plan."

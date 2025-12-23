@@ -6,7 +6,7 @@ lastUpdated: "2025-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-2n3d-tour"
-featuredImage: "/images/sample-varanasi-2n3d.jpg"
+
 metaTitle: "2 Nights 3 Days Varanasi Tour Package | Complete Kashi Experience"
 metaDescription: "Three unhurried days to absorb temple legends, dual boat rides, Sarnath, Ramnagar Fort, silk ateliers, and food trails with concierge-level support."
 description: "Relaxed 3-day Varanasi itinerary (2 Nights 3 Days). Deep dive into Kashi's spirituality, history, and culture. Includes Ramnagar Fort and extended ghat tours."

@@ -35,7 +35,7 @@ Sarnath is where the Buddha delivered his first sermon. Whether you’re hosting
 
 > **Quick Facts:** 10 km from Godowlia · 5–6 hour charter · ₹3,200 (12 seater) · ASI-licensed guides · chilled water, prayer shawls, and translation support.
 
-| ![Dhamek Stupa rising over manicured lawns at Sarnath](/images/blogSarnath.png "Dhamek Stupa morning walk") | ![Meditation group boarding Traveller outside Mulagandha Kuti Vihara](/images/Tempo_travellar_side_l.jpeg "Traveller staged outside Mulagandha Kuti Vihara") | ![Traveller interior arranged with prayer shawls and water bottles](/images/Tempo_travellar_neon_inside.jpeg "Interior prepped for meditation group") |
+| ![Dhamek Stupa rising over manicured lawns at Sarnath](/images/blogSarnath.png "Dhamek Stupa morning walk") | ![Meditation group boarding Traveller outside Mulagandha Kuti Vihara](/images/tempo-travellar-side-l.jpeg "Traveller staged outside Mulagandha Kuti Vihara") | ![Traveller interior arranged with prayer shawls and water bottles](/images/Tempo_travellar_neon_inside.jpeg "Interior prepped for meditation group") |
 | --- | --- | --- |
 
 ## Sarnath Half-Day Tempo Traveller Itinerary (Customisable)

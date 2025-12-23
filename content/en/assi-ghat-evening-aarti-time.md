@@ -37,4 +37,4 @@ relatedPosts:
 - Shoot at ISO 3200, f/2.8, 1/80s once lamps are lit.
 - Capture reflections by positioning near the right parapet.
 
-> 🔁 Need morning times too? Jump back to the [master aarti page](/en/assi-ghat-aarti-time) for daily updates.
+> 🔁 Need morning times too? Check our [Assi Ghat Aarti Timings 2025](/en/assi-ghat-aarti-timings-2025) or [Morning Aarti Guide](/en/assi-ghat-morning-aarti-time) for daily updates.

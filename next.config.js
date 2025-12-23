@@ -29,6 +29,45 @@ const nextConfig = {
   async redirects() {
     return [
       // ===================================
+      // CATEGORY 0: 404 Cleanup & Path Normalization
+      // ===================================
+      {
+        source: '/:lang(en|hi)/destinations/:destination/taxi/:slug',
+        destination: '/:lang/city/:destination/taxi/:slug',
+        permanent: true,
+      },
+      {
+        source: '/en/assi-ghat-aarti-time',
+        destination: '/en/assi-ghat-evening-aarti-time',
+        permanent: true,
+      },
+      {
+        source: '/en/services/varanasi-airport-taxi-winter-2025',
+        destination: '/en/varanasi-airport-taxi-price-guide',
+        permanent: true,
+      },
+      {
+        source: '/hi/services',
+        destination: '/hi/varanasi-transport-price-guide-2025',
+        permanent: true,
+      },
+      {
+        source: '/hi/services/',
+        destination: '/hi/varanasi-transport-price-guide-2025',
+        permanent: true,
+      },
+      {
+        source: '/hi/sarnath-complete-guide',
+        destination: '/en/sarnath-complete-guide',
+        permanent: true,
+      },
+      {
+        source: '/hi/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi',
+        destination: '/en/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi',
+        permanent: true,
+      },
+
+      // ===================================
       // CATEGORY 1: Missing Language Prefix
       // High-priority: Content exists but accessed without /en/ or /hi/
       // ===================================

@@ -6,7 +6,7 @@ date: 2025-08-27
 tags: [tempo traveller, varanasi, tempo traveller hire, tempo traveller booking, tempo traveller rates, kashi darshan, airport transfer, 12 seater, 17 seater]
 slug: tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/tempo-traveller-varanasi
-featuredImage: /images/tempo-traveller-fleet.jpg
+featuredImage: /images/Tempo-Travellar_landscape_Village.jpeg
 relatedPosts:
   - varanasi-airport-tempo-traveller
   - kashi-darshan-tempo-traveller

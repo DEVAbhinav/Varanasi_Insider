@@ -287,7 +287,7 @@ Driver meets you at arrivals with name placard, assists luggage, confirms Taj Ga
 - Drivers briefed on BLF 2026 venue protocols, Taj Ganges security procedures
 - English communication eliminates translation friction
 
-**CTA:** Explore our [BLF 2026 Venue & Logistics Guide](/destinations/varanasi/events/banaras-lit-fest-2026-venue-guide) for hotel recommendations near Taj Ganges, or message `+91 94503 01573` for instant booking assistance.
+**CTA:** Explore our [BLF 2026 Venue & Logistics Guide](/en/city/varanasi/events/banaras-lit-fest-2026-venue-guide-hotels-logistics) for hotel recommendations near Taj Ganges, or message `+91 94503 01573` for instant booking assistance.
 
 ## Frequently Asked Questions
 
@@ -321,7 +321,7 @@ A: WhatsApp `+91 94503 01573` is monitored 24/7 during BLF dates. Typical respon
 
 **Q: Do you offer corporate packages for publishers/sponsors?**
 
-A: Yes—we have [corporate mobility solutions](/destinations/varanasi/events/banaras-lit-fest-2026-corporate-transport) for media fleets, publisher delegations, and sponsor coordination. Message "Corporate BLF" for dedicated inquiry.
+A: Yes—we have [corporate mobility solutions](/en/city/varanasi/events/banaras-lit-fest-2026-corporate-mobility-partner) for media fleets, publisher delegations, and sponsor coordination. Message "Corporate BLF" for dedicated inquiry.
 
 ---
 

@@ -37,7 +37,7 @@ Planning a sunrise-to-night pilgrimage from Kashi to Ayodhya? This page packages
 
 > **Quick Stats:** 220 km one way · 4.5 hours driving · 15-hour charter · ₹14,500 (12 seater) · 17 seater ₹15,500.
 
-| ![Traveller rolling out of Varanasi before dawn for Ayodhya day trip](/images/AyodhyaBus1.jpg "Pre-dawn departure for Ayodhya day trip") | ![Passengers relaxing inside premium Traveller cabin en route](/images/Temp_travellar_inside.jpeg "Comfortable cabin set for long-day pilgrimage") | ![Ayodhya Ram Mandir entrance lit up during evening darshan](/images/AyodhyaTrain1.jpg "Ram Mandir entrance during golden hour") |
+| ![Traveller rolling out of Varanasi before dawn for Ayodhya day trip](/images/AyodhyaBus1.jpg "Pre-dawn departure for Ayodhya day trip") | ![Passengers relaxing inside premium Traveller cabin en route](/images/tempo-travellar-inside.jpeg "Comfortable cabin set for long-day pilgrimage") | ![Ayodhya Ram Mandir entrance lit up during evening darshan](/images/AyodhyaTrain1.jpg "Ram Mandir entrance during golden hour") |
 | --- | --- | --- |
 
 ## Ayodhya Day Trip Timeline from Varanasi (Customisable)

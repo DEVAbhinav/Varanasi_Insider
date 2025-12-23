@@ -7,7 +7,7 @@ metaTitle: "वाराणसी वाद्य ख़रीद 2025: तब�
 metaDescription: "तबला, शहनाई, सितार, हारमोनियम वाराणसी: प्राइस बैंड, असली बनाम शोपीस पहचान, नमी तैयारी, नेगो एथिक्स, पैकिंग टिप्स – 2025।"
 description: "पर्यटक शोपीस भरे बाज़ार में असली playable वाद्य चयन – प्राइस तालिका, चेकलिस्ट, क्राफ्ट लेन, नैतिक सौदा दृष्टिकोण।"
 keywords: ["varanasi instrument market hindi","तबला खरीद वाराणसी","शहनाई निर्माता बनारस","सितार शॉप वाराणसी","tabla price varanasi hindi","music instrument lanes varanasi","harmonium buying tips hindi","sitar quality check india","banaras tabla style","sarangi price varanasi"]
-featuredImage: "/images/posts/varanasi-instrument-market.jpeg"
+
 relatedPosts:
   - varanasi-classical-music-heritage
   - ganga-mahotsav-2025-classical-festival-varanasi

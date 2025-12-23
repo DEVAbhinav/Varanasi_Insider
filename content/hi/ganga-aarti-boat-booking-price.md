@@ -7,7 +7,7 @@ metaTitle: "गंगा आरती बोट प्राइस 2025 (Hindi) 
 metaDescription: "गंगा आरती नाव सीट / प्राइवेट / मोटर / बजरा कीमतें अब एकीकृत शाम नाव राइड गाइड पेज पर – इस पेज को जल्द 301 रीडायरेक्ट किया जाएगा।"
 description: "यह सारांश पेज अब समेकित: शाम नाव राइड (गंगा आरती) गाइड – बोर्डिंग विंडो + सीट क्लास + फेस्टिवल प्रीमियम एक स्थान पर।"
 keywords: ["ganga aarti boat price hindi","गंगा आरती नाव कीमत","dashashwamedh boat seat price","ganga aarti private boat hindi","festival boat surcharge aarti","ganga aarti boat booking"]
-featuredImage: "/images/eveningAartiHero.jpg"
+
 relatedPosts:
   - evening-boat-ride-varanasi-ganga-aarti
   - dashashwamedh-ghat-ganga-aarti-timing

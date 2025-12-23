@@ -178,6 +178,6 @@ aggregateRating:
 - [वाराणसी एयरपोर्ट टैक्सी गाइड](/hi/varanasi-airport-taxi-guide) – संपूर्ण एयरपोर्ट ट्रांसफर जानकारी
 - [वाराणसी एयरपोर्ट टैक्सी प्राइस गाइड](/hi/varanasi-airport-taxi-price-guide) – सभी मार्गों की कीमत
 - [वाराणसी के घाटों की गाइड](/hi/varanasi-ke-ghaton-ke-liye-guide) – प्रसिद्ध रिवरफ्रंट की खोज
-- [ताज गंगेस वाराणसी टैक्सी सेवा](/hi/destinations/varanasi/taxi/taj-ganges-varanasi-taxi-service) – होटल अतिथियों के लिए प्रीमियम सेवा
-- [वाराणसी से सारनाथ टैक्सी](/hi/destinations/varanasi/taxi/varanasi-to-sarnath-taxi) – बौद्ध तीर्थ स्थल की दिन यात्रा
+- [ताज गंगेस वाराणसी टैक्सी सेवा](/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service) – होटल अतिथियों के लिए प्रीमियम सेवा
+- [वाराणसी से सारनाथ टैक्सी](/hi/city/varanasi/taxi/varanasi-to-sarnath-taxi) – बौद्ध तीर्थ स्थल की दिन यात्रा
 - [महिला यात्रियों के लिए सबसे सुरक्षित टैक्सी](/hi/services/varanasi-safest-taxi-for-women) – सुरक्षित यात्रा विकल्प

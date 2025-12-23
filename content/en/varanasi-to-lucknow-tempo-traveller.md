@@ -70,7 +70,7 @@ Return journeys typically start 3:00 PM/5:00 PM to reach Varanasi by night. Two-
 
 > All fares include tolls (₹2,055 Purvanchal Expressway), fuel, driver, parking permits, and 300 ml water bottles. GST extra if invoice required.
 
-![Recliner seating row with laptop tray deployed inside Traveller](/images/Temp_travellar_neon_inside.jpeg "Recliner seating with work tray on the expressway")
+![Recliner seating row with laptop tray deployed inside Traveller](/images/Tempo_travellar_neon_inside.jpeg "Recliner seating with work tray on the expressway")
 
 ![Traveller parked at Chaudhary Charan Singh Airport terminal night pickup](/images/Tempo_travellar_side_back_white.jpeg "Airport pickup at Lucknow terminal")
 

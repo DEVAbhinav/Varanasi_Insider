@@ -4,7 +4,7 @@ slug: "contact"
 date: "2025-07-28"
 author: "Utkarsh Pandey"
 description: "Contact Banarasi Kashitaxi for 24×7 taxi services in Varanasi. Call or WhatsApp for airport pickups, local tours, and outstation cabs. Get a free quote now."
-featuredImage: "/images/posts/contact-banarasi-kashitaxi.jpg"
+featuredImage: "/images/aboutUs.svg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/contact"
 tags: ["contact", "support", "taxi booking", "Varanasi travel", "Varanasi airport taxi"]

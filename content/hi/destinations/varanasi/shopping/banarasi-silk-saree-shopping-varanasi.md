@@ -82,8 +82,8 @@ ctaSubtitle: "मधुबन → ठठेरी → एयरपोर्ट �
 
 ### दिसंबर शॉपिंग रणनीति
 
-- सुबह [योग/कबीर सत्र](/hi/destinations/varanasi/events/mahindra-kabira-festival-2025-varanasi) के बाद 10 बजे तक मार्केट पहुँचे।
-- [एयरपोर्ट ट्रांसफर गाइड](/hi/destinations/varanasi/taxi/varanasi-airport-transfer-guide) वाली कैब दिनभर रखें – बैग सुरक्षित, रूट फ्लेक्सिबल।
+- सुबह [योग/कबीर सत्र](/hi/city/varanasi/events/mahindra-kabira-festival-2025-varanasi) के बाद 10 बजे तक मार्केट पहुँचे।
+- [एयरपोर्ट ट्रांसफर गाइड](/hi/city/varanasi/taxi/varanasi-airport-transfer-guide) वाली कैब दिनभर रखें – बैग सुरक्षित, रूट फ्लेक्सिबल।
 - 11:30 पर [मलाईयो ब्रेक](/hi/destinations/varanasi/food/malaiyo-varanasi-guide) लें – ऊर्जा बनी रहेगी।
 - 22 दिसंबर से पहले खरीदें ताकि फॉल/अल्टरेशन का समय मिले।
 
