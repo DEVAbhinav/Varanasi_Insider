@@ -1,14 +1,15 @@
 ---
-title: "Varanasi Airport Taxi Fare 2025: Fixed-Price Cabs from ₹700"
+title: "Varanasi Airport Taxi Fare 2025: Fixed-Price Cabs from ₹700 (Dec Update)"
 slug: "varanasi-airport-taxi-price-guide"
 date: "2025-07-27"
-lastUpdated: "2025-11-05"
+lastUpdated: "2025-12-23"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/airport-taxi-600x400.jpeg"
-metaTitle: "Varanasi Airport Taxi Fare 2025: Fixed Airport-to-City Cabs from ₹700"
-metaDescription: "Updated Nov 2025 Varanasi airport taxi fares: sedan ₹700–₹950, Innova ₹1,250–₹1,550, tempo ₹2,100. 25–30 km in 40–45 min with one-tap WhatsApp booking, capped night surcharge and clear refund policy."
+metaTitle: "Varanasi Airport Taxi Fare 2025 (Dec): Fixed Airport-to-City Cabs from ₹700"
+metaDescription: "Updated Dec 2025 Varanasi airport taxi fares: sedan ₹700–₹950 (Flash ₹690), Innova ₹1,250–₹1,550, tempo ₹2,100. 25–30 km in 40–45 min with one-tap WhatsApp booking, capped night surcharge and clear refund policy."
 description: "Updated Nov 2025 Varanasi airport taxi fares to Assi, Dashashwamedh, BHU, and Sarnath with live tables, booking scripts, pickup point map, and refund policies."
+description: "Updated Dec 2025 Varanasi airport taxi fares to Assi, Dashashwamedh, BHU, and Sarnath with live tables, booking scripts, pickup point map, and refund policies."
 keywords:
   - "varanasi airport taxi fare today"
   - "vns airport cab price 2025"
@@ -30,46 +31,71 @@ relatedPosts:
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Varanasi Airport Transfer",
-  "serviceType": "Airport Taxi",
-  "areaServed": ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "BHU"],
+  "@id": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#service",
+  "name": "Varanasi Airport Taxi",
+  "serviceType": "Airport Transfer",
   "provider": {
     "@type": "LocalBusiness",
     "name": "Vinayak Travels Varanasi",
     "telephone": "+919450301573",
     "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide"
   },
+  "areaServed": ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "BHU", "Sarnath"],
+  "description": "Dec 2025 Varanasi airport taxi fares with fixed sedan, Innova and tempo traveller pricing, night surcharge caps, and WhatsApp booking.",
+  "image": [
+    "https://www.kashitaxi.in/images/airport-taxi-600x400.jpeg",
+    "https://www.kashitaxi.in/images/seden.png"
+  ],
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Sedan Airport Pickup",
+      "price": "700",
+      "priceCurrency": "INR",
+      "priceValidUntil": "2026-06-30",
+      "description": "Sedan VNS airport to Assi/Dashashwamedh day rate; Flash ₹690 within 2 hours of pickup (weekday).",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book"
+    },
+    {
+      "@type": "Offer",
+      "name": "Innova Crysta Airport Pickup",
+      "price": "1250",
+      "priceCurrency": "INR",
+      "priceValidUntil": "2026-06-30",
+      "description": "Premium 6-seater airport transfer; capped night fare ₹1,699 all-inclusive.",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book"
+    },
+    {
+      "@type": "Offer",
+      "name": "Tempo Traveller Airport Transfer",
+      "price": "2100",
+      "priceCurrency": "INR",
+      "priceValidUntil": "2026-06-30",
+      "description": "12-seater airport transfer with baggage support and driver allowance included.",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book"
+    }
+  ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "Varanasi Airport Taxi Fare 2025",
     "itemListElement": [
       {
-        "@type": "Offer",
-        "name": "Sedan Airport Pickup",
-        "price": "700",
-        "priceCurrency": "INR",
-        "description": "One-way sedan transfer from VNS airport to Assi/Dashashwamedh with meet-and-greet",
-        "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book",
-        "potentialAction": {
-          "@type": "ReserveAction",
-          "target": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book"
-        }
+        "@type": "ListItem",
+        "position": 1,
+        "item": {"@type": "Offer", "name": "Sedan Airport Pickup"}
       },
       {
-        "@type": "Offer",
-        "name": "Innova Crysta Airport Pickup",
-        "price": "1250",
-        "priceCurrency": "INR",
-        "description": "Premium 6-seater airport transfer with night surcharge built-in",
-        "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book"
+        "@type": "ListItem",
+        "position": 2,
+        "item": {"@type": "Offer", "name": "Innova Crysta Airport Pickup"}
       },
       {
-        "@type": "Offer",
-        "name": "Tempo Traveller Airport Transfer",
-        "price": "2100",
-        "priceCurrency": "INR",
-        "description": "12-seater group transfer with baggage support",
-        "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book"
+        "@type": "ListItem",
+        "position": 3,
+        "item": {"@type": "Offer", "name": "Tempo Traveller Airport Transfer"}
       }
     ]
   }
@@ -78,9 +104,13 @@ relatedPosts:
 
 # Varanasi Airport to Assi/Dashashwamedh Taxi Fare 2025
 
-Updated: Nov 2025 · 25–30 km · 40–45 min drive
+Updated: Dec 2025 · 25–30 km · 40–45 min drive
 
-> **TL;DR:** November 2025 Varanasi airport taxi fares start at ₹700 for sedans (Flash ₹690 when you call within 2 hours), Innova Crysta lands ₹1,250–₹1,550, and tempo Travellers sit near ₹2,100. Night surcharge stays capped at ₹150–₹200. Book via WhatsApp before take-off, meet your driver at Gate 3 Arrivals, and keep the refund clause handy if flights slip beyond 90 minutes.
+> **TL;DR (Dec 2025):** Varanasi airport taxi fares start at ₹700 for sedans (Flash ₹690 when you confirm within 2 hours), Innova Crysta lands ₹1,250–₹1,550, and tempo Travellers sit near ₹2,100. Night surcharge stays capped at ₹150–₹200. Book via WhatsApp before take-off, meet your driver at Gate 3 Arrivals, and keep the refund clause handy if flights slip beyond 90 minutes.
+
+**One-tap booking (WhatsApp):** https://wa.me/919450301573?text=Need%20a%20Varanasi%20airport%20pickup%20today
+
+**Fastest response window:** 6am–11pm IST with 15-minute quote turnaround; share landing time + flight number for on-time dispatch.
 
 <div class="price-snapshot" aria-label="Varanasi airport taxi live price grid">
   <h2>Today’s Fare Snapshot (refreshed 6-hourly)</h2>

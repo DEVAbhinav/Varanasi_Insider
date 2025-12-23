@@ -31,33 +31,82 @@
       }
     },
     {
-      "@type": "BlogPosting",
-      "@id": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi#blog",
-      "headline": "9 vs 12 vs 17 Seater Tempo Traveller Varanasi: Which One to Book? (2025 Guide)",
-      "description": "Comparison of 9 vs 12 vs 17 seater Tempo Traveller in Varanasi – group size fit, per-head cost, luggage, pilgrimage suitability, rates, FAQs.",
-      "image": "https://www.kashitaxi.in/images/Lux-Tempo-Travellar-square.jpeg",
+      "@type": "Service",
+      "@id": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi#service",
+      "name": "Tempo Traveller in Varanasi (9 / 12 / 17 Seater)",
+      "serviceType": "Tempo Traveller Rental",
+      "provider": {
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "areaServed": ["Varanasi", "Ayodhya", "Prayagraj"],
+      "description": "Choose the right Tempo Traveller size in Varanasi with 2025 fares, photo comparison, luggage notes, and booking guidance.",
+      "image": [
+        "https://www.kashitaxi.in/images/tempo-travellar-outside-front-p.jpeg",
+        "https://www.kashitaxi.in/images/Temp-Travellar-Inside_Square_1by1.jpeg",
+        "https://www.kashitaxi.in/images/Tempo_traveller_lux_seat_side.jpeg"
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "9 Seater Tempo Traveller Varanasi",
+          "price": "4500",
+          "priceCurrency": "INR",
+          "url": "https://www.kashitaxi.in/en/tempo-traveller-varanasi",
+          "priceValidUntil": "2026-06-30",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "12 Seater Tempo Traveller Varanasi",
+          "price": "5500",
+          "priceCurrency": "INR",
+          "url": "https://www.kashitaxi.in/en/12-seater-tempo-traveller-varanasi",
+          "priceValidUntil": "2026-06-30",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "17 Seater Tempo Traveller Varanasi",
+          "price": "6000",
+          "priceCurrency": "INR",
+          "url": "https://www.kashitaxi.in/en/17-seater-tempo-traveller-varanasi",
+          "priceValidUntil": "2026-06-30",
+          "availability": "https://schema.org/InStock"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tempo Traveller Size Comparison Varanasi",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "9 Seater Tempo Traveller Varanasi"
+            },
+            "position": 1
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "12 Seater Tempo Traveller Varanasi"
+            },
+            "position": 2
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "17 Seater Tempo Traveller Varanasi"
+            },
+            "position": 3
+          }
+        ]
+      },
       "inLanguage": "en-IN",
       "datePublished": "2025-09-18",
-      "dateModified": "2025-09-18",
-      "author": {
-        "@type": "Person",
-        "name": "Kamal Nayan Singh"
-      },
-      "publisher": {
-        "@id": "https://www.kashitaxi.in#organization",
-        "@type": "Organization",
-        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
-      },
-      "keywords": [
-        "9 vs 12 vs 17 seater tempo traveller varanasi",
-        "tempo traveller size comparison varanasi",
-        "tempo traveller capacity guide kashi"
-      ],
-      "articleSection": [
-        "Comparison",
-        "Tempo Traveller",
-        "Group Travel"
-      ],
+      "dateModified": "2025-12-23",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi"
