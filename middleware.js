@@ -1,7 +1,20 @@
 import { NextResponse } from 'next/server';
 
+// Redirects for legacy/crawled URLs to canonical pages
+const REDIRECTS = {
+  '/en/city/varanasi/taxi/varanasi-airport-transfer-directory': '/en/city/varanasi/taxi',
+  '/hi/city/varanasi/taxi/varanasi-airport-transfer-directory': '/hi/city/varanasi/taxi',
+};
+
 export function middleware(request) {
   const { pathname } = request.nextUrl;
+  
+  // Handle explicit redirects first
+  if (REDIRECTS[pathname]) {
+    const url = request.nextUrl.clone();
+    url.pathname = REDIRECTS[pathname];
+    return NextResponse.redirect(url, 301);
+  }
   
   // Check if the pathname contains uppercase letters (excluding static files)
   const lowercasePathname = pathname.toLowerCase();
