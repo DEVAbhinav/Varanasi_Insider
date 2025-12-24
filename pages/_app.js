@@ -95,6 +95,13 @@ function MyApp({ Component, pageProps }) {
     return () => window.removeEventListener('click', handleClick);
   }, []);
 
+  // Set HTML lang attribute dynamically based on URL
+  useEffect(() => {
+    const pathLang = asPath.split('/')[1];
+    const lang = pathLang === 'hi' ? 'hi' : 'en';
+    document.documentElement.lang = lang;
+  }, [asPath]);
+
   return (
     <>
       <Head>
