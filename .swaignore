@@ -1,0 +1,46 @@
+# Ignore development/build cache files
+.next/cache/
+
+# Ignore documentation (not served)
+docs/
+
+# Ignore source content (already compiled)
+content/
+
+# Ignore scripts (build-time only)
+scripts/
+
+# Ignore tests
+tests/
+test-results/
+playwright.config.ts
+playwright-report/
+
+# Ignore temp files
+tmp/
+*.log
+
+# Ignore config files not needed at runtime
+tsconfig.json
+tailwind.config.js
+postcss.config.js
+next.config.js
+components.json
+*.config.js
+*.config.ts
+
+# Ignore package files (deps already bundled)
+package.json
+package-lock.json
+node_modules/
+
+# Ignore git
+.git/
+.gitignore
+
+# Ignore markdown docs
+*.md
+!public/**/*.md
+
+# Ignore Azure Functions source (deployed separately)
+api/
