@@ -1,15 +1,15 @@
 ---
-title: "अस्सी घाट आरती समय 2025: सुबह व शाम की संपूर्ण गाइड"
+title: "अस्सी घाट आरती समय 2025 — सुबह 5:30 AM | शाम 6:00 PM [अपडेटेड]"
 slug: "assi-ghat-aarti-timings-2025"
 date: "2025-08-04"
-lastUpdated: "2025-10-06"
+lastUpdated: "2025-12-24"
 author: "Naval Kishore (स्थानीय नाव व टूर समन्वयक)"
 lang: hi-IN
 featuredImage: "/images/varanasi-assi-ghat-aarti-l.jpeg"
-metaTitle: "अस्सी घाट आरती 2025: सुबह 5 AM, शाम 6 PM | Subah-e-Banaras"
-metaDescription: "सुबह-ए-बनारस 5:00 AM, शाम आरती 6:00-7:00 PM। 30 मिनट पहले पहुंचें। नाव ₹150-300। महीना-वार समय + भीड़ टिप्स →"
+metaTitle: "अस्सी घाट आरती टाइम 2025 — सुबह 5:30 AM | शाम 6:00 PM [दिसंबर अपडेट]"
+metaDescription: "अस्सी घाट आरती आज: सुबह 5:30 AM, शाम 6:00 PM। 30 मिनट पहले पहुंचें! 2025-26 पूरी समय सारणी + बेस्ट सीट + नाव टिप्स – स्थानीय गाइड से।"
 description: "अस्सी घाट गंगा आरती 2025 के सुबह (सुबह-ए-बनारस) और शाम (संध्या आरती) के सही टाइमिंग, महीना‑वार तालिका, भीड़ प्रबंधन, फोटो टिप्स और सर्वश्रेष्ठ देखने की जगह।"
-keywords: ["अस्सी घाट आरती समय","Assi Ghat Aarti Timings 2025","Subah e Banaras timing","Assi Ghat morning aarti time","Assi Ghat evening aarti time","Assi Ghat Ganga Aarti","Varanasi Aarti timing"]
+keywords: ["अस्सी घाट आरती समय","Assi Ghat Aarti Timings 2025","Subah e Banaras timing","Assi Ghat morning aarti time","Assi Ghat evening aarti time","Assi Ghat Ganga Aarti","Varanasi Aarti timing","assi ghat aarti time today"]
 tags:
   - "Assi Ghat Aarti"
   - "Ganga Aarti"
@@ -28,7 +28,7 @@ auditNote: "SEO enhanced: meta fields, keyword headings, CTA blocks, internal li
 canonical: "https://www.kashitaxi.in/hi/assi-ghat-aarti-timings-2025"
 ---
 
-अद्यतन: अक्टूबर 2025
+अद्यतन: दिसंबर 2025
 
 त्वरित उत्तर
 - आज (सुबह): 4:45–5:45 AM (मौसमी हल्का बदलाव)

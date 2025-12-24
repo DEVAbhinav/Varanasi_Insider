@@ -1,21 +1,25 @@
 ---
-title: "Varanasi to Vindhyachal Taxi Fare — From ₹2,000 | 65–70 km 2025"
+title: "Varanasi to Vindhyachal: 65 KM, 1.5 Hours | Taxi ₹2,000 | Bus ₹80 [2025]"
 slug: "varanasi-to-vindhyachal"
 date: "2025-08-07"
-lastUpdated: "2025-12-17"
+lastUpdated: "2025-12-24"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/Vindhyachal1.jpg"
-metaTitle: "Varanasi to Vindhyachal Taxi ₹2,000 | Vindhyavasini Darshan 2hr Trip"
-metaDescription: "65 km, 1.5hr drive. Sedan ₹2,000, SUV ₹2,800. Same-day Vindhyavasini + Kali Khoh + Ashtabhuja darshan. Navratri booking open →"
-description: "Updated Nov 2025 Varanasi to Vindhyachal taxi fares, verified 65–70 km route, Navratri crowd plan, darshan timings, and WhatsApp booking template."
+metaTitle: "Varanasi to Vindhyachal Distance: 65 KM | 1.5 Hrs | Taxi ₹2,000 | Bus ₹80 [Dec 2025]"
+metaDescription: "Varanasi to Vindhyachal: 65 km, 1.5 hours via NH19. Taxi Rs.2,000 (sedan), Bus Rs.80. Same-day Vindhyavasini darshan + Trikon Yatra. Dharamshala from Rs.500."
+description: "Updated Dec 2025: Varanasi to Vindhyachal distance 65 km, travel time 1.5 hours. Taxi ₹2,000, Bus ₹80. Navratri crowd tips, darshan timings, dharamshala booking."
 keywords:
+  - "varanasi to vindhyachal distance"
+  - "varanasi to vindhyachal"
   - "varanasi to vindhyachal taxi"
   - "vindhyachal darshan from varanasi"
-  - "varanasi to vindhyachal distance"
+  - "varanasi to vindhyachal bus"
   - "navratri vindhyachal crowd"
   - "varanasi to vindhyachal cab fare 2025"
   - "vindhyavasini temple timings"
+  - "how to reach vindhyachal from varanasi"
+  - "vindhyachal distance from varanasi"
 tags:
   - varanasi
   - vindhyachal
