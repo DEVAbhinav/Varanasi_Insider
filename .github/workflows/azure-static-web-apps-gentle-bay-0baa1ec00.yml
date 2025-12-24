@@ -24,6 +24,7 @@ jobs:
         with:
           submodules: true
           lfs: false
+          fetch-depth: 1
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -36,13 +37,13 @@ jobs:
         with:
           path: |
             .next/cache
-          key: ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}-${{ hashFiles('**/*.js', '**/*.jsx', '**/*.ts', '**/*.tsx', '**/*.md') }}
+          key: ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}-${{ hashFiles('**/*.js', '**/*.jsx', '**/*.ts', '**/*.tsx') }}
           restore-keys: |
             ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}-
             ${{ runner.os }}-nextjs-
       
       - name: Install dependencies
-        run: npm ci --prefer-offline
+        run: npm ci --prefer-offline --no-audit --no-fund
       
       - name: Build
         run: npm run build
@@ -52,6 +53,16 @@ jobs:
           RESEND_TO_EMAIL: ${{ secrets.RESEND_TO_EMAIL }}
           RESEND_CC_EMAIL: ${{ secrets.RESEND_CC_EMAIL }}
       
+      - name: Optimize build output
+        run: |
+          # Remove cache and source maps
+          rm -rf .next/cache
+          find .next -name "*.map" -delete 2>/dev/null || true
+          # Remove duplicate/unnecessary files
+          find .next -name "*.nft.json" -delete 2>/dev/null || true
+          # Show final size
+          echo "Build size:" && du -sh .next/
+      
       - name: Deploy to Azure
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
@@ -60,10 +71,10 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
           app_location: "/"
-          api_location: ""
+          api_location: "api"
           output_location: ".next"
           skip_app_build: true
-          skip_api_build: true
+          skip_api_build: false
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'

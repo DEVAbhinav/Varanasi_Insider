@@ -1,6 +1,12 @@
 # Ignore development/build cache files
 .next/cache/
 
+# Ignore Next.js trace files (not needed at runtime)
+*.nft.json
+
+# Ignore source maps
+*.map
+
 # Ignore documentation (not served)
 docs/
 
@@ -29,10 +35,13 @@ components.json
 *.config.js
 *.config.ts
 
-# Ignore package files (deps already bundled)
+# Ignore root package files (deps already bundled in .next)
 package.json
 package-lock.json
 node_modules/
+
+# Ignore API node_modules (Azure installs these separately)
+api/node_modules/
 
 # Ignore git
 .git/
