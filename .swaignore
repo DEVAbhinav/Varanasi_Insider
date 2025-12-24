@@ -41,6 +41,3 @@ node_modules/
 # Ignore markdown docs
 *.md
 !public/**/*.md
-
-# Ignore Azure Functions source (deployed separately)
-api/
