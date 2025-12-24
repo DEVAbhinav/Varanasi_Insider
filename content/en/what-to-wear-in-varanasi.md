@@ -87,3 +87,13 @@ When visiting religious sites like the Kashi Vishwanath Temple or the ghats, it'
 - **No Leather:** Some temples prohibit leather items, so be mindful of your belts and bags.
 
 By following these guidelines, you can ensure a comfortable, respectful, and memorable trip to the incredible city of Varanasi.
+
+---
+
+## Getting Around Varanasi
+
+Once you're dressed appropriately, you'll need reliable transport. The narrow galis (lanes) near temples are pedestrian-only, but getting to and from your hotel, the airport, or railway stations requires planning:
+
+- **[Airport Taxi Service](/en/city/varanasi/taxi/airport-taxi-varanasi)** – Pre-book your VNS airport pickup with fixed fares (₹600-950) and avoid negotiating with touts at arrival.
+- **[24/7 Taxi Service](/en/city/varanasi/taxi/24-7-taxi-varanasi)** – Early morning aarti or late-night train? We operate round-the-clock.
+- **[Varanasi Taxi Rates](/en/city/varanasi/taxi/taxi-rates-varanasi)** – Transparent pricing for city tours, ghats, and outstation trips.

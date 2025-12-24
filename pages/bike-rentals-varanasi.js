@@ -517,6 +517,20 @@ export default function BikeRentalsPage({ allPosts }) {
               These spots are best experienced on two wheels, as per local travelers: "Cruising along the riverfront was magical."
             </p>
 
+            <h2 className="mt-12 text-3xl font-bold text-gray-800">Need a Taxi Instead? Longer Trips & Airport Transfers</h2>
+            <p className="mt-6">
+              Bikes are perfect for city exploration, but for certain trips you'll need four wheels:
+            </p>
+            <ul className="mt-4 list-disc pl-6">
+              <li><strong>Airport Transfers</strong>: <a href="/en/city/varanasi/taxi/airport-taxi-varanasi" className="text-blue-600 hover:underline">Book airport taxi</a> with fixed fares (₹600-950) and flight tracking.</li>
+              <li><strong>Outstation Pilgrimage</strong>: Planning <a href="/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service" className="text-blue-600 hover:underline">Varanasi to Gaya for Pind Daan</a>? A 260 km trip needs AC taxi comfort.</li>
+              <li><strong>Family Tours</strong>: <a href="/en/destinations/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly" className="text-blue-600 hover:underline">Elderly-friendly pilgrimage packages</a> with private transport.</li>
+              <li><strong>Group Weddings</strong>: <a href="/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi" className="text-blue-600 hover:underline">Tempo traveller for weddings</a> (12-17 seater).</li>
+            </ul>
+            <p className="mt-4">
+              Check our <a href="/en/city/varanasi/taxi/taxi-rates-varanasi" className="text-blue-600 hover:underline">complete taxi rate card</a> for transparent pricing. Mix bike rental for city days + taxi for longer excursions!
+            </p>
+
             <h2 className="mt-12 text-3xl font-bold text-gray-800">Real User Experiences with Varanasi Taxi</h2>
             <p className="mt-6">
               Our 4.7 rating reflects satisfied customers: "Customers praise the cleanliness and quality of service." Another shared, "Very nice and proper maintained bike—highly recommend!" Pro Tip: Refuel before return and record a quick video of the bike's condition for peace of mind.

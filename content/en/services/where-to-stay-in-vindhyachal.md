@@ -86,6 +86,8 @@ You essentially decide between:
 
 > Tip: For **Navratri late-night darshan**, proximity beats comfort. For off-season visits, Mirzapur mid-range hotels are fine.
 
+> 🚕 **Coming from Varanasi?** Most pilgrims take a [same-day taxi from Varanasi to Vindhyachal](/hi/varanasi-to-vindhyachal) (₹2,500 round-trip, 1.5-2 hours). For transparent [taxi rates](/en/city/varanasi/taxi/taxi-rates-varanasi) and outstation pricing, contact us before booking.
+
 ---
 
 ## Dharamshalas & Guest Houses Near Maa Vindhyavasini Temple

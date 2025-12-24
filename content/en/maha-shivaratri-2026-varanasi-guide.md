@@ -64,6 +64,8 @@ FESTIVAL MAGNITUDE:
 - **Digital Documentation:** Modern tools to capture ancient traditions
 - **International Interest:** Growing global fascination with authentic spirituality
 
+> 🚕 **Transport Tip:** With 1.5 million devotees expected, book your [airport taxi](/en/city/varanasi/taxi/airport-taxi-varanasi) at least 3 days in advance. For late-night temple visits, our [24/7 taxi service](/en/city/varanasi/taxi/24-7-taxi-varanasi) operates throughout the festival with pre-booked rates.
+
 ---
 
 ## 📅 Maha Shivaratri 2026: Complete Festival Timeline

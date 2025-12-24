@@ -283,6 +283,8 @@ Planning your **Sarnath visit** timing correctly can make the difference between
 
 **Result**: Complete Sarnath visit by 11:30 AM, back to Varanasi by 12:30 PM
 
+> 🚕 **Transport Tip:** Sarnath is 10 km from central Varanasi. Pre-book a [Varanasi taxi with transparent rates](/en/city/varanasi/taxi/taxi-rates-varanasi) to avoid negotiation hassles. For early morning visits starting at 6 AM, use our [24/7 taxi service](/en/city/varanasi/taxi/24-7-taxi-varanasi) – drivers are punctual even at pre-dawn hours.
+
 ### Late Afternoon/Evening (3:00-6:00 PM) - **SECOND BEST**
 
 **Why Evening Works Well:**
@@ -346,6 +348,8 @@ Planning your **Sarnath visit** timing correctly can make the difference between
 - Long lines for tickets
 
 **Exception**: December-January midday (11:00 AM-2:00 PM) can be pleasant with temperatures 20-25°C, but lighting still suboptimal for photography.
+
+> 🙏 **Combining with Bodh Gaya?** Many Buddhist pilgrims visit Sarnath as part of the larger Buddhist circuit including Bodh Gaya. If you're planning a multi-day pilgrimage (especially with elderly parents), our [Varanasi-Gaya-Prayagraj tour package](/en/destinations/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly) includes fatigue-free scheduling with private transport.
 
 ---
 

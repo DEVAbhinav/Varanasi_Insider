@@ -181,6 +181,8 @@ Data compiled from updated priest rota & tourism board circulars.
 
 For a complete breakdown of all your options, see our ultimate [Varanasi Transportation Guide](/en/varanasi-transport-price-guide-2025).
 
+> 🚕 **Pre-dawn pickup?** For the 4:30 AM winter morning aarti, you'll need reliable transport. Our [24/7 taxi service](/en/city/varanasi/taxi/24-7-taxi-varanasi) guarantees punctual pickups even at odd hours. Coming from the airport or station? Check [airport transfer rates](/en/city/varanasi/taxi/airport-taxi-varanasi) for fixed-fare options.
+
 ## Frequently Asked Questions
 
 **Q. Do the Assi Ghat Ganga Aarti timings change on festival days?**

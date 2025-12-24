@@ -117,3 +117,11 @@ Packing for December requires warm layers.
 > While the Ganga Aarti at Dashashwamedh Ghat is always a significant draw, the crowds in December are generally less overwhelming compared to November. However, it's still advisable to arrive early (at least an hour before the start) to secure a good viewing spot.
 
 Don't forget to plan your local transport; our comprehensive [Varanasi Transportation Guide](/en/varanasi-transport-price-guide-2025) will provide all the necessary details for getting around the city.
+
+### December Transport Tips: Beating the Fog
+
+December fog can delay flights by 2-4 hours. Smart travelers:
+
+- **Pre-book airport transfers** with our [Airport Taxi Service](/en/city/varanasi/taxi/airport-taxi-varanasi) – we track flights and adjust pickup times automatically at no extra charge.
+- **Arriving by train?** The [Varanasi Cantt Station taxi pickup](/en/city/varanasi/taxi/taxi-service-varanasi-cantt-station) includes PNR tracking for delay-adjusted arrivals.
+- **Need early morning transport for sunrise boat rides?** Our [24/7 taxi service](/en/city/varanasi/taxi/24-7-taxi-varanasi) operates even during peak fog hours.

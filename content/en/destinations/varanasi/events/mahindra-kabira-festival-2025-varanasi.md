@@ -113,5 +113,5 @@ Unlike large commercial events, Kabira Festival maintains intimacy and depth. Yo
 - Carry warm clothes for pre-dawn music sessions.
 - The festival has limited commercial interruption – bring water and snacks.
 - Photography guidelines are strict during performances; respect artist privacy.
-- **Getting There:** Pre-book sunrise and late-night ghat runs with our [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) to avoid last-minute cab hunts.
+- **Getting There:** Pre-book sunrise and late-night ghat runs with our [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) to avoid last-minute cab hunts. For fixed-fare [airport taxi transfers](/en/city/varanasi/taxi/airport-taxi-varanasi) (₹600-950 to Guleria Kothi), book 2-3 days ahead during festival dates.
 - **Road Trip Stack:** After three days on the ghats, extend your pilgrimage using the [Varanasi to Ayodhya taxi blueprints](/en/varanasi-to-ayodhya) or the [Varanasi to Prayagraj tour plan](/en/varanasi-to-prayagraj), or switch gears with a Buddhist detour via the [Varanasi to Gaya & Bodh Gaya package](/en/varanasi-to-gaya-bodh-gaya-tour-package).
