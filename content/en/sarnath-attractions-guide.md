@@ -779,6 +779,8 @@ The **monastery ruins** at Sarnath represent 1,500+ years of continuous Buddhist
 
 ## Sarnath Attractions Entry Fees & Combo Tickets
 
+*Looking for sarnath ticket price or sarnath museum ticket price? Here's the complete breakdown for 2025:*
+
 ### Archaeological Site Entry Fees
 
 | Visitor Type | Archaeological Site | Museum | **Combo Ticket** |
@@ -789,7 +791,7 @@ The **monastery ruins** at Sarnath represent 1,500+ years of continuous Buddhist
 | **Children (up to 15)** | Free | Free | Free |
 | **Students (with ID)** | ₹5-10 | ₹5 | ₹10 |
 
-**Additional Charges:**
+**Additional Charges in Sarnath Tour:**
 - Still Camera: ₹25
 - Video Camera: ₹300
 - Tripod: ₹50

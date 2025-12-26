@@ -11,9 +11,11 @@ description: "Half-day & full-day Varanasi tour cabs. Visit Kashi Vishwanath Tem
 keywords:
   - "Kashi darshan cab"
   - "Varanasi sightseeing taxi"
+  - "varanasi city tour by taxi"
   - "Varanasi full day cab"
   - "temple tour cab"
   - "Varanasi city tour"
+  - "taxi booking in varanasi"
 tags:
   - taxi
   - city-tour
@@ -37,6 +39,8 @@ faqSchema:
 ---
 
 # Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Sightseeing
+
+*Experience authentic **varanasi city tour by taxi** with local drivers covering Kashi Vishwanath, Dashashwamedh Ghat, Sarnath, and evening Ganga Aarti.*
 
 ## Explore the Sacred City with Professional Guides & Comfortable Cabs
 

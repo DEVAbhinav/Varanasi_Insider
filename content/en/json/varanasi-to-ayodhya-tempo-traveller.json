@@ -24,7 +24,7 @@
       "@type": "Product",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller/#product",
       "name": "Varanasi to Ayodhya Tempo Traveller (Ram Mandir Day Trip)",
-      "description": "Book a one-day, all-inclusive Tempo Traveller package from Varanasi to Ayodhya. Visit Ram Janmabhoomi Temple with AC vehicle, experienced driver, fuel, tolls included. 200 km one-way, 5-6 hours journey.",
+      "description": "Book a one-day, all-inclusive Tempo Traveller package from Varanasi to Ayodhya. Tempo traveller Varanasi drop to Ayodhya with AC vehicle, vetted driver, fuel, tolls, parking included. ~220 km one-way, 4–5 hours each side for Ram Janmabhoomi darshan.",
       "brand": {
         "@id": "https://www.kashitaxi.in#organization"
       },
@@ -33,19 +33,12 @@
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "lowPrice": "12000",
-        "highPrice": "18000",
-        "offerCount": "3",
+        "lowPrice": "14500",
+        "highPrice": "15500",
+        "offerCount": "2",
         "availability": "https://schema.org/InStock",
         "priceValidUntil": "2026-12-31",
         "offers": [
-          {
-            "@type": "Offer",
-            "name": "12 Seater Tempo Traveller to Ayodhya",
-            "price": 12000,
-            "priceCurrency": "INR",
-            "availability": "https://schema.org/InStock"
-          },
           {
             "@type": "Offer",
             "name": "12 Seater AC Premium Package",
@@ -56,7 +49,7 @@
           {
             "@type": "Offer",
             "name": "17 Seater Tempo Traveller to Ayodhya",
-            "price": 18000,
+            "price": 15500,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           }
@@ -79,7 +72,7 @@
           "name": "What is the Varanasi to Ayodhya Tempo Traveller price?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "12 Seater Tempo Traveller starts at ₹12,000 for a same-day return trip. All-inclusive packages with guide at ₹14,500. 17 Seater available at ₹18,000."
+            "text": "12 Seater Tempo Traveller is ₹14,500 all-inclusive for the same-day Varanasi drop to Ayodhya and back; 17 Seater is ₹15,500. Tolls, parking, taxes, driver allowance included."
           }
         },
         {
@@ -87,7 +80,7 @@
           "name": "How long does Varanasi to Ayodhya take by Tempo Traveller?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The journey takes 5-6 hours one way (200 km). Day trip departs early morning (4-5 AM) and returns by evening (8-9 PM)."
+            "text": "Plan 4-5 hours each side (~220 km). Day trip departs early morning (4-5 AM) and returns by evening (8-9 PM), depending on Ram Mandir queues."
           }
         },
         {

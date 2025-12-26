@@ -41,7 +41,7 @@
       "@type": "TouristTrip",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-city-tour-cab#trip",
       "name": "Varanasi City Tour by Cab - Kashi Darshan",
-      "description": "Half-day & full-day Varanasi tour cabs. Visit Kashi Vishwanath Temple, Dashashwamedh Ghat, Assi Ghat. Professional drivers, AC vehicles, flexible timings.",
+      "description": "Varanasi city tour by taxi with local drivers. Taxi booking in varanasi for half-day & full-day tours. Visit Kashi Vishwanath Temple, Dashashwamedh Ghat, Assi Ghat. Professional drivers, AC vehicles, flexible timings.",
       "provider": {
         "@id": "https://www.kashitaxi.in/#org"
       },

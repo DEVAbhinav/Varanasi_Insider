@@ -13,9 +13,9 @@ relatedPosts:
   - varanasi-to-prayagraj-tempo-traveller
 ---
 
-# Varanasi to Ayodhya Tempo Traveller Fare & Package
+# Varanasi/Kashi to Ayodhya Tempo Traveller Fare/Price & Package
 
-> **TL;DR:** Varanasi to Ayodhya tempo traveller charter costs ₹14,500 for a 12-seater or ₹15,500 for a 17-seater covering Ram Mandir, Hanuman Garhi, and Saryu Aarti in a 15-hour run. Start at 5 AM and screenshot your darshan QR codes for smoother security checks. Scroll for itinerary, fleet photos, and booking instructions.
+> **TL;DR:** Varanasi to Ayodhya tempo traveller: ₹14,500 (12-seater) or ₹15,500 (17-seater) for Ram Mandir, Hanuman Garhi, Kanak Bhavan, Saryu Aarti—about 15 hours, 4–5 hours each side. Tempo traveller Varanasi drop to Ayodhya includes vetted driver, tolls, parking, taxes, placard pickup, roof carrier. Share darshan QR for faster security. Works for families, seniors, groups. Scroll for itinerary, fares, booking.
 
 A glimpse of the under‑construction Shri Ram Mandir in Ayodhya—a must‑visit on this pilgrimage. Embark on a spiritual journey from Kashi to Ayodhya with our Tempo Traveller package. This is your definitive guide to a one‑day group tour from Varanasi to Ayodhya—covering itinerary, key temples, travel time, and an all‑inclusive fare. If you’re planning a family pilgrimage to Ram Janmabhoomi, or a group tour for elders, read on for a hassle‑free experience.
 
@@ -29,7 +29,7 @@ A glimpse of the under‑construction Shri Ram Mandir in Ayodhya—a must‑visi
 
 - Distance & Travel Time: ~220 km one way; about 4–5 hours each side on well‑maintained highways. An early start (we recommend 5:00 AM) lets you cover all sites comfortably and return by late evening.
 - Vehicle: Book 12‑seater or 17‑seater AC Tempo Traveller from Varanasi to Ayodhya (as per group size). Clean, spacious, comfortable for the 4+ hour journey each way. Ample stops for stretch and restrooms.
-- All‑Inclusive Ayodhya Tempo Traveller Fare: ₹14,500—transparent same‑day round trip by Tempo Traveller, inclusive of fuel, driver, tolls, parking, and state taxes. No hidden charges—one price for the entire group. Market packages typically range ₹13,500–₹18,500.
+- All‑Inclusive Varanasi to Ayodhya tempo traveller price list, Fare: ₹14,500—transparent same‑day round trip by Tempo Traveller, inclusive of fuel, driver, tolls, parking, and state taxes. No hidden charges—one price for the entire group. Market packages typically range ₹13,500–₹18,500.
 - Experienced Driver‑Guide: Polite, experienced drivers who know the Ayodhya route, darshan timings, and reliable tea/meal stops to keep the day on schedule.
 
 ## Ayodhya Day Trip Itinerary from Varanasi
@@ -61,15 +61,19 @@ Itinerary is flexible. Want extended prayer at Ram Janmabhoomi or shopping for p
 - Experienced Local Drivers: Familiar with NH‑27 and alternate routes, temple queues, and security protocols; maintain clean interiors, punctual reporting, and plan tea/meal stops
 - Flexibility & Privacy: Your private charter—take extra time at Hanuman Garhi or skip a spot if kids are tired
 
-## Varanasi to Ayodhya Tempo Traveller Price (Inclusions/Exclusions)
+## Varanasi to Ayodhya tempo traveller price list
 
 - Included (₹14,500 all‑inclusive): Vehicle hire up to ~14–15 hours, experienced driver, fuel, all toll taxes, state entry fees (UP), Ayodhya parking, driver day allowance
 - Not Included: Personal meals/snacks, any special darshan fees (if applicable), overtime beyond the planned 1‑day itinerary, and additions like distant detours (extra km will be quoted before proceeding—no surprises)
 - Payment & Advance: No hefty advance needed—token confirmation via UPI is enough; balance after the trip by cash or digital payment
 
+Tempo traveller Varanasi drop to Ayodhya stays fixed at the quoted all‑inclusive fare—tolls, parking, taxes, and driver allowance are already baked in.
+
 ## How to Book Tempo Traveller Varanasi to Ayodhya & Cancellation
 
 To book, WhatsApp “Ayodhya trip, travel date, number of people” and we’ll reply with availability and confirmation. We operate multiple Tempo Travellers; for very large groups (20–30), we can provide two vehicles.
+
+If you need a direct tempo traveller Varanasi drop to Ayodhya for Ram Mandir darshan, mention your landing/arrival time in Varanasi so dispatch can align pickup and ghat-side breakfast before the highway run.
 
 Cancellation policy: Full refund if informed 24+ hours in advance. We understand family plans can change—just keep us informed.
 

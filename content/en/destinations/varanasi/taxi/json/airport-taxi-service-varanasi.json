@@ -4,7 +4,7 @@
   "name": "Prepaid Airport Taxi Varanasi",
   "serviceType": "Airport transfer",
   "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-taxi-service-varanasi",
-  "description": "Meet-and-greet, fixed-fare airport taxi from VNS (Babatpur) with flight tracking, all-inclusive pricing, and zero commission detours.",
+  "description": "Meet-and-greet varanasi airport prepaid taxi cab from VNS (Babatpur) with flight tracking, all-inclusive pricing, zero commission detours. Nearest airport to kashi serving all major ghats and temples.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://www.kashitaxi.in/#org",
@@ -75,7 +75,7 @@
   "makesOffer": {
     "@type": "Product",
     "name": "Prepaid Airport Taxi Varanasi - VNS Cab Booking",
-    "description": "Book prepaid airport taxi Varanasi. Meet & greet, flight tracking, fixed fares. Cantt ₹750, Godowlia ₹800, Assi ₹850. No hidden charges.",
+    "description": "Book varanasi airport prepaid taxi cab with meet & greet, flight tracking, fixed fares. VNS (nearest airport to kashi) to Cantt ₹750, Godowlia ₹800, Assi ₹850. No hidden charges.",
     "category": "Airport Transfer",
     "offers": {
       "@type": "AggregateOffer",

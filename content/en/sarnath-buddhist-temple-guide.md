@@ -268,6 +268,8 @@ The highlight of visiting the **main Sarnath temple** is attending the evening p
 - **Suggested Donation**: ₹20-100 (optional)
 - **Photography**: Ask permission; usually allowed in courtyard, not during prayers
 
+*Note: Sarnath buddhist temple tickets and sarnath buddhist temple varanasi tickets are not required—all temples including the main Sarnath temple offer free entry with optional donations.*
+
 **Dress Code:**
 - **Required**: Modest clothing covering shoulders and knees
 - **Men**: Long pants, shirt with sleeves

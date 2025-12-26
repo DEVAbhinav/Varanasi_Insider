@@ -4,7 +4,7 @@ lang: "en"
 title: "Varanasi to Ayodhya & Prayagraj Taxi: A Pilgrim's Travel Guide"
 subtitle: "Sacred circuit travel with spiritually-aware drivers, darshan timing optimization, and vehicle sanctity protocols."
 description: "Pilgrimage taxi service Varanasi to Ayodhya, Prayagraj, Bodh Gaya – spiritually-aware drivers, darshan timing optimization, fixed fares. Kashi Prayag Ayodhya yatra circuit."
-keywords: ["Varanasi to Ayodhya pilgrimage taxi","pilgrimage taxi service Varanasi","Varanasi to Prayagraj taxi","Kashi Prayag Ayodhya yatra","Varanasi Bodh Gaya tour by car","innova crysta for outstation from Varanasi","best taxi for Varanasi Ayodhya Prayagraj tour"]
+keywords: ["Varanasi to Ayodhya pilgrimage taxi","pilgrimage taxi service Varanasi","Varanasi to Prayagraj taxi","varanasi to prayagraj taxi pilgrimage","varanasi to prayagraj taxi service","Kashi Prayag Ayodhya yatra","Varanasi Bodh Gaya tour by car","innova crysta for outstation from Varanasi","best taxi for Varanasi Ayodhya Prayagraj tour"]
 featuredImage: "/images/varanasi-ghat-boat-eve-p.jpeg"
 heroImage: "/images/varanasi-ghat-boat-eve-p.jpeg"
 phone: "9450301573"
@@ -49,6 +49,8 @@ A tourist seeks sights; a pilgrim seeks **divine connection**. This distinction 
 **Optimal Timing**: Pre-dawn (04:30–06:30) for temple access before crowd surge.
 
 ### 2. Prayagraj (Allahabad) – Triveni Sangam & Sacred Confluence
+
+*Book a **varanasi to prayagraj taxi pilgrimage** with spiritually-aware drivers who understand Sangam bathing rituals and temple timing protocols.*
 
 **Distance from Varanasi**: 125 km | **Travel Time**: 2.5–3 hrs
 

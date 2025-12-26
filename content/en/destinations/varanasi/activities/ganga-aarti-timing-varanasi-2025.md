@@ -1,5 +1,5 @@
 ---
-title: "Ganga Aarti Timing in Varanasi 2026: Complete Seasonal Guide with Boat Integration"
+title: "Ganga Aarti Timing in Varanasi 2026: Complete Seasonal Guide with Boat Ride"
 slug: "ganga-aarti-timing-varanasi-2025"
 date: "2025-12-22"
 lastUpdated: "2025-12-22"

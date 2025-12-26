@@ -141,7 +141,7 @@ Arriving at Lal Bahadur Shastri International Airport (Babatpur)? Skip the prepa
 
 ## Avoiding taxi scams at Varanasi airport
 - **“Hotel commission” trick:** Some drivers claim your hotel is closed or unsafe to divert you to a commission hotel. We operate zero-commission and drop exactly where you pin.
-- **“Prepaid” confusion:** Even after you pay at counters, touts demand parking or luggage fees. Our fares are all-inclusive—no mid-ride add-ons.
+- **"Prepaid" confusion:** Even after you pay at counters, touts demand parking or luggage fees. Our varanasi airport prepaid taxi cab service is all-inclusive—no mid-ride add-ons.
 - **Flight tracking:** We monitor your flight and adjust pickup; delays are handled without harassment for extras.
 
 ## Airport transfer rates (one-way, all-inclusive)
@@ -182,6 +182,9 @@ Yes. We offer “Airport to Hotel via Sarnath” packages—tell dispatch while 
 
 ### Are parking or tolls extra on airport pickups?
 No. The quoted fare already includes airport parking and usual tolls for city drops.
+
+### What is the nearest airport to Kashi?
+Lal Bahadur Shastri International Airport (VNS/Babatpur) is the nearest airport to kashi—just 25–29 km from the main ghats and temples. There's no other commercial airport closer to the holy city.
 
 ## Winter Travel Tips (Nov-Feb)
 

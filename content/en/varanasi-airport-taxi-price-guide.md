@@ -15,6 +15,7 @@ keywords:
   - "varanasi airport prepaid taxi cost"
   - "varanasi airport pickup booking"
   - "avoid taxi scams varanasi airport"
+  - "varanasi airport swift dzire taxi"
 tags:
   - varanasi
   - airport taxi
@@ -180,7 +181,7 @@ Top Locality Fares (Nov 2025)
 
 Varanasi’s Lal Bahadur Shastri International Airport (VNS) sits 25–32 km from the riverfront, with transfers averaging **40–45 minutes**. Pre-booking keeps fares locked, arranges meet-and-greet signage, and protects you from tout upsells.
 
-- **Sedans (Swift Dzire, Amaze):** ₹700–₹950 standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- **Sedans (Swift Dzire, Amaze):** ₹700–₹950 standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby). _Popular choice: varanasi airport swift dzire taxi for comfortable 4-seater drops._
 - **SUVs (Ertiga, Innova):** ₹1,050–₹1,550 depending on seating; ideal for luggage-heavy arrivals.
 - **Tempo Travellers:** ₹2,000–₹2,300 for 12-seaters, driver allowance inclusive.
 - **Full-Day Packages:** 8-hour/80 km sedans from ₹1,900; 12-hour/200 km builds start at ₹2,350.
