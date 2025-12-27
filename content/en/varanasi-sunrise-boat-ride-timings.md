@@ -7,7 +7,7 @@ author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "/images/varanasi-sunrise-p.jpeg"
 description: "Varanasi sunrise boat ride 2025 timetable with monthly boarding windows, visibility, temperature & monsoon interruption risk matrix."
-keywords: "varanasi sunrise boat ride timings, sunrise time varanasi, subah e banaras timing, ganga aarti time, best time for boat ride varanasi, varanasi boat ride schedule"
+keywords: "varanasi sunrise boat ride timings, sunrise time varanasi, subah e banaras timing, ganga aarti time, best time for boat ride varanasi, best time for boat ride in varanasi, boating time in varanasi, varanasi boat ride schedule"
 tags:
   - varanasi
   - boat ride

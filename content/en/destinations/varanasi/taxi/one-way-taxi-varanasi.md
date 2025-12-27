@@ -14,6 +14,8 @@ location:
 keywords:
   - "one way taxi Varanasi"
   - "round trip taxi Varanasi"
+  - "taxi service in varanasi"
+  - "taxi varanasi"
   - "one way cab"
   - "Varanasi round trip"
   - "point to point taxi"

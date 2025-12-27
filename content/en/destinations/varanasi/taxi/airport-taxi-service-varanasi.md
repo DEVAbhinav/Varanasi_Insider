@@ -13,7 +13,9 @@ location:
   address: "Babatpur, Varanasi, Uttar Pradesh 221006"
 keywords:
   - "Varanasi airport prepaid taxi"
+  - "varanasi airport prepaid taxi cab"
   - "airport taxi service Varanasi"
+  - "varanasi airport to kashi vishwanath temple ola cab price"
   - "fixed fare airport cab VNS"
   - "placard pickup Varanasi airport"
   - "no hidden charges taxi Varanasi"

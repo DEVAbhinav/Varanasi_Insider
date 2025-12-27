@@ -10,6 +10,7 @@ metaDescription: "Varanasi Airport to Cantt (BSB) = 22km, 35 min. Fixed ₹690 t
 description: "Beat surge pricing! Airport to Varanasi Junction (BSB/Cantt) taxi at ₹690 fixed fare. 22km, 35-50min, platform drop included. Book: 9450301573."
 keywords:
   - "varanasi airport to varanasi junction distance"
+  - "varanasi airport to varanasi railway station taxi fare"
   - "vns to cantt railway station taxi fare"
   - "best route varanasi airport to bsb"
   - "varanasi airport pickup to cantt station"
@@ -114,6 +115,8 @@ Varanasi Junction’s station code is **BSB**, and it handles high-frequency dep
 If your inbound flight lands later than the “safe” window, call dispatch while still airborne so the control room can suggest alternate trains or arrange bedroll delivery in case you miss the connection.
 
 ## Varanasi Airport to Varanasi Junction taxi fare
+
+The Varanasi airport to Varanasi railway station taxi fare is fixed and transparent:
 - Economy sedan: **₹700–900** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,050–1,250** covering luggage-heavy travellers and escort assistance.
 - Tempo Traveller (12-seater): **₹2,050** inclusive of driver allowance, porter coordination, and station entry slip.

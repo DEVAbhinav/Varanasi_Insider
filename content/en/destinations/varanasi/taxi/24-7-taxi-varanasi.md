@@ -11,6 +11,8 @@ description: "24/7 taxi service in Varanasi. Night cabs, early morning transfers
 keywords:
   - "24x7 taxi Varanasi"
   - "night taxi service Varanasi"
+  - "taxi varanasi"
+  - "kashi taxi service"
   - "early morning cab Varanasi"
   - "emergency taxi Varanasi"
   - "24 hour taxi"

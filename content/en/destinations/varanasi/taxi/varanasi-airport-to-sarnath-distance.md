@@ -10,6 +10,7 @@ metaDescription: "Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standar
 description: "Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist circuit tours available. Book now 9450301573."
 keywords:
   - "varanasi airport to sarnath distance"
+  - "varanasi airport to sarnath taxi fare"
   - "vns to sarnath taxi fare"
   - "sarnath dhamek stupa timing"
   - "best route varanasi airport to sarnath"

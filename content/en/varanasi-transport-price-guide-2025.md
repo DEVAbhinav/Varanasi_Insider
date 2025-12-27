@@ -14,6 +14,8 @@ keywords:
   - "varanasi e rickshaw price"
   - "varanasi taxi fare list"
   - "varanasi boat ride cost"
+  - "bike taxi varanasi"
+  - "7+1 seating taxi varanasi"
   - "avoid transport scams varanasi"
 ---
 

@@ -14,6 +14,7 @@ keywords:
   - "dashashwamedh ghat ganga aarti"
   - "dashashwamedh ghat aarti timing"
   - "ganga aarti dashashwamedh ghat"
+  - "dashashwamedh ghat boat ride"
   - "boat ride dashashwamedh ghat"
   - "evening boat ride varanasi aarti"
   - "ganga aarti boat ride varanasi"

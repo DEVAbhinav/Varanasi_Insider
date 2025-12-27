@@ -10,6 +10,8 @@ metaDescription: "25 km, 40-55 min. Sedan ₹690-900, SUV ₹1,100. Drop at Godo
 description: "Book pre-arranged Varanasi Airport to Kashi Vishwanath taxi at ₹690 flash rate with corridor parking access. 25km, 40min drop. Driver waits 15min. Call 9450301573."
 keywords:
   - "varanasi airport to kashi vishwanath distance"
+  - "varanasi airport to kashi vishwanath temple taxi fare"
+  - "taxi fare from varanasi airport to kashi vishwanath temple"
   - "vns to kashi vishwanath taxi time"
   - "kashi vishwanath airport cab fare"
   - "best route varanasi airport to kashi vishwanath"
@@ -149,6 +151,8 @@ Take the airport exit toward Ring Road, merge onto the Harhua flyover, and conti
 Need a slot-by-slot playbook? Use our [Kashi Vishwanath darshan timing guide](/en/kashi-vishwanath-shivaratri-crowd-survival-guide) for queue durations, corridor maps, and pooja add-ons before you travel.
 
 ## Varanasi Airport to Kashi Vishwanath Temple taxi fare
+
+Looking for the exact taxi fare from Varanasi airport to Kashi Vishwanath temple? Here are the current rates:
 - Economy sedan (Dzire/Amaze): **₹800–900** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV (Ertiga/Innova): **₹1,100–1,300** including luggage handling and corridor access permit.
 - Tempo Traveller (12-seater): **₹2,100** with driver allowance covered; ideal for family yatras.

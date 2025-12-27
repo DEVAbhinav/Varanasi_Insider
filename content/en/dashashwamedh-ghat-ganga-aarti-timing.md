@@ -12,6 +12,7 @@ metaDescription: "Winter aarti 5:45 PM, summer 6:45 PM. Arrive 40 min early for 
 description: "Tonight's Dashashwamedh Ghat Ganga Aarti timing, crowd curve, VIP seat tactics, and exit routes straight from 2025 ground notes."
 keywords:
   - "dashashwamedh ghat ganga aarti timing today"
+  - "ganga aarti taxi booking"
   - "dashashwamedh aarti 2025 crowd curve"
   - "ganga aarti vip seat booking"
   - "dashashwamedh ghat exit plan"

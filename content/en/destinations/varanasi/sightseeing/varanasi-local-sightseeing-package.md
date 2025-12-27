@@ -14,6 +14,9 @@ location:
   address: "Varanasi, Uttar Pradesh"
 keywords:
   - "varanasi local sightseeing package"
+  - "varanasi local sightseeing cab"
+  - "cab service in varanasi"
+  - "book a cab in varanasi"
   - "varanasi sightseeing package price"
   - "varanasi tour package by car"
   - "local sightseeing tour varanasi"
