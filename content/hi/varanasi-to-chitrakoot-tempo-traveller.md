@@ -38,7 +38,7 @@ relatedPosts:
 
 | मार्ग पर वाहन | आरामदायक इंटीरियर (12 सीटर) | लग्जरी / महाराजा सीट |
 | --- | --- | --- |
-| ![Tempo Traveller Varanasi to Chitrakoot highway scene](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "वाराणसी से चित्रकूट मार्ग पर टेम्पो ट्रैवलर") | ![12 seater tempo traveller interior aisle comfort Chitrakoot trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "आरामदायक इंटीरियर – 1N/2D चित्रकूट यात्रा के लिए आदर्श") | ![Luxury tempo traveller seat for Chitrakoot pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "प्रीमियम सीटिंग विकल्प") |
+| ![Tempo Traveller Varanasi to Chitrakoot highway scene](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "वाराणसी से चित्रकूट मार्ग पर टेम्पो ट्रैवलर") | ![12 seater tempo traveller interior aisle comfort Chitrakoot trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "आरामदायक इंटीरियर – 1N/2D चित्रकूट यात्रा के लिए आदर्श") | ![Luxury tempo traveller seat for Chitrakoot pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "प्रीमियम सीटिंग विकल्प") |
 
 
 
@@ -46,11 +46,11 @@ relatedPosts:
 
 | बाहरी दृश्य (Front) | साइड प्रोफाइल (Highway) | सीट कुशनिंग |
 | --- | --- | --- |
-| ![Tempo traveller front view varanasi to chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "चित्रकूट प्रस्थान से पहले फ्रंट प्रोफाइल") | ![Tempo traveller side profile chitrakoot route](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "साइड प्रोफाइल – सामान और खिड़की वेंटिलेशन") | ![Seat cushioning tempo traveller chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_seat_closup.jpeg "पुशबैक सीट कुशनिंग विवरण") |
+| ![Tempo traveller front view varanasi to chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "चित्रकूट प्रस्थान से पहले फ्रंट प्रोफाइल") | ![Tempo traveller side profile chitrakoot route](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "साइड प्रोफाइल – सामान और खिड़की वेंटिलेशन") | ![Seat cushioning tempo traveller chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_seat_closup.jpeg "पुशबैक सीट कुशनिंग विवरण") |
 
 | इंटीरियर लाइटिंग | पिछला हिस्सा और सामान | प्रीमियम अर्बानिया केबिन |
 | --- | --- | --- |
-| ![Ambient lighting inside tempo traveller chitrakoot trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "सुबह/शाम की यात्रा के लिए सॉफ्ट लाइटिंग") | ![Rear access and luggage tempo traveller chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "पिछला दरवाजा और सामान रखने की जगह") | ![Urbania premium interior option chitrakoot pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-Inside-Potrait.jpeg "प्रीमियम अर्बानिया – ऊँची छत और रिक्लाइनर आराम") |
+| ![Ambient lighting inside tempo traveller chitrakoot trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "सुबह/शाम की यात्रा के लिए सॉफ्ट लाइटिंग") | ![Rear access and luggage tempo traveller chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "पिछला दरवाजा और सामान रखने की जगह") | ![Urbania premium interior option chitrakoot pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-Inside-Potrait.jpeg "प्रीमियम अर्बानिया – ऊँची छत और रिक्लाइनर आराम") |
 
 चित्रकूट रामायण से जुड़ी आध्यात्मिक भूमि है। **वाराणसी से चित्रकूट टेम्पो ट्रैवलर** के साथ 1 रात / 2 दिन का संयोजित कार्यक्रम आपको कामदगिरि परिक्रमा, रामघाट की शाम और हनुमान धारा जैसी प्रमुख स्थलों का सुचारू अनुभव देता है।
 

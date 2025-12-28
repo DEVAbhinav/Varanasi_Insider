@@ -27,7 +27,7 @@ export default function PinkTaxiSection2() {
               </div>
             </div>
             <div className="relative hidden h-36 w-full sm:block md:h-40">
-              <Image src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg" alt="Pink Taxi Varanasi" fill sizes="(min-width: 768px) 40vw, 100vw" className="rounded-xl object-cover" />
+              <Image src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg" alt="Pink Taxi Varanasi" fill sizes="(min-width: 768px) 40vw, 100vw" className="rounded-xl object-cover" />
             </div>
           </div>
         </motion.div>

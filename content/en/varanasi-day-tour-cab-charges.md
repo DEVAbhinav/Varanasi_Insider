@@ -5,7 +5,7 @@ date: "2025-07-28"
 lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Sighseeing1.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png"
 metaTitle: "Varanasi Day Tour Cab: ₹1,800 for 8hr | Full Price List 2026"
 metaDescription: "Varanasi cab 8hr = ₹1,800 sedan, ₹2,500 Innova. Covers: Kashi Vishwanath, Sarnath, 5 ghats, Ganga Aarti. No hidden charges. Book: 9450301573"
 description: "2025 Varanasi day tour cab price grid, temple queue hacks, sunrise-to-aarti VIP routing, and WhatsApp script to lock your driver before surge pricing hits."
@@ -40,7 +40,7 @@ Exploring Varanasi's rich tapestry of temples, ghats, and historical sites is be
 
 ## How Much Do Full-Day Taxi Packages Cost in Varanasi?
 
-![Varanasi day tour cab rate card graphic showing 8hr/12hr packages](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Sighseeing1.png "Varanasi day tour rate card 2025")
+![Varanasi day tour cab rate card graphic showing 8hr/12hr packages](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png "Varanasi day tour rate card 2025")
 
 Taxi operators in Varanasi typically offer two main packages for local sightseeing:
 *   **8 hours / 80 km:** Ideal for covering the main highlights within the city.
@@ -60,7 +60,7 @@ Here are the approximate charges for different vehicle types:
 
 *\*Fares are indicative and can vary. Always confirm the final price and inclusions before booking.*
 
-![Tempo Traveller staged for a 14-stop Varanasi family itinerary](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for group tours")
+![Tempo Traveller staged for a 14-stop Varanasi family itinerary](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for group tours")
 
 ---
 
@@ -79,7 +79,7 @@ Extra hours or kilometers beyond the package limit are charged separately.
 2.  **Plan Your Itinerary:** Discuss your must-see places with the operator or driver beforehand to create an efficient route. Key sites include Sarnath, Ramnagar Fort, Banaras Hindu University (BHU), and the various ghats.
 3.  **Driver's Meals:** For a long day tour, it is a common and appreciated courtesy to cover the cost of the driver's meals.
 
-![An overview of the ghats in Varanasi, a key part of any day tour](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi Ghats Overview")
+![An overview of the ghats in Varanasi, a key part of any day tour](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi Ghats Overview")
 
 ---
 

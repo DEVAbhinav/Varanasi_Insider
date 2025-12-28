@@ -126,11 +126,11 @@ faqSchema:
 
 | काशी विश्वनाथ कॉरिडोर | प्रयागराज संगम | गया (प्रतीकात्मक) |
 | --- | --- | --- |
-| ![Kashi Vishwanath corridor approach](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogKashiVishwanath.jpg "काशी विश्वनाथ कॉरिडोर – यात्रा का प्रारंभ") | ![Prayagraj sangam snan representation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg "प्रयागराज त्रिवेणी संगम सुबह") | ![Gaya symbolic pilgrimage image](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png "गया तीर्थ (पिंड दान)") |
+| ![Kashi Vishwanath corridor approach](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogKashiVishwanath.jpg "काशी विश्वनाथ कॉरिडोर – यात्रा का प्रारंभ") | ![Prayagraj sangam snan representation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "प्रयागराज त्रिवेणी संगम सुबह") | ![Gaya symbolic pilgrimage image](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "गया तीर्थ (पिंड दान)") |
 
 | टेम्पो ट्रैवलर इंटीरियर | फ्लीट बाहरी दृश्य | सामान / पूजा सामग्री |
 | --- | --- | --- |
-| ![Tempo traveller interior for pind daan circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "बहु-दिवसीय यात्रा के लिए साफ इंटीरियर") | ![Tempo traveller exterior before departure](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "प्रस्थान के लिए तैयार वाहन") | ![Rear access luggage pind daan items](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "पूजा के बर्तन और बैग रखने की जगह") |
+| ![Tempo traveller interior for pind daan circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "बहु-दिवसीय यात्रा के लिए साफ इंटीरियर") | ![Tempo traveller exterior before departure](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "प्रस्थान के लिए तैयार वाहन") | ![Rear access luggage pind daan items](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "पूजा के बर्तन और बैग रखने की जगह") |
 
 ## अपनी यात्रा बुक करें
 हमें अपनी तारीखें, यात्रियों की संख्या और गया पंडा जी की भाषा (हिंदी/मैथिली/बंगाली आदि) बताएं। हम आपको सही प्लान और रेट देंगे।

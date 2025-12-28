@@ -5,7 +5,7 @@ date: "2025-09-17"
 lastUpdated: "2025-09-17"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal2.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg"
 description: "Definitive 2025 guide to travel from Varanasi to Vindhyachal. Compare taxi, tempo traveller, train, and bus options with fares, timings, route tips, and booking advice—ideal for pilgrims planning Trikon Parikrama or Navratri visit."
 keywords: "travel from varanasi to vindhyachal, taxi for vindhyachal, tempo travellers for vindhyachal, varanasi to vindhyachal distance, varanasi to vindhyachal cab fare, vindhyachal travel guide, varanasi to vindhyachal tempo traveller, varanasi to vindhyachal bus, varanasi to vindhyachal train"
 tags:

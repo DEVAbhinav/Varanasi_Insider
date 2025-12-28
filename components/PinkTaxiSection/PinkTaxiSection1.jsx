@@ -38,7 +38,7 @@ export default function PinkTaxiSection1() {
                 <a href="/pink-taxi-varanasi" className="text-orange-600 underline">Pink Taxi Varanasi</a>
               </p>
               <div className="relative hidden h-36 w-full md:block lg:h-40">
-                <Image src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg" alt="Women traveller in Varanasi" fill sizes="(min-width: 1024px) 40vw, 100vw" className="rounded-xl object-cover" />
+                <Image src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg" alt="Women traveller in Varanasi" fill sizes="(min-width: 1024px) 40vw, 100vw" className="rounded-xl object-cover" />
               </div>
             </CardContent>
           </Card>

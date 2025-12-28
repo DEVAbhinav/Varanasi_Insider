@@ -16,7 +16,7 @@ metaDescription: "Yes, Varanasi is safe. Stay near Assi Ghat, avoid boat scams (
 ## Safety Cheat Sheet for First-Time Visitors to Varanasi
 Varanasi is not a city you simply see; it's a city you feel, and it can be an intense, overwhelming experience. As someone who has spent years navigating its ancient alleys, I've distilled the most critical information you'll need to start your journey with confidence. Think of this as your essential briefing before you step into one of the world's oldest and most spiritually charged places.
 
-![Sunrise along the ghats of Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png "Panoramic view of the ghats at dawn")
+![Sunrise along the ghats of Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png "Panoramic view of the ghats at dawn")
 
 ### 60-Second Safety Overview
 **Why Go:** Forget the curated monuments of Delhi or the polished palaces of Jaipur. Varanasi's main attraction is life itself—a raw, unfiltered, 3,000-year-old tradition of devotion, life, and death unfolding in real-time on the banks of the sacred Ganges River. You don't just visit Varanasi's history; you walk directly into it. It is a profound, and at times challenging, immersion into the spiritual heart of India.   
@@ -178,7 +178,7 @@ For backpackers and solo travellers, Varanasi has a thriving hostel scene. Based
 
 #### Solo Female Safety: Assi vs Godowlia After Dark
 
-![A solo female traveller enjoying a boat ride in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg "A solo female traveller on a boat in Varanasi")
+![A solo female traveller enjoying a boat ride in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg "A solo female traveller on a boat in Varanasi")
 
 For solo female travellers, the choice of neighbourhood is a critical safety decision, especially concerning movement after dark.
 
@@ -213,7 +213,7 @@ Varanasi Guru, who post updates on their booking pages, and local news outlets. 
 
 ### How to Book Women-Only Pink Taxis in Varanasi
 
-![A Pink Taxi in Varanasi, a safe option for women travellers](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg "A Pink Taxi, driven by a woman, for female passengers")
+![A Pink Taxi in Varanasi, a safe option for women travellers](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg "A Pink Taxi, driven by a woman, for female passengers")
 
 The introduction of Pink Taxis—cabs driven by women, for female passengers—is a welcome and important safety development. However, you cannot simply hail one on the street. These services require advance booking. According to local transport guides, you can reserve a Pink Taxi through a few specific channels:
 
@@ -286,7 +286,7 @@ Scams in Varanasi are rarely violent but are designed to prey on a tourist's con
 
 ### 12 Golden Safety Rules for Women Travellers in Varanasi
 
-![A solo female traveller watching the Ganga Aarti ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-solo.jpeg "A solo female traveller finding a moment of peace at the Ganga Aarti")
+![A solo female traveller watching the Ganga Aarti ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti-solo.jpeg "A solo female traveller finding a moment of peace at the Ganga Aarti")
 
 As a solo female traveller, you will attract more attention in Varanasi. These rules are not about limiting your experience but about empowering you to control your interactions and stay safe.
 

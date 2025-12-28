@@ -37,7 +37,7 @@ A visit to the Ram Janmabhoomi complex demands more than just transport—it nee
 
 > **Key Offer:** 12/17 seater Traveller · ₹14,800 onwards · dedicated security liaison · locker arrangement · queue timing intelligence.
 
-| ![Security liaison briefing passengers beside Traveller at Ayodhya parking](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaBus2.jpg "Security liaison briefing near Travellers") | ![Family boarding Traveller with minimal baggage for Ram Janmabhoomi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaBus1.jpg "Boarding with light luggage per security protocol") | ![Ram Janmabhoomi security corridor during morning hours](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTrain2.jpg "Security corridor leading to Ram Janmabhoomi") |
+| ![Security liaison briefing passengers beside Traveller at Ayodhya parking](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus2.jpg "Security liaison briefing near Travellers") | ![Family boarding Traveller with minimal baggage for Ram Janmabhoomi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus1.jpg "Boarding with light luggage per security protocol") | ![Ram Janmabhoomi security corridor during morning hours](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTrain2.jpg "Security corridor leading to Ram Janmabhoomi") |
 | --- | --- | --- |
 
 ## Ram Janmabhoomi Queue Strategy Overview
@@ -63,9 +63,9 @@ A visit to the Ram Janmabhoomi complex demands more than just transport—it nee
 
 ## Ram Janmabhoomi Tempo Traveller Vehicle & Package Details
 
-![Locker area signage at Ram Janmabhoomi Gate 3](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTrain3.jpg "Locker facility signage at Gate 3")
+![Locker area signage at Ram Janmabhoomi Gate 3](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTrain3.jpg "Locker facility signage at Gate 3")
 
-![Onboard security kit with ORS, wet wipes, and ID tags](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_beige_brown_seating_potrait.jpeg "Security kit laid out inside Traveller")
+![Onboard security kit with ORS, wet wipes, and ID tags](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_beige_brown_seating_potrait.jpeg "Security kit laid out inside Traveller")
 
 | Variant | Seats | Price | Extras |
 | --- | --- | --- | --- |

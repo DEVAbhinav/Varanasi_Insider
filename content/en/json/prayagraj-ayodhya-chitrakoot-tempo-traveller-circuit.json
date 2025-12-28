@@ -169,7 +169,7 @@
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg"
+        "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg"
       },
       "about": {
         "@id": "https://www.kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit#trip"
@@ -189,7 +189,7 @@
         "@id": "https://www.kashitaxi.in#organization"
       },
       "category": "Hindu Pilgrimage Tour",
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg",
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

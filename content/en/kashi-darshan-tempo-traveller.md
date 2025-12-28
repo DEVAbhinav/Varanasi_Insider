@@ -19,9 +19,9 @@ Evening Ganga Aarti at Dashashwamedh Ghat—a mesmerizing end to a day of sights
 
 ## Vehicle Photos
 
-![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Comfortable sightseeing vehicle for groups")
+![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Comfortable sightseeing vehicle for groups")
 
-![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Clean interiors ideal for seniors and families")
+![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Clean interiors ideal for seniors and families")
 
 ## Kashi Darshan Tempo Traveller Package Overview
 

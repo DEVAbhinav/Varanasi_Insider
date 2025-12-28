@@ -18,9 +18,9 @@ Built to answer the most common question: "What are the charges?"—and to estab
 
 ## Vehicle Photos
 
-![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller fleet in Varanasi")
+![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller fleet in Varanasi")
 
-![Tempo Traveller — side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Side profile — luggage options available")
+![Tempo Traveller — side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Side profile — luggage options available")
 
 ## Varanasi Tempo Traveller Price Table
 

@@ -20,7 +20,7 @@ tags:
   - taxi
   - pilgrimage
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "Varanasi → Prayagraj"
 ctaTitle: "Need a Snan-Day Taxi?"
 ctaSubtitle: "Reserve sedan, SUV, or Innova pickups with 24/7 phone + WhatsApp confirmation."

@@ -20,7 +20,7 @@ tags:
   - itineraries
   - travel-planning
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
 eyebrow: "दिसंबर हब"
 ctaTitle: "दिसंबर टैक्सी चाहिए?"
 ctaSubtitle: "एयरपोर्ट ट्रांसफर + फेस्टिवल + शॉपिंग के लिए एक ही ड्राइवर टीम बुक करें।"
@@ -124,14 +124,14 @@ ctaSubtitle: "एयरपोर्ट ट्रांसफर + फेस्�
       <div class="december-tab-panel is-active" data-december-panel="festivals">
         <div class="december-card-grid">
           <a class="december-card" href="/hi/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi">
-            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg" alt="काशी तमिल संगमम" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg" alt="काशी तमिल संगमम" loading="lazy" />
             <div class="december-card-body">
               <h4>काशी तमिल संगमम 4.0</h4>
               <p>2-15 दिसंबर · BHU सत्र, हेरिटेज वॉक, तमिल कार्यशालाएँ।</p>
             </div>
           </a>
           <a class="december-card" href="/hi/city/varanasi/events/mahindra-kabira-festival-2025-varanasi">
-            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg" alt="महिंद्रा कबीर उत्सव" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg" alt="महिंद्रा कबीर उत्सव" loading="lazy" />
             <div class="december-card-body">
               <h4>महिंद्रा कबीर फेस्टिवल</h4>
               <p>19-21 दिसंबर · Delegate पास, कवि वॉक, गंगा शाम कॉन्सर्ट।</p>
@@ -143,14 +143,14 @@ ctaSubtitle: "एयरपोर्ट ट्रांसफर + फेस्�
       <div class="december-tab-panel" data-december-panel="sunrise">
         <div class="december-card-grid">
           <a class="december-card" href="/hi/city/varanasi/events/mahindra-kabira-sunrise-music">
-            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg" alt="सूर्योदय संगीत" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg" alt="सूर्योदय संगीत" loading="lazy" />
             <div class="december-card-body">
               <h4>कबीर सूर्योदय संगीत</h4>
               <p>6:30 AM राग, पैकिंग सूची, सीटिंग शिष्टाचार।</p>
             </div>
           </a>
           <a class="december-card" href="/hi/destinations/varanasi/activities/sunrise-yoga-varanasi-2025">
-            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg" alt="असी घाट योग" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg" alt="असी घाट योग" loading="lazy" />
             <div class="december-card-body">
               <h4>सूर्योदय योग प्लेबुक</h4>
               <p>₹800-4,000 क्लास बैंड, साप्ताहिक प्लान, पैकिंग लिस्ट।</p>
@@ -162,14 +162,14 @@ ctaSubtitle: "एयरपोर्ट ट्रांसफर + फेस्�
       <div class="december-tab-panel" data-december-panel="food">
         <div class="december-card-grid">
           <a class="december-card" href="/hi/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi">
-            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" alt="बनारसी सिल्क" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" alt="बनारसी सिल्क" loading="lazy" />
             <div class="december-card-body">
               <h4>बनारसी सिल्क शॉपिंग</h4>
               <p>मधुबन vs ठठेरी, दाम तालिका, टैक्सी रूट।</p>
             </div>
           </a>
           <a class="december-card" href="/hi/destinations/varanasi/food/malaiyo-varanasi-guide">
-            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanashi-ghat-evening-P.jpeg" alt="मलाईयो" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanashi-ghat-evening-P.jpeg" alt="मलाईयो" loading="lazy" />
             <div class="december-card-body">
               <h4>मलाईयो मॉर्निंग ट्रेल</h4>
               <p>₹20-50 की कीमत, थठेरी मैप, सूर्योदय शिष्टाचार।</p>

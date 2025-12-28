@@ -7,7 +7,7 @@ metaTitle: "वाराणसी सोलो महिला सुरक्�
 metaDescription: "सोलो महिला यात्रा वाराणसी: दिन/रात सुरक्षा, पहनावा, घातक गलियाँ कब टालें, हेल्पलाइन नंबर, स्कैम अवॉइड व मानसिक रूटीन।"
 description: "वाराणसी सोलो महिला सुरक्षा – वास्तविक आँकड़े + क्षेत्र चयन + रात नेविगेशन + प्री-बुक ट्रांसपोर्ट + माइक्रो चेकलिस्ट।"
 keywords: ["varanasi solo female safety hindi","महिला ट्रैवल वाराणसी सुरक्षित","ganga aarti female safety","varanasi night safety women","varanasi harassment avoid","solo female hostel varanasi","women taxi varanasi","ass i ghat safe night","varanasi safety helpline","महिला यात्रा टिप्स काशी"]
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg"
 relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
   - evening-boat-ride-varanasi-ganga-aarti

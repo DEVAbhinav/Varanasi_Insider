@@ -10,7 +10,7 @@ export default function SafetyBlock() {
           {/* Replace with actual logos */}
           <div className="flex items-center gap-2">
             <Image
-              src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/up-police-logo.png"
+              src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/up-police-logo.png"
               alt="UP Police 112"
               width={48}
               height={48}
@@ -19,7 +19,7 @@ export default function SafetyBlock() {
           </div>
           <div className="flex items-center gap-2">
             <Image
-              src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/mission-shakti-logo.png"
+              src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/mission-shakti-logo.png"
               alt="Mission Shakti"
               width={48}
               height={48}
@@ -28,7 +28,7 @@ export default function SafetyBlock() {
           </div>
           <div className="flex items-center gap-2">
             <Image
-              src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ministry-of-tourism-logo.png"
+              src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ministry-of-tourism-logo.png"
               alt="Ministry of Tourism"
               width={48}
               height={48}

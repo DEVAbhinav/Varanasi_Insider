@@ -5,7 +5,7 @@ date: "2025-09-16"
 lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"
 metaTitle: "Varanasi to Vindhyachal Navratri 2026: 80km, Trikon Parikrama"
 metaDescription: "Vindhyachal from Varanasi = 80km (2hr). Navratri 2026: Mar 19-27 & Oct dates. Trikon Parikrama route, taxi ₹2,200, darshan timing. Complete guide →"
 description: "Complete guide to planning your Navratri pilgrimage from Varanasi to Vindhyachal Shaktipeeth. Learn about Trikon Parikrama, travel options, accommodation, and sacred rituals for the ultimate spiritual journey."
@@ -53,7 +53,7 @@ As someone who has been organizing pilgrimages from Varanasi for over a decade, 
 
 Having guided hundreds of pilgrims over the years, I've witnessed how Varanasi is celebrated as the eternal city of Lord Shiva, while Vindhyachal represents the supreme abode of Shakti. A pilgrimage from Kashi to Vindhyachal is thus considered a spiritually complete journey, uniting the divine masculine and feminine principles—something I've seen bring profound peace to countless devotees.
 
-![The divine Vindhyavasini Temple during Navratri](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg "Maa Vindhyavasini Temple - the sacred Shaktipeeth destination from Varanasi")
+![The divine Vindhyavasini Temple during Navratri](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg "Maa Vindhyavasini Temple - the sacred Shaktipeeth destination from Varanasi")
 
 This spiritual magnetism reaches its zenith during the biannual **Navratri festivals**, held in the months of Chaitra (March-April) and Ashwin (September-October). In my years of accompanying pilgrims during these nine sacred nights, I've watched Vindhyachal transform into a vibrant epicenter of faith, drawing millions of pilgrims who come to witness the heightened divine energy and participate in elaborate rituals. The entire town is adorned with flowers and lamps, and the air resonates with devotional chants, creating an unparalleled atmosphere of spiritual fervor that gives me goosebumps every single time.
 
@@ -192,7 +192,7 @@ From my experience, the road is excellent for most of the **Varanasi to Vindhyac
 **Cost Range:** ₹8,000 - ₹12,000 (round trip, including waiting time)
 **Vehicle Options:** 9-seater, 12-seater, 17-seater Tempo Travellers
 
-![Luxury Tempo Traveller interior for group pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp_traveller_super_luxury_inside.jpeg "Comfortable AC interiors for group travel to Vindhyachal")
+![Luxury Tempo Traveller interior for group pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp_traveller_super_luxury_inside.jpeg "Comfortable AC interiors for group travel to Vindhyachal")
 
 **Why perfect for group pilgrimage:**
 - Cost-effective for groups of 8+ people
@@ -202,7 +202,7 @@ From my experience, the road is excellent for most of the **Varanasi to Vindhyac
 - Group coordination during temple visits
 - Ideal for multi-generational family trips
 
-![Premium Tempo Traveller for Vindhyachal pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Multi_Urbania-Square.jpeg "Modern Urbania Tempo Traveller - premium comfort for group travel")
+![Premium Tempo Traveller for Vindhyachal pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Multi_Urbania-Square.jpeg "Modern Urbania Tempo Traveller - premium comfort for group travel")
 
 **Tempo Traveller Options Available:**
 - **9-Seater:** ₹8,000-10,000 (perfect for small families)
@@ -245,7 +245,7 @@ From my experience, the road is excellent for most of the **Varanasi to Vindhyac
 
 **Note:** Local transport (auto-rickshaw/taxi) needed from station to temples (₹50-100)
 
-![Various transportation modes to reach Vindhyachal](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller - ideal for group pilgrimage to Vindhyachal")
+![Various transportation modes to reach Vindhyachal](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller - ideal for group pilgrimage to Vindhyachal")
 
 ### Sample Pilgrimage Itineraries
 
@@ -587,7 +587,7 @@ After organizing over 500 **Varanasi to Vindhyachal pilgrimages** and witnessing
 
 From my personal observations and the feedback from hundreds of pilgrims I've guided on the **Vindhyachal from Varanasi** route, the experience transcends mere temple visits—it's a transformative spiritual journey where you witness the fervent devotion of millions, participate in timeless rituals that have continued for centuries, and feel the powerful energy of one of India's most significant Shaktipeeths. Whether you're seeking spiritual enlightenment, divine blessings for life's challenges, or simply wish to experience the profound power of faith, Vindhyachal during Navratri offers an unforgettable pilgrimage.
 
-![Vindhyachal temple area and surrounding landscape](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal2.jpg "Sacred Vindhyachal temple complex and ghats along the Ganges")
+![Vindhyachal temple area and surrounding landscape](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg "Sacred Vindhyachal temple complex and ghats along the Ganges")
 
 The convenient connectivity from Varanasi, ranging from budget-friendly buses to comfortable private taxis, makes this sacred journey accessible to devotees from all walks of life. With proper planning, appropriate accommodation choices, and respect for local traditions—all of which I help coordinate based on my years of experience—your Vindhyachal pilgrimage will become a cherished spiritual memory.
 

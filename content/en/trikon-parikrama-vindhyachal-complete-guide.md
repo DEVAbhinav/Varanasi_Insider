@@ -5,7 +5,7 @@ date: "2025-09-16"
 lastUpdated: "2025-09-16"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal2.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg"
 description: "Complete guide to Trikon Parikrama in Vindhyachal Dham. Learn the sacred route, mythology, history, and step-by-step instructions for the holy triangle circuit of three powerful temples."
 keywords: "trikon parikrama vindhyachal, vindhyachal trikon parikrama route, trikon parikrama guide vindhyachal, sacred triangle vindhyachal, vindhyavasini kali khoh ashtabhuja temples, trikon parikrama distance vindhyachal"
 tags:
@@ -47,7 +47,7 @@ As someone who has personally completed the **Trikon Parikrama in Vindhyachal** 
 
 This page provides an authoritative exploration of the history, mythology, and practical execution of the **Trikon Parikrama**, the central spiritual practice for pilgrims visiting Vindhyachal Dham. Having studied the ancient texts and learned from senior temple priests over my decade-long journey as a pilgrimage guide, I'll share everything you need to know about this sacred circuit.
 
-![The sacred Trikon Parikrama route in Vindhyachal](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal2.jpg "Vindhyachal temple complex - starting point for the holy Trikon Parikrama circuit")
+![The sacred Trikon Parikrama route in Vindhyachal](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg "Vindhyachal temple complex - starting point for the holy Trikon Parikrama circuit")
 
 The **Trikon Parikrama Vindhyachal** involves visiting three principal temples that form a holy triangle spanning approximately 8 kilometers. This journey represents symbolic worship of the complete divine feminine energy, encompassing the goddesses of wealth (Lakshmi), protection (Kali), and knowledge (Saraswati).
 

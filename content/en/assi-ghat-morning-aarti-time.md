@@ -4,7 +4,7 @@ slug: "assi-ghat-morning-aarti-time"
 date: "2025-11-25"
 author: "Naval Kishore"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-sunrise.jpeg"
 metaTitle: "Assi Ghat Morning Aarti – Subah-e-Banaras Timings & Tips"
 metaDescription: "Plan Subah-e-Banaras at Assi Ghat: live morning aarti timings, arrival tips, yoga add-ons, and taxi pickups."
 keywords:

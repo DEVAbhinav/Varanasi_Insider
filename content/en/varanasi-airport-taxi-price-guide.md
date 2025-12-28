@@ -5,7 +5,7 @@ date: "2025-07-27"
 lastUpdated: "2025-12-23"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 metaTitle: "Varanasi Airport Taxi Fare 2025 (Dec): Fixed Airport-to-City Cabs from ₹700"
 metaDescription: "Updated Dec 2025 Varanasi airport taxi fares: sedan ₹700–₹950 (Flash ₹690), Innova ₹1,250–₹1,550, tempo ₹2,100. 25–30 km in 40–45 min with one-tap WhatsApp booking, capped night surcharge and clear refund policy."
 description: "Updated Dec 2025 Varanasi airport taxi fares to Assi, Dashashwamedh, BHU, and Sarnath with live tables, booking scripts, pickup point map, and refund policies."
@@ -43,8 +43,8 @@ relatedPosts:
   "areaServed": ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "BHU", "Sarnath"],
   "description": "Dec 2025 Varanasi airport taxi fares with fixed sedan, Innova and tempo traveller pricing, night surcharge caps, and WhatsApp booking.",
   "image": [
-    "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg",
-    "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png"
+    "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg",
+    "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png"
   ],
   "offers": [
     {
@@ -177,7 +177,7 @@ Top Locality Fares (Nov 2025)
 
 ## Varanasi Airport to City: An Overview
 
-![Prebooked driver waiting outside Varanasi airport arrivals](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg "Prebooked Varanasi airport taxi ready at arrivals gate")
+![Prebooked driver waiting outside Varanasi airport arrivals](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg "Prebooked Varanasi airport taxi ready at arrivals gate")
 
 Varanasi’s Lal Bahadur Shastri International Airport (VNS) sits 25–32 km from the riverfront, with transfers averaging **40–45 minutes**. Pre-booking keeps fares locked, arranges meet-and-greet signage, and protects you from tout upsells.
 
@@ -186,7 +186,7 @@ Varanasi’s Lal Bahadur Shastri International Airport (VNS) sits 25–32 km fro
 - **Tempo Travellers:** ₹2,000–₹2,300 for 12-seaters, driver allowance inclusive.
 - **Full-Day Packages:** 8-hour/80 km sedans from ₹1,900; 12-hour/200 km builds start at ₹2,350.
 
-![Typical sedan used for airport transfers](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png "Sedan commonly used for airport pick-ups and drops")
+![Typical sedan used for airport transfers](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png "Sedan commonly used for airport pick-ups and drops")
 
 ## How Much Does a Taxi Cost from Varanasi Airport?
 

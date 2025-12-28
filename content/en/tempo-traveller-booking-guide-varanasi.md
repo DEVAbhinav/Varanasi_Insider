@@ -125,11 +125,11 @@ Add-ons: Cushion storage, chilled water crate
 ### Visual Aids (Symbolic Fleet & Process)
 | Fleet Exterior | Interior Aisle | Premium Seat Detail |
 | --- | --- | --- |
-| ![Tempo traveller booking guide varanasi exterior verification](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Exterior – verify actual vehicle matches photo") | ![Interior aisle clarity booking phase](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – seating & aisle spacing") | ![Seat comfort inspection point](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Seat ergonomics – confirm padding") |
+| ![Tempo traveller booking guide varanasi exterior verification](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Exterior – verify actual vehicle matches photo") | ![Interior aisle clarity booking phase](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – seating & aisle spacing") | ![Seat comfort inspection point](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Seat ergonomics – confirm padding") |
 
 | Ambient Cabin | Rear Loading | Multi Vehicle Scenario |
 | --- | --- | --- |
-| ![Ambient lighting evening departure](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Lighting – evening readiness") | ![Rear access organization booking prep](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear loading – luggage segregation") | ![Multiple units allocation scenario](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Multi_Urbania-Square.jpeg "Parallel allocation – large group planning") |
+| ![Ambient lighting evening departure](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Lighting – evening readiness") | ![Rear access organization booking prep](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear loading – luggage segregation") | ![Multiple units allocation scenario](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Multi_Urbania-Square.jpeg "Parallel allocation – large group planning") |
 
 > Use gallery during quote validation: request timestamped versions from provider for authenticity.
 

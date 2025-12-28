@@ -5,8 +5,8 @@ title: "Varanasi's Safest Taxi for Women: Verified Drivers, GPS Tracking, Pink S
 subtitle: "Police-verified drivers, optional female chauffeurs, GPS live tracking, SOS support. Designed for solo female travelers."
 description: "Safest taxi service in Varanasi for solo female traveler – police-verified drivers, optional female chauffeurs, GPS live tracking, SOS support, late-night airport pickups."
 keywords: ["safest taxi service in Varanasi for solo female traveler","women only taxi service Varanasi","Varanasi Pink Taxi booking","Varanasi taxi female driver","late night safe cab Varanasi","is Uber safe for women in Varanasi","women safety taxi Varanasi","taxi with verified drivers varanasi"]
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/female-traveller-sadhu.jpeg"
-heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/female-traveller-sadhu.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/female-traveller-sadhu.jpeg"
+heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/female-traveller-sadhu.jpeg"
 phone: "9450301573"
 schemaType: "Service"
 serviceCategory: "Women-Centric Transportation"

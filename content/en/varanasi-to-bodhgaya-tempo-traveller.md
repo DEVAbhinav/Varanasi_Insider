@@ -22,9 +22,9 @@ All-inclusive pricing; 26-seater option available. Varanasi ↔ Bodhgaya is ~255
 
 ## Tempo Traveller Photos for Bodhgaya Pilgrimage
 
-![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Bodhgaya day/overnight trip")
+![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Bodhgaya day/overnight trip")
 
-![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Supportive seats and AC — long distance comfort")
+![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Supportive seats and AC — long distance comfort")
 
 ## Varanasi to Bodhgaya Tempo Traveller Itinerary (One‑Day Sample)
 

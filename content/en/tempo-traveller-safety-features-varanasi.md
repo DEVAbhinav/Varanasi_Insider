@@ -119,11 +119,11 @@ Ask before confirming:
 ### Visual Safety Gallery (Symbolic Aids)
 | Exterior Inspection | Tyre / Side Profile | Interior Lighting Check |
 | --- | --- | --- |
-| ![Tempo traveller safety features varanasi exterior inspection](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Check lights & indicators") | ![Side profile tyre & stance visual](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Scan tyre tread & panel integrity") | ![Interior ambient lighting safety visibility](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Assess lighting for night / dawn boarding") |
+| ![Tempo traveller safety features varanasi exterior inspection](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Check lights & indicators") | ![Side profile tyre & stance visual](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Scan tyre tread & panel integrity") | ![Interior ambient lighting safety visibility](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Assess lighting for night / dawn boarding") |
 
 | Seat Integrity | Rear Access Clearance | Multiple Fleet Allocation |
 | --- | --- | --- |
-| ![Seat cushioning & mount check](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Seat base firmness inspection") | ![Rear door access for evacuation consideration](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear clearance – luggage not blocking egress") | ![Multiple vehicles coordination safety staging](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Multi_Urbania-Square.jpeg "Stagger departures – avoid convoy bunching") |
+| ![Seat cushioning & mount check](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Seat base firmness inspection") | ![Rear door access for evacuation consideration](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear clearance – luggage not blocking egress") | ![Multiple vehicles coordination safety staging](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Multi_Urbania-Square.jpeg "Stagger departures – avoid convoy bunching") |
 
 > Replace symbolic frames with real inspection shots for higher E‑E‑A‑T once photography captured.
 

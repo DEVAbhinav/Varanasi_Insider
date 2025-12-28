@@ -62,18 +62,18 @@ During **Ramlila and Dussehra celebrations in Varanasi**:
 
 | Vehicle | Features | Festival Rate | Best For |
 |---------|----------|---------------|----------|
-| ![Sedan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png) **Sedan (Swift Dzire)** | AC, 4+1 seating, comfortable for city travel | **₹1,500** (4 hours) | Couples, small families, budget-conscious |
-| ![SUV](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/xuv.png) **SUV (Toyota Innova)** | AC, 6+1 seating, ample luggage space | **₹2,000** (4 hours) | Families with children, comfort priority |
-| ![Premium](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/luxuryCar.png) **Premium (Honda City)** | Enhanced comfort, spacious interiors | **₹2,500** (4 hours) | Premium comfort, business travelers |
+| ![Sedan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png) **Sedan (Swift Dzire)** | AC, 4+1 seating, comfortable for city travel | **₹1,500** (4 hours) | Couples, small families, budget-conscious |
+| ![SUV](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png) **SUV (Toyota Innova)** | AC, 6+1 seating, ample luggage space | **₹2,000** (4 hours) | Families with children, comfort priority |
+| ![Premium](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/luxuryCar.png) **Premium (Honda City)** | Enhanced comfort, spacious interiors | **₹2,500** (4 hours) | Premium comfort, business travelers |
 
 ### For Groups & Extended Families (7-25 People)
 
 | Vehicle | Capacity | Features | Festival Rate |
 |---------|----------|----------|---------------|
-| ![9-Seater](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg) **9-Seater Tempo Traveller** | 6-8 people comfortably | AC, pushback seats, luggage carrier | **₹3,000** (4 hours) |
-| ![12-Seater](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg) **12-Seater Tempo Traveller** | 8-11 people comfortably | Most popular choice, spacious interior | **₹3,500** (4 hours) |
-| ![17-Seater](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg) **17-Seater Tempo Traveller** | 12-16 people comfortably | Large groups, wedding guests | **₹4,000** (4 hours) |
-| ![26-Seater](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg) **26-Seater Mini Bus** | 20-25 people comfortably | Corporate groups, large families | **₹5,500** (4 hours) |
+| ![9-Seater](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg) **9-Seater Tempo Traveller** | 6-8 people comfortably | AC, pushback seats, luggage carrier | **₹3,000** (4 hours) |
+| ![12-Seater](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg) **12-Seater Tempo Traveller** | 8-11 people comfortably | Most popular choice, spacious interior | **₹3,500** (4 hours) |
+| ![17-Seater](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg) **17-Seater Tempo Traveller** | 12-16 people comfortably | Large groups, wedding guests | **₹4,000** (4 hours) |
+| ![26-Seater](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg) **26-Seater Mini Bus** | 20-25 people comfortably | Corporate groups, large families | **₹5,500** (4 hours) |
 
 *All rates include: Vehicle + Professional Driver + Fuel + Waiting Time during events*
 

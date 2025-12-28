@@ -9,7 +9,7 @@ export default function PinkHero() {
       <div className="absolute inset-0">
         {/* Replace with an actual image of a woman driver at a ghat */}
         <Image
-          src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg"
+          src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg"
           alt="Female taxi driver in Varanasi"
           fill
           style={{ objectFit: 'cover', opacity: 0.2 }}

@@ -35,7 +35,7 @@ A visit to Maa Vindhyavasini, Kali Khoh, and Ashtabhuja completes the sacred tri
 
 > **Snapshot:** 70 km · 1.5 hours each way · ₹6,200 (12 seater) · priest coordination · crowd-control for Navratri rush.
 
-| ![Maa Vindhyavasini temple entrance decked with marigold garlands](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg "Maa Vindhyavasini temple entrance at sunrise") | ![Pilgrims performing aarti inside Kali Khoh cave temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal2.jpg "Kali Khoh cave aarti during parikrama") | ![Traveller parked near Vindhyachal parikrama start point](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg "Traveller stationed for Vindhyachal parikrama") |
+| ![Maa Vindhyavasini temple entrance decked with marigold garlands](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg "Maa Vindhyavasini temple entrance at sunrise") | ![Pilgrims performing aarti inside Kali Khoh cave temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg "Kali Khoh cave aarti during parikrama") | ![Traveller parked near Vindhyachal parikrama start point](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg "Traveller stationed for Vindhyachal parikrama") |
 | --- | --- | --- |
 
 ## Vindhyachal Day Trip Tempo Traveller Plan
@@ -55,9 +55,9 @@ A visit to Maa Vindhyavasini, Kali Khoh, and Ashtabhuja completes the sacred tri
 
 ## Vindhyachal Tempo Traveller Vehicle Options & Pricing
 
-![Traveller positioned near Vindhyachal temple entry queue](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Traveller staged beside Vindhyachal entry queue")
+![Traveller positioned near Vindhyachal temple entry queue](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Traveller staged beside Vindhyachal entry queue")
 
-![Satvik prasad thali served at Vindhyachal bhojanalaya](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg "Satvik thali during Vindhyachal brunch halt")
+![Satvik prasad thali served at Vindhyachal bhojanalaya](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg "Satvik thali during Vindhyachal brunch halt")
 
 | Variant | Seats | Duration | Inclusions | Price |
 | --- | --- | --- | --- | --- |

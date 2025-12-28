@@ -19,7 +19,7 @@ tags:
   - yoga
   - spirituality
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg"
 eyebrow: "Wellness & Spirit"
 ctaTitle: "Need a Ride to Yoga?"
 ctaSubtitle: "Book an early morning taxi to Assi Ghat or Dashashwamedh for your sunrise practice."
@@ -45,7 +45,7 @@ ctaSubtitle: "Book an early morning taxi to Assi Ghat or Dashashwamedh for your 
 
 In Varanasi's ghats, yoga transforms from physical exercise into spiritual integration. Practicing alongside the Ganges, surrounded by ancient temples and the energy of thousands of years of meditation, yoga becomes what it originally was – union of individual consciousness with universal consciousness.
 
-![Assi Ghat sunrise practice](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "Early morning yoga sessions at Assi Ghat")
+![Assi Ghat sunrise practice](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "Early morning yoga sessions at Assi Ghat")
 
 ### Assi Ghat: The Primary Yoga Hub
 
@@ -72,7 +72,7 @@ In Varanasi's ghats, yoga transforms from physical exercise into spiritual integ
 
 ### The December Yoga Experience
 
-![Subah-e-Banaras morning program](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-subeh-e-banaras-p.jpeg "Subah-e-Banaras yoga and cultural program at sunrise")
+![Subah-e-Banaras morning program](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-subeh-e-banaras-p.jpeg "Subah-e-Banaras yoga and cultural program at sunrise")
 
 **Temperature Advantages:**
 - Morning cold (8-12°C) keeps body alert during practice.

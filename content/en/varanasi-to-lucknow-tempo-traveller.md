@@ -37,7 +37,7 @@ With the Purvanchal Expressway now reducing travel time, Tempo Travellers betwee
 
 > **Snapshot:** 320 km · 6 hours · ₹12.5k all-inclusive drop · premium vehicles with Wi-Fi, ambient lighting, and large luggage bays.
 
-| ![Urbania Traveller staged for Lucknow corporate transfer](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-front-Square.jpeg "Urbania staged for corporate transfer") | ![Urbania luxury interior with ambient lighting](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-Inside-Potrait.jpeg "Urbania lounge interior for executives") | ![Multiple premium Travellers ready for wedding convoy](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Multi_Urbania-Square.jpeg "Fleet lined up for wedding convoy") |
+| ![Urbania Traveller staged for Lucknow corporate transfer](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-front-Square.jpeg "Urbania staged for corporate transfer") | ![Urbania luxury interior with ambient lighting](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-Inside-Potrait.jpeg "Urbania lounge interior for executives") | ![Multiple premium Travellers ready for wedding convoy](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Multi_Urbania-Square.jpeg "Fleet lined up for wedding convoy") |
 | --- | --- | --- |
 
 ## Why Varanasi to Lucknow Groups Choose Tempo Travellers Over Trains/Flights
@@ -70,9 +70,9 @@ Return journeys typically start 3:00 PM/5:00 PM to reach Varanasi by night. Two-
 
 > All fares include tolls (₹2,055 Purvanchal Expressway), fuel, driver, parking permits, and 300 ml water bottles. GST extra if invoice required.
 
-![Recliner seating row with laptop tray deployed inside Traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Recliner seating with work tray on the expressway")
+![Recliner seating row with laptop tray deployed inside Traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Recliner seating with work tray on the expressway")
 
-![Traveller parked at Chaudhary Charan Singh Airport terminal night pickup](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Airport pickup at Lucknow terminal")
+![Traveller parked at Chaudhary Charan Singh Airport terminal night pickup](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Airport pickup at Lucknow terminal")
 
 ## EAAT Credentials for Lucknow Corporate & Family Trips
 

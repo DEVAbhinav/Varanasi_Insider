@@ -13,7 +13,7 @@ keywords:
   - varanasi to prayagraj sangam puja
   - kalpavas logistics tempo traveller
 slug: varanasi-to-triveni-sangam-tempo-traveller
-featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg
 relatedPosts:
   - varanasi-to-prayagraj-tempo-traveller
   - varanasi-to-allahabad-tempo-traveller
@@ -36,7 +36,7 @@ For many devotees, the essence of Prayagraj is the sacred confluence—*Triveni 
 
 > **Package Snapshot:** 12 seater Traveller · ₹9,300 inclusive · private boat for snan · verified priest · dressing tents · return to Varanasi by sunset.
 
-| ![Traveller convoy arriving at Prayagraj Sangam parking pre-dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg "Traveller convoy reaching Sangam parking") | ![Devotees boarding a private boat at Triveni Sangam](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg "Private boat boarding at Triveni Sangam") | ![Kalpavas camp lights along Sangam banks at night](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg "Evening ambience at Sangam ghats") |
+| ![Traveller convoy arriving at Prayagraj Sangam parking pre-dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Traveller convoy reaching Sangam parking") | ![Devotees boarding a private boat at Triveni Sangam](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg "Private boat boarding at Triveni Sangam") | ![Kalpavas camp lights along Sangam banks at night](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-boat-evening-p.jpeg "Evening ambience at Sangam ghats") |
 | --- | --- | --- |
 
 ## Triveni Sangam Ritual-Focused Itinerary
@@ -86,9 +86,9 @@ For many devotees, the essence of Prayagraj is the sacred confluence—*Triveni 
 - Small offering kit (if any special items from home)
 - Thermals in winter; sunscreen in summer
 
-![Priest performing kalash puja before Triveni snan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-priests-2025.jpg "Kalash puja setup for Sangam snan")
+![Priest performing kalash puja before Triveni snan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-priests-2025.jpg "Kalash puja setup for Sangam snan")
 
-![Comfortable Traveller interior with blankets ready for return journey](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_beige_brown_seating_potrait.jpeg "Traveller interior prepped with blankets and cushions")
+![Comfortable Traveller interior with blankets ready for return journey](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_beige_brown_seating_potrait.jpeg "Traveller interior prepped with blankets and cushions")
 
 ## Triveni Sangam Add-Ons & Extensions
 
@@ -115,7 +115,7 @@ For many devotees, the essence of Prayagraj is the sacred confluence—*Triveni 
 - Token: ₹1,000 to reserve ritual slot and boat
 - Balance payable after completion via UPI/card
 
-![Private boat ready for sunrise snan at Triveni Sangam](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg "Private boat ready for sunrise snan at Triveni Sangam")
+![Private boat ready for sunrise snan at Triveni Sangam](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg "Private boat ready for sunrise snan at Triveni Sangam")
 
 ## Ready for a Seamless Triveni Sangam Snan?
 

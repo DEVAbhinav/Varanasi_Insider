@@ -31,11 +31,11 @@ Ideal for corporate clients, high-end tourists, and families prioritizing comfor
 
 ## Vehicle Photos (Representative)
 
-![Luxury Urbania — premium exterior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-TT-Square-SideView.jpeg "Premium Urbania Tempo Traveller for luxury group travel")
+![Luxury Urbania — premium exterior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-TT-Square-SideView.jpeg "Premium Urbania Tempo Traveller for luxury group travel")
 
-![Maharaja Tempo Traveller — neon ambient lighting](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Ambient LED lighting creating premium travel experience")
+![Maharaja Tempo Traveller — neon ambient lighting](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Ambient LED lighting creating premium travel experience")
 
-![Maharaja recliner seats — luxury comfort](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_tavelar_inside_seat_potrait.jpeg "Individual Maharaja recliner seats with premium upholstery"]
+![Maharaja recliner seats — luxury comfort](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_tavelar_inside_seat_potrait.jpeg "Individual Maharaja recliner seats with premium upholstery"]
 
 ## Maharaja/Urbania Premium Features
 

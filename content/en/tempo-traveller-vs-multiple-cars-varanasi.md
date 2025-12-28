@@ -15,7 +15,7 @@ After running Banarasi Varanasi Taxi for over 15 years, I've had this conversati
 
 Let me share what I've learned from thousands of group bookings – and why 85% of families ultimately choose the Tempo Traveller option.
 
-![Group family traveling together in comfortable Tempo Traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg)
+![Group family traveling together in comfortable Tempo Traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg)
 
 ## Quick Decision Guide: At a Glance
 

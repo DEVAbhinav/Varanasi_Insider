@@ -5,7 +5,7 @@ date: "2025-08-02"
 lastUpdated: "2025-12-17"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-sunrise-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"
 metaTitle: "Varanasi in December 2025: 8-22°C Weather, Fog Tips & What to Pack"
 metaDescription: "Dec temps 8-22°C, fog delays common before 10 AM. Pack thermals + shawl. Sunrise boat still runs. Flight buffer: 3 hrs. Local's fog survival guide →"
 description: "December 2025 Varanasi fog survival plan—exact temps, flight delay odds, packing list, sunrise boat alternatives, and festive events in one cheat sheet."
@@ -45,7 +45,7 @@ For insights into how December compares to other times of the year, don't forget
 
 ## Varanasi Weather in December: Embracing the Winter Chill
 
-![Sunrise boat silhouette cutting through December fog in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "Misty morning on the ghats of Varanasi")
+![Sunrise boat silhouette cutting through December fog in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg "Misty morning on the ghats of Varanasi")
 
 While you won't find snow here, December in Varanasi definitely has a winter feel. The days are sunny but cooler, and the nights can get quite chilly. Be prepared for a significant drop in temperature, especially after sunset.
 
@@ -71,7 +71,7 @@ While Varanasi is deeply rooted in Hindu traditions, you’ll find a subtle fest
 December offers a fantastic opportunity to experience Varanasi without the peak crowds of the festival season.
 
 ### Witness a Serene Sunrise Boat Ride
-![A serene sunrise boat ride on the Ganges](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Sunrise boat ride on the Ganges")
+![A serene sunrise boat ride on the Ganges](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Sunrise boat ride on the Ganges")
 
 While the fog might be present, a sunrise boat ride in December offers a different kind of beauty. The misty Ganges, with the silhouettes of the ghats, is a sight to behold. Just be prepared for a potentially delayed start due to fog. Again, always verify the latest government tariffs or operator websites for boat ride pricing.
 
@@ -79,7 +79,7 @@ While the fog might be present, a sunrise boat ride in December offers a differe
 This is a winter delicacy you absolutely must try! **Malaiyyo** is a frothy, light-as-air dessert made from milk, often flavoured with saffron and cardamom, and topped with pistachios and almonds. You'll find vendors selling it in the mornings, and it's the perfect way to warm up on a chilly day.
 
 ### Explore the Ghats on Foot
-![Walking along the ghats in the cool December weather](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Walking along the ghats of Varanasi")
+![Walking along the ghats in the cool December weather](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "Walking along the ghats of Varanasi")
 
 With the cooler weather, December is ideal for leisurely walks along the ghats. Take your time to observe the daily life, the rituals, and the architectural beauty. Remember to consult our [Solo Travel Safety Guide](/en/is-varanasi-safe-for-solo-female-travellers) for tips on navigating the ghats safely.
 

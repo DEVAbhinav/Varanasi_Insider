@@ -46,11 +46,11 @@ const KASHITAXI_RATES = [
 ];
 
 const ONEWAY = [
-  { to: "Vindhyachal", km: 80, hr: "~2 hr", fare: 1600, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg" },
-  { to: "Prayagraj (Allahabad)", km: 120, hr: "~3 hr", fare: 2500, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg" },
-  { to: "Ayodhya", km: 200, hr: "4–5 hr", fare: 6500, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTaxi1.jpg" },
-  { to: "Bodhgaya", km: 250, hr: "6–7 hr", fare: 7000, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaTaxi.jpg" },
-  { to: "Lucknow", km: 300, hr: "6–7 hr", fare: 8500, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/vnsayopyg.png" },
+  { to: "Vindhyachal", km: 80, hr: "~2 hr", fare: 1600, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg" },
+  { to: "Prayagraj (Allahabad)", km: 120, hr: "~3 hr", fare: 2500, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg" },
+  { to: "Ayodhya", km: 200, hr: "4–5 hr", fare: 6500, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTaxi1.jpg" },
+  { to: "Bodhgaya", km: 250, hr: "6–7 hr", fare: 7000, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg" },
+  { to: "Lucknow", km: 300, hr: "6–7 hr", fare: 8500, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/vnsayopyg.png" },
 ];
 
 const DEALS = [
@@ -62,7 +62,7 @@ const DEALS = [
 // Site constants for SEO
 const SITE = "https://www.kashitaxi.in";
 const PAGE_URL = `${SITE}/rates/outstation-taxi-varanasi`;
-const OG_IMG = `${SITE}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png`;
+const OG_IMG = `${SITE}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`;
 
 // Page JSON-LD (Breadcrumb + WebPage + FAQ)
 const jsonLd = {
@@ -155,7 +155,7 @@ export default function OutstationTaxiGuide() {
         {/* HERO */}
         <section className="relative">
           <div className="absolute inset-0 -z-10">
-            <Image src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" alt="Varanasi Ghats" fill priority className="object-cover" />
+            <Image src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" alt="Varanasi Ghats" fill priority className="object-cover" />
             <div className="absolute inset-0 bg-gradient-to-b from-black/55 via-black/35 to-amber-900/30" />
           </div>
           <div className="mx-auto max-w-6xl px-4 py-14 md:py-20">
@@ -203,7 +203,7 @@ export default function OutstationTaxiGuide() {
         <h2 className="text-2xl font-semibold tracking-tight">Varanasi outstation taxi per‑km rate – what to expect</h2>
         <p className="mt-2 text-slate-600">Rates vary by vehicle and operator. Fuel is usually included; <em>tolls, parking, state tax and driver night charges</em> are typically extra. Use these ballpark ranges to benchmark quotes.</p>
         <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {[{label:"Sedan (Indigo/Dzire)", range:"₹8.5–₹13/km", img:"https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png"},{label:"SUV (Ertiga/Innova)", range:"₹14–₹18/km", img:"https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/xuv.png"},{label:"Tempo Traveller", range:"₹25–₹30/km", img:"https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg"},{label:"Luxury", range:"₹50+/km", img:"https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/luxuryCar.png"}].map((c)=> (
+          {[{label:"Sedan (Indigo/Dzire)", range:"₹8.5–₹13/km", img:"https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png"},{label:"SUV (Ertiga/Innova)", range:"₹14–₹18/km", img:"https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png"},{label:"Tempo Traveller", range:"₹25–₹30/km", img:"https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg"},{label:"Luxury", range:"₹50+/km", img:"https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/luxuryCar.png"}].map((c)=> (
             <Card key={c.label} className="overflow-hidden border-2">
               <div className="relative h-36 w-full bg-white">
                 <Image src={c.img} alt={c.label} fill sizes="(min-width:1024px) 25vw, 50vw" className="object-contain p-2"/>

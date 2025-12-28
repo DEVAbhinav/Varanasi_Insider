@@ -20,7 +20,7 @@ tags:
   - religious festivals
   - ganga snan
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 eyebrow: "Sacred Bathing Festival"
 ctaTitle: "Visiting for Kartik Purnima Snan?"
 ctaSubtitle: "Book your taxi for safe and comfortable transportation to the ghats during this auspicious festival."

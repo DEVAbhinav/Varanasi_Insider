@@ -4,7 +4,7 @@ slug: "contact"
 date: "2025-07-28"
 author: "Utkarsh Pandey"
 description: "Contact Banarasi Kashitaxi for 24×7 taxi services in Varanasi. Call or WhatsApp for airport pickups, local tours, and outstation cabs. Get a free quote now."
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/aboutUs.svg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/aboutUs.svg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/contact"
 tags: ["contact", "support", "taxi booking", "Varanasi travel", "Varanasi airport taxi"]
@@ -18,7 +18,7 @@ metaDescription: "Contact Banarasi Kashitaxi for 24×7 taxi services in Varanasi
 
 Whether you need a late‑night airport transfer, a women‑only Pink Taxi, or a fully‑loaded eight‑day Buddhist Circuit itinerary, I’m just a call away. **Let’s make your Banaras journey smooth and stress‑free.**
 
-![Airport taxi pickup at Varanasi (VNS)](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg "Airport taxi pickup at Varanasi (VNS)")
+![Airport taxi pickup at Varanasi (VNS)](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg "Airport taxi pickup at Varanasi (VNS)")
 
 ---
 
@@ -46,7 +46,7 @@ Vinayak Travels Tour (Regd.)
 **Shastri Nagar (near IP Mall), Sigra/Chetganj, Varanasi – 221 002, Uttar Pradesh, India**  
 Plus Code: `8X8Q+4R Varanasi, Uttar Pradesh`
 
-![Women-friendly Pink Taxi service](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg "Women-friendly Pink Taxi service")
+![Women-friendly Pink Taxi service](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg "Women-friendly Pink Taxi service")
 
 **Office Hours (IST)**  
 Mon–Sun  06:00 – 22:00  

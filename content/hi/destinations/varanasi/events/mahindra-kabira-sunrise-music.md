@@ -18,7 +18,7 @@ tags:
   - music
   - sunrise
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
 eyebrow: "एक्सक्लूसिव अनुभव"
 ctaTitle: "सुबह 5:30 की ड्रॉप चाहिए?"
 ctaSubtitle: "गुलेरिया घाट तक जल्दी पहुँचने के लिए टैक्सी अभी रिज़र्व करें।"
@@ -43,7 +43,7 @@ location:
 **समय:** 6:30-7:15 AM (45 मिनट का सोने जैसा स्लॉट)  
 **एंट्री:** Festival पास अनिवार्य; बिना पास वालों के लिए सीमित स्टैंड-बाय सीटें (पहले आओ सिद्धांत)।
 
-![सूर्योदय नाव दृश्य](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "गंगा पर सुबह के राग")
+![सूर्योदय नाव दृश्य](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "गंगा पर सुबह के राग")
 
 ### अनुभव कैसा होता है?
 
@@ -95,7 +95,7 @@ location:
 
 ### सत्र के बाद क्या करें?
 
-![सुबह की नावें और पंछी](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Ganga-boat-birds-ghats-morning-l.jpeg "सूर्योदय के बाद घाट")
+![सुबह की नावें और पंछी](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Ganga-boat-birds-ghats-morning-l.jpeg "सूर्योदय के बाद घाट")
 
 1. **घाट कैफ़े नाश्ता:** [मलाईयो गाइड](/hi/destinations/varanasi/food/malaiyo-varanasi-guide) से प्रेरित होकर पास के ठेले तक वॉक।
 2. **घाट वॉक:** दशाश्वमेध पर 7:30 AM आरती, फिर अस्सी की ओर धीमी चाल।

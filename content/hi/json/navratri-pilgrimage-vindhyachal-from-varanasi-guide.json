@@ -8,7 +8,7 @@
       "description": "वाराणसी से विंध्याचल नवरात्रि तीर्थयात्रा की अंतिम गाइड 2025। त्रिकोण परिक्रमा, दर्शन समय, विशेष पूजा बुकिंग, परिवहन, आवास और व्यावहारिक सुझावों के साथ—विंध्यवासिनी देवी के दिव्य आशीर्वाद के लिए संपूर्ण योजना।",
       "image": {
         "@type": "ImageObject",
-        "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg",
+        "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg",
         "width": 1200,
         "height": 630
       },
@@ -54,7 +54,7 @@
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
-          "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png",
+          "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
           "location": {
             "@type": "Place",
             "name": "विंध्यवासिनी देवी मंदिर, विंध्याचल",
@@ -160,7 +160,7 @@
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock"
       },
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png"
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
     },
     {
       "@type": "TouristTrip",

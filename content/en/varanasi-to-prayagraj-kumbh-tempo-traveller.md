@@ -35,7 +35,7 @@ Mahakumbh 2025 (January–February) is expected to draw over 40 crore pilgrims. 
 
 > **Highlights:** Permit-ready Travellers · two-driver roster · portable toilets · camp coordination · live crowd alerts.
 
-| ![Shahi Snan procession approaching Triveni Sangam at dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg "Shahi Snan procession at Triveni Sangam") | ![Traveller convoy parked inside dedicated Kumbh sector at night](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg "Traveller convoy staged inside Kumbh sector") | ![Akhara camp tents lit up with pilgrim crowds in evening](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg "Akhara camp ambience during Mahakumbh") |
+| ![Shahi Snan procession approaching Triveni Sangam at dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg "Shahi Snan procession at Triveni Sangam") | ![Traveller convoy parked inside dedicated Kumbh sector at night](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Traveller convoy staged inside Kumbh sector") | ![Akhara camp tents lit up with pilgrim crowds in evening](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-boat-evening-p.jpeg "Akhara camp ambience during Mahakumbh") |
 | --- | --- | --- |
 
 ## Mahakumbh 2025 Snan Calendar & Crowd Levels
@@ -57,7 +57,7 @@ Mahakumbh 2025 (January–February) is expected to draw over 40 crore pilgrims. 
 - 11:30 PM: Reach allocated holding area (Sector 14/18). Coordinator collects wristbands, vehicle sticker.
 - 12:30 AM: Crew sets up reclining seats, distributes blankets, keeps hot beverages ready.
 
-![Travellers exiting Varanasi at night with barricade clearance passes](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Night departure with barricade passes displayed")
+![Travellers exiting Varanasi at night with barricade clearance passes](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Night departure with barricade passes displayed")
 
 ### Day 1 (Snan Day)
 - 3:30 AM: Board government shuttle/e-rickshaw to Sangam sector. Liaison escorts group.
@@ -68,9 +68,9 @@ Mahakumbh 2025 (January–February) is expected to draw over 40 crore pilgrims. 
 - 4:00 PM: Optional Sangam Aarti or Anand Bhavan visit (if roads reopen).
 - 7:00 PM: Night stay at camp or return toward Varanasi depending on crowd advisories.
 
-![Portable restroom and hydration station beside Traveller in Kumbh camp](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Portable restroom and hydration setup in camp")
+![Portable restroom and hydration station beside Traveller in Kumbh camp](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Portable restroom and hydration setup in camp")
 
-![Pilgrims warming up near camp kitchen after snan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg "Pilgrims regrouping at camp kitchen post snan")
+![Pilgrims warming up near camp kitchen after snan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg "Pilgrims regrouping at camp kitchen post snan")
 
 ### Day 2 (Post-Snan)
 - 5:00 AM: Depart Prayagraj before fresh barricades.

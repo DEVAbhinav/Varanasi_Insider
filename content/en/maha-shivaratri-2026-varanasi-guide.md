@@ -16,7 +16,7 @@ keywords:
 category: "Spiritual Festivals"
 readingTime: "15 minutes"
 featured: true
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
 seoTitle: "Maha Shivaratri 2026 Varanasi – Feb 15 Shiv Baraat Playbook & Darshan Map"
 seoDescription: "Conquer Maha Shivaratri 2026 in Varanasi with Shiv Baraat timings, darshan slots, akhada hotspots, night stay strategy, and crowd escape maps for Feb 15."
 relatedPosts: ["kashi-vishwanath-shivaratri-crowd-survival-guide", "shiv-baraat-viewing-guide-varanasi", "shivaratri-cultural-deep-dive-varanasi"]

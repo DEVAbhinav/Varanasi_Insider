@@ -36,7 +36,7 @@ canonical: "https://www.kashitaxi.in/hi/evening-boat-ride-varanasi-ganga-aarti"
 
 > लक्ष्य: बोट धनुष ≈15° तिरछा पुजारी प्लेटफ़ॉर्म की ओर = लेयर्ड डेप्थ.
 
-![Night reflection boat view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-night-boat-ghat-p.jpeg "रात्रि प्रतिबिंब – जल पर दीप आंदोलन ट्रेल")
+![Night reflection boat view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-night-boat-ghat-p.jpeg "रात्रि प्रतिबिंब – जल पर दीप आंदोलन ट्रेल")
 
 ## 2. नाव श्रेणी / सीट क्लास
 | क्लास | सीट | 2025 बेस | आराम | श्रेष्ठ उपयोग |
@@ -51,7 +51,7 @@ canonical: "https://www.kashitaxi.in/hi/evening-boat-ride-varanasi-ganga-aarti"
 - फोन नाइट मोड: एक्सपोज़ लॉक; फ्लेम ओवरकरेक्शन टालें।  
 - स्टेबिलाइजेशन: कोहनी घुटने; मोटर वाइब्रेशन > रो।  
 
-![Motor vs row night contrast](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg "मोटर हल्की वाइब्रेशन बनाम रो स्थिर जल सतह")
+![Motor vs row night contrast](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-boat-evening-p.jpeg "मोटर हल्की वाइब्रेशन बनाम रो स्थिर जल सतह")
 
 ## 4. फेयर नेगो वर्कफ़्लो
 1. पूछें “Shared या प्राइवेट? Capacity?”  

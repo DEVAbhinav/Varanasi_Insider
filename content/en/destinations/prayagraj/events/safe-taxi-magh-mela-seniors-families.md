@@ -21,7 +21,7 @@ tags:
   - safety
   - taxi
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "Safety & Hygiene"
 ctaTitle: "Book a Sanitized Taxi"
 ctaSubtitle: "Dedicated vehicles for seniors, families, and solo pilgrims with GPS tracking plus 24/7 helpline."

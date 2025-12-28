@@ -7,7 +7,7 @@ metaTitle: "देव दीपावली 2025 व्यूइंग स्प
 metaDescription: "देव दीपावली 2025 वाराणसी: अस्सी, चेत सिंह, राज घाट, विपरीत तट व रूफटॉप – कम भीड़, श्रेष्ठ फोटो एंगल व सुरक्षित परिवार स्थल।"
 description: "Dashashwamedh की भीड़ छोड़कर देव दीपावली देखने के 5 अंदरूनी घाट/लोकेशन – आगमन समय, भीड़ स्तर, फ़ोटोग्राफ़ी टिप्स।"
 keywords: ["देव दीपावली व्यू स्पॉट","dev deepawali best spots hindi","assi ghat dev deepawali","chet singh ghat viewing","raj ghat dev deepawali","opposite bank dev deepawali","crowd free dev deepawali spots","dev deepawali rooftop","dev deepawali कहाँ देखें","best place watch dev deepawali varanasi","dev deepawali less crowded ghats","dev deepawali alternative dashashwamedh","कम भीड़ देव दीपावली","dev deepawali opposite bank view"]
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 relatedPosts:
   - dev-deepawali-2025-varanasi-ultimate-guide
   - dev-deepawali-boat-ride-pricing-guide-2025

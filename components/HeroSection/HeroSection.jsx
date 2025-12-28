@@ -7,7 +7,7 @@ export default function HeroSection({ calculatorProps }) {
     <section className={styles.heroContainer} aria-label="Varanasi taxi booking hero section">
       <Image
         alt="Varanasi's ganga aarti in evening - scenic view of holy ghats"
-        src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png"
+        src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
         fill
         style={{ objectFit: 'cover' }}
         priority

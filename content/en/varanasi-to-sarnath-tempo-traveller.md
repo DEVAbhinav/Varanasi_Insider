@@ -35,7 +35,7 @@ Sarnath is where the Buddha delivered his first sermon. Whether you’re hosting
 
 > **Quick Facts:** 10 km from Godowlia · 5–6 hour charter · ₹3,200 (12 seater) · ASI-licensed guides · chilled water, prayer shawls, and translation support.
 
-| ![Dhamek Stupa rising over manicured lawns at Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png "Dhamek Stupa morning walk") | ![Meditation group boarding Traveller outside Mulagandha Kuti Vihara](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Traveller staged outside Mulagandha Kuti Vihara") | ![Traveller interior arranged with prayer shawls and water bottles](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Interior prepped for meditation group") |
+| ![Dhamek Stupa rising over manicured lawns at Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png "Dhamek Stupa morning walk") | ![Meditation group boarding Traveller outside Mulagandha Kuti Vihara](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Traveller staged outside Mulagandha Kuti Vihara") | ![Traveller interior arranged with prayer shawls and water bottles](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Interior prepped for meditation group") |
 | --- | --- | --- |
 
 ## Sarnath Half-Day Tempo Traveller Itinerary (Customisable)
@@ -53,9 +53,9 @@ Sarnath is where the Buddha delivered his first sermon. Whether you’re hosting
 
 ## Sarnath Tempo Traveller Vehicle & Amenities
 
-![Mulagandha Kuti Vihara corridor ready for chanting session](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/assi-aarti-evening-p-2.jpeg "Mulagandha Kuti Vihara morning ambience")
+![Mulagandha Kuti Vihara corridor ready for chanting session](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/assi-aarti-evening-p-2.jpeg "Mulagandha Kuti Vihara morning ambience")
 
-![International Buddhist Association canteen vegetarian spread](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-sunrise-p.jpeg "Pre-booked vegetarian lunch setup")
+![International Buddhist Association canteen vegetarian spread](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg "Pre-booked vegetarian lunch setup")
 
 - Air-conditioned Traveller with push-back seats, ample legroom.
 - Chilled water, oshibori towels, and incense-free ambience for meditation groups.

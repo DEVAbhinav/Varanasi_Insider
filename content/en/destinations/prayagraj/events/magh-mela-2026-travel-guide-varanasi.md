@@ -21,7 +21,7 @@ tags:
   - guide
   - pilgrimage
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "Travel Blueprint"
 ctaTitle: "Plan Your Snan Schedule"
 ctaSubtitle: "Share your bathing dates to receive a taxi timeline, fare breakdown, and WhatsApp confirmation."

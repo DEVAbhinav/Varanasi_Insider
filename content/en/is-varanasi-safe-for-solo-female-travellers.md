@@ -5,7 +5,7 @@ date: "2025-07-24"
 lastUpdated: "2025-09-20"
 author: "Utkarsh Pandey"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg"
 description: "2025 solo female Varanasi safety blueprint with walkable zones, dress code cheat-sheet, SOS scripts, hostel list, and harassment shut-down phrases." 
 tags: ["safety", "solo female travel", "Varanasi", "travel tips"]
 metaTitle: "Is Varanasi Safe for Solo Female Travellers in 2025? Safety Blueprint"
@@ -25,7 +25,7 @@ keywords:
 I’ve clocked **80 km on foot during eight solo trips across Kashi’s ghats and gullies**, so the burning question *“is Varanasi safe for solo female travellers?”* lands in my inbox daily. **Short verdict:** *yes—if you pair street‑smart habits with a scarf‑in‑your‑bag mindset.* City crime dashboards indicate Varanasi logs **low single-digit violent cases per 100 000 women annually**, below the last reported national metro band, yet petty scams and sensory overload peak near Dashashwamedh after dark. This guide blends real‑life anecdotes, data, and micro‑checklists so you can explore with confidence.
 
 ---
-![Solo woman watching Ganga Aarti from the women-friendly zone](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-solo.jpeg "One person doing ganga aarti")
+![Solo woman watching Ganga Aarti from the women-friendly zone](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti-solo.jpeg "One person doing ganga aarti")
 
 ## Quick Safety Snapshot
 
@@ -62,7 +62,7 @@ I’ve clocked **80 km on foot during eight solo trips across Kashi’s ghats 
 * Pop in noise‑cancelling buds, practise the 4‑7‑8 breath for 60 s.
 
 ---
-![Foreigner setting boundaries with sadhu photo request in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sadhu-foreigner-girl.jpeg "Sadgy with foreigner girl")
+![Foreigner setting boundaries with sadhu photo request in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sadhu-foreigner-girl.jpeg "Sadgy with foreigner girl")
 
 ## Solo Female Travel Tips Varanasi
 
@@ -105,7 +105,7 @@ Opt for breathable, modest layers—think cotton kurta or loose tee with full-le
 | *Loose linen trousers + elbow‑sleeve tee* | Breathable in 40 °C heat; covers knees. |
 | *Maxi dress + light shawl* | Temple‑ready; quick to dress up for cafés. |
 
-![Capsule wardrobe for solo female travel Varanasi – salwar, linen pants, scarf](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/female-traveller-sadhu.jpeg "My three‑piece capsule wardrobe keeps looks modest yet Insta‑worthy")
+![Capsule wardrobe for solo female travel Varanasi – salwar, linen pants, scarf](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/female-traveller-sadhu.jpeg "My three‑piece capsule wardrobe keeps looks modest yet Insta‑worthy")
 
 > **Temple rule of thumb:** shoulders & knees covered, leather off, phones silent.
 

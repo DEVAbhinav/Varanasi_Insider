@@ -5,7 +5,7 @@ date: "2025-07-28"
 lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaTaxi.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg"
 metaTitle: "Varanasi to Bodh Gaya: 255km by Road | Taxi ₹3,500 [2026]"
 metaDescription: "Varanasi to Bodh Gaya distance = 255 km (5-6 hr drive via NH19). Taxi from ₹3,500. Same-day Buddhist circuit: Mahabodhi + Vishnupad. Route map + fare table →"
 description: "2025 Varanasi → Bodh Gaya taxi fares, route intel, pit-stop map, and WhatsApp script to lock fixed quotes before touts call back."
@@ -62,7 +62,7 @@ Bodh Gaya is located in the state of Bihar, to the east of Varanasi. The road di
 
 Looking for Varanasi to Bodhgaya taxi fare? Here's an estimated breakdown for this popular route in 2025:
 
-![Clean sedan staged for the dawn Varanasi to Bodh Gaya run](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png "Sedan taxi for Bodhgaya")
+![Clean sedan staged for the dawn Varanasi to Bodh Gaya run](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png "Sedan taxi for Bodhgaya")
 
 | Vehicle | Seats | One-Way Fare (Approx.) | Notes |
 | :--- | :--- | :--- | :--- |
@@ -74,7 +74,7 @@ Looking for Varanasi to Bodhgaya taxi fare? Here's an estimated breakdown for th
 
 *\*Fares are indicative. Always confirm the final price, including tolls and state taxes, before booking.*
 
-![A Tempo Traveller for larger groups going to Bodhgaya](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Bodhgaya")
+![A Tempo Traveller for larger groups going to Bodhgaya](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Bodhgaya")
 
 ---
 

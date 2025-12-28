@@ -5,7 +5,7 @@ date: "2025-08-02"
 lastUpdated: "2025-08-02"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-sunrise-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"
 description: "Planning a trip to Varanasi in February? Learn about the pleasant weather, what to pack, and key festivals and events happening this month."
 keywords: "varanasi in february, mahashivratri 2026 date, varanasi weather february, what to wear in varanasi in february, things to do in varanasi in february, is february good time to visit varanasi"
 tags:
@@ -37,7 +37,7 @@ To see how February's perfect weather fits into the city's calendar, take a look
 
 ## Varanasi Weather in February: The Sweet Spot for Exploring
 
-![The pleasant February sun over the ghats of Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Pleasant weather over the ghats in February")
+![The pleasant February sun over the ghats of Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "Pleasant weather over the ghats in February")
 
 February offers what I call a 9/10 on the "Pleasant-Day Index." The air is fresh, the sun is warm without being harsh, and the evenings are comfortably cool. It’s ideal for photographers, explorers, and anyone who wants to experience the city at its most comfortable.
 
@@ -48,7 +48,7 @@ You can truly pack your days with activities without worrying about the weather 
 
 ## Mahashivratri 2026: The Great Night of Shiva in His City
 
-![The Kashi Vishwanath Temple, the epicenter of Mahashivratri celebrations](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple")
+![The Kashi Vishwanath Temple, the epicenter of Mahashivratri celebrations](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple")
 
 Varanasi is the city of Lord Shiva, and Mahashivratri is his great night. The energy during this festival is something you have to feel to believe. The city throbs with devotion.
 
@@ -69,7 +69,7 @@ With clear skies, the sunrise over the Ganga is spectacular. Simply walk from As
 Just a short drive from the city, Sarnath is where Lord Buddha gave his first sermon. The weather in February is perfect for exploring the peaceful archaeological ruins, the Dhamek Stupa, and the various international Buddhist temples without the oppressive heat.
 
 ### A Leisurely Boat Ride on the Ganga
-![A boat ride on the calm Ganga river in February](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Boat ride on the Ganga in February")
+![A boat ride on the calm Ganga river in February](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Boat ride on the Ganga in February")
 
 Unlike the monsoon or deep winter, the river in February is calm, making for a safe and delightful boat ride. It’s the best way to get a panoramic view of the ghats. As always, I recommend checking the official tariffs before hiring a boat.
 

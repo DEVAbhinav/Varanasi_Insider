@@ -10,7 +10,7 @@
       "headline": "वाराणसी में गंगा आरती का समय 2026: पूर्ण मौसमी गाइड",
       "description": "आज शाम की गंगा आरती 6 बजे (सर्दियों में) दशाश्वमेध घाट पर। 2026 का पूरा महीने-वार शेड्यूल, नाव समय और देव दीपावली व कार्तिक पूर्णिमा की विशेष टाइमिंग।",
       "image": [
-        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg",
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg",
         "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg"
       ],
       "datePublished": "2025-06-19",
@@ -25,7 +25,7 @@
         "name": "काशी टैक्सी",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg"
+          "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg"
         },
         "@id": "https://www.kashitaxi.in#organization"
       },
@@ -69,7 +69,7 @@
           "longitude": "83.0102"
         }
       },
-      "image": ["https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"],
+      "image": ["https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg"],
       "offers": [
         {
           "@type": "Offer",

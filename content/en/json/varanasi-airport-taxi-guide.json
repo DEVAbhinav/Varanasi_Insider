@@ -4,7 +4,7 @@
     {
       "@type": "HowTo",
       "name": "How to book a prepaid taxi at Varanasi airport",
-      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg",
+      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg",
       "totalTime": "PT5M",
       "step": [
         {
@@ -102,8 +102,8 @@
         "@id": "https://www.kashitaxi.in/#org"
       },
       "image": [
-        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
-        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/xuv.png"
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png"
       ],
       "offers": [
         {

@@ -7,7 +7,7 @@ metaTitle: "सिन्दिया घाट वाराणसी 2025: अ�
 metaDescription: "सिन्दिया घाट (Scindia Ghat) वाराणसी: झुके अर्ध-डूबे शिव मंदिर की कथा, संरचना, फ़ोटोग्राफ़ी कोण, निकटवर्ती मणिकर्णिका संदर्भ व यात्रा समय।"
 description: "शांत फोटोजेनिक सिन्दिया घाट – 1830 निर्माण प्रभाव, सब्सिडेंस से झुका शिव मंदिर, सुबह प्रकाश प्रतिबिंब व नैतिक अवलोकन मार्गदर्शन।"
 keywords: ["scindia ghat hindi","सिन्दिया घाट शिव मंदिर","अर्ध डूबा मंदिर वाराणसी","varanasi submerged temple","manikarnika nearby ghat","scindia ghat photography","varanasi quiet ghats","kashi heritage ghat","scindia ghat history","tilted shiva temple varanasi","submerged temple sunrise"]
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 relatedPosts:
   - guide-to-10-most-important-ghats-of-varanasi
   - manikarnika-ghat-sacred-cremation-grounds
@@ -24,7 +24,7 @@ canonical: "https://www.kashitaxi.in/hi/scindia-ghat-submerged-temple"
 
 > **विशेषता:** आंशिक रूप से झुका / जलस्पर्श शिव मंदिर संरचना – सुबह परावर्तन / धुंध लेयर फ़ोटोग्राफ़ी हॉटस्पॉट। *कीवर्ड:* scindia ghat hindi / submerged temple varanasi.
 
-![सुबह की धुंध में उत्तर दिशा के शांत घाट](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "सुबह का मुलायम प्रकाश – प्रतिबिंब व लो-कॉन्ट्रास्ट विवरण कैप्चर के लिए आदर्श")
+![सुबह की धुंध में उत्तर दिशा के शांत घाट](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg "सुबह का मुलायम प्रकाश – प्रतिबिंब व लो-कॉन्ट्रास्ट विवरण कैप्चर के लिए आदर्श")
 
 ## 1. उत्पत्ति व स्ट्रक्चरल कथा
 - 19वीं सदी प्रारम्भ (c.1830) – निर्माण के पश्चात् नींव सब्सिडेंस → टिल्टेड प्रोफ़ाइल।  
@@ -40,7 +40,7 @@ canonical: "https://www.kashitaxi.in/hi/scindia-ghat-submerged-temple"
 
 **लेंस सुझाव:** 24–70mm वाइड संदर्भ + 85–135mm झुका भाग आइसोलेशन।
 
-![प्रतिबिंबित जल सतह पर झुकी संरचना का एंगल](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "गोल्डन आवर में तिरछी प्रोफ़ाइल – लंबा एक्सपोज़र विकल्प")
+![प्रतिबिंबित जल सतह पर झुकी संरचना का एंगल](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "गोल्डन आवर में तिरछी प्रोफ़ाइल – लंबा एक्सपोज़र विकल्प")
 
 ## 3. क्या अपेक्षित
 - तुलनात्मक रूप से शांत (दशाश्वमेध / अस्सी से कम आवाजाही)।  
@@ -54,7 +54,7 @@ canonical: "https://www.kashitaxi.in/hi/scindia-ghat-submerged-temple"
 | अस्सी | नाव (सूर्योदय) | दक्षिण→उत्तर कथा | 
 | मनिकर्णिका (देखने बाद) | पैदल दक्षिण | भावनात्मक संतुलन हेतु शांत विराम |
 
-![गली नेटवर्क की ओर दृष्टि](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "पीछे की गलियों का बहुस्तरीय शिल्प व आवागमन परिदृश्य")
+![गली नेटवर्क की ओर दृष्टि](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "पीछे की गलियों का बहुस्तरीय शिल्प व आवागमन परिदृश्य")
 
 ## 5. शिष्टाचार
 - मंदिर प्लिंथ पर चढ़ना / झुके भाग को छूना नहीं (क्षरण जोखिम)।  

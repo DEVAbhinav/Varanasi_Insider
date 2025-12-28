@@ -33,11 +33,11 @@ relatedPosts:
 
 If your query is **book tempo traveller from Varanasi for Ayodhya**, here's our standard: clean interiors, punctual reporting, curated breakfast/tea stops, and time-boxed darshan plan. Options in **9/12/17-seater** with roof rack for extra bags—perfect for **large taxi for group travel Varanasi** needs.
 
-![Modern Urbania Tempo Traveller front view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-front-Square.jpeg "Premium Urbania series for comfortable group travel")
+![Modern Urbania Tempo Traveller front view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-front-Square.jpeg "Premium Urbania series for comfortable group travel")
 
 **Available Tempo Traveller Options:**
 
-![Spacious Tempo Traveller seating arrangement](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_1by1_beige_potrait.jpeg "Individual seating with optimal legroom and comfort")
+![Spacious Tempo Traveller seating arrangement](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_1by1_beige_potrait.jpeg "Individual seating with optimal legroom and comfort")
 
 - **9-Seater:** Perfect for small family groups, temple committees
 - **12-Seater:** Most popular choice for extended family trips  
@@ -93,13 +93,13 @@ Comfy for 2–3 plus light luggage; agile and economical.
 
 ### Tempo Traveller (9/12/17)
 
-![Premium Tempo Traveller exterior view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/TempoTraveller_side_White.jpeg "Clean, well-maintained Tempo Traveller for outstation trips")
+![Premium Tempo Traveller exterior view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/TempoTraveller_side_White.jpeg "Clean, well-maintained Tempo Traveller for outstation trips")
 
 Roomy, AC, pushback seats, bottle holders, charging points.
 **Best for:** groups, kirtan teams, school/college batches.
 **Keyword fit:** *book tempo traveller from Varanasi for Ayodhya*, *large taxi for group travel Varanasi*.
 
-![Tempo Traveller luxury interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_beige_brown_seating_potrait.jpeg "Comfortable push-back seats with ample legroom")
+![Tempo Traveller luxury interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_beige_brown_seating_potrait.jpeg "Comfortable push-back seats with ample legroom")
 
 **Interior Features:**
 - Push-back reclining seats for maximum comfort

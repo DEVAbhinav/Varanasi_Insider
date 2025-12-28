@@ -19,7 +19,7 @@ tags:
   - culture
   - varanasi festivals
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 eyebrow: "Cultural Event"
 ctaTitle: "Visiting for the Sangamam?"
 ctaSubtitle: "Book your airport transfer or local taxi for a hassle-free experience during the festival."
@@ -310,7 +310,7 @@ organizer:
 
 The **Kashi Tamil Sangamam** represents a remarkable celebration of India's linguistic and cultural diversity. This fourth edition brings over 1,400 delegates from Tamil Nadu to Varanasi, creating a unique interchange between two of India's oldest civilizations. It's more than a tourist event – it's a living demonstration of "Ek Bharat Shreshtha Bharat" (One India, Greatest India).
 
-![BHU campus gate during Kashi Tamil Sangamam](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogbhugate.jpg "Banaras Hindu University – primary venue for Tamil Sangamam 2025")
+![BHU campus gate during Kashi Tamil Sangamam](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogbhugate.jpg "Banaras Hindu University – primary venue for Tamil Sangamam 2025")
 
 ### What Visitors Will Experience
 
@@ -330,7 +330,7 @@ The **Kashi Tamil Sangamam** represents a remarkable celebration of India's ling
 - Participation in rituals at Banaras Hindu University temples.
 - Guided tours emphasizing the cultural continuum between North and South India.
 
-![Varanasi ghats during cultural events](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Cultural walks along the sacred ghats during Sangamam")
+![Varanasi ghats during cultural events](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "Cultural walks along the sacred ghats during Sangamam")
 
 ### Practical Information for Travelers
 

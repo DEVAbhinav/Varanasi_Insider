@@ -8,7 +8,7 @@ author: "Kamal Nayan Singh"
 lastUpdated: 2025-09-19
 tags: [kushinagar, buddhist circuit, mahaparinirvana, tempo traveller]
 keywords: ["varanasi to kushinagar tempo traveller","kushinagar tour from varanasi","mahaparinirvana temple trip","kushinagar itinerary tempo traveller","buddhist pilgrimage kushinagar varanasi"]
-featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png
 relatedPosts:
   - buddhist-circuit-tour-tempo-traveller-varanasi
   - varanasi-to-bodhgaya-tempo-traveller
@@ -34,7 +34,7 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 
 > Core Principle: Preserve dawn + dusk at site; avoid starting return leg late evening.
 
-| ![Mahaparinirvana Temple entrance during dawn meditation hour](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogbhugate.jpg "Mahaparinirvana Temple dawn meditation window") | ![Traveller interior arranged with meditation cushions and blankets](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Interior arranged for reflective travel") | ![Luxury Traveller seats reclined for overnight rest](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Recliner seats ready for serene journey") |
+| ![Mahaparinirvana Temple entrance during dawn meditation hour](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogbhugate.jpg "Mahaparinirvana Temple dawn meditation window") | ![Traveller interior arranged with meditation cushions and blankets](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Interior arranged for reflective travel") | ![Luxury Traveller seats reclined for overnight rest](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Recliner seats ready for serene journey") |
 | --- | --- | --- |
 
 ## Varanasi to Kushinagar Distance & Travel Time
@@ -57,9 +57,9 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 - Late afternoon soft light along stupa grounds.
 - Early second morning – quieter Ramabhar perimeter before day traffic.
 
-![Ramabhar Stupa lawns bathed in soft evening light](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png "Ramabhar Stupa during golden hour")
+![Ramabhar Stupa lawns bathed in soft evening light](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Ramabhar Stupa during golden hour")
 
-![Travellers journaling under tree canopy after meditation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "Journaling break mirroring Kushinagar retreats")
+![Travellers journaling under tree canopy after meditation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg "Journaling break mirroring Kushinagar retreats")
 
 ## Kushinagar Tempo Traveller Vehicle Selection
 | Group Size | Recommended | Why |
@@ -86,11 +86,11 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 ## Kushinagar Visual Gallery (Symbolic Until Field Photos Added)
 | Meditation Interior Mood | Fleet Exterior | Interior Aisle |
 | --- | --- | --- |
-| ![Varanasi to Kushinagar tempo traveller interior ambience](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Evening ambient lighting – calm re-entry") | ![Tempo traveller exterior kushinagar circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Exterior – recognition at hotel") | ![Interior seating for pilgrimage group](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Aisle for cushion storage") |
+| ![Varanasi to Kushinagar tempo traveller interior ambience](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Evening ambient lighting – calm re-entry") | ![Tempo traveller exterior kushinagar circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Exterior – recognition at hotel") | ![Interior seating for pilgrimage group](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Aisle for cushion storage") |
 
 | Seat Comfort | Rear Access | Rural Highway Stretch |
 | --- | --- | --- |
-| ![Seat comfort close detail kushinagar trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Seat ergonomics long drive") | ![Rear loading door access](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear loading – organized gear") | ![Rural segment en route kushinagar](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Highway pacing break zone") |
+| ![Seat comfort close detail kushinagar trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Seat ergonomics long drive") | ![Rear loading door access](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear loading – organized gear") | ![Rural segment en route kushinagar](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Highway pacing break zone") |
 
 > Replace with authentic Mahaparinirvana Temple & Ramabhar Stupa images once obtained (ensure proper attribution policies if external sources used).
 

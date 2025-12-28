@@ -5,7 +5,7 @@ description: "Varanasi to Ayodhya Tempo Traveller one‑day package at ₹14,500
 date: 2025-08-27
 tags: [ayodhya, varanasi to ayodhya tempo traveller, tempo traveller fare, ayodhya day trip, ram mandir, ram janmabhoomi, 12 seater tempo traveller, 17 seater tempo traveller, pilgrimage, one-day trip]
 slug: varanasi-to-ayodhya-tempo-traveller
-featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogAyodhya.jpg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg
 canonical: https://www.kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller
 relatedPosts:
   - pilgrimage-yatra-tours-tempo-traveller-varanasi
@@ -21,9 +21,9 @@ A glimpse of the under‑construction Shri Ram Mandir in Ayodhya—a must‑visi
 
 ## Tempo Traveller Photos for Ayodhya Pilgrimage
 
-![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Ayodhya day trip from Varanasi")
+![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Ayodhya day trip from Varanasi")
 
-![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Comfortable seating for long highway runs")
+![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Comfortable seating for long highway runs")
 
 ## Varanasi to Ayodhya Tempo Traveller Package Highlights
 
@@ -49,9 +49,9 @@ We’ve crafted an optimized plan covering Ayodhya’s must‑see spiritual site
 
 Itinerary is flexible. Want extended prayer at Ram Janmabhoomi or shopping for prasad/souvenirs? Tell us—we buffer extra time as this is a private tour for your group.
 
-![Ram Mandir complex lit up during evening darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTrain3.jpg "Ram Mandir illuminated during evening darshan")
+![Ram Mandir complex lit up during evening darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTrain3.jpg "Ram Mandir illuminated during evening darshan")
 
-![Guptar Ghat boat ride during sunset add-on](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Sunset boat ride add-on at Guptar Ghat")
+![Guptar Ghat boat ride during sunset add-on](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Sunset boat ride add-on at Guptar Ghat")
 
 ## Why a Tempo Traveller for Ayodhya Yatra?
 
@@ -95,7 +95,7 @@ At Hanuman Garhi, groups with seniors should take the steps slowly—the view an
 - WhatsApp: https://wa.me/919935474730?text=Ayodhya%20day%20trip%20booking
 - Website: https://www.kashitaxi.in/
 
-![Tempo Traveller waiting outside Ram Mandir security gates](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaBus2.jpg "Tempo Traveller waiting outside Ram Mandir security gates")
+![Tempo Traveller waiting outside Ram Mandir security gates](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus2.jpg "Tempo Traveller waiting outside Ram Mandir security gates")
 
 ## Secure Your Ram Mandir Darshan Seat
 

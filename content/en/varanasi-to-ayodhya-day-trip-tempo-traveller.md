@@ -37,7 +37,7 @@ Planning a sunrise-to-night pilgrimage from Kashi to Ayodhya? This page packages
 
 > **Quick Stats:** 220 km one way · 4.5 hours driving · 15-hour charter · ₹14,500 (12 seater) · 17 seater ₹15,500.
 
-| ![Traveller rolling out of Varanasi before dawn for Ayodhya day trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaBus1.jpg "Pre-dawn departure for Ayodhya day trip") | ![Passengers relaxing inside premium Traveller cabin en route](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Comfortable cabin set for long-day pilgrimage") | ![Ayodhya Ram Mandir entrance lit up during evening darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTrain1.jpg "Ram Mandir entrance during golden hour") |
+| ![Traveller rolling out of Varanasi before dawn for Ayodhya day trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus1.jpg "Pre-dawn departure for Ayodhya day trip") | ![Passengers relaxing inside premium Traveller cabin en route](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Comfortable cabin set for long-day pilgrimage") | ![Ayodhya Ram Mandir entrance lit up during evening darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTrain1.jpg "Ram Mandir entrance during golden hour") |
 | --- | --- | --- |
 
 ## Ayodhya Day Trip Timeline from Varanasi (Customisable)
@@ -58,9 +58,9 @@ Planning a sunrise-to-night pilgrimage from Kashi to Ayodhya? This page packages
 
 ## Tempo Traveller Options & Inclusions for Ayodhya Day Trip
 
-![Brijwasi Bhojanalaya thali arranged for pilgrim lunch](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogAyodhya.jpg "Curated Ayodhya lunch stop for pilgrims")
+![Brijwasi Bhojanalaya thali arranged for pilgrim lunch](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg "Curated Ayodhya lunch stop for pilgrims")
 
-![Saryu riverfront illuminated during evening aarti](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-evening-aarti-ritual-2025.jpg "Saryu riverfront evening aarti experience")
+![Saryu riverfront illuminated during evening aarti](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-evening-aarti-ritual-2025.jpg "Saryu riverfront evening aarti experience")
 
 | Variant | Seats | Inclusions | Price |
 | --- | --- | --- | --- |

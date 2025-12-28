@@ -41,7 +41,7 @@ auditNote: "Manually created Hindi localized version."
 
 | बाहरी दृश्य | साइड प्रोफाइल | इंटीरियर |
 | --- | --- | --- |
-| ![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "टेम्पो ट्रैवलर फ्लीट — बाहरी दृश्य") | ![Tempo Traveller — side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "साइड प्रोफाइल — सामान और समूह के लिए जगह") | ![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "साफ, एसी इंटीरियर्स और पुशबैक सीटें") |
+| ![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "टेम्पो ट्रैवलर फ्लीट — बाहरी दृश्य") | ![Tempo Traveller — side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "साइड प्रोफाइल — सामान और समूह के लिए जगह") | ![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "साफ, एसी इंटीरियर्स और पुशबैक सीटें") |
 
 ## 2025 में उपलब्ध सीट विकल्प
 

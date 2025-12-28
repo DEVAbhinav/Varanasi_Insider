@@ -8,7 +8,7 @@ export default function Hero() {
       {/* Background image */}
       <div className={styles.backgroundImage}>
         <Image
-          src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png"
+          src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
           alt="Varanasi Ghats"
           fill
           style={{ objectFit: 'cover' }}

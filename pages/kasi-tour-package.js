@@ -25,8 +25,8 @@ export default function KasiTourPackagePage({ contentHtml }) {
         name: 'Kasi Tour Package | Kashi Taxi',
         alternateName: ['Kashi Tour Package', 'Varanasi Tour Package', 'Banaras Tour Package'],
         url: `${site}/kasi-tour-package`,
-        logo: `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg`,
-        image: [`${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png`, `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg`],
+        logo: `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg`,
+        image: [`${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`, `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg`],
         description:
           'Kasi tour package specialist: Kashi darshan, airport transfers, tempo traveller hire, multi-city spiritual circuits with local guides and 24/7 support.',
         slogan: 'Authentic Kasi darshan with trusted local guides',
@@ -167,14 +167,14 @@ export default function KasiTourPackagePage({ contentHtml }) {
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.kashitaxi.in/kasi-tour-package" />
-        <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" />
+        <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Kasi Tour Package 2025 | Kashi Darshan Spiritual Tours | Kashi Taxi" />
         <meta
           name="twitter:description"
           content="Book authentic Kasi tour packages with expert guides. Spiritual journeys to Kashi (Varanasi) with transparent pricing, airport transfers, and 24/7 support."
         />
-        <meta name="twitter:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" />
+        <meta name="twitter:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <link rel="canonical" href="https://www.kashitaxi.in/kasi-tour-package" />
       </Head>
       <JsonLd data={structuredData} />
@@ -242,19 +242,19 @@ export default function KasiTourPackagePage({ contentHtml }) {
                 title: 'Kashi Vishwanath & Aarti',
                 href: '/en/varanasi-sightseeing-complete-guide',
                 desc: 'Dawn darshan, Dashashwamedh Ghat Ganga Aarti, guided rituals.',
-                image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg',
+                image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg',
               },
               {
                 title: 'Airport to Ghats',
                 href: '/en/varanasi-airport-taxi-guide',
                 desc: 'Meet-and-greet at VNS, fixed fares, AC sedans/SUVs.',
-                image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg',
+                image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg',
               },
               {
                 title: 'Tempo Traveller Pilgrimage',
                 href: '/en/kashi-darshan-tempo-traveller',
                 desc: '12-17 seater tempo travellers for family yatras and group pilgrimages.',
-                image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg',
+                image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg',
               },
             ].map((card) => (
               <a

@@ -5,7 +5,7 @@ date: "2025-10-27"
 lastUpdated: "2025-10-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png"
 metaTitle: "15 Sarnath Attractions 2025: Dhamek Stupa, Museum ₹5-100 Entry"
 metaDescription: "Dhamek Stupa, Ashoka Pillar, Lion Capital Museum, 10+ Buddhist temples. Entry ₹5-100. Open 6 AM-6 PM (museum closed Fri). 3-4 hr visit from Varanasi →"
 description: "Discover all 15+ Sarnath attractions including Dhamek Stupa (main monument), original Ashoka Pillar, Mulagandha Kuti Vihar temple, Lion Capital museum, Deer Park, international Buddhist temples, monastery ruins. Complete with timing, entry fees, must-see rankings, and attraction-by-attraction visitor guide."
@@ -53,7 +53,7 @@ Discovering all **Sarnath attractions** requires more than just visiting the fam
 
 This comprehensive guide ranks every **Sarnath attraction** by must-see priority, provides complete timing and entry details, and creates customized itineraries so you experience the full spiritual and historical significance of this UNESCO-inscribed Buddhist pilgrimage site.
 
-![Sarnath Attractions](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png)
+![Sarnath Attractions](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png)
 *Sarnath's major attractions within the archaeological complex*
 
 ---
@@ -180,7 +180,7 @@ These 5 attractions form the core **Sarnath sightseeing** experience—skip thes
 
 ### 1. Dhamek Stupa: Sarnath's Iconic Monument
 
-![Dhamek Stupa](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png)
+![Dhamek Stupa](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png)
 
 **Historical Significance:**
 
@@ -493,7 +493,7 @@ Sarnath's unique feature is its **10+ international Buddhist temples**, each rep
 
 #### 6. Thai Temple (Wat Thai Sarnath)
 
-![Thai Temple Architecture](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashvishwanath-outside-p.jpeg)
+![Thai Temple Architecture](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashvishwanath-outside-p.jpeg)
 
 **Architecture Style**: Traditional Thai Buddhist (Rattanakosin period)
 

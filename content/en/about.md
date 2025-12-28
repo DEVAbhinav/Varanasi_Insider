@@ -4,7 +4,7 @@ slug: "about"
 date: "2025-07-28"
 author: "Utkarsh Pandey"
 description: "Meet Banarasi Kashitaxi, a family-run Varanasi taxi service since 1998. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/aboutUs.svg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/aboutUs.svg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/about"
 tags: ["about us", "our story", "Varanasi taxi", "Vinayak Travels Tour", "safe taxi Varanasi"]
@@ -18,7 +18,7 @@ metaDescription: "Discover the story of Banarasi Kashitaxi, a family-run Varanas
 
 I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into a lifeline for pilgrims landing at Varanasi Junction. What began as a modest **Vinayak Travels Tour** counter in 1998 is now **Banarasi Kashitaxi**: a tech‑enabled fleet serving 30+ cities across Uttar Pradesh and Bihar, with special focus on women‑only Pink Taxis and curated Buddhist Circuit tours.
 
-![Women-driven Pink Taxi in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg "Women-driven Pink Taxi in Varanasi")
+![Women-driven Pink Taxi in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg "Women-driven Pink Taxi in Varanasi")
 
 ---
 
@@ -42,7 +42,7 @@ I grew up watching my father **Sudhir Pandey** turn a single Ambassador car in
 4. **Self‑Drive Scooters & Bikes** – Pick‑up at Sigra garage; photo KYC done offline in 5 min.  
 5. **Custom Tours** – Sunrise boat rides, Dev Deepawali packages, eight‑day Buddhist trail, food walks with local chefs.
 
-![Varanasi ghats panoramic hero](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png "Varanasi ghats at sunrise")
+![Varanasi ghats panoramic hero](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png "Varanasi ghats at sunrise")
 
 ---
 

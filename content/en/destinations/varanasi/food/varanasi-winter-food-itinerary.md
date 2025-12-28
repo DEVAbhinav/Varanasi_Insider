@@ -22,7 +22,7 @@ tags:
   - itineraries
   - travel-planning
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanashi-ghat-evening-P.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanashi-ghat-evening-P.jpeg"
 eyebrow: "January Lifestyle"
 ctaTitle: "Plan your 3-day loop"
 ctaSubtitle: "Hold a full-day cab so warm clothes and shopping bags stay safe."

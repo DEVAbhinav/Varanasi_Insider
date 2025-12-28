@@ -39,8 +39,8 @@ canonical: "https://www.kashitaxi.in/hi/kashi-darshan-tempo-traveller"
 - पूरा रेट देखें: [/hi/tempo-traveller-rates-varanasi](/hi/tempo-traveller-rates-varanasi)
 
 ## वाहन फ़ोटो
-![Tempo Front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "काशी दर्शन वाहन")
-![Tempo Inside](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "सीनियर व परिवार अनुकूल सीटिंग")
+![Tempo Front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "काशी दर्शन वाहन")
+![Tempo Inside](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "सीनियर व परिवार अनुकूल सीटिंग")
 
 ## काशी दर्शन मुख्य स्थान (कस्टमाइज़ेबल)
 - **काटेश्वर / काशी विश्वनाथ मंदिर** – Godowlia ड्रॉप; पैदल मार्ग छोटा (मोबाइल/बैग लॉकर्स)

@@ -24,9 +24,9 @@ const getHomeSchema = (site) => ({
       name: 'Varanasi Taxi & Tempo Traveller Service | Vinayak Travels',
       alternateName: ['Varanasi Taxi', 'Varanasi Travels', 'Varanasi Tour', 'Vinayak Travels Varanasi', 'Tempo Traveller Varanasi', 'Varanasi Cab Service'],
       url: `${site}/`,
-      logo: `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg`,
+      logo: `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg`,
       image: [
-        `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png`,
+        `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`,
         `${site}/images/taxi-varanasi.jpg`,
         `${site}/images/kashi-taxi-service.jpg`
       ],

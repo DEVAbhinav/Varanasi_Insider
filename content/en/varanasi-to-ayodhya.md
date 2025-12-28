@@ -5,7 +5,7 @@ date: "2025-08-07"
 lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogAyodhya.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg"
 metaTitle: "Varanasi to Ayodhya: 200km, 4hr | Taxi ₹2,500 One-Way [2026]"
 metaDescription: "Varanasi to Ayodhya = 200km, 4 hours. Taxi ₹2,500 one-way, ₹4,500 return. Ram Mandir darshan + Saryu Aarti same day. Book: 9450301573"
 description: "Build your 2025 Kashi → Ayodhya pilgrimage with door-to-door taxi fares, darshan slot checklist, Prayagraj add-on, and Sarayu aarti hacks locals trust."
@@ -29,7 +29,7 @@ relatedPosts:
 
 # Your Ultimate Varanasi to Ayodhya Tour Package Guide
 
-![Devotees arriving in Ayodhya by train for Ram Mandir darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTrain1.jpg "One of the convenient ways to reach Ayodhya from Varanasi is by train")
+![Devotees arriving in Ayodhya by train for Ram Mandir darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTrain1.jpg "One of the convenient ways to reach Ayodhya from Varanasi is by train")
 
 Varanasi (Kashi) and Ayodhya rank among Hinduism’s **Sapta Puri**—the seven holy cities said to grant liberation. A **Kashi Ayodhya pilgrimage tour** is a sacred journey many undertake. Ayodhya, the birthplace of Lord Rama on the banks of the Sarayu, pulses with devotion, while Kashi, Lord Shiva’s city on the Ganga, is famed for its ghats and the Kashi Vishwanath Temple. A combined Varanasi–Ayodhya pilgrimage lets devotees earn immense punya by bathing in both sacred rivers and offering prayers at these timeless shrines.
 
@@ -37,7 +37,7 @@ Varanasi (Kashi) and Ayodhya rank among Hinduism’s **Sapta Puri**—the seven 
 
 ## Varanasi to Ayodhya: Distance, Timings & Travel Options
 
-![Private cab ready for the Varanasi to Ayodhya pilgrimage road run](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTaxi1.jpg "Comfortable road transfers for the Kashi → Ayodhya route")
+![Private cab ready for the Varanasi to Ayodhya pilgrimage road run](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTaxi1.jpg "Comfortable road transfers for the Kashi → Ayodhya route")
 
 Understanding the **Varanasi Ayodhya distance by road** and other travel options is key to planning your trip.
 

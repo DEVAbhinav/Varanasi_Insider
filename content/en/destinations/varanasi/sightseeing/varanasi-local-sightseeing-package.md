@@ -5,7 +5,7 @@ date: "2025-11-21"
 lastUpdated: "2025-11-21"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 metaTitle: "Varanasi Local Sightseeing Package ₹1,800 | Book Cab Tour 2025"
 metaDescription: "Book Varanasi local sightseeing package from ₹1,800. Half-day & full-day cab tours covering temples, ghats, Sarnath. Sedan, Innova, Tempo Traveller options. Transparent pricing."
 description: "Comprehensive Varanasi local sightseeing packages with pre-designed itineraries. Half-day temple tours from ₹1,800, full-day packages with Sarnath from ₹2,200. Book sedan, SUV, or tempo traveller."
@@ -77,7 +77,7 @@ Planning to explore Varanasi's spiritual heritage without the hassle of navigati
 
 Whether you have just 4 hours or want a comprehensive full-day experience, we provide sedan, SUV, and tempo traveller options with experienced local drivers who know every temple lane and hidden ghat.
 
-![Varanasi ghats panoramic view during sightseeing tour](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi local sightseeing tour covering ghats")
+![Varanasi ghats panoramic view during sightseeing tour](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi local sightseeing tour covering ghats")
 
 ---
 

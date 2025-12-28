@@ -19,7 +19,7 @@ tags:
   - silk
   - souvenirs
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
 eyebrow: "Shopping Guide"
 ctaTitle: "Planning a Shopping Spree?"
 ctaSubtitle: "Book a December-ready full-day taxi to loop Madhuban, Thatheri Bazar, and airport pickups without stress."
@@ -45,7 +45,7 @@ ctaSubtitle: "Book a December-ready full-day taxi to loop Madhuban, Thatheri Baz
 
 Banarasi silk sarees represent over 400 years of continuous textile tradition. Weavers in Varanasi maintain craft techniques passed through generations – knowledge encoded in fingers and muscle memory. Each saree embodies philosophy, patience, and an intimate relationship between artisan and material.
 
-![Kashi Vishwanath temple area](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashivishwanath-outside-l.jpeg "Shopping lanes near Kashi Vishwanath lead to silk markets")
+![Kashi Vishwanath temple area](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashivishwanath-outside-l.jpeg "Shopping lanes near Kashi Vishwanath lead to silk markets")
 
 ### Understanding Banarasi Saree Varieties
 
@@ -256,7 +256,7 @@ Banarasi silk sarees represent over 400 years of continuous textile tradition. W
 
 ### Shopping Strategy for December
 
-![Evening ghat view from shopping zones](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanashi-ghat-evening-P.jpeg "Evening ghats after a successful shopping day")
+![Evening ghat view from shopping zones](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanashi-ghat-evening-P.jpeg "Evening ghats after a successful shopping day")
 
 **Half-Day Shopping Itinerary:**
 - **9:30 AM:** Meet your pre-booked taxi at hotel, head straight to Madhuban Wholesale Market (cool, less crowded mornings).

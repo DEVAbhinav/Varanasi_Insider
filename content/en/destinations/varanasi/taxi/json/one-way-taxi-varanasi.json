@@ -130,7 +130,7 @@
             "@type": "Product",
             "name": "Airport Round-Trip Sedan Package",
             "description": "Includes airport pickup and drop with sedan",
-            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
+            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",
@@ -157,7 +157,7 @@
             "@type": "Product",
             "name": "City Tour Round-Trip Package",
             "description": "Includes city tour, airport transfers, and daily transportation",
-            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
+            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",
@@ -192,7 +192,7 @@
         "@id": "https://www.kashitaxi.in/#org"
       },
       "category": "One-Way Taxi Service",
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

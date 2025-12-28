@@ -5,7 +5,7 @@ date: "2025-08-07"
 lastUpdated: "2025-12-24"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"
 metaTitle: "Varanasi to Vindhyachal Distance: 65 KM | 1.5 Hrs | Taxi ₹2,000 | Bus ₹80 [Dec 2025]"
 metaDescription: "Varanasi to Vindhyachal: 65 km, 1.5 hours via NH19. Taxi Rs.2,000 (sedan), Bus Rs.80. Same-day Vindhyavasini darshan + Trikon Yatra. Dharamshala from Rs.500."
 description: "Updated Dec 2025: Varanasi to Vindhyachal distance 65 km, travel time 1.5 hours. Taxi ₹2,000, Bus ₹80. Navratri crowd tips, darshan timings, dharamshala booking."
@@ -107,7 +107,7 @@ Quick Fare Grid 2025
 
 > **TL;DR:** Varanasi to Vindhyachal taxi fares now start at ₹2,000 for an 8-hour sedan covering Maa Vindhyavasini, Kali Khoh, and Ashtabhuja via the 65 km Mirzapur highway. Leave by 7 AM, reserve your taxi on WhatsApp, and pre-brief pandas if you want a smooth Trikon Parikrama without surprise charges.
 
-![Cab crossing the Mirzapur bridge en route to Vindhyachal darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg "Road trip from Varanasi to Vindhyachal – a popular Shakti Peeth pilgrimage")
+![Cab crossing the Mirzapur bridge en route to Vindhyachal darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg "Road trip from Varanasi to Vindhyachal – a popular Shakti Peeth pilgrimage")
 
 ## The Kashi-Vindhyachal Spiritual Connection
 
@@ -117,7 +117,7 @@ Vindhyachal, a revered Shakti Peeth near Mirzapur, is home to the powerful Maa V
 
 ## Varanasi to Vindhyachal: Distance, Route & Travel Options
 
-![Devotees walking into Maa Vindhyavasini temple corridor](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal2.jpg "Vindhyachal/Mirzapur region – tranquil ghats and temple areas")
+![Devotees walking into Maa Vindhyavasini temple corridor](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg "Vindhyachal/Mirzapur region – tranquil ghats and temple areas")
 
 The **Varanasi to Vindhyachal distance** is approximately 65-70 km, making it an ideal destination for a day trip. The journey usually takes about 1.5 to 2 hours.
 

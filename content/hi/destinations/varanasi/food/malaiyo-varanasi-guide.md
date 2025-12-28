@@ -18,7 +18,7 @@ tags:
   - street food
   - winter special
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
 eyebrow: "खानपान का रत्न"
 ctaTitle: "फूड वॉक प्लान कर रहे हैं?"
 ctaSubtitle: "सुबह 5 बजे गोडोलिया/चौक ड्रॉप के लिए कैब बुक करें और नाश्ता ट्रेल शुरू करें।"
@@ -42,7 +42,7 @@ ctaSubtitle: "सुबह 5 बजे गोडोलिया/चौक ड्
 
 मलाईयो (माखन मलई/निमिष) ऐसा फोम है जो सिर्फ़ ठंडी रात, खुले आसमान और धैर्य के मेल से जन्म लेता है। दूध को रातभर आकाश के नीचे रखा जाता है ताकि ओस और ठंडक उसे बादलों जैसा हल्का बना दे।
 
-![सुबह का घाट](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "सुबह की घड़ियाँ और मलाईयो")
+![सुबह का घाट](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg "सुबह की घड़ियाँ और मलाईयो")
 
 ### विज्ञान क्या कहता है?
 
@@ -88,7 +88,7 @@ ctaSubtitle: "सुबह 5 बजे गोडोलिया/चौक ड्
 - **16-22 दिसंबर:** festival crowd, पर गुणवत्ता बनी रहती है।
 - **23-31 दिसंबर:** सैलानी बहुत, लाइन लंबी, लेकिन स्वाद बरकरार।
 
-![सुबह की नाव + फूड वॉक](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg "मलाईयो के साथ गंगा वॉक")
+![सुबह की नाव + फूड वॉक](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-boat-evening-p.jpeg "मलाईयो के साथ गंगा वॉक")
 
 ### अनुभव कैसे लें?
 

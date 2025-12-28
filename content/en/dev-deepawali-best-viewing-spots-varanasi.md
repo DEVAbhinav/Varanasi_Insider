@@ -5,7 +5,7 @@ date: "2025-09-30"
 lastUpdated: "2025-09-30"
 author: "Kamal Nayan Singh"
 lang: en
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 description: "Discover 5 secret Dev Deepawali viewing spots in Varanasi beyond crowded Dashashwamedh Ghat. Insider guide to less crowded ghats, opposite bank views & rooftop locations for November 5, 2025."
 tags:
   - dev deepawali viewing spots
@@ -38,7 +38,7 @@ relatedPosts:
 
 <!-- Moved featured image below TL;DR to prioritize summary per content guidelines. -->
 
-![Varanasi Ghats Overview](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Panoramic view of Varanasi ghats - discover peaceful alternatives to crowded Dashashwamedh for Dev Deepawali viewing")
+![Varanasi Ghats Overview](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "Panoramic view of Varanasi ghats - discover peaceful alternatives to crowded Dashashwamedh for Dev Deepawali viewing")
 
 ## Why You Should Avoid Dashashwamedh Ghat on Dev Deepawali
 

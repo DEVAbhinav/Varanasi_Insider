@@ -5,7 +5,7 @@ date: "2025-08-07"
 lastUpdated: "2025-12-24"
 author: "अभिनव पांडे"
 lang: "hi"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogVindhyachal.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogVindhyachal.png"
 metaTitle: "बनारस से विंध्याचल दूरी: 65 KM | 1.5 घंटे | टैक्सी ₹2,000 | बस ₹80 [दिसंबर 2025]"
 metaDescription: "बनारस से विंध्याचल: 65 किमी, 1.5 घंटे (NH19)। टैक्सी ₹2,000, बस ₹80। एक दिन में विंध्यवासिनी दर्शन + त्रिकोण यात्रा। धर्मशाला ₹500 से।"
 description: "अपनी वाराणसी से विंध्याचल यात्रा की योजना बनाएं। नवीनतम टैक्सी किराया, विस्तृत एक दिवसीय टूर यात्रा कार्यक्रम और दर्शन का समय जानें। अपनी कैब ऑनलाइन बुक करें!"
@@ -46,7 +46,7 @@ relatedPosts:
 
 **बनारस से विंध्याचल की दूरी लगभग 65–70 किमी है। यात्रा समय: 1.5–2 घंटे।**
 
-![विंध्याचल मार्ग प्रतिनिधि छवि](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg "वाराणसी से विंध्याचल तक सड़क यात्रा - एक लोकप्रिय शक्ति पीठ तीर्थयात्रा")
+![विंध्याचल मार्ग प्रतिनिधि छवि](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg "वाराणसी से विंध्याचल तक सड़क यात्रा - एक लोकप्रिय शक्ति पीठ तीर्थयात्रा")
 
 ## काशी-विंध्याचल आध्यात्मिक संबंध
 
@@ -56,7 +56,7 @@ relatedPosts:
 
 ## वाराणसी से विंध्याचल: दूरी, मार्ग और यात्रा के विकल्प
 
-![विंध्याचल मंदिर परिसर (प्रतिनिधि)](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal2.jpg "विंध्याचल/मिर्जापुर क्षेत्र - शांत घाट और मंदिर क्षेत्र")
+![विंध्याचल मंदिर परिसर (प्रतिनिधि)](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg "विंध्याचल/मिर्जापुर क्षेत्र - शांत घाट और मंदिर क्षेत्र")
 
 **वाराणसी से विंध्याचल की दूरी** लगभग 65-70 किमी है, जो इसे एक दिन की यात्रा के लिए एक आदर्श गंतव्य बनाती है। यात्रा में आमतौर पर लगभग 1.5 से 2 घंटे लगते हैं।
 

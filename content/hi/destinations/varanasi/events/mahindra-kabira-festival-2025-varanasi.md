@@ -18,7 +18,7 @@ tags:
   - music
   - festivals
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "संगीत और अध्यात्म"
 ctaTitle: "फेस्टिवल पास मिल गया?"
 ctaSubtitle: "गुलेरिया कोठी या शिवाला घाट के लिए एयरपोर्ट-टू-घाट कैब अभी ब्लॉक करें।"
@@ -43,7 +43,7 @@ location:
 **वेन्यू:** सुबह गुलेरिया कोठी, शाम शिवाला घाट + क्यूरेटेड वॉक्स  
 **एडिशन:** 9वाँ संस्करण, सीमित सीटों वाला बुटीक फेस्टिवल
 
-![शाम की नाव और कॉन्सर्ट](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg "महिंद्रा कबीर शाम सत्र")
+![शाम की नाव और कॉन्सर्ट](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg "महिंद्रा कबीर शाम सत्र")
 
 ### फेस्टिवल की दृष्टि
 
@@ -74,7 +74,7 @@ location:
 - आध्यात्मिक माहौल + उच्चस्तरीय ध्वनि।
 - दिसंबर का मौसम (सुबह 10°C, शाम 15-18°C) – गंगा किनारे बैठना सुखद।
 
-![गंगा आरती समारोह](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg "गंगा आरती के बीच संगीत")
+![गंगा आरती समारोह](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti-ceremony-2025.jpg "गंगा आरती के बीच संगीत")
 
 **फोटोग्राफी नोट:** प्रदर्शन के दौरान सीमित फोटो की अनुमति, गाइडलाइन का पालन करें।
 

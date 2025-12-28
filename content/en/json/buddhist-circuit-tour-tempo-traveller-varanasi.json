@@ -199,7 +199,7 @@
       "inLanguage": "en-IN",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png"
+        "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png"
       },
       "about": {
         "@id": "https://www.kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi#trip"
@@ -219,7 +219,7 @@
         "@id": "https://www.kashitaxi.in#organization"
       },
       "category": "Buddhist Pilgrimage Tour",
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png",
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

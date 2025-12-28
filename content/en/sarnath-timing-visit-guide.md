@@ -5,7 +5,7 @@ date: "2025-10-27"
 lastUpdated: "2025-12-24"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg"
 metaTitle: "Sarnath Temple Varanasi: Timing 6 AM-6 PM | Entry Rs.25 | Museum Closed Fridays [Dec 2025]"
 metaDescription: "Sarnath timing TODAY: Site 6 AM-6 PM (daily), Museum 9 AM-5 PM (closed Fridays). Entry Rs.25. Best time: Oct-Mar. 10 km from Varanasi, 30 min drive. Complete guide."
 description: "Comprehensive Sarnath visit timing guide covering archaeological site hours, museum timing (closed Fridays), Buddhist temple schedules, best months to visit Sarnath, optimal times of day, seasonal weather, and complete visitor itineraries."
@@ -53,7 +53,7 @@ faqSchema:
 
 Planning your **Sarnath visit** timing correctly can make the difference between a rushed, uncomfortable experience and a peaceful, spiritually enriching pilgrimage. This comprehensive guide covers all **Sarnath timing** details—from daily opening hours to seasonal weather patterns, from temple prayer schedules to complete itineraries—helping you plan the perfect visit to this sacred Buddhist site.
 
-![Sarnath Early Morning](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg)
+![Sarnath Early Morning](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg)
 *Peaceful early morning atmosphere ideal for Sarnath visit*
 
 ---

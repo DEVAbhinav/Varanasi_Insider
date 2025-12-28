@@ -38,7 +38,7 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
 
 ## 2025 Fare Comparison — Airport ➜ City (Zone B: Ghats / Old City)
 
-![A sedan taxi at Varanasi airport](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png "A sedan taxi at Varanasi airport")
+![A sedan taxi at Varanasi airport](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png "A sedan taxi at Varanasi airport")
 
 | Service | Destination (Ghats Area) | Fare (Jul 2025) |
 | :-- | :-- | :-- |
@@ -119,7 +119,7 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
 3. **Lost item?** Call airport police with the slip number.  
 4. **Airport Police Helpline:** **+91‑94544 01119**
 
-![UP Police Logo](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/up-police-logo.png "UP Police Logo")
+![UP Police Logo](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/up-police-logo.png "UP Police Logo")
 
 ---
 
@@ -144,7 +144,7 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
     </div>
   </div>
   <div class="pink-media">
-    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg" alt="Pink Taxi service at Varanasi airport with lady chauffeur" />
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg" alt="Pink Taxi service at Varanasi airport with lady chauffeur" />
   </div>
 </div>
 

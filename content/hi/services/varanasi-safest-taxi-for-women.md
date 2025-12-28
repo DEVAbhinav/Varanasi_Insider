@@ -7,8 +7,8 @@ metaTitle: "वाराणसी सुरक्षित टैक्सी �
 metaDescription: "महिलाओं के लिए वाराणसी की सबसे सुरक्षित टैक्सी: पुलिस वेरीफाइड ड्राइवर, वैकल्पिक महिला चालक, GPS लाइव ट्रैकिंग, SOS, लेट नाइट एयरपोर्ट पिकअप। अभी सुरक्षित बुकिंग।"
 description: "Solo महिला / छात्रा / पत्रकार / तीर्थयात्री के लिए वाराणसी सुरक्षित टैक्सी गाइड – मल्टी लेयर सुरक्षा, पिंक टैक्सी विकल्प, लेट नाइट प्रोटोकॉल।"
 keywords: ["वाराणसी सुरक्षित टैक्सी","वाराणसी महिला टैक्सी","Varanasi pink taxi hindi","महिला ड्राइवर टैक्सी वाराणसी","late night airport taxi varanasi","safe cab varanasi women","women safety cab kashi"]
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/female-traveller-sadhu.jpeg"
-heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/female-traveller-sadhu.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/female-traveller-sadhu.jpeg"
+heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/female-traveller-sadhu.jpeg"
 schemaType: "Service"
 serviceCategory: "Women-Centric Transportation"
 structuredData: true

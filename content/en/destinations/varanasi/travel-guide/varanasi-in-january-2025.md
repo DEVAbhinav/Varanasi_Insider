@@ -27,7 +27,7 @@ tags:
   - makar-sankranti
   - festivals
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
 eyebrow: "January 2025 Guide"
 ctaTitle: "Book Your January Trip Now"
 ctaSubtitle: "Pre-book airport transfers and Sarnath day trips with fixed fares."
@@ -76,7 +76,7 @@ faqSchema:
 | **Sunset Time** | ~5:30 PM |
 | **Season Status** | **PEAK TOURIST SEASON** ✓ |
 
-![Varanasi January Weather Overview - Temperature and conditions at a glance](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Varanasi weather January Lscape.jpeg "Varanasi January Weather Infographic")
+![Varanasi January Weather Overview - Temperature and conditions at a glance](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Varanasi weather January Lscape.jpeg "Varanasi January Weather Infographic")
 
 ## Is January the Best Time to Visit Varanasi?
 
@@ -190,7 +190,7 @@ January offers the **perfect combination** of three factors that make it superio
 - Thermal innerwear
 - Thick woolen socks (for barefoot temple visits)
 
-![Varanasi January Packing Checklist - Essential items to pack](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Varanasi-Jan-checklist.jpeg "What to Pack for Varanasi in January")
+![Varanasi January Packing Checklist - Essential items to pack](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Varanasi-Jan-checklist.jpeg "What to Pack for Varanasi in January")
 
 ## January Weather in Varanasi: Day-by-Day Breakdown
 
@@ -274,7 +274,7 @@ The Old City lanes are long and confusing. For seniors:
 
 ### Makar Sankranti (January 14, 2025) — The Highlight
 
-![Makar Sankranti 2025 Timeline - Hour by hour guide to the festival day](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Makarsankranti-timeline-potrait.jpeg "Makar Sankranti Day Timeline in Varanasi")
+![Makar Sankranti 2025 Timeline - Hour by hour guide to the festival day](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Makarsankranti-timeline-potrait.jpeg "Makar Sankranti Day Timeline in Varanasi")
 
 **What is Makar Sankranti?**
 

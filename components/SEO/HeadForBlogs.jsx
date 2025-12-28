@@ -33,7 +33,7 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
 
   const ogImage = postData.featuredImage
     ? (postData.featuredImage.startsWith('http') ? postData.featuredImage : `${SITE}${postData.featuredImage}`)
-    : `${SITE}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png`
+    : `${SITE}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`
 
   return (
     <Head>

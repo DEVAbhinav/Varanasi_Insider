@@ -5,7 +5,7 @@ date: "2025-08-02"
 lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 metaTitle: "Best Time to Visit Varanasi: Oct-Mar Best | Avoid Apr-Jun"
 metaDescription: "Oct-Mar = best time (15-25°C). Avoid Apr-Jun (45°C heat). Dev Deepawali Nov 24, Shivaratri Feb 15. Month-wise weather + festival calendar 2026 →"
 description: "Month-by-month 2025 Varanasi weather guide with festival dates, crowd levels, and booking tips for hotels and boats."
@@ -116,7 +116,7 @@ Varanasi’s experience changes dramatically by season. Your choice affects **we
 * **Feels like:** Perfect for long walks; soft light and mist over the Ganga at sunrise; magical evening **Ganga Aarti** viewing.
 * **Why go:** The best combination of comfortable weather, vibrant culture, and ideal photography conditions.
 
-![Winter sunrise boat cutting through Varanasi fog in peak season](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "A boatman on the Ganga during a foggy winter morning.")
+![Winter sunrise boat cutting through Varanasi fog in peak season](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg "A boatman on the Ganga during a foggy winter morning.")
 
 ### Summer in Varanasi (April–June) – Off-Season
 
@@ -130,7 +130,7 @@ Varanasi’s experience changes dramatically by season. Your choice affects **we
 * **Feels like:** Dramatic skies and freshly washed ghats, but the river swells and can flood the lower steps.
 * **Note:** **Ganga boat rides may be suspended** for safety when the water level is high. Keep your plans flexible.
 
-![Monsoon storm clouds gathering above the Ganga boat lane](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "A boat ride under dramatic monsoon skies in Varanasi.")
+![Monsoon storm clouds gathering above the Ganga boat lane](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "A boat ride under dramatic monsoon skies in Varanasi.")
 
 ---
 
@@ -140,7 +140,7 @@ Varanasi’s experience changes dramatically by season. Your choice affects **we
 * **Mahashivratri (February–March):** Lord Shiva’s night is celebrated with grand processions, a large congregation of sadhus, and intense devotion, drawing huge crowds.
 * **Ganga Mahotsav (November):** A five-day festival of classical music and dance held on the riverfront, culminating around Dev Deepawali.
 
-![Dev Deepawali diyas lighting every Varanasi ghat step](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-wallpaper-p.jpeg "Varanasi's ghats lit up with thousands of lamps for Dev Deepawali.")
+![Dev Deepawali diyas lighting every Varanasi ghat step](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-wallpaper-p.jpeg "Varanasi's ghats lit up with thousands of lamps for Dev Deepawali.")
 
 > Planning around festivals? See our guide to **[Ganga Aarti Timings](/en/dashashwamedh-ghat-ganga-aarti-timing)**.
 

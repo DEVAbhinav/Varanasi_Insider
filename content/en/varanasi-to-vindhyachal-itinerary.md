@@ -5,7 +5,7 @@ date: "2025-09-17"
 lastUpdated: "2025-09-17"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Lux-Tempo-Travellar-square.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Lux-Tempo-Travellar-square.jpeg"
 description: "Expert 1-day and 2-day Varanasi to Vindhyachal itinerary guide for 2025 with timings, Trikon Parikrama sequence, Navratri strategy, meal suggestions, crowd tips, and sacred add-ons."
 keywords: "varanasi to vindhyachal itinerary, 1 day varanasi to vindhyachal trip, varanasi to vindhyachal day trip, vindhyachal itinerary, trikon parikrama itinerary, navratri vindhyachal itinerary, 2 day vindhyachal itinerary"
 tags:

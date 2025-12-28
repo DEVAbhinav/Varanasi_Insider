@@ -91,7 +91,7 @@
             "@type": "Product",
             "name": "Sedan Airport to Taj Gateway Transfer",
             "description": "AC Sedan with professional driver for Taj Gateway guests",
-            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
+            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",
@@ -214,7 +214,7 @@
         "@id": "https://www.kashitaxi.in/#org"
       },
       "category": "Airport Hotel Transfer",
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

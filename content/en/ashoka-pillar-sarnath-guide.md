@@ -5,7 +5,7 @@ date: "2025-10-27"
 lastUpdated: "2025-10-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png"
 metaTitle: "Ashoka Pillar Sarnath Guide 2025: Original Ashok Stambh Location, Lion Capital & Edicts"
 metaDescription: "Complete Ashoka Pillar Sarnath guide: Original Ashok Stambh location, Lion Capital (India's National Emblem), Ashoka's edicts, Sarnath pillar history, visiting tips, timings & photography guide 2025."
 description: "Comprehensive guide to the original Ashoka Pillar Sarnath covering the historic Ashok Stambh location, famous Lion Capital, Ashoka's Buddhist edicts, Sarnath pillar inscriptions, visiting information, and historical significance."
@@ -51,7 +51,7 @@ The **Ashoka Pillar Sarnath** (also known as **Ashok Stambh Sarnath** or the **o
 
 This comprehensive guide covers everything about the **Ashoka Pillar Sarnath**: its original location, the iconic Lion Capital, Ashoka's Buddhist edicts, historical significance, and practical visiting information.
 
-![Ashoka Pillar Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png)
+![Ashoka Pillar Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png)
 *The original Ashoka Pillar Sarnath location near Dhamek Stupa*
 
 ---
@@ -140,7 +140,7 @@ Despite the destruction, the **Sarnath pillar** remains at its authentic locatio
 
 ## Lion Capital from Ashoka Pillar Sarnath: India's National Emblem
 
-![Lion Capital Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png)
+![Lion Capital Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png)
 *The magnificent Lion Capital, originally atop Ashoka Pillar Sarnath*
 
 ### The Most Famous Sculpture in Indian History
@@ -241,7 +241,7 @@ The Lion Capital from **Ashoka Pillar Sarnath** is displayed on a circular platf
 
 ## Ashoka's Edicts on Sarnath Pillar: Buddhist Teachings in Stone
 
-![Ashoka Pillar inscriptions](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png)
+![Ashoka Pillar inscriptions](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png)
 *Ancient Brahmi script inscriptions on the original Sarnath pillar*
 
 ### What the Sarnath Pillar Inscriptions Say

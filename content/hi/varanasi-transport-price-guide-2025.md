@@ -3,7 +3,7 @@ title: "2025 वाराणसी परिवहन मूल्य गाइ�
 slug: "varanasi-transport-price-guide-2025"
 date: "2025-07-24"
 author: "अभिनव पांडे"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/vnsayopyg.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/vnsayopyg.png"
 description: "वाराणसी एयरपोर्ट टैक्सी मूल्य, केवला-महिलाओं के लिए पिंक टैक्सी, लखनऊ → वाराणसी किराया, गंगा आरती नाव बुकिंग मूल्य, एक-दिवसीय टूर कैब शुल्‍क, अस्सी घाट ↔ एयरपोर्ट दूरी, और वाराणसी → बोधगया टैक्सी लागत के लिए आपकी एक-स्टॉप गाइड। www.kashitaxi.in पर तुरंत बुक करें या 94503 01573 पर कॉल करें।"
 tags: ["वाराणसी एयरपोर्ट टैक्सी मूल्य", "गंगा आरती नाव बुकिंग मूल्य", "वाराणसी पिंक टैक्सी महिलाओं के लिए"]
 ---
@@ -25,7 +25,7 @@ tags: ["वाराणसी एयरपोर्ट टैक्सी मू
 
 ## [1] वाराणसी एयरपोर्ट टैक्सी किराया (2025 अपडेट)
 
-![वाराणसी एयरपोर्ट पर सेडान टैक्सी](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png "वाराणसी एयरपोर्ट से शहर के लिए सेडान टैक्सी")
+![वाराणसी एयरपोर्ट पर सेडान टैक्सी](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png "वाराणसी एयरपोर्ट से शहर के लिए सेडान टैक्सी")
 
 | वाहन | प्री-पेड स्टैंड | उबर/ओला (ऑफ-पीक) | नोट्स |
 |---|---|---|---|
@@ -41,7 +41,7 @@ tags: ["वाराणसी एयरपोर्ट टैक्सी मू
 
 ## [2] वाराणसी पिंक टैक्सी - महिलाओं के लिए सुरक्षित सवारी
 
-![वाराणसी में महिलाओं के लिए पिंक टैक्सी](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg "वाराणसी में केवल महिलाओं के लिए पिंक टैक्सी सेवा")
+![वाराणसी में महिलाओं के लिए पिंक टैक्सी](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg "वाराणसी में केवल महिलाओं के लिए पिंक टैक्सी सेवा")
 
 *दिसंबर 2025 में लॉन्च हो रहा है (पायलट स्लॉट हमारे पोर्टल पर पहले से ही लाइव हैं)।*
 
@@ -70,7 +70,7 @@ tags: ["वाराणसी एयरपोर्ट टैक्सी मू
 
 ## [4] गंगा आरती नाव बुकिंग और किराया (दशाश्वमेध घाट)
 
-![गंगा आरती के लिए पारंपरिक बजरा नाव](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-bajra.jpeg "दशाश्वमेध घाट पर गंगा आरती देखने के लिए बजरा नाव")
+![गंगा आरती के लिए पारंपरिक बजरा नाव](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-bajra.jpeg "दशाश्वमेध घाट पर गंगा आरती देखने के लिए बजरा नाव")
 
 | नाव | क्षमता | समावेशन | दर (नवंबर 2025 तक) |
 |---|---|---|---|
@@ -85,7 +85,7 @@ tags: ["वाराणसी एयरपोर्ट टैक्सी मू
 
 ## [5] वाराणसी डे टूर कैब शुल्क (12 घंटे/120 किमी)
 
-![वाराणसी डे टूर के लिए टेम्पो ट्रैवलर](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "वाराणसी में पूरे दिन के दर्शन के लिए टेम्पो ट्रैवलर")
+![वाराणसी डे टूर के लिए टेम्पो ट्रैवलर](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "वाराणसी में पूरे दिन के दर्शन के लिए टेम्पो ट्रैवलर")
 
 | वाहन | पैकेज | अतिरिक्त किमी | रात्रि शुल्क (>22:00) |
 |---|---|---|---|

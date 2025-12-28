@@ -6,7 +6,7 @@ const packages = [
 	{
 		slug: 'varanasi-local-darshan',
 		title: 'Varanasi Local Darshan',
-		image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashi-temple-400x600.jpeg',
+		image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashi-temple-400x600.jpeg',
 		price: '₹1500',
 		width: 400,
 		height: 600,
@@ -14,7 +14,7 @@ const packages = [
 	{
 		slug: 'airport-pickup-drop',
 		title: 'Airport Pickup & Drop',
-		image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg',
+		image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg',
 		price: '₹950',
 		width: 600,
 		height: 400,
@@ -22,7 +22,7 @@ const packages = [
 	{
 		slug: 'prayagraj-day-tour',
 		title: 'Prayagraj Day Tour',
-		image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg',
+		image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg',
 		price: '₹3500',
 		width: 600,
 		height: 400,

@@ -7,7 +7,7 @@ export default function ServiceHero({ title, subtitle, heroImage, phone }) {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src={heroImage || 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-wallpaper-p.jpeg'}
+          src={heroImage || 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-wallpaper-p.jpeg'}
           alt={title}
           fill
           style={{ objectFit: 'cover' }}

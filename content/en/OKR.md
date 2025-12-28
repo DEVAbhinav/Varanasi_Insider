@@ -26,10 +26,10 @@ Kashi Taxi is transitioning from an asset-heavy, unprofitable taxi service to an
 
 ### Visual Overview
 
-![Kashi Taxi Q1-Q4 2026 Metrics](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashi-taxi-metrics.png)
+![Kashi Taxi Q1-Q4 2026 Metrics](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashi-taxi-metrics.png)
 *Figure 1: Key performance metrics showing GMV, Commission, Bookings, and Customer growth trajectory across Q1-Q4 2026*
 
-![Asset-Light Transition Strategy](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/asset-light-transition.png)
+![Asset-Light Transition Strategy](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/asset-light-transition.png)
 *Figure 2: Revenue transition from owned vehicles (red) to partner-operated model (blue), achieving 92% partner revenue by Q4*
 
 1. **Building a digital platform** that enables partner vehicles to operate under the Kashi Taxi brand
@@ -488,7 +488,7 @@ The Kashi market is the starting point. Dominating locally (80%+ market share) p
 
 ## QUARTERLY BREAKDOWN & DETAILED MILESTONES
 
-![Quarterly Implementation Timeline](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/quarterly-timeline.png)
+![Quarterly Implementation Timeline](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/quarterly-timeline.png)
 *Figure 3: Quarterly milestones and implementation timeline for 2026*
 
 ### **Q1 2026: FOUNDATION PHASE (Jan-Mar)**

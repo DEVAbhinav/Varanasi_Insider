@@ -13,7 +13,7 @@ keywords:
   - ram mandir priority darshan travel from varanasi
   - varanasi to ram mandir day trip price
 slug: varanasi-to-ram-mandir-tempo-traveller
-featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogAyodhya.jpg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg
 relatedPosts:
   - varanasi-to-ayodhya-tempo-traveller
   - varanasi-to-ayodhya-day-trip-tempo-traveller
@@ -36,7 +36,7 @@ Visiting Shri Ram Lala at Ayodhya is no longer an abstract dream—our ground te
 
 > **Quick Summary:** Same-day return, 12- or 17-seater Traveller, ₹14,500 onwards, priority darshan briefing, vetted priest contact, and backup driver network for high-demand festival clusters (Ram Navami, Kartik Purnima, Deepotsav).
 
-| ![Tempo Traveller queued near Ayodhya Ram Mandir access gate pre-dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaBus1.jpg "Pre-dawn arrival at Ram Mandir parking") | ![Pilgrims boarding premium Traveller for Ram Mandir darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaBus2.jpg "Premium Traveller ready for Ram Mandir darshan") | ![Ayodhya skyline over Saryu River at sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogAyodhya.jpg "Ayodhya sunrise over Saryu before darshan") |
+| ![Tempo Traveller queued near Ayodhya Ram Mandir access gate pre-dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus1.jpg "Pre-dawn arrival at Ram Mandir parking") | ![Pilgrims boarding premium Traveller for Ram Mandir darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus2.jpg "Premium Traveller ready for Ram Mandir darshan") | ![Ayodhya skyline over Saryu River at sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg "Ayodhya sunrise over Saryu before darshan") |
 | --- | --- | --- |
 
 ## Why Book a Dedicated Ram Mandir Tempo Traveller Package?
@@ -119,7 +119,7 @@ All packages include fuel, toll, UP state tax, Ayodhya parking, driver allowance
 - Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Ram%20Mandir%20Tempo%20Traveller%20Booking
 
-![Priority Ram Mandir tempo traveller lineup before dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaBus1.jpg "Priority Ram Mandir tempo traveller lineup before dawn")
+![Priority Ram Mandir tempo traveller lineup before dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus1.jpg "Priority Ram Mandir tempo traveller lineup before dawn")
 
 ## Ready for an Unforgettable Ayodhya Ram Mandir Pilgrimage?
 

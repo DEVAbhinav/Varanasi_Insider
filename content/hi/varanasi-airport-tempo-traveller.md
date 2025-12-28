@@ -50,9 +50,9 @@ canonical: "https://www.kashitaxi.in/hi/varanasi-airport-tempo-traveller"
 *शहर सीमा के बाहर / देर रात असामान्य डिटौर पर पूर्व सूचना पर समायोजन।
 
 ## फोटो
-![Airport Tempo Front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "एयरपोर्ट ट्रांसफर वाराणसी टेम्पो ट्रैवलर")
-![Tempo Side](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "साइड प्रोफाइल – लगेज स्पेस")
-![Tempo Inside](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "अंदर – साफ AC सीटें")
+![Airport Tempo Front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "एयरपोर्ट ट्रांसफर वाराणसी टेम्पो ट्रैवलर")
+![Tempo Side](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "साइड प्रोफाइल – लगेज स्पेस")
+![Tempo Inside](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "अंदर – साफ AC सीटें")
 
 ## सामान्य प्रश्न (FAQ)
 **क्या फ्लाइट ट्रैक करते?** हाँ – Delay शामिल, सामान्य इंतजार पर कोई चार्ज नहीं।  

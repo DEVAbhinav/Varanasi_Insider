@@ -50,7 +50,7 @@ faqSchema:
 
 # Varanasi Dussehra 2025 & Ramnagar Ramlila UNESCO Festival Guide: Complete Schedule & Transport
 
-![Varanasi Ghats Festival Season](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi ghats transform during Dussehra 2025 and Ramnagar Ramlila UNESCO festival season with thousands of devotees")
+![Varanasi Ghats Festival Season](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi ghats transform during Dussehra 2025 and Ramnagar Ramlila UNESCO festival season with thousands of devotees")
 
 **Varanasi Dussehra 2025** and **Ramnagar Ramlila** create October's most spectacular spiritual celebration in India's holiest city. As monsoons retreat and the festive season begins, ancient Varanasi transforms into a living theater where gods walk among mortals, UNESCO heritage epic tales unfold on moving stages, and the victory of good over evil is celebrated with unmatched fervor. 
 
@@ -107,7 +107,7 @@ While Ramlilas are performed across North India, Varanasi's versions—particula
 
 ## Ramnagar Ramlila UNESCO Heritage: Complete 2025 Guide
 
-![Varanasi Ghats Overview during Festival Season](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi ghats bustling with festival activity during Ramlila season")
+![Varanasi Ghats Overview during Festival Season](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi ghats bustling with festival activity during Ramlila season")
 
 <div style="background-color: #fff7ed; padding: 1rem; border-left: 4px solid #f97316; margin: 1rem 0;">
 <strong>UNESCO World Heritage Status:</strong> In 2005, the Ramnagar Ramlila was inscribed as a Masterpiece of Oral and Intangible Heritage of Humanity, recognizing its unparalleled authenticity and cultural significance as the world's most authentic Ramayana performance tradition.
@@ -135,7 +135,7 @@ Each evening, audiences physically walk with the performers from location to loc
 
 ### Interactive Map: Following the Divine Journey
 
-![Varanasi Kashi Vishwanath Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple - spiritual heart of Varanasi during Ramlila season")
+![Varanasi Kashi Vishwanath Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple - spiritual heart of Varanasi during Ramlila season")
 
 *The Ramnagar Ramlila follows traditional routes through sacred locations in Varanasi. The moving stage concept transforms the entire city into a living stage where audiences walk with performers from venue to venue, creating an immersive spiritual journey unlike any other festival experience.*
 
@@ -249,7 +249,7 @@ As India's spiritual capital, Varanasi offers the ideal setting to contemplate t
 
 ## Varanasi Festival Transport Booking 2025: Tempo Traveller & Taxi Solutions
 
-![Tempo Traveller for Festival Groups](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg "Comfortable Tempo Travellers perfect for group festival transport in Varanasi")
+![Tempo Traveller for Festival Groups](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg "Comfortable Tempo Travellers perfect for group festival transport in Varanasi")
 
 <div style="background-color: #fee2e2; padding: 1rem; border-left: 4px solid #ef4444; margin: 1rem 0;">
 <strong>Critical Reality Check:</strong> Getting around Varanasi during Ramlila and Dussehra is the biggest challenge you'll face. Crowded streets, limited transport availability, and multiple venue changes can transform magical experiences into logistical nightmares without proper planning.
@@ -266,7 +266,7 @@ As India's spiritual capital, Varanasi offers the ideal setting to contemplate t
 
 ### Reliable Festival Transport Solutions: Sedans to Tempo Travellers
 
-![Luxury Tempo Traveller Interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp_traveller_super_luxury_inside.jpeg "Spacious and comfortable interiors of our premium Tempo Travellers for festival groups")
+![Luxury Tempo Traveller Interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp_traveller_super_luxury_inside.jpeg "Spacious and comfortable interiors of our premium Tempo Travellers for festival groups")
 
 *Need group transport for festivals? Check our complete **[Tempo Traveller group booking guide for Dussehra](/en/tempo-traveller-group-booking-dussehra)** for detailed pricing and availability.*
 
@@ -402,7 +402,7 @@ A: Join in when the crowd chants "Jai Shri Ram" (Victory to Lord Rama), maintain
 
 ### Related October Experiences
 
-![Ganga Aarti Evening Ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg "The famous Ganga Aarti ceremony becomes even more spectacular during festival season")
+![Ganga Aarti Evening Ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg "The famous Ganga Aarti ceremony becomes even more spectacular during festival season")
 
 **Ganga Aarti Enhanced Experience:**
 During festival season, the evening Ganga Aarti at Dashashwamedh Ghat becomes even more spectacular with increased participation and energy.

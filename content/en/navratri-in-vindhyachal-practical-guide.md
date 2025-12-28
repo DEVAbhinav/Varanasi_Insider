@@ -5,7 +5,7 @@ date: "2025-09-16"
 lastUpdated: "2025-09-16"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"
 description: "Complete practical guide for Navratri in Vindhyachal 2025. Get detailed darshan timings, festival schedule, special puja bookings, and essential tips for your spiritual journey to this powerful Shaktipeeth."
 keywords: "navratri in vindhyachal, navratri darshan timings in vindhyachal, vindhyachal navratri 2025, navratri festival vindhyachal, vindhyachal navratri schedule, navratri aarti timings vindhyachal, vindhyachal navratri mela"
 tags:
@@ -46,7 +46,7 @@ faqSchema:
 
 As someone who has been organizing **Navratri in Vindhyachal** pilgrimages for over a decade, I can tell you that this festival transforms the sacred town into an extraordinary spiritual powerhouse. This comprehensive guide provides essential, time-sensitive information for anyone planning a pilgrimage to Vindhyachal during the Navratri festival. Having personally guided hundreds of pilgrims through the **Navratri in Vindhyachal** experience, I've designed this as a practical, one-stop resource for schedules, rituals, and on-ground guidance that will make your spiritual journey seamless and deeply fulfilling.
 
-![Navratri celebrations at Vindhyachal](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal1.jpg "The magnificent Vindhyavasini Temple during Navratri celebrations")
+![Navratri celebrations at Vindhyachal](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg "The magnificent Vindhyavasini Temple during Navratri celebrations")
 
 **Navratri in Vindhyachal** is not just a festival—it's a complete spiritual immersion where the divine feminine energy reaches its peak, attracting millions of devotees from across India and beyond.
 

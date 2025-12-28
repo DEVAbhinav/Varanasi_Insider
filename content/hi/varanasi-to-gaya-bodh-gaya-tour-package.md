@@ -5,7 +5,7 @@ date: "2025-08-07"
 lastUpdated: "2025-08-07"
 author: "अभिनव पांडे"
 lang: "hi"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png"
 description: "वाराणसी से गया और बोधगया के लिए हमारे टूर पैकेज देखें। हम आरामदायक टैक्सी, होटल और दर्शनीय स्थलों की यात्रा प्रदान करते हैं। अभी बुक करें।"
 tags:
   - वाराणसी
@@ -22,7 +22,7 @@ relatedPosts:
 
 # वाराणसी से गया और बोधगया टूर पैकेज: एक संपूर्ण गाइड
 
-![गया/बोधगया के लिए ट्रेन का विकल्प](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaTrain.jpg "तेज ट्रेनें वाराणसी को गया से आसानी से जोड़ती हैं")
+![गया/बोधगया के लिए ट्रेन का विकल्प](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTrain.jpg "तेज ट्रेनें वाराणसी को गया से आसानी से जोड़ती हैं")
 
 ## काशी गया आध्यात्मिक मार्ग
 
@@ -32,7 +32,7 @@ relatedPosts:
 - गया में पूर्वजों के लिए आशीर्वाद लें।
 - महाबोधि मंदिर में शांत बोधि वृक्ष के नीचे ध्यान करें।
 
-![लचीले बहु-दिवसीय सर्किट के लिए टैक्सी का विकल्प](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaTaxi.jpg "वाराणसी ↔ गया/बोधगया सर्किट के लिए आरामदायक टैक्सियाँ")
+![लचीले बहु-दिवसीय सर्किट के लिए टैक्सी का विकल्प](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg "वाराणसी ↔ गया/बोधगया सर्किट के लिए आरामदायक टैक्सियाँ")
 
 इस प्रकार **काशी-गया आध्यात्मिक मार्ग** धर्मों और पीढ़ियों तक फैला है - व्यक्तिगत मोक्ष और पूर्वज मोक्ष।
 

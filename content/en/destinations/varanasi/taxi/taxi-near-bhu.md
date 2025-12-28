@@ -40,7 +40,7 @@ Located at Banaras Hindu University campus in Varanasi? **KashiTaxi provides qui
 
 ## Taxi Fares from BHU Varanasi to Popular Locations
 
-![Varanasi Temple Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Varanasi-temple-map.jpeg)
+![Varanasi Temple Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Varanasi-temple-map.jpeg)
 *Varanasi Temple Map - Quick access from BHU to all major temples*
 
 | Destination | Distance | Sedan Fare | SUV Fare | Time |

@@ -93,7 +93,7 @@
             "@type": "Product",
             "name": "Decorated Wedding Car",
             "description": "Luxury vehicle with flowers, ribbons, custom decoration",
-            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
+            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",

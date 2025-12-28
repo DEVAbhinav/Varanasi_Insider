@@ -76,7 +76,7 @@ All drivers verified, vehicles fully insured.
 
 ## Our Varanasi Taxi Services
 
-![Varanasi Tourist Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi tourist map-flat-lanscape.jpeg)
+![Varanasi Tourist Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi tourist map-flat-lanscape.jpeg)
 *Varanasi Tourist Map - We cover all major attractions, temples, and ghats*
 
 ### Varanasi Airport Taxi Transfers

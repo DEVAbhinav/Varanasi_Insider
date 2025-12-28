@@ -4,7 +4,7 @@ slug: "contact"
 date: "2025-07-28"
 author: "अभिनव पांडे"
 description: "वाराणसी में 24×7 टैक्सी सेवाओं के लिए बनारसी काशीटैक्सी से संपर्क करें। एयरपोर्ट पिकअप, स्थानीय टूर और आउटस्टेशन कैब के लिए कॉल या व्हाट्सएप करें। अभी मुफ्त उद्धरण प्राप्त करें।"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/aboutUs.svg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/aboutUs.svg"
 lang: "hi"
 canonical: "https://www.kashitaxi.in/hi/contact"
 tags: ["संपर्क", "समर्थन", "टैक्सी बुकिंग", "वाराणसी यात्रा", "वाराणसी एयरपोर्ट टैक्सी"]
@@ -18,7 +18,7 @@ metaDescription: "वाराणसी में 24×7 टैक्सी स�
 
 चाहे आपको देर रात एयरपोर्ट ट्रांसफर की आवश्यकता हो, केवल महिलाओं के लिए पिंक टैक्सी, या पूरी तरह से भरी हुई आठ दिवसीय बौद्ध सर्किट यात्रा कार्यक्रम, मैं बस एक कॉल दूर हूँ। **आइए आपकी बनारस यात्रा को सहज और तनाव मुक्त बनाएं।**
 
-![वाराणसी (VNS) में एयरपोर्ट टैक्सी पिकअप](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg "वाराणसी (VNS) में एयरपोर्ट टैक्सी पिकअप")
+![वाराणसी (VNS) में एयरपोर्ट टैक्सी पिकअप](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg "वाराणसी (VNS) में एयरपोर्ट टैक्सी पिकअप")
 
 ---
 
@@ -46,7 +46,7 @@ metaDescription: "वाराणसी में 24×7 टैक्सी स�
 **शास्त्री नगर (आईपी मॉल के पास), सिगरा/चेतगंज, वाराणसी - 221 002, उत्तर प्रदेश, भारत**
 प्लस कोड: `8X8Q+4R वाराणसी, उत्तर प्रदेश`
 
-![महिला-अनुकूल पिंक टैक्सी सेवा](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg "महिला-अनुकूल पिंक टैक्सी सेवा")
+![महिला-अनुकूल पिंक टैक्सी सेवा](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg "महिला-अनुकूल पिंक टैक्सी सेवा")
 
 **कार्यालय समय (IST)**
 सोम-रवि 06:00 - 22:00

@@ -5,8 +5,8 @@ title: "How to Best Experience Dev Deepawali: A Guide to Reaching the Ghats & Bo
 subtitle: "Complete logistics guide for November 5, 2025 – taxi drop-off points, boat booking, Ganga Aarti access. Beat traffic & crowds."
 description: "Taxi to Assi Ghat for Dev Diwali boat ride – complete logistics guide for Nov 5, 2025. Drop-off points, boat booking, Ganga Aarti access. Beat traffic & crowds."
 keywords: ["taxi to Assi Ghat for Dev Diwali boat ride","how to reach ghats during Dev Deepawali","drop-off point for Dashashwamedh Ghat Ganga Aarti","cab service for Chet Singh Ghat laser show","how to get to Pandey Ghat for Dev Diwali boat","best way to see Ganga Aarti Dev Deepawali"]
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"
-heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg"
+heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg"
 phone: "9450301573"
 schemaType: "Article"
 category: "Travel Guide"

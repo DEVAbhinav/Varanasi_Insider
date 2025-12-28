@@ -53,7 +53,7 @@
         "@id": "https://www.kashitaxi.in#organization"
       },
       "category": "Pilgrimage Tour Package",
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg",
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

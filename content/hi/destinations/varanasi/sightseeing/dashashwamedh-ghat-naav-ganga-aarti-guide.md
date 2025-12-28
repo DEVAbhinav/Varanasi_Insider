@@ -20,7 +20,7 @@ tags:
   - boat rides
   - varanasi
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg"
 eyebrow: "दशाश्वमेध गाइड"
 ctaTitle: "सबसे अच्छा आरती दृश्य चाहते हैं?"
 ctaSubtitle: "भीड़-मुक्त दर्शन और बेहतर फोटो के लिए नाव बुक करें।"

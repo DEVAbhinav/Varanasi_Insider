@@ -6,7 +6,7 @@ slug: varanasi-to-naimisharanya-tempo-traveller
 date: 2025-09-18
 author: "Kamal Nayan Singh"
 lastUpdated: 2025-09-18
-featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 tags: [naimisharanya, varanasi to naimisharanya, tempo traveller, chakratirth, lalita devi, pilgrimage]
 keywords: ["varanasi to naimisharanya tempo traveller","naimisharanya from varanasi distance","chakratirth naimisharanya yatra","lalita devi temple naimisharanya","varanasi to naimisharanya itinerary","naimisharanya pilgrimage tempo traveller","naimisharanya tour from varanasi"]
 relatedPosts:
@@ -34,7 +34,7 @@ faqSchema:
 
 | Fleet Exterior Start (Pre‑Dawn) | Interior Aisle (12 / 17 Seater) | Premium / Luxury Variant |
 | --- | --- | --- |
-| ![Varanasi to Naimisharanya tempo traveller fleet pre dawn start](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Fleet staging before departure for Naimisharanya from Varanasi") | ![Tempo traveller interior comfort naimisharanya itinerary](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Spacious aisle helps on 8–9 hour outbound drive") | ![Luxury tempo traveller seating for naimisharanya pilgrims](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Luxury seating option – comfort for elders on long spiritual circuits") |
+| ![Varanasi to Naimisharanya tempo traveller fleet pre dawn start](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Fleet staging before departure for Naimisharanya from Varanasi") | ![Tempo traveller interior comfort naimisharanya itinerary](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Spacious aisle helps on 8–9 hour outbound drive") | ![Luxury tempo traveller seating for naimisharanya pilgrims](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Luxury seating option – comfort for elders on long spiritual circuits") |
 
 > Capture and add real Naimisharanya site images soon (Chakratirth, Lalita Devi temple entrance, Sukadeva Peeth). Suggested filenames: /images/Naimisharanya-Chakratirth-Aarti.jpg, /images/Lalita-Devi-Darshan.jpg.
 
@@ -83,17 +83,17 @@ Travel Time: 8–9.5 hours including 2 controlled halts (tea + lunch). Ensure ea
 ### Chakratirth (Chakra Tirtha)
 Mythic epicenter where the divine discus rested; perform mindful pradakshina. Arrange clean change cloth if snan planned.
 
-![Devotees performing pradakshina around a sacred kund at sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Sunrise pradakshina ambience reminiscent of Chakratirth")
+![Devotees performing pradakshina around a sacred kund at sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Sunrise pradakshina ambience reminiscent of Chakratirth")
 
 ### Lalita Devi Temple
 Shakti shrine—peak crowd flows on Navratri and Amavasya. Keep offerings minimal & eco‑friendly.
 
-![Women offering prayers at a Shakti peeth temple entrance](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal2.jpg "Devotees with offerings mirroring Lalita Devi rituals")
+![Women offering prayers at a Shakti peeth temple entrance](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg "Devotees with offerings mirroring Lalita Devi rituals")
 
 ### Dadhichi Kund & Sukadeva / Vyasa Gaddi
 Sites tied to penance, sacrifice & scriptural narration—carry a small notebook if you journal reflections.
 
-![Pilgrims seated with scriptures near forest hermitage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-priests-2025.jpg "Reflective satsang setting analogous to Sukadeva Peeth")
+![Pilgrims seated with scriptures near forest hermitage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-priests-2025.jpg "Reflective satsang setting analogous to Sukadeva Peeth")
 
 ### Hanuman Garhi & Sita Kund
 Short visits adding devotional completeness; accessible early morning before day travellers swell.

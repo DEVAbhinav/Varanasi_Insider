@@ -28,7 +28,7 @@ tags:
   - ghats
   - spirituality
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti-ceremony-2025.jpg"
 eyebrow: "Aarti Timing Guide"
 ctaTitle: "Watch Aarti from the River?"
 ctaSubtitle: "Book a boat ride for the best viewing experience – no crowds, unobstructed views, and river breeze comfort."

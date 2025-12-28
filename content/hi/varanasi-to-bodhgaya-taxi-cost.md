@@ -5,7 +5,7 @@ date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "अभिनव पांडे"
 lang: "hi"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaTaxi.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg"
 metaTitle: "वाराणसी से बोधगया टैक्सी किराया 2025 – ₹5000 फिक्स रेट, राउंड ट्रिप, स्टॉप्स"
 metaDescription: "255 किमी वाराणसी→बोधगया टैक्सी रूट: लाइव 2025 किराया (₹5000 से), सेडान/एसयूवी विकल्प, जौनपुर-सासाराम स्टॉप गाइड, और व्हाट्सऐप स्क्रिप्ट से तुरंत बुकिंग।"
 description: "255 किमी वाराणसी→बोधगया टैक्सी रूट का 2025 किराया, सेडान/एसयूवी विकल्प, जौनपुर-सासाराम स्टॉप गाइड और व्हाट्सऐप स्क्रिप्ट से तुरंत बुकिंग पकड़ें।"
@@ -51,7 +51,7 @@ keywords:
 
 इस लोकप्रिय मार्ग के लिए किराया वाहन के प्रकार और ऑपरेटर के आधार पर भिन्न होता है। यहाँ 2025 में एक तरफ़ा यात्रा के लिए एक अनुमानित विवरण दिया गया है:
 
-![सुबह 5 बजे वाराणसी से बोधगया निकलने वाली सेडान](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png "वाराणसी से बोधगया के लिए सेडान टैक्सी - आरामदायक यात्रा")
+![सुबह 5 बजे वाराणसी से बोधगया निकलने वाली सेडान](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png "वाराणसी से बोधगया के लिए सेडान टैक्सी - आरामदायक यात्रा")
 
 | वाहन | सीटें | एक तरफ़ा किराया (लगभग) | नोट्स |
 | :--- | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ keywords:
 
 *\*किराए सांकेतिक हैं। बुकिंग से पहले हमेशा टोल और राज्य करों सहित अंतिम मूल्य की पुष्टि करें।*
 
-![बड़े समूह के लिए तैयार वाराणसी से बोधगया टेम्पो ट्रैवलर](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "वाराणसी से बोधगया समूह यात्रा के लिए टेम्पो ट्रैवलर")
+![बड़े समूह के लिए तैयार वाराणसी से बोधगया टेम्पो ट्रैवलर](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "वाराणसी से बोधगया समूह यात्रा के लिए टेम्पो ट्रैवलर")
 
 ---
 

@@ -21,7 +21,7 @@ tags:
   - ganga snan
   - magh mela
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 eyebrow: "Sacred Silent Bathing"
 ctaTitle: "Mauni Amavasya Snan Transport"
 ctaSubtitle: "Book reliable taxi service for pre-dawn ghat transfer during this most auspicious silent bathing festival."

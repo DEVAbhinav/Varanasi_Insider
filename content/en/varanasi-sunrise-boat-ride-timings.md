@@ -5,7 +5,7 @@ date: "2025-08-01"
 lastUpdated: "2025-09-20"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-sunrise-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"
 description: "Varanasi sunrise boat ride 2025 timetable with monthly boarding windows, visibility, temperature & monsoon interruption risk matrix."
 keywords: "varanasi sunrise boat ride timings, sunrise time varanasi, subah e banaras timing, ganga aarti time, best time for boat ride varanasi, best time for boat ride in varanasi, boating time in varanasi, varanasi boat ride schedule"
 tags:
@@ -29,7 +29,7 @@ faqSchema:
 
 # Varanasi Sunrise Boat Ride Timings: Optimized 2025 Boarding Planner
 
-![Low mist over the Ganges just before nautical dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Soft pre‑dawn mist across Assi Ghat – January 2025 observation")
+![Low mist over the Ganges just before nautical dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Soft pre‑dawn mist across Assi Ghat – January 2025 observation")
 
 > **Focus:** This page is the *precision timetable & atmospheric planning* resource (boarding windows, fog risk, temperature comfort) — pricing depths intentionally trimmed (see Morning Price Guide for tariffs).
 
@@ -61,7 +61,7 @@ The transformative palette (indigo → saffron) lasts **≈14–18 minutes**. Mi
 | Dashashwamedh | Medium | Later bustle | Frontal once sun lifts | High | Good if lodging central |
 | Rajendra Prasad | Short | Quick loop | Frontal mid‑rise | High | Use when time‑compressed |
 
-![Subah-e-Banaras morning ritual musicians before sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-subeh-e-banaras-p.jpeg "Subah‑e‑Banaras musicians – pre‑dawn segment")
+![Subah-e-Banaras morning ritual musicians before sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-subeh-e-banaras-p.jpeg "Subah‑e‑Banaras musicians – pre‑dawn segment")
 
 ## 4. Monsoon Contingency Protocol
 If river level triggers suspension: pivot to **ground vantage** (Assi steps), capture ceremony + yoga, then schedule alternative golden hour activities (we suggest Sarnath early temple visit by 8:30 AM). Always confirm status at 9 PM prior via hotel / local operator.

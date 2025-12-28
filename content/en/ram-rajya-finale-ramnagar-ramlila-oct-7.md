@@ -5,7 +5,7 @@ date: "2025-09-30"
 lastUpdated: "2025-09-30"
 author: "Kamal Nayan Singh"
 lang: en
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
 description: "Experience Ram Rajya finale on October 7, 2025 at Ramnagar Fort: UNESCO Ramlila coronation ceremony, Maharaja presence, transport booking & complete viewing guide for Varanasi's grandest finale."
 tags:
   - ram rajya finale varanasi
@@ -38,7 +38,7 @@ relatedPosts:
 
 <!-- Moved contextual image below TL;DR to prioritize summary-first layout. -->
 
-![Varanasi Kashi Vishwanath Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple - spiritual heart of Varanasi where Lord Rama's story concludes")
+![Varanasi Kashi Vishwanath Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple - spiritual heart of Varanasi where Lord Rama's story concludes")
 
 ## What is Ram Rajya: The Ultimate Ramlila Finale
 

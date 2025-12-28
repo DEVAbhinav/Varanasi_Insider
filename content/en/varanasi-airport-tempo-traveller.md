@@ -19,11 +19,11 @@ Immediate, transactional need—price is upfront. Also covers Cantt and DDU stat
 
 ## Vehicle Photos
 
-![Tempo Traveller outside front view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for airport transfers in Varanasi")
+![Tempo Traveller outside front view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for airport transfers in Varanasi")
 
-![Tempo Traveller side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Tempo Traveller side view — ample luggage space")
+![Tempo Traveller side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Tempo Traveller side view — ample luggage space")
 
-![Tempo Traveller interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Clean, AC interiors with pushback seats")
+![Tempo Traveller interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Clean, AC interiors with pushback seats")
 
 ## Why Tempo Traveller Airport Transfers in Varanasi
 

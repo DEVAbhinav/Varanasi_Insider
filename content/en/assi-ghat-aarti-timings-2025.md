@@ -5,7 +5,7 @@ date: "2025-08-04"
 lastUpdated: "2025-12-24"
 author: "Naval Kishore"
 lang: en-IN
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-aarti-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-aarti-l.jpeg"
 metaTitle: "Assi Ghat Aarti Time 2025 — Morning 5:30 AM | Evening 6:00 PM [Updated Dec]"
 metaDescription: "Assi Ghat Aarti timing TODAY: Morning 5:30 AM, Evening 6:00 PM. Arrive 30 min early! Full 2025-26 schedule + best seats + boat ride tips from a local."
 description: "Get the latest summer and winter timings for the Assi Ghat Ganga Aarti. Learn what to expect, the duration, and tips for the best view."
@@ -137,13 +137,13 @@ As a local who runs sunrise boat rides for a living, I’m at Assi Ghat almost e
 
 The **Subah e Banaras Assi Ghat** experience begins in the blue hour before sunrise with Vedic chants, conch‐shells and a short yoga-in-public session. This **Assi Ghat sunrise aarti** is when locals treat it as a community wellness ritual; pilgrims bring copper pots for the first Ganga water of the day. It's the quintessential **varanasi morning aarti** experience.
 
-![Sunrise at Assi Ghat during Subah-e-Banaras](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "A serene sunrise during the morning aarti at Assi Ghat.")
+![Sunrise at Assi Ghat during Subah-e-Banaras](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "A serene sunrise during the morning aarti at Assi Ghat.")
 
 ### Evening – Sandhya Aarti
 
 Starts just after the sun disappears, lamps reflected in the water like a corridor of fire. It's smaller than Dashashwamedh Ghat’s spectacle, but you get closer seats and it has a youthful, musical vibe.
 
-![Evening aarti ceremony at Assi Ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/assi-aarti-evening-P.jpeg "Priests performing the evening Ganga Aarti at Assi Ghat.")
+![Evening aarti ceremony at Assi Ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/assi-aarti-evening-P.jpeg "Priests performing the evening Ganga Aarti at Assi Ghat.")
 
 📞 Book your boat & taxi — WhatsApp +91 94503 01573
 
