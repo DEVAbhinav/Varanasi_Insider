@@ -58,13 +58,22 @@ export async function getStaticProps({ params }) {
   const { title: heroTitle, subtitle: heroSubtitle, badge: heroBadge } = createHeroCopy(destinationName);
 
   const items = pages
-    .map((page) => ({
-      slug: page.slug,
-      title: page.heading || page.title,
-      description: page.description || page.metaDescription || null,
-      href: `/${lang}/city/${destination}/${CATEGORY}/${page.slug}`,
-      ctaText: 'View itinerary',
-    }))
+    .map((page, index) => {
+      const entrySlug = destinationEntries[index]?.slug || 'unknown';
+      if (!page || (!page.heading && !page.title)) {
+        throw new Error(
+          `[tour-packages] Missing title in markdown frontmatter for "${entrySlug}.md" in ${destination}. ` +
+          `Check content/${lang}/destinations/${destination}/${CATEGORY}/${entrySlug}.md for malformed YAML.`
+        );
+      }
+      return {
+        slug: page.slug,
+        title: page.heading || page.title,
+        description: page.description || page.metaDescription || null,
+        href: `/${lang}/city/${destination}/${CATEGORY}/${page.slug}`,
+        ctaText: 'View itinerary',
+      };
+    })
     .sort((a, b) => a.title.localeCompare(b.title));
 
   const metaTitle = `${destinationName} Tour Packages | Kashi Taxi`;
