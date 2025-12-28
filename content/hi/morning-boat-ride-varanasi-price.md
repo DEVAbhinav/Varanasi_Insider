@@ -7,7 +7,7 @@ metaTitle: "वाराणसी सुबह नाव कीमत 2025: प�
 metaDescription: "वाराणसी सुबह (sunrise) नाव कीमत 2025: रोबोट व मोटरबोट दर, नेगोशिएशन स्क्रिप्ट, लागत चालक, त्योहार मल्टीप्लायर व बजट टिप्स।"
 description: "प्राइवेट / साझा सुबह नाव राइड (सूर्योदय) की वास्तविक बाज़ार कीमत, यूनियन बोर्ड बनाम नेगो परिणाम, डिमांड मौसमी व त्योहार गुणक विश्लेषण।"
 keywords: ["morning boat ride varanasi price hindi","वाराणसी नाव कीमत","sunrise boat cost varanasi","varanasi boat negotiation","गंगा नाव दर 2025","private rowboat price varanasi","shared boat seat varanasi","motorboat varanasi cost","dev deepawali boat surcharge","boat ride scam avoid varanasi","varanasi boat negotiation script","subah boat ride price"]
-featuredImage: "/images/varanasi-boat-bird-river-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-bird-river-p.jpeg"
 relatedPosts:
   - sunrise-boat-ride-ganges
   - guide-to-10-most-important-ghats-of-varanasi
@@ -23,7 +23,7 @@ canonical: "https://www.kashitaxi.in/hi/morning-boat-ride-varanasi-price"
 
 > **फ़ोकस:** यह पेज = *प्राइसिंग इकोनोमिक्स + नेगो रणनीति*। समय / अनुभव विवरण = सूर्योदय गाइड पेज। यहाँ टेबल, कॉस्ट ड्राइवर व स्क्रिप्ट.
 
-![Rowboat benches](/images/varanasi-boat-bird-river-p.jpeg "प्राइवेट बनाम साझा सीट लेआउट दृश्य")
+![Rowboat benches](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-bird-river-p.jpeg "प्राइवेट बनाम साझा सीट लेआउट दृश्य")
 
 ## 1. 2025 त्वरित बेंचमार्क (Row / Motor)
 | श्रेणी | यूनियन / बोर्ड | वास्तविक बाज़ार | त्योहार गुणक* | नोट |
@@ -46,7 +46,7 @@ canonical: "https://www.kashitaxi.in/hi/morning-boat-ride-varanasi-price"
 | गाइड व्याख्या | +₹300–₹500 | वैल्यू स्पष्टीकरण |
 | नाव स्थिति / कैनोपी | +₹100–₹300 | न्यूनतम एक्स्ट्रा चुनें |
 
-![Motor vs row visual contrast](/images/varanasi-river-boat-evening-p.jpeg "रोबोट स्थिरता बनाम मोटर प्रोफ़ाइल तुलना संकेत")
+![Motor vs row visual contrast](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg "रोबोट स्थिरता बनाम मोटर प्रोफ़ाइल तुलना संकेत")
 
 ## 3. नेगोशिएशन स्क्रिप्ट (व्यावहारिक)
 1. पूछें: “प्राइवेट रोबोट 1 घंटा सूर्योदय – कितना?” (कोट ₹2,600)  

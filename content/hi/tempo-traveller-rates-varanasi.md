@@ -32,8 +32,8 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 > पारदर्शी रेट | कोई छुपा चार्ज नहीं | अग्रिम पुष्टि पर रेट लॉक | वास्तविक बिल की कॉपी उपलब्ध
 
 ## फोटो संदर्भ (Fleet)
-![Tempo Traveller Front](/images/tempo-travellar-outside-front-p.jpeg "टेम्पो ट्रैवलर फ्लीट वाराणसी")
-![Tempo Traveller Side](/images/tempo-travellar-side-l.jpeg "साइड प्रोफाइल – लगेज स्पेस")
+![Tempo Traveller Front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "टेम्पो ट्रैवलर फ्लीट वाराणसी")
+![Tempo Traveller Side](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "साइड प्रोफाइल – लगेज स्पेस")
 
 ## वाराणसी Tempo Traveller Price Table (2025)
 

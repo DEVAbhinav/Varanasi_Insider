@@ -91,7 +91,7 @@
             "@type": "Product",
             "name": "Sarnath One-Way Transfer",
             "description": "AC Sedan/SUV with professional driver",
-            "image": "https://www.kashitaxi.in/images/seden.png",
+            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",
@@ -268,7 +268,7 @@
         "@id": "https://www.kashitaxi.in/#org"
       },
       "category": "Day Trip Taxi",
-      "image": "https://www.kashitaxi.in/images/seden.png",
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

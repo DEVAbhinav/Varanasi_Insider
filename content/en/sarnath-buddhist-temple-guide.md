@@ -5,7 +5,7 @@ date: "2025-10-27"
 lastUpdated: "2025-10-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/blogfamousbhu.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogfamousbhu.jpg"
 metaTitle: "Sarnath Buddhist Temple Guide 2025: All Temples, Timings, Prayer Schedule & Visit Tips"
 metaDescription: "Complete Sarnath Buddhist temple guide: Main Sarnath temple (Mulagandha Kuti Vihar), Thai temple, Tibetan temple, Sri Lankan temple timing, prayer schedules, architecture, visiting tips 2025."
 description: "Comprehensive guide to all Sarnath Buddhist temples including the main Sarnath temple Mulagandha Kuti Vihar, Thai, Tibetan, Sri Lankan, Japanese, and Chinese temples with timing, prayer schedules, architecture details, and practical visiting information."
@@ -52,14 +52,14 @@ Sarnath, the sacred site where Buddha delivered his first sermon 2,500 years ago
 
 This comprehensive guide covers all major **Sarnath temples**, their architecture, prayer timings, and practical visiting information, helping you experience the diversity and unity of Buddhist worship at one of the world's most sacred pilgrimage sites.
 
-![Sarnath Buddhist Temples](/images/blogfamousbhu.jpg)
+![Sarnath Buddhist Temples](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogfamousbhu.jpg)
 *Buddhist devotees at Sarnath temples during evening prayers*
 
 ---
 
 ## Mulagandha Kuti Vihar: Main Sarnath Temple & Buddhist Worship Center
 
-![Main Sarnath Temple](/images/Vishwanath-Mandir-Evenging-Square-Outside.jpeg)
+![Main Sarnath Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vishwanath-Mandir-Evenging-Square-Outside.jpeg)
 *Mulagandha Kuti Vihar - the main Sarnath Buddhist temple*
 
 ### History & Significance of Main Sarnath Temple
@@ -305,7 +305,7 @@ The highlight of visiting the **main Sarnath temple** is attending the evening p
 
 ## Thai Temple Sarnath: Golden Buddhist Architecture
 
-![Thai Temple Sarnath](/images/blogfamousbhu.jpg)
+![Thai Temple Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogfamousbhu.jpg)
 *Thai Temple with characteristic golden spires and colorful architecture*
 
 ### Thai Temple Architecture & Design

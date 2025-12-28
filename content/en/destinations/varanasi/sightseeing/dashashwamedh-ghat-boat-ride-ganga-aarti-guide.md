@@ -28,7 +28,7 @@ tags:
   - boat rides
   - varanasi
 template: destination
-featuredImage: "/images/dashashwamedh-aarti-platforms-2025.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg"
 eyebrow: "Dashashwamedh Guide"
 ctaTitle: "Want the Best Aarti View?"
 ctaSubtitle: "Book a boat ride for crowd-free viewing and better photos."

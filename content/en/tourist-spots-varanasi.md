@@ -5,7 +5,7 @@ date: "2025-10-26"
 lastUpdated: "2025-10-26"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 metaTitle: "Varanasi Tourist Spots - Taxi Packages & Routes 2025"
 metaDescription: "Varanasi tourist spots guide with taxi rates. Dashashwamedh, Sarnath, Kashi Vishwanath - book airport transfer packages. From ₹690."
 description: "Varanasi tourist spots guide with taxi rates. Dashashwamedh, Sarnath, Kashi Vishwanath - book airport transfer packages. From ₹690."
@@ -115,13 +115,13 @@ faqSchema:
 
 ## Top Ghat Tourist Spots in Varanasi
 
-![Morning at the ghats](/images/varanasi-ghat-early-morning.jpeg "Early morning serenity at Varanasi ghats")
+![Morning at the ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "Early morning serenity at Varanasi ghats")
 
 The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilometers along the sacred Ganges River. These stone steps are the most iconic tourist spots in Banaras.
 
 ### 1. Dashashwamedh Ghat: Most Famous Tourist Spot in Varanasi
 
-![Evening Ganga Aarti ceremony](/images/ganga-aarti-ceremony-2025.jpg "Evening Ganga Aarti at Dashashwamedh Ghat")
+![Evening Ganga Aarti ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg "Evening Ganga Aarti at Dashashwamedh Ghat")
 
 **Why Visit:** The **most famous Banaras tourist spot** and epicenter of Varanasi tourism, renowned for its spectacular evening Ganga Aarti ceremony.
 
@@ -152,9 +152,9 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ### 2. Assi Ghat: Best Sunrise Tourist Spot in Varanasi
 
-![Morning aarti at Assi Ghat](/images/assi-aarti-evening-l.jpeg "Subah-e-Banaras morning aarti ceremony")
+![Morning aarti at Assi Ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/assi-aarti-evening-l.jpeg "Subah-e-Banaras morning aarti ceremony")
 
-![Assi Ghat sunrise atmosphere](/images/varanasi-assi-ghat-sunrise.jpeg "Beautiful sunrise at Assi Ghat")
+![Assi Ghat sunrise atmosphere](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "Beautiful sunrise at Assi Ghat")
 
 **Why Visit:** Varanasi's southernmost major ghat offers a more tranquil, authentic experience away from crowds. Popular starting point for sunrise boat rides.
 
@@ -184,7 +184,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 **Why Visit:** Varanasi's **most sacred cremation ghat** where Hindus believe cremation guarantees moksha (liberation from rebirth cycle). A profound, sobering cultural experience.
 
-![Evening view of Varanasi ghats](/images/varanasi-ghat-wallpaper-p.jpeg "Sacred ghats of Varanasi at dusk")
+![Evening view of Varanasi ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-wallpaper-p.jpeg "Sacred ghats of Varanasi at dusk")
 
 **What to See:**
 - Active cremation ceremonies (300 bodies daily)
@@ -213,7 +213,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ### 4. Other Important Ghat Tourist Spots
 
-![Evening ghat view](/images/varanashi-ghat-evening-P.jpeg "Beautiful evening view of Varanasi ghats")
+![Evening ghat view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanashi-ghat-evening-P.jpeg "Beautiful evening view of Varanasi ghats")
 
 **Harishchandra Ghat**: Second major cremation ghat, equally powerful for attaining moksha
 
@@ -231,13 +231,13 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ## Ganges Boat Rides: Must-Do Tourist Activity
 
-![Sunrise boat ride](/images/varanasi-sunrise-p.jpeg "Sunrise boat ride with morning mist on the Ganges")
+![Sunrise boat ride](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-sunrise-p.jpeg "Sunrise boat ride with morning mist on the Ganges")
 
-![Traditional boat on Ganges](/images/varanasi-boat-bird-river-p.jpeg "Traditional boat ride on the Ganges River")
+![Traditional boat on Ganges](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-bird-river-p.jpeg "Traditional boat ride on the Ganges River")
 
-![Morning boat with birds](/images/Ganga-boat-birds-ghats-morning-l.jpeg "Peaceful morning boat ride with birds on the Ganges")
+![Morning boat with birds](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Ganga-boat-birds-ghats-morning-l.jpeg "Peaceful morning boat ride with birds on the Ganges")
 
-![Boat ride along ghats](/images/varanasi-river-sunrise-boat-p.jpeg "Boat ride offering stunning ghat views")
+![Boat ride along ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Boat ride offering stunning ghat views")
 
 **Why Must-Visit:** Essential Varanasi experience offering unique perspectives of ghats, rituals, and city architecture impossible to see from land.
 
@@ -259,9 +259,9 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ### Evening Boat Ride with Ganga Aarti (5:30-7:30 PM)
 
-![Evening boat ride atmosphere](/images/varanasi-night-boat-ghat-p.jpeg "Magical night boat ride during Ganga Aarti")
+![Evening boat ride atmosphere](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-night-boat-ghat-p.jpeg "Magical night boat ride during Ganga Aarti")
 
-![Evening river view](/images/varanasi-river-boat-evening-p.jpeg "Evening boat ride on the sacred Ganges")
+![Evening river view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg "Evening boat ride on the sacred Ganges")
 
 **What You'll See:**
 - Floating perspective of synchronized Ganga Aarti
@@ -286,9 +286,9 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ### 🚖 Need Transport to Visit These Tourist Spots?
 
-![Tempo Traveller for group tours](/images/tempo-travellar-side-l.jpeg "Comfortable Tempo Traveller for visiting tourist spots")
+![Tempo Traveller for group tours](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Comfortable Tempo Traveller for visiting tourist spots")
 
-![Luxury Tempo Traveller](/images/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller for premium tours")
+![Luxury Tempo Traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller for premium tours")
 
 **Kashi Taxi offers comfortable, reliable vehicles to cover all Varanasi tourist spots efficiently:**
 
@@ -305,17 +305,17 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ## Temple Tourist Spots in Varanasi
 
-![Kashi Vishwanath Temple](/images/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple with devotees")
+![Kashi Vishwanath Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple with devotees")
 
-![Kashi Vishwanath entrance](/images/kashi-vishwanath-ganga-dwar.jpeg "Kashi Vishwanath Ganga Dwar entrance")
+![Kashi Vishwanath entrance](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashi-vishwanath-ganga-dwar.jpeg "Kashi Vishwanath Ganga Dwar entrance")
 
 ### 5. Kashi Vishwanath Temple: Premier Temple Tourist Spot
 
-![Golden spire of Kashi Vishwanath](/images/varanasi-kashvishwanath-outside-p.jpeg "Golden spire dominating the skyline")
+![Golden spire of Kashi Vishwanath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashvishwanath-outside-p.jpeg "Golden spire dominating the skyline")
 
-![Vishwanath Temple exterior](/images/Vishwanath-Mandir-Evenging-Square-Outside.jpeg "Kashi Vishwanath Temple in the evening")
+![Vishwanath Temple exterior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vishwanath-Mandir-Evenging-Square-Outside.jpeg "Kashi Vishwanath Temple in the evening")
 
-![Temple architecture](/images/Vishwanath-Mandir-Parallel.jpeg "Beautiful architecture of Vishwanath Mandir")
+![Temple architecture](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vishwanath-Mandir-Parallel.jpeg "Beautiful architecture of Vishwanath Mandir")
 
 **Why Visit:** Varanasi's spiritual epicenter and one of India's twelve sacred Jyotirlingas (manifestations of Lord Shiva). The most important temple tourist spot in Banaras.
 
@@ -368,7 +368,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ### 7. Durga Temple (Durga Kund)
 
-![Durga Temple view](/images/blogDurgatemple.png "Iconic red Durga Temple near BHU")
+![Durga Temple view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogDurgatemple.png "Iconic red Durga Temple near BHU")
 
 **Why Visit:** Iconic red-colored temple near BHU campus with picturesque pond (kund). Dedicated to Goddess Durga.
 
@@ -384,7 +384,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ### 8. New Vishwanath Temple (BHU/Birla Temple)
 
-![BHU Temple](/images/blogfamousbhu.jpg "New Vishwanath Temple at BHU campus")
+![BHU Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogfamousbhu.jpg "New Vishwanath Temple at BHU campus")
 
 **Why Visit:** Modern temple on Banaras Hindu University campus featuring serene architecture and peaceful atmosphere. Contrast to old city temples.
 
@@ -428,9 +428,9 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ## Buddhist Heritage Tourist Spots Near Varanasi
 
-![Dhamek Stupa at Sarnath](/images/blogSarnath.png "Dhamek Stupa rising above lawns")
+![Dhamek Stupa at Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png "Dhamek Stupa rising above lawns")
 
-![Sarnath Stupa closeup](/images/Sarnath-Stoopa-Square-beautiful-large.jpeg "Beautiful Sarnath Stupa with architectural details")
+![Sarnath Stupa closeup](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Sarnath-Stoopa-Square-beautiful-large.jpeg "Beautiful Sarnath Stupa with architectural details")
 
 ### 11. Sarnath: UNESCO Buddhist Tourist Spot
 
@@ -516,9 +516,9 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ### 13. Banaras Hindu University (BHU)
 
-![BHU entrance gate](/images/blogbhugate.jpg "Banaras Hindu University main gate")
+![BHU entrance gate](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogbhugate.jpg "Banaras Hindu University main gate")
 
-![BHU campus](/images/blogbhu.jpg "Beautiful BHU campus grounds")
+![BHU campus](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogbhu.jpg "Beautiful BHU campus grounds")
 
 **Why Visit:** One of Asia's largest residential universities (established 1916) featuring beautiful campus, museums, and temples.
 
@@ -538,7 +538,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ### 14. Kala Bhairav Temple
 
-![Kala Bhairav Temple](/images/varanasi-kal-bhairav-p.jpeg "Kala Bhairav Temple - Kashi's protector deity")
+![Kala Bhairav Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kal-bhairav-p.jpeg "Kala Bhairav Temple - Kashi's protector deity")
 
 **Why Visit:** Dedicated to Kala Bhairav (Kashi's protector deity). Important Shaivite temple with unique black deity idol.
 
@@ -615,7 +615,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ## Best Time to Visit Varanasi Tourist Spots
 
-![Morning life at Varanasi](/images/varanasi-subeh-e-banaras-p.jpeg "Subah-e-Banaras - Morning life at the ghats")
+![Morning life at Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-subeh-e-banaras-p.jpeg "Subah-e-Banaras - Morning life at the ghats")
 
 **Optimal Season:** October - March
 
@@ -634,7 +634,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ## How to Get Around Tourist Spots
 
-![Scooty at Varanasi ghat](/images/scooty-varanasi-ghat.jpeg "Self-drive scooter option for exploring ghats")
+![Scooty at Varanasi ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/scooty-varanasi-ghat.jpeg "Self-drive scooter option for exploring ghats")
 
 **Local Transportation:**
 
@@ -682,9 +682,9 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ## Safety Tips for Visiting Tourist Spots
 
-![Solo female traveller in Varanasi](/images/solo-femal-traveller-varanasi.jpeg "Solo female traveller exploring Varanasi safely")
+![Solo female traveller in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg "Solo female traveller exploring Varanasi safely")
 
-![Female traveller with sadhu](/images/female-traveller-sadhu.jpeg "Female tourist interacting respectfully with sadhu")
+![Female traveller with sadhu](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/female-traveller-sadhu.jpeg "Female tourist interacting respectfully with sadhu")
 
 **General Safety:**
 - Dress modestly at religious sites (covered shoulders/legs)
@@ -730,7 +730,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ## Transport to/from Airport
 
-![Airport taxi service](/images/airport-taxi-600x400.jpeg "Reliable airport taxi service in Varanasi")
+![Airport taxi service](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg "Reliable airport taxi service in Varanasi")
 
 **Distance:** 25 km from Varanasi airport to ghats
 
@@ -747,11 +747,11 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ## Major Festivals at Tourist Spots
 
-![Evening ghat during festival](/images/pink-sky-ghat-varanasi-l.jpeg "Beautiful evening sky over Varanasi ghats during festival")
+![Evening ghat during festival](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/pink-sky-ghat-varanasi-l.jpeg "Beautiful evening sky over Varanasi ghats during festival")
 
-![Ganga Aarti ceremony](/images/Ganga-aarti-square.jpeg "Vibrant Ganga Aarti ceremony with devotees")
+![Ganga Aarti ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Ganga-aarti-square.jpeg "Vibrant Ganga Aarti ceremony with devotees")
 
-![Evening Aarti atmosphere](/images/Ganga-aarti-yellow-square.jpeg "Golden glow of evening Ganga Aarti")
+![Evening Aarti atmosphere](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Ganga-aarti-yellow-square.jpeg "Golden glow of evening Ganga Aarti")
 
 **Dev Deepawali** (Nov 12, 2025):
 - Million+ lamps illuminate all ghats
@@ -817,11 +817,11 @@ Dress modestly with covered shoulders and legs (avoid shorts, tank tops, reveali
 
 ## Book Your Varanasi Tourist Spots Tour
 
-![Tempo Traveller outside front](/images/tempo-travellar-outside-front-p.jpeg "Professional Tempo Traveller for sightseeing")
+![Tempo Traveller outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Professional Tempo Traveller for sightseeing")
 
-![Tempo Traveller interior](/images/tempo-travellar-inside.jpeg "Comfortable interior of Tempo Traveller")
+![Tempo Traveller interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Comfortable interior of Tempo Traveller")
 
-![Luxury seating](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Luxury seating for comfortable tourist spot tours")
+![Luxury seating](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Luxury seating for comfortable tourist spot tours")
 
 **Planning to visit these amazing tourist spots in Varanasi?** Let Kashi Taxi handle your complete sightseeing arrangements with reliable transport, verified guides, and transparent pricing.
 

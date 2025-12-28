@@ -203,16 +203,16 @@ export default function KashiTaxiIntro() {
                 <Image
                   src={
                     i === 0
-                      ? "/images/airport-taxi-600x400.jpeg"
+                      ? "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg"
                       : i === 1
-                      ? "/images/varanasi-ghats-overview.jpeg"
+                      ? "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
                       : i === 2
-                      ? "/images/AyodhyaTaxi1.jpg"
+                      ? "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTaxi1.jpg"
                       : i === 3
-                      ? "/images/sangam-600x400.jpeg"
+                      ? "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg"
                       : i === 4
-                      ? "/images/blogGaya.png"
-                      : "/images/blogVindhyachal.png"
+                      ? "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png"
+                      : "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogVindhyachal.png"
                   }
                   alt={
                     i === 0

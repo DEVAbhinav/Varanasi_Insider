@@ -25,8 +25,8 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         name: 'Banaras Tour Package | Kashi Taxi',
         alternateName: ['Varanasi Tour Package', 'Kashi Tour Package', 'Banaras Pilgrimage Package'],
         url: `${site}/banaras-tour-package`,
-        logo: `${site}/images/logo.jpeg`,
-        image: [`${site}/images/varanasi-hero.png`, `${site}/images/tempo-travellar-side-l.jpeg`],
+        logo: `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg`,
+        image: [`${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png`, `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg`],
         description:
           'Banaras tour packages with expert guides. 3-7 day spiritual journeys, transparent pricing, ghatside stays, airport transfers, and 24/7 support.',
         slogan: 'Authentic Banaras tours with local experts',
@@ -175,14 +175,14 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.kashitaxi.in/banaras-tour-package" />
-        <meta property="og:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
+        <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Banaras Tour Package 2025 | Budget to Premium Packages | Kashi Taxi" />
         <meta
           name="twitter:description"
           content="Best Banaras tour packages with expert guides. 3-7 day spiritual journeys with transparent pricing, accommodation near ghats, and 24/7 support."
         />
-        <meta name="twitter:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
+        <meta name="twitter:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" />
         <link rel="canonical" href="https://www.kashitaxi.in/banaras-tour-package" />
       </Head>
       <JsonLd data={structuredData} />
@@ -250,19 +250,19 @@ export default function BanarasTourPackagePage({ contentHtml }) {
                 title: 'Ganga Aarti Dawn',
                 href: '/en/varanasi-sightseeing-complete-guide',
                 desc: '5:30 AM Dashashwamedh Ghat Aarti with guided rituals and timing.',
-                image: '/images/varanasi-kashi-vishwanath-l.jpeg',
+                image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg',
               },
               {
                 title: 'Sarnath Extension',
                 href: '/en/sarnath-attractions-guide',
                 desc: 'Buddhist circuit add-on for classic and 5-day packages.',
-                image: '/images/airport-taxi-600x400.jpeg',
+                image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg',
               },
               {
                 title: 'Tempo Traveller Groups',
                 href: '/en/kashi-darshan-tempo-traveller',
                 desc: 'Comfortable 12-17 seater options for family pilgrimages.',
-                image: '/images/tempo-travellar-side-l.jpeg',
+                image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg',
               },
             ].map((card) => (
               <a

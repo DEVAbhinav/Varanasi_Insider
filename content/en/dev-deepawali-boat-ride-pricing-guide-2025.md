@@ -5,7 +5,7 @@ date: "2025-09-30"
 lastUpdated: "2025-09-30"
 author: "Kamal Nayan Singh"
 lang: en
-featuredImage: "/images/varanasi-river-boat-evening-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg"
 description: "Exposed: Dev Deepawali boat ride pricing from ₹200 to ₹13,000+. Complete honest guide to booking Ganga boat rides for November 5, 2025 - avoid scams, get best prices & guarantee your spot."
 tags:
   - dev deepawali boat ride price
@@ -38,7 +38,7 @@ relatedPosts:
 
 <!-- Note: Hero image moved below TL;DR to keep summary at the top. -->
 
-![Varanasi River Boat Evening](/images/varanasi-river-boat-evening-p.jpeg "Evening boat ride on the Ganga during festival season - prices vary dramatically based on booking method")
+![Varanasi River Boat Evening](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg "Evening boat ride on the Ganga during festival season - prices vary dramatically based on booking method")
 
 ## The Great Dev Deepawali Boat Ride Pricing Scandal
 

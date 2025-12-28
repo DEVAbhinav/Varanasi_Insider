@@ -184,7 +184,7 @@
         "@id": "https://www.kashitaxi.in/#org"
       },
       "category": "City Tour Package",
-      "image": "https://www.kashitaxi.in/images/seden.png",
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

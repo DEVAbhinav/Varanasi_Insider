@@ -5,7 +5,7 @@ date: "2025-08-04"
 lastUpdated: "2025-12-24"
 author: "Naval Kishore (स्थानीय नाव व टूर समन्वयक)"
 lang: hi-IN
-featuredImage: "/images/varanasi-assi-ghat-aarti-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-aarti-l.jpeg"
 metaTitle: "अस्सी घाट आरती टाइम 2025 — सुबह 5:30 AM | शाम 6:00 PM [दिसंबर अपडेट]"
 metaDescription: "अस्सी घाट आरती आज: सुबह 5:30 AM, शाम 6:00 PM। 30 मिनट पहले पहुंचें! 2025-26 पूरी समय सारणी + बेस्ट सीट + नाव टिप्स – स्थानीय गाइड से।"
 description: "अस्सी घाट गंगा आरती 2025 के सुबह (सुबह-ए-बनारस) और शाम (संध्या आरती) के सही टाइमिंग, महीना‑वार तालिका, भीड़ प्रबंधन, फोटो टिप्स और सर्वश्रेष्ठ देखने की जगह।"
@@ -70,12 +70,12 @@ canonical: "https://www.kashitaxi.in/hi/assi-ghat-aarti-timings-2025"
 (आधिकारिक अनुभव / सीट आरक्षण: [Subah-e-Banaras Booking](https://subahebanaras.net/choose-your-experience/?ref=kashitaxi))
 नीलवेला (Blue Hour) में हल्की मंत्र ध्वनि, शंख, योग व शास्त्रीय राग संयोजन। स्थानीय लोग इसे सामुदायिक शुद्ध शुरुआत मानते हैं। यात्री ताज़े गंगा जल से ताम्बे के लोटे भरते दिखाई देंगे।
 
-![Subah-e-Banaras सूर्योदय दृश्य](/images/varanasi-assi-ghat-sunrise.jpeg "सुबह की आरती के दौरान अस्सी घाट पर शांत सूर्योदय")
+![Subah-e-Banaras सूर्योदय दृश्य](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "सुबह की आरती के दौरान अस्सी घाट पर शांत सूर्योदय")
 
 ### शाम – संध्या आरती
 सूर्य डूबने के तुरंत बाद पीत आभा + बहु‑स्तरीय दीप घुमाव। दशाश्वमेध से छोटा लेकिन अंतरंग, संगीतात्मक व नज़दीकी अनुभव।
 
-![शाम की संध्या आरती](/images/assi-aarti-evening-P.jpeg "अस्सी घाट पर शाम की गंगा आरती")
+![शाम की संध्या आरती](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/assi-aarti-evening-P.jpeg "अस्सी घाट पर शाम की गंगा आरती")
 
 📞 नाव / टैक्सी / लाइव टाइमिंग अपडेट के लिए अभी WhatsApp करें: +91 94503 01573
 

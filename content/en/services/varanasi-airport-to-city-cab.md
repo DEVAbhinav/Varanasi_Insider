@@ -7,8 +7,8 @@ description: "Book a Varanasi airport to city cab with 2025 fixed fares, live pr
 keywords: ["airport to city cab varanasi","varanasi airport to city cab","taxi from varanasi airport to city","airport to assi ghat taxi","vns airport cab fixed fare","dashashwamedh airport taxi","varanasi airport surge pricing","varanasi airport to city taxi fare"]
 metaTitle: "Varanasi Airport to City Cab 2025 | Fixed Fares & Surge Shield"
 metaDescription: "Compare 2025 Varanasi airport to city cab fares (₹700+), lock surge-proof pickups, view zone-wise distance table, and book instantly on WhatsApp."
-featuredImage: "/images/airport-taxi-600x400.jpeg"
-heroImage: "/images/airport-taxi-600x400.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg"
+heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg"
 phone: "9450301573"
 schemaType: "Service"
 serviceCategory: "Airport Transfer"

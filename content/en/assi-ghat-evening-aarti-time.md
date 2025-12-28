@@ -4,7 +4,7 @@ slug: "assi-ghat-evening-aarti-time"
 date: "2025-11-25"
 author: "Naval Kishore"
 lang: en-IN
-featuredImage: "/images/assi-aarti-evening-P.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/assi-aarti-evening-P.jpeg"
 metaTitle: "Assi Ghat Evening Aarti – Current Sandhya Timing & Crowd Tips"
 metaDescription: "Evening Sandhya Aarti at Assi Ghat: today’s timing, best arrival buffer, what to carry, and taxi/boat options."
 keywords:

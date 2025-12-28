@@ -5,7 +5,7 @@ date: "2025-08-07"
 lastUpdated: "2025-08-07"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/blogGaya.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png"
 description: "Varanasi to Gaya/Bodh Gaya tour package 2025: itinerary, trains, taxis and the Kashi–Gaya spiritual route. See fares and plan your yatra."
 tags:
   - varanasi
@@ -28,7 +28,7 @@ relatedPosts:
 
 > **TL;DR:** Varanasi to Gaya and Bodh Gaya tour package covers 248 km via NH19 with 3-day plans priced ₹11,000–₹13,000 for sedan transport, delivering Mahabodhi meditation and Vishnupad Pind Daan. Lock Pitru Paksha slots early and fix dakshina with your panda before rituals. Scroll for itineraries, fare grids, and WhatsApp coordination.
 
-![Train option for Gaya/Bodh Gaya](/images/GayaTrain.jpg "Fast trains connect Varanasi to Gaya conveniently")
+![Train option for Gaya/Bodh Gaya](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaTrain.jpg "Fast trains connect Varanasi to Gaya conveniently")
 
 ## The Kashi Gaya Spiritual Route
 
@@ -38,7 +38,7 @@ A journey from Varanasi to Gaya/Bodh Gaya connects two deeply spiritual destinat
 - Seek blessings for ancestors at Gaya.  
 - Meditate under the serene Bodhi Tree at the Mahabodhi Temple.
 
-![Taxi option for flexible multi-day circuits](/images/GayaTaxi.jpg "Comfortable taxis for the Varanasi ↔ Gaya/Bodh Gaya circuit")
+![Taxi option for flexible multi-day circuits](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaTaxi.jpg "Comfortable taxis for the Varanasi ↔ Gaya/Bodh Gaya circuit")
 
 Thus the **Kashi–Gaya spiritual route** spans religions and generations—personal salvation and ancestor salvation.
 

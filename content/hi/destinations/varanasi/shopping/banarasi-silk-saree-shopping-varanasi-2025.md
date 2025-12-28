@@ -18,7 +18,7 @@ tags:
   - silk
   - souvenirs
 template: destination
-featuredImage: "/images/varanasi-hero.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png"
 eyebrow: "शॉपिंग गाइड"
 ctaTitle: "शॉपिंग डे ब्लॉक करें?"
 ctaSubtitle: "मधुबन → ठठेरी → एयरपोर्ट ड्रॉप के लिए फुल-डे टैक्सी अभी रिज़र्व करें।"
@@ -34,7 +34,7 @@ ctaSubtitle: "मधुबन → ठठेरी → एयरपोर्ट �
 | **आदर्श समय** | 4-6 घंटे (टैक्सी + चाय ब्रेक) |
 | **पेयरिंग** | [सूर्योदय योग](/hi/destinations/varanasi/activities/sunrise-yoga-varanasi-2025), [मलाईयो वॉक](/hi/destinations/varanasi/food/malaiyo-varanasi-guide) |
 
-![काशी विश्वनाथ इलाक़ा](/images/varanasi-kashivishwanath-outside-l.jpeg "मंदिर और मार्केट के बीच")
+![काशी विश्वनाथ इलाक़ा](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashivishwanath-outside-l.jpeg "मंदिर और मार्केट के बीच")
 
 ### बनारसी साड़ी की प्रमुख किस्में
 

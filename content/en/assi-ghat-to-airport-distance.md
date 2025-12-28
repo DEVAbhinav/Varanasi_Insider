@@ -5,7 +5,7 @@ date: "2025-07-28"
 lastUpdated: "2025-07-28"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/blogbhugate.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogbhugate.jpg"
 metaTitle: "Assi Ghat to Varanasi Airport: 2025 Taxi Fare & Distance Guide"
 metaDescription: "Assi Ghat to Varanasi airport taxi: ₹800-₹1400 fares, 27-28 km distance, travel time, and booking tips for 2025."
 description: "Assi Ghat to Varanasi airport: ₹800-₹1400 taxi fares, 27-28 km distance, 40-60 min travel time, and booking tips for 2025."
@@ -47,7 +47,7 @@ Answer Box
 
 Planning your travel between Assi Ghat and Lal Bahadur Shastri International Airport (VNS)? This guide provides key details on the distance, travel time, and expected taxi fares to help you plan a smooth journey.
 
-![Assi Ghat lanes warming up before the airport taxi pickup window](/images/varanasi-assi-ghat-sunrise.jpeg "Assi Ghat at sunrise")
+![Assi Ghat lanes warming up before the airport taxi pickup window](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "Assi Ghat at sunrise")
 
 ## Varanasi Airport to Assi Ghat Distance
 
@@ -58,7 +58,7 @@ Planning your travel between Assi Ghat and Lal Bahadur Shastri International Air
 > **Call:** **[9450301573](tel:9450301573)**  
 > **Visit:** **[www.kashitaxi.in](https://www.kashitaxi.in)**
 
-![Driver holding name placard at Varanasi airport arrivals exit](/images/airport-taxi-600x400.jpeg "Airport taxi pickup at VNS")
+![Driver holding name placard at Varanasi airport arrivals exit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg "Airport taxi pickup at VNS")
 
 ---
 

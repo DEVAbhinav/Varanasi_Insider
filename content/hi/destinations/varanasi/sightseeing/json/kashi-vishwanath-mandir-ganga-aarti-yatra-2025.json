@@ -11,7 +11,7 @@
       "description": "काशी विश्वनाथ मंदिर दर्शन और गंगा आरती को जोड़ने वाली संपूर्ण आध्यात्मिक यात्रा गाइड—समय, अनुष्ठान, कॉरिडोर मार्ग और 2025 के लिए अंदरूनी टिप्स।",
       "image": [
         "https://www.kashitaxi.in/images/kashi-vishwanath-temple-varanasi.jpeg",
-        "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"
       ],
       "datePublished": "2025-06-19",
       "dateModified": "2025-06-19",
@@ -24,7 +24,7 @@
         "name": "काशी टैक्सी",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+          "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg"
         },
         "@id": "https://www.kashitaxi.in#organization"
       },

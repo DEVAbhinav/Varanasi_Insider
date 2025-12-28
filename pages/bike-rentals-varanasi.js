@@ -251,7 +251,7 @@ export default function BikeRentalsPage({ allPosts }) {
         {/* Hero Section */}
         <section className="relative h-[60vh] min-h-[400px] text-white">
           <Image
-            src="/images/scooty-varanasi-ghat.jpeg"
+            src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/scooty-varanasi-ghat.jpeg"
             alt="A scooty parked with a view of the Varanasi ghats at sunrise"
             layout="fill"
             objectFit="cover"

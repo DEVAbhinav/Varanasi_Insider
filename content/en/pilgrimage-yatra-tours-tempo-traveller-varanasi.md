@@ -21,9 +21,9 @@ Varanasi is a gateway to revered yatras across UP and beyond. Travel together in
 
 ## Vehicle Photos
 
-![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for pilgrimage/yatra groups")
+![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for pilgrimage/yatra groups")
 
-![Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Roomy coach suitable for yatras")
+![Tempo Traveller — side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Roomy coach suitable for yatras")
 
 ## Our Specialized Pilgrimage (Yatra) Packages
 

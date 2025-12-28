@@ -3,6 +3,17 @@ const nextConfig = {
   // Force no trailing slashes to prevent duplicate content
   trailingSlash: false,
 
+  // Allow images from Cloudinary CDN
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'res.cloudinary.com',
+        pathname: '/dkntlqbwr/**',
+      },
+    ],
+  },
+
   webpack: (config) => {
     config.resolve.alias = {
       ...config.resolve.alias,

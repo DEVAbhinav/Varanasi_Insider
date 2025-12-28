@@ -6,7 +6,7 @@ lastUpdated: "2025-12-17"
 author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing/"
-featuredImage: "/images/dashashwamedh-aarti-platforms-2025.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg"
 metaTitle: "Dashashwamedh Ghat Aarti Time: 5:45 PM (Winter) | Best Spots 2025"
 metaDescription: "Winter aarti 5:45 PM, summer 6:45 PM. Arrive 40 min early for front row. VIP chairs ₹150-250. Boat view ₹200/person. Crowd peaks 800+ people →"
 description: "Tonight's Dashashwamedh Ghat Ganga Aarti timing, crowd curve, VIP seat tactics, and exit routes straight from 2025 ground notes."
@@ -69,7 +69,7 @@ According to the *Ramayana*, Lord Rama performed the **Ashwamedha Yajña** h
 
 Today this iconic ghat hosts Varanasi’s **grandest evening ritual**—a 45‑minute multi‑stage offering where priests synchronize bells, conch (shankh) blasts and layered brass lamps to Sanskrit mantras.
 
-![Dashashwamedh Ghat crowd packed 10 minutes before lamp ignition](/images/ganga-aarti-ceremony-2025.jpg "Dashashwamedh Ganga Aarti crowd density 10 minutes pre start – elevated view")
+![Dashashwamedh Ghat crowd packed 10 minutes before lamp ignition](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg "Dashashwamedh Ganga Aarti crowd density 10 minutes pre start – elevated view")
 
 ---
 
@@ -113,7 +113,7 @@ Today this iconic ghat hosts Varanasi’s **grandest evening ritual**—a 45‑m
 
 > **Tip:** If filming, stabilize on boat by bracing elbows to torso; avoid tripods on public steps (police may ask removal on crowded nights).
 
-![Side perspective priest raising multi-tier lamp at peak of ceremony](/images/ganga-aarti-solo.jpeg "Side ground perspective – multi-tier lamp phase, August 2025")
+![Side perspective priest raising multi-tier lamp at peak of ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-solo.jpeg "Side ground perspective – multi-tier lamp phase, August 2025")
 
 ---
 
@@ -148,7 +148,7 @@ For exhaustive fare grids & seat classes see our dedicated evening & sunrise boa
 4. **Flower / diya offerings** – visual crescendo  
 5. **Final collective mantra** – crowd vocal peak  
 
-![Wide downstream shot showing synchronized priests and river boats](/images/ganga-aarti.jpeg "Wide downstream alignment – synchronized lamp rotation phase")
+![Wide downstream shot showing synchronized priests and river boats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg "Wide downstream alignment – synchronized lamp rotation phase")
 
 ---
 

@@ -7,7 +7,7 @@ metaTitle: "महा शिवरात्रि 2026 काशी विश्
 metaDescription: "काशी विश्वनाथ महा शिवरात्रि 2026: 4–8 घंटे कतार वास्तविकता, 14 Feb दर्शन विकल्प, टाइम स्लॉट रणनीति, VIP दरवाज़ा स्थिति, सुरक्षित भीड़ नेविगेशन।"
 description: "शिवरात्रि 2026 (15 Feb) काशी विश्वनाथ भीड़ प्रबंधन – आगमन टाइमिंग, वैकल्पिक पूर्व दिवस दर्शन, रात बनाम भोर विकल्प, आपात भीड़ सुरक्षा, अन्य शक्तिशाली शिव मंदिर।"
 keywords: ["kashi vishwanath shivaratri guide hindi","महा शिवरात्रि काशी भीड़","kashi vishwanath queue time hindi","shivaratri darshan strategy kashi","kashi vip darshan shivaratri","kashi alternative shiva temples","kal bhairav shivaratri","tilbhandeshwar temple hindi","kashi crowd safety","shivaratri queue survival"]
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 relatedPosts:
   - manikarnika-ghat-sacred-cremation-grounds
   - dashashwamedh-ghat-ganga-aarti-timing

@@ -37,7 +37,7 @@ Travelling with parents, kids, and maybe a family pandit? The 12 seater Tempo Tr
 
 > **Key Specs:** 11 + driver seating · ₹14,500 same-day · 220 km one way · dual AC vents · ambient lighting · USB chargers.
 
-| ![12-seater Traveller ready outside Ayodhya Ram Mandir parking](/images/AyodhyaBus1.jpg "12-seater staged for family charter") | ![Interior view showing compact 12-seater layout with ambient lights](/images/tempo-travellar-inside.jpeg "Comfortable 12-seater seating layout") | ![Close-up of cushioned seats with seatbelts and storage pockets](/images/Tempo_travellar_seat_closup.jpeg "Seat detail with storage and belts") |
+| ![12-seater Traveller ready outside Ayodhya Ram Mandir parking](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaBus1.jpg "12-seater staged for family charter") | ![Interior view showing compact 12-seater layout with ambient lights](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Comfortable 12-seater seating layout") | ![Close-up of cushioned seats with seatbelts and storage pockets](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_seat_closup.jpeg "Seat detail with storage and belts") |
 | --- | --- | --- |
 
 ## 12-Seater Tempo Traveller Seat Map & Amenities
@@ -73,9 +73,9 @@ Row 4: 3 seats + rear luggage bay
 
 ## 12-Seater Tempo Traveller Pricing & Add-Ons
 
-![Family sharing prasad inside Traveller during return leg](/images/tempo-travellar-side-l.jpeg "Family sharing prasad during return journey")
+![Family sharing prasad inside Traveller during return leg](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Family sharing prasad during return journey")
 
-![Compact Traveller entering Varanasi lane during drop-offs](/images/Tempo_travellar_side_back_white.jpeg "Traveller navigating Varanasi residential lane")
+![Compact Traveller entering Varanasi lane during drop-offs](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Traveller navigating Varanasi residential lane")
 
 | Component | Amount |
 | --- | --- |

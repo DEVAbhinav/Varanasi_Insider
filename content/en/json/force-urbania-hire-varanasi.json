@@ -29,7 +29,7 @@
         "@id": "https://www.kashitaxi.in#organization"
       },
       "category": "Premium Group Vehicle Rental",
-      "image": "https://www.kashitaxi.in/images/Urbania-front-Square.jpeg",
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-front-Square.jpeg",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

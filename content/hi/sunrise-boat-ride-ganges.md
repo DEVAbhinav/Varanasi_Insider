@@ -7,7 +7,7 @@ metaTitle: "सूर्योदय नाव यात्रा वारा�
 metaDescription: "वाराणसी सूर्योदय नाव यात्रा: आदर्श समय, मार्ग, किराया, बुकिंग तरीके, फोटो सुझाव व आचरण गाइड – 2025 अपडेट।"
 description: "सूर्योदय पर गंगा नाव अनुभव – क्यों करें, कैसे बुक करें, कितना समय, कौन सा घाट चुनें, लागत सीमा, फोटो व सांस्कृतिक शिष्टाचार।"
 keywords: ["sunrise boat ride varanasi hindi","वाराणसी सूर्योदय नाव","गंगा सूर्योदय बोट","assi ghat sunrise boat","dashashwamedh sunrise ride","varanasi morning boat tips","sunrise boat photography ghat","गंगा सुबह नाव कीमत","rowboat बनाम motorboat varanasi","subah-e-banaras program","best time boat varanasi","morning rituals ghat varanasi","varanasi boat safety","गंगा नाव शिष्टाचार"]
-featuredImage: "/images/varanasi-river-sunrise-boat-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
 relatedPosts:
   - morning-boat-ride-varanasi-price
   - guide-to-10-most-important-ghats-of-varanasi
@@ -22,7 +22,7 @@ canonical: "https://www.kashitaxi.in/hi/sunrise-boat-ride-ganges"
 
 # वाराणसी सूर्योदय नाव यात्रा – चरणबद्ध 2025 गाइड (sunrise boat ride varanasi)
 
-![Sunrise boat ride](/images/varanasi-river-sunrise-boat-p.jpeg "गंगा पर क्लासिक सूर्योदय नाव दृश्य")
+![Sunrise boat ride](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "गंगा पर क्लासिक सूर्योदय नाव दृश्य")
 
 > **क्यों अनिवार्य?** स्वर्ण प्रकाश + जागते अनुष्ठान + शांत जल। भीड़/शोर से पहले शुद्ध दृश्य + फ़ोटोग्राफ़ी गोल्डन ऑवर। *कीवर्ड:* sunrise boat ride varanasi / assi ghat sunrise boat / morning rituals.
 
@@ -44,7 +44,7 @@ canonical: "https://www.kashitaxi.in/hi/sunrise-boat-ride-ganges"
 - **ध्वनि परत:** शंख + मंत्र + चिड़िया।
 - **फोटोग्राफ़ी:** स्मूथ जल = परावर्तन; कम नौकायन व्यवधान।
 
-![Subah-e-Banaras योग व आरती मंच सेट](/images/varanasi-subeh-e-banaras-p.jpeg "अस्सी घाट भोर – कार्यक्रम संरचना पूर्व प्रकाश")
+![Subah-e-Banaras योग व आरती मंच सेट](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-subeh-e-banaras-p.jpeg "अस्सी घाट भोर – कार्यक्रम संरचना पूर्व प्रकाश")
 
 ## 3. समय एवं मासिक भिन्नता
 | महीना | बोर्डिंग (AM) | सूर्योदय (AM) | नोट |
@@ -69,7 +69,7 @@ Assi → (योग / Subah-e-Banaras) → केंद्रीय सज्ज
 
 **विस्तार विकल्प:** मनिकर्णिका आगे पंचगंगा / आदिकेशव तक (90–100m) – अतिरिक्त शुल्क।
 
-![Route mid-section soft light](/images/varanasi-ghat-wallpaper-p.jpeg "मिड-रूट नरम गुलाबी प्रकाश – एक्सपोज़र संतुलन उदाहरण")
+![Route mid-section soft light](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-wallpaper-p.jpeg "मिड-रूट नरम गुलाबी प्रकाश – एक्सपोज़र संतुलन उदाहरण")
 
 ## 6. क्या अपेक्षा करें (What to Expect)
 - मंद रोशनी → धीरे उजाला; नाव स्थितिकरण सूर्य प्रकट से ठीक पहले।
@@ -84,7 +84,7 @@ Assi → (योग / Subah-e-Banaras) → केंद्रीय सज्ज
 | कदमों पर दीप शेष | 70–200mm कॉम्प्रेशन |
 | पक्षी उड़ान | शटर 1/1000 (प्रारंभिक प्रकाश) |
 
-![Pure golden flare moment](/images/varanasi-sunrise-p.jpeg "सूर्य डिस्क प्रकट – बैकलाइट सिल्हूट फ्रेमिंग")
+![Pure golden flare moment](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-sunrise-p.jpeg "सूर्य डिस्क प्रकट – बैकलाइट सिल्हूट फ्रेमिंग")
 
 ## 8. शिष्टाचार / व्यवहार
 - अनुष्ठान क्लोज़-अप पर अनुमति नहीं।
@@ -98,7 +98,7 @@ Assi → (योग / Subah-e-Banaras) → केंद्रीय सज्ज
 | मोटरबोट (≤15) | ₹3,500–₹4,500 | हल्का इंजन | मध्यम | दूरी कवर |
 | साझा रो सीट | ₹100–₹180 | समूह | मध्यम | बजट लचीला |
 
-![Luxury bajra deck example](/images/varanasi-river-bajra.jpeg "उच्च प्रीमियम / विशेष समूह विकल्प – ऊँचा दृष्टिकोण")
+![Luxury bajra deck example](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-bajra.jpeg "उच्च प्रीमियम / विशेष समूह विकल्प – ऊँचा दृष्टिकोण")
 
 ## 10. सुरक्षा संकेत
 - बोर्डिंग लकड़ी स्लिपरी – समतल ग्रिप जूते।

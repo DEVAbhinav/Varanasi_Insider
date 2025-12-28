@@ -21,7 +21,7 @@ tags:
   - music
   - festivals
 template: destination
-featuredImage: "/images/varanasi-boat-eve-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "Music & Spirituality"
 ctaTitle: "Attending the Festival?"
 ctaSubtitle: "Secure your airport transfer to Guleria Kothi or Shivala Ghat in advance."
@@ -64,7 +64,7 @@ organizer:
 
 The **Mahindra Kabira Festival** celebrates the revolutionary philosophy of Kabir, the 15th-century saint-poet who challenged social norms and preached a message of unity and spiritual equality. Held annually on the banks of the sacred Ganges, the festival transforms three days into a profound cultural experience that resonates across centuries.
 
-![Evening boat on the Ganges during Kabira Festival](/images/varanasi-boat-eve-l.jpeg "Evening concerts on the ghats during Mahindra Kabira Festival")
+![Evening boat on the Ganges during Kabira Festival](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg "Evening concerts on the ghats during Mahindra Kabira Festival")
 
 ### What's Happening at the Festival
 
@@ -98,7 +98,7 @@ The **Mahindra Kabira Festival** celebrates the revolutionary philosophy of Kabi
 
 Unlike large commercial events, Kabira Festival maintains intimacy and depth. You'll be surrounded by classical musicians, poets, intellectuals, and spiritual seekers. The festival addresses timeless questions about identity, spirituality, and social harmony – themes that feel increasingly relevant. December's weather creates a magical backdrop – cool mornings by the river, golden sunlight during performances, and crisp evenings.
 
-![Ganga Aarti ceremony during festival season](/images/ganga-aarti-ceremony-2025.jpg "Evening aarti complements the Kabira Festival spiritual atmosphere")
+![Ganga Aarti ceremony during festival season](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg "Evening aarti complements the Kabira Festival spiritual atmosphere")
 
 **For Photography Lovers:** The convergence of ancient temples, river reflections, and performances creates stunning visual opportunities.
 

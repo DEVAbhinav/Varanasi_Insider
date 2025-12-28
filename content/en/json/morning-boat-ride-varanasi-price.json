@@ -12,10 +12,10 @@
         "name": "Kamal Nayan Singh"
       },
       "image": [
-        "https://www.kashitaxi.in/images/varanasi-river-sunrise-boat-p.jpeg",
-        "https://www.kashitaxi.in/images/varanasi-boat-bird-river-p.jpeg",
-        "https://www.kashitaxi.in/images/varanasi-river-bajra.jpeg",
-        "https://www.kashitaxi.in/images/varanasi-assi-ghat-sunrise.jpeg"
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg",
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-bird-river-p.jpeg",
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-bajra.jpeg",
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg"
       ],
       "description": "Morning boat ride Varanasi prices 2025 with tariff vs operator premium deltas, cost drivers, negotiation benchmarks, surcharge multipliers and scenario counter offers.",
       "keywords": "morning boat ride varanasi price, varanasi boat ride cost, sunrise boat ride varanasi, ganga boat ride price, private boat ride varanasi, shared boat ride varanasi",
@@ -28,7 +28,7 @@
         "name": "Varanasi Taxi | Vinayak Travels Varanasi",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+          "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg"
         },
         "@id": "https://www.kashitaxi.in#organization"
       }

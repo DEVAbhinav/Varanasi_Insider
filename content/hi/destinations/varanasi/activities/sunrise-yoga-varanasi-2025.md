@@ -19,7 +19,7 @@ tags:
   - yoga
   - spirituality
 template: destination
-featuredImage: "/images/varanasi-ghat-early-morning.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg"
 eyebrow: "वेलनेस & स्पिरिट"
 ctaTitle: "योग के लिए टैक्सी चाहिए?"
 ctaSubtitle: "असी या दशाश्वमेध घाट तक सुबह 4:45 बजे की ड्रॉपिंग के लिए अभी कैब ब्लॉक करें।"
@@ -43,7 +43,7 @@ ctaSubtitle: "असी या दशाश्वमेध घाट तक स�
 
 वाराणसी में योग सिर्फ़ स्ट्रेचिंग नहीं, बल्कि गंगा किनारे बैठकर चेतना से जुड़ने का अनुभव है। सदियों से साधकों की तपस्या ने इन घाटों को ऊर्जावान बनाया है, इसलिए यहाँ की साधना विशेष गहराई देती है।
 
-![असी घाट सूर्योदय अभ्यास](/images/varanasi-assi-ghat-sunrise.jpeg "असी घाट पर सुबह योग सत्र")
+![असी घाट सूर्योदय अभ्यास](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "असी घाट पर सुबह योग सत्र")
 
 ### असी घाट: योग राजधानी
 
@@ -61,7 +61,7 @@ ctaSubtitle: "असी या दशाश्वमेध घाट तक स�
 
 ### दिसंबर का अनुभव
 
-![Subah-e-Banaras कार्यक्रम](/images/varanasi-subeh-e-banaras-p.jpeg "सूर्योदय योग और सांस्कृतिक कार्यक्रम")
+![Subah-e-Banaras कार्यक्रम](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-subeh-e-banaras-p.jpeg "सूर्योदय योग और सांस्कृतिक कार्यक्रम")
 
 - तापमान 8-12°C – शरीर सतर्क रहता है, प्राणायाम गहरा होता है।
 - कोहरा केवल शुरुआती दिनों में; 10-22 दिसंबर सबसे स्पष्ट।

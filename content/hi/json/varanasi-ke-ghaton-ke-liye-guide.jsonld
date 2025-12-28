@@ -11,8 +11,8 @@
   "description": "वाराणसी के प्रसिद्ध घाटों की मेरी पर्सनल गाइड। दशाश्वमेध घाट से लेकर अस्सी घाट तक, यहाँ हर घाट का अनुभव विस्तार से जानें।",
   "inLanguage": "hi",
   "image": [
-    "https://www.kashitaxi.in/images/varanasi.jpg",
-    "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
+    "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi.jpg",
+    "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"
    ],
   "url": "https://www.kashitaxi.in/hi/varanasi-ke-ghaton-ke-liye-guide",
   "publisher": {
@@ -20,7 +20,7 @@
     "name": "Vinayak Travels",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://www.kashitaxi.in/images/logo.jpeg"
+      "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg"
     }
   },
   "mainEntityOfPage": {

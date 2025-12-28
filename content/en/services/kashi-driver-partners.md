@@ -20,7 +20,7 @@ tags:
   - partners
   - team
 template: destination
-featuredImage: "/images/tempo-travellar-outside-front-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg"
 eyebrow: "Driver Partners"
 ctaTitle: "Add or Update Your Profile"
 ctaSubtitle: "Drivers: share your photo and languages for the photo wall."

@@ -7,7 +7,7 @@ metaTitle: "देव दीपावली 2025 वाराणसी 5 नव�
 metaDescription: "देव दीपावली 2025 वाराणसी 5 नवम्बर: 84 घाट, 15+ लाख दीप, नाव राइड कीमत ₹200–₹13,000+, भीड़ प्रबंधन, श्रेष्ठ घाट, बुकिंग रणनीति।"
 description: "देव दीपावली (कात्तिक पूर्णिमा) 2025 वाराणसी – समयसूची, दीपदान मुहूर्त, नाव राइड, उत्तम व्यू प्वाइंट, ट्रैफिक व भीड़ सुरक्षा टिप्स।"
 keywords: ["देव दीपावली 2025 वाराणसी","dev deepawali varanasi hindi","karthik purnima varanasi","million lamps festival hindi","dev deepawali boat price hindi","dev deepawali best ghats","dev deepawali viewing spots hindi","dev deepawali crowd tips","dev deepawali transport","dev deepawali photography","देव दीपावली तिथि 2025","dev deepawali date varanasi","देव दीपावली नाव बुकिंग","dev deepawali timing varanasi","ganga mahotsav extension"]
-featuredImage: "/images/ganga-aarti.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"
 relatedPosts:
   - dev-deepawali-boat-ride-pricing-guide-2025
   - dev-deepawali-best-viewing-spots-varanasi

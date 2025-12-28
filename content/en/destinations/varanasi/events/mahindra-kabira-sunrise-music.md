@@ -17,7 +17,7 @@ tags:
   - music
   - sunrise
 template: destination
-featuredImage: "/images/varanasi-river-sunrise-boat-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
 eyebrow: "Exclusive Experience"
 ctaTitle: "Need an Early Morning Ride?"
 ctaSubtitle: "Pre-book your taxi for a 5:30 AM drop at the ghats to catch the sunrise sessions."
@@ -54,7 +54,7 @@ organizer:
 
 Imagine waking before dawn, wrapping yourself in a warm shawl, and making your way to the Ganges as stars fade and darkness lifts. You settle on the ancient steps by the water, and as the first light touches the horizon, a master sitar player's fingers dance across strings, creating *raag* – the classical Indian musical form that responds to time of day and emotional mood.
 
-![Sunrise boat on the Ganges](/images/varanasi-river-sunrise-boat-p.jpeg "Dawn music sessions unfold on the ghats as sunrise paints the river")
+![Sunrise boat on the Ganges](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Dawn music sessions unfold on the ghats as sunrise paints the river")
 
 This is the essence of the Mahindra Kabira Festival's morning music sessions – a rare convergence of art, spirituality, and nature.
 
@@ -146,7 +146,7 @@ While some official recordings may be available, the live experience is irreplac
 
 After the sunrise session ends around 7:15 AM, you have several options:
 
-![Morning boats and birds at the ghats](/images/Ganga-boat-birds-ghats-morning-l.jpeg "Early morning ghat life awakens after the sunrise concert")
+![Morning boats and birds at the ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Ganga-boat-birds-ghats-morning-l.jpeg "Early morning ghat life awakens after the sunrise concert")
 
 1. **Breakfast at Ghat-Side Cafe:** Enjoy [Malaiyo, Varanasi's winter dessert](/en/destinations/varanasi/food/malaiyo-varanasi-guide), hot chai, and kachoris while watching the city wake.
 2. **Immediate Ghat Walk:** Walk to nearby Dashashwamedh Ghat for morning Ganga Aarti (around 7:30 AM) – completes the spiritual morning.

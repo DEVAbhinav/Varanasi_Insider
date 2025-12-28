@@ -21,7 +21,7 @@ tags:
   - ghats
   - spirituality
 template: destination
-featuredImage: "/images/ganga-aarti-ceremony-2025.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg"
 eyebrow: "आरती समय गाइड"
 ctaTitle: "नदी से आरती देखना चाहते हैं?"
 ctaSubtitle: "सबसे अच्छे दृश्य के लिए नाव की सवारी बुक करें – कोई भीड़ नहीं, बेहतरीन व्यू।"

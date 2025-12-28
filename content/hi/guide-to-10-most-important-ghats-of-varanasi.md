@@ -7,7 +7,7 @@ metaTitle: "वाराणसी के 10 प्रसिद्ध घाट 2
 metaDescription: "गंगा आरती 6 PM, सुबह-ए-बनारस 5:30 AM, मोक्ष घाट मणिकर्णिका – 10 घाटों की पूरी जानकारी, समय, नियम और यात्रा टिप्स →"
 description: "कुल 80+ घाटों में से चयनित 10 – सांस्कृतिक, आध्यात्मिक, चित्रात्मक व अनुष्ठानिक महत्व के आधार पर सार व विस्तार।"
 keywords: ["varanasi ke ghat hindi","10 varanasi ghat guide","assi ghat subah-e-banaras","kedar ghat significance","harishchandra cremation ghat","dashashwamedh ganga aarti","man mandir observatory","scindia ghat submerged temple","manikarnika ghat moksha","panchganga ghat legend","adi keshav ghat origin","varanasi ghat history","kashi top ghats","ghat visit tips varanasi"]
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 relatedPosts:
   - sunrise-boat-ride-ganges
   - morning-boat-ride-varanasi-price
@@ -21,7 +21,7 @@ canonical: "https://www.kashitaxi.in/hi/guide-to-10-most-important-ghats-of-vara
 
 # वाराणसी के 10 सर्वाधिक महत्वपूर्ण घाट (top ghats varanasi 2025)
 
-![Varanasi ghats panorama](/images/varanasi-ghats-overview.jpeg "दक्षिण से उत्तर देखने का विस्तृत दृश्य")
+![Varanasi ghats panorama](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "दक्षिण से उत्तर देखने का विस्तृत दृश्य")
 
 > **क्यों ये 10?** धार्मिक (मोक्ष / पंचतीर्थ), ऐतिहासिक वास्तु, सांस्कृतिक कार्यक्रम, यात्रा व्यवहार्यता व फ़ोटोग्राफ़ी वैल्यू का संतुलन। *कीवर्ड:* varanasi ke ghat hindi / manikarnika ghat moksha / dashashwamedh ganga aarti.
 

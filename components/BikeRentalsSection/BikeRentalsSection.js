@@ -26,7 +26,7 @@ export default function BikeRentalsSection() {
             <div className="order-2 md:order-1">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/images/scooty-varanasi-ghat.jpeg"
+                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/scooty-varanasi-ghat.jpeg"
                   alt="Bike Rentals in Varanasi - Two Wheeler on Rent"
                   width={600}
                   height={400}

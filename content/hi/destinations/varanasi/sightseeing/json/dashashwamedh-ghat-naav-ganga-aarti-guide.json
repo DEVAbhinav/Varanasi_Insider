@@ -11,7 +11,7 @@
       "description": "दशाश्वमेध घाट की संपूर्ण 2025 गाइड—शाम की गंगा आरती का समय, नाव की सवारी के विकल्प, फोटोग्राफी टिप्स और दोनों अनुभवों को कैसे मिलाएं।",
       "image": [
         "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg",
-        "https://www.kashitaxi.in/images/ganga-aarti.jpeg"
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"
       ],
       "datePublished": "2025-06-19",
       "dateModified": "2025-06-19",
@@ -24,7 +24,7 @@
         "name": "काशी टैक्सी",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+          "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg"
         },
         "@id": "https://www.kashitaxi.in#organization"
       },

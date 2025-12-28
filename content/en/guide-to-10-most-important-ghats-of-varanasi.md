@@ -18,7 +18,7 @@ metaDescription: "Explore the 10 most important ghats of Varanasi, from Assi to 
 
 <!-- Moved panoramic image below TL;DR to prioritize summary-first flow. -->
 
-![Panoramic view of Varanasi ghats](/images/varanasi-ghats-overview.jpeg "Panoramic view of Varanasi ghats")
+![Panoramic view of Varanasi ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Panoramic view of Varanasi ghats")
 
 ## Introduction
 
@@ -60,7 +60,7 @@ The following ghats are presented in geographical order from south to north, mak
 - **Significance:** Famous for the evening Ganga Aarti and its mythological ties to Lord Brahma
 - **Description:** [Dashashwamedh Ghat](/en/dashashwamedh-ghat-ganga-aarti-timing) is the heart of Varanasi, known for its vibrant Ganga Aarti ceremony held every evening. According to legend, Lord Brahma performed ten horse sacrifices (Dasa Ashwamedha Yajna) here to welcome Lord Shiva. The ghat is always bustling with pilgrims, priests, and tourists, offering a lively atmosphere and opportunities for boat rides to view the aarti from the river. For detailed timings, see our [Ganga Aarti timing guide](/en/dashashwamedh-ghat-ganga-aarti-timing).
 
-![Evening lights and boats near the ghats](/images/varanasi-ghat-boat-eve-p.jpeg "Evening lights and boats near the ghats")
+![Evening lights and boats near the ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "Evening lights and boats near the ghats")
 
 ### 6. Man Mandir Ghat
 

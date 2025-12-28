@@ -10,7 +10,7 @@ export default function Header({ title, featuredImage }) {
           {/* Logo */}
           <div className={styles.logo}>
             <Image
-              src="/images/logo.jpeg"
+              src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg"
               alt="Varanasi Taxi Logo"
               width={40}
               height={40}

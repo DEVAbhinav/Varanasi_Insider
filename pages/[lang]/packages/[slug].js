@@ -30,7 +30,7 @@ const waLink = (phone, text) => `https://wa.me/91${phone}?text=${encodeURICompon
 export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPackages, pageLang, pageSlug, alternateLanguages = [] }) {
   const { title, subtitle, heroImage, coverAlt, phone = "9450301573", components, tiers = [], addOns = [], vehicles = [], seasonNotes = {}, breadcrumbs = [], faqs = [] } = pkgData || {};
   const bufferPct = components?.buffer_percent ?? 10;
-  const [imgSrc, setImgSrc] = useState(heroImage && heroImage.trim() ? heroImage : "/images/varanasi-hero.png");
+  const [imgSrc, setImgSrc] = useState(heroImage && heroImage.trim() ? heroImage : "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png");
 
   // Build visible breadcrumb in-page (HeadForBlogs will also get JSON-LD)
   const crumbs = breadcrumbs?.length
@@ -77,7 +77,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
         <section className="relative">
           {heroImage && (
             <div className="relative aspect-[16/7] w-full overflow-hidden">
-              <Image src={imgSrc} alt={coverAlt || title || "Varanasi package"} fill priority className="object-cover" onError={() => setImgSrc('/images/varanasi-hero.png')} />
+              <Image src={imgSrc} alt={coverAlt || title || "Varanasi package"} fill priority className="object-cover" onError={() => setImgSrc('https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png')} />
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-background via-background/30 to-transparent" />
             </div>
           )}
@@ -353,7 +353,7 @@ export async function getStaticProps({ params }) {
       "@type": "Product",
       name: `${t.name} (${t.duration || ""})`,
       description: (t.includes || []).join("; "),
-      image: frontmatter.heroImage ? `https://www.kashitaxi.in${frontmatter.heroImage}` : "https://www.kashitaxi.in/images/varanasi-hero.png",
+      image: frontmatter.heroImage ? `https://www.kashitaxi.in${frontmatter.heroImage}` : "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png",
       brand: { "@type": "Brand", name: "Varanasi Taxi" },
       areaServed: "Varanasi",
       offers: {

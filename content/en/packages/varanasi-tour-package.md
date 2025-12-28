@@ -18,7 +18,7 @@ lastUpdated: "2025-10-26"
 
 # Varanasi Tour Package: Complete City Tour & Temple Tour Guide 2025
 
-![Varanasi Ghats Early Morning](/images/varanasi-ghat-early-morning.jpeg)
+![Varanasi Ghats Early Morning](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg)
 *Serene morning view of Varanasi's ancient ghats along the holy Ganges*
 
 > **TL;DR:** Varanasi tour packages range ₹7,000–₹50,000+ covering complete Varanasi city tour, Varanasi temple tour (Kashi Vishwanath), 84 ghats, Ganga Aarti (evening: 18:00 winter/19:00 summer), Sarnath Buddhist site, and multi-city circuits. Best time for Varanasi tour: **November–March** (10–25°C). Peak festivals: **Dev Deepawali (Nov 24)**, **Mahashivratri (Feb 15)**. Accommodations: ₹199 budget to ₹50,000 heritage palaces.
@@ -83,7 +83,7 @@ This **1-day Varanasi city tour** covers all essential attractions:
 
 ### Varanasi Temple Tour: Kashi Vishwanath & Sacred Temples
 
-![Kashi Vishwanath Temple](/images/kashi-vishwanath-ganga-dwar.jpeg)
+![Kashi Vishwanath Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashi-vishwanath-ganga-dwar.jpeg)
 *The magnificent Kashi Vishwanath Temple - spiritual heart of Varanasi with 800 kg gold tower*
 
 #### Kashi Vishwanath Temple Complex
@@ -113,7 +113,7 @@ This **1-day Varanasi city tour** covers all essential attractions:
 
 #### The Ghats Experience: Essential Varanasi City Tour
 
-![Varanasi Ghats Overview](/images/varanasi-ghats-overview.jpeg)
+![Varanasi Ghats Overview](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg)
 *Panoramic view of Varanasi's 84 sacred ghats stretching along the Ganges River*
 
 Varanasi features **84 ghats** along the Ganges—a must-see on any **Varanasi city tour**:
@@ -155,7 +155,7 @@ Varanasi features **84 ghats** along the Ganges—a must-see on any **Varanasi c
 
 ### Ganga Aarti: Highlight of Every Varanasi Tour
 
-![Ganga Aarti Ceremony at Dashashwamedh Ghat](/images/ganga-aarti-ceremony-2025.jpg)
+![Ganga Aarti Ceremony at Dashashwamedh Ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg)
 *Evening Ganga Aarti ceremony - the most mesmerizing spiritual experience in Varanasi*
 
 The **Ganga Aarti** is the most iconic experience in any **Varanasi tour package**—attracting thousands of spectators daily with synchronized brass lamp ceremonies.

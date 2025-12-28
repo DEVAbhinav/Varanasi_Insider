@@ -10,8 +10,8 @@
       "headline": "Ganga Aarti Dashashwamedh Ghat Timing Today (2025) – Best Viewpoints & Crowd Curve Planning",
       "image": [
         "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg",
-        "https://www.kashitaxi.in/images/ganga-aarti.jpeg",
-        "https://www.kashitaxi.in/images/ganga-aarti-solo.jpeg",
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg",
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-solo.jpeg",
         "https://www.kashitaxi.in/images/ganga-aarti2.jpeg"
       ],
       "datePublished": "2025-07-22",
@@ -25,7 +25,7 @@
         "name": "Varanasi Taxi | Vinayak Travels Varanasi",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.kashitaxi.in/images/logo.jpeg"
+          "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/logo.jpeg"
         },
         "@id": "https://www.kashitaxi.in#organization"
       },
@@ -50,8 +50,8 @@
         }
       },
       "image": [
-        "https://www.kashitaxi.in/images/ganga-aarti.jpeg",
-        "https://www.kashitaxi.in/images/ganga-aarti-solo.jpeg",
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg",
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-solo.jpeg",
         "https://www.kashitaxi.in/images/ganga-aarti2.jpeg"
       ],
       "offers": [
@@ -133,7 +133,7 @@
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock"
       },
-      "image": "https://www.kashitaxi.in/images/varanasi-hero.png",
+      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png",
       "endDate": "2025-11-12T14:00:00+05:30"
     },
     {

@@ -5,7 +5,7 @@ date: "2025-10-26"
 lastUpdated: "2025-12-17"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 metaTitle: "Varanasi Sightseeing 2025: 30+ Attractions, Timings & Maps [Local Guide]"
 metaDescription: "84 ghats, Ganga Aarti at 6 PM, boat rides from ₹150, Sarnath, Kashi Vishwanath + 1-3 day itineraries. Updated Dec 2025 →"
 description: "Comprehensive Varanasi sightseeing guide covering ghats, Ganga Aarti, boat rides, Sarnath, temples, 1-3 day itineraries, and all practical travel information for 2025."
@@ -73,7 +73,7 @@ Varanasi, also known as Kashi or Banaras, stands as one of the world's oldest co
 
 Whether you're planning a quick one-day tour or an immersive multi-day journey, understanding the city's rhythms—from the predawn bathing rituals at Assi Ghat to the mesmerizing evening ceremonies at Dashashwamedh Ghat—will transform your visit into an unforgettable spiritual adventure.
 
-![Panoramic view of Varanasi ghats along the Ganges](/images/varanasi-ghats-overview.jpeg "Panoramic view of Varanasi's ghats")
+![Panoramic view of Varanasi ghats along the Ganges](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Panoramic view of Varanasi's ghats")
 
 ---
 
@@ -102,7 +102,7 @@ The optimal period for visiting this Banaras tourist spot is **October through M
 
 **By Air**
 
-![Airport taxi service](/images/airport-taxi-600x400.jpeg "Airport taxi in Varanasi")
+![Airport taxi service](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg "Airport taxi in Varanasi")
 
 **Lal Bahadur Shastri International Airport** (VNS) is located approximately 25 km northwest of Varanasi city center in Babatpur. The airport connects to major Indian cities including Delhi, Mumbai, and Kolkata, with some international flights.
 
@@ -116,13 +116,13 @@ The optimal period for visiting this Banaras tourist spot is **October through M
 
 **By Train**
 
-![BHU famous entrance gate](/images/blogbhugate.jpg "Banaras Hindu University main gate")
+![BHU famous entrance gate](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogbhugate.jpg "Banaras Hindu University main gate")
 
 Varanasi Junction (also called Varanasi Cantt) is the main railway station, well-connected to all major Indian cities. The station is approximately 5-7 km from the main ghat area.
 
 **By Road**
 
-![Luxury Tempo Traveller interior](/images/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller for comfortable group travel")
+![Luxury Tempo Traveller interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller for comfortable group travel")
 
 Regular buses and private vehicles connect Varanasi to nearby cities. The NH19 highway links Varanasi to Allahabad (122 km) and other destinations.
 
@@ -136,9 +136,9 @@ Varanasi is generally safe for tourists, but awareness of local conditions enhan
 
 **Women Travelers**: Dress conservatively with covered shoulders and legs. Avoid going out alone late at night in isolated areas.
 
-![Solo female traveller at Varanasi ghat](/images/solo-femal-traveller-varanasi.jpeg "Solo female traveller exploring Varanasi")
+![Solo female traveller at Varanasi ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg "Solo female traveller exploring Varanasi")
 
-![Female traveller with sadhu](/images/female-traveller-sadhu.jpeg "Female tourist interacting respectfully with sadhu")
+![Female traveller with sadhu](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/female-traveller-sadhu.jpeg "Female tourist interacting respectfully with sadhu")
 
 **Monkeys**: Be cautious of monkeys on rooftops near temples and ghats. Many hotels install wire mesh as protection. Don't carry visible food.
 
@@ -150,11 +150,11 @@ Varanasi is generally safe for tourists, but awareness of local conditions enhan
 
 Varanasi's 84 ghats form the beating heart of the city, stretching along the western bank of the Ganges for approximately 7 kilometers. These stone steps serve as theaters for life, death, devotion, and daily rituals that have remained unchanged for millennia.
 
-![Morning boat ride along Varanasi ghats](/images/varanasi-ghat-early-morning.jpeg "Morning boat ride along the ghats")
+![Morning boat ride along Varanasi ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "Morning boat ride along the ghats")
 
 ### Dashashwamedh Ghat: Main Ganga Aarti Location
 
-![Evening Ganga Aarti with brass lamps and priests](/images/ganga-aarti-ceremony-2025.jpg "Evening Ganga Aarti ceremony at Dashashwamedh Ghat")
+![Evening Ganga Aarti with brass lamps and priests](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg "Evening Ganga Aarti ceremony at Dashashwamedh Ghat")
 
 **Spiritual Significance**
 
@@ -179,7 +179,7 @@ Every evening, seven or more priests dressed in ceremonial robes perform a synch
 
 ### Assi Ghat: Best Sunrise Ghat in Varanasi
 
-![Assi Ghat morning aarti ceremony](/images/assi-aarti-evening-l.jpeg "Morning aarti at Assi Ghat")
+![Assi Ghat morning aarti ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/assi-aarti-evening-l.jpeg "Morning aarti at Assi Ghat")
 
 Located at the southern end where the Assi River meets the Ganges, Assi Ghat offers a more tranquil alternative to the crowds of Dashashwamedh. This spacious ghat is a pilgrimage spot where devotees bathe before worshipping the Shiva Lingam under a pipal tree.
 
@@ -251,7 +251,7 @@ Approximately 300 bodies are cremated daily at this ghat, operating 24/7. Famili
 
 The Ganga Aarti is the crown jewel of any Varanasi sightseeing experience, offering visitors a deeply moving encounter with living Hindu spirituality.
 
-![Evening Ganga Aarti ceremony with brass lamps](/images/varanasi-ghat-boat-eve-p.jpeg "Evening Ganga Aarti at Dashashwamedh Ghat")
+![Evening Ganga Aarti ceremony with brass lamps](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "Evening Ganga Aarti at Dashashwamedh Ghat")
 
 ### Ganga Aarti Timings in Varanasi (2025 Updated)
 
@@ -269,9 +269,9 @@ The evening aarti is Varanasi's grandest ritual, performed daily at Dashashwamed
 
 > For complete 2025 timing details, season variations, and best viewing spots, see our comprehensive **[Ganga Aarti Timing Varanasi 2025](/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2025)** guide.
 
-![Priests performing Ganga Aarti with platforms](/images/dashashwamedh-aarti-platforms-2025.jpg "Priests on platforms during Ganga Aarti")
+![Priests performing Ganga Aarti with platforms](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg "Priests on platforms during Ganga Aarti")
 
-![River view of Ganga Aarti ceremony](/images/ganga-river-aarti-view-2025.jpg "View of Ganga Aarti from the river")
+![River view of Ganga Aarti ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-river-aarti-view-2025.jpg "View of Ganga Aarti from the river")
 
 **Morning Aarti at Assi Ghat**
 
@@ -321,9 +321,9 @@ A more intimate ceremony welcoming the sunrise:
 
 A boat ride on the sacred Ganges is **essential for any Varanasi sightseeing itinerary**, offering perspectives of the ghats impossible to experience from land.
 
-![Sunrise boat ride on the Ganges](/images/varanasi-sunrise-p.jpeg "Sunrise boat ride with morning mist")
+![Sunrise boat ride on the Ganges](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-sunrise-p.jpeg "Sunrise boat ride with morning mist")
 
-![Boat with bird on the Ganges](/images/varanasi-boat-bird-river-p.jpeg "Traditional boat ride on the Ganges River")
+![Boat with bird on the Ganges](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-bird-river-p.jpeg "Traditional boat ride on the Ganges River")
 
 ### Sunrise Boat Ride Varanasi: Best Time & Experience
 
@@ -340,7 +340,7 @@ The golden hour between **5:00-7:00 AM** transforms Varanasi into an ethereal dr
 
 ### Evening Boat Ride Varanasi with Ganga Aarti
 
-![Evening boat ride near ghat](/images/varanasi-ghat-boat-eve-p.jpeg "Evening boat ride with ghat view")
+![Evening boat ride near ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "Evening boat ride with ghat view")
 
 **Best Time**: **5:30-7:30 PM** (depending on season) to witness the illuminated ghats and Ganga Aarti from the water.
 
@@ -412,7 +412,7 @@ Evening rides offer:
 
 Located just 10-13 kilometers from Varanasi city center, **Sarnath** is one of Buddhism's four most sacred sites. This is where Gautama Buddha delivered his first sermon (*Dhammacakkappavattana Sutta*) to his five disciples after attaining enlightenment, setting the "Wheel of Dharma" in motion around 528 BCE.
 
-![Dhamek Stupa at Sarnath](/images/blogSarnath.png "Dhamek Stupa rising above manicured lawns")
+![Dhamek Stupa at Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png "Dhamek Stupa rising above manicured lawns")
 
 ### What to See in Sarnath: Top Attractions
 
@@ -499,15 +499,15 @@ Emperor Ashoka erected a polished sandstone pillar here around 250 BCE. The orig
 
 ## Key Temples & Monuments in Varanasi
 
-![Temple with devotees](/images/kashi-temple-400x600.jpeg "Temple darshan in Varanasi")
+![Temple with devotees](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashi-temple-400x600.jpeg "Temple darshan in Varanasi")
 
 ### Kashi Vishwanath Temple: Entry Fee & Darshan Timings
 
-![Kashi Vishwanath Temple exterior](/images/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple with devotees")
+![Kashi Vishwanath Temple exterior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Kashi Vishwanath Temple with devotees")
 
 **Kashi Vishwanath Temple** is Varanasi's spiritual epicenter and one of the twelve sacred **Jyotirlingas** (manifestations of Lord Shiva). The temple houses a black stone Shiva Lingam in its sanctum, while its iconic gold-plated spire dominates the city skyline.
 
-![Kashi Vishwanath Temple golden spire](/images/varanasi-kashvishwanath-outside-p.jpeg "Golden spire of Kashi Vishwanath Temple")
+![Kashi Vishwanath Temple golden spire](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashvishwanath-outside-p.jpeg "Golden spire of Kashi Vishwanath Temple")
 
 **Temple Timings** (2025):
 
@@ -763,7 +763,7 @@ This allows time to absorb Varanasi's atmosphere without rushing.
 
 ## Practical Travel Information for Varanasi
 
-![Tempo Traveller for group transportation](/images/tempo-travellar-side-l.jpeg "Tempo Traveller for group tours in Varanasi")
+![Tempo Traveller for group transportation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Tempo Traveller for group tours in Varanasi")
 
 ### Local Transportation in Varanasi
 
@@ -793,7 +793,7 @@ This allows time to absorb Varanasi's atmosphere without rushing.
 
 ### Where to Stay in Varanasi: Best Areas for Hotels
 
-![Varanasi ghat early morning view](/images/varanasi-ghat-early-morning.jpeg "Early morning view of Varanasi ghats")
+![Varanasi ghat early morning view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "Early morning view of Varanasi ghats")
 
 **Near the Ghats** (for spiritual immersion):
 
@@ -856,7 +856,7 @@ Hiring a licensed government-approved guide significantly enhances understanding
 
 ### Food Safety & Must-Try Street Food in Varanasi
 
-![Varanasi subah-e-banaras morning scene](/images/varanasi-subeh-e-banaras-p.jpeg "Morning life in Varanasi - Subah-e-Banaras")
+![Varanasi subah-e-banaras morning scene](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-subeh-e-banaras-p.jpeg "Morning life in Varanasi - Subah-e-Banaras")
 
 **What Are the Must-Try Foods in Varanasi?**
 
@@ -899,11 +899,11 @@ Varanasi's culinary scene is predominantly vegetarian and legendary.
 
 ## Varanasi Festivals: Best Times to Experience the City
 
-![Varanasi evening ritual ghat view](/images/varanasi-evening-aarti-ritual-2025.jpg "Evening aarti ritual at Varanasi ghats")
+![Varanasi evening ritual ghat view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-evening-aarti-ritual-2025.jpg "Evening aarti ritual at Varanasi ghats")
 
 **Dev Deepawali** (November 12, 2025 / Kartik Purnima):
 
-![Evening ghat illuminated](/images/pink-sky-ghat-varanasi-l.jpeg "Evening sky over Varanasi ghats during festival")
+![Evening ghat illuminated](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/pink-sky-ghat-varanasi-l.jpeg "Evening sky over Varanasi ghats during festival")
 
 The "Diwali of the Gods" is Varanasi's most spectacular festival. Over a million earthen lamps illuminate all 84 ghats, creating a surreal golden glow across the Ganges. According to Hindu belief, celestial beings descend to bathe in the river on this night.
 

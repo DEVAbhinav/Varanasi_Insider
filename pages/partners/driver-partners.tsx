@@ -8,7 +8,7 @@ const drivers = [
     badges: ["Police Verified", "Fog-Ready", "Jetty Escort"],
     languages: "Hindi, Broken English",
     years: "7 yrs",
-    photo: "/images/profile/mishra-ji.jpeg",
+    photo: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/mishra-ji.jpg",
   },
   {
     name: "Rajan Ji",

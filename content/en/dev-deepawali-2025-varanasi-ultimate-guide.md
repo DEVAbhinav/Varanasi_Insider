@@ -5,7 +5,7 @@ date: "2025-09-30"
 lastUpdated: "2025-11-04"
 author: "Kamal Nayan Singh"
 lang: en
-featuredImage: "/images/ganga-aarti.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"
 metaTitle: "Dev Deepawali 2025 — November 5, 2025 | Kashi Dev Diwali Guide"
 metaDescription: "Dev Deepawali 2025: November 5, 2025 (Kartik Purnima). Million lamps on the ghats, schedule, best viewing ghats, travel & safety tips for Varanasi."
 description: "Dev Deepawali 2025 Varanasi guide for November 5: Kartik Purnima million lamps festival, boat ride pricing ₹200-₹13K, best ghats, crowd management & complete travel planning for Diwali of Gods."
@@ -62,7 +62,7 @@ relatedPosts:
 
 <!-- Note: Hero image shifted below TL;DR for compliance with new summary placement. -->
 
-![Ganga Aarti Dev Deepawali](/images/ganga-aarti.jpeg "Ganga Aarti ceremony during Dev Deepawali 2025 with millions of lamps illuminating Varanasi ghats")
+![Ganga Aarti Dev Deepawali](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg "Ganga Aarti ceremony during Dev Deepawali 2025 with millions of lamps illuminating Varanasi ghats")
 
 ## What is Dev Deepawali: The Diwali of the Gods
 

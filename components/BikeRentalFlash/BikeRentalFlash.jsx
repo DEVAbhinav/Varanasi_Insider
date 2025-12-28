@@ -20,7 +20,7 @@ export default function BikeRentalFlash() {
           className={styles.contentWrapper}
         >
           <Image 
-            src="/images/scooty-activa.jpeg" 
+            src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/scooty-activa.jpeg" 
             alt="Scooty rental in Varanasi"
             width={40}
             height={30}

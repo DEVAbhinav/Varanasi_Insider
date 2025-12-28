@@ -8,7 +8,7 @@ author: "Kamal Nayan Singh"
 lastUpdated: 2025-09-19
 tags: [bodh gaya, rajgir, nalanda, buddhist circuit, tempo traveller]
 keywords: ["bodh gaya rajgir nalanda tour","bodh gaya rajgir nalanda tempo traveller","rajgir nalanda itinerary","nalanda university tour bus","buddhist circuit short tour"]
-featuredImage: /images/blogGaya.png
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png
 relatedPosts:
   - buddhist-circuit-tour-tempo-traveller-varanasi
   - varanasi-to-bodhgaya-tempo-traveller
@@ -92,11 +92,11 @@ Upgrade: Urbania for scholarly / elder comfort @ ₹34–35/km.
 ## Visual Gallery (Symbolic & Fleet)
 | Bodh Gaya Symbolic | Fleet Side Profile | Interior Aisle |
 | --- | --- | --- |
-| ![Bodh Gaya Rajgir Nalanda tempo traveller placeholder](/images/blogGaya.png "Bodh Gaya – placeholder until authentic capture") | ![Tempo traveller side profile bodh gaya rajgir nalanda circuit](/images/tempo-travellar-side-l.jpeg "Side stance – stability on inter-site legs") | ![Interior seating configuration study cohort](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Aisle – cushion & bag management") |
+| ![Bodh Gaya Rajgir Nalanda tempo traveller placeholder](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png "Bodh Gaya – placeholder until authentic capture") | ![Tempo traveller side profile bodh gaya rajgir nalanda circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Side stance – stability on inter-site legs") | ![Interior seating configuration study cohort](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Aisle – cushion & bag management") |
 
 | Premium Seat | Ambient Cabin | Rural Segment |
 | --- | --- | --- |
-| ![Premium seat comfort rajgir climb recovery](/images/Tempo_traveller_lux_seat_side.jpeg "Seat comfort – post hike recovery") | ![Ambient lighting evening reflection](/images/Tempo_travellar_neon_inside.jpeg "Evening ambient – quiet debrief") | ![Rural landscape en route nalanda](/images/Tempo-Travellar_landscape_Village.jpeg "Transit mindfulness break") |
+| ![Premium seat comfort rajgir climb recovery](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Seat comfort – post hike recovery") | ![Ambient lighting evening reflection](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Evening ambient – quiet debrief") | ![Rural landscape en route nalanda](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Transit mindfulness break") |
 
 > Replace symbolic site frame with Vulture Peak ridge & Nalanda corridor images after field shoot.
 

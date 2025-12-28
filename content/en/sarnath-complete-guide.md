@@ -5,7 +5,7 @@ date: "2025-10-26"
 lastUpdated: "2025-10-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/blogSarnath.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png"
 metaTitle: "Sarnath Temple Visit 2025: Ashoka Pillar, Buddhist Temple, Stupa Timing & Attractions"
 metaDescription: "Complete Sarnath temple guide: Original Ashoka Pillar location, Sarnath Buddhist temple timings, Dhamek Stupa visit, Sarnath attractions, entry fees ₹20-250, best times to visit from Varanasi."
 description: "Comprehensive Sarnath temple and Buddhist pilgrimage guide covering Ashoka Pillar Sarnath (original Ashok Stambh), Sarnath Buddhist temples, Dhamek Stupa timing, main attractions, archaeological museum, practical visitor information 2025."
@@ -68,11 +68,11 @@ Sarnath stands as one of Buddhism's four most sacred pilgrimage sites, alongside
 
 This comprehensive Sarnath visit guide covers everything you need to know about visiting Sarnath attractions, from the magnificent Dhamek Stupa and historic **original Sarnath pillar** (Ashoka Pillar) to **Sarnath Buddhist temples**, museum treasures, practical **Sarnath timing**, and transport options from Varanasi.
 
-![Dhamek Stupa at Sarnath](/images/blogSarnath.png "Majestic Dhamek Stupa rising above manicured lawns")
+![Dhamek Stupa at Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png "Majestic Dhamek Stupa rising above manicured lawns")
 
-![Sarnath Stupa closeup](/images/Sarnath-Stoopa-Square-beautiful-large.jpeg "Intricate stone carvings at the base of Dhamek Stupa")
+![Sarnath Stupa closeup](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Sarnath-Stoopa-Square-beautiful-large.jpeg "Intricate stone carvings at the base of Dhamek Stupa")
 
-![Varanasi morning spirituality](/images/varanasi-subeh-e-banaras-p.jpeg "Early morning spiritual atmosphere near Varanasi and Sarnath")
+![Varanasi morning spirituality](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-subeh-e-banaras-p.jpeg "Early morning spiritual atmosphere near Varanasi and Sarnath")
 
 ---
 
@@ -94,15 +94,15 @@ Chinese Buddhist pilgrim **Xuanzang** documented in 640 CE that Sarnath housed o
 
 Modern archaeological excavations beginning in 1815 unearthed treasures that revealed Sarnath's glorious past, leading to its designation on UNESCO's tentative World Heritage list since 1998.
 
-![Varanasi spiritual heritage](/images/varanasi-ghat-early-morning.jpeg "Early morning atmosphere similar to Sarnath's peaceful spirituality")
+![Varanasi spiritual heritage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "Early morning atmosphere similar to Sarnath's peaceful spirituality")
 
 ---
 
 ## Dhamek Stupa at Sarnath: Sacred Monument of Buddha's First Sermon
 
-![Dhamek Stupa architecture](/images/Sarnath-Stoopa-Square-beautiful-large.jpeg "Cylindrical Dhamek Stupa with ancient stone carvings")
+![Dhamek Stupa architecture](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Sarnath-Stoopa-Square-beautiful-large.jpeg "Cylindrical Dhamek Stupa with ancient stone carvings")
 
-![Buddhist pilgrimage atmosphere](/images/varanasi-ghat-wallpaper-p.jpeg "Peaceful pilgrimage atmosphere at sacred Buddhist sites")
+![Buddhist pilgrimage atmosphere](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-wallpaper-p.jpeg "Peaceful pilgrimage atmosphere at sacred Buddhist sites")
 
 ### Architecture & Design of Dhamek Stupa
 
@@ -149,9 +149,9 @@ The upper section remains **unfinished brick work**, creating an interesting con
 
 **Spiritual Experience**: Buddhist pilgrims from Thailand, Japan, Sri Lanka, Tibet, and worldwide visit to offer prayers and incense, creating a profoundly spiritual atmosphere.
 
-![Solo female traveler at Buddhist sites](/images/solo-femal-traveller-varanasi.jpeg "Safe and peaceful atmosphere for pilgrims at Sarnath")
+![Solo female traveler at Buddhist sites](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg "Safe and peaceful atmosphere for pilgrims at Sarnath")
 
-![Female traveler with sadhu](/images/female-traveller-sadhu.jpeg "Cultural interaction at Buddhist pilgrimage sites")
+![Female traveler with sadhu](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/female-traveller-sadhu.jpeg "Cultural interaction at Buddhist pilgrimage sites")
 
 ---
 
@@ -183,9 +183,9 @@ The upper section remains **unfinished brick work**, creating an interesting con
 
 ## Ashoka Pillar at Sarnath: India's National Emblem & Original Sarnath Stambh
 
-![Ashoka Pillar heritage](/images/blogSarnath.png "Historic Ashoka Pillar remains near Dhamek Stupa")
+![Ashoka Pillar heritage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png "Historic Ashoka Pillar remains near Dhamek Stupa")
 
-![Ancient pillar at sacred site](/images/varanasi-kashvishwanath-outside-p.jpeg "Ancient architectural heritage similar to Ashoka Pillar")
+![Ancient pillar at sacred site](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashvishwanath-outside-p.jpeg "Ancient architectural heritage similar to Ashoka Pillar")
 
 ### The Famous Lion Capital on Original Sarnath Pillar
 
@@ -235,9 +235,9 @@ The **Ashoka Pillar Sarnath** (Ashok Stambh) represents Emperor Ashoka's commitm
 
 ## Sarnath Archaeological Museum: India's Buddhist Treasure House
 
-![Sarnath Museum exterior](/images/blogSarnath.png "Sarnath Archaeological Museum building")
+![Sarnath Museum exterior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png "Sarnath Archaeological Museum building")
 
-![Museum architecture](/images/blogbhu.jpg "Traditional museum and heritage architecture")
+![Museum architecture](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogbhu.jpg "Traditional museum and heritage architecture")
 
 ### Museum History & Significance
 
@@ -312,11 +312,11 @@ Ancient coins from various dynasties, inscribed stone tablets, and seals providi
 
 ## Sarnath Buddhist Temples: International Spiritual Centers & Main Sarnath Temple
 
-![Buddhist temple at Sarnath](/images/blogfamousbhu.jpg "Buddhist temples with devotees at Sarnath")
+![Buddhist temple at Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogfamousbhu.jpg "Buddhist temples with devotees at Sarnath")
 
-![Temple architecture](/images/Vishwanath-Mandir-Evenging-Square-Outside.jpeg "Beautiful temple architecture at sacred sites")
+![Temple architecture](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vishwanath-Mandir-Evenging-Square-Outside.jpeg "Beautiful temple architecture at sacred sites")
 
-![Temple evening view](/images/Vishwanath-Mandir-Parallel.jpeg "Majestic temple structures at Buddhist pilgrimage sites")
+![Temple evening view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vishwanath-Mandir-Parallel.jpeg "Majestic temple structures at Buddhist pilgrimage sites")
 
 ### Mulagandha Kuti Vihar: Main Sarnath Temple & Primary Sarnath Buddhist Temple
 
@@ -387,9 +387,9 @@ Several other international Buddhist communities have established temples in Sar
 
 Each temple reflects its country's unique Buddhist artistic and architectural traditions, making Sarnath a living museum of global Buddhism.
 
-![Ganga Aarti ceremony](/images/Ganga-aarti-square.jpeg "Spiritual ceremonies at sacred sites")
+![Ganga Aarti ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Ganga-aarti-square.jpeg "Spiritual ceremonies at sacred sites")
 
-![Evening Aarti ritual](/images/Ganga-aarti-yellow-square.jpeg "Buddhist and Hindu spiritual traditions coexisting")
+![Evening Aarti ritual](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Ganga-aarti-yellow-square.jpeg "Buddhist and Hindu spiritual traditions coexisting")
 
 ---
 
@@ -434,9 +434,9 @@ Scattered throughout the archaeological complex are foundations and walls of anc
 
 Active and completed excavation areas reveal multiple layers of Sarnath's history. Information boards explain the significance of different structures and time periods represented.
 
-![Morning pilgrimage atmosphere](/images/varanasi-sunrise-p.jpeg "Peaceful morning atmosphere for Buddhist pilgrims")
+![Morning pilgrimage atmosphere](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-sunrise-p.jpeg "Peaceful morning atmosphere for Buddhist pilgrims")
 
-![Spiritual gathering](/images/ganga-aarti-ceremony-2025.jpg "Spiritual gatherings at sacred pilgrimage sites")
+![Spiritual gathering](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg "Spiritual gatherings at sacred pilgrimage sites")
 
 ---
 
@@ -538,9 +538,9 @@ Active and completed excavation areas reveal multiple layers of Sarnath's histor
 - Fewer tourists
 - Buddhist monks conducting morning rituals
 
-![Early morning Sarnath atmosphere](/images/varanasi-ghat-early-morning.jpeg "Serene morning atmosphere at Buddhist pilgrimage sites")
+![Early morning Sarnath atmosphere](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "Serene morning atmosphere at Buddhist pilgrimage sites")
 
-![Morning boat on Ganges](/images/Ganga-boat-birds-ghats-morning-l.jpeg "Peaceful morning spirituality near Varanasi and Sarnath")
+![Morning boat on Ganges](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Ganga-boat-birds-ghats-morning-l.jpeg "Peaceful morning spirituality near Varanasi and Sarnath")
 
 **Late Afternoon (3:00-6:00 PM):**
 - Cooler temperatures (October-March only)
@@ -548,9 +548,9 @@ Active and completed excavation areas reveal multiple layers of Sarnath's histor
 - Evening prayers at temples
 - Less crowded than morning
 
-![Evening spiritual atmosphere](/images/pink-sky-ghat-varanasi-l.jpeg "Beautiful evening light at sacred pilgrimage sites")
+![Evening spiritual atmosphere](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/pink-sky-ghat-varanasi-l.jpeg "Beautiful evening light at sacred pilgrimage sites")
 
-![Sunset at ghats](/images/varanashi-ghat-evening-P.jpeg "Evening atmosphere near Varanasi and Sarnath")
+![Sunset at ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanashi-ghat-evening-P.jpeg "Evening atmosphere near Varanasi and Sarnath")
 
 **Avoid**: 12:00-3:00 PM (harsh sunlight, extreme heat, crowded)
 
@@ -558,9 +558,9 @@ Active and completed excavation areas reveal multiple layers of Sarnath's histor
 
 ## How to Reach Sarnath from Varanasi
 
-![Tempo Traveller for Sarnath visit](/images/tempo-travellar-side-l.jpeg "Comfortable transport for Sarnath excursion")
+![Tempo Traveller for Sarnath visit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Comfortable transport for Sarnath excursion")
 
-![Luxury Tempo Traveller](/images/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller for group Sarnath tours")
+![Luxury Tempo Traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller for group Sarnath tours")
 
 ### Distance & Travel Time
 
@@ -624,9 +624,9 @@ Active and completed excavation areas reveal multiple layers of Sarnath's histor
 
 **4. Tempo Traveller (Groups)**
 
-![Luxury Tempo Traveller](/images/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller for group Sarnath tours")
+![Luxury Tempo Traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Lux-Tempo-Travellar-square.jpeg "Luxury Tempo Traveller for group Sarnath tours")
 
-![Tempo Traveller interior](/images/tempo-travellar-inside.jpeg "Comfortable interior for Buddhist circuit tours")
+![Tempo Traveller interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Comfortable interior for Buddhist circuit tours")
 
 **Ideal For**: Groups of 9-17 people, family tours, corporate outings
 
@@ -648,7 +648,7 @@ Active and completed excavation areas reveal multiple layers of Sarnath's histor
 
 **Bike/Scooter Rental**: ₹400-800 per day (requires valid driving license)
 
-![Scooter rental option](/images/scooty-varanasi-ghat.jpeg "Self-drive scooter option for Sarnath visit")
+![Scooter rental option](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/scooty-varanasi-ghat.jpeg "Self-drive scooter option for Sarnath visit")
 
 **Car Rental**: ₹1,500-2,500 per day
 
@@ -823,11 +823,11 @@ Active and completed excavation areas reveal multiple layers of Sarnath's histor
 
 ## Buddhist Circuit Tour from Varanasi: Extended Pilgrimage
 
-![Luxury Tempo Traveller interior](/images/tempo-travellar-inside.jpeg "Comfortable Tempo Traveller for Buddhist circuit tours")
+![Luxury Tempo Traveller interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Comfortable Tempo Traveller for Buddhist circuit tours")
 
-![Premium seating](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Premium interior for extended Buddhist pilgrimage tours")
+![Premium seating](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Premium interior for extended Buddhist pilgrimage tours")
 
-![Tempo Traveller exterior](/images/tempo-travellar-outside-front-p.jpeg "Reliable transport for multi-day Buddhist circuit")
+![Tempo Traveller exterior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Reliable transport for multi-day Buddhist circuit")
 
 For serious Buddhist pilgrims or history enthusiasts, combine Sarnath with other sacred Buddhist sites in a comprehensive **Buddhist Circuit Tour**:
 
@@ -892,9 +892,9 @@ For serious Buddhist pilgrims or history enthusiasts, combine Sarnath with other
 - Comfortable backpack
 - Snacks (limited food options inside complex)
 
-![Morning river scene](/images/varanasi-river-sunrise-boat-p.jpeg "Peaceful morning atmosphere for pilgrimage")
+![Morning river scene](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Peaceful morning atmosphere for pilgrimage")
 
-![Spiritual journey](/images/varanasi-boat-bird-river-p.jpeg "Birds and boats creating serene pilgrimage atmosphere")
+![Spiritual journey](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-bird-river-p.jpeg "Birds and boats creating serene pilgrimage atmosphere")
 
 **Optional:**
 - Binoculars (for studying high architectural details)
@@ -912,9 +912,9 @@ For serious Buddhist pilgrims or history enthusiasts, combine Sarnath with other
 - Deer in the park with monuments as backdrop
 - Sunrise/sunset golden hour lighting on brick structures
 
-![Evening boat ride](/images/varanasi-night-boat-ghat-p.jpeg "Night atmosphere at ghats near Varanasi")
+![Evening boat ride](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-night-boat-ghat-p.jpeg "Night atmosphere at ghats near Varanasi")
 
-![Riverside evening](/images/varanasi-river-boat-evening-p.jpeg "Evening light perfect for photography")
+![Riverside evening](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg "Evening light perfect for photography")
 
 **Remember**: 
 - ₹25 camera fee required
@@ -1031,9 +1031,9 @@ Minimum 2 hours for quick visit covering Dhamek Stupa and museum. Recommended 3-
 
 ## Book Your Sarnath Visit Tour
 
-![Tempo Traveller for Sarnath excursion](/images/tempo-travellar-outside-front-p.jpeg "Reliable transport for comfortable Sarnath tours")
+![Tempo Traveller for Sarnath excursion](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Reliable transport for comfortable Sarnath tours")
 
-![Tempo Traveller interior comfort](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Luxury seating for Sarnath Buddhist circuit tours")
+![Tempo Traveller interior comfort](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Luxury seating for Sarnath Buddhist circuit tours")
 
 **Planning your Sarnath visit from Varanasi?** Kashi Taxi offers reliable, comfortable transport with experienced drivers who know the best routes and timing for your Buddhist pilgrimage.
 
@@ -1099,11 +1099,11 @@ Sarnath offers a profound journey into Buddhism's origins, where the timeless te
 **Perfect Combined Itinerary:**
 Start with Varanasi sunrise boat ride (5:00-7:00 AM), visit Sarnath mid-morning (9:00 AM-1:00 PM), return for Kashi Vishwanath Temple afternoon visit, and end with evening Ganga Aarti at Dashashwamedh Ghat (6:00-7:00 PM).
 
-![Ganga Aarti ceremony](/images/ganga-aarti.jpeg "Evening Ganga Aarti after Sarnath visit")
+![Ganga Aarti ceremony](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg "Evening Ganga Aarti after Sarnath visit")
 
-![Aarti at Assi Ghat](/images/assi-aarti-evening-l.jpeg "Evening aarti ceremonies in Varanasi")
+![Aarti at Assi Ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/assi-aarti-evening-l.jpeg "Evening aarti ceremonies in Varanasi")
 
-![Dashashwamedh Ghat aarti](/images/dashashwamedh-aarti-platforms-2025.jpg "Famous evening Ganga Aarti at Dashashwamedh Ghat")
+![Dashashwamedh Ghat aarti](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg "Famous evening Ganga Aarti at Dashashwamedh Ghat")
 
 **Getting Started:**
 1. **Book Transport**: **[Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller)**
@@ -1165,9 +1165,9 @@ Experience where Buddha's revolutionary teachings began their journey across Asi
 🌸 **Multi-City Circuits** - Expertise in Sarnath, Bodh Gaya, Kushinagar, Lumbini routes  
 🌸 **Nepal Permit Help** - Lumbini trip documentation and border crossing assistance
 
-![Luxury transport fleet](/images/Lux-Tempo-Travellar-square.jpeg "Premium vehicles for Buddhist pilgrimage tours")
+![Luxury transport fleet](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Lux-Tempo-Travellar-square.jpeg "Premium vehicles for Buddhist pilgrimage tours")
 
-![Airport transfer service](/images/airport-taxi-600x400.jpeg "Reliable airport pickup for Sarnath visitors")
+![Airport transfer service](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg "Reliable airport pickup for Sarnath visitors")
 
 ### **📞 Three Easy Ways to Book:**
 
@@ -1192,9 +1192,9 @@ Experience where Buddha's revolutionary teachings began their journey across Asi
 
 *"Solo female traveler from Sri Lanka. Felt completely safe. Driver waited patiently during my 3-hour Sarnath meditation. Highly recommend!"* — **Chamari S., Colombo** ⭐⭐⭐⭐⭐
 
-![Safe travel for women](/images/lady-taxi.jpeg "Safe and comfortable transport for female travelers")
+![Safe travel for women](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg "Safe and comfortable transport for female travelers")
 
-![Female pilgrim experience](/images/sadhu-foreigner-girl.jpeg "Cultural experiences during Buddhist pilgrimage")
+![Female pilgrim experience](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sadhu-foreigner-girl.jpeg "Cultural experiences during Buddhist pilgrimage")
 
 ---
 

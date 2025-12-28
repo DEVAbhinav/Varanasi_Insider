@@ -33,14 +33,14 @@ faqSchema:
 
 A **Buddhist circuit tour from Varanasi** links the pivotal sites of the Buddha’s life and teachings—Sarnath (first sermon), Bodh Gaya (Enlightenment), Rajgir (Vulture Peak discourses), Nalanda (ancient monastic university), Kushinagar (Mahaparinirvana) and optionally Lumbini (birthplace) & Vaishali. I’ve coordinated multiple meditation pilgrimage groups, study cohorts and international visitors—this guide distills a road‑tested approach using a private Tempo Traveller for flexibility and cohesion.
 
-![Bodh Gaya symbolic orientation – replace later](/images/blogGaya.png "Mahabodhi Temple context – replace with authentic field photo when captured")
+![Bodh Gaya symbolic orientation – replace later](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png "Mahabodhi Temple context – replace with authentic field photo when captured")
 
 > Core Insight: Keep daily drive blocks under 6.5 hours where possible; protect early mornings for site immersion / meditation.
 
 ## Visual Orientation (Current Symbolic Assets)
 | Sarnath (Symbolic) | Bodh Gaya (Symbolic) | Varanasi Context |
 | --- | --- | --- |
-| ![Sarnath symbolic site image – to be replaced](/images/blogSarnath.png "Sarnath – Dhamek / museum placeholder") | ![Bodh Gaya symbolic – to be replaced with authentic](/images/blogGaya.png "Bodh Gaya – Enlightenment site placeholder") | ![Varanasi spiritual hub link](/images/blogKashiVishwanath.jpg "Varanasi – Launch point for circuit") |
+| ![Sarnath symbolic site image – to be replaced](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogSarnath.png "Sarnath – Dhamek / museum placeholder") | ![Bodh Gaya symbolic – to be replaced with authentic](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png "Bodh Gaya – Enlightenment site placeholder") | ![Varanasi spiritual hub link](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogKashiVishwanath.jpg "Varanasi – Launch point for circuit") |
 
 > Replace symbolic frames with licensed / original field captures (Rajgir ridge, Nalanda brick cells, Parinirvana Temple) once photography batch is done.
 
@@ -110,11 +110,11 @@ Choosing capacity impacts practice quality: cramped knees dull evening meditatio
 ### Interior & Seating Variants (Current Fleet Imagery)
 | Standard Aisle | Premium Recline | Neon Night Ride |
 | --- | --- | --- |
-| ![Tempo traveller interior seating configuration](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – aisle & cushion storage") | ![Premium luxury tempo traveller seating closeup](/images/Tempo_traveller_lux_seat_side.jpeg "Premium seat – lumbar support") | ![Ambient lighting configuration for evening transits](/images/Tempo_travellar_neon_inside.jpeg "Ambient lighting – fatigue reduction") |
+| ![Tempo traveller interior seating configuration](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – aisle & cushion storage") | ![Premium luxury tempo traveller seating closeup](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Premium seat – lumbar support") | ![Ambient lighting configuration for evening transits](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Ambient lighting – fatigue reduction") |
 
 | Super Luxury Cabin | Seat Close-up | Rear Access & Gear |
 | --- | --- | --- |
-| ![Super luxury interior wider cabin](/images/Temp_traveller_super_luxury_inside.jpeg "Super luxury cabin – study cohort comfort") | ![Seat texture & build – comfort detail](/images/Tempo_travellar_seat_closup.jpeg "Seat cushioning detail") | ![Rear loading door – gear & cushion management](/images/Tempo_travellar_side_back_white.jpeg "Rear access zone") |
+| ![Super luxury interior wider cabin](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp_traveller_super_luxury_inside.jpeg "Super luxury cabin – study cohort comfort") | ![Seat texture & build – comfort detail](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_seat_closup.jpeg "Seat cushioning detail") | ![Rear loading door – gear & cushion management](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear access zone") |
 
 > Urbania variant available: see below for recliner style (smoother for senior meditators).
 
@@ -174,18 +174,18 @@ Upgrade: 17 seater @ ₹27/km; Premium Urbania @ ₹34–35/km (comfort premium 
 ## Photo Gallery (Fleet & Site Placeholder)
 | Bodh Gaya (Symbolic) | Practice Aisle Interior | Fleet Exterior |
 | --- | --- | --- |
-| ![Bodh Gaya symbolic image – replace with authentic later](/images/blogGaya.png "Bodh Gaya – Replace with authentic Mahabodhi photo when available") | ![Tempo traveller interior buddhist circuit](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – space for meditation cushions") | ![Tempo traveller fleet for buddhist pilgrimage](/images/tempo-travellar-outside-front-p.jpeg "Fleet readied for multi-state circuit") |
+| ![Bodh Gaya symbolic image – replace with authentic later](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png "Bodh Gaya – Replace with authentic Mahabodhi photo when available") | ![Tempo traveller interior buddhist circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – space for meditation cushions") | ![Tempo traveller fleet for buddhist pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Fleet readied for multi-state circuit") |
 
 | Premium Seat Option | Rear Luggage & Gear | Urbania Premium Interior |
 | --- | --- | --- |
-| ![Premium seat comfort buddhist circuit tempo traveller](/images/Tempo_traveller_lux_seat_side.jpeg "Premium seating – long haul comfort") | ![Rear access & gear loading buddhist tour](/images/Tempo_travellar_side_back_white.jpeg "Rear access – cushions & bags organization") | ![Urbania interior variant buddhist practice group](/images/Urbania-Inside-Potrait.jpeg "Urbania interior – recliner layout for senior pilgrims") |
+| ![Premium seat comfort buddhist circuit tempo traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Premium seating – long haul comfort") | ![Rear access & gear loading buddhist tour](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear access – cushions & bags organization") | ![Urbania interior variant buddhist practice group](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-Inside-Potrait.jpeg "Urbania interior – recliner layout for senior pilgrims") |
 
 > Replace placeholder site images with authentic stupa / temple photos (proper attribution if externally sourced) once captured.
 
 ### Transit & Pacing Visuals (Fleet Perspectives)
 | Rural Highway Progress | Side Profile (Long Haul) | Multi-Unit Fleet |
 | --- | --- | --- |
-| ![Tempo traveller rural landscape progression](/images/Tempo-Travellar_landscape_Village.jpeg "Rural segment – mindful rest planning") | ![Tempo traveller side extended stance](/images/tempo-travellar-side-l.jpeg "Side profile – ventilation & stance") | ![Multiple vehicles for split cohorts](/images/Multi_Urbania-Square.jpeg "Parallel vehicles – large group staging") |
+| ![Tempo traveller rural landscape progression](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Rural segment – mindful rest planning") | ![Tempo traveller side extended stance](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Side profile – ventilation & stance") | ![Multiple vehicles for split cohorts](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Multi_Urbania-Square.jpeg "Parallel vehicles – large group staging") |
 
 > Visuals help groups pre‑imagine spacing & rest cadence; use in pre‑departure brief PDF.
 

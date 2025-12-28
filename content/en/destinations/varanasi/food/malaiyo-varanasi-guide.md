@@ -18,7 +18,7 @@ tags:
   - street food
   - winter special
 template: destination
-featuredImage: "/images/varanasi-hero.png"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png"
 eyebrow: "Culinary Gem"
 ctaTitle: "Planning a Food Walk?"
 ctaSubtitle: "Book a taxi to Godowlia or Chowk to start your morning culinary exploration."
@@ -44,7 +44,7 @@ ctaSubtitle: "Book a taxi to Godowlia or Chowk to start your morning culinary ex
 
 **Malaiyo** (also called Makhan Malai or Nimish) is not merely a dessert – it's a seasonal miracle possible only during winter's specific meteorological conditions. A cloud-like foam that appears on milk left overnight under open winter sky, Malaiyo represents the convergence of ancient knowledge, nature's cooperation, and culinary craft.
 
-![Early morning at Varanasi ghats](/images/varanasi-ghat-early-morning.jpeg "Dawn at the ghats – perfect time for fresh malaiyo tasting")
+![Early morning at Varanasi ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg "Dawn at the ghats – perfect time for fresh malaiyo tasting")
 
 ### The Science Behind the Magic
 
@@ -121,7 +121,7 @@ ctaSubtitle: "Book a taxi to Godowlia or Chowk to start your morning culinary ex
 
 Eating malaiyo isn't transactional – it's participation in Varanasi's seasonal rhythm:
 
-![Morning boat ride on the Ganges](/images/varanasi-river-boat-evening-p.jpeg "Pair your malaiyo walk with a sunrise boat ride")
+![Morning boat ride on the Ganges](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg "Pair your malaiyo walk with a sunrise boat ride")
 
 **Vendor Perspective:**
 Many malaiyo vendors are families who've done this for generations. They wake at 2 AM to prepare milk, monitor overnight conditions, and wake at 4 AM to harvest. They see customers as part of their daily ritual, not transactions.

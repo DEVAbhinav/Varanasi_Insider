@@ -2,7 +2,7 @@
 title: "What to Wear in Varanasi (2025): A Local's Guide"
 date: "2024-05-15"
 author: "Travel Agent Varanasi Team"
-featuredImage: "/images/pink-sky-ghat-varanasi-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/pink-sky-ghat-varanasi-l.jpeg"
 description: "A complete guide on what to wear in Varanasi for men and women. Includes tips for temples, seasons (winter/summer), and a packing list. Dress respectfully!"
 keywords:
   - "what to wear in varanasi"
@@ -25,7 +25,7 @@ Varanasi is a traditional city, and modest clothing is recommended for all trave
 - **Loose-Fitting Clothing:** Loose-fitting clothes are not only respectful but also practical in Varanasi's often hot and humid climate.
 - **Breathable Fabrics:** Choose natural fabrics like cotton, linen, and rayon to stay cool and comfortable.
 
-![Respectful attire for visiting Varanasi's temples](/images/sadhu-foreigner-girl.jpeg)
+![Respectful attire for visiting Varanasi's temples](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sadhu-foreigner-girl.jpeg)
 
 ## What to Wear in Varanasi for Women
 
@@ -35,7 +35,7 @@ For women, it's especially important to dress modestly to avoid unwanted attenti
 - **Long Skirts and Dresses:** Maxi skirts and dresses are both comfortable and culturally appropriate.
 - **Scarves and Shawls:** A scarf or shawl is a versatile accessory. It can be used to cover your head in temples or to cover your shoulders when wearing a sleeveless top.
 
-![Solo female traveler in Varanasi](/images/solo-femal-traveller-varanasi.jpeg)
+![Solo female traveler in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg)
 
 ## What to Wear in Varanasi for Men
 
@@ -53,7 +53,7 @@ Solo female travelers should take extra care with their attire to ensure their s
 - **Avoid Tight or Revealing Clothing:** This is crucial to avoid unwanted attention.
 - **Carry a Scarf:** A scarf can be a lifesaver for covering up when needed.
 
-![A sadhu with a foreign traveler in Varanasi](/images/female-traveller-sadhu.jpeg)
+![A sadhu with a foreign traveler in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/female-traveller-sadhu.jpeg)
 
 ## What to Wear in Different Seasons
 
@@ -74,13 +74,13 @@ Solo female travelers should take extra care with their attire to ensure their s
 - **Warm Jacket:** A warm jacket or fleece is necessary for chilly mornings and evenings.
 - **Closed-Toe Shoes:** Keep your feet warm and protected with closed-toe shoes.
 
-![An overview of Varanasi's ghats](/images/varanasi-ghats-overview.jpeg)
+![An overview of Varanasi's ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg)
 
 ## Dress Code for Temples and Ghats
 
 When visiting religious sites like the Kashi Vishwanath Temple or the ghats, it's essential to be respectful.
 
-![Kashi Vishwanath Temple, Varanasi](/images/kashi-temple-400x600.jpeg)
+![Kashi Vishwanath Temple, Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashi-temple-400x600.jpeg)
 
 - **Cover Your Head:** In some temples, it may be required to cover your head. Carry a scarf for this purpose.
 - **Remove Your Shoes:** You will need to remove your shoes before entering most temples.

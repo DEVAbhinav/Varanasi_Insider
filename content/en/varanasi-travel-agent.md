@@ -5,7 +5,7 @@ date: "2025-10-26"
 lastUpdated: "2025-10-26"
 author: "Utkarsh Pandey"
 lang: en-IN
-featuredImage: "/images/tempo-travellar-side-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg"
 metaTitle: "Varanasi Travel Agent — Kashi Taxi | Trusted Tour Operators"
 metaDescription: "Kashi Taxi — Trusted tour operators in Varanasi. Book local guides, airport transfers & custom packages with verified drivers. 24×7 support. Call +91 94503 01573"
 description: "Kashi Taxi is your trusted Varanasi travel agent offering verified drivers, transparent pricing, airport transfers, tempo traveller hire, and custom tour packages with 24×7 support."
@@ -63,7 +63,7 @@ canonical: "https://www.kashitaxi.in/en/varanasi-travel-agent"
 
 # Varanasi Travel Agent: Trusted Tour Operators in Varanasi | Kashi Taxi
 
-![Kashi Taxi vehicle — tour operators in Varanasi](/images/tempo-travellar-side-l.jpeg "Kashi Taxi tempo traveller - trusted tour operators in Varanasi")
+![Kashi Taxi vehicle — tour operators in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Kashi Taxi tempo traveller - trusted tour operators in Varanasi")
 
 > **TL;DR:** At Kashi Taxi, we're your local **Varanasi travel agent**, specialist **tour operators in Varanasi**, and trusted **tour and travels in Varanasi** partner since 1998. We run verified vehicles, licensed drivers and hand-crafted packages so you can focus on the experience — not logistics. Book with confidence: transparent pricing, 24×7 support, and GSTIN-registered operations.
 
@@ -88,7 +88,7 @@ Whether you need a late-night airport transfer, a women-only Pink Taxi, or a ful
 
 ## Why Choose Kashi Taxi: Best Tour and Travels in Varanasi
 
-![Pink Taxi for women travelers](/images/lady-taxi.jpeg "Pink Taxi service - safest option for women travelers in Varanasi")
+![Pink Taxi for women travelers](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg "Pink Taxi service - safest option for women travelers in Varanasi")
 
 ### **Licensed Varanasi Travel Agent Since 1998**
 
@@ -107,9 +107,9 @@ Operating as **Vinayak Travels Tour (Regd.)**, Kashi Taxi has served 25,000+ tra
 
 #### **1. Varanasi Airport Taxi Service (VNS Airport Transfer)**
 
-![Airport taxi service](/images/airport-taxi-600x400.jpeg "Varanasi airport taxi - 24x7 pickup and drop service")
+![Airport taxi service](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg "Varanasi airport taxi - 24x7 pickup and drop service")
 
-![Luxury sedan for airport transfer](/images/luxuryCar.png "Luxury sedan - comfortable airport transfers")
+![Luxury sedan for airport transfer](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/luxuryCar.png "Luxury sedan - comfortable airport transfers")
 
 - **Sedan (Dzire/Etios):** ₹800-1,000 one-way
 - **SUV (Innova/Ertiga):** ₹1,100-1,350 one-way
@@ -122,7 +122,7 @@ Operating as **Vinayak Travels Tour (Regd.)**, Kashi Taxi has served 25,000+ tra
 
 #### **2. Varanasi Local Sightseeing Tour: Private City Tours**
 
-![SUV for local tours](/images/xuv.png "Luxury SUV - spacious and comfortable for city tours")
+![SUV for local tours](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/xuv.png "Luxury SUV - spacious and comfortable for city tours")
 
 **Half-Day Varanasi Tour (4-5 hours):** ₹1,200-1,800
 
@@ -143,11 +143,11 @@ Operating as **Vinayak Travels Tour (Regd.)**, Kashi Taxi has served 25,000+ tra
 
 #### **3. Tempo Traveller Hire in Varanasi for Group Tours**
 
-![Luxury Tempo Traveller](/images/Lux-Tempo-Travellar-square.jpeg "Luxury tempo traveller for group tours in Varanasi")
+![Luxury Tempo Traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Lux-Tempo-Travellar-square.jpeg "Luxury tempo traveller for group tours in Varanasi")
 
-![Tempo Traveller exterior side view](/images/tempo-travellar-side-l.jpeg "Tempo Traveller side view - spacious group travel vehicle")
+![Tempo Traveller exterior side view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Tempo Traveller side view - spacious group travel vehicle")
 
-![Tempo Traveller with scenic backdrop](/images/Tempo-Travellar_landscape_Village.jpeg "Tempo Traveller for outstation tours - comfortable long-distance travel")
+![Tempo Traveller with scenic backdrop](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Tempo Traveller for outstation tours - comfortable long-distance travel")
 
 Perfect for families, corporate groups, and pilgrimage tours with our **tempo traveller tour operators in Varanasi**:
 
@@ -158,17 +158,17 @@ Perfect for families, corporate groups, and pilgrimage tours with our **tempo tr
 
 **Features:** Push-back seats, ample luggage space, ice box, first-aid kit, music system
 
-![Tempo Traveller luxury interior](/images/Tempo_traveller_lux_seat_side.jpeg "Luxury tempo traveller interior - push-back reclining seats")
+![Tempo Traveller luxury interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Luxury tempo traveller interior - push-back reclining seats")
 
-![Tempo Traveller spacious seating](/images/Tempo_travellar_beige_brown_seating_potrait.jpeg "Comfortable tempo traveller seating - premium upholstery")
+![Tempo Traveller spacious seating](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_beige_brown_seating_potrait.jpeg "Comfortable tempo traveller seating - premium upholstery")
 
-![Tempo Traveller neon interior lighting](/images/Tempo_travellar_neon_inside.jpeg "Modern tempo traveller with ambient lighting - perfect for evening tours")
+![Tempo Traveller neon interior lighting](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Modern tempo traveller with ambient lighting - perfect for evening tours")
 
 > Complete guide: **[Tempo Traveller Varanasi](/en/tempo-traveller-varanasi)** | **[12 Seater Tempo Traveller](/en/12-seater-tempo-traveller-varanasi)** | **[17 Seater Tempo Traveller](/en/17-seater-tempo-traveller-varanasi)**
 
 #### **4. Outstation Taxi from Varanasi: Multi-City Tours**
 
-![Tempo Traveller rear view](/images/Tempo_travellar_side_back_white.jpeg "Tempo Traveller for outstation trips - reliable long-distance travel")
+![Tempo Traveller rear view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Tempo Traveller for outstation trips - reliable long-distance travel")
 
 **Popular Outstation Routes from Varanasi:**
 
@@ -183,7 +183,7 @@ Perfect for families, corporate groups, and pilgrimage tours with our **tempo tr
 
 #### **5. Pink Taxi Varanasi: Safest Tour Operators for Women Travelers**
 
-![Solo female traveler in Varanasi](/images/solo-femal-traveller-varanasi.jpeg "Solo female traveler - safe exploration with Pink Taxi")
+![Solo female traveler in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg "Solo female traveler - safe exploration with Pink Taxi")
 
 Launched in 2023, our Pink Taxi service prioritizes women's safety:
 
@@ -199,11 +199,11 @@ Launched in 2023, our Pink Taxi service prioritizes women's safety:
 
 ## Varanasi Tour Packages: Custom Tour and Travels Packages
 
-![Varanasi ghats overview](/images/varanasi-ghats-overview.jpeg "Varanasi ghats - custom tour packages available")
+![Varanasi ghats overview](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi ghats - custom tour packages available")
 
-![Tempo Traveller white side view](/images/TempoTraveller_side_White.jpeg "White tempo traveller - elegant group tour vehicle")
+![Tempo Traveller white side view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/TempoTraveller_side_White.jpeg "White tempo traveller - elegant group tour vehicle")
 
-![Luxury tempo traveller interior super deluxe](/images/Temp_traveller_super_luxury_inside.jpeg "Super luxury tempo traveller interior - premium comfort for long tours")
+![Luxury tempo traveller interior super deluxe](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp_traveller_super_luxury_inside.jpeg "Super luxury tempo traveller interior - premium comfort for long tours")
 
 ### **Package 1: One-Day Varanasi Darshan Tour Package**
 
@@ -256,7 +256,7 @@ Starting from ₹18,000 (sedan) | ₹22,000 (SUV) | ₹28,000 (tempo traveller)
 **Varanasi to Bodhgaya to Varanasi (2 Days)**  
 Starting from ₹14,000 (sedan) | ₹18,000 (SUV)
 
-![Tempo Traveller for hire](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller front view - ready for your pilgrimage tour")
+![Tempo Traveller for hire](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller front view - ready for your pilgrimage tour")
 
 **Kashi Gaya Prayag Pind Daan Circuit (4 Days)**  
 Starting from ₹25,000 (sedan) | ₹32,000 (SUV)
@@ -273,11 +273,11 @@ Starting from ₹25,000 (sedan) | ₹32,000 (SUV)
 
 ## Trust & Safety: Why Kashi Taxi is the Best Tour Operator in Varanasi
 
-![Tempo Traveller interior](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Comfortable tempo traveller interior - verified tour operators")
+![Tempo Traveller interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Comfortable tempo traveller interior - verified tour operators")
 
-![Tempo Traveller comfortable seats](/images/Tempo_tavelar_inside_seat_potrait.jpeg "Tempo Traveller plush seating - long-distance comfort")
+![Tempo Traveller comfortable seats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_tavelar_inside_seat_potrait.jpeg "Tempo Traveller plush seating - long-distance comfort")
 
-![Tempo Traveller seat close-up](/images/Tempo_travellar_seat_closup.jpeg "Premium tempo traveller seats - ergonomic design")
+![Tempo Traveller seat close-up](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_seat_closup.jpeg "Premium tempo traveller seats - ergonomic design")
 
 ### **Licensed Varanasi Travel Agent: Official Credentials**
 
@@ -289,9 +289,9 @@ Starting from ₹25,000 (sedan) | ₹32,000 (SUV)
 
 ### **Tour Operator Vehicle Safety Standards in Varanasi**
 
-![Tempo Traveller beige interior](/images/Tempo_travellar_1by1_beige_potrait.jpeg "Modern tempo traveller with beige interiors - luxury group travel")
+![Tempo Traveller beige interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_1by1_beige_potrait.jpeg "Modern tempo traveller with beige interiors - luxury group travel")
 
-![Tempo Traveller side view with glass pack](/images/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg "Tempo Traveller with panoramic windows - scenic route visibility")
+![Tempo Traveller side view with glass pack](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg "Tempo Traveller with panoramic windows - scenic route visibility")
 
 Every vehicle in our tour and travels fleet meets:
 
@@ -349,15 +349,15 @@ We respond within 1 business hour with:
 
 ## Varanasi Tour Operator Pricing: Transparent Fare Policy
 
-![Varanasi taxi service](/images/varanasi-kashi-vishwanath-l.jpeg "Varanasi taxi at Kashi Vishwanath Temple - transparent pricing")
+![Varanasi taxi service](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Varanasi taxi at Kashi Vishwanath Temple - transparent pricing")
 
-![Force Urbania luxury vehicle](/images/Multi_Urbania-Square.jpeg "Force Urbania - premium group travel option")
+![Force Urbania luxury vehicle](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Multi_Urbania-Square.jpeg "Force Urbania - premium group travel option")
 
-![Urbania front view](/images/Urbania-front-Square.jpeg "Force Urbania modern design - luxury comfort for groups")
+![Urbania front view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-front-Square.jpeg "Force Urbania modern design - luxury comfort for groups")
 
 ### **Varanasi Local Tour Pricing 2025**
 
-![Urbania interior luxury](/images/Urbania-Inside-Potrait.jpeg "Force Urbania plush interior - executive group travel")
+![Urbania interior luxury](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-Inside-Potrait.jpeg "Force Urbania plush interior - executive group travel")
 
 | Vehicle Type | Half-Day Tour (4-5 hrs) | Full-Day Tour (8-10 hrs) |
 |--------------|-------------------|---------------------|
@@ -367,9 +367,9 @@ We respond within 1 business hour with:
 
 ### **Varanasi Airport Taxi Fare 2025**
 
-![Sedan for airport transfer](/images/seden.png "Comfortable sedan - affordable airport transfers")
+![Sedan for airport transfer](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png "Comfortable sedan - affordable airport transfers")
 
-![Mini bus for large groups](/images/miniBus.png "Mini bus - perfect for large group airport transfers")
+![Mini bus for large groups](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/miniBus.png "Mini bus - perfect for large group airport transfers")
 
 | Vehicle Type | One-Way Airport Transfer | Round-Trip |
 |---------|---------|------------|
@@ -500,9 +500,9 @@ Customizable itineraries available.
 
 ## Book Varanasi Travel Agent: Contact Kashi Taxi Today
 
-![Varanasi evening aarti](/images/varanasi-evening-aarti-ritual-2025.jpg "Varanasi evening aarti - book with trusted tour operators")
+![Varanasi evening aarti](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-evening-aarti-ritual-2025.jpg "Varanasi evening aarti - book with trusted tour operators")
 
-![Urbania and Tempo Traveller side view](/images/Urbania-TT-Square-SideView.jpeg "Force Urbania and Tempo Traveller fleet - premium tour operators")
+![Urbania and Tempo Traveller side view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-TT-Square-SideView.jpeg "Force Urbania and Tempo Traveller fleet - premium tour operators")
 
 **Contact Kashi Taxi — Your Trusted Varanasi Travel Agent**
 

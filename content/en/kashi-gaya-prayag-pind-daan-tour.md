@@ -134,11 +134,11 @@ Upgrade multipliers: 17 seater @ ₹27/km; Premium Urbania @ ₹34–35/km.
 ## Photo Gallery (Existing Fleet & Symbolic Placeholders)
 | Varanasi Corridor | Prayagraj Sangam | Gaya (Symbolic) |
 | --- | --- | --- |
-| ![Kashi Vishwanath corridor approach](/images/blogKashiVishwanath.jpg "Kashi Vishwanath Corridor – Start of Circuit") | ![Prayagraj sangam snan representation](/images/prayagraj.jpg "Prayagraj Triveni Sangam Morning") | ![Gaya symbolic pilgrimage image](/images/blogGaya.png "Gaya Pilgrimage (Add real pind daan photo later)") |
+| ![Kashi Vishwanath corridor approach](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogKashiVishwanath.jpg "Kashi Vishwanath Corridor – Start of Circuit") | ![Prayagraj sangam snan representation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg "Prayagraj Triveni Sangam Morning") | ![Gaya symbolic pilgrimage image](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png "Gaya Pilgrimage (Add real pind daan photo later)") |
 
 | Tempo Traveller Interior | Fleet Exterior | Luggage / Ritual Space |
 | --- | --- | --- |
-| ![Tempo traveller interior for pind daan circuit](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Clean interior space for multi-day ritual circuit") | ![Tempo traveller exterior before departure](/images/tempo-travellar-outside-front-p.jpeg "Fleet staged for departure") | ![Rear access luggage pind daan items](/images/Tempo_travellar_side_back_white.jpeg "Rear bay managing ritual vessels & bags") |
+| ![Tempo traveller interior for pind daan circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Clean interior space for multi-day ritual circuit") | ![Tempo traveller exterior before departure](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Fleet staged for departure") | ![Rear access luggage pind daan items](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear bay managing ritual vessels & bags") |
 
 > Replace Gaya placeholder with authentic ritual compliant photo (no sensitive exposure) when available.
 

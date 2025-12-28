@@ -7,7 +7,7 @@ metaTitle: "मणिकर्णिका घाट गाइड 2025: इत�
 metaDescription: "मणिकर्णिका घाट वाराणसी: इतिहास, दाह संस्कार प्रक्रिया, मोक्ष से जुड़ी मान्यताएँ, दर्शक हेतु आचरण नियम व संवेदनशीलता सुझाव।"
 description: "वाराणसी का प्रमुख अंत्येष्टि स्थल मणिकर्णिका: पौराणिक कथाएँ, क्या देखें, कैसे सम्मान रखें, समय व निकटवर्ती संदर्भ।"
 keywords: ["manikarnika ghat hindi","मणिकर्णिका घाट मोक्ष","varanasi cremation ghat guide","cremation etiquette varanasi hindi","dom community role","manikarnika kund katha","varanasi death rituals","kashi moksha belief","photography rules manikarnika","hindu funeral respect tips","manikarnika myths facts"]
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 relatedPosts:
   - guide-to-10-most-important-ghats-of-varanasi
   - sunrise-boat-ride-ganges
@@ -21,7 +21,7 @@ canonical: "https://www.kashitaxi.in/hi/manikarnika-ghat-sacred-cremation-ground
 
 # मणिकर्णिका घाट – पवित्र अंत्येष्टि स्थल को समझने का सम्मानपूर्ण मार्गदर्शन
 
-![Wide contextual ghats view](/images/varanasi-ghats-overview.jpeg "विस्तृत संदर्भ – प्रत्यक्ष दाह दृश्य नहीं")
+![Wide contextual ghats view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "विस्तृत संदर्भ – प्रत्यक्ष दाह दृश्य नहीं")
 
 > **सार:** सतत जलती चिताएँ = जीवन–मृत्यु चक्र का प्रतीक। यहाँ दर्शन = सांस्कृतिक अध्ययन, पर्यटन तमाशा नहीं। *कीवर्ड:* manikarnika ghat hindi / kashi moksha belief / cremation etiquette.
 

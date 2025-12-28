@@ -20,7 +20,7 @@ tags:
   - varanasi travel
   - distance planning
 template: destination
-featuredImage: "/images/airport-taxi-600x400.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg"
 eyebrow: "एयरपोर्ट लॉजिस्टिक्स हब"
 ctaTitle: "रूट प्लानिंग या ट्रांसफर कोऑर्डिनेशन चाहिए?"
 ctaSubtitle: "फ्लाइट डिटेल शेयर करें और घाट एक्सेस + बैरिकेड रूटिंग के साथ कस्टमाइज्ड प्लान पाएँ।"
@@ -28,7 +28,7 @@ ctaSubtitle: "फ्लाइट डिटेल शेयर करें औ�
 
 # वाराणसी एयरपोर्ट (VNS) ट्रांसफर & लॉजिस्टिक्स हब
 
-![वाराणसी एयरपोर्ट टैक्सी बे](/images/airport-taxi-600x400.jpeg "लाल बहादुर शास्त्री इंटरनेशनल एयरपोर्ट पर नाइट ड्रॉप ज़ोन")
+![वाराणसी एयरपोर्ट टैक्सी बे](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg "लाल बहादुर शास्त्री इंटरनेशनल एयरपोर्ट पर नाइट ड्रॉप ज़ोन")
 
 **लाल बहादुर शास्त्री इंटरनेशनल एयरपोर्ट (VNS)** बाबतपुर में है और गंगा से लगभग **26 किमी** दूर है। किस घाट या स्टेशन के लिए कौन-सा रूट खुला है, वहीं से आपकी लॉजिस्टिक्स प्लानिंग शुरू होती है।
 
@@ -173,84 +173,84 @@ ctaSubtitle: "फ्लाइट डिटेल शेयर करें औ�
   <div class="airport-tab-panel is-active" data-tab-panel="shrines">
     <div class="airport-card-grid">
       <a class="airport-card" href="/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance">
-        <img src="/images/Vishwanath-Mandir-Evenging-Square-Outside.jpeg" alt="काशी विश्वनाथ मंदिर" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vishwanath-Mandir-Evenging-Square-Outside.jpeg" alt="काशी विश्वनाथ मंदिर" loading="lazy" />
         <div class="airport-card-body">
           <h4>काशी विश्वनाथ मंदिर</h4>
           <p>26 किमी · 50–60 मिनट · कॉरिडोर गेट + ई-रिक्शा हेंडऑफ।</p>
         </div>
       </a>
       <a class="airport-card" href="/hi/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance">
-        <img src="/images/dashashwamedh-aarti-platforms-2025.jpg" alt="दशाश्वमेध घाट" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg" alt="दशाश्वमेध घाट" loading="lazy" />
         <div class="airport-card-body">
           <h4>दशाश्वमेध घाट</h4>
           <p>25 किमी · 55–65 मिनट · शाम आरती लेन क्लोजर।</p>
         </div>
       </a>
       <a class="airport-card" href="/hi/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance">
-        <img src="/images/assi-aarti-evening-P.jpeg" alt="असी घाट" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/assi-aarti-evening-P.jpeg" alt="असी घाट" loading="lazy" />
         <div class="airport-card-body">
           <h4>असी घाट</h4>
           <p>28 किमी · 60 मिनट · Subah-e-Banaras ड्रॉप लेन।</p>
         </div>
       </a>
       <a class="airport-card" href="/hi/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance">
-        <img src="/images/varanasi-ghat-priests-2025.jpg" alt="मणिकर्णिका घाट" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-priests-2025.jpg" alt="मणिकर्णिका घाट" loading="lazy" />
         <div class="airport-card-body">
           <h4>मणिकर्णिका घाट</h4>
           <p>25 किमी · 55 मिनट · अंतिम 200 मीटर पैदल लेन।</p>
         </div>
       </a>
       <a class="airport-card" href="/hi/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance">
-        <img src="/images/varanashi-ghat-evening-P.jpeg" alt="NaMo घाट" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanashi-ghat-evening-P.jpeg" alt="NaMo घाट" loading="lazy" />
         <div class="airport-card-body">
           <h4>NaMo घाट (खिड़किया)</h4>
           <p>24 किमी · 40–45 मिनट · समर्पित प्रॉमेनाड पार्किंग।</p>
         </div>
       </a>
       <a class="airport-card" href="/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-distance">
-        <img src="/images/Sarnath-Stoopa-Square-beautiful-large.jpeg" alt="सारनाथ" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Sarnath-Stoopa-Square-beautiful-large.jpeg" alt="सारनाथ" loading="lazy" />
         <div class="airport-card-body">
           <h4>सारनाथ</h4>
           <p>30 किमी · 50 मिनट · बौद्ध सर्किट + म्यूज़ियम हॉल्ट।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-distance">
-        <img src="/images/varanasi-river-bajra.jpeg" alt="रामनगर किला" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-bajra.jpeg" alt="रामनगर किला" loading="lazy" />
         <div class="airport-card-body">
           <h4>रामनगर किला</h4>
           <p>34 किमी · 70 मिनट · पुराने पुल + म्यूज़ियम टाइमिंग।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-distance">
-        <img src="/images/varanasi-ghat-early-morning.jpeg" alt="केदार घाट" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg" alt="केदार घाट" loading="lazy" />
         <div class="airport-card-body">
           <h4>केदार घाट</h4>
           <p>26 किमी · 55 मिनट · संकरी गलियाँ, पोर्टर विकल्प।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-distance">
-        <img src="/images/varanasi-boat-eve-l.jpeg" alt="सिंधिया घाट" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg" alt="सिंधिया घाट" loading="lazy" />
         <div class="airport-card-body">
           <h4>सिंधिया घाट</h4>
           <p>25 किमी · 55 मिनट · डूबा शिव मंदिर फोटो स्टॉप।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-distance">
-        <img src="/images/varanasi-boat-bird-river-p.jpeg" alt="तुलसी घाट" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-bird-river-p.jpeg" alt="तुलसी घाट" loading="lazy" />
         <div class="airport-card-body">
           <h4>तुलसी घाट</h4>
           <p>27 किमी · 60 मिनट · कृष्णलीला + अखाड़ा ब्रिफिंग।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-distance">
-        <img src="/images/varanasi-subeh-e-banaras-p.jpeg" alt="पंचगंगा घाट" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-subeh-e-banaras-p.jpeg" alt="पंचगंगा घाट" loading="lazy" />
         <div class="airport-card-body">
           <h4>पंचगंगा घाट</h4>
           <p>25 किमी · 55 मिनट · पाँच नदियों का संगम दर्शन।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-raj-ghat-distance">
-        <img src="/images/varanasi-ghats-overview.jpeg" alt="राज घाट" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg" alt="राज घाट" loading="lazy" />
         <div class="airport-card-body">
           <h4>राज घाट</h4>
           <p>24 किमी · 45 मिनट · उत्तरी गेटवे + मलवीय ब्रिज दृश्य।</p>
@@ -262,35 +262,35 @@ ctaSubtitle: "फ्लाइट डिटेल शेयर करें औ�
   <div class="airport-tab-panel" data-tab-panel="rail">
     <div class="airport-card-grid">
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance">
-        <img src="/images/AyodhyaTrain1.jpg" alt="Varanasi Junction" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTrain1.jpg" alt="Varanasi Junction" loading="lazy" />
         <div class="airport-card-body">
           <h4>Varanasi Junction (Cantt)</h4>
           <p>26 किमी · 50 मिनट · कैंट प्रवेश + पार्किंग सलाह।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance">
-        <img src="/images/AyodhyaTrain2.jpg" alt="Banaras Station" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTrain2.jpg" alt="Banaras Station" loading="lazy" />
         <div class="airport-card-body">
           <h4>Banaras Station (Manduadih)</h4>
           <p>32 किमी · 60 मिनट · आधुनिक कॉनकोर्स + ड्रॉप लेन।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance">
-        <img src="/images/AyodhyaTrain3.jpg" alt="DDU Junction" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTrain3.jpg" alt="DDU Junction" loading="lazy" />
         <div class="airport-card-body">
           <h4>Pt. DDU Junction</h4>
           <p>42 किमी · 70 मिनट · मुगलसराय रैंप + नाइट सेफ्टी।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance">
-        <img src="/images/AyodhyaTrain2.jpg" alt="Mughalsarai" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTrain2.jpg" alt="Mughalsarai" loading="lazy" />
         <div class="airport-card-body">
           <h4>Mughalsarai Town</h4>
           <p>41 किमी · 70 मिनट · बाज़ार/होटल ड्रॉप।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance">
-        <img src="/images/varanasi-hero.png" alt="Varanasi City Station" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" alt="Varanasi City Station" loading="lazy" />
         <div class="airport-card-body">
           <h4>Varanasi City Station (BCY)</h4>
           <p>23 किमी · 45 मिनट · पुराना शहर प्रवेश प्रबंधन।</p>
@@ -302,70 +302,70 @@ ctaSubtitle: "फ्लाइट डिटेल शेयर करें औ�
   <div class="airport-tab-panel" data-tab-panel="outstation">
     <div class="airport-card-grid">
       <a class="airport-card" href="/hi/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance">
-        <img src="/images/prayagraj.jpg" alt="Prayagraj" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg" alt="Prayagraj" loading="lazy" />
         <div class="airport-card-body">
           <h4>प्रयागराज</h4>
           <p>121 किमी · 3.5 घंटा · संगम दर्शन + VIP रूट।</p>
         </div>
       </a>
       <a class="airport-card" href="/hi/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance">
-        <img src="/images/Vindhyachal2.jpg" alt="Vindhyachal" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Vindhyachal2.jpg" alt="Vindhyachal" loading="lazy" />
         <div class="airport-card-body">
           <h4>मिर्ज़ापुर / विंध्याचल</h4>
           <p>70 किमी · 1.5–2 घंटा · शक्ति पीठ त्रिकोण।</p>
         </div>
       </a>
       <a class="airport-card" href="/hi/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance">
-        <img src="/images/varanasi-sunrise-p.jpeg" alt="Gorakhpur" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-sunrise-p.jpeg" alt="Gorakhpur" loading="lazy" />
         <div class="airport-card-body">
           <h4>गोरखपुर</h4>
           <p>220 किमी · 4.5 घंटा · NH-31 + नेपाल अडॉन।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-patna-distance">
-        <img src="/images/varanasi-river-boat-evening-p.jpeg" alt="Patna" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg" alt="Patna" loading="lazy" />
         <div class="airport-card-body">
           <h4>पटना</h4>
           <p>260 किमी · 5.5 घंटा · गंगा ब्रिज + टोल।</p>
         </div>
       </a>
       <a class="airport-card" href="/hi/outstation-cabs-from-varanasi">
-        <img src="/images/varanasi-boat-eve-l.jpeg" alt="Ghazipur" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg" alt="Ghazipur" loading="lazy" />
         <div class="airport-card-body">
           <h4>गाज़ीपुर</h4>
           <p>89 किमी · 2 घंटा · NH-31 + अफीम फैक्ट्री स्टॉप।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-jaunpur-distance">
-        <img src="/images/varanasi-kashivishwanath-outside-l.jpeg" alt="Jaunpur" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashivishwanath-outside-l.jpeg" alt="Jaunpur" loading="lazy" />
         <div class="airport-card-body">
           <h4>जौनपुर</h4>
           <p>60 किमी · 1.5 घंटा · शाही पुल + इमामबाड़ा।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-mau-distance">
-        <img src="/images/varanasi-river-sunrise-boat-p.jpeg" alt="Mau" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg" alt="Mau" loading="lazy" />
         <div class="airport-card-body">
           <h4>मऊ</h4>
           <p>130 किमी · 3 घंटा · टेक्सटाइल टाउन ड्रॉप।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-ballia-distance">
-        <img src="/images/varanasi-kal-bhairav-p.jpeg" alt="Ballia" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kal-bhairav-p.jpeg" alt="Ballia" loading="lazy" />
         <div class="airport-card-body">
           <h4>बलिया</h4>
           <p>160 किमी · 3.5 घंटा · गंगा फेरी टाइमिंग।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-deoria-distance">
-        <img src="/images/varanasi-river-bajra.jpeg" alt="Deoria" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-bajra.jpeg" alt="Deoria" loading="lazy" />
         <div class="airport-card-body">
           <h4>देवरिया</h4>
           <p>190 किमी · 4 घंटा · पूर्वांचल एग्री बेल्ट रन।</p>
         </div>
       </a>
       <a class="airport-card" href="/en/city/varanasi/taxi/varanasi-airport-to-jalalpur-distance">
-        <img src="/images/varanasi-river-boat-evening-p.jpeg" alt="Jalalpur" loading="lazy" />
+        <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg" alt="Jalalpur" loading="lazy" />
         <div class="airport-card-body">
           <h4>जलालपुर</h4>
           <p>110 किमी · 2.5 घंटा · ग्रामीण ड्रॉप + होमस्टे गाइड।</p>

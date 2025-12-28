@@ -69,25 +69,25 @@ export default function HomePage({ allPosts }) {
       name: 'Pink Taxi safety',
       years: '8 yrs women-first fleet',
       route: 'Family & solo women travel support',
-      img: '/images/lady-taxi.jpeg',
+      img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg',
     },
     {
       name: 'Ladies-only ride',
       years: 'Trusted for solo trips',
       route: 'Single traveller pickup with full-day assistance',
-      img: '/images/solo-femal-traveller-varanasi.jpeg',
+      img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/solo-femal-traveller-varanasi.jpeg',
     },
     {
       name: 'Group vans & tempo',
       years: '12 yrs group moves',
       route: 'Airport, weddings, multi-van convoys',
-      img: '/images/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg',
+      img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg',
     },
     {
       name: 'Premium outstation',
       years: '9 yrs long routes',
       route: 'Urbania & SUV fleet for long trips',
-      img: '/images/Urbania-front-Square.jpeg',
+      img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-front-Square.jpeg',
     },
     {
       name: 'Happy customer handover',
@@ -113,7 +113,7 @@ export default function HomePage({ allPosts }) {
   {/* Open Graph Meta Tags */}
   <meta property="og:title" content="Varanasi Taxi Service: Airport, City & Outstation Cabs from ₹12/km" />
   <meta property="og:description" content="Varanasi Taxi, Tempo Traveller & Outstation Cabs. Airport cab from ₹800, local tours from ₹2,500, outstation and tempo traveller hire. 24×7 Varanasi cab service." />
-        <meta property="og:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
+        <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/home" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Varanasi Taxi & Tempo Traveller" />
@@ -355,7 +355,7 @@ export default function HomePage({ allPosts }) {
             >
               <div className="relative h-48">
                 <Image
-                  src="/images/varanasi-kashi-vishwanath-l.jpeg"
+                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
                   alt="Kashi Vishwanath Temple - Local Darshan"
                   fill
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
@@ -385,7 +385,7 @@ export default function HomePage({ allPosts }) {
             >
               <div className="relative h-48">
                 <Image
-                  src="/images/airport-taxi-600x400.jpeg"
+                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/airport-taxi-600x400.jpeg"
                   alt="Varanasi Airport Taxi Service"
                   fill
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
@@ -415,7 +415,7 @@ export default function HomePage({ allPosts }) {
             >
               <div className="relative h-48">
                 <Image
-                  src="/images/sangam-600x400.jpeg"
+                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg"
                   alt="Varanasi to Prayagraj Taxi"
                   fill
                   className="object-cover group-hover:scale-110 transition-transform duration-500"

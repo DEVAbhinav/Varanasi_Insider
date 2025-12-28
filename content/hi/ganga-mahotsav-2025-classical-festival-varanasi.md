@@ -7,7 +7,7 @@ metaTitle: "गंगा महोत्सव 2025 वाराणसी | Clas
 metaDescription: "गंगा महोत्सव 2025 (6–8 नव.) देव दीपावली के बाद अस्सी घाट पर 3 दिन शास्त्रीय संगीत, नृत्य, कलाकार लाइनअप, टिकट, सीटिंग व यात्रा सलाह।"
 description: "Ganga Mahotsav वाराणसी 2025 – कार्यक्रम समय, टिकट मूल्य संरचना, सीटिंग वर्ग, कलाकार फोकस, फ़ोटोग्राफ़ी व सांस्कृतिक अनुभव टिप्स।"
 keywords: ["गंगा महोत्सव 2025","ganga mahotsav hindi","varanasi music festival november","अस्सी घाट कार्यक्रम","classical music varanasi","ganga mahotsav ticket","dev deepawali ke baad","varanasi cultural festival"]
-featuredImage: "/images/ganga-aarti.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"
 relatedPosts:
   - dev-deepawali-2025-varanasi-ultimate-guide
   - dev-deepawali-best-viewing-spots-varanasi

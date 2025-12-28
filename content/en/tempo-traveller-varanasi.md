@@ -6,7 +6,7 @@ date: 2025-08-27
 tags: [tempo traveller, varanasi, tempo traveller hire, tempo traveller booking, tempo traveller rates, kashi darshan, airport transfer, 12 seater, 17 seater]
 slug: tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/tempo-traveller-varanasi
-featuredImage: /images/Tempo-Travellar_landscape_Village.jpeg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 relatedPosts:
   - varanasi-airport-tempo-traveller
   - kashi-darshan-tempo-traveller
@@ -30,11 +30,11 @@ See the full 2025 price list: [/en/tempo-traveller-rates-varanasi](/en/tempo-tra
 
 ## Vehicle Photos
 
-![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller fleet — representative image")
+![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller fleet — representative image")
 
-![Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Side profile — space for luggage and groups")
+![Tempo Traveller — side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Side profile — space for luggage and groups")
 
-![Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Clean, AC interiors with pushback seats")
+![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Clean, AC interiors with pushback seats")
 
 ### Tempo Traveller Hire in Varanasi: Why Choose Us
 

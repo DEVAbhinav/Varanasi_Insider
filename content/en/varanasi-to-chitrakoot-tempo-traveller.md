@@ -25,7 +25,7 @@ faqSchema:
     answer: "Up to 8 pax light luggage → 9 seater; 9–11 pax or elders → 12 seater; 12–16 pax or multi‑family → 17 seater."
   - question: "What is the package cost for Varanasi to Chitrakoot 2 day trip?"
     answer: "Indicative: 12 seater Tempo Traveller ₹24/km * ~600–630 km billing + driver allowance (₹600/night) + toll/parking. Approx ₹16,500–₹18,500 all in (non‑luxury). Custom fixed quote available."
-featuredImage: /images/Tempo-Travellar_landscape_Village.jpeg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 ---
 
 # Varanasi to Chitrakoot Tempo Traveller – 2 Day Pilgrimage Itinerary & Package (2025)
@@ -40,17 +40,17 @@ featuredImage: /images/Tempo-Travellar_landscape_Village.jpeg
 
 | Fleet on Route | Comfortable Interior (12 Seater) | Luxury / Maharaja Seat |
 | --- | --- | --- |
-| ![Tempo Traveller Varanasi to Chitrakoot highway scene](/images/Tempo-Travellar_landscape_Village.jpeg "Tempo Traveller en route from Varanasi towards Chitrakoot") | ![12 seater tempo traveller interior aisle comfort Chitrakoot trip](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Interior comfort – ideal for 1N/2D Chitrakoot pilgrimage") | ![Luxury tempo traveller seat for Chitrakoot pilgrimage](/images/Tempo_traveller_lux_seat_side.jpeg "Premium seating option for multi-family Chitrakoot yatra") |
+| ![Tempo Traveller Varanasi to Chitrakoot highway scene](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Tempo Traveller en route from Varanasi towards Chitrakoot") | ![12 seater tempo traveller interior aisle comfort Chitrakoot trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior comfort – ideal for 1N/2D Chitrakoot pilgrimage") | ![Luxury tempo traveller seat for Chitrakoot pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Premium seating option for multi-family Chitrakoot yatra") |
 
 ### Additional Tempo Traveller Fleet & Comfort Views
 
 | Exterior Front View | Side Profile Highway | Seat Close Detail |
 | --- | --- | --- |
-| ![Tempo traveller front view varanasi to chitrakoot](/images/tempo-travellar-outside-front-p.jpeg "Front profile before Chitrakoot departure") | ![Tempo traveller side profile chitrakoot route](/images/tempo-travellar-side-l.jpeg "Side profile – luggage & window ventilation") | ![Seat cushioning tempo traveller chitrakoot](/images/Tempo_travellar_seat_closup.jpeg "Pushback seat cushioning detail") |
+| ![Tempo traveller front view varanasi to chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Front profile before Chitrakoot departure") | ![Tempo traveller side profile chitrakoot route](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Side profile – luggage & window ventilation") | ![Seat cushioning tempo traveller chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_seat_closup.jpeg "Pushback seat cushioning detail") |
 
 | Interior Ambient Lighting | Rear & Luggage Access | Premium Urbania Cabin |
 | --- | --- | --- |
-| ![Ambient lighting inside tempo traveller chitrakoot trip](/images/Tempo_travellar_neon_inside.jpeg "Soft ambient lighting for early morning / evening legs") | ![Rear access and luggage tempo traveller chitrakoot](/images/Tempo_travellar_side_back_white.jpeg "Rear door & luggage handling clarity") | ![Urbania premium interior option chitrakoot pilgrimage](/images/Urbania-Inside-Potrait.jpeg "Premium Urbania variant – higher roof & recliner comfort") |
+| ![Ambient lighting inside tempo traveller chitrakoot trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Soft ambient lighting for early morning / evening legs") | ![Rear access and luggage tempo traveller chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear door & luggage handling clarity") | ![Urbania premium interior option chitrakoot pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-Inside-Potrait.jpeg "Premium Urbania variant – higher roof & recliner comfort") |
 
 > Replace/add authentic Chitrakoot site photos (Ramghat, Kamadgiri path, Hanuman Dhara steps) when captured—keep filenames concise (e.g., /images/Chitrakoot-Ramghat-Evening.jpg).
 

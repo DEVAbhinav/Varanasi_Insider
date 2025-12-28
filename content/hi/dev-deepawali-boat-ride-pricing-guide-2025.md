@@ -7,7 +7,7 @@ metaTitle: "देव दीपावली 2025 नाव राइड Price �
 metaDescription: "देव दीपावली नाव राइड 2025: घाट मोलभाव ₹200–₹500 से लक्ज़री ₹13K+ तक – असली कीमत, बुकिंग रणनीति, असफलता जोखिम, सुरक्षित विकल्प।"
 description: "Dev Deepawali boat ride pricing Hindi – बुकिंग स्रोत, सफलता दर, उचित मूल्य, धोखाधड़ी से बचाव व प्रीमियम बनाम बजट तुलना।"
 keywords: ["dev deepawali boat price hindi","देव दीपावली नाव राइड कीमत","dev deepawali boat booking","ganga boat ride varanasi kartik purnima","boat scam dev deepawali","dev deepawali boat negotiation","dev deepawali boat timing","देव दीपावली नाव ऑनलाइन बुकिंग","dev deepawali private boat price","dev deepawali boat safety","varanasi dev deepawali boat booking"]
-featuredImage: "/images/varanasi-river-boat-evening-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-boat-evening-p.jpeg"
 relatedPosts:
   - dev-deepawali-2025-varanasi-ultimate-guide
   - dev-deepawali-best-viewing-spots-varanasi

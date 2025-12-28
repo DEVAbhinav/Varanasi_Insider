@@ -21,7 +21,7 @@ tags:
   - varanasi
   - sightseeing
 template: destination
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 eyebrow: "नाव टूर गाइड"
 ctaTitle: "84 घाट टूर चाहते हैं?"
 ctaSubtitle: "स्पष्ट मूल्य और पिकअप समन्वय के साथ सूर्यास्त या सूर्योदय नाव टूर बुक करें।"

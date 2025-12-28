@@ -22,7 +22,7 @@ tags:
   - festivals
   - luxury-transport
 template: destination
-featuredImage: "/images/varanasi-boat-eve-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "Varanasi Literary Events"
 ctaTitle: "Reserve Your BLF 2026 Luxury Transport"
 ctaSubtitle: "Share your arrival details on WhatsApp for instant confirmation with English-speaking driver assignment."

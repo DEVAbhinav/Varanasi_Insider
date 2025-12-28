@@ -13,7 +13,7 @@ keywords:
   - varanasi to allahabad heritage tour
   - khusro bagh itinerary from varanasi
 slug: varanasi-to-allahabad-tempo-traveller
-featuredImage: /images/prayagraj.jpg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg
 relatedPosts:
   - varanasi-to-prayagraj-tempo-traveller
   - varanasi-to-triveni-sangam-tempo-traveller
@@ -36,7 +36,7 @@ If you grew up calling the city Allahabad and still want your itinerary to refle
 
 > **At a Glance:** 125 km one way · 2.5 hours · ₹8,500 all-inclusive 12 seater · curated heritage + pilgrimage stops · vetted Sangam priest assistance · lunch at Loknath or Civil Lines cafes.
 
-| ![Tempo Traveller crossing the Naini bridge towards Prayagraj](/images/prayagraj.jpg "Traveller crossing Naini bridge towards Prayagraj") | ![Devotees performing Triveni Sangam snan at sunrise](/images/sangam-600x400.jpeg "Sunrise snan at Triveni Sangam") | ![Heritage Anand Bhavan mansion framed by trees](/images/blogAllahabad.png "Anand Bhavan heritage mansion") |
+| ![Tempo Traveller crossing the Naini bridge towards Prayagraj](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg "Traveller crossing Naini bridge towards Prayagraj") | ![Devotees performing Triveni Sangam snan at sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg "Sunrise snan at Triveni Sangam") | ![Heritage Anand Bhavan mansion framed by trees](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogAllahabad.png "Anand Bhavan heritage mansion") |
 | --- | --- | --- |
 
 ## Prayagraj Sangam Highlights Covered in This Tempo Traveller Tour
@@ -63,9 +63,9 @@ If you grew up calling the city Allahabad and still want your itinerary to refle
 
 ## Prayagraj Tempo Traveller Options & Pricing
 
-![Private boat lined up at Prayagraj Sangam for ritual snan](/images/ganga-aarti-ceremony-2025.jpg "Private boat arranged for Sangam rituals")
+![Private boat lined up at Prayagraj Sangam for ritual snan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-ceremony-2025.jpg "Private boat arranged for Sangam rituals")
 
-![Loknath lane chaat spread ready for lunch break](/images/pink-sky-ghat-varanasi-l.jpeg "Loknath chaat and lunch break vibes")
+![Loknath lane chaat spread ready for lunch break](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/pink-sky-ghat-varanasi-l.jpeg "Loknath chaat and lunch break vibes")
 
 | Vehicle | Seats | Price (Same-Day) | Extras |
 | --- | --- | --- | --- |
@@ -116,7 +116,7 @@ All quotes include fuel, tolls, Prayagraj bridge fee, Sangam parking, and driver
 - Token: ₹800 UPI to confirm; balance after trip.
 
 <!-- CTA Section for Maximum CTR Optimization -->
-![Tempo Traveller charter staged near Triveni Sangam sunrise](/images/prayagraj.jpg "Tempo Traveller charter staged near Triveni Sangam sunrise")
+![Tempo Traveller charter staged near Triveni Sangam sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg "Tempo Traveller charter staged near Triveni Sangam sunrise")
 ## Ready to Transform Your Varanasi to Prayagraj Journey?
 Experience unparalleled comfort, safety, and exclusive offers with our Tempo Traveller service. Don't miss our limited-time deals crafted just for your sacred journey.
 [Book Your Ride Now!](/booking)

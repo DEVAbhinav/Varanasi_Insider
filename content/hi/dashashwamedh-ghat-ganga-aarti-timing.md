@@ -7,7 +7,7 @@ metaTitle: "दशाश्वमेध गंगा आरती 2025: सर�
 metaDescription: "शाम आरती 5:45 PM (सर्दी), 6:45 PM (गर्मी)। 40 मिनट पहले पहुंचें। चेयर ₹150-250, नाव ₹200। भीड़ 800+ लोग। बेस्ट व्यू गाइड →"
 description: "दशाश्वमेध गंगा आरती का अपडेटेड 2025 गाइड – सीज़नल समय, आगमन विंडो, भीड़ घनत्व, व्यू एंगल, नाव / रूफटॉप विकल्प व स्कैम अवॉइड।"
 keywords: ["dashashwamedh ghat ganga aarti timing hindi","गंगा आरती समय वाराणसी","दशाश्वमेध आरती भीड़","ganga aarti best view hindi","varanasi aarti boat view","ganga aarti winter timing","ganga aarti vip seat scam","dev deepawali aarti timing","dashashwamedh barricaid strategy","ganga aarti photography tips","गंगा आरती चेयर कीमत","dashashwamedh crowd management"]
-featuredImage: "/images/ganga-aarti.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg"
 relatedPosts:
   - evening-boat-ride-varanasi-ganga-aarti
   - guide-to-10-most-important-ghats-of-varanasi
@@ -42,7 +42,7 @@ canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti-timing"
 ## 1. पौराणिक / आध्यात्मिक संदर्भ
 “दशाश्वमेध” = दस अश्वमेध यज्ञ स्थल (पुराण / रामायण व्याख्या)। आज 45 मिनट समन्वित आरती – शंख, घंटियाँ, बहु-स्तरीय दीप।
 
-![आरती भीड़ पूर्व क्षण](/images/ganga-aarti.jpeg "दीप प्रज्वलन से 10 मिनट पूर्व भीड़ घनत्व")
+![आरती भीड़ पूर्व क्षण](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg "दीप प्रज्वलन से 10 मिनट पूर्व भीड़ घनत्व")
 
 ## 2. समय सारणी (सीज़न अनुसार)
 | सीज़न | शाम आरती प्रारंभ | सुबह (अस्सी) |
@@ -76,7 +76,7 @@ canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti-timing"
 | प्राइवेट नाव (एंगल) | फ़ोटोग्राफ़ी | कोण नियंत्रण | उच्च लागत | 15–25° वैरिएंस |
 | रूफटॉप | वाइड शॉट | ऊँचाई | ध्वनि दूरी | ≥70mm लेंस |
 
-![रूफटॉप से वाइड लेयर](/images/ganga-aarti.jpeg "ऊँचाई से दीया रोटेशन व नाव आर्क लेयरिंग")
+![रूफटॉप से वाइड लेयर](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti.jpeg "ऊँचाई से दीया रोटेशन व नाव आर्क लेयरिंग")
 
 ## 4. नाव कीमत (संक्षेप)
 - साझा: ₹300–₹500 प्रति व्यक्ति  
@@ -99,7 +99,7 @@ canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti-timing"
 4. पुष्प / दीया अर्पण  
 5. अंतिम सामूहिक मंत्र  
 
-![साइड एंगल – बहु-स्तरीय दीप](/images/ganga-aarti-solo.jpeg "साइड भीड़ घनत्व और लैंप रोटेशन प्रोफ़ाइल")
+![साइड एंगल – बहु-स्तरीय दीप](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/ganga-aarti-solo.jpeg "साइड भीड़ घनत्व और लैंप रोटेशन प्रोफ़ाइल")
 
 ## 7. सुरक्षा / स्कैम अलर्ट
 - “VIP प्लेटफ़ॉर्म ₹600+” बिना अधिकृत रसीद = अस्वीकार।  

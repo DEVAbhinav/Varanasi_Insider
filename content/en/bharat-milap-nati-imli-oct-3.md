@@ -5,7 +5,7 @@ date: "2025-09-29"
 lastUpdated: "2025-09-29"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/varanasi-ghat-priests-2025.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-priests-2025.jpg"
 metaTitle: "Bharat Milap Nati Imli 2025 – Route Map, Passes, Transport & VIP View"
 metaDescription: "Beat the 3 Oct 2025 Bharat Milap chaos with verified route maps, shuttle timings, wristband hacks, and crowd-flow tactics locals use to reach Nati Imli on time."
 description: "3 Oct 2025 Bharat Milap Nati Imli survival guide—route maps, shuttle timings, wristband hacks, and crowd-flow tactics locals use to reach the Ramnagar epic on time."
@@ -46,7 +46,7 @@ relatedPosts:
 
 > **TL;DR:** Bharat Milap Nati Imli on 3 Oct 2025 draws 15k–20k devotees for the Ramnagar Ramlila reunion; barricades lock by 5 PM and correct lanes are critical to reach the tamarind-stage in time. Arrive via Dhobi Ghat shuttle by 1:30 PM and pre-book guided wristbands. Scroll for route maps, crowd tactics, and transport playbook.
 
-![Crowd surging as Rama meets Bharat during the Nati Imli episode](/images/varanasi-ghat-priests-2025.jpg "The emotional reunion of Rama and Bharat at Nati Imli")
+![Crowd surging as Rama meets Bharat during the Nati Imli episode](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-priests-2025.jpg "The emotional reunion of Rama and Bharat at Nati Imli")
 
 ![Simplified Bharat Milap procession route map from Ramnagar Fort to Nati Imli](/images/maps/bharat-milap-route.svg "Bharat Milap Nati Imli route map with crowd checkpoints")
 

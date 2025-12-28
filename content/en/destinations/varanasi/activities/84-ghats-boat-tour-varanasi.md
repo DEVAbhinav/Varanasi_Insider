@@ -25,7 +25,7 @@ tags:
   - varanasi
   - sightseeing
 template: destination
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 eyebrow: "Boat Tour Guide"
 ctaTitle: "Want an 84 Ghats Tour?"
 ctaSubtitle: "Book a sunset or sunrise boat tour with clear pricing and pickup coordination."

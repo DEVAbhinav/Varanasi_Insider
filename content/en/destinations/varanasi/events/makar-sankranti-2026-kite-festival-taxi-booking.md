@@ -21,7 +21,7 @@ tags:
   - taxi
   - festivals
 template: destination
-featuredImage: "/images/varanasi-boat-eve-l.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "Varanasi Events"
 ctaTitle: "Reserve Your Kite Festival Ride"
 ctaSubtitle: "Share your hotel location on WhatsApp for instant confirmation and driver details."

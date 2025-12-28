@@ -48,7 +48,7 @@ faqSchema:
 
 Experience the spiritual beauty of Varanasi with **KashiTaxi's comprehensive city tour packages**. Looking for a taxi for Varanasi city tour? Our expert drivers know every temple, ghat, and hidden gem in the city. Whether you have 4 hours or a full day, we've curated the perfect itinerary to experience authentic Kashi Darshan with safe taxi service in Varanasi.
 
-![Varanasi Tourist Map](/images/varanasi tourist map-flat-lanscape.jpeg)
+![Varanasi Tourist Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi tourist map-flat-lanscape.jpeg)
 *Varanasi Tourist Map - Major attractions and routes covered in our city tour packages*
 
 ## Why Choose KashiTaxi for Varanasi City Tour Cab Service?
@@ -120,7 +120,7 @@ Comfortable return to your accommodation
 
 Perfect for first-time visitors with limited time:
 
-![Varanasi Temple Map](/images/Varanasi-temple-map.jpeg)
+![Varanasi Temple Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Varanasi-temple-map.jpeg)
 *Varanasi Temple Map - Major temples and spiritual sites in the city*
 
 - Direct drop at Kashi Vishwanath Temple entrance
@@ -135,7 +135,7 @@ Perfect for first-time visitors with limited time:
 
 Experience Varanasi's spiritual soul:
 
-![Varanasi Major Ghats Map](/images/Varanasi-major-ghats.jpeg)
+![Varanasi Major Ghats Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Varanasi-major-ghats.jpeg)
 *Varanasi Major Ghats - Explore the sacred riverfront bathing spots*
 
 - Dashashwamedh Ghat (morning ritual & evening aarti)

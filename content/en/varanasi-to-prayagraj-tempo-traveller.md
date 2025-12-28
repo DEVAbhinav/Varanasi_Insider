@@ -5,7 +5,7 @@ description: "Book your ₹8,500 day tour with private boat options, Bade Hanuma
 date: 2025-08-27
 tags: [prayagraj, allahabad, varanasi to prayagraj tempo traveller, sangam darshan, triveni sangam, tempo traveller fare, book tempo traveller prayagraj, 12 seater tempo traveller, 17 seater tempo traveller, nh19]
 slug: varanasi-to-prayagraj-tempo-traveller
-featuredImage: /images/prayagraj.jpg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg
 canonical: https://www.kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller
 relatedPosts:
   - varanasi-to-ayodhya-tempo-traveller
@@ -20,9 +20,9 @@ The holy Triveni Sangam at Prayagraj, where the Ganga and Yamuna meet—a highli
 
 ## Tempo Traveller Photos for Prayagraj Pilgrimage
 
-![Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Prayagraj same‑day package")
+![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Prayagraj same‑day package")
 
-![Tempo Traveller — interiors](/images/tempo-travellar-inside.jpeg "Comfortable, AC cabin for groups")
+![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Comfortable, AC cabin for groups")
 
 ## Why Visit Prayagraj Sangam from Varanasi?
 
@@ -42,9 +42,9 @@ Prayagraj (formerly Allahabad) is one of the holiest cities in India, forming an
 - 17‑Seater Option: For larger groups, we’ll share a custom quote (typically ~₹9,500 for the day, similarly inclusive)
 - Overnight Plan: If you want to stay in Prayagraj and return next day, ask for our reasonable multi‑day rates
 
-![Triveni Sangam confluence viewed from private boat](/images/sangam-600x400.jpeg "Private boat perspective of Triveni Sangam")
+![Triveni Sangam confluence viewed from private boat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/sangam-600x400.jpeg "Private boat perspective of Triveni Sangam")
 
-![Anand Bhavan heritage landmark included in itinerary](/images/blogAllahabad.png "Anand Bhavan heritage stop")
+![Anand Bhavan heritage landmark included in itinerary](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogAllahabad.png "Anand Bhavan heritage stop")
 
 ## Varanasi to Prayagraj Darshan Itinerary (One Day)
 
@@ -92,7 +92,7 @@ Prayagraj Darshan is a deeply spiritual journey. Pilgrims often say, “snana in
 - Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Prayagraj%20same-day%20trip%20booking
 
-![Tempo Traveller waiting at Triveni Sangam parking bay](/images/prayagraj.jpg "Tempo Traveller waiting at Triveni Sangam parking bay")
+![Tempo Traveller waiting at Triveni Sangam parking bay](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg "Tempo Traveller waiting at Triveni Sangam parking bay")
 
 ## Ready for Your Prayagraj Sangam Dash with a Tempo Traveller?
 

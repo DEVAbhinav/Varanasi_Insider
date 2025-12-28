@@ -21,7 +21,7 @@ tags:
   - ganga snan
   - harvest festival
 template: destination
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 eyebrow: "Harvest & Holy Bath Festival"
 ctaTitle: "Makar Sankranti Transport"
 ctaSubtitle: "Book early morning taxi for sacred bath and kite festival celebrations across Varanasi ghats."

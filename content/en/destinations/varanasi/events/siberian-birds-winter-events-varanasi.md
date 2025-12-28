@@ -22,7 +22,7 @@ tags:
   - nature
   - photography
 template: destination
-featuredImage: "/images/varanasi-river-sunrise-boat-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
 eyebrow: "January Culture"
 ctaTitle: "Add a winter boat ride"
 ctaSubtitle: "Bundle bird-watching with a city tour taxi in one tap."

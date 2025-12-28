@@ -17,9 +17,9 @@ High-stakes logistics done right: punctual, professional, and clean vehicles.
 
 ## Vehicle Photos (Wedding Use)
 
-![Decor-ready Tempo Traveller — outside front](/images/tempo-travellar-outside-front-p.jpeg "Ideal for guest shuttles and airport pickups")
+![Decor-ready Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Ideal for guest shuttles and airport pickups")
 
-![Tempo Traveller — side profile](/images/tempo-travellar-side-l.jpeg "Spacious for group movements between venues")
+![Tempo Traveller — side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Spacious for group movements between venues")
 
 ## Wedding Tempo Traveller Services (Varanasi)
 

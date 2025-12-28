@@ -4,27 +4,27 @@
     "name": "Honda Activa",
     "idealFor": "City cruising, easy to handle",
     "price": "499",
-    "image": "/images/scooty-activa.jpeg"
+    "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/scooty-activa.jpeg"
   },
   {
     "id": 2,
     "name": "Honda Shine",
     "idealFor": "Comfortable for longer rides",
     "price": "499",
-    "image": "/images/bike-pulsar.jpeg"
+    "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/bike-pulsar.jpeg"
   },
   {
     "id": 3,
     "name": "Royal Enfield Classic 350",
     "idealFor": "The ultimate touring experience",
     "price": "999",
-    "image": "/images/bike-royal-enfield.jpeg"
+    "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/bike-royal-enfield.jpeg"
   },
   {
     "id": 4,
     "name": "TVS Jupiter",
     "idealFor": "Reliable and fuel-efficient",
     "price": "499",
-    "image": "/images/scooty-activa.jpeg"
+    "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/scooty-activa.jpeg"
   }
 ]

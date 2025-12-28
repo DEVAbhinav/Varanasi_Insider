@@ -3,7 +3,7 @@ title: "Varanasi Transport Price Guide 2025: Fare Cheatsheet & Scam Shields"
 slug: "varanasi-transport-price-guide-2025"
 date: "2025-07-24"
 author: "Kamal Nayan Singh"
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 metaTitle: "Varanasi Transport Prices 2025 – Auto, E-Rickshaw, Taxi & Boat Fares"
 metaDescription: "Download the 2025 Varanasi transport cheatsheet: auto, e-rickshaw, taxi, boat fares, night surcharge scripts, and WhatsApp templates to shut down overcharging."
 description: "2025 Varanasi transport cheatsheet covering auto, e-rickshaw, taxi, boat fares, night surcharge scripts, and WhatsApp templates to stop overcharging."
@@ -37,7 +37,7 @@ Varanasi’s airport is about 25–32 km from the city’s ghats and temples. T
 
 ## [1 · Varanasi Airport Taxi Price (2025 Update)](/en/varanasi-airport-taxi-price-guide)
 
-![Verified airport sedan lined up at Varanasi arrivals](/images/seden.png "Varanasi Airport Taxi")
+![Verified airport sedan lined up at Varanasi arrivals](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png "Varanasi Airport Taxi")
 
 | Vehicle | Pre‑paid Stand | Uber/Ola (off‑peak) | Notes |
 |---------|---------------|---------------------|-------|
@@ -53,7 +53,7 @@ Varanasi’s airport is about 25–32 km from the city’s ghats and temples. T
 
 ## [2 · Varanasi Pink Taxi for Women – Safety‑First Rides](/pink-taxi-varanasi)
 
-![Pink Taxi woman driver greeting passenger in Varanasi](/images/lady-taxi.jpeg "Varanasi Pink Taxi for Women")
+![Pink Taxi woman driver greeting passenger in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/lady-taxi.jpeg "Varanasi Pink Taxi for Women")
 
 *Launching December 2025 (pilot slots already live on our portal).*
 
@@ -82,7 +82,7 @@ Reserve a verified woman driver through the upcoming Safe City app **or** pre�
 
 ## [4 · Ganga Aarti Boat Booking Price (Dashashwamedh Ghat)](/en/ganga-aarti-boat-booking-price)
 
-![Bajra boat decorated for Dev Deepawali bookings](/images/varanasi-river-bajra.jpeg "Bajra boat for Ganga Aarti")
+![Bajra boat decorated for Dev Deepawali bookings](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-bajra.jpeg "Bajra boat for Ganga Aarti")
 
 | Boat | Capacity | Inclusions | Rate (till Nov 2025) |
 |------|----------|------------|----------------------|
@@ -97,7 +97,7 @@ Secure your slot: **[www.kashitaxi.in/boat](https://www.kashitaxi.in/boat)** or 
 
 ## [5 · Varanasi Day Tour Cab Charges (12 h / 120 km)](/en/varanasi-day-tour-cab-charges)
 
-![A Tempo Traveller for day tours in Varanasi](/images/tempo-travellar-side-l.jpeg "Tempo Traveller for Varanasi Day Tour")
+![A Tempo Traveller for day tours in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Tempo Traveller for Varanasi Day Tour")
 
 | Vehicle | Package | Extra km | Night Fee (>22:00) |
 |---------|---------|----------|--------------------|

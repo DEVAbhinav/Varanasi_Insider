@@ -33,7 +33,7 @@ faqSchema:
 
 Performing *Pind Daan* at Gaya is a sacred responsibility. Having escorted countless families from Kashi for this rite, we created a specialised **Varanasi to Gaya Tempo Traveller** service that prioritises ritual accuracy, elderly comfort, and trustworthy local support.
 
-| ![Traveller parked beside Gaya Vishnupad access lane at dawn](/images/GayaBus1.jpg "Traveller staged near Vishnupad Temple") | ![Gayawal priest assisting family with Pind Daan kit](/images/blogGaya.png "Priest-guided Pind Daan preparations") | ![Local taxi support near Bodh Gaya monasteries for sightseeing add-on](/images/GayaTaxi.jpg "Taxi support for Bodh Gaya extension") |
+| ![Traveller parked beside Gaya Vishnupad access lane at dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaBus1.jpg "Traveller staged near Vishnupad Temple") | ![Gayawal priest assisting family with Pind Daan kit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogGaya.png "Priest-guided Pind Daan preparations") | ![Local taxi support near Bodh Gaya monasteries for sightseeing add-on](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaTaxi.jpg "Taxi support for Bodh Gaya extension") |
 | --- | --- | --- |
 
 > **Essentials:** 255 km each way · 2-day itinerary recommended · ₹17.5k all-inclusive 12 seater · Gayawal priest coordination · lodging assistance.
@@ -60,9 +60,9 @@ Performing *Pind Daan* at Gaya is a sacred responsibility. Having escorted count
 
 > **Tip:** Carry photocopies of ancestor names/gotra for priest records. We supply waterproof folders to keep them safe near the river.
 
-![Traveller crossing the Son River en route to Gaya](/images/GayaTrain.jpg "Crossing the Son River towards Gaya")
+![Traveller crossing the Son River en route to Gaya](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/GayaTrain.jpg "Crossing the Son River towards Gaya")
 
-![Mahabodhi Temple illuminated during evening meditation](/images/blogbhugate.jpg "Mahabodhi Temple evening meditation glow")
+![Mahabodhi Temple illuminated during evening meditation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogbhugate.jpg "Mahabodhi Temple evening meditation glow")
 
 ## Gaya Tempo Traveller Vehicle Options & Pricing
 

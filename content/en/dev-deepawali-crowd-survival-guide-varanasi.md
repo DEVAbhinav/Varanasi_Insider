@@ -16,7 +16,7 @@ keywords:
 category: "Safety Guides"
 readingTime: "10 minutes"
 featured: true
-featuredImage: "/images/varanasi-evening-aarti-ritual-2025.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-evening-aarti-ritual-2025.jpg"
 seoTitle: "Dev Deepawali Crowd Survival 2025 – Beat 500k Rush with 9 Tactics"
 seoDescription: "Navigate the 5 Nov 2025 Dev Deepawali surge with 9 proved tactics: crowd maps, exit drills, WhatsApp alert templates, and medical safe zones from local fixers."
 relatedPosts: ["dev-deepawali-2025-varanasi-ultimate-guide", "dev-deepawali-best-viewing-spots-varanasi", "dev-deepawali-boat-ride-pricing-guide-2025"]

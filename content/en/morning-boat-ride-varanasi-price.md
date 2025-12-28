@@ -101,7 +101,7 @@ WhatsApp **+91 94503 01573** with date, headcount, and preferred ghat. You’ll 
 
 > **Scope:** This page is the *pricing economics & negotiation* hub. Timing, atmospheric boarding logistics now live on the Sunrise Timings page; evening alignment lives on the Evening Boat Ride guide. Here you get cost structures, tariff vs premium deltas & scripting.
 
-![Pre‑dawn private rowboat negotiating mild current before sunrise](/images/varanasi-river-sunrise-boat-p.jpeg "Pre‑dawn positioning – private rowboat before negotiation finalization")
+![Pre‑dawn private rowboat negotiating mild current before sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Pre‑dawn positioning – private rowboat before negotiation finalization")
 
 ## 1. 2025 Quick Reference – Updated Benchmarks
 | Category | Govt / Union Tariff Band | Typical Real Market | Festival Multiplier | Notes |
@@ -115,7 +115,7 @@ WhatsApp **+91 94503 01573** with date, headcount, and preferred ghat. You’ll 
 *Festival = Dev Deepawali / Kartik high Mondays; source mix of operator quotes + union boards (July–Sept 2025 captures).*  
 
 ## 2. Cost Driver Decomposition
-![Rowboat bench seating showing typical cushion layout](/images/varanasi-boat-bird-river-p.jpeg "Typical shared rowboat bench seating – assess comfort before price agreement")
+![Rowboat bench seating showing typical cushion layout](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-bird-river-p.jpeg "Typical shared rowboat bench seating – assess comfort before price agreement")
 | Driver | Impact | Mitigation |
 |--------|--------|------------|
 | Season Demand (Oct–Mar) | +15–25% | Pre‑book night prior |
@@ -138,7 +138,7 @@ WhatsApp **+91 94503 01573** with date, headcount, and preferred ghat. You’ll 
 | Assi ↔ Manikarnika Full | 80–90 min | +₹200–₹300 | Extra distance & current |
 | Assi ↔ Ramnagar Fort (rare sunrise) | 120–140 min | +₹1,000+ | Long upstream push |
 
-![Luxury bajra deck seats prepared for premium sunrise charter](/images/varanasi-river-bajra.jpeg "Luxury bajra seating – premium charter cost driver")
+![Luxury bajra deck seats prepared for premium sunrise charter](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-bajra.jpeg "Luxury bajra seating – premium charter cost driver")
 
 ## 5. Add‑On & Hidden Costs
 - Guide narration (multi‑lingual)  
@@ -155,7 +155,7 @@ WhatsApp **+91 94503 01573** with date, headcount, and preferred ghat. You’ll 
 | Motorboat Private Peak | ₹4,800 | ₹3,600 | ₹3,800–₹4,000 | Yes |
 
 ## 7. Avoiding Common Pricing Pitfalls
-![Negotiation moment with boatmen pre‑dawn at Assi Ghat](/images/varanasi-assi-ghat-sunrise.jpeg "Pre‑dawn negotiation cluster – arrive early for best selection")
+![Negotiation moment with boatmen pre‑dawn at Assi Ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "Pre‑dawn negotiation cluster – arrive early for best selection")
 - Don’t board before clarifying **total passengers** (some add extra mid‑ride).  
 - Avoid “multi‑ceremony extended” upsells unless documented.  
 - Carry small notes; early morning change is scarce.  

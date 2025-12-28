@@ -47,7 +47,7 @@
       "@id": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller#webpage",
       "url": "https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller",
       "name": "वाराणसी से नैमिषारण्य टेम्पो ट्रैवलर",
-      "primaryImageOfPage": {"@type": "ImageObject", "url": "/images/TempoTraveller_side_White.jpeg"},
+      "primaryImageOfPage": {"@type": "ImageObject", "url": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/TempoTraveller_side_White.jpeg"},
       "datePublished": "2025-10-09",
       "dateModified": "2025-10-09",
       "inLanguage": "hi-IN",

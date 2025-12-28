@@ -18,7 +18,7 @@ tags:
   - culture
   - varanasi festivals
 template: destination
-featuredImage: "/images/varanasi-ghats-overview.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg"
 eyebrow: "सांस्कृतिक उत्सव"
 ctaTitle: "संगमम के लिए आ रहे हैं?"
 ctaSubtitle: "एयरपोर्ट से BHU/असी तक बिना तनाव के पहुँचने के लिए टैक्सी अभी बुक करें।"
@@ -41,7 +41,7 @@ location:
 
 **स्नैपशॉट:** 1,400+ तमिल अतिथि, 2 हफ्ते की सांस्कृतिक अदला-बदली, heritage walks + अकादमिक डायलॉग।
 
-![BHU गेट](/images/blogbhugate.jpg "काशी तमिल संगमम का मुख्य परिसर")
+![BHU गेट](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogbhugate.jpg "काशी तमिल संगमम का मुख्य परिसर")
 
 ### क्या खास अनुभव मिलेगा?
 
@@ -60,7 +60,7 @@ location:
 - BHU मंदिरों/घाटों पर विशेष अनुष्ठान।
 - इंटरैक्टिव म्यूज़ियम सर्किट।
 
-![सांस्कृतिक घाट वॉक](/images/varanasi-ghats-overview.jpeg "घाटों पर संगमम वॉक")
+![सांस्कृतिक घाट वॉक](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg "घाटों पर संगमम वॉक")
 
 ### यात्रा प्लानिंग नोट्स
 

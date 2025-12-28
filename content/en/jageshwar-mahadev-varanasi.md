@@ -6,7 +6,7 @@ lastUpdated: "2025-07-25"
 author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/jageshwar-mahadev-varanasi-guide/"
-featuredImage: "/images/varanasi-kal-bhairav-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kal-bhairav-p.jpeg"
 description: "Jageshwar Mahadev Varanasi—self‑growing Shivling, history, timings and how to reach. See why this Siddhpeeth is a hidden gem. Learn more."
 tags:
   - jageshwar mahadev varanasi
@@ -20,7 +20,7 @@ tags:
 
 *A pocket guide for pilgrims, photographers & curious travellers*
 
-![Kashi temple exterior representative image](/images/varanasi-kashivishwanath-outside-l.jpeg "Representative exterior of a historic Shiva temple in Kashi")
+![Kashi temple exterior representative image](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kashivishwanath-outside-l.jpeg "Representative exterior of a historic Shiva temple in Kashi")
 
 ---
 
@@ -43,7 +43,7 @@ tags:
 * **Siddh-peeth status** – considered a wish-fulfilling shrine; three months of consecutive darshan is believed to remove obstacles.  
 * **Off-beat Kashi** – far quieter than Dashāśwamedh or Kashi Vishwanath yet only ~2 km north-west of Chowk, perfect for heritage walks.
 
-![Kal Bhairav temple lane in Varanasi (symbolic of Shaivite shrines)](/images/varanasi-kal-bhairav-p.jpeg "Symbolic image from a Shaivite temple lane in Varanasi")
+![Kal Bhairav temple lane in Varanasi (symbolic of Shaivite shrines)](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-kal-bhairav-p.jpeg "Symbolic image from a Shaivite temple lane in Varanasi")
 
 ---
 

@@ -14,7 +14,7 @@ metaDescription: "A complete guide to taking a sunrise boat ride on the Ganges i
 
 # A Guide to Taking a Sunrise Boat Ride on the Ganges
 
-![Sunrise boat ride on the Ganga](/images/varanasi-river-sunrise-boat-p.jpeg "Classic sunrise boat ride scene on the Ganges")
+![Sunrise boat ride on the Ganga](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Classic sunrise boat ride scene on the Ganges")
 
 ## Introduction
 
@@ -50,7 +50,7 @@ A sunrise boat ride on the Ganges is a quintessential Varanasi experience, offer
 
 ## Tips for the Best Sunrise Boat Ride Experience
 
-![Assi Ghat at sunrise, a popular starting point](/images/varanasi-assi-ghat-sunrise.jpeg "Assi Ghat at sunrise – ideal embarkation for boats")
+![Assi Ghat at sunrise, a popular starting point](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "Assi Ghat at sunrise – ideal embarkation for boats")
 
 - **Timing:** Arrive 30 minutes before sunrise (around 5:00-6:00 AM, depending on the season).
 - **Dress Warmly:** Mornings can be cool, especially in winter.

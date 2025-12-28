@@ -20,7 +20,7 @@ tags:
   - itineraries
   - travel-planning
 template: destination
-featuredImage: "/images/varanasi-river-sunrise-boat-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
 eyebrow: "December Hub"
 ctaTitle: "Need a December Taxi?"
 ctaSubtitle: "Reserve a full-day cab for sunrise rituals, festival venues, and shopping loops without juggling multiple drivers."
@@ -127,14 +127,14 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
       <div class="december-tab-panel is-active" data-december-panel="festivals">
         <div class="december-card-grid">
           <a class="december-card" href="/en/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi">
-            <img src="/images/varanasi-ghats-overview.jpeg" alt="Kashi Tamil Sangamam cultural walks" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghats-overview.jpeg" alt="Kashi Tamil Sangamam cultural walks" loading="lazy" />
             <div class="december-card-body">
               <h4>Kashi Tamil Sangamam 4.0</h4>
               <p>Dec 2–15 · BHU conclaves, heritage walks, Tamil workshops, intercultural exchanges.</p>
             </div>
           </a>
           <a class="december-card" href="/en/city/varanasi/events/mahindra-kabira-festival-2025-varanasi">
-            <img src="/images/varanasi-boat-eve-l.jpeg" alt="Mahindra Kabira evening concert" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-boat-eve-l.jpeg" alt="Mahindra Kabira evening concert" loading="lazy" />
             <div class="december-card-body">
               <h4>Mahindra Kabira Festival</h4>
               <p>Dec 19–21 · Delegate passes, boutique ghats, poetry walks, backstage volunteer info.</p>
@@ -146,14 +146,14 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
       <div class="december-tab-panel" data-december-panel="sunrise">
         <div class="december-card-grid">
           <a class="december-card" href="/en/city/varanasi/events/mahindra-kabira-sunrise-music">
-            <img src="/images/varanasi-river-sunrise-boat-p.jpeg" alt="Sunrise music boats" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-river-sunrise-boat-p.jpeg" alt="Sunrise music boats" loading="lazy" />
             <div class="december-card-body">
               <h4>Kabira Sunrise Music</h4>
               <p>6:30 AM raags at Guleria Kothi with packing lists, artist lineup, seating etiquette.</p>
             </div>
           </a>
           <a class="december-card" href="/en/city/varanasi/activities/sunrise-yoga-varanasi-2025">
-            <img src="/images/varanasi-ghat-early-morning.jpeg" alt="Sunrise yoga at Assi Ghat" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-ghat-early-morning.jpeg" alt="Sunrise yoga at Assi Ghat" loading="lazy" />
             <div class="december-card-body">
               <h4>Sunrise Yoga Playbook</h4>
               <p>Best ghats, ₹800–₹4,000 class bands, weekly plan, packing list, taxi CTA.</p>
@@ -165,14 +165,14 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
       <div class="december-tab-panel" data-december-panel="food">
         <div class="december-card-grid">
           <a class="december-card" href="/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi">
-            <img src="/images/varanasi-hero.png" alt="Banarasi silk boutique" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" alt="Banarasi silk boutique" loading="lazy" />
             <div class="december-card-body">
               <h4>Banarasi Silk Shopping</h4>
               <p>Madhuban vs Thatheri intel, December price ladder, taxi itineraries between markets.</p>
             </div>
           </a>
           <a class="december-card" href="/en/destinations/varanasi/food/malaiyo-varanasi-guide">
-            <img src="/images/varanashi-ghat-evening-P.jpeg" alt="Malaiyo vendors" loading="lazy" />
+            <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanashi-ghat-evening-P.jpeg" alt="Malaiyo vendors" loading="lazy" />
             <div class="december-card-body">
               <h4>Malaiyo Morning Trail</h4>
               <p>Thatheri Bazar map, ₹20–₹50 price bands, sunrise tasting etiquette, taxi loops.</p>

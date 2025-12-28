@@ -54,7 +54,7 @@ export default function HomePage({ allPosts }) {
         {/* Open Graph Meta Tags */}
         <meta property="og:title" content="Varanasi Taxi & Tempo Traveller Service | Tour Packages - Vinayak Travels" />
         <meta property="og:description" content="Book Varanasi Taxi, Tempo Traveller & Tour Packages. Airport transfer, Local sightseeing, Outstation tours. 24×7 Varanasi travels service." />
-        <meta property="og:image" content="https://www.kashitaxi.in/images/varanasi-hero.png" />
+        <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Varanasi Taxi & Tempo Traveller - Vinayak Travels" />

@@ -8,7 +8,7 @@ author: "Kamal Nayan Singh"
 lastUpdated: 2025-09-19
 tags: [prayagraj, ayodhya, chitrakoot, tempo traveller, pilgrimage circuit]
 keywords: ["prayagraj ayodhya chitrakoot circuit","tempo traveller prayagraj ayodhya tour","ayodhya chitrakoot from varanasi","prayagraj ayodhya itinerary","group pilgrimage tempo traveller varanasi"]
-featuredImage: /images/prayagraj.jpg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg
 relatedPosts:
   - varanasi-to-chitrakoot-tempo-traveller
   - varanasi-to-prayagraj-tempo-traveller
@@ -83,11 +83,11 @@ Upgrade: 17 seater @ ₹27/km; Urbania @ ₹34–35/km (comfort uplift).
 ## Visual Gallery (Current Symbolic Assets)
 | Prayagraj – Sangam | Ayodhya – Temple Zone | Fleet Side (Highway) |
 | --- | --- | --- |
-| ![Prayagraj Ayodhya Chitrakoot circuit tempo traveller overview](/images/prayagraj.jpg "Prayagraj – Sangam zone context") | ![Ayodhya symbolic temple skyline placeholder](/images/blogAyodhya.jpg "Ayodhya – darshan focus placeholder") | ![Tempo traveller side movement long circuit](/images/tempo-travellar-side-l.jpeg "Vehicle stance for long transfer") |
+| ![Prayagraj Ayodhya Chitrakoot circuit tempo traveller overview](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/prayagraj.jpg "Prayagraj – Sangam zone context") | ![Ayodhya symbolic temple skyline placeholder](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/blogAyodhya.jpg "Ayodhya – darshan focus placeholder") | ![Tempo traveller side movement long circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Vehicle stance for long transfer") |
 
 | Rural Approach | Fleet Front | Interior Aisle |
 | --- | --- | --- |
-| ![Rural landscape en route circuit](/images/Tempo-Travellar_landscape_Village.jpeg "Rural segment – pacing breaks") | ![Fleet front exterior prayagraj ayodhya chitrakoot circuit](/images/tempo-travellar-outside-front-p.jpeg "Front profile – recognition on pickup") | ![Interior seating layout sample](/images/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – aisle for comfort") |
+| ![Rural landscape en route circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Rural segment – pacing breaks") | ![Fleet front exterior prayagraj ayodhya chitrakoot circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Front profile – recognition on pickup") | ![Interior seating layout sample](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – aisle for comfort") |
 
 > Replace with authentic Ayodhya / Chitrakoot field shots when captured (parikrama path, Ram Ghat dusk) – maintain descriptive alt text.
 

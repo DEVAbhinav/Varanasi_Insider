@@ -75,7 +75,7 @@ Transport your guests in comfort and style:
 
 ## Varanasi Tempo Traveller Rental - Perfect for Groups
 
-![Varanasi Major Ghats Map](/images/Varanasi-major-ghats.jpeg)
+![Varanasi Major Ghats Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Varanasi-major-ghats.jpeg)
 *Varanasi Major Ghats - Perfect for group temple and ghat tours*
 
 ### 12-Seater Tempo Traveller Varanasi

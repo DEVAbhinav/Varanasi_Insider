@@ -5,7 +5,7 @@ date: "2025-07-27"
 lastUpdated: "2025-07-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
-featuredImage: "/images/AyodhyaTaxi1.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/AyodhyaTaxi1.jpg"
 description: "Lucknow to Varanasi taxi fare with distance and time. See 2025 sedan, SUV and one‑way vs round‑trip rates. Compare options and book smart."
 tags:
   - lucknow
@@ -33,14 +33,14 @@ Answer Box
 
 Planning a road trip from Lucknow to Varanasi? This guide provides all the essential information you need, from travel time and distance to the latest taxi fares for different vehicle types.
 
-![Sedan taxi commonly used for intercity trips](/images/seden.png "Sedan taxi option for Lucknow → Varanasi road trips")
+![Sedan taxi commonly used for intercity trips](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/seden.png "Sedan taxi option for Lucknow → Varanasi road trips")
 
 > **Book Your Ride Instantly!**  
 > Get a fixed, all-inclusive fare for your Lucknow to Varanasi trip.  
 > **Call:** **[9450301573](tel:9450301573)**  
 > **Visit:** **[www.kashitaxi.in](https://www.kashitaxi.in)**
 
-![Spacious SUV for family and group travel](/images/xuv.png "SUV option for extra luggage and comfort on the highway")
+![Spacious SUV for family and group travel](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/xuv.png "SUV option for extra luggage and comfort on the highway")
 
 ---
 

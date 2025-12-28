@@ -8,7 +8,7 @@ author: "Kamal Nayan Singh"
 lastUpdated: 2025-09-19
 tags: [urbania, premium tempo traveller, luxury tempo traveller, varanasi group travel]
 keywords: ["force urbania hire varanasi","urbania vs tempo traveller varanasi","premium tempo traveller varanasi","urbania rental price varanasi","urbania corporate shuttle varanasi"]
-featuredImage: /images/Urbania-front-Square.jpeg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-front-Square.jpeg
 relatedPosts:
   - tempo-traveller-varanasi
   - 9-vs-12-vs-17-seater-tempo-traveller-varanasi
@@ -68,22 +68,22 @@ This **force urbania hire varanasi** guide clarifies upgrade value for comfort�
 ## Interior & Visuals (Current Fleet Imagery)
 | Front Profile | Premium Cabin | Recliner View |
 | --- | --- | --- |
-| ![Force Urbania hire varanasi premium front profile](/images/Urbania-front-Square.jpeg "Urbania executive presence – arrival impact") | ![Urbania interior recliner seating varanasi](/images/Urbania-Inside-Potrait.jpeg "Recliner seating – lumbar & head support") | ![Urbania premium front portrait](/images/Urbania-front-potrait.jpeg "Extended windshield & visibility") |
+| ![Force Urbania hire varanasi premium front profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-front-Square.jpeg "Urbania executive presence – arrival impact") | ![Urbania interior recliner seating varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-Inside-Potrait.jpeg "Recliner seating – lumbar & head support") | ![Urbania premium front portrait](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-front-potrait.jpeg "Extended windshield & visibility") |
 
 | Multi Vehicle Coordination | Standard Tempo Traveller Contrast | Aisle Night Lighting |
 | --- | --- | --- |
-| ![Multiple premium vehicles for split cohorts varanasi](/images/Multi_Urbania-Square.jpeg "Parallel deployment – larger delegations") | ![Standard tempo traveller side profile comparator](/images/tempo-travellar-side-l.jpeg "Benchmark – baseline comfort tier") | ![Ambient lighting inside premium group van](/images/Tempo_travellar_neon_inside.jpeg "Lighting mood – reduced visual fatigue") |
+| ![Multiple premium vehicles for split cohorts varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Multi_Urbania-Square.jpeg "Parallel deployment – larger delegations") | ![Standard tempo traveller side profile comparator](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-side-l.jpeg "Benchmark – baseline comfort tier") | ![Ambient lighting inside premium group van](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_travellar_neon_inside.jpeg "Lighting mood – reduced visual fatigue") |
 
 > Authentic Kushinagar / Rajgir / Nalanda route shots will replace comparator placeholders after next field imagery run.
 
 ### Additional Visual Matrix
 | Multi Urbania Fleet | Urbania Front Wide | Standard Fleet Exterior |
 | --- | --- | --- |
-| ![Multiple urbania units premium deployment](/images/Multi_Urbania-Square.jpeg "Parallel premium deployment") | ![Urbania front portrait presence](/images/Urbania-front-potrait.jpeg "Front presence – corporate arrival") | ![Tempo traveller exterior comparator](/images/tempo-travellar-outside-front-p.jpeg "Standard exterior – baseline reference") |
+| ![Multiple urbania units premium deployment](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Multi_Urbania-Square.jpeg "Parallel premium deployment") | ![Urbania front portrait presence](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-front-potrait.jpeg "Front presence – corporate arrival") | ![Tempo traveller exterior comparator](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-outside-front-p.jpeg "Standard exterior – baseline reference") |
 
 | Premium Interior (Alt) | Seat Texture | Standard Interior |
 | --- | --- | --- |
-| ![Urbania interior recline alt view](/images/Urbania-Inside-Potrait.jpeg "Recline & head support") | ![Seat texture detail upgrade logic](/images/Tempo_traveller_lux_seat_side.jpeg "Material & ergonomics") | ![Standard interior baseline comfort](/images/tempo-travellar-inside.jpeg "Standard cabin – functional layout") |
+| ![Urbania interior recline alt view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Urbania-Inside-Potrait.jpeg "Recline & head support") | ![Seat texture detail upgrade logic](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Material & ergonomics") | ![Standard interior baseline comfort](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/tempo-travellar-inside.jpeg "Standard cabin – functional layout") |
 
 > Visual comparison clarifies uplift delta during decision stage for procurement teams.
 
