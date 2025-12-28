@@ -51,19 +51,19 @@ export default function HomePage({ allPosts }) {
       name: 'Happy guest groups',
       years: 'Real tempo traveller handoff',
       route: 'Families and friends starting their Kashi tour together',
-      img: '/images/Tempo%20Traveller%20group.jpeg',
+      img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo%20Traveller%20group.jpg',
     },
     {
       name: 'Safe airport pickup',
       years: '22 yrs in Varanasi',
       route: 'Meet & greet, flight-tracked arrivals',
-      img: '/images/Tempo%20Traveller%20Mishra%20ji%20with%20germal%20tourist.jpeg',
+      img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo%20Traveller%20Mishra%20ji%20with%20germal%20tourist.jpg',
     },
     {
       name: 'Hotel-to-ghat escort',
       years: '15 yrs guiding guests',
       route: 'Door-to-door help through barricades',
-      img: '/images/Rajan%20Ji%20Citiline%20w%20Customer.jpeg',
+      img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Rajan%20Ji%20Citiline%20w%20Customer.jpg',
     },
     {
       name: 'Pink Taxi safety',
@@ -93,7 +93,7 @@ export default function HomePage({ allPosts }) {
       name: 'Happy customer handover',
       years: 'Trip-end smiles captured',
       route: 'Tempo traveller guests wrapping up a smooth journey',
-      img: '/images/Tempo%20traveller%20Happy%20Customer.jpeg',
+      img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/Tempo%20traveller%20Happy%20Customer.jpg',
     }
   ];
 
@@ -113,7 +113,7 @@ export default function HomePage({ allPosts }) {
   {/* Open Graph Meta Tags */}
   <meta property="og:title" content="Varanasi Taxi Service: Airport, City & Outstation Cabs from ₹12/km" />
   <meta property="og:description" content="Varanasi Taxi, Tempo Traveller & Outstation Cabs. Airport cab from ₹800, local tours from ₹2,500, outstation and tempo traveller hire. 24×7 Varanasi cab service." />
-        <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" />
+        <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/home" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Varanasi Taxi & Tempo Traveller" />
