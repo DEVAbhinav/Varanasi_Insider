@@ -5,6 +5,8 @@ date: "2025-12-07"
 lastUpdated: "2025-12-07"
 author: "Kamal Nayan Singh"
 lang: en
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992831/kashitaxi/luxury-cab-bhu.jpg"
+image: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992831/kashitaxi/luxury-cab-bhu.jpg"
 metaTitle: "Luxury Cab for Tent City Varanasi | Niraan & Praveg Guest Transfers"
 metaDescription: "Premium taxi service for Tent City Varanasi. Specialists for Niraan and Praveg guests with Innova Crysta, professional drivers, and guaranteed boat coordination."
 description: "Luxury-focused Tent City transfer: Innova Crysta standard, jetty coordination, Niraan and Praveg protocols, transparent pricing, and multi-day bundles."
@@ -47,6 +49,9 @@ faqSchema:
 # Premium Taxi for Tent City Varanasi: Niraan & Praveg Guest Specialists
 
 **Meta Description:** Luxury cab service for Tent City Varanasi. We specialize in seamless transfers for Niraan and Praveg guests. Pre-booked Innova Crysta, professional drivers, guaranteed boat coordination.
+
+![Premium Innova Crysta for Tent City Transfers](https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992837/kashitaxi/tent-city-transfer-perks.png)
+*Tent City transfer perks: Jetty coordination, luggage assistance, and luxury comfort.*
 
 ---
 

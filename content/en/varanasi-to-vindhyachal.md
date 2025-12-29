@@ -109,6 +109,9 @@ Quick Fare Grid 2025
 
 ![Cab crossing the Mirzapur bridge en route to Vindhyachal darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg "Road trip from Varanasi to Vindhyachal – a popular Shakti Peeth pilgrimage")
 
+![Varanasi to Vindhyachal Route Map](https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992842/kashitaxi/varanasi-to-vindhyachal-route-map.png)
+*65 km via Mirzapur highway – complete route with key stops marked.*
+
 ## The Kashi-Vindhyachal Spiritual Connection
 
 Vindhyachal, a revered Shakti Peeth near Mirzapur, is home to the powerful Maa Vindhyavasini Devi. Its proximity to Varanasi makes a **Varanasi to Vindhyachal tour** a popular pilgrimage. Devotees often complete their Kashi darshan by seeking the blessings of the Divine Mother, creating a spiritually balanced journey. A **Vindhyachal darshan from Varanasi** is believed to bring immense *punya*, with the faith that wishes made at the feet of the Goddess are always fulfilled.

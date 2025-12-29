@@ -29,6 +29,9 @@ keywords:
 
 ![वाराणसी के मंदिरों में जाने के लिए सम्मानजनक पोशाक - साधु के साथ विदेशी महिला](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sadhu-foreigner-girl.jpeg "वाराणसी में मंदिर यात्रा के लिए उपयुक्त कपड़े")
 
+![वाराणसी मौसमी पैकिंग चेकलिस्ट](https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992840/kashitaxi/varanasi-seasonal-packing-checklist.png)
+*हर मौसम के लिए आपकी संपूर्ण पैकिंग गाइड।*
+
 ## महिलाओं के लिए वाराणसी ड्रेस कोड
 
 महिलाओं के लिए, अवांछित ध्यान से बचने के लिए मामूली रूप से कपड़े पहनना विशेष रूप से महत्वपूर्ण है।

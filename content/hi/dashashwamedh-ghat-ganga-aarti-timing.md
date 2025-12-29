@@ -56,6 +56,9 @@ canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti-timing"
 ### विशेष – देव दीपावली 2025
 तिथि: 12 Nov 2025 (कार्तिक पूर्णिमा) – 80+ घाट प्रकाश, आरती ~5:30 PM, ट्रिपल घनत्व, अपस्ट्रीम नाव नियंत्रण, ड्रोन प्रतिबंध।
 
+![गंगा आरती ग्रीष्म-शीत समय चार्ट](https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992828/kashitaxi/ganga-aarti-summer-winter-timing.png)
+*त्वरित संदर्भ: शीतकाल (अक्टू-मार्च) 5:45 PM, ग्रीष्मकाल 6:45 PM।*
+
 ## 2.1 भीड़ कर्व / बैरिकेड रणनीति
 | प्रारंभ से मिनट | स्थिति | कार्य |
 |-----------------|--------|-------|

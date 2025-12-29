@@ -27,6 +27,9 @@ Varanasi is a traditional city, and modest clothing is recommended for all trave
 
 ![Respectful attire for visiting Varanasi's temples](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sadhu-foreigner-girl.jpeg)
 
+![Varanasi Seasonal Packing Checklist](https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992840/kashitaxi/varanasi-seasonal-packing-checklist.png)
+*Your complete packing guide for every season in Varanasi.*
+
 ## What to Wear in Varanasi for Women
 
 For women, it's especially important to dress modestly to avoid unwanted attention.

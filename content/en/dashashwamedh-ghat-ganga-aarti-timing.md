@@ -86,6 +86,9 @@ Today this iconic ghat hosts Varanasi’s **grandest evening ritual**—a 45‑m
 ### Special Aarti – Dev Deepawali 2025
 *Date:* **12 November 2025 (Kartik Purnima)**. Over a million diyās illuminate 80+ ghats; evening aarti begins ~**5:30 PM** and continues late. Expect **triple crowd density**, upstream boat traffic regulation and partial drone ban (see FAQ).
 
+![Ganga Aarti Summer Winter Timing Guide](https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992828/kashitaxi/ganga-aarti-summer-winter-timing.png)
+*Quick reference: Aarti starts at 5:45 PM in winter (Oct-Mar) and 6:45 PM in summer.*
+
 ---
 
 ## 2.1 Crowd Curve & Barricade Strategy (Unique Planning Data)

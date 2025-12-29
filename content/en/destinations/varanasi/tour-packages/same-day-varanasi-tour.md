@@ -6,7 +6,7 @@ lastUpdated: "2025-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/same-day-varanasi-tour"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992833/kashitaxi/same-day-tour-hero.jpg"
 metaTitle: "Same Day Varanasi Tour Package | 8-10 Hour Guided Kashi Darshan"
 metaDescription: "8–10 hour escorted darshan covering Kashi Vishwanath, Sarnath, iconic ghats, curated street food and the Dashashwamedh Ganga Aarti."
 description: "Experience the best of Varanasi in one day. Visit Kashi Vishwanath, Sarnath, and Ganga Aarti with our same-day tour package. Private cab and guide included."
@@ -40,6 +40,9 @@ brand: "Kashi Taxi"
 ---
 
 ## Overview
+
+![Varanasi Same Day Tour Highlights](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/same-day-tour-hero.jpg)
+*Experience the spiritual trio: Kashi Vishwanath, Sarnath Stupa, and the mesmerizing Ganga Aarti in one day.*
 
 An express but immersive 8–10 hour Varanasi circuit designed for travellers with limited time who still want the city’s spiritual essence. Smart sequencing covers Jyotirlinga darshan, Sarnath’s Buddhist heritage, BHU’s cultural spine, a sunset boat ride, and the climactic Dashashwamedh Ganga Aarti.[^overview][^duration]
 

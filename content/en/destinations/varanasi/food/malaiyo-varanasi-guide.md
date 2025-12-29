@@ -55,6 +55,9 @@ ctaSubtitle: "Book a taxi to Godowlia or Chowk to start your morning culinary ex
 4. **Presentation:** Served in small clay cups (*kulhads*) topped with pistachios, almonds, and sometimes fruit pieces.
 5. **Consumption Window:** Must be eaten within 45 minutes before foam collapses.
 
+![How Malaiyo is Made Infographic](https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992829/kashitaxi/how-malaiyo-is-made-infographic.png)
+*The magical overnight process that creates this ethereal winter dessert.*
+
 **Why Only in Winter:**
 - Cold temperatures (8-15°C) slow milk proteins' oxidation.
 - Clear skies (no fog) allow proper dew formation.
