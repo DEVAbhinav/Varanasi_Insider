@@ -51,7 +51,7 @@
   },
   "technicalSeo": {
     "slug": "kashi-vishwanath-shivaratri-crowd-survival-guide",
-    "featuredImage": "/images/kashi-vishwanath-crowds.jpg",
+    "featuredImage": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashi-vishwanath-crowds.jpg",
     "imageAlt": "Massive crowds at Kashi Vishwanath temple during Maha Shivaratri",
     "estimatedReadingTime": "12 minutes",
     "wordCount": 3200,

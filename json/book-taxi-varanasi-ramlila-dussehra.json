@@ -51,7 +51,7 @@
   },
   "technicalSeo": {
     "slug": "book-taxi-varanasi-ramlila-dussehra",
-    "featuredImage": "/images/xuv.png",
+    "featuredImage": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png",
     "imageAlt": "Professional taxi service for Varanasi festival transport booking",
     "estimatedReadingTime": "6 minutes",
     "wordCount": 2000,

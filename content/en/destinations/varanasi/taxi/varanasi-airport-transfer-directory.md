@@ -9,7 +9,7 @@ metaTitle: "Varanasi Airport Taxi Directory | All Routes, Fares & Destinations (
 metaDescription: "Complete Varanasi Airport (VNS) transfer guide. Find taxi routes to temples, ghats, railway stations & outstation cities with fixed fares, distances & booking."
 description: "Your complete directory of Varanasi Airport taxi routes—temples, ghats, railway stations, and outstation cities—with fixed fares, distances, and instant booking."
 eyebrow: "Airport Transfer Hub"
-featuredImage: "/images/varanasi-airport-taxi-directory.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-airport-taxi-directory.jpg"
 keywords:
   - varanasi airport taxi
   - VNS airport transfer

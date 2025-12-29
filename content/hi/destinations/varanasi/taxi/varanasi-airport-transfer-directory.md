@@ -9,7 +9,7 @@ metaTitle: "वाराणसी एयरपोर्ट टैक्सी �
 metaDescription: "वाराणसी एयरपोर्ट (VNS) ट्रांसफर गाइड। मंदिर, घाट, रेलवे स्टेशन और आउटस्टेशन शहरों के लिए टैक्सी रूट, निश्चित किराया, दूरी और बुकिंग।"
 description: "वाराणसी एयरपोर्ट टैक्सी रूट की संपूर्ण डायरेक्टरी—मंदिर, घाट, रेलवे स्टेशन और आउटस्टेशन शहर—निश्चित किराया, दूरी और तुरंत बुकिंग के साथ।"
 eyebrow: "एयरपोर्ट ट्रांसफर हब"
-featuredImage: "/images/varanasi-airport-taxi-directory.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-airport-taxi-directory.jpg"
 keywords:
   - वाराणसी एयरपोर्ट टैक्सी
   - VNS एयरपोर्ट ट्रांसफर
