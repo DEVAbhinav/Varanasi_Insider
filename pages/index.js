@@ -109,16 +109,16 @@ export default function HomePage({ allPosts }) {
         <meta name="author" content="Varanasi Taxi" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.kashitaxi.in/home" />
-        
-  {/* Open Graph Meta Tags */}
-  <meta property="og:title" content="Varanasi Taxi Service: Airport, City & Outstation Cabs from ₹12/km" />
-  <meta property="og:description" content="Varanasi Taxi, Tempo Traveller & Outstation Cabs. Airport cab from ₹800, local tours from ₹2,500, outstation and tempo traveller hire. 24×7 Varanasi cab service." />
+
+        {/* Open Graph Meta Tags */}
+        <meta property="og:title" content="Varanasi Taxi Service: Airport, City & Outstation Cabs from ₹12/km" />
+        <meta property="og:description" content="Varanasi Taxi, Tempo Traveller & Outstation Cabs. Airport cab from ₹800, local tours from ₹2,500, outstation and tempo traveller hire. 24×7 Varanasi cab service." />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/home" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Varanasi Taxi & Tempo Traveller" />
         <meta property="og:locale" content="en_IN" />
-        
+
         {/* Geo Location Meta Tags for Local SEO */}
         <meta name="geo.region" content="IN-UP" />
         <meta name="geo.placename" content="Varanasi" />
@@ -133,15 +133,15 @@ export default function HomePage({ allPosts }) {
       <section className="relative flex items-center justify-center text-white overflow-hidden pt-16 pb-8 md:pt-20 md:pb-12">
         {/* Base Gradient Layer 1 - Deep Rich Blue to Cyan */}
         <div className="absolute inset-0 bg-gradient-to-br from-blue-500 via-cyan-400 to-teal-400"></div>
-        
+
         {/* Gradient Layer 2 - Overlay for Depth */}
         <div className="absolute inset-0 bg-gradient-to-tr from-cyan-500/40 via-transparent to-teal-500/50"></div>
-        
+
         {/* Gradient Layer 3 - Radial Glow */}
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-cyan-300/20 via-transparent to-transparent"></div>
-        
+
         {/* Organic Artistic Dot Pattern - Breaking the Grid - Enhanced 5% */}
-        
+
         {/* Base Texture Layer - Irregular scattered tiny dots */}
         <div className="absolute inset-0 opacity-[0.17]">
           <div className="absolute inset-0" style={{
@@ -156,7 +156,7 @@ export default function HomePage({ allPosts }) {
             backgroundSize: '400px 400px',
           }}></div>
         </div>
-        
+
         {/* Medium Organic Scatter Pattern - Increased Count */}
         <div className="absolute inset-0 opacity-[0.25]">
           <div className="absolute inset-0" style={{
@@ -179,7 +179,7 @@ export default function HomePage({ allPosts }) {
             backgroundPosition: '50px 80px'
           }}></div>
         </div>
-        
+
         {/* Large Artistic Accent Dots - Constellation Style */}
         <div className="absolute inset-0 opacity-[0.33]">
           <div className="absolute inset-0" style={{
@@ -195,7 +195,7 @@ export default function HomePage({ allPosts }) {
             backgroundPosition: '120px 150px'
           }}></div>
         </div>
-        
+
         {/* Extra Large Focal Dots - Sparse Artistic Placement */}
         <div className="absolute inset-0 opacity-[0.37]">
           <div className="absolute inset-0" style={{
@@ -209,7 +209,7 @@ export default function HomePage({ allPosts }) {
             backgroundPosition: '200px 250px'
           }}></div>
         </div>
-        
+
         {/* Animated Gradient Overlay */}
         <div className="absolute inset-0 bg-gradient-to-br from-transparent via-white/5 to-transparent animate-pulse" style={{ animationDuration: '4s' }}></div>
 
@@ -239,12 +239,12 @@ export default function HomePage({ allPosts }) {
           <svg viewBox="0 0 1200 120" preserveAspectRatio="none" className="absolute w-full h-24 md:h-36 opacity-30">
             <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#ecfeff" transform="translate(0, 10)"></path>
           </svg>
-          
+
           {/* Wave Layer 2 - Middle */}
           <svg viewBox="0 0 1200 120" preserveAspectRatio="none" className="absolute w-full h-24 md:h-36 opacity-60">
             <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#ecfeff" transform="translate(0, 5)"></path>
           </svg>
-          
+
           {/* Wave Layer 3 - Front (solid) */}
           <svg viewBox="0 0 1200 120" preserveAspectRatio="none" className="relative w-full h-24 md:h-36">
             <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#ecfeff"></path>
@@ -284,13 +284,12 @@ export default function HomePage({ allPosts }) {
                   <Image
                     src={driver.img}
                     alt={`${driver.name} - KashiTaxi driver`}
-                    width={320}
-                    height={320}
+                    width={144}
+                    height={144}
                     quality={100}
-                    unoptimized
-                    sizes="320px"
+                    sizes="144px"
                     className="h-full w-full object-cover object-center"
-                    priority={false}
+                    priority={idx < 2}
                   />
                 </div>
                 <p className="mt-2 text-[12px] font-semibold text-gray-900 text-center leading-tight">{driver.name}</p>
@@ -336,7 +335,7 @@ export default function HomePage({ allPosts }) {
             backgroundSize: '800px 800px',
           }}></div>
         </div>
-        
+
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
@@ -463,7 +462,7 @@ export default function HomePage({ allPosts }) {
             backgroundSize: '700px 700px',
           }}></div>
         </div>
-        
+
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
@@ -564,7 +563,7 @@ export default function HomePage({ allPosts }) {
             backgroundSize: '900px 900px',
           }}></div>
         </div>
-        
+
         <GoogleReviews />
 
         {/* Wave Separator - Reviews to Bike Rentals */}

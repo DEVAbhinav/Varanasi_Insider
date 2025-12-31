@@ -3,8 +3,11 @@ const nextConfig = {
   // Force no trailing slashes to prevent duplicate content
   trailingSlash: false,
 
-  // Allow images from Cloudinary CDN
+  // Allow images from Cloudinary CDN with modern formats
   images: {
+    formats: ['image/avif', 'image/webp'],
+    deviceSizes: [640, 750, 828, 1080, 1200, 1920],
+    imageSizes: [16, 32, 48, 64, 96, 128, 144, 256],
     remotePatterns: [
       {
         protocol: 'https',
@@ -364,7 +367,7 @@ const nextConfig = {
       // CATEGORY 14: Site Audit Fixes (2025-10-23)
       // Redirects based on sitemap verification
       // ===================================
-      
+
       // Section folder canonicalization
       {
         source: '/:lang(en|hi)/guides/:slug',
@@ -393,7 +396,7 @@ const nextConfig = {
         destination: '/en/tour-package-from-varanasi',
         permanent: true,
       },
-      
+
       // Festival and Shivaratri content
       {
         source: '/en/maha-shivaratri-varanasi',
@@ -410,7 +413,7 @@ const nextConfig = {
         destination: '/en/is-varanasi-safe-for-solo-female-travellers',
         permanent: true,
       },
-      
+
       // Dev Deepawali content
       {
         source: '/en/ganga-mahotsav-2025-classical-festival',
@@ -427,7 +430,7 @@ const nextConfig = {
         destination: '/en/dev-deepawali-2025-varanasi-ultimate-guide',
         permanent: true,
       },
-      
+
       // Service pages - redirect to actual service pages
       {
         source: '/en/varanasi-safest-taxi-for-women',
@@ -454,21 +457,21 @@ const nextConfig = {
         destination: '/en/varanasi-airport-taxi-price-guide',
         permanent: true,
       },
-      
+
       // Vindhyachal accommodation - English only (Hindi exists at base level)
       {
         source: '/en/where-to-stay-in-vindhyachal',
         destination: '/en/services/where-to-stay-in-vindhyachal',
         permanent: true,
       },
-      
+
       // Group tour packages
       {
         source: '/en/varanasi-group-tour-packages',
         destination: '/en/packages/varanasi-customised-packages-tour',
         permanent: true,
       },
-      
+
       // Hindi pages - redirect to existing Hindi service pages
       {
         source: '/hi/buddhist-circuit-tour-tempo-traveller-varanasi',
@@ -485,7 +488,7 @@ const nextConfig = {
         destination: '/hi/services/varanasi-safest-taxi-for-women',
         permanent: true,
       },
-      
+
       // Home page redirect
       {
         source: '/home',
