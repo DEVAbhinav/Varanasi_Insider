@@ -112,12 +112,12 @@
 
 body {
   background-color: #F8F9FA; /* Off-white background */
-  font-family: 'Source Sans 3', sans-serif; /* Default sans-serif font */
+  font-family: var(--font-source-sans), sans-serif; /* Default sans-serif font */
 }
 
 /* Make the serif font available for components that need it */
 .font-serif {
-  font-family: 'Lora', serif;
+  font-family: var(--font-lora), serif;
 }
 
 code {

@@ -357,6 +357,7 @@ export default function HomePage({ allPosts }) {
                   src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
                   alt="Kashi Vishwanath Temple - Local Darshan"
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
@@ -387,6 +388,7 @@ export default function HomePage({ allPosts }) {
                   src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
                   alt="Varanasi Airport Taxi Service"
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
@@ -417,6 +419,7 @@ export default function HomePage({ allPosts }) {
                   src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg"
                   alt="Varanasi to Prayagraj Taxi"
                   fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>

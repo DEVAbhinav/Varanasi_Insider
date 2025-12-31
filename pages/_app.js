@@ -3,6 +3,7 @@ import { useEffect, useRef } from 'react';
 import Script from 'next/script';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
+import { Lora, Source_Sans_3 } from 'next/font/google';
 import MobileLeadPopup from '../components/MobileLeadPopup/MobileLeadPopup';
 import { SOCIAL_PROFILE_URLS } from '../config/socials';
 import * as gtag from '../lib/gtag';
@@ -18,6 +19,18 @@ import '../styles/globals.css';
 
 const CANONICAL = 'https://www.kashitaxi.in';
 const ORGANIZATION_JSON_LD = generateOrganizationSchema();
+
+const lora = Lora({
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-lora',
+});
+
+const sourceSans = Source_Sans_3({
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-source-sans',
+});
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter();
@@ -139,7 +152,9 @@ function MyApp({ Component, pageProps }) {
         data-key="cX0oTWGk+R3vy5vu+yxoCw"
         strategy="afterInteractive"
       />
-      <Component {...pageProps} />
+      <div className={`${lora.variable} ${sourceSans.variable} font-sans`}>
+        <Component {...pageProps} />
+      </div>
       <MobileLeadPopup delay={30000} />
     </>
   );
