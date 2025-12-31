@@ -282,12 +282,11 @@ export default function HomePage({ allPosts }) {
               >
                 <div className="relative h-36 w-36 overflow-hidden rounded-full border border-cyan-100 bg-cyan-50/60">
                   <Image
-                    src={driver.img.replace('/upload/', '/upload/w_144,h_144,c_fill,q_auto,f_auto/')}
+                    src={driver.img}
                     alt={`${driver.name} - KashiTaxi driver`}
                     width={144}
                     height={144}
                     quality={100}
-                    unoptimized
                     className="h-full w-full object-cover object-center"
                     priority={idx < 2}
                   />

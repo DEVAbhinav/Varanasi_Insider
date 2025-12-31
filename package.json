@@ -10,7 +10,8 @@
     "start": "next start",
     "lint": "next lint",
     "generate-sitemap": "node scripts/generate-sitemap.js",
-    "update:breadcrumbs": "node scripts/update-jsonld-breadcrumbs.js"
+    "update:breadcrumbs": "node scripts/update-jsonld-breadcrumbs.js",
+    "pages:build": "npx @cloudflare/next-on-pages"
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
@@ -47,6 +48,7 @@
     "zod": "^4.0.16"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.16",
     "@playwright/test": "^1.57.0",
     "@types/node": "24.2.1",
     "@types/react": "19.1.9",
@@ -54,11 +56,15 @@
     "cloudinary": "^2.8.0",
     "eslint": "8.57.0",
     "eslint-config-next": "14.2.3",
+    "eslint-plugin-next": "^0.0.0",
     "postcss": "^8",
     "tailwindcss": "^3.4.1"
   },
   "overrides": {
-    "glob": "10.5.0"
+    "glob": "10.5.0",
+    "@cloudflare/next-on-pages": {
+      "next": "$next"
+    }
   },
   "engines": {
     "node": "20.x"

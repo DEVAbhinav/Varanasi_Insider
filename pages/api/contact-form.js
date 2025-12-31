@@ -2,6 +2,8 @@
 // Contact form handler - logs inquiries and generates WhatsApp link
 // Email notifications are sent via Resend
 
+export const runtime = 'edge';
+
 import { Resend } from 'resend';
 
 const normalizePhoneNumber = (rawPhone) => {
@@ -86,7 +88,7 @@ export default async function handler(req, res) {
   const whatsappMessage = pickupLocation && destination
     ? `Hi! I need a taxi from ${pickupLocation} to ${destination} on ${pickupDate || 'soon'} for ${passengers || '1'} passenger(s). My name is ${name}.`
     : `Hi! I'd like to inquire about your taxi services. My name is ${name}.`;
-  
+
   const whatsappLink = `https://wa.me/919935474730?text=${encodeURIComponent(whatsappMessage)}`;
 
   // Send email notification via Resend
