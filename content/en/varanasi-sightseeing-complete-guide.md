@@ -6,8 +6,8 @@ lastUpdated: "2025-12-17"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
-metaTitle: "Varanasi Sightseeing 2025: 30+ Attractions, Timings & Maps [Local Guide]"
-metaDescription: "84 ghats, Ganga Aarti at 6 PM, boat rides from ₹150, Sarnath, Kashi Vishwanath + 1-3 day itineraries. Updated Dec 2025 →"
+metaTitle: "Varanasi Sightseeing Guide [2026]: Top Attractions & Itineraries"
+metaDescription: "Complete Varanasi sightseeing guide: Kashi Vishwanath, Ganga Aarti, Sarnath & 84 Ghats. Local tips on route planning, auto fares & best time to visit."
 description: "Comprehensive Varanasi sightseeing guide covering ghats, Ganga Aarti, boat rides, Sarnath, temples, 1-3 day itineraries, and all practical travel information for 2025."
 keywords:
   - "varanasi sightseeing"

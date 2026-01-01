@@ -6,8 +6,8 @@ lastUpdated: "2025-12-24"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg"
-metaTitle: "Sarnath Temple Varanasi: Timing 6 AM-6 PM | Entry Rs.25 | Museum Closed Fridays [Dec 2025]"
-metaDescription: "Sarnath timing TODAY: Site 6 AM-6 PM (daily), Museum 9 AM-5 PM (closed Fridays). Entry Rs.25. Best time: Oct-Mar. 10 km from Varanasi, 30 min drive. Complete guide."
+metaTitle: "Sarnath Timing [2026]: When Buddha Taught | Open 6 AM-6 PM"
+metaDescription: "Visit where Buddha gave his first sermon. Sarnath timing: Site 6 AM-6 PM, Museum 9 AM-5 PM (closed Fri). Best months, crowd tips & transport."
 description: "Comprehensive Sarnath visit timing guide covering archaeological site hours, museum timing (closed Fridays), Buddhist temple schedules, best months to visit Sarnath, optimal times of day, seasonal weather, and complete visitor itineraries."
 keywords:
   - "sarnath temple"

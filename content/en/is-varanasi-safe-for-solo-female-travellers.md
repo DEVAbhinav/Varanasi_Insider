@@ -8,8 +8,8 @@ lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg"
 description: "2025 solo female Varanasi safety blueprint with walkable zones, dress code cheat-sheet, SOS scripts, hostel list, and harassment shut-down phrases." 
 tags: ["safety", "solo female travel", "Varanasi", "travel tips"]
-metaTitle: "Is Varanasi Safe for Solo Female Travellers in 2025? Safety Blueprint"
-metaDescription: "Download the 2025 solo female Varanasi safety blueprint—walkable zones, dress code cheat-sheet, WhatsApp SOS scripts, hostel picks, and tout shut-down lines."
+metaTitle: "Is Varanasi Safe for Solo Female Travelers? [2026] Honest Guide"
+metaDescription: "Safety rating: 4/5. Honest guide for solo women in Varanasi: Safe areas to stay, night safety tips, dress code & trusted transport contacts."
 keywords:
   - "is varanasi safe for solo female"
   - "varanasi solo female tips 2025"

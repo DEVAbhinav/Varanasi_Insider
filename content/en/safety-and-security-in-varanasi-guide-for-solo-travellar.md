@@ -5,8 +5,8 @@ date: "2025-07-30"
 lastUpdated: "2025-12-17"
 author: "Abhinav Pandey"
 description: "Our comprehensive safety guide for solo travellers in Varanasi. Learn about common scams, safe areas to stay, and essential safety contacts."
-metaTitle: "Is Varanasi Safe? 2025 Solo & Female Traveller Safety Guide"
-metaDescription: "Yes, Varanasi is safe. Stay near Assi Ghat, avoid boat scams (₹200 max shared), emergency 112. Scam scripts + safe taxi numbers inside →"
+metaTitle: "Varanasi Safety Guide [2026]: Emergency #s & Scams to Avoid"
+metaDescription: "Stay safe in Varanasi with our 2026 insider guide. Top scams (boat/silk), emergency police numbers, safe areas to stay, and hospital contacts."
 ---
 
 # Safety & Security in Varanasi: A First-Person Guide

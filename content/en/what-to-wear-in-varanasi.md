@@ -3,6 +3,8 @@ title: "What to Wear in Varanasi (2025): A Local's Guide"
 date: "2024-05-15"
 author: "Travel Agent Varanasi Team"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/pink-sky-ghat-varanasi-l.jpeg"
+metaTitle: "Women's Dress Code in Varanasi: Safety Guide [2026]"
+metaDescription: "Dress modestly in Varanasi to stay safe & respectful. Expert tips for women, men & families: what to wear by season, where to wear it & why."
 description: "A complete guide on what to wear in Varanasi for men and women. Includes tips for temples, seasons (winter/summer), and a packing list. Dress respectfully!"
 keywords:
   - "what to wear in varanasi"

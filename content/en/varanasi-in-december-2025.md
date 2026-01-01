@@ -6,8 +6,8 @@ lastUpdated: "2025-12-17"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"
-metaTitle: "Varanasi in December 2025: 8-22°C Weather, Fog Tips & What to Pack"
-metaDescription: "Dec temps 8-22°C, fog delays common before 10 AM. Pack thermals + shawl. Sunrise boat still runs. Flight buffer: 3 hrs. Local's fog survival guide →"
+metaTitle: "Varanasi in December [2026]: Weather, Fog & What to Pack"
+metaDescription: "Planning a December trip? Complete guide to 10-25°C weather, packing list (bring woolens!), and winter festivals. Avoid fog delays with our tips." Flight buffer: 3 hrs. Local's fog survival guide →"
 description: "December 2025 Varanasi fog survival plan—exact temps, flight delay odds, packing list, sunrise boat alternatives, and festive events in one cheat sheet."
 keywords:
   - "varanasi in december 2025"

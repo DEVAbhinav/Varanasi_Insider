@@ -6,8 +6,8 @@ lastUpdated: "2025-10-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png"
-metaTitle: "Sarnath Temple Visit 2025: Ashoka Pillar, Buddhist Temple, Stupa Timing & Attractions"
-metaDescription: "Complete Sarnath temple guide: Original Ashoka Pillar location, Sarnath Buddhist temple timings, Dhamek Stupa visit, Sarnath attractions, entry fees ₹20-250, best times to visit from Varanasi."
+metaTitle: "Sarnath Complete Guide: Buddha's Sacred Temple [2026]"
+metaDescription: "Explore Sarnath: where Buddha first taught dharma. Complete guide to temples, timings, best months to visit & how to get there from Varanasi."
 description: "Comprehensive Sarnath temple and Buddhist pilgrimage guide covering Ashoka Pillar Sarnath (original Ashok Stambh), Sarnath Buddhist temples, Dhamek Stupa timing, main attractions, archaeological museum, practical visitor information 2025."
 keywords:
   - "sarnath temple"

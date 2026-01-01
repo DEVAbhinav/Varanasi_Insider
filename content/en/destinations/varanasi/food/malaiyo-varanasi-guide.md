@@ -5,8 +5,8 @@ date: "2025-11-20"
 lastUpdated: "2025-11-20"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Malaiyo in Varanasi | Best Stalls, Timings, Prices & Winter Season Guide"
-metaDescription: "Hunting for authentic Malaiyo in Varanasi? See the best stalls in Thatheri Bazar, Chaukhamba and Godowlia, ideal timings, prices and travel tips for this rare winter dessert."
+metaTitle: "Malaiyo Varanasi [2026]: ₹50 | Sells Out by 11 AM (Winter Only)"
+metaDescription: "Taste Varanasi's famous winter dessert Malaiyo. Expert guide to best shops (Markandey), exact timings (until 11 AM), and price. Eat like a local."
 description: "Ultimate 2025 guide to Malaiyo in Varanasi – where to eat it, ideal timings, price ranges, and insider tips on pairing it with sunrise walks, yoga, or shopping sprees."
 keywords:
   - "Malaiyo Varanasi"

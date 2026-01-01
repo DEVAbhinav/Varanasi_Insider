@@ -28,6 +28,8 @@ relatedPosts:
   - varanasi-transport-price-guide-2025
 faqSchema:
   - question: "What is Trikon Parikrama in Vindhyachal?"
+    metaTitle: "Vindhyachal Trikon Parikrama [2026]: Route & Temple Guide"
+    metaDescription: "Complete guide to Vindhyachal Trikon Parikrama: Vindhyavasini, Kali Khoh, Ashtabhuja. Route map, walking distance, and best sequence for darshan."
     answer: "Trikon Parikrama in Vindhyachal is a sacred circuit covering three temples - Maa Vindhyavasini (Lakshmi), Kali Khoh (Mahakali), and Ashtabhuja (Mahasaraswati) - forming a holy triangle. This 8-kilometer spiritual journey represents complete worship of divine feminine energy."
   - question: "How long does Trikon Parikrama take in Vindhyachal?"
     answer: "Trikon Parikrama in Vindhyachal takes 3-4 hours on foot (Pad Parikrama) or 1-2 hours by vehicle. The complete circuit covers approximately 8 kilometers and includes visits to multiple smaller temples along the route."

@@ -1,5 +1,7 @@
 ---
 title: "Varanasi in February 2026: Weather, Festivals & Things to Do"
+metaTitle: "Varanasi in February [2026]: Weather, Festivals & Travel Tips"
+metaDescription: "February is the BEST time to visit Varanasi. Joyful weather (15-28°C), Shivratri celebrations, and clear skies. Complete packing & event guide."
 slug: "varanasi-in-february-2026"
 date: "2025-08-02"
 lastUpdated: "2025-08-02"

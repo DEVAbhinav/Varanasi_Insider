@@ -8,8 +8,8 @@ description: "Manikarnika Ghat Varanasi guide: history, rituals, etiquette and w
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/manikarnika-ghat-sacred-cremation-grounds"
 tags: ["Manikarnika Ghat", "Varanasi", "cremation ghats", "Hindu rituals", "moksha"]
-metaTitle: "Manikarnika Ghat: A Guide to Varanasi's Sacred Cremation Grounds"
-metaDescription: "A guide to Manikarnika Ghat, Varanasi's most sacred cremation ground. Learn about its history, significance, and what to expect when visiting."
+metaTitle: "Manikarnika Ghat Varanasi [2026]: Sacred Cremation Guide"
+metaDescription: "The burning ghat where fire never dies. Understanding Manikarnika's rituals, history, and visitor etiquette. Respectful viewing spots guide."
 ---
 
 # Manikarnika Ghat: Understanding the Sacred Cremation Grounds

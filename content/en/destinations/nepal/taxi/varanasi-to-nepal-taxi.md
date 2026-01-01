@@ -5,8 +5,8 @@ date: "2025-11-25"
 lastUpdated: "2025-11-25"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Nepal Taxi | 4 Border Routes | ₹7,000+ | KashiTaxi"
-metaDescription: "Book Varanasi to Nepal taxi from ₹7,000. Multiple border crossings: Sunauli, Raxaul, Kakarbhitta, Mahendranagar. Kathmandu, Pokhara, Lumbini, Chitwan destinations."
+metaTitle: "Varanasi to Nepal Taxi [2026]: Fare ₹7,000 | Kathmandu"
+metaDescription: "Varanasi to Kathmandu/Pokhara by car. Border crossing rules, permit costs, and 2026 taxi fares. Safe, reliable drivers for Nepal tour."
 description: "Book Varanasi to Nepal taxi from ₹7,000+. Four major border routes available: Sunauli (most popular), Raxaul-Birgunj, Kakarbhitta, Mahendranagar. Reach Kathmandu, Pokhara, Lumbini, Chitwan. Complete Nepal travel guide, visa assistance."
 keywords:
   - "varanasi to nepal taxi"

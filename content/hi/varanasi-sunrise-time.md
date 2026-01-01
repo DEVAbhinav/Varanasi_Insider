@@ -6,8 +6,8 @@ lastUpdated: "2025-12-22"
 author: "Naval Kishore"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
-metaTitle: "वाराणसी सूर्योदय आज: 6:52 AM दिसंबर 2025 | पूरी तालिका"
-metaDescription: "आज सूर्योदय 6:52 AM। नाव बुकिंग 6:00 AM। जनवरी 6:58 AM, फरवरी 6:35 AM। 12 महीने टाइम टेबल + बेस्ट फोटो स्पॉट। बोट ₹200 से →"
+metaTitle: "वाराणसी सूर्योदय समय [2026]: नाव और आरती गाइड"
+metaDescription: "आज वाराणसी में सूर्योदय कब होगा? सुबह-ए-बनारस और नाव की सवारी के लिए सही समय जानें। माहवार सूर्योदय चार्ट और फोटोग्राफी टिप्स।"
 description: "वाराणसी में प्रतिदिन सूर्योदय का समय। मासिक तालिका, नाव यात्रा के लिए सर्वोत्तम समय, और फोटोग्राफी सुझाव।"
 keywords: ["वाराणसी में सूर्योदय का समय", "वाराणसी सूर्योदय", "sunrise time varanasi", "गंगा सूर्योदय समय", "varanasi morning time", "सूर्योदय वाराणसी आज"]
 tags:

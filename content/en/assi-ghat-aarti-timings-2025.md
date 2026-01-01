@@ -6,8 +6,8 @@ lastUpdated: "2025-12-24"
 author: "Naval Kishore"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-aarti-l.jpeg"
-metaTitle: "Assi Ghat Aarti Time 2025 — Morning 5:30 AM | Evening 6:00 PM [Updated Dec]"
-metaDescription: "Assi Ghat Aarti timing TODAY: Morning 5:30 AM, Evening 6:00 PM. Arrive 30 min early! Full 2025-26 schedule + best seats + boat ride tips from a local."
+metaTitle: "Assi Ghat Aarti Timing [2026] + Best Seat Strategy"
+metaDescription: "Catch Assi Ghat's intimate 5:30 AM yoga aarti with locals. Expert tips on best seating, arrival time & photography. Plan your visit today."
 description: "Get the latest summer and winter timings for the Assi Ghat Ganga Aarti. Learn what to expect, the duration, and tips for the best view."
 keywords: "assi ghat aarti, assi ghat aarti time, assi ghat aarti timings, assi ghat ganga aarti timings, assi ghat morning aarti time, subah e banaras assi ghat, assi ghat sunrise aarti, varanasi morning aarti, sunrise boat ride assi ghat, assi ghat aarti time today"
 tags:
