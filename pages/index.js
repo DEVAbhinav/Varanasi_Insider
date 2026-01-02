@@ -48,9 +48,9 @@ export default function HomePage({ allPosts }) {
   };
   const driverSpotlight = [
     {
-      name: 'Your family arrives smiling',
-      years: 'Zero stress guarantee',
-      route: 'Watch your loved ones step out relaxed – not exhausted from haggling',
+      name: 'Family arrives relaxed',
+      years: 'Airport to hotel in 30 min',
+      route: 'No haggling, no confusion – your driver waits at arrivals with your name',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo%20Traveller%20group.jpg',
     },
     {
@@ -72,9 +72,9 @@ export default function HomePage({ allPosts }) {
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg',
     },
     {
-      name: 'Solo & fearless',
-      years: 'Trusted by 500+ solo women',
-      route: 'Explore Kashi your way – we’ve got your back, always',
+      name: 'Solo traveller? Sorted.',
+      years: '500+ solo women trust us',
+      route: 'Live location sharing, verified drivers, 24×7 helpline – we’ve got your back, always',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg',
     },
     {
@@ -84,15 +84,15 @@ export default function HomePage({ allPosts }) {
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg',
     },
     {
-      name: 'Travel in style',
-      years: 'Premium fleet',
-      route: 'Because you deserve comfort – not just transportation',
+      name: 'AC comfort, clean seats',
+      years: 'Premium Innova & Urbania',
+      route: 'Rest between ghats – AC on full, water bottles stocked, WiFi ready',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-front-Square.jpeg',
     },
     {
-      name: 'Memories that last',
-      years: 'Trip-end smiles say it all',
-      route: '“Best decision of our trip” – hear it from our guests',
+      name: '4.9★ on Google Reviews',
+      years: '2000+ happy guests',
+      route: '“Driver knew secret ghat parking” – hear it from our guests',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo%20traveller%20Happy%20Customer.jpg',
     }
   ];
@@ -103,7 +103,7 @@ export default function HomePage({ allPosts }) {
         <title>Taxi in Varanasi | Trusted Varanasi Taxi Service – Safe, Caring, Memorable</title>
         <meta
           name="description"
-          content="Your Varanasi trip deserves peace of mind. Trusted taxi service with caring local drivers, safe family travel & 24×7 support. Airport pickup ₹800. Create memories, not stress!"
+          content="Taxi in Varanasi with caring local drivers who know every ghat & gali. Safe family travel ✓ 24×7 support ✓ Airport pickup ₹800 ✓ Book your worry-free Kashi journey today!"
         />
         <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
         <meta name="author" content="Varanasi Taxi" />
@@ -112,7 +112,7 @@ export default function HomePage({ allPosts }) {
 
         {/* Open Graph Meta Tags */}
         <meta property="og:title" content="Taxi in Varanasi | Safe & Caring Varanasi Taxi Service" />
-        <meta property="og:description" content="Your Kashi journey deserves peace of mind. Trusted drivers, safe family travel & memorable experiences. Book your worry-free ride today!" />
+        <meta property="og:description" content="Varanasi taxi service with drivers who know secret parking at Dashashwamedh. Safe family travel, 24×7 support. Book your worry-free Kashi ride!" />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/" />
         <meta property="og:type" content="website" />
@@ -224,7 +224,7 @@ export default function HomePage({ allPosts }) {
                 Taxi in Varanasi – Your Kashi Journey, Worry-Free
               </h1>
               <p className="text-sm md:text-base font-light text-white/95 drop-shadow-lg">
-                Safe Travels • Caring Drivers • Memories That Last a Lifetime
+                You handle the prayers. We handle the traffic.
               </p>
             </div>
 
@@ -259,8 +259,8 @@ export default function HomePage({ allPosts }) {
             <div className="flex items-center gap-2">
               <span className="h-6 w-6 rounded-full bg-cyan-100 text-cyan-700 text-xs font-semibold grid place-items-center">✨</span>
               <div>
-                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Real moments, real guests</p>
-                <h2 className="text-base font-semibold text-gray-900 leading-snug">Why families trust us with their Kashi journey</h2>
+                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">22 years in Varanasi • 2000+ trips</p>
+                <h2 className="text-base font-semibold text-gray-900 leading-snug">Local drivers who know every ghat, gali & shortcut</h2>
               </div>
             </div>
             <div className="flex items-center gap-2 text-[11px] text-gray-500">
