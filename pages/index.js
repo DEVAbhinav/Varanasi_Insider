@@ -100,10 +100,10 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Taxi in Varanasi | Trusted Varanasi Taxi Service – Safe, Caring, Memorable</title>
+        <title>Taxi in Varanasi | Varanasi Taxi Service – 24×7 Cabs</title>
         <meta
           name="description"
-          content="Taxi in Varanasi with caring local drivers who know every ghat & gali. Safe family travel ✓ 24×7 support ✓ Airport pickup ₹800 ✓ Book your worry-free Kashi journey today!"
+          content="Taxi in Varanasi from ₹800. Local drivers, airport pickup, outstation cabs to Prayagraj & Ayodhya. 24×7 booking. Safe family travel ✓ 4.9★ rated."
         />
         <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
         <meta name="author" content="Varanasi Taxi" />
@@ -223,7 +223,10 @@ export default function HomePage({ allPosts }) {
               <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-2 drop-shadow-2xl tracking-tight leading-tight">
                 Taxi in Varanasi – Your Kashi Journey, Worry-Free
               </h1>
-              <p className="text-sm md:text-base font-light text-white/95 drop-shadow-lg">
+              <p className="text-xs md:text-sm font-medium text-white/90 mb-1">
+                Varanasi taxi service for airport pickup, local sightseeing & outstation cabs
+              </p>
+              <p className="text-sm md:text-base font-light text-white/80 drop-shadow-lg">
                 You handle the prayers. We handle the traffic.
               </p>
             </div>
