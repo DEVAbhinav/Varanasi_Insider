@@ -48,51 +48,51 @@ export default function HomePage({ allPosts }) {
   };
   const driverSpotlight = [
     {
-      name: 'Happy guest groups',
-      years: 'Real tempo traveller handoff',
-      route: 'Families and friends starting their Kashi tour together',
+      name: 'Your family arrives smiling',
+      years: 'Zero stress guarantee',
+      route: 'Watch your loved ones step out relaxed – not exhausted from haggling',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo%20Traveller%20group.jpg',
     },
     {
-      name: 'Safe airport pickup',
-      years: '22 yrs in Varanasi',
-      route: 'Meet & greet, flight-tracked arrivals',
+      name: 'First impression of Kashi',
+      years: '22 yrs trusted service',
+      route: 'A friendly face at arrivals – your Varanasi adventure begins right here',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo%20Traveller%20Mishra%20ji%20with%20germal%20tourist.jpg',
     },
     {
-      name: 'Hotel-to-ghat escort',
-      years: '15 yrs guiding guests',
-      route: 'Door-to-door help through barricades',
+      name: 'Navigate like a local',
+      years: '15 yrs guiding pilgrims',
+      route: 'Skip the confusion – we know every gali, ghat & shortcut',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Rajan%20Ji%20Citiline%20w%20Customer.jpg',
     },
     {
-      name: 'Pink Taxi safety',
-      years: '8 yrs women-first fleet',
-      route: 'Family & solo women travel support',
+      name: 'Safe travels for her',
+      years: 'Women-first fleet',
+      route: 'Mom, daughter, solo traveller – travel with complete peace of mind',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg',
     },
     {
-      name: 'Ladies-only ride',
-      years: 'Trusted for solo trips',
-      route: 'Single traveller pickup with full-day assistance',
+      name: 'Solo & fearless',
+      years: 'Trusted by 500+ solo women',
+      route: 'Explore Kashi your way – we’ve got your back, always',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg',
     },
     {
-      name: 'Group vans & tempo',
-      years: '12 yrs group moves',
-      route: 'Airport, weddings, multi-van convoys',
+      name: 'The whole gang together',
+      years: '12 yrs group adventures',
+      route: 'Friends, family, everyone – travel together, laugh together',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg',
     },
     {
-      name: 'Premium outstation',
-      years: '9 yrs long routes',
-      route: 'Urbania & SUV fleet for long trips',
+      name: 'Travel in style',
+      years: 'Premium fleet',
+      route: 'Because you deserve comfort – not just transportation',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-front-Square.jpeg',
     },
     {
-      name: 'Happy customer handover',
-      years: 'Trip-end smiles captured',
-      route: 'Tempo traveller guests wrapping up a smooth journey',
+      name: 'Memories that last',
+      years: 'Trip-end smiles say it all',
+      route: '“Best decision of our trip” – hear it from our guests',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo%20traveller%20Happy%20Customer.jpg',
     }
   ];
@@ -100,10 +100,10 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Taxi in Varanasi | #1 Varanasi Taxi Service – Airport, Local & Outstation</title>
+        <title>Taxi in Varanasi | Trusted Varanasi Taxi Service – Safe, Caring, Memorable</title>
         <meta
           name="description"
-          content="Best taxi in Varanasi for airport pickup, local sightseeing & outstation trips. Trusted Varanasi taxi service with 24×7 cab booking, tempo traveller hire from ₹12/km. Call now!"
+          content="Your Varanasi trip deserves peace of mind. Trusted taxi service with caring local drivers, safe family travel & 24×7 support. Airport pickup ₹800. Create memories, not stress!"
         />
         <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
         <meta name="author" content="Varanasi Taxi" />
@@ -111,8 +111,8 @@ export default function HomePage({ allPosts }) {
         <link rel="canonical" href="https://www.kashitaxi.in/" />
 
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Taxi in Varanasi | #1 Varanasi Taxi Service – Airport, Local & Outstation" />
-        <meta property="og:description" content="Best taxi in Varanasi for airport pickup, local sightseeing & outstation. Trusted Varanasi taxi service with 24×7 booking, tempo traveller from ₹12/km." />
+        <meta property="og:title" content="Taxi in Varanasi | Safe & Caring Varanasi Taxi Service" />
+        <meta property="og:description" content="Your Kashi journey deserves peace of mind. Trusted drivers, safe family travel & memorable experiences. Book your worry-free ride today!" />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/" />
         <meta property="og:type" content="website" />
@@ -221,10 +221,10 @@ export default function HomePage({ allPosts }) {
                 #1 VARANASI TAXI SERVICE – 24×7 CAB BOOKING
               </div>
               <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-2 drop-shadow-2xl tracking-tight leading-tight">
-                Taxi in Varanasi – Airport Cab, Local Tours & Outstation
+                Taxi in Varanasi – Your Kashi Journey, Worry-Free
               </h1>
               <p className="text-sm md:text-base font-light text-white/95 drop-shadow-lg">
-                Trusted Varanasi Taxi Service • Airport Pickup from ₹800 • Tempo Traveller Hire • 24×7 Cab Booking
+                Safe Travels • Caring Drivers • Memories That Last a Lifetime
               </p>
             </div>
 
@@ -257,14 +257,14 @@ export default function HomePage({ allPosts }) {
         <div className="container mx-auto px-4 max-w-6xl overflow-visible">
           <div className="flex items-center justify-between gap-3 mb-1.5">
             <div className="flex items-center gap-2">
-              <span className="h-6 w-6 rounded-full bg-cyan-100 text-cyan-700 text-xs font-semibold grid place-items-center">✓</span>
+              <span className="h-6 w-6 rounded-full bg-cyan-100 text-cyan-700 text-xs font-semibold grid place-items-center">✨</span>
               <div>
-                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Worry-free tours</p>
-                <h2 className="text-base font-semibold text-gray-900 leading-snug">Trip assurance highlights</h2>
+                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Real moments, real guests</p>
+                <h2 className="text-base font-semibold text-gray-900 leading-snug">Why families trust us with their Kashi journey</h2>
               </div>
             </div>
             <div className="flex items-center gap-2 text-[11px] text-gray-500">
-              <a href="tel:+919450301573" className="inline-flex items-center gap-1 text-cyan-700 font-semibold">Call dispatch</a>
+              <a href="tel:+919450301573" className="inline-flex items-center gap-1 text-cyan-700 font-semibold">Talk to us</a>
             </div>
           </div>
           <div
@@ -339,10 +339,10 @@ export default function HomePage({ allPosts }) {
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Varanasi Taxi Packages & Cab Rates
+              Create Memories, Not Stress
             </h2>
             <p className="text-gray-600 text-lg">
-              Book taxi in Varanasi for local sightseeing, airport transfer & outstation trips at best rates
+              Your Varanasi story deserves a smooth ride – from the first darshan to the final goodbye
             </p>
           </div>
 
@@ -362,17 +362,17 @@ export default function HomePage({ allPosts }) {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
                 <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Varanasi Local Taxi for Kashi Darshan</h3>
+                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Experience the Divine Kashi</h3>
                 </div>
               </div>
               <div className="p-6">
                 <p className="text-gray-600 mb-4 text-sm">
-                  Full-day Varanasi city tour cab covering Kashi Vishwanath Temple, Dashashwamedh Ghat, Assi Ghat, Sarnath & BHU
+                  Feel the spiritual energy at Kashi Vishwanath, witness the magical Ganga Aarti, and explore ancient Sarnath – all without worrying about traffic or directions
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-teal-600 font-bold text-lg">From ₹2,500</span>
                   <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    View Details →
+                    Plan Your Day →
                   </span>
                 </div>
               </div>
@@ -393,17 +393,17 @@ export default function HomePage({ allPosts }) {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
                 <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Varanasi Airport Taxi Service</h3>
+                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Land Relaxed, Not Stressed</h3>
                 </div>
               </div>
               <div className="p-6">
                 <p className="text-gray-600 mb-4 text-sm">
-                  VNS Airport to city center cab with meet-and-greet. AC vehicles, fixed fare, 24×7 availability
+                  A friendly face waiting with your name – no haggling, no confusion. Your Varanasi welcome starts right at the airport
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-teal-600 font-bold text-lg">From ₹800</span>
                   <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    View Details →
+                    Book Pickup →
                   </span>
                 </div>
               </div>
@@ -424,17 +424,17 @@ export default function HomePage({ allPosts }) {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
                 <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Varanasi to Prayagraj Taxi</h3>
+                  <h3 className="text-white font-bold text-xl drop-shadow-lg">The Sacred Sangam Journey</h3>
                 </div>
               </div>
               <div className="p-6">
                 <p className="text-gray-600 mb-4 text-sm">
-                  Varanasi to Prayagraj cab service (130 km). Visit Triveni Sangam, Hanuman Temple & Akshayavat. Roundtrip available
+                  Take your family to Triveni Sangam – where three holy rivers meet. A soul-stirring experience, made comfortable with our caring drivers
                 </p>
                 <div className="flex items-center justify-between">
                   <span className="text-teal-600 font-bold text-lg">From ₹3,500</span>
                   <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    View Details →
+                    Plan Trip →
                   </span>
                 </div>
               </div>
@@ -469,10 +469,10 @@ export default function HomePage({ allPosts }) {
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Varanasi Taxi Service – All Vehicle Types
+              Every Journey Deserves Care
             </h2>
             <p className="text-gray-600 text-lg">
-              Best cab in Varanasi – Sedan, SUV, Tempo Traveller for every travel need
+              Whether you’re 2 people or 20 – we have the perfect ride for your Varanasi adventure
             </p>
           </div>
 
@@ -483,12 +483,12 @@ export default function HomePage({ allPosts }) {
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">✈️</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">Varanasi Airport Cab</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Stress-Free Airport Welcome</h3>
               <p className="text-gray-600 text-sm mb-4">
-                VNS Airport pickup & drop. 24×7 cab service with professional drivers
+                Land tired, leave smiling. We track your flight and wait – no matter what time you arrive
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
-                Learn More →
+                See How It Works →
               </span>
             </a>
 
@@ -498,12 +498,12 @@ export default function HomePage({ allPosts }) {
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">🏛️</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">Varanasi Local Sightseeing Taxi</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Discover Hidden Kashi</h3>
               <p className="text-gray-600 text-sm mb-4">
-                Half-day & full-day Varanasi city tour packages. Temple, ghat & heritage site visits
+                See what most tourists miss. Our drivers know the best-kept secrets of this ancient city
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
-                Learn More →
+                Explore Tours →
               </span>
             </a>
 
@@ -513,12 +513,12 @@ export default function HomePage({ allPosts }) {
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">🚐</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">Tempo Traveller Hire in Varanasi</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">The Whole Family Together</h3>
               <p className="text-gray-600 text-sm mb-4">
-                12, 14, 17 seater AC tempo traveller on rent for group tours & family trips
+                Travel, laugh, share snacks – make memories together in our spacious tempo travellers
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
-                Learn More →
+                View Options →
               </span>
             </a>
 
@@ -528,12 +528,12 @@ export default function HomePage({ allPosts }) {
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">🛣️</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">Outstation Taxi from Varanasi</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Beyond Varanasi Adventures</h3>
               <p className="text-gray-600 text-sm mb-4">
-                Varanasi to Prayagraj, Ayodhya, Bodhgaya, Vindhyachal. Intercity cab service available
+                Ayodhya, Prayagraj, Bodhgaya – extend your pilgrimage with comfortable long-distance rides
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
-                Learn More →
+                Plan Outstation →
               </span>
             </a>
           </div>
