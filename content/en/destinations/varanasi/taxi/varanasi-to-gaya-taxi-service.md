@@ -588,8 +588,8 @@ A taxi isn't a luxury upgrade. It's a practical choice that protects your time a
 
 ## Related Services
 
-- [Pind Daan Service in Gaya (Verified)](/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi)
-- [Varanasi Gaya Prayagraj Tour Package](/en/destinations/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly)
+- [Pind Daan Service in Gaya (Verified)](/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi)
+- [Varanasi Gaya Prayagraj Tour Package](/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly)
 - [Varanasi to Bodhgaya Tempo Traveller](/en/varanasi-to-bodhgaya-tempo-traveller)
 - [Pilgrimage Tours from Varanasi](/en/pilgrimage-yatra-tours-tempo-traveller-varanasi)
 - [Taxi Service Varanasi](/en/city/varanasi/taxi/taxi-service-varanasi)

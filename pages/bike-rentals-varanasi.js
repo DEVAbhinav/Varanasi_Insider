@@ -524,7 +524,7 @@ export default function BikeRentalsPage({ allPosts }) {
             <ul className="mt-4 list-disc pl-6">
               <li><strong>Airport Transfers</strong>: <a href="/en/city/varanasi/taxi/airport-taxi-varanasi" className="text-blue-600 hover:underline">Book airport taxi</a> with fixed fares (₹600-950) and flight tracking.</li>
               <li><strong>Outstation Pilgrimage</strong>: Planning <a href="/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service" className="text-blue-600 hover:underline">Varanasi to Gaya for Pind Daan</a>? A 260 km trip needs AC taxi comfort.</li>
-              <li><strong>Family Tours</strong>: <a href="/en/destinations/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly" className="text-blue-600 hover:underline">Elderly-friendly pilgrimage packages</a> with private transport.</li>
+              <li><strong>Family Tours</strong>: <a href="/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly" className="text-blue-600 hover:underline">Elderly-friendly pilgrimage packages</a> with private transport.</li>
               <li><strong>Group Weddings</strong>: <a href="/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi" className="text-blue-600 hover:underline">Tempo traveller for weddings</a> (12-17 seater).</li>
             </ul>
             <p className="mt-4">

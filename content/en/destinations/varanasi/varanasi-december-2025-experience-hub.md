@@ -171,7 +171,7 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
               <p>Madhuban vs Thatheri intel, December price ladder, taxi itineraries between markets.</p>
             </div>
           </a>
-          <a class="december-card" href="/en/destinations/varanasi/food/malaiyo-varanasi-guide">
+          <a class="december-card" href="/en/city/varanasi/food/malaiyo-varanasi-guide">
             <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanashi-ghat-evening-P.jpeg" alt="Malaiyo vendors" loading="lazy" />
             <div class="december-card-body">
               <h4>Malaiyo Morning Trail</h4>

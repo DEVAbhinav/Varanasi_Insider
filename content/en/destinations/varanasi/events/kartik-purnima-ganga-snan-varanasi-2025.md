@@ -77,7 +77,7 @@ organizer:
       "url": "https://www.kashitaxi.in/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2025",
       "offers": {
         "@type": "Offer",
-        "url": "https://www.kashitaxi.in/en/booking",
+        "url": "https://www.kashitaxi.in/booking",
         "price": "0",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
@@ -705,7 +705,7 @@ Make Kartik Purnima 2025 a spiritually transformative experience with hassle-fre
 
 **📞 Call:** +91-94503-01573 (24/7)  
 **📱 WhatsApp:** [Click to Chat](https://wa.me/919450301573)  
-**🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/en/booking)
+**🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/booking)
 
 **Special Kartik Purnima Offers:**
 - 🎁 Book before November 1: Get 10% off  

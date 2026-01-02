@@ -33,7 +33,7 @@ ctaSubtitle: "Book an early morning taxi to Assi Ghat or Dashashwamedh for your 
 | **Timing** | Report 45 minutes before sunrise (~5:00 AM) |
 | **Price Band** | ₹800-1,200 (group) · ₹2,500-4,000 (private) |
 | **Season Sweet Spot** | 10-22 December (clear skies, minimal fog) |
-| **Post-Practice Treat** | [Malaiyo breakfast trail](/en/destinations/varanasi/food/malaiyo-varanasi-guide) |
+| **Post-Practice Treat** | [Malaiyo breakfast trail](/en/city/varanasi/food/malaiyo-varanasi-guide) |
 
 **Best Locations:** Assi Ghat, Dashashwamedh Ghat, Mansarovar Ghat
 **Ideal Time:** 45 minutes before sunrise (~5:00-6:00 AM)
@@ -194,7 +194,7 @@ Many sessions include 15-30 minutes seated meditation:
 
 - **Monday:** Assi Ghat, sunrise Hatha yoga, beginner-friendly.
 - **Tuesday:** Rest day, personal meditation by river.
-- **Wednesday:** Dashashwamedh Ghat, Vinyasa flow, intermediate, followed by a [Malaiyo tasting walk](/en/destinations/varanasi/food/malaiyo-varanasi-guide).
+- **Wednesday:** Dashashwamedh Ghat, Vinyasa flow, intermediate, followed by a [Malaiyo tasting walk](/en/city/varanasi/food/malaiyo-varanasi-guide).
 - **Thursday:** Morning boat ride + afternoon private yoga session.
 - **Friday:** Subah-e-Banaras cultural yoga experience.
 - **Saturday:** Kundalini yoga, focus on pranayama, then browse sarees using the [Banarasi silk shopping guide](/en/destinations/varanasi/shopping/banarasi-silk-saree-shopping-varanasi).

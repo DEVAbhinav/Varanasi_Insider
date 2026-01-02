@@ -33,7 +33,7 @@ ctaSubtitle: "Book a December-ready full-day taxi to loop Madhuban, Thatheri Baz
 | **Price Ladder** | ₹500 dupattas · ₹2,000-8,000 blends · ₹15,000-50,000+ heirloom katan |
 | **December Sweet Spot** | 9-22 December (cool weather, fresh inventory, negotiable crowds) |
 | **Ideal Duration** | 4-6 hours with a pre-booked taxi loop + chai refuel stops |
-| **Pair It With** | [Sunrise yoga warm-up](/en/city/varanasi/activities/sunrise-yoga-varanasi-2025) & [Malaiyo breakfast trail](/en/destinations/varanasi/food/malaiyo-varanasi-guide) |
+| **Pair It With** | [Sunrise yoga warm-up](/en/city/varanasi/activities/sunrise-yoga-varanasi-2025) & [Malaiyo breakfast trail](/en/city/varanasi/food/malaiyo-varanasi-guide) |
 | **Transport Hack** | Use the [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) for airport-city-weaver runs |
 
 **Snapshot:** Madhuban for direct-from-loom wholesale, Thatheri Bazar for artisan-family stores, and Godowlia for tourist-friendly curation.

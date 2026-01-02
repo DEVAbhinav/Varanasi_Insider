@@ -185,7 +185,7 @@ For Varanasi residents, malaiyo's appearance marks winter officially begun. It's
 - Less traditional but reliable.
 - Different texture – not exactly authentic.
 - **Cost:** ₹50-80.
-- **Pro move:** Combine with a late-morning [Banarasi silk shopping run](/en/destinations/varanasi/shopping/banarasi-silk-saree-shopping-varanasi) so you can sample sweets while browsing sarees.
+- **Pro move:** Combine with a late-morning [Banarasi silk shopping run](/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2025) so you can sample sweets while browsing sarees.
 
 ### Pro Tips for Maximum Enjoyment
 

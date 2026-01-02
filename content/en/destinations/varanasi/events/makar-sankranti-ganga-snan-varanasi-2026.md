@@ -78,7 +78,7 @@ organizer:
       "url": "https://www.kashitaxi.in/en/city/varanasi/events/makar-sankranti-ganga-snan-varanasi-2026",
       "offers": {
         "@type": "Offer",
-        "url": "https://www.kashitaxi.in/en/booking",
+        "url": "https://www.kashitaxi.in/booking",
         "price": "0",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
@@ -1052,7 +1052,7 @@ Don't just witness Makar Sankranti—**immerse yourself** in India's most joyous
 
 **📞 Call:** +91-94503-01573 (24/7)
 **📱 WhatsApp:** [Click to Chat](https://wa.me/919450301573?text=Makar%20Sankranti%20booking)
-**🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/en/booking)
+**🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/booking)
 
 ### Early Bird Benefits (Book Before Jan 5, 2026)
 

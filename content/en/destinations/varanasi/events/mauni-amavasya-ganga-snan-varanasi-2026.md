@@ -78,7 +78,7 @@ organizer:
       "url": "https://www.kashitaxi.in/en/city/varanasi/events/mauni-amavasya-ganga-snan-varanasi-2026",
       "offers": {
         "@type": "Offer",
-        "url": "https://www.kashitaxi.in/en/booking",
+        "url": "https://www.kashitaxi.in/booking",
         "price": "0",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
@@ -954,7 +954,7 @@ Transform Mauni Amavasya 2026 into a life-changing spiritual milestone with prof
 
 **📞 Call (Before Vow Begins!):** +91-94503-01573
 **📱 WhatsApp (Silent-Friendly):** [Click Here](https://wa.me/919450301573?text=Mauni%20Amavasya%20booking)
-**🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/en/booking)
+**🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/booking)
 
 ### Early Booking Benefits
 
