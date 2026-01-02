@@ -9,7 +9,7 @@ const getHomeSchema = (site) => ({
       '@type': 'WebSite',
       '@id': `${site}/#website`,
       url: `${site}/`,
-      name: 'Varanasi Taxi & Tempo Traveller - Vinayak Travels',
+      name: 'Taxi in Varanasi | Varanasi Taxi Service - Kashi Taxi',
       inLanguage: 'en',
       publisher: { '@id': `${site}/#org` },
       potentialAction: {
@@ -21,17 +21,17 @@ const getHomeSchema = (site) => ({
     {
       '@type': ['LocalBusiness', 'TaxiService', 'TouristInformationCenter'],
       '@id': `${site}/#org`,
-      name: 'Varanasi Taxi & Tempo Traveller Service | Vinayak Travels',
-      alternateName: ['Varanasi Taxi', 'Varanasi Travels', 'Varanasi Tour', 'Vinayak Travels Varanasi', 'Tempo Traveller Varanasi', 'Varanasi Cab Service'],
+      name: 'Varanasi Taxi Service | Taxi in Varanasi - Vinayak Travels',
+      alternateName: ['Taxi in Varanasi', 'Varanasi Taxi Service', 'Varanasi Taxi', 'Cab in Varanasi', 'Varanasi Cab Service', 'Taxi Service in Varanasi', 'Varanasi Travels', 'Vinayak Travels Varanasi', 'Tempo Traveller Varanasi'],
       url: `${site}/`,
-      logo: `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg`,
+      logo: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg',
       image: [
-        `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`,
-        `${site}/images/taxi-varanasi.jpg`,
-        `${site}/images/kashi-taxi-service.jpg`
+        'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png',
+        'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/taxi-varanasi.jpg',
+        'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashi-taxi-service.jpg'
       ],
       description:
-        'Varanasi Taxi, Tempo Traveller & Tour Packages by Vinayak Travels. 24×7 service for airport transfers, local tours, outstation trips, and pilgrimage tours. Clean AC vehicles with experienced drivers.',
+        'Best taxi in Varanasi for airport pickup, local sightseeing & outstation trips. Trusted Varanasi taxi service offering 24×7 cab booking, tempo traveller hire, and pilgrimage tours with experienced drivers.',
       slogan: 'Your trusted travel partner in Varanasi',
       telephone: '+91-9450301573',
       faxNumber: '+91-9935474730',

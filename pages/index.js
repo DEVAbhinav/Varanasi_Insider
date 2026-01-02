@@ -100,21 +100,21 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Varanasi Taxi Service: Airport, City & Outstation Cabs from ₹12/km</title>
+        <title>Taxi in Varanasi | #1 Varanasi Taxi Service – Airport, Local & Outstation</title>
         <meta
           name="description"
-          content="Varanasi Taxi, Tempo Traveller & Tour Packages. Airport cab from ₹800, Local tours ₹2,500, Tempo traveller hire. 24×7 Varanasi travels service. Book now!"
+          content="Best taxi in Varanasi for airport pickup, local sightseeing & outstation trips. Trusted Varanasi taxi service with 24×7 cab booking, tempo traveller hire from ₹12/km. Call now!"
         />
-        <meta name="keywords" content="varanasi taxi, varanasi tempo traveller, varanasi tour, varanasi travels, airport taxi varanasi, tempo traveller hire varanasi, varanasi tour packages, varanasi cab service, varanasi local tours, outstation taxi varanasi, varanasi sightseeing, varanasi to ayodhya, varanasi to prayagraj" />
+        <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
         <meta name="author" content="Varanasi Taxi" />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.kashitaxi.in/home" />
+        <link rel="canonical" href="https://www.kashitaxi.in/" />
 
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Varanasi Taxi Service: Airport, City & Outstation Cabs from ₹12/km" />
-        <meta property="og:description" content="Varanasi Taxi, Tempo Traveller & Outstation Cabs. Airport cab from ₹800, local tours from ₹2,500, outstation and tempo traveller hire. 24×7 Varanasi cab service." />
+        <meta property="og:title" content="Taxi in Varanasi | #1 Varanasi Taxi Service – Airport, Local & Outstation" />
+        <meta property="og:description" content="Best taxi in Varanasi for airport pickup, local sightseeing & outstation. Trusted Varanasi taxi service with 24×7 booking, tempo traveller from ₹12/km." />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
-        <meta property="og:url" content="https://www.kashitaxi.in/home" />
+        <meta property="og:url" content="https://www.kashitaxi.in/" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Varanasi Taxi & Tempo Traveller" />
         <meta property="og:locale" content="en_IN" />
@@ -218,13 +218,13 @@ export default function HomePage({ allPosts }) {
             {/* Main Title */}
             <div className="text-center mb-3">
               <div className="inline-block mb-1.5 px-4 py-1 bg-white/20 backdrop-blur-md rounded-full text-xs font-semibold border border-white/30">
-                24×7 VARANASI CAB SERVICE
+                #1 VARANASI TAXI SERVICE – 24×7 CAB BOOKING
               </div>
               <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-2 drop-shadow-2xl tracking-tight leading-tight">
-                Varanasi Taxi Service | Airport Cab & Tempo Traveller Rental
+                Taxi in Varanasi – Airport Cab, Local Tours & Outstation
               </h1>
               <p className="text-sm md:text-base font-light text-white/95 drop-shadow-lg">
-                Airport Taxi Varanasi • Kashi Darshan Cab • Tempo Traveller on Rent • Outstation Taxi from Varanasi
+                Trusted Varanasi Taxi Service • Airport Pickup from ₹800 • Tempo Traveller Hire • 24×7 Cab Booking
               </p>
             </div>
 
@@ -339,10 +339,10 @@ export default function HomePage({ allPosts }) {
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Best Varanasi Taxi Packages & Rates
+              Varanasi Taxi Packages & Cab Rates
             </h2>
             <p className="text-gray-600 text-lg">
-              Affordable cab packages for local sightseeing, airport transfer & outstation trips
+              Book taxi in Varanasi for local sightseeing, airport transfer & outstation trips at best rates
             </p>
           </div>
 
@@ -469,10 +469,10 @@ export default function HomePage({ allPosts }) {
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Varanasi Cab Services – All Types of Vehicles
+              Varanasi Taxi Service – All Vehicle Types
             </h2>
             <p className="text-gray-600 text-lg">
-              Sedan, SUV, Tempo Traveller – Complete taxi solutions for every journey in Varanasi
+              Best cab in Varanasi – Sedan, SUV, Tempo Traveller for every travel need
             </p>
           </div>
 
@@ -579,6 +579,80 @@ export default function HomePage({ allPosts }) {
 
       {/* Bike Rentals Section - Dynamically Loaded */}
       <BikeRentalsSection />
+
+      {/* FAQ Section - Varanasi Taxi Service */}
+      <section className="py-16 bg-gradient-to-b from-white to-cyan-50">
+        <div className="container mx-auto px-4 max-w-4xl">
+          <div className="text-center mb-10">
+            <h2 className="text-3xl md:text-4xl font-bold mb-3 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
+              Varanasi Taxi Service – Frequently Asked Questions
+            </h2>
+            <p className="text-gray-600">Everything you need to know about booking a taxi in Varanasi</p>
+          </div>
+          
+          <div className="space-y-4">
+            <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
+              <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
+                <span>How much does a taxi cost in Varanasi?</span>
+                <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
+              </summary>
+              <div className="px-5 pb-5 text-gray-600">
+                <p>Taxi rates in Varanasi start from <strong>₹12/km for sedans</strong> and <strong>₹18/km for SUVs</strong>. Airport pickup costs ₹800-950 (fixed), local full-day tours from ₹2,500, and tempo traveller hire from ₹4,500/day. We offer transparent pricing with no hidden charges.</p>
+              </div>
+            </details>
+            
+            <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
+              <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
+                <span>Which is the best taxi service in Varanasi?</span>
+                <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
+              </summary>
+              <div className="px-5 pb-5 text-gray-600">
+                <p>Vinayak Travels (KashiTaxi) is rated among the <strong>best taxi services in Varanasi</strong> with 4.8★ Google rating from 150+ reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.</p>
+              </div>
+            </details>
+            
+            <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
+              <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
+                <span>Is Ola/Uber available in Varanasi?</span>
+                <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
+              </summary>
+              <div className="px-5 pb-5 text-gray-600">
+                <p>Ola and Uber have <strong>limited availability in Varanasi</strong>, especially in old city areas near ghats. Local taxi services like ours provide better coverage, fixed rates, and drivers familiar with narrow ghat lanes and temple routes where app-based cabs often refuse trips.</p>
+              </div>
+            </details>
+            
+            <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
+              <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
+                <span>Can I book a taxi from Varanasi airport?</span>
+                <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
+              </summary>
+              <div className="px-5 pb-5 text-gray-600">
+                <p>Yes! We provide <strong>prepaid Varanasi airport taxi</strong> with meet-and-greet service. Our driver waits at arrivals with a name board. Fixed fare: ₹800 (sedan) to ₹950 (SUV) for city center. Flight tracking included – no waiting charges for delayed flights.</p>
+              </div>
+            </details>
+            
+            <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
+              <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
+                <span>Do you provide taxi for outstation from Varanasi?</span>
+                <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
+              </summary>
+              <div className="px-5 pb-5 text-gray-600">
+                <p>Yes, we offer <strong>outstation taxi from Varanasi</strong> to Prayagraj (₹3,500), Ayodhya (₹5,500), Bodhgaya (₹5,000), Vindhyachal (₹4,000), and all major pilgrimage destinations. One-way and roundtrip options available with driver allowance included.</p>
+              </div>
+            </details>
+            
+            <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
+              <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
+                <span>How to book taxi in Varanasi online?</span>
+                <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
+              </summary>
+              <div className="px-5 pb-5 text-gray-600">
+                <p>Book a <strong>taxi in Varanasi online</strong> through our website booking form, WhatsApp (+91-9935474730), or call (+91-9450301573). Share your pickup location, date/time, and trip type. Get instant quote and confirmation. No advance payment required for most bookings.</p>
+              </div>
+            </details>
+          </div>
+        </div>
+      </section>
 
       {/* CTA Section - Dynamically Loaded */}
       <CTASectionHome />
