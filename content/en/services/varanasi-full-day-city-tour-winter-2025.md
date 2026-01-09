@@ -6,7 +6,7 @@ subtitle: "Experience Varanasi's spiritual heritage with private car + driver. P
 metaTitle: "Varanasi Full Day Tour ₹2,200: Winter 2025-26 Package [Book]"
 metaDescription: "Winter city tour ₹2,200 sedan, ₹3,500 Innova. 8hr package: Kashi Vishwanath, Sarnath, ghats, Ganga Aarti. Nov-Feb best weather. Call 9450301573"
 description: "Full day taxi for Varanasi sightseeing – winter 2025-26 packages ₹2,200–₹3,500. Sedan/Innova local hire, temple tours, Sarnath, Ganga Aarti. Custom itineraries."
-keywords: ["full day taxi for Varanasi sightseeing price","taxi for evening ganga aarti and return","ganga aarti taxi booking","Varanasi taxi service in November","best cab service in Varanasi in December","winter tour packages Varanasi by car","taxi for Kashi Vishwanath Temple darshan","Varanasi local sightseeing by car","where to find Malaiyyo in Varanasi cab tour","varanasi local sightseeing taxi service"]
+keywords: ["full day taxi for Varanasi sightseeing price","taxi for evening ganga aarti and return","ganga aarti taxi booking","Varanasi taxi service in November","best cab service in Varanasi in December","winter tour packages Varanasi by car","taxi for Kashi Vishwanath Temple darshan","Varanasi local sightseeing by car","where to find Malaiyyo in Varanasi cab tour"]
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-wallpaper-p.jpeg"
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-wallpaper-p.jpeg"
 phone: "9450301573"
@@ -116,8 +116,6 @@ lastUpdated: "2025-10-02"
 
 ### 4. Ganga Aarti (Dashashwamedh Ghat)
 
-*Need a **taxi for evening ganga aarti and return**? Our full-day packages include Dashashwamedh pickup and return with timing optimized for ceremony viewing.*
-
 - **Timing**: 18:45 winter / 19:15 summer (Nov–Feb lean toward 18:45)
 - **Duration**: 45 min
 - **Viewing Options**:
@@ -164,8 +162,6 @@ We design route + quote accordingly.
 
 ### Timing Strategy
 
-*Book a **morning ganga aarti taxi** starting at 5:30 AM for Assi Ghat sunrise ceremony and boat rides—return by breakfast.*
-
 - **Sunrise Activities (06:00–08:00)**: Boat ride, morning Aarti at Assi Ghat
 - **Temple Circuit (08:30–12:00)**: Kashi Vishwanath, Annapurna, Sankat Mochan (avoid midday heat)
 - **Lunch & Rest (12:30–14:00)**: Essential; Varanasi's intensity requires midday pause
@@ -185,8 +181,6 @@ We design route + quote accordingly.
 - **Malaiyyo**: Seasonal (Dec–Jan); driver coordinates fresh batch
 
 ## How to Book Full-Day Varanasi Sightseeing Tour: Simple 5-Step Process
-
-*For **ganga aarti taxi booking** as standalone service or part of full-day tour, WhatsApp +91-9450301573 with timing preferences.*
 
 1. **Select Package or Request Custom**: Share group size, interests, must-see sites
 2. **Choose Vehicle**: Sedan (1–4 pax) / Innova (5–6 pax) / Tempo Traveller (7–12 pax)

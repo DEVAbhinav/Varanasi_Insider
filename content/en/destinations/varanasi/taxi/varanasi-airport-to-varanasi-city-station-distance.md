@@ -37,8 +37,6 @@ faqSchema:
 
 **The distance from Varanasi Airport (VNS) to Varanasi City Station (BCY) is 21 km via Ring Road and Chaukhamba Road, and the drive typically takes 35–45 minutes in normal traffic.**
 
-*The varanasi airport to kashi distance query often maps here—BCY is the closest station to Kashi's ghats and temples.*
-
 | Key fact | Detail |
 | --- | --- |
 | Distance | 21 km |

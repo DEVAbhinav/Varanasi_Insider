@@ -26,7 +26,6 @@ keywords:
   - "half day varanasi tour"
   - "full day varanasi sightseeing"
   - "varanasi package tour price"
-  - "varanasi local sightseeing taxi"
 tags:
   - varanasi
   - sightseeing package
@@ -56,7 +55,7 @@ faqSchema:
   - question: "Which places are covered in Varanasi local sightseeing?"
     answer: "Half-day packages cover Kashi Vishwanath Temple, Annapurna Temple, BHU New Vishwanath Temple, Durga Temple, and ghats. Full-day packages additionally include Sarnath (Dhamek Stupa, museum), Ramnagar Fort, and complete ghat tour."
   - question: "How to book Varanasi local sightseeing package?"
-    answer: "Book via WhatsApp +91 9450301573 or call directly. For instant taxi booking in varanasi sightseeing service, provide travel dates, number of passengers, preferred vehicle type, and itinerary. 20-30% advance payment secures booking. Balance payable to driver after completion."
+    answer: "Book via WhatsApp +91 9450301573 or call directly. Provide travel dates, number of passengers, preferred vehicle type, and itinerary. 20-30% advance payment secures booking. Balance payable to driver after completion."
   - question: "What is the best time for Varanasi sightseeing package?"
     answer: "October to March is ideal with pleasant weather (10-25°C). Start early at 6:00 AM for sunrise boat rides and temple darshan before crowds. Evening packages (3:00 PM onwards) include Ganga Aarti at Dashashwamedh Ghat."
   - question: "Do you provide tour guide with sightseeing package?"
@@ -72,8 +71,6 @@ faqSchema:
 > **TL;DR:** Varanasi local sightseeing packages start at ₹1,800 for half-day sedan tours (temples + ghats) and ₹2,200-3,500 for full-day packages including Sarnath. Choose from pre-designed itineraries or customize your own. All packages include AC vehicle, driver, fuel, and parking. Book via WhatsApp +91 9450301573 for instant confirmation.
 
 Planning to explore Varanasi's spiritual heritage without the hassle of navigating crowded streets, haggling with auto-drivers, or coordinating multiple vehicles? Our **Varanasi local sightseeing packages** offer the perfect solution—comfortable, transparent, and customizable tours that cover all major attractions in the holy city.
-
-*Book a **varanasi local sightseeing cab** with experienced drivers for half-day temple tours (₹1,800) or full-day packages with Sarnath (₹2,200-3,500). Our varanasi local sightseeing taxi service offers sedan, SUV, and tempo traveller options.*
 
 Whether you have just 4 hours or want a comprehensive full-day experience, we provide sedan, SUV, and tempo traveller options with experienced local drivers who know every temple lane and hidden ghat.
 

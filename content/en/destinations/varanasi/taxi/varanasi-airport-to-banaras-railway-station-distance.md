@@ -13,7 +13,6 @@ keywords:
   - "vns to manduadih taxi fare"
   - "banaras station airport pickup"
   - "best route vns to bsbs"
-  - "varanasi airport to varanasi railway station"
 tags:
   - taxi
   - varanasi airport
@@ -71,8 +70,6 @@ faqSchema:
 }
 </script>
 # Varanasi Airport to Banaras Station Taxi ₹690 Flash | 27km, 45min Direct Drop
-
-_Looking for varanasi airport to varanasi railway station transfers? Pre-book now for guaranteed platform drops._
 
 **The distance from Varanasi Airport (VNS) to Banaras Railway Station (BSBS/Manduadih) is 27 km via Ring Road and Manduadih Road, and the drive typically takes 45–60 minutes in normal traffic.**
 
