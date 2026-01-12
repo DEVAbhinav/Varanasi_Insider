@@ -13,6 +13,9 @@ relatedPosts:
   - tempo-traveller-rates-varanasi
   - kashi-darshan-tempo-traveller
   - varanasi-airport-tempo-traveller
+  - varanasi-to-ayodhya-12-seater-tempo-traveller
+  - 12-seater-tempo-traveller-varanasi
+  - 17-seater-tempo-traveller-varanasi
 translationStatus: human
 originalEnglishRef: /en/tempo-traveller-varanasi
 auditNote: "Manually created Hindi localized version."
@@ -139,6 +142,7 @@ auditNote: "Manually created Hindi localized version."
 - साइज़ तुलना गाइड: [/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi](/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
 - काशी दर्शन पैकेज: [/hi/kashi-darshan-tempo-traveller](/hi/kashi-darshan-tempo-traveller)
 - एयरपोर्ट ट्रांसफर: [/hi/varanasi-airport-tempo-traveller](/hi/varanasi-airport-tempo-traveller)
+- अयोध्या 12 सीटर: [/hi/varanasi-to-ayodhya-12-seater-tempo-traveller](/hi/varanasi-to-ayodhya-12-seater-tempo-traveller)
 - सुरक्षा / महिला टैक्सी: [/hi/services/varanasi-safest-taxi-for-women](/hi/services/varanasi-safest-taxi-for-women)
 
 ---

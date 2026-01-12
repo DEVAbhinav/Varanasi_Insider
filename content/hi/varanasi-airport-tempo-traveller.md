@@ -10,6 +10,20 @@ keywords: ["वाराणसी एयरपोर्ट टेम्पो �
 relatedPosts:
   - tempo-traveller-varanasi
   - tempo-traveller-rates-varanasi
+  - 12-seater-tempo-traveller-varanasi
+  - 17-seater-tempo-traveller-varanasi
+  - kashi-darshan-tempo-traveller
+faqSchema:
+  - question: "वाराणसी एयरपोर्ट से टेम्पो ट्रैवलर का किराया क्या है?"
+    answer: "वाराणसी एयरपोर्ट से शहर तक 12-सीटर टेम्पो ट्रैवलर का किराया ₹2,500 फिक्स है। इसमें ईंधन, पार्किंग, ड्राइवर भत्ता और एयरपोर्ट पार्किंग शामिल है।"
+  - question: "क्या फ्लाइट देरी होने पर अतिरिक्त चार्ज लगता है?"
+    answer: "नहीं, हम फ्लाइट ट्रैक करते हैं और सामान्य देरी पर कोई अतिरिक्त चार्ज नहीं लेते। ड्राइवर आगमन गेट पर नेम बोर्ड के साथ मिलता है।"
+  - question: "कितने यात्री और सामान फिट होता है?"
+    answer: "12-सीटर टेम्पो में 11 यात्री + ड्राइवर आराम से बैठ सकते हैं। पीछे 15-20 बैग आसानी से आ जाते हैं, बड़े सामान के लिए रूफ कैरियर भी उपलब्ध है।"
+  - question: "DDU/मुगलसराय स्टेशन से टेम्पो ट्रैवलर का किराया?"
+    answer: "DDU/मुगलसराय स्टेशन से शहर तक किराया लगभग ₹2,500 है (दूरी अधिक होने के कारण)। वाराणसी कैंट स्टेशन से ~₹1,800।"
+  - question: "क्या रात में भी सेवा उपलब्ध है?"
+    answer: "हाँ, 24×7 सेवा उपलब्ध है। लेट नाइट फ्लाइट के लिए भी सामान्यतः अतिरिक्त नाइट चार्ज नहीं लगता।"
 originalEnglishRef: /en/varanasi-airport-tempo-traveller
 translationStatus: human
 auditNote: "Simplified Hindi – user intent: quick price + trust."
