@@ -1,4 +1,5 @@
 import React from 'react';
+import TrustBadge from '../TrustBadge/TrustBadge';
 import { Plane, Clock, Car, Users, Phone, MessageCircle } from 'lucide-react';
 
 /**
@@ -208,7 +209,12 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                         </div>
                     )}
 
-                    {/* Trust badge */}
+                    {/* Trust Badge - Friction Reduction */}
+                    {showCTA && (
+                        <TrustBadge variant="compact" className="mt-4" />
+                    )}
+
+                    {/* Powered by badge */}
                     <p className="mt-4 text-xs text-gray-400">
                         📊 Powered by <span className="font-medium text-gray-500">Kashitaxi Research</span> •
                         2000+ trips completed

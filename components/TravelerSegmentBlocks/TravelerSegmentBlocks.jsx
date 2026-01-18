@@ -1,5 +1,6 @@
 import React from 'react';
 import { Users, Heart, Globe, MessageCircle, Baby, Shield, MapPin, Clock, Car, Languages } from 'lucide-react';
+import TrustBadge from '../TrustBadge/TrustBadge';
 
 /**
  * TravelerSegmentBlocks - Persona-targeted value proposition blocks
@@ -129,10 +130,8 @@ export default function TravelerSegmentBlocks({ phone = '919935474730' }) {
                                 {segment.ctaLabel}
                             </a>
 
-                            {/* Pre-filled message hint */}
-                            <p className="mt-3 text-xs text-gray-500 text-center italic">
-                                Say: "{segment.ctaMessage}"
-                            </p>
+                            {/* Trust Badge - Friction Reduction */}
+                            <TrustBadge variant="inline" className="mt-3" />
                         </div>
                     ))}
                 </div>
