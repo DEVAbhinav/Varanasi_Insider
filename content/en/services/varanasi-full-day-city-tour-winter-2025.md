@@ -15,6 +15,7 @@ serviceCategory: "City Sightseeing"
 structuredData: true
 published: true
 showRatesCheatSheet: true
+showSegmentBlocks: true
 date: "2025-10-02"
 lastUpdated: "2025-10-02"
 ---

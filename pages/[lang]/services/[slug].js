@@ -13,6 +13,11 @@ const TaxiRatesCheatSheet = dynamic(() => import('../../../components/TaxiRatesC
   ssr: false,
 });
 
+const TravelerSegmentBlocks = dynamic(() => import('../../../components/TravelerSegmentBlocks/TravelerSegmentBlocks'), {
+  loading: () => <div className="h-64 w-full animate-pulse bg-gray-50 my-8" />,
+  ssr: false,
+});
+
 export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, pageSlug, alternateLanguages = [] }) {
   // Split content logic for injection
   const { part1, part2 } = (() => {
@@ -58,6 +63,11 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
           heroImage={postData.featuredImage || postData.heroImage}
           phone={postData.phone}
         />
+
+        {/* Traveler Segment Blocks - Target persona value props */}
+        {postData.showSegmentBlocks && (
+          <TravelerSegmentBlocks phone={postData.phone || '919935474730'} />
+        )}
 
         {/* Service Content Part 1 */}
         {part1 && (
