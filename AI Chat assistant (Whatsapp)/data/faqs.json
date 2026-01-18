@@ -1,0 +1,286 @@
+{
+    "faqs": [
+        {
+            "id": "faq_booking_001",
+            "category": "booking",
+            "question_hi": "बुकिंग कैसे करें?",
+            "question_en": "How do I book?",
+            "answer_hi": "बुकिंग के लिए:\n• WhatsApp: +91 99354 74730\n• Call: +91 94503 01573\n• 30% एडवांस (UPI) से बुकिंग कन्फर्म करें",
+            "answer_en": "To book:\n• WhatsApp: +91 99354 74730\n• Call: +91 94503 01573\n• Confirm with 30% advance (UPI)",
+            "keywords": [
+                "book",
+                "booking",
+                "reserve",
+                "बुकिंग",
+                "कैसे",
+                "how"
+            ]
+        },
+        {
+            "id": "faq_booking_002",
+            "category": "booking",
+            "question_hi": "कितना एडवांस देना होता है?",
+            "question_en": "How much advance payment is required?",
+            "answer_hi": "• Normal booking: 30% एडवांस\n• Festival (Dev Deepawali, Shivaratri): 50% एडवांस\n• UPI/Card से पेमेंट करें",
+            "answer_en": "• Normal booking: 30% advance\n• Festival (Dev Deepawali, Shivaratri): 50% advance\n• Pay via UPI/Card",
+            "keywords": [
+                "advance",
+                "payment",
+                "deposit",
+                "एडवांस",
+                "पेमेंट"
+            ]
+        },
+        {
+            "id": "faq_booking_003",
+            "category": "booking",
+            "question_hi": "कैंसिलेशन पॉलिसी क्या है?",
+            "question_en": "What is the cancellation policy?",
+            "answer_hi": "• 72+ घंटे पहले: फुल रिफंड (₹1000 एडमिन चार्ज माइनस)\n• 48 घंटे पहले: 50% रिफंड\n• 24 घंटे से कम: नो रिफंड (मेडिकल प्रूफ पर छूट)",
+            "answer_en": "• 72+ hours before: Full refund (minus ₹1000 admin)\n• 48 hours before: 50% refund\n• Less than 24 hours: No refund (medical proof considered)",
+            "keywords": [
+                "cancel",
+                "refund",
+                "cancellation",
+                "कैंसिल",
+                "रिफंड"
+            ]
+        },
+        {
+            "id": "faq_pricing_001",
+            "category": "pricing",
+            "question_hi": "एयरपोर्ट से घाट तक कितना चार्ज?",
+            "question_en": "What's the fare from airport to ghats?",
+            "answer_hi": "एयरपोर्ट से घाट तक:\n• Sedan: ₹600-₹800\n• Innova: ₹1,000-₹1,200\n• Tempo (12-seater): ₹2,500\n• Night charge (10PM-5AM): +₹150-300",
+            "answer_en": "Airport to ghats:\n• Sedan: ₹600-₹800\n• Innova: ₹1,000-₹1,200\n• Tempo (12-seater): ₹2,500\n• Night charge (10PM-5AM): +₹150-300",
+            "keywords": [
+                "airport",
+                "ghat",
+                "fare",
+                "charge",
+                "एयरपोर्ट",
+                "घाट",
+                "किराया"
+            ]
+        },
+        {
+            "id": "faq_pricing_002",
+            "category": "pricing",
+            "question_hi": "टेम्पो ट्रैवलर का रेट क्या है?",
+            "question_en": "What are tempo traveller rates?",
+            "answer_hi": "Tempo Traveller Rates:\n• 12-seater: Airport ₹2,500 | Local Day ₹5,500\n• 17-seater: Airport ₹3,000 | Local Day ₹6,500\n• Outstation: ₹25-27/km (min 250km/day)",
+            "answer_en": "Tempo Traveller Rates:\n• 12-seater: Airport ₹2,500 | Local Day ₹5,500\n• 17-seater: Airport ₹3,000 | Local Day ₹6,500\n• Outstation: ₹25-27/km (min 250km/day)",
+            "keywords": [
+                "tempo",
+                "rate",
+                "price",
+                "traveller",
+                "टेम्पो",
+                "रेट"
+            ]
+        },
+        {
+            "id": "faq_pricing_003",
+            "category": "pricing",
+            "question_hi": "अयोध्या जाने का किराया?",
+            "question_en": "What's the fare to Ayodhya?",
+            "answer_hi": "Varanasi ↔ Ayodhya (219 km):\n• Sedan one-way: ₹2,500\n• Sedan same-day return: ₹5,000\n• 12-seater Tempo: ₹14,500\n• 17-seater Tempo: ₹15,500",
+            "answer_en": "Varanasi ↔ Ayodhya (219 km):\n• Sedan one-way: ₹2,500\n• Sedan same-day return: ₹5,000\n• 12-seater Tempo: ₹14,500\n• 17-seater Tempo: ₹15,500",
+            "keywords": [
+                "ayodhya",
+                "अयोध्या",
+                "fare",
+                "किराया",
+                "ram mandir"
+            ]
+        },
+        {
+            "id": "faq_services_001",
+            "category": "services",
+            "question_hi": "गंगा आरती का टाइम क्या है?",
+            "question_en": "What is Ganga Aarti timing?",
+            "answer_hi": "दशाश्वमेध घाट गंगा आरती:\n• शाम 6:30 बजे (गर्मी)\n• शाम 6:00 बजे (सर्दी)\n• रोज़ाना, कभी skip नहीं होती\n• Boat से देखना best है (₹300-500/person)",
+            "answer_en": "Dashashwamedh Ghat Ganga Aarti:\n• 6:30 PM (summer)\n• 6:00 PM (winter)\n• Daily, never cancelled\n• Best viewed from boat (₹300-500/person)",
+            "keywords": [
+                "aarti",
+                "ganga",
+                "timing",
+                "time",
+                "आरती",
+                "टाइम",
+                "समय"
+            ]
+        },
+        {
+            "id": "faq_services_002",
+            "category": "services",
+            "question_hi": "सुबह की बोट राइड कब होती है?",
+            "question_en": "When is the sunrise boat ride?",
+            "answer_hi": "Sunrise Boat Ride:\n• गर्मी: 5:00-5:30 AM\n• सर्दी: 5:30-6:00 AM\n• Shared boat: ₹150-300/person\n• Private motor boat: ₹3,999\n• 1 घंटे की राइड",
+            "answer_en": "Sunrise Boat Ride:\n• Summer: 5:00-5:30 AM\n• Winter: 5:30-6:00 AM\n• Shared boat: ₹150-300/person\n• Private motor boat: ₹3,999\n• 1-hour ride",
+            "keywords": [
+                "sunrise",
+                "boat",
+                "morning",
+                "सूर्योदय",
+                "नाव",
+                "सुबह"
+            ]
+        },
+        {
+            "id": "faq_services_003",
+            "category": "services",
+            "question_hi": "VIP दर्शन कैसे मिलता है?",
+            "question_en": "How to get VIP darshan?",
+            "answer_hi": "Kashi Vishwanath VIP Darshan:\n• ₹1,000 per person\n• 2 घंटे की लाइन skip\n• हम arrange कर देते हैं\n• ID ज़रूरी है",
+            "answer_en": "Kashi Vishwanath VIP Darshan:\n• ₹1,000 per person\n• Skip 2-hour queue\n• We arrange it for you\n• Valid ID required",
+            "keywords": [
+                "vip",
+                "darshan",
+                "queue",
+                "skip",
+                "दर्शन",
+                "लाइन"
+            ]
+        },
+        {
+            "id": "faq_services_004",
+            "category": "services",
+            "question_hi": "गाइड का चार्ज क्या है?",
+            "question_en": "What is the guide charge?",
+            "answer_hi": "Licensed Guide Charges:\n• Half Day (4 hrs): ₹700\n• Full Day (8 hrs): ₹1,200\n• Temple etiquette, history सब बताते हैं\n• Tourist traps से बचाते हैं",
+            "answer_en": "Licensed Guide Charges:\n• Half Day (4 hrs): ₹700\n• Full Day (8 hrs): ₹1,200\n• Temple etiquette, history included\n• Helps avoid tourist traps",
+            "keywords": [
+                "guide",
+                "charge",
+                "गाइड",
+                "चार्ज"
+            ]
+        },
+        {
+            "id": "faq_services_005",
+            "category": "services",
+            "question_hi": "फोटोग्राफर बुक कर सकते हैं?",
+            "question_en": "Can I book a photographer?",
+            "answer_hi": "Professional Photographer:\n• ₹800 for 2-3 hours\n• 50+ edited photos same day\n• Ghat, temple, sunrise सब cover\n• Instagram-ready quality",
+            "answer_en": "Professional Photographer:\n• ₹800 for 2-3 hours\n• 50+ edited photos same day\n• Covers ghats, temples, sunrise\n• Instagram-ready quality",
+            "keywords": [
+                "photographer",
+                "photo",
+                "फोटोग्राफर",
+                "फोटो"
+            ]
+        },
+        {
+            "id": "faq_timing_001",
+            "category": "timing",
+            "question_hi": "वाराणसी जाने का सबसे अच्छा समय?",
+            "question_en": "Best time to visit Varanasi?",
+            "answer_hi": "Best Time:\n• October-March (सर्दी) - सबसे अच्छा\n• November-February - Peak season\n• April-June - गर्मी, avoid\n• July-September - Monsoon, flooding possible",
+            "answer_en": "Best Time:\n• October-March (winter) - Best\n• November-February - Peak season\n• April-June - Hot, avoid\n• July-September - Monsoon, flooding possible",
+            "keywords": [
+                "best time",
+                "visit",
+                "कब जाएं",
+                "समय",
+                "season"
+            ]
+        },
+        {
+            "id": "faq_timing_002",
+            "category": "timing",
+            "question_hi": "देव दीपावली कब है?",
+            "question_en": "When is Dev Deepawali?",
+            "answer_hi": "Dev Deepawali 2025:\n• 15 November 2025\n• Kartik Purnima पर\n• Diwali के 15 दिन बाद\n• Millions of diyas on ghats\n• 60 दिन पहले बुक करें!",
+            "answer_en": "Dev Deepawali 2025:\n• November 15, 2025\n• On Kartik Purnima\n• 15 days after Diwali\n• Millions of diyas on ghats\n• Book 60 days in advance!",
+            "keywords": [
+                "dev deepawali",
+                "दीपावली",
+                "festival",
+                "त्योहार"
+            ]
+        },
+        {
+            "id": "faq_vehicles_001",
+            "category": "vehicles",
+            "question_hi": "कितने लोगों के लिए कौन सी गाड़ी?",
+            "question_en": "Which vehicle for how many people?",
+            "answer_hi": "Vehicle Guide:\n• 1-3 लोग: Sedan (Swift Dzire)\n• 4-5 लोग: Innova/Ertiga\n• 6-10 लोग: 12-seater Tempo\n• 11-17 लोग: 17-seater Tempo\n• 18-26 लोग: 26-seater Mini Bus",
+            "answer_en": "Vehicle Guide:\n• 1-3 people: Sedan (Swift Dzire)\n• 4-5 people: Innova/Ertiga\n• 6-10 people: 12-seater Tempo\n• 11-17 people: 17-seater Tempo\n• 18-26 people: 26-seater Mini Bus",
+            "keywords": [
+                "vehicle",
+                "people",
+                "कितने लोग",
+                "गाड़ी",
+                "tempo",
+                "sedan"
+            ]
+        },
+        {
+            "id": "faq_vehicles_002",
+            "category": "vehicles",
+            "question_hi": "Luxury Tempo क्या होता है?",
+            "question_en": "What is a Luxury Tempo?",
+            "answer_hi": "Luxury Options:\n• Force Urbania: Premium, quiet, 12-seater\n• Maharaja Tempo: 1x1 recliner seats, 9-seater\n• Features: LED lighting, USB charging, premium suspension\n• Rate: Airport ₹3,500 | Local ₹7,500",
+            "answer_en": "Luxury Options:\n• Force Urbania: Premium, quiet, 12-seater\n• Maharaja Tempo: 1x1 recliner seats, 9-seater\n• Features: LED lighting, USB charging, premium suspension\n• Rate: Airport ₹3,500 | Local ₹7,500",
+            "keywords": [
+                "luxury",
+                "urbania",
+                "maharaja",
+                "लक्ज़री"
+            ]
+        },
+        {
+            "id": "faq_safety_001",
+            "category": "safety",
+            "question_hi": "महिलाओं के लिए safe है?",
+            "question_en": "Is it safe for women travelers?",
+            "answer_hi": "Women Safety:\n• Varanasi generally safe\n• Pink Shield Taxi available (female drivers)\n• GPS tracking, SOS button\n• Night travel में driver verified\n• Solo women के लिए special packages",
+            "answer_en": "Women Safety:\n• Varanasi generally safe\n• Pink Shield Taxi available (female drivers)\n• GPS tracking, SOS button\n• Night drivers verified\n• Special packages for solo women",
+            "keywords": [
+                "women",
+                "safe",
+                "safety",
+                "महिला",
+                "सेफ"
+            ]
+        },
+        {
+            "id": "faq_contact_001",
+            "category": "contact",
+            "question_hi": "कॉन्टैक्ट नंबर क्या है?",
+            "question_en": "What is the contact number?",
+            "answer_hi": "Kashi Taxi Contact:\n📞 Sales: +91 94503 01573 (24/7)\n📞 Groups: +91 99354 74730\n📧 Email: bookings@kashitaxi.in\n🌐 Website: www.kashitaxi.in",
+            "answer_en": "Kashi Taxi Contact:\n📞 Sales: +91 94503 01573 (24/7)\n📞 Groups: +91 99354 74730\n📧 Email: bookings@kashitaxi.in\n🌐 Website: www.kashitaxi.in",
+            "keywords": [
+                "contact",
+                "phone",
+                "number",
+                "कॉन्टैक्ट",
+                "नंबर",
+                "फोन"
+            ]
+        }
+    ],
+    "quick_replies": {
+        "greeting": [
+            "Tempo booking",
+            "Taxi booking",
+            "Boat ride",
+            "Ayodhya trip",
+            "Price check"
+        ],
+        "after_price_quote": [
+            "Book now",
+            "Need cheaper option",
+            "More details",
+            "Call me"
+        ],
+        "after_booking": [
+            "Add VIP darshan",
+            "Add guide",
+            "Add photographer",
+            "Confirm as is"
+        ]
+    }
+}

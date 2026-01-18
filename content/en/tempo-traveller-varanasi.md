@@ -4,6 +4,7 @@ title: "Tempo Traveller Varanasi: Rates & Booking [2025]"
 description: "Hire a Tempo Traveller in Varanasi (9–26 seater). Kashi Darshan, outstation, weddings and airport transfers. Transparent 2025 rates and clean AC fleet."
 date: 2025-08-27
 tags: [tempo traveller, varanasi, tempo traveller hire, tempo traveller booking, tempo traveller rates, kashi darshan, airport transfer, 12 seater, 17 seater]
+showRatesCheatSheet: true
 slug: tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/tempo-traveller-varanasi
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg

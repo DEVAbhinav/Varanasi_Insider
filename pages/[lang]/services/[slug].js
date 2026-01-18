@@ -6,8 +6,32 @@ import ServiceHero from '../../../components/ServicePage/ServiceHero';
 import ServiceContent from '../../../components/ServicePage/ServiceContent';
 import StickyContactBar from '../../../components/ServicePage/StickyContactBar';
 import CTASection from '../../../components/CTA/CTASection';
+import dynamic from 'next/dynamic';
+
+const TaxiRatesCheatSheet = dynamic(() => import('../../../components/TaxiRatesCheatSheet/TaxiRatesCheatSheet'), {
+  loading: () => <div className="h-96 w-full animate-pulse bg-gray-100 container mx-auto rounded-xl my-8" />,
+  ssr: false,
+});
 
 export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, pageSlug, alternateLanguages = [] }) {
+  // Split content logic for injection
+  const { part1, part2 } = (() => {
+    const html = postData.contentHtml || '';
+    if (postData.showRatesCheatSheet === false || !html) return { part1: html, part2: null };
+
+    // Try to split after 2nd paragraph for better flow, fallback to 1st
+    const firstP = html.indexOf('</p>');
+    if (firstP === -1) return { part1: html, part2: null };
+
+    const secondP = html.indexOf('</p>', firstP + 4);
+    const splitIndex = (secondP !== -1) ? secondP + 4 : firstP + 4;
+
+    return {
+      part1: html.substring(0, splitIndex),
+      part2: html.substring(splitIndex)
+    };
+  })();
+
   return (
     <>
       {/* SEO Head */}
@@ -35,12 +59,28 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
           phone={postData.phone}
         />
 
-        {/* Service Content */}
-        <ServiceContent
-          contentHtml={postData.contentHtml}
-          pageTitle={postData.title}
-          pageUrl={`/${pageLang}/services/${pageSlug}`}
-        />
+        {/* Service Content Part 1 */}
+        {part1 && (
+          <ServiceContent
+            contentHtml={part1}
+            pageTitle={postData.title}
+            pageUrl={`/${pageLang}/services/${pageSlug}`}
+          />
+        )}
+
+        {/* Injected Rates Cheat Sheet */}
+        {(postData.showRatesCheatSheet !== false) && part2 && (
+          <TaxiRatesCheatSheet variant="compact" showCTA={true} />
+        )}
+
+        {/* Service Content Part 2 */}
+        {part2 && (
+          <ServiceContent
+            contentHtml={part2}
+            pageTitle={postData.title}
+            pageUrl={`/${pageLang}/services/${pageSlug}`}
+          />
+        )}
 
         {/* Modular Bottom CTA Bar */}
         {postData.phone && (

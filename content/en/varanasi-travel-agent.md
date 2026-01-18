@@ -5,6 +5,7 @@ date: "2025-10-26"
 lastUpdated: "2025-10-26"
 author: "Utkarsh Pandey"
 lang: en-IN
+
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg"
 metaTitle: "Varanasi Travel Agent — Kashi Taxi | Trusted Tour Operators"
 metaDescription: "Kashi Taxi — Trusted tour operators in Varanasi. Book local guides, airport transfers & custom packages with verified drivers. 24×7 support. Call +91 94503 01573"

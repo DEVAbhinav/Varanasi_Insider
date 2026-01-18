@@ -33,6 +33,11 @@ const CTASectionHome = dynamic(() => import('../components/CTASectionHome/CTASec
   ssr: false,
 });
 
+const TaxiRatesCheatSheet = dynamic(() => import('../components/TaxiRatesCheatSheet/TaxiRatesCheatSheet'), {
+  loading: () => <SectionSkeleton title="Taxi Rates" />,
+  ssr: false,
+});
+
 export default function HomePage({ allPosts }) {
   const SITE = 'https://www.kashitaxi.in';
   const structuredData = getHomeSchema(SITE);
@@ -445,13 +450,16 @@ export default function HomePage({ allPosts }) {
           </div>
         </div>
 
-        {/* Wave Separator - Popular Packages to Services (white) */}
+        {/* Wave Separator - Popular Packages to Rates (white) */}
         <div className="absolute bottom-0 left-0 right-0 -mb-1">
           <svg viewBox="0 0 1200 120" preserveAspectRatio="none" className="w-full h-16 md:h-24">
-            <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#ffffff"></path>
+            <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#ecfeff"></path>
           </svg>
         </div>
       </section>
+
+      {/* Taxi Rates Cheat Sheet - Scannable Pricing Block */}
+      <TaxiRatesCheatSheet variant="full" showCTA={true} />
 
       {/* Services Section - White to Light Teal */}
       <section className="relative py-16 bg-gradient-to-b from-white to-cyan-50 overflow-hidden">
@@ -592,7 +600,7 @@ export default function HomePage({ allPosts }) {
             </h2>
             <p className="text-gray-600">Everything you need to know about booking a taxi in Varanasi</p>
           </div>
-          
+
           <div className="space-y-4">
             <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
               <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
@@ -603,7 +611,7 @@ export default function HomePage({ allPosts }) {
                 <p>Taxi rates in Varanasi start from <strong>₹12/km for sedans</strong> and <strong>₹18/km for SUVs</strong>. Airport pickup costs ₹800-950 (fixed), local full-day tours from ₹2,500, and tempo traveller hire from ₹4,500/day. We offer transparent pricing with no hidden charges.</p>
               </div>
             </details>
-            
+
             <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
               <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
                 <span>Which is the best taxi service in Varanasi?</span>
@@ -613,7 +621,7 @@ export default function HomePage({ allPosts }) {
                 <p>Vinayak Travels (KashiTaxi) is rated among the <strong>best taxi services in Varanasi</strong> with 4.8★ Google rating from 150+ reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.</p>
               </div>
             </details>
-            
+
             <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
               <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
                 <span>Is Ola/Uber available in Varanasi?</span>
@@ -623,7 +631,7 @@ export default function HomePage({ allPosts }) {
                 <p>Ola and Uber have <strong>limited availability in Varanasi</strong>, especially in old city areas near ghats. Local taxi services like ours provide better coverage, fixed rates, and drivers familiar with narrow ghat lanes and temple routes where app-based cabs often refuse trips.</p>
               </div>
             </details>
-            
+
             <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
               <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
                 <span>Can I book a taxi from Varanasi airport?</span>
@@ -633,7 +641,7 @@ export default function HomePage({ allPosts }) {
                 <p>Yes! We provide <strong>prepaid Varanasi airport taxi</strong> with meet-and-greet service. Our driver waits at arrivals with a name board. Fixed fare: ₹800 (sedan) to ₹950 (SUV) for city center. Flight tracking included – no waiting charges for delayed flights.</p>
               </div>
             </details>
-            
+
             <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
               <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
                 <span>Do you provide taxi for outstation from Varanasi?</span>
@@ -643,7 +651,7 @@ export default function HomePage({ allPosts }) {
                 <p>Yes, we offer <strong>outstation taxi from Varanasi</strong> to Prayagraj (₹3,500), Ayodhya (₹5,500), Bodhgaya (₹5,000), Vindhyachal (₹4,000), and all major pilgrimage destinations. One-way and roundtrip options available with driver allowance included.</p>
               </div>
             </details>
-            
+
             <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
               <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
                 <span>How to book taxi in Varanasi online?</span>

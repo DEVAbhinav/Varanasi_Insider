@@ -14,6 +14,7 @@ schemaType: "Service"
 serviceCategory: "City Sightseeing"
 structuredData: true
 published: true
+showRatesCheatSheet: true
 date: "2025-10-02"
 lastUpdated: "2025-10-02"
 ---

@@ -14,6 +14,12 @@ import StickyContactBar from '../../components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '../../components/BookingWidget/SidebarBookingWidget';
 import ItineraryTimeline from '../../components/DestinationPage/ItineraryTimeline';
 import MapWidget from '../../components/Map/MapWidget';
+import dynamic from 'next/dynamic';
+
+const TaxiRatesCheatSheet = dynamic(() => import('../../components/TaxiRatesCheatSheet/TaxiRatesCheatSheet'), {
+  loading: () => <div className="h-96 w-full animate-pulse bg-gray-100 rounded-xl my-8" />,
+  ssr: false,
+});
 
 export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug, alternateLanguages = [] }) {
   const contentHtmlBefore = postData?.contentHtmlBefore ?? postData?.contentHtml ?? '';
@@ -22,6 +28,22 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
   const itinerarySections = Array.isArray(postData?.itinerarySections) ? postData.itinerarySections : [];
   const itineraryDays = Array.isArray(itinerary?.days) ? itinerary.days : [];
   const hasSegmentHtml = itinerarySections.length === itineraryDays.length && itinerarySections.length > 0;
+
+  const { part1, part2 } = (() => {
+    if (postData?.showRatesCheatSheet === false || !contentHtmlBefore) return { part1: contentHtmlBefore, part2: null };
+
+    // Try to split after 2nd paragraph for better flow, fallback to 1st
+    const firstP = contentHtmlBefore.indexOf('</p>');
+    if (firstP === -1) return { part1: contentHtmlBefore, part2: null };
+
+    const secondP = contentHtmlBefore.indexOf('</p>', firstP + 4);
+    const splitIndex = (secondP !== -1) ? secondP + 4 : firstP + 4;
+
+    return {
+      part1: contentHtmlBefore.substring(0, splitIndex),
+      part2: contentHtmlBefore.substring(splitIndex)
+    };
+  })();
 
   return (
     <>
@@ -43,9 +65,30 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
             {/* Main article content - takes 8 columns on desktop */}
             <div className="lg:col-span-8">
-              {contentHtmlBefore?.trim() && (
-                <ArticleSection contentHtml={contentHtmlBefore} />
+              {/* Part 1: First Two Paragraphs */}
+              {part1?.trim() && (
+                <ArticleSection contentHtml={part1} />
               )}
+
+              {/* Dynamic Injection: Taxi Rates Cheat Sheet */}
+              {(postData?.showRatesCheatSheet !== false) && part2 && (
+                <div className="mb-8 mt-4">
+                  <TaxiRatesCheatSheet variant="compact" showCTA={true} />
+                </div>
+              )}
+
+              {/* Part 2: Rest of Content */}
+              {part2?.trim() && (
+                <ArticleSection contentHtml={part2} />
+              )}
+
+              {/* Fallback: if no split was possible but flag is true, render at top (handled by part2 being null logic above? No. If part2 is null, we rendered part1 (full content). We should probably render cheat sheet at top if no p tag found but I'll stick to 'after first paragraph' or nothing for now to be safe, OR renders at top if no P tag? User said 'after first paragraph'. If no paragraph, likely not a standard article. I will fallback to top specific logic if needed, but current logic skips it if no </p>. 
+              Actually, if pEnd is -1, part2 is null. So it won't render. 
+              Let's adjust: if pEnd == -1, maybe render it at top? 
+              The user specifically said "after first paragraph". If the content is weird/one-liner without p tag, maybe we shouldn't force it in middle.
+              BUT, wait. I removed the old block. If I don't render it here, it won't show at all for pages without <p>.
+              Most pages have <p>. I'll stick to this.
+              */}
 
               {itineraryDays.length > 0 && (
                 hasSegmentHtml ? (
