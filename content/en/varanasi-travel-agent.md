@@ -538,6 +538,7 @@ Customizable itineraries available.
 - **[Tour Packages from Varanasi](/en/tour-package-from-varanasi)** — Multi-day packages
 - **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** — Daily tour pricing
 - **[Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)** — Group tours
+- **[Varanasi with Friends Itinerary](/en/varanasi-with-friends-plan)** — 3-4 day plan for groups
 
 **Outstation Taxi from Varanasi:**
 - **[Varanasi to Prayagraj](/en/varanasi-to-prayagraj)** — 130 km pilgrimage

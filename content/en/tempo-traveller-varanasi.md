@@ -117,6 +117,8 @@ Phone, WhatsApp, and email support before and during the trip for complete peace
 
 Multiple small vehicles fragment the experience and waste time. A single Tempo Traveller keeps everyone together, turning transit into shared moments between darshans.
 
+> **Planning a trip with friends?** Check out our dedicated guide: **[Varanasi with Friends: Itinerary & Tips](/en/varanasi-with-friends-plan)**
+
 ## Get a Free, No‑Obligation Quote
 
 Use our quick form or contact us directly.
