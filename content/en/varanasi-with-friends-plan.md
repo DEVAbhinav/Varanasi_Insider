@@ -69,7 +69,7 @@ If you have 4+ days, you can go slower. Use the 3-day plan as your base and add:
 
 ## Affordable Hostel for Group of Friends in Varanasi
 
-![Affordable hostel for group of friends in Varanasi infographic](/images/infographics/varanasi-friends-hostel-guide.jpg)
+![Affordable hostel for group of friends in Varanasi infographic](/images/infographics/friends-hostel.jpg)
 
 An affordable hostel is usually better than multiple cheap hotels: you get social common areas, game nights, and flexible check‑in/out.
 
