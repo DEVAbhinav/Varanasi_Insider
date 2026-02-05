@@ -40,8 +40,12 @@ relatedPosts:
   - varanasi-to-ayodhya
   - outstation-cabs-from-varanasi
   - varanasi-sightseeing-complete-guide
-  - tour-package-from-varanasi
-  - contact
+  - "varanasi-sightseeing-complete-guide"
+  - "tour-package-from-varanasi"
+  - "family-tour-varanasi-3-days-parents"
+  - "varanasi-with-friends-plan"
+  - "varanasi-group-tour-package"
+  - "contact"
 faqSchema:
   - question: "Are you a licensed Varanasi travel agent?"
     answer: "Yes, Kashi Taxi operates as Vinayak Travels Tour (Regd.), a licensed travel agency in Varanasi since 1998. We are a GSTIN-registered business with verified vehicles and police-verified drivers. Our office is located at Shastri Nagar, Sigra, Varanasi."
@@ -435,9 +439,9 @@ As **tour operators in Varanasi**, we provide comprehensive services including:
 - Local sightseeing tours
 - Tempo traveller hire (12-17 seaters)
 - Outstation cabs to Ayodhya, Prayagraj, Bodhgaya
-- Custom multi-day tour packages
+- Custom multi-day tour packages (including [Family Tours](/en/family-tour-varanasi-3-days-parents) & [Group Packages](/en/varanasi-group-tour-package))
 - Pink Taxi for women travelers
-- Self-drive scooter/bike rentals
+- Self-drive scooter/bike rentals for [Friends Trips](/en/varanasi-with-friends-plan)
 
 ### How do I book a tour and travels in Varanasi with Kashi Taxi?
 
@@ -539,6 +543,8 @@ Customizable itineraries available.
 - **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** — Daily tour pricing
 - **[Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)** — Group tours
 - **[Varanasi with Friends Itinerary](/en/varanasi-with-friends-plan)** — 3-4 day plan for groups
+- **[Family Tour Itinerary](/en/family-tour-varanasi-3-days-parents)** — For elderly parents & kids
+- **[Group Tour Package](/en/varanasi-group-tour-package)** — For pilgrims & large groups
 
 **Outstation Taxi from Varanasi:**
 - **[Varanasi to Prayagraj](/en/varanasi-to-prayagraj)** — 130 km pilgrimage

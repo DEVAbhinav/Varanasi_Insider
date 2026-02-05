@@ -171,4 +171,6 @@ Safe travels—and if you need wheels at any hour, remember **www.kashitaxi.in**
 *   **Lucknow → Varanasi Taxi** → [Lucknow to Varanasi Taxi Fare Guide](/en/lucknow-to-varanasi-taxi-fare)
 *   **Varanasi Day Tour** → [Varanasi Day Tour Cab Charges Guide](/en/varanasi-day-tour-cab-charges)
 *   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-distance)
+*   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-distance)
 *   **Varanasi → Bodhgaya** → [Varanasi to Bodhgaya Taxi Cost Guide](/en/varanasi-to-bodhgaya-taxi-cost)
+*   **Group Tours** → [Varanasi Group Tour Package](/en/varanasi-group-tour-package)

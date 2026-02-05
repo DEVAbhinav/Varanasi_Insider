@@ -599,6 +599,7 @@ Unlike any other temple in India, **Bharat Mata Temple** is dedicated to Mother 
 **Best Time to Visit**: 11:00 AM - 4:00 PM. The fort looks stunning during the Dussehra festival when the famous **Ramnagar Ramlila** (month-long theatrical performance of the Ramayana) takes place.
 
 > Festival guides: **[Ultimate Guide Ramlila Dussehra Varanasi 2025](/en/ultimate-guide-ramlila-dussehra-varanasi-2025)**, **[Ramnagar Ramlila Moving Stages Guide](/en/ramnagar-ramlila-moving-stages-guide)**, **[Ram Rajya Finale Ramnagar Ramlila](/en/ram-rajya-finale-ramnagar-ramlila-oct-7)**, **[Dussehra Ravana Dahan Varanasi](/en/dussehra-ravana-dahan-varanasi-oct-2)**, and **[Bharat Milap Nati Imli](/en/bharat-milap-nati-imli-oct-3)** for festival-specific transport.
+> **Specialized Itineraries:** Traveling with a group? Check our **[Varanasi with Friends Guide](/en/varanasi-with-friends-plan)**. Bringing elderly parents? See our **[Family Tour Itinerary](/en/family-tour-varanasi-3-days-parents)**.
 
 ---
 
@@ -656,7 +657,7 @@ Yes, though rushed. A focused **Varanasi one day tour package** can cover key hi
 - **Boat Ride**: ₹800-1,500
 - **Total**: ₹5,500-9,000 per person (₹3,000-5,500 for budget option)
 
-> **Book Your Tour Package:** See our **[Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package)** for complete pricing, vehicle options, and instant booking. Also check: **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** and **[Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)** for group tours.
+> **Book Your Tour Package:** See our **[Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package)** for complete pricing, vehicle options, and instant booking. Also check: **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)**, **[Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)** for group tours, and our **[All-Inclusive Group Tour Package](/en/varanasi-group-tour-package)**.
 
 ### Two-Day Varanasi Itinerary with Sarnath
 

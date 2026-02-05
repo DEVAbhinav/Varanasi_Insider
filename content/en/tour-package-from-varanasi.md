@@ -18,6 +18,9 @@ relatedPosts:
   - varanasi-to-ayodhya-pilgrimage-guide
   - varanasi-to-prayagraj-pilgrimage-guide
   - varanasi-to-bodh-gaya-pilgrimage-guide
+  - family-tour-varanasi-3-days-parents
+  - varanasi-with-friends-plan
+  - varanasi-group-tour-package
 ---
 
 # Tour Packages from Varanasi: varanasi tour package & Multi-City Pilgrim Circuits
@@ -82,6 +85,7 @@ This package is for those who wish to perform ancestral rites in Gaya.
 - **Chitrakoot:** Add 1–2 days to your tour to visit the land where Lord Rama spent his exile.
 - **Mathura-Vrindavan:** We can arrange a longer 8–10-day UP pilgrimage tour package covering all major destinations.
 - **Janakpur (Nepal):** For the ultimate Ramayan circuit tour, we can extend your package to include Janakpur.
+- **Specialized Groups:** Check our guides for **[Family Tours (Parents & Kids)](/en/family-tour-varanasi-3-days-parents)**, **[Friends Trips](/en/varanasi-with-friends-plan)**, and **[Fixed-Price Group Packages](/en/varanasi-group-tour-package)**.
 
 ---
 
