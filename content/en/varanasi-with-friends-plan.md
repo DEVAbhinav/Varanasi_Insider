@@ -69,6 +69,8 @@ If you have 4+ days, you can go slower. Use the 3-day plan as your base and add:
 
 ## Affordable Hostel for Group of Friends in Varanasi
 
+![Affordable hostel for group of friends in Varanasi infographic](/images/infographics/varanasi-friends-hostel-guide.jpg)
+
 An affordable hostel is usually better than multiple cheap hotels: you get social common areas, game nights, and flexible check‑in/out.
 
 ### Best Areas for Hostels
@@ -108,6 +110,8 @@ Any honest guide will warn you about these. Here's how to avoid them:
 ---
 
 ## Group Boat Ride Cost in Varanasi
+
+![Group boat ride cost in Varanasi infographic](/images/infographics/varanasi-group-boat-cost.jpg)
 
 Costs depend on time (sunrise/aarti are premium), boat type, and season.
 
