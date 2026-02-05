@@ -1,17 +1,17 @@
 ---
-title: "Varanasi to Ayodhya Taxi: Same Day Temple Darshan from ₹2,500"
+title: "Varanasi to Ayodhya Taxi 2026: 4hr Drop @ ₹2,500 | Ram Mandir Guide"
 slug: "varanasi-to-ayodhya"
 date: "2025-08-07"
-lastUpdated: "2025-12-22"
+lastUpdated: "2026-02-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg"
-metaTitle: "Varanasi to Ayodhya: 200km, 4hr | Taxi ₹2,500 One-Way [2026]"
-metaDescription: "Varanasi to Ayodhya = 200km, 4 hours. Taxi ₹2,500 one-way, ₹4,500 return. Ram Mandir darshan + Saryu Aarti same day. Book: 9450301573"
-description: "Build your 2025 Kashi → Ayodhya pilgrimage with door-to-door taxi fares, darshan slot checklist, Prayagraj add-on, and Sarayu aarti hacks locals trust."
+metaTitle: "Varanasi to Ayodhya Taxi Fare 2026: ₹2500 Drop | Distance & Time"
+metaDescription: "Reach Ayodhya Ram Mandir from Varanasi in 4 hours. Taxi Fare ₹2,500. Same-day return & Saryu Aarti guide. Book safe drivers 2026."
+description: "Build your 2026 Kashi → Ayodhya pilgrimage with door-to-door taxi fares, darshan slot checklist, Prayagraj add-on, and Sarayu aarti hacks locals trust."
 keywords:
   - "varanasi to ayodhya tour package"
-  - "varanasi to ayodhya taxi fare 2025"
+  - "varanasi to ayodhya taxi fare 2026"
   - "kashi ayodhya prayagraj itinerary"
   - "ayodhya darshan plan from varanasi"
   - "varanasi to ayodhya distance and time"
@@ -102,7 +102,7 @@ This **Ayodhya Prayagraj Varanasi itinerary** is a popular choice for pilgrims.
 
 ---
 
-## Varanasi to Ayodhya Tour Package Prices for 2025
+## Varanasi to Ayodhya Tour Package Prices for 2026
 
 | Service / Tour Package | Sedan (₹) | SUV (₹) | Notes |
 |---------|-----------|---------|-------|

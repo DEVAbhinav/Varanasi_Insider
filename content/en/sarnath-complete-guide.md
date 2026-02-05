@@ -1,14 +1,14 @@
 ---
-title: "Sarnath Temple & Buddhist Pilgrimage Guide 2025: Ashoka Pillar, Stupa Timing"
+title: "Sarnath Temple Guide 2026: Timings, Entry Fee & Museum Ticket"
 slug: "sarnath-complete-guide"
 date: "2025-10-26"
-lastUpdated: "2025-10-27"
+lastUpdated: "2026-02-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png"
-metaTitle: "Sarnath Complete Guide: Buddha's Sacred Temple [2026]"
-metaDescription: "Explore Sarnath: where Buddha first taught dharma. Complete guide to temples, timings, best months to visit & how to get there from Varanasi."
-description: "Comprehensive Sarnath temple and Buddhist pilgrimage guide covering Ashoka Pillar Sarnath (original Ashok Stambh), Sarnath Buddhist temples, Dhamek Stupa timing, main attractions, archaeological museum, practical visitor information 2025."
+metaTitle: "Sarnath Visitor Guide 2026: Stupa Timings, Entry Ticket & Places"
+metaDescription: "Complete 2026 guide to Sarnath: Dhamek Stupa opening time (6 AM), Museum ticket price (₹5), and Ashoka Pillar location. Plan your Buddhist pilgrimage."
+description: "Comprehensive 2026 Sarnath temple guide covering Ashoka Pillar, Dhamek Stupa timing, entry fees, archaeological museum tickets, and visitor info."
 keywords:
   - "sarnath temple"
   - "sarnath buddhist temple"
@@ -60,7 +60,7 @@ faqSchema:
     answer: "Photography is allowed in Sarnath archaeological site outdoors including Dhamek Stupa, original Ashoka Pillar Sarnath, and gardens (₹25 camera fee). However, photography is NOT permitted inside Sarnath Museum galleries. You can photograph the museum exterior, Sarnath pillar shaft, and all outdoor archaeological ruins freely."
 ---
 
-# Sarnath Temple & Buddhist Pilgrimage Guide 2025: Ashoka Pillar, Stupa Timing & Main Attractions
+# Sarnath Temple Guide 2026: Timings, Entry Fee & Museum Ticket
 
 > **TL;DR:** Sarnath temple complex, 10 km from Varanasi, houses the iconic Dhamek Stupa (43.6m high) and original Ashoka Pillar Sarnath location where Buddha gave his first sermon in 528 BCE. Sarnath timing: Site 6 AM-6 PM daily; Museum 9 AM-5 PM (closed Fridays). Entry: ₹20-250 combo ticket. Must-see Sarnath attractions: Ashok Stambh with Lion Capital (India's emblem), Sarnath Buddhist temples (Mulagandha Kuti Vihar), Archaeological Museum. Taxi from Varanasi: ₹300-500 (30 mins). Best time for Sarnath visit: October-March.
 
@@ -656,7 +656,7 @@ Active and completed excavation areas reveal multiple layers of Sarnath's histor
 
 ---
 
-## Sarnath Entry Fees & Ticket Information (2025)
+## Sarnath Entry Fees & Ticket Information (2026)
 
 ### Archaeological Site Entry Fees
 
