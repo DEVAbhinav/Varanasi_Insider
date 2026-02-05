@@ -99,19 +99,12 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
                         {sectionHtml?.trim() && (
                           <ArticleSection contentHtml={sectionHtml} />
                         )}
-                        <ItineraryTimeline
-                          itinerary={itinerary}
-                          days={[day]}
-                          hideHeader={index !== 0}
-                          className="mt-2"
-                        />
+                        {/* Combined timeline visual removed based on user feedback */}
                       </div>
                     );
                   })
                 ) : (
-                  <div className="mt-8">
-                    <ItineraryTimeline itinerary={itinerary} />
-                  </div>
+                  {/* Combined timeline visual removed based on user feedback */ }
                 )
               )}
 
