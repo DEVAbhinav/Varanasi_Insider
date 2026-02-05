@@ -41,6 +41,9 @@
   border-radius: 0.75rem;
   box-shadow: 0 12px 30px rgba(15, 23, 42, 0.15);
   margin: 2rem 0;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 .tableWrapper {
   width: 100%;
