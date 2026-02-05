@@ -1,13 +1,13 @@
 ---
-title: "Malaiyo in Varanasi (2025): Best Places, Timings & Price Guide"
+title: "Malaiyo in Varanasi (2026): Best Places, Timings & Price Guide"
 slug: "malaiyo-varanasi-guide"
 date: "2025-11-20"
-lastUpdated: "2025-11-20"
+lastUpdated: "2026-02-05"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Malaiyo Varanasi [2026]: ₹50 | Sells Out by 11 AM (Winter Only)"
 metaDescription: "Taste Varanasi's famous winter dessert Malaiyo. Expert guide to best shops (Markandey), exact timings (until 11 AM), and price. Eat like a local."
-description: "Ultimate 2025 guide to Malaiyo in Varanasi – where to eat it, ideal timings, price ranges, and insider tips on pairing it with sunrise walks, yoga, or shopping sprees."
+description: "Ultimate 2026 guide to Malaiyo in Varanasi – where to eat it, ideal timings, price ranges, and insider tips on pairing it with sunrise walks, yoga, or shopping sprees."
 keywords:
   - "Malaiyo Varanasi"
   - "Varanasi winter food"

@@ -1,13 +1,13 @@
 ---
-title: "Dashashwamedh Ghat Boat Ride & Ganga Aarti: Complete 2025 Guide"
+title: "Dashashwamedh Ghat Boat Ride & Ganga Aarti: Complete 2026 Guide"
 slug: "dashashwamedh-ghat-boat-ride-ganga-aarti-guide"
 date: "2025-12-12"
-lastUpdated: "2025-12-12"
+lastUpdated: "2026-02-05"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Dashashwamedh Ghat Aarti + Boat Ride Guide (2025) | Best Viewpoints & Prices"
-metaDescription: "Complete 2025 Dashashwamedh Ghat guide: mythology, aarti step-by-step, seasonal timing, boat ride options & pricing, photography settings, safety, and nearby attractions."
-description: "Dashashwamedh Ghat boat ride and Ganga Aarti guide with mythology, history, boat logistics, best viewing angles, photography tips, safety, and itinerary combos for 2025."
+metaTitle: "Dashashwamedh Ghat Aarti + Boat Ride Guide (2026) | Best Viewpoints & Prices"
+metaDescription: "Complete 2026 Dashashwamedh Ghat guide: mythology, aarti step-by-step, seasonal timing, boat ride options & pricing, photography settings, safety, and nearby attractions."
+description: "Dashashwamedh Ghat boat ride and Ganga Aarti guide with mythology, history, boat logistics, best viewing angles, photography tips, safety, and itinerary combos for 2026."
 keywords:
   - "dashashwamedh ghat aarti"
   - "dasaswamedh ghat aarti"
@@ -86,7 +86,7 @@ While mythology is spiritual, history is practical. Understanding Dashashwamedh'
 
 **2021: Kashi Vishwanath Corridor opened**, connecting the ghat to the temple via a modern passageway. This was Prime Minister Narendra Modi's flagship Varanasi development project. It doubled foot traffic to Dashashwamedh.
 
-**Current Status (2025):** The ghat can safely accommodate 800+ people for the aarti ceremony, making it the largest public spiritual gathering in Varanasi.
+**Current Status (2026):** The ghat can safely accommodate 800+ people for the aarti ceremony, making it the largest public spiritual gathering in Varanasi.
 
 ---
 
@@ -182,7 +182,7 @@ Searching for "boat ride dashashwamedh ghat" or "evening boat ride varanasi aart
 | **Price** | ₹0–100 (optional donation) | ₹200–4,500 (depending on boat type) |
 | **Duration** | 45 min ceremony | 60–90 min (includes pre-arrival positioning) |
 
-### Boat Types & Pricing (December 2025)
+### Boat Types & Pricing (Year 2026)
 
 **Shared Motorboat (8–12 people)**
 - **Price:** ₹250–300 per person
@@ -374,7 +374,7 @@ If you book an extended boat tour (2–3 hours), many routes include Manikarnika
 
 ### Festival Bookings (Dev Deepawali)
 
-**Book 5–7 days in advance for Nov 5 (2025):**
+**Book 5–7 days in advance for Nov 24 (2026):**
 - Price premium: 3–6x multiplier (₹10,000–15,000 instead of ₹3,500–4,500)
 - Benefits: Guaranteed prime positioning, exclusive boat (not shared), extended ceremony viewing
 - Includes: Guide narration, light snacks, post-ceremony blessing coordination
@@ -421,5 +421,5 @@ The Dashashwamedh Ghat ceremony isn't just a tourist attraction—it's a 250-yea
 
 **Ready to book?** WhatsApp +91 94503 01573 with your date and preferences.
 
-**Updated:** December 2025
+**Updated:** February 2026
 **Maintained by:** Kashitaxi Boat Operations

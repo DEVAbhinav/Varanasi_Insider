@@ -1,19 +1,19 @@
 ---
-title: "Varanasi in January 2025: Weather, Temperature & Travel Guide"
+title: "Varanasi in January 2026: Weather, Temperature & Travel Guide"
 slug: "varanasi-in-january-2025"
 date: "2025-12-15"
-lastUpdated: "2025-12-15"
+lastUpdated: "2026-02-05"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Varanasi in January 2025: Complete Weather, Temperature & Travel Guide"
-metaDescription: "Plan your January 2025 Varanasi trip with our local guide covering weather (14-24°C), Makar Sankranti festival, what to wear, best activities, and 3-day itinerary."
-description: "Complete January 2025 Varanasi travel guide featuring weather details, Makar Sankranti festival guide, packing tips, best activities, and a perfect 3-day itinerary."
+metaTitle: "Varanasi in January 2026: Complete Weather, Temperature & Travel Guide"
+metaDescription: "Plan your January 2026 Varanasi trip with our local guide covering weather (14-24°C), Makar Sankranti festival, what to wear, best activities, and 3-day itinerary."
+description: "Complete January 2026 Varanasi travel guide featuring weather details, Makar Sankranti festival guide, packing tips, best activities, and a perfect 3-day itinerary."
 excerpt: "January is THE best month to visit Varanasi. Discover why perfect weather, Makar Sankranti festival, and magical morning fog make it superior to any other month."
 keywords:
-  - "Varanasi January 2025"
+  - "Varanasi January 2026"
   - "Varanasi weather January"
   - "Varanasi temperature January"
-  - "Makar Sankranti Varanasi 2025"
+  - "Makar Sankranti Varanasi 2026"
   - "best time to visit Varanasi"
   - "Varanasi January travel guide"
   - "what to wear in Varanasi January"
@@ -28,7 +28,7 @@ tags:
   - festivals
 template: destination
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
-eyebrow: "January 2025 Guide"
+eyebrow: "January 2026 Guide"
 ctaTitle: "Book Your January Trip Now"
 ctaSubtitle: "Pre-book airport transfers and Sarnath day trips with fixed fares."
 relatedPosts:
@@ -58,7 +58,7 @@ faqSchema:
     answer: "Yes, January is safe for solo travelers in Varanasi. The peak tourist season means more visitors and better security presence. Stick to main ghats, avoid deserted lanes late at night, and keep valuables secure."
 ---
 
-# Varanasi in January 2025: Weather, Temperature & Travel Guide
+# Varanasi in January 2026: Weather, Temperature & Travel Guide
 
 > **TL;DR:** January is the #1 best month to visit Varanasi. Expect daytime temperatures of 18–24°C (64–75°F), cool nights at 8–12°C (46–54°F), and magical morning fog over the Ganges. Don't miss Makar Sankranti (January 14) – the highlight festival with 100,000+ devotees and colorful kite flying.
 
@@ -95,7 +95,7 @@ January offers the **perfect combination** of three factors that make it superio
 
 ### 2. Major Festivals & Events ✓
 
-**Makar Sankranti (January 14, 2025)** – The Harvest & Kite Festival
+**Makar Sankranti (January 14, 2026)** – The Harvest & Kite Festival
 
 - Holy Ganga baths at sunrise (5:30–6:30 AM) with 100,000+ devotees
 - Kite flying competitions from noon onwards on ghats and rooftops

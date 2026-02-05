@@ -1,12 +1,12 @@
 ---
-title: "Varanasi Tourist Spots - Taxi Packages & Routes 2025"
+title: "Varanasi Tourist Spots - Taxi Packages & Routes 2026"
 slug: "tourist-spots-varanasi"
 date: "2025-10-26"
-lastUpdated: "2025-10-26"
+lastUpdated: "2026-02-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
-metaTitle: "Varanasi Tourist Spots - Taxi Packages & Routes 2025"
+metaTitle: "Varanasi Tourist Spots - Taxi Packages & Routes 2026"
 metaDescription: "Varanasi tourist spots guide with taxi rates. Dashashwamedh, Sarnath, Kashi Vishwanath - book airport transfer packages. From ₹690."
 description: "Varanasi tourist spots guide with taxi rates. Dashashwamedh, Sarnath, Kashi Vishwanath - book airport transfer packages. From ₹690."
 keywords:
@@ -146,7 +146,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 > Complete Aarti guide: **[Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing)**
 
-> Updated 2025 timings: **[Ganga Aarti Timing Varanasi 2025](/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2025)** | **[Dashashwamedh Ghat Boat Ride & Aarti Guide](/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide)**
+> Updated 2026 timings: **[Ganga Aarti Timing Varanasi 2026](/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2025)** | **[Dashashwamedh Ghat Boat Ride & Aarti Guide](/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide)**
 
 ---
 
@@ -176,7 +176,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 **Accessibility:** More spacious than other ghats but has steps
 
-> Detailed timings: **[Assi Ghat Aarti Timings 2025](/en/assi-ghat-aarti-timings-2025)**
+> Detailed timings: **[Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2025)**
 
 ---
 
@@ -250,7 +250,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 - Golden light on ancient architecture
 - View of Manikarnika cremations from respectful distance
 
-**Pricing (2025):**
+**Pricing (2026):**
 - **Shared Boats**: ₹150-300 per person
 - **Private Boats**: ₹800-1,500 (4-6 people)
 - **Duration**: 60-90 minutes
@@ -653,7 +653,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 **Important:** Kashi Vishwanath Corridor is no-vehicle zone (walk or e-rickshaw final stretch)
 
-> Complete transport guide: **[Varanasi Transport Price Guide 2025](/en/varanasi-transport-price-guide-2025)**
+> Complete transport guide: **[Varanasi Transport Price Guide 2026](/en/varanasi-transport-price-guide-2025)**
 
 ---
 
@@ -753,7 +753,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ![Evening Aarti atmosphere](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Ganga-aarti-yellow-square.jpeg "Golden glow of evening Ganga Aarti")
 
-**Dev Deepawali** (Nov 12, 2025):
+**Dev Deepawali** (Nov 24, 2026):
 - Million+ lamps illuminate all ghats
 - Book 4-6 weeks ahead
 - Boat prices triple
@@ -767,7 +767,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 - Holy dips believed to wash sins
 - Riverside festivities
 
-> Festival guide: **[Dev Deepawali 2025 Ultimate Guide](/en/dev-deepawali-2025-varanasi-ultimate-guide)**
+> Festival guide: **[Dev Deepawali 2026 Ultimate Guide](/en/dev-deepawali-2025-varanasi-ultimate-guide)**
 
 ---
 
