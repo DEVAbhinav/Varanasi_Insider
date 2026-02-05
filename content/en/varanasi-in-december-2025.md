@@ -1,5 +1,5 @@
 ---
-title: "Varanasi in December 2025: Fog Hacks, Packing & Plans"
+title: "Varanasi in December 2026: Fog Hacks, Packing & Plans"
 slug: "varanasi-in-december-2025"
 date: "2025-08-02"
 lastUpdated: "2025-12-17"
@@ -8,7 +8,7 @@ lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"
 metaTitle: "Varanasi in December [2026]: Weather, Fog & What to Pack"
 metaDescription: "Planning a December trip? Complete guide to 10-25°C weather, packing list (bring woolens!), and winter festivals. Avoid fog delays with our tips." Flight buffer: 3 hrs. Local's fog survival guide →"
-description: "December 2025 Varanasi fog survival plan—exact temps, flight delay odds, packing list, sunrise boat alternatives, and festive events in one cheat sheet."
+description: "December 2026 Varanasi fog survival plan—exact temps, flight delay odds, packing list, sunrise boat alternatives, and festive events in one cheat sheet."
 keywords:
   - "varanasi in december 2025"
   - "varanasi fog forecast december"
@@ -35,7 +35,7 @@ faqSchema:
     answer: "Fog in Varanasi in December can be quite dense, especially in the early mornings. This can sometimes delay flights, trains, and boat rides. However, it also creates a uniquely mystical and photogenic atmosphere over the Ganga."
 ---
 
-# Varanasi in December: A Local's Guide for 2025
+# Varanasi in December: A Local's Guide for 2026
 
 As the year draws to a close, Varanasi takes on a different kind of charm. The crisp winter air, though a bit nippy, adds a unique flavour to the spiritual heart of India. While the peak rush of November fades, December offers a more serene yet still vibrant experience. If you're planning a visit, my insider tips on the **Varanasi weather in December**, how to navigate the fog, and what not to miss will be invaluable.
 
