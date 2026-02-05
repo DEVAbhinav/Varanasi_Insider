@@ -67,6 +67,8 @@ This itinerary is specifically designed to minimize walking and crowd exposure f
 
 When planning, think in this order: **Season → Number of Days → Area to Stay → Mobility Needs**.
 
+![Planning a family trip to Varanasi - 5 quick tips infographic](/images/infographics/family-trip-planning-tips.jpg)
+
 ### 1. Best Time to Come with Family
 *   **Oct–March (Ideal):** Cooler weather (10°C–25°C). Easier for elders to walk and for kids to tolerate crowds.
 *   **Avoid Summer (April–June):** Temperatures hit 45°C. It is dangerous for parents with BP or heart issues.

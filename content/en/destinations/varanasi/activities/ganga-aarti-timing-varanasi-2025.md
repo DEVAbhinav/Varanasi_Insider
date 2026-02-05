@@ -6,7 +6,7 @@ lastUpdated: "2025-12-22"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Ganga Aarti Timing Varanasi [2026]: Dashashwamedh vs Assi"
-metaDescription: "Confirmed timings 2026: Dashashwamedh (6:45 PM Summer / 5:45 PM Winter) vs Assi Ghat. Best spots, boat prices, and how to reach on time."! Boat view ₹200. Full 2026 month-wise schedule inside →"
+metaDescription: "Confirmed timings 2026: Dashashwamedh (6:45 PM Summer / 5:45 PM Winter) vs Assi Ghat. Best spots, boat prices, and how to reach on time. Boat view ₹200. Full 2026 month-wise schedule inside →"
 description: "Complete Ganga Aarti timing guide for Varanasi 2026 with month-by-month schedules, ceremony breakdown, boat timing integration, festival special timings, and monsoon reality checks."
 keywords:
   - "ganga aarti varanasi time"

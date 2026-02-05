@@ -91,6 +91,8 @@ An affordable hostel is usually better than multiple cheap hotels: you get socia
 
 Any honest guide will warn you about these. Here's how to avoid them:
 
+![Varanasi scams to avoid for tourists infographic](/images/infographics/varanasi-scams-to-avoid.jpg)
+
 ### 1. Fake Guides and Priests
 *   **The Trap:** Someone offers a "short tour" or a specific "puja" and demands a huge fee later.
 *   **Avoid It:** Agree on a fixed price upfront. Prefer licensed guides or ask at official temple counters.

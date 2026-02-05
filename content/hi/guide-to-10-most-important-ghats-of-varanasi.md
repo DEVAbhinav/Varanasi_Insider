@@ -4,7 +4,7 @@ slug: guide-to-10-most-important-ghats-of-varanasi
 sourceSlug: guide-to-10-most-important-ghats-of-varanasi
 title: "वाराणसी के 10 प्रमुख घाट – पूर्ण 2025 गाइड (Top Ghats)"
 metaTitle: "वाराणसी के 10 प्रमुख घाट [2026]: पूरी गाइड"
-metaDescription: "दशाश्वमेध से मणिकर्णिका तक: वाराणसी के 10 सबसे महत्वपूर्ण घाटों की पूरी जानकारी। जाने कहाँ देखें आरती, कहाँ लें नाव और क्या है अस्सी घाट का महत्व।", समय, नियम और यात्रा टिप्स →"
+metaDescription: "दशाश्वमेध से मणिकर्णिका तक: वाराणसी के 10 सबसे महत्वपूर्ण घाटों की पूरी जानकारी। जाने कहाँ देखें आरती, कहाँ लें नाव और क्या है अस्सी घाट का महत्व। समय, नियम और यात्रा टिप्स →"
 description: "कुल 80+ घाटों में से चयनित 10 – सांस्कृतिक, आध्यात्मिक, चित्रात्मक व अनुष्ठानिक महत्व के आधार पर सार व विस्तार।"
 keywords: ["varanasi ke ghat hindi","10 varanasi ghat guide","assi ghat subah-e-banaras","kedar ghat significance","harishchandra cremation ghat","dashashwamedh ganga aarti","man mandir observatory","scindia ghat submerged temple","manikarnika ghat moksha","panchganga ghat legend","adi keshav ghat origin","varanasi ghat history","kashi top ghats","ghat visit tips varanasi"]
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
