@@ -5,7 +5,7 @@ date: "2025-11-12"
 lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "VNS Airport to Varanasi Junction: 22km, ₹690 Fixed [2026]"
+metaTitle: "VNS → Varanasi Junction (BSB/Cantt): 22 km, ₹690 Fixed [2026]"
 metaDescription: "Varanasi Airport to Cantt (BSB) = 22km, 35 min. Fixed ₹690 taxi—no surge! Platform drop included. 24/7 booking: 9450301573"
 description: "Beat surge pricing! Airport to Varanasi Junction (BSB/Cantt) taxi at ₹690 fixed fare. 22km, 35-50min, platform drop included. Book: 9450301573."
 keywords:

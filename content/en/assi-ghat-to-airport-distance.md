@@ -6,8 +6,8 @@ lastUpdated: "2025-07-28"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogbhugate.jpg"
-metaTitle: "Assi Ghat to Varanasi Airport: 2025 Taxi Fare & Distance Guide"
-metaDescription: "Assi Ghat to Varanasi airport taxi: ₹800-₹1400 fares, 27-28 km distance, travel time, and booking tips for 2025."
+metaTitle: "Assi Ghat to Varanasi Airport: Fare & Distance 2025"
+metaDescription: "Assi Ghat to VNS Airport: 27–28 km, 40–60 min. Taxi fare ₹800–₹1,400 (sedan/SUV) with simple booking tips for 2025."
 description: "Assi Ghat to Varanasi airport: ₹800-₹1400 taxi fares, 27-28 km distance, 40-60 min travel time, and booking tips for 2025."
 keywords:
   - "assi ghat to varanasi airport distance"

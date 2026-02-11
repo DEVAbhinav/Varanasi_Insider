@@ -2,8 +2,11 @@ const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 
-// Security through obscurity - using non-standard sitemap name
-const SITEMAP_PATH = path.join(__dirname, '../public/kt-secret-map-v9.xml');
+// Generate a standard sitemap.xml (and keep the old secret filename for backward compatibility)
+const SITEMAP_OUTPUT_PATHS = [
+  path.join(__dirname, '../public/sitemap.xml'),
+  path.join(__dirname, '../public/kt-secret-map-v9.xml'),
+];
 const CONTENT_PATH = path.join(__dirname, '../content');
 const PAGES_PATH = path.join(__dirname, '../pages');
 const BASE_URL = 'https://www.kashitaxi.in';
@@ -227,8 +230,14 @@ function generateSitemap() {
   }).join('\n');
   
   const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${body}\n</urlset>`;
-  fs.writeFileSync(SITEMAP_PATH, xml);
+
+  SITEMAP_OUTPUT_PATHS.forEach((outPath) => {
+    fs.writeFileSync(outPath, xml);
+  });
+
   console.log('Sitemap regenerated with hreflang tags. URLs:', sorted.length);
+  console.log('Sitemap outputs:');
+  SITEMAP_OUTPUT_PATHS.forEach((p) => console.log('-', p));
 }
 
 generateSitemap();

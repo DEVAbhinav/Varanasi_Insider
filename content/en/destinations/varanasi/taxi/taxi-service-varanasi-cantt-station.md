@@ -5,8 +5,8 @@ date: "2025-12-09"
 lastUpdated: "2025-12-09"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Cantt Station Taxi | 24/7 Pickup, Safe Boarding, Fixed Fare"
-metaDescription: "Beat the crowd at Varanasi Junction (Cantt). Pre-book a cab with PNR sharing, driver details before arrival, and guided meeting point at the circulating area."
+metaTitle: "Varanasi Cantt Station Taxi: 24/7 | PNR tracking | ₹450"
+metaDescription: "Varanasi Junction (Cantt) taxi: 24/7 pickup with PNR tracking, driver details before arrival, guided meeting point. From ₹450."
 description: "Beat the crowd at Varanasi Junction (Cantt). Pre-book a cab with PNR sharing, driver details before arrival, and guided meeting point at the circulating area."
 location:
   name: "Varanasi Junction (Cantt)"

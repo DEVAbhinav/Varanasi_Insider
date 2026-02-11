@@ -20,8 +20,8 @@ const NEW_FESTIVAL_PAGES = [
   'https://www.kashitaxi.in/en/ultimate-guide-ramlila-dussehra-varanasi-2025'
 ];
 
-const SITE_URL = 'https://www.kashitaxi.in';
-const SITEMAP_URL = `${SITE_URL}/sitemap.xml`;
+const SITE_URL = process.env.SITE_URL || 'https://www.kashitaxi.in';
+const SITEMAP_URL = process.env.SITEMAP_URL || `${SITE_URL}/sitemap.xml`;
 
 console.log('🚀 Google Search Console Submission Helper');
 console.log('==========================================');

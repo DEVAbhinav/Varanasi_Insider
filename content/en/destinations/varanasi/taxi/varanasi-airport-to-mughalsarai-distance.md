@@ -1,13 +1,13 @@
 ---
-title: "VNS Airport to Mughalsarai/DDU Junction Taxi ₹1,005 | 45min via GT Road"
+title: "VNS Airport to Mughalsarai (DDU Junction) Taxi from ₹1,005 | 45-60 min via GT Road"
 slug: "varanasi-airport-to-mughalsarai-distance"
 date: "2025-11-19"
 lastUpdated: "2025-11-30"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "VNS Airport to Mughalsarai/DDU Junction Taxi ₹1,005 | 45min via GT Road"
-metaDescription: "Book Varanasi Airport to Pt. Deen Dayal Upadhyaya Junction (Mughalsarai) cab from ₹1,005. 18-38 km via GT Road, 45-60min. Driver stages at Gate 3 with GT Road safety brief."
-description: "Quick airport to DDU Junction (Mughalsarai) taxi at competitive ₹1,200 fixed rate. 35km via NH31, 50-65min, platform drop. Call 9450301573."
+metaTitle: "VNS to Mughalsarai (DDU) Taxi from ₹1,005 | 35 km"
+metaDescription: "Book Varanasi Airport to Mughalsarai (DDU Junction) taxi from ₹1,005. Typical 35 km, 45-60 min via GT Road. Gate 3 pickup + platform drop guidance."
+description: "Quick Varanasi Airport (VNS) to Mughalsarai / DDU Junction taxi. ~35 km via GT Road, typically 45-60 minutes, with station gate/platform drop guidance."
 keywords:
   - "varanasi airport to mughalsarai distance"
   - "varanasi airport to ddu junction taxi"
@@ -22,19 +22,19 @@ relatedPosts:
   - varanasi-airport-taxi-price-guide
 faqSchema:
   - question: "What is the distance from Varanasi Airport to Mughalsarai (DDU Junction)?"
-    answer: "Depending on the exact route, the distance between Varanasi Airport (VNS) and Mughalsarai/Pt. Deen Dayal Upadhyaya Junction is around 18–38 km."
+    answer: "The typical distance between Varanasi Airport (VNS) and Mughalsarai / Pt. Deen Dayal Upadhyaya Junction (DDU) is around 35 km, depending on your exact pickup lane and station gate."
   - question: "How long does a taxi take from VNS to Mughalsarai?"
     answer: "Most cabs take 45 minutes to 1 hour via GT Road, with minor variations for traffic and level crossings."
   - question: "What is the taxi fare from Varanasi Airport to DDU Junction?"
     answer: "Hatchbacks usually cost ₹1,005–₹1,300, sedans ₹1,100–₹1,500, and Innovas ₹2,000–₹2,300 with extra km from ₹11–₹12/km."
 ---
-# VNS Airport to Mughalsarai/DDU Junction Taxi ₹1,005 | 45min via GT Road
+# VNS Airport to Mughalsarai (DDU Junction) Taxi from ₹1,005 | 45-60 min via GT Road
 
-**The distance from Varanasi Airport (VNS) to Mughalsarai/Pt. Deen Dayal Upadhyaya Junction is 18–38 km depending on route, and the drive usually takes 45 minutes to 1 hour via GT Road.**
+**The typical distance from Varanasi Airport (VNS) to Mughalsarai / Pt. Deen Dayal Upadhyaya Junction (DDU) is around 35 km, and the drive usually takes 45-60 minutes via GT Road (traffic dependent).**
 
 | Key fact | Detail |
 | --- | --- |
-| Distance | 18–38 km |
+| Distance | ~35 km |
 | Time | 45–60 minutes |
 | Best route | Varanasi Airport → GT Road toward Mughalsarai/DDU Junction |
 | Typical fare | Hatchback ₹1,005–₹1,300 · Sedan ₹1,100–₹1,500 · Innova ₹2,000–₹2,300 |

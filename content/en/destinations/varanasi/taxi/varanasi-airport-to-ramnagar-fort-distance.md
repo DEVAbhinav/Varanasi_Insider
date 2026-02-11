@@ -5,8 +5,8 @@ date: "2025-11-12"
 lastUpdated: "2025-11-12"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Ramnagar Fort: Distance, Time, Taxi Fare (2025)"
-metaDescription: "Plan the 35–36 km transfer from Varanasi Airport to Ramnagar Fort: 55–70 minute drive, bridge route, taxi fares, museum timings, and Ramnagar Ramlila tips for 2025."
+metaTitle: "VNS Airport to Ramnagar Fort Taxi from ₹950 | 35 km (2025)"
+metaDescription: "Varanasi Airport to Ramnagar Fort: 35–36 km, usually 55–70 min. Sedan from ₹950. Museum ticket window closes 4:30 PM — plan accordingly."
 description: "Navigate from Varanasi Airport (VNS) to Ramnagar Fort with verified distance, travel time, toll-inclusive taxi fares, route guidance, and museum timing notes for 2025 visits."
 keywords:
   - "varanasi airport to ramnagar fort distance"

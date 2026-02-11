@@ -5,8 +5,8 @@ date: "2025-11-12"
 lastUpdated: "2025-11-12"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to DDU Junction (Mughalsarai): Distance, Time, Taxi Fare (2025)"
-metaDescription: "Discover the 35 km distance, 50–65 minute travel time, taxi fares, and route guidance for 2025 transfers from Varanasi Airport to DDU Junction (Mughalsarai)."
+metaTitle: "VNS Airport to DDU Junction Taxi ₹900+ | 35 km"
+metaDescription: "Varanasi Airport to DDU Junction (Mughalsarai): 35 km, typically 50–65 min. Sedan from ₹900, flash ₹690 on eligible bookings. Platform 1 forecourt drop."
 description: "Plan your Varanasi Airport (VNS) to DDU Junction/Mughalsarai transfer with verified distance, travel time, taxi fares, best route, and drop procedures for 2025."
 keywords:
   - "varanasi airport to ddu junction distance"

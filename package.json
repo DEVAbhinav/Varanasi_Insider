@@ -7,6 +7,7 @@
     "dev:api": "cd api && func start --port 7071",
     "dev:full": "./dev-start.sh",
     "build": "next build",
+    "postbuild": "npm run generate-sitemap",
     "start": "next start",
     "lint": "next lint",
     "generate-sitemap": "node scripts/generate-sitemap.js",

@@ -46,8 +46,8 @@ export default function ServicesPage({ services, jsonLd }) {
   return (
     <CategoryPageLayout
       title="Taxi & Travel Services in Varanasi"
-  metaTitle="Varanasi Taxi Services: Airport & Local Cabs from ₹12/km"
-      metaDescription="Professional taxi services in Varanasi - Airport transfers ₹800, local sightseeing, tempo traveller hire, outstation cabs. 24×7 service with transparent fares. Call 9450301573"
+      metaTitle="Varanasi Taxi Services: Airport, Local & Outstation | From ₹12/km"
+      metaDescription="Varanasi taxi services: airport transfers from ₹800, local from ₹12/km, tempo travellers & outstation cabs. Transparent fares, 24×7 booking."
       heroTitle="Varanasi Taxi & Travel Services"
       heroSubtitle="Airport transfers, local sightseeing & outstation trips with transparent fares and safety-first approach"
       heroBadge="🚕 TAXI SERVICES"

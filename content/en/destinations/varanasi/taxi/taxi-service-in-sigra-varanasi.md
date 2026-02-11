@@ -5,8 +5,8 @@ date: "2025-12-09"
 lastUpdated: "2025-12-09"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Taxi Service in Sigra, Varanasi | Near Shastri Nagar & IP Mall | Kashi Taxi"
-metaDescription: "Local Sigra taxi service with office in Shastri Nagar. 10–15 minute pickups near IP Mall, Rath Yatra, Mahmoorganj. No surge pricing, fixed fares, verified drivers."
+metaTitle: "Sigra Taxi Service Varanasi: 10–15 min | From ₹800"
+metaDescription: "Book a Sigra cab near IP Mall/Rath Yatra: 10–15 min pickup, verified drivers, fixed fares on confirmed bookings. Airport drops from ₹800."
 description: "Local Sigra taxi service with office in Shastri Nagar. 10–15 minute pickups near IP Mall, Rath Yatra, Mahmoorganj. No surge pricing, fixed fares, verified drivers."
 location:
   name: "Sigra, Varanasi"

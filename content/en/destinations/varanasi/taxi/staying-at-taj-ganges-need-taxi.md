@@ -107,7 +107,7 @@ We've answered the **10 most common questions** from Taj Ganges guests. Read on.
 |-------|----------|------|-------|
 | Hotel → Airport | 23 km | 45-60 min | ₹1,100-1,300 |
 | Hotel → Kashi Vishwanath | 3 km | 10-15 min | ₹200-300 |
-| Hotel → Sarnath | 60 km | 1.5 hours | ₹1,500-1,800 |
+| Hotel → Sarnath | 12 km | 30-45 min | ₹1,500-1,800 |
 | Hotel → Bodhgaya | 120 km | 4 hours | ₹2,500-3,000 |
 | Hotel → Ghat Walk | Varies | 30-60 min | ₹300-500 |
 | Hourly Rate (waiting included) | Per hour | 4-8 hours | ₹400-500/hr |

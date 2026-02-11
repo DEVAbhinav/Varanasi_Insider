@@ -5,8 +5,8 @@ date: "2025-12-09"
 lastUpdated: "2025-12-09"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Sarnath Taxi | Distance, Cost & Best Service Guide 2025 | KashiTaxi"
-metaDescription: "Complete Varanasi to Sarnath taxi fare: 60km distance, ₹1000-1500 cost, Buddhist pilgrimage tips & reliable taxi booking."
+metaTitle: "Varanasi to Sarnath Taxi from ₹1,200 | 10–13 km, 30–45 min"
+metaDescription: "Varanasi to Sarnath taxi: ~10–13 km, 30–45 min drive. Fare ₹1,200–₹1,500 one-way, route tips, and easy booking for the Buddhist circuit."
 description: "Everything you need to know about the Varanasi to Sarnath taxi fare. Distance, costs, route details, what to see, and how to book reliable transport for your Buddhist pilgrimage."
 location:
   name: "Sarnath"
@@ -69,11 +69,11 @@ This guide answers every question about the **Varanasi to Sarnath taxi** journey
 
 | Detail | Information |
 |--------|-------------|
-| **Distance** | 60 kilometers |
-| **Drive Time** | 90 minutes (normal) \| 120 mins (traffic) |
+| **Distance** | ~10–13 km (depends on pickup point) |
+| **Drive Time** | 30–45 minutes (typical) \| 45–60 mins (peak traffic) |
 | **Best Season** | Oct-March (pleasant weather) |
 | **Altitude** | Same as Varanasi (78m) |
-| **Road Quality** | Good highway throughout |
+| **Road Quality** | City roads; generally smooth approach to Sarnath |
 | **Taxi Cost** | ₹1,200-1,500 (one-way) \| ₹2,000-2,500 (return) |
 | **Luggage** | No restrictions |
 | **Best Time to Visit** | Early morning (6-7 AM) |
@@ -114,13 +114,13 @@ This guide answers every question about the **Varanasi to Sarnath taxi** journey
 
 #### Option 1: Private One-Way Taxi
 - **Cost:** ₹1,200-1,500
-- **Duration:** 90-120 minutes (one direction only)
+- **Duration:** 30-45 minutes (one direction only)
 - **What you get:** Direct transport, driver waits 15 mins
 - **Best for:** Shared rides, short visits
 
 #### Option 2: Return Trip (4-Hour Turnaround)
 - **Cost:** ₹2,000-2,500
-- **Duration:** 90 mins each way + waiting
+- **Duration:** 30-45 mins each way + waiting
 - **What you get:** 3-4 hours at Sarnath + transport
 - **Best for:** Half-day pilgrimage visit
 
@@ -140,50 +140,12 @@ This guide answers every question about the **Varanasi to Sarnath taxi** journey
 
 ## Route Details: What You'll See on the Varanasi to Sarnath Road
 
-### Segment 1: Varanasi City → Daraganj (10 km, 15 mins)
+Sarnath is a short drive from the city. Exact distance/time depends on where you start:
 
-**What You See:**
-- Modern Varanasi (malls, IT parks)
-- Residential areas
-- Industrial zones
+- **From Cantt / Sigra / Nadesar:** typically **10–12 km** in **25–35 minutes**.
+- **From Godowlia / Assi / old city:** typically **12–15 km** in **35–45 minutes**.
 
-**Traffic:** Usually light
-
-**Key Landmarks:**
-- Banaras Hindu University (you'll pass it)
-- Local markets
-- Middle-class residential neighborhoods
-
-### Segment 2: Daraganj → Cantt Road (15 km, 20 mins)
-
-**What You See:**
-- Mixed commercial/residential
-- Schools and colleges
-- Small temples and shops
-
-**Traffic:** Moderate
-
-**Key Landmarks:**
-- Local government offices
-- Markets
-- Temple complexes
-
-### Segment 3: Cantt Road → Sarnath Entrance (35 km, 45 mins)
-
-**What You See:**
-- Highway quality improves
-- Agricultural fields (varies by season)
-- Small towns and villages
-- Flat Gangetic plains
-
-**Traffic:** Light to moderate
-
-**Key Landmarks:**
-- Road temples and shrines
-- Village checkpoints
-- Sarnath signboards
-
-**Road Quality:** Smooth highway, well-maintained. Comfortable ride.
+Most taxis approach via main city roads toward **Sarnath Road**; during school hours and evening peak, add a **10–15 minute buffer**.
 
 ## What to See & Do in Sarnath (Walking Guide)
 

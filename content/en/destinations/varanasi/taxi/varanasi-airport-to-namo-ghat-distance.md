@@ -5,8 +5,8 @@ date: "2025-11-12"
 lastUpdated: "2025-11-30"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "VNS Airport to NaMo Ghat Taxi ₹690 | Light Show Drop, 35min Route"
-metaDescription: "NaMo Ghat taxi from airport ₹690 | 24km, 35-45 min to light show & promenade. Instant booking or call 9450301573. Perfect for evening events."
+metaTitle: "VNS Airport to NaMo Ghat Taxi from ₹690 | 24 km, 35–50 min"
+metaDescription: "Airport to NaMo Ghat (Khidkiya): 24 km, usually 35–50 min. Taxi from ₹690 (flash on eligible bookings). Best timing tips for the evening light show."
 description: "NaMo Ghat taxi from airport ₹690 | 24km, 35-45 min to light show & promenade. Instant booking or call 9450301573. Perfect for evening events."
 keywords:
   - "varanasi airport to namo ghat distance"
