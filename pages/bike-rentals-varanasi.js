@@ -38,7 +38,7 @@ const jsonLdBusiness = {
   image: 'https://www.kashitaxi.in/images/og-image-rentals.jpg',
   '@id': canonicalUrl + '#autorental',
   url: canonicalUrl,
-  telephone: '+919450301573',
+  telephone: '+919113108121',
   priceRange: '₹350–₹1,200/day',
   address: {
     '@type': 'PostalAddress',
@@ -131,7 +131,7 @@ const jsonLdBusiness = {
   ],
   contactPoint: [{
     '@type': 'ContactPoint',
-    telephone: '+919450301573',
+    telephone: '+919113108121',
     contactType: 'customer service',
     areaServed: 'IN',
     availableLanguage: ['en', 'hi']
@@ -216,7 +216,8 @@ const webPageNode = {
 
 const jsonLd = { '@context': 'https://schema.org', '@graph': [organizationNode, websiteNode, webPageNode, jsonLdBreadcrumbs, jsonLdBusiness, jsonLdFAQ] };
 
-const businessPhoneNumber = '919450301573';
+const businessCallNumber = '919113108121';
+const businessWhatsAppNumber = '919935474730';
 
 export default function BikeRentalsPage({ allPosts }) {
   return (
@@ -319,14 +320,14 @@ export default function BikeRentalsPage({ allPosts }) {
                     <div className="mt-auto pt-6">
                       <div className="flex flex-col space-y-3">
                         <a
-                          href={`tel:+91${businessPhoneNumber}`}
+                          href={`tel:+${businessCallNumber}`}
                           className="flex items-center justify-center rounded-full bg-blue-600 px-4 py-3 font-semibold text-white transition hover:bg-blue-500"
                         >
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-5 w-5 mr-2"><path fillRule="evenodd" d="M2 3.5A1.5 1.5 0 013.5 2h1.148a1.5 1.5 0 011.465 1.175l.716 3.223a1.5 1.5 0 01-1.052 1.767l-.933.267c-.41.117-.643.555-.48.95a11.542 11.542 0 006.254 6.254c.395.163.833-.07.95-.48l.267-.933a1.5 1.5 0 011.767-1.052l3.223.716A1.5 1.5 0 0118 15.352V16.5a1.5 1.5 0 01-1.5 1.5h-2.148a1.5 1.5 0 01-1.465-1.175l-.716-3.223a1.5 1.5 0 011.052-1.767l.933-.267c.41-.117.643.555-.48.95A11.542 11.542 0 006.254 6.254c-.395-.163-.833.07-.95.48l-.267.933a1.5 1.5 0 01-1.767 1.052l-3.223-.716A1.5 1.5 0 012 4.648V3.5z" clipRule="evenodd" /></svg>
                           Call to Book
                         </a>
                         <a
-                          href={`https://wa.me/${businessPhoneNumber}?text=Hi! I would like to book the ${vehicle.name}.`}
+                          href={`https://wa.me/${businessWhatsAppNumber}?text=Hi! I would like to book the ${vehicle.name}.`}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="flex items-center justify-center rounded-full bg-green-500 px-4 py-3 font-semibold text-white transition hover:bg-green-400"
