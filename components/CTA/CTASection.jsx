@@ -1,5 +1,5 @@
 // components/CTA/CTASection.jsx
-import { CONTACT } from '@/lib/contact';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export default function CTASection({ 
   phone = CONTACT.callNumberRaw, 
@@ -40,7 +40,7 @@ export default function CTASection({
         </div>
         <div className="flex gap-3 flex-shrink-0">
           <a
-            href={`tel:${phone}`}
+            href={getCallTelHref(phone)}
             className="inline-flex items-center px-5 py-3 bg-white text-yellow-600 font-bold rounded-lg hover:bg-gray-100 transition-all transform hover:scale-105 shadow-lg"
             aria-label={`Call ${phone}`}
           >

@@ -1,5 +1,6 @@
 // components/ServicePage/ServiceHero.jsx
 import Image from 'next/image';
+import { getCallTelHref } from '@/lib/contact';
 
 export default function ServiceHero({ title, subtitle, heroImage, phone }) {
   return (
@@ -32,7 +33,7 @@ export default function ServiceHero({ title, subtitle, heroImage, phone }) {
           {phone && (
             <div className="flex flex-col sm:flex-row gap-4 mt-8">
               <a
-                href={`tel:${phone}`}
+                href={getCallTelHref(phone)}
                 className="inline-flex items-center justify-center px-8 py-4 bg-yellow-500 hover:bg-yellow-600 text-black font-bold rounded-lg transition-all transform hover:scale-105 shadow-lg"
               >
                 <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">

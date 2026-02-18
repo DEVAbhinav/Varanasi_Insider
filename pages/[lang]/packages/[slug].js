@@ -15,7 +15,7 @@ import { Badge } from "@/components/ui/badge";
 import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ui/accordion";
 import { Phone, CheckCircle2, Clock, Ship, IndianRupee, Info, BadgeCheck, ShieldCheck, Sparkles } from "lucide-react";
 import { motion } from "framer-motion";
-import { CONTACT } from "@/lib/contact";
+import { CONTACT, getCallTelHref } from "@/lib/contact";
 
 const fadeUp = {
   initial: { opacity: 0, y: 16 },
@@ -56,7 +56,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
             <a aria-label="WhatsApp Now" href={waLink(phone, `Hi, I want to book ${title || "a package"}`)}>WhatsApp</a>
           </Button>
           <Button asChild variant="secondary" className="flex-1">
-            <a aria-label="Call now" href={`tel:+91${phone}`}>Call</a>
+            <a aria-label="Call now" href={getCallTelHref(phone)}>Call</a>
           </Button>
         </div>
       </div>
@@ -68,7 +68,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
             <a aria-label="WhatsApp Now" href={waLink(phone, `Hi, I want to book ${title || "a package"}`)}>WhatsApp</a>
           </Button>
           <Button size="lg" variant="secondary" asChild>
-            <a aria-label="Call now" href={`tel:+91${phone}`}>Call</a>
+            <a aria-label="Call now" href={getCallTelHref(phone)}>Call</a>
           </Button>
         </div>
       </div>
@@ -110,7 +110,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
                   <a aria-label="WhatsApp Now" href={waLink(phone, `Hi, I want to book ${title || "a package"}`)}>WhatsApp Now</a>
                 </Button>
                 <Button variant="secondary" asChild size="lg">
-                  <a aria-label="Call now" href={`tel:+91${phone}`}>Call {phone}</a>
+                  <a aria-label="Call now" href={getCallTelHref(phone)}>Call {phone}</a>
                 </Button>
                 <Button variant="outline" asChild size="lg">
                   <a aria-label="View plans" href="#tiers">View Plans</a>
@@ -211,7 +211,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
                           <a aria-label={`Book ${t.name}`} href={waLink(phone, `I want to book the ${t.name} package`)}>Book {t.name}</a>
                         </Button>
                         <Button variant="secondary" className="w-full" asChild>
-                          <a aria-label="Call now" href={`tel:+91${phone}`}>Call</a>
+                          <a aria-label="Call now" href={getCallTelHref(phone)}>Call</a>
                         </Button>
                       </div>
                     </CardContent>
