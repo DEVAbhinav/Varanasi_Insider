@@ -6,7 +6,7 @@ lastUpdated: "2025-12-31"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Gaya to Varanasi Taxi | Vishnupad to Kashi Vishwanath | ₹4,200"
-metaDescription: "Gaya to Varanasi taxi ₹4,200. 219 km, 5-6 hrs. Pind Daan + Bodhgaya stopover. Book Now ☎ 9935474730. Vishnupad to Kashi."
+metaDescription: "Gaya to Varanasi taxi ₹4,200. 219 km, 5-6 hrs. Pind Daan + Bodhgaya stopover. Book Now ☎ 80621 82380. Vishnupad to Kashi."
 description: "Gaya to Varanasi taxi from ₹4,200. 219-236 km in 5-6 hours via NH19. Pind Daan to Ganga Aarti. Bodhgaya stopover option. Ancestor ritual specialists."
 keywords:
   - "gaya to varanasi taxi"
@@ -430,7 +430,7 @@ faqSchema:
 ### Ready for the Sacred Ancestor Journey?
 
 **Call/WhatsApp**: [+91 99354 74730](https://wa.me/919935474730?text=Gaya%20to%20Varanasi%20Pind%20Daan%20circuit%20taxi)  
-**Alternate**: [+91 94503 01573](tel:+919450301573)  
+**Alternate**: [+91 80621 82380](tel:+918062182380)  
 **Email**: taxiinvaranasiii@gmail.com  
 **Website**: [www.kashitaxi.in](https://www.kashitaxi.in/booking)
 

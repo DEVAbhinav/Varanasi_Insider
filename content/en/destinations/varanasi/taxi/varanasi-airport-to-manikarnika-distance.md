@@ -48,7 +48,7 @@ location:
 | Typical fare | Sedan ₹850–950 · SUV ₹1,200–1,400 |
 
 ## Book your Varanasi Airport to Manikarnika Ghat transfer
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Manikarnika%20Ghat)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Maidagin barricade).

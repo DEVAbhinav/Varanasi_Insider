@@ -7,7 +7,7 @@ description: "Dev Deepawali taxi booking Varanasi 2025 – fixed fares, no surge
 keywords: ["Dev Deepawali taxi booking Varanasi","cab for Dev Diwali","fixed fare taxi Varanasi","no surge pricing Varanasi taxi","Ganga Aarti taxi","book taxi in advance Varanasi","Dev Deepawali transport"]
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg"
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg"
-phone: "9450301573"
+phone: "8062182380"
 schemaType: "Service"
 serviceCategory: "Festival Transportation"
 structuredData: true

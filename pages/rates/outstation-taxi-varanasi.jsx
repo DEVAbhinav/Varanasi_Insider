@@ -170,7 +170,7 @@ export default function OutstationTaxiGuide() {
                 <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer"><MessageCircle className="mr-2 h-5 w-5"/> WhatsApp for a quote</a>
               </Button>
               <Button asChild size="lg" variant="secondary" className="rounded-2xl bg-amber-50/90 text-amber-950 hover:bg-amber-100">
-                <a href="tel:+919450301573"><Phone className="mr-2 h-5 w-5"/> Call now</a>
+                <a href="tel:+918062182380"><Phone className="mr-2 h-5 w-5"/> Call now</a>
               </Button>
             </div>
           </div>
@@ -368,7 +368,7 @@ export default function OutstationTaxiGuide() {
           {/* CTA */}
           <div className="mt-8 flex flex-wrap gap-3">
             <Button asChild className="rounded-2xl bg-emerald-600 hover:bg-emerald-700"><a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer"><MessageCircle className="mr-2 h-4 w-4"/> WhatsApp for best deal</a></Button>
-            <Button asChild variant="secondary" className="rounded-2xl bg-amber-50 text-amber-950 hover:bg-amber-100"><a href="tel:+919450301573"><Phone className="mr-2 h-4 w-4"/> Call now</a></Button>
+            <Button asChild variant="secondary" className="rounded-2xl bg-amber-50 text-amber-950 hover:bg-amber-100"><a href="tel:+918062182380"><Phone className="mr-2 h-4 w-4"/> Call now</a></Button>
           </div>
           <p className="mt-4 text-xs text-slate-500">Last updated: August 2025</p>
         </motion.section>

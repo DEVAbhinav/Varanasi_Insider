@@ -7,7 +7,7 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to NaMo Ghat Taxi from ₹690 | 24 km, 35–50 min"
 metaDescription: "Airport to NaMo Ghat (Khidkiya): 24 km, usually 35–50 min. Taxi from ₹690 (flash on eligible bookings). Best timing tips for the evening light show."
-description: "NaMo Ghat taxi from airport ₹690 | 24km, 35-45 min to light show & promenade. Instant booking or call 9450301573. Perfect for evening events."
+description: "NaMo Ghat taxi from airport ₹690 | 24km, 35-45 min to light show & promenade. Instant booking or call 80621 82380. Perfect for evening events."
 keywords:
   - "varanasi airport to namo ghat distance"
   - "namo ghat taxi fare"
@@ -42,7 +42,7 @@ location:
   "@type": "TaxiReservation",
   "name": "NaMo Ghat Taxi from Varanasi Airport",
   "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance",
-  "telephone": "+919450301573",
+  "telephone": "+918062182380",
   "priceRange": "₹690-780",
   "priceCurrency": "INR",
   "offers": {
@@ -85,7 +85,7 @@ WhatsApp booking: [wa.me/919450301573](https://wa.me/919450301573?text=Airport%2
 | Typical fare | Sedan ₹780–900 · SUV ₹1,120–1,320 |
 
 ## Book your Varanasi Airport to NaMo Ghat transfer
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20NaMo%20Ghat)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at NaMo promenade parking).

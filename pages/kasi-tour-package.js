@@ -30,7 +30,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
         description:
           'Kasi tour package specialist: Kashi darshan, airport transfers, tempo traveller hire, multi-city spiritual circuits with local guides and 24/7 support.',
         slogan: 'Authentic Kasi darshan with trusted local guides',
-        telephone: '+91-9450301573',
+        telephone: '+91-8062182380',
         email: 'taxiinvaranasiii@gmail.com',
         address: {
           '@type': 'PostalAddress',
@@ -70,13 +70,13 @@ export default function KasiTourPackagePage({ contentHtml }) {
         contactPoint: [
           {
             '@type': 'ContactPoint',
-            telephone: '+91-9450301573',
+            telephone: '+91-8062182380',
             contactType: 'customer service',
             availableLanguage: ['en', 'hi'],
           },
           {
             '@type': 'ContactPoint',
-            telephone: '+91-9935474730',
+            telephone: '+91 80621 82380',
             contactType: 'WhatsApp',
             availableLanguage: ['en', 'hi'],
           },

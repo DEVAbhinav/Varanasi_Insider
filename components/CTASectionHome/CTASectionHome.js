@@ -36,10 +36,10 @@ export default function CTASectionHome() {
               🚕 Book Varanasi Taxi Online
             </a>
             <a
-              href="tel:9450301573"
+              href="tel:+918062182380"
               className="inline-flex items-center gap-2 px-8 py-4 bg-transparent border-2 border-white text-white font-bold rounded-xl hover:bg-white hover:text-cyan-700 transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1 text-lg"
             >
-              📞 Call: 94503 01573
+              📞 Call: 80621 82380
             </a>
           </div>
         </div>

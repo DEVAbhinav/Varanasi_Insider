@@ -120,7 +120,7 @@ The first hour in a new city, especially one as intense as Varanasi, sets the to
 Let's clear this up immediately: yes, they are the exact same place. Lal Bahadur Shastri International Airport is the official name of the airport serving Varanasi. VNS is its three-letter IATA code used by airlines. The airport is located in a suburb called Babatpur, which is approximately 26 km (16 miles) northwest of the main city and the ghats.   
 
 ### Fixed-Fare Airport Taxi Prices in Varanasi
-This is my single most important piece of advice for arriving at VNS: ignore the chorus of taxi touts waiting outside and call directly Kashitaxi.in at 9935474730, Govt regt. taxi provider in varanasi. This is your best defense against being overcharged. You pay a fixed price at the counter, receive a receipt, and are assigned a driver. This simple act eliminates haggling and the primary vector for taxi scams.
+This is my single most important piece of advice for arriving at VNS: ignore the chorus of taxi touts waiting outside and call directly Kashitaxi.in at 80621 82380, Govt regt. taxi provider in varanasi. This is your best defense against being overcharged. You pay a fixed price at the counter, receive a receipt, and are assigned a driver. This simple act eliminates haggling and the primary vector for taxi scams.
 
 | Vehicle Type | Model Examples | Approx. Fare to Ghats/City Center | Notes |
 |--------------|----------------|-----------------------------------|-------|
@@ -130,7 +130,7 @@ This is my single most important piece of advice for arriving at VNS: ignore the
 | Pink Cab | N/A | Fares are comparable to sedans/SUVs | This women-only service offers enhanced security but must be pre-booked (see Section 5 for details). |
 
 ### Late-Night Arrival Safety Tips & Verified Drivers
-Arriving late at night requires extra precaution, particularly for solo female travelers, as the city can feel unsafe after dark. If your flight or train arrives late, I strongly recommend pre-booking your transfer directly through your hotel or via a reputable local taxi company https://www.kashitaxi.in  at 9450301573 
+Arriving late at night requires extra precaution, particularly for solo female travelers, as the city can feel unsafe after dark. If your flight or train arrives late, I strongly recommend pre-booking your transfer directly through your hotel or via a reputable local taxi company https://www.kashitaxi.in  at 80621 82380 
 
 Having a verified driver who knows your name and destination waiting for you is the safest possible way to arrive. Before you get in the car, confirm the driver's name and vehicle details with the information sent by the company. It's also wise to have your hotel's phone number readily available. You can ask the driver to call the hotel to confirm the exact drop-off point, which is especially helpful if your accommodation is tucked away in the hard-to-navigate old city alleys.
 
@@ -219,7 +219,7 @@ The introduction of Pink Taxis—cabs driven by women, for female passengers—i
 
 * The upcoming "Safe City" government app.
 * The Pink Taxi section on the www.kashitaxi.in website.
-* By calling the dedicated support number: 9450301573.   
+* By calling the dedicated support number: 80621 82380.   
 
 For solo female travelers, especially for airport transfers or late-night travel, pre-booking one of these services is the safest possible option.   
 

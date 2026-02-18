@@ -10,7 +10,7 @@
     "@id": "https://www.kashitaxi.in/#org",
     "name": "Kashi Taxi",
     "url": "https://www.kashitaxi.in/",
-    "telephone": "+919450301573"
+    "telephone": "+918062182380"
   },
   "areaServed": {
     "@type": "Place",
@@ -26,7 +26,7 @@
     "availableLanguage": ["en", "hi"],
     "servicePhone": {
       "@type": "ContactPoint",
-      "telephone": "+919450301573",
+      "telephone": "+918062182380",
       "contactType": "reservations"
     }
   },

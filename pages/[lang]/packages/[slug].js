@@ -28,7 +28,7 @@ const withBuffer = (n, pct = 10) => Math.round(Number(n || 0) * (1 + pct / 100))
 const waLink = (phone, text) => `https://wa.me/91${phone}?text=${encodeURIComponent(text)}`;
 
 export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPackages, pageLang, pageSlug, alternateLanguages = [] }) {
-  const { title, subtitle, heroImage, coverAlt, phone = "9450301573", components, tiers = [], addOns = [], vehicles = [], seasonNotes = {}, breadcrumbs = [], faqs = [] } = pkgData || {};
+  const { title, subtitle, heroImage, coverAlt, phone = "8062182380", components, tiers = [], addOns = [], vehicles = [], seasonNotes = {}, breadcrumbs = [], faqs = [] } = pkgData || {};
   const bufferPct = components?.buffer_percent ?? 10;
   const [imgSrc, setImgSrc] = useState(heroImage && heroImage.trim() ? heroImage : "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png");
 

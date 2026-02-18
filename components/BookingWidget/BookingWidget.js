@@ -247,7 +247,7 @@ export default function BookingWidget() {
         </button>
 
         <p className="text-xs text-gray-600 text-center mt-4 font-medium">
-          Or call directly: <a href="tel:9450301573" className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">94503 01573</a>
+          Or call directly: <a href="tel:+918062182380" className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">80621 82380</a>
         </p>
       </form>
     </div>

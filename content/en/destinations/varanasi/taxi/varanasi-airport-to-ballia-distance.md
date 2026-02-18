@@ -6,8 +6,8 @@ lastUpdated: "2025-11-22"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS to Ballia Outstation Cab: 150km, 3hrs | ₹2,500 Sedan"
-metaDescription: "150km VNS to Ballia in 3-4hrs via NH-31. Sedan ₹2,500, Innova ₹3,200. Surha Tal bird sanctuary stops included. Book: 9450301573"
-description: "Long-distance airport to Ballia taxi at competitive rates. 150km via NH-31, 3-4hrs, bird sanctuary stops. Sedan ₹2,500. Call 9450301573."
+metaDescription: "150km VNS to Ballia in 3-4hrs via NH-31. Sedan ₹2,500, Innova ₹3,200. Surha Tal bird sanctuary stops included. Book: 80621 82380"
+description: "Long-distance airport to Ballia taxi at competitive rates. 150km via NH-31, 3-4hrs, bird sanctuary stops. Sedan ₹2,500. Call 80621 82380."
 keywords:
   - "varanasi airport to ballia distance"
   - "vns to ballia taxi fare"
@@ -40,7 +40,7 @@ faqSchema:
 | Typical fare | Hatchback ₹2,028–₹2,300 · Sedan ₹2,550–₹2,800 · Innova ₹2,600–₹3,200 |
 
 ## Book your Varanasi Airport to Ballia taxi
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Ballia)**
 
 > **Tip:** For festival journeys and big family groups, book an Innova or tempo traveller early to avoid last-minute vehicle shortages.

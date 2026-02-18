@@ -31,7 +31,7 @@ relatedPosts:
   "seller": {
     "@type": "TouristInformationCenter",
     "name": "Vinayak Travels Boat Desk",
-    "telephone": "+919450301573"
+    "telephone": "+918062182380"
   },
   "itemListElement": [
     {

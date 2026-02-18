@@ -30,7 +30,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         description:
           'Banaras tour packages with expert guides. 3-7 day spiritual journeys, transparent pricing, ghatside stays, airport transfers, and 24/7 support.',
         slogan: 'Authentic Banaras tours with local experts',
-        telephone: '+91-9450301573',
+        telephone: '+91-8062182380',
         email: 'taxiinvaranasiii@gmail.com',
         address: {
           '@type': 'PostalAddress',
@@ -70,13 +70,13 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         contactPoint: [
           {
             '@type': 'ContactPoint',
-            telephone: '+91-9450301573',
+            telephone: '+91-8062182380',
             contactType: 'customer service',
             availableLanguage: ['en', 'hi'],
           },
           {
             '@type': 'ContactPoint',
-            telephone: '+91-9935474730',
+            telephone: '+91 80621 82380',
             contactType: 'WhatsApp',
             availableLanguage: ['en', 'hi'],
           },

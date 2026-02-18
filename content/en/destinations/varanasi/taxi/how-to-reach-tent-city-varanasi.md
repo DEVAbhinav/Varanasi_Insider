@@ -43,7 +43,7 @@ faqSchema:
 
 ---
 
-**Quick Book (Never miss your boat):** Call [94503 01573](tel:+919450301573) · WhatsApp [919450301573](https://wa.me/919450301573?text=Tent%20City%20airport%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city) · Guaranteed Ravidas Ghat jetty drop + boat coordination.
+**Quick Book (Never miss your boat):** Call [94503 01573](tel:+918062182380) · WhatsApp [919450301573](https://wa.me/919450301573?text=Tent%20City%20airport%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city) · Guaranteed Ravidas Ghat jetty drop + boat coordination.
 
 ---
 
@@ -428,7 +428,7 @@ The only thing you need to do? **Book Kashmir Taxi in advance.** Let us handle t
 
 Stop stressing about logistics. **Book your airport transfer now.**
 
-📞 **Call:** [94503 01573](tel:+919450301573)  
+📞 **Call:** [80621 82380](tel:+918062182380)  
 📱 **WhatsApp:** [wa.me/919450301573](https://wa.me/919450301573?text=Tent%20City%20airport%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city)  
 🌐 **Website:** [kashitaxi.in](https://kashitaxi.in)  
 📧 **Email:** [taxiinvaranasiii@gmail.com](mailto:taxiinvaranasiii@gmail.com)

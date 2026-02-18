@@ -11,7 +11,7 @@ export default function BookingPage() {
         <title>Book Varanasi Taxi Online | Airport Taxi & Tempo Traveller Booking 2025</title>
         <meta 
           name="description" 
-          content="Book Varanasi taxi & tempo traveller online. VNS Airport taxi, local Kashi darshan, outstation cabs to Ayodhya Prayagraj. AC vehicles, expert drivers. Instant booking ☎ 9450301573" 
+          content="Book Varanasi taxi & tempo traveller online. VNS Airport taxi, local Kashi darshan, outstation cabs to Ayodhya Prayagraj. AC vehicles, expert drivers. Instant booking ☎ 80621 82380" 
         />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.varanasiinsider.com/booking" />
@@ -19,7 +19,7 @@ export default function BookingPage() {
       </Head>
 
       <NavBar />
-      <StickyContactBar phone="9450301573" />
+      <StickyContactBar phone = "8062182380" />
 
       <div className="min-h-screen bg-gradient-to-b from-blue-50 via-cyan-50 to-blue-50">
         {/* Hero Section */}

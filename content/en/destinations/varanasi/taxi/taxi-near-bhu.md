@@ -69,8 +69,8 @@ Located at Banaras Hindu University campus in Varanasi? **KashiTaxi provides qui
 
 ## Book Your Taxi from BHU Now
 
-📞 **Call:** +91-9450301573 (24/7)
-📱 **WhatsApp:** [+91-9450301573](https://wa.me/919450301573?text=Book%20Taxi%20from%20BHU)
+📞 **Call:** +91-8062182380 (24/7)
+📱 **WhatsApp:** [+91-8062182380](https://wa.me/919450301573?text=Book%20Taxi%20from%20BHU)
 🌐 **Book Online:** Contact us for booking
 
 Quick pickup from your BHU location. ✓

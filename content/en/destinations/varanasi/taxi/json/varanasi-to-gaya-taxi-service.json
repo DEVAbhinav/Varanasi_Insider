@@ -7,7 +7,7 @@
       "name": "Varanasi Taxi - Vinayak Travels",
       "alternateName": ["KashiTaxi", "Varanasi to Gaya Taxi"],
       "url": "https://www.kashitaxi.in/",
-      "telephone": "+919450301573",
+      "telephone": "+918062182380",
       "priceRange": "₹₹",
       "address": {
         "@type": "PostalAddress",
@@ -59,7 +59,7 @@
         "availableLanguage": ["en", "hi"],
         "servicePhone": {
           "@type": "ContactPoint",
-          "telephone": "+919450301573",
+          "telephone": "+918062182380",
           "contactType": "reservations",
           "availableLanguage": ["English", "Hindi"]
         }

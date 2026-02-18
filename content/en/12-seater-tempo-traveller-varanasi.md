@@ -15,7 +15,7 @@ relatedPosts:
 
 **Perfect for 2‑3 families or 8‑12 pilgrims · AC tempo with driver · Local 8hr/80km from ₹5,500 · Outstation from ₹24/km**
 
-**➡️ [Get WhatsApp Fare](https://wa.me/919935474730?text=12-seater%20availability) · Call: [+91 99354 74730](tel:+919935474730)**
+**➡️ [Get WhatsApp Fare](https://wa.me/919935474730?text=12-seater%20availability) · Call: [+91 99354 74730](tel:+918062182380)**
 
 > **TL;DR:** 12 seater tempo traveller Varanasi pricing sits at ₹2,500 for airport runs, ₹5,500 for 8hr Kashi Darshan, and ₹24/km for outstation with a 250 km minimum plus ₹600 night allowance. Book 10-20% advance for festival dates and request a roof carrier if luggage exceeds 10 bags. Scroll for amenities, itineraries, and booking checklist.
 
@@ -118,7 +118,7 @@ For airport-specific needs, check our dedicated page: [Varanasi Airport Tempo Tr
 
 ## Book or Check Availability
 
-- Call: [+91 99354 74730](tel:+919935474730)
+- Call: [+91 80621 82380](tel:+918062182380)
 - WhatsApp: https://wa.me/919935474730?text=12-seater%20availability
 
 ## Related

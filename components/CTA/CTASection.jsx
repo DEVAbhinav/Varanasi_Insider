@@ -1,6 +1,6 @@
 // components/CTA/CTASection.jsx
 export default function CTASection({ 
-  phone = "9450301573", 
+  phone = "8062182380", 
   title = "Need help planning your trip?",
   subtitle = "Get personalized assistance for your Varanasi journey",
   variant = "default" // "default" | "compact" | "service"

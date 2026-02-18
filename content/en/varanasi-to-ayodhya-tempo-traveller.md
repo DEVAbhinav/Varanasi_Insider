@@ -91,7 +91,7 @@ At Hanuman Garhi, groups with seniors should take the steps slowly—the view an
 
 - Primary CTA: Book Your Ayodhya Trip Now (₹14,500)
 - Custom needs? Request a Custom Quote
-- Call: [+91 99354 74730](tel:+919935474730)
+- Call: [+91 80621 82380](tel:+918062182380)
 - WhatsApp: https://wa.me/919935474730?text=Ayodhya%20day%20trip%20booking
 - Website: https://www.kashitaxi.in/
 

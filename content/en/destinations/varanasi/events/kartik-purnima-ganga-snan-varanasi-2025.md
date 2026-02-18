@@ -116,7 +116,7 @@ organizer:
           "name": "How can I book a taxi for Kartik Purnima Snan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Book taxis for Kartik Purnima in advance due to high demand. Call +91-94503-01573 or WhatsApp for 24/7 booking. Pre-dawn packages (3:30 AM pickup) cost ₹800-1200 sedan, ₹1200-1800 SUV. Round-trip ghat packages with waiting time available. Book at least 7 days in advance for festival period."
+            "text": "Book taxis for Kartik Purnima in advance due to high demand. Call +91-80621-82380 or WhatsApp for 24/7 booking. Pre-dawn packages (3:30 AM pickup) cost ₹800-1200 sedan, ₹1200-1800 SUV. Round-trip ghat packages with waiting time available. Book at least 7 days in advance for festival period."
           }
         },
         {
@@ -144,7 +144,7 @@ organizer:
           "addressRegion": "Uttar Pradesh",
           "addressCountry": "IN"
         },
-        "telephone": "+91-94503-01573",
+        "telephone": "+91-80621-82380",
         "url": "https://www.kashitaxi.in"
       },
       "areaServed": {
@@ -465,7 +465,7 @@ Kartik Purnima in Varanasi isn't just a religious event—it's a **living tradit
 
 ### How to Book Your Kartik Purnima Taxi
 
-**📞 Call/WhatsApp: +91-94503-01573** (24/7 Booking Line)
+**📞 Call/WhatsApp: +91-80621-82380** (24/7 Booking Line)
 
 **Booking Deadline:** At least **7 days in advance** (festival surge period)
 
@@ -671,7 +671,7 @@ Kartik Purnima attracts renowned saints and gurus to Varanasi:
 - Trauma Center BHU: +91-542-236-7568 (Emergency care)
 - Shiv Prasad Gupta Hospital (Govt): +91-542-220-3033
 
-**Taxi Booking Emergency Line:** +91-94503-01573 (24/7)
+**Taxi Booking Emergency Line:** +91-80621-82380 (24/7)
 
 **Lost & Found:**
 - Dashashwamedh Ghat Police Post: +91-542-239-2222
@@ -703,7 +703,7 @@ Make Kartik Purnima 2025 a spiritually transformative experience with hassle-fre
 
 ### 🚖 Book Your Taxi Now
 
-**📞 Call:** +91-94503-01573 (24/7)  
+**📞 Call:** +91-80621-82380 (24/7)  
 **📱 WhatsApp:** [Click to Chat](https://wa.me/919450301573)  
 **🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/booking)
 

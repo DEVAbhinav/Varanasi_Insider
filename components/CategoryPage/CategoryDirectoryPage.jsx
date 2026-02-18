@@ -8,7 +8,7 @@ import ArticleSection from '@/components/ArticleSection/ArticleSection';
 import ClusterDirectory from '@/components/ClusterDirectory/ClusterDirectory';
 
 const SITE_BASE = 'https://www.kashitaxi.in';
-const DEFAULT_PHONE = '9935474730';
+const DEFAULT_PHONE = '80621 82380';
 
 export default function CategoryDirectoryPage({ entry, allPosts }) {
   if (!entry) {

@@ -7,7 +7,7 @@ description: "Safest taxi service in Varanasi for solo female traveler – polic
 keywords: ["safest taxi service in Varanasi for solo female traveler","women only taxi service Varanasi","Varanasi Pink Taxi booking","Varanasi taxi female driver","late night safe cab Varanasi","is Uber safe for women in Varanasi","women safety taxi Varanasi","taxi with verified drivers varanasi"]
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/female-traveller-sadhu.jpeg"
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/female-traveller-sadhu.jpeg"
-phone: "9450301573"
+phone: "8062182380"
 schemaType: "Service"
 serviceCategory: "Women-Centric Transportation"
 structuredData: true

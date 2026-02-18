@@ -6,7 +6,7 @@ lastUpdated: "2025-12-09"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "मणिकर्णिका घाट टैक्सी वाराणसी | मैदागिन ड्रॉप | दाह संस्कार गाइड"
-metaDescription: "मणिकर्णिका घाट के लिए टैक्सी बुक करें। मैदागिन गेट ड्रॉप, 200 मीटर पैदल मार्ग, एटीकेट SMS ब्रीफिंग, नो-फोटो पॉलिसी, फिक्स्ड किराया, वेटिंग सर्विस। काशी टैक्सी ☎ 9450301573"
+metaDescription: "मणिकर्णिका घाट के लिए टैक्सी बुक करें। मैदागिन गेट ड्रॉप, 200 मीटर पैदल मार्ग, एटीकेट SMS ब्रीफिंग, नो-फोटो पॉलिसी, फिक्स्ड किराया, वेटिंग सर्विस। काशी टैक्सी ☎ 80621 82380"
 description: "मणिकर्णिका घाट पहुँच गाइड—मैदागिन ड्रॉप, 200 मीटर पैदल मार्ग, आचार-संहिता, और सुरक्षित पिकअप/रिटर्न।"
 location:
   name: "मणिकर्णिका घाट (मैदागिन गेट से)"
@@ -60,7 +60,7 @@ faqSchema:
         "@id": "https://www.kashitaxi.in/#org",
         "name": "Kashi Taxi",
         "url": "https://www.kashitaxi.in/",
-        "telephone": "+919450301573"
+        "telephone": "+918062182380"
       },
       "areaServed": {"@type": "Place", "name": "मणिकर्णिका घाट, वाराणसी"},
       "serviceArea": {"@type": "City", "name": "Varanasi"},
@@ -68,7 +68,7 @@ faqSchema:
         "@type": "ServiceChannel",
         "serviceUrl": "https://wa.me/919450301573?text=Visit%20Manikarnika%20Ghat",
         "availableLanguage": ["hi", "en"],
-        "servicePhone": {"@type": "ContactPoint", "telephone": "+919450301573", "contactType": "reservations"}
+        "servicePhone": {"@type": "ContactPoint", "telephone": "+918062182380", "contactType": "reservations"}
       },
       "offers": {
         "@type": "AggregateOffer",
@@ -134,7 +134,7 @@ faqSchema:
 - **रिटर्न पिकअप:** वही स्थान; रास्ता खोजने की चिंता नहीं।
 
 ## मणिकर्णिका विजिट बुक करें
-- कॉल डिस्पैच: **[9450301573](tel:9450301573)**
+- कॉल डिस्पैच: **[80621 82380](tel:+918062182380)**
 - व्हाट्सएप: **[wa.me/919450301573](https://wa.me/919450301573?text=Visit%20Manikarnika%20Ghat)**
 
 ## FAQs

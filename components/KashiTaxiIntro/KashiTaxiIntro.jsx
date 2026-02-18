@@ -47,7 +47,7 @@ export default function KashiTaxiIntro() {
             </p>
 
             <p className="mt-4 text-base leading-relaxed text-slate-600 md:text-lg">
-              Varanasi Travels (Vinayak Travels Tour) handles <strong>Varanasi airport pickups, local 8 hr / 80 km Kashi Darshan circuits, Ayodhya &amp; Prayagraj pilgrim tours, Bodh Gaya spiritual trips, Vindhyachal same‑day journeys</strong> and multi-day tempo traveller packages. WhatsApp <a className="text-orange-700 underline" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a> or call <a className="text-orange-700 underline" href="tel:+919450301573">+91-94503-01573</a> for instant cab quotes, itinerary help and pricing that includes tolls, parking and night allowances upfront.
+              Varanasi Travels (Vinayak Travels Tour) handles <strong>Varanasi airport pickups, local 8 hr / 80 km Kashi Darshan circuits, Ayodhya &amp; Prayagraj pilgrim tours, Bodh Gaya spiritual trips, Vindhyachal same‑day journeys</strong> and multi-day tempo traveller packages. WhatsApp <a className="text-orange-700 underline" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a> or call <a className="text-orange-700 underline" href="tel:+918062182380">+91-80621-82380</a> for instant cab quotes, itinerary help and pricing that includes tolls, parking and night allowances upfront.
             </p>
 
             {/* trust chips */}
@@ -74,7 +74,7 @@ export default function KashiTaxiIntro() {
                 </a>
               </Button>
               <Button asChild variant="secondary" size="lg" className="rounded-2xl border-orange-200 bg-orange-50 text-orange-900 hover:bg-orange-100">
-                <a href="tel:+919450301573" aria-label="Call now +91-94503-01573">
+                <a href="tel:+918062182380" aria-label="Call now +91-80621-82380">
                   <Phone className="mr-2 h-5 w-5"/> Call Now
                 </a>
               </Button>
@@ -102,7 +102,7 @@ export default function KashiTaxiIntro() {
               </ol>
               <Separator className="my-4"/>
               <p className="text-sm text-slate-600">
-                <strong>Book now:</strong> WhatsApp <a className="text-orange-700 underline" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a> · Call <a className="text-orange-700 underline" href="tel:+919450301573">+91-94503-01573</a>
+                <strong>Book now:</strong> WhatsApp <a className="text-orange-700 underline" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a> · Call <a className="text-orange-700 underline" href="tel:+918062182380">+91-80621-82380</a>
               </p>
             </CardContent>
           </Card>
@@ -363,7 +363,7 @@ export default function KashiTaxiIntro() {
                 </a>
               </Button>
               <Button asChild variant="secondary" className="rounded-2xl border-orange-200 bg-orange-50 text-orange-900 hover:bg-orange-100">
-                <a href="tel:+919450301573" aria-label="Call now +91-94503-01573">
+                <a href="tel:+918062182380" aria-label="Call now +91-80621-82380">
                   <Phone className="mr-2 h-4 w-4"/> Call Now
                 </a>
               </Button>
@@ -423,7 +423,7 @@ export default function KashiTaxiIntro() {
             <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer"><MessageCircle className="mr-2 h-4 w-4"/> WhatsApp Us</a>
           </Button>
           <Button asChild variant="secondary" className="rounded-2xl border-orange-200 bg-orange-50 text-orange-900 hover:bg-orange-100">
-            <a href="tel:+919450301573"><Phone className="mr-2 h-4 w-4"/> Call Now</a>
+            <a href="tel:+918062182380"><Phone className="mr-2 h-4 w-4"/> Call Now</a>
           </Button>
         </div>
         <p className="mt-4 text-xs text-slate-500">Last updated: August 2025</p>

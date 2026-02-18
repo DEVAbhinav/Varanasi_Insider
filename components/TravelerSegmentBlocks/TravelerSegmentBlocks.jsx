@@ -7,7 +7,7 @@ import TrustBadge from '../TrustBadge/TrustBadge';
  * Displays 3 segment cards: Families, Solo Women, Foreign Visitors
  * Each with tailored USPs and WhatsApp CTA with pre-filled message
  */
-export default function TravelerSegmentBlocks({ phone = '919935474730' }) {
+export default function TravelerSegmentBlocks({ phone = '9180621 82380' }) {
     const segments = [
         {
             id: 'families',

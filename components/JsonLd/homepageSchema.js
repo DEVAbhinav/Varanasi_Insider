@@ -33,8 +33,8 @@ const getHomeSchema = (site) => ({
       description:
         'Best taxi in Varanasi for airport pickup, local sightseeing & outstation trips. Trusted Varanasi taxi service offering 24×7 cab booking, tempo traveller hire, and pilgrimage tours with experienced drivers.',
       slogan: 'Your trusted travel partner in Varanasi',
-      telephone: '+91-9450301573',
-      faxNumber: '+91-9935474730',
+      telephone: '+91-8062182380',
+      faxNumber: '+91 80621 82380',
       email: 'taxiinvaranasiii@gmail.com',
       address: {
         '@type': 'PostalAddress',
@@ -130,7 +130,7 @@ const getHomeSchema = (site) => ({
       contactPoint: [
         {
           '@type': 'ContactPoint',
-          telephone: '+91-9450301573',
+          telephone: '+91-8062182380',
           contactType: 'customer service',
           availableLanguage: ['en', 'hi'],
           hoursAvailable: {
@@ -150,7 +150,7 @@ const getHomeSchema = (site) => ({
         },
         {
           '@type': 'ContactPoint',
-          telephone: '+91-9935474730',
+          telephone: '+91 80621 82380',
           contactType: 'WhatsApp',
           availableLanguage: ['en', 'hi'],
         },

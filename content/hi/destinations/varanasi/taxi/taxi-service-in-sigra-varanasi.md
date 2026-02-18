@@ -50,7 +50,7 @@ faqSchema:
         "@id": "https://www.kashitaxi.in/#org",
         "name": "Kashi Taxi",
         "url": "https://www.kashitaxi.in/",
-        "telephone": "+919450301573"
+        "telephone": "+918062182380"
       },
       "areaServed": {
         "@type": "Place",
@@ -66,7 +66,7 @@ faqSchema:
         "availableLanguage": ["hi", "en"],
         "servicePhone": {
           "@type": "ContactPoint",
-          "telephone": "+919450301573",
+          "telephone": "+918062182380",
           "contactType": "reservations"
         }
       },
@@ -160,7 +160,7 @@ faqSchema:
 3) **बोर्ड करें और चलें:** कोई झंझट नहीं; किराया और रूट पहले ही फ़ाइनल।
 
 ## अभी सिगरा से कैब बुक करें
-- कॉल डिस्पैच: **[9450301573](tel:9450301573)**
+- कॉल डिस्पैच: **[80621 82380](tel:+918062182380)**
 - व्हाट्सएप: **[wa.me/919450301573](https://wa.me/919450301573?text=Book%20cab%20from%20Sigra)**
 - भुगतान: कैश, UPI, कार्ड; रसीद उपलब्ध।
 

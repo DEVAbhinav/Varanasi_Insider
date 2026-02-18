@@ -407,7 +407,7 @@ faqSchema:
 ### Book Varanasi to Nepal Taxi in 3 Easy Steps
 
 **Step 1: Contact Us**
-- Phone: [9450301573](tel:9450301573)
+- Phone: [80621 82380](tel:+918062182380)
 - WhatsApp: [+91 9450301573](https://wa.me/919450301573?text=Book%20Varanasi%20to%20Nepal%20taxi)
 
 **Step 2: Share Details**
@@ -472,7 +472,7 @@ A: We offer one-way taxi service. Kathmandu/Pokhara have daily flights to many I
 
 **Ready to explore Nepal from Varanasi?**  
 Multiple routes, multiple destinations!  
-📞 Call: [9450301573](tel:9450301573)  
+📞 Call: [80621 82380](tel:+918062182380)  
 💬 WhatsApp: [+91 9450301573](https://wa.me/919450301573?text=Plan%20my%20Nepal%20trip)
 
 **Your Gateway to the Himalayas!** 🇮🇳 → 🇳🇵

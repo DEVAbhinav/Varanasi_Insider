@@ -379,7 +379,7 @@ export default function Custom404() {
                 <p className="mt-1 text-sm text-slate-600">WhatsApp 99354 74730 or call 94503 01573. Clean AC cars, polite drivers, on-time pickups.</p>
                 <div className="mt-3 flex flex-wrap gap-2">
                   <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer" className="rounded-full bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700">WhatsApp Us</a>
-                  <a href="tel:+919450301573" className="rounded-full bg-orange-50 px-4 py-2 text-sm font-medium text-orange-900 ring-1 ring-orange-200 hover:bg-orange-100">Call Now</a>
+                  <a href="tel:+918062182380" className="rounded-full bg-orange-50 px-4 py-2 text-sm font-medium text-orange-900 ring-1 ring-orange-200 hover:bg-orange-100">Call Now</a>
                 </div>
               </div>
             </div>

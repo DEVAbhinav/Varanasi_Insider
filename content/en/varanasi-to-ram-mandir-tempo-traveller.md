@@ -94,7 +94,7 @@ All packages include fuel, toll, UP state tax, Ayodhya parking, driver allowance
 
 ## Ram Mandir Tempo Traveller Booking Flow
 
-1. WhatsApp passenger count, travel date, and preferred seat layout to [+91 99354 74730](tel:+919935474730).
+1. WhatsApp passenger count, travel date, and preferred seat layout to [+91 99354 74730](tel:+918062182380).
 2. We share live availability, vehicle photos, and darshan slot advisory.
 3. Reserve with token (₹1,000 UPI). Balance payable post-trip via UPI or card.
 4. Receive driver + coordinator contact 12 hours before departure.
@@ -116,7 +116,7 @@ All packages include fuel, toll, UP state tax, Ayodhya parking, driver allowance
 
 - **Primary CTA:** Book Ram Mandir Darshan Coach (₹14,500)
 - **Secondary CTA:** Request Sugam Darshan Assistance
-- Call: [+91 99354 74730](tel:+919935474730)
+- Call: [+91 80621 82380](tel:+918062182380)
 - WhatsApp: https://wa.me/919935474730?text=Ram%20Mandir%20Tempo%20Traveller%20Booking
 
 ![Priority Ram Mandir tempo traveller lineup before dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus1.jpg "Priority Ram Mandir tempo traveller lineup before dawn")

@@ -54,9 +54,9 @@ export default function NavBar() {
             WhatsApp
           </a>
           <a 
-            href="tel:+919450301573" 
+            href="tel:+918062182380" 
             className={`${styles.navButtonCall} hidden md:inline-flex`}
-            aria-label="Call us at +91-94503-01573"
+            aria-label="Call us at +91-80621-82380"
           >
             Call
           </a>
@@ -207,7 +207,7 @@ export default function NavBar() {
                 <span className="text-sm">WhatsApp</span>
               </a>
               <a 
-                href="tel:+919450301573" 
+                href="tel:+918062182380" 
                 className="flex flex-col items-center justify-center gap-1.5 rounded-xl bg-gradient-to-br from-cyan-500 to-teal-500 text-white py-4 font-semibold hover:from-cyan-600 hover:to-teal-600 transition-all shadow-md hover:shadow-lg hover:-translate-y-0.5 active:translate-y-0"
               >
                 <Phone className="h-6 w-6" />

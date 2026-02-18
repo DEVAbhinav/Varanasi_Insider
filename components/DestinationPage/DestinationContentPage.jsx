@@ -10,7 +10,7 @@ import HreflangTags from '@/components/SEO/HreflangTags';
 import MapWidget from '@/components/Map/MapWidget';
 
 const DEFAULT_SITE_BASE = 'https://www.kashitaxi.in';
-const DEFAULT_PHONE = '9935474730';
+const DEFAULT_PHONE = '80621 82380';
 
 const CATEGORY_TITLE_MAP = {
   'tour-packages': 'Tour Package',

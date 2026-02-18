@@ -14,13 +14,13 @@ export default function BusPilgrimagePage({ postData, relatedBusPages, jsonLdDat
     <>
   <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={`bus/${pageSlug}`} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
       <NavBar />
-      <StickyContactBar phone={postData.phone || '9450301573'} />
+      <StickyContactBar phone={postData.phone || '8062182380'} />
       <main>
         <div className="container mx-auto px-4 py-8">
           <ArticleSection contentHtml={postData.contentHtml} />
         </div>
         <CTASection
-          phone={postData.phone || '9450301573'}
+          phone={postData.phone || '8062182380'}
           title="Need help with multi-city pilgrimage logistics?"
           subtitle="WhatsApp us for variant feasibility & buffer strategy"
           variant="default"

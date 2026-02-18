@@ -173,7 +173,7 @@ module.exports = async function (context, req) {
           </div>
           <div class="footer">
             <p>Kashi Taxi - Travel Agent Varanasi<br>
-            📞 +91 99354 74730 | 🌐 kashitaxi.in</p>
+            📞 +91 80621 82380 | 🌐 kashitaxi.in</p>
           </div>
         </div>
       </body>
@@ -234,7 +234,7 @@ module.exports = async function (context, req) {
             <div class="card">
               <span class="badge">Thank you for reaching out</span>
               <h1>Hi ${safeCustomerName}, your Varanasi trip is now on our priority list ✅</h1>
-              <p>Thanks for sharing your travel details with <strong>Kashi Taxi | Travel Agent Varanasi</strong>. Our concierge will call you shortly from <strong>+91 99354 74730</strong> to lock in cars, timings, and best-value routes.</p>
+              <p>Thanks for sharing your travel details with <strong>Kashi Taxi | Travel Agent Varanasi</strong>. Our concierge will call you shortly from <strong>+91 80621 82380</strong> to lock in cars, timings, and best-value routes.</p>
 
               <div class="highlight">
                 <h2>What happens next (within 30 minutes)</h2>
@@ -261,12 +261,12 @@ module.exports = async function (context, req) {
 
               <div class="cta-group">
                 <a href="https://wa.me/919935474730?text=Hi%20team%20Kashi%20Taxi!%20I%20just%20sent%20an%20inquiry." class="cta">📲 WhatsApp Concierge</a>
-                <a href="tel:+919935474730" class="cta-secondary">📞 Call +91 99354 74730</a>
+                <a href="tel:+918062182380" class="cta-secondary">📞 Call +91 80621 82380</a>
               </div>
 
               <p>Save our contact, reply with any must-see spots or timing constraints, and we will personalise the itinerary before we loop in your driver.</p>
 
-              <p>If you need immediate support, call <a href="tel:+919450301573" style="color: #0369a1; font-weight: 600; text-decoration: none;">+91 94503 01573</a>. We are live from <strong>5:30 AM to midnight</strong>.</p>
+              <p>If you need immediate support, call <a href="tel:+918062182380" style="color: #0369a1; font-weight: 600; text-decoration: none;">+91 80621 82380</a>. We are live from <strong>5:30 AM to midnight</strong>.</p>
 
               <p>🙏 We’re excited to host you in Kashi.<br><strong>Team Kashi Taxi | Travel Agent Varanasi</strong></p>
 
@@ -379,7 +379,7 @@ module.exports = async function (context, req) {
       body: JSON.stringify({
         error: 'Something went wrong. Please WhatsApp or call us directly.',
         whatsapp: 'https://wa.me/919935474730',
-        phone: '+91 99354 74730',
+        phone: '+91 80621 82380',
       }),
     };
   }

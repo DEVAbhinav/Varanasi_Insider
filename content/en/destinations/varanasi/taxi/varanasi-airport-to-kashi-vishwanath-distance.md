@@ -7,7 +7,7 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Airport to Kashi Vishwanath [2026]: ₹850 | Corridor Access"
 metaDescription: "Distance: 25 km, Time: 60-90 mins. Prepaid taxi fare ₹850-950. Avoid scams: Book reliable airport pickup to Godowlia/Temple gate. Check current rates."
-description: "Book pre-arranged Varanasi Airport to Kashi Vishwanath taxi at ₹690 flash rate with corridor parking access. 25km, 40min drop. Driver waits 15min. Call 9450301573."
+description: "Book pre-arranged Varanasi Airport to Kashi Vishwanath taxi at ₹690 flash rate with corridor parking access. 25km, 40min drop. Driver waits 15min. Call 80621 82380."
 keywords:
   - "varanasi airport to kashi vishwanath distance"
   - "varanasi airport to kashi vishwanath temple taxi fare"
@@ -58,7 +58,7 @@ location:
     "@type": "LocalBusiness",
     "name": "Vinayak Travels Varanasi",
     "alternateName": "Kashi Taxi",
-    "telephone": "+919450301573",
+    "telephone": "+918062182380",
     "url": "https://www.kashitaxi.in",
     "priceRange": "₹690-₹2100",
     "address": {
@@ -125,7 +125,7 @@ location:
 | Typical fare | Sedan ₹800–900 · SUV ₹1,100–1,300 |
 
 ## Book your Varanasi Airport to Kashi Vishwanath transfer
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Kashi%20Vishwanath)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, corridor-ready).

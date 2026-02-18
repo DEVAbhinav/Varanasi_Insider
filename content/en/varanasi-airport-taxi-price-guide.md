@@ -36,7 +36,7 @@ relatedPosts:
   "provider": {
     "@type": "LocalBusiness",
     "name": "Vinayak Travels Varanasi",
-    "telephone": "+919450301573",
+    "telephone": "+918062182380",
     "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide"
   },
   "areaServed": ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "BHU", "Sarnath"],

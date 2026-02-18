@@ -17,7 +17,7 @@ serviceCategory: "Pilgrimage Services"
 schemaType: "Product"
 structuredData: true
 published: true
-phone: "9450301573"
+phone: "8062182380"
 keywords:
   - pind daan gaya service from varanasi
   - pind daan cost in gaya 2025
@@ -598,7 +598,7 @@ We'll discuss:
 
 ## Book Your Verified Pind Daan Service
 
-📞 **Phone:** [+91-9450301573](tel:+919450301573)
+📞 **Phone:** [+91-8062182380](tel:+918062182380)
 
 💬 **WhatsApp:** [Chat Now](https://wa.me/919450301573?text=I%20want%20to%20book%20verified%20pind%20daan%20service%20in%20Gaya)
 

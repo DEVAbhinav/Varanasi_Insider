@@ -49,7 +49,7 @@ faqSchema:
         "@id": "https://www.kashitaxi.in/#org",
         "name": "Kashi Taxi",
         "url": "https://www.kashitaxi.in/",
-        "telephone": "+919450301573"
+        "telephone": "+918062182380"
       },
       "areaServed": {
         "@type": "Airport",
@@ -65,7 +65,7 @@ faqSchema:
         "availableLanguage": ["hi", "en"],
         "servicePhone": {
           "@type": "ContactPoint",
-          "telephone": "+919450301573",
+          "telephone": "+918062182380",
           "contactType": "reservations"
         }
       },
@@ -163,7 +163,7 @@ faqSchema:
 - भुगतान: कैश, UPI, कार्ड; GST इनवॉइस उपलब्ध।
 
 ## एयरपोर्ट पिकअप शेड्यूल करें
-- कॉल डिस्पैच: **[9450301573](tel:9450301573)**
+- कॉल डिस्पैच: **[80621 82380](tel:+918062182380)**
 - व्हाट्सएप: **[wa.me/919450301573](https://wa.me/919450301573?text=Schedule%20airport%20pickup)**
 - ग्रुप अराइवल के लिए ट्रैवल डेस्क सपोर्ट उपलब्ध।
 

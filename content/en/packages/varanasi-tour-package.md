@@ -7,7 +7,7 @@ description: "Best Varanasi tour package guide 2026 covering Varanasi city tour,
 keywords: ["Varanasi tour package","Varanasi tour","Varanasi city tour","Varanasi temple tour","Varanasi tour packages 2026","best Varanasi tour","Kashi Vishwanath Temple tour","Ganga Aarti Varanasi","Sarnath day trip","Varanasi trip planning"]
 
 
-phone: "9450301573"
+phone: "8062182380"
 schemaType: "Service"
 serviceCategory: "Tour Packages"
 structuredData: true
@@ -661,4 +661,4 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 
 ---
 
-**Need help planning your Varanasi tour?** Contact us at **9450301573** for customized **Varanasi tour packages**, **Varanasi city tour**, and **Varanasi temple tour** bookings.
+**Need help planning your Varanasi tour?** Contact us at **80621 82380** for customized **Varanasi tour packages**, **Varanasi city tour**, and **Varanasi temple tour** bookings.

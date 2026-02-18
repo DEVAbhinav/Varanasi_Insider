@@ -30,7 +30,7 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         description:
           'Banaras travel agency for spiritual journeys, airport transfers, tempo traveller hire, and custom pilgrimage packages with local guides and 24/7 support.',
         slogan: 'Your trusted Banaras travel partner',
-        telephone: '+91-9450301573',
+        telephone: '+91-8062182380',
         email: 'taxiinvaranasiii@gmail.com',
         address: {
           '@type': 'PostalAddress',
@@ -78,13 +78,13 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         contactPoint: [
           {
             '@type': 'ContactPoint',
-            telephone: '+91-9450301573',
+            telephone: '+91-8062182380',
             contactType: 'customer service',
             availableLanguage: ['en', 'hi'],
           },
           {
             '@type': 'ContactPoint',
-            telephone: '+91-9935474730',
+            telephone: '+91 80621 82380',
             contactType: 'WhatsApp',
             availableLanguage: ['en', 'hi'],
           },

@@ -210,9 +210,9 @@ Varanasi will observe both celebrations, offering visitors a profound day of ref
    style="background-color: #059669; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold; margin: 0.5rem;">
    📱 WhatsApp: Book Now
 </a><br>
-<a href="tel:+919450301573" 
+<a href="tel:+918062182380" 
    style="background-color: #dc2626; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold; margin: 0.5rem;">
-   📞 Call: +91 94503 01573
+   📞 Call: +91 80621 82380
 </a>
 </div>
 

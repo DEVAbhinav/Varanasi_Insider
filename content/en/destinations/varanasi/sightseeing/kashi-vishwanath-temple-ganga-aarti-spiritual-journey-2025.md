@@ -442,7 +442,7 @@ First-time pilgrimage to Kashi Vishwanath is often deeply emotional. Visitors re
 ### Integrated Boat + Temple Booking
 
 **For complete 3–4 hour spiritual journey:**
-- Book boat through Kashitaxi: +91 94503 01573
+- Book boat through Kashitaxi: +91 80621 82380
 - Message: "Temple + boat combo, [date], [time preference], [headcount]"
 - Specify: Temple morning darshan (6:00 AM) + afternoon sacred dip + evening boat aarti
 - Kashitaxi coordinates hotel pickup, temple timing, boat departure

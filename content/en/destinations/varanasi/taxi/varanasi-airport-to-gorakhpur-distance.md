@@ -40,7 +40,7 @@ faqSchema:
 | Typical fare | Hatchback ₹2,280–₹2,464 · Sedan ₹3,500–₹3,653 · Innova ₹3,517–₹3,894 |
 
 ## Book your Varanasi Airport to Gorakhpur taxi
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Gorakhpur)**
 
 > **Tip:** For darshan at Gorakhnath Temple, inform your driver about aarti timing so he can choose the best arrival window and parking.

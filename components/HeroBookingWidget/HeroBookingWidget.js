@@ -139,7 +139,7 @@ export default function HeroBookingWidget() {
         setError(data.error || 'Something went wrong. Please try again.');
       }
     } catch (err) {
-      setError('Network error. Please call us at 94503 01573');
+      setError('Network error. Please call us at 80621 82380');
       console.error('Booking error:', err);
     } finally {
       setLoading(false);
@@ -459,7 +459,7 @@ export default function HeroBookingWidget() {
             </div>
 
             <p className="text-xs text-center text-gray-600 mt-3">
-              Or call directly: <a href="tel:9450301573" className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">94503 01573</a>
+              Or call directly: <a href="tel:+918062182380" className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">80621 82380</a>
             </p>
           </form>
         )}

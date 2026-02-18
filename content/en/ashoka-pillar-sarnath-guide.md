@@ -583,7 +583,7 @@ When visiting the **original Ashoka Pillar Sarnath**, combine it with:
 - ✅ 24/7 booking support
 
 📱 **WhatsApp "ASHOKA PILLAR"**: **+91 94503 01573**  
-📞 **Call**: **+91 94503 01573**
+📞 **Call**: **+91 80621 82380**
 
 **27+ Years Experience** | **4.8★ Google Rating** | **Police-Verified Drivers** | **No Hidden Charges**
 

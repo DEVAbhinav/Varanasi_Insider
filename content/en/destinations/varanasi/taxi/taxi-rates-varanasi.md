@@ -41,7 +41,7 @@ offers:
     name: "Airport Transfer"
 provider:
   name: "Kashi Taxi"
-  telephone: "+91-9450301573"
+  telephone: "+91-8062182380"
 areaServed: ["Varanasi"]
 aggregateRating:
   ratingValue: "4.9"
@@ -211,8 +211,8 @@ A: Call us for custom quotes. Multi-day trips get better rates.
 
 Experience honest, fixed-price taxi service. No surprises, no negotiations.
 
-📞 **Call:** +91-9450301573 (24/7)
-📱 **WhatsApp:** [+91-9450301573](https://wa.me/919450301573?text=Check%20Taxi%20Rates)
+📞 **Call:** +91-8062182380 (24/7)
+📱 **WhatsApp:** [+91-8062182380](https://wa.me/919450301573?text=Check%20Taxi%20Rates)
 🌐 **Book Online:** Contact us for transparent pricing
 
 Clear rates, professional service, guaranteed satisfaction. ✓

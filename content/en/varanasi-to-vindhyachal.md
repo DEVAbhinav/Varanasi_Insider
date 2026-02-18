@@ -47,7 +47,7 @@ relatedPosts:
   "provider": {
     "@type": "LocalBusiness",
     "name": "Vinayak Travels Varanasi",
-    "telephone": "+919450301573",
+    "telephone": "+918062182380",
     "url": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal",
     "address": {
       "@type": "PostalAddress",

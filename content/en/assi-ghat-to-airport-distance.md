@@ -55,7 +55,7 @@ Planning your travel between Assi Ghat and Lal Bahadur Shastri International Air
 
 > **Book Your Airport Transfer!**  
 > Get a fixed, reliable fare for your trip between Assi Ghat and the airport.  
-> **Call:** **[9450301573](tel:9450301573)**  
+> **Call:** **[80621 82380](tel:+918062182380)**  
 > **Visit:** **[www.kashitaxi.in](https://www.kashitaxi.in)**
 
 ![Driver holding name placard at Varanasi airport arrivals exit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg "Airport taxi pickup at VNS")
@@ -113,4 +113,4 @@ Yes, it is generally safe. However, it is always recommended to use a reputable,
 
 ---
 
-To pre-book your taxi from Assi Ghat to the airport, call **9450301573**.
+To pre-book your taxi from Assi Ghat to the airport, call **80621 82380**.

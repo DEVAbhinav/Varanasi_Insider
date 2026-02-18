@@ -224,7 +224,7 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
         </button>
 
         <p className="text-xs text-gray-500 text-center mt-3 font-medium">
-          Prefer talking? Call <a href="tel:9450301573" className="text-cyan-700 font-bold hover:text-cyan-800 transition-colors underline decoration-cyan-300 decoration-2 underline-offset-2">94503 01573</a>
+          Prefer talking? Call <a href="tel:+918062182380" className="text-cyan-700 font-bold hover:text-cyan-800 transition-colors underline decoration-cyan-300 decoration-2 underline-offset-2">80621 82380</a>
         </p>
       </form>
     </div>

@@ -325,7 +325,7 @@ Review our pre-designed itineraries or request a custom package based on your in
 
 **Contact us:**
 - **WhatsApp:** +91 9450301573 (instant confirmation)
-- **Call:** 9450301573 (9:00 AM - 9:00 PM)
+- **Call:** 80621 82380 (9:00 AM - 9:00 PM)
 - **Website:** www.kashitaxi.in
 
 **Provide:**
@@ -545,7 +545,7 @@ Ready to explore the spiritual heart of India without any hassle? Our Varanasi l
 
 **Instant Booking:**
 - **WhatsApp:** [+91 9450301573](https://wa.me/919450301573)
-- **Call:** 9450301573
+- **Call:** 80621 82380
 - **Website:** www.kashitaxi.in
 
 **Quick Quote Template (Copy & Send via WhatsApp):**

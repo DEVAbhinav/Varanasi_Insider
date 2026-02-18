@@ -43,7 +43,7 @@ faqSchema:
 | Typical fare | Hatchback ₹1,380–₹1,450 · Sedan ₹1,449–₹1,715 · Innova ₹1,715–₹1,799 |
 
 ## Book your Varanasi Airport to Vindhyachal taxi
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Vindhyachal)**
 
 > **Tip:** Mention if you are doing full **Trikon Yatra (Maa Vindhyavasini, Ashtabhuja, Kali Khoh)** so we can plan darshan order and parking in advance.

@@ -10,7 +10,7 @@ featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kash
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg"
 metaTitle: "Where to Stay in Vindhyachal 2025 – Dharamshala Slots, Hotels & Navratri Plan"
 metaDescription: "Lock Vindhyachal stays for 2025 with dharamshala waitlists, Navratri sell-out calendar, Mirzapur hotel backups, parking intel, and booking scripts locals rely on."
-phone: "9450301573"
+phone: "8062182380"
 schemaType: "Article"
 category: "Accommodation Guide"
 structuredData: true
@@ -68,7 +68,7 @@ As someone who regularly assists pilgrims with **Vindhyachal accommodation**—f
 | --- | --- | --- | --- |
 | Goenka Dharamshala | ≈260 m | +91-94158-00011 | Limited AC rooms &nbsp;·&nbsp; waitlist 3-5 days |
 | Surjidevi K. Jaipuria Trust | ≈120 m | +91-542-231-2245 | Priority for families & senior citizens |
-| Birla Vishram Gruh | ≈700 m | +91-94503-01573 | Parking + cooler rooms &nbsp;·&nbsp; slots reopen every Monday |
+| Birla Vishram Gruh | ≈700 m | +91-80621-82380 | Parking + cooler rooms &nbsp;·&nbsp; slots reopen every Monday |
 | Shailshiv Atithi Bhavan | ≈700 m | +91-95549-87654 | 4-bed AC suites · weekend surge expected |
 | B R Palace Vindhyachal | ≈50 m | +91-63071-44221 | Temple-view deluxe sold out; express waitlist running |
 | Trust Dorm Cluster (local lodges) | 50–200 m | On-site allocation | Walk-in only · reach before 9 AM |

@@ -272,7 +272,7 @@ export default function HomePage({ allPosts }) {
               </div>
             </div>
             <div className="flex items-center gap-2 text-[11px] text-gray-500">
-              <a href="tel:+919450301573" className="inline-flex items-center gap-1 text-cyan-700 font-semibold">Talk to us</a>
+              <a href="tel:+918062182380" className="inline-flex items-center gap-1 text-cyan-700 font-semibold">Talk to us</a>
             </div>
           </div>
           <div
@@ -658,7 +658,7 @@ export default function HomePage({ allPosts }) {
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">
-                <p>Book a <strong>taxi in Varanasi online</strong> through our website booking form, WhatsApp (+91-9935474730), or call (+91-9450301573). Share your pickup location, date/time, and trip type. Get instant quote and confirmation. No advance payment required for most bookings.</p>
+                <p>Book a <strong>taxi in Varanasi online</strong> through our website booking form, WhatsApp (+91-9935474730), or call (+91-8062182380). Share your pickup location, date/time, and trip type. Get instant quote and confirmation. No advance payment required for most bookings.</p>
               </div>
             </details>
           </div>

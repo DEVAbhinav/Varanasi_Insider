@@ -335,7 +335,7 @@ Pind-daan is a Hindu ritual performed for the peace and salvation of departed so
 ### Book Varanasi to Gaya Taxi in 3 Easy Steps
 
 **Step 1: Contact Us**
-- Phone: [9450301573](tel:9450301573)
+- Phone: [80621 82380](tel:+918062182380)
 - WhatsApp: [+91 9450301573](https://wa.me/919450301573?text=Book%20Varanasi%20to%20Gaya%20taxi)
 
 **Step 2: Share Details**
@@ -397,5 +397,5 @@ Pind-daan is a Hindu ritual performed for the peace and salvation of departed so
 
 **Ready for your Gaya pilgrimage?**  
 Book your Varanasi to Gaya taxi now - Most affordable route!  
-📞 Call: [9450301573](tel:9450301573)  
+📞 Call: [80621 82380](tel:+918062182380)  
 💬 WhatsApp: [+91 9450301573](https://wa.me/919450301573?text=Book%20Gaya%20Pind-daan%20taxi)

@@ -47,7 +47,7 @@ offers:
     name: "Airport to Taj Gateway SUV"
 provider:
   name: "Kashi Taxi"
-  telephone: "+91-9450301573"
+  telephone: "+91-8062182380"
 areaServed: ["Varanasi Airport", "Taj Gateway Hotel", "Assi Ghat", "Nadesar"]
 aggregateRating:
   ratingValue: "4.9"
@@ -152,7 +152,7 @@ The **Taj Gateway Hotel** is strategically located in the Assi Ghat area, one of
 
 **Step 2: Arrange Private Taxi (Our Service)**
 - Email: taxiinvaranasiii@gmail.com
-- WhatsApp: +91-9450301573
+- WhatsApp: +91-8062182380
 - Provide:
   - Flight number and arrival time
   - Passenger name
@@ -261,9 +261,9 @@ The **Taj Gateway Hotel** is strategically located in the Assi Ghat area, one of
 
 **Questions Before Booking?**
 
-- **WhatsApp:** +91-9450301573
+- **WhatsApp:** +91-8062182380
 - **Email:** taxiinvaranasiii@gmail.com
-- **Call:** +91-9450301573
+- **Call:** +91-8062182380
 
 We're here 24/7 to ensure your Varanasi arrival is smooth and stress-free.
 

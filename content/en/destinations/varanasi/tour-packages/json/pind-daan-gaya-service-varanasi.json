@@ -30,7 +30,7 @@
         "seller": {
           "@type": "LocalBusiness",
           "name": "KashiTaxi",
-          "telephone": "+91-9450301573",
+          "telephone": "+91-8062182380",
           "url": "https://www.kashitaxi.in"
         },
         "offers": [
@@ -134,7 +134,7 @@
       "provider": {
         "@type": "LocalBusiness",
         "name": "KashiTaxi",
-        "telephone": "+91-9450301573"
+        "telephone": "+91-8062182380"
       },
       "areaServed": [
         {
@@ -195,7 +195,7 @@
       "name": "KashiTaxi",
       "image": "https://www.kashitaxi.in/images/logo.png",
       "url": "https://www.kashitaxi.in",
-      "telephone": "+91-9450301573",
+      "telephone": "+91-8062182380",
       "email": "info@kashitaxi.in",
       "address": {
         "@type": "PostalAddress",

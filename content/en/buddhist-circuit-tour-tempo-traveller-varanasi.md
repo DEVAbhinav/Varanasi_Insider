@@ -192,7 +192,7 @@ Upgrade: 17 seater @ ₹27/km; Premium Urbania @ ₹34–35/km (comfort premium 
 ## Book Your Buddhist Circuit Tempo Traveller
 Share group size, dates, practice emphasis (meditation / study / photographic), and Lumbini preference. I’ll revert with refined pacing & transparent vehicle quotation.
 
-- Call: [+91 99354 74730](tel:+919935474730)
+- Call: [+91 80621 82380](tel:+918062182380)
 - WhatsApp: https://wa.me/919935474730?text=Buddhist%20Circuit%20Tempo%20Traveller%20Plan
 
 ## Related

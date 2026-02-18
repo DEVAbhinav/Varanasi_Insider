@@ -7,7 +7,7 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to Dashashwamedh Ghat Taxi ₹690–950 | 25 km"
 metaDescription: "Airport to Dashashwamedh: 25 km, usually 40–55 min. Sedan ₹800–950 (flash ₹690 on eligible bookings). Aim to arrive 45–60 min before Ganga Aarti."
-description: "Varanasi Airport to Dashashwamedh Ghat taxi ₹690 (Flash offer 2 hours). 25km, 40-55 min. Book instant or call 9450301573. Catch 6:30 PM Ganga Aarti."
+description: "Varanasi Airport to Dashashwamedh Ghat taxi ₹690 (Flash offer 2 hours). 25km, 40-55 min. Book instant or call 80621 82380. Catch 6:30 PM Ganga Aarti."
 location:
   name: "Dashashwamedh Ghat"
   address: "Dashashwamedh Ghat Rd, Varanasi, Uttar Pradesh 221001"
@@ -43,7 +43,7 @@ faqSchema:
   "name": "Varanasi Airport to Dashashwamedh Ghat Taxi",
   "description": "Instant taxi booking from Varanasi Airport to Dashashwamedh Ghat. Flash fare ₹690, 40 minutes.",
   "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance",
-  "telephone": "+919450301573",
+  "telephone": "+918062182380",
   "priceRange": "₹690-950",
   "priceCurrency": "INR",
   "areaServed": {
@@ -69,7 +69,7 @@ faqSchema:
 
 # Varanasi Airport to Dashashwamedh Ghat Taxi | ₹690 Flash Offer
 
-**Book Instant Now** | Call: [9450301573](tel:9450301573) | WhatsApp: [wa.me/919450301573](https://wa.me/919450301573?text=Hi,%20I%20need%20taxi%20from%20airport%20to%20Dashashwamedh.%20What's%20my%20best%20time?)
+**Book Instant Now** | Call: [9450301573](tel:+918062182380) | WhatsApp: [wa.me/919450301573](https://wa.me/919450301573?text=Hi,%20I%20need%20taxi%20from%20airport%20to%20Dashashwamedh.%20What's%20my%20best%20time?)
 
 **Quick Facts:** 25 km • 40-55 minutes • ₹690-950 • 4.8★ Verified
 
@@ -85,7 +85,7 @@ faqSchema:
 | Typical fare | Sedan ₹800–950 · SUV ₹1,150–1,350 |
 
 ## Book your Varanasi Airport to Dashashwamedh Ghat transfer
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Dashashwamedh%20Ghat)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby for Godowlia barricade).

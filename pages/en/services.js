@@ -65,7 +65,7 @@ export default function ServicesPage({ services, jsonLd }) {
             From first hello to final drop, our dispatcher stays on WhatsApp{' '}
             <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a>
             {' '}and phone{' '}
-            <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href="tel:+919450301573">+91-94503-01573</a>
+            <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href="tel:+918062182380">+91-80621-82380</a>
             . We arrange airport taxis, Pink Taxi (women-only) rides,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-day-tour-cab-charges">local sightseeing cabs</Link>,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-ayodhya">Ayodhya / Prayagraj pilgrim circuits</Link>,{' '}

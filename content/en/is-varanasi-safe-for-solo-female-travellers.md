@@ -93,7 +93,7 @@ I’ve clocked **80 km on foot during eight solo trips across Kashi’s ghats 
 ### What should solo female travellers wear in Varanasi?
 Opt for breathable, modest layers—think cotton kurta or loose tee with full-length bottoms and a light scarf. It keeps attention low in temple queues, helps you blend in tuk-tuks, and doubles as a quick cover during shrine entries or chilly dawn boat rides.
 
-* Trusted cab: **+91 9450301573**
+* Trusted cab: **+91 80621 82380**
 
 ---
 

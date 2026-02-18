@@ -51,7 +51,7 @@ faqSchema:
         "@id": "https://www.kashitaxi.in/#org",
         "name": "Kashi Taxi",
         "url": "https://www.kashitaxi.in/",
-        "telephone": "+919450301573"
+        "telephone": "+918062182380"
       },
       "areaServed": {
         "@type": "Airport",
@@ -67,7 +67,7 @@ faqSchema:
         "availableLanguage": ["en", "hi"],
         "servicePhone": {
           "@type": "ContactPoint",
-          "telephone": "+919450301573",
+          "telephone": "+918062182380",
           "contactType": "reservations"
         }
       },
@@ -167,7 +167,7 @@ Arriving at Lal Bahadur Shastri International Airport (Babatpur)? Skip the prepa
 - Payment options: Cash, UPI, card; GST invoice available.
 
 ## Schedule my airport pickup
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Schedule%20airport%20pickup)**
 - Corporate/travel desk support available for group arrivals.
 
@@ -197,7 +197,7 @@ No. The quoted fare already includes airport parking and usual tolls for city dr
 - For Ganga Aarti 6:30 PM → Depart 5:00 PM
 - For Sarnath morning → Depart 7:00 AM (avoid fog)
 
-**Book winter taxi:** [9450301573](tel:9450301573)
+**Book winter taxi:** [80621 82380](tel:+918062182380)
 
 ---
 

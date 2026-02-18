@@ -125,7 +125,7 @@ organizer:
           "name": "How do I book taxi for Mauni Amavasya pre-dawn snan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Book at least 10 days in advance by calling +91-94503-01573. Pre-dawn pickup (4:00-4:30 AM) costs ₹900-1200 sedan, ₹1400-1800 SUV for ghat transfer. Prayagraj Sangam day trip packages ₹3500-4500 sedan with return. Drivers trained to respect silence vow—minimal conversation during journey."
+            "text": "Book at least 10 days in advance by calling +91-80621-82380. Pre-dawn pickup (4:00-4:30 AM) costs ₹900-1200 sedan, ₹1400-1800 SUV for ghat transfer. Prayagraj Sangam day trip packages ₹3500-4500 sedan with return. Drivers trained to respect silence vow—minimal conversation during journey."
           }
         }
       ]
@@ -145,7 +145,7 @@ organizer:
           "addressRegion": "Uttar Pradesh",
           "addressCountry": "IN"
         },
-        "telephone": "+91-94503-01573",
+        "telephone": "+91-80621-82380",
         "url": "https://www.kashitaxi.in"
       },
       "areaServed": {
@@ -522,7 +522,7 @@ Many devout pilgrims consider bathing at **Triveni Sangam in Prayagraj** on Maun
 
 ### Booking Prayagraj Sangam Trip
 
-📞 **Call/WhatsApp:** +91-94503-01573
+📞 **Call/WhatsApp:** +91-80621-82380
 
 **Book by:** January 15, 2026 (2 weeks before)
 
@@ -894,7 +894,7 @@ Many devout pilgrims consider bathing at **Triveni Sangam in Prayagraj** on Maun
 
 ### Taxi Booking & Support
 
-**KashiTaxi 24/7 Line:** +91-94503-01573
+**KashiTaxi 24/7 Line:** +91-80621-82380
 
 **For Silent Pilgrims:**
 - WhatsApp messaging available if you need to communicate during maun vrat
@@ -952,7 +952,7 @@ Transform Mauni Amavasya 2026 into a life-changing spiritual milestone with prof
 
 ### 🚖 Book Now – Special Mauni Amavasya Rates
 
-**📞 Call (Before Vow Begins!):** +91-94503-01573
+**📞 Call (Before Vow Begins!):** +91-80621-82380
 **📱 WhatsApp (Silent-Friendly):** [Click Here](https://wa.me/919450301573?text=Mauni%20Amavasya%20booking)
 **🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/booking)
 

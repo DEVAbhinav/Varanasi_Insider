@@ -50,7 +50,7 @@ faqSchema:
         "@id": "https://www.kashitaxi.in/#org",
         "name": "Kashi Taxi",
         "url": "https://www.kashitaxi.in/",
-        "telephone": "+919450301573"
+        "telephone": "+918062182380"
       },
       "areaServed": {
         "@type": "Place",
@@ -66,7 +66,7 @@ faqSchema:
         "availableLanguage": ["en", "hi", "ta", "te", "kn", "ml"],
         "servicePhone": {
           "@type": "ContactPoint",
-          "telephone": "+919450301573",
+          "telephone": "+918062182380",
           "contactType": "reservations"
         }
       },
@@ -139,7 +139,7 @@ Kedar and Harishchandra sit in Varanasi's spiritual core. Lanes are narrow, crow
 - **Fixed pilgrim rates:** Locked 24 hours prior; zero surge.
 
 ## Book a Kedar/Harishchandra taxi
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp: **[wa.me/919450301573](https://wa.me/919450301573?text=Book%20Kedar%20Harishchandra%20taxi)**
 
 ## FAQs about Kedar & Harishchandra taxi service

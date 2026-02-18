@@ -122,10 +122,10 @@ export default function CategoryPageLayout({
             </p>
             <div className="flex flex-wrap gap-3 justify-center">
               <a 
-                href="tel:+919450301573"
+                href="tel:+918062182380"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-cyan-500 to-teal-500 text-white font-bold rounded-xl hover:from-cyan-600 hover:to-teal-600 transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1"
               >
-                📞 Call: 94503 01573
+                📞 Call: 80621 82380
               </a>
               <a 
                 href="https://wa.me/919935474730"

@@ -7,7 +7,7 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS → Banaras Station (BSBS/Manduadih) Taxi ₹690 | 45–60 min"
 metaDescription: "VNS airport to Banaras Station (BSBS/Manduadih): 27 km, 45–60 min. Fixed sedan fares ₹690 Flash (weekday) or ₹750–₹950. Platform 1 drop."
-description: "Never miss your train! Pre-book VNS to Banaras Railway Station taxi at ₹690. Flight tracking, platform drop, luggage assistance. 27km, 45-60min. Call 9450301573."
+description: "Never miss your train! Pre-book VNS to Banaras Railway Station taxi at ₹690. Flight tracking, platform drop, luggage assistance. 27km, 45-60min. Call 80621 82380."
 keywords:
   - "varanasi airport to banaras railway station distance"
   - "vns to manduadih taxi fare"
@@ -43,7 +43,7 @@ faqSchema:
   "provider": {
     "@type": "LocalBusiness",
     "name": "Vinayak Travels Varanasi",
-    "telephone": "+919450301573",
+    "telephone": "+918062182380",
     "url": "https://www.kashitaxi.in",
     "priceRange": "₹690-₹2150"
   },
@@ -81,7 +81,7 @@ faqSchema:
 | Typical fare | Sedan ₹750–950 · SUV ₹1,150–1,350 |
 
 ## Book your Varanasi Airport to Manduadih (BSBS) transfer
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Banaras%20Railway%20Station)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Manduadih porch).

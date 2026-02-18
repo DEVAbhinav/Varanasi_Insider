@@ -6,7 +6,7 @@ lastUpdated: "2025-12-09"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "केदार घाट टैक्सी वाराणसी | हरिश्चंद्र घाट कैब | तीर्थयात्री सेवा"
-metaDescription: "केदार घाट और हरिश्चंद्र घाट के लिए टैक्सी बुक करें। गौरी केदारेश्वर मंदिर ड्रॉप, दक्षिण भारतीय तीर्थयात्रियों के लिए फिक्स्ड किराया, सांस्कृतिक ब्रीफिंग, नो-हॉन्क सम्मानजनक ड्राइव। काशी टैक्सी ☎ 9450301573"
+metaDescription: "केदार घाट और हरिश्चंद्र घाट के लिए टैक्सी बुक करें। गौरी केदारेश्वर मंदिर ड्रॉप, दक्षिण भारतीय तीर्थयात्रियों के लिए फिक्स्ड किराया, सांस्कृतिक ब्रीफिंग, नो-हॉन्क सम्मानजनक ड्राइव। काशी टैक्सी ☎ 80621 82380"
 description: "तीर्थ यात्रियों के लिए केदार और हरिश्चंद्र घाट टैक्सी—शांत ड्राइव, सांस्कृतिक ब्रीफिंग, और फिक्स्ड किराये।"
 location:
   name: "केदार घाट, वाराणसी"
@@ -59,7 +59,7 @@ faqSchema:
         "@id": "https://www.kashitaxi.in/#org",
         "name": "Kashi Taxi",
         "url": "https://www.kashitaxi.in/",
-        "telephone": "+919450301573"
+        "telephone": "+918062182380"
       },
       "areaServed": {"@type": "Place", "name": "केदार घाट और हरिश्चंद्र घाट, वाराणसी"},
       "serviceArea": {"@type": "City", "name": "Varanasi"},
@@ -67,7 +67,7 @@ faqSchema:
         "@type": "ServiceChannel",
         "serviceUrl": "https://wa.me/919450301573?text=Book%20Kedar%20Harishchandra%20taxi",
         "availableLanguage": ["hi", "en", "ta", "te", "kn", "ml"],
-        "servicePhone": {"@type": "ContactPoint", "telephone": "+919450301573", "contactType": "reservations"}
+        "servicePhone": {"@type": "ContactPoint", "telephone": "+918062182380", "contactType": "reservations"}
       },
       "offers": {
         "@type": "AggregateOffer",
@@ -132,7 +132,7 @@ faqSchema:
 - **फिक्स्ड तीर्थ किराया:** 24 घंटे पहले लॉक; कोई अतिरिक्त नहीं।
 
 ## केदार/हरिश्चंद्र टैक्सी बुक करें
-- कॉल डिस्पैच: **[9450301573](tel:9450301573)**
+- कॉल डिस्पैच: **[80621 82380](tel:+918062182380)**
 - व्हाट्सएप: **[wa.me/919450301573](https://wa.me/919450301573?text=Book%20Kedar%20Harishchandra%20taxi)**
 
 ## FAQs

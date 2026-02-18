@@ -50,7 +50,7 @@ faqSchema:
         "@id": "https://www.kashitaxi.in/#org",
         "name": "Kashi Taxi",
         "url": "https://www.kashitaxi.in/",
-        "telephone": "+919450301573"
+        "telephone": "+918062182380"
       },
       "areaServed": {
         "@type": "Place",
@@ -66,7 +66,7 @@ faqSchema:
         "availableLanguage": ["en", "hi"],
         "servicePhone": {
           "@type": "ContactPoint",
-          "telephone": "+919450301573",
+          "telephone": "+918062182380",
           "contactType": "reservations"
         }
       },
@@ -140,7 +140,7 @@ Manikarnika is a sacred cremation ground, not a tourist spot. We drop at **Maida
 - **Return pickup:** Same spot pickup; no need to navigate alone.
 
 ## Book Manikarnika access
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp: **[wa.me/919450301573](https://wa.me/919450301573?text=Visit%20Manikarnika%20Ghat)**
 
 ## Manikarnika FAQ

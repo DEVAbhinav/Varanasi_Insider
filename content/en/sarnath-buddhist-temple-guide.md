@@ -747,7 +747,7 @@ For devotees wanting to stay close to **Sarnath temples** for multi-day spiritua
 - ✅ 24/7 booking support
 
 📱 **WhatsApp "SARNATH TEMPLES"**: **+91 94503 01573**  
-📞 **Call**: **+91 94503 01573**
+📞 **Call**: **+91 80621 82380**
 
 **27+ Years Serving Buddhist Pilgrims** | **4.8★ Google Rating** | **Multilingual Drivers** | **No Hidden Charges**
 

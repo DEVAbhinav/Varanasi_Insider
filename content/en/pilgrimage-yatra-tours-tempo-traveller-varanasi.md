@@ -61,5 +61,5 @@ Varanasi is a gateway to revered yatras across UP and beyond. Travel together in
 
 - **Primary CTA**: Customize Your Pilgrimage Tour
 - **Secondary CTA**: Discuss Your Yatra Plans with Our Expert
-- **Call**: [+91 99354 74730](tel:+919935474730)
+- **Call**: [+91 80621 82380](tel:+918062182380)
 - **WhatsApp**: https://wa.me/919935474730?text=Pilgrimage%20tour%20planning

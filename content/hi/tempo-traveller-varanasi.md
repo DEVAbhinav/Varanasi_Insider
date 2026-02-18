@@ -128,7 +128,7 @@ auditNote: "Manually created Hindi localized version."
 उत्तर: सीमित; 1×1 महाराजा / 2×1 स्टैंडर्ड उपलब्ध।
 
 ## अभी नि:शुल्क कोट पाएं
-- कॉल: +91 99354 74730
+- कॉल: +91 80621 82380
 - WhatsApp: https://wa.me/919935474730?text=Tempo%20Traveller%20Varanasi%20Quote
 - फ़ॉर्म (वेबसाइट): /hi/contact (यदि उपलब्ध)
 

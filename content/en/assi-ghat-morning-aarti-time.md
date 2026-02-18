@@ -28,7 +28,7 @@ relatedPosts:
 ## How to Reach Before Sunrise
 - Hotel pickup at 5:45 AM ensures stress-free entry.
 - From airport, schedule a 4:30 AM drop with wait service.
-- Pre-book via [dispatch](/booking) or call +91-94503-01573.
+- Pre-book via [dispatch](/booking) or call +91-80621-82380.
 
 ## Photography & Gear
 - Shoot from right staircase for diagonal flame shots.

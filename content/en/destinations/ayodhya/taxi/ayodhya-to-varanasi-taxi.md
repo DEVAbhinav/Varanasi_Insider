@@ -6,7 +6,7 @@ lastUpdated: "2025-12-31"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Ayodhya to Varanasi Taxi | Ram Janmabhoomi to Kashi | ₹3,550"
-metaDescription: "Ayodhya to Varanasi taxi ₹3,550. Ram Mandir to Kashi 4-5 hrs. Door-to-door pickup. Book Now ☎ 9935474730. Divine Quad Circuit same-day."
+metaDescription: "Ayodhya to Varanasi taxi ₹3,550. Ram Mandir to Kashi 4-5 hrs. Door-to-door pickup. Book Now ☎ 80621 82380. Divine Quad Circuit same-day."
 description: "Ayodhya to Varanasi taxi from ₹3,550. 150-220 km in 4-5 hours via NH330. Ram Janmabhoomi to Kashi Vishwanath pilgrimage. Professional drivers."
 keywords:
   - "ayodhya to varanasi taxi"
@@ -452,7 +452,7 @@ faqSchema:
 ### Ready to Complete the Divine Quad Circuit?
 
 **Call/WhatsApp**: [+91 99354 74730](https://wa.me/919935474730?text=Ayodhya%20to%20Varanasi%20taxi%20booking)  
-**Alternate**: [+91 94503 01573](tel:+919450301573)  
+**Alternate**: [+91 80621 82380](tel:+918062182380)  
 **Email**: taxiinvaranasiii@gmail.com  
 **Website**: [www.kashitaxi.in](https://www.kashitaxi.in/booking)
 

@@ -145,7 +145,7 @@ Upgrade: 17 seater @ ₹27/km; Premium Urbania @ ₹34–35/km (add comfort valu
 ## Book Your Naimisharanya Yatra Tempo Traveller
 Send dates + passenger count + ritual intentions. We respond with seating recommendation, transparent costing and schedule fine‑tuning.
 
-- Call: [+91 99354 74730](tel:+919935474730)
+- Call: [+91 80621 82380](tel:+918062182380)
 - WhatsApp: https://wa.me/919935474730?text=Naimisharanya%20Tempo%20Traveller%20Plan
 
 ## Related

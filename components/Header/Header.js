@@ -24,12 +24,12 @@ export default function Header({ title, featuredImage }) {
             <a href="#" className={styles.navLink}>Home</a>
             <a href="#" className={styles.navLink}>Travel Guides</a>
             <a href="#" className={styles.navLink}>Outstation Taxis</a>
-            <a href="tel:9450301573" className={styles.navLink}>Contact</a>
+            <a href="tel:+918062182380" className={styles.navLink}>Contact</a>
           </nav>
 
           {/* CTA Button */}
           <a
-            href="tel:9450301573"
+            href="tel:+918062182380"
             className={styles.ctaButton}
           >
             Get Fare

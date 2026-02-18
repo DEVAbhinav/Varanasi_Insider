@@ -133,7 +133,7 @@ The Nadesar location isn't accidental—historic manicured gardens, cultural gra
 - **Daily rate:** ₹1,800–₹2,000
 - **3-day BLF package:** ₹5,200 all-inclusive
 
-**CTA:** Reply "Fleet Options BLF" to `+91 94503 01573` with your group size and preferred vehicle—I'll send availability screenshots, confirm rates, and lock your booking with 30% advance (balance on completion).
+**CTA:** Reply "Fleet Options BLF" to `+91 80621 82380` with your group size and preferred vehicle—I'll send availability screenshots, confirm rates, and lock your booking with 30% advance (balance on completion).
 
 ## "BLF 2026 Delegate Package" – All-Inclusive Pricing
 
@@ -163,7 +163,7 @@ For delegates arriving morning of January 30, staying through February 1:
 - Sarnath excursion (half-day): +₹1,200
 - Evening Ganga Aarti VIP seating coordination: +₹500
 
-**CTA:** Ping "3-Day Package + [Vehicle Type]" to `+91 94503 01573` along with your flight/train details—I'll reserve your vehicle, send the advance payment link, and assign your dedicated driver with full contact info.
+**CTA:** Ping "3-Day Package + [Vehicle Type]" to `+91 80621 82380` along with your flight/train details—I'll reserve your vehicle, send the advance payment link, and assign your dedicated driver with full contact info.
 
 ## One-Way & Hourly Rental Options
 
@@ -183,7 +183,7 @@ For panel-specific transport or half-day coverage:
 - **8-hour block:** ₹2,200–₹3,000
 - **Waiting charges:** Included; driver stands by at Taj Ganges during your sessions
 
-**CTA:** Drop "Hourly Booking BLF" + your specific date and duration to `+91 94503 01573`—instant rate confirmation and driver assignment within 5 minutes.
+**CTA:** Drop "Hourly Booking BLF" + your specific date and duration to `+91 80621 82380`—instant rate confirmation and driver assignment within 5 minutes.
 
 ## English-Speaking Drivers Who Understand BLF Context
 
@@ -221,7 +221,7 @@ Literary festival delegates aren't typical tourists. Your driver should:
 - Rooftop dinner at Brown Bread Bakery: Overlooks Ganges, organic menu
 - Silk weaving unit visit: Authentic Banarasi silk looms (requires advance booking)
 
-**CTA:** Message "BLF + Excursions" to `+91 94503 01573` with your available time slots—I'll build a custom itinerary matching panel gaps and send combined transport + experience pricing.
+**CTA:** Message "BLF + Excursions" to `+91 80621 82380` with your available time slots—I'll build a custom itinerary matching panel gaps and send combined transport + experience pricing.
 
 ## Booking Process & Payment
 
@@ -264,7 +264,7 @@ Driver meets you at arrivals with name placard, assists luggage, confirms Taj Ga
 - 48–72 hours: 50% refund
 - <48 hours: Advance non-refundable (reschedule available)
 
-**CTA:** Ready to lock your dates? Ping "Book Now BLF 2026" to `+91 94503 01573`—I'll walk you through the entire process in under 3 minutes.
+**CTA:** Ready to lock your dates? Ping "Book Now BLF 2026" to `+91 80621 82380`—I'll walk you through the entire process in under 3 minutes.
 
 ## Why Delegates Choose KashiTaxi for Banaras Lit Fest
 
@@ -287,7 +287,7 @@ Driver meets you at arrivals with name placard, assists luggage, confirms Taj Ga
 - Drivers briefed on BLF 2026 venue protocols, Taj Ganges security procedures
 - English communication eliminates translation friction
 
-**CTA:** Explore our [BLF 2026 Venue & Logistics Guide](/en/city/varanasi/events/banaras-lit-fest-2026-venue-guide-hotels-logistics) for hotel recommendations near Taj Ganges, or message `+91 94503 01573` for instant booking assistance.
+**CTA:** Explore our [BLF 2026 Venue & Logistics Guide](/en/city/varanasi/events/banaras-lit-fest-2026-venue-guide-hotels-logistics) for hotel recommendations near Taj Ganges, or message `+91 80621 82380` for instant booking assistance.
 
 ## Frequently Asked Questions
 
@@ -381,7 +381,7 @@ A: Yes—we have [corporate mobility solutions](/en/city/varanasi/events/banaras
   "provider": {
     "@type": "LocalBusiness",
     "name": "KashiTaxi",
-    "telephone": "+91-94503-01573",
+    "telephone": "+91-80621-82380",
     "url": "https://www.kashitaxi.in",
     "address": {
       "@type": "PostalAddress",

@@ -21,7 +21,7 @@ Whether you’re a group of pilgrims, a family seeking new experiences, or a gro
 
 We understand that you do not want to micromanage local taxis or darshan logistics; you want one operator to **"take care of everything"**. Our **Varanasi group tour package** provides the best & cheapest group tour package for pilgrims & family.
 
-> **Quick Group Booking:** Call [+91 99354 74730](tel:+919935474730) for a custom quote for your group (4 to 40+ people).
+> **Quick Group Booking:** Call [+91 80621 82380](tel:+918062182380) for a custom quote for your group (4 to 40+ people).
 
 ---
 
@@ -150,6 +150,6 @@ We cater to your specific group size with appropriate vehicles:
 ### Ready to Book Your Group Tour?
 Don't stress about the planning. Let the local experts handle it.
 
-*   **Call/WhatsApp:** [+91 99354 74730](tel:+919935474730)
+*   **Call/WhatsApp:** [+91 99354 74730](tel:+918062182380)
 *   **Email:** info@kashitaxi.in
 *   **Get a Quote:** [Contact Us for Custom Packages](/en/varanasi-travel-agent)

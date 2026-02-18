@@ -119,7 +119,7 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 **Urbania बनाम महाराजा अंतर?** Urbania = प्रीमियम फैक्टरी हाई रूफ; महाराजा = 1×1 लग्ज़री मोडिफाइड सीट लेआउट।
 
 ## बुकिंग / सटीक कोट
-- कॉल: +91 99354 74730
+- कॉल: +91 80621 82380
 - WhatsApp: https://wa.me/919935474730?text=Tempo%20Traveller%20Rates%20Vns%20Quote
 - रेफर करें मुख्य परिचय पेज: [/hi/tempo-traveller-varanasi](/hi/tempo-traveller-varanasi)
 

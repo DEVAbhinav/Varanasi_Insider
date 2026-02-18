@@ -125,7 +125,7 @@ organizer:
           "name": "How do I book taxi for Makar Sankranti in Varanasi?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Book 7-10 days in advance for Makar Sankranti by calling +91-94503-01573. Early morning packages (5:30 AM pickup) cost ₹700-1000 sedan, ₹1100-1500 SUV. Full-day packages (snan + kite festival + city tour) available ₹2200-3200. Tempo travellers for groups ₹4500-6000. We provide kite-buying assistance and rooftop location recommendations."
+            "text": "Book 7-10 days in advance for Makar Sankranti by calling +91-80621-82380. Early morning packages (5:30 AM pickup) cost ₹700-1000 sedan, ₹1100-1500 SUV. Full-day packages (snan + kite festival + city tour) available ₹2200-3200. Tempo travellers for groups ₹4500-6000. We provide kite-buying assistance and rooftop location recommendations."
           }
         }
       ]
@@ -145,7 +145,7 @@ organizer:
           "addressRegion": "Uttar Pradesh",
           "addressCountry": "IN"
         },
-        "telephone": "+91-94503-01573",
+        "telephone": "+91-80621-82380",
         "url": "https://www.kashitaxi.in"
       },
       "areaServed": {
@@ -1007,7 +1007,7 @@ If you lose something at ghats:
 
 ### Taxi Booking Support
 
-**KashiTaxi 24/7 Helpline:** +91-94503-01573
+**KashiTaxi 24/7 Helpline:** +91-80621-82380
 
 **WhatsApp Support:** Available throughout Sankranti day for:
 - Driver not arriving on time
@@ -1050,7 +1050,7 @@ Don't just witness Makar Sankranti—**immerse yourself** in India's most joyous
 
 ### 🚖 Book Your Sankranti Taxi Now
 
-**📞 Call:** +91-94503-01573 (24/7)
+**📞 Call:** +91-80621-82380 (24/7)
 **📱 WhatsApp:** [Click to Chat](https://wa.me/919450301573?text=Makar%20Sankranti%20booking)
 **🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/booking)
 

@@ -56,7 +56,7 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
     at the arrivals gate. On‑time pickup guaranteed.
   </p>
   <div class="cta-actions">
-    <a class="btn-primary" href="tel:+919450301573">Call to Book</a>
+    <a class="btn-primary" href="tel:+918062182380">Call to Book</a>
     <a class="btn-outline" href="https://wa.me/919935474730?text=Hi%2C%20I%20want%20to%20pre-book%20an%20airport%20pickup%20at%20VNS">Chat on WhatsApp</a>
   </div>
   <p class="fine-print">Transparent pricing • Driver details shared in advance • Free 15‑min wait at arrivals</p>

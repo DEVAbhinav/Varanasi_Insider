@@ -62,7 +62,7 @@ faqSchema:
   "@type": "TourOperator",
   "name": "KashiTaxi Varanasi Tourist Packages",
   "url": "https://www.kashitaxi.in/en/tourist-spots-varanasi",
-  "telephone": "+919450301573",
+  "telephone": "+918062182380",
   "areaServed": "Varanasi, India",
   "availableLanguage": ["en", "hi"],
   "offers": [
@@ -853,7 +853,7 @@ Dress modestly with covered shoulders and legs (avoid shorts, tank tops, reveali
 ### 📞 Contact Kashi Taxi - Trusted Since 1998
 
 📱 **WhatsApp** (Quick Response): **+91 94503 01573**  
-📞 **Call Now**: **+91 94503 01573**  
+📞 **Call Now**: **+91 80621 82380**  
 🌐 **Website**: www.kashitaxi.in  
 ⏰ **Available**: 24/7 for bookings & inquiries
 
@@ -896,7 +896,7 @@ Experience the timeless magic of Banaras at your own pace, respecting local cust
 ### Quick Booking Options:
 
 **📱 WhatsApp** (Fastest Response): **+91 94503 01573**  
-**📞 Call Directly**: **+91 94503 01573**  
+**📞 Call Directly**: **+91 80621 82380**  
 **💻 Online Booking**: www.kashitaxi.in
 
 ### Popular Tourist Spot Packages:

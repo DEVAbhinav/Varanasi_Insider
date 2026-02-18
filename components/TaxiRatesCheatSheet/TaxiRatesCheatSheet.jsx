@@ -200,11 +200,11 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                                 WhatsApp Quote
                             </a>
                             <a
-                                href="tel:+919450301573"
+                                href="tel:+918062182380"
                                 className="inline-flex items-center gap-2 px-5 py-2.5 bg-white hover:bg-gray-50 text-gray-700 font-semibold rounded-full border border-gray-200 shadow-sm hover:shadow-md transition-all duration-300"
                             >
                                 <Phone className="w-4 h-4" />
-                                Call 94503-01573
+                                Call 80621 82380
                             </a>
                         </div>
                     )}

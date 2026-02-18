@@ -66,7 +66,7 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
 
         {/* Traveler Segment Blocks - Target persona value props */}
         {postData.showSegmentBlocks && (
-          <TravelerSegmentBlocks phone={postData.phone || '919935474730'} />
+          <TravelerSegmentBlocks phone={postData.phone || '9180621 82380'} />
         )}
 
         {/* Service Content Part 1 */}

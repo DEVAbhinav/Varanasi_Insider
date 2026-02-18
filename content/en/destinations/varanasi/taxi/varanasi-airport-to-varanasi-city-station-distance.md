@@ -6,8 +6,8 @@ lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to Varanasi City Station: 21km, ₹690 [2026]"
-metaDescription: "Varanasi Airport to City Station (BCY) = 21km, 35 min. Fixed ₹690 taxi. Best for ghat-side hotels. No surge. Book: 9450301573"
-description: "Perfect for ghat-side stays! Airport to Varanasi City Station taxi at ₹690. 21km, 35-45min via old city route. Platform drop included. Call 9450301573."
+metaDescription: "Varanasi Airport to City Station (BCY) = 21km, 35 min. Fixed ₹690 taxi. Best for ghat-side hotels. No surge. Book: 80621 82380"
+description: "Perfect for ghat-side stays! Airport to Varanasi City Station taxi at ₹690. 21km, 35-45min via old city route. Platform drop included. Call 80621 82380."
 keywords:
   - "varanasi airport to varanasi city station distance"
   - "vns to bcy taxi fare"
@@ -45,7 +45,7 @@ faqSchema:
 | Typical fare | Sedan ₹700–900 · SUV ₹1,050–1,250 |
 
 ## Book your Varanasi Airport to Varanasi City Station transfer
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Varanasi%20City%20Station)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at BCY gate).

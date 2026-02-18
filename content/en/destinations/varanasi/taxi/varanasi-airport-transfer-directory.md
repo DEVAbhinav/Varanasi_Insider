@@ -18,7 +18,7 @@ keywords:
   - varanasi airport cab booking
 ctaTitle: "Need a Custom Airport Pickup?"
 ctaSubtitle: "Share your flight details and destination—we'll create a personalized transfer plan with exact fare and timing."
-phone: "9450301573"
+phone: "8062182380"
 ---
 
 # Varanasi Airport Transfer Directory
@@ -118,7 +118,7 @@ Comprehensive guides for Varanasi Airport transfers.
 
 ## Book Your Airport Transfer
 
-**Call/WhatsApp:** [+91-9450301573](tel:+919450301573)
+**Call/WhatsApp:** [+91-8062182380](tel:+918062182380)
 
 Share your:
 - Flight number & arrival time

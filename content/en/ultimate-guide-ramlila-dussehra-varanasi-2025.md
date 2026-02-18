@@ -1,7 +1,7 @@
 ---
 lang: en
 title: "Ramlila Dussehra Varanasi 2025 - Book Airport Taxi Guide"
-description: "Ramlila Dussehra 2025 Varanasi dates, schedule, venues. Book airport taxi for ₹690. Festival crowds, parking, viewing spots explained. 9450301573."
+description: "Ramlila Dussehra 2025 Varanasi dates, schedule, venues. Book airport taxi for ₹690. Festival crowds, parking, viewing spots explained. 80621 82380."
 date: 2025-09-27
 tags: [ramlila varanasi 2025, dussehra varanasi 2025, ramnagar ramlila unesco, ravana dahan locations, october festivals varanasi, gandhi jayanti dussehra, varanasi festival transport, ramlila schedule 2025, dussehra dates 2025, varanasi travel guide, bharat milap nati imli, ramnagar ramlila moving stages, tempo traveller dussehra booking, dussehra ravana dahan varanasi oct 2, book taxi varanasi festivals, varanasi october 2025 events, ramlila dussehra transport booking, ultimate varanasi festival guide]
 slug: ultimate-guide-ramlila-dussehra-varanasi-2025
@@ -310,7 +310,7 @@ Our range of **[Tempo Travellers Varanasi 2025](/en/tempo-traveller-group-bookin
    style="background-color: #16a34a; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; display: inline-block; font-weight: bold; margin-right: 1rem;">
    📱 WhatsApp Booking
 </a>
-<a href="tel:+919450301573" 
+<a href="tel:+918062182380" 
    style="background-color: #1e40af; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; display: inline-block; font-weight: bold;">
    📞 Call Now
 </a>
@@ -463,9 +463,9 @@ Our drivers are Varanasi natives who understand:
    style="background-color: #059669; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold; margin: 0.5rem;">
    💬 WhatsApp: Instant Quotes
 </a><br>
-<a href="tel:+919450301573" 
+<a href="tel:+918062182380" 
    style="background-color: #dc2626; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold; margin: 0.5rem;">
-   📞 Call: +91 94503 01573
+   📞 Call: +91 80621 82380
 </a>
 </div>
 

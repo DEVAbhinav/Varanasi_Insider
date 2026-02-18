@@ -131,7 +131,7 @@ Use our quick form or contact us directly.
 
 ## Book Now
 
-- Call: [+91 99354 74730](tel:+919935474730)
+- Call: [+91 80621 82380](tel:+918062182380)
 - WhatsApp: https://wa.me/919935474730?text=Hi%20Kashi%20Taxi%2C%20I%27d%20like%20to%20book%20a%20Tempo%20Traveller.
 - Website: https://www.kashitaxi.in/
 

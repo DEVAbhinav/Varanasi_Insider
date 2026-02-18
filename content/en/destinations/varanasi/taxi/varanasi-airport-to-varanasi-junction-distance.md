@@ -6,8 +6,8 @@ lastUpdated: "2025-12-22"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS → Varanasi Junction (BSB/Cantt): 22 km, ₹690 Fixed [2026]"
-metaDescription: "Varanasi Airport to Cantt (BSB) = 22km, 35 min. Fixed ₹690 taxi—no surge! Platform drop included. 24/7 booking: 9450301573"
-description: "Beat surge pricing! Airport to Varanasi Junction (BSB/Cantt) taxi at ₹690 fixed fare. 22km, 35-50min, platform drop included. Book: 9450301573."
+metaDescription: "Varanasi Airport to Cantt (BSB) = 22km, 35 min. Fixed ₹690 taxi—no surge! Platform drop included. 24/7 booking: 80621 82380"
+description: "Beat surge pricing! Airport to Varanasi Junction (BSB/Cantt) taxi at ₹690 fixed fare. 22km, 35-50min, platform drop included. Book: 80621 82380."
 keywords:
   - "varanasi airport to varanasi junction distance"
   - "varanasi airport to varanasi railway station taxi fare"
@@ -42,7 +42,7 @@ faqSchema:
   "image": "https://www.kashitaxi.in/images/kashi-taxi-logo.png",
   "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance",
   "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance",
-  "telephone": "+919450301573",
+  "telephone": "+918062182380",
   "priceRange": "₹690-₹2050",
   "address": {
     "@type": "PostalAddress",
@@ -88,7 +88,7 @@ faqSchema:
 | Typical fare | Sedan ₹700–900 · SUV ₹1,050–1,250 |
 
 ## Book your Varanasi Airport to Varanasi Junction transfer
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Varanasi%20Junction)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Cantt parao lane).

@@ -19,7 +19,7 @@ relatedPosts:
 
 **Perfect for 2‑3 families or 8‑17 pilgrims · AC tempo with driver · Local 8hr/80km from ₹6,000 · Outstation from ₹27/km**
 
-**➡️ [Get Group Fare on WhatsApp](https://wa.me/919935474730?text=17-seater%20booking) · Call: [+91 99354 74730](tel:+919935474730)**
+**➡️ [Get Group Fare on WhatsApp](https://wa.me/919935474730?text=17-seater%20booking) · Call: [+91 99354 74730](tel:+918062182380)**
 
 | Service Type | Rate | Details |
 | --- | --- | --- |
@@ -82,7 +82,7 @@ In essence, this mini‑coach gives you bus‑like capacity with the agility of 
 
 ## Book Your 17‑Seater
 
-- Call: [+91 99354 74730](tel:+919935474730)
+- Call: [+91 80621 82380](tel:+918062182380)
 - WhatsApp: https://wa.me/919935474730?text=17-seater%20booking
 
 ## Related

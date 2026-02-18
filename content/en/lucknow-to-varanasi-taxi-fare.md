@@ -37,7 +37,7 @@ Planning a road trip from Lucknow to Varanasi? This guide provides all the essen
 
 > **Book Your Ride Instantly!**  
 > Get a fixed, all-inclusive fare for your Lucknow to Varanasi trip.  
-> **Call:** **[9450301573](tel:9450301573)**  
+> **Call:** **[80621 82380](tel:+918062182380)**  
 > **Visit:** **[www.kashitaxi.in](https://www.kashitaxi.in)**
 
 ![Spacious SUV for family and group travel](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png "SUV option for extra luggage and comfort on the highway")
@@ -94,4 +94,4 @@ While the drive is typically 5-6 hours, it's wise to budget at least 7-8 hours t
 
 ---
 
-For a hassle-free booking and a confirmed, competitive fare, contact **[9450301573](tel:9450301573)**.
+For a hassle-free booking and a confirmed, competitive fare, contact **[80621 82380](tel:+918062182380)**.

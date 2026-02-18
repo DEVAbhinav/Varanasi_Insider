@@ -6,7 +6,7 @@ lastUpdated: "2025-12-31"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Kanpur to Varanasi Taxi | Industrial Hub to Kashi | ₹5,500"
-metaDescription: "Kanpur to Varanasi taxi ₹5,500. 293 km, 6-7 hrs. Book Now ☎ 9935474730. Prayagraj stopover option. Business + pilgrimage route."
+metaDescription: "Kanpur to Varanasi taxi ₹5,500. 293 km, 6-7 hrs. Book Now ☎ 80621 82380. Prayagraj stopover option. Business + pilgrimage route."
 description: "Kanpur to Varanasi taxi from ₹5,500. 293-346 km in 6-7 hours via NH19. Business + spiritual route. Dense train connectivity. Professional drivers."
 keywords:
   - "kanpur to varanasi taxi"
@@ -332,7 +332,7 @@ Total: 300 km | 8-9 hours (including 2-3h Prayagraj stopover) | Only 7 km longer
 ### Ready for the Business-Spiritual Journey?
 
 **Call/WhatsApp**: [+91 99354 74730](https://wa.me/919935474730?text=Kanpur%20to%20Varanasi%20taxi%20booking)  
-**Alternate**: [+91 94503 01573](tel:+919450301573)  
+**Alternate**: [+91 80621 82380](tel:+918062182380)  
 **Email**: taxiinvaranasiii@gmail.com  
 **Website**: [www.kashitaxi.in](https://www.kashitaxi.in/booking)
 

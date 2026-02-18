@@ -47,7 +47,7 @@ Planning a pilgrimage or a road trip from the spiritual city of Varanasi to Bodh
 
 > **Book Your Trip to Bodh Gaya!**  
 > Get a transparent, all-inclusive fare for your journey.  
-> **Call:** **[9450301573](tel:9450301573)**  
+> **Call:** **[80621 82380](tel:+918062182380)**  
 > **Visit:** **[www.kashitaxi.in/buddhist-circuit](https://www.kashitaxi.in/buddhist-circuit)**
 
 ---
@@ -107,4 +107,4 @@ A full day is usually sufficient to explore the main sites in Bodh Gaya, includi
 
 ---
 
-For a seamless booking experience and a comfortable journey, call **9450301573**.
+For a seamless booking experience and a comfortable journey, call **80621 82380**.

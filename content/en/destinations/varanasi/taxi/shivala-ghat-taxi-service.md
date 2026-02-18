@@ -50,7 +50,7 @@ faqSchema:
         "@id": "https://www.kashitaxi.in/#org",
         "name": "Kashi Taxi",
         "url": "https://www.kashitaxi.in/",
-        "telephone": "+919450301573"
+        "telephone": "+918062182380"
       },
       "areaServed": {
         "@type": "Place",
@@ -66,7 +66,7 @@ faqSchema:
         "availableLanguage": ["en", "hi"],
         "servicePhone": {
           "@type": "ContactPoint",
-          "telephone": "+919450301573",
+          "telephone": "+918062182380",
           "contactType": "reservations"
         }
       },
@@ -140,7 +140,7 @@ Shivala Ghat is a peaceful stay cluster with boutique hotels and meditation-frie
 - **Quiet-area specialists:** Drivers trained for low-honk, respectful driving in Shivala.
 
 ## Book a Shivala Ghat taxi now
-- Call dispatch: **[9450301573](tel:9450301573)**
+- Call dispatch: **[80621 82380](tel:+918062182380)**
 - WhatsApp: **[wa.me/919450301573](https://wa.me/919450301573?text=Book%20taxi%20to%20Shivala%20Ghat)**
 
 ## Shivala Ghat taxi FAQs

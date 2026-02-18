@@ -16,7 +16,7 @@ export default function PinkSeoCopy() {
         </p>
         <p className="text-base leading-relaxed md:text-lg">
           To reserve your trusted cab, WhatsApp <a className="text-pink-600 underline" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a>
-          or call <a className="text-pink-600 underline" href="tel:+919450301573">+91-94503-01573</a>. Share arrival details, headcount and luggage, and we will lock the fare (parking, night allowance, tolls) before you travel. For city itineraries, combine
+          or call <a className="text-pink-600 underline" href="tel:+918062182380">+91-80621-82380</a>. Share arrival details, headcount and luggage, and we will lock the fare (parking, night allowance, tolls) before you travel. For city itineraries, combine
           a Pink Taxi with our <Link className="text-pink-600 underline" href="/en/varanasi-day-tour-cab-charges">Varanasi day tour cab package</Link> or tailor a multi-day temple circuit with women-guides on request.
         </p>
         <div className="rounded-lg bg-pink-50 p-6 text-sm leading-7 text-gray-700">

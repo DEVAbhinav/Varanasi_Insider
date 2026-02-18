@@ -89,7 +89,7 @@ Prayagraj Darshan is a deeply spiritual journey. Pilgrims often say, “snana in
 
 - Primary CTA: Book Your Prayagraj Trip (₹8,500)
 - WhatsApp Quick Booking available
-- Call: [+91 99354 74730](tel:+919935474730)
+- Call: [+91 80621 82380](tel:+918062182380)
 - WhatsApp: https://wa.me/919935474730?text=Prayagraj%20same-day%20trip%20booking
 
 ![Tempo Traveller waiting at Triveni Sangam parking bay](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Tempo Traveller waiting at Triveni Sangam parking bay")

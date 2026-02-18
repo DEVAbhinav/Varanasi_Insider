@@ -8,7 +8,7 @@ lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png"
 showRatesCheatSheet: true
 metaTitle: "Varanasi Day Tour Cab: ₹1,800 for 8hr | Full Price List 2026"
-metaDescription: "Varanasi cab 8hr = ₹1,800 sedan, ₹2,500 Innova. Covers: Kashi Vishwanath, Sarnath, 5 ghats, Ganga Aarti. No hidden charges. Book: 9450301573"
+metaDescription: "Varanasi cab 8hr = ₹1,800 sedan, ₹2,500 Innova. Covers: Kashi Vishwanath, Sarnath, 5 ghats, Ganga Aarti. No hidden charges. Book: 80621 82380"
 description: "2025 Varanasi day tour cab price grid, temple queue hacks, sunrise-to-aarti VIP routing, and WhatsApp script to lock your driver before surge pricing hits."
 keywords:
   - "varanasi day tour cab charges"
@@ -34,7 +34,7 @@ Exploring Varanasi's rich tapestry of temples, ghats, and historical sites is be
 
 > **Book Your Varanasi City Tour!**  
 > Get a reliable cab and experienced driver for your full-day tour.  
-> **Call:** **[9450301573](tel:9450301573)**  
+> **Call:** **[80621 82380](tel:+918062182380)**  
 > **Visit:** **[www.kashitaxi.in/city-tours](https://www.kashitaxi.in/)**
 
 ---
@@ -96,7 +96,7 @@ Due to the distance, Sarnath is usually included in the 12-hour/200 km package. 
 No, the taxi package only covers transportation. You will need to pay for any entrance fees to temples, museums, or historical sites separately.
 
 ### 4. How do I book a reliable cab for a day tour?
-It's best to book through a trusted local operator to ensure you get a well-maintained vehicle and an experienced driver. You can book a verified cab through **[www.kashitaxi.in/city-tours](https://www.kashitaxi.in/city-tours)** or by calling **9450301573**.
+It's best to book through a trusted local operator to ensure you get a well-maintained vehicle and an experienced driver. You can book a verified cab through **[www.kashitaxi.in/city-tours](https://www.kashitaxi.in/city-tours)** or by calling **80621 82380**.
 
 ---
 
@@ -104,4 +104,4 @@ It's best to book through a trusted local operator to ensure you get a well-main
 
 ---
 
-For a customized quote or to book your full-day Varanasi tour, call **9450301573**.
+For a customized quote or to book your full-day Varanasi tour, call **80621 82380**.

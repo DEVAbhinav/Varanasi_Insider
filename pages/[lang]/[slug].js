@@ -54,7 +54,7 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
       {/* Sticky Contact Bar - Appears on Scroll */}
       <StickyContactBar
-        phone={postData.phone || "9450301573"}
+        phone={postData.phone || "8062182380"}
       />
 
       <main>
@@ -148,7 +148,7 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
         {/* Modular CTA Section */}
         <CTASection
-          phone={postData.phone || "9450301573"}
+          phone={postData.phone || "8062182380"}
           title="Need help planning your trip?"
           subtitle="Get personalized assistance for your Varanasi journey"
           variant="default"

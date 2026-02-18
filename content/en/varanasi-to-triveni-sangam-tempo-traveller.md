@@ -111,7 +111,7 @@ For many devotees, the essence of Prayagraj is the sacred confluence—*Triveni 
 ## Book Your Triveni Sangam Tempo Traveller
 
 - WhatsApp: https://wa.me/919935474730?text=Triveni%20Sangam%20Tempo%20Traveller
-- Call: [+91 99354 74730](tel:+919935474730)
+- Call: [+91 80621 82380](tel:+918062182380)
 - Token: ₹1,000 to reserve ritual slot and boat
 - Balance payable after completion via UPI/card
 
