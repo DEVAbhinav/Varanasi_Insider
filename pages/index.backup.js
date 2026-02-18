@@ -7,6 +7,7 @@ import Head from 'next/head';
 import dynamic from 'next/dynamic';
 import JsonLd from '../components/JsonLd/JsonLd';
 import getHomeSchema from '../components/JsonLd/homepageSchema';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 // Lightweight skeleton for section placeholders
 function SectionSkeleton({ title = 'Loading…' }) {
@@ -42,7 +43,7 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Varanasi Taxi & Tempo Traveller | Tour Packages ☎ 80621 82380 - Vinayak Travels</title>
+        <title>{`Varanasi Taxi & Tempo Traveller | Tour Packages ☎ ${CONTACT.callNumberDisplay.replace('+91 ', '')} - Vinayak Travels`}</title>
         <meta
           name="description"
           content="Varanasi Taxi, Tempo Traveller & Tour Packages by Vinayak Travels. Airport cab ₹800, Local tours ₹2,500, Tempo traveller hire. 24×7 Varanasi travels service. Book now!"
@@ -94,8 +95,8 @@ export default function HomePage({ allPosts }) {
       {/* Mobile sticky CTA bar */}
       <div className="fixed bottom-0 left-0 right-0 z-50 border-t bg-white p-3 md:hidden">
         <div className="mx-auto flex max-w-4xl gap-3">
-          <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer" className="flex-1 rounded-md bg-green-600 px-4 py-3 text-center font-medium text-white shadow hover:bg-green-700">WhatsApp</a>
-          <a href="tel:+918062182380" className="flex-1 rounded-md bg-blue-600 px-4 py-3 text-center font-medium text-white shadow hover:bg-blue-700">Call</a>
+          <a href={CONTACT.whatsappUrl} target="_blank" rel="noopener noreferrer" className="flex-1 rounded-md bg-green-600 px-4 py-3 text-center font-medium text-white shadow hover:bg-green-700">WhatsApp</a>
+          <a href={getCallTelHref()} className="flex-1 rounded-md bg-blue-600 px-4 py-3 text-center font-medium text-white shadow hover:bg-blue-700">Call</a>
         </div>
       </div>
       <Footer allPosts={allPosts} />

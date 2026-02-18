@@ -1,4 +1,5 @@
 import React from 'react';
+import { CONTACT, getCallTelHref, getWhatsAppUrl } from '@/lib/contact';
 
 export default function ArticleNew({
   contentHtml,
@@ -273,18 +274,18 @@ export default function ArticleNew({
             {/* CTA buttons */}
             <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4">
               <a
-                href="https://wa.me/919935474730?text=Hi%2C%20I%20need%20help%20planning%20my%20Banaras%20trip"
+                href={getWhatsAppUrl('Hi, I need help planning my Banaras trip')}
                 className="inline-flex items-center gap-2 px-8 py-3 rounded-full bg-gradient-to-r from-green-500 to-green-600 text-white font-[Avenir-demi] shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-200"
               >
                 <span>💬</span>
                 <span>WhatsApp Us</span>
               </a>
               <a
-                href="tel:+918062182380"
+                href={getCallTelHref()}
                 className="inline-flex items-center gap-2 px-8 py-3 rounded-full bg-gradient-to-r from-orange-500 to-amber-500 text-white font-[Avenir-demi] shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-200"
               >
                 <span>📞</span>
-                <span>Call Now</span>
+                <span>{`Call ${CONTACT.callNumberDisplay.replace('+91 ', '')}`}</span>
               </a>
             </div>
           </div>

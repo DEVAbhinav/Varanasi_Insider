@@ -1,13 +1,14 @@
 import React from 'react';
 import { Users, Heart, Globe, MessageCircle, Baby, Shield, MapPin, Clock, Car, Languages } from 'lucide-react';
 import TrustBadge from '../TrustBadge/TrustBadge';
+import { CONTACT } from '@/lib/contact';
 
 /**
  * TravelerSegmentBlocks - Persona-targeted value proposition blocks
  * Displays 3 segment cards: Families, Solo Women, Foreign Visitors
  * Each with tailored USPs and WhatsApp CTA with pre-filled message
  */
-export default function TravelerSegmentBlocks({ phone = '9180621 82380' }) {
+export default function TravelerSegmentBlocks({ phone = CONTACT.whatsappNumberRaw }) {
     const segments = [
         {
             id: 'families',

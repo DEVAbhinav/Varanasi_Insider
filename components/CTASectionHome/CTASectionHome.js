@@ -1,3 +1,5 @@
+import { CONTACT, getCallTelHref } from '@/lib/contact';
+
 export default function CTASectionHome() {
   return (
     <section className="relative py-20 bg-gradient-to-br from-cyan-500 via-teal-500 to-cyan-600 text-white overflow-hidden">
@@ -36,10 +38,10 @@ export default function CTASectionHome() {
               🚕 Book Varanasi Taxi Online
             </a>
             <a
-              href="tel:+918062182380"
+              href={getCallTelHref()}
               className="inline-flex items-center gap-2 px-8 py-4 bg-transparent border-2 border-white text-white font-bold rounded-xl hover:bg-white hover:text-cyan-700 transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1 text-lg"
             >
-              📞 Call: 80621 82380
+              {`📞 Call: ${CONTACT.callNumberDisplay.replace('+91 ', '')}`}
             </a>
           </div>
         </div>

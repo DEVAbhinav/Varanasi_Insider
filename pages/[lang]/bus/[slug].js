@@ -8,19 +8,20 @@ import HeadForBlogs from '../../../components/SEO/HeadForBlogs';
 import StickyContactBar from '../../../components/ServicePage/StickyContactBar';
 import CTASection from '../../../components/CTA/CTASection';
 import ArticleSection from '../../../components/ArticleSection/ArticleSection';
+import { CONTACT } from '@/lib/contact';
 
 export default function BusPilgrimagePage({ postData, relatedBusPages, jsonLdData, pageLang, pageSlug, alternateLanguages = [] }) {
   return (
     <>
   <HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={`bus/${pageSlug}`} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
       <NavBar />
-      <StickyContactBar phone={postData.phone || '8062182380'} />
+      <StickyContactBar phone={postData.phone || CONTACT.callNumberRaw} />
       <main>
         <div className="container mx-auto px-4 py-8">
           <ArticleSection contentHtml={postData.contentHtml} />
         </div>
         <CTASection
-          phone={postData.phone || '8062182380'}
+          phone={postData.phone || CONTACT.callNumberRaw}
           title="Need help with multi-city pilgrimage logistics?"
           subtitle="WhatsApp us for variant feasibility & buffer strategy"
           variant="default"

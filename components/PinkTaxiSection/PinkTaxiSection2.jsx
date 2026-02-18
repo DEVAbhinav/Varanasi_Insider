@@ -1,6 +1,7 @@
 // components/PinkTaxiSection/PinkTaxiSection2.jsx
 import { motion } from 'framer-motion';
 import Image from 'next/image';
+import { CONTACT } from '@/lib/contact';
 
 // Micro-motion preset
 const fadeUp = {
@@ -23,7 +24,7 @@ export default function PinkTaxiSection2() {
               <p className="mt-1 text-sm text-pink-800/90">Safe airport transfers, local darshan & shopping runs. Early‑morning and late‑night pickups on request.</p>
               <div className="mt-3 flex flex-wrap gap-2">
                 <a href="/pink-taxi-varanasi" className="inline-flex items-center justify-center rounded-md bg-pink-600 px-3 py-2 text-sm font-medium text-white shadow hover:bg-pink-700">Learn more</a>
-                <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-md bg-pink-50 px-3 py-2 text-sm font-medium text-pink-900 ring-1 ring-pink-200 hover:bg-pink-100">Book on WhatsApp</a>
+                <a href={CONTACT.whatsappUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-md bg-pink-50 px-3 py-2 text-sm font-medium text-pink-900 ring-1 ring-pink-200 hover:bg-pink-100">Book on WhatsApp</a>
               </div>
             </div>
             <div className="relative hidden h-36 w-full sm:block md:h-40">

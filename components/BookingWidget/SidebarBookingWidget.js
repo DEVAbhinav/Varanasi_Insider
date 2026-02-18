@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/router';
 import * as gtag from '../../lib/gtag';
 import styles from './SidebarBookingWidget.module.css';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
   const [formData, setFormData] = useState({
@@ -224,7 +225,7 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
         </button>
 
         <p className="text-xs text-gray-500 text-center mt-3 font-medium">
-          Prefer talking? Call <a href="tel:+918062182380" className="text-cyan-700 font-bold hover:text-cyan-800 transition-colors underline decoration-cyan-300 decoration-2 underline-offset-2">80621 82380</a>
+          Prefer talking? Call <a href={getCallTelHref()} className="text-cyan-700 font-bold hover:text-cyan-800 transition-colors underline decoration-cyan-300 decoration-2 underline-offset-2">{CONTACT.callNumberDisplay.replace('+91 ', '')}</a>
         </p>
       </form>
     </div>

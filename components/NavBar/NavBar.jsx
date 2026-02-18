@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { useState, useEffect, useRef } from 'react';
 import { Menu, X, Phone, MessageCircle, ChevronRight, Plane, Users, MapPin, Map, BookOpen } from 'lucide-react';
 import styles from './Navbar.module.css';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export default function NavBar() {
   const [open, setOpen] = useState(false);
@@ -45,18 +46,18 @@ export default function NavBar() {
           <Link href="/en/services/varanasi-full-day-city-tour-winter-2025" className={styles.navLink}>Local Sightseeing</Link>
           <Link href="/en" className={styles.navLink}>Travel Guides</Link>
           <a
-            href="https://wa.me/919935474730"
+            href={CONTACT.whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
             className={`${styles.navButtonWhatsApp} hidden md:inline-flex`}
-            aria-label="Contact us on WhatsApp +91-99354-74730"
+            aria-label={`Contact us on WhatsApp ${CONTACT.whatsappNumberDisplay}`}
           >
             WhatsApp
           </a>
           <a 
-            href="tel:+918062182380" 
+            href={getCallTelHref()} 
             className={`${styles.navButtonCall} hidden md:inline-flex`}
-            aria-label="Call us at +91-80621-82380"
+            aria-label={`Call us at ${CONTACT.callNumberDisplay}`}
           >
             Call
           </a>
@@ -198,7 +199,7 @@ export default function NavBar() {
             <p className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-3 px-1">Quick Contact</p>
             <div className="grid grid-cols-2 gap-3">
               <a 
-                href="https://wa.me/919935474730" 
+                href={CONTACT.whatsappUrl}
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="flex flex-col items-center justify-center gap-1.5 rounded-xl bg-gradient-to-br from-green-500 to-green-600 text-white py-4 font-semibold hover:from-green-600 hover:to-green-700 transition-all shadow-md hover:shadow-lg hover:-translate-y-0.5 active:translate-y-0"
@@ -207,7 +208,7 @@ export default function NavBar() {
                 <span className="text-sm">WhatsApp</span>
               </a>
               <a 
-                href="tel:+918062182380" 
+                href={getCallTelHref()} 
                 className="flex flex-col items-center justify-center gap-1.5 rounded-xl bg-gradient-to-br from-cyan-500 to-teal-500 text-white py-4 font-semibold hover:from-cyan-600 hover:to-teal-600 transition-all shadow-md hover:shadow-lg hover:-translate-y-0.5 active:translate-y-0"
               >
                 <Phone className="h-6 w-6" />

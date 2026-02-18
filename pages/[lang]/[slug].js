@@ -15,6 +15,7 @@ import SidebarBookingWidget from '../../components/BookingWidget/SidebarBookingW
 import ItineraryTimeline from '../../components/DestinationPage/ItineraryTimeline';
 import MapWidget from '../../components/Map/MapWidget';
 import dynamic from 'next/dynamic';
+import { CONTACT } from '@/lib/contact';
 
 const TaxiRatesCheatSheet = dynamic(() => import('../../components/TaxiRatesCheatSheet/TaxiRatesCheatSheet'), {
   loading: () => <div className="h-96 w-full animate-pulse bg-gray-100 rounded-xl my-8" />,
@@ -54,7 +55,7 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
       {/* Sticky Contact Bar - Appears on Scroll */}
       <StickyContactBar
-        phone={postData.phone || "8062182380"}
+        phone={postData.phone || CONTACT.callNumberRaw}
       />
 
       <main>
@@ -148,7 +149,7 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
         {/* Modular CTA Section */}
         <CTASection
-          phone={postData.phone || "8062182380"}
+          phone={postData.phone || CONTACT.callNumberRaw}
           title="Need help planning your trip?"
           subtitle="Get personalized assistance for your Varanasi journey"
           variant="default"

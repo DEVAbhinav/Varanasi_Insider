@@ -1,6 +1,7 @@
 import React from 'react';
 import TrustBadge from '../TrustBadge/TrustBadge';
 import { Plane, Clock, Car, Users, Phone, MessageCircle } from 'lucide-react';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 /**
  * TaxiRatesCheatSheet - A visually scannable pricing block for Kashitaxi
@@ -191,7 +192,7 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                     {showCTA && (
                         <div className="flex flex-wrap items-center justify-center gap-3">
                             <a
-                                href="https://wa.me/919935474730"
+                                href={CONTACT.whatsappUrl}
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-emerald-500 to-green-500 hover:from-emerald-600 hover:to-green-600 text-white font-semibold rounded-full shadow-lg hover:shadow-xl transition-all duration-300"
@@ -200,11 +201,11 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                                 WhatsApp Quote
                             </a>
                             <a
-                                href="tel:+918062182380"
+                                href={getCallTelHref()}
                                 className="inline-flex items-center gap-2 px-5 py-2.5 bg-white hover:bg-gray-50 text-gray-700 font-semibold rounded-full border border-gray-200 shadow-sm hover:shadow-md transition-all duration-300"
                             >
                                 <Phone className="w-4 h-4" />
-                                Call 80621 82380
+                                {`Call ${CONTACT.callNumberDisplay.replace('+91 ', '')}`}
                             </a>
                         </div>
                     )}

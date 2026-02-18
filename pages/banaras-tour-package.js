@@ -13,6 +13,7 @@ import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget
 import JsonLd from '../components/JsonLd/JsonLd';
 import { SOCIAL_PROFILE_URLS } from '../config/socials';
 import ArticleNew from '../components/ArticleNew/ArticleNew';
+import { CONTACT } from '@/lib/contact';
 
 export default function BanarasTourPackagePage({ contentHtml }) {
   const site = 'https://www.kashitaxi.in';
@@ -30,7 +31,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         description:
           'Banaras tour packages with expert guides. 3-7 day spiritual journeys, transparent pricing, ghatside stays, airport transfers, and 24/7 support.',
         slogan: 'Authentic Banaras tours with local experts',
-        telephone: '+91-8062182380',
+        telephone: CONTACT.callNumberE164,
         email: 'taxiinvaranasiii@gmail.com',
         address: {
           '@type': 'PostalAddress',
@@ -70,13 +71,13 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         contactPoint: [
           {
             '@type': 'ContactPoint',
-            telephone: '+91-8062182380',
+            telephone: CONTACT.callNumberE164,
             contactType: 'customer service',
             availableLanguage: ['en', 'hi'],
           },
           {
             '@type': 'ContactPoint',
-            telephone: '+91 80621 82380',
+            telephone: CONTACT.callNumberDisplay,
             contactType: 'WhatsApp',
             availableLanguage: ['en', 'hi'],
           },

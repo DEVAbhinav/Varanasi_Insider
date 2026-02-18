@@ -8,9 +8,10 @@ import StickyContactBar from '@/components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '@/components/BookingWidget/SidebarBookingWidget';
 import HreflangTags from '@/components/SEO/HreflangTags';
 import MapWidget from '@/components/Map/MapWidget';
+import { CONTACT } from '@/lib/contact';
 
 const DEFAULT_SITE_BASE = 'https://www.kashitaxi.in';
-const DEFAULT_PHONE = '80621 82380';
+const DEFAULT_PHONE = CONTACT.callNumberRaw;
 
 const CATEGORY_TITLE_MAP = {
   'tour-packages': 'Tour Package',

@@ -2,6 +2,7 @@ import Link from 'next/link';
 import CategoryPageLayout from '../../components/CategoryPage/CategoryPageLayout';
 import { getSortedPostsData } from '../../lib/posts';
 import { listByCategory, getBreadcrumbConfig } from '../../lib/categories';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export async function getStaticProps() {
   const allEnPosts = getSortedPostsData('en');
@@ -63,9 +64,9 @@ export default function ServicesPage({ services, jsonLd }) {
         <div className="space-y-5 text-gray-700 leading-relaxed">
           <p>
             From first hello to final drop, our dispatcher stays on WhatsApp{' '}
-            <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a>
+            <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href={CONTACT.whatsappUrl} target="_blank" rel="noopener noreferrer">{CONTACT.whatsappNumberDisplay}</a>
             {' '}and phone{' '}
-            <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href="tel:+918062182380">+91-80621-82380</a>
+            <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href={getCallTelHref()}>{CONTACT.callNumberDisplay}</a>
             . We arrange airport taxis, Pink Taxi (women-only) rides,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-day-tour-cab-charges">local sightseeing cabs</Link>,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-ayodhya">Ayodhya / Prayagraj pilgrim circuits</Link>,{' '}

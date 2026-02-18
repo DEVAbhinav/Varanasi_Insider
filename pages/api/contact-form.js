@@ -3,6 +3,7 @@
 // Email notifications are sent via Resend
 
 import { Resend } from 'resend';
+import { CONTACT } from '@/lib/contact';
 
 const normalizePhoneNumber = (rawPhone) => {
   if (!rawPhone) {
@@ -87,7 +88,7 @@ export default async function handler(req, res) {
     ? `Hi! I need a taxi from ${pickupLocation} to ${destination} on ${pickupDate || 'soon'} for ${passengers || '1'} passenger(s). My name is ${name}.`
     : `Hi! I'd like to inquire about your taxi services. My name is ${name}.`;
   
-  const whatsappLink = `https://wa.me/919935474730?text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappLink = `${CONTACT.whatsappUrl}?text=${encodeURIComponent(whatsappMessage)}`;
 
   // Send email notification via Resend
   try {

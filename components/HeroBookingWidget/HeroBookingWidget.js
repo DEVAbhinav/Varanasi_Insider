@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import * as gtag from '../../lib/gtag';
+import { CONTACT, getCallTelHref, getWhatsAppUrl } from '@/lib/contact';
 
 export default function HeroBookingWidget() {
   const [step, setStep] = useState(1); // Step 1: Trip details, Step 2: Contact info
@@ -133,13 +134,13 @@ export default function HeroBookingWidget() {
           const whatsappMessage = encodeURIComponent(
             `Hi! I need a taxi from ${formData.pickup} to ${formData.destination} on ${formData.date} for ${formData.passengers} passenger(s). My name is ${formData.name}.`
           );
-          window.open(`https://wa.me/919935474730?text=${whatsappMessage}`, '_blank');
+          window.open(getWhatsAppUrl(whatsappMessage), '_blank');
         }, 2000);
       } else {
         setError(data.error || 'Something went wrong. Please try again.');
       }
     } catch (err) {
-      setError('Network error. Please call us at 80621 82380');
+      setError(`Network error. Please call us at ${CONTACT.callNumberDisplay.replace('+91 ', '')}`);
       console.error('Booking error:', err);
     } finally {
       setLoading(false);
@@ -183,7 +184,7 @@ export default function HeroBookingWidget() {
             </p>
             <div className="flex flex-wrap justify-center gap-3">
               <a
-                href={`https://wa.me/919935474730?text=${encodeURIComponent(`Hi! I need a taxi from ${formData.pickup} to ${formData.destination} on ${formData.date}. My name is ${formData.name}.`)}`}
+                href={getWhatsAppUrl(`Hi! I need a taxi from ${formData.pickup} to ${formData.destination} on ${formData.date}. My name is ${formData.name}.`)}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-green-500 hover:bg-green-600 text-white font-semibold rounded-lg transition-all shadow-lg"
@@ -459,7 +460,7 @@ export default function HeroBookingWidget() {
             </div>
 
             <p className="text-xs text-center text-gray-600 mt-3">
-              Or call directly: <a href="tel:+918062182380" className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">80621 82380</a>
+              Or call directly: <a href={getCallTelHref()} className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">{CONTACT.callNumberDisplay.replace('+91 ', '')}</a>
             </p>
           </form>
         )}

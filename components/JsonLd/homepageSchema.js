@@ -1,6 +1,7 @@
 // components/JsonLd/homepageSchema.js
 // Returns JSON-LD for the homepage (WebSite + LocalBusiness + TaxiService + FAQPage)
 import { SOCIAL_PROFILE_URLS } from '../../config/socials';
+import { CONTACT } from '@/lib/contact';
 
 const getHomeSchema = (site) => ({
   '@context': 'https://schema.org',
@@ -33,8 +34,8 @@ const getHomeSchema = (site) => ({
       description:
         'Best taxi in Varanasi for airport pickup, local sightseeing & outstation trips. Trusted Varanasi taxi service offering 24×7 cab booking, tempo traveller hire, and pilgrimage tours with experienced drivers.',
       slogan: 'Your trusted travel partner in Varanasi',
-      telephone: '+91-8062182380',
-      faxNumber: '+91 80621 82380',
+      telephone: CONTACT.callNumberE164,
+      faxNumber: CONTACT.callNumberDisplay,
       email: 'taxiinvaranasiii@gmail.com',
       address: {
         '@type': 'PostalAddress',
@@ -130,7 +131,7 @@ const getHomeSchema = (site) => ({
       contactPoint: [
         {
           '@type': 'ContactPoint',
-          telephone: '+91-8062182380',
+          telephone: CONTACT.callNumberE164,
           contactType: 'customer service',
           availableLanguage: ['en', 'hi'],
           hoursAvailable: {
@@ -150,7 +151,7 @@ const getHomeSchema = (site) => ({
         },
         {
           '@type': 'ContactPoint',
-          telephone: '+91 80621 82380',
+          telephone: CONTACT.callNumberDisplay,
           contactType: 'WhatsApp',
           availableLanguage: ['en', 'hi'],
         },

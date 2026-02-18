@@ -6,9 +6,10 @@ import StickyContactBar from '@/components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '@/components/BookingWidget/SidebarBookingWidget';
 import ArticleSection from '@/components/ArticleSection/ArticleSection';
 import ClusterDirectory from '@/components/ClusterDirectory/ClusterDirectory';
+import { CONTACT } from '@/lib/contact';
 
 const SITE_BASE = 'https://www.kashitaxi.in';
-const DEFAULT_PHONE = '80621 82380';
+const DEFAULT_PHONE = CONTACT.callNumberRaw;
 
 export default function CategoryDirectoryPage({ entry, allPosts }) {
   if (!entry) {

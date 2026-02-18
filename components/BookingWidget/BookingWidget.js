@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import * as gtag from '../../lib/gtag';
 import styles from './BookingWidget.module.css';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export default function BookingWidget() {
   const [formData, setFormData] = useState({
@@ -247,7 +248,7 @@ export default function BookingWidget() {
         </button>
 
         <p className="text-xs text-gray-600 text-center mt-4 font-medium">
-          Or call directly: <a href="tel:+918062182380" className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">80621 82380</a>
+          Or call directly: <a href={getCallTelHref()} className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">{CONTACT.callNumberDisplay.replace('+91 ', '')}</a>
         </p>
       </form>
     </div>

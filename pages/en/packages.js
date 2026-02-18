@@ -4,6 +4,7 @@ import NavBar from '../../components/NavBar/NavBar';
 import Footer from '../../components/Footer/Footer';
 import { getSortedPostsData } from '../../lib/posts';
 import { listByCategory, getBreadcrumbConfig } from '../../lib/categories';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export async function getStaticProps() {
   const allEnPosts = getSortedPostsData('en');
@@ -41,7 +42,7 @@ export default function PackagesPage({ packages, jsonLd }) {
     <>
       <Head>
         <title>Varanasi Tour Packages & Day Trips | Fixed Pricing | Varanasi Taxi</title>
-        <meta name="description" content="Browse Varanasi tour packages with transparent pricing. Airport transfers, local darshan, outstation trips to Prayagraj, Ayodhya & Bodhgaya. Book online or call 80621 82380" />
+        <meta name="description" content={`Browse Varanasi tour packages with transparent pricing. Airport transfers, local darshan, outstation trips to Prayagraj, Ayodhya & Bodhgaya. Book online or call ${CONTACT.callNumberDisplay.replace('+91 ', '')}`} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </Head>
       
@@ -138,9 +139,9 @@ export default function PackagesPage({ packages, jsonLd }) {
             <div className="space-y-5 text-gray-700 leading-relaxed">
               <p>
                 Every itinerary begins with a quick call or WhatsApp on{' '}
-                <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href="tel:+918062182380">+91-80621-82380</a>
+                <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href={getCallTelHref()}>{CONTACT.callNumberDisplay}</a>
                 {' / '}
-                <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer">+91-99354-74730</a>
+                <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href={CONTACT.whatsappUrl} target="_blank" rel="noopener noreferrer">{CONTACT.whatsappNumberDisplay}</a>
                 . Tell us your arrival details, headcount and must-visit temples; we assemble cab, boat and guide options within minutes.
               </p>
               
@@ -190,13 +191,13 @@ export default function PackagesPage({ packages, jsonLd }) {
             </p>
             <div className="flex flex-wrap gap-3 justify-center">
               <a 
-                href="tel:+918062182380"
+                href={getCallTelHref()}
                 className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-cyan-500 to-teal-500 text-white font-bold rounded-xl hover:from-cyan-600 hover:to-teal-600 transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1"
               >
-                📞 Call: 80621 82380
+                {`📞 Call: ${CONTACT.callNumberDisplay.replace('+91 ', '')}`}
               </a>
               <a 
-                href="https://wa.me/919935474730"
+                href={CONTACT.whatsappUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-green-600 text-white font-bold rounded-xl hover:bg-green-700 transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1"

@@ -3,6 +3,7 @@ import NavBar from '../components/NavBar/NavBar';
 import Footer from '../components/Footer/Footer';
 import BookingWidget from '../components/BookingWidget/BookingWidget';
 import StickyContactBar from '../components/ServicePage/StickyContactBar';
+import { CONTACT } from '@/lib/contact';
 
 export default function BookingPage() {
   return (
@@ -11,7 +12,7 @@ export default function BookingPage() {
         <title>Book Varanasi Taxi Online | Airport Taxi & Tempo Traveller Booking 2025</title>
         <meta 
           name="description" 
-          content="Book Varanasi taxi & tempo traveller online. VNS Airport taxi, local Kashi darshan, outstation cabs to Ayodhya Prayagraj. AC vehicles, expert drivers. Instant booking ☎ 80621 82380" 
+          content={`Book Varanasi taxi & tempo traveller online. VNS Airport taxi, local Kashi darshan, outstation cabs to Ayodhya Prayagraj. AC vehicles, expert drivers. Instant booking ☎ ${CONTACT.callNumberDisplay.replace('+91 ', '')}`} 
         />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.varanasiinsider.com/booking" />
@@ -19,7 +20,7 @@ export default function BookingPage() {
       </Head>
 
       <NavBar />
-      <StickyContactBar phone = "8062182380" />
+      <StickyContactBar phone={CONTACT.callNumberRaw} />
 
       <div className="min-h-screen bg-gradient-to-b from-blue-50 via-cyan-50 to-blue-50">
         {/* Hero Section */}

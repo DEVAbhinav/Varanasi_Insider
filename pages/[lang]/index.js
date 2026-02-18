@@ -4,6 +4,7 @@ import Footer from '../../components/Footer/Footer';
 import Link from 'next/link';
 import Head from 'next/head';
 import { getSortedPostsData } from '../../lib/posts';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export async function getStaticPaths() {
   // Define the languages you support
@@ -127,13 +128,13 @@ export default function LangHome({ allPostsData, lang }) {
             </p>
             <div className="flex flex-wrap gap-3 justify-center">
               <a 
-                href="tel:+918062182380"
+                href={getCallTelHref()}
                 className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-cyan-500 to-teal-500 text-white font-bold rounded-xl hover:from-cyan-600 hover:to-teal-600 transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1"
               >
-                📞 Call: 80621 82380
+                {`📞 Call: ${CONTACT.callNumberDisplay.replace('+91 ', '')}`}
               </a>
               <a 
-                href="https://wa.me/919935474730"
+                href={CONTACT.whatsappUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-green-600 text-white font-bold rounded-xl hover:bg-green-700 transition-all shadow-xl hover:shadow-2xl hover:-translate-y-1"

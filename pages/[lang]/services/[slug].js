@@ -7,6 +7,7 @@ import ServiceContent from '../../../components/ServicePage/ServiceContent';
 import StickyContactBar from '../../../components/ServicePage/StickyContactBar';
 import CTASection from '../../../components/CTA/CTASection';
 import dynamic from 'next/dynamic';
+import { CONTACT } from '@/lib/contact';
 
 const TaxiRatesCheatSheet = dynamic(() => import('../../../components/TaxiRatesCheatSheet/TaxiRatesCheatSheet'), {
   loading: () => <div className="h-96 w-full animate-pulse bg-gray-100 container mx-auto rounded-xl my-8" />,
@@ -66,7 +67,7 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
 
         {/* Traveler Segment Blocks - Target persona value props */}
         {postData.showSegmentBlocks && (
-          <TravelerSegmentBlocks phone={postData.phone || '9180621 82380'} />
+          <TravelerSegmentBlocks phone={postData.phone || CONTACT.whatsappNumberRaw} />
         )}
 
         {/* Service Content Part 1 */}

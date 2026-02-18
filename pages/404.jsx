@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import NavBar from '../components/NavBar/NavBar'
 import Footer from '../components/Footer/Footer'
+import { CONTACT, getCallTelHref } from '@/lib/contact'
 
 // Simple, fun Snake game for the 404 page with a purple theme
 export default function Custom404() {
@@ -376,10 +377,10 @@ export default function Custom404() {
 
               <div className="rounded-2xl border border-purple-200 bg-white p-5 shadow-sm">
                 <h2 className="text-lg font-semibold">Need a cab right now?</h2>
-                <p className="mt-1 text-sm text-slate-600">WhatsApp 99354 74730 or call 94503 01573. Clean AC cars, polite drivers, on-time pickups.</p>
+                <p className="mt-1 text-sm text-slate-600">{`WhatsApp ${CONTACT.whatsappNumberDisplay.replace('+91 ', '')} or call ${CONTACT.callNumberDisplay.replace('+91 ', '')}. Clean AC cars, polite drivers, on-time pickups.`}</p>
                 <div className="mt-3 flex flex-wrap gap-2">
-                  <a href="https://wa.me/919935474730" target="_blank" rel="noopener noreferrer" className="rounded-full bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700">WhatsApp Us</a>
-                  <a href="tel:+918062182380" className="rounded-full bg-orange-50 px-4 py-2 text-sm font-medium text-orange-900 ring-1 ring-orange-200 hover:bg-orange-100">Call Now</a>
+                  <a href={CONTACT.whatsappUrl} target="_blank" rel="noopener noreferrer" className="rounded-full bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700">WhatsApp Us</a>
+                  <a href={getCallTelHref()} className="rounded-full bg-orange-50 px-4 py-2 text-sm font-medium text-orange-900 ring-1 ring-orange-200 hover:bg-orange-100">Call Now</a>
                 </div>
               </div>
             </div>

@@ -13,6 +13,7 @@ import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget
 import JsonLd from '../components/JsonLd/JsonLd';
 import { SOCIAL_PROFILE_URLS } from '../config/socials';
 import ArticleNew from '../components/ArticleNew/ArticleNew';
+import { CONTACT } from '@/lib/contact';
 
 export default function BanarasTravelAgencyPage({ contentHtml }) {
   const site = 'https://www.kashitaxi.in';
@@ -30,7 +31,7 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         description:
           'Banaras travel agency for spiritual journeys, airport transfers, tempo traveller hire, and custom pilgrimage packages with local guides and 24/7 support.',
         slogan: 'Your trusted Banaras travel partner',
-        telephone: '+91-8062182380',
+        telephone: CONTACT.callNumberE164,
         email: 'taxiinvaranasiii@gmail.com',
         address: {
           '@type': 'PostalAddress',
@@ -78,13 +79,13 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         contactPoint: [
           {
             '@type': 'ContactPoint',
-            telephone: '+91-8062182380',
+            telephone: CONTACT.callNumberE164,
             contactType: 'customer service',
             availableLanguage: ['en', 'hi'],
           },
           {
             '@type': 'ContactPoint',
-            telephone: '+91 80621 82380',
+            telephone: CONTACT.callNumberDisplay,
             contactType: 'WhatsApp',
             availableLanguage: ['en', 'hi'],
           },

@@ -1,6 +1,8 @@
 // components/CTA/CTASection.jsx
+import { CONTACT } from '@/lib/contact';
+
 export default function CTASection({ 
-  phone = "8062182380", 
+  phone = CONTACT.callNumberRaw, 
   title = "Need help planning your trip?",
   subtitle = "Get personalized assistance for your Varanasi journey",
   variant = "default" // "default" | "compact" | "service"

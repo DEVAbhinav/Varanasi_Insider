@@ -1,5 +1,6 @@
 import Image from "next/image";
 import styles from './Header.module.css';
+import { getCallTelHref } from '@/lib/contact';
 
 export default function Header({ title, featuredImage }) {
   return (
@@ -24,12 +25,12 @@ export default function Header({ title, featuredImage }) {
             <a href="#" className={styles.navLink}>Home</a>
             <a href="#" className={styles.navLink}>Travel Guides</a>
             <a href="#" className={styles.navLink}>Outstation Taxis</a>
-            <a href="tel:+918062182380" className={styles.navLink}>Contact</a>
+            <a href={getCallTelHref()} className={styles.navLink}>Contact</a>
           </nav>
 
           {/* CTA Button */}
           <a
-            href="tel:+918062182380"
+            href={getCallTelHref()}
             className={styles.ctaButton}
           >
             Get Fare

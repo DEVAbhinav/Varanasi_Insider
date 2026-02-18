@@ -9,6 +9,7 @@ import JsonLd from '../components/JsonLd/JsonLd';
 import getHomeSchema from '../components/JsonLd/homepageSchema';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
 import { getAllPostsMeta } from '../lib/posts';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 // Lightweight skeleton for section placeholders
 function SectionSkeleton({ title = 'Loading…' }) {
@@ -272,7 +273,7 @@ export default function HomePage({ allPosts }) {
               </div>
             </div>
             <div className="flex items-center gap-2 text-[11px] text-gray-500">
-              <a href="tel:+918062182380" className="inline-flex items-center gap-1 text-cyan-700 font-semibold">Talk to us</a>
+              <a href={getCallTelHref()} className="inline-flex items-center gap-1 text-cyan-700 font-semibold">Talk to us</a>
             </div>
           </div>
           <div
@@ -658,7 +659,7 @@ export default function HomePage({ allPosts }) {
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">
-                <p>Book a <strong>taxi in Varanasi online</strong> through our website booking form, WhatsApp (+91-9935474730), or call (+91-8062182380). Share your pickup location, date/time, and trip type. Get instant quote and confirmation. No advance payment required for most bookings.</p>
+                <p>Book a <strong>taxi in Varanasi online</strong> through our website booking form, WhatsApp ({CONTACT.whatsappNumberDisplay}), or call ({CONTACT.callNumberDisplay}). Share your pickup location, date/time, and trip type. Get instant quote and confirmation. No advance payment required for most bookings.</p>
               </div>
             </details>
           </div>
