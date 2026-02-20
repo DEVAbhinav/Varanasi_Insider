@@ -85,7 +85,7 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
           },
           {
             '@type': 'ContactPoint',
-            telephone: CONTACT.callNumberDisplay,
+            telephone: CONTACT.whatsappNumberDisplay,
             contactType: 'WhatsApp',
             availableLanguage: ['en', 'hi'],
           },

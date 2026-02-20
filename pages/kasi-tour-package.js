@@ -77,7 +77,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
           },
           {
             '@type': 'ContactPoint',
-            telephone: CONTACT.callNumberDisplay,
+            telephone: CONTACT.whatsappNumberDisplay,
             contactType: 'WhatsApp',
             availableLanguage: ['en', 'hi'],
           },
@@ -238,7 +238,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
           </div>
 
           <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
-            {[ 
+            {[
               {
                 title: 'Kashi Vishwanath & Aarti',
                 href: '/en/varanasi-sightseeing-complete-guide',
@@ -298,7 +298,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
           </div>
 
           <div className="grid md:grid-cols-4 gap-6 max-w-7xl mx-auto">
-            {[ 
+            {[
               { icon: '🛕', title: 'Kasi Darshan', desc: 'Timed temple circuits with priest coordination.', href: '/en/varanasi-sightseeing-complete-guide' },
               { icon: '🚐', title: 'Tempo Traveller', desc: '12-17 seater AC tempo travellers for yatras.', href: '/en/kashi-darshan-tempo-traveller' },
               { icon: '✈️', title: 'Airport Transfer', desc: 'Fixed-price pickups to ghats and hotels.', href: '/en/varanasi-airport-taxi-price-guide' },

@@ -5,6 +5,7 @@ import Footer from '../components/Footer/Footer';
 import SeoFooterLinks from '../components/SeoFooterLinks/SeoFooterLinks';
 import fleet from '../data/fleet.json';
 import PinkTaxiSection1 from '../components/PinkTaxiSection/PinkTaxiSection1';
+import { CONTACT } from '../lib/contact';
 
 // --- SEO: Structured Data & Meta (updated) ---
 const canonicalUrl = 'https://www.kashitaxi.in/bike-rentals-varanasi';
@@ -17,7 +18,7 @@ const organizationNode = {
   alternateName: ['Varanasi Taxi', 'Kashitaxi'],
   url: 'https://www.kashitaxi.in/',
   logo: { '@type': 'ImageObject', url: 'https://www.kashitaxi.in/favicon.jpeg' },
-  sameAs: ['https://wa.me/919935474730', 'https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA']
+  sameAs: [CONTACT.whatsappUrl, 'https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA']
 };
 
 const websiteNode = {
@@ -218,7 +219,7 @@ const webPageNode = {
 const jsonLd = { '@context': 'https://schema.org', '@graph': [organizationNode, websiteNode, webPageNode, jsonLdBreadcrumbs, jsonLdBusiness, jsonLdFAQ] };
 
 const businessCallNumber = '919113108121';
-const businessWhatsAppNumber = '919935474730';
+const businessWhatsAppNumber = CONTACT.whatsappNumberRaw;
 
 export default function BikeRentalsPage({ allPosts }) {
   return (
