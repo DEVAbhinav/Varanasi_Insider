@@ -32,26 +32,26 @@ export async function getStaticProps() {
       }
     ]
   };
-  
+
   // Add icons and CTA text to services
   const servicesWithIcons = services.map(service => ({
     ...service,
     icon: '🚕',
     ctaText: 'View Service Details'
   }));
-  
+
   return { props: { services: servicesWithIcons, jsonLd } };
 }
 
 export default function ServicesPage({ services, jsonLd }) {
   return (
     <CategoryPageLayout
-      title="Taxi & Travel Services in Varanasi"
-      metaTitle="Varanasi Taxi Services: Airport, Local & Outstation | From ₹12/km"
-      metaDescription="Varanasi taxi services: airport transfers from ₹800, local from ₹12/km, tempo travellers & outstation cabs. Transparent fares, 24×7 booking."
-      heroTitle="Varanasi Taxi & Travel Services"
-      heroSubtitle="Airport transfers, local sightseeing & outstation trips with transparent fares and safety-first approach"
-      heroBadge="🚕 TAXI SERVICES"
+      title="Explore Our Full Range of Varanasi Taxi & Travel Services"
+      metaTitle="Varanasi Taxi Service Directory: All Cabs, Rates & Airport Transfers"
+      metaDescription="Varanasi taxi service directory: browse airport transfers, local sightseeing cabs, and outstation rentals. Compare rates and book 24/7."
+      heroTitle="Varanasi Taxi Service Directory"
+      heroSubtitle="Browse all available cab services, current rates, and expert-led travel assistance in Kashi"
+      heroBadge="🚕 SERVICE DIRECTORY"
       items={services}
       jsonLd={jsonLd}
     >
@@ -60,7 +60,7 @@ export default function ServicesPage({ services, jsonLd }) {
         <h2 className="text-2xl md:text-3xl font-bold mb-6 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
           Complete Varanasi Travel Desk – Airport, Local & Outstation
         </h2>
-        
+
         <div className="space-y-5 text-gray-700 leading-relaxed">
           <p>
             From first hello to final drop, our dispatcher stays on WhatsApp{' '}
@@ -72,7 +72,7 @@ export default function ServicesPage({ services, jsonLd }) {
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-ayodhya">Ayodhya / Prayagraj pilgrim circuits</Link>,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-gaya-bodh-gaya-tour-package">Bodh Gaya spiritual tours</Link>, staff transport shuttles and 12–26 seater tempo travellers.
           </p>
-          
+
           <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 rounded-r-lg">
             <p className="text-sm">
               <strong className="text-cyan-700">💰 Transparent Pricing:</strong> Every service listing includes transparent fare grids, kilometre limits and add-ons (parking, tolls, night allowance) so you know exactly what you pay.

@@ -51,6 +51,27 @@ const nextConfig = {
         destination: '/:lang/city/:destination/taxi/:slug',
         permanent: true,
       },
+      // Duplicate Consolidations (2026-02-23)
+      {
+        source: '/en/taxi-service-varanasi',
+        destination: '/en/city/varanasi/taxi/taxi-service-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/en/24-7-taxi-varanasi',
+        destination: '/en/city/varanasi/taxi/24-7-taxi-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/en/airport-taxi-service-varanasi',
+        destination: '/en/city/varanasi/taxi/airport-taxi-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/en/city/varanasi/taxi/airport-taxi-service-varanasi',
+        destination: '/en/city/varanasi/taxi/airport-taxi-varanasi',
+        permanent: true,
+      },
       {
         source: '/en/assi-ghat-aarti-time',
         destination: '/en/assi-ghat-evening-aarti-time',

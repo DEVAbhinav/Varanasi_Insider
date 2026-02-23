@@ -223,23 +223,30 @@ export default function HomePage({ allPosts }) {
         <div className="container mx-auto px-4 relative z-10 py-2">
           <div className="max-w-6xl mx-auto">
             {/* Main Title */}
-            <div className="text-center mb-3">
-              <div className="inline-block mb-1.5 px-4 py-1 bg-white/20 backdrop-blur-md rounded-full text-xs font-semibold border border-white/30">
-                #1 VARANASI TAXI SERVICE – 24×7 CAB BOOKING
+            <div className="text-center mb-4">
+              <div className="inline-block mb-2 px-4 py-1.5 bg-white/20 backdrop-blur-md rounded-full text-[10px] md:text-xs font-bold border border-white/30 uppercase tracking-widest text-white/90">
+                #1 Trusted Travel Partner in Kashi
               </div>
-              <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-2 drop-shadow-2xl tracking-tight leading-tight">
-                Taxi in Varanasi – Your Kashi Journey, Worry-Free
+              <h1 className="text-3xl md:text-5xl lg:text-6xl font-extrabold mb-3 drop-shadow-2xl tracking-tight leading-tight">
+                Taxi Service in Varanasi – 24×7 Cab Booking
               </h1>
-              <p className="text-xs md:text-sm font-medium text-white/90 mb-1">
-                Varanasi taxi service for airport pickup, local sightseeing & outstation cabs
-              </p>
-              <p className="text-sm md:text-base font-light text-white/80 drop-shadow-lg">
-                You handle the prayers. We handle the traffic.
+              <h2 className="text-sm md:text-lg font-medium text-white/95 mb-2 drop-shadow-md">
+                Taxi in Varanasi for Airport Pickup, Local Sightseeing & Outstation Cabs
+              </h2>
+              <p className="text-xs md:text-sm font-light text-white/80 drop-shadow-lg italic">
+                “You handle the prayers. We handle the traffic.”
               </p>
             </div>
 
             {/* Functional Booking Widget */}
             <HeroBookingWidget />
+
+            {/* Cab Service Relevance Line */}
+            <div className="mt-6 text-center">
+              <p className="text-[11px] md:text-xs text-white/70 font-medium tracking-wide">
+                Prefer a cab? Our <span className="text-white">Varanasi cab service</span> is available 24×7 — <span className="text-white">book a cab in Varanasi</span> in minutes.
+              </p>
+            </div>
           </div>
         </div>
 

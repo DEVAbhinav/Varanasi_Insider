@@ -97,8 +97,7 @@ Long-distance transfers from Varanasi Airport. All rates include tolls and drive
 
 Comprehensive guides for Varanasi Airport transfers.
 
-- [**Airport Taxi Service Guide**](/en/city/varanasi/taxi/airport-taxi-service-varanasi) — Prepaid vs. on-demand options
-- [**Airport Taxi Varanasi Overview**](/en/city/varanasi/taxi/airport-taxi-varanasi) — Fleet options & booking
+- [**Airport Taxi Service Guide**](/en/city/varanasi/taxi/airport-taxi-varanasi) — Prepaid options, fleet & booking
 - [**Complete Transfer Guide**](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) — Master guide with all routes
 
 ---
