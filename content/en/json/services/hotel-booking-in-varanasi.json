@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "LocalBusiness",
+        "TravelAgency"
+      ],
+      "@id": "https://www.kashitaxi.in/en/services/hotel-booking-in-varanasi#localbusiness",
+      "name": "Kashitaxi.in Hotel Booking Desk",
+      "url": "https://www.kashitaxi.in/en/services/hotel-booking-in-varanasi",
+      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg",
+      "telephone": "+918062182380",
+      "areaServed": [
+        "Varanasi",
+        "Kashi Vishwanath Corridor",
+        "Dashashwamedh",
+        "Godowlia",
+        "Assi Ghat",
+        "Cantonment",
+        "Sarnath"
+      ],
+      "sameAs": [
+        "https://wa.me/919935474730"
+      ]
+    }
+  ]
+}

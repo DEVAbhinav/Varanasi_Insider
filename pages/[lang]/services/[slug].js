@@ -97,8 +97,8 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
         {postData.phone && (
           <CTASection
             phone={postData.phone}
-            title="Ready to book?"
-            subtitle="Get instant confirmation and transparent pricing"
+            title="Need help with this trip plan?"
+            subtitle="Talk to our local team for practical options, clear pricing, and smooth coordination"
             variant="service"
           />
         )}
@@ -142,18 +142,27 @@ export async function getStaticProps({ params }) {
   // --- Dynamic Schema Generation ---
   const siteUrl = 'https://www.kashitaxi.in';
   const pageUrl = `${siteUrl}/${params.lang}/services/${params.slug}`;
+  const hasGraphType = (typeName) =>
+    jsonLdData['@graph'].some((node) => {
+      const type = node?.['@type'];
+      if (!type) return false;
+      if (Array.isArray(type)) return type.includes(typeName);
+      return type === typeName;
+    });
 
   // 1. Breadcrumbs
-  const breadcrumbs = [
-    { name: 'Home', url: '/' },
-    { name: 'Services', url: `/${params.lang}/services/` },
-    { name: postData.title, url: pageUrl }
-  ];
-  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
-  jsonLdData['@graph'].push(breadcrumbSchema);
+  if (!hasGraphType('BreadcrumbList')) {
+    const breadcrumbs = [
+      { name: 'Home', url: '/' },
+      { name: 'Services', url: `/${params.lang}/services/` },
+      { name: postData.title, url: pageUrl }
+    ];
+    const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbs);
+    jsonLdData['@graph'].push(breadcrumbSchema);
+  }
 
   // 2. Service Schema (if applicable)
-  if (postData.schemaType === 'Service' || postData.offers) {
+  if ((postData.schemaType === 'Service' || postData.offers) && !hasGraphType('Service')) {
     const serviceSchema = generateServiceSchema({
       title: postData.title,
       description: postData.description,
@@ -166,16 +175,16 @@ export async function getStaticProps({ params }) {
     jsonLdData['@graph'].push(serviceSchema);
   }
 
-  // 3. FAQ Schema
-  if (postData.faq) {
-    const faqSchema = generateFAQSchema(postData.faq);
+  // 3. FAQ Schema (support both faq and faqSchema frontmatter keys)
+  if ((postData.faq || postData.faqSchema) && !hasGraphType('FAQPage')) {
+    const faqSchema = generateFAQSchema(postData.faq || postData.faqSchema);
     if (faqSchema) {
       jsonLdData['@graph'].push(faqSchema);
     }
   }
 
   // 4. Article Schema (fallback if not a service)
-  if (!postData.schemaType && !postData.offers) {
+  if (!postData.schemaType && !postData.offers && !hasGraphType('BlogPosting')) {
     const articleSchema = generateArticleSchema({
       title: postData.title,
       description: postData.description,

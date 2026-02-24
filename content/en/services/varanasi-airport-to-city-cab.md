@@ -114,7 +114,7 @@ faq:
 | Banaras City (BCY) / Maldahiya | 21 km | 35–45 min | 700–900 | 1,200–1,400 | Old city lanes—share luggage count for hatchback vs sedan. |
 | Ramnagar Fort / Dussehra ground | 36 km | 55–65 min | 900–1,100 | 1,450–1,650 | Bridge toll included; add 10 minutes buffer. |
 
-This grid helps the page qualify for long-tail queries like *“Varanasi airport to city cab price for Dashashwamedh”* and keeps the exact **airport to city cab Varanasi price** transparent for travellers comparing us with app surges.
+This grid gives travelers a clear fare reference for common city drop points and helps compare options before landing.
 
 ## Why a Dedicated Airport-to-City Cab Page?
 
@@ -138,7 +138,7 @@ This grid helps the page qualify for long-tail queries like *“Varanasi airport
 
 Use these links for detailed turn-by-turn routes, ghat barricade intel, and backup pickup points.
 
-## 3-Step Booking Flow (24-Hour SOP)
+## 3-Step Booking Flow (Before You Land)
 
 1. **Share details (T-24 hrs):** Flight number, landing time, passengers, luggage, hotel/ghat, add-ons (SIM stop, tea halt, Aarti).
 2. **Receive confirmation (T-12 hrs):** Driver name, vehicle plate, WhatsApp location link, and reminder of surge shield + refund clause.
@@ -156,7 +156,7 @@ Use these links for detailed turn-by-turn routes, ghat barricade intel, and back
 ## Proof of Trust & Safety (E-E-A-T)
 
 - **Experience since 1998:** Family-run Banarasi Kashitaxi dispatches 150+ monthly airport-to-city cabs with <1% reassignments.
-- **Police-verified drivers:** IDs + permits stored in CRM; shared on WhatsApp before pickup to neutralise tout risk.
+- **Police-verified drivers:** IDs and permits are kept in our records and shared on WhatsApp before pickup to reduce tout risk.
 - **Dual-language support:** Hindi + English dispatch desk, plus Tamil/Bengali-speaking drivers on request for pilgrimage charters.
 - **Live compliance log:** Night rides share GPS link + SOS contact; copies stored for 30 days in case guests need proof for insurance.
 - **Transparent paperwork:** Every confirmation screenshot lists fare, surge shield, refund clause, and GST-inclusive invoice number.
@@ -179,7 +179,7 @@ Bookmark this section (or the [airport transfer guide](/en/city/varanasi/taxi/va
 
 > *“Shared my Air India delay screenshot, dispatcher reassigned within 3 minutes without extra fees. WhatsApp invoice made expense filing easy.”* — Marcus, Singapore
 
-Share your post-ride feedback with the booking team to keep this section fresh—it signals to Google and travellers that the service is actively maintained.
+Share your post-ride feedback with the booking team so future travelers get current route and service updates.
 
 ## Booking CTA
 
@@ -188,7 +188,7 @@ Need a quote faster than email? Tap the WhatsApp button below, share your arriva
 <div class="inline-cta" role="region" aria-label="Book airport to city cab">
   <h3>Skip surge & queues — pre-book now</h3>
   <p>Send your flight details. We lock today’s fare, assign a vetted driver, and SMS the plate 12 hours before touchdown.</p>
-  <a class="btn-primary" href="https://wa.me/919450301573?text=Need%20airport%20to%20city%20cab%20in%20Varanasi&source=website&medium=services&utm_source=website&utm_medium=service&utm_campaign=airport-to-city" rel="nofollow noopener" target="_blank">WhatsApp dispatcher (+91 94503 01573)</a>
+    <a class="btn-primary" href="https://wa.me/919450301573?text=Need%20airport%20to%20city%20cab%20in%20Varanasi&source=website&medium=services&utm_source=website&utm_medium=service&utm_campaign=airport-to-city" rel="nofollow noopener" target="_blank">WhatsApp booking team (+91 94503 01573)</a>
 </div>
 
 ## Surge-Protection FAQ

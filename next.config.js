@@ -201,7 +201,7 @@ const nextConfig = {
       // ===================================
       {
         source: '/services/hotel-booking-in-varanasi',
-        destination: '/en/services/where-to-stay-in-vindhyachal',
+        destination: '/en/services/hotel-booking-in-varanasi',
         permanent: true,
       },
       {
