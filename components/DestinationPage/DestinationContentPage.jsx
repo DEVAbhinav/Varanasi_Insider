@@ -22,7 +22,7 @@ const CATEGORY_TITLE_MAP = {
 
 const toAbsoluteUrl = (url, siteBase = DEFAULT_SITE_BASE) => {
   if (!url) {
-    return `${siteBase}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`;
+    return 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png';
   }
   return url.startsWith('http') ? url : `${siteBase}${url}`;
 };

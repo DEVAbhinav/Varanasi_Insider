@@ -17,7 +17,6 @@ import '../styles/globals.css';
 // For example, if you decide one component's styles must be global.
 // import '../components/SomeComponent/SomeComponent.module.css';
 
-const CANONICAL = 'https://www.kashitaxi.in';
 const ORGANIZATION_JSON_LD = generateOrganizationSchema();
 
 const lora = Lora({
@@ -35,7 +34,6 @@ const sourceSans = Source_Sans_3({
 function MyApp({ Component, pageProps }) {
   const router = useRouter();
   const { asPath } = router;
-  const url = `${CANONICAL}${asPath.split('#')[0].split('?')[0]}`;
   const scrollDepthsTracked = useRef(new Set());
 
   useEffect(() => {
@@ -119,7 +117,6 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <link rel="icon" href="/favicon.jpeg" />
-        <link rel="canonical" href={url} />
         <script
           id="organization-jsonld"
           type="application/ld+json"

@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import HreflangTags from './HreflangTags'
+import { sanitizeJsonLdData } from '@/lib/jsonLdSanitizer'
 
 /**
  * HeadForBlogs
@@ -17,6 +18,14 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
   if (!postData) return null
 
   const SITE = siteBase
+  const toAbsoluteUrl = (value) => {
+    if (!value || typeof value !== 'string') return null
+    const trimmed = value.trim()
+    if (!trimmed) return null
+    if (trimmed.startsWith('http://') || trimmed.startsWith('https://')) return trimmed
+    if (trimmed.startsWith('//')) return `https:${trimmed}`
+    return `${SITE}${trimmed.startsWith('/') ? trimmed : `/${trimmed}`}`
+  }
   const langForPath = pageLang || 'en'
   const slugForPath = pageSlug || postData.slug
   const urlPath = `/${langForPath}/${slugForPath}`
@@ -31,9 +40,8 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
   const modified = postData.lastUpdated || postData.date || undefined
   const ogLocale = (postData.lang || (langForPath === 'hi' ? 'hi-IN' : 'en-IN')).replace('-', '_')
 
-  const ogImage = postData.featuredImage
-    ? (postData.featuredImage.startsWith('http') ? postData.featuredImage : `${SITE}${postData.featuredImage}`)
-    : `${SITE}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`
+  const ogImage = toAbsoluteUrl(postData.featuredImage) || 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png'
+  const safeJsonLdData = jsonLdData ? sanitizeJsonLdData(jsonLdData) : null
 
   return (
     <Head>
@@ -67,10 +75,10 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
       <meta name="twitter:image" content={ogImage} />
 
       {/* JSON-LD */}
-      {jsonLdData && (
+      {safeJsonLdData && (
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdData) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(safeJsonLdData) }}
         />
       )}
     </Head>
