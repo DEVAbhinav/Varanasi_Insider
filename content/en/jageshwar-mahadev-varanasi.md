@@ -6,7 +6,7 @@ lastUpdated: "2025-07-25"
 author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/jageshwar-mahadev-varanasi-guide/"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kal-bhairav-p.jpeg"
+featuredImage: "/images/posts/jageshwar-mahadev-rangbhari-ekadashi-1.jpeg"
 description: "Jageshwar Mahadev Varanasi—self‑growing Shivling, history, timings and how to reach. See why this Siddhpeeth is a hidden gem. Learn more."
 tags:
   - jageshwar mahadev varanasi
@@ -69,6 +69,24 @@ tags:
 | **Mahā Shivratri** | All-night *abhishek*; priests measure the lingam’s new height grain-by-grain. |
 | **Shrāvaṇ Mondays** | Queues from 4 am; devotees bring Ganga water for *jal-abhishek*. |
 | **Panch-Kroshi Yatra** | Pilgrims often add Jageshwar as an optional 6ᵗʰ stop on the 25 km circuit. |
+
+---
+
+## Rangbhari Ekadashi Celebration
+
+During **Rangbhari Ekadashi**, the temple comes alive with vibrant decorations and special rituals. Devotees flock to the temple to witness the deity adorned with flowers and gulal (colored powder).
+
+![Rangbhari Ekadashi at Jageshwar Mahadev](/images/posts/jageshwar-mahadev-rangbhari-ekadashi-1.jpeg "The temple adorned with vibrant marigold garlands during Rangbhari Ekadashi")
+
+The atmosphere is electric with the sound of bells and chants as pilgrims offer their prayers.
+
+![Devotees at Jageshwar Mahadev](/images/posts/jageshwar-mahadev-rangbhari-ekadashi-2.jpeg "Devotees gathering for darshan during the festival")
+
+The intricate decorations and the festive spirit make it a unique time to visit this ancient siddhpeeth.
+
+![Celebration at Jageshwar Mahadev](/images/posts/jageshwar-mahadev-rangbhari-ekadashi-3.jpeg "Close-up of the floral decorations on the temple structure")
+
+![Temple decorations](/images/posts/jageshwar-mahadev-rangbhari-ekadashi-4.jpeg "Another view of the beautifully decorated temple premises")
 
 ---
 
