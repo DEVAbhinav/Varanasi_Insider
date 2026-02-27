@@ -1,8 +1,8 @@
 ---
-title: "Jageshwar Mahadev Varanasi: Temple Guide [2025]"
+title: "Jageshwar Mahadev Varanasi: Temple Guide [2026]"
 slug: "jageshwar-mahadev-varanasi"
 date: "2025-07-25"
-lastUpdated: "2025-08-01"
+lastUpdated: "2026-02-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/jageshwar-mahadev-varanasi-guide/"
@@ -92,7 +92,7 @@ The intricate decorations and the festive spirit make it a unique time to visit 
 
 ## Getting there
 
-* **By auto/e-rickshaw** – Quote “Ishwargangi Jageshwar Mandir”; ride from Godowlia ₹40–50, from Varanasi Junction ₹70–80.  
+* **By auto/e-rickshaw** – Quote “Ishwargangi Jageshwar Mandir”; ride from Godowlia ₹40–50, from Varanasi Junction ₹70–80. (For those arriving by flight, check the latest [Varanasi Airport Taxi Prices]({{ '/varanasi-airport-taxi-price-guide' | url }})).
 * **On foot** – From Chowk clock-tower, walk 10 min via Machhodari market; follow signage for Adarsh Inter College.  
 * **Parking** – None; nearest pay-parking at Kabir Chauraha (300 m).
 
@@ -122,5 +122,3 @@ The intricate decorations and the festive spirit make it a unique time to visit 
 > Modest clothing covering shoulders and knees; men may go shirtless inside but it’s optional.  
 
 ---
-
-*Internal SEO note: add a contextual link from the **Getting There** section to your “[Varanasi Airport Taxi Prices]({{ '/varanasi-airport-taxi-price' | url }})” guide to capture transactional intent and strengthen topical authority.*
