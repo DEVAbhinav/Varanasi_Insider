@@ -21,6 +21,7 @@ tags:
   - redirect
   - renamed
 template: destination
+canonical: https://www.kashitaxi.in/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi
 relatedPosts:
   - varanasi-to-prayagraj-taxi
   - varanasi-to-ayodhya-taxi

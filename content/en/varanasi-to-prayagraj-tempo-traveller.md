@@ -1,113 +1,182 @@
 ---
 lang: en
-title: "Varanasi to Prayagraj Tempo Traveller ₹8,500 | Sangam Day Tour"
-description: "Book your ₹8,500 day tour with private boat options, Bade Hanumanji darshan, clean meal halts, and vetted drivers. Confirm instantly via WhatsApp."
+title: "Varanasi to Prayagraj Tempo Traveller Price List 2026 | 12 & 17 Seater Fare"
+metaTitle: "Varanasi to Prayagraj Tempo Traveller Price List 2026 | 12, 17 Seater"
+metaDescription: "Check Varanasi to Prayagraj tempo traveller price list for 2026. 12 seater from ₹8,500 and 17 seater from ₹9,500 for Sangam day trips with tolls, parking and driver included."
+description: "The dedicated Kashitaxi fare page for Varanasi to Prayagraj tempo traveller booking. Compare 12 and 17 seater prices, inclusions, itinerary timing and group-fit details."
 date: 2025-08-27
-tags: [prayagraj, allahabad, varanasi to prayagraj tempo traveller, sangam darshan, triveni sangam, tempo traveller fare, book tempo traveller prayagraj, 12 seater tempo traveller, 17 seater tempo traveller, nh19]
+lastUpdated: 2026-03-07
+tags:
+  - prayagraj
+  - allahabad
+  - varanasi to prayagraj tempo traveller
+  - sangam darshan
+  - triveni sangam
+  - tempo traveller fare
+  - 12 seater tempo traveller
+  - 17 seater tempo traveller
+  - pilgrimage
+  - one-day trip
+keywords:
+  - "varanasi to prayagraj tempo traveller price list"
+  - "varanasi to prayagraj tempo traveller price"
+  - "varanasi to prayagraj traveller price"
+  - "tempo traveller varanasi to prayagraj"
+  - "tempo traveller from varanasi to prayagraj"
+  - "varanasi to allahabad tempo traveller"
 slug: varanasi-to-prayagraj-tempo-traveller
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg
 canonical: https://www.kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller
 relatedPosts:
-  - varanasi-to-ayodhya-tempo-traveller
+  - varanasi-to-prayagraj
   - tempo-traveller-rates-varanasi
+  - tour-package-from-varanasi
+faqSchema:
+  - question: "What is the Varanasi to Prayagraj tempo traveller price list?"
+    answer: "For a same-day round trip from Varanasi, our 12 seater tempo traveller starts from ₹8,500 and the 17 seater starts from ₹9,500. These fares include vehicle, driver, fuel, tolls, parking and state taxes."
+  - question: "Which seater is best for Prayagraj Sangam groups?"
+    answer: "A 12 seater is best for 8-11 pilgrims who want more space, while a 17 seater works better for 12-16 passengers or larger family groups. We help match the seat size to your luggage, elders and ritual timing."
+  - question: "Is the fare all-inclusive?"
+    answer: "Yes. The quoted same-day fare includes the vehicle, experienced driver, fuel, tolls, parking and state taxes. Boat charges, puja costs, meals and overtime beyond the agreed plan are extra."
+  - question: "Can we do Sangam darshan and return the same day?"
+    answer: "Yes. With a 6:00 AM departure from Varanasi, most groups can cover Triveni Sangam, Bade Hanumanji, Alopi Devi and a food break in the same day, then return by evening."
 ---
 
-# Varanasi to Prayagraj (Allahabad) Tempo Traveller – Sangam Darshan Package
+# Varanasi to Prayagraj Tempo Traveller Price List 2026 | 12 & 17 Seater Fare
 
-> **TL;DR:** Varanasi to Prayagraj tempo traveller day package is ₹8,500 for a 12-seater (₹9,500 for 17-seater) covering Triveni Sangam, Bade Hanumanji, and Alopi Devi with a 121 km drive via NH19. Confirm life jacket-ready boat and priest charges before dipping to stay focused on the ritual. Scroll for itinerary, inclusions, and WhatsApp booking link.
+> **TL;DR:** This is the main Kashitaxi page for `Varanasi to Prayagraj tempo traveller`, `Varanasi to Prayagraj tempo traveller price`, and `Varanasi to Prayagraj tempo traveller price list` intent. A same-day round trip starts from **₹8,500 for a 12 seater** and **₹9,500 for a 17 seater**, with driver, fuel, tolls, parking and taxes included.
 
-The holy Triveni Sangam at Prayagraj, where the Ganga and Yamuna meet—a highlight of our day tour. Travel from Kashi to the confluence in comfort! Our Varanasi–Prayagraj Tempo Traveller package is a curated day trip that takes your group to the most revered sites of Allahabad (Prayagraj)—including Triveni Sangam, sacred temples, and historic landmarks—in one day. If you have a family or group keen on a teerth yatra to Prayagraj, here’s everything you need to know about the journey, itinerary, and pricing.
+If your group is planning Triveni Sangam darshan from Varanasi and you need the **group-vehicle price first**, this is the right page. It is built for families, senior pilgrims, satsang groups, and friends who want one vehicle, one fare, and one clear Prayagraj schedule.
 
-## Tempo Traveller Photos for Prayagraj Pilgrimage
+If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare instead, use our [Varanasi to Prayagraj route and taxi guide](/en/varanasi-to-prayagraj).
 
-![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller for Prayagraj same‑day package")
+## Quick Route Snapshot
 
-![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Comfortable, AC cabin for groups")
+| Detail | Information |
+|---|---|
+| **Road distance** | About 121 km |
+| **Drive time** | 2.5 to 3 hours each way |
+| **Usual route** | Varanasi -> Handia -> Prayagraj via NH19 |
+| **Best fit** | 8 to 16 pilgrims traveling together |
 
-## Why Visit Prayagraj Sangam from Varanasi?
+## Varanasi to Prayagraj Tempo Traveller Price List
 
-Prayagraj (formerly Allahabad) is one of the holiest cities in India, forming an essential part of the Kashi–Prayag spiritual circuit (kashitaxi.in). It is home to the Triveni Sangam—the confluence of three rivers: Ganga, Yamuna, and the mystical Saraswati. A bath at the Sangam is believed to wash away sins. Prayagraj also hosts the grand Kumbh Mela. For those in Varanasi, a day trip to Prayagraj is spiritually rewarding and logistically feasible, thanks to a modern highway connecting the two cities (kashitaxi.in).
+| Vehicle | Best for | Same-day round trip fare | Approx per-head cost | Notes |
+|---|---|---:|---:|---|
+| **12 Seater Tempo Traveller** | 8-11 pilgrims | **₹8,500** | about ₹708 at full occupancy | Better comfort for families and elders |
+| **17 Seater Tempo Traveller** | 12-16 pilgrims | **₹9,500** | about ₹559 at full occupancy | Best for larger yatras and group travel |
 
-## Varanasi to Prayagraj Distance, Route & Travel Time
+These are the core fare points this page should own. When people search for **Varanasi to Prayagraj traveller price** or **tempo traveller from Varanasi to Prayagraj**, this is the page they should land on.
 
-- Distance: ~121 km by road from Varanasi to Prayagraj (Sangam area) (kashitaxi.in)
-- Travel Time: ~2.5–3 hours one way via NH19 (Varanasi–Handia–Prayagraj) expressway (kashitaxi.in)
-- Route: Smooth NH19 with dhabas and fuel stations; our drivers know the best pit stops for chai and clean washrooms (kashitaxi.in)
-- Start Time: We recommend a 7:00 AM departure from Varanasi, reaching Prayagraj by ~10:00 AM
+## What Is Included In The Fare
 
-## Varanasi to Prayagraj Tempo Traveller Price & Inclusions
+Your quoted Prayagraj tempo traveller fare includes:
 
-- All‑inclusive Fare: ₹8,500 for a standard 12‑seater Tempo Traveller (same‑day return)
-- What’s Included: Round‑trip from your Varanasi pickup to all Prayagraj sights and back; all tolls (NH19), parking (e.g., Sangam), fuel, and driver allowance; no hidden extras
-- 17‑Seater Option: For larger groups, we’ll share a custom quote (typically ~₹9,500 for the day, similarly inclusive)
-- Overnight Plan: If you want to stay in Prayagraj and return next day, ask for our reasonable multi‑day rates
+- private AC Tempo Traveller for the full trip
+- experienced driver familiar with Sangam access flow
+- fuel for the planned same-day run
+- tolls and state taxes
+- Prayagraj parking
+- driver allowance
 
-![Triveni Sangam confluence viewed from private boat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg "Private boat perspective of Triveni Sangam")
+Not included:
 
-![Anand Bhavan heritage landmark included in itinerary](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAllahabad.png "Anand Bhavan heritage stop")
+- boat charges at Triveni Sangam
+- puja / panda charges
+- meals and snacks
+- overtime beyond the planned trip window
+- distant detours not agreed before departure
 
-## Varanasi to Prayagraj Darshan Itinerary (One Day)
+## Who Should Use This Page
 
-- 7:00 AM: Depart Varanasi—settle in as we hit NH19; many pilgrims recite prayers or rest
-- 10:00 AM: Reach Prayagraj; head to Triveni Sangam—option for boat ride to the exact confluence point; dip (snaan) and optional tarpan with local priests; private changing tent can be arranged
-- 11:30 AM: Bade Hanumanji Temple (reclining Hanuman) near Allahabad Fort; see Akshay Vat (subject to access)
-- 12:30 PM: Alopi Devi Shakti Peeth—unique empty palanquin worshipped as the goddess
-- 1:15 PM: Lunch break—try Allahabadi kulcha/chaat near Loknath, or a clean thali restaurant; famous lassi, too
-- 2:30 PM: Anand Bhavan (optional; Nehru family museum). If you prefer only spiritual sites, skip and spend more time at temples
-- 3:30 PM: Journey back; optional halt for Prayagraj guavas/sweets
-- ~6:30 PM: Arrive back in Varanasi; drop at your hotel/home
+This page is the best fit when:
 
-Timings are flexible. If you wish to attend a special Sangam aarti or extend prayer time, we adjust the schedule—just inform the driver.
+- your main question is **tempo traveller price**
+- you need a **12 seater or 17 seater** for Prayagraj
+- you are traveling as one group and want everyone in the same vehicle
+- you want a Sangam day trip from Varanasi without splitting into multiple cabs
 
-## Spiritual Significance of Prayagraj Sangam
+This page is not the best fit when:
 
-Prayagraj Darshan is a deeply spiritual journey. Pilgrims often say, “snana in Prayag and mrityu in Kashi” as two sure paths to salvation (kashitaxi.in). A Sangam dip is said to be equal to years of penance. Planning during Kumbh 2025? Inform us early—we manage heavy‑crowd logistics for pilgrims during Kumbh.
+- you need only a sedan or Innova fare
+- you are comparing train vs taxi
+- you want a broad route guide first
 
-## Why Book Your Prayagraj Tempo Traveller with Banarasi Varanasi Taxi?
+For those cases, use [Varanasi to Prayagraj distance, taxi fare and travel options](/en/varanasi-to-prayagraj).
 
-- Proficient Drivers: Know the exact Sangam entrances and parking; advise on interacting with priests for a peaceful ritual; can connect you with a reliable priest if you want a proper puja
-- Comfort Assured: Clean AC Tempo Traveller, supportive seats, mobile charging—arrive fresh for the holy dip
-- Group Bonding: One vehicle keeps everyone together—decide collectively how to spend time; many families sing devotional songs en route
-- No Logistical Worries: We handle route planning, timing, and traffic updates; your coordinator is a call away throughout the trip
+## Prayagraj Day Trip Timing From Varanasi
 
-## Tips for Sangam
+Most groups prefer a same-day darshan plan like this:
 
-- Agree boat and priest charges beforehand to keep focus on your spiritual experience
-- Carry a change of clothes, small towel, and waterproof pouch for phones
-- Senior‑friendly: We can arrange a private changing tent; life jackets are typically available with trusted boatmen
+| Time | Plan | Notes |
+|---|---|---|
+| **6:00 AM** | Depart Varanasi | Early start protects Sangam time and return comfort |
+| **9:00-9:30 AM** | Arrive Prayagraj | Tea / washroom stop if needed |
+| **9:30-11:00 AM** | Triveni Sangam boat + snan / puja | Fix boat and priest charges first |
+| **11:15 AM-12:00 PM** | Bade Hanumanji | Keep footwear and belongings organized |
+| **12:15-1:00 PM** | Alopi Devi | Short darshan stop |
+| **1:00-2:00 PM** | Lunch break | Clean vegetarian stop |
+| **2:00-3:00 PM** | Optional Anand Bhavan / short city halt | Depends on group pace |
+| **3:30-4:00 PM** | Start return to Varanasi | Tea stop on the way |
+| **6:30-7:30 PM** | Reach Varanasi | Traffic dependent |
 
-## FAQs: Varanasi to Prayagraj Tempo Traveller
+## Why Groups Prefer Tempo Traveller For Prayagraj
 
-- What is the fare for Varanasi to Prayagraj Tempo Traveller? ₹8,500 all‑inclusive (vehicle, driver, fuel, tolls, parking) for 12‑seater; ~₹9,500 for 17‑seater
-- How long is the journey? About 2.5–3 hours each way (~121 km) via NH19
-- Can we do it comfortably in one day? Yes—the itinerary covers essentials without exhaustion; many pilgrims do this as a day trip
-- Are life jackets and changing rooms available? Trusted boatmen provide life jackets; we can arrange a private changing tent on request
-- How to book a 12 seater or 17 seater Tempo Traveller from Varanasi to Prayagraj? Contact us on WhatsApp or call; same‑day package booking is quick and confirmed
-- What is included in the Prayagraj Tempo Traveller price? All tolls, parking, fuel, driver allowance; no hidden charges
+- **One vehicle, one schedule:** no split arrivals, no separate parking issues
+- **Better for elders:** easier rest-stop planning and everyone moves together
+- **Room for puja items and spare clothes:** useful for Sangam snan trips
+- **Per-head economics improve quickly:** once the vehicle is near full, the fare becomes efficient for family groups
+- **Cleaner pilgrimage flow:** one driver can manage pickup, halts and return timing cleanly
 
-## Book Varanasi to Prayagraj Tempo Traveller
+## Practical Booking Notes
 
-- Primary CTA: Book Your Prayagraj Trip (₹8,500)
-- WhatsApp Quick Booking available
+Before booking, send these details on WhatsApp:
+
+- travel date
+- group size
+- whether you need 12 seater or 17 seater
+- pickup point in Varanasi
+- whether elders or children are traveling
+- whether the plan is same-day return or extended
+
+This helps us confirm the correct seat size and trip window instead of forcing a generic quote.
+
+## When To Choose Taxi Instead Of Tempo Traveller
+
+Book a taxi instead when:
+
+- you are only 2-6 passengers
+- you want a one-way drop more than a group pilgrimage
+- you are comparing train vs road first
+
+For that use case, go to [Varanasi to Prayagraj route and taxi fare guide](/en/varanasi-to-prayagraj).
+
+## FAQ: Varanasi To Prayagraj Tempo Traveller
+
+### What is the fare for Varanasi to Prayagraj Tempo Traveller?
+
+The current same-day group fare starts from **₹8,500 for a 12 seater** and **₹9,500 for a 17 seater**, inclusive of driver, fuel, tolls, parking and taxes.
+
+### Is this the Varanasi to Prayagraj traveller price for a full round trip?
+
+Yes. The quoted fare is for the full same-day round trip from Varanasi to Prayagraj and back, based on the agreed itinerary.
+
+### Which seater should I book?
+
+Book the 12 seater when you want more comfort for 8-11 pilgrims. Book the 17 seater when you need to move a larger group economically in one vehicle.
+
+### Can you arrange a direct tempo traveller drop to Prayagraj?
+
+Yes, but one-way or overnight plans should be quoted separately because the same-day price list on this page is optimized for round-trip Sangam travel.
+
+## Book Your Prayagraj Tempo Traveller
+
 - Call: [+91 80621 82380](tel:+918062182380)
-- WhatsApp: https://wa.me/919935474730?text=Prayagraj%20same-day%20trip%20booking
+- WhatsApp: [Book Prayagraj tempo traveller](https://wa.me/919935474730?text=Prayagraj%20tempo%20traveller%20price%20list)
+- Need route-only fare first? See [Varanasi to Prayagraj taxi and travel guide](/en/varanasi-to-prayagraj)
 
-![Tempo Traveller waiting at Triveni Sangam parking bay](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Tempo Traveller waiting at Triveni Sangam parking bay")
+## Related Pages
 
-## Ready for Your Prayagraj Sangam Dash with a Tempo Traveller?
-
-Reserve your Traveller today for guaranteed sunrise snan slots, vetted priests, and comfort halts tailored to elders.
-
-[Lock My Prayagraj Charter](/booking)
-
-## Popular Searches
-
-- varanasi to prayagraj tempo traveller price
-- prayagraj tempo traveller fare 12 seater / 17 seater
-- triveni sangam day trip from varanasi
-- book tempo traveller allahabad same day package
-
-## Related
-
-- [Ayodhya Day Trip](/en/varanasi-to-ayodhya-tempo-traveller)
-- [Rates Guide](/en/tempo-traveller-rates-varanasi)
+- [Varanasi to Prayagraj distance, taxi fare and travel options](/en/varanasi-to-prayagraj)
+- [Tempo Traveller Rates in Varanasi](/en/tempo-traveller-rates-varanasi)
+- [Tour Packages from Varanasi](/en/tour-package-from-varanasi)

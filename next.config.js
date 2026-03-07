@@ -1,3 +1,170 @@
+const fs = require('fs');
+const path = require('path');
+
+const CONTENT_ROOT = path.join(__dirname, 'content');
+const SITE_BASE = 'https://www.kashitaxi.in';
+
+function safeReadDir(dir) {
+  try {
+    return fs.readdirSync(dir, { withFileTypes: true });
+  } catch {
+    return [];
+  }
+}
+
+function normalizeCanonicalPath(input) {
+  if (!input || typeof input !== 'string') return null;
+  const trimmed = input.trim();
+  if (!trimmed) return null;
+
+  if (trimmed.startsWith('http://') || trimmed.startsWith('https://')) {
+    try {
+      const url = new URL(trimmed);
+      if (url.origin !== SITE_BASE) return null;
+      return url.pathname.replace(/\/+$/, '') || '/';
+    } catch {
+      return null;
+    }
+  }
+
+  return (trimmed.startsWith('/') ? trimmed : `/${trimmed}`).replace(/\/+$/, '') || '/';
+}
+
+function getRootMarkdownSlugs(lang) {
+  return new Set(
+    safeReadDir(path.join(CONTENT_ROOT, lang))
+      .filter((entry) => entry.isFile() && entry.name.endsWith('.md') && entry.name.toLowerCase() !== 'index.md')
+      .map((entry) => entry.name.replace(/\.md$/i, ''))
+  );
+}
+
+function getScopedMarkdownSlugs(lang) {
+  const folders = ['services', 'landing', 'guides', 'packages', 'bus'];
+  const slugs = new Set();
+
+  folders.forEach((folder) => {
+    safeReadDir(path.join(CONTENT_ROOT, lang, folder))
+      .filter((entry) => entry.isFile() && entry.name.endsWith('.md') && entry.name.toLowerCase() !== 'index.md')
+      .forEach((entry) => slugs.add(entry.name.replace(/\.md$/i, '')));
+  });
+
+  return slugs;
+}
+
+function buildRootCanonicalRedirects() {
+  const redirects = [];
+  const langs = ['en', 'hi'];
+
+  langs.forEach((lang) => {
+    safeReadDir(path.join(CONTENT_ROOT, lang))
+      .filter((entry) => entry.isFile() && entry.name.endsWith('.md') && entry.name.toLowerCase() !== 'index.md')
+      .forEach((entry) => {
+        const slug = entry.name.replace(/\.md$/i, '');
+        const abs = path.join(CONTENT_ROOT, lang, entry.name);
+        const raw = fs.readFileSync(abs, 'utf8');
+        const canonicalMatch = raw.match(/^canonical:\s*["']?(.+?)["']?\s*$/m);
+        const currentPath = `/${lang}/${slug}`;
+        const canonicalPath = normalizeCanonicalPath(canonicalMatch?.[1]);
+
+        if (canonicalPath && canonicalPath !== currentPath) {
+          redirects.push({
+            source: currentPath,
+            destination: canonicalPath,
+            permanent: true,
+          });
+        }
+      });
+  });
+
+  return redirects;
+}
+
+function buildScopedRootRedirects() {
+  const redirects = [];
+  const langs = ['en', 'hi'];
+  const folderToRoute = {
+    services: 'services',
+    landing: 'services',
+    guides: 'services',
+    packages: 'packages',
+    bus: 'bus',
+  };
+
+  langs.forEach((lang) => {
+    const rootSlugs = getRootMarkdownSlugs(lang);
+    const usedSources = new Set();
+
+    Object.entries(folderToRoute).forEach(([folder, routeBase]) => {
+      safeReadDir(path.join(CONTENT_ROOT, lang, folder))
+        .filter((entry) => entry.isFile() && entry.name.endsWith('.md') && entry.name.toLowerCase() !== 'index.md')
+        .forEach((entry) => {
+          const slug = entry.name.replace(/\.md$/i, '');
+          const source = `/${lang}/${slug}`;
+          if (rootSlugs.has(slug) || usedSources.has(source)) return;
+          usedSources.add(source);
+          redirects.push({
+            source,
+            destination: `/${lang}/${routeBase}/${slug}`,
+            permanent: true,
+          });
+        });
+    });
+  });
+
+  return redirects;
+}
+
+function buildDestinationRootRedirects() {
+  const redirects = [];
+  const langs = ['en', 'hi'];
+
+  langs.forEach((lang) => {
+    const reserved = new Set([
+      ...getRootMarkdownSlugs(lang),
+      ...getScopedMarkdownSlugs(lang),
+    ]);
+    const destinationRoot = path.join(CONTENT_ROOT, lang, 'destinations');
+
+    safeReadDir(destinationRoot)
+      .filter((entry) => entry.isDirectory())
+      .forEach((destinationEntry) => {
+        const destination = destinationEntry.name;
+        const destinationDir = path.join(destinationRoot, destination);
+
+        safeReadDir(destinationDir)
+          .filter((entry) => entry.isDirectory())
+          .forEach((categoryEntry) => {
+            const category = categoryEntry.name;
+            const categoryDir = path.join(destinationDir, category);
+
+            safeReadDir(categoryDir)
+              .filter((entry) => entry.isFile() && entry.name.endsWith('.md') && entry.name.toLowerCase() !== 'index.md')
+              .forEach((entry) => {
+                const slug = entry.name.replace(/\.md$/i, '');
+                if (reserved.has(slug)) return;
+                redirects.push({
+                  source: `/${lang}/${slug}`,
+                  destination: `/${lang}/city/${destination}/${category}/${slug}`,
+                  permanent: true,
+                });
+              });
+          });
+      });
+  });
+
+  return redirects;
+}
+
+function dedupeRedirects(redirects) {
+  const seen = new Set();
+  return redirects.filter((redirect) => {
+    const key = `${redirect.source}=>${redirect.destination}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // Force no trailing slashes to prevent duplicate content
@@ -42,13 +209,13 @@ const nextConfig = {
   },
 
   async redirects() {
-    return [
+    return dedupeRedirects([
       // ===================================
       // CATEGORY 0: 404 Cleanup & Path Normalization
       // ===================================
       {
-        source: '/:lang(en|hi)/destinations/:destination/taxi/:slug',
-        destination: '/:lang/city/:destination/taxi/:slug',
+        source: '/:lang(en|hi)/destinations/:destination/:category/:slug',
+        destination: '/:lang/city/:destination/:category/:slug',
         permanent: true,
       },
       // Duplicate Consolidations (2026-02-23)
@@ -80,6 +247,41 @@ const nextConfig = {
       {
         source: '/en/services/varanasi-airport-taxi-winter-2025',
         destination: '/en/varanasi-airport-taxi-price-guide',
+        permanent: true,
+      },
+      {
+        source: '/en/ganga-aarti-boat-booking-price',
+        destination: '/en/evening-boat-ride-varanasi-ganga-aarti',
+        permanent: true,
+      },
+      {
+        source: '/hi/ganga-aarti-boat-booking-price',
+        destination: '/hi/evening-boat-ride-varanasi-ganga-aarti',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-to-allahabad-tempo-traveller',
+        destination: '/en/varanasi-to-prayagraj-tempo-traveller',
+        permanent: true,
+      },
+      {
+        source: '/hi/varanasi-to-allahabad-tempo-traveller',
+        destination: '/hi/varanasi-to-prayagraj-tempo-traveller',
+        permanent: true,
+      },
+      {
+        source: '/en/city/allahabad/taxi/varanasi-to-allahabad-taxi',
+        destination: '/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi',
+        permanent: true,
+      },
+      {
+        source: '/varanasi/tour-packages/:slug',
+        destination: '/en/city/varanasi/tour-packages/:slug',
+        permanent: true,
+      },
+      {
+        source: '/ayodhya/tour-packages/:slug',
+        destination: '/en/city/ayodhya/tour-packages/:slug',
         permanent: true,
       },
       {
@@ -517,7 +719,10 @@ const nextConfig = {
         destination: '/',
         permanent: true,
       },
-    ];
+      ...buildRootCanonicalRedirects(),
+      ...buildScopedRootRedirects(),
+      ...buildDestinationRootRedirects(),
+    ]);
   },
 }
 

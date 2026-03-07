@@ -68,6 +68,14 @@ faqSchema:
 > - **Ideal For:** Elderly parents, NRI families, multi-generational pilgrimages
 > - **Key Features:** Private AC transport, VIP darshan slots, elderly-friendly hotels, 24/7 medical support
 
+## Use This Page for the Multi-City Elderly Circuit
+
+If your family needs a **Varanasi-only** low-walking package for elders, use the dedicated owner page instead:
+
+- [Senior Citizen Varanasi Tour Package](/en/senior-citizen-varanasi-tour-package)
+
+Keep this page for the broader Varanasi + Gaya + Prayagraj elderly circuit.
+
 ---
 
 ## The Pilgrimage Your Elderly Parents Deserve (Without the Ordeal)

@@ -20,7 +20,6 @@ keywords:
   - triveni sangam puja concierge
 relatedPosts:
   - varanasi-to-prayagraj-tempo-traveller
-  - varanasi-to-allahabad-tempo-traveller
   - varanasi-to-prayagraj-kumbh-tempo-traveller
   - pilgrimage-yatra-tours-tempo-traveller-varanasi
 ---

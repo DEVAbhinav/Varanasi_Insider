@@ -17,7 +17,6 @@ relatedPosts:
   - varanasi-to-prayagraj-tempo-traveller
   - varanasi-to-triveni-sangam-tempo-traveller
   - tempo-traveller-rates-varanasi
-  - varanasi-to-allahabad-tempo-traveller
 faqSchema:
   - question: "What is the fare for a Tempo Traveller during Kumbh snan days?"
     answer: "Peak snan days (Makar Sankranti, Mauni Amavasya, Basant Panchami) start at ₹14,500 for a 12 seater and ₹16,000 for a 17 seater, inclusive of special permits, barricade passes, and driver allowance."

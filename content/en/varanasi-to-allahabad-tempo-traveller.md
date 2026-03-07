@@ -14,6 +14,7 @@ keywords:
   - khusro bagh itinerary from varanasi
 slug: varanasi-to-allahabad-tempo-traveller
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg
+canonical: https://www.kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller
 relatedPosts:
   - varanasi-to-prayagraj-tempo-traveller
   - varanasi-to-triveni-sangam-tempo-traveller

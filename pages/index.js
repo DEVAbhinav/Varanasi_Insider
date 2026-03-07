@@ -107,19 +107,19 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Taxi in Varanasi | Varanasi Taxi Service – 24×7 Cabs</title>
+        <title>Varanasi Taxi & Pilgrimage Tour Packages | Airport, Kashi Darshan, Ayodhya</title>
         <meta
           name="description"
-          content="Taxi in Varanasi from ₹800. Local drivers, airport pickup, outstation cabs to Prayagraj & Ayodhya. 24×7 booking. Safe family travel ✓ 4.9★ rated."
+          content="Book taxi in Varanasi plus pilgrimage packages for airport pickup, Kashi darshan, group tours, Delhi-origin pilgrimages, Ayodhya, Prayagraj and Vindhyachal. Fixed fares, local drivers and WhatsApp booking."
         />
-        <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
+        <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi group tour package, kashi group tour, ayodhya varanasi prayagraj group tour, varanasi tour package from delhi, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
         <meta name="author" content="Varanasi Taxi" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.kashitaxi.in/" />
 
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Taxi in Varanasi | Safe & Caring Varanasi Taxi Service" />
-        <meta property="og:description" content="Varanasi taxi service with drivers who know secret parking at Dashashwamedh. Safe family travel, 24×7 support. Book your worry-free Kashi ride!" />
+        <meta property="og:title" content="Varanasi Taxi, Group Tours & Pilgrimage Packages | Safe Local Travel Team" />
+        <meta property="og:description" content="Airport pickup, local sightseeing, group pilgrimage packages, Delhi-origin sacred circuits, Ayodhya darshan, Vindhyachal and Prayagraj trips from one trusted Varanasi team." />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/" />
         <meta property="og:type" content="website" />
@@ -225,26 +225,45 @@ export default function HomePage({ allPosts }) {
             {/* Main Title */}
             <div className="text-center mb-4">
               <div className="inline-block mb-2 px-4 py-1.5 bg-white/20 backdrop-blur-md rounded-full text-[10px] md:text-xs font-bold border border-white/30 uppercase tracking-widest text-white/90">
-                #1 Trusted Travel Partner in Kashi
+                Taxi + Pilgrimage Packages from One Local Team
               </div>
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-extrabold mb-3 drop-shadow-2xl tracking-tight leading-tight">
-                Taxi Service in Varanasi – 24×7 Cab Booking
+                Varanasi Taxi & Pilgrimage Tour Packages
               </h1>
               <h2 className="text-sm md:text-lg font-medium text-white/95 mb-2 drop-shadow-md">
-                Taxi in Varanasi for Airport Pickup, Local Sightseeing & Outstation Cabs
+                Airport Pickup, Kashi Darshan, Delhi-Origin Group Tours, Ayodhya, Prayagraj & Vindhyachal
               </h2>
               <p className="text-xs md:text-sm font-light text-white/80 drop-shadow-lg italic">
-                “You handle the prayers. We handle the traffic.”
+                "You handle the darshan. We handle the route, timing and driver."
               </p>
             </div>
 
             {/* Functional Booking Widget */}
             <HeroBookingWidget />
 
+            <div className="mt-5 flex flex-wrap items-center justify-center gap-2">
+              {[
+                { href: '/en/varanasi-tour-package-for-families', label: 'Family Package' },
+                { href: '/en/kashi-vishwanath-darshan-ganga-aarti-package', label: 'Darshan + Aarti' },
+                { href: '/en/varanasi-tour-package-with-hotel', label: 'Hotel + Cab' },
+                { href: '/en/senior-citizen-varanasi-tour-package', label: 'Senior Comfort' },
+                { href: '/en/packages', label: 'All Packages' },
+                { href: '/en/varanasi-group-tour-package', label: 'Group Tours 6-40+' },
+              ].map((link) => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  className="rounded-full border border-white/35 bg-white/15 px-4 py-2 text-xs font-semibold text-white backdrop-blur-md transition hover:bg-white/25"
+                >
+                  {link.label}
+                </a>
+              ))}
+            </div>
+
             {/* Cab Service Relevance Line */}
             <div className="mt-6 text-center">
               <p className="text-[11px] md:text-xs text-white/70 font-medium tracking-wide">
-                Prefer a cab? Our <span className="text-white">Varanasi cab service</span> is available 24×7 — <span className="text-white">book a cab in Varanasi</span> in minutes.
+                Need only a cab? Our <span className="text-white">Varanasi taxi service</span> is live 24×7. Need darshan planning too? Start with a <span className="text-white">city tour or pilgrimage package</span>.
               </p>
             </div>
           </div>
@@ -356,102 +375,133 @@ export default function HomePage({ allPosts }) {
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Create Memories, Not Stress
+              Popular Varanasi Packages That Match the Real Need
             </h2>
             <p className="text-gray-600 text-lg">
-              Your Varanasi story deserves a smooth ride – from the first darshan to the final goodbye
+              Start with the booking page that matches the actual buying question: family trip, hotel-inclusive stay, temple plus Aarti planning, or elder-friendly Kashi pacing.
             </p>
           </div>
 
-          <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
-            {/* Local Darshan Card */}
+          <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-8 max-w-7xl mx-auto">
+            {/* Family package card */}
             <a
-              href="/en/services/varanasi-full-day-city-tour-winter-2025"
+              href="/en/varanasi-tour-package-for-families"
+              className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
+            >
+              <div className="relative h-48">
+                <Image
+                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/family-boat-ride-varanasi.jpg"
+                  alt="Varanasi family package"
+                  fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  className="object-cover group-hover:scale-110 transition-transform duration-500"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+                <div className="absolute bottom-4 left-4 right-4">
+                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Family Package</h3>
+                </div>
+              </div>
+              <div className="p-6">
+                <p className="text-gray-600 mb-4 text-sm">
+                  The main owner page for parents, kids and grandparents who need hotel, cab, darshan planning and a calm 2N/3D Kashi flow.
+                </p>
+                <div className="flex items-center justify-between">
+                  <span className="text-teal-600 font-bold text-lg">2N/3D best fit</span>
+                  <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
+                    Open Family Package →
+                  </span>
+                </div>
+              </div>
+            </a>
+
+            {/* Hotel package card */}
+            <a
+              href="/en/varanasi-tour-package-with-hotel"
+              className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
+            >
+              <div className="relative h-48">
+                <Image
+                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
+                  alt="Varanasi package with hotel"
+                  fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  className="object-cover group-hover:scale-110 transition-transform duration-500"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+                <div className="absolute bottom-4 left-4 right-4">
+                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Hotel + Cab Package</h3>
+                </div>
+              </div>
+              <div className="p-6">
+                <p className="text-gray-600 mb-4 text-sm">
+                  Stay-belt-first planning for travelers deciding between Assi, Cantt, near-ghat and temple-access locations with local cab support.
+                </p>
+                <div className="flex items-center justify-between">
+                  <span className="text-teal-600 font-bold text-lg">Stay + cab planning</span>
+                  <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
+                    Compare Stay Options →
+                  </span>
+                </div>
+              </div>
+            </a>
+
+            {/* Darshan package card */}
+            <a
+              href="/en/kashi-vishwanath-darshan-ganga-aarti-package"
               className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="relative h-48">
                 <Image
                   src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
-                  alt="Kashi Vishwanath Temple - Local Darshan"
+                  alt="Kashi Vishwanath darshan and Ganga Aarti package"
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
                 <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Experience the Divine Kashi</h3>
+                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Darshan + Ganga Aarti</h3>
                 </div>
               </div>
               <div className="p-6">
                 <p className="text-gray-600 mb-4 text-sm">
-                  Feel the spiritual energy at Kashi Vishwanath, witness the magical Ganga Aarti, and explore ancient Sarnath – all without worrying about traffic or directions
+                  The commercial owner for Kashi Vishwanath darshan, official-safe Sugam guidance, boat options and same-day temple plus Aarti planning.
                 </p>
                 <div className="flex items-center justify-between">
-                  <span className="text-teal-600 font-bold text-lg">From ₹2,500</span>
+                  <span className="text-teal-600 font-bold text-lg">Temple-first plan</span>
                   <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    Plan Your Day →
+                    Open Darshan Package →
                   </span>
                 </div>
               </div>
             </a>
 
-            {/* Airport Taxi Card */}
+            {/* Senior package card */}
             <a
-              href="/en/varanasi-airport-taxi-price-guide"
+              href="/en/senior-citizen-varanasi-tour-package"
               className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="relative h-48">
                 <Image
-                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
-                  alt="Varanasi Airport Taxi Service"
+                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg"
+                  alt="Senior citizen Varanasi package"
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
                 <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Land Relaxed, Not Stressed</h3>
+                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Senior Comfort Package</h3>
                 </div>
               </div>
               <div className="p-6">
                 <p className="text-gray-600 mb-4 text-sm">
-                  A friendly face waiting with your name – no haggling, no confusion. Your Varanasi welcome starts right at the airport
+                  Low-walking, hotel-access-first Kashi planning for elders who need rest windows, easier movement and less crowd punishment.
                 </p>
                 <div className="flex items-center justify-between">
-                  <span className="text-teal-600 font-bold text-lg">From ₹800</span>
+                  <span className="text-teal-600 font-bold text-lg">Low-walking flow</span>
                   <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    Book Pickup →
-                  </span>
-                </div>
-              </div>
-            </a>
-
-            {/* Prayagraj Trip Card */}
-            <a
-              href="/en/varanasi-to-prayagraj"
-              className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
-            >
-              <div className="relative h-48">
-                <Image
-                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg"
-                  alt="Varanasi to Prayagraj Taxi"
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  className="object-cover group-hover:scale-110 transition-transform duration-500"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">The Sacred Sangam Journey</h3>
-                </div>
-              </div>
-              <div className="p-6">
-                <p className="text-gray-600 mb-4 text-sm">
-                  Take your family to Triveni Sangam – where three holy rivers meet. A soul-stirring experience, made comfortable with our caring drivers
-                </p>
-                <div className="flex items-center justify-between">
-                  <span className="text-teal-600 font-bold text-lg">From ₹3,500</span>
-                  <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    Plan Trip →
+                    See Elder Package →
                   </span>
                 </div>
               </div>
@@ -514,16 +564,16 @@ export default function HomePage({ allPosts }) {
 
             {/* Local Sightseeing */}
             <a
-              href="/en/services/varanasi-full-day-city-tour-winter-2025"
+              href="/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package"
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">🏛️</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">Discover Hidden Kashi</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">One-Day Kashi Sightseeing</h3>
               <p className="text-gray-600 text-sm mb-4">
-                See what most tourists miss. Our drivers know the best-kept secrets of this ancient city
+                Local sightseeing by car for Kashi Vishwanath, ghats, Sarnath and evening aarti without juggling separate autos or guides
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
-                Explore Tours →
+                Explore City Tour →
               </span>
             </a>
 
@@ -533,27 +583,27 @@ export default function HomePage({ allPosts }) {
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">🚐</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">The Whole Family Together</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Group Vehicles 8-40+</h3>
               <p className="text-gray-600 text-sm mb-4">
-                Travel, laugh, share snacks – make memories together in our spacious tempo travellers
+                Tempo travellers, mini buses and larger group movement options for yatras, family circuits and committee travel from one dispatch team
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
-                View Options →
+                View Group Fleet →
               </span>
             </a>
 
-            {/* Outstation Cabs */}
+            {/* Group circuits */}
             <a
-              href="/en/outstation-cabs-from-varanasi"
+              href="/en/ayodhya-varanasi-prayagraj-group-tour-package"
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">🛣️</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">Beyond Varanasi Adventures</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Ayodhya + Prayagraj Group Circuit</h3>
               <p className="text-gray-600 text-sm mb-4">
-                Ayodhya, Prayagraj, Bodhgaya – extend your pilgrimage with comfortable long-distance rides
+                Exact package path for Ram Mandir, Sangam and Kashi in one group itinerary with hotel, meals and darshan-friendly pacing
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
-                Plan Outstation →
+                See 3-City Package →
               </span>
             </a>
           </div>

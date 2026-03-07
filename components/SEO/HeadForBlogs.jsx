@@ -29,7 +29,7 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
   const langForPath = pageLang || 'en'
   const slugForPath = pageSlug || postData.slug
   const urlPath = `/${langForPath}/${slugForPath}`
-  const canonical = `${SITE}${urlPath}`
+  const canonical = toAbsoluteUrl(postData.canonical) || `${SITE}${urlPath}`
 
   // Prefer metaTitle/metaDescription for SERP; fall back to title/description
   const title = postData.metaTitle || postData.title || 'Varanasi Taxi'

@@ -540,6 +540,8 @@ Customizable itineraries available.
 
 **Varanasi Tour Packages:**
 - **[Tour Packages from Varanasi](/en/tour-package-from-varanasi)** — Multi-day packages
+- **[Ayodhya Varanasi Prayagraj Group Tour Package](/en/ayodhya-varanasi-prayagraj-group-tour-package)** — 3-city pilgrimage owner page
+- **[Varanasi Tour Package from Delhi](/en/varanasi-tour-package-from-delhi)** — Delhi-origin family & group planning
 - **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** — Daily tour pricing
 - **[Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)** — Group tours
 - **[Varanasi with Friends Itinerary](/en/varanasi-with-friends-plan)** — 3-4 day plan for groups

@@ -16,7 +16,6 @@ slug: varanasi-to-triveni-sangam-tempo-traveller
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg
 relatedPosts:
   - varanasi-to-prayagraj-tempo-traveller
-  - varanasi-to-allahabad-tempo-traveller
   - varanasi-to-prayagraj-kumbh-tempo-traveller
   - pilgrimage-yatra-tours-tempo-traveller-varanasi
 faqSchema:
@@ -123,4 +122,4 @@ Lock your charter now for guaranteed boat, priest, and comfort halts—perfect f
 
 [Confirm Your Sangam Charter](/booking)
 
-**Explore More:** [Allahabad Heritage Charter](/en/varanasi-to-allahabad-tempo-traveller) · [Prayagraj Kumbh Logistics](/en/varanasi-to-prayagraj-kumbh-tempo-traveller)
+**Explore More:** [Prayagraj Tempo Traveller Fare](/en/varanasi-to-prayagraj-tempo-traveller) · [Prayagraj Kumbh Logistics](/en/varanasi-to-prayagraj-kumbh-tempo-traveller)

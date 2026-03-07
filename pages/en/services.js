@@ -14,12 +14,12 @@ export async function getStaticProps() {
       {
         '@type': 'CollectionPage',
         '@id': `${cfg.baseUrl}/en/services/`,
-        name: 'Taxi & Travel Services in Varanasi',
-        description: 'Curated list of taxi services, fares, airport transfers, and rentals in Varanasi.',
+        name: 'Taxi, Group Travel & Pilgrimage Services in Varanasi',
+        description: 'Curated list of taxi services, airport transfers, group transport, tempo travellers, and pilgrimage-planning support in Varanasi.',
         url: `${cfg.baseUrl}/en/services/`,
         isPartOf: { '@id': `${cfg.baseUrl}#website` },
         breadcrumb: { '@id': `${cfg.baseUrl}/en/services/#breadcrumbs` },
-        about: services.map(p => ({ '@type': 'Thing', name: p.title || p.slug, url: `${cfg.baseUrl}/en/${p.slug}` })),
+        about: services.map(p => ({ '@type': 'Thing', name: p.title || p.slug, url: `${cfg.baseUrl}${p.routePath || `/en/${p.slug}`}` })),
         publisher: { '@type': 'Organization', '@id': `${cfg.baseUrl}#organization` }
       },
       {
@@ -46,11 +46,11 @@ export async function getStaticProps() {
 export default function ServicesPage({ services, jsonLd }) {
   return (
     <CategoryPageLayout
-      title="Explore Our Full Range of Varanasi Taxi & Travel Services"
-      metaTitle="Varanasi Taxi Service Directory: All Cabs, Rates & Airport Transfers"
-      metaDescription="Varanasi taxi service directory: browse airport transfers, local sightseeing cabs, and outstation rentals. Compare rates and book 24/7."
-      heroTitle="Varanasi Taxi Service Directory"
-      heroSubtitle="Browse all available cab services, current rates, and expert-led travel assistance in Kashi"
+      title="Explore Our Full Range of Varanasi Taxi, Group Travel & Pilgrimage Services"
+      metaTitle="Varanasi Taxi Service Directory | Cabs, Group Transport & Pilgrimage Support"
+      metaDescription="Browse airport transfers, local sightseeing cabs, tempo travellers, group transport and pilgrimage planning services in Varanasi. Compare rates and book 24/7."
+      heroTitle="Varanasi Taxi & Group Travel Directory"
+      heroSubtitle="Browse cabs, tempo travellers, airport transfers, and pilgrimage-planning support from one Kashi travel desk"
       heroBadge="🚕 SERVICE DIRECTORY"
       items={services}
       jsonLd={jsonLd}
@@ -69,7 +69,11 @@ export default function ServicesPage({ services, jsonLd }) {
             <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href={getCallTelHref()}>{CONTACT.callNumberDisplay}</a>
             . We arrange airport taxis, Pink Taxi (women-only) rides,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-day-tour-cab-charges">local sightseeing cabs</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-ayodhya">Ayodhya / Prayagraj pilgrim circuits</Link>,{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-tour-package-for-families">family-ready Varanasi packages</Link>,{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-tour-package-with-hotel">hotel + cab packages</Link>,{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/kashi-vishwanath-darshan-ganga-aarti-package">Kashi Vishwanath + Ganga Aarti planning</Link>,{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-group-tour-package">Varanasi group tour packages</Link>,{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/ayodhya-varanasi-prayagraj-group-tour-package">Ayodhya / Prayagraj pilgrim circuits</Link>,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-gaya-bodh-gaya-tour-package">Bodh Gaya spiritual tours</Link>, staff transport shuttles and 12–26 seater tempo travellers.
           </p>
 
@@ -80,7 +84,10 @@ export default function ServicesPage({ services, jsonLd }) {
           </div>
 
           <p>
-            Combine multiple services into one itinerary, request English-speaking drivers or certified guides, and sync private boats or hotel pickups across family groups.
+            Combine multiple services into one itinerary, request English-speaking drivers or certified guides, and sync private boats or hotel pickups across family groups. If the buying decision starts outside Varanasi, begin with{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-tour-package-from-delhi">Varanasi Tour Package from Delhi</Link>
+            {' '}before narrowing the transport layer. If the main question is where to stay, begin with{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-tour-package-with-hotel">Varanasi Tour Package with Hotel</Link>.
           </p>
 
           <div className="bg-teal-50 border-l-4 border-teal-500 p-4 rounded-r-lg">
@@ -89,7 +96,8 @@ export default function ServicesPage({ services, jsonLd }) {
               <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/dashashwamedh-ghat-ganga-aarti-timing">Ganga Aarti guide</Link>
               {' '}or{' '}
               <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/dev-deepawali-2025-varanasi-ultimate-guide">Dev Deepawali plan</Link>
-              {' '}and we will layer the logistics—cabs, boats, darshan assistance and hotel coordination—into a single confirmation thread.
+              {' '}and we will layer the logistics—cabs, boats, darshan assistance and hotel coordination—into a single confirmation thread. If temple plus Aarti is the actual buying question, use{' '}
+              <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/kashi-vishwanath-darshan-ganga-aarti-package">the dedicated darshan package page</Link>.
             </p>
           </div>
 
