@@ -138,6 +138,16 @@ Varanasi is not a city where "any hotel works." Your stay experience depends hea
 
 At Kashitaxi.in, we suggest stays based on your actual itinerary and comfort needs, not just star rating.
 
+## Want a Hotel-Inclusive Package, Not Just Hotel Help?
+
+If your real question is "can one team handle hotel + pickup + darshan + local cab?" then this service page is support content, not the main package owner.
+
+Use these package-owner pages instead:
+
+- [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel)
+- [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)
+- [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
+
 ---
 
 ## Best Area to Stay in Varanasi for Family and Comfortable Travel

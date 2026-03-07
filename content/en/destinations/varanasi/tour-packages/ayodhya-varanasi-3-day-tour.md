@@ -27,7 +27,11 @@ tags:
   - ram janmabhoomi
   - kashi vishwanath
   - twin city pilgrimage
-relatedPosts: []
+relatedPosts:
+  - varanasi-group-tour-package
+  - ayodhya-varanasi-prayagraj-group-tour-package
+  - varanasi-tour-package-from-delhi
+  - varanasi-to-ayodhya-tempo-traveller
 ctaTitle: "Plan your Ayodhya + Kashi yatra"
 ctaSubtitle: "Priority darshan slots, Saryu & Ganga Aartis, intercity cabs and vetted hotels organised end-to-end."
 offers:
@@ -52,6 +56,12 @@ A three-day pilgrimage weaving together Ayodhya’s Ram Janmabhoomi energy with 
 2. **Ayodhya → Varanasi** – Preferred when flights/rails land in Ayodhya first.
 
 The base itinerary below follows Option 1.
+
+If your organizer brief already includes **Prayagraj** or a larger **6 to 40+ group movement**, use the stronger owner pages first:
+
+- [Varanasi Group Tour Package](/en/varanasi-group-tour-package)
+- [Ayodhya Varanasi Prayagraj Group Tour Package](/en/ayodhya-varanasi-prayagraj-group-tour-package)
+- If the buying decision starts in NCR before the route is fixed, use [Varanasi Tour Package from Delhi](/en/varanasi-tour-package-from-delhi)
 
 ## Day-by-Day Breakdown
 

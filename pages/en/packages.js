@@ -16,12 +16,12 @@ export async function getStaticProps() {
       {
         '@type': 'CollectionPage',
         '@id': `${cfg.baseUrl}/en/packages/`,
-        name: 'Varanasi Packages & Tours',
-        description: 'Curated packages and tours in Varanasi with transparent pricing and safety-first operations.',
+        name: 'Varanasi Packages, Group Tours & Pilgrimage Circuits',
+        description: 'Curated Varanasi packages, Delhi-origin pilgrimages, group tours, and sacred circuits with transparent pricing and safety-first operations.',
         url: `${cfg.baseUrl}/en/packages/`,
         isPartOf: { '@id': `${cfg.baseUrl}#website` },
         breadcrumb: { '@id': `${cfg.baseUrl}/en/packages/#breadcrumbs` },
-        about: packages.map(p => ({ '@type': 'Thing', name: p.title || p.slug, url: `${cfg.baseUrl}/en/${p.slug}` })),
+        about: packages.map(p => ({ '@type': 'Thing', name: p.title || p.slug, url: `${cfg.baseUrl}${p.routePath || `/en/${p.slug}`}` })),
         publisher: { '@type': 'Organization', '@id': `${cfg.baseUrl}#organization` }
       },
       {
@@ -38,11 +38,167 @@ export async function getStaticProps() {
 }
 
 export default function PackagesPage({ packages, jsonLd }) {
+  const featuredSections = [
+    {
+      title: 'One-Day & City Darshan',
+      description: 'Use these pages when your trip is centered on Varanasi itself: family stays, hotel-inclusive planning, temple plus Aarti flow, and one-day city movement.',
+      items: [
+        {
+          href: '/en/varanasi-tour-package-for-families',
+          eyebrow: 'Family owner page',
+          title: 'Varanasi Tour Package for Families',
+          description: 'The main commercial page for parents, kids and grandparents who need hotel, cab, darshan planning and a calm 2N/3D Kashi flow.',
+          stat: '2N/3D best fit',
+          cta: 'Open family package',
+        },
+        {
+          href: '/en/kashi-vishwanath-darshan-ganga-aarti-package',
+          eyebrow: 'Temple + Aarti owner',
+          title: 'Kashi Vishwanath Darshan + Ganga Aarti Package',
+          description: 'Use this when the main buying question is temple darshan plus evening Aarti with official-safe planning, pickup, lockers and boat options.',
+          stat: 'Same-day or 1N/2D',
+          cta: 'View darshan package',
+        },
+        {
+          href: '/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package',
+          eyebrow: 'Main city-tour page',
+          title: 'Varanasi Local Sightseeing / One-Day Tour',
+          description: 'The primary city-tour page for local sightseeing by car. Best for one-day Varanasi itineraries, temple runs, Sarnath, and Ganga Aarti-friendly planning.',
+          stat: 'From ₹1,800',
+          cta: 'See one-day plans',
+        },
+        {
+          href: '/en/varanasi-tour-package-with-hotel',
+          eyebrow: 'Hotel-inclusive owner',
+          title: 'Varanasi Tour Package with Hotel',
+          description: 'The hotel-first commercial page for travelers choosing between Assi, Cantt, near-ghat and temple-access stays with local cab support.',
+          stat: 'Stay + cab planning',
+          cta: 'Compare stay options',
+        },
+      ],
+    },
+      {
+        title: 'Group Tours & Pilgrimage Circuits',
+        description: 'Use these pages when you are planning for 6+ pilgrims, mixed-age families, temple committees, or a structured Ayodhya-Prayagraj circuit from one operator.',
+        items: [
+          {
+            href: '/en/varanasi-group-tour-package',
+            eyebrow: 'Main group-tour hub',
+            title: 'Varanasi Group Tour Packages',
+            description: 'The main package page for 6 to 40+ pilgrims, families, temple committees, rooming plans, meals, and realistic Kashi-first itineraries.',
+            stat: '6-40+ pilgrims',
+            cta: 'Open group hub',
+          },
+          {
+            href: '/en/ayodhya-varanasi-prayagraj-group-tour-package',
+            eyebrow: 'Exact 3-city owner',
+            title: 'Ayodhya + Varanasi + Prayagraj Group Tour',
+            description: 'The exact-match package page for Ram Mandir, Kashi Vishwanath and Sangam group travel with hotel, darshan pacing and vehicle planning.',
+            stat: '4N/5D circuit',
+            cta: 'See 3-city package',
+          },
+          {
+            href: '/en/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour',
+            eyebrow: '2-city circuit',
+            title: 'Ayodhya + Varanasi 3-Day Tour',
+            description: 'Use this when your group wants a shorter two-city pilgrimage without expanding to Prayagraj or a longer sacred triangle.',
+            stat: '2-city package',
+            cta: 'Open 3-day plan',
+          },
+        ],
+      },
+      {
+        title: 'Family, Senior & Delhi-Origin Planning',
+        description: 'These pages work best when elders, larger families, Delhi-origin buyers, or broader multi-city comparison is the main decision point.',
+        items: [
+          {
+            href: '/en/senior-citizen-varanasi-tour-package',
+            eyebrow: 'Varanasi-only elder owner',
+            title: 'Senior Citizen Varanasi Tour Package',
+            description: 'Best when the main question is low-walking Kashi planning, hotel-first comfort, rest windows and easier movement for parents or grandparents.',
+            stat: 'Low-walking Kashi',
+            cta: 'Open elder package',
+          },
+          {
+            href: '/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly',
+            eyebrow: 'Senior-friendly',
+            title: 'Fatigue-Free Elderly Pilgrimage Package',
+            description: 'Designed for seniors and families needing slower pacing, smoother logistics, and rest-friendly planning across sacred stops.',
+            stat: 'Elder-focused',
+            cta: 'See elderly package',
+          },
+          {
+            href: '/en/varanasi-tour-package-from-delhi',
+            eyebrow: 'Delhi-origin package',
+            title: 'Varanasi Tour Package from Delhi',
+            description: 'Use this when the buying decision starts in Delhi and you need the right Kashi, Ayodhya or sacred-triangle package before choosing local transport.',
+            stat: 'Delhi families & groups',
+            cta: 'See Delhi plans',
+          },
+          {
+            href: '/en/tour-package-from-varanasi',
+            eyebrow: 'Multi-city comparison',
+            title: 'Tour Packages from Varanasi',
+            description: 'Use this when you want to compare Ayodhya, Prayagraj, Gaya, Vindhyachal and broader circuits before settling on one group package.',
+            stat: 'Circuit overview',
+            cta: 'Compare circuits',
+          },
+        ],
+      },
+  ];
+
+  const routeOnlyLinks = [
+    {
+      href: '/en/varanasi-to-ayodhya',
+      title: 'Varanasi to Ayodhya route, taxi fare and travel options',
+      description: 'Use this when you need road distance, travel time, taxi fare and train-vs-cab planning.',
+    },
+    {
+      href: '/en/varanasi-to-ayodhya-tempo-traveller',
+      title: 'Ayodhya tempo traveller fare and seat-size pricing',
+      description: 'Use this when your main query is 12/17 seater fare, group travel and all-inclusive Ayodhya pricing.',
+    },
+    {
+      href: '/en/outstation-cabs-from-varanasi',
+      title: 'Outstation cab rates from Varanasi',
+      description: 'Use this when you want route-only vehicle pricing rather than a bundled pilgrimage package.',
+    },
+  ];
+
+  const priorityOrder = [
+    'varanasi-tour-package-for-families',
+    'kashi-vishwanath-darshan-ganga-aarti-package',
+    'varanasi-tour-package-with-hotel',
+    'senior-citizen-varanasi-tour-package',
+    'varanasi-group-tour-package',
+    'ayodhya-varanasi-prayagraj-group-tour-package',
+    'varanasi-tour-package-from-delhi',
+    'varanasi-tour-package',
+    'tour-package-from-varanasi',
+    'ayodhya-varanasi-3-day-tour',
+    'varanasi-gaya-prayagraj-tour-package-elderly',
+    'varanasi-2-day-tour',
+    'varanasi-3-day-tour',
+    'same-day-varanasi-tour',
+    'pind-daan-gaya-service-varanasi',
+    'varanasi-to-gaya-bodh-gaya-tour-package',
+    'kashi-gaya-prayag-pind-daan-tour',
+  ];
+
+  const sortedPackages = [...packages].sort((a, b) => {
+    const aIndex = priorityOrder.indexOf(a.slug);
+    const bIndex = priorityOrder.indexOf(b.slug);
+    const safeA = aIndex === -1 ? priorityOrder.length : aIndex;
+    const safeB = bIndex === -1 ? priorityOrder.length : bIndex;
+    if (safeA !== safeB) return safeA - safeB;
+    return (a.title || a.slug).localeCompare(b.title || b.slug);
+  });
+
   return (
     <>
       <Head>
-        <title>Varanasi Tour Packages & Day Trips | Fixed Pricing | Varanasi Taxi</title>
-        <meta name="description" content={`Browse Varanasi tour packages with transparent pricing. Airport transfers, local darshan, outstation trips to Prayagraj, Ayodhya & Bodhgaya. Book online or call ${CONTACT.callNumberDisplay.replace('+91 ', '')}`} />
+        <title>Varanasi Tour Packages, Group Tours & Delhi Pilgrimages | Ayodhya, Prayagraj, Gaya</title>
+        <meta name="description" content={`Compare Varanasi tour packages, Delhi-origin pilgrimages, group tours, one-day city tours, Ayodhya and Prayagraj circuits, and elderly-friendly packages. Fixed itineraries and WhatsApp booking on ${CONTACT.callNumberDisplay.replace('+91 ', '')}.`} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </Head>
       
@@ -61,13 +217,13 @@ export default function PackagesPage({ packages, jsonLd }) {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <div className="inline-block mb-3 px-4 py-1.5 bg-white/20 backdrop-blur-md rounded-full text-xs font-semibold border border-white/30">
-              📦 TOUR PACKAGES & DEALS
+              📦 PILGRIMAGE PACKAGES, GROUP TOURS & CIRCUITS
             </div>
             <h1 className="text-3xl md:text-5xl font-bold mb-4 drop-shadow-lg">
-              Varanasi Tour Packages with Fixed Pricing
+              Choose the Right Varanasi Package First
             </h1>
             <p className="text-lg md:text-xl text-cyan-50 max-w-2xl mx-auto">
-              Curated travel packages for pilgrimage tours, sightseeing & outstation trips. No hidden charges.
+              One-day Kashi tours, 6-40+ group pilgrimage packages, Ayodhya-Prayagraj circuits, and family-friendly sacred travel in one category page.
             </p>
           </div>
         </div>
@@ -82,45 +238,104 @@ export default function PackagesPage({ packages, jsonLd }) {
 
       <main className="bg-gradient-to-b from-white via-cyan-50/30 to-white py-12">
         <div className="container mx-auto px-4 max-w-7xl">
-          
-          {/* Packages Grid */}
+          <div className="mb-12 grid gap-4 md:grid-cols-3">
+              {[
+                { label: 'Main commercial use', value: 'Package-first planning' },
+                { label: 'Best starting points', value: 'City tours, group circuits, Delhi-origin plans' },
+                { label: 'Wrong page for', value: 'Route-only taxi or tempo fare queries' },
+              ].map((item) => (
+              <div key={item.label} className="rounded-2xl border border-cyan-100 bg-white p-5 shadow-sm">
+                <p className="text-xs font-semibold uppercase tracking-[0.18em] text-cyan-700">{item.label}</p>
+                <p className="mt-2 text-lg font-semibold text-gray-900">{item.value}</p>
+              </div>
+            ))}
+          </div>
+
+          {featuredSections.map((section) => (
+            <div key={section.title} className="mb-12">
+              <div className="mb-6">
+                <h2 className="text-2xl md:text-3xl font-bold mb-2 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
+                  {section.title}
+                </h2>
+                <p className="text-gray-600 max-w-3xl">
+                  {section.description}
+                </p>
+              </div>
+
+              <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-6">
+                {section.items.map((item) => (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    className="group bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden border border-cyan-100 hover:border-cyan-300 hover:-translate-y-1"
+                  >
+                    <div className="h-2 bg-gradient-to-r from-cyan-500 via-teal-500 to-cyan-500"></div>
+                    <div className="p-6">
+                      <div className="mb-3 inline-flex rounded-full bg-cyan-50 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-cyan-700">
+                        {item.eyebrow}
+                      </div>
+                      <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-cyan-600 transition-colors leading-snug">
+                        {item.title}
+                      </h3>
+                      <p className="text-gray-600 text-sm leading-relaxed mb-5">
+                        {item.description}
+                      </p>
+                      <div className="flex items-center justify-between gap-3">
+                        <span className="text-teal-600 font-bold text-sm">{item.stat}</span>
+                        <span className="text-sm text-cyan-600 font-semibold group-hover:translate-x-1 transition-transform">
+                          {item.cta} →
+                        </span>
+                      </div>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          ))}
+
+          <div className="mb-12 rounded-3xl border border-amber-200 bg-amber-50/80 p-8 shadow-sm">
+            <h2 className="text-2xl font-bold text-amber-950 mb-3">Need only route fare or vehicle pricing?</h2>
+            <p className="text-amber-900/80 mb-5 max-w-3xl">
+              This category page is for packages and pilgrimage planning. If your query is route-only taxi fare, tempo traveller pricing, or outstation cab comparison, use one of these intent-specific pages instead.
+            </p>
+            <div className="grid gap-4 md:grid-cols-3">
+              {routeOnlyLinks.map((item) => (
+                <Link key={item.href} href={item.href} className="rounded-2xl border border-amber-200 bg-white p-5 transition hover:border-amber-300 hover:shadow-md">
+                  <h3 className="font-semibold text-gray-900 mb-2">{item.title}</h3>
+                  <p className="text-sm text-gray-600">{item.description}</p>
+                </Link>
+              ))}
+            </div>
+          </div>
+
           <div className="mb-12">
             <h2 className="text-2xl md:text-3xl font-bold mb-2 text-center bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Popular Tour Packages
+              All Package Pages
             </h2>
-            <p className="text-center text-gray-600 mb-8">
-              Discover our most-loved packages and experiences
+            <p className="text-center text-gray-600 mb-8 max-w-3xl mx-auto">
+              Browse the full package inventory after you identify the right intent: city stay, one-day tour, ritual circuit, or multi-city pilgrimage.
             </p>
-            
+
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {packages.map((p) => (
-                <Link 
-                  key={p.slug} 
-                  href={`/en/${p.slug}`}
+              {sortedPackages.map((p) => (
+                <Link
+                  key={p.slug}
+                  href={p.routePath || `/en/${p.slug}`}
                   className="group bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden border border-cyan-100 hover:border-cyan-300 hover:-translate-y-1"
                 >
-                  {/* Card Header with Gradient */}
                   <div className="h-2 bg-gradient-to-r from-cyan-500 via-teal-500 to-cyan-500"></div>
-                  
                   <div className="p-6">
-                    {/* Package Icon */}
                     <div className="w-12 h-12 bg-gradient-to-br from-cyan-100 to-teal-100 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
                       <span className="text-2xl">📦</span>
                     </div>
-                    
-                    {/* Title */}
                     <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-cyan-600 transition-colors line-clamp-2 leading-snug">
                       {p.title || p.slug}
                     </h3>
-                    
-                    {/* Description */}
                     {p.description && (
                       <p className="text-gray-600 text-sm leading-relaxed line-clamp-3 mb-4">
                         {p.description}
                       </p>
                     )}
-                    
-                    {/* CTA */}
                     <div className="flex items-center text-cyan-600 font-semibold text-sm group-hover:text-teal-600 group-hover:translate-x-1 transition-all">
                       View Package Details →
                     </div>
@@ -130,10 +345,9 @@ export default function PackagesPage({ packages, jsonLd }) {
             </div>
           </div>
 
-          {/* Information Section */}
           <div className="max-w-4xl mx-auto bg-white rounded-2xl shadow-lg p-8 md:p-10 border border-cyan-100">
             <h2 className="text-2xl md:text-3xl font-bold mb-6 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Design a Custom Varanasi Package
+              How to Choose the Right Package
             </h2>
             
             <div className="space-y-5 text-gray-700 leading-relaxed">
@@ -142,41 +356,37 @@ export default function PackagesPage({ packages, jsonLd }) {
                 <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href={getCallTelHref()}>{CONTACT.callNumberDisplay}</a>
                 {' / '}
                 <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href={CONTACT.whatsappUrl} target="_blank" rel="noopener noreferrer">{CONTACT.whatsappNumberDisplay}</a>
-                . Tell us your arrival details, headcount and must-visit temples; we assemble cab, boat and guide options within minutes.
+                . Tell us whether the trip starts in Varanasi or Delhi, whether you need a one-day city tour or a 6-40+ group circuit, and whether the package should stay city-only or expand to Ayodhya and Prayagraj. We will point you to the right page and then refine the itinerary.
               </p>
               
               <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 rounded-r-lg">
                 <p className="text-sm">
-                  <strong className="text-cyan-700">💡 Popular Combinations:</strong> Short stays often pair the{' '}
-                  <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-day-tour-cab-charges">8 hr / 80 km city tour</Link>
-                  {' '}with sunrise Subah-e-Banaras, while longer circuits stretch to{' '}
-                  <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-ayodhya">Ayodhya</Link>,{' '}
-                  <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-prayagraj">Prayagraj</Link>,{' '}
-                  <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-gaya-bodh-gaya-tour-package">Bodh Gaya</Link>
-                  {' '}and Vindhyachal Shakti Peeth.
+                  <strong className="text-cyan-700">Best fit by intent:</strong> use{' '}
+                  <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package">local sightseeing / one-day tour</Link>
+                  {' '}for Kashi city coverage,{' '}
+                  <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-tour-package-from-delhi">Varanasi Tour Package from Delhi</Link>
+                  {' '}when the buying decision starts in NCR, and{' '}
+                  <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/ayodhya-varanasi-prayagraj-group-tour-package">Ayodhya Varanasi Prayagraj Group Tour Package</Link>
+                  {' '}when your group already knows it wants the full sacred triangle.
                 </p>
               </div>
 
               <p>
-                Each package clearly lists inclusions (vehicle category, kilometre limits, tolls, parking, night allowances) so you can budget upfront. Need a women-only chauffeur? We can weave in our{' '}
-                <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/pink-taxi-varanasi">Pink Taxi service</Link>
-                {' '}for airport arrivals or late-night darshan runs.
+                Each package page should answer one commercial question cleanly: local city tour, multi-day stay, Delhi-origin package planning, or full group pilgrimage circuit. When route-only taxi fares are the real need, we send users to the fare page instead of forcing them through a generic package page.
               </p>
 
               <p>
-                Families often request private boats for Dashashwamedh Aarti—check the updated pricing in our{' '}
-                <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/evening-boat-ride-varanasi-ganga-aarti">Evening Boat Ride guide</Link>
-                {' '}and ask the team to sync boat timings with your cab schedule.
+                Families often request private boats for Dashashwamedh Aarti, driver-hotel coordination, and elder-friendly pacing. Those details belong inside the package pages so a traveler can compare plans without bouncing across multiple route and taxi pages.
               </p>
 
               <div className="bg-teal-50 border-l-4 border-teal-500 p-4 rounded-r-lg">
                 <p className="text-sm">
-                  <strong className="text-teal-700">🎉 Festival Bookings:</strong> Travelling during Dev Deepawali, Mahashivratri or Kartik Purnima? Slots sell out early. Share your festival dates and we will lock accommodations, darshan assistance and buffer hours for traffic diversions.
+                  <strong className="text-teal-700">Festival note:</strong> Dev Deepawali, Mahashivratri, Kartik Purnima, Ram Navami and long weekends need stronger buffers for darshan slots, traffic diversions and hotel choice. Package pages should surface those details early.
                 </p>
               </div>
 
               <p>
-                All confirmations arrive via WhatsApp with driver and vehicle details the evening before each leg so you stay informed without chasing the dispatcher.
+                All confirmations arrive via WhatsApp with driver and vehicle details the evening before each leg so travelers do not need to chase multiple vendors for the same itinerary.
               </p>
             </div>
           </div>

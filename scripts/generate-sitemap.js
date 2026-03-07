@@ -11,6 +11,25 @@ const CONTENT_PATH = path.join(__dirname, '../content');
 const PAGES_PATH = path.join(__dirname, '../pages');
 const BASE_URL = 'https://www.kashitaxi.in';
 
+function normalizeAbsoluteUrl(url) {
+  if (!url || typeof url !== 'string') return null;
+  const trimmed = url.trim();
+  if (!trimmed) return null;
+  if (trimmed.startsWith('http://') || trimmed.startsWith('https://')) {
+    return trimmed.replace(/\/+$/, '');
+  }
+  const normalizedPath = trimmed.startsWith('/') ? trimmed : `/${trimmed}`;
+  return `${BASE_URL}${normalizedPath}`.replace(/\/+$/, '');
+}
+
+function shouldEmitCanonicalizedEntry(loc, fm = {}) {
+  if (!fm?.canonical) return true;
+  const canonical = normalizeAbsoluteUrl(fm.canonical);
+  const current = normalizeAbsoluteUrl(loc);
+  if (!canonical || !current) return true;
+  return canonical === current;
+}
+
 // Recursively collect static page routes (excluding dynamic & api)
 function getPageRoutes(dir, baseRoute = '') {
   const entries = fs.readdirSync(dir, { withFileTypes: true });
@@ -58,7 +77,9 @@ function collectContentUrls() {
       const fm = safeReadFrontmatter(abs);
       const slug = fm.slug || file.replace(/\.md$/, '');
       const lastmod = fm.lastUpdated || fm.date;
-      urls.push({ loc: `${BASE_URL}/${lang}/${slug}`, priority: '0.8', changefreq: 'weekly', lang, slug, type: 'root', lastmod });
+      const loc = `${BASE_URL}/${lang}/${slug}`;
+      if (!shouldEmitCanonicalizedEntry(loc, fm)) return;
+      urls.push({ loc, priority: '0.8', changefreq: 'weekly', lang, slug, type: 'root', lastmod });
     });
     // Section folders
     sectionFolders.forEach(folder => {
@@ -71,7 +92,9 @@ function collectContentUrls() {
         const slug = fm.slug || file.replace(/\.md$/, '');
         const lastmod = fm.lastUpdated || fm.date;
         const routeBase = routeBaseMap[folder] || folder;
-        urls.push({ loc: `${BASE_URL}/${lang}/${routeBase}/${slug}`, priority: '0.8', changefreq: 'weekly', lang, slug, folder: routeBase, type: 'section', lastmod });
+        const loc = `${BASE_URL}/${lang}/${routeBase}/${slug}`;
+        if (!shouldEmitCanonicalizedEntry(loc, fm)) return;
+        urls.push({ loc, priority: '0.8', changefreq: 'weekly', lang, slug, folder: routeBase, type: 'section', lastmod });
       });
     });
   }
@@ -94,7 +117,9 @@ function collectContentUrls() {
             const slug = fm.slug || file.replace(/\.md$/, '');
             const lastmod = fm.lastUpdated || fm.date;
             // Map to /lang/city/destination/category/slug (e.g., /en/city/varanasi/tour-packages/same-day-tour)
-            urls.push({ loc: `${BASE_URL}/${lang}/city/${destination}/${category}/${slug}`, priority: '0.8', changefreq: 'weekly', lang, slug, destination, category, type: 'destination', lastmod });
+            const loc = `${BASE_URL}/${lang}/city/${destination}/${category}/${slug}`;
+            if (!shouldEmitCanonicalizedEntry(loc, fm)) return;
+            urls.push({ loc, priority: '0.8', changefreq: 'weekly', lang, slug, destination, category, type: 'destination', lastmod });
           });
         });
       });

@@ -13,6 +13,9 @@ relatedPosts:
   - kashi-darshan-tempo-traveller
   - tempo-traveller-rates-varanasi
   - pilgrimage-yatra-tours-tempo-traveller-varanasi
+  - varanasi-group-tour-package
+  - ayodhya-varanasi-prayagraj-group-tour-package
+  - varanasi-tour-package-from-delhi
 ---
 
 # Tempo Traveller on Rent in Varanasi – Reliable & Affordable Group Travel
@@ -120,6 +123,8 @@ Multiple small vehicles fragment the experience and waste time. A single Tempo T
 > **Planning a trip with friends?** Check out our dedicated guide: **[Varanasi with Friends: Itinerary & Tips](/en/varanasi-with-friends-plan)**
 > **Traveling with family?** See our **[Elderly-Friendly Family Itinerary](/en/family-tour-varanasi-3-days-parents)**.
 > **Fixed-price group tour?** View our **[Varanasi Group Tour Package](/en/varanasi-group-tour-package)**.
+> **Need the full 3-city pilgrimage?** Go to **[Ayodhya Varanasi Prayagraj Group Tour Package](/en/ayodhya-varanasi-prayagraj-group-tour-package)**.
+> **Planning the package from Delhi first?** Start with **[Varanasi Tour Package from Delhi](/en/varanasi-tour-package-from-delhi)**.
 
 ## Get a Free, No‑Obligation Quote
 

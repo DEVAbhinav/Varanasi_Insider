@@ -53,6 +53,17 @@ This guide is written for:
 
 Unlike secular tourist guides, this page honors the temple's sacred purpose while providing practical logistics.
 
+## Need a Finished Package, Not Just the Guide?
+
+If your question is "who can plan the darshan, pickup, lockers, boat option and evening Aarti flow for us?" then use the commercial owner page:
+
+- [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
+
+If the package also needs hotel or family pacing, then use:
+
+- [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel)
+- [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)
+
 ---
 
 ## Kashi Vishwanath Temple Significance

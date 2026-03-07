@@ -17,6 +17,17 @@ relatedPosts:
 
 Evening Ganga Aarti at Dashashwamedh Ghat—a mesmerizing end to a day of sightseeing in Kashi. Explore Varanasi’s timeless spiritual heritage with ease and comfort in a Tempo Traveller! Our Kashi Darshan local sightseeing package is perfect for groups who want to visit the famous temples, ghats, and cultural spots of Varanasi in one dedicated vehicle. Skip coordinating multiple autos or cabs—your whole group stays together for a seamless city tour.
 
+## Use This Page for Vehicle Pricing, Not Every Kashi Buying Question
+
+This page is the right fit when your main need is **tempo traveller pricing for local darshan**.
+
+If the real buying question is broader, use the owner page that matches the intent:
+
+- family trip with hotel and cab: [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)
+- stay-first booking: [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel)
+- temple plus Aarti planning: [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
+- elder-friendly Kashi pacing: [Senior Citizen Varanasi Tour Package](/en/senior-citizen-varanasi-tour-package)
+
 ## Vehicle Photos
 
 ![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Comfortable sightseeing vehicle for groups")

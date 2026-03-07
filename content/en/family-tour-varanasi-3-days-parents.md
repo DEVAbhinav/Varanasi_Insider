@@ -1,15 +1,20 @@
 ---
 lang: en
 title: "Family Tour of Varanasi 3 Days with Parents: Itinerary & Tips"
+metaTitle: "Family Tour of Varanasi 3 Days with Parents | Redirecting to Family Package Owner"
+metaDescription: "This legacy family guide now points to the main Varanasi tour package for families page for current package planning, hotel guidance and darshan support."
 description: "Planning a family trip to Varanasi? A perfect 3-day itinerary for elderly parents and kids. Covers affordable hotels near ghats, avoiding crowds, and safe travel tips."
 date: 2025-08-28
+lastUpdated: 2026-03-07
+author: "Kashi Taxi Team"
 tags: [varanasi family tour, varanasi itinerary for elderly, 3 day varanasi trip, kashi yatra with parents, varanasi with kids]
 slug: family-tour-varanasi-3-days-parents
+canonical: "https://www.kashitaxi.in/en/varanasi-tour-package-for-families"
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/family-boat-ride-varanasi.jpg
 relatedPosts:
-  - kashi-darshan-tempo-traveller
-  - varanasi-airport-tempo-traveller
-  - tempo-traveller-rates-varanasi
+  - varanasi-tour-package-for-families
+  - varanasi-tour-package-with-hotel
+  - senior-citizen-varanasi-tour-package
 ---
 
 # Family Tour of Varanasi 3 Days with Parents

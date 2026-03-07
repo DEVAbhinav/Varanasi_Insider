@@ -18,6 +18,7 @@ keywords:
   - triveni sangam cab package
   - varanasi to allahabad itinerary
   - prayagraj sangam panda support
+canonical: https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller
 relatedPosts:
   - varanasi-to-prayagraj
   - varanasi-to-triveni-sangam-tempo-traveller
