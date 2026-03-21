@@ -111,3 +111,21 @@ In the project directory, you can run:
 - **Styling**: Tailwind CSS & CSS Modules
 - **Content**: Markdown
 - **Markdown Parsing**: `gray-matter` & `remark`
+
+## ChatGPT App Scaffold
+
+This repo now includes a first-pass remote MCP server for ChatGPT-style integrations.
+
+- Start the website UI: `npm run dev`
+- Start the MCP server: `npm run dev:mcp`
+- MCP endpoint: `http://127.0.0.1:8787/mcp`
+- Reused lead widget page: `http://localhost:3000/chatgpt-app/quote-widget`
+
+The MCP server is implemented in `mcp-server/index.mjs` and exposes tools for:
+
+- Searching the internal travel knowledge base
+- Getting vehicle recommendations
+- Getting route quotes
+- Submitting a live booking lead for operator follow-up
+
+The existing website lead flow is shared through `lib/lead-capture.js`, so both the site form and the MCP tool use the same handoff logic.

@@ -73,7 +73,7 @@ export default function CategoryPageLayout({
                 {items.map((item) => (
                   <Link 
                     key={item.slug} 
-                    href={item.href || `/en/${item.slug}`}
+                    href={item.href || item.routePath || `/en/${item.slug}`}
                     className="group bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden border border-cyan-100 hover:border-cyan-300 hover:-translate-y-1"
                   >
                     {/* Card Header with Gradient */}

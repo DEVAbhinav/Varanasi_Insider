@@ -5,16 +5,19 @@
   "scripts": {
     "dev": "next dev",
     "dev:api": "cd api && func start --port 7071",
+    "dev:mcp": "node mcp-server/index.mjs",
     "dev:full": "./dev-start.sh",
     "build": "next build",
     "postbuild": "npm run generate-sitemap",
     "start": "next start",
+    "start:mcp": "node mcp-server/index.mjs",
     "lint": "next lint",
     "generate-sitemap": "node scripts/generate-sitemap.js",
     "update:breadcrumbs": "node scripts/update-jsonld-breadcrumbs.js"
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
+    "@modelcontextprotocol/sdk": "^1.27.1",
     "@radix-ui/react-accordion": "^1.2.11",
     "@radix-ui/react-separator": "^1.1.7",
     "@radix-ui/react-slot": "^1.2.3",

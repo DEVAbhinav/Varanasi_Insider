@@ -6,8 +6,8 @@ export default function Footer({ allPosts }) {
   const normalized = Array.isArray(allPosts)
     ? allPosts.map((p) =>
         p?.params
-          ? { lang: p.params.lang, slug: p.params.slug, title: p.params.title || p.params.slug }
-          : { lang: p.lang, slug: p.slug, title: p.title || p.slug }
+          ? { lang: p.params.lang, slug: p.params.slug, routePath: p.params.routePath, title: p.params.title || p.params.slug }
+          : { lang: p.lang, slug: p.slug, routePath: p.routePath, title: p.title || p.slug }
       )
     : [];
 
@@ -70,7 +70,7 @@ export default function Footer({ allPosts }) {
                       <ul className={styles.allPostsList}>
                         {posts.map((post) => (
                           <li key={`${lang}-${post.slug}`}>
-                            <Link href={`/${post.lang}/${post.slug}`} className={styles.footerLink}>
+                            <Link href={post.routePath || `/${post.lang}/${post.slug}`} className={styles.footerLink}>
                               {post.title}
                             </Link>
                           </li>

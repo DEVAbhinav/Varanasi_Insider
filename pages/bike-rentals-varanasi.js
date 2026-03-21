@@ -40,7 +40,7 @@ const jsonLdBusiness = {
   image: 'https://www.kashitaxi.in/images/og-image-rentals.jpg',
   '@id': canonicalUrl + '#autorental',
   url: canonicalUrl,
-  telephone: '+919113108121',
+  telephone: '+9450301573',
   priceRange: '₹350–₹1,200/day',
   address: {
     '@type': 'PostalAddress',
@@ -133,7 +133,7 @@ const jsonLdBusiness = {
   ],
   contactPoint: [{
     '@type': 'ContactPoint',
-    telephone: '+919113108121',
+    telephone: '+9450301573',
     contactType: 'customer service',
     areaServed: 'IN',
     availableLanguage: ['en', 'hi']
@@ -218,7 +218,7 @@ const webPageNode = {
 
 const jsonLd = { '@context': 'https://schema.org', '@graph': [organizationNode, websiteNode, webPageNode, jsonLdBreadcrumbs, jsonLdBusiness, jsonLdFAQ] };
 
-const businessCallNumber = '919113108121';
+const businessCallNumber = '9450301573';
 const businessWhatsAppNumber = CONTACT.whatsappNumberRaw;
 
 export default function BikeRentalsPage({ allPosts }) {
