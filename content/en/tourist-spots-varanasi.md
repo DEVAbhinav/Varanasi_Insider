@@ -317,6 +317,18 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 ![Temple architecture](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vishwanath-Mandir-Parallel.jpeg "Beautiful architecture of Vishwanath Mandir")
 
+| Vishwanath Dham Exterior 1 | Vishwanath Dham Exterior 2 | Vishwanath Dham Exterior 3 |
+| --- | --- | --- |
+| ![](/images/vishwanath-dham-temple-exterior-1.jpeg "Vishwanath Dham Temple Exterior 1") | ![](/images/vishwanath-dham-temple-exterior-2.jpeg "Vishwanath Dham Temple Exterior 2") | ![](/images/vishwanath-dham-temple-exterior-3.jpeg "Vishwanath Dham Temple Exterior 3") |
+
+| Vishwanath Dham Exterior 4 | Vishwanath Dham Exterior 5 | Vishwanath Dham Exterior 6 |
+| --- | --- | --- |
+| ![](/images/vishwanath-dham-temple-exterior-4.jpeg "Vishwanath Dham Temple Exterior 4") | ![](/images/vishwanath-dham-temple-exterior-5.jpeg "Vishwanath Dham Temple Exterior 5") | ![](/images/vishwanath-dham-temple-exterior-6.jpeg "Vishwanath Dham Temple Exterior 6") |
+
+| Vishwanath Dham Exterior 7 | Vishwanath Dham Exterior 8 | Vishwanath Dham Exterior 9 |
+| --- | --- | --- |
+| ![](/images/vishwanath-dham-temple-exterior-7.jpeg "Vishwanath Dham Temple Exterior 7") | ![](/images/vishwanath-dham-temple-exterior-8.jpeg "Vishwanath Dham Temple Exterior 8") | ![](/images/vishwanath-dham-temple-exterior-9.jpeg "Vishwanath Dham Temple Exterior 9") |
+
 **Why Visit:** Varanasi's spiritual epicenter and one of India's twelve sacred Jyotirlingas (manifestations of Lord Shiva). The most important temple tourist spot in Banaras.
 
 **What to See:**
@@ -886,6 +898,14 @@ Varanasi offers an extraordinary collection of tourist spots blending spirituali
 3. Explore full itineraries: **[Varanasi Sightseeing Complete Guide](/en/varanasi-sightseeing-complete-guide)**
 
 Experience the timeless magic of Banaras at your own pace, respecting local customs and soaking in the spiritual atmosphere that has drawn seekers for millennia.
+
+---
+
+## Varanasi Tourist Guide
+
+| Tourist Icon 1 | Tourist Icon 2 | Tourist Icon 3 | Tourist Icon 4 |
+| --- | --- | --- | --- |
+| ![](/images/tourist-icon-friendly-guide-1.jpeg "Tourist Icon 1") | ![](/images/tourist-icon-friendly-guide-2.jpeg "Tourist Icon 2") | ![](/images/tourist-icon-friendly-guide-3.jpeg "Tourist Icon 3") | ![](/images/tourist-icon-friendly-guide-4.jpeg "Tourist Icon 4") |
 
 ---
 
