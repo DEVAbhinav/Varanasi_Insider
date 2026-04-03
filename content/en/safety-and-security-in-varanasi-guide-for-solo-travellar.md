@@ -14,6 +14,16 @@ metaDescription: "Stay safe in Varanasi with our 2026 insider guide. Top scams (
 > **TL;DR:** Varanasi stays manageable for solo travellers when you base near Assi, schedule daylight ghat runs, pre-book verified taxis, and keep emergency numbers (112, 1091) handy; expect sensory overload in Dashashwamedh lanes and tout scams around boats. Micro-tip: snap a photo of your hotel's lane landmarks during daylight so late returns stay oriented.
 
 ## Safety Cheat Sheet for First-Time Visitors to Varanasi
+
+### Summer-Monsoon Scam Matrix (May-July)
+
+- **Boat pressure scam:** During high water or restrictions, avoid anyone offering "special unauthorized rides."
+- **Temple fast-track bluff:** Verify paid darshan only on official channels, not lane brokers.
+- **Cremation donation pressure:** Do not hand over cash under emotional pressure near Manikarnika.
+- **Transport detour play:** Drivers claiming "all roads closed" should be cross-checked by map and hotel.
+
+Simple rule: pre-book major legs, keep digital proof, and never decide under crowd pressure.
+
 Varanasi is not a city you simply see; it's a city you feel, and it can be an intense, overwhelming experience. As someone who has spent years navigating its ancient alleys, I've distilled the most critical information you'll need to start your journey with confidence. Think of this as your essential briefing before you step into one of the world's oldest and most spiritually charged places.
 
 ![Sunrise along the ghats of Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png "Panoramic view of the ghats at dawn")
