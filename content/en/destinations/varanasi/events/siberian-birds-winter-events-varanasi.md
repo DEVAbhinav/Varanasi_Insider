@@ -1,8 +1,8 @@
 ---
 title: "Siberian Birds & Winter Festivals: The Best of Varanasi in January"
 slug: "siberian-birds-winter-events-varanasi"
-date: "2025-12-09"
-lastUpdated: "2025-12-09"
+date: "2026-12-09"
+lastUpdated: "2026-12-09"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Siberian Birds in Varanasi January 2026 | Kite Wars & Magh Mela"
@@ -50,7 +50,7 @@ Why? The fog usually starts lifting, creating a golden, misty light that photogr
 
 Boat Ride Tip: Don't just take a rowboat. If you are a group, a Bajra (big boat) is more stable for photography.
 
-👉 [Add a Sunrise Bird Watching Boat Ride to your City Tour](/en/services/varanasi-full-day-city-tour-winter-2025)
+👉 [Add a Sunrise Bird Watching Boat Ride to your City Tour](/en/services/varanasi-full-day-city-tour-winter-2026)
 
 ## January Festival Calendar 2026
 ### Makar Sankranti (Jan 14): The Kite Wars

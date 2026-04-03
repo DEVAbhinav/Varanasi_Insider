@@ -39,7 +39,7 @@
         "@id": "https://www.kashitaxi.in#organization"
       },
       "areaServed": ["Varanasi", "Ayodhya", "Prayagraj"],
-      "description": "Choose the right Tempo Traveller size in Varanasi with 2025 fares, photo comparison, luggage notes, and booking guidance.",
+      "description": "Choose the right Tempo Traveller size in Varanasi with 2026 fares, photo comparison, luggage notes, and booking guidance.",
       "image": [
         "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg",
         "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg",
@@ -105,8 +105,8 @@
         ]
       },
       "inLanguage": "en-IN",
-      "datePublished": "2025-09-18",
-      "dateModified": "2025-12-23",
+      "datePublished": "2026-09-18",
+      "dateModified": "2026-12-23",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi"

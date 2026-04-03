@@ -1,7 +1,7 @@
 ---
-title: "About Banarasi Kashitaxi: Trusted Varanasi Taxis (2025)"
+title: "About Banarasi Kashitaxi: Trusted Varanasi Taxis (2026)"
 slug: "about"
-date: "2025-07-28"
+date: "2026-07-28"
 author: "Utkarsh Pandey"
 description: "Meet Banarasi Kashitaxi, a family-run Varanasi taxi service since 1998. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/aboutUs.svg"
@@ -14,7 +14,7 @@ metaDescription: "Discover the story of Banarasi Kashitaxi, a family-run Varanas
 
 # नमस्ते! I’m Utkarsh Pandey—Here’s Our Story 🚖✨
 
-> **TL;DR:** Banarasi Kashitaxi is a family-run Varanasi taxi network scaling from one Ambassador in 1998 to GPS-tracked airport shuttles, Pink Taxis, and curated Buddhist circuits in 2025. Expect transparent fares, locally trained chauffeurs, and a 24x7 helpline anchored by the Pandey family. Scroll for services, values, and booking contacts.
+> **TL;DR:** Banarasi Kashitaxi is a family-run Varanasi taxi network scaling from one Ambassador in 1998 to GPS-tracked airport shuttles, Pink Taxis, and curated Buddhist circuits in 2026. Expect transparent fares, locally trained chauffeurs, and a 24x7 helpline anchored by the Pandey family. Scroll for services, values, and booking contacts.
 
 I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into a lifeline for pilgrims landing at Varanasi Junction. What began as a modest **Vinayak Travels Tour** counter in 1998 is now **Banarasi Kashitaxi**: a tech‑enabled fleet serving 30+ cities across Uttar Pradesh and Bihar, with special focus on women‑only Pink Taxis and curated Buddhist Circuit tours.
 
@@ -75,7 +75,7 @@ I grew up watching my father **Sudhir Pandey** turn a single Ambassador car in
 * **2010** – First online airport‑pickup booking via SMS!  
 * **2018** – Fleet crosses 50 vehicles; self‑drive scooter rentals launch.  
 * **2023** – Pink Taxi service for women travellers inaugurated on Holi.  
-* **2025** – Website relaunch as **Banarasi Kashitaxi** with AI‑powered fare estimator.
+* **2026** – Website relaunch as **Banarasi Kashitaxi** with AI‑powered fare estimator.
 
 ---
 
@@ -83,7 +83,7 @@ I grew up watching my father **Sudhir Pandey** turn a single Ambassador car in
 
 - *“The most reliable cab company in Varanasi.”* — **Times of India, Travel Edition** (2024)  
 - ⭐ **4.8/5** rating from 600+ Google reviews  
-- Recommended by Lonely Planet’s “National Geographic Traveller India” feature (2025)
+- Recommended by Lonely Planet’s “National Geographic Traveller India” feature (2026)
 
 ---
 

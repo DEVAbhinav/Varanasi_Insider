@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-ayodhya-12-seater-tempo-traveller
-date: 2025-10-09
-lastUpdated: 2025-10-09
+date: 2026-10-09
+lastUpdated: 2026-10-09
 author: "कमल नयन सिंह"
 title: "वाराणसी से अयोध्या 12-सीटर Tempo Traveller चार्टर | ₹14,500"
 description: "8–11 तीर्थयात्रियों के लिए 12-सीटर टेम्पो ट्रैवलर: सीट मैप, लगेज समाधान, राम मंदिर दर्शन सहायता और एक ही दिन में रिटर्न पैकेज की पूरी जानकारी।"

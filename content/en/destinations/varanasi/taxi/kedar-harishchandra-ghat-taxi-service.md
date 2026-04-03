@@ -1,8 +1,8 @@
 ---
 title: "Kedar Ghat & Harishchandra Ghat Taxi Service (Pilgrims & Seekers)"
 slug: "kedar-harishchandra-ghat-taxi-service"
-date: "2025-12-09"
-lastUpdated: "2025-12-09"
+date: "2026-12-09"
+lastUpdated: "2026-12-09"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Kedar & Harishchandra Ghat Taxi | South Indian Pilgrims, Spiritual Zone"

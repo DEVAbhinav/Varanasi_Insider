@@ -1,8 +1,8 @@
 ---
 title: "Taxi Service in Varanasi | Affordable Cab Booking Online 24/7 | KashiTaxi"
 slug: "taxi-service-varanasi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Taxi Service in Varanasi | Affordable Cab Booking Online 24/7 | KashiTaxi"

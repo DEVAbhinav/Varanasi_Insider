@@ -2,8 +2,8 @@
 lang: hi
 slug: dashashwamedh-ghat-detailed-guide
 sourceSlug: dashashwamedh-ghat-detailed-guide
-title: "दशाश्वमेध घाट विस्तृत 2025 गाइड: इतिहास, संरचना, व्यूइंग"
-metaTitle: "दशाश्वमेध घाट गाइड 2025: इतिहास, आरती अनुभव, मार्ग, सुरक्षा"
+title: "दशाश्वमेध घाट विस्तृत 2026 गाइड: इतिहास, संरचना, व्यूइंग"
+metaTitle: "दशाश्वमेध घाट गाइड 2026: इतिहास, आरती अनुभव, मार्ग, सुरक्षा"
 metaDescription: "दशाश्वमेध घाट वाराणसी: पौराणिक कथा, दैनिक पैटर्न, आरती पूर्व भीड़ डाइनैमिक्स, नाव बनाम सीढ़ी व्यू, सुरक्षा व स्कैम अवॉइड गाइड।"
 description: "केंद्रीय तीर्थ दशाश्वमेध घाट – उत्पत्ति, दिनचर्या, आरती तैयारी, फोटोग्राफी कोण, भीड़ लेन, निकास रणनीति व निकटवर्ती तीर्थ संयोजन।"
 keywords: ["dashashwamedh ghat guide hindi","दशाश्वमेध घाट इतिहास","ganga aarti dashashwamedh details","dashashwamedh view points","dashashwamedh safety tips","dashashwamedh exit route","dashashwamedh photography","vip seat scam varanasi","dashashwamedh myth legend","kashi central ghat"]

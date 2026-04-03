@@ -1,8 +1,8 @@
 ---
 title: "Kashi Taxi 20X Growth OKR Framework"
 slug: "okr"
-date: "2025-11-13"
-lastUpdated: "2025-11-13"
+date: "2026-11-13"
+lastUpdated: "2026-11-13"
 author: "Kashi Taxi"
 lang: en-IN
 description: "12-Month Strategic Plan for Asset-Light, Tech-Enabled Scaling. Complete OKR framework guiding a 20X revenue growth transition from asset-heavy to commission-based platform business."
@@ -923,5 +923,5 @@ With focus, discipline, and consistent execution, Kashi Taxi can become a ₹200
 ---
 
 **Document Version**: 2.0 (Revised & Re-Revised)  
-**Last Updated**: Q4 2025  
+**Last Updated**: Q4 2026  
 **Next Review**: January 2026 (Q1 Planning)

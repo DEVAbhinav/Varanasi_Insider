@@ -1,8 +1,8 @@
 ---
 title: "VNS Airport to Mughalsarai (DDU Junction) Taxi from ₹1,005 | 45-60 min via GT Road"
 slug: "varanasi-airport-to-mughalsarai-distance"
-date: "2025-11-19"
-lastUpdated: "2025-11-30"
+date: "2026-11-19"
+lastUpdated: "2026-11-30"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS to Mughalsarai (DDU) Taxi from ₹1,005 | 35 km"
@@ -66,7 +66,7 @@ This is one of the **closest major rail transfers** from VNS. Morning and late-n
 
 **Safety reminders:** stay belted because GT Road trucks drift lanes, avoid roadside tea stalls after 10 PM, and keep luggage inside the cabin when crossing crowded market patches near Chandauli. The ₹1,005 hatchback fare includes a vetted yellow-plate driver who has already done the police log at the Mughalsarai entry outpost.
 
-## Varanasi Airport to Mughalsarai taxi fare (2025)
+## Varanasi Airport to Mughalsarai taxi fare (2026)
 
 - **Hatchback:** ₹1,005–₹1,300, popular with solo travellers and couples.
 - **Sedan:** ₹1,100–₹1,500, ideal for 3–4 passengers with bags.

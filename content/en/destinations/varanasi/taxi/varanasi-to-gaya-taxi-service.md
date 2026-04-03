@@ -1,8 +1,8 @@
 ---
-title: "Varanasi to Gaya Taxi Service: Door-to-Door vs Station Struggle (2025)"
+title: "Varanasi to Gaya Taxi Service: Door-to-Door vs Station Struggle (2026)"
 slug: "varanasi-to-gaya-taxi-service"
-date: "2025-12-22"
-lastUpdated: "2025-12-22"
+date: "2026-12-22"
+lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en
 canonical: "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service"
@@ -324,7 +324,7 @@ What you actually get:
 
 ## Complete Pricing Breakdown (Full Transparency)
 
-### Varanasi to Gaya: One-Way Fares (2025)
+### Varanasi to Gaya: One-Way Fares (2026)
 
 | Vehicle Type | Base Fare | Distance | Per-KM Extra | What's Included |
 |--------------|-----------|----------|--------------|-----------------|

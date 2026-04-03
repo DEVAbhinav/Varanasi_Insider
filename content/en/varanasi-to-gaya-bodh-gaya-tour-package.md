@@ -1,12 +1,12 @@
 ---
-title: "Varanasi to Bodh Gaya Taxi Fare 2025 – 255 km, 5–6 hrs, Sedan from ₹5,500"
+title: "Varanasi to Bodh Gaya Taxi Fare 2026 – 255 km, 5–6 hrs, Sedan from ₹5,500"
 slug: "varanasi-to-gaya-bodh-gaya-tour-package"
-date: "2025-08-07"
-lastUpdated: "2025-08-07"
+date: "2026-08-07"
+lastUpdated: "2026-08-07"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png"
-description: "Varanasi to Gaya/Bodh Gaya tour package 2025: itinerary, trains, taxis and the Kashi–Gaya spiritual route. See fares and plan your yatra."
+description: "Varanasi to Gaya/Bodh Gaya tour package 2026: itinerary, trains, taxis and the Kashi–Gaya spiritual route. See fares and plan your yatra."
 tags:
   - varanasi
   - bodh gaya
@@ -17,10 +17,10 @@ tags:
 relatedPosts:
   - varanasi-to-ayodhya-pilgrimage-guide
   - varanasi-to-prayagraj-pilgrimage-guide
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
 ---
 
-# Varanasi to Bodh Gaya Taxi Fare 2025 – 255 km, 5–6 hrs, Sedan from ₹5,500
+# Varanasi to Bodh Gaya Taxi Fare 2026 – 255 km, 5–6 hrs, Sedan from ₹5,500
 
 **Sedan from ₹5,500 · SUV from ₹6,500 · Tempo Traveller from ₹9,500 – all‑inclusive options available.**
 
@@ -46,7 +46,7 @@ Thus the **Kashi–Gaya spiritual route** spans religions and generations—pers
 
 ## Varanasi to Gaya Travel Options: Train, Bus, and Road
 
-| Mode | Distance / Time | Key Notes | Typical 2025 Fare |
+| Mode | Distance / Time | Key Notes | Typical 2026 Fare |
 |------|-----------------|-----------|-------------------|
 | **Road (NH 19)** | 248-255 km · 5–6 hrs | The most flexible option for a **Varanasi Gaya Bodh Gaya package**. Route: VNS → Mughal Sarai → Sasaram → Dobhi → Gaya. | One-way cab ~₹5,000 (sedan) · 2-day rtn ₹8–10k |
 | **Train** | 216 km (fast line) · 2 h 30 m – 5 hrs | The **Varanasi to Bodh Gaya train** journey is fast, with 11 daily & 69 weekly trains. Rajdhani & Vande Bharat take ≈ 2 h 40 m. | 3AC ≈ ₹600 · SL ≈ ₹250 |
@@ -112,7 +112,7 @@ Covering all three grants spiritual upliftment for self (*moksha*), ancestors, a
 
 ---
 
-## Varanasi Gaya Bodh Gaya Package Prices (2025)
+## Varanasi Gaya Bodh Gaya Package Prices (2026)
 
 | Package | Inclusions | Sedan Price* |
 |---------|------------|--------------|

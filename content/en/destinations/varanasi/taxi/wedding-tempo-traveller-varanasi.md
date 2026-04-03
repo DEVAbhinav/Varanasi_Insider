@@ -1,8 +1,8 @@
 ---
 title: "Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | KashiTaxi"
 slug: "wedding-tempo-traveller-varanasi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | KashiTaxi"

@@ -1,8 +1,8 @@
 ---
 title: "Same-Day Varanasi Tour Package"
 slug: "same-day-varanasi-tour"
-date: "2025-11-06"
-lastUpdated: "2025-11-06"
+date: "2026-11-06"
+lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/same-day-varanasi-tour"
@@ -121,22 +121,22 @@ An express but immersive 8–10 hour Varanasi circuit designed for travellers wi
 
 ---
 
-[^overview]: Travel Agent Varanasi product research dossier, October 2025.
+[^overview]: Travel Agent Varanasi product research dossier, October 2026.
 [^duration]: Operator SLAs for 8–10 hour packages logged in booking system.
-[^audience]: Kashi Taxi CRM traveller segmentation report (Q3 2025).
+[^audience]: Kashi Taxi CRM traveller segmentation report (Q3 2026).
 [^start]: Temple queue analytics captured from Sugam darshan logs, 2024–25.
-[^kv]: Shri Kashi Vishwanath Temple Board timings, 2025 circular.
+[^kv]: Shri Kashi Vishwanath Temple Board timings, 2026 circular.
 [^annapurna]: Annapurna Mandir trust bulletin, July 2024.
-[^sankat]: Sankat Mochan Sansthan visitor guide, 2025.
+[^sankat]: Sankat Mochan Sansthan visitor guide, 2026.
 [^durga]: ASI briefing on Durga Mandir precinct, 2023.
 [^bharat]: Bharat Mata Mandir plaque transcription, 2022.
 [^sarnath]: Archaeological Survey of India Sarnath site brochure, 2024.
-[^bhu]: BHU visitor handbook, edition 2025.
-[^boat]: Kashi Motor Boat Association tariff sheet, Sept 2025.
+[^bhu]: BHU visitor handbook, edition 2026.
+[^boat]: Kashi Motor Boat Association tariff sheet, Sept 2026.
 [^aarti]: Varanasi District Administration crowd advisory, Nov 2024.
-[^gali]: Smart City Varanasi NaMo Ghat fact sheet, 2025.
-[^food1]: Ram Bhandar price board photographed, Oct 2025.
-[^lassi]: Blue Lassi Shop menu, 2025 update.
-[^season]: IMD climatic data + festival calendar, 2025.
-[^pack]: Kashi Taxi packing checklist v3, Sep 2025.
+[^gali]: Smart City Varanasi NaMo Ghat fact sheet, 2026.
+[^food1]: Ram Bhandar price board photographed, Oct 2026.
+[^lassi]: Blue Lassi Shop menu, 2026 update.
+[^season]: IMD climatic data + festival calendar, 2026.
+[^pack]: Kashi Taxi packing checklist v3, Sep 2026.
 [^safety]: Varanasi tourist police advisory, 2024.

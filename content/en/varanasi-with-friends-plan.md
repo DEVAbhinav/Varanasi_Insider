@@ -2,10 +2,10 @@
 lang: en
 title: "Varanasi with Friends: How to Plan It Right (Itinerary + Tips)"
 description: "Planning a trip to Varanasi with friends? A complete guide with 3-4 day itineraries, affordable hostels, scam alerts, and group boat ride costs."
-date: 2025-08-29
+date: 2026-08-29
 tags: [varanasi with friends, varanasi group trip, varanasi itinerary for friends, hostels in varanasi, varanasi scams]
 slug: varanasi-with-friends-plan
-featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/friends-group-varanasi-ghat.jpg
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogghats.jpg
 relatedPosts:
   - kashi-darshan-tempo-traveller
   - varanasi-airport-tempo-traveller
@@ -80,7 +80,7 @@ An affordable hostel is usually better than multiple cheap hotels: you get socia
 
 > **Need transport for your group?** Check our **[Tempo Traveller Rates](/en/tempo-traveller-rates-varanasi)** for groups of 12-26 people.
 
-### What Prices to Expect (2025–26)
+### What Prices to Expect (2026–26)
 *   **Dorm Beds:** ₹200–₹300 (budget) to ₹400–₹800 (premium) per night.
 *   **Group Tip:** Booking an entire 6–8 bed dorm is cost‑effective and gives privacy.
 *   **What to Check:** Social atmosphere vs. party noise (check reviews), clean bathrooms, and Wi-Fi quality.
@@ -117,7 +117,7 @@ Any honest guide will warn you about these. Here's how to avoid them:
 
 Costs depend on time (sunrise/aarti are premium), boat type, and season.
 
-### Typical Private Rates (2025 Estimates)
+### Typical Private Rates (2026 Estimates)
 *   **Private Rowboat (1–4 pax):** ₹1,800–₹2,400 (Sunrise/Standard ride).
 *   **Private Motorboat (up to 15 pax):** ₹3,500–₹4,500 (Sunrise or Aarti circuit).
 *   **Group Aarti / Kashi Darshan (10–15 pax):** ₹4,500–₹5,500.

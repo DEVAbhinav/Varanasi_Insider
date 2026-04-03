@@ -1,8 +1,8 @@
 ---
 title: "1 Night / 2 Days Varanasi Tour Package"
 slug: "varanasi-1n2d-tour"
-date: "2025-11-06"
-lastUpdated: "2025-11-06"
+date: "2026-11-06"
+lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-1n2d-tour"

@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी कैंट रेलवे स्टेशन टैक्सी सेवा - 24/7 पिकअप"
 slug: "taxi-service-varanasi-cantt-station"
-date: "2025-12-09"
-lastUpdated: "2025-12-09"
+date: "2026-12-09"
+lastUpdated: "2026-12-09"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "वाराणसी कैंट स्टेशन टैक्सी | सुरक्षित 24/7 पिकअप, फिक्स्ड किराया"

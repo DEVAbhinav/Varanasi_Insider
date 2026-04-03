@@ -3,9 +3,9 @@ lang: en
 title: "Varanasi to Naimisharanya Tempo Traveller | 1N/2D Chakra Yatra"
 description: "Plan Chakratirth, Lalita Devi, and Sukadeva Peeth with 1N Tempo Traveller support, priest coordination, and ₹22k transparent costing—reserve your sacred circuit now."
 slug: varanasi-to-naimisharanya-tempo-traveller
-date: 2025-09-18
+date: 2026-09-18
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-09-18
+lastUpdated: 2026-09-18
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 tags: [naimisharanya, varanasi to naimisharanya, tempo traveller, chakratirth, lalita devi, pilgrimage]
 keywords: ["varanasi to naimisharanya tempo traveller","naimisharanya from varanasi distance","chakratirth naimisharanya yatra","lalita devi temple naimisharanya","varanasi to naimisharanya itinerary","naimisharanya pilgrimage tempo traveller","naimisharanya tour from varanasi"]
@@ -28,7 +28,7 @@ faqSchema:
     answer: "For a 12 seater: ~800–840 km billing @ ₹24/km (₹19,200–₹20,200) + driver night allowance ₹600 + toll/parking ₹1,200–₹1,600. Approx ₹21,500–₹22,500 all inclusive (non-luxury)."
 ---
 
-# Varanasi to Naimisharanya Tempo Traveller – Pilgrimage Circuit & 2 Day Plan (2025)
+# Varanasi to Naimisharanya Tempo Traveller – Pilgrimage Circuit & 2 Day Plan (2026)
 
 ## Naimisharanya Tempo Traveller & Pilgrimage Visuals
 
@@ -42,7 +42,7 @@ Undertaking a **Varanasi to Naimisharanya Tempo Traveller** journey connects two
 
 > Core Insight: Naimisharanya rewards unhurried circumambulation around **Chakratirth** and reflective pauses at **Lalita Devi** & **Sukadeva Peeth**. Build breathing space.
 
-## Varanasi to Naimisharanya Distance & Route Options (2025)
+## Varanasi to Naimisharanya Distance & Route Options (2026)
 | Route Variant | Approx One‑Way Km | Notes |
 | --- | --- | --- |
 | Via Jaunpur – Lucknow – Sitapur | 400–410 | Fastest mix of 4‑lane + expressway; food halt near Lucknow |
@@ -109,7 +109,7 @@ Short visits adding devotional completeness; accessible early morning before day
 | Component | Approx Amount (₹) | Notes |
 | --- | --- | --- |
 | Base Km (820 @ ₹24)* | 19,680 | Adjust if shorter route return |
-| Driver Allowance (1 night) | 600 | Standard 2025 |
+| Driver Allowance (1 night) | 600 | Standard 2026 |
 | Tolls / Parking | 1,200–1,600 | Expressway + temple areas |
 | Total (Non‑Luxury) | 21,500–22,500 | Typical real range |
 | Contingency | 1,000 | Optional buffer |

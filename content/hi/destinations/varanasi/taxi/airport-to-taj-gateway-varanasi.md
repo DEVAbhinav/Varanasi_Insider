@@ -1,8 +1,8 @@
 ---
 title: "एयरपोर्ट से ताज गेटवे वाराणसी | पूर्ण ट्रांसफर गाइड | काशी टैक्सी"
 slug: "airport-to-taj-gateway-varanasi"
-date: "2025-12-09"
-lastUpdated: "2025-12-09"
+date: "2026-12-09"
+lastUpdated: "2026-12-09"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "एयरपोर्ट से ताज गेटवे वाराणसी | पूर्ण ट्रांसफर गाइड | काशी टैक्सी"

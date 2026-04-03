@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Agra Taxi | Taj Mahal | ₹8,000 | KashiTaxi"
 slug: "varanasi-to-agra-taxi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Agra Taxi | Taj Mahal Tour | ₹8,000 | KashiTaxi"
@@ -304,17 +304,17 @@ Varanasi → NH19 → Prayagraj → Kanpur → Agra
 **Review 1: Sharma Family**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "The sunrise at Taj Mahal was magical! Driver was very experienced on the expressway. 2-day package was perfect timing. Highly recommend KashiTaxi for long-distance comfort!"  
-**Trip**: Family of 4, Swift Dzire, 2-day | **Date**: November 2025
+**Trip**: Family of 4, Swift Dzire, 2-day | **Date**: November 2026
 
 **Review 2: Ravi & Neha (Honeymoon)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Perfect honeymoon trip! Driver gave us privacy, excellent hotels recommended. Taj Mahal at sunrise was dream come true. Worth every rupee!"  
-**Trip**: Couple, Innova, 3-day | **Date**: October 2025
+**Trip**: Couple, Innova, 3-day | **Date**: October 2026
 
 **Review 3: Delhi Corporate Group**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Booked for client entertainment. Professional service, punctual driver, comfortable Tempo Traveller. Everyone was impressed with the organization!"  
-**Trip**: Group of 12, Tempo Traveller, 2-day | **Date**: September 2025
+**Trip**: Group of 12, Tempo Traveller, 2-day | **Date**: September 2026
 
 ### Verified Varanasi to Agra Taxi Stats
 

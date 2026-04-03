@@ -80,7 +80,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26",
+          "validFrom": "2026-11-26",
           "itemOffered": {
             "@type": "Product",
             "name": "Sedan Airport Transfer",
@@ -107,7 +107,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26",
+          "validFrom": "2026-11-26",
           "itemOffered": {
             "@type": "Product",
             "name": "SUV Airport Transfer",
@@ -134,7 +134,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -149,7 +149,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -164,7 +164,7 @@
             "unitText": "additional charge"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         }
       ]
     },

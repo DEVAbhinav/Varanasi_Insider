@@ -1,8 +1,8 @@
 ---
 title: "1 Night / 2 Days Ayodhya Tour Package"
 slug: "ayodhya-2-day-tour"
-date: "2025-11-06"
-lastUpdated: "2025-11-06"
+date: "2026-11-06"
+lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/ayodhya/tour-packages/ayodhya-2-day-tour"
@@ -114,24 +114,24 @@ ctaSubtitle: "Ram Janmabhoomi slots, Saryu Aarti seats, sattvic meals and truste
 
 ---
 
-[^duration]: Ayodhya Insider package matrix, 2025.
-[^audience]: CRM pilgrim personas, updated Sept 2025.
+[^duration]: Ayodhya Insider package matrix, 2026.
+[^audience]: CRM pilgrim personas, updated Sept 2026.
 [^arrival]: Ground transfer SOP for Ayodhya hub, 2024.
-[^stay]: Partner hotel audit sheet, July 2025.
-[^ramjanm]: Shri Ram Janmabhoomi Teerth Kshetra visitor guide, 2025.
+[^stay]: Partner hotel audit sheet, July 2026.
+[^ramjanm]: Shri Ram Janmabhoomi Teerth Kshetra visitor guide, 2026.
 [^hanuman]: Hanuman Garhi trust notice, 2024.
 [^kanak]: Kanak Bhawan pamphlet, 2024.
 [^dashrath]: Ayodhya archaeology department brief, 2023.
-[^teatime]: Local food crawl notes, Aug 2025.
-[^saryu]: Ayodhya Tourism aarti schedule, 2025.
-[^aarti]: Ram Ki Paidi management advisory, Jan 2025.
-[^lss]: Ayodhya light & sound show circular, 2025.
+[^teatime]: Local food crawl notes, Aug 2026.
+[^saryu]: Ayodhya Tourism aarti schedule, 2026.
+[^aarti]: Ram Ki Paidi management advisory, Jan 2026.
+[^lss]: Ayodhya light & sound show circular, 2026.
 [^sunrise]: Ram Ki Paidi sunrise photographer notes, 2024.
-[^breakfast]: Sattvic breakfast crawl field log, 2025.
-[^nagesh]: Nageshwarnath Mandir timings, 2025.
+[^breakfast]: Sattvic breakfast crawl field log, 2026.
+[^nagesh]: Nageshwarnath Mandir timings, 2026.
 [^ramkatha]: Ayodhya Development Authority park brochure, 2024.
 [^tulsi]: Tulsi Smarak Bhavan museum guide, 2024.
 [^guptar]: Saryu riverfront heritage study, 2023.
-[^market]: Ayodhya bazaar merchant interviews, 2025.
-[^foodtrail]: Local snack crawl documentation, Aug 2025.
-[^booking]: Festival occupancy analytics, Oct 2025.
+[^market]: Ayodhya bazaar merchant interviews, 2026.
+[^foodtrail]: Local snack crawl documentation, Aug 2026.
+[^booking]: Festival occupancy analytics, Oct 2026.

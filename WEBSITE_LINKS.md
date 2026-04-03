@@ -1,7 +1,7 @@
 # Travel Agent Varanasi - Complete Website Links
 
 **Total Pages:** 189 pages
-**Last Updated:** October 12, 2025
+**Last Updated:** October 12, 2026
 **Domain:** https://www.kashitaxi.in
 
 ---
@@ -46,12 +46,12 @@
 ### 🚖 Taxi & Airport Services (8)
 - **Varanasi Airport Taxi Guide** - https://www.kashitaxi.in/en/varanasi-airport-taxi-guide
 - **Airport Taxi Price Guide** - https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide
-- **Airport Taxi Winter 2025** - https://www.kashitaxi.in/en/services/varanasi-airport-taxi-winter-2025
+- **Airport Taxi Winter 2026** - https://www.kashitaxi.in/en/services/varanasi-airport-taxi-winter-2026
 - **Day Tour Cab Charges** - https://www.kashitaxi.in/en/varanasi-day-tour-cab-charges
 - **Outstation Cabs** - https://www.kashitaxi.in/en/outstation-cabs-from-varanasi
 - **Safest Taxi for Women** - https://www.kashitaxi.in/en/services/varanasi-safest-taxi-for-women
-- **Full Day City Tour** - https://www.kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2025
-- **Transport Price Guide 2025** - https://www.kashitaxi.in/en/varanasi-transport-price-guide-2025
+- **Full Day City Tour** - https://www.kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2026
+- **Transport Price Guide 2026** - https://www.kashitaxi.in/en/varanasi-transport-price-guide-2026
 
 ### 🛣️ Outstation Routes - Tempo Traveller (23)
 - **Varanasi to Ayodhya** - https://www.kashitaxi.in/en/varanasi-to-ayodhya
@@ -91,7 +91,7 @@
 - **Guide to Ghats of Varanasi** - https://www.kashitaxi.in/en/guide-to-ghats-of-varanasi
 - **10 Most Important Ghats** - https://www.kashitaxi.in/en/guide-to-10-most-important-ghats-of-varanasi
 - **Dashashwamedh Ghat Ganga Aarti** - https://www.kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing
-- **Assi Ghat Aarti Timings 2025** - https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2025
+- **Assi Ghat Aarti Timings 2026** - https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2026
 - **Assi Ghat Timings** - https://www.kashitaxi.in/en/assi-ghat-timings
 - **Assi Ghat to Airport Distance** - https://www.kashitaxi.in/en/assi-ghat-to-airport-distance
 - **Manikarnika Ghat** - https://www.kashitaxi.in/en/manikarnika-ghat-sacred-cremation-grounds
@@ -105,19 +105,19 @@
 - **Sunrise Boat Ride Timings** - https://www.kashitaxi.in/en/varanasi-sunrise-boat-ride-timings
 
 ### 🎉 Festivals & Events (21)
-- **Dev Deepawali 2025 Ultimate Guide** - https://www.kashitaxi.in/en/dev-deepawali-2025-varanasi-ultimate-guide
+- **Dev Deepawali 2026 Ultimate Guide** - https://www.kashitaxi.in/en/dev-deepawali-2026-varanasi-ultimate-guide
 - **Dev Deepawali Best Viewing Spots** - https://www.kashitaxi.in/en/dev-deepawali-best-viewing-spots-varanasi
-- **Dev Deepawali Boat Ride Pricing** - https://www.kashitaxi.in/en/dev-deepawali-boat-ride-pricing-guide-2025
+- **Dev Deepawali Boat Ride Pricing** - https://www.kashitaxi.in/en/dev-deepawali-boat-ride-pricing-guide-2026
 - **Dev Deepawali Crowd Survival** - https://www.kashitaxi.in/en/dev-deepawali-crowd-survival-guide-varanasi
-- **Dev Deepawali Photography Guide** - https://www.kashitaxi.in/en/dev-deepawali-photography-guide-2025
+- **Dev Deepawali Photography Guide** - https://www.kashitaxi.in/en/dev-deepawali-photography-guide-2026
 - **Maha Shivaratri 2026** - https://www.kashitaxi.in/en/maha-shivaratri-2026-varanasi-guide
 - **Kashi Vishwanath Shivaratri Crowd Guide** - https://www.kashitaxi.in/en/kashi-vishwanath-shivaratri-crowd-survival-guide
 - **Shiv Baraat Viewing Guide** - https://www.kashitaxi.in/en/shiv-baraat-viewing-guide-varanasi
 - **Shivaratri Cultural Deep Dive** - https://www.kashitaxi.in/en/shivaratri-cultural-deep-dive-varanasi
 - **Makar Sankranti 2026 Kite Festival** - https://www.kashitaxi.in/en/makar-sankranti-2026-varanasi-kite-festival-guide
 - **Varanasi Kite Wars** - https://www.kashitaxi.in/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2026
-- **Ganga Mahotsav 2025** - https://www.kashitaxi.in/en/ganga-mahotsav-2025-classical-festival-varanasi
-- **Ultimate Guide Ramlila Dussehra 2025** - https://www.kashitaxi.in/en/ultimate-guide-ramlila-dussehra-varanasi-2025
+- **Ganga Mahotsav 2026** - https://www.kashitaxi.in/en/ganga-mahotsav-2026-classical-festival-varanasi
+- **Ultimate Guide Ramlila Dussehra 2026** - https://www.kashitaxi.in/en/ultimate-guide-ramlila-dussehra-varanasi-2026
 - **Book Taxi Ramlila Dussehra** - https://www.kashitaxi.in/en/book-taxi-varanasi-ramlila-dussehra
 - **Dussehra Ravana Dahan Oct 2** - https://www.kashitaxi.in/en/dussehra-ravana-dahan-varanasi-oct-2
 - **Bharat Milap Nati Imli Oct 3** - https://www.kashitaxi.in/en/bharat-milap-nati-imli-oct-3
@@ -134,11 +134,11 @@
 
 ### 📅 Seasonal Guides (7)
 - **Best Time to Visit Varanasi** - https://www.kashitaxi.in/en/best-time-to-visit-varanasi
-- **Varanasi in October 2025** - https://www.kashitaxi.in/en/varanasi-in-october-2025
-- **Varanasi in November 2025** - https://www.kashitaxi.in/en/varanasi-in-november-2025-insider-guide
-- **Varanasi in December 2025** - https://www.kashitaxi.in/en/varanasi-in-december-2025
+- **Varanasi in October 2026** - https://www.kashitaxi.in/en/varanasi-in-october-2026
+- **Varanasi in November 2026** - https://www.kashitaxi.in/en/varanasi-in-november-2026-insider-guide
+- **Varanasi in December 2026** - https://www.kashitaxi.in/en/varanasi-in-december-2026
 - **Varanasi in February 2026** - https://www.kashitaxi.in/en/varanasi-in-february-2026
-- **Varanasi in Monsoon (July-Sep)** - https://www.kashitaxi.in/en/varanasi-in-monsoon-july-september-2025
+- **Varanasi in Monsoon (July-Sep)** - https://www.kashitaxi.in/en/varanasi-in-monsoon-july-september-2026
 
 ### 🎵 Culture & Heritage (3)
 - **Varanasi Classical Music Heritage** - https://www.kashitaxi.in/en/varanasi-classical-music-heritage
@@ -176,7 +176,7 @@
 - **Airport Tempo Traveller** - https://www.kashitaxi.in/hi/varanasi-airport-tempo-traveller
 - **Day Tour Cab Charges** - https://www.kashitaxi.in/hi/varanasi-day-tour-cab-charges
 - **Outstation Cabs** - https://www.kashitaxi.in/hi/outstation-cabs-from-varanasi
-- **Transport Price Guide 2025** - https://www.kashitaxi.in/hi/varanasi-transport-price-guide-2025
+- **Transport Price Guide 2026** - https://www.kashitaxi.in/hi/varanasi-transport-price-guide-2026
 
 ### 🛣️ Outstation Routes (हिंदी) (18)
 - **वाराणसी से अयोध्या** - https://www.kashitaxi.in/hi/varanasi-to-ayodhya
@@ -209,7 +209,7 @@
 - **Dashashwamedh Ghat Ganga Aarti** - https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti-timing
 - **Dashashwamedh Ghat Detailed Guide** - https://www.kashitaxi.in/hi/dashashwamedh-ghat-detailed-guide
 - **Dashashwamedh Ghat Ganga Aarti (हिंदी)** - https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti
-- **Assi Ghat Aarti Timings** - https://www.kashitaxi.in/hi/assi-ghat-aarti-timings-2025
+- **Assi Ghat Aarti Timings** - https://www.kashitaxi.in/hi/assi-ghat-aarti-timings-2026
 - **Manikarnika Ghat** - https://www.kashitaxi.in/hi/manikarnika-ghat-sacred-cremation-grounds
 - **Scindia Ghat Submerged Temple** - https://www.kashitaxi.in/hi/scindia-ghat-submerged-temple
 
@@ -221,13 +221,13 @@
 - **Sunrise Boat Ride Timings** - https://www.kashitaxi.in/hi/varanasi-sunrise-boat-ride-timings
 
 ### 🎉 Festivals (हिंदी) (9)
-- **Dev Deepawali 2025** - https://www.kashitaxi.in/hi/dev-deepawali-2025-varanasi-ultimate-guide
+- **Dev Deepawali 2026** - https://www.kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-guide
 - **Dev Deepawali Best Viewing Spots** - https://www.kashitaxi.in/hi/dev-deepawali-best-viewing-spots-varanasi
-- **Dev Deepawali Boat Pricing** - https://www.kashitaxi.in/hi/dev-deepawali-boat-ride-pricing-guide-2025
+- **Dev Deepawali Boat Pricing** - https://www.kashitaxi.in/hi/dev-deepawali-boat-ride-pricing-guide-2026
 - **Dev Deepawali Crowd Guide** - https://www.kashitaxi.in/hi/dev-deepawali-crowd-survival-guide-varanasi
-- **Dev Deepawali Photography** - https://www.kashitaxi.in/hi/dev-deepawali-photography-guide-2025
+- **Dev Deepawali Photography** - https://www.kashitaxi.in/hi/dev-deepawali-photography-guide-2026
 - **Kashi Vishwanath Shivaratri** - https://www.kashitaxi.in/hi/kashi-vishwanath-shivaratri-crowd-survival-guide
-- **Ganga Mahotsav 2025** - https://www.kashitaxi.in/hi/ganga-mahotsav-2025-classical-festival-varanasi
+- **Ganga Mahotsav 2026** - https://www.kashitaxi.in/hi/ganga-mahotsav-2026-classical-festival-varanasi
 
 ### 🕉️ Vindhyachal (हिंदी) (5)
 - **वाराणसी से विंध्याचल की यात्रा** - https://www.kashitaxi.in/hi/travel-from-varanasi-to-vindhyachal
@@ -238,11 +238,11 @@
 
 ### 📅 Seasonal (हिंदी) (6)
 - **Best Time to Visit** - https://www.kashitaxi.in/hi/best-time-to-visit-varanasi
-- **Varanasi in October** - https://www.kashitaxi.in/hi/varanasi-in-october-2025
-- **Varanasi in November** - https://www.kashitaxi.in/hi/varanasi-in-november-2025-insider-guide
-- **Varanasi in December** - https://www.kashitaxi.in/hi/varanasi-in-december-2025
+- **Varanasi in October** - https://www.kashitaxi.in/hi/varanasi-in-october-2026
+- **Varanasi in November** - https://www.kashitaxi.in/hi/varanasi-in-november-2026-insider-guide
+- **Varanasi in December** - https://www.kashitaxi.in/hi/varanasi-in-december-2026
 - **Varanasi in February** - https://www.kashitaxi.in/hi/varanasi-in-february-2026
-- **Varanasi in Monsoon** - https://www.kashitaxi.in/hi/varanasi-in-monsoon-july-september-2025
+- **Varanasi in Monsoon** - https://www.kashitaxi.in/hi/varanasi-in-monsoon-july-september-2026
 
 ### 🎵 Culture (हिंदी) (2)
 - **Varanasi Classical Music** - https://www.kashitaxi.in/hi/varanasi-classical-music-heritage
@@ -288,7 +288,7 @@
 
 ## 📝 Notes
 
-- All pages last updated: October 12, 2025
+- All pages last updated: October 12, 2026
 - Bilingual site: English (EN) and Hindi (HI)
 - Change frequency: Mostly weekly for content pages
 - Domain: kashitaxi.in

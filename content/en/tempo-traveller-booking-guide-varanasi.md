@@ -1,11 +1,11 @@
 ---
 lang: en
-title: "Tempo Traveller Booking Varanasi 2025: ₹25/km Process, Documents & Instant Confirmation"
+title: "Tempo Traveller Booking Varanasi 2026: ₹25/km Process, Documents & Instant Confirmation"
 description: "Complete Tempo Traveller booking guide for Varanasi – enquiry steps, verification, pricing structure, advance, cancellation norms, fraud avoidance, FAQ."
 slug: tempo-traveller-booking-guide-varanasi
-date: 2025-09-19
+date: 2026-09-19
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-09-19
+lastUpdated: 2026-09-19
 tags: [booking guide, tempo traveller, varanasi group travel]
 keywords: ["tempo traveller booking guide varanasi","book tempo traveller varanasi","tempo traveller advance payment varanasi","tempo traveller hire process","tempo traveller documents varanasi"]
 relatedPosts:
@@ -27,7 +27,7 @@ faqSchema:
     answer: "Cross-verify GST / business registration, request vehicle RC last 4 digits, insist on official payment channel receipts." 
 ---
 
-# Varanasi Tempo Traveller Booking Guide (2025)
+# Varanasi Tempo Traveller Booking Guide (2026)
 
 This **practical booking guide** reduces ambiguity: exact steps from initial intent to confirmed vehicle dispatch, including documentation, pricing logic, and risk mitigation. Use this consolidated **tempo traveller booking guide varanasi** checklist to standardize enquiry quality and verification.
 

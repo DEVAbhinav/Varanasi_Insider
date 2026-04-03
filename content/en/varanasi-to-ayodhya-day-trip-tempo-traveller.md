@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Ayodhya Day Trip Traveller | 15-Hour Ram Mandir Plan"
 description: "Follow a proven sunrise-to-9PM itinerary covering Ram Mandir, Hanuman Garhi, Kanak Bhawan, and Saryu Aarti with ₹14,500 all-inclusive Traveller and wheelchair support."
-date: 2025-10-09
+date: 2026-10-09
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-10-09
+lastUpdated: 2026-10-09
 tags: [ayodhya, day trip, tempo traveller, pilgrimage, ram mandir]
 keywords:
   - varanasi to ayodhya day trip tempo traveller
@@ -72,7 +72,7 @@ Planning a sunrise-to-night pilgrimage from Kashi to Ayodhya? This page packages
 
 ## EAAT (Experience, Expertise, Authoritativeness, Trust) for Ayodhya Operations
 
-- **Experience:** Managed 60+ Ayodhya day trips in 2025. Real-time intel on crowd surges, barrier changes, and darshan timings.
+- **Experience:** Managed 60+ Ayodhya day trips in 2026. Real-time intel on crowd surges, barrier changes, and darshan timings.
 - **Expertise:** Coordinator network helps with Sugam Darshan slots, luggage lockers, and Saryu boat booking.
 - **Authoritativeness:** Listed with Ayodhya Tourism resource directory for outstation operators.
 - **Trust:** GPS tracking, driver KYC, sanitized vehicles, 4.8⭐ average rider rating.
@@ -106,9 +106,9 @@ Planning a sunrise-to-night pilgrimage from Kashi to Ayodhya? This page packages
 
 ## Reviews from Ayodhya Day Trip Tempo Traveller Guests
 
-> *“We stuck to the schedule exactly—Ram Mandir darshan done by 11 AM, lunch without waiting, back in Kashi before 9 PM.”* — Jaiswal family, August 2025
+> *“We stuck to the schedule exactly—Ram Mandir darshan done by 11 AM, lunch without waiting, back in Kashi before 9 PM.”* — Jaiswal family, August 2026
 
-> *“Wheelchairs were ready, coordinator Deepak handled security lines, and the Traveller had small pillows for our elders. Zero stress.”* — Dwivedi parivar, July 2025
+> *“Wheelchairs were ready, coordinator Deepak handled security lines, and the Traveller had small pillows for our elders. Zero stress.”* — Dwivedi parivar, July 2026
 
 ## How to Book Your Ayodhya Day Trip Tempo Traveller
 

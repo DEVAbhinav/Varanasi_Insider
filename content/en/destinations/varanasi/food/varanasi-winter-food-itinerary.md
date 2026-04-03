@@ -1,8 +1,8 @@
 ---
 title: "Winter Food Guide & Perfect 3-Day January Itinerary for Varanasi"
 slug: "varanasi-winter-food-itinerary"
-date: "2025-12-09"
-lastUpdated: "2025-12-09"
+date: "2026-12-09"
+lastUpdated: "2026-12-09"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Varanasi Winter Food Guide 2026 & 3-Day January Itinerary"
@@ -83,7 +83,7 @@ Insider Tip: The queues are long in winter. Buy a Sugam Darshan ticket to skip t
 
 1:00 PM: Drive to Sarnath. The afternoon sun makes the open gardens of the Stupa very pleasant.
 
-👉 [Book a Full Day City Tour Car](/en/services/varanasi-full-day-city-tour-winter-2025)
+👉 [Book a Full Day City Tour Car](/en/services/varanasi-full-day-city-tour-winter-2026)
 
 ### Day 3: The Excursion
 

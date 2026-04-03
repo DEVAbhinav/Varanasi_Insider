@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Sarnath Tempo Traveller | 6-Hour Buddhist Circuit"
 description: "Charter an AC Traveller with ASI guide, museum fast-track entry, and curated vegetarian lunch stop—ideal for pilgrims, schools, and foreign guests. WhatsApp to confirm."
-date: 2025-10-09
+date: 2026-10-09
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-10-09
+lastUpdated: 2026-10-09
 tags: [sarnath, buddhist circuit, tempo traveller, varanasi sightseeing, heritage]
 keywords:
   - varanasi to sarnath tempo traveller
@@ -16,7 +16,7 @@ slug: varanasi-to-sarnath-tempo-traveller
 relatedPosts:
   - buddhist-circuit-tour-tempo-traveller-varanasi
   - tempo-traveller-varanasi
-  - varanasi-full-day-city-tour-winter-2025
+  - varanasi-full-day-city-tour-winter-2026
   - tempo-traveller-rates-varanasi
 faqSchema:
   - question: "What is the cost of hiring a Tempo Traveller from Varanasi to Sarnath?"
@@ -74,7 +74,7 @@ Sarnath is where the Buddha delivered his first sermon. Whether you’re hosting
 
 ## EAAT Commitment for Sarnath Buddhist Circuit Trips
 
-- **Experience:** Coordinated over 120 Sarnath runs in 2025—monastic groups, Korean pilgrims, and Indian schools.
+- **Experience:** Coordinated over 120 Sarnath runs in 2026—monastic groups, Korean pilgrims, and Indian schools.
 - **Expertise:** Guides trained in art history, Buddhist philosophy, and child-friendly storytelling.
 - **Authoritativeness:** Listed with Uttar Pradesh Tourism Sarnath facilitation centre.
 - **Trust:** Vehicles sanitized daily, seat belts maintained, zero-complaint record in client feedback.
@@ -95,9 +95,9 @@ Sarnath is where the Buddha delivered his first sermon. Whether you’re hosting
 
 ## Sarnath Tempo Traveller Reviews
 
-> *“Our Japanese sangha appreciated the quiet time and the interpreter you arranged. Traveller stayed cool even in June heat.”* — Rev. Nakamura, July 2025
+> *“Our Japanese sangha appreciated the quiet time and the interpreter you arranged. Traveller stayed cool even in June heat.”* — Rev. Nakamura, July 2026
 
-> *“School students loved the pottery village detour. Driver Manoj kept the bus spotless and punctual.”* — Sunbeam School, August 2025
+> *“School students loved the pottery village detour. Driver Manoj kept the bus spotless and punctual.”* — Sunbeam School, August 2026
 
 ## How to Book Your Varanasi to Sarnath Tempo Traveller
 

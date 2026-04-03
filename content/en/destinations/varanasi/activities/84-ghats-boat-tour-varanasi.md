@@ -1,12 +1,12 @@
 ---
-title: "84 Ghats Boat Tour in Varanasi: Complete 2025 Guide & Pricing"
+title: "84 Ghats Boat Tour in Varanasi: Complete 2026 Guide & Pricing"
 slug: "84-ghats-boat-tour-varanasi"
-date: "2025-12-12"
-lastUpdated: "2025-12-12"
+date: "2026-12-12"
+lastUpdated: "2026-12-12"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "84 Ghats Boat Tour Varanasi (2025) | Routes, Timing, Pricing & Booking"
-metaDescription: "Complete 2025 guide to the 84 ghats boat tour in Varanasi: what 84 means, major ghats on the route, tour types, real pricing, group booking tips, safety, and photography advice."
+metaTitle: "84 Ghats Boat Tour Varanasi (2026) | Routes, Timing, Pricing & Booking"
+metaDescription: "Complete 2026 guide to the 84 ghats boat tour in Varanasi: what 84 means, major ghats on the route, tour types, real pricing, group booking tips, safety, and photography advice."
 description: "84 ghats boat tour guide for Varanasi with route knowledge, pricing, booking strategy, photography windows, safety protocols, and itinerary combinations."
 keywords:
   - "84 ghats boat tour varanasi"
@@ -35,7 +35,7 @@ location:
 relatedPosts:
   - morning-boat-ride-varanasi-price
   - evening-boat-ride-varanasi-ganga-aarti
-  - ganga-aarti-timing-varanasi-2025
+  - ganga-aarti-timing-varanasi-2026
   - dashashwamedh-ghat-boat-ride-ganga-aarti-guide
 ---
 
@@ -68,7 +68,7 @@ This guide covers:
 - **1760–1774:** Maharani Ahilyabai Holkar (Indore queen) rebuilt ghats with architectural precision—designing drainage, step angles, temple placements
 - **1800–1850:** Various Maharajas (local kings) funded ghat additions in honor of their lineages
 - **1900–1965:** British colonial period saw some ghat maintenance; post-independence, government formalized the "84 ghats" designation
-- **2000–2025:** Modern renovations (electricity, safety rails, Corridor project) without changing spiritual essence
+- **2000–2026:** Modern renovations (electricity, safety rails, Corridor project) without changing spiritual essence
 
 **Current reality:** There are actually 88 named ghats, but 84 are considered "main ghats" in traditional pilgrimage routes. The 4 additions (Na Mo Ghat, Buddha Ghat, Tathagat Ghat, Nishad Ghat) were built post-1970s and aren't included in the classical enumeration.
 
@@ -434,5 +434,5 @@ The "84 ghats" isn't just a tourist catchphrase—it represents a complete spiri
 
 A 2–3 hour varanasi boat trip won't make you spiritually enlightened, but boat riding in varanasi gives you a profound perspective on one of humanity's oldest continuous civilizations still vibrantly alive on the banks of the sacred Ganges.
 
-**Updated:** December 2025
+**Updated:** December 2026
 **Maintained by:** Kashitaxi Boat Operations

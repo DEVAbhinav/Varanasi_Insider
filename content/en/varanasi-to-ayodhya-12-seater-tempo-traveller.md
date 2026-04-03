@@ -1,10 +1,10 @@
 ---
 lang: en
-title: "Varanasi to Ayodhya 12-Seater Traveller | Family Charter 2025"
+title: "Varanasi to Ayodhya 12-Seater Traveller | Family Charter 2026"
 description: "Seat-map your 8–12 pilgrim group with luggage hacks, ₹14,500 fare, cushions, and coordinator support for Ram Mandir darshan. Book instantly on WhatsApp."
-date: 2025-10-09
+date: 2026-10-09
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-10-09
+lastUpdated: 2026-10-09
 tags: [ayodhya, tempo traveller, 12 seater, family travel, pilgrimage]
 keywords:
   - varanasi to ayodhya 12 seater tempo traveller
@@ -103,9 +103,9 @@ Row 4: 3 seats + rear luggage bay
 
 ## Testimonials from 12-Seater Ayodhya Travellers
 
-> *“We split cost between three siblings. Parents enjoyed reclining seats, kids stretched out during return. Couldn’t imagine managing two separate cars.”* — Pandey family, Sept 2025
+> *“We split cost between three siblings. Parents enjoyed reclining seats, kids stretched out during return. Couldn’t imagine managing two separate cars.”* — Pandey family, Sept 2026
 
-> *“Compact yet premium. Roof carrier handled big prasad boxes, driver helped unload at midnight without complaints.”* — Gupta joint family, Aug 2025
+> *“Compact yet premium. Roof carrier handled big prasad boxes, driver helped unload at midnight without complaints.”* — Gupta joint family, Aug 2026
 
 ## Booking Steps for 12-Seater Ayodhya Tempo Traveller
 

@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी से आउटस्टेशन कैब - इनोवा क्रिस्टा, अर्टिगा, एसयूवी और टेम्पो ट्रैवलर (6-12 सीटर)"
 slug: "outstation-cabs-from-varanasi"
-date: "2025-08-10"
-lastUpdated: "2025-08-10"
+date: "2026-08-10"
+lastUpdated: "2026-08-10"
 author: "अभिनव पांडे"
 lang: "hi"
 
@@ -17,7 +17,7 @@ tags:
   - प्रयागराज
   - बोध गया
 relatedPosts:
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
   - varanasi-to-ayodhya
   - varanasi-to-prayagraj
   - varanasi-to-gaya-bodh-gaya-tour-package

@@ -1,8 +1,8 @@
 ---
 title: "Airport to Taj Gateway Varanasi | Complete Transfer Guide | KashiTaxi"
 slug: "airport-to-taj-gateway-varanasi"
-date: "2025-12-09"
-lastUpdated: "2025-12-09"
+date: "2026-12-09"
+lastUpdated: "2026-12-09"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Airport to Taj Gateway Varanasi | Complete Transfer Guide | KashiTaxi"

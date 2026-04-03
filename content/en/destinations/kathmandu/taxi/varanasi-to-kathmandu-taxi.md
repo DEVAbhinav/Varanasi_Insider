@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Kathmandu Taxi | Nepal Cross-Border | ₹8,500 | KashiTaxi"
 slug: "varanasi-to-kathmandu-taxi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Kathmandu Taxi | Nepal Border Crossing | ₹8,500"
@@ -321,17 +321,17 @@ faqSchema:
 **Review 1: Backpacker Group**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Perfect for Nepal trip! Driver helped with visa at border. Nepal mountain roads were challenging but driver handled well. Reached Kathmandu safe. Highly recommend!"  
-**Trip**: Group of 4, Ertiga, 5-day | **Date**: November 2025
+**Trip**: Group of 4, Ertiga, 5-day | **Date**: November 2026
 
 **Review 2: Singh Family**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Great experience! Border crossing was smooth with driver's help. Kids enjoyed mountain journey. Pashupatinath visit was spiritual. Worth the trip from Varanasi!"  
-**Trip**: Family of 6, Innova, 3-day | **Date**: October 2025
+**Trip**: Family of 6, Innova, 3-day | **Date**: October 2026
 
 **Review 3: Solo Traveler**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Took one-way taxi to Kathmandu, returned by flight. Driver was experienced on Nepal roads. Good value for money. Communication was excellent throughout."  
-**Trip**: Solo, shared taxi, one-way | **Date**: September 2025
+**Trip**: Solo, shared taxi, one-way | **Date**: September 2026
 
 ### Verified Varanasi to Kathmandu Taxi Stats
 

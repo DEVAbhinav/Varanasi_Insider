@@ -24,11 +24,11 @@ keywords:
   - "ganga aarti package varanasi"
 relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
-  - assi-ghat-aarti-timings-2025
+  - assi-ghat-aarti-timings-2026
   - evening-boat-ride-varanasi-ganga-aarti
   - varanasi-tour-package-with-hotel
   - varanasi-tour-package-for-families
-  - kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025
+  - kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026
 faqSchema:
   - question: "Who should use this Kashi Vishwanath darshan package page?"
     answer: "Use this page when the main booking question is how to combine Kashi Vishwanath darshan, Ganga Aarti, pickup, lockers, walking expectations and boat or seated viewing into one practical plan."
@@ -72,7 +72,7 @@ This page is the commercial owner for travelers whose real question is:
 For those cases:
 
 - [Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing)
-- [Assi Ghat Aarti Timings](/en/assi-ghat-aarti-timings-2025)
+- [Assi Ghat Aarti Timings](/en/assi-ghat-aarti-timings-2026)
 - [Varanasi Group Tour Package](/en/varanasi-group-tour-package)
 
 ## Current Official Policy
@@ -264,6 +264,6 @@ Any slow-walking or wheelchair requirement:
 
 ## Related Next Steps
 
-- Need only timing and ground guide: [Kashi Vishwanath Temple & Ganga Aarti Guide](/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025)
+- Need only timing and ground guide: [Kashi Vishwanath Temple & Ganga Aarti Guide](/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026)
 - Need family-oriented package: [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)
 - Need hotel-first package: [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel)

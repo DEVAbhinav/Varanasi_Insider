@@ -286,12 +286,12 @@ const nextConfig = {
       },
       {
         source: '/hi/services',
-        destination: '/hi/varanasi-transport-price-guide-2025',
+        destination: '/hi/varanasi-transport-price-guide-2026',
         permanent: true,
       },
       {
         source: '/hi/services/',
-        destination: '/hi/varanasi-transport-price-guide-2025',
+        destination: '/hi/varanasi-transport-price-guide-2026',
         permanent: true,
       },
       {
@@ -301,7 +301,7 @@ const nextConfig = {
       },
       {
         source: '/hi/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi',
-        destination: '/en/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi',
+        destination: '/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi',
         permanent: true,
       },
 
@@ -321,7 +321,7 @@ const nextConfig = {
       },
       {
         source: '/varanasi-transport-price-guide-2025',
-        destination: '/en/varanasi-transport-price-guide-2025',
+        destination: '/en/varanasi-transport-price-guide-2026',
         permanent: true,
       },
       {
@@ -408,7 +408,7 @@ const nextConfig = {
       },
       {
         source: '/city-tours',
-        destination: '/en/services/varanasi-full-day-city-tour-winter-2025',
+        destination: '/en/services/varanasi-full-day-city-tour-winter-2026',
         permanent: true,
       },
       {
@@ -443,7 +443,7 @@ const nextConfig = {
       },
       {
         source: '/en/package/varanasi-local-darshan',
-        destination: '/en/services/varanasi-full-day-city-tour-winter-2025',
+        destination: '/en/services/varanasi-full-day-city-tour-winter-2026',
         permanent: true,
       },
 
@@ -536,7 +536,7 @@ const nextConfig = {
       // ===================================
       {
         source: '/en/varanasi-in-monsoon',
-        destination: '/en/varanasi-in-monsoon-july-september-2025',
+        destination: '/en/varanasi-in-monsoon-july-september-2026',
         permanent: true,
       },
 
@@ -564,7 +564,7 @@ const nextConfig = {
       // ===================================
       {
         source: '/en/varanasi-in-december-2025-guide',
-        destination: '/en/varanasi-in-december-2025',
+        destination: '/en/varanasi-in-december-2026',
         permanent: true,
       },
 
@@ -573,17 +573,17 @@ const nextConfig = {
       // ===================================
       {
         source: '/en/varanasi-january-weather-travel-guide',
-        destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2025',
+        destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2026',
         permanent: true,
       },
       {
         source: '/en/varanasi-in-january',
-        destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2025',
+        destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2026',
         permanent: true,
       },
       {
         source: '/en/varanasi-january-2025',
-        destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2025',
+        destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2026',
         permanent: true,
       },
 
@@ -612,7 +612,7 @@ const nextConfig = {
       },
       {
         source: '/en/vegetarian-cafes-near-assi-ghat',
-        destination: '/en/assi-ghat-aarti-timings-2025',
+        destination: '/en/assi-ghat-aarti-timings-2026',
         permanent: true,
       },
       {
@@ -629,7 +629,7 @@ const nextConfig = {
       },
       {
         source: '/en/varanasi-festivals-calendar-2025-2026',
-        destination: '/en/varanasi-in-december-2025',
+        destination: '/en/varanasi-in-december-2026',
         permanent: true,
       },
       {
@@ -641,7 +641,7 @@ const nextConfig = {
       // Dev Deepawali content
       {
         source: '/en/ganga-mahotsav-2025-classical-festival',
-        destination: '/en/ganga-mahotsav-2025-classical-festival-varanasi',
+        destination: '/en/ganga-mahotsav-2026-classical-festival-varanasi',
         permanent: true,
       },
       {
@@ -651,7 +651,7 @@ const nextConfig = {
       },
       {
         source: '/en/dev-deepawali-varanasi-guide',
-        destination: '/en/dev-deepawali-2025-varanasi-ultimate-guide',
+        destination: '/en/dev-deepawali-2026-varanasi-ultimate-guide',
         permanent: true,
       },
 
@@ -668,7 +668,7 @@ const nextConfig = {
       },
       {
         source: '/en/varanasi-full-day-city-tour-winter-2025',
-        destination: '/en/services/varanasi-full-day-city-tour-winter-2025',
+        destination: '/en/services/varanasi-full-day-city-tour-winter-2026',
         permanent: true,
       },
       {
@@ -719,6 +719,48 @@ const nextConfig = {
         destination: '/',
         permanent: true,
       },
+
+      // ===================================
+      // CATEGORY 15: Year Migration 2025 → 2026 (April 2026)
+      // 301 redirects to transfer authority from old 2025 slugs
+      // ===================================
+      { source: '/en/assi-ghat-aarti-timings-2025', destination: '/en/assi-ghat-aarti-timings-2026', permanent: true },
+      { source: '/en/dev-deepawali-2025-varanasi-ultimate-guide', destination: '/en/dev-deepawali-2026-varanasi-ultimate-guide', permanent: true },
+      { source: '/en/dev-deepawali-boat-ride-pricing-guide-2025', destination: '/en/dev-deepawali-boat-ride-pricing-guide-2026', permanent: true },
+      { source: '/en/dev-deepawali-photography-guide-2025', destination: '/en/dev-deepawali-photography-guide-2026', permanent: true },
+      { source: '/en/ganga-mahotsav-2025-classical-festival-varanasi', destination: '/en/ganga-mahotsav-2026-classical-festival-varanasi', permanent: true },
+      { source: '/en/nag-nathaiya-festival-varanasi-2025', destination: '/en/nag-nathaiya-festival-varanasi-2026', permanent: true },
+      { source: '/en/ultimate-guide-ramlila-dussehra-varanasi-2025', destination: '/en/ultimate-guide-ramlila-dussehra-varanasi-2026', permanent: true },
+      { source: '/en/varanasi-in-december-2025', destination: '/en/varanasi-in-december-2026', permanent: true },
+      { source: '/en/varanasi-in-monsoon-july-september-2025', destination: '/en/varanasi-in-monsoon-july-september-2026', permanent: true },
+      { source: '/en/varanasi-in-november-2025-insider-guide', destination: '/en/varanasi-in-november-2026-insider-guide', permanent: true },
+      { source: '/en/varanasi-in-october-2025', destination: '/en/varanasi-in-october-2026', permanent: true },
+      { source: '/en/varanasi-transport-price-guide-2025', destination: '/en/varanasi-transport-price-guide-2026', permanent: true },
+      { source: '/en/services/varanasi-full-day-city-tour-winter-2025', destination: '/en/services/varanasi-full-day-city-tour-winter-2026', permanent: true },
+      { source: '/en/city/varanasi/travel-guide/varanasi-in-january-2025', destination: '/en/city/varanasi/travel-guide/varanasi-in-january-2026', permanent: true },
+      { source: '/en/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi', destination: '/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi', permanent: true },
+      { source: '/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2025', destination: '/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026', permanent: true },
+      { source: '/en/city/varanasi/events/mahindra-kabira-festival-2025-varanasi', destination: '/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi', permanent: true },
+      { source: '/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2025', destination: '/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026', permanent: true },
+      { source: '/en/city/varanasi/activities/sunrise-yoga-varanasi-2025', destination: '/en/city/varanasi/activities/sunrise-yoga-varanasi-2026', permanent: true },
+      { source: '/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025', destination: '/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026', permanent: true },
+      { source: '/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2025', destination: '/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2026', permanent: true },
+      { source: '/hi/varanasi-transport-price-guide-2025', destination: '/hi/varanasi-transport-price-guide-2026', permanent: true },
+      { source: '/hi/assi-ghat-aarti-timings-2025', destination: '/hi/assi-ghat-aarti-timings-2026', permanent: true },
+      { source: '/hi/dev-deepawali-2025-varanasi-ultimate-guide', destination: '/hi/dev-deepawali-2026-varanasi-ultimate-guide', permanent: true },
+      { source: '/hi/dev-deepawali-photography-guide-2025', destination: '/hi/dev-deepawali-photography-guide-2026', permanent: true },
+      { source: '/hi/dev-deepawali-boat-ride-pricing-guide-2025', destination: '/hi/dev-deepawali-boat-ride-pricing-guide-2026', permanent: true },
+      { source: '/hi/ganga-mahotsav-2025-classical-festival-varanasi', destination: '/hi/ganga-mahotsav-2026-classical-festival-varanasi', permanent: true },
+      { source: '/hi/varanasi-in-december-2025', destination: '/hi/varanasi-in-december-2026', permanent: true },
+      { source: '/hi/varanasi-in-october-2025', destination: '/hi/varanasi-in-october-2026', permanent: true },
+      { source: '/hi/varanasi-in-november-2025-insider-guide', destination: '/hi/varanasi-in-november-2026-insider-guide', permanent: true },
+      { source: '/hi/varanasi-in-monsoon-july-september-2025', destination: '/hi/varanasi-in-monsoon-july-september-2026', permanent: true },
+      { source: '/en/varanasi-in-february-2025', destination: '/en/varanasi-in-february-2026', permanent: true },
+      { source: '/hi/varanasi-in-february-2025', destination: '/hi/varanasi-in-february-2026', permanent: true },
+      { source: '/en/maha-shivaratri-2025-varanasi-guide', destination: '/en/maha-shivaratri-2026-varanasi-guide', permanent: true },
+      { source: '/en/makar-sankranti-2025-varanasi-kite-festival-guide', destination: '/en/makar-sankranti-2026-varanasi-kite-festival-guide', permanent: true },
+      { source: '/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2025', destination: '/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2026', permanent: true },
+
       ...buildRootCanonicalRedirects(),
       ...buildScopedRootRedirects(),
       ...buildDestinationRootRedirects(),

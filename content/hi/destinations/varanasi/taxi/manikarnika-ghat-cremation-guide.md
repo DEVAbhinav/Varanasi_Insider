@@ -1,8 +1,8 @@
 ---
 title: "मणिकर्णिका घाट टैक्सी और एटीकेट गाइड (पवित्र दाह-संस्कार पहुँच)"
 slug: "manikarnika-ghat-cremation-guide"
-date: "2025-12-09"
-lastUpdated: "2025-12-09"
+date: "2026-12-09"
+lastUpdated: "2026-12-09"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "मणिकर्णिका घाट टैक्सी वाराणसी | मैदागिन ड्रॉप | दाह संस्कार गाइड"

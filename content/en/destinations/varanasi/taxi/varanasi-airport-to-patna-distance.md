@@ -1,11 +1,11 @@
 ---
-title: "Varanasi Airport to Patna: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Patna: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-patna-distance"
-date: "2025-11-19"
-lastUpdated: "2025-11-19"
+date: "2026-11-19"
+lastUpdated: "2026-11-19"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Patna: Distance, Time, Taxi Fare (2025)"
+metaTitle: "Varanasi Airport to Patna: Distance, Time, Taxi Fare (2026)"
 metaDescription: "Plan your 253–280 km taxi from Varanasi Airport to Patna: 5–6.5 hour drive via NH-2 and NH-30, updated fares, and list of key bridges, temples, and museums to visit."
 description: "Long-distance airport taxi guide from Varanasi Airport (VNS) to Patna with distance, travel time, fare bands, and sightseeing ideas for weekend or pilgrimage trips."
 keywords:
@@ -28,7 +28,7 @@ faqSchema:
   - question: "What is the taxi fare from Varanasi Airport to Patna?"
     answer: "Hatchbacks cost roughly ₹3,072–₹4,950, sedans ₹4,603–₹5,059 one way (round trip from about ₹10,118), and Innovas ₹6,590–₹7,674 with extra km around ₹14–₹15/km."
 ---
-# Varanasi Airport to Patna: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Patna: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Patna is approximately 253–280 km via NH-2 and NH-30, and the drive usually takes 5–6.5 hours.**
 
@@ -54,7 +54,7 @@ From VNS, cabs typically:
 
 The corridor passes through stretches near **Arrah–Mohania road** and then into Patna via its outer ring and bridges. Traffic can slow near major junctions and the approach to **Mahatma Gandhi Setu**.
 
-## Varanasi Airport to Patna taxi fare (2025)
+## Varanasi Airport to Patna taxi fare (2026)
 
 - **Hatchback:** About **₹3,072–₹4,950** depending on operator and whether tolls are included.
 - **Sedan:** **₹4,603–₹5,059** one way; round trips quoted around **₹10,118** and up.

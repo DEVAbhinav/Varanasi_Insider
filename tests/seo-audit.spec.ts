@@ -2,7 +2,7 @@ import { expect, test } from '@playwright/test';
 
 const TARGET_PATHS = [
   '/en/city/varanasi/events/siberian-birds-winter-events-varanasi',
-  '/en/nag-nathaiya-festival-varanasi-2025',
+  '/en/nag-nathaiya-festival-varanasi-2026',
   '/en/navratri-in-vindhyachal-practical-guide',
 ];
 

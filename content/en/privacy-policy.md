@@ -1,8 +1,8 @@
 ---
 title: "Privacy Policy - Varanasi Taxi Services"
 slug: "privacy-policy"
-date: "2025-10-04"
-lastUpdated: "2025-10-04"
+date: "2026-10-04"
+lastUpdated: "2026-10-04"
 author: "Varanasi Taxi"
 lang: en-IN
 description: "Privacy Policy for Varanasi Taxi Services. Learn how we collect, use, and protect your personal information."
@@ -14,7 +14,7 @@ metaDescription: "Read our privacy policy to understand how Varanasi Taxi collec
 
 > **TL;DR:** We collect booking details (name, contact, itinerary) and device analytics to confirm rides, send updates, and prevent fraud; data is shared only with drivers, payment processors, and legal authorities when required. Micro-tip: email taxiinvaranasiii@gmail.com if you want access, corrections, or deletion—we respond within statutory timelines.
 
-**Last Updated:** October 4, 2025
+**Last Updated:** October 4, 2026
 
 ## Introduction
 

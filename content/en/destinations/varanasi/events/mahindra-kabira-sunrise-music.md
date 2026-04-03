@@ -1,12 +1,12 @@
 ---
-title: "Mahindra Kabira Sunrise Music 2025: Morning Raag on the Ganges"
+title: "Mahindra Kabira Sunrise Music 2026: Morning Raag on the Ganges"
 slug: "mahindra-kabira-sunrise-music"
-date: "2025-11-20"
-lastUpdated: "2025-11-20"
+date: "2026-11-20"
+lastUpdated: "2026-11-20"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Mahindra Kabira Sunrise Music 2025 | Morning Raag on the Ganges"
-metaDescription: "Start your day with soul-stirring music at the Mahindra Kabira Festival 2025. Guide to sunrise sessions at Guleria Kothi and morning boat access."
+metaTitle: "Mahindra Kabira Sunrise Music 2026 | Morning Raag on the Ganges"
+metaDescription: "Start your day with soul-stirring music at the Mahindra Kabira Festival 2026. Guide to sunrise sessions at Guleria Kothi and morning boat access."
 keywords:
   - "Morning Raag Varanasi"
   - "Mahindra Kabira sunrise music"
@@ -21,8 +21,8 @@ featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kash
 eyebrow: "Exclusive Experience"
 ctaTitle: "Need an Early Morning Ride?"
 ctaSubtitle: "Pre-book your taxi for a 5:30 AM drop at the ghats to catch the sunrise sessions."
-startDate: "2025-12-20"
-endDate: "2025-12-21"
+startDate: "2026-12-20"
+endDate: "2026-12-21"
 location:
   name: "Guleria Kothi"
   address: "Varanasi Ghats"
@@ -38,14 +38,14 @@ organizer:
 
 **Quick Facts**
 
-- **When:** 6:30 AM on 20 & 21 December 2025
+- **When:** 6:30 AM on 20 & 21 December 2026
 - **Where:** Guleria Kothi steps (boats moored on the Ganges)
 - **Entry:** Included with delegate or daily pass (limited stand-by seats for locals)
 - **Best For:** Classical music lovers, photographers, meditators craving quiet
 
-> Planning the full festival? Read the [complete Mahindra Kabira Festival guide](/en/city/varanasi/events/mahindra-kabira-festival-2025-varanasi) for tickets, lineup, and hotel zones.
+> Planning the full festival? Read the [complete Mahindra Kabira Festival guide](/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi) for tickets, lineup, and hotel zones.
 
-**Dates:** December 20-21, 2025
+**Dates:** December 20-21, 2026
 **Time:** 6:30 AM (approximately 45 minutes)
 **Venue:** Guleria Kothi, Varanasi Ghats
 **Entry:** Festival delegate pass or daily pass

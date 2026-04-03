@@ -1,8 +1,8 @@
 ---
 lang: en
-title: "17‑Seater Tempo Traveller in Varanasi – Group Cab from ₹27/km (2025 Rates)"
-description: "17 Seater Tempo Traveller Varanasi for weddings, yatras and outstation trips. 2025 airport, local and per‑km rates. See prices and book today."
-date: 2025-08-27
+title: "17‑Seater Tempo Traveller in Varanasi – Group Cab from ₹27/km (2026 Rates)"
+description: "17 Seater Tempo Traveller Varanasi for weddings, yatras and outstation trips. 2026 airport, local and per‑km rates. See prices and book today."
+date: 2026-08-27
 tags: [17 seater, tempo traveller, varanasi, fares, price, hire, booking, wedding, airport transfer, outstation]
 slug: 17-seater-tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/17-seater-tempo-traveller-varanasi
@@ -15,7 +15,7 @@ relatedPosts:
   - varanasi-to-bodhgaya-tempo-traveller
 ---
 
-# 17‑Seater Tempo Traveller in Varanasi – Group Cab from ₹27/km (2025 Rates)
+# 17‑Seater Tempo Traveller in Varanasi – Group Cab from ₹27/km (2026 Rates)
 
 **Perfect for 2‑3 families or 8‑17 pilgrims · AC tempo with driver · Local 8hr/80km from ₹6,000 · Outstation from ₹27/km**
 

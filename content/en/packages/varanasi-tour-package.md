@@ -12,7 +12,7 @@ schemaType: "Service"
 serviceCategory: "Tour Packages"
 structuredData: true
 published: true
-date: "2025-10-26"
+date: "2026-10-26"
 lastUpdated: "2026-02-05"
 ---
 
@@ -47,7 +47,7 @@ Varanasi, the world's oldest living city, offers an unparalleled spiritual and c
 **Advantages**: Perfect for ghat walks, temple visits, sunrise boat rides  
 **Hotel Pricing**: ₹4,500–₹12,000/night (book 2–3 months ahead)
 
-> **Month-specific guides**: [Varanasi in October](/en/varanasi-in-october-2025) | [Varanasi in November](/en/varanasi-in-november-2025-insider-guide) | [Varanasi in December](/en/varanasi-in-december-2025) | [Varanasi in February](/en/varanasi-in-february-2026)
+> **Month-specific guides**: [Varanasi in October](/en/varanasi-in-october-2026) | [Varanasi in November](/en/varanasi-in-november-2026-insider-guide) | [Varanasi in December](/en/varanasi-in-december-2026) | [Varanasi in February](/en/varanasi-in-february-2026)
 
 ### Moderate Season (July–September): Monsoon
 
@@ -59,7 +59,7 @@ Varanasi, the world's oldest living city, offers an unparalleled spiritual and c
 **Advantages**: 30–50% cheaper hotels (from ₹1,200/night), fewer crowds  
 **Considerations**: Some lower ghats submerged, boat ride adjustments
 
-> Learn more: [Varanasi in Monsoon Guide (July-September)](/en/varanasi-in-monsoon-july-september-2025)
+> Learn more: [Varanasi in Monsoon Guide (July-September)](/en/varanasi-in-monsoon-july-september-2026)
 
 ### Summer (April–June): Hot Season
 
@@ -98,7 +98,7 @@ This **1-day Varanasi city tour** covers all essential attractions:
 
 > **Essential reading**: [Kashi Vishwanath Shivaratri Crowd Survival Guide](/en/kashi-vishwanath-shivaratri-crowd-survival-guide) for temple visit tips.
 
-> **Complete spiritual itinerary**: [Kashi Vishwanath Temple & Ganga Aarti Spiritual Journey 2025](/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025)
+> **Complete spiritual itinerary**: [Kashi Vishwanath Temple & Ganga Aarti Spiritual Journey 2026](/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026)
 
 #### Other Significant Temples
 
@@ -168,7 +168,7 @@ The **Ganga Aarti** is the most iconic experience in any **Varanasi tour package
 | **Dashashwamedh Ghat (Evening)** | **Summer**: 19:00 / **Winter**: 18:00 | 45 min | Nov–Feb (most crowded) |
 | **Assi Ghat (Evening)** | **Summer**: 18:30 / **Winter**: 18:00 | 45 min | Year-round |
 
-> **Detailed timings**: [Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing) | [Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2025) | [Ganga Aarti Timing Varanasi 2026](/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2025)
+> **Detailed timings**: [Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing) | [Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2026) | [Ganga Aarti Timing Varanasi 2026](/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026)
 
 #### Viewing Options for Varanasi Tour Packages
 
@@ -370,7 +370,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 - Multi-day festival experiences with heritage accommodation
 - Early booking essential for Dev Deepawali Varanasi tour (2–3 months advance)
 
-> **Festival planning**: [Dev Deepawali 2026 Ultimate Guide](/en/dev-deepawali-2025-varanasi-ultimate-guide) | [Best Viewing Spots](/en/dev-deepawali-best-viewing-spots-varanasi) | [Boat Ride Pricing Guide](/en/dev-deepawali-boat-ride-pricing-guide-2025) | [Crowd Survival Guide](/en/dev-deepawali-crowd-survival-guide-varanasi) | [Photography Guide](/en/dev-deepawali-photography-guide-2025)
+> **Festival planning**: [Dev Deepawali 2026 Ultimate Guide](/en/dev-deepawali-2026-varanasi-ultimate-guide) | [Best Viewing Spots](/en/dev-deepawali-best-viewing-spots-varanasi) | [Boat Ride Pricing Guide](/en/dev-deepawali-boat-ride-pricing-guide-2026) | [Crowd Survival Guide](/en/dev-deepawali-crowd-survival-guide-varanasi) | [Photography Guide](/en/dev-deepawali-photography-guide-2026)
 
 ### Mahashivratri Varanasi Temple Tour: Shiva's Great Night (February 15, 2026)
 
@@ -392,7 +392,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 | **Buddha Purnima** | May | Buddha's birth/enlightenment/nirvana | Sarnath-focused Buddhist Varanasi tour |
 | **Diwali** | October/November | Festival of lights (15 days before Dev Deepawali) | Temple illumination tours in Varanasi |
 
-> **Other festivals**: [Ganga Mahotsav 2025](/en/ganga-mahotsav-2025-classical-festival-varanasi) | [Makar Sankranti 2026](/en/makar-sankranti-2026-varanasi-kite-festival-guide)
+> **Other festivals**: [Ganga Mahotsav 2026](/en/ganga-mahotsav-2026-classical-festival-varanasi) | [Makar Sankranti 2026](/en/makar-sankranti-2026-varanasi-kite-festival-guide)
 
 ## Accommodation Options for Varanasi Tour
 
@@ -628,7 +628,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 
 **Best Time for Varanasi Tour**: **November–March** (10–25°C perfect weather) with Dev Deepawali Varanasi tour (Nov 24) and Mahashivratri temple tour (Feb 15) as peak festivals
 
-> Want to experience the grandest festival? Read our [Dev Deepawali 2026 Ultimate Guide](/en/dev-deepawali-2025-varanasi-ultimate-guide) and book early.
+> Want to experience the grandest festival? Read our [Dev Deepawali 2026 Ultimate Guide](/en/dev-deepawali-2026-varanasi-ultimate-guide) and book early.
 
 **Varanasi Tour Package Options**:
 - 1-Day Varanasi city tour: ₹7,000–₹11,000

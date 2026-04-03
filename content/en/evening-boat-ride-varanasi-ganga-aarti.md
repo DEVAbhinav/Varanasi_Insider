@@ -1,12 +1,12 @@
 ---
-title: "Evening Boat Ride Varanasi: Ganga Aarti [2025 Guide]"
+title: "Evening Boat Ride Varanasi: Ganga Aarti [2026 Guide]"
 slug: "evening-boat-ride-varanasi-ganga-aarti"
-date: "2025-08-01"
-lastUpdated: "2025-09-20"
+date: "2026-08-01"
+lastUpdated: "2026-09-20"
 author: "Kamal Nayan Singh"
 lang: en-IN
 
-description: "Evening boat ride Varanasi for Ganga Aarti: 2025 capacity classes, dynamic fare bands, best lens choices & booking workflow."
+description: "Evening boat ride Varanasi for Ganga Aarti: 2026 capacity classes, dynamic fare bands, best lens choices & booking workflow."
 keywords: "evening boat ride varanasi, ganga aarti boat ride, varanasi boat ride price, dashashwamedh ghat aarti, ganga aarti from boat, varanasi night boat ride"
 tags:
   - varanasi
@@ -16,24 +16,24 @@ tags:
   - price guide
 relatedPosts:
   - morning-boat-ride-varanasi-price
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
   - varanasi-safety-guide
 faqSchema:
   - question: "What is the optimal boarding window for an evening Ganga Aarti boat?"
     answer: "Board 40–50 minutes before scheduled Aarti start (winter: ~5:55–6:05 PM; summer: ~6:25–6:35 PM) to secure central river alignment before boat congestion tightens the arc."
-  - question: "How much does an evening boat ride cost in 2025?"
+  - question: "How much does an evening boat ride cost in 2026?"
     answer: "Shared wooden rowboats: ₹250–₹500 pp; private 4–6 seat rowboat: ₹1,500–₹3,000; motorboat (≤15 pax): ₹4,000–₹6,000; luxury bajra: ₹10,000+. Festival surcharges can raise base fares 2–4×."
   - question: "Which boat type is best for photography?"
     answer: "A low freeboard private rowboat gives stable, eye‑level perspective with minimal vibration. Motorboats vibrate more; bajra offers elevation but more lateral drift."
 ---
 
-# Evening Boat Ride Varanasi: Watch Ganga Aarti from the Water (Differentiated 2025 Planning Guide)
+# Evening Boat Ride Varanasi: Watch Ganga Aarti from the Water (Differentiated 2026 Planning Guide)
 
 > **TL;DR:** Evening boat ride Varanasi seats disappear 40 minutes before the Ganga Aarti, so decide between shared ₹250 benches and ₹3,000 private rowboats ahead of time, board early to claim the central arc, and prep ISO 2000 and f2.8 settings for flame detail. Micro-tip: carry a thin cushion; wooden planks bruise during 60-minute holds.
 
 > **Core Value:** This page focuses on *on‑water logistics & boat selection intelligence* (seat classes, alignment tactics, lens & exposure tips) rather than repeating full ceremony narrative (see Dashashwamedh timing guide for crowd curve).
 
-## 1. 2025 Boarding & Alignment Matrix
+## 1. 2026 Boarding & Alignment Matrix
 | Start Window (Season) | Suggested Boarding | River Traffic State | Benefit | Risk if Late |
 |-----------------------|--------------------|---------------------|---------|--------------|
 | Winter (Oct–Mar) | 5:55–6:05 PM | Slow inflow | Pick central axis | Pushed to outer arc |
@@ -43,7 +43,7 @@ faqSchema:
 > Alignment Goal: Bow pointed diagonally toward priests’ platforms (≈15°) for layered depth in photographs.
 
 ## 2. Boat Classes & Seating Layout (Unique Data)
-| Class | Seats | Typical 2025 Base Fare | Comfort Notes | Best Use Case |
+| Class | Seats | Typical 2026 Base Fare | Comfort Notes | Best Use Case |
 |-------|-------|------------------------|---------------|--------------|
 | Shared Rowboat | 6–10 | ₹250–₹500 pp | Tight benches, bring cushion | Budget travellers |
 | Private Rowboat | 1–6 | ₹1,500–₹3,000 | Control angle, low vibration | Photography couples / families |

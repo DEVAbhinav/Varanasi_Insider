@@ -1,7 +1,7 @@
 ---
 title: 'वाराणसी के घाटों के लिए गाइड — महत्वपूर्ण घाट, आरती, नाव और सुरक्षा'
 slug: 'varanasi-ke-ghaton-ke-liye-guide'
-date: '2025-07-24'
+date: '2026-07-24'
 lastUpdated: '2026-01-12'
 author: 'अभिनव पांडेय'
 featuredImage: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg'
@@ -20,7 +20,7 @@ tags: ['घाट', 'गाइड', 'वाराणसी', 'पर्यटन
 relatedPosts:
   - dashashwamedh-ghat-ganga-aarti
   - dashashwamedh-ghat-detailed-guide
-  - ganga-aarti-samay-varanasi-2025
+  - ganga-aarti-samay-varanasi-2026
 faqSchema:
   - question: "वाराणसी में कुल कितने घाट हैं?"
     answer: "वाराणसी में कुल 84 घाट हैं जो गंगा नदी के किनारे लगभग 6 किलोमीटर में फैले हुए हैं। इनमें दशाश्वमेध, अस्सी, मणिकर्णिका और तुलसी घाट सबसे प्रसिद्ध हैं।"
@@ -232,7 +232,7 @@ faqSchema:
 
 - [गंगा आरती की पूरी जानकारी (समय, नाव बुकिंग, और टिप्स)](/hi/dashashwamedh-ghat-ganga-aarti)
 - [दशाश्वमेध घाट विस्तृत गाइड](/hi/dashashwamedh-ghat-detailed-guide)
-- [काशी विश्वनाथ मंदिर + गंगा आरती यात्रा कार्यक्रम](/hi/city/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2025)
+- [काशी विश्वनाथ मंदिर + गंगा आरती यात्रा कार्यक्रम](/hi/city/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2026)
 - [वाराणसी एयरपोर्ट टैक्सी गाइड](/en/varanasi-airport-taxi-guide)
 - [वाराणसी एयरपोर्ट टेम्पो ट्रैवलर](/hi/varanasi-airport-tempo-traveller)
 

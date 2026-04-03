@@ -1,8 +1,8 @@
 ---
 title: "दक्षिण भारत से काशी यात्रा बस पैकेज (Chennai • Bengaluru • Hyderabad) – 6 से 7 दिन मार्गदर्शिका"
 slug: "kashi-yatra-south-india-bus-package"
-date: "2025-10-25"
-lastModified: "2025-10-25"
+date: "2026-10-25"
+lastModified: "2026-10-25"
 excerpt: "6–7 दिन की काशी (वाराणसी) बस तीर्थ यात्रा – कार्यक्रम, विश्वनाथ दर्शन रणनीति, गंगा आरती, मूल्य श्रेणियाँ, शामिल/अपवर्जित, वरिष्ठ अनुकूल योजना, वैकल्पिक Prayagraj / Ayodhya विस्तार।"
 author: "Travel Agent Varanasi तीर्थ डेस्क"
 category: "Pilgrimage"
@@ -11,7 +11,7 @@ featured: false
 seoTitle: "दक्षिण भारत से काशी यात्रा बस पैकेज – 6–7 दिन (चेन्नई, बेंगलुरु, हैदराबाद)"
 seoDescription: "चेन्नई, बेंगलुरु, हैदराबाद से काशी यात्रा बस पैकेज – 6–7 दिन कार्यक्रम, काशी विश्वनाथ एवं गंगा आरती रणनीति, मूल्य, ऐड‑ऑन Prayagraj Ayodhya विकल्प।"
 keywords: ["kashi yatra hindi","काशी यात्रा बस पैकेज","चेनई से काशी यात्रा","बेंगलुरु से काशी टूर","hyderabad se kashi yatra","काशी गंगा स्नान पैकेज","काशी विश्वनाथ दर्शन रणनीति","अन्नपूर्णा मंदिर वाराणसी","विशालाक्षी अम्मन वाराणसी","tempo traveller kashi yatra","south indian food kashi yatra"]
-relatedPosts: ["dev-deepawali-2025-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2025","ganga-mahotsav-2025-classical-festival-varanasi"]
+relatedPosts: ["dev-deepawali-2026-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2026","ganga-mahotsav-2026-classical-festival-varanasi"]
 tags: ["काशी यात्रा","दक्षिण भारत प्रस्थान","तीर्थ बस","विश्वनाथ मंदिर","गंगा आरती","अयोध्या विस्तार","प्रयागराज सर्किट"]
 translationOf: "kashi-yatra-south-india-bus-package"
 ---
@@ -137,9 +137,9 @@ Inquiry → तिथि + Pax → प्राथमिक itinerary → 20% �
 
 ---
 ## आंतरिक लिंक
-- Dev Deepawali → /en/dev-deepawali-2025-varanasi-ultimate-guide  
-- Nag Nathaiya → /en/nag-nathaiya-festival-varanasi-2025  
-- Ganga Mahotsav → /en/ganga-mahotsav-2025-classical-festival-varanasi  
+- Dev Deepawali → /en/dev-deepawali-2026-varanasi-ultimate-guide  
+- Nag Nathaiya → /en/nag-nathaiya-festival-varanasi-2026  
+- Ganga Mahotsav → /en/ganga-mahotsav-2026-classical-festival-varanasi  
 
 ---
 ## विस्तार स्केच (Prayagraj + Ayodhya 2 दिन)

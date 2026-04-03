@@ -2,8 +2,8 @@
 lang: hi
 slug: manikarnika-ghat-sacred-cremation-grounds
 sourceSlug: manikarnika-ghat-sacred-cremation-grounds
-title: "मणिकर्णिका घाट वाराणसी: सम्मानपूर्वक दर्शक गाइड 2025"
-metaTitle: "मणिकर्णिका घाट गाइड 2025: इतिहास, मोक्ष मान्यता, शिष्टाचार"
+title: "मणिकर्णिका घाट वाराणसी: सम्मानपूर्वक दर्शक गाइड 2026"
+metaTitle: "मणिकर्णिका घाट गाइड 2026: इतिहास, मोक्ष मान्यता, शिष्टाचार"
 metaDescription: "मणिकर्णिका घाट वाराणसी: इतिहास, दाह संस्कार प्रक्रिया, मोक्ष से जुड़ी मान्यताएँ, दर्शक हेतु आचरण नियम व संवेदनशीलता सुझाव।"
 description: "वाराणसी का प्रमुख अंत्येष्टि स्थल मणिकर्णिका: पौराणिक कथाएँ, क्या देखें, कैसे सम्मान रखें, समय व निकटवर्ती संदर्भ।"
 keywords: ["manikarnika ghat hindi","मणिकर्णिका घाट मोक्ष","varanasi cremation ghat guide","cremation etiquette varanasi hindi","dom community role","manikarnika kund katha","varanasi death rituals","kashi moksha belief","photography rules manikarnika","hindu funeral respect tips","manikarnika myths facts"]

@@ -1,8 +1,8 @@
 ---
 title: "Ayodhya to Varanasi Taxi | Ram to Shiva Journey | ₹3,550 | KashiTaxi"
 slug: "ayodhya-to-varanasi-taxi"
-date: "2025-12-31"
-lastUpdated: "2025-12-31"
+date: "2026-12-31"
+lastUpdated: "2026-12-31"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Ayodhya to Varanasi Taxi | Ram Janmabhoomi to Kashi | ₹3,550"
@@ -488,8 +488,8 @@ faqSchema:
 
 ---
 
-**Last Updated**: December 31, 2025  
-**Verified Pricing**: Accurate as of Dec 2025 (subject to Ram Navami/Diwali variations)
+**Last Updated**: December 31, 2026  
+**Verified Pricing**: Accurate as of Dec 2026 (subject to Ram Navami/Diwali variations)
 
 **Popular Related Searches**:
 - Ayodhya to Varanasi tempo traveller

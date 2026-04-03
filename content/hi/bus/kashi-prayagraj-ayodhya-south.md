@@ -1,8 +1,8 @@
 ---
 title: "काशी • प्रयागराज • अयोध्या 3-शहर बस तीर्थ (दक्षिण भारत प्रस्थान) – 7–9 दिन मल्टी-सर्किट यात्रा"
 slug: "kashi-prayagraj-ayodhya-south"
-date: "2025-10-25"
-lastModified: "2025-10-25"
+date: "2026-10-25"
+lastModified: "2026-10-25"
 excerpt: "दक्षिण भारत (चेन्नई • बेंगलुरु • हैदराबाद) से काशी–प्रयागराज–अयोध्या 7–9 दिन की संरचित बस तीर्थ यात्रा: दो वैरिएंट, संगम स्नान, राम मंदिर दर्शन रणनीति, मूल्य श्रेणियाँ, ऐड‑ऑन, वरिष्ठ अनुकूल लॉजिस्टिक्स।"
 author: "Travel Agent Varanasi तीर्थ डेस्क"
 category: "Pilgrimage"
@@ -11,7 +11,7 @@ featured: false
 seoTitle: "काशी प्रयागराज अयोध्या बस पैकेज (दक्षिण भारत) – 7–9 दिन मल्टी सर्किट"
 seoDescription: "दक्षिण भारत से काशी प्रयागराज अयोध्या बस पैकेज – 7 व 9 दिन के वैरिएंट, दर्शन समय, संगम स्नान, राम मंदिर स्लॉट रणनीति, मूल्य श्रेणियाँ, ऐड‑ऑन।"
 keywords: ["kashi prayagraj ayodhya yatra hindi","काशी प्रयागराज अयोध्या बस पैकेज","दक्षिण भारत से काशी प्रयागराज अयोध्या टूर","bangalore to kashi prayagraj ayodhya yatra","chennai se kashi prayagraj ayodhya","ram mandir darshan slot hindi","triveni sangam snan samay","kashi vishwanath sugam darshan","multi city pilgrimage bus"]
-relatedPosts: ["kashi-yatra-south-india-bus-package","dev-deepawali-2025-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2025"]
+relatedPosts: ["kashi-yatra-south-india-bus-package","dev-deepawali-2026-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2026"]
 tags: ["काशी यात्रा","प्रयागराज संगम","अयोध्या राम मंदिर","दक्षिण भारत प्रस्थान","मल्टी सर्किट तीर्थ","गंगा आरती","राम मंदिर दर्शन"]
 translationOf: "kashi-prayagraj-ayodhya-south"
 ---
@@ -167,8 +167,8 @@ translationOf: "kashi-prayagraj-ayodhya-south"
 ---
 ## आंतरिक लिंक
 - कोर काशी पैकेज → /en/bus/kashi-yatra-south-india-bus-package  
-- देव दीपावली गाइड → /en/dev-deepawali-2025-varanasi-ultimate-guide  
-- नाग नथैया उत्सव → /en/nag-nathaiya-festival-varanasi-2025  
+- देव दीपावली गाइड → /en/dev-deepawali-2026-varanasi-ultimate-guide  
+- नाग नथैया उत्सव → /en/nag-nathaiya-festival-varanasi-2026  
 
 ---
 ## सारांश

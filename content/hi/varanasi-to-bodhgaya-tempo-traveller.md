@@ -1,10 +1,10 @@
 ---
 lang: hi
 slug: varanasi-to-bodhgaya-tempo-traveller
-date: 2025-10-09
-lastUpdated: 2025-10-09
+date: 2026-10-09
+lastUpdated: 2026-10-09
 author: "कमल नयन सिंह"
-title: "वाराणसी से बोधगया Tempo Traveller पैकेज (2025)"
+title: "वाराणसी से बोधगया Tempo Traveller पैकेज (2026)"
 description: "बोधगया दर्शन या गया पिंडदान के लिए वाराणसी से टेम्पो ट्रैवलर – एक दिन या रातभर का कार्यक्रम, किराया, मुख्य स्थल और यात्रा सुझाव।"
 tags:
   - बोधगया

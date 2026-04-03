@@ -1,11 +1,11 @@
 ---
 lang: en
-title: "Prayagraj Ayodhya Chitrakoot Circuit by Tempo Traveller (3–4 Day Itinerary, 2025)"
+title: "Prayagraj Ayodhya Chitrakoot Circuit by Tempo Traveller (3–4 Day Itinerary, 2026)"
 description: "3–4 day Prayagraj Ayodhya Chitrakoot circuit from Varanasi by Tempo Traveller – optimized sequencing for Sangam snan, Ayodhya darshan, and Chitrakoot spiritual sites. Distances, costs, tips."
 slug: prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit
-date: 2025-09-19
+date: 2026-09-19
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-09-19
+lastUpdated: 2026-09-19
 tags: [prayagraj, ayodhya, chitrakoot, tempo traveller, pilgrimage circuit]
 keywords: ["prayagraj ayodhya chitrakoot circuit","tempo traveller prayagraj ayodhya tour","ayodhya chitrakoot from varanasi","prayagraj ayodhya itinerary","group pilgrimage tempo traveller varanasi"]
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg
@@ -28,7 +28,7 @@ faqSchema:
     answer: "With disciplined morning starts, avoid highway night segments; only dusk arrival variants if darshan windows slip." 
 ---
 
-# Prayagraj – Ayodhya – Chitrakoot Circuit by Tempo Traveller (2025)
+# Prayagraj – Ayodhya – Chitrakoot Circuit by Tempo Traveller (2026)
 
 > **TL;DR:** This Prayagraj Ayodhya Chitrakoot Tempo Traveller circuit covers roughly 1,000 km over three to four days, syncing Sangam snan, Ram Mandir darshan, and Chitrakoot parikrama; expect ₹24,000 to ₹30,000 transport for a 12-seater plus allowances. Micro-tip: lock Ayodhya early morning slots first—every other departure cascades from that window.
 

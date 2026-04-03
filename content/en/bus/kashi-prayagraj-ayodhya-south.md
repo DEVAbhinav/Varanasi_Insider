@@ -1,8 +1,8 @@
 ---
 title: "Kashi • Prayagraj • Ayodhya 3-City Bus Pilgrimage (South India Departures) – 7–9 Day Multi-Circuit Yatra"
 slug: "kashi-prayagraj-ayodhya-south"
-date: "2025-10-25"
-lastModified: "2025-10-25"
+date: "2026-10-25"
+lastModified: "2026-10-25"
 excerpt: "Complete 3-city Kashi–Prayagraj–Ayodhya pilgrimage bus package from South India (Chennai • Bengaluru • Hyderabad): itineraries (7 & 9 day), travel-time matrix, darshan scheduling, pricing tiers, add‑ons, elder-friendly logistics." 
 author: "Travel Agent Varanasi Pilgrimage Desk"
 category: "Pilgrimage"
@@ -11,7 +11,7 @@ featured: true
 seoTitle: "Kashi Prayagraj Ayodhya Bus Package (South India) – 7–9 Day Multi-Circuit Yatra"
 seoDescription: "3-city Kashi Prayagraj Ayodhya pilgrimage bus package from South India (Chennai, Bengaluru, Hyderabad). 7 & 9 day itineraries, travel times, Vishwanath, Sangam, Ram Mandir darshan strategy, pricing, add‑ons." 
 keywords: ["kashi prayagraj ayodhya bus package","kashi prayagraj ayodhya tour south india","varanasi prayagraj ayodhya itinerary","bangalore to kashi prayagraj ayodhya yatra","chennai to kashi prayagraj ayodhya bus", "hyderabad to kashi prayagraj ayodhya tour", "prayagraj sangam boat timing", "ram mandir darshan slot", "kashi vishwanath sugam darshan", "multi city pilgrimage bus package"]
-relatedPosts: ["kashi-yatra-south-india-bus-package","dev-deepawali-2025-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2025"]
+relatedPosts: ["kashi-yatra-south-india-bus-package","dev-deepawali-2026-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2026"]
 tags: ["Kashi Yatra","Prayagraj Sangam","Ayodhya Ram Mandir","South India Departures","Multi-Circuit Pilgrimage","Ganga Aarti","Ram Mandir Darshan"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["Kashi Yatra","Prayagraj Sangam","Ayodhya Ram Mandir","South India Depart
 
 > **TL;DR:** Kashi–Prayagraj–Ayodhya South India bus pilgrimage packages run 7 or 9 days ex Chennai/Bengaluru/Hyderabad, bundling Ganga Aarti, Sangam snan, and Ram Mandir darshan with per-person tiers from ₹9,999 to ₹21,999. Share elder count and Pind Daan needs while booking so we can stage rest stops and priests in advance. Scroll for itineraries, distance matrix, and inclusion grid.
 
-*Last Updated: 25 Oct 2025*
+*Last Updated: 25 Oct 2026*
 
 **Quick Answer:** A **7–9 day structured multi-circuit pilgrimage** covering Kashi (Varanasi) core darshans & Ganga Aarti, Prayagraj Sangam ritual dip/boat, and Ayodhya Ram Mandir darshan — purpose-built for South Indian devotional groups (Chennai • Bengaluru • Hyderabad) with elder-friendly pacing and modular add‑ons.
 
@@ -259,8 +259,8 @@ F --> G[Final Pack (PDF + Contacts + Time Matrix)]
 ---
 ## 🔗 Internal Links
 - Core Kashi Package → /en/bus/kashi-yatra-south-india-bus-package
-- Dev Deepawali Guide → /en/dev-deepawali-2025-varanasi-ultimate-guide
-- Nag Nathaiya Festival → /en/nag-nathaiya-festival-varanasi-2025
+- Dev Deepawali Guide → /en/dev-deepawali-2026-varanasi-ultimate-guide
+- Nag Nathaiya Festival → /en/nag-nathaiya-festival-varanasi-2026
 
 ---
 ## 📌 Summary

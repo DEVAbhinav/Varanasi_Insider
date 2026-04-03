@@ -1,7 +1,7 @@
 ---
 title: "Meet Your Verified Kashi Taxi Drivers"
 slug: "kashi-driver-partners"
-date: "2025-12-09"
+date: "2026-12-09"
 lastUpdated: "2026-03-07"
 author: "Varanasi Insider Team"
 lang: en

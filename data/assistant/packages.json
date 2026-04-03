@@ -384,10 +384,10 @@
     ],
     "festival_packages": [
         {
-            "id": "dev_deepawali_2025",
-            "name": "Dev Deepawali 2025 Special",
-            "name_hi": "देव दीपावली 2025 स्पेशल",
-            "date": "2025-11-15",
+            "id": "dev_deepawali_2026",
+            "name": "Dev Deepawali 2026 Special",
+            "name_hi": "देव दीपावली 2026 स्पेशल",
+            "date": "2026-11-24",
             "duration": {
                 "days": 3,
                 "nights": 2
@@ -405,7 +405,7 @@
             "surge_note": "300% surge if booked <30 days",
             "deposit_required": 0.5,
             "advance_booking_days": 60,
-            "website_page": "/en/dev-deepawali-2025-varanasi-ultimate-guide"
+            "website_page": "/en/dev-deepawali-2026-varanasi-ultimate-guide"
         },
         {
             "id": "mahashivratri_2026",

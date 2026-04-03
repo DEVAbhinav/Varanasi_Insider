@@ -1082,8 +1082,8 @@
                 "Archaeological Museum"
             ],
             "festivals": {
-                "buddha_purnima_2025": {
-                    "date": "2025-05-12",
+                "buddha_purnima_2026": {
+                    "date": "2026-05-01",
                     "crowd_level": "massive",
                     "book_advance_weeks": "3-4"
                 }
@@ -1096,7 +1096,7 @@
     },
     "festivals": {
         "dev_deepawali": {
-            "date_2025": "2025-11-05",
+            "date_2026": "2026-11-24",
             "timing": "Kartik Purnima (15 days after Diwali)",
             "significance": "Diwali of the Gods, Lord Shiva victory over Tripurasura",
             "scale": {
@@ -1216,11 +1216,11 @@
             },
             "taxi_vs_train": "Taxi recommended for seniors/families - door-to-door, luggage, no platform chaos"
         },
-        "ramlila_dussehra_2025": {
+        "ramlila_dussehra_2026": {
             "dates": {
-                "ravana_dahan": "2025-10-02",
-                "bharat_milap": "2025-10-03",
-                "ram_rajya_final": "2025-10-07"
+                "ravana_dahan": "2026-10-20",
+                "bharat_milap": "2026-10-21",
+                "ram_rajya_final": "2026-10-25"
             },
             "location": "Ramnagar (across Ganges)",
             "type": "UNESCO heritage performance",

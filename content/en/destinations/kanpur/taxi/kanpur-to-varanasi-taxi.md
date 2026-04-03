@@ -1,8 +1,8 @@
 ---
 title: "Kanpur to Varanasi Taxi | Business + Spiritual | ₹5,500 | 127 Daily Trains"
 slug: "kanpur-to-varanasi-taxi"
-date: "2025-12-31"
-lastUpdated: "2025-12-31"
+date: "2026-12-31"
+lastUpdated: "2026-12-31"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Kanpur to Varanasi Taxi | Industrial Hub to Kashi | ₹5,500"
@@ -355,8 +355,8 @@ Total: 300 km | 8-9 hours (including 2-3h Prayagraj stopover) | Only 7 km longer
 
 ---
 
-**Last Updated**: December 31, 2025  
-**Verified Pricing**: Accurate as of Dec 2025
+**Last Updated**: December 31, 2026  
+**Verified Pricing**: Accurate as of Dec 2026
 
 **Popular Related Searches**:
 - Kanpur to Varanasi round-trip taxi

@@ -10,7 +10,7 @@ author: "Kashi Taxi Team"
 slug: varanasi-group-tour-package
 category: packages
 canonical: "https://www.kashitaxi.in/hi/varanasi-group-tour-package"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/boat-ride-ganges-group.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-bird-river-p.jpg"
 tags:
   - वाराणसी समूह टूर पैकेज
   - काशी ग्रुप टूर

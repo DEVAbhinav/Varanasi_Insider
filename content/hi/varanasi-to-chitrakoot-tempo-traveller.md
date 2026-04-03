@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-chitrakoot-tempo-traveller
-date: 2025-10-09
-lastUpdated: 2025-10-09
+date: 2026-10-09
+lastUpdated: 2026-10-09
 author: "कमल नयन सिंह"
 title: "वाराणसी से चित्रकूट Tempo Traveller – 1N/2D रामघाट परिक्रमा"
 description: "कामदगिरि परिक्रमा, रामघाट आरती और हनुमान धारा दर्शन के लिए वाराणसी से 2-दिवसीय टेम्पो ट्रैवलर पैकेज – पारदर्शी किलोमीटर बिलिंग और ड्राइवर रोटेशन शामिल।"
@@ -26,7 +26,7 @@ relatedPosts:
   - pilgrimage-yatra-tours-tempo-traveller-varanasi
 ---
 
-# वाराणसी से चित्रकूट Tempo Traveller पैकेज (2025)
+# वाराणसी से चित्रकूट Tempo Traveller पैकेज (2026)
 
 > **यात्रा सारांश (Quick Facts)**
 > - **दूरी:** ~270 किमी (6–7 घंटे) प्रयागराज के रास्ते।

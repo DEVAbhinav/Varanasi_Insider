@@ -22,7 +22,7 @@ tags:
 relatedPosts:
   - best-time-to-visit-varanasi
   - what-to-wear-in-varanasi
-  - assi-ghat-aarti-timings-2025
+  - assi-ghat-aarti-timings-2026
   - morning-boat-ride-varanasi-price
 faqSchema:
   - question: "Which months have the best weather in Varanasi?"
@@ -186,7 +186,7 @@ That single adjustment improves the trip more than most people expect.
 
 - [Best Time to Visit Varanasi](/en/best-time-to-visit-varanasi)
 - [What to Wear in Varanasi](/en/what-to-wear-in-varanasi)
-- [Assi Ghat Aarti Timings](/en/assi-ghat-aarti-timings-2025)
+- [Assi Ghat Aarti Timings](/en/assi-ghat-aarti-timings-2026)
 - [Morning Boat Ride Price Guide](/en/morning-boat-ride-varanasi-price)
 
 Need route planning around the weather? Send your date, arrival time, and travel style on WhatsApp and we can suggest the right mix of **boat ride, local sightseeing and darshan timing**.

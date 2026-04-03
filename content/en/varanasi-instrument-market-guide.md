@@ -1,8 +1,8 @@
 ---
-title: "Varanasi Instrument Market Guide 2025: Where to Buy Tabla, Shehnai, Sitar & More"
+title: "Varanasi Instrument Market Guide 2026: Where to Buy Tabla, Shehnai, Sitar & More"
 slug: "varanasi-instrument-market-guide"
-date: "2025-10-07"
-lastUpdated: "2025-10-07"
+date: "2026-10-07"
+lastUpdated: "2026-10-07"
 author: "Travel Agent Varanasi Field Team"
 lang: en
 
@@ -16,15 +16,15 @@ tags:
   - music craft
 relatedPosts:
   - varanasi-classical-music-heritage
-  - ganga-mahotsav-2025-classical-festival-varanasi
-  - dev-deepawali-2025-varanasi-ultimate-guide
+  - ganga-mahotsav-2026-classical-festival-varanasi
+  - dev-deepawali-2026-varanasi-ultimate-guide
 ---
 
-# Varanasi Instrument Market Guide 2025
+# Varanasi Instrument Market Guide 2026
 
 **Why this matters:** Tourist trap drums & export-grade shortcuts flood shelves. This insider guide filters authentic craft from decorative stock so you invest in playable, stable instruments.
 
-## 1. Quick Price Bands (2025 Reality)
+## 1. Quick Price Bands (2026 Reality)
 | Instrument | Student Usable | Mid/Performing | Pro / Custom | Export-Only Tourist Junk (Avoid) |
 |------------|----------------|---------------|--------------|----------------------------------|
 | Tabla Pair | ₹6–9K | ₹12–18K | ₹22–40K+ (concert) | <₹5K hollow / synthetic skins |
@@ -122,6 +122,6 @@ Morning purchase → Evening Ganga Mahotsav performance: immediate ear training 
 
 ## 14. Internal Links
 - [Varanasi Classical Music Heritage](/en/varanasi-classical-music-heritage)
-- [Ganga Mahotsav 2025 Guide](/en/ganga-mahotsav-2025-classical-festival-varanasi)
+- [Ganga Mahotsav 2026 Guide](/en/ganga-mahotsav-2026-classical-festival-varanasi)
 
 Need Hindi translation or video gear checklist next? Ask. 

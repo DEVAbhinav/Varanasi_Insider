@@ -1,12 +1,12 @@
 ---
-title: "Sarnath Attractions Guide 2025: Complete List of Places to Visit with Timing & Entry Fees"
+title: "Sarnath Attractions Guide 2026: Complete List of Places to Visit with Timing & Entry Fees"
 slug: "sarnath-attractions-guide"
-date: "2025-10-27"
-lastUpdated: "2025-10-27"
+date: "2026-10-27"
+lastUpdated: "2026-10-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png"
-metaTitle: "15 Sarnath Attractions 2025: Dhamek Stupa, Museum ₹5-100 Entry"
+metaTitle: "15 Sarnath Attractions 2026: Dhamek Stupa, Museum ₹5-100 Entry"
 metaDescription: "Dhamek Stupa, Ashoka Pillar, Lion Capital Museum, 10+ Buddhist temples. Entry ₹5-100. Open 6 AM-6 PM (museum closed Fri). 3-4 hr visit from Varanasi →"
 description: "Discover all 15+ Sarnath attractions including Dhamek Stupa (main monument), original Ashoka Pillar, Mulagandha Kuti Vihar temple, Lion Capital museum, Deer Park, international Buddhist temples, monastery ruins. Complete with timing, entry fees, must-see rankings, and attraction-by-attraction visitor guide."
 keywords:
@@ -779,7 +779,7 @@ The **monastery ruins** at Sarnath represent 1,500+ years of continuous Buddhist
 
 ## Sarnath Attractions Entry Fees & Combo Tickets
 
-*Looking for sarnath ticket price or sarnath museum ticket price? Here's the complete breakdown for 2025:*
+*Looking for sarnath ticket price or sarnath museum ticket price? Here's the complete breakdown for 2026:*
 
 ### Archaeological Site Entry Fees
 

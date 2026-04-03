@@ -1,13 +1,13 @@
 ---
 lang: en
-title: "Corporate Group Tempo Traveller Varanasi: Shuttle, Offsite & Event Transport (2025)"
+title: "Corporate Group Tempo Traveller Varanasi: Shuttle, Offsite & Event Transport (2026)"
 description: "Corporate group Tempo Traveller Varanasi for airport clusters, hotel–venue shuttles, offsites, plant visits, conferences. 9–26 seater AC fleet, SLAs, safety & pricing."
-date: 2025-09-18
+date: 2026-09-18
 tags: [corporate, tempo traveller, varanasi, group transport, shuttle, airport transfer, conference, event logistics]
 slug: corporate-group-tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-09-18
+lastUpdated: 2026-09-18
 keywords: ["corporate tempo traveller varanasi","corporate shuttle tempo traveller varanasi","event transport tempo traveller varanasi","conference tempo traveller varanasi","group transport varanasi tempo traveller","17 seater corporate tempo traveller varanasi","tempo traveller hire for offsite varanasi"]
 faqSchema:
   - question: "How do you manage multi-hotel corporate airport pickups in Varanasi?"
@@ -22,7 +22,7 @@ faqSchema:
     answer: "Yes—1×1 recliner layout, quieter cabin, improved ride comfort for investor/CXO groups or international NGO teams."
 ---
 
-# Corporate Group Tempo Traveller Varanasi – Reliable Shuttle & Event Logistics (2025)
+# Corporate Group Tempo Traveller Varanasi – Reliable Shuttle & Event Logistics (2026)
 
 > **TL;DR:** Corporate tempo traveller Varanasi services cover 9–26 seaters with SLAs, dispatcher support, and GST invoices for airport clusters, shuttle loops, and CSR runs; local 8hr/80km rates start ₹4,500 (9 seater) to ₹7,000 (26 seater). Send manifests and luggage footprint 48 hours ahead so we can stage vehicles and buffers. Scroll for fleet tables, processes, and add-ons.
 
@@ -66,7 +66,7 @@ I’ve personally overseen early‑morning airport cluster pickups, multi‑hote
 | 26 Seater | Conference micro‑shuttle | 7,000 | 3,700 | Mini‑coach feel |
 | Premium Urbania | CXO / international | 7,500 | 3,800 | 1×1 comfort variant |
 
-> Outstation: 9/12 @ ₹24 per km; 17 @ ₹27; 20 @ ₹30; 26 @ ₹34; Urbania @ ₹34–₹35 (min 250 km/day). See the full [Tempo Traveller Rates](/en/tempo-traveller-rates-varanasi) for 2025 context.
+> Outstation: 9/12 @ ₹24 per km; 17 @ ₹27; 20 @ ₹30; 26 @ ₹34; Urbania @ ₹34–₹35 (min 250 km/day). See the full [Tempo Traveller Rates](/en/tempo-traveller-rates-varanasi) for 2026 context.
 
 ## Corporate Movement Scenarios We Handle
 ### Airport Cluster Arrivals (VNS)

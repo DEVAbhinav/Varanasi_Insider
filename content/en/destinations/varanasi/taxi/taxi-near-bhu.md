@@ -1,8 +1,8 @@
 ---
 title: "Taxi Near BHU Varanasi | Quick Cab Pickup | KashiTaxi"
 slug: "taxi-near-bhu"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Taxi Near BHU Varanasi | Quick Cab Pickup | KashiTaxi"

@@ -2,10 +2,10 @@
 lang: hi
 slug: tempo-traveller-rates-varanasi
 sourceSlug: tempo-traveller-rates-varanasi
-title: "वाराणसी Tempo Traveller किराया 2025: पूरी दर सूची (Price List)"
-metaTitle: "वाराणसी Tempo Traveller Rates 2025 | 9,12,17,26 सीटर रेंट लिस्ट"
-metaDescription: "वाराणसी टेम्पो ट्रैवलर 2025 किराया सूची: एयरपोर्ट, लोकल 8 घंटे/80KM, आउटस्टेशन प्रति किमी रेट, पैकेज बनाम पर किमी टिप्स। अभी पारदर्शी कोट पाएं।"
-description: "Tempo Traveller Rates Varanasi 2025 – 9, 12, 16/17, 20, 26 सीटर स्थानीय व आउटस्टेशन चार्ज, एयरपोर्ट फिक्स किराया, ड्राइवर भत्ता व अतिरिक्त लागत गाइड।"
+title: "वाराणसी Tempo Traveller किराया 2026: पूरी दर सूची (Price List)"
+metaTitle: "वाराणसी Tempo Traveller Rates 2026 | 9,12,17,26 सीटर रेंट लिस्ट"
+metaDescription: "वाराणसी टेम्पो ट्रैवलर 2026 किराया सूची: एयरपोर्ट, लोकल 8 घंटे/80KM, आउटस्टेशन प्रति किमी रेट, पैकेज बनाम पर किमी टिप्स। अभी पारदर्शी कोट पाएं।"
+description: "Tempo Traveller Rates Varanasi 2026 – 9, 12, 16/17, 20, 26 सीटर स्थानीय व आउटस्टेशन चार्ज, एयरपोर्ट फिक्स किराया, ड्राइवर भत्ता व अतिरिक्त लागत गाइड।"
 keywords: ["वाराणसी tempo traveller rate","tempo traveller price varanasi hindi","12 seater tempo traveller rent varanasi","17 seater tempo traveller km rate","varanasi tempo traveller airport","tempo traveller wedding varanasi","tempo traveller kashi darshan price"]
 relatedPosts:
   - tempo-traveller-varanasi
@@ -15,7 +15,7 @@ auditNote: "Manual localized Hindi version with SEO adaptation."
 canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 ---
 
-# वाराणसी Tempo Traveller Rates (2025 किराया सूची)
+# वाराणसी Tempo Traveller Rates (2026 किराया सूची)
 
 > **TL;DR:** वाराणसी टेम्पो ट्रैवलर रेट कार्ड 9 से 26 सीटर तक के एयरपोर्ट, 8hr/80km और आउटस्टेशन प्रति किमी दरें, पैकेज बनाम पर-किमी फैसले और ड्राइवर भत्ता स्पष्ट करता है ताकि आप क्वोट लेते समय कुछ भी मिस न करें। माइक्रो-टिप: देव दीपावली या सावन में बुकिंग करनी हो तो 15 दिन पहले अग्रिम भेजें—सीजन में ₹500-₹800 तक सरचार्ज जुड़ जाता है।
 
@@ -27,7 +27,7 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 - Airport Transfer: [/hi/varanasi-airport-tempo-traveller]
 - Kashi Darshan 8hr Tour: [/hi/kashi-darshan-tempo-traveller]
 
-यात्रियों का पहला प्रश्न होता है: **“किराया कितना लगेगा?”** यह पेज उसी का पारदर्शी उत्तर है। नीचे दी गयी सूची सामान्य औसत 2025 बाजार दरें दर्शाती है (सीज़न / पीक तिथि पर थोड़ा अंतर संभव)।
+यात्रियों का पहला प्रश्न होता है: **“किराया कितना लगेगा?”** यह पेज उसी का पारदर्शी उत्तर है। नीचे दी गयी सूची सामान्य औसत 2026 बाजार दरें दर्शाती है (सीज़न / पीक तिथि पर थोड़ा अंतर संभव)।
 
 > पारदर्शी रेट | कोई छुपा चार्ज नहीं | अग्रिम पुष्टि पर रेट लॉक | वास्तविक बिल की कॉपी उपलब्ध
 
@@ -35,7 +35,7 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 ![Tempo Traveller Front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "टेम्पो ट्रैवलर फ्लीट वाराणसी")
 ![Tempo Traveller Side](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "साइड प्रोफाइल – लगेज स्पेस")
 
-## वाराणसी Tempo Traveller Price Table (2025)
+## वाराणसी Tempo Traveller Price Table (2026)
 
 | वाहन प्रकार (सीट) | एयरपोर्ट / DDU (वन वे) | लोकल 8hr / 80km | आउटस्टेशन ₹/किमी |
 |--------------------|-------------------------|-----------------|------------------|
@@ -95,7 +95,7 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 |-------|------------|
 | “ड्राइवर भत्ता हमेशा शामिल” | अक्सर अलग लाइन आइटम (रात्रि विश्राम पर) |
 | “कम बुकिंग समय = सस्ता” | पीक तिथियों पर उल्टा महँगा / उपलब्धता कम |
-| “लंबी दूरी पर किमी घटता” | 2025 में ईंधन/टायर लागत से उल्टा ट्रेंड |
+| “लंबी दूरी पर किमी घटता” | 2026 में ईंधन/टायर लागत से उल्टा ट्रेंड |
 | “AC बंद = बहुत सस्ता” | मामूली अंतर; वाहन स्थिर लागत अधिक |
 
 ## सुरक्षित कोट प्राप्त करने के लिए क्या भेजें
@@ -136,6 +136,6 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 - Master Rent Page: [/hi/tempo-traveller-varanasi]
 - Size Comparison: [/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi]
 - Safe Women Taxi: [/hi/services/varanasi-safest-taxi-for-women]
-- Transport Price Guide: [/hi/varanasi-transport-price-guide-2025]
+- Transport Price Guide: [/hi/varanasi-transport-price-guide-2026]
 
 

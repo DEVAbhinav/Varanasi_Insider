@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: tempo-traveller-vs-mini-bus-varanasi
-date: 2025-10-09
-lastUpdated: 2025-10-09
+date: 2026-10-09
+lastUpdated: 2026-10-09
 author: "कमल नयन सिंह"
 title: "वाराणसी में Tempo Traveller बनाम Mini Bus – आपकी टीम के लिए क्या बेहतर है?"
 description: "18–30 लोगों के समूह के लिए वाराणसी में टेम्पो ट्रैवलर बनाम मिनी बस की तुलना: भीड़भाड़ वाली गलियां, लागत, आराम और आउटस्टेशन प्लान के आधार पर सही विकल्प चुनें।"

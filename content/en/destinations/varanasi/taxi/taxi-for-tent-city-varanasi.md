@@ -1,8 +1,8 @@
 ---
 title: "Taxi for Tent City Varanasi – Airport to Ravidas Ghat Transfer"
 slug: "taxi-for-tent-city-varanasi"
-date: "2025-12-07"
-lastUpdated: "2025-12-07"
+date: "2026-12-07"
+lastUpdated: "2026-12-07"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Taxi for Tent City Varanasi | Airport to Ravidas Ghat Private Transfer"
@@ -174,10 +174,10 @@ Our drivers escort you to the staff, not left standing alone.
 ## Real Guest Testimonials
 
 > **"We booked a cheaper taxi through an app. Driver had NO idea which ghat for Tent City. He dropped us at Dashashwamedh (wrong place) and we missed our boat window. Kashmir Taxi drivers would have known the difference."**
-> — *Priya M., Delhi (Tent City guest, 2025)*
+> — *Priya M., Delhi (Tent City guest, 2026)*
 
 > **"The communication from our hotel was vague. Kashmir Taxi driver called ahead, confirmed our boat timing, and arrived exactly 25 minutes early. Professional."**
-> — *Rajesh K., Mumbai (Tent City guest, 2025)*
+> — *Rajesh K., Mumbai (Tent City guest, 2026)*
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Varanasi to Sarnath Taxi | Distance, Cost & Best Service Guide 2025 | KashiTaxi"
+title: "Varanasi to Sarnath Taxi | Distance, Cost & Best Service Guide 2026 | KashiTaxi"
 slug: "varanasi-to-sarnath-taxi"
-date: "2025-12-09"
-lastUpdated: "2025-12-09"
+date: "2026-12-09"
+lastUpdated: "2026-12-09"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Sarnath Taxi from ₹1,200 | 10–13 km, 30–45 min"
@@ -57,7 +57,7 @@ aggregateRating:
   reviewCount: "1100"
 ---
 
-# Varanasi to Sarnath Taxi: Complete Service & Travel Guide 2025
+# Varanasi to Sarnath Taxi: Complete Service & Travel Guide 2026
 
 Varanasi is where the Buddha came to preach his first sermon. That sacred location is **Sarnath**, and it's a must-visit if you're spiritually inclined – or even just historically curious.
 
@@ -106,7 +106,7 @@ This guide answers every question about the **Varanasi to Sarnath taxi** journey
 
 ## Varanasi to Sarnath Taxi Costs: Breakdown by Type
 
-*Current **varanasi to sarnath taxi fare** ranges from ₹1,200 for one-way to ₹2,500 for full-day trips (Dec 2025).*
+*Current **varanasi to sarnath taxi fare** ranges from ₹1,200 for one-way to ₹2,500 for full-day trips (Dec 2026).*
 
 **Important:** Hotel concierge will quote ₹3,500-4,500 for this trip. Real cost is **₹1,200-1,800**.
 

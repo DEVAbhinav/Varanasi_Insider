@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Allahabad Taxi - Now Prayagraj | ₹2,500 | KashiTaxi"
 slug: "varanasi-to-allahabad-taxi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Allahabad (Prayagraj) Taxi | ₹2,500 | KashiTaxi"
@@ -71,7 +71,7 @@ faqSchema:
 
 **Both names refer to the same holy city**, home to:
 - Triveni Sangam (Ganga-Yamuna-Saraswati confluence)
-- Kumbh Mela (every 12 years, 2025 Mahakumbh upcoming!)
+- Kumbh Mela (every 12 years, 2026 Mahakumbh upcoming!)
 - Allahabad Fort (Akbar Fort)
 - Anand Bhawan (Nehru family home)
 - Allahabad University (oldest university in UP)
@@ -104,7 +104,7 @@ faqSchema:
 **For full information including:**
 - ✓ Detailed pricing for all vehicles
 - ✓ Triveni Sangam visiting guide
-- ✓ Kumbh Mela 2025 packages
+- ✓ Kumbh Mela 2026 packages
 - ✓ All major attractions in Prayagraj
 - ✓ Suggested itineraries
 - ✓ Customer reviews
@@ -176,4 +176,4 @@ This ensures:
 
 ---
 
-*Last Updated: November 2025 | City officially renamed October 2018*
+*Last Updated: November 2026 | City officially renamed October 2018*

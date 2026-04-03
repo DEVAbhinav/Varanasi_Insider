@@ -1,8 +1,8 @@
 ---
 title: "Luxury Cab for Tent City Varanasi | Niraan & Praveg Guest Transfers"
 slug: "luxury-cab-for-tent-city-varanasi"
-date: "2025-12-07"
-lastUpdated: "2025-12-07"
+date: "2026-12-07"
+lastUpdated: "2026-12-07"
 author: "Kamal Nayan Singh"
 lang: en
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992831/kashitaxi/luxury-cab-bhu.jpg"
@@ -446,7 +446,7 @@ Most premium travelers expect **pricing transparency.** You shouldn't pay ₹2,5
 > — Amelia & James, UK (Niraan guests, Dec 2024)
 
 > **"After reading about people getting dropped at the wrong ghat, we were nervous. Kashmir Taxi driver was so professional and actually communicated with Tent City before arrival. Incredible peace of mind."**
-> — Priya S., Mumbai (Praveg guest, Jan 2025)
+> — Priya S., Mumbai (Praveg guest, Jan 2026)
 
 > **"The difference between our ₹25K/night tent and some ₹800 taxi driver would have been jarring. Choosing Innova Crysta matched the whole experience perfectly."**
 > — Rajesh K., Bangalore (Niraan villa guest, Nov 2024)

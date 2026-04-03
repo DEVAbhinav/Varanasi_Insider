@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/hi/city/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2026"
+      },
+      "headline": "काशी विश्वनाथ मंदिर और गंगा आरती",
+      "description": "काशी विश्वनाथ मंदिर दर्शन और गंगा आरती को जोड़ने वाली संपूर्ण आध्यात्मिक यात्रा गाइड—समय, अनुष्ठान, कॉरिडोर मार्ग और 2026 के लिए अंदरूनी टिप्स।",
+      "image": [
+        "https://www.kashitaxi.in/images/kashi-vishwanath-temple-varanasi.jpeg",
+        "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg"
+      ],
+      "datePublished": "2026-06-19",
+      "dateModified": "2026-06-19",
+      "author": {
+        "@type": "Person",
+        "name": "कमल नयन सिंह"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "काशी टैक्सी",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg"
+        },
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "inLanguage": "hi"
+    },
+    {
+      "@type": "HinduTemple",
+      "name": "काशी विश्वनाथ मंदिर",
+      "alternateName": ["विश्वनाथ मंदिर", "गोल्डन टेम्पल वाराणसी", "काशी विश्वनाथ धाम"],
+      "description": "भगवान शिव को समर्पित सबसे पवित्र हिंदू मंदिरों में से एक, जहां पवित्र ज्योतिर्लिंग विराजमान है। वाराणसी में गंगा के तट पर स्थित प्रमुख तीर्थस्थल।",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "काशी विश्वनाथ कॉरिडोर",
+        "addressLocality": "वाराणसी",
+        "addressRegion": "उत्तर प्रदेश",
+        "postalCode": "221001",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.3109,
+        "longitude": 83.0107
+      },
+      "openingHours": "Mo-Su 03:00-23:00",
+      "image": [
+        "https://www.kashitaxi.in/images/kashi-vishwanath-temple-varanasi.jpeg"
+      ],
+      "isAccessibleForFree": true,
+      "publicAccess": true
+    },
+    {
+      "@type": "TouristTrip",
+      "name": "काशी विश्वनाथ मंदिर और गंगा आरती आध्यात्मिक यात्रा",
+      "description": "काशी विश्वनाथ मंदिर दर्शन को दशाश्वमेध घाट पर शाम की गंगा आरती के साथ जोड़ने वाला नियोजित आध्यात्मिक कार्यक्रम।",
+      "touristType": ["तीर्थयात्री", "आध्यात्मिक साधक", "सांस्कृतिक पर्यटक"],
+      "itinerary": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "काशी विश्वनाथ मंदिर में प्रातः मंगला आरती"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "ललिता घाट पर गंगा स्नान"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "मंदिर गर्भगृह में दर्शन"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "दशाश्वमेध घाट पर शाम की गंगा आरती"
+          }
+        ]
+      },
+      "provider": {
+        "@type": "TravelAgency",
+        "name": "काशी टैक्सी",
+        "url": "https://www.kashitaxi.in/",
+        "telephone": "+91 80621 82380"
+      },
+      "inLanguage": "hi"
+    }
+  ]
+}

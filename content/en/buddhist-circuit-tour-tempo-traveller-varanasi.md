@@ -1,11 +1,11 @@
 ---
 lang: en
-title: "Buddhist Circuit Tempo Traveller Tour 2025: 5-Day Bodh Gaya, Sarnath & Nalanda from ₹18,000"
+title: "Buddhist Circuit Tempo Traveller Tour 2026: 5-Day Bodh Gaya, Sarnath & Nalanda from ₹18,000"
 description: "Buddhist circuit tour from Varanasi by Tempo Traveller – optimized 5D & 7D itineraries for Sarnath, Bodh Gaya, Gaya rituals, Rajgir Vulture Peak, Nalanda ruins, Kushinagar Mahaparinirvana, Lumbini add‑on. Distances, costs, tips."
 slug: buddhist-circuit-tour-tempo-traveller-varanasi
-date: 2025-09-19
+date: 2026-09-19
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-09-19
+lastUpdated: 2026-09-19
 tags: [buddhist circuit, bodh gaya, sarnath, nalanda, kushinagar, lumbini, tempo traveller, pilgrimage]
 keywords: ["buddhist circuit tour varanasi","varanasi to bodh gaya tempo traveller","buddhist pilgrimage tempo traveller","bodh gaya rajgir nalanda kushinagar tour","varanasi buddhist circuit itinerary","tempo traveller buddhist circuit india","buddhist circuit 7 day tour varanasi"]
 relatedPosts:
@@ -27,9 +27,9 @@ faqSchema:
     answer: "Good planning avoids night highway push; only minor dusk entries if departure delayed."  
 ---
 
-# Buddhist Circuit Tour from Varanasi by Tempo Traveller (2025)
+# Buddhist Circuit Tour from Varanasi by Tempo Traveller (2026)
 
-> **TL;DR:** Buddhist circuit tempo traveller tour 2025 maps 5-day core (Sarnath, Bodh Gaya, Rajgir, Nalanda, Kushinagar) and 7-day immersive loops with costs ₹42k–₹45.7k for a 12-seater (~1,500 km) and daily drives capped under 6.5 hours. Protect dawn sits at Mahabodhi and pre-dawn Vulture Peak climbs by booking larger vehicles for cushion storage. Scroll for itineraries, distance grids, and permit notes.
+> **TL;DR:** Buddhist circuit tempo traveller tour 2026 maps 5-day core (Sarnath, Bodh Gaya, Rajgir, Nalanda, Kushinagar) and 7-day immersive loops with costs ₹42k–₹45.7k for a 12-seater (~1,500 km) and daily drives capped under 6.5 hours. Protect dawn sits at Mahabodhi and pre-dawn Vulture Peak climbs by booking larger vehicles for cushion storage. Scroll for itineraries, distance grids, and permit notes.
 
 A **Buddhist circuit tour from Varanasi** links the pivotal sites of the Buddha’s life and teachings—Sarnath (first sermon), Bodh Gaya (Enlightenment), Rajgir (Vulture Peak discourses), Nalanda (ancient monastic university), Kushinagar (Mahaparinirvana) and optionally Lumbini (birthplace) & Vaishali. I’ve coordinated multiple meditation pilgrimage groups, study cohorts and international visitors—this guide distills a road‑tested approach using a private Tempo Traveller for flexibility and cohesion.
 

@@ -1,8 +1,8 @@
 ---
 title: "1 Night / 2 Days Varanasi Tour Package"
 slug: "varanasi-2-day-tour"
-date: "2025-11-06"
-lastUpdated: "2025-11-06"
+date: "2026-11-06"
+lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-2-day-tour"
@@ -138,20 +138,20 @@ brand: "Kashi Taxi"
 
 ---
 
-[^duration]: Product matrix compiled by Kashi Taxi, October 2025.
-[^audience]: CRM traveller cohorts for weekend demand, 2025.
+[^duration]: Product matrix compiled by Kashi Taxi, October 2026.
+[^audience]: CRM traveller cohorts for weekend demand, 2026.
 [^arrival]: Airport/rail pickup SLAs logged in trip operations manual.
-[^kv]: Shri Kashi Vishwanath Temple board timings, 2025.
+[^kv]: Shri Kashi Vishwanath Temple board timings, 2026.
 [^kaal]: Kaal Bhairav temple trust advisory, 2024.
-[^oldcity]: Travel Agent Varanasi alley walk script, 2025.
-[^boat]: Kashi Motor Boat Association tariff sheet, Sept 2025.
+[^oldcity]: Travel Agent Varanasi alley walk script, 2026.
+[^boat]: Kashi Motor Boat Association tariff sheet, Sept 2026.
 [^aarti]: District crowd advisory for Dashashwamedh ghat, Nov 2024.
-[^sunrise]: Subah-e-Banaras program schedule, 2025.
-[^walk]: Old city dawn walk field notes, Aug 2025.
-[^food]: Ram Bhandar price board, Oct 2025.
-[^sankat]: Sankat Mochan Sansthan visitor guide, 2025.
+[^sunrise]: Subah-e-Banaras program schedule, 2026.
+[^walk]: Old city dawn walk field notes, Aug 2026.
+[^food]: Ram Bhandar price board, Oct 2026.
+[^sankat]: Sankat Mochan Sansthan visitor guide, 2026.
 [^durga]: ASI Durga Mandir precinct note, 2023.
-[^bhu]: BHU visitor handbook, 2025 edition.
+[^bhu]: BHU visitor handbook, 2026 edition.
 [^sarnath]: Archaeological Survey of India site brochure, 2024.
-[^silk]: Weaver cluster interviews, July 2025.
+[^silk]: Weaver cluster interviews, July 2026.
 [^ramnagar]: Ramnagar Fort museum catalog, 2024.

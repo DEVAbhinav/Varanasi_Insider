@@ -1,7 +1,7 @@
 ---
 title: "वाराणसी से सारनाथ टैक्सी | दूरी, लागत और सर्वोत्तम सेवा गाइड 2026 | काशी टैक्सी"
 slug: "varanasi-to-sarnath-taxi"
-date: "2025-12-09"
+date: "2026-12-09"
 lastUpdated: "2026-02-05"
 author: "Kamal Nayan Singh"
 lang: hi

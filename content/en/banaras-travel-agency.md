@@ -64,7 +64,7 @@ Varanasi's narrow lanes and chaotic traffic require skilled navigation. We provi
 - **Specialized Drivers**: Patient, English-speaking professionals who double as informal local guides
 - **Vehicle Options**: Comfortable, climate-controlled cars suitable for Banaras' intense heat and humidity
 
-**Current Pricing (November 2025)**:
+**Current Pricing (November 2026)**:
 - Sedan to city ghat area: ₹700–₹950 (Flash rate ₹690 for weekday bookings within 2 hours)
 - SUV (Innova Crysta): ₹1,250–₹1,550 for airport transfer
 - Tempo Traveller (12-seater): ₹2,000–₹2,300 for group pilgrims
@@ -152,7 +152,7 @@ Our clients don't just return—they refer family members and recommend us to fr
 
 ## Customer Testimonials
 
-> **"I booked a [3-day Banaras tour](https://kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2025), dreading the chaos. The driver was patient, the guide explained temple rituals beautifully, and I felt safe the entire time. It was the most spiritual trip of my life."**
+> **"I booked a [3-day Banaras tour](https://kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2026), dreading the chaos. The driver was patient, the guide explained temple rituals beautifully, and I felt safe the entire time. It was the most spiritual trip of my life."**
 — *Rajesh M., Singapore (Pilgrim)*
 
 > **"We're a family of 5. Instead of splitting into taxis and getting lost, our [Tempo Traveller](https://kashitaxi.in/en/kashi-darshan-tempo-traveller) came with a guide who knew every shortcut. The kids loved it, and we saved ₹2,000 compared to solo taxis."**
@@ -237,7 +237,7 @@ A: We coordinate with priests and dharamshalas for Pind Daan, Shradh ceremonies,
 **Q: What language support do you provide?**
 A: English, Hindi, Tamil, Telugu, Kannada, Gujarati. Special requests for other languages can be accommodated with advance notice.
 
-**Q: Can I book a [full-day city tour](https://kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2025) without pre-booking my hotel?**
+**Q: Can I book a [full-day city tour](https://kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2026) without pre-booking my hotel?**
 A: Yes. We can suggest accommodations, arrange bookings, or coordinate pickups directly from the airport.
 
 **Q: Are your prices fixed or negotiable?**
@@ -284,11 +284,11 @@ We are your **Banaras travel agency partner**, ensuring that your journey throug
 
 ## Explore More About Banaras With Kashi Taxi
 
-- [**Complete Varanasi Sightseeing Guide 2025**](https://kashitaxi.in/en/varanasi-sightseeing-complete-guide): Ghats, temples, Sarnath, and hidden gems
+- [**Complete Varanasi Sightseeing Guide 2026**](https://kashitaxi.in/en/varanasi-sightseeing-complete-guide): Ghats, temples, Sarnath, and hidden gems
 - [**15 Best Tourist Spots in Varanasi**](https://kashitaxi.in/en/tourist-spots-varanasi): Comprehensive list with travel tips
 - [**Kashi Darshan Tempo Traveller Packages**](https://kashitaxi.in/en/kashi-darshan-tempo-traveller): Group tours and multi-city options
-- [**Varanasi Full-Day City Tour**](https://kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2025): Detailed itineraries and pricing
-- [**Varanasi Day Tour Cab Charges 2025**](https://kashitaxi.in/en/varanasi-day-tour-cab-charges): Transparent pricing for all vehicle types
+- [**Varanasi Full-Day City Tour**](https://kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2026): Detailed itineraries and pricing
+- [**Varanasi Day Tour Cab Charges 2026**](https://kashitaxi.in/en/varanasi-day-tour-cab-charges): Transparent pricing for all vehicle types
 - [**Sarnath Attractions & Travel Guide**](https://kashitaxi.in/en/sarnath-attractions-guide): Buddhist pilgrimage site exploration
 - [**Kashi-Gaya-Prayag Pind Daan Tour**](https://kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour): Multi-city spiritual circuits
 - [**Varanasi Travel Guides & Tips**](https://kashitaxi.in/en): Blogs, articles, and travel insights
@@ -305,4 +305,4 @@ Banaras is not just a destination—it's a spiritual initiation. Let our **Banar
 
 *Kashi Taxi: Your Trusted Banaras Travel Agency Since [founding year]. Connecting pilgrims, travelers, and seekers with the spiritual heart of India.*
 
-**Disclaimer**: Prices are as of November 2025 and subject to change during peak seasons (Dev Deepawali, Maha Shivaratri, Buddha Purnima) and festive periods. Please confirm current rates at the time of booking.
+**Disclaimer**: Prices are as of November 2026 and subject to change during peak seasons (Dev Deepawali, Maha Shivaratri, Buddha Purnima) and festive periods. Please confirm current rates at the time of booking.

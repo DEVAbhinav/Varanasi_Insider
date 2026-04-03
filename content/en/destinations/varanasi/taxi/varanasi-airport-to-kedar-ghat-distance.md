@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to Kedar Ghat: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Kedar Ghat: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-kedar-ghat-distance"
-date: "2025-11-12"
-lastUpdated: "2025-11-12"
+date: "2026-11-12"
+lastUpdated: "2026-11-12"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Kedar Ghat: Distance, Time, Taxi Fare (2025)"
-metaDescription: "Plan your 2025 transfer from Varanasi Airport to Kedar Ghat with the confirmed 26 km distance, 40–55 minute drive time, taxi fares, route tips, and evening aarti guidance."
-description: "Navigate from Varanasi Airport (VNS) to Kedar Ghat confidently with verified distance, drive time, taxi fares, and Shiv-temple-friendly drop instructions for 2025."
+metaTitle: "Varanasi Airport to Kedar Ghat: Distance, Time, Taxi Fare (2026)"
+metaDescription: "Plan your 2026 transfer from Varanasi Airport to Kedar Ghat with the confirmed 26 km distance, 40–55 minute drive time, taxi fares, route tips, and evening aarti guidance."
+description: "Navigate from Varanasi Airport (VNS) to Kedar Ghat confidently with verified distance, drive time, taxi fares, and Shiv-temple-friendly drop instructions for 2026."
 keywords:
   - "varanasi airport to kedar ghat distance"
   - "vns to kedar ghat taxi fare"
@@ -33,7 +33,7 @@ faqSchema:
   - question: "What time should I leave the airport for Kedar Ghat aarti?"
     answer: "For the 7 PM Kedar Ghat Shiv aarti, schedule a 5 PM airport departure to handle traffic, check-in, and reach 30 minutes before the ceremony."
 ---
-# Varanasi Airport to Kedar Ghat: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Kedar Ghat: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Kedar Ghat is 26 km via Ring Road, Lahartara, and Harishchandra lane, and the drive typically takes 40–55 minutes in regular traffic.**
 
@@ -61,7 +61,7 @@ Follow Ring Road east toward the Harhua flyover, continue straight to Lahartara 
 
 *Flash fare paused on Maha Shivaratri, Shravan Mondays, Dev Deepawali, and other notified peak dates; applies to direct Kedar chowk or riverside homestay drops only.*
 
-For combos covering Dashashwamedh or Assi, compare the [airport taxi fares 2025](/en/varanasi-airport-taxi-price-guide) schedule before booking.
+For combos covering Dashashwamedh or Assi, compare the [airport taxi fares 2026](/en/varanasi-airport-taxi-price-guide) schedule before booking.
 
 ## Pickup at VNS and drop at Kedar Ghat
 Meet your driver inside arrivals at **Gate 3** beside Costa Coffee. They assist with luggage and share a live location link once on the road. At Kedar Ghat, taxis stage near the **Harishchandra cremation lane** or the small parking bay above Kedar chowk; porters guide you down the steps if you carry heavy ritual items.

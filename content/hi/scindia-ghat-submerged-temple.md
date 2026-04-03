@@ -3,7 +3,7 @@ lang: hi
 slug: scindia-ghat-submerged-temple
 sourceSlug: scindia-ghat-submerged-temple
 title: "सिन्दिया घाट वाराणसी: झुका अर्ध-डूबा शिव मंदिर गाइड"
-metaTitle: "सिन्दिया घाट वाराणसी 2025: अर्ध-डूबे शिव मंदिर का इतिहास व फ़ोटो टिप्स"
+metaTitle: "सिन्दिया घाट वाराणसी 2026: अर्ध-डूबे शिव मंदिर का इतिहास व फ़ोटो टिप्स"
 metaDescription: "सिन्दिया घाट (Scindia Ghat) वाराणसी: झुके अर्ध-डूबे शिव मंदिर की कथा, संरचना, फ़ोटोग्राफ़ी कोण, निकटवर्ती मणिकर्णिका संदर्भ व यात्रा समय।"
 description: "शांत फोटोजेनिक सिन्दिया घाट – 1830 निर्माण प्रभाव, सब्सिडेंस से झुका शिव मंदिर, सुबह प्रकाश प्रतिबिंब व नैतिक अवलोकन मार्गदर्शन।"
 keywords: ["scindia ghat hindi","सिन्दिया घाट शिव मंदिर","अर्ध डूबा मंदिर वाराणसी","varanasi submerged temple","manikarnika nearby ghat","scindia ghat photography","varanasi quiet ghats","kashi heritage ghat","scindia ghat history","tilted shiva temple varanasi","submerged temple sunrise"]

@@ -1,8 +1,8 @@
 ---
 title: "2 Nights / 3 Days Ayodhya–Varanasi Circuit"
 slug: "ayodhya-varanasi-3-day-tour"
-date: "2025-11-06"
-lastUpdated: "2025-11-06"
+date: "2026-11-06"
+lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/ayodhya-varanasi-3-day-tour"
@@ -148,26 +148,26 @@ If your organizer brief already includes **Prayagraj** or a larger **6 to 40+ gr
 
 ---
 
-[^overview]: Travel Agent Varanasi combined circuit blueprint, 2025.
+[^overview]: Travel Agent Varanasi combined circuit blueprint, 2026.
 [^distance]: NH19/NH27 distance logs, Oct 2024.
-[^audience]: CRM pilgrim persona analysis, 2025.
-[^routing]: Historical booking patterns tracked April–Sept 2025.
+[^audience]: CRM pilgrim persona analysis, 2026.
+[^routing]: Historical booking patterns tracked April–Sept 2026.
 [^arrival]: Ground ops SOP, 2024 revision.
 [^kaal]: Kaal Bhairav temple trust advisory, 2024.
-[^kv]: Shri Kashi Vishwanath Temple board circular, 2025.
-[^oldcity]: Old city walk script, July 2025.
+[^kv]: Shri Kashi Vishwanath Temple board circular, 2026.
+[^oldcity]: Old city walk script, July 2026.
 [^aarti]: Dashashwamedh crowd advisory, Nov 2024.
-[^subah]: Subah-e-Banaras program schedule, 2025.
-[^food]: Kachori trail field notes, Oct 2025.
-[^temples]: Sankat Mochan & Durga Kund visitor guides, 2025.
+[^subah]: Subah-e-Banaras program schedule, 2026.
+[^food]: Kachori trail field notes, Oct 2026.
+[^temples]: Sankat Mochan & Durga Kund visitor guides, 2026.
 [^sarnath]: ASI Sarnath brochure, 2024.
-[^drive]: Driver logbook average times, Aug 2025.
-[^saryu]: Ayodhya Tourism aarti schedule, 2025.
-[^lss]: Ayodhya Light & Sound ticket desk circular, Jan 2025.
-[^ramjanm]: Shri Ram Janmabhoomi Teerth Kshetra guidelines, Feb 2025.
+[^drive]: Driver logbook average times, Aug 2026.
+[^saryu]: Ayodhya Tourism aarti schedule, 2026.
+[^lss]: Ayodhya Light & Sound ticket desk circular, Jan 2026.
+[^ramjanm]: Shri Ram Janmabhoomi Teerth Kshetra guidelines, Feb 2026.
 [^hanuman]: Hanuman Garhi trust notice, 2024.
 [^kanak]: Kanak Bhawan temple pamphlet, 2024.
-[^nagesh]: Nageshwarnath temple timings, 2025.
-[^optional]: Ayodhya heritage trail map, 2025.
-[^shopping]: Ayodhya bazaar merchant interviews, Sep 2025.
-[^festivals]: Festival occupancy analysis, Oct 2025.
+[^nagesh]: Nageshwarnath temple timings, 2026.
+[^optional]: Ayodhya heritage trail map, 2026.
+[^shopping]: Ayodhya bazaar merchant interviews, Sep 2026.
+[^festivals]: Festival occupancy analysis, Oct 2026.

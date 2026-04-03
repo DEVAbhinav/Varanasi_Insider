@@ -1,19 +1,19 @@
 ---
 title: "Varanasi to Bodh Gaya Taxi: Same Day Buddhist Circuit from ₹5,500"
 slug: "varanasi-to-bodhgaya-taxi-cost"
-date: "2025-07-28"
-lastUpdated: "2025-12-22"
+date: "2026-07-28"
+lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg"
 metaTitle: "Varanasi to Bodhgaya Taxi [2026]: Fare ₹4,500 | 6 Hrs"
 metaDescription: "Travel Varanasi to Bodhgaya (250 km, 5-6 hrs) comfortably. AC Taxi fare starts ₹4,500 one-way. Reliable drivers for Buddhist pilgrimage. Book now."
-description: "2025 Varanasi → Bodh Gaya taxi fares, route intel, pit-stop map, and WhatsApp script to lock fixed quotes before touts call back."
+description: "2026 Varanasi → Bodh Gaya taxi fares, route intel, pit-stop map, and WhatsApp script to lock fixed quotes before touts call back."
 keywords:
   - "varanasi to bodh gaya taxi cost"
   - "varanasi to bodhgaya taxi fare"
   - "varanasi to bodh gaya distance by road"
-  - "bodh gaya taxi fare 2025"
+  - "bodh gaya taxi fare 2026"
   - "varanasi to bodh gaya cab booking"
   - "buddhist circuit taxi varanasi"
 tags:
@@ -23,7 +23,7 @@ tags:
   - pilgrimage
   - road trip
 relatedPosts:
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
   - lucknow-to-varanasi-taxi-fare
   - varanasi-day-tour-cab-charges
 ---
@@ -34,7 +34,7 @@ relatedPosts:
 
 **Varanasi to Bodh Gaya distance: 255 km by road. Typical travel time 5–6 hours via NH19.**
 
-Updated: Nov 2025
+Updated: Nov 2026
 
 Answer Box
 | Distance | Time | Best Route | Taxi (₹) | Train (hrs) | Bus (hrs) |
@@ -60,7 +60,7 @@ Bodh Gaya is located in the state of Bihar, to the east of Varanasi. The road di
 
 ## How Much Does a Taxi from Varanasi to Bodh Gaya Cost?
 
-Looking for Varanasi to Bodhgaya taxi fare? Here's an estimated breakdown for this popular route in 2025:
+Looking for Varanasi to Bodhgaya taxi fare? Here's an estimated breakdown for this popular route in 2026:
 
 ![Clean sedan staged for the dawn Varanasi to Bodh Gaya run](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png "Sedan taxi for Bodhgaya")
 
@@ -103,7 +103,7 @@ A full day is usually sufficient to explore the main sites in Bodh Gaya, includi
 
 ---
 
-> For a complete overview of all transport options, see our **[Varanasi Transport Price Guide](/en/varanasi-transport-price-guide-2025)**.
+> For a complete overview of all transport options, see our **[Varanasi Transport Price Guide](/en/varanasi-transport-price-guide-2026)**.
 
 ---
 

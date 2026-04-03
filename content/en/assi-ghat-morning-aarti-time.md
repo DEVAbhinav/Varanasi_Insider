@@ -1,7 +1,7 @@
 ---
 title: "Assi Ghat Morning Aarti Time – Subah-e-Banaras Guide"
 slug: "assi-ghat-morning-aarti-time"
-date: "2025-11-25"
+date: "2026-11-25"
 lastUpdated: "2026-03-07"
 author: "Naval Kishore"
 lang: en-IN
@@ -12,7 +12,7 @@ keywords:
   - "assi ghat morning aarti"
   - "subah e banaras timing"
 relatedPosts:
-  - assi-ghat-aarti-timings-2025
+  - assi-ghat-aarti-timings-2026
   - varanasi-weather-guide
   - what-to-wear-in-varanasi
 ---
@@ -130,7 +130,7 @@ Trying to force a heavy noon itinerary after a very early wake-up often reduces 
 
 ## Best Pages To Use Next
 
-- [Assi Ghat Aarti Timings 2025](/en/assi-ghat-aarti-timings-2025) for the broader timing owner page
+- [Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2026) for the broader timing owner page
 - [Assi Ghat Evening Aarti Guide](/en/assi-ghat-evening-aarti-time) if you are comparing morning vs evening
 - [Varanasi Weather Guide](/en/varanasi-weather-guide) if your trip is weather-sensitive
 - [What to Wear in Varanasi](/en/what-to-wear-in-varanasi) for packing help

@@ -1,8 +1,8 @@
 ---
 title: "Banaras Lit Fest 2026 Venue Guide – Taj Ganges, Hotels & Logistics"
 slug: "banaras-lit-fest-2026-venue-guide-hotels-logistics"
-date: "2025-12-07"
-lastUpdated: "2025-12-07"
+date: "2026-12-07"
+lastUpdated: "2026-12-07"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Banaras Lit Fest 2026 Complete Venue Guide – Taj Ganges, Hotels & Local Transport"

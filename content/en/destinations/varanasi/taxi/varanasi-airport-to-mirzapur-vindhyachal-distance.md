@@ -1,11 +1,11 @@
 ---
-title: "Varanasi Airport to Mirzapur (Vindhyachal): Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Mirzapur (Vindhyachal): Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-mirzapur-vindhyachal-distance"
-date: "2025-11-19"
-lastUpdated: "2025-11-19"
+date: "2026-11-19"
+lastUpdated: "2026-11-19"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Mirzapur (Vindhyachal): Distance, Time, Taxi Fare (2025)"
+metaTitle: "Varanasi Airport to Mirzapur (Vindhyachal): Distance, Time, Taxi Fare (2026)"
 metaDescription: "Plan your 63–73 km taxi from Varanasi Airport to Mirzapur (Vindhyachal): 1.5–2 hour ride via NH-2, updated hatchback, sedan, and SUV fares, and key temple stops for Trikon Yatra."
 description: "Airport-to-temple taxi guide from Varanasi Airport (VNS) to Mirzapur/Vindhyachal with distance, drive time, fare bands, and Shakti Peeth darshan planning tips."
 keywords:
@@ -31,7 +31,7 @@ faqSchema:
   - question: "Can I complete Trikon Yatra from the airport in one day?"
     answer: "On non-peak days, a well-planned route covers Maa Vindhyavasini, Ashtabhuja, and Kali Khoh in one long day if you land before 9 AM."
 ---
-# Varanasi Airport to Mirzapur (Vindhyachal): Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Mirzapur (Vindhyachal): Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Mirzapur/Vindhyachal is 63–73 km and the drive usually takes 1.5–2 hours via NH-2, depending on temple rush and city traffic.**
 
@@ -58,7 +58,7 @@ From VNS, cabs typically:
 
 NH-2 is one of the smoother corridors out of Varanasi, though it can slow near toll plazas and local markets on festival days. During Navratri and major melas, police diversions may add 20–30 minutes.
 
-## Varanasi Airport to Vindhyachal taxi fare (2025)
+## Varanasi Airport to Vindhyachal taxi fare (2026)
 
 - **Hatchback:** ₹1,380–₹1,450 one-way, suitable for 2–3 travellers.
 - **Sedan:** ₹1,449–₹1,715 with AC and boot space for luggage and prasad items.

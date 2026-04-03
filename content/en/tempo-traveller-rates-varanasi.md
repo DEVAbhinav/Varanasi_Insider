@@ -1,8 +1,8 @@
 ---
 lang: en
-title: "Tempo Traveller Rates Varanasi: 2025 Price List [Guide]"
-description: "Transparent Tempo Traveller rates in Varanasi: per‑km outstation, 8‑hour local and airport transfers. 2025 price list. Compare and request a quote."
-date: 2025-08-27
+title: "Tempo Traveller Rates Varanasi: 2026 Price List [Guide]"
+description: "Transparent Tempo Traveller rates in Varanasi: per‑km outstation, 8‑hour local and airport transfers. 2026 price list. Compare and request a quote."
+date: 2026-08-27
 lastUpdated: "2026-03-07"
 tags: [rates, price list, tempo traveller, varanasi]
 slug: tempo-traveller-rates-varanasi
@@ -21,7 +21,7 @@ faqSchema:
     answer: "A 12 seater works well for 8 to 11 travellers who want extra room. A 17 seater is better for larger groups, while Urbania or Maharaja variants suit travellers prioritising comfort over lowest fare."
 ---
 
-# Tempo Traveller Rates in Varanasi (2025 Price List)
+# Tempo Traveller Rates in Varanasi (2026 Price List)
 
 Built to answer the most common question: "What are the charges?"—and to establish trust with complete transparency.
 
@@ -43,7 +43,7 @@ Built to answer the most common question: "What are the charges?"—and to estab
 | Maharaja (Luxury) | ₹3,500 | ₹7,500 | ₹30–₹34 |
 | Force Urbania (Premium) | ₹3,800 | ₹7,500 | ₹34–₹35 |
 
-> Rates reflect current 2025 market averages from leading operators.
+> Rates reflect current 2026 market averages from leading operators.
 
 ## Tempo Traveller Hire: What’s Included (Varanasi)
 

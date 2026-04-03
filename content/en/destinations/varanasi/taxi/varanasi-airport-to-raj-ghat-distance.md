@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to Raj Ghat: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Raj Ghat: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-raj-ghat-distance"
-date: "2025-11-12"
-lastUpdated: "2025-11-12"
+date: "2026-11-12"
+lastUpdated: "2026-11-12"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Raj Ghat: Distance, Time, Taxi Fare (2025)"
-metaDescription: "Understand the 29 km distance, 50–65 minute drive time, taxi fares, and Adi Keshav access tips for Raj Ghat transfers from Varanasi Airport in 2025."
-description: "Plan your Varanasi Airport (VNS) to Raj Ghat transfer with verified distance, travel time, taxi fares, and Adi Keshav darshan pointers for 2025."
+metaTitle: "Varanasi Airport to Raj Ghat: Distance, Time, Taxi Fare (2026)"
+metaDescription: "Understand the 29 km distance, 50–65 minute drive time, taxi fares, and Adi Keshav access tips for Raj Ghat transfers from Varanasi Airport in 2026."
+description: "Plan your Varanasi Airport (VNS) to Raj Ghat transfer with verified distance, travel time, taxi fares, and Adi Keshav darshan pointers for 2026."
 keywords:
   - "varanasi airport to raj ghat distance"
   - "raj ghat taxi fare varanasi"
@@ -33,7 +33,7 @@ faqSchema:
   - question: "What time should I leave the airport for sunrise at Raj Ghat?"
     answer: "For a 5:30 AM sunrise, plan a flight landing before 3:30 AM and depart the airport by 4:30 AM."
 ---
-# Varanasi Airport to Raj Ghat: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Raj Ghat: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Raj Ghat is 29 km via Ring Road, Sarnath Road, and Adi Keshav lane, and the drive typically takes 50–65 minutes in normal traffic.**
 
@@ -61,7 +61,7 @@ Exit via Ring Road, merge onto Sarnath Road, and continue toward the Adi Keshav 
 
 *Flash fare paused on Dev Deepawali, Kartik Purnima, and major Varuna snan dates; applies to direct Raj Ghat or Adi Keshav temple drops only.*
 
-Verify combined pricing for Sarnath or Panchganga add-ons in the [airport taxi fares 2025](/en/varanasi-airport-taxi-price-guide) planner.
+Verify combined pricing for Sarnath or Panchganga add-ons in the [airport taxi fares 2026](/en/varanasi-airport-taxi-price-guide) planner.
 
 ## Pickup at VNS and drop at Raj Ghat
 The driver meets you at **Gate 3** inside arrivals, assists with luggage, and shares live tracking as you head toward the Varuna confluence. Vehicles park at the **Adi Keshav bridgehead**, a short walk from the ghat steps; porters can be pre-arranged for elderly pilgrims or heavy luggage.

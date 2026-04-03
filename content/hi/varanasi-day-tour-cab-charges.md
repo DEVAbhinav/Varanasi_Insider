@@ -1,8 +1,8 @@
 ---
-title: "वाराणसी डे टूर कैब शुल्‍क (2025) - पूरे दिन के दर्शनीय स्थलों के पैकेज"
+title: "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के दर्शनीय स्थलों के पैकेज"
 slug: "varanasi-day-tour-cab-charges"
-date: "2025-07-28"
-lastUpdated: "2025-07-28"
+date: "2026-07-28"
+lastUpdated: "2026-07-28"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png"
@@ -14,12 +14,12 @@ tags:
   - दर्शनीय स्थल
   - टैक्सी पैकेज
 relatedPosts:
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
   - varanasi-airport-taxi-price-guide
   - dashashwamedh-ghat-ganga-aarti
 ---
 
-# वाराणसी डे टूर कैब शुल्‍क (2025): 8-घंटे/80 किमी और 12-घंटे/200 किमी पैकेज
+# वाराणसी डे टूर कैब शुल्‍क (2026): 8-घंटे/80 किमी और 12-घंटे/200 किमी पैकेज
 
 वाराणसी के मंदिरों, घाटों और ऐतिहासिक स्थलों के समृद्ध ताने-बाने को देखने का सबसे अच्छा तरीका एक निजी कैब की सुविधा के साथ है। यह गाइड आपके दर्शनीय स्थलों की यात्रा की योजना बनाने में मदद के लिए सामन्य पूरे दिन के टूर पैकेजों का विवरण देती है।
 
@@ -91,7 +91,7 @@ relatedPosts:
 
 ---
 
-> सभी परिवहन विकल्पों के संपूर्ण अवलोकन के लिए, हमारी **[वाराणसी परिवहन मूल्य गाइड](/hi/varanasi-transport-price-guide-2025)** देखें।
+> सभी परिवहन विकल्पों के संपूर्ण अवलोकन के लिए, हमारी **[वाराणसी परिवहन मूल्य गाइड](/hi/varanasi-transport-price-guide-2026)** देखें।
 
 ---
 

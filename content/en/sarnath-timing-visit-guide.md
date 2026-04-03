@@ -1,7 +1,7 @@
 ---
-title: "Sarnath Temple Timing 2025: Open 6 AM-6 PM | Entry Rs.25 | Museum Closed Fridays"
+title: "Sarnath Temple Timing 2026: Open 6 AM-6 PM | Entry Rs.25 | Museum Closed Fridays"
 slug: "sarnath-timing-visit-guide"
-date: "2025-10-27"
+date: "2026-10-27"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN
@@ -535,7 +535,7 @@ Need help matching timing with a cab or one-day route? [WhatsApp us](https://wa.
 **Sarnath's Biggest Festival:**
 
 **Date**: May full moon (varies: April 23-May 23 depending on lunar calendar)
-- 2025: May 12 (Monday)
+- 2026: May 12 (Monday)
 - 2026: May 1 (Friday)
 
 **Sarnath Timing on Buddha Purnima:**

@@ -1,6 +1,6 @@
 # Banaras Tour Package | Book Authentic Banaras Pilgrimage Packages Online
 
-**Meta Title:** Banaras Tour Package 2025 | Budget to Premium Packages | Kashi Taxi
+**Meta Title:** Banaras Tour Package 2026 | Budget to Premium Packages | Kashi Taxi
 **Meta Description:** Best Banaras tour packages with expert guides. 3-7 day spiritual journeys with transparent pricing, accommodation near ghats & 24/7 support.
 **Focus Keyword:** Banaras tour package
 **URL Slug:** /banaras-tour-package/
@@ -101,7 +101,7 @@ A true Banaras tour package navigates these contradictions:
 - Final temple visit OR free time
 - Evening departure preparation
 
-**Pricing (November 2025):**
+**Pricing (November 2026):**
 
 - **Budget:** ₹15,000--18,000 (basic hotel, group guide, local transport)
 - **Mid-Range:** ₹22,000--28,000 (decent hotel near ghats, private guide, comfortable car)
@@ -195,7 +195,7 @@ A true Banaras tour package navigates these contradictions:
   - Temporary city of millions
   - **3 days / 2 nights:** ₹20,000--35,000
 
-## Banaras Tour Package Pricing Breakdown (November 2025)
+## Banaras Tour Package Pricing Breakdown (November 2026)
 
 | Duration | Budget | Mid-Range | Premium | Best For |
 | --- | --- | --- | --- | --- |

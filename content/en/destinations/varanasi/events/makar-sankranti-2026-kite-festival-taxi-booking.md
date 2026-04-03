@@ -1,8 +1,8 @@
 ---
 title: "Makar Sankranti 2026 Kite Festival Taxi Booking Hub – Varanasi"
 slug: "makar-sankranti-2026-kite-festival-taxi-booking"
-date: "2025-12-06"
-lastUpdated: "2025-12-06"
+date: "2026-12-06"
+lastUpdated: "2026-12-06"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Makar Sankranti 2026 Kite Festival Taxi Booking Hub – Varanasi"
@@ -52,7 +52,7 @@ I live barely 10 minutes from Dashashwamedh, so I’ve watched these Sankranti m
 | **Ideal riders** | Pilgrims, families, photographers, VIP guests |
 | **Demand** | Ultra-high all day; barricades on all ghat-facing roads |
 
-**Why riders trust this playbook:** I coordinated 4,200+ Sankranti transfers in 2025, every driver is police-verified, and our dispatcher replies on WhatsApp in under two minutes on most days. Consider this your shortcut past the chaos.
+**Why riders trust this playbook:** I coordinated 4,200+ Sankranti transfers in 2026, every driver is police-verified, and our dispatcher replies on WhatsApp in under two minutes on most days. Consider this your shortcut past the chaos.
 
 ## Why Book Your Makar Sankranti 2026 Taxi Early?
 

@@ -1,8 +1,8 @@
 ---
 title: "Kashi – Rameshwaram Twin Jyotirlinga Yatra (Flight + Bus Connectors) – 6 to 14 Day Pilgrimage Guide"
 slug: "kashi-rameshwaram-twin-jyotirlinga-yatra"
-date: "2025-10-25"
-lastModified: "2025-10-25"
+date: "2026-10-25"
+lastModified: "2026-10-25"
 excerpt: "Plan a Kashi (Varanasi) + Rameshwaram twin-Jyotirlinga pilgrimage: route patterns (fast / budget / split), 6–7 / 9–10 / 12–14 day itinerary variants, flight + bus connectors, darshan timing strategy, pricing scaffolding, elder support." 
 author: "Travel Agent Varanasi Pilgrimage Desk"
 category: "Pilgrimage"
@@ -11,7 +11,7 @@ featured: true
 seoTitle: "Kashi Rameshwaram Twin Jyotirlinga Yatra (South India) – Flight + Bus Itineraries"
 seoDescription: "Complete Kashi–Rameshwaram twin Jyotirlinga yatra guide: fast & budget route patterns, multi-modal flight + bus connectors, itinerary variants (6–14 days), darshan timing, pricing & elder-friendly logistics." 
 keywords: ["kashi rameshwaram yatra","twin jyotirlinga tour","kashi rameshwaram bus package","kashi rameshwaram flight package","south india twin jyotirlinga pilgrimage","rameshwaram to varanasi tour","madurai to rameshwaram transfer","kashi vishwanath sugam darshan","ramanathaswamy temple timings","kashi rameshwaram itinerary","kashi rameshwaram yatra tamil","kashi rameshwaram yatra telugu","kasi rameswaram yathirai tamil","kasi rameswaram tour hyderabad","காசி ராமேஸ்வரம் யாத்திரை","காசி ராமேஸ்வரம் பயணம்","కాశి రామేశ్వరం యాత్ర","కాశి రామేశ్వరమ్ టూర్"]
-relatedPosts: ["kashi-yatra-south-india-bus-package","kashi-prayagraj-ayodhya-south","dev-deepawali-2025-varanasi-ultimate-guide"]
+relatedPosts: ["kashi-yatra-south-india-bus-package","kashi-prayagraj-ayodhya-south","dev-deepawali-2026-varanasi-ultimate-guide"]
 tags: ["Kashi Yatra","Rameshwaram","Twin Jyotirlinga","Multi-Modal Pilgrimage","South India Departures","Flight + Coach","Darshan Strategy"]
 ---
 
@@ -19,7 +19,7 @@ tags: ["Kashi Yatra","Rameshwaram","Twin Jyotirlinga","Multi-Modal Pilgrimage","
 
 > **TL;DR:** Kashi–Rameshwaram twin Jyotirlinga yatra blends flights, rail, and coach to cover Vishwanath and Ramanathaswamy in 6–14 day variants, with per-person scaffolds ₹24,999–₹48,999 depending on pace and add-ons. Lock Sugam darshan slots and Madurai–Rameshwaram transfers 60 days ahead, noting elder mobility and teerth snan plans. Scroll for route patterns, connector templates, and cost matrix.
 
-*Last Updated: 25 Oct 2025*
+*Last Updated: 25 Oct 2026*
 
 **Quick Answer:** A **multi‑modal twin-Jyotirlinga pilgrimage** linking **Kashi Vishwanath (Varanasi)** in the north and **Ramanathaswamy Temple (Rameshwaram)** in the south via optimised **flight + coach + optional rail connectors**. Choose a **fast (6–7 day)**, **standard (9–10 day)** or **deep (12–14 day)** circuit based on pace, budget and spiritual add‑ons (Sarnath, Gaya, Prayagraj, Madurai temples, Kanyakumari).
 
@@ -259,7 +259,7 @@ G --> H[Final Digital Pack (PDF + Live Links)]
 ## 🔗 Internal Links
 - Core South India Kashi Package → /en/bus/kashi-yatra-south-india-bus-package
 - 3-City Kashi–Prayagraj–Ayodhya → /en/bus/kashi-prayagraj-ayodhya-south
-- Dev Deepawali Guide → /en/dev-deepawali-2025-varanasi-ultimate-guide
+- Dev Deepawali Guide → /en/dev-deepawali-2026-varanasi-ultimate-guide
 
 ---
 ## 📌 Summary

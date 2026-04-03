@@ -1,13 +1,13 @@
 ---
 title: "Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi"
 slug: "taxi-rates-varanasi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi"
 metaDescription: "Check transparent taxi rates in Varanasi. Airport transfer, city tour, outstation rates. No hidden charges, fixed fares. Book now."
-description: "Complete guide to taxi rates in Varanasi for 2025. Check per km charges for sedan, SUV, and tempo traveller. Airport transfer and sightseeing costs."
+description: "Complete guide to taxi rates in Varanasi for 2026. Check per km charges for sedan, SUV, and tempo traveller. Airport transfer and sightseeing costs."
 location:
   name: "Varanasi"
   address: "Varanasi, Uttar Pradesh"

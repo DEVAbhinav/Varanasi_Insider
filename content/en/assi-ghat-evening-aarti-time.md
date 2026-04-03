@@ -1,7 +1,7 @@
 ---
 title: "Assi Ghat Evening Aarti Time – Sandhya Ceremony Guide"
 slug: "assi-ghat-evening-aarti-time"
-date: "2025-11-25"
+date: "2026-11-25"
 lastUpdated: "2026-03-07"
 author: "Naval Kishore"
 lang: en-IN
@@ -12,7 +12,7 @@ keywords:
   - "assi ghat evening aarti"
   - "assi ghat aarti evening time"
 relatedPosts:
-  - assi-ghat-aarti-timings-2025
+  - assi-ghat-aarti-timings-2026
   - dashashwamedh-ghat-ganga-aarti-timing
   - evening-boat-ride-varanasi-ganga-aarti
 ---
@@ -134,7 +134,7 @@ Rain, wind and river conditions matter more than people expect. A flexible eveni
 
 ## Best Pages To Use Next
 
-- [Assi Ghat Aarti Timings 2025](/en/assi-ghat-aarti-timings-2025) for the broader timing owner page
+- [Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2026) for the broader timing owner page
 - [Assi Ghat Morning Aarti Guide](/en/assi-ghat-morning-aarti-time) if you also want Subah-e-Banaras
 - [Dashashwamedh Ghat Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing) if you want the busier main ceremony
 - [Evening Boat Ride Guide](/en/evening-boat-ride-varanasi-ganga-aarti) if you prefer a river view

@@ -91,7 +91,7 @@
             "unitText": "per day (8 hours)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26",
+          "validFrom": "2026-11-26",
           "itemOffered": {
             "@type": "Service",
             "name": "Full-Day City Tour",
@@ -111,7 +111,7 @@
             "unitText": "per day (8 hours)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -126,7 +126,7 @@
             "unitText": "per half day (4 hours)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -141,7 +141,7 @@
             "unitText": "per half day (4 hours)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -156,7 +156,7 @@
             "unitText": "per 2 hours"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -171,7 +171,7 @@
             "unitText": "per 3 hours"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         }
       ]
     },

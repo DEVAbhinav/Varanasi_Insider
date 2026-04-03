@@ -1,8 +1,8 @@
 ---
 title: "Book Your Taxi from Varanasi to Prayagraj for Magh Mela 2026 – Premium Cab Service"
 slug: "varanasi-to-prayagraj-magh-mela-taxi-booking"
-date: "2025-12-06"
-lastUpdated: "2025-12-06"
+date: "2026-12-06"
+lastUpdated: "2026-12-06"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Book Your Taxi from Varanasi to Prayagraj for Magh Mela 2026 – Premium Cab Service"

@@ -10,8 +10,8 @@ keywords: ["varanasi classical music hindi","बनारस घराना त
 
 relatedPosts:
   - varanasi-instrument-market-guide
-  - ganga-mahotsav-2025-classical-festival-varanasi
-  - dev-deepawali-2025-varanasi-ultimate-guide
+  - ganga-mahotsav-2026-classical-festival-varanasi
+  - dev-deepawali-2026-varanasi-ultimate-guide
 translationStatus: human
 auditNote: "Condensed Hindi adaptation; retained pillar tables. Added inline illustrative images."
 canonical: "https://www.kashitaxi.in/hi/varanasi-classical-music-heritage"
@@ -105,8 +105,8 @@ canonical: "https://www.kashitaxi.in/hi/varanasi-classical-music-heritage"
 
 ## क्रॉस लिंक
 - वाद्य बाज़ार गाइड: [/hi/varanasi-instrument-market-guide]
-- गंगा महोत्सव: [/hi/ganga-mahotsav-2025-classical-festival-varanasi]
-- देव दीपावली गाइड: [/hi/dev-deepawali-2025-varanasi-ultimate-guide]
+- गंगा महोत्सव: [/hi/ganga-mahotsav-2026-classical-festival-varanasi]
+- देव दीपावली गाइड: [/hi/dev-deepawali-2026-varanasi-ultimate-guide]
 
 ## CTA – लाइव संगीत / शास्त्रीय रूट सलाह
 > WhatsApp: +91 99354 74730  

@@ -21,7 +21,7 @@ const infographics = [
   'ayodhya-varanasi-vande-bharat-taxi-calculator.png',
   'prayagraj-varanasi-same-day-timeline.png',
   'prayagraj-varanasi-shortest-route-comparison.png',
-  'prayagraj-kumbh-mela-2025-calendar.png',
+  'prayagraj-kumbh-mela-2026-calendar.png',
   'gaya-varanasi-express-vs-direct-train.png',
   'gaya-varanasi-ancestor-liberation-circuit.png'
 ];

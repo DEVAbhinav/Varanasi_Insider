@@ -1,11 +1,11 @@
 ---
 title: "Lucknow to Varanasi Taxi | Direct Cabs from ₹5,200 | KashiTaxi"
 slug: "lucknow-to-varanasi-taxi"
-date: "2025-12-31"
-lastUpdated: "2025-12-31"
+date: "2026-12-31"
+lastUpdated: "2026-12-31"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Lucknow to Varanasi Taxi | Direct Cabs ₹5,200 | KashiTaxi 2025"
+metaTitle: "Lucknow to Varanasi Taxi | Direct Cabs ₹5,200 | KashiTaxi 2026"
 metaDescription: "Lucknow to Varanasi taxi ₹5,200. 283 km in 5-6 hrs. Book Now ☎ 80621 82380. Train vs Taxi comparison. Kashi Vishwanath darshan."
 description: "Book Lucknow to Varanasi cabs from ₹5,200. 283-314 km in 5-6 hours via NH731. Reach the holiest city. Professional drivers, 24/7 service."
 keywords:
@@ -499,8 +499,8 @@ faqSchema:
 
 ---
 
-**Last Updated**: December 31, 2025  
-**Verified Pricing**: Accurate as of Dec 2025 (subject to seasonal variations)
+**Last Updated**: December 31, 2026  
+**Verified Pricing**: Accurate as of Dec 2026 (subject to seasonal variations)
 
 **Popular Related Searches**:
 - Lucknow to Varanasi tempo traveller (for groups 10-15 passengers)

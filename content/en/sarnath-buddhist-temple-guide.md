@@ -1,13 +1,13 @@
 ---
-title: "Sarnath Buddhist Temple Guide 2025: Main Sarnath Temples, Timings & Prayer Schedule"
+title: "Sarnath Buddhist Temple Guide 2026: Main Sarnath Temples, Timings & Prayer Schedule"
 slug: "sarnath-buddhist-temple-guide"
-date: "2025-10-27"
-lastUpdated: "2025-10-27"
+date: "2026-10-27"
+lastUpdated: "2026-10-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogfamousbhu.jpg"
-metaTitle: "Sarnath Buddhist Temple Guide 2025: All Temples, Timings, Prayer Schedule & Visit Tips"
-metaDescription: "Complete Sarnath Buddhist temple guide: Main Sarnath temple (Mulagandha Kuti Vihar), Thai temple, Tibetan temple, Sri Lankan temple timing, prayer schedules, architecture, visiting tips 2025."
+metaTitle: "Sarnath Buddhist Temple Guide 2026: All Temples, Timings, Prayer Schedule & Visit Tips"
+metaDescription: "Complete Sarnath Buddhist temple guide: Main Sarnath temple (Mulagandha Kuti Vihar), Thai temple, Tibetan temple, Sri Lankan temple timing, prayer schedules, architecture, visiting tips 2026."
 description: "Comprehensive guide to all Sarnath Buddhist temples including the main Sarnath temple Mulagandha Kuti Vihar, Thai, Tibetan, Sri Lankan, Japanese, and Chinese temples with timing, prayer schedules, architecture details, and practical visiting information."
 keywords:
   - "sarnath buddhist temple"

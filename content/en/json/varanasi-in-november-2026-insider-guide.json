@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "Varanasi in November 2026: A Guide to Dev Deepawali & Weather",
+      "image": [
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-night-boat-ghat-p.jpeg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-boat-eve-p.jpeg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg"
+      ],
+      "datePublished": "2026-08-02T08:00:00+08:00",
+      "dateModified": "2026-08-04T09:20:00+08:00",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Kamal Nayan Singh",
+          "url": "https://www.kashitaxi.in/author/abhinav-pandey/"
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Varanasi Taxi | Vinayak Travels Varanasi",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg"
+        },
+        "@id": "https://www.kashitaxi.in#organization"
+      },
+      "description": "Your complete insider guide to visiting Varanasi in November 2026. Get the correct Dev Deepawali date, weather info, packing tips, and what to expect.",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.kashitaxi.in/en/varanasi-in-november-2026-insider-guide/"
+      },
+      "keywords": "varanasi in november, dev deepawali 2026 date, varanasi weather november, kartik purnima varanasi, visiting varanasi in november, varanasi travel guide",
+      "faqPage": {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the date of Dev Deepawali in Varanasi in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Dev Deepawali in Varanasi will be celebrated on Wednesday, November 5, 2026. This date corresponds to Kartik Purnima and is the city's most spectacular festival."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the weather like in Varanasi in November?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The weather in Varanasi in November is pleasantly cool and dry. Daytime temperatures are around 28°C (82°F), while nights are cooler at about 15°C (59°F), making it ideal for sightseeing."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it crowded in Varanasi in November?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, November is peak tourist season in Varanasi due to the excellent weather and the Dev Deepawali festival. Expect large crowds, especially around the ghats and temples. Booking flights, hotels, and tours well in advance is highly recommended."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.kashitaxi.in#organization",
+      "name": "Varanasi Taxi | Vinayak Travels Varanasi",
+      "legalName": "Vinayak Travels Varanasi",
+      "alternateName": [
+        "Varanasi Taxi",
+        "Kashitaxi"
+      ],
+      "url": "https://www.kashitaxi.in/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.kashitaxi.in/favicon.jpeg"
+      },
+      "sameAs": [
+        "https://wa.me/919935474730",
+        "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/en/varanasi-in-november-2026-insider-guide/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.kashitaxi.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://www.kashitaxi.in/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Varanasi in November 2026: A Guide to Dev Deepawali & Weather",
+          "item": "https://www.kashitaxi.in/en/varanasi-in-november-2026-insider-guide/"
+        }
+      ]
+    }
+  ]
+}

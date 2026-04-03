@@ -2,10 +2,10 @@
 lang: hi
 slug: tempo-traveller-varanasi
 sourceSlug: tempo-traveller-varanasi
-title: "वाराणसी टेम्पो ट्रैवलर रेंट 2025: दरें, बुकिंग व सर्वोत्तम विकल्प"
-metaTitle: "वाराणसी Tempo Traveller Rent 2025 | 9,12,17 सीटर रेट व बुकिंग"
-metaDescription: "वाराणसी में 9,12,16/17,20,26 सीटर टेम्पो ट्रैवलर किराये पर – काशी दर्शन, अयोध्या, प्रयागराज, बोधगया, शादी व एयरपोर्ट ट्रांसफर के लिए 2025 की पारदर्शी दरें। तुरंत क्वोट पाएं।"
-description: "वाराणसी टेम्पो ट्रैवलर 2025 रेंट गाइड – 9 से 26 सीटर, काशी दर्शन, आउटस्टेशन यात्रा, शादी व एयरपोर्ट ग्रुप ट्रांसफर। साफ वाहन, अनुभवी ड्राइवर, स्पष्ट रेट।"
+title: "वाराणसी टेम्पो ट्रैवलर रेंट 2026: दरें, बुकिंग व सर्वोत्तम विकल्प"
+metaTitle: "वाराणसी Tempo Traveller Rent 2026 | 9,12,17 सीटर रेट व बुकिंग"
+metaDescription: "वाराणसी में 9,12,16/17,20,26 सीटर टेम्पो ट्रैवलर किराये पर – काशी दर्शन, अयोध्या, प्रयागराज, बोधगया, शादी व एयरपोर्ट ट्रांसफर के लिए 2026 की पारदर्शी दरें। तुरंत क्वोट पाएं।"
+description: "वाराणसी टेम्पो ट्रैवलर 2026 रेंट गाइड – 9 से 26 सीटर, काशी दर्शन, आउटस्टेशन यात्रा, शादी व एयरपोर्ट ग्रुप ट्रांसफर। साफ वाहन, अनुभवी ड्राइवर, स्पष्ट रेट।"
 author: "Varanasi Taxi Team"
 canonical: "https://www.kashitaxi.in/hi/tempo-traveller-varanasi"
 keywords: ["वाराणसी टेम्पो ट्रैवलर","tempo traveller varanasi hindi","kashi tempo traveller rent","12 seater tempo traveller kashi","17 seater tempo traveller rent","varanasi tempo traveller booking","tempo traveller airport transfer varanasi"]
@@ -21,7 +21,7 @@ originalEnglishRef: /en/tempo-traveller-varanasi
 auditNote: "Manually created Hindi localized version."
 ---
 
-# वाराणसी में Tempo Traveller किराये पर – समूह ट्रैवल का विश्वसनीय समाधान (2025)
+# वाराणसी में Tempo Traveller किराये पर – समूह ट्रैवल का विश्वसनीय समाधान (2026)
 
 > **एक नज़र में: टेम्पो ट्रैवलर रेंटल**
 > - **विकल्प:** 9, 12, 17, 20, 26 सीटर और लग्जरी अर्बानिया।
@@ -46,7 +46,7 @@ auditNote: "Manually created Hindi localized version."
 | --- | --- | --- |
 | ![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "टेम्पो ट्रैवलर फ्लीट — बाहरी दृश्य") | ![Tempo Traveller — side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "साइड प्रोफाइल — सामान और समूह के लिए जगह") | ![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "साफ, एसी इंटीरियर्स और पुशबैक सीटें") |
 
-## 2025 में उपलब्ध सीट विकल्प
+## 2026 में उपलब्ध सीट विकल्प
 
 | प्रकार | उपयुक्त समूह आकार | सामान्य उपयोग | बेस स्थानीय (8hr/80km)* |
 |--------|-------------------|--------------|---------------------------|

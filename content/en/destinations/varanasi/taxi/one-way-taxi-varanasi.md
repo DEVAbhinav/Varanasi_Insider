@@ -1,8 +1,8 @@
 ---
 title: "One-Way Taxi & Round-Trip Cab Service in Varanasi | KashiTaxi"
 slug: "one-way-taxi-varanasi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "One-Way Taxi & Round-Trip Cab Service in Varanasi | KashiTaxi"

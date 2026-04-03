@@ -21,7 +21,7 @@ keywords:
   - "सुगम दर्शन पैकेज वाराणसी"
 relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
-  - assi-ghat-aarti-timings-2025
+  - assi-ghat-aarti-timings-2026
   - evening-boat-ride-varanasi-ganga-aarti
 faqSchema:
   - question: "यह पेज किसके लिए है?"
@@ -55,7 +55,7 @@ faqSchema:
 तब ये pages देखें:
 
 - [दशाश्वमेध घाट गंगा आरती टाइमिंग](/hi/dashashwamedh-ghat-ganga-aarti)
-- [अस्सी घाट आरती टाइमिंग](/hi/assi-ghat-aarti-timings-2025)
+- [अस्सी घाट आरती टाइमिंग](/hi/assi-ghat-aarti-timings-2026)
 - [वाराणसी समूह टूर पैकेज](/hi/varanasi-group-tour-package)
 
 ## Current official policy

@@ -4,8 +4,8 @@
     {
       "@type": "BlogPosting",
       "@id": "https://www.kashitaxi.in/hi/navratri-pilgrimage-vindhyachal-from-varanasi-guide#blogpost",
-      "headline": "वाराणसी से विंध्याचल नवरात्रि तीर्थयात्रा: माता विंध्यवासिनी दर्शन की संपूर्ण गाइड 2025",
-      "description": "वाराणसी से विंध्याचल नवरात्रि तीर्थयात्रा की अंतिम गाइड 2025। त्रिकोण परिक्रमा, दर्शन समय, विशेष पूजा बुकिंग, परिवहन, आवास और व्यावहारिक सुझावों के साथ—विंध्यवासिनी देवी के दिव्य आशीर्वाद के लिए संपूर्ण योजना।",
+      "headline": "वाराणसी से विंध्याचल नवरात्रि तीर्थयात्रा: माता विंध्यवासिनी दर्शन की संपूर्ण गाइड 2026",
+      "description": "वाराणसी से विंध्याचल नवरात्रि तीर्थयात्रा की अंतिम गाइड 2026। त्रिकोण परिक्रमा, दर्शन समय, विशेष पूजा बुकिंग, परिवहन, आवास और व्यावहारिक सुझावों के साथ—विंध्यवासिनी देवी के दिव्य आशीर्वाद के लिए संपूर्ण योजना।",
       "image": {
         "@type": "ImageObject",
         "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg",
@@ -27,8 +27,8 @@
           "height": 60
         }
       },
-      "datePublished": "2025-09-17",
-      "dateModified": "2025-09-17",
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
       "inLanguage": "hi-IN",
       "articleSection": "तीर्थयात्रा गाइड",
       "keywords": "वाराणसी से विंध्याचल नवरात्रि, विंध्यवासिनी देवी दर्शन, त्रिकोण परिक्रमा, नवरात्रि तीर्थयात्रा, विंध्याचल नवरात्रि गाइड, माता विंध्यवासिनी मंदिर",
@@ -37,8 +37,8 @@
           "@type": "Event",
           "name": "नवरात्रि",
           "description": "माता दुर्गा के नौ दिनों का पवित्र त्योहार",
-          "startDate": "2025-03-30",
-          "endDate": "2025-04-07",
+          "startDate": "2026-03-30",
+          "endDate": "2026-04-07",
           "eventStatus": "https://schema.org/EventScheduled",
           "performer": {
             "@type": "Organization",
@@ -130,10 +130,10 @@
     {
       "@type": "Event",
       "@id": "https://www.kashitaxi.in/hi/navratri-pilgrimage-vindhyachal-from-varanasi-guide#navratrievent",
-      "name": "विंध्याचल नवरात्रि 2025",
+      "name": "विंध्याचल नवरात्रि 2026",
       "description": "विंध्याचल में नवरात्रि महोत्सव",
-      "startDate": "2025-03-30",
-      "endDate": "2025-04-07",
+      "startDate": "2026-03-30",
+      "endDate": "2026-04-07",
       "location": {
         "@type": "Place",
         "name": "विंध्यवासिनी देवी मंदिर",

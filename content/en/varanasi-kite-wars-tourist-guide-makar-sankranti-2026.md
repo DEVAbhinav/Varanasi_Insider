@@ -1,8 +1,8 @@
 ---
 title: "Tourist's Guide to Varanasi Kite Wars on Makar Sankranti 2026: Rooftops, Battles & Celebration"
 slug: "varanasi-kite-wars-tourist-guide-makar-sankranti-2026"
-date: "2025-09-30"
-lastModified: "2025-09-30"
+date: "2026-09-30"
+lastModified: "2026-09-30"
 excerpt: "Complete tourist guide to joining Varanasi's epic kite battles on Makar Sankranti 2026. Learn kite fighting techniques, find the best rooftops, and experience authentic Indian celebration."
 author: "Travel Agent Varanasi Activity Team"
 tags: ["Kite Fighting", "Makar Sankranti", "Kite Festival", "Varanasi Activities", "Tourist Experiences", "Rooftop Activities", "Cultural Participation"]
@@ -12,12 +12,12 @@ readingTime: "10 minutes"
 featured: true
 seoTitle: "Varanasi Kite Wars Guide 2026: Tourist's Makar Sankranti Kite Fighting Experience"
 seoDescription: "Join Varanasi's legendary kite wars on Makar Sankranti 2026! Complete guide to kite fighting, rooftop access, equipment & cultural participation for tourists."
-relatedPosts: ["makar-sankranti-2026-varanasi-kite-festival-guide", "dev-deepawali-2025-varanasi-ultimate-guide", "varanasi-rooftop-experiences"]
+relatedPosts: ["makar-sankranti-2026-varanasi-kite-festival-guide", "dev-deepawali-2026-varanasi-ultimate-guide", "varanasi-rooftop-experiences"]
 ---
 
 # Tourist's Guide to Varanasi Kite Wars on Makar Sankranti 2026: Rooftops, Battles & Celebration
 
-*Last Updated: September 30, 2025*
+*Last Updated: September 30, 2026*
 
 **Quick Answer:** Varanasi's Makar Sankranti kite festival transforms the ancient city into an aerial battlefield where thousands of colorful kites battle in the sky. This guide helps tourists join the celebration authentically, learn kite fighting techniques, and experience India's most joyful community festival.
 

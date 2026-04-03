@@ -13,7 +13,7 @@ relatedPosts:
   - guide-to-10-most-important-ghats-of-varanasi
   - sunrise-boat-ride-ganges
   - morning-boat-ride-varanasi-price
-  - dev-deepawali-2025-varanasi-ultimate-guide
+  - dev-deepawali-2026-varanasi-ultimate-guide
 originalEnglishRef: /en/dashashwamedh-ghat-ganga-aarti-timing
 translationStatus: human
 auditNote: "High-intent Hindi adaptation with tactical tables. Added multi-angle images."
@@ -37,7 +37,7 @@ canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti-timing"
 | ध्वनि चरम (dB) | 82–85 | 80–83 | 84–86 |
 | दृश्य स्पष्टता | मध्यम धुंध | नमी हैज़ | उच्च क्रिस्प |
 
-> घनत्व = फील्ड ऑब्जर्वेशन (जुलाई–सितंबर 2025); प्लानिंग संकेत मात्र।
+> घनत्व = फील्ड ऑब्जर्वेशन (जुलाई–सितंबर 2026); प्लानिंग संकेत मात्र।
 
 ## 1. पौराणिक / आध्यात्मिक संदर्भ
 “दशाश्वमेध” = दस अश्वमेध यज्ञ स्थल (पुराण / रामायण व्याख्या)। आज 45 मिनट समन्वित आरती – शंख, घंटियाँ, बहु-स्तरीय दीप।
@@ -53,8 +53,8 @@ canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti-timing"
 
 **कोर उत्तर:** समर/मानसून 6:45 PM • विंटर 5:45 PM। फ्रंट स्टेप = 45m पूर्व।
 
-### विशेष – देव दीपावली 2025
-तिथि: 12 Nov 2025 (कार्तिक पूर्णिमा) – 80+ घाट प्रकाश, आरती ~5:30 PM, ट्रिपल घनत्व, अपस्ट्रीम नाव नियंत्रण, ड्रोन प्रतिबंध।
+### विशेष – देव दीपावली 2026
+तिथि: 12 Nov 2026 (कार्तिक पूर्णिमा) – 80+ घाट प्रकाश, आरती ~5:30 PM, ट्रिपल घनत्व, अपस्ट्रीम नाव नियंत्रण, ड्रोन प्रतिबंध।
 
 ![गंगा आरती ग्रीष्म-शीत समय चार्ट](https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992828/kashitaxi/ganga-aarti-summer-winter-timing.png)
 *त्वरित संदर्भ: शीतकाल (अक्टू-मार्च) 5:45 PM, ग्रीष्मकाल 6:45 PM।*

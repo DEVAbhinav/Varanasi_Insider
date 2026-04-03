@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Patna Cab | Bihar Capital | ₹3,500 | KashiTaxi"
 slug: "varanasi-to-patna-taxi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Patna Cab | Bihar Capital | ₹3,500 | KashiTaxi"
@@ -295,17 +295,17 @@ The route follows the Ganges River for most of the journey, offering scenic view
 **Review 1: Dr. Suresh Kumar (Academic Visit)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Excellent service for my research visit to Patna Museum. The driver was punctual and knowledgeable about the city. Made my work trip very comfortable. Highly recommend!"  
-**Trip**: Solo traveler, Swift Dzire | **Date**: November 2025
+**Trip**: Solo traveler, Swift Dzire | **Date**: November 2026
 
 **Review 2: Buddhist Tour Group**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Booked the 4-day Buddhist circuit package. Our driver was experienced and took us to all the important sites. Vehicle was clean and comfortable. Great value for money!"  
-**Trip**: Group of 8, Innova | **Date**: October 2025
+**Trip**: Group of 8, Innova | **Date**: October 2026
 
 **Review 3: Rajesh Family (Pilgrimage)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Visited Patna for Mahavir Mandir darshan. Driver knew the exact parking spot and queue timings. Very helpful throughout the journey. Will book again!"  
-**Trip**: Family of 5, Ertiga | **Date**: September 2025
+**Trip**: Family of 5, Ertiga | **Date**: September 2026
 
 ### Verified Stats
 

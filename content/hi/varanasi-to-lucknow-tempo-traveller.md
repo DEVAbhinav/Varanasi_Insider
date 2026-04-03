@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-lucknow-tempo-traveller
-date: 2025-10-09
-lastUpdated: 2025-10-09
+date: 2026-10-09
+lastUpdated: 2026-10-09
 author: "कमल नयन सिंह"
 title: "वाराणसी से लखनऊ Tempo Traveller पैकेज | दो दिन का नवाब नगरी दौरा"
 description: "12/17 सीटर टेम्पो ट्रैवलर से वाराणसी से लखनऊ: बड़ा इमामबाड़ा, रूमी दरवाज़ा, हज़रतगंज और तुंडे कबाबी जैसे स्टॉप्स के साथ 2D/1N यात्रा योजना और किराया।"

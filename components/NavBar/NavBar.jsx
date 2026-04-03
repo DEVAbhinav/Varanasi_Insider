@@ -43,7 +43,7 @@ export default function NavBar() {
           <Link href="/en/varanasi-airport-taxi-guide" className={styles.navLink}>Airport Taxi</Link>
           <Link href="/en/tempo-traveller-varanasi" className={styles.navLink}>Tempo Traveller</Link>
           <Link href="/en/outstation-cabs-from-varanasi" className={styles.navLink}>Outstation Cabs</Link>
-          <Link href="/en/services/varanasi-full-day-city-tour-winter-2025" className={styles.navLink}>Local Sightseeing</Link>
+          <Link href="/en/services/varanasi-full-day-city-tour-winter-2026" className={styles.navLink}>Local Sightseeing</Link>
           <Link href="/en" className={styles.navLink}>Travel Guides</Link>
           <a
             href={CONTACT.whatsappUrl}
@@ -170,7 +170,7 @@ export default function NavBar() {
             </Link>
 
             <Link 
-              href="/en/services/varanasi-full-day-city-tour-winter-2025" 
+              href="/en/services/varanasi-full-day-city-tour-winter-2026" 
               onClick={() => setOpen(false)} 
               className="group w-full flex items-center gap-3 rounded-xl bg-white px-4 py-3.5 text-gray-800 font-semibold text-[15px] border border-cyan-100 shadow-sm hover:shadow-md hover:bg-gradient-to-r hover:from-cyan-50 hover:to-teal-50 hover:border-cyan-200 focus:outline-none focus:ring-2 focus:ring-cyan-400/50 transition-all duration-200"
             >

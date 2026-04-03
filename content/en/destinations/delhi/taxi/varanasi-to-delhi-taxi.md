@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Delhi Taxi | NCR Transfer | ₹10,000 | KashiTaxi"
 slug: "varanasi-to-delhi-taxi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Delhi Taxi | National Capital | ₹10,000 | KashiTaxi"
@@ -302,17 +302,17 @@ faqSchema:
 **Review 1: Rajesh Kumar (Business Traveler)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Regular Delhi trips for business. Always use KashiTaxi. Overnight journey is smooth, driver is experienced on expressway. GST invoice provided promptly. Highly professional!"  
-**Trip**: Solo, Swift Dzire, overnight | **Date**: November 2025
+**Trip**: Solo, Swift Dzire, overnight | **Date**: November 2026
 
 **Review 2: Mehta Family**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Comfortable Innova for 6 family members. Driver was courteous, drove safely. Reached Delhi airport 3 hours before flight as planned. Stress-free journey!"  
-**Trip**: Family of 6, Innova, overnight | **Date**: October 2025
+**Trip**: Family of 6, Innova, overnight | **Date**: October 2026
 
 **Review 3: Corporate Group**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Booked Tempo Traveller for team outing. Professional service, on-time arrival, clean vehicle. Driver knew all expressway rest stops. Excellent for long-distance group travel!"  
-**Trip**: Group of 12, Tempo Traveller | **Date**: September 2025
+**Trip**: Group of 12, Tempo Traveller | **Date**: September 2026
 
 ### Verified Varanasi to Delhi Taxi Stats
 

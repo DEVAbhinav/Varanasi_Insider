@@ -1,8 +1,8 @@
 ---
 title: "Makar Sankranti 2026 Varanasi: Holy Dips & Kite Wars Complete Guide (January 14)"
 slug: "makar-sankranti-2026-varanasi-kite-festival-guide"
-date: "2025-09-30"
-lastModified: "2025-09-30"
+date: "2026-09-30"
+lastModified: "2026-09-30"
 excerpt: "Complete guide to Makar Sankranti 2026 in Varanasi. Holy Ganga dips, massive kite festivals, traditional celebrations, and travel tips for January 14, 2026."
 author: "Travel Agent Varanasi Festival Team"
 tags: ["Makar Sankranti", "Kite Festival", "Ganga Snaan", "Varanasi Festivals", "Winter Festivals", "January 2026", "Holy Dips"]
@@ -12,14 +12,14 @@ readingTime: "12 minutes"
 featured: true
 seoTitle: "Makar Sankranti 2026 Varanasi: Kite Festival & Holy Dips Guide | January 14"
 seoDescription: "Experience Makar Sankranti 2026 in Varanasi! Complete guide to holy Ganga dips, spectacular kite festivals, traditions & travel tips for January 14, 2026."
-relatedPosts: ["dev-deepawali-2025-varanasi-ultimate-guide", "maha-shivaratri-2026-varanasi-guide", "varanasi-winter-festival-calendar"]
+relatedPosts: ["dev-deepawali-2026-varanasi-ultimate-guide", "maha-shivaratri-2026-varanasi-guide", "varanasi-winter-festival-calendar"]
 ---
 
 # Makar Sankranti 2026 Varanasi: Holy Dips & Kite Wars Complete Guide (January 14)
 
 > **TL;DR:** Makar Sankranti 2026 in Varanasi lands on 14 January with dawn Ganga snaan, Surya puja, and rooftop kite wars from late morning; stake out ghats by 5:30 AM for holy dips, then shift to Dashashwamedh rooftops by noon for competitive flying. Micro-tip: pre-order glass-coated manjha and cotton gloves from Thatheri Bazaar a day earlier to avoid sold-out stalls.
 
-*Last Updated: September 30, 2025*
+*Last Updated: September 30, 2026*
 
 **Quick Answer:** Makar Sankranti in Varanasi (January 14, 2026) combines ancient spiritual traditions with joyful celebrations. Experience holy Ganga baths at sunrise, participate in massive community kite festivals, and witness the city transform into a colorful playground where devotion meets recreation.
 
@@ -838,4 +838,4 @@ The festival teaches us that **spirituality doesn't have to be somber** - it can
 
 **Festival Tip:** Makar Sankranti in Varanasi is perfect for travelers seeking authentic cultural immersion without overwhelming crowds. It offers the ideal balance of spiritual depth and recreational joy, making it suitable for all ages and cultural backgrounds.
 
-> **Planning January Travel?** See our comprehensive **[Varanasi in January 2025 Guide](/en/city/varanasi/travel-guide/varanasi-in-january-2025)** for weather, packing tips, and a complete 3-day itinerary.
+> **Planning January Travel?** See our comprehensive **[Varanasi in January 2026 Guide](/en/city/varanasi/travel-guide/varanasi-in-january-2026)** for weather, packing tips, and a complete 3-day itinerary.

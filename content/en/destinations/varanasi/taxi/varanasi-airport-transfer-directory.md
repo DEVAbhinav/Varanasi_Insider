@@ -1,11 +1,11 @@
 ---
-title: "Varanasi Airport Transfer Directory: Complete Route Guide 2025"
+title: "Varanasi Airport Transfer Directory: Complete Route Guide 2026"
 slug: "varanasi-airport-transfer-directory"
-date: "2025-12-24"
-lastUpdated: "2025-12-24"
+date: "2026-12-24"
+lastUpdated: "2026-12-24"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Varanasi Airport Taxi Directory | All Routes, Fares & Destinations (2025)"
+metaTitle: "Varanasi Airport Taxi Directory | All Routes, Fares & Destinations (2026)"
 metaDescription: "Complete Varanasi Airport (VNS) transfer guide. Find taxi routes to temples, ghats, railway stations & outstation cities with fixed fares, distances & booking."
 description: "Your complete directory of Varanasi Airport taxi routes—temples, ghats, railway stations, and outstation cities—with fixed fares, distances, and instant booking."
 eyebrow: "Airport Transfer Hub"

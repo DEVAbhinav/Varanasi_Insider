@@ -1,8 +1,8 @@
 ---
 title: "Airport to Dashashwamedh Taxi ₹690 | 40-min | Book Now"
 slug: "varanasi-airport-to-dashashwamedh-distance"
-date: "2025-11-12"
-lastUpdated: "2025-12-22"
+date: "2026-11-12"
+lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to Dashashwamedh Ghat Taxi ₹690–950 | 25 km"
@@ -51,7 +51,7 @@ faqSchema:
     "name": "Varanasi"
   },
   "availability": "InStock",
-  "availabilityStarts": "2025-12-15",
+  "availabilityStarts": "2026-12-15",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.8",
@@ -113,7 +113,7 @@ Exit the airport toward Ring Road, glide past the Harhua flyover, and follow Lah
 
 *Flash fare paused on Dev Deepawali, Ganga Mahotsav, and other peak festival nights; applies to direct Godowlia/Dashashwamedh hotel drops only.
 
-For festival surcharges and round-trip bundles, cross-check the [airport taxi fares 2025](/en/varanasi-airport-taxi-price-guide) schedule.
+For festival surcharges and round-trip bundles, cross-check the [airport taxi fares 2026](/en/varanasi-airport-taxi-price-guide) schedule.
 
 ## Pickup at VNS and drop at Dashashwamedh Ghat
 Drivers meet you inside arrivals at **Gate 3**, display placards, and assist with baggage carts. At the city side, cars halt at the Godowlia barricade; porters help take luggage to hotels along the ghat lanes, or you can board a reserved boat straight to the Ganga Aarti staging zone.

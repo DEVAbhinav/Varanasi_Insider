@@ -1,8 +1,8 @@
 ---
 title: "Kashi Yatra Bus Package from South India (Chennai • Bengaluru • Hyderabad) – 6 to 7 Day Pilgrimage Guide"
 slug: "kashi-yatra-south-india-bus-package"
-date: "2025-10-25"
-lastModified: "2025-10-25"
+date: "2026-10-25"
+lastModified: "2026-10-25"
 excerpt: "6–7 day Kashi (Varanasi) Yatra bus pilgrimage from South India – itinerary, darshan timings, pricing tiers, inclusions, elder-friendly logistics, optional Prayagraj/Ayodhya add-ons."
 author: "Travel Agent Varanasi Pilgrimage Desk"
 category: "Pilgrimage"
@@ -11,7 +11,7 @@ featured: true
 seoTitle: "Kashi Yatra Bus Package from South India (Chennai, Bengaluru, Hyderabad) 6–7 Day Guide"
 seoDescription: "Complete Kashi Yatra bus package from South India – Chennai, Bengaluru, Hyderabad departures. 6–7 day itinerary, Vishwanath darshan strategy, Ganga Aarti, pricing tiers, inclusions, optional Prayagraj & Ayodhya add-ons."
 keywords: ["kashi yatra package from chennai","kashi yatra bus package south india","kashi yatra from bangalore bus","hyderabad to kashi tour bus","varanasi prayagraj ayodhya tour south indian","kashi ganga snan package","kashi vishwanath darshan south indian","annapurna temple tour varanasi","visalakshi temple varanasi south indian","tempo traveller kashi","bus rental for kashi yatra","kashi yatra with south indian food"]
-relatedPosts: ["dev-deepawali-2025-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2025","ganga-mahotsav-2025-classical-festival-varanasi"]
+relatedPosts: ["dev-deepawali-2026-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2026","ganga-mahotsav-2026-classical-festival-varanasi"]
 tags: ["Kashi Yatra","South India Departures","Pilgrimage Bus","Vishwanath Temple","Ganga Aarti","Ayodhya Add-on","Prayagraj Circuit"]
 # Optional heroImage: 
 # heroImage: 
@@ -21,7 +21,7 @@ tags: ["Kashi Yatra","South India Departures","Pilgrimage Bus","Vishwanath Templ
 
 > **TL;DR:** Kashi Yatra bus packages from Chennai/Bengaluru/Hyderabad run 6–7 days with overnight coaches plus two Varanasi hotel nights, covering sunrise boat, Vishwanath, Annapurna, and Visalakshi, with per-person tiers ₹8,999–₹17,999. Confirm language support, meal preferences, and any Prayagraj/Ayodhya add-ons when locking seats. Scroll for itineraries, pricing grid, and elder-care inclusions.
 
-*Last Updated: 25 Oct 2025*
+*Last Updated: 25 Oct 2026*
 
 **Quick Answer:** A **6–7 day Kashi (Varanasi) pilgrimage by deluxe A/C bus + short hotel stay** optimized for South Indian groups (Chennai • Bengaluru • Hyderabad). Includes Ganga Aarti at Dashashwamedh, sunrise boat ride, Kashi Vishwanath, Annapurna & Visalakshi darshan, and optional Prayagraj / Ayodhya extension.
 
@@ -176,9 +176,9 @@ F --> G[Departure Pack (PDF + Contacts)]
 
 ---
 ## 🔗 Internal Links
-- Dev Deepawali Planning → /en/dev-deepawali-2025-varanasi-ultimate-guide
-- Nag Nathaiya Festival Context → /en/nag-nathaiya-festival-varanasi-2025
-- Classical Ganga Festivals → /en/ganga-mahotsav-2025-classical-festival-varanasi
+- Dev Deepawali Planning → /en/dev-deepawali-2026-varanasi-ultimate-guide
+- Nag Nathaiya Festival Context → /en/nag-nathaiya-festival-varanasi-2026
+- Classical Ganga Festivals → /en/ganga-mahotsav-2026-classical-festival-varanasi
 
 ---
 ## 🧭 Optional Extension Sketch: Prayagraj + Ayodhya (2 Days)

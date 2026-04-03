@@ -1,8 +1,8 @@
 ---
 lang: en
-title: "Kashi Darshan Tempo Traveller: 8‑Hr Tour ₹5,500 [2025]"
-description: "Kashi Darshan by Tempo Traveller: 8hr/80km ₹5,500 (12‑seater). Cover Kashi Vishwanath, Sarnath and ghats. Transparent 2025 pricing—get a quote."
-date: 2025-08-27
+title: "Kashi Darshan Tempo Traveller: 8‑Hr Tour ₹5,500 [2026]"
+description: "Kashi Darshan by Tempo Traveller: 8hr/80km ₹5,500 (12‑seater). Cover Kashi Vishwanath, Sarnath and ghats. Transparent 2026 pricing—get a quote."
+date: 2026-08-27
 tags: [kashi darshan, varanasi local sightseeing, tempo traveller, kashi darshan tempo traveller, varanasi sightseeing package, book tempo traveller varanasi, 12 seater tempo traveller, 17 seater tempo traveller, ganga aarti]
 slug: kashi-darshan-tempo-traveller
 canonical: https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller
@@ -79,7 +79,7 @@ Additional on‑day costs (as applicable):
 - Entry tickets: e.g., Sarnath Museum ₹25 (Indians), ₹300 (foreigners); Ramnagar Fort museum ₹50
 - Parking fees: nominal ₹50–₹100 at spots like Sarnath/BHU (driver handles; usually included unless unusually high)
 
-We believe in transparent pricing—no surprises. See full 2025 price list: [/en/tempo-traveller-rates-varanasi](/en/tempo-traveller-rates-varanasi)
+We believe in transparent pricing—no surprises. See full 2026 price list: [/en/tempo-traveller-rates-varanasi](/en/tempo-traveller-rates-varanasi)
 
 ## FAQs
 

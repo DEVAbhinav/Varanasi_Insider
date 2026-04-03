@@ -1,8 +1,8 @@
 ---
 title: "काशी – रामेश्वरम ट्विन ज्योतिर्लिंग यात्रा (फ़्लाइट + बस) – 6 से 14 दिन की पूर्ण गाइड"
 slug: "kashi-rameshwaram-twin-jyotirlinga-yatra"
-date: "2025-10-25"
-lastModified: "2025-10-25"
+date: "2026-10-25"
+lastModified: "2026-10-25"
 excerpt: "काशी विश्वनाथ + रामेश्वरम (रामनाथस्वामी) जुड़वा ज्योतिर्लिंग दर्शन – तीव्र / मानक / गहन संस्करण, उड़ान + कोच कनेक्टर, दर्शन रणनीति, वरिष्ठ यात्रियों हेतु सहायता।"
 author: "Travel Agent Varanasi तीर्थ टीम"
 category: "Pilgrimage"
@@ -11,7 +11,7 @@ featured: false
 seoTitle: "काशी रामेश्वरम ज्योतिर्लिंग यात्रा पैकेज – फ़्लाइट + बस संयोजन (6–14 दिन)"
 seoDescription: "काशी – रामेश्वरम ट्विन ज्योतिर्लिंग यात्रा: 6–14 दिन के वैरिएंट, उड़ान + बस मार्ग, दर्शन समय रणनीति, वरिष्ठ अनुकूल योजना, मूल्य संरचना।"
 keywords: ["काशी रामेश्वरम यात्रा","काशी रामेश्वरम ज्योतिर्लिंग पैकेज","रामेश्वरम से वाराणसी टूर","काशी रामेश्वरम फ्लाइट पैकेज","ट्विन ज्योतिर्लिंग यात्रा","काशी विश्वनाथ सुगम दर्शन","रामनाथस्वामी मंदिर समय","kashi rameshwaram yatra hindi","rameshwaram se kashi tour"]
-relatedPosts: ["kashi-yatra-south-india-bus-package","kashi-prayagraj-ayodhya-south","dev-deepawali-2025-varanasi-ultimate-guide"]
+relatedPosts: ["kashi-yatra-south-india-bus-package","kashi-prayagraj-ayodhya-south","dev-deepawali-2026-varanasi-ultimate-guide"]
 tags: ["काशी यात्रा","रामेश्वरम","ज्योतिर्लिंग","बहु-दिवसीय तीर्थ","दक्षिण भारत","फ़्लाइट + बस"]
 translationOf: "kashi-rameshwaram-twin-jyotirlinga-yatra"
 ---
@@ -126,7 +126,7 @@ translationOf: "kashi-rameshwaram-twin-jyotirlinga-yatra"
 ## आंतरिक लिंक
 - /en/bus/kashi-yatra-south-india-bus-package  
 - /en/bus/kashi-prayagraj-ayodhya-south  
-- /en/dev-deepawali-2025-varanasi-ultimate-guide  
+- /en/dev-deepawali-2026-varanasi-ultimate-guide  
 
 ---
 ## सारांश

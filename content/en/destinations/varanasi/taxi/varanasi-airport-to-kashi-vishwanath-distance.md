@@ -1,8 +1,8 @@
 ---
-title: "VNS Airport to Kashi Vishwanath Temple ₹690 | Corridor Drop, 40min (2025)"
+title: "VNS Airport to Kashi Vishwanath Temple ₹690 | Corridor Drop, 40min (2026)"
 slug: "varanasi-airport-to-kashi-vishwanath-distance"
-date: "2025-11-12"
-lastUpdated: "2025-11-30"
+date: "2026-11-12"
+lastUpdated: "2026-11-30"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Airport to Kashi Vishwanath [2026]: ₹850 | Corridor Access"
@@ -86,7 +86,7 @@ location:
         "price": "690",
         "priceCurrency": "INR",
         "description": "Special rate for advance booking within 2 hours",
-        "availabilityStarts": "2025-11-22",
+        "availabilityStarts": "2026-11-22",
         "potentialAction": {
           "@type": "ReserveAction",
           "target": "https://wa.me/919450301573?text=Airport%20to%20Kashi%20Vishwanath"
@@ -98,7 +98,7 @@ location:
         "price": "800",
         "priceCurrency": "INR",
         "description": "Dzire/Etios sedan with corridor access",
-        "priceValidUntil": "2025-12-31"
+        "priceValidUntil": "2026-12-31"
       },
       {
         "@type": "Offer",
@@ -111,7 +111,7 @@ location:
   }
 }
 </script>
-# VNS Airport to Kashi Vishwanath Temple ₹690 | Corridor Drop, 40min (2025)
+# VNS Airport to Kashi Vishwanath Temple ₹690 | Corridor Drop, 40min (2026)
 
 **The distance from Varanasi Airport (VNS) to Kashi Vishwanath Temple is 25–26 km via Ring Road and Lahartara–Godowlia, and the drive typically takes 40–55 minutes outside peak checkpoints.**
 
@@ -160,7 +160,7 @@ Looking for the exact taxi fare from Varanasi airport to Kashi Vishwanath temple
 
 *Flash fare excludes Dev Deepawali, Maha Shivaratri, and other peak festival blocks and applies to direct Kashi Vishwanath corridor drops within city limits.
 
-For multi-stop temple circuits, see the [airport taxi fares 2025](/en/varanasi-airport-taxi-price-guide) matrix.
+For multi-stop temple circuits, see the [airport taxi fares 2026](/en/varanasi-airport-taxi-price-guide) matrix.
 
 ## Pickup at VNS and drop at Kashi Vishwanath Temple
 Meet your driver inside the arrivals hall at **Gate 3, opposite Costa Coffee**, where the control desk issues visitor passes. At the temple side, vehicles halt at the Godowlia barricade; porters or e-rickshaws cover the final 200 metres to the corridor gate. Inform dispatch if you need wheelchair assistance so a guard can clear the inner lane before you arrive.

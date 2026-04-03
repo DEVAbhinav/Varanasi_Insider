@@ -1,8 +1,8 @@
 ---
 title: "Airport to Varanasi City Station (BCY) ₹690 | 21km, Ghat-Side Drop"
 slug: "varanasi-airport-to-varanasi-city-station-distance"
-date: "2025-11-12"
-lastUpdated: "2025-12-22"
+date: "2026-11-12"
+lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to Varanasi City Station: 21km, ₹690 [2026]"
@@ -20,7 +20,7 @@ tags:
 template: destination
 relatedPosts:
   - varanasi-airport-taxi-price-guide
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
 faqSchema:
   - question: "How far is Varanasi City Station from Varanasi Airport?"
     answer: "Varanasi City Station (BCY) is 21 km from Varanasi Airport (VNS) via Ring Road and Chaukhamba Road, usually taking 35–45 minutes."

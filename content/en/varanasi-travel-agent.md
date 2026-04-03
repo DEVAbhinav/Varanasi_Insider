@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Travel Agent — Trusted Tour Operators in Varanasi | Kashi Taxi"
 slug: "varanasi-travel-agent"
-date: "2025-10-26"
-lastUpdated: "2025-10-26"
+date: "2026-10-26"
+lastUpdated: "2026-10-26"
 author: "Utkarsh Pandey"
 lang: en-IN
 
@@ -144,7 +144,7 @@ Operating as **Vinayak Travels Tour (Regd.)**, Kashi Taxi has served 25,000+ tra
 - Manikarnika Ghat (viewing from boat)
 - Sankat Mochan Hanuman Temple
 
-> Detailed itineraries: **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** | **[Full Day City Tour](/en/services/varanasi-full-day-city-tour-winter-2025)**
+> Detailed itineraries: **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** | **[Full Day City Tour](/en/services/varanasi-full-day-city-tour-winter-2026)**
 
 #### **3. Tempo Traveller Hire in Varanasi for Group Tours**
 
@@ -360,7 +360,7 @@ We respond within 1 business hour with:
 
 ![Urbania front view](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-front-Square.jpeg "Force Urbania modern design - luxury comfort for groups")
 
-### **Varanasi Local Tour Pricing 2025**
+### **Varanasi Local Tour Pricing 2026**
 
 ![Urbania interior luxury](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-Inside-Potrait.jpeg "Force Urbania plush interior - executive group travel")
 
@@ -370,7 +370,7 @@ We respond within 1 business hour with:
 | SUV (Innova/Ertiga) | ₹1,800-2,400 | ₹3,000-4,000 |
 | Tempo Traveller (12-seater) | ₹3,500-4,500 | ₹6,500-7,500 |
 
-### **Varanasi Airport Taxi Fare 2025**
+### **Varanasi Airport Taxi Fare 2026**
 
 ![Sedan for airport transfer](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png "Comfortable sedan - affordable airport transfers")
 
@@ -536,7 +536,7 @@ Customizable itineraries available.
 **Varanasi Trip Planning Guides:**
 - **[Varanasi Sightseeing Complete Guide](/en/varanasi-sightseeing-complete-guide)** — Comprehensive guide to all attractions
 - **[Best Time to Visit Varanasi](/en/best-time-to-visit-varanasi)** — Seasonal planning guide
-- **[Varanasi Transport Price Guide 2025](/en/varanasi-transport-price-guide-2025)** — All transport rates
+- **[Varanasi Transport Price Guide 2026](/en/varanasi-transport-price-guide-2026)** — All transport rates
 
 **Varanasi Tour Packages:**
 - **[Tour Packages from Varanasi](/en/tour-package-from-varanasi)** — Multi-day packages
@@ -562,4 +562,4 @@ Customizable itineraries available.
 
 **Book with Kashi Taxi — Your Trusted Varanasi Travel Agent, Tour Operators, and Tour and Travels Partner for an Unforgettable Varanasi Experience!**
 
-*Last Updated: October 26, 2025 | Verified Operational Information*
+*Last Updated: October 26, 2026 | Verified Operational Information*

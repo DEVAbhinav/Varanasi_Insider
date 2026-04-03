@@ -1,7 +1,7 @@
 ---
 title: "Varanasi to Ayodhya Distance, Taxi Fare & Travel Options (2026)"
 slug: "varanasi-to-ayodhya"
-date: "2025-08-07"
+date: "2026-08-07"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN

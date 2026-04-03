@@ -1,13 +1,13 @@
 ---
-title: "Ashoka Pillar Sarnath: Original Ashok Stambh, Lion Capital & Edicts Guide 2025"
+title: "Ashoka Pillar Sarnath: Original Ashok Stambh, Lion Capital & Edicts Guide 2026"
 slug: "ashoka-pillar-sarnath-guide"
-date: "2025-10-27"
-lastUpdated: "2025-10-27"
+date: "2026-10-27"
+lastUpdated: "2026-10-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png"
-metaTitle: "Ashoka Pillar Sarnath Guide 2025: Original Ashok Stambh Location, Lion Capital & Edicts"
-metaDescription: "Complete Ashoka Pillar Sarnath guide: Original Ashok Stambh location, Lion Capital (India's National Emblem), Ashoka's edicts, Sarnath pillar history, visiting tips, timings & photography guide 2025."
+metaTitle: "Ashoka Pillar Sarnath Guide 2026: Original Ashok Stambh Location, Lion Capital & Edicts"
+metaDescription: "Complete Ashoka Pillar Sarnath guide: Original Ashok Stambh location, Lion Capital (India's National Emblem), Ashoka's edicts, Sarnath pillar history, visiting tips, timings & photography guide 2026."
 description: "Comprehensive guide to the original Ashoka Pillar Sarnath covering the historic Ashok Stambh location, famous Lion Capital, Ashoka's Buddhist edicts, Sarnath pillar inscriptions, visiting information, and historical significance."
 keywords:
   - "ashoka pillar sarnath"

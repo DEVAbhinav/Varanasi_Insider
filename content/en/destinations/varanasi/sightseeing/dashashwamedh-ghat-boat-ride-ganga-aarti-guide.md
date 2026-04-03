@@ -1,7 +1,7 @@
 ---
 title: "Dashashwamedh Ghat Boat Ride & Ganga Aarti: Complete 2026 Guide"
 slug: "dashashwamedh-ghat-boat-ride-ganga-aarti-guide"
-date: "2025-12-12"
+date: "2026-12-12"
 lastUpdated: "2026-02-05"
 author: "Varanasi Insider Team"
 lang: en
@@ -37,9 +37,9 @@ location:
   address: "Ghats of Varanasi, Uttar Pradesh"
 relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
-  - ganga-aarti-timing-varanasi-2025
+  - ganga-aarti-timing-varanasi-2026
   - evening-boat-ride-varanasi-ganga-aarti
-  - kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2025
+  - kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026
 ---
 
 # Dashashwamedh Ghat: Boat Ride & Evening Aarti

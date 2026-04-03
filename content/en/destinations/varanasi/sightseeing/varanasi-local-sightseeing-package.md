@@ -1,7 +1,7 @@
 ---
 title: "Varanasi Local Sightseeing Package | One Day Tour by Car from ₹1,800 (2026)"
 slug: "varanasi-local-sightseeing-package"
-date: "2025-11-21"
+date: "2026-11-21"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN
@@ -39,9 +39,9 @@ tags:
 relatedPosts:
   - varanasi-sightseeing-complete-guide
   - varanasi-day-tour-cab-charges
-  - services/varanasi-full-day-city-tour-winter-2025
+  - services/varanasi-full-day-city-tour-winter-2026
   - tempo-traveller-varanasi
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
 offers:
   - price: "1800"
     priceCurrency: "INR"
@@ -545,7 +545,7 @@ Professional photography service to capture your Varanasi memories:
 **Comprehensive Guides:**
 - **[Varanasi Sightseeing Complete Guide](/en/varanasi-sightseeing-complete-guide)** - Detailed information on all attractions, timings, and travel tips
 - **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** - Complete pricing breakdown for different vehicle types
-- **[Varanasi Full Day City Tour Winter 2025](/en/services/varanasi-full-day-city-tour-winter-2025)** - Seasonal itineraries and weather-specific tips
+- **[Varanasi Full Day City Tour Winter 2026](/en/services/varanasi-full-day-city-tour-winter-2026)** - Seasonal itineraries and weather-specific tips
 
 **Specialized Tours:**
 - **[Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)** - Group temple tours by tempo traveller
@@ -554,7 +554,7 @@ Professional photography service to capture your Varanasi memories:
 
 **Transport Guides:**
 - **[Tempo Traveller Varanasi](/en/tempo-traveller-varanasi)** - Complete tempo traveller rental guide
-- **[Varanasi Transport Price Guide 2025](/en/varanasi-transport-price-guide-2025)** - All transport options and pricing
+- **[Varanasi Transport Price Guide 2026](/en/varanasi-transport-price-guide-2026)** - All transport options and pricing
 
 **Multi-Destination Packages:**
 - **[Varanasi Ayodhya Prayagraj Pilgrimage Taxi](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi)** - 3-city spiritual circuit

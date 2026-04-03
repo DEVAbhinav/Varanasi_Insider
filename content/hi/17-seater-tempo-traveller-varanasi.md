@@ -2,8 +2,8 @@
 lang: hi
 slug: 17-seater-tempo-traveller-varanasi
 sourceSlug: 17-seater-tempo-traveller-varanasi
-title: "17 Seater Tempo Traveller वाराणसी: बड़े समूह हेतु 2025 रेट"
-metaTitle: "17 Seater Tempo Traveller वाराणसी रेट 2025 | Wedding / Yatra"
+title: "17 Seater Tempo Traveller वाराणसी: बड़े समूह हेतु 2026 रेट"
+metaTitle: "17 Seater Tempo Traveller वाराणसी रेट 2026 | Wedding / Yatra"
 metaDescription: "17 सीटर टेम्पो ट्रैवलर वाराणसी – एयरपोर्ट ₹3,000, लोकल 8hr/80km ₹6,000, आउटस्टेशन ₹27/km। शादी, यत्रा, कॉर्पोरेट व पारिवारिक टूर हेतु स्पेशियस विकल्प।"
 description: "17 Seater Tempo Traveller Varanasi – बड़े समूह, विवाह शटल, तीर्थ सर्किट (काशी–अयोध्या–प्रयागराज) व आउटस्टेशन यात्रा के लिए AC, आरामदायक व सुरक्षित विकल्प।"
 keywords: ["17 seater tempo traveller varanasi hindi","17 seater wedding tempo varanasi","17 seater kashi darshan","17 seater tempo rent rate","tempo traveller 17 seater booking varanasi","varanasi 17 seater yatra bus"]
@@ -39,7 +39,7 @@ canonical: "https://www.kashitaxi.in/hi/17-seater-tempo-traveller-varanasi"
 - **लाइटिंग / एंटरटेनमेंट:** चुने हुए वाहनों में LED एंबियंस + माइक्रोफ़ोन / स्क्रीन (पूर्व अनुरोध)
 - **सुरक्षा:** नियमित सेवा, टायर / ब्रेक जाँच, सीट बेल्ट, फर्स्ट‑एड
 
-## 2025 रेट (17 Seater)
+## 2026 रेट (17 Seater)
 | सेवा | रेट | विवरण |
 |------|-----|--------|
 | आउटस्टेशन | ₹27 / किमी | 250 किमी / दिन न्यूनतम |

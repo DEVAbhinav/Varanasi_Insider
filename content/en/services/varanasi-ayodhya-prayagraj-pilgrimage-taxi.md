@@ -12,8 +12,8 @@ schemaType: "Service"
 serviceCategory: "Pilgrimage Circuit"
 structuredData: true
 published: true
-date: "2025-10-02"
-lastUpdated: "2025-10-02"
+date: "2026-10-02"
+lastUpdated: "2026-10-02"
 ---
 
 # Varanasi to Ayodhya & Prayagraj Taxi: A Pilgrim's Travel Guide

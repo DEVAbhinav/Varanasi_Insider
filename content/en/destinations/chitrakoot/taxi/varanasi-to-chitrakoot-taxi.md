@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Chitrakoot Taxi | Ram Darshan | ₹3,500 | KashiTaxi"
 slug: "varanasi-to-chitrakoot-taxi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Chitrakoot Taxi | Ram Darshan | ₹3,500 | KashiTaxi"
@@ -304,17 +304,17 @@ Choose from:
 **Review 1: Lalita Sharma (Spiritual Journey)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Very peaceful and spiritual journey. The driver was respectful and knowledgeable about all the temples. He waited patiently during our 2-hour Kamadgiri Parikrama. Highly recommended for Ramayana devotees!"  
-**Trip**: Family of 4, Ertiga | **Date**: November 2025
+**Trip**: Family of 4, Ertiga | **Date**: November 2026
 
 **Review 2: Ramakant Mishra (Elderly Pilgrims)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Booked for my 75-year-old parents. The driver was very caring and helped them at every temple. Made regular stops for rest. Excellent service for senior citizens."  
-**Trip**: 2 elderly passengers, Swift Dzire | **Date**: October 2025
+**Trip**: 2 elderly passengers, Swift Dzire | **Date**: October 2026
 
 **Review 3: Sushma Devi (Group Pilgrimage)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Our 12-member group had a wonderful experience. The tempo traveller was clean and comfortable. Driver coordinated well with our schedule. Great value for money!"  
-**Trip**: Group of 12, Tempo Traveller | **Date**: September 2025
+**Trip**: Group of 12, Tempo Traveller | **Date**: September 2026
 
 ### Verified Stats
 

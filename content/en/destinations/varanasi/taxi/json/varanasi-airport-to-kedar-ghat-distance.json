@@ -46,7 +46,7 @@
         "priceCurrency": "INR",
         "price": 690,
         "availability": "https://schema.org/InStock",
-        "availabilityEnds": "2025-12-31",
+        "availabilityEnds": "2026-12-31",
         "eligibleRegion": {
           "@type": "Place",
           "name": "Kedar Ghat"

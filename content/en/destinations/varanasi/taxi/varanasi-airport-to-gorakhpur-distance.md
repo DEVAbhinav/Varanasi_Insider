@@ -1,11 +1,11 @@
 ---
-title: "Varanasi Airport to Gorakhpur: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Gorakhpur: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-gorakhpur-distance"
-date: "2025-11-19"
-lastUpdated: "2025-11-19"
+date: "2026-11-19"
+lastUpdated: "2026-11-19"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Gorakhpur: Distance, Time, Taxi Fare (2025)"
+metaTitle: "Varanasi Airport to Gorakhpur: Distance, Time, Taxi Fare (2026)"
 metaDescription: "Plan your 211–225 km taxi from Varanasi Airport to Gorakhpur: 4–5 hour drive via NH-31, fare bands by cab type, and list of key pilgrimage and city attractions."
 description: "Airport transfer guide from Varanasi Airport (VNS) to Gorakhpur with distance, travel time, taxi fares, and stop ideas around Gorakhnath Temple and Ramgarh Tal."
 keywords:
@@ -28,7 +28,7 @@ faqSchema:
   - question: "What is the taxi fare from Varanasi Airport to Gorakhpur?"
     answer: "Hatchbacks are around ₹2,280–₹2,464, sedans ₹3,500–₹3,653 one way (₹7,000 round trip), and Innovas ₹3,517–₹3,894 with extra km near ₹17/km."
 ---
-# Varanasi Airport to Gorakhpur: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Gorakhpur: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Gorakhpur is 211–225 km via NH-31 and the drive usually takes 4–5 hours.**
 
@@ -54,7 +54,7 @@ From VNS, cabs generally:
 
 This corridor blends high-speed segments with town approaches. Fog in winter and heavy rain in monsoon can slow parts of the ride—plan a wider time buffer in these months.
 
-## Varanasi Airport to Gorakhpur taxi fare (2025)
+## Varanasi Airport to Gorakhpur taxi fare (2026)
 
 - **Hatchback:** ₹2,280–₹2,464, suited to 2–3 travellers.
 - **Sedan:** ₹3,500–₹3,653 one way; around **₹7,000** for many round-trip quotes.

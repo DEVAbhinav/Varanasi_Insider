@@ -9,7 +9,7 @@ export default function BookingPage() {
   return (
     <>
       <Head>
-        <title>Book Varanasi Taxi Online | Airport Taxi & Tempo Traveller Booking 2025</title>
+        <title>Book Varanasi Taxi Online | Airport Taxi & Tempo Traveller Booking 2026</title>
         <meta 
           name="description" 
           content={`Book Varanasi taxi & tempo traveller online. VNS Airport taxi, local Kashi darshan, outstation cabs to Ayodhya Prayagraj. AC vehicles, expert drivers. Instant booking ☎ ${CONTACT.callNumberDisplay.replace('+91 ', '')}`} 

@@ -1,8 +1,8 @@
 ---
 title: "Mauni Amavasya Ganga Snan Varanasi 2026: Dates, Rituals & Complete Guide"
 slug: "mauni-amavasya-ganga-snan-varanasi-2026"
-date: "2025-12-01"
-lastUpdated: "2025-12-01"
+date: "2026-12-01"
+lastUpdated: "2026-12-01"
 author: "Varanasi Insider Team"
 excerpt: "Complete guide to Mauni Amavasya Ganga Snan in Varanasi 2026. Sacred silent bathing ritual, dates, best ghats, spiritual significance, taxi booking, and expert tips for the holiest new moon."
 lang: en
@@ -983,7 +983,7 @@ Transform Mauni Amavasya 2026 into a life-changing spiritual milestone with prof
 
 ---
 
-*Guide Last Updated: December 2025 | For real-time updates on Magh Mela 2026, ghat conditions, taxi availability, and weather advisories, visit [www.kashitaxi.in](https://www.kashitaxi.in) or contact our 24/7 support line.*
+*Guide Last Updated: December 2026 | For real-time updates on Magh Mela 2026, ghat conditions, taxi availability, and weather advisories, visit [www.kashitaxi.in](https://www.kashitaxi.in) or contact our 24/7 support line.*
 
 **Pro Tip:** Print this guide or save offline before your silence begins. You won't be able to ask questions verbally!
 

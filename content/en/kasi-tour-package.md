@@ -1,6 +1,6 @@
 # Kasi Tour Package | Book Authentic Kashi Darshan Packages Online
 
-**Meta Title:** Kasi Tour Package 2025 | Kashi Darshan Spiritual Tours | Kashi Taxi
+**Meta Title:** Kasi Tour Package 2026 | Kashi Darshan Spiritual Tours | Kashi Taxi
 **Meta Description:** Book authentic Kasi tour packages with expert guides. Spiritual journeys to Kashi (Varanasi) with transparent pricing, airport transfers & 24/7 support.
 **Focus Keyword:** Kasi tour package
 **URL Slug:** /kasi-tour-package/
@@ -218,7 +218,7 @@ Your guide is not trying to sell you souvenirs or push restaurants. Their job is
 - **Flexible changes:** "Can we visit this temple instead?" -- Done within hours
 - **Follow-up:** Post-trip feedback, photo sharing, referral rewards
 
-## Kasi Tour Package Pricing - November 2025
+## Kasi Tour Package Pricing - November 2026
 
 **Transparent, No Hidden Charges**
 
@@ -228,7 +228,7 @@ Your guide is not trying to sell you souvenirs or push restaurants. Their job is
 | 5-Day Kasi | ₹24,000--32,000 | ₹38,000--50,000 | ₹60,000--75,000 | Above + yoga/meditation + extended rituals |
 | Kasi + Prayagraj | ₹32,000--42,000 | ₹52,000--68,000 | ₹80,000--110,000 | Multi-city + Pind Daan ceremonies |
 
-Price valid for: November 2025 (subject to seasonal changes during Dev Deepawali, Maha Shivaratri)
+Price valid for: November 2026 (subject to seasonal changes during Dev Deepawali, Maha Shivaratri)
 
 Discounts available: Groups 4+ persons (₹1,500--3,000 off), extended stays (₹500--1,000 off per extra night)
 
@@ -303,7 +303,7 @@ After your trip: We send photo compilation, collect your testimonial, offer refe
 
 ## Explore Related Kasi & Varanasi Resources
 
-- Varanasi Sightseeing Complete Guide 2025: Ghats, temples, hidden spiritual sites
+- Varanasi Sightseeing Complete Guide 2026: Ghats, temples, hidden spiritual sites
 - 15 Best Tourist Spots in Varanasi: Comprehensive list with travel tips
 - Kashi Darshan Tempo Traveller Packages: Group tours and multi-city options
 - Varanasi Full-Day City Tour: Detailed itineraries and pricing

@@ -1,14 +1,14 @@
 ---
-title: "Tempo Traveller Group Booking Dussehra Varanasi 2025: Family Transport Guide"
+title: "Tempo Traveller Group Booking Dussehra Varanasi 2026: Family Transport Guide"
 slug: "tempo-traveller-group-booking-dussehra"
-date: "2025-09-29"
-lastUpdated: "2025-09-29"
+date: "2026-09-29"
+lastUpdated: "2026-09-29"
 author: "Kamal Nayan Singh"
 lang: en-IN
 
-description: "Tempo Traveller group booking Dussehra Varanasi 2025: Complete family transport guide with vehicle sizes, festival rates & coordination tips for 6-20+ people."
+description: "Tempo Traveller group booking Dussehra Varanasi 2026: Complete family transport guide with vehicle sizes, festival rates & coordination tips for 6-20+ people."
 tags:
-  - tempo traveller dussehra 2025
+  - tempo traveller dussehra 2026
   - group travel varanasi
   - family transport dussehra
   - tempo traveller booking
@@ -16,22 +16,22 @@ tags:
   - group taxi varanasi
   - 12 seater dussehra
   - family vehicle rental
-keywords: ["Tempo Traveller Dussehra 2025","group travel Varanasi festivals","family transport Dussehra","12 seater Tempo Traveller booking","17 seater group transport","Varanasi festival vehicle rental","Tempo Traveller family booking","group taxi Dussehra Varanasi","festival transport groups","Dussehra family vehicle"]
+keywords: ["Tempo Traveller Dussehra 2026","group travel Varanasi festivals","family transport Dussehra","12 seater Tempo Traveller booking","17 seater group transport","Varanasi festival vehicle rental","Tempo Traveller family booking","group taxi Dussehra Varanasi","festival transport groups","Dussehra family vehicle"]
 relatedPosts:
-  - ultimate-guide-ramlila-dussehra-varanasi-2025
+  - ultimate-guide-ramlila-dussehra-varanasi-2026
   - dussehra-ravana-dahan-varanasi-oct-2
   - bharat-milap-nati-imli-oct-3
   - ramnagar-ramlila-moving-stages-guide
   - book-taxi-varanasi-ramlila-dussehra
 ---
 
-# Tempo Traveller Group Booking Dussehra Varanasi 2025: Family Transport Guide
+# Tempo Traveller Group Booking Dussehra Varanasi 2026: Family Transport Guide
 
 
 
-***TL;DR: Planning group travel for Dussehra 2025 in Varanasi? This guide covers everything about Tempo Traveller booking: vehicle sizes, festival pricing, and how to coordinate 6-20+ people during chaotic festival celebrations while keeping costs reasonable.***
+***TL;DR: Planning group travel for Dussehra 2026 in Varanasi? This guide covers everything about Tempo Traveller booking: vehicle sizes, festival pricing, and how to coordinate 6-20+ people during chaotic festival celebrations while keeping costs reasonable.***
 
-## The Group Travel Problem During Dussehra Varanasi 2025
+## The Group Travel Problem During Dussehra Varanasi 2026
 
 ### Why Group Coordination Becomes a Festival Nightmare
 
@@ -128,7 +128,7 @@ relatedPosts:
 
 ## Dussehra Group Transport Packages
 
-### Festival Day Packages (Oct 2-3, 2025)
+### Festival Day Packages (Oct 2-3, 2026)
 
 | Package | Duration | Inclusions | 12-Seater Rate |
 |---------|----------|------------|----------------|
@@ -225,7 +225,7 @@ relatedPosts:
 <p style="margin-bottom: 1.5rem; color: #14532d;">Don't let transport logistics spoil your festival experience. One vehicle, one journey, countless memories together.</p>
 
 <div style="margin-top: 1.5rem;">
-<a href="https://wa.me/919935474730?text=Group%20Tempo%20Traveller%20booking%20Dussehra%202025" 
+<a href="https://wa.me/919935474730?text=Group%20Tempo%20Traveller%20booking%20Dussehra%202026" 
    style="background-color: #059669; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold; margin: 0.5rem;">
    📱 Get Group Quote
 </a><br>

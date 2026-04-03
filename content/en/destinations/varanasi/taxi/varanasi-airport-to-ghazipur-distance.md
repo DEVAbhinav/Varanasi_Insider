@@ -1,11 +1,11 @@
 ---
-title: "Varanasi Airport to Ghazipur: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Ghazipur: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-ghazipur-distance"
-date: "2025-11-19"
-lastUpdated: "2025-11-19"
+date: "2026-11-19"
+lastUpdated: "2026-11-19"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Ghazipur: Distance, Time, Taxi Fare (2025)"
+metaTitle: "Varanasi Airport to Ghazipur: Distance, Time, Taxi Fare (2026)"
 metaDescription: "Plan your 79–85 km taxi from Varanasi Airport to Ghazipur: 2–2.5 hour drive via NH-31, fare bands for hatchback, sedan, and Innova, and riverside sightseeing ideas."
 description: "Intercity taxi guide from Varanasi Airport (VNS) to Ghazipur with distance, travel time, fares, route tips, and suggestions for Ganga-side heritage stops."
 keywords:
@@ -28,7 +28,7 @@ faqSchema:
   - question: "What is the taxi fare from Varanasi Airport to Ghazipur?"
     answer: "Hatchbacks usually cost ₹984–₹1,520, sedans ₹1,533–₹1,795, and Innovas ₹1,520–₹1,795, with extra km at ₹11.75–₹17.5/km."
 ---
-# Varanasi Airport to Ghazipur: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Ghazipur: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Ghazipur is 79–85 km via NH-31 and the drive takes around 2–2.5 hours in normal conditions.**
 
@@ -54,7 +54,7 @@ From the airport, cabs typically:
 
 The highway is mostly straightforward, with a few slower stretches near toll plazas and local markets. Monsoon showers can briefly slow traffic near low-lying patches by the river.
 
-## Varanasi Airport to Ghazipur taxi fare (2025)
+## Varanasi Airport to Ghazipur taxi fare (2026)
 
 - **Hatchback:** ₹984–₹1,520, ideal for 2–3 budget travellers.
 - **Sedan:** ₹1,533–₹1,795, best for families with luggage.

@@ -1,8 +1,8 @@
 ---
 title: "Gaya to Varanasi Taxi | Pind Daan to Kashi | ₹4,200 | Buddhist Circuit"
 slug: "gaya-to-varanasi-taxi"
-date: "2025-12-31"
-lastUpdated: "2025-12-31"
+date: "2026-12-31"
+lastUpdated: "2026-12-31"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Gaya to Varanasi Taxi | Vishnupad to Kashi Vishwanath | ₹4,200"
@@ -448,8 +448,8 @@ faqSchema:
 
 ---
 
-**Last Updated**: December 31, 2025  
-**Verified Pricing**: Accurate as of Dec 2025 (Pitru Paksha surcharges apply during September-October)
+**Last Updated**: December 31, 2026  
+**Verified Pricing**: Accurate as of Dec 2026 (Pitru Paksha surcharges apply during September-October)
 
 **Popular Related Searches**:
 - Gaya Bodhgaya Varanasi circuit taxi

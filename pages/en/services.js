@@ -95,7 +95,7 @@ export default function ServicesPage({ services, jsonLd }) {
               <strong className="text-teal-700">🎉 Festival Planning:</strong> Planning during peak festivals? Start with our{' '}
               <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/dashashwamedh-ghat-ganga-aarti-timing">Ganga Aarti guide</Link>
               {' '}or{' '}
-              <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/dev-deepawali-2025-varanasi-ultimate-guide">Dev Deepawali plan</Link>
+              <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/dev-deepawali-2026-varanasi-ultimate-guide">Dev Deepawali plan</Link>
               {' '}and we will layer the logistics—cabs, boats, darshan assistance and hotel coordination—into a single confirmation thread. If temple plus Aarti is the actual buying question, use{' '}
               <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/kashi-vishwanath-darshan-ganga-aarti-package">the dedicated darshan package page</Link>.
             </p>

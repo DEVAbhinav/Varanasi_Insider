@@ -1,7 +1,7 @@
 ---
 title: "Manikarnika Ghat Varanasi: History, Significance, Location & Visit Guide"
 slug: "manikarnika-ghat-sacred-cremation-grounds"
-date: "2025-07-28"
+date: "2026-07-28"
 author: "Kamal Nayan Singh"
 description: "Manikarnika Ghat Varanasi guide covering history and significance, exact location, how to reach, and respectful visit tips for first-time visitors."
 

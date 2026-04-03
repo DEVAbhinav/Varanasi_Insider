@@ -1,11 +1,11 @@
 ---
-title: "Varanasi Airport to Deoria: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Deoria: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-deoria-distance"
-date: "2025-11-19"
-lastUpdated: "2025-11-19"
+date: "2026-11-19"
+lastUpdated: "2026-11-19"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "VNS Airport to Deoria Taxi from ₹3,769 | 193–212 km (2025)"
+metaTitle: "VNS Airport to Deoria Taxi from ₹3,769 | 193–212 km (2026)"
 metaDescription: "Varanasi Airport (VNS) to Deoria: 193–212 km, 4.5–6 hrs via NH-28/NH-31. One-way fares from ₹3,769 with inclusion checklist + stop ideas."
 description: "Intercity taxi guide from Varanasi Airport (VNS) to Deoria with distance, travel time, cab fares, and stop ideas for temples and Just Chill Water Park."
 keywords:
@@ -28,7 +28,7 @@ faqSchema:
   - question: "What is the taxi fare from Varanasi Airport to Deoria?"
     answer: "Hatchbacks are around ₹3,769, sedans ₹3,769–₹3,999 one way (₹7,998 round trip), and Innovas ₹3,810–₹4,188 with extra km at ₹13–₹13.5/km."
 ---
-# Varanasi Airport to Deoria: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Deoria: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Deoria is 193–212 km via NH-28 or NH-31 and the drive generally takes 4.5–6 hours.**
 
@@ -54,7 +54,7 @@ From VNS, drivers typically choose between:
 
 Both routes mix highway stretches with town bypasses and some two-lane segments, so realistic planning is important.
 
-## Varanasi Airport to Deoria taxi fare (2025)
+## Varanasi Airport to Deoria taxi fare (2026)
 
 - **Hatchback:** Around **₹3,769**, suitable for 2–3 passengers.
 - **Sedan:** **₹3,769–₹3,999** one way, roughly **₹7,998** for quoted round trips.

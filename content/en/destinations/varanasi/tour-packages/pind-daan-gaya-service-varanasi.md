@@ -1,16 +1,16 @@
 ---
-title: "Pind Daan in Gaya: Scam-Free Verified Service from Varanasi (2025)"
+title: "Pind Daan in Gaya: Scam-Free Verified Service from Varanasi (2026)"
 slug: "pind-daan-gaya-service-varanasi"
-date: "2025-12-22"
-lastUpdated: "2025-12-22"
+date: "2026-12-22"
+lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en
 canonical: "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi"
 
 
-metaTitle: "Pind Daan in Gaya 2025: Verified Gayawal Panda Service from Varanasi | Cost & Dates"
-metaDescription: "Book legitimate pind daan in Gaya with verified Gayawal Pandas. Transparent cost breakdown, physical ritual, ancestral records. No fake priests. Dates, procedures, and pricing for 2025."
-description: "Book legitimate pind daan in Gaya with verified Gayawal Pandas. Transparent cost breakdown, physical ritual, ancestral records. No fake priests. Dates, procedures, and pricing for 2025."
+metaTitle: "Pind Daan in Gaya 2026: Verified Gayawal Panda Service from Varanasi | Cost & Dates"
+metaDescription: "Book legitimate pind daan in Gaya with verified Gayawal Pandas. Transparent cost breakdown, physical ritual, ancestral records. No fake priests. Dates, procedures, and pricing for 2026."
+description: "Book legitimate pind daan in Gaya with verified Gayawal Pandas. Transparent cost breakdown, physical ritual, ancestral records. No fake priests. Dates, procedures, and pricing for 2026."
 destination: "varanasi"
 category: "tour-packages"
 serviceCategory: "Pilgrimage Services"
@@ -20,7 +20,7 @@ published: true
 phone: "8062182380"
 keywords:
   - pind daan gaya service from varanasi
-  - pind daan cost in gaya 2025
+  - pind daan cost in gaya 2026
   - pitru paksha gaya dates and booking
   - verified pandit for pind daan gaya
   - vishnu pad temple pind daan procedure
@@ -72,10 +72,10 @@ faqSchema:
     answer: "White dhoti/kurta (traditional), no leather, no shoes during ritual. If you don't own a dhoti, we can arrange rental for ₹100-200 from Gaya shops."
   - question: "What happens if I get emotional during the ritual?"
     answer: "This is expected and honored. The pandit trains for this. Take all the time you need. There's no schedule. Tears are part of the ritual's sacredness."
-  - question: "How much does pind daan cost in Gaya 2025?"
+  - question: "How much does pind daan cost in Gaya 2026?"
     answer: "Standard pind daan for 1-3 ancestors costs ₹4,350-6,300 total including pandit dakshina, temple fees, materials, Gayawal Panda registration, and transport. Extended packages for 5+ ancestors range from ₹10,850-23,300."
-  - question: "When is Pitru Paksha 2025?"
-    answer: "Pitru Paksha 2025 runs from September 7-21. The most auspicious time (Kutup Muhurat) is September 21 from 11:47 AM - 12:37 PM."
+  - question: "When is Pitru Paksha 2026?"
+    answer: "Pitru Paksha 2026 runs from September 7-21. The most auspicious time (Kutup Muhurat) is September 21 from 11:47 AM - 12:37 PM."
   - question: "Can NRIs perform pind daan via live video if they cannot travel?"
     answer: "Yes, we offer live video coordination for NRIs who cannot travel. You participate via WhatsApp/Zoom, see the entire ritual in real-time, and give verbal sankalp. However, being present in person is traditionally more powerful."
 ---
@@ -400,7 +400,7 @@ Rest and breakfast (you can eat now)
 
 ---
 
-## Pricing Breakdown: Full Transparency (2025)
+## Pricing Breakdown: Full Transparency (2026)
 
 ### Standard Pind Daan Package (Most Common)
 
@@ -439,11 +439,11 @@ Rest and breakfast (you can eat now)
 
 ---
 
-## Pitru Paksha 2025: Dates & Booking Timeline
+## Pitru Paksha 2026: Dates & Booking Timeline
 
-### When Is Pitru Paksha 2025?
+### When Is Pitru Paksha 2026?
 
-| Event | Date 2025 | Notes |
+| Event | Date 2026 | Notes |
 |-------|-----------|-------|
 | **Pitru Paksha Begins** | September 7 | Sunday |
 | **Pitru Paksha Ends** | September 21 | Sunday |

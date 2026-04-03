@@ -1,8 +1,8 @@
 ---
 title: "Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | KashiTaxi"
 slug: "varanasi-city-tour-cab"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | KashiTaxi"

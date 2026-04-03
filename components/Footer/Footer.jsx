@@ -46,7 +46,7 @@ export default function Footer({ allPosts }) {
           <Link href="/en/about" className={styles.footerLink}>About Us</Link>
           <Link href="/en/contact" className={styles.footerLink}>Contact</Link>
           <Link
-            href="/en/city/varanasi/events/kashi-tamil-sangamam-2025-varanasi"
+            href="/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi"
             className={styles.footerLink}
           >
             Kashi Tamil Sangamam

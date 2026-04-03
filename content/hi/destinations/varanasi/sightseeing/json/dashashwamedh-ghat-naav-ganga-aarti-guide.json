@@ -8,13 +8,13 @@
         "@id": "https://www.kashitaxi.in/hi/city/varanasi/sightseeing/dashashwamedh-ghat-naav-ganga-aarti-guide"
       },
       "headline": "दशाश्वमेध घाट: नाव यात्रा और शाम की आरती",
-      "description": "दशाश्वमेध घाट की संपूर्ण 2025 गाइड—शाम की गंगा आरती का समय, नाव की सवारी के विकल्प, फोटोग्राफी टिप्स और दोनों अनुभवों को कैसे मिलाएं।",
+      "description": "दशाश्वमेध घाट की संपूर्ण 2026 गाइड—शाम की गंगा आरती का समय, नाव की सवारी के विकल्प, फोटोग्राफी टिप्स और दोनों अनुभवों को कैसे मिलाएं।",
       "image": [
         "https://www.kashitaxi.in/images/posts/dashashwamedh-ghat-aarti.jpg",
         "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg"
       ],
-      "datePublished": "2025-06-19",
-      "dateModified": "2025-06-19",
+      "datePublished": "2026-06-19",
+      "dateModified": "2026-06-19",
       "author": {
         "@type": "Person",
         "name": "कमल नयन सिंह"
@@ -58,8 +58,8 @@
       "@type": "Event",
       "name": "दशाश्वमेध घाट पर गंगा आरती",
       "description": "पुजारियों द्वारा प्रतिदिन शाम को की जाने वाली 45 मिनट की अग्नि पूजा—घंटियों, शंख ध्वनि और पीतल के दीपों के साथ।",
-      "startDate": "2025-01-01T17:45",
-      "endDate": "2025-12-31T18:45",
+      "startDate": "2026-01-01T17:45",
+      "endDate": "2026-12-31T18:45",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "location": {

@@ -33,7 +33,7 @@ const fadeUp = {
   viewport: { once: true, margin: "-80px" },
 };
 
-// --- Consolidated KashiTaxi.in rates (Aug 2025) ---
+// --- Consolidated KashiTaxi.in rates (Apr 2026) ---
 const KASHITAXI_RATES = [
   { vehicle: "Indica", airport: 850, p8: 1500, p12: 2000, perKm: 10, notes: "Min 250 km/day outstation; driver night ₹300 after 9 pm" },
   { vehicle: "Indigo", airport: 750, p8: 1400, p12: 1700, perKm: 8.5, notes: "Small sedan; 250 km minimum" },
@@ -80,8 +80,8 @@ const jsonLd = {
       "@type": "WebPage",
       "@id": PAGE_URL,
       "url": PAGE_URL,
-      "name": "Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2025)",
-      "description": "Compare Varanasi outstation taxi per‑km rates, one‑way cab fares and round‑trip deals. 2025 guide with cheap sedan & SUV prices, tempo traveller costs and a fare calculator.",
+      "name": "Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2026)",
+      "description": "Compare Varanasi outstation taxi per‑km rates, one‑way cab fares and round‑trip deals. 2026 guide with cheap sedan & SUV prices, tempo traveller costs and a fare calculator.",
       "inLanguage": "en-IN",
       "isPartOf": { "@id": `${SITE}/#website` },
       "about": { "@id": `${SITE}/#org` }
@@ -128,24 +128,24 @@ export default function OutstationTaxiGuide() {
   return (
     <>
       <Head>
-        <title>Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2025)</title>
+        <title>Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2026)</title>
         <meta
           name="description"
-          content="Compare Varanasi outstation taxi per‑km rates, one‑way cab fares and round‑trip deals. 2025 guide with cheap sedan & SUV prices, tempo traveller costs and a fare calculator."
+          content="Compare Varanasi outstation taxi per‑km rates, one‑way cab fares and round‑trip deals. 2026 guide with cheap sedan & SUV prices, tempo traveller costs and a fare calculator."
         />
         <link rel="canonical" href={PAGE_URL} />
         <meta name="robots" content="index, follow" />
         {/* Open Graph */}
-        <meta property="og:title" content="Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2025)" />
-        <meta property="og:description" content="Compare Varanasi outstation taxi per‑km rates, one‑way cab fares and round‑trip deals. 2025 guide with cheap sedan & SUV prices, tempo traveller costs and a fare calculator." />
+        <meta property="og:title" content="Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2026)" />
+        <meta property="og:description" content="Compare Varanasi outstation taxi per‑km rates, one‑way cab fares and round‑trip deals. 2026 guide with cheap sedan & SUV prices, tempo traveller costs and a fare calculator." />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={PAGE_URL} />
         <meta property="og:image" content={OG_IMG} />
         <meta property="og:site_name" content="Varanasi Taxi" />
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2025)" />
-        <meta name="twitter:description" content="Compare Varanasi outstation taxi per‑km rates, one‑way cab fares and round‑trip deals. 2025 guide with cheap sedan & SUV prices, tempo traveller costs and a fare calculator." />
+        <meta name="twitter:title" content="Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2026)" />
+        <meta name="twitter:description" content="Compare Varanasi outstation taxi per‑km rates, one‑way cab fares and round‑trip deals. 2026 guide with cheap sedan & SUV prices, tempo traveller costs and a fare calculator." />
         <meta name="twitter:image" content={OG_IMG} />
         <JsonLd data={jsonLd} />
       </Head>
@@ -161,7 +161,7 @@ export default function OutstationTaxiGuide() {
           </div>
           <div className="mx-auto max-w-6xl px-4 py-14 md:py-20">
             <motion.h1 {...fadeUp} className="text-3xl font-semibold tracking-tight text-white md:text-4xl lg:text-5xl">
-              Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2025)
+              Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2026)
             </motion.h1>
             <motion.p {...fadeUp} className="mt-3 max-w-3xl text-white/90 md:text-lg">
               Find the <strong>cheapest outstation cabs</strong>, compare <strong>per‑km taxi rates</strong>, book <strong>one‑way</strong> or <strong>round‑trip</strong> rides and estimate your <strong>trip cost</strong> in seconds. From Prayagraj to Lucknow, we’ve got you covered.
@@ -218,7 +218,7 @@ export default function OutstationTaxiGuide() {
 
         {/* OUR RATES (single table, no external providers) */}
         <motion.section id="rates" {...fadeUp} className="mx-auto max-w-6xl px-4 py-6">
-        <h2 className="text-2xl font-semibold tracking-tight">Varanasi Taxi outstation rates (2025)</h2>
+        <h2 className="text-2xl font-semibold tracking-tight">Varanasi Taxi outstation rates (2026)</h2>
         <p className="mt-2 text-slate-600">Transparent fares by vehicle class. Fuel included; add <em>tolls, state tax, parking</em> and any <em>driver night</em> charges if applicable.</p>
         <div className="mt-4">
           <Card className="border">
@@ -371,7 +371,7 @@ export default function OutstationTaxiGuide() {
             <Button asChild className="rounded-2xl bg-emerald-600 hover:bg-emerald-700"><a href={CONTACT.whatsappUrl} target="_blank" rel="noopener noreferrer"><MessageCircle className="mr-2 h-4 w-4"/> WhatsApp for best deal</a></Button>
             <Button asChild variant="secondary" className="rounded-2xl bg-amber-50 text-amber-950 hover:bg-amber-100"><a href={getCallTelHref()}><Phone className="mr-2 h-4 w-4"/> Call now</a></Button>
           </div>
-          <p className="mt-4 text-xs text-slate-500">Last updated: August 2025</p>
+          <p className="mt-4 text-xs text-slate-500">Last updated: April 2026</p>
         </motion.section>
       </main>
 

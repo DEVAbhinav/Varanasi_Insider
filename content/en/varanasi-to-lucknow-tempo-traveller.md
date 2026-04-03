@@ -1,10 +1,10 @@
 ---
 lang: en
 title: "Varanasi to Lucknow Tempo Traveller | Wi-Fi Corporate Shuttle"
-description: "Upgrade your 320 km transfer with recliner seats, onboard Wi-Fi, vetted night drivers, and transparent 2025 fare quotes. Block your corporate or wedding shuttle now."
-date: 2025-10-09
+description: "Upgrade your 320 km transfer with recliner seats, onboard Wi-Fi, vetted night drivers, and transparent 2026 fare quotes. Block your corporate or wedding shuttle now."
+date: 2026-10-09
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-10-09
+lastUpdated: 2026-10-09
 tags: [lucknow, tempo traveller, varanasi to lucknow, corporate travel, wedding logistics]
 keywords:
   - varanasi to lucknow tempo traveller
@@ -29,11 +29,11 @@ faqSchema:
     answer: "We operate 24×7. Flights landing in Lucknow after 11 PM incur a ₹600 night allowance; two-driver rotations available for red-eye runs."
 ---
 
-# Varanasi to Lucknow Tempo Traveller Hire (2025)
+# Varanasi to Lucknow Tempo Traveller Hire (2026)
 
 > **TL;DR:** Varanasi to Lucknow tempo traveller runs 320 km in 6 hours via Purvanchal Expressway with ₹12,500 12-seater drops, ₹13,800 for 17-seater, and night allowance only if arrivals past 11 PM. Lock fleet 5-7 days ahead so we can stage Wi-Fi dongle, laptop trays, and luggage trailer. Scroll for route timetable, fare grid, and booking steps.
 
-With the Purvanchal Expressway now reducing travel time, Tempo Travellers between Kashi and the state capital are booming—corporate delegates, wedding guests, student cohorts, even NRIs doing a double-city tour. This route page distils everything we learned after handling 80+ Varanasi–Lucknow charters in 2025.
+With the Purvanchal Expressway now reducing travel time, Tempo Travellers between Kashi and the state capital are booming—corporate delegates, wedding guests, student cohorts, even NRIs doing a double-city tour. This route page distils everything we learned after handling 80+ Varanasi–Lucknow charters in 2026.
 
 > **Snapshot:** 320 km · 6 hours · ₹12.5k all-inclusive drop · premium vehicles with Wi-Fi, ambient lighting, and large luggage bays.
 
@@ -104,9 +104,9 @@ Return journeys typically start 3:00 PM/5:00 PM to reach Varanasi by night. Two-
 
 ## Lucknow Tempo Traveller Client Feedback
 
-> *“Board meeting on wheels—HDMI screen and Wi-Fi helped us finish presentation before Lucknow pitch.”* — Varanasi fintech startup, Sept 2025
+> *“Board meeting on wheels—HDMI screen and Wi-Fi helped us finish presentation before Lucknow pitch.”* — Varanasi fintech startup, Sept 2026
 
-> *“Wedding guests reached Taj Lucknow fresh; loved the curated Awadhi snack hamper on board.”* — Agarwal family, Aug 2025
+> *“Wedding guests reached Taj Lucknow fresh; loved the curated Awadhi snack hamper on board.”* — Agarwal family, Aug 2026
 
 ## How to Book Your Varanasi to Lucknow Tempo Traveller
 

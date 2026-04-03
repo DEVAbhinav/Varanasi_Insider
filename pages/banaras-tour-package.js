@@ -160,7 +160,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
   return (
     <>
       <Head>
-        <title>Banaras Tour Package 2025 | Budget to Premium Packages | Kashi Taxi</title>
+        <title>Banaras Tour Package 2026 | Budget to Premium Packages | Kashi Taxi</title>
         <meta
           name="description"
           content="Best Banaras tour packages with expert guides. 3-7 day spiritual journeys with transparent pricing, accommodation near ghats, and 24/7 support."
@@ -169,7 +169,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
           name="keywords"
           content="banaras tour package, varanasi tour package, kashi tour package, banaras pilgrimage, banaras travel agency"
         />
-        <meta property="og:title" content="Banaras Tour Package 2025 | Budget to Premium Packages | Kashi Taxi" />
+        <meta property="og:title" content="Banaras Tour Package 2026 | Budget to Premium Packages | Kashi Taxi" />
         <meta
           property="og:description"
           content="Best Banaras tour packages with expert guides. 3-7 day spiritual journeys with transparent pricing, accommodation near ghats, and 24/7 support."
@@ -178,7 +178,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         <meta property="og:url" content="https://www.kashitaxi.in/banaras-tour-package" />
         <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Banaras Tour Package 2025 | Budget to Premium Packages | Kashi Taxi" />
+        <meta name="twitter:title" content="Banaras Tour Package 2026 | Budget to Premium Packages | Kashi Taxi" />
         <meta
           name="twitter:description"
           content="Best Banaras tour packages with expert guides. 3-7 day spiritual journeys with transparent pricing, accommodation near ghats, and 24/7 support."
@@ -343,7 +343,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
           { label: 'Why Banaras', anchor: '#experience-the-magic-of-banaras---one-package-at-a-time' },
           { label: 'Difference', anchor: '#the-banaras-tour-package-difference' },
           { label: 'Packages', anchor: '#our-banaras-tour-package-options' },
-          { label: 'Pricing', anchor: '#banaras-tour-package-pricing-breakdown-november-2025' },
+          { label: 'Pricing', anchor: '#banaras-tour-package-pricing-breakdown-april-2026' },
           { label: 'What\'s Inside', anchor: '#whats-inside-every-banaras-tour-package' },
           { label: 'Stories', anchor: '#real-banaras-tour-package-stories' },
           { label: 'FAQs', anchor: '#faq---banaras-tour-package-questions' },

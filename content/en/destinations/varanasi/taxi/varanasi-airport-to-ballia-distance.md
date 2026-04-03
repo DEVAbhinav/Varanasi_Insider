@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Ballia: Outstation Taxi | ₹24/km Fixed Rate"
 slug: "varanasi-airport-to-ballia-distance"
-date: "2025-11-19"
-lastUpdated: "2025-11-22"
+date: "2026-11-19"
+lastUpdated: "2026-11-22"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS to Ballia Outstation Cab: 150km, 3hrs | ₹2,500 Sedan"
@@ -28,7 +28,7 @@ faqSchema:
   - question: "What is the taxi fare from Varanasi Airport to Ballia?"
     answer: "Hatchbacks cost ₹2,028–₹2,300, sedans ₹2,550–₹2,800, and Innovas ₹2,600–₹3,200, with extra km at ₹11–₹12/km."
 ---
-# Varanasi Airport to Ballia: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Ballia: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Ballia is around 150–154 km via NH-31 and the drive normally takes 3–4 hours.**
 
@@ -54,7 +54,7 @@ From VNS, cabs typically:
 
 The highway hugs the general Ganga corridor and includes a mix of four-lane and two-lane stretches. Allow extra time during monsoon or major temple festivals.
 
-## Varanasi Airport to Ballia taxi fare (2025)
+## Varanasi Airport to Ballia taxi fare (2026)
 
 - **Hatchback:** ₹2,028–₹2,300, good for 2–3 passengers.
 - **Sedan:** ₹2,550–₹2,800, suitable for small families.

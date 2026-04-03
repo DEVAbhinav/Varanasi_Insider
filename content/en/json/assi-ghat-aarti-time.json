@@ -20,8 +20,8 @@
         "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-sunrise.jpeg",
         "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/assi-aarti-evening-P.jpeg"
       ],
-      "datePublished": "2025-11-25",
-      "dateModified": "2025-11-25",
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25",
       "author": {
         "@type": "Person",
         "name": "Naval Kishore"
@@ -37,8 +37,8 @@
       "@type": "Event",
       "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-time#morning",
       "name": "Assi Ghat Morning Aarti (Subah-e-Banaras)",
-      "startDate": "2025-11-25T06:30:00+05:30",
-      "endDate": "2025-11-25T07:00:00+05:30",
+      "startDate": "2026-11-25T06:30:00+05:30",
+      "endDate": "2026-11-25T07:00:00+05:30",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "location": {
@@ -74,8 +74,8 @@
       "@type": "Event",
       "@id": "https://www.kashitaxi.in/en/assi-ghat-aarti-time#evening",
       "name": "Assi Ghat Evening Sandhya Aarti",
-      "startDate": "2025-11-25T18:00:00+05:30",
-      "endDate": "2025-11-25T19:00:00+05:30",
+      "startDate": "2026-11-25T18:00:00+05:30",
+      "endDate": "2026-11-25T19:00:00+05:30",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "location": {

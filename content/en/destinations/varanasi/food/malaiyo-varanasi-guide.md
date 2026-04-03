@@ -1,7 +1,7 @@
 ---
 title: "Malaiyo in Varanasi (2026): Best Places, Timings & Price Guide"
 slug: "malaiyo-varanasi-guide"
-date: "2025-11-20"
+date: "2026-11-20"
 lastUpdated: "2026-02-05"
 author: "Varanasi Insider Team"
 lang: en
@@ -153,7 +153,7 @@ For Varanasi residents, malaiyo's appearance marks winter officially begun. It's
 
 **Accompanying Experience:**
 - Pair with chai tea (hot, spiced, served in small clay cups).
-- Book an early [sunrise yoga session on the ghats](/en/city/varanasi/activities/sunrise-yoga-varanasi-2025) and reward yourself with malaiyo afterward.
+- Book an early [sunrise yoga session on the ghats](/en/city/varanasi/activities/sunrise-yoga-varanasi-2026) and reward yourself with malaiyo afterward.
 - Watch the ghat life awakening around you.
 - Observe other malaiyo eaters – mix of locals, pilgrims, travelers.
 - Journal the experience while sensations are fresh.
@@ -185,7 +185,7 @@ For Varanasi residents, malaiyo's appearance marks winter officially begun. It's
 - Less traditional but reliable.
 - Different texture – not exactly authentic.
 - **Cost:** ₹50-80.
-- **Pro move:** Combine with a late-morning [Banarasi silk shopping run](/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2025) so you can sample sweets while browsing sarees.
+- **Pro move:** Combine with a late-morning [Banarasi silk shopping run](/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2026) so you can sample sweets while browsing sarees.
 
 ### Pro Tips for Maximum Enjoyment
 

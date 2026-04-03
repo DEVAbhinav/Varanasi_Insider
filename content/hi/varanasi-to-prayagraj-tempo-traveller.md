@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-prayagraj-tempo-traveller
-date: 2025-10-09
-lastUpdated: 2025-10-09
+date: 2026-10-09
+lastUpdated: 2026-10-09
 author: "कमल नयन सिंह"
 title: "वाराणसी से प्रयागराज Tempo Traveller ₹8,500 | त्रिवेणी संगम डे-टूर"
 description: "₹8,500 के टेम्पो ट्रैवलर पैकेज में प्राइवेट बोट, बड़े हनुमानजी दर्शन, स्वच्छ भोजन स्टॉप और अनुभवी ड्राइवर – व्हाट्सऐप पर तुरंत पुष्टि करें।"

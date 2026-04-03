@@ -4,13 +4,13 @@ title: "Varanasi Group Tour Package 2026 | 6 to 40+ Pilgrims, Families & Temple 
 metaTitle: "Varanasi Group Tour Package | 6-40+ Pilgrims, Families & Groups"
 metaDescription: "Book Varanasi group tour packages for 6 to 40+ people. One-day Kashi darshan, 3-day stays, Ayodhya-Prayagraj circuits, tempo traveller, mini bus, hotel and meal plans."
 description: "The main Kashitaxi group-tour page for pilgrim groups, families, temple committees, and mixed-age yatras visiting Varanasi with optional Ayodhya and Prayagraj extensions."
-date: 2025-08-30
+date: 2026-08-30
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"
 slug: varanasi-group-tour-package
 category: packages
 canonical: "https://www.kashitaxi.in/en/varanasi-group-tour-package"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/boat-ride-ganges-group.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-bird-river-p.jpg"
 tags:
   - varanasi group tour package
   - kashi yatra group

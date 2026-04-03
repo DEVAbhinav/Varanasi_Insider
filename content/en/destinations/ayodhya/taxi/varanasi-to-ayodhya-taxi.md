@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Ayodhya Taxi | Ram Mandir Cabs | ₹3,500 | KashiTaxi"
 slug: "varanasi-to-ayodhya-taxi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Ayodhya Taxi | Ram Mandir Cabs | ₹3,500 | KashiTaxi"
@@ -220,17 +220,17 @@ Choose from:
 **Review 1: Ramesh Patel (Family Pilgrimage)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Excellent service for our Ram Mandir darshan! The driver reached our hotel at 6 AM sharp. He knew exactly where to park near the temple and even guided us through the queue. Very respectful and knowledgeable. Highly recommend!"  
-**Trip**: Family of 5, Ertiga | **Date**: November 2025
+**Trip**: Family of 5, Ertiga | **Date**: November 2026
 
 **Review 2: Sunita Devi (Elderly Parents)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "I booked this taxi for my 70-year-old parents. The driver was very patient and helpful. He made stops whenever they needed and even assisted them at the temple. The car was clean and AC was perfect. Thank you KashiTaxi!"  
-**Trip**: 2 elderly passengers, Swift Dzire | **Date**: October 2025
+**Trip**: 2 elderly passengers, Swift Dzire | **Date**: October 2026
 
 **Review 3: Amit Kumar (Group Tour)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "We booked a Tempo Traveller for 14 people. The vehicle was in excellent condition, the driver was experienced, and we completed the entire trip smoothly. Visited Ram Mandir, Hanuman Garhi, and Kanak Bhawan. Great value for money!"  
-**Trip**: Group of 14, Tempo Traveller | **Date**: September 2025
+**Trip**: Group of 14, Tempo Traveller | **Date**: September 2026
 
 ### Verified Stats
 

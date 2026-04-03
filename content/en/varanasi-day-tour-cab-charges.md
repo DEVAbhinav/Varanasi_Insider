@@ -1,18 +1,18 @@
 ---
 title: "Varanasi Sightseeing Cab: 8hr Ghats & Temples Tour from ₹1,800"
 slug: "varanasi-day-tour-cab-charges"
-date: "2025-07-28"
-lastUpdated: "2025-12-22"
+date: "2026-07-28"
+lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png"
 showRatesCheatSheet: true
 metaTitle: "Varanasi Day Tour Cab: ₹1,800 for 8hr | Full Price List 2026"
 metaDescription: "Varanasi cab 8hr = ₹1,800 sedan, ₹2,500 Innova. Covers: Kashi Vishwanath, Sarnath, 5 ghats, Ganga Aarti. No hidden charges. Book: 80621 82380"
-description: "2025 Varanasi day tour cab price grid, temple queue hacks, sunrise-to-aarti VIP routing, and WhatsApp script to lock your driver before surge pricing hits."
+description: "2026 Varanasi day tour cab price grid, temple queue hacks, sunrise-to-aarti VIP routing, and WhatsApp script to lock your driver before surge pricing hits."
 keywords:
   - "varanasi day tour cab charges"
-  - "varanasi sightseeing taxi package 2025"
+  - "varanasi sightseeing taxi package 2026"
   - "varanasi city tour price"
   - "varanasi day tour itinerary by cab"
   - "book varanasi taxi full day"
@@ -23,12 +23,12 @@ tags:
   - sightseeing
   - taxi package
 relatedPosts:
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
   - varanasi-airport-taxi-price-guide
   - ganga-aarti-boat-booking-price
 ---
 
-# Varanasi Day Tour Cab Charges 2025: Prices & Itineraries
+# Varanasi Day Tour Cab Charges 2026: Prices & Itineraries
 
 Exploring Varanasi's rich tapestry of temples, ghats, and historical sites is best done with the convenience of a private cab. This guide details the typical full-day tour packages to help you plan your sightseeing itinerary.
 
@@ -41,7 +41,7 @@ Exploring Varanasi's rich tapestry of temples, ghats, and historical sites is be
 
 ## How Much Do Full-Day Taxi Packages Cost in Varanasi?
 
-![Varanasi day tour cab rate card graphic showing 8hr/12hr packages](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png "Varanasi day tour rate card 2025")
+![Varanasi day tour cab rate card graphic showing 8hr/12hr packages](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png "Varanasi day tour rate card 2026")
 
 Taxi operators in Varanasi typically offer two main packages for local sightseeing:
 *   **8 hours / 80 km:** Ideal for covering the main highlights within the city.
@@ -100,7 +100,7 @@ It's best to book through a trusted local operator to ensure you get a well-main
 
 ---
 
-> For a complete overview of all transport options, see our **[Varanasi Transport Price Guide](/en/varanasi-transport-price-guide-2025)**.
+> For a complete overview of all transport options, see our **[Varanasi Transport Price Guide](/en/varanasi-transport-price-guide-2026)**.
 
 ---
 

@@ -16,7 +16,7 @@
         "name": "KashiTaxi"
       },
       "sku": "PIND-DAAN-GAYA-VERIFIED",
-      "mpn": "KASHITAXI-PDG-2025",
+      "mpn": "KASHITAXI-PDG-2026",
       "category": "Pilgrimage Services > Pind Daan > Gaya",
       "offers": {
         "@type": "AggregateOffer",
@@ -24,7 +24,7 @@
         "lowPrice": "4350",
         "highPrice": "23300",
         "offerCount": "5",
-        "priceValidUntil": "2025-12-31",
+        "priceValidUntil": "2026-12-31",
         "availability": "https://schema.org/InStock",
         "url": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
         "seller": {
@@ -272,7 +272,7 @@
         },
         {
           "@type": "Question",
-          "name": "How much does pind daan cost in Gaya 2025?",
+          "name": "How much does pind daan cost in Gaya 2026?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Standard pind daan for 1-3 ancestors costs ₹4,350-6,300 total including pandit dakshina, temple fees, materials, Gayawal Panda registration, and transport. Extended packages for 5+ ancestors range from ₹10,850-23,300."
@@ -280,10 +280,10 @@
         },
         {
           "@type": "Question",
-          "name": "When is Pitru Paksha 2025?",
+          "name": "When is Pitru Paksha 2026?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pitru Paksha 2025 runs from September 7-21. The most auspicious time (Kutup Muhurat) is September 21 from 11:47 AM - 12:37 PM."
+            "text": "Pitru Paksha 2026 runs from September 7-21. The most auspicious time (Kutup Muhurat) is September 21 from 11:47 AM - 12:37 PM."
           }
         },
         {
@@ -322,11 +322,11 @@
     },
     {
       "@type": "Event",
-      "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#pitrupaksha2025",
-      "name": "Pitru Paksha 2025 - Pind Daan in Gaya",
+      "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#pitrupaksha2026",
+      "name": "Pitru Paksha 2026 - Pind Daan in Gaya",
       "description": "The most auspicious 15-day window for performing pind daan (ancestral rites) in Gaya at Vishnupad Temple",
-      "startDate": "2025-09-07",
-      "endDate": "2025-09-21",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-21",
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "location": {
@@ -349,7 +349,7 @@
         "price": "4350",
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2025-01-01"
+        "validFrom": "2026-01-01"
       }
     },
     {
@@ -386,8 +386,8 @@
       "@type": "WebPage",
       "@id": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi#webpage",
       "url": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-      "name": "Pind Daan in Gaya 2025: Verified Gayawal Panda Service from Varanasi | Cost & Dates",
-      "description": "Book legitimate pind daan in Gaya with verified Gayawal Pandas. Transparent cost breakdown, physical ritual, ancestral records. No fake priests. Dates, procedures, and pricing for 2025.",
+      "name": "Pind Daan in Gaya 2026: Verified Gayawal Panda Service from Varanasi | Cost & Dates",
+      "description": "Book legitimate pind daan in Gaya with verified Gayawal Pandas. Transparent cost breakdown, physical ritual, ancestral records. No fake priests. Dates, procedures, and pricing for 2026.",
       "inLanguage": "en",
       "isPartOf": {
         "@id": "https://www.kashitaxi.in#website"
@@ -402,8 +402,8 @@
         "@type": "ImageObject",
         "url": "https://www.kashitaxi.in/images/vishnupad-temple-gaya.jpg"
       },
-      "datePublished": "2025-12-22",
-      "dateModified": "2025-12-22"
+      "datePublished": "2026-12-22",
+      "dateModified": "2026-12-22"
     }
   ]
 }

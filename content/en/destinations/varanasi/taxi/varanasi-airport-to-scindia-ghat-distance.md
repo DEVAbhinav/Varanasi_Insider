@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to Scindia Ghat: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Scindia Ghat: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-scindia-ghat-distance"
-date: "2025-11-12"
-lastUpdated: "2025-11-12"
+date: "2026-11-12"
+lastUpdated: "2026-11-12"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Scindia Ghat: Distance, Time, Taxi Fare (2025)"
-metaDescription: "Chart the 26 km distance, 45–60 minute drive time, taxi fares, and submerged temple access tips for Scindia Ghat transfers from Varanasi Airport in 2025."
-description: "Travel from Varanasi Airport (VNS) to Scindia Ghat with verified distance, travel time, taxi fares, and Jalasen submerged temple viewing tips for 2025."
+metaTitle: "Varanasi Airport to Scindia Ghat: Distance, Time, Taxi Fare (2026)"
+metaDescription: "Chart the 26 km distance, 45–60 minute drive time, taxi fares, and submerged temple access tips for Scindia Ghat transfers from Varanasi Airport in 2026."
+description: "Travel from Varanasi Airport (VNS) to Scindia Ghat with verified distance, travel time, taxi fares, and Jalasen submerged temple viewing tips for 2026."
 keywords:
   - "varanasi airport to scindia ghat distance"
   - "scindia ghat submerged temple taxi"
@@ -33,7 +33,7 @@ faqSchema:
   - question: "When is the best time to leave the airport to see the submerged temple?"
     answer: "For sunrise views of the submerged Shiva temple, book a flight that lands before 3:30 AM and depart the airport by 4:30 AM to reach the ghat before dawn."
 ---
-# Varanasi Airport to Scindia Ghat: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Scindia Ghat: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Scindia Ghat is 26 km via Ring Road, Lahurabir, and Maidagin, and the drive typically takes 45–60 minutes in normal traffic.**
 
@@ -61,7 +61,7 @@ Take Ring Road toward Lahartara, swing past Cantt station, and cut through Lahur
 
 *Flash fare paused on Dev Deepawali, Kartik Purnima, Shraddh fortnight, and other notified peak days; applies to direct Scindia ghat homestay or boat jetty drops only.*
 
-Cross-check combo pricing in the [airport taxi fares 2025](/en/varanasi-airport-taxi-price-guide) matrix if you also plan Manikarnika or Panchganga stops.
+Cross-check combo pricing in the [airport taxi fares 2026](/en/varanasi-airport-taxi-price-guide) matrix if you also plan Manikarnika or Panchganga stops.
 
 ## Pickup at VNS and drop at Scindia Ghat
 Drivers wait at **Gate 3** inside arrivals, help secure luggage, and share a WhatsApp live location once en route. Near the river, taxis stage at the **Scindia lane barricade**; local escorts guide you through the final 120 metres of stepped alleys. Request porter support in advance if you carry heavy photography kits or rituals items.

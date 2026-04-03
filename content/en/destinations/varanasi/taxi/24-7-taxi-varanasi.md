@@ -1,8 +1,8 @@
 ---
 title: "24/7 Taxi Service in Varanasi | Night Cab & Emergency Transport | KashiTaxi"
 slug: "24-7-taxi-varanasi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "24/7 Taxi Service in Varanasi | Night Cab & Emergency Transport | KashiTaxi"

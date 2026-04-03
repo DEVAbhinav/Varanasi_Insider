@@ -86,7 +86,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-12-09",
+          "validFrom": "2026-12-09",
           "itemOffered": {
             "@type": "Product",
             "name": "Sarnath One-Way Transfer",
@@ -113,7 +113,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-12-09"
+          "validFrom": "2026-12-09"
         },
         {
           "@type": "Offer",
@@ -128,7 +128,7 @@
             "unitText": "per day"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-12-09"
+          "validFrom": "2026-12-09"
         },
         {
           "@type": "Offer",
@@ -143,7 +143,7 @@
             "unitText": "per package"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-12-09"
+          "validFrom": "2026-12-09"
         }
       ],
       "aggregateRating": {

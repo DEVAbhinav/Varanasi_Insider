@@ -1,8 +1,8 @@
 ---
 title: "How to Reach Tent City Varanasi 2026: Airport-to-Boat Step-by-Step Guide"
 slug: "how-to-reach-tent-city-varanasi"
-date: "2025-12-07"
-lastUpdated: "2025-12-07"
+date: "2026-12-07"
+lastUpdated: "2026-12-07"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "How to Reach Tent City Varanasi 2026 – Airport to Boat (No Missed Boats)"

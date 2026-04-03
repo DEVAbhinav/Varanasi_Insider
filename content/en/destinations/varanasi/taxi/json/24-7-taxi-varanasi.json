@@ -129,7 +129,7 @@
             }
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26",
+          "validFrom": "2026-11-26",
           "itemOffered": {
             "@type": "Service",
             "name": "Early Morning Transfer",
@@ -154,7 +154,7 @@
             }
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26",
+          "validFrom": "2026-11-26",
           "itemOffered": {
             "@type": "Service",
             "name": "Night Cab Service",
@@ -174,7 +174,7 @@
             "unitText": "fixed rate (any distance within Varanasi)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26",
+          "validFrom": "2026-11-26",
           "itemOffered": {
             "@type": "Service",
             "name": "Emergency Medical Transport",
@@ -194,7 +194,7 @@
             "unitText": "per day per employee (night shift premium included)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26",
+          "validFrom": "2026-11-26",
           "eligibleCustomerType": {
             "@type": "BusinessEntityType",
             "name": "Corporate Monthly Subscribers"
@@ -213,7 +213,7 @@
             "description": "Standard rate + ₹200 night surcharge"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         }
       ],
       "additionalProperty": [

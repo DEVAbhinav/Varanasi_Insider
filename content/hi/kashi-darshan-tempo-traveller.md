@@ -2,7 +2,7 @@
 lang: hi
 slug: kashi-darshan-tempo-traveller
 sourceSlug: kashi-darshan-tempo-traveller
-title: "काशी दर्शन Tempo Traveller पैकेज: 8 घंटे ₹5,500 (2025)"
+title: "काशी दर्शन Tempo Traveller पैकेज: 8 घंटे ₹5,500 (2026)"
 metaTitle: "काशी दर्शन टेम्पो ट्रैवलर ₹5,500 | 8hr/80km वाराणसी लोकल टूर"
 metaDescription: "काशी दर्शन 8 घंटे / 80 किमी पैकेज ₹5,500 (12 सीटर) – काशी विश्वनाथ, सारनाथ, घाट, गंगा आरती। कस्टम रूट, ड्राइवर + AC Tempo Traveller।"
 description: "Kashi Darshan Tempo Traveller पैकेज – 8 घंटे में प्रमुख मंदिर, BHU, सारनाथ (वैकल्पिक), गंगा आरती। साफ AC टेम्पो ट्रैवलर, अनुभवी लोकल ड्राइवर।"

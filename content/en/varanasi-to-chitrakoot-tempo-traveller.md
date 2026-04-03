@@ -3,9 +3,9 @@ lang: en
 title: "Varanasi to Chitrakoot Tempo Traveller | 2-Day Ramghat Circuit"
 description: "Cover Kamadgiri Parikrama, Hanuman Dhara, and Ramghat aarti with 1N Traveller support, driver rotation, and ₹18k transparent pricing—WhatsApp to reserve."
 slug: varanasi-to-chitrakoot-tempo-traveller
-date: 2025-09-18
+date: 2026-09-18
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-09-18
+lastUpdated: 2026-09-18
 tags: [chitrakoot, varanasi to chitrakoot, tempo traveller, pilgrimage, kamadgiri parikrama, ramghat]
 keywords: ["varanasi to chitrakoot tempo traveller","chitrakoot from varanasi tempo traveller","varanasi to chitrakoot itinerary","kamadgiri parikrama tempo traveller","chitrakoot tour 2 day from varanasi","varanasi to chitrakoot distance","hanuman dhara chitrakoot yatra"]
 relatedPosts:
@@ -28,7 +28,7 @@ faqSchema:
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 ---
 
-# Varanasi to Chitrakoot Tempo Traveller – 2 Day Pilgrimage Itinerary & Package (2025)
+# Varanasi to Chitrakoot Tempo Traveller – 2 Day Pilgrimage Itinerary & Package (2026)
 
 > **Quick Trip Facts**
 > - **Distance:** ~270 km (6–7 hours) via Prayagraj.
@@ -64,7 +64,7 @@ Planning a spiritually fulfilling journey from Kashi to Chitrakoot? This guide g
 - Space for prasad, fruits, blankets and walking sticks (esp. in 12 / 17 seater)
 - Experienced driver accustomed to Prayagraj bypass + rural stretches beyond Karwi
 
-## Varanasi to Chitrakoot Distance & Route (2025)
+## Varanasi to Chitrakoot Distance & Route (2026)
 | Segment | Approx Km | Notes |
 | --- | --- | --- |
 | Varanasi → Prayagraj (via NH19) | 120 | Breakfast halt near Handia / before Sangam exit |
@@ -130,7 +130,7 @@ Meditative rock slabs & symbolic reunion spots—short contemplative halts that 
 | Component | Approx Amount (₹) | Notes |
 | --- | --- | --- |
 | Base Km (600 @ ₹24) | 14,400 | Final km may vary 10–20 km |
-| Driver Allowance (1 night) | 600 | Standard 2025 rate |
+| Driver Allowance (1 night) | 600 | Standard 2026 rate |
 | Tolls / Parking | 900–1,200 | Variable; slips provided |
 | Total (Non‑Luxury) | 15,900–16,200 | Minor variation by route |
 | Buffer / Contingency | 1,000 | Optional extra margin |

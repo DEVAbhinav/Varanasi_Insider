@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to Manikarnika Ghat: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Manikarnika Ghat: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-manikarnika-distance"
-date: "2025-11-12"
-lastUpdated: "2025-11-12"
+date: "2026-11-12"
+lastUpdated: "2026-11-12"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Manikarnika Ghat: Distance, Time, Taxi Fare (2025)"
+metaTitle: "Varanasi Airport to Manikarnika Ghat: Distance, Time, Taxi Fare (2026)"
 metaDescription: "Understand the 25–26 km distance, 45–60 minute travel time, taxi fares, cremation protocol, and safe drop points for Manikarnika Ghat transfers from Varanasi Airport."
-description: "Navigate from Varanasi Airport (VNS) to Manikarnika Ghat with accurate distance, travel time, taxi fares, lane access, and cremation ghat etiquette tips for 2025."
+description: "Navigate from Varanasi Airport (VNS) to Manikarnika Ghat with accurate distance, travel time, taxi fares, lane access, and cremation ghat etiquette tips for 2026."
 keywords:
   - "varanasi airport to manikarnika distance"
   - "vns to manikarnika ghat taxi fare"
@@ -36,7 +36,7 @@ location:
   name: "Manikarnika Ghat"
   address: "Manikarnika Ghat, Varanasi, Uttar Pradesh 221001"
 ---
-# Varanasi Airport to Manikarnika Ghat: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Manikarnika Ghat: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Manikarnika Ghat is 25–26 km via Ring Road and Maidagin–Godowlia, and the drive typically takes 45–60 minutes in normal traffic.**
 
@@ -64,7 +64,7 @@ Follow Ring Road toward Lahartara, then continue through Godowlia to Maidagin. F
 
 *Flash fare not valid during Shraddh peak, Dev Deepawali, or major yatras and applies to direct Maidagin/Manikarnika access only.
 
-Check combined packages and return add-ons in the [airport taxi fares 2025](/en/varanasi-airport-taxi-price-guide) schedule.
+Check combined packages and return add-ons in the [airport taxi fares 2026](/en/varanasi-airport-taxi-price-guide) schedule.
 
 ## Pickup at VNS and drop at Manikarnika Ghat
 Your driver waits inside arrivals at **Gate 3** with a placard and offers a quick brief on cremation etiquette. City-side, vehicles halt at the Manikarnika barricade near **Kashi Karvat lane**; local assistants accompany you through the narrow steps if requested. Inform dispatch about heavy ritual items so porters are arranged ahead of time.

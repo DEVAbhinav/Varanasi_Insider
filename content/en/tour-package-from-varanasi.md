@@ -1,7 +1,7 @@
 ---
-title: "Tour Packages from Varanasi: Ayodhya, Prayagraj (2025)"
+title: "Tour Packages from Varanasi: Ayodhya, Prayagraj (2026)"
 slug: "tour-package-from-varanasi"
-date: "2025-08-07"
+date: "2026-08-07"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN
@@ -10,7 +10,7 @@ metaDescription: "Compare tour packages from Varanasi for Ayodhya, Prayagraj, Ga
 category: packages
 canonical: "https://www.kashitaxi.in/en/tour-package-from-varanasi"
 
-description: "Best multi‑city tour packages from Varanasi—Ayodhya, Prayagraj and more. 2025 itineraries, taxi costs and booking info. Get the plan."
+description: "Best multi‑city tour packages from Varanasi—Ayodhya, Prayagraj and more. 2026 itineraries, taxi costs and booking info. Get the plan."
 tags:
   - varanasi
   - ayodhya
@@ -111,7 +111,7 @@ This package is for those who wish to perform ancestral rites in Gaya.
 
 ---
 
-## Varanasi Tour Package Prices (2025)
+## Varanasi Tour Package Prices (2026)
 
 | Tour Package from Varanasi | Days | Sedan Price* | SUV Price* |
 |----------------------------|------|--------------|------------|

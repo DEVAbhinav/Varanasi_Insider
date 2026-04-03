@@ -1,5 +1,5 @@
 Title and URL
-Meta title: “Varanasi Airport to [Destination]: Distance, Time, Taxi Fare (2025)” to align with distance-intent and snippet extraction.​
+Meta title: “Varanasi Airport to [Destination]: Distance, Time, Taxi Fare (2026)” to align with distance-intent and snippet extraction.​
 
 URL: /en/varanasi-airport-to-[destination]-distance to keep the primary keyword early in the path.​
 
@@ -51,7 +51,7 @@ Avoid long marketing copy in this section; prioritize clarity and brevity.​
 Internal links
 Link to the master “Varanasi Airport Taxi Fares” page and a destination-specific sightseeing page to consolidate topical authority and user navigation.​
 
-Use descriptive anchors like “airport taxi fares 2025” and “[Destination] guide” to reinforce relevance without keyword stuffing.​
+Use descriptive anchors like “airport taxi fares 2026” and “[Destination] guide” to reinforce relevance without keyword stuffing.​
 
 Structured data (what to include)
 FAQPage: Mark up only the on-page FAQs for this specific route page; don’t duplicate the same Q&A across multiple pages.​

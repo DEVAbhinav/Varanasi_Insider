@@ -1,8 +1,8 @@
 ---
 lang: en
-title: "Tempo Traveller Wedding Varanasi: Guest Transport [2025]"
+title: "Tempo Traveller Wedding Varanasi: Guest Transport [2026]"
 description: "Seamless wedding transport in Varanasi—guest airport transfers, hotel shuttles and multi‑day hire with professional drivers. Get a custom quote."
-date: 2025-08-27
+date: 2026-08-27
 tags: [wedding, guest transport, tempo traveller, varanasi]
 slug: tempo-traveller-wedding-varanasi
 canonical: https://www.kashitaxi.in/en/tempo-traveller-wedding-varanasi

@@ -1,8 +1,8 @@
 ---
 title: "Makar Sankranti Ganga Snan Varanasi 2026: Dates, Kite Festival & Guide"
 slug: "makar-sankranti-ganga-snan-varanasi-2026"
-date: "2025-12-01"
-lastUpdated: "2025-12-01"
+date: "2026-12-01"
+lastUpdated: "2026-12-01"
 author: "Varanasi Insider Team"
 excerpt: "Celebrate Makar Sankranti 2026 in Varanasi with sacred Ganga Snan, kite festival, and harvest celebrations. Complete guide to dates, rituals, best ghats, and taxi booking."
 lang: en
@@ -1081,7 +1081,7 @@ Don't just witness Makar Sankranti—**immerse yourself** in India's most joyous
 
 ---
 
-*Last Updated: December 2025 | For real-time updates on Makar Sankranti 2026 weather, ghat conditions, taxi availability, and kite market prices, visit [www.kashitaxi.in](https://www.kashitaxi.in) or contact our helpline.*
+*Last Updated: December 2026 | For real-time updates on Makar Sankranti 2026 weather, ghat conditions, taxi availability, and kite market prices, visit [www.kashitaxi.in](https://www.kashitaxi.in) or contact our helpline.*
 
 **Traveler's Note:** Makar Sankranti is when Varanasi sheds its "intensity" and shows its joyful soul. Even if you're not religious, the sight of a thousand colorful kites against the ancient ghats will stay with you forever. Don't miss it.
 

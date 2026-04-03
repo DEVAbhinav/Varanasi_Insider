@@ -1,8 +1,8 @@
 ---
 title: "Corporate Mobility & Chauffeur Service for Banaras Lit Fest 2026 – KashiTaxi"
 slug: "banaras-lit-fest-2026-corporate-mobility-partner"
-date: "2025-12-07"
-lastUpdated: "2025-12-07"
+date: "2026-12-07"
+lastUpdated: "2026-12-07"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Corporate Mobility & Chauffeur Service for Banaras Lit Fest 2026 – KashiTaxi Professional Partner"

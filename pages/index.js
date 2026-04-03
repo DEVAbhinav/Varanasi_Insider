@@ -390,7 +390,7 @@ export default function HomePage({ allPosts }) {
             >
               <div className="relative h-48">
                 <Image
-                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/family-boat-ride-varanasi.jpg"
+                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Ganga-boat-birds-ghats-morning-l.jpg"
                   alt="Varanasi family package"
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"

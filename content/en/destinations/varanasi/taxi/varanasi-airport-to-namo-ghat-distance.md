@@ -1,8 +1,8 @@
 ---
 title: "VNS Airport to NaMo Ghat Taxi ₹690 | Light Show Drop, 35min Route"
 slug: "varanasi-airport-to-namo-ghat-distance"
-date: "2025-11-12"
-lastUpdated: "2025-11-30"
+date: "2026-11-12"
+lastUpdated: "2026-11-30"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to NaMo Ghat Taxi from ₹690 | 24 km, 35–50 min"
@@ -120,7 +120,7 @@ NaMo (Khidkiya) promenade doubles as the jetty for **Tent City Varanasi** catama
 
 *Flash fare paused on Dev Deepawali, Ganga Mahotsav evenings, and government event blockouts; valid for direct NaMo promenade or Ravidas Gate hotel drops only.*
 
-Review the [airport taxi fares 2025](/en/varanasi-airport-taxi-price-guide) table for bundled itineraries covering Assi or Dashashwamedh the same evening.
+Review the [airport taxi fares 2026](/en/varanasi-airport-taxi-price-guide) table for bundled itineraries covering Assi or Dashashwamedh the same evening.
 
 ## Pickup at VNS and drop at NaMo Ghat
 Your driver meets you at **Gate 3** inside arrivals, assists with luggage or prams, and shares a live tracking link en route. At the ghat, vehicles park in the **NaMo promenade parking bay**; the driver escorts you to the security gate for walkway access and remains available for the return ride.

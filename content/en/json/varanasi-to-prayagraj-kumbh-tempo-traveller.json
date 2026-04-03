@@ -24,7 +24,7 @@
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-kumbh-tempo-traveller#trip",
       "name": "Varanasi to Prayagraj Mahakumbh Tempo Traveller",
-      "description": "Permit-ready Tempo Traveller convoy from Varanasi to Prayagraj Mahakumbh 2025 with two-driver roster, barricade passes, and ₹14,500 snan day pricing.",
+      "description": "Permit-ready Tempo Traveller convoy from Varanasi to Prayagraj Mahakumbh 2026 with two-driver roster, barricade passes, and ₹14,500 snan day pricing.",
       "travelMode": "BUS",
       "itinerary": {
         "@type": "ItemList",
@@ -82,7 +82,7 @@
         },
         {
           "@type": "Question",
-          "name": "How early should we book for Mahakumbh 2025?",
+          "name": "How early should we book for Mahakumbh 2026?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Reserve at least 60 days in advance for main snan days; bookings close once the permitted vehicle quota is reached."
@@ -111,10 +111,10 @@
       "@id": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-kumbh-tempo-traveller#webpage",
       "url": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-kumbh-tempo-traveller",
       "name": "Varanasi to Prayagraj Kumbh Tempo Traveller",
-      "description": "Mahakumbh 2025 Tempo Traveller logistics from Varanasi with permits, crowd calendar, and ₹14,500 snan-day pricing.",
+      "description": "Mahakumbh 2026 Tempo Traveller logistics from Varanasi with permits, crowd calendar, and ₹14,500 snan-day pricing.",
       "inLanguage": "en-IN",
-      "datePublished": "2025-10-09",
-      "dateModified": "2025-10-09",
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",
@@ -124,8 +124,8 @@
     {
       "@type": "Product",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-prayagraj-kumbh-tempo-traveller/#product",
-      "name": "Varanasi to Prayagraj Mahakumbh 2025 Tempo Traveller",
-      "description": "Book Mahakumbh 2025 tempo traveller from Varanasi. Permit-ready, two-driver, barricade passes. Shahi Snan day ₹14,500, night halt available.",
+      "name": "Varanasi to Prayagraj Mahakumbh 2026 Tempo Traveller",
+      "description": "Book Mahakumbh 2026 tempo traveller from Varanasi. Permit-ready, two-driver, barricade passes. Shahi Snan day ₹14,500, night halt available.",
       "brand": {
         "@id": "https://www.kashitaxi.in#organization"
       },

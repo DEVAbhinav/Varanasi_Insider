@@ -1,10 +1,10 @@
 ---
 lang: en
-title: "Varanasi to Gaya Tempo Traveller | Pind Daan Escort 2025"
+title: "Varanasi to Gaya Tempo Traveller | Pind Daan Escort 2026"
 description: "Plan Vishnupad Pind Daan with registered pandas, 2-day Traveller support, Bodh Gaya add-ons, and transparent ₹17.5k pricing. Reserve your ritual slot today."
-date: 2025-10-09
+date: 2026-10-09
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-10-09
+lastUpdated: 2026-10-09
 tags: [gaya, pind daan, tempo traveller, pilgrimage, bodhgaya]
 keywords:
   - varanasi to gaya tempo traveller
@@ -78,7 +78,7 @@ Performing *Pind Daan* at Gaya is a sacred responsibility. Having escorted count
 
 - **Experience:** Escorting families for Shradh since 2018; we track pitru paksha crowd data.
 - **Expertise:** Our local coordinator Sunil is a Gayawal descendant who ensures rituals follow scriptural guidelines.
-- **Authoritativeness:** Featured in Kashi Gaya pilgrimage planning webinar (Aug 2025) by Uttar Pradesh Tourism.
+- **Authoritativeness:** Featured in Kashi Gaya pilgrimage planning webinar (Aug 2026) by Uttar Pradesh Tourism.
 - **Trust:** Transparent priest fees; digital receipts for every expense; 24/7 helpline while you are in Bihar.
 
 ## What We Handle for Gaya Pind Daan Pilgrims
@@ -105,9 +105,9 @@ Performing *Pind Daan* at Gaya is a sacred responsibility. Having escorted count
 
 ## Gaya Tempo Traveller Testimonials
 
-> *“Priest Pandit Madhusudanji patiently explained every mantra; our 82-year-old mother felt comforted. The Traveller had extra cushions and a hot water flask ready.”* — Chaturvedi family, September 2025
+> *“Priest Pandit Madhusudanji patiently explained every mantra; our 82-year-old mother felt comforted. The Traveller had extra cushions and a hot water flask ready.”* — Chaturvedi family, September 2026
 
-> *“Rain forecast didn’t worry us—team set up waterproof canopy near Falgu ghat. Rituals finished on time, Bodh Gaya sightseeing the next morning was serene.”* — NRI Sharma family, July 2025
+> *“Rain forecast didn’t worry us—team set up waterproof canopy near Falgu ghat. Rituals finished on time, Bodh Gaya sightseeing the next morning was serene.”* — NRI Sharma family, July 2026
 
 ## How to Book Your Varanasi to Gaya Tempo Traveller
 

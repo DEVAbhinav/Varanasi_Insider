@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Allahabad Tempo Traveller ₹8,500 | Sangam Day Trip"
 description: "Secure sunrise snan, Anand Bhavan heritage walk, and vetted priest support with our ₹8,500 Prayagraj charter. WhatsApp now for same-day confirmation."
-date: 2025-10-09
+date: 2026-10-09
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-10-09
+lastUpdated: 2026-10-09
 tags: [allahabad, prayagraj, tempo traveller, sangam darshan, heritage tour]
 keywords:
   - varanasi to allahabad tempo traveller
@@ -31,7 +31,7 @@ faqSchema:
     answer: "We work with vetted pandas near the government ghat. Your driver introduces you to a priest who clearly states dakshina before rituals to avoid last-minute confusion."
 ---
 
-# Varanasi to Allahabad Tempo Traveller Package (2025)
+# Varanasi to Allahabad Tempo Traveller Package (2026)
 
 If you grew up calling the city Allahabad and still want your itinerary to reflect that nostalgic name, this page is for you. We design a **Varanasi to Allahabad Tempo Traveller** charter blending sacred Sangam snan, colonial heritage, and delicious street food without rushing elders or school groups. Having personally escorted multiple alumni batches and joint families on this exact circuit, the suggestions below are grounded in on-road experience.
 
@@ -105,9 +105,9 @@ All quotes include fuel, tolls, Prayagraj bridge fee, Sangam parking, and driver
 
 ## Prayagraj Tempo Traveller Testimonials
 
-> *“School excursion ran on schedule—students loved Anand Bhavan walk while grandparents focused on Sangam rituals. Driver Ajit coordinated both flawlessly.”* — St. John's Alumni, August 2025
+> *“School excursion ran on schedule—students loved Anand Bhavan walk while grandparents focused on Sangam rituals. Driver Ajit coordinated both flawlessly.”* — St. John's Alumni, August 2026
 
-> *“We couldn’t walk much; coordinator arranged a battery cart from Sangam gate to boat jetty. Worth every rupee.”* — Srivastava family, July 2025
+> *“We couldn’t walk much; coordinator arranged a battery cart from Sangam gate to boat jetty. Worth every rupee.”* — Srivastava family, July 2026
 
 ## How to Book Your Varanasi to Prayagraj Tempo Traveller
 
@@ -122,4 +122,4 @@ All quotes include fuel, tolls, Prayagraj bridge fee, Sangam parking, and driver
 Experience unparalleled comfort, safety, and exclusive offers with our Tempo Traveller service. Don't miss our limited-time deals crafted just for your sacred journey.
 [Book Your Ride Now!](/booking)
 
-**Related Reads:** [Prayagraj Tempo Traveller Guide](/en/varanasi-to-prayagraj-tempo-traveller) · [Triveni Sangam Ritual Focus](/en/varanasi-to-triveni-sangam-tempo-traveller) · [Kumbh 2025 Special](/en/varanasi-to-prayagraj-kumbh-tempo-traveller)
+**Related Reads:** [Prayagraj Tempo Traveller Guide](/en/varanasi-to-prayagraj-tempo-traveller) · [Triveni Sangam Ritual Focus](/en/varanasi-to-triveni-sangam-tempo-traveller) · [Kumbh 2026 Special](/en/varanasi-to-prayagraj-kumbh-tempo-traveller)

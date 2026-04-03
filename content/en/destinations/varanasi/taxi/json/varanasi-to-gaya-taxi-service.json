@@ -78,7 +78,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-12-22",
+          "validFrom": "2026-12-22",
           "itemOffered": {
             "@type": "Product",
             "name": "Varanasi to Gaya Sedan Transfer",
@@ -104,7 +104,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-12-22",
+          "validFrom": "2026-12-22",
           "itemOffered": {
             "@type": "Product",
             "name": "Varanasi to Gaya SUV Transfer",
@@ -130,7 +130,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-12-22",
+          "validFrom": "2026-12-22",
           "itemOffered": {
             "@type": "Product",
             "name": "Varanasi to Gaya Innova Crysta",
@@ -156,7 +156,7 @@
             "unitText": "per vehicle"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-12-22",
+          "validFrom": "2026-12-22",
           "itemOffered": {
             "@type": "Product",
             "name": "Varanasi to Gaya Tempo Traveller",

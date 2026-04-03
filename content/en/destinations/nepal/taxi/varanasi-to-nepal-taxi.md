@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Nepal Taxi | Multiple Entry Points | ₹7,000+ | KashiTaxi"
 slug: "varanasi-to-nepal-taxi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Nepal Taxi ₹7,000+ (2026) | Sunauli Border → Kathmandu/Pokhara"

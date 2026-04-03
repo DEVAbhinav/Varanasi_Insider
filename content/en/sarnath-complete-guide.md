@@ -1,7 +1,7 @@
 ---
 title: "Sarnath Temple Guide 2026: Timings, Entry Fee & Museum Ticket"
 slug: "sarnath-complete-guide"
-date: "2025-10-26"
+date: "2026-10-26"
 lastUpdated: "2026-02-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
@@ -39,7 +39,7 @@ relatedPosts:
   - varanasi-sightseeing-complete-guide
   - tourist-spots-varanasi
   - varanasi-day-tour-cab-charges
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
   - best-time-to-visit-varanasi
 faqSchema:
   - question: "What is the Dhamek Stupa at Sarnath?"
@@ -281,7 +281,7 @@ Ancient coins from various dynasties, inscribed stone tablets, and seals providi
 
 ### Sarnath Museum Timings and Entry Fees
 
-**Museum Timings (2025):**
+**Museum Timings (2026):**
 
 - **Opening**: 9:00 AM
 - **Closing**: 5:00 PM (last entry 4:30 PM)
@@ -971,7 +971,7 @@ For serious Buddhist pilgrims or history enthusiasts, combine Sarnath with other
 - Access to lesser-known stories and legends
 - Navigate efficiently
 
-**Guide Rates (2025):**
+**Guide Rates (2026):**
 - **Half-day** (3-4 hours Sarnath): ₹800-1,200
 - **Full-day** (Varanasi + Sarnath): ₹1,600-2,000
 - **Group rates**: Negotiable for 10+ people
@@ -1200,6 +1200,6 @@ Experience where Buddha's revolutionary teachings began their journey across Asi
 
 **🙏 Walk where Buddha walked. See where dharma began. Experience Sarnath's living history.**
 
-📱 **Text "SARNATH 2025" to WhatsApp: +91 94503 01573** for instant quote and availability.
+📱 **Text "SARNATH 2026" to WhatsApp: +91 94503 01573** for instant quote and availability.
 
 *Your spiritual journey to Sarnath begins with one message.*

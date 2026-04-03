@@ -1,8 +1,8 @@
 ---
 title: "2 Nights / 3 Days Varanasi Tour Package"
 slug: "varanasi-3-day-tour"
-date: "2025-11-06"
-lastUpdated: "2025-11-06"
+date: "2026-11-06"
+lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-3-day-tour"
@@ -115,24 +115,24 @@ Stretching the itinerary over 72 hours gives breathing room to absorb Kashi’s 
 
 ---
 
-[^overview]: Travel Agent Varanasi three-day package blueprint, 2025.
-[^audience]: Customer persona mapping from CRM (Q3 2025).
-[^stay]: Accommodation master list curated Oct 2025.
+[^overview]: Travel Agent Varanasi three-day package blueprint, 2026.
+[^audience]: Customer persona mapping from CRM (Q3 2026).
+[^stay]: Accommodation master list curated Oct 2026.
 [^arrival]: Ground operations SOP, 2024 revision.
 [^kaal]: Kaal Bhairav temple trust advisory, 2024.
-[^kv]: Shri Kashi Vishwanath Temple board circular, 2025.
-[^oldcity]: Heritage walk script compiled July 2025.
-[^boat]: Kashi Motor Boat Association tariff sheet, Sept 2025.
+[^kv]: Shri Kashi Vishwanath Temple board circular, 2026.
+[^oldcity]: Heritage walk script compiled July 2026.
+[^boat]: Kashi Motor Boat Association tariff sheet, Sept 2026.
 [^aarti]: District administration crowd advisory, Nov 2024.
-[^subah]: Subah-e-Banaras program schedule, 2025.
-[^temples]: Sankat Mochan & Durga Kund visitor handbooks, 2025.
-[^food]: Ram Bhandar price board, Oct 2025.
+[^subah]: Subah-e-Banaras program schedule, 2026.
+[^temples]: Sankat Mochan & Durga Kund visitor handbooks, 2026.
+[^food]: Ram Bhandar price board, Oct 2026.
 [^sarnath]: ASI Sarnath visitor brochure, 2024.
-[^culture]: Cultural concierge partner catalog, Aug 2025.
+[^culture]: Cultural concierge partner catalog, Aug 2026.
 [^ramnagar]: Ramnagar Fort museum catalog, 2024.
-[^silk]: Weaver interviews, July 2025.
-[^shopping]: Varanasi market field study, 2025.
+[^silk]: Weaver interviews, July 2026.
+[^shopping]: Varanasi market field study, 2026.
 [^culinary]: Kashi food crawl notes, winter 2024.
-[^season]: IMD climate data + festival calendar, 2025.
+[^season]: IMD climate data + festival calendar, 2026.
 [^shoulder]: Booking pattern analysis, Apr & Sep 2024.
 [^off]: Operator occupancy logs, 2023–24.

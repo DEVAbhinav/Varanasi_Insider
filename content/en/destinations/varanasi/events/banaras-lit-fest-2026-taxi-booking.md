@@ -1,8 +1,8 @@
 ---
 title: "Premium Taxi & Luxury Car Booking for Banaras Lit Fest 2026 – KashiTaxi"
 slug: "banaras-lit-fest-2026-taxi-booking"
-date: "2025-12-07"
-lastUpdated: "2025-12-07"
+date: "2026-12-07"
+lastUpdated: "2026-12-07"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Premium Taxi & Luxury Car Booking for Banaras Lit Fest 2026 – KashiTaxi Official Service"
@@ -56,7 +56,7 @@ KashiTaxi offers premium, professionally-managed taxi and luxury car rental spec
 | **Attendee profile** | Authors, scholars, media, publishers, cultural enthusiasts |
 | **Transport priority** | Punctuality, vehicle cleanliness, English communication |
 
-**Why delegates trust us:** We coordinated 240+ transfers for Mahindra Kabira Festival 2025, every driver is background-verified, and our corporate booking line responds within 90 seconds on WhatsApp. This isn't just a ride—it's your professional entry point to Varanasi's intellectual space.
+**Why delegates trust us:** We coordinated 240+ transfers for Mahindra Kabira Festival 2026, every driver is background-verified, and our corporate booking line responds within 90 seconds on WhatsApp. This isn't just a ride—it's your professional entry point to Varanasi's intellectual space.
 
 ## Why Premium Transportation Matters for BLF 2026 Delegates
 
@@ -270,7 +270,7 @@ Driver meets you at arrivals with name placard, assists luggage, confirms Taj Ga
 
 **Track record:**
 
-- 240+ transfers for Mahindra Kabira Festival 2025
+- 240+ transfers for Mahindra Kabira Festival 2026
 - 180+ bookings for Kashi Tamil Sangamam 2024
 - 4.8/5 average rating from literary/cultural event attendees
 
@@ -359,7 +359,7 @@ A: Yes—we have [corporate mobility solutions](/en/city/varanasi/events/banaras
     "price": "2800",
     "priceCurrency": "INR",
     "availability": "https://schema.org/InStock",
-    "validFrom": "2025-12-07"
+    "validFrom": "2026-12-07"
   },
   "performer": {
     "@type": "Organization",

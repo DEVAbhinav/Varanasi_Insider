@@ -1,13 +1,13 @@
 ---
-title: "Varanasi Airport to DDU Junction (Mughalsarai): Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to DDU Junction (Mughalsarai): Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-ddu-junction-distance"
-date: "2025-11-12"
-lastUpdated: "2025-11-12"
+date: "2026-11-12"
+lastUpdated: "2026-11-12"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to DDU Junction Taxi ₹900+ | 35 km"
 metaDescription: "Varanasi Airport to DDU Junction (Mughalsarai): 35 km, typically 50–65 min. Sedan from ₹900, flash ₹690 on eligible bookings. Platform 1 forecourt drop."
-description: "Plan your Varanasi Airport (VNS) to DDU Junction/Mughalsarai transfer with verified distance, travel time, taxi fares, best route, and drop procedures for 2025."
+description: "Plan your Varanasi Airport (VNS) to DDU Junction/Mughalsarai transfer with verified distance, travel time, taxi fares, best route, and drop procedures for 2026."
 keywords:
   - "varanasi airport to ddu junction distance"
   - "vns to mughalsarai taxi fare"
@@ -20,7 +20,7 @@ tags:
 template: destination
 relatedPosts:
   - varanasi-airport-taxi-price-guide
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
 faqSchema:
   - question: "How far is DDU Junction from Varanasi Airport?"
     answer: "Deen Dayal Upadhyaya Junction (Mughalsarai) lies 35 km from Varanasi Airport (VNS) via NH31 and the Ganga bridge, taking about 50–65 minutes."
@@ -33,7 +33,7 @@ faqSchema:
   - question: "Is Ola or Uber reliable for DDU Junction runs?"
     answer: "App cabs cover the route but frequently decline late-night returns; reserved taxis guarantee both legs with fixed rates."
 ---
-# Varanasi Airport to DDU Junction (Mughalsarai): Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to DDU Junction (Mughalsarai): Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to DDU Junction (Mughalsarai) is 35 km via NH31 and the DDU bridge, and the drive typically takes 50–65 minutes in normal traffic.**
 

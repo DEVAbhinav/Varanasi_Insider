@@ -96,7 +96,7 @@
             "unitText": "per trip (3 km)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -111,7 +111,7 @@
             "unitText": "per trip (5 km)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -126,7 +126,7 @@
             "unitText": "per trip (7 km)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -141,7 +141,7 @@
             "unitText": "per trip (20 km)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         },
         {
           "@type": "Offer",
@@ -156,7 +156,7 @@
             "unitText": "per trip (30 km)"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2025-11-26"
+          "validFrom": "2026-11-26"
         }
       ],
       "additionalProperty": [

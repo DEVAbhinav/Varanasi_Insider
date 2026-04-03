@@ -3,9 +3,9 @@ lang: en
 title: "Varanasi Gaya Tour Package: Fatigue-Free Pilgrimage for Elderly Parents & Families (2026)"
 description: "Book our 4-5 day Varanasi Gaya Prayagraj tour package with private transport, elderly-friendly hotels & expert local guides. No crowds, no stress—pure devotion."
 slug: varanasi-gaya-prayagraj-tour-package-elderly
-date: 2025-12-22
+date: 2026-12-22
 author: "Kamal Nayan Singh"
-lastUpdated: 2025-12-22
+lastUpdated: 2026-12-22
 canonical: "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg"
 

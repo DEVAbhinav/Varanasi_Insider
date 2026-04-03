@@ -1,5 +1,5 @@
 ---
-title: "What to Wear in Varanasi (2025): A Local's Guide"
+title: "What to Wear in Varanasi (2026): A Local's Guide"
 date: "2024-05-15"
 author: "Travel Agent Varanasi Team"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/pink-sky-ghat-varanasi-l.jpeg"
@@ -15,7 +15,7 @@ keywords:
   - "dress code for kashi vishwanath temple"
 ---
 
-# What to Wear in Varanasi: 2025 Local Dress Code Guide
+# What to Wear in Varanasi: 2026 Local Dress Code Guide
 
 Varanasi, one of the world's oldest living cities, is a place of deep spiritual significance and vibrant culture. When visiting this sacred city, it's important to dress respectfully to honor local customs and traditions. This guide will help you decide what to wear in Varanasi, ensuring you are comfortable and culturally appropriate throughout your journey.
 

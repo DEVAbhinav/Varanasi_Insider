@@ -5,12 +5,12 @@
       "@type": "BlogPosting",
       "@id": "https://www.kashitaxi.in/navratri-pilgrimage-vindhyachal-from-varanasi-guide#blog",
       "url": "https://www.kashitaxi.in/navratri-pilgrimage-vindhyachal-from-varanasi-guide",
-      "headline": "Varanasi to Vindhyachal Navratri Pilgrimage: Ultimate Guide 2025",
+      "headline": "Varanasi to Vindhyachal Navratri Pilgrimage: Ultimate Guide 2026",
       "description": "Complete guide to planning your Navratri pilgrimage from Varanasi to Vindhyachal Shaktipeeth. Learn about Trikon Parikrama, travel options, accommodation, and sacred rituals for the ultimate spiritual journey.",
       "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg",
       "inLanguage": "en-IN",
-      "datePublished": "2025-09-16",
-      "dateModified": "2025-09-16",
+      "datePublished": "2026-09-16",
+      "dateModified": "2026-09-16",
       "author": {
         "@type": "Person",
         "name": "Kamal Nayan Singh",
@@ -25,7 +25,7 @@
       "keywords": [
         "varanasi to vindhyachal",
         "vindhyachal from varanasi",
-        "navratri vindhyachal 2025",
+        "navratri vindhyachal 2026",
         "trikon parikrama guide",
         "varanasi to vindhyachal travel",
         "vindhyavasini temple navratri",
@@ -50,8 +50,8 @@
           "@type": "Event",
           "name": "Navratri Festival",
           "description": "Nine-night festival celebrating the Divine Feminine",
-          "startDate": "2025-09-22",
-          "endDate": "2025-10-01",
+          "startDate": "2026-09-22",
+          "endDate": "2026-10-01",
           "eventStatus": "https://schema.org/EventScheduled",
           "performer": {
             "@type": "Organization",
@@ -232,11 +232,11 @@
     },
     {
       "@type": "Event",
-      "@id": "https://www.kashitaxi.in/navratri-pilgrimage-vindhyachal-from-varanasi-guide#navratri2025",
-      "name": "Sharad Navratri 2025 at Vindhyachal",
+      "@id": "https://www.kashitaxi.in/navratri-pilgrimage-vindhyachal-from-varanasi-guide#navratri2026",
+      "name": "Sharad Navratri 2026 at Vindhyachal",
       "description": "Nine-night festival celebrating Goddess Shakti at Vindhyachal Shaktipeeth",
-      "startDate": "2025-09-22",
-      "endDate": "2025-10-01",
+      "startDate": "2026-09-22",
+      "endDate": "2026-10-01",
       "location": {
         "@type": "Place",
         "name": "Vindhyachal",
@@ -302,7 +302,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi to Vindhyachal Navratri Pilgrimage: Ultimate Guide 2025",
+          "name": "Varanasi to Vindhyachal Navratri Pilgrimage: Ultimate Guide 2026",
           "item": "https://www.kashitaxi.in/navratri-pilgrimage-vindhyachal-from-varanasi-guide"
         }
       ]

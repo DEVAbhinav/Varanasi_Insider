@@ -1,8 +1,8 @@
 ---
-title: "Outstation Cabs Varanasi: Innova, Ertiga, Tempo [2025]"
+title: "Outstation Cabs Varanasi: Innova, Ertiga, Tempo [2026]"
 slug: "outstation-cabs-from-varanasi"
-date: "2025-08-10"
-lastUpdated: "2025-08-10"
+date: "2026-08-10"
+lastUpdated: "2026-08-10"
 author: "Kamal Nayan Singh"
 lang: en-IN
 
@@ -17,7 +17,7 @@ tags:
   - prayagraj
   - bodh gaya
 relatedPosts:
-  - varanasi-transport-price-guide-2025
+  - varanasi-transport-price-guide-2026
   - varanasi-to-ayodhya
   - varanasi-to-prayagraj
   - varanasi-to-gaya-bodh-gaya-tour-package
@@ -150,7 +150,7 @@ Roomy, AC, pushback seats, bottle holders, charging points.
 Planning a wedding run or carrying prams/suitcases? Ask for **outstation cab with luggage carrier Varanasi** at booking.
 **How we do it right:** rain cover, heavy straps, balanced load; we advise keeping valuables in-cabin. Some malls/temple parking have height bars—your chauffeur will guide alternatives.
 
-> Fare basics & inclusions: [Varanasi Transport Price Guide 2025](/en/varanasi-transport-price-guide-2025)
+> Fare basics & inclusions: [Varanasi Transport Price Guide 2026](/en/varanasi-transport-price-guide-2026)
 
 ---
 
@@ -226,4 +226,4 @@ Tell your chauffeur and message dispatch—fare adjusts transparently to actual 
 
 **WhatsApp [99354 74730](https://wa.me/919935474730) • Call [94503 01573](tel:+918062182380)** — Share date, route, pax, and if you need a **luggage carrier**. We’ll reply with a firm, written quote and a clean, comfortable vehicle you’ll actually want to sit in all day.
 
-<sub>Last updated: August 2025</sub>
+<sub>Last updated: August 2026</sub>

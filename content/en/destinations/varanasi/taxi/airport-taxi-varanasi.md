@@ -1,8 +1,8 @@
 ---
 title: "Airport Taxi in Varanasi | VNS Airport to City Cab Service | KashiTaxi"
 slug: "airport-taxi-varanasi"
-date: "2025-11-25"
-lastUpdated: "2025-11-25"
+date: "2026-11-25"
+lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Airport Taxi in Varanasi | VNS Airport to City Cab Service | KashiTaxi"

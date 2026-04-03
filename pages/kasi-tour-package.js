@@ -152,7 +152,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
   return (
     <>
       <Head>
-        <title>Kasi Tour Package 2025 | Kashi Darshan Spiritual Tours | Kashi Taxi</title>
+        <title>Kasi Tour Package 2026 | Kashi Darshan Spiritual Tours | Kashi Taxi</title>
         <meta
           name="description"
           content="Book authentic Kasi tour packages with expert guides. Spiritual journeys to Kashi (Varanasi) with transparent pricing, airport transfers, and 24/7 support."
@@ -161,7 +161,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
           name="keywords"
           content="kasi tour package, kashi tour package, varanasi tour package, kashi darshan, banaras pilgrimage, kashi taxi"
         />
-        <meta property="og:title" content="Kasi Tour Package 2025 | Kashi Darshan Spiritual Tours | Kashi Taxi" />
+        <meta property="og:title" content="Kasi Tour Package 2026 | Kashi Darshan Spiritual Tours | Kashi Taxi" />
         <meta
           property="og:description"
           content="Book authentic Kasi tour packages with expert guides. Spiritual journeys to Kashi (Varanasi) with transparent pricing, airport transfers, and 24/7 support."
@@ -170,7 +170,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
         <meta property="og:url" content="https://www.kashitaxi.in/kasi-tour-package" />
         <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Kasi Tour Package 2025 | Kashi Darshan Spiritual Tours | Kashi Taxi" />
+        <meta name="twitter:title" content="Kasi Tour Package 2026 | Kashi Darshan Spiritual Tours | Kashi Taxi" />
         <meta
           name="twitter:description"
           content="Book authentic Kasi tour packages with expert guides. Spiritual journeys to Kashi (Varanasi) with transparent pricing, airport transfers, and 24/7 support."
@@ -337,7 +337,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
           { label: 'Packages', anchor: '#our-kasi-tour-packages---spiritual-journeys-customized-for-you' },
           { label: 'Solo vs Package', anchor: '#why-book-a-kasi-tour-package-instead-of-solo-travel' },
           { label: 'Inside the Package', anchor: '#whats-inside-every-kasi-tour-package' },
-          { label: 'Pricing', anchor: '#kasi-tour-package-pricing---november-2025' },
+          { label: 'Pricing', anchor: '#kasi-tour-package-pricing---april-2026' },
           { label: 'FAQs', anchor: '#faq---kasi-tour-package-questions' },
           { label: 'How to Book', anchor: '#how-to-book-your-kasi-tour-package' },
           { label: 'Book Today', anchor: '#book-your-kasi-tour-package-today' },

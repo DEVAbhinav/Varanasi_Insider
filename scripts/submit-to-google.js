@@ -17,7 +17,7 @@ const NEW_FESTIVAL_PAGES = [
   'https://www.kashitaxi.in/en/ramnagar-ramlila-moving-stages-guide',
   'https://www.kashitaxi.in/en/tempo-traveller-group-booking-dussehra',
   'https://www.kashitaxi.in/en/book-taxi-varanasi-ramlila-dussehra',
-  'https://www.kashitaxi.in/en/ultimate-guide-ramlila-dussehra-varanasi-2025'
+  'https://www.kashitaxi.in/en/ultimate-guide-ramlila-dussehra-varanasi-2026'
 ];
 
 const SITE_URL = process.env.SITE_URL || 'https://www.kashitaxi.in';
@@ -174,7 +174,7 @@ async function main() {
     console.log('✅ Ready for Google Search Console submission');
     console.log('⏰ Expected indexing: 24-48 hours for urgent festival content');
     console.log('');
-    console.log('🚨 URGENT: October 2-3, 2025 is just days away!');
+    console.log('🚨 URGENT: October 2-3, 2026 is just days away!');
     console.log('   Submit these pages to Google Search Console immediately');
     console.log('   for maximum visibility during festival season.');
     

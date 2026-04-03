@@ -1,14 +1,14 @@
 ---
-title: 'Ghats of Varanasi: Visitor Guide [2025]'
+title: 'Ghats of Varanasi: Visitor Guide [2026]'
 slug: 'guide-to-ghats-of-varanasi'
-date: '2025-07-20'
+date: '2026-07-20'
 lastUpdated: '2026-03-07'
 author: 'Kamal Nayan Singh'
 featuredImage: 'https://placehold.co/1200x600/FBBF24/333333?text=Ghats+of+Varanasi'
 description: 'Ghats of Varanasi explained—from Dashashwamedh to Assi. Best spots, rituals and boat tips. Start here and explore smarter.'
 tags: ['ghats', 'guide', 'varanasi', 'tourism']
 relatedPosts:
-  - assi-ghat-aarti-timings-2025
+  - assi-ghat-aarti-timings-2026
   - dashashwamedh-ghat-ganga-aarti-timing
   - morning-boat-ride-varanasi-price
   - manikarnika-ghat-sacred-cremation-grounds
@@ -21,9 +21,9 @@ faqSchema:
     answer: "Assi Ghat works well for sunrise rides, while Dashashwamedh is the most requested zone for evening Aarti viewing from the river."
 ---
 
-# Ghats of Varanasi Visitor Guide 2025
+# Ghats of Varanasi Visitor Guide 2026
 
-> **TL;DR:** Ghats of Varanasi guide 2025 maps Dashashwamedh Aarti, Assi sunrise yoga, cremation protocols at Manikarnika, and boat bargaining basics so you move smarter across 80+ ghats. Arrive 45 minutes early for evening Aarti and book dawn boats from vetted oarsmen near the Assi cafe strip. Micro-tip: cache offline maps of alleys to dodge post-Aarti barricades.
+> **TL;DR:** Ghats of Varanasi guide 2026 maps Dashashwamedh Aarti, Assi sunrise yoga, cremation protocols at Manikarnika, and boat bargaining basics so you move smarter across 80+ ghats. Arrive 45 minutes early for evening Aarti and book dawn boats from vetted oarsmen near the Assi cafe strip. Micro-tip: cache offline maps of alleys to dodge post-Aarti barricades.
 
 Varanasi's soul lives on its ghats, the long chain of steps leading down to the holy River Ganges. There are over 80 ghats, each with its own story and significance.
 
@@ -152,7 +152,7 @@ That single framework is far more effective than trying to collect every famous 
 
 ## Useful Next Pages
 
-- [Assi Ghat Aarti Timings](/en/assi-ghat-aarti-timings-2025)
+- [Assi Ghat Aarti Timings](/en/assi-ghat-aarti-timings-2026)
 - [Dashashwamedh Ghat Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing)
 - [Morning Boat Ride Price](/en/morning-boat-ride-varanasi-price)
 - [Manikarnika Ghat Guide](/en/manikarnika-ghat-sacred-cremation-grounds)

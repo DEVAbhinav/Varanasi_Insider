@@ -10,7 +10,7 @@ author: "Kashi Taxi Team"
 slug: varanasi-tour-package-for-families
 category: packages
 canonical: "https://www.kashitaxi.in/hi/varanasi-tour-package-for-families"
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/family-boat-ride-varanasi.jpg"
+featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Ganga-boat-birds-ghats-morning-l.jpg"
 tags:
   - वाराणसी फैमिली पैकेज
   - परिवार के लिए काशी यात्रा

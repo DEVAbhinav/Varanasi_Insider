@@ -1,22 +1,22 @@
 ---
-title: "Ganga Aarti Boat Price Varanasi (2025): Best Seats"
+title: "Ganga Aarti Boat Price Varanasi (2026): Best Seats"
 slug: "ganga-aarti-boat-booking-price"
-date: "2025-07-27"
-lastUpdated: "2025-09-20"
+date: "2026-07-27"
+lastUpdated: "2026-09-20"
 canonical: "https://www.kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti/"
 status: "merged"
 seoNote: "Consolidated into evening boat ride guide to reduce duplication; keep stub for users/bookmarks until 301 added."
 ---
 
-# Ganga Aarti Boat Price in Varanasi 2025
+# Ganga Aarti Boat Price in Varanasi 2026
 
-> **TL;DR:** 2025 Ganga Aarti boat prices start at ₹250 shared and stretch beyond ₹10,000 for luxury bajras, but the live fare tracker now sits inside our evening boat ride hub, so use this page as a quick bookmark until the redirect ships. Micro-tip: screenshot the fare table before you hit the ghats so you can negotiate with confidence.
+> **TL;DR:** 2026 Ganga Aarti boat prices start at ₹250 shared and stretch beyond ₹10,000 for luxury bajras, but the live fare tracker now sits inside our evening boat ride hub, so use this page as a quick bookmark until the redirect ships. Micro-tip: screenshot the fare table before you hit the ghats so you can negotiate with confidence.
 
 > This pricing content has been **merged into the updated Evening Boat Ride Ganga Aarti Guide** for a single authoritative resource (boarding windows, fare bands, alignment tactics).
 >
-> Primary page: **[Evening Boat Ride – Ganga Aarti On‑Water Positioning & Fare Guide 2025](/en/evening-boat-ride-varanasi-ganga-aarti/)**
+> Primary page: **[Evening Boat Ride – Ganga Aarti On‑Water Positioning & Fare Guide 2026](/en/evening-boat-ride-varanasi-ganga-aarti/)**
 
-### Core 2025 Fare Reference (Snapshot – see main page for dynamic bands)
+### Core 2026 Fare Reference (Snapshot – see main page for dynamic bands)
 | Boat Type (Aarti Focus) | Typical Base Range | Festival Surge | Notes |
 |-------------------------|--------------------|---------------|-------|
 | Shared Rowboat (seat)  | ₹250–₹500 pp       | 2–4×          | Negotiate early (≤40 min pre‑start) |

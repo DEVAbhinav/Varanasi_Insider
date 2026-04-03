@@ -1,8 +1,8 @@
 ---
 title: "Magh Mela 2026 Complete Travel Guide: Dates, Routes & Transportation from Varanasi"
 slug: "magh-mela-2026-travel-guide-varanasi"
-date: "2025-12-06"
-lastUpdated: "2025-12-06"
+date: "2026-12-06"
+lastUpdated: "2026-12-06"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Magh Mela 2026 Complete Travel Guide: Dates, Routes & Transportation from Varanasi"

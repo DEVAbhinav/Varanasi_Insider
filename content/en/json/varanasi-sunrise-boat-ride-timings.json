@@ -3,15 +3,15 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Varanasi Sunrise Boat Ride Timings & Boarding Matrix 2025",
+      "headline": "Varanasi Sunrise Boat Ride Timings & Boarding Matrix 2026",
       "image": [
         "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg",
         "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg",
         "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-subeh-e-banaras-p.jpeg",
         "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-sunrise.jpeg"
       ],
-      "datePublished": "2025-08-01",
-      "dateModified": "2025-09-20",
+      "datePublished": "2026-08-01",
+      "dateModified": "2026-09-20",
       "author": [
         {
           "@type": "Person",
@@ -28,7 +28,7 @@
         },
         "@id": "https://www.kashitaxi.in#organization"
       },
-      "description": "Optimized 2025 Varanasi sunrise boat ride timetable with monthly boarding windows, visibility & temperature bands, fog risk and contingency guidance.",
+      "description": "Optimized 2026 Varanasi sunrise boat ride timetable with monthly boarding windows, visibility & temperature bands, fog risk and contingency guidance.",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://www.kashitaxi.in/en/varanasi-sunrise-boat-ride-timings/"
@@ -102,7 +102,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Varanasi Sunrise Boat Ride Timings & Boarding Matrix 2025",
+          "name": "Varanasi Sunrise Boat Ride Timings & Boarding Matrix 2026",
           "item": "https://www.kashitaxi.in/en/varanasi-sunrise-boat-ride-timings/"
         }
       ]

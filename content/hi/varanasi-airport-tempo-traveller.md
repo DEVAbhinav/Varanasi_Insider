@@ -2,8 +2,8 @@
 lang: hi
 slug: varanasi-airport-tempo-traveller
 sourceSlug: varanasi-airport-tempo-traveller
-title: "वाराणसी एयरपोर्ट टेम्पो ट्रैवलर: ₹2,500 फिक्स (2025)"
-metaTitle: "वाराणसी एयरपोर्ट Tempo Traveller ₹2,500 | ग्रुप ट्रांसफर 2025"
+title: "वाराणसी एयरपोर्ट टेम्पो ट्रैवलर: ₹2,500 फिक्स (2026)"
+metaTitle: "वाराणसी एयरपोर्ट Tempo Traveller ₹2,500 | ग्रुप ट्रांसफर 2026"
 metaDescription: "वाराणसी एयरपोर्ट से ग्रुप ट्रांसफर ₹2,500 फिक्स – लगेज स्पेस, मीट & ग्रीट, फ्लाइट मॉनिटरिंग, मल्टीपल ड्रॉप विकल्प। अभी बुक करें।"
 description: "Varanasi Airport Tempo Traveller फिक्स ₹2,500 – परिवार / समूह आगमन के लिए 1 वाहन, साफ AC, लगेज स्पेस, समय पर पिकअप।"
 keywords: ["वाराणसी एयरपोर्ट टेम्पो ट्रैवलर","airport tempo traveller varanasi hindi","varanasi airport group transfer","tempo traveller airport pickup kashi","varanasi airport 12 seater","varanasi airport 17 seater"]
@@ -100,7 +100,7 @@ canonical: "https://www.kashitaxi.in/hi/varanasi-airport-tempo-traveller"
 ## Internal SEO Links
 - Master Tempo Page: [/hi/tempo-traveller-varanasi]
 - Women Safety Cab: [/hi/services/varanasi-safest-taxi-for-women]
-- Transport Price Guide: [/hi/varanasi-transport-price-guide-2025]
+- Transport Price Guide: [/hi/varanasi-transport-price-guide-2026]
 
 ---
 साधारण भाषा रखी गयी – यदि विस्तार (अंग्रेज़ी जैसा लम्बा) चाहिए तो बतायें। अगला कौन सा पेज?

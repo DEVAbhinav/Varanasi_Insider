@@ -142,7 +142,7 @@ export default function KashiTaxiIntro() {
       <section id="fares" className="mx-auto max-w-6xl px-4 pt-10 md:pt-16 pb-6 motion-safe:md:animate-in motion-safe:md:fade-in motion-safe:md:slide-in-from-bottom-2 md:duration-500 md:ease-out md:[will-change:transform]">
         <div className="mb-2 flex items-center gap-2">
           <IndianRupee className="h-5 w-5 text-orange-600"/>
-          <h3 className="text-2xl font-semibold tracking-tight">Transparent taxi fares (2025)</h3>
+          <h3 className="text-2xl font-semibold tracking-tight">Transparent taxi fares (2026)</h3>
         </div>
         <div className="h-1 w-24 rounded-full bg-gradient-to-r from-orange-500 via-orange-500 to-rose-500"/>
         <p className="mt-3 text-slate-600">No guesswork—clear fare breakup with tolls/parking/night charges informed in advance.</p>
@@ -259,7 +259,7 @@ export default function KashiTaxiIntro() {
         <div role="note" className="mt-6 rounded-md border border-orange-200 bg-orange-50 p-4 text-sm">
           <p>
             <strong>Tip:</strong> Early‑morning Subah‑e‑Banaras aarti? We do reliable 4:30–5:30 AM pickups. See timings: {" "}
-            <a className="text-orange-700 underline" href="/en/assi-ghat-aarti-timings-2025">Assi Ghat Aarti Timings 2025</a>
+            <a className="text-orange-700 underline" href="/en/assi-ghat-aarti-timings-2026">Assi Ghat Aarti Timings 2026</a>
           </p>
         </div>
       </section>
@@ -427,7 +427,7 @@ export default function KashiTaxiIntro() {
             <a href={getCallTelHref()}><Phone className="mr-2 h-4 w-4"/> Call Now</a>
           </Button>
         </div>
-        <p className="mt-4 text-xs text-slate-500">Last updated: August 2025</p>
+        <p className="mt-4 text-xs text-slate-500">Last updated: April 2026</p>
       </section>
     </section>
   );

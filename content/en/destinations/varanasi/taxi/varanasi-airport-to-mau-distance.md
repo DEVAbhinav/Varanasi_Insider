@@ -1,11 +1,11 @@
 ---
-title: "Varanasi Airport to Mau: Distance, Time, Taxi Fare (2025)"
+title: "Varanasi Airport to Mau: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-mau-distance"
-date: "2025-11-19"
-lastUpdated: "2025-11-19"
+date: "2026-11-19"
+lastUpdated: "2026-11-19"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Mau: Distance, Time, Taxi Fare (2025)"
+metaTitle: "Varanasi Airport to Mau: Distance, Time, Taxi Fare (2026)"
 metaDescription: "Plan your 117–118 km taxi from Varanasi Airport to Mau: 2–3 hour highway drive via NH-31, updated fares for hatchback, sedan, Ertiga, and Innova, plus local sightseeing options."
 description: "Outstation taxi guide from Varanasi Airport (VNS) to Mau with distance, travel time, fare bands, and ideas for family-friendly leisure spots."
 keywords:
@@ -28,7 +28,7 @@ faqSchema:
   - question: "What is the taxi fare from Varanasi Airport to Mau?"
     answer: "Hatchbacks start around ₹2,300, sedans ₹2,400–₹2,450, Ertiga ₹3,250, and Innovas ₹3,600–₹4,000 with extra km at ₹11–₹13/km."
 ---
-# Varanasi Airport to Mau: Distance, Time, Taxi Fare (2025)
+# Varanasi Airport to Mau: Distance, Time, Taxi Fare (2026)
 
 **The distance from Varanasi Airport (VNS) to Mau is 117–118 km via NH-31 and the drive usually takes 2–3 hours.**
 
@@ -54,7 +54,7 @@ From the airport, taxis typically:
 
 Highway conditions are generally good, with a few slower town stretches and toll booths along the way. Night transfers are common; still, plan one or two safe dhaba halts rather than frequent random stops.
 
-## Varanasi Airport to Mau taxi fare (2025)
+## Varanasi Airport to Mau taxi fare (2026)
 
 - **Hatchback:** From **₹2,300**, best for 2–3 travellers with light luggage.
 - **Sedan:** **₹2,400–₹2,450**, comfortable for 3–4 adults.

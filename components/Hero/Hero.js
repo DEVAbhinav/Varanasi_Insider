@@ -23,7 +23,7 @@ export default function Hero() {
       {/* Content */}
       <div className={styles.content}>
         <h1 className={styles.title}>
-          Best Outstation Taxi & Varanasi Travel Guides - 2025
+          Best Outstation Taxi & Varanasi Travel Guides - 2026
         </h1>
 
         {/* Trust Badges */}
