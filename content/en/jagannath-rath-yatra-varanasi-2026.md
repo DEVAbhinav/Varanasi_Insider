@@ -38,6 +38,8 @@ faqSchema:
 
 > TL;DR: Jagannath Rath Yatra in Varanasi 2026 is best handled with one viewing point, early arrival, and a confirmed exit plan.
 
+Need help matching festival timing with pickup and return planning? [WhatsApp us](https://wa.me/919450301573?text=Need%20Jagannath%20Rath%20Yatra%20pickup%20and%20return%20planning).
+
 ## Before you go
 
 This page is for visitors who want practical help for Rath Yatra evening in Varanasi. Procession timing, barricades, and route pressure can shift on the day, so treat this as a planning guide and recheck local updates through your hotel, driver, temple contacts, or police traffic advisories.
@@ -83,6 +85,8 @@ This guide is most useful for:
 
 Reach early, do not experiment with side lanes once movement starts, and avoid trying to combine the procession with Kashi Vishwanath darshan on the same evening.
 
+If you are still trying to combine temple and evening movement, start with [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package) before forcing a same-evening festival plan.
+
 ### If you are traveling with elders
 
 Pick a slightly less aggressive view point with easier exit rather than the most crowded center. The best experience for elders is usually a shorter, clearer viewing window, not the densest section.
@@ -122,6 +126,8 @@ Use a simple structure:
 - Confirm return movement before entering dense procession segments.
 
 For city movement pricing and options, use [Varanasi Transport Price Guide](/en/varanasi-transport-price-guide-2026).
+
+If you are arriving by flight and heading into the city before the procession, check [Varanasi Airport to City Cab](/en/services/varanasi-airport-to-city-cab) so your transfer plan is fixed in advance.
 
 ## Crowd safety checklist
 

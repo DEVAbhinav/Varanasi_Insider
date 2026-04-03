@@ -38,6 +38,8 @@ faqSchema:
 
 > TL;DR: Kanwar Yatra in Varanasi 2026 requires larger transfer buffers, lighter schedules, and verified last-mile access.
 
+Need a route-aware pickup plan during Kanwar dates? [WhatsApp us](https://wa.me/919450301573?text=Need%20Kanwar%20Yatra%20pickup%20and%20transfer%20planning%20in%20Varanasi).
+
 ## What this guide helps you avoid
 
 This is a movement guide, not a spiritual explainer. Its job is to help you avoid the common mistakes that make an arrival day, darshan day, or departure day harder than it needs to be during Kanwar movement peaks.
@@ -78,6 +80,8 @@ If your plan falls into a red band, simplify it before the day begins.
 
 This is manageable only if you accept that the final segment matters more than the highway segment. A hotel near Godowlia, Dashashwamedh, or Kashi Vishwanath access corridors may require a controlled drop point plus a short walk. During Kanwar-sensitive periods, that last segment should be confirmed before you leave the airport.
 
+Use [Varanasi Airport to City Cab](/en/services/varanasi-airport-to-city-cab) if you want the airport leg fixed before you start dealing with old-city access risk.
+
 ### Railway station to darshan-day itinerary
 
 This is where travelers overestimate efficiency. Reaching the city by train, checking in, and attempting same-day darshan or aarti can fail if the route and access assumptions are weak. Keep darshan and arrival on separate blocks whenever possible.
@@ -92,6 +96,8 @@ If you are leaving Varanasi the same day, avoid building your morning around unc
 - Elders: avoid hotel changes and long luggage carries through dense lanes.
 - Solo travelers: use flexibility to protect buffers, not to overpack the day.
 - Pilgrimage travelers: keep devotion plans realistic instead of stacking temple, transfer, and aarti in one narrow window.
+
+If your stay itself is still undecided, [Hotel Booking in Varanasi](/en/services/hotel-booking-in-varanasi) is the more useful page than comparing random old-city properties without access planning.
 
 ## Smart movement rules
 

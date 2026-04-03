@@ -38,6 +38,8 @@ faqSchema:
 
 > TL;DR: Nirjala Ekadashi in Varanasi 2026 is best experienced with one early temple plan, a long midday break, and strict heat caution.
 
+Need help matching darshan timing with pickup and return planning? [WhatsApp us](https://wa.me/919450301573?text=Need%20Nirjala%20Ekadashi%20darshan%20and%20cab%20planning).
+
 ## Nirjala Ekadashi 2026 date and context
 
 - Expected date: June 25, 2026
@@ -64,6 +66,8 @@ The right approach is observational, respectful, and heat-aware.
 ### Window 1: Early morning darshan or observation
 
 This is the safest and most useful part of the day. Temperatures are still manageable, crowd behavior is calmer, and the city's devotional rhythm is clearer.
+
+For visitors trying to combine darshan with a structured temple-evening plan, review [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package) before building the day yourself.
 
 ### Window 2: Midday retreat
 
@@ -113,6 +117,8 @@ Detailed clothing protocol: [What to Wear in Varanasi](/en/what-to-wear-in-varan
 
 - Keep pickup and return points simple.
 - Add 20-40 minute movement buffer for summer-day slowdowns.
+
+If your day starts with an airport arrival, use [Varanasi Airport to City Cab](/en/services/varanasi-airport-to-city-cab) to avoid burning your safe morning window on transfer confusion.
 
 ## Who should be most careful
 
