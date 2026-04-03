@@ -117,6 +117,16 @@ If your query is **Manikarnika Ghat near temple**, it is near the wider Kashi Vi
 
 ## What to Expect at the Ghat
 
+### Monsoon Advisory (July-September)
+
+During high-river weeks, lower-step access patterns can change quickly and rituals may shift into tighter upper-lane zones.
+
+- Keep extra walking time; routes can be redirected without notice.
+- Avoid crowding active ritual lanes for photos or shortcuts.
+- Use a pre-decided pickup point outside the narrowest sections.
+
+For broader rainy-season movement planning, check [Varanasi in Monsoon](/en/varanasi-in-monsoon-july-september-2026).
+
 - **Ritual atmosphere:** Chanting, smoke, wood stacks, and active funeral processes.
 - **Cremation operations:** Ongoing rites led by priests and the Dom community.
 - **Sacred landmarks nearby:** Manikarnika Kund and nearby temples in the surrounding lanes.
