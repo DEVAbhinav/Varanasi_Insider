@@ -62,6 +62,15 @@ Solo female travelers should take extra care with their attire to ensure their s
 
 ## What to Wear in Different Seasons
 
+## May-July 2026 Practical Protocol
+
+- **Peak heat (May-June):** light full-sleeve cotton, loose trousers, cap/scarf, and aggressive hydration.
+- **Nirjala and major ritual days:** avoid dark heavy fabrics; keep breathable layers for long standing periods.
+- **Monsoon (July):** anti-slip waterproof sandals are safer than smooth sneakers on wet ghat steps.
+- **Festival crowd lanes:** carry a light towel/scarf and keep hands free for balance in dense movement.
+
+If your trip is during active rains, pair this with [Varanasi in Monsoon](/en/varanasi-in-monsoon-july-september-2026).
+
 ### Summer (March to June)
 
 - **Lightweight and Breathable:** Pack light cotton and linen clothing.
