@@ -59,6 +59,19 @@ This comprehensive guide covers all major **Sarnath temples**, their architectur
 
 ## Mulagandha Kuti Vihar: Main Sarnath Temple & Buddhist Worship Center
 
+## Event-Day Etiquette (Buddha Purnima and Guru Purnima)
+
+On major Buddhist observance days, visitor discipline matters more than speed.
+
+- Join prayer halls quietly; avoid aisle blocking for photos.
+- Keep phone on silent and avoid flash during chanting.
+- Dress modestly and stay seated through active prayer segments.
+- Follow monastery volunteers for queue direction instead of improvising routes.
+
+This helps preserve the spiritual atmosphere and avoids avoidable friction for international pilgrims.
+
+For transport coordination on event days, use [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) or [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package).
+
 ![Main Sarnath Temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vishwanath-Mandir-Evenging-Square-Outside.jpeg)
 *Mulagandha Kuti Vihar - the main Sarnath Buddhist temple*
 
