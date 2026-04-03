@@ -1,13 +1,13 @@
 ---
-title: "Assi Ghat Aarti Time 2026-2026 Update — Morning & Evening Schedule"
+title: "Assi Ghat Aarti Time 2026: Morning & Evening Timings"
 slug: "assi-ghat-aarti-timings-2026"
 date: "2026-08-04"
 lastUpdated: "2026-03-07"
 author: "Naval Kishore"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-aarti-l.jpeg"
-metaTitle: "Assi Ghat Aarti Timing [2026] + Best Seat Strategy"
-metaDescription: "Catch Assi Ghat's intimate 5:30 AM yoga aarti with locals. Expert tips on best seating, arrival time & photography. Plan your visit today."
+metaTitle: "Assi Ghat Aarti Time 2026: Morning & Evening Timings Today"
+metaDescription: "Assi Ghat Aarti time today: morning Subah-e-Banaras and evening Ganga Aarti timings, best arrival time, seating tips, and monthly schedule."
 description: "Get the latest summer and winter timings for the Assi Ghat Ganga Aarti. Learn what to expect, the duration, and tips for the best view."
 keywords: "assi ghat aarti, assi ghat aarti time, assi ghat aarti timings, assi ghat ganga aarti timings, assi ghat morning aarti time, subah e banaras assi ghat, assi ghat sunrise aarti, varanasi morning aarti, sunrise boat ride assi ghat, assi ghat aarti time today"
 tags:

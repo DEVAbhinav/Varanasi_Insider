@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Ayodhya Distance, Taxi Fare & Travel Options (2026)"
+title: "Varanasi to Ayodhya Distance 2026: Taxi Fare, Time & Travel Options"
 slug: "varanasi-to-ayodhya"
 date: "2026-08-07"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg"
-metaTitle: "Varanasi to Ayodhya Taxi Fare 2026 | Distance, Time, Train vs Cab"
-metaDescription: "Compare Varanasi to Ayodhya taxi fare, distance, time, train options and same-day return planning. 219 km in 4-5 hours. Clear cab ranges, route tips and darshan planning."
+metaTitle: "Varanasi to Ayodhya Distance 2026: Taxi Fare, Time, Train vs Cab"
+metaDescription: "Varanasi to Ayodhya distance is about 219 km. Check taxi fare, travel time, train vs cab comparison, and same-day Ram Mandir trip planning."
 description: "The general Varanasi to Ayodhya planning page for route distance, taxi fare, train-vs-cab comparison, same-day return logic and Ram Mandir travel timing."
 keywords:
   - "varanasi to ayodhya distance"

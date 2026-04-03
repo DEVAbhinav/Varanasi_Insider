@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Bodh Gaya Taxi: Same Day Buddhist Circuit from ₹5,500"
+title: "Varanasi to Bodh Gaya Distance & Taxi Fare 2026: Same-Day Trip Guide"
 slug: "varanasi-to-bodhgaya-taxi-cost"
 date: "2026-07-28"
 lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg"
-metaTitle: "Varanasi to Bodhgaya Taxi [2026]: Fare ₹4,500 | 6 Hrs"
-metaDescription: "Travel Varanasi to Bodhgaya (250 km, 5-6 hrs) comfortably. AC Taxi fare starts ₹4,500 one-way. Reliable drivers for Buddhist pilgrimage. Book now."
+metaTitle: "Varanasi to Bodh Gaya Distance 2026: Taxi Fare, Time & Route"
+metaDescription: "Varanasi to Bodh Gaya distance is about 250 km. Check taxi fare, travel time, same-day trip planning, and Buddhist Circuit route details."
 description: "2026 Varanasi → Bodh Gaya taxi fares, route intel, pit-stop map, and WhatsApp script to lock fixed quotes before touts call back."
 keywords:
   - "varanasi to bodh gaya taxi cost"

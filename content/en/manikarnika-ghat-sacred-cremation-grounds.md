@@ -1,5 +1,5 @@
 ---
-title: "Manikarnika Ghat Varanasi: History, Significance, Location & Visit Guide"
+title: "Manikarnika Ghat Varanasi: History, Meaning, Location & Visit Rules"
 slug: "manikarnika-ghat-sacred-cremation-grounds"
 date: "2026-07-28"
 author: "Kamal Nayan Singh"
@@ -7,8 +7,8 @@ description: "Manikarnika Ghat Varanasi guide covering history and significance,
 
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/manikarnika-ghat-sacred-cremation-grounds"
-metaTitle: "Manikarnika Ghat Varanasi: History, Significance, Location, Visit Info"
-metaDescription: "Learn what Manikarnika Ghat is, why it is famous, where it is located in Varanasi, how to reach it, and key etiquette for a respectful visit."
+metaTitle: "Manikarnika Ghat Varanasi: Why It Is Famous, Where It Is, Visit Guide"
+metaDescription: "What is Manikarnika Ghat, why is it famous, where is it located, and what should visitors know before going? A clear, respectful first-time guide."
 keywords:
   - "manikarnika ghat"
   - "manikarnika ghat varanasi"

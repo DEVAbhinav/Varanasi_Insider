@@ -1,12 +1,12 @@
 ---
-title: "Varanasi to Nepal Taxi | Multiple Entry Points | ₹7,000+ | KashiTaxi"
+title: "Varanasi to Nepal Taxi 2026: Fare, Border Route & Travel Time"
 slug: "varanasi-to-nepal-taxi"
 date: "2026-11-25"
 lastUpdated: "2026-11-25"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Nepal Taxi ₹7,000+ (2026) | Sunauli Border → Kathmandu/Pokhara"
-metaDescription: "Varanasi to Nepal taxi via Sunauli border: fares from ₹7,000+ to Kathmandu, Pokhara & Lumbini. Border rules, required documents, safe drivers."
+metaTitle: "Varanasi to Nepal Taxi 2026: Sunauli Border Fare, Route & Documents"
+metaDescription: "Varanasi to Nepal taxi via Sunauli border: fare, travel time, entry routes, required documents, and options for Kathmandu, Pokhara and Lumbini."
 description: "Book Varanasi to Nepal taxi from ₹7,000+. Four major border routes available: Sunauli (most popular), Raxaul-Birgunj, Kakarbhitta, Mahendranagar. Reach Kathmandu, Pokhara, Lumbini, Chitwan. Complete Nepal travel guide, visa assistance."
 keywords:
   - "varanasi to nepal taxi"
