@@ -35,6 +35,7 @@ faqSchema:
     answer: "Private rowboat (4–6 pax): ₹1,800–₹3,000 for a 1–2 hour ride. Private motorboat (up to 15 pax): ₹3,500–₹6,000. For the full 84-ghat tour (3–4 hours), expect ₹4,000–₹8,000 depending on boat type and season."
 ---
 
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "OfferCatalog",
@@ -182,6 +183,25 @@ Board 30–45 min pre‑sunrise (winter earlier due to fog). Detailed month-by-m
 **Can I reschedule if the river is choppy?** Most private operators allow a sunrise-to-sunrise shift with 6–8 hours notice—get it on WhatsApp.  
 **Do kids count as full fare on shared seats?** Union counters bill children above five as adults; private charters often waive charges for under-tens.  
 
-## 10. Cross Links
-Need timing precision? Open Sunrise Timings. Want evening alignment & on‑water positioning? See Evening Boat Ride guide.
+## 10. What Our Customers Say
 
+![Happy customers on a sunrise boat ride near Assi Ghat, January 2026](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-sunrise-jan-1.jpg "Sunrise boat ride customers – January 2026")
+
+![Couple enjoying the golden hour on the Ganges, February 2026](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-ganga-feb.jpg "Morning ghat views from our boat – February 2026")
+
+### Video Reviews from Real Customers
+
+<video controls preload="metadata" width="100%" poster="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-sunrise-jan-2.jpg">
+  <source src="https://res.cloudinary.com/dkntlqbwr/video/upload/kashitaxi/kashitaxi/kashitaxi/boat-review-video-jan.mp4" type="video/mp4">
+</video>
+
+*"The sunrise was magical. Our boatman knew exactly where to position us for photography."* — Guest, January 2026
+
+<video controls preload="metadata" width="100%" poster="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-aarti-feb-2.jpg">
+  <source src="https://res.cloudinary.com/dkntlqbwr/video/upload/kashitaxi/kashitaxi/kashitaxi/boat-review-video-feb-1.mp4" type="video/mp4">
+</video>
+
+*"We booked a private rowboat for our family. Kids loved every moment."* — Guest, February 2026
+
+## 11. Cross Links
+Need timing precision? Open Sunrise Timings. Want evening alignment & on‑water positioning? See Evening Boat Ride guide.

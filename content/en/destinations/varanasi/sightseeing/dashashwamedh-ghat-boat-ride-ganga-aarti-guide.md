@@ -424,6 +424,22 @@ If you book an extended boat tour (2–3 hours), many routes include Manikarnika
 
 ---
 
+## What Our Customers Say
+
+![Customers watching Ganga Aarti from boat at Dashashwamedh Ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-aarti-feb-1.jpg "Aarti boat ride customers – February 2026")
+
+![Evening boat positioning for Dashashwamedh Aarti, March 2026](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-evening-mar-2.jpg "Front-row aarti view from boats – March 2026")
+
+### Video Reviews
+
+<video controls preload="metadata" width="100%" poster="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-aarti-feb-2.jpg">
+  <source src="https://res.cloudinary.com/dkntlqbwr/video/upload/kashitaxi/kashitaxi/kashitaxi/boat-review-video-feb-3.mp4" type="video/mp4">
+</video>
+
+*"Watching the aarti from the river was the highlight of our Varanasi trip. Book a boat, don't stand in the crowd!"* — Guest, February 2026
+
+---
+
 ## Conclusion & Booking
 
 The Dashashwamedh Ghat ceremony isn't just a tourist attraction—it's a 250-year tradition that shapes how 1 billion Hindus understand the sacred. Whether you stand on the ghat or watch from a boat, you're witnessing something that hasn't fundamentally changed in centuries.
