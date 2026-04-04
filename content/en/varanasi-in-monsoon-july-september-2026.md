@@ -103,6 +103,22 @@ Duck into a local cafe to enjoy a hot cup of masala chai and samosas while watch
 
 This is extremely important: **boat rides during the monsoon are often and rightly suspended**. The Ganges becomes turbulent and unpredictable, and official operators will halt services for safety. If you find someone offering a ride, I strongly advise against it. Your safety is paramount. For getting around, cycle-rickshaws are often your best bet as they can navigate water-logged lanes better than auto-rickshaws or cars. For more tips, our [Varanasi Safety Guide](/en/safety-and-security-in-varanasi-guide-for-solo-travellar) is a must-read.
 
+### What to do when boats are suspended
+
+The wrong reaction is trying harder to find a boat. The right reaction is rebuilding the day.
+
+- Shift from river-view plans to lane-safe temple, cafe, silk, or museum time.
+- Treat sunrise or sunset from the ghats as a walking observation window, not a boat mission.
+- If your whole itinerary depended on a river ride, move the value into [Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing), [Sarnath Timing Visit Guide](/en/sarnath-timing-visit-guide), or a controlled temple plan.
+
+In July, successful monsoon days come from flexible substitution, not stubborn insistence.
+
+### Smart navigation during flooded or diversion-heavy days
+
+Google Maps is useful, but Varanasi's tighter lanes can still be deceptive when routes are muddy, blocked, or temporarily redirected. If the city's smart-navigation tools are active during your visit, check current availability of **Behtar-Way** for crowd-aware old-city movement and use local hotel/driver confirmation before trusting any lane-based shortcut.
+
+The safe rule is simple: on monsoon days, the shortest route is not always the best route.
+
 ---
 
 ## Monsoon Packing List & Health Precautions
@@ -113,6 +129,10 @@ Packing correctly is key to a comfortable monsoon trip.
 *   **Waterproofing:** A good poncho or raincoat and a waterproof bag for your electronics.
 *   **Footwear:** Sturdy, anti-slip waterproof sandals or floaters. Avoid leather.
 *   **Health Kit:** Mosquito repellent is non-negotiable. Also pack any personal medications and a basic first-aid kit, including something for stomach upsets. Always drink sealed, bottled water.
+
+If the combination is rain plus lingering summer heat, add ORS sachets and do not assume cloudy weather removes dehydration risk.
+
+For serious dehydration, heat exhaustion, or stomach illness that does not settle, escalate quickly rather than trying to recover in your hotel room.
 
 ---
 

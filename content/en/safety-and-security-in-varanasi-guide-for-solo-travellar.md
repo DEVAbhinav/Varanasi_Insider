@@ -264,6 +264,13 @@ In case of a medical emergency, you need to know where to go. While there are ma
 
 The primary ambulance numbers to call in an emergency are **102** and **108**.   
 
+If the issue is more serious than a simple stomach upset or dehydration spell, I would think in two layers:
+
+* **Large private hospital for major escalation:** Heritage IMS is one of the better-known large hospitals in the city for serious diagnostics, specialist care, and international-patient style handling.
+* **Clean first-response option away from the old-city crush:** Cantonment-side hospitals are often easier to reach quickly when the ghats area is gridlocked or emotionally overwhelming.
+
+In summer and monsoon months, do not wait too long if the problem looks like heatstroke, persistent vomiting, or dehydration with confusion.
+
 ### Essential Stomach Meds & Pharmacy Lingo
 I recommend packing a small, personal medical kit. The most important items are:
 
@@ -271,6 +278,19 @@ I recommend packing a small, personal medical kit. The most important items are:
 * **Anti-diarrheal medication:** Loperamide (sold as Imodium) can be a lifesaver if you need to travel while unwell. However, it should not be used if you have a high fever or blood in your stool, as it can worsen some infections.   
 
 In India, a pharmacy is commonly called a "Chemist" or a "Medical Store." You'll find them on almost every street corner. Many medications that require a prescription in the West are available over-the-counter here, but it's always best to have a doctor's advice for serious issues. Look for the "IP" (Indian Pharmacopoeia) mark on packaging, which indicates it meets national quality standards.   
+
+### Summer-Monsoon Food and Water Rules
+
+The biggest health mistake I see in Varanasi is not one terrible meal. It is a chain of small casual decisions made in heat, fatigue, and crowd pressure.
+
+My rules are simple:
+
+* Drink sealed bottled water, especially in May-July.
+* Be careful with cut fruit, chutneys sitting in the open, and anything washed in uncertain water.
+* If a temple distributes liquid prasad or theertham and you are not confident about your stomach, it is acceptable to decline discreetly.
+* Use the "hot, busy, peeled" rule harder in summer than in winter.
+
+If the whole day is heat-heavy, pair this guide with [Varanasi Summer Heatwave Travel Guide 2026](/en/varanasi-summer-heatwave-travel-protocol-2026).
 
 ## Varanasi Safety 360°: Crime, Scams & Solo Female Traveller Tips
 Varanasi is a city of profound spirituality, but it is also a place of intense poverty and crowds, which creates an environment where tourists can be targets for scams and crime. A 360-degree awareness—of your surroundings, of common schemes, and of cultural norms—is your most effective safety tool. My approach is not to scare, but to prepare you, so you can navigate the city with confidence rather than fear.
@@ -293,6 +313,8 @@ Scams in Varanasi are rarely violent but are designed to prey on a tourist's con
   * **How to Avoid:** Observe cremations from a respectful public distance. Never give money to anyone at the burning ghats. If you wish to donate, do so at a reputable, registered charity office away from the ghats.
 * **The Silk Shop / Commission Scam:** Your friendly tuk-tuk driver or an unofficial "guide" will insist on taking you to his "brother's shop" for the "best quality" Banarasi silk at a "special price". In reality, the prices are heavily inflated to cover his hefty commission.    
   * **How to Avoid:** Never, ever go to a shop recommended by a driver or a random person on the street. If you want to buy silk, do your own research online for reputable, fixed-price stores.
+* **The Road-Closed Transfer Trick:** During festival pressure, Kanwar weeks, or old-city congestion, some drivers exaggerate closures and drop you far away so an affiliated guide, porter, or shop can take over the last mile for commission.
+  * **How to Avoid:** Ask for the exact drop point, check your map, and confirm with your hotel whether the lane is genuinely vehicle-restricted that day.
 
 ### 12 Golden Safety Rules for Women Travellers in Varanasi
 
@@ -366,7 +388,10 @@ Having the right apps on your phone can dramatically improve your travel experie
 * **Bus Travel:** RedBus is the go-to platform for booking seats on inter-city buses.
 * **Food:** Zomato and Swiggy are the dominant food delivery apps, perfect for a quiet night in at your hotel.   
 * **Payments:** Google Pay or BHIM are the leading UPI apps. You can link your UPI One World wallet to them for easy payments.
+* **Official/Smart-City Layer:** If active during your visit, check whether **Kashi Darshan** and **Behtar-Way** are currently available. The first can help with official attraction planning and darshan logistics; the second is designed around tighter old-city navigation and crowd-aware routing.
 * **Local Guide:** And of course, Varanasi Taxi (https://www.kashitaxi.in), for our curated, in-depth guides, safety updates, and interactive maps.
+
+Do not depend on any one app blindly in Varanasi's old lanes. Think of them as cross-check tools, not perfect truth.
 
 ## Cultural Etiquette in Varanasi & What to Wear for Respectful Travel
 Varanasi is one of the most sacred cities in Hinduism, and your experience will be profoundly enriched—and your safety enhanced—by showing respect for its ancient customs. Cultural awareness is not just about being polite; it's about understanding the spiritual grammar of the city.

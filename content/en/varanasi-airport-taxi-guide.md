@@ -110,6 +110,16 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
 
 > Distance is **≈ 25 km** (22 – 25 km depending on chosen route). :contentReference[oaicite:3]{index=3}
 
+### Summer, monsoon, and festival reality check
+
+Airport-to-city timing in Varanasi is not just about distance. From May through July, three things distort transfers:
+
+* summer fatigue makes travelers easier to rush or confuse,
+* monsoon waterlogging slows the last mile,
+* Jagannath, Guru Purnima, Shravan, and Kanwar pressure can turn a normal-looking approach into a diversion-heavy run.
+
+If your hotel is inside old-city access zones, assume the last segment matters more than the airport highway.
+
 ---
 
 ## Safety & Scam Shield
@@ -118,6 +128,13 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
 2. **Fare on slip is final** – RTO‑approved, inclusive of all charges. :contentReference[oaicite:4]{index=4}  
 3. **Lost item?** Call airport police with the slip number.  
 4. **Airport Police Helpline:** **+91‑94544 01119**
+
+Two more Varanasi-specific warnings matter in the summer cluster:
+
+5. **Do not trust vague "road closed, can’t go ahead" claims** without checking whether your hotel actually needs a different drop point.
+6. **Do not let the driver redirect you into an affiliated guide, porter, or shop chain** just because the old city looks confusing.
+
+If you want the fixed-fare version of this arrival with driver verification and WhatsApp coordination, use [Varanasi Airport to City Cab](/en/services/varanasi-airport-to-city-cab).
 
 ![UP Police Logo](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/up-police-logo.png "UP Police Logo")
 
