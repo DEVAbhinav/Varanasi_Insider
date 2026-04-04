@@ -48,6 +48,19 @@ faqSchema:
     answer: "Sunrise (5:00–6:30 AM) for photography and morning rituals. Book 3–5 days ahead in peak season (Oct–Mar). Weekdays are cheaper with fewer tourists. Monsoon (Jul–Sep) requires same-week flexibility due to water levels."
   - question: "Is Manikarnika Ghat scary on the boat tour?"
     answer: "It's solemn, not scary. You're witnessing cremation rituals performed with deep respect — death in Varanasi is sacred, not morbid. Best observed quietly from the boat while the guide explains the philosophy of life-death-rebirth."
+quickFacts:
+  - label: "Route"
+    value: "84 main ghats (of 88)"
+  - label: "Duration"
+    value: "1–4 hours"
+  - label: "Private Boat"
+    value: "₹3,000–₹8,000"
+  - label: "Shared Tour"
+    value: "₹200–₹400/person"
+  - label: "Best Time"
+    value: "Sunrise (5–6:30 AM)"
+  - label: "Season"
+    value: "Oct–Mar peak"
 ---
 
 # The 84 Ghats Boat Tour

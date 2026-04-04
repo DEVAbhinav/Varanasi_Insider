@@ -33,6 +33,19 @@ faqSchema:
     answer: "At Assi Ghat, shared sunrise boats cost ₹80–₹100/person (board 30 min before sunrise). Private rowboats from Assi to Dashashwamedh and back run ₹1,800–₹2,500 for a 1.5-hour trip covering all major ghats including Manikarnika."
   - question: "How much does a private boat cost in Varanasi?"
     answer: "Private rowboat (4–6 pax): ₹1,800–₹3,000 for a 1–2 hour ride. Private motorboat (up to 15 pax): ₹3,500–₹6,000. For the full 84-ghat tour (3–4 hours), expect ₹4,000–₹8,000 depending on boat type and season."
+quickFacts:
+  - label: "Shared Boat"
+    value: "₹80–₹150/person"
+  - label: "Private Rowboat"
+    value: "₹1,800–₹3,000"
+  - label: "Motorboat"
+    value: "₹3,500–₹6,000"
+  - label: "Best Time"
+    value: "Sunrise (5–6:30 AM)"
+  - label: "Duration"
+    value: "1–3 hours"
+  - label: "Booking"
+    value: "WhatsApp / Walk-up"
 ---
 
 <script type="application/ld+json">
@@ -111,7 +124,9 @@ Here's your quick reference for **boat ride in varanasi** costs:
 
 ### Book Your Sunrise Boat {#book}
 WhatsApp **+91 94503 01573** with date, headcount, and preferred ghat. You’ll receive a fare confirmation, boat photo, and life jacket checklist the evening prior.
+> 💡 **Pro Tip:** Message the evening before to lock your price and boatman. Morning walk-ups pay 20–40% more during peak season.
 
+> ⚠️ **Festival Alert:** During Dev Deepawali and Kartik Purnima, boat fares jump 2–4×. Book 2–3 weeks ahead and get a written WhatsApp confirmation.
 > **Scope:** This page is the *pricing economics & negotiation* hub. Timing, atmospheric boarding logistics now live on the Sunrise Timings page; evening alignment lives on the Evening Boat Ride guide. Here you get cost structures, tariff vs premium deltas & scripting.
 
 ![Pre‑dawn private rowboat negotiating mild current before sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Pre‑dawn positioning – private rowboat before negotiation finalization")
