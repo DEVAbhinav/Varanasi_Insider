@@ -447,7 +447,37 @@ const nextConfig = {
       // ===================================
       {
         source: '/en/sunrise-boat-ride-varanasi',
-        destination: '/en/sunrise-boat-ride-ganges',
+        destination: '/en/morning-boat-ride-varanasi-price',
+        permanent: true,
+      },
+      {
+        source: '/en/sunrise-boat-ride-ganges',
+        destination: '/en/morning-boat-ride-varanasi-price',
+        permanent: true,
+      },
+      {
+        source: '/en/84-ghats-boat-tour-varanasi',
+        destination: '/en/city/varanasi/activities/84-ghats-boat-tour-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/en/dashashwamedh-ghat-boat-ride-ganga-aarti-guide',
+        destination: '/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide',
+        permanent: true,
+      },
+      {
+        source: '/en/best-experience-dev-deepawali-ghat-boat-guide',
+        destination: '/en/services/best-experience-dev-deepawali-ghat-boat-guide',
+        permanent: true,
+      },
+      {
+        source: '/en/boat-rides/:path*',
+        destination: '/en/morning-boat-ride-varanasi-price',
+        permanent: true,
+      },
+      {
+        source: '/hi/sunrise-boat-ride-ganges',
+        destination: '/hi/morning-boat-ride-varanasi-price',
         permanent: true,
       },
 
