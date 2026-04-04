@@ -2,7 +2,11 @@ import Head from 'next/head';
 import NavBar from '@/components/NavBar/NavBar';
 import Footer from '@/components/Footer/Footer';
 import ArticleSection from '@/components/ArticleSection/ArticleSection';
+import TableOfContents from '@/components/ArticleSection/TableOfContents';
+import QuickFacts from '@/components/ArticleSection/QuickFacts';
+import FaqAccordion from '@/components/ArticleSection/FaqAccordion';
 import ItineraryTimeline from '@/components/DestinationPage/ItineraryTimeline';
+import { extractHeadings } from '@/lib/markdown';
 import CTASection from '@/components/CTA/CTASection';
 import StickyContactBar from '@/components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '@/components/BookingWidget/SidebarBookingWidget';
@@ -222,6 +226,8 @@ export default function DestinationContentPage({ entry, category, allPosts, page
   const contentHtmlBefore = entry.contentHtmlBefore ?? entry.contentHtml;
   const contentHtmlAfter = entry.contentHtmlAfter;
   const contentWordCount = countWords(`${contentHtmlBefore || ''} ${contentHtmlAfter || ''}`);
+  const headings = extractHeadings((contentHtmlBefore || '') + (contentHtmlAfter || ''));
+  const bodyHasFaq = /<h[23][^>]*>.*?(?:FAQ|Frequently Asked)/i.test((contentHtmlBefore || '') + (contentHtmlAfter || ''));
   const shouldShowTaxiSupport = pageCategory === 'taxi' && contentWordCount < 500;
 
   const itineraryDays = Array.isArray(itinerary?.days) ? itinerary.days : [];
@@ -310,6 +316,14 @@ export default function DestinationContentPage({ entry, category, allPosts, page
                 <ArticleSection contentHtml={contentHtmlBefore} />
               )}
 
+              {/* Quick Facts card */}
+              {entry?.quickFacts?.length > 0 && (
+                <QuickFacts facts={entry.quickFacts} />
+              )}
+
+              {/* Table of Contents */}
+              <TableOfContents headings={headings} />
+
               {hasSegmentHtml ? (
                 itineraryDays.map((day, index) => {
                   const sectionHtml = itinerarySections[index]?.html;
@@ -369,6 +383,15 @@ export default function DestinationContentPage({ entry, category, allPosts, page
             pageUrl={localizedPath}
           />
         </div>
+
+        {/* Interactive FAQ Accordion — skip if body already has FAQ section */}
+        {entry?.faqSchema?.length > 0 && !bodyHasFaq && (
+          <div className="container mx-auto px-4">
+            <div className="max-w-3xl">
+              <FaqAccordion items={entry.faqSchema} />
+            </div>
+          </div>
+        )}
 
         <CTASection
           phone={phoneNumber}

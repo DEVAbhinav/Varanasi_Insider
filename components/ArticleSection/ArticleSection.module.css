@@ -143,6 +143,39 @@
   margin: 2rem 0;
 }
 
+/* ── Callout boxes (auto-detected from emoji markers in blockquotes) ── */
+.articleBody :global(.callout) {
+  border-radius: 0.75rem;
+  padding: 1rem 1.25rem;
+  font-style: normal;
+  border-left-width: 4px;
+  border-left-style: solid;
+  position: relative;
+}
+.articleBody :global(.callout) p:last-child {
+  margin-bottom: 0;
+}
+.articleBody :global(.callout-tip) {
+  background: #f0fdf4;
+  border-left-color: #22c55e;
+  color: #166534;
+}
+.articleBody :global(.callout-warning) {
+  background: #fffbeb;
+  border-left-color: #f59e0b;
+  color: #92400e;
+}
+.articleBody :global(.callout-info) {
+  background: #eff6ff;
+  border-left-color: #3b82f6;
+  color: #1e40af;
+}
+.articleBody :global(.callout-success) {
+  background: #ecfdf5;
+  border-left-color: #10b981;
+  color: #065f46;
+}
+
 /* Inline CTA block (airport pickup) */
 .articleBody .inline-cta {
   margin: 2rem 0;
