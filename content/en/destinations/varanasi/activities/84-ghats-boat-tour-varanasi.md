@@ -439,22 +439,6 @@ For your **varanasi ghat tour by boat**, choose from these options based on time
 
 ---
 
-## What Our Customers Say
-
-![Guests on the 84 ghats boat tour passing Manikarnika Ghat](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-sunrise-jan-2.jpg "84 ghats tour customers – real photo")
-
-![Evening ghat tour group enjoying the golden light, March 2026](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-evening-mar-1.jpg "Group ghat tour – March 2026")
-
-### Video Reviews
-
-<video controls preload="metadata" width="100%" poster="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/kashitaxi/boat-customer-evening-mar-2.jpg">
-  <source src="https://res.cloudinary.com/dkntlqbwr/video/upload/kashitaxi/kashitaxi/kashitaxi/boat-review-video-feb-2.mp4" type="video/mp4">
-</video>
-
-*"The guide explained every ghat's story. Totally different from just pointing at buildings."* — Guest, February 2026
-
----
-
 ## Conclusion
 
 The "84 ghats" isn't just a tourist catchphrase—it represents a complete spiritual cosmos in miniature. Each ghat tells a story: of sacrifice, devotion, death, rebirth, and liberation.
