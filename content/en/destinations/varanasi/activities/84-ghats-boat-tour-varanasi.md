@@ -37,6 +37,17 @@ relatedPosts:
   - evening-boat-ride-varanasi-ganga-aarti
   - ganga-aarti-timing-varanasi-2026
   - dashashwamedh-ghat-boat-ride-ganga-aarti-guide
+faqSchema:
+  - question: "Are there really 84 ghats in Varanasi?"
+    answer: "There are 88 named ghats, but 84 are considered 'main' in traditional pilgrim routes. The number 84 comes from Hindu cosmology (12 zodiacs × 7 chakras). Tour operators and pilgrims use '84 ghats' as the spiritual designation."
+  - question: "How much does an 84 ghats boat tour cost in Varanasi?"
+    answer: "A standard 2.5-hour 84 ghats boat tour costs ₹3,000–₹5,000 for a private rowboat (4–6 pax) or ₹4,000–₹8,000 for a motorboat (up to 15 pax). Shared group tours run ₹200–₹400 per person. Oct–Mar peak season is 20–30% higher."
+  - question: "How long does the 84 ghats boat tour take?"
+    answer: "Quick loop (Dashashwamedh → Manikarnika → return): 60 minutes. Standard tour covering major ghats: 2.5 hours. Extended pilgrimage tour covering most ghats plus Ramnagar Fort: 3–4 hours."
+  - question: "What is the best time to book an 84 ghats boat tour?"
+    answer: "Sunrise (5:00–6:30 AM) for photography and morning rituals. Book 3–5 days ahead in peak season (Oct–Mar). Weekdays are cheaper with fewer tourists. Monsoon (Jul–Sep) requires same-week flexibility due to water levels."
+  - question: "Is Manikarnika Ghat scary on the boat tour?"
+    answer: "It's solemn, not scary. You're witnessing cremation rituals performed with deep respect — death in Varanasi is sacred, not morbid. Best observed quietly from the boat while the guide explains the philosophy of life-death-rebirth."
 ---
 
 # The 84 Ghats Boat Tour

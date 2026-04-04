@@ -40,6 +40,17 @@ relatedPosts:
   - ganga-aarti-timing-varanasi-2026
   - evening-boat-ride-varanasi-ganga-aarti
   - kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026
+faqSchema:
+  - question: "How much does a Ganga Aarti boat ride at Dashashwamedh Ghat cost?"
+    answer: "Shared motorboat: ₹250–₹500 per person. Private rowboat (4–6 seats): ₹1,500–₹3,000. Private motorboat (up to 15 pax): ₹4,000–₹6,000. Festival dates (Dev Deepawali, Kartik Purnima) can push fares 2–4× higher. Book 1 day prior for best pricing."
+  - question: "Is Dashashwamedh Ghat aarti better than Assi Ghat?"
+    answer: "Dashashwamedh is grand, spectacular, fire-focused, and tourist-heavy — best for the iconic Varanasi experience and photos. Assi Ghat is intimate, yoga-integrated, and serene with fewer tourists. First-timers should prioritize Dashashwamedh evening aarti."
+  - question: "Can I get a boat last-minute for Ganga Aarti?"
+    answer: "Walking up at 4 PM gives ~30–40% chance of finding a shared motorboat. WhatsApp booking 4 hours prior gets ~80% availability (outside peak season). Book 1 day ahead for 99% guaranteed + best pricing. Festival dates: book 5–7 days ahead — zero last-minute availability."
+  - question: "How much should I tip the boatman at Dashashwamedh?"
+    answer: "Standard tip: ₹200–300 (₹500 if you loved the experience). Tipping is not included in the boat fare — it's separate appreciation for the boatman's service."
+  - question: "Is the evening aarti better than the morning at Dashashwamedh?"
+    answer: "Evening aarti is larger, more dramatic, with spectacular flames and intense energy — best for first-timers. Morning aarti is intimate, yoga-focused, with fewer tourists and a more meditative atmosphere. Evening is the must-see; morning is the deeper spiritual experience."
 ---
 
 # Dashashwamedh Ghat: Boat Ride & Evening Aarti

@@ -6,8 +6,8 @@ lastUpdated: "2026-11-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
 
-metaTitle: "Varanasi Boat Ride Price 2026 — Sunrise Shared ₹80, Private ₹1,800"
-metaDescription: "Updated Nov 2026 boat ride prices in Varanasi: shared seats ₹80–₹150, private rowboats ₹1,800+, motorboats ₹3,500+. Includes sunrise timing hacks & booking script."
+metaTitle: "Varanasi Boat Ride Price 2026 — Book Online | Shared ₹80, Private ₹1,800"
+metaDescription: "Updated 2026 boat ride prices in Varanasi. Book online: shared seats ₹80–₹150, private rowboats ₹1,800+, motorboats ₹3,500+. Sunrise timings, 84-ghat routes & instant booking."
 description: "Updated Nov 2026 boat ride prices in Varanasi covering shared seats, private rowboats, motorboats, luxury bajras, negotiation tactics, and booking scripts."
 keywords: "morning boat ride varanasi price, varanasi boat ride price, boat ride in varanasi price, varanasi boat ride cost, sunrise boat ride varanasi, varanasi sunrise boat ride cost, ganga boat ride price, private boat ride varanasi price, shared boat varanasi price, boat ride in varanasi, varanasi boat booking, boating time in varanasi, best time for boat ride in varanasi, assi ghat to dashashwamedh ghat by boat"
 tags:
@@ -20,9 +20,21 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - ganga-aarti-timing-varanasi
   - varanasi-safety-guide
+faqSchema:
+  - question: "How much does a boat ride cost in Varanasi in 2026?"
+    answer: "Shared sunrise boat seats cost ₹80–₹150 per person. A private rowboat (4–6 seats) is ₹1,800–₹3,000. Motorboats for groups up to 15 cost ₹3,500–₹6,000. Luxury bajra boats start at ₹10,000+. Festival periods (Dev Deepawali, Kartik Purnima) can push fares 2–4× higher."
+  - question: "What is the boat ride price per person in Varanasi?"
+    answer: "Per-person rates: shared rowing boat ₹80–₹150, shared motorboat ₹200–₹350, Ganga Aarti evening shared boat ₹250–₹500 per person. Private boats are charged per boat, not per person — a 4-seat rowboat at ₹1,800 works out to ₹450/person if you split."
+  - question: "How do I book a boat ride in Varanasi?"
+    answer: "Three ways: (1) Walk up to Assi Ghat or Dashashwamedh Ghat 30 min before sunrise and negotiate directly, (2) WhatsApp Kashi Taxi boat desk at +91-8062182380 the evening before to lock price & boatman, (3) Ask your hotel — most arrange rides but add a 20–30% markup."
+  - question: "What is the best time for a boat ride in Varanasi?"
+    answer: "Sunrise (5:00–6:30 AM depending on season) is the best time — calm water, golden light, morning rituals on the ghats. Evening Ganga Aarti boats (board by 5:30 PM winter / 6:00 PM summer) are the second-best slot. Avoid midday — harsh sun and no ceremonies."
+  - question: "What is the Assi Ghat boat ride price and timing?"
+    answer: "At Assi Ghat, shared sunrise boats cost ₹80–₹100/person (board 30 min before sunrise). Private rowboats from Assi to Dashashwamedh and back run ₹1,800–₹2,500 for a 1.5-hour trip covering all major ghats including Manikarnika."
+  - question: "How much does a private boat cost in Varanasi?"
+    answer: "Private rowboat (4–6 pax): ₹1,800–₹3,000 for a 1–2 hour ride. Private motorboat (up to 15 pax): ₹3,500–₹6,000. For the full 84-ghat tour (3–4 hours), expect ₹4,000–₹8,000 depending on boat type and season."
 ---
 
-<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "OfferCatalog",
@@ -173,51 +185,3 @@ Board 30–45 min pre‑sunrise (winter earlier due to fog). Detailed month-by-m
 ## 10. Cross Links
 Need timing precision? Open Sunrise Timings. Want evening alignment & on‑water positioning? See Evening Boat Ride guide.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why do private sunrise boat quotes vary so much?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Variance comes from season demand, starting ghat, boat condition, guide inclusion, and festival surcharges. Keeping a 2026 tariff baseline lets you counter inflated opening quotes confidently."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is a fair counter-offer for a private rowboat quoted at ₹2,800?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For October–March peak, open at ₹2,000 and settle around ₹2,200 if life jackets and a short guide briefing are included. Off-peak months support ₹1,800 floors."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are Dev Deepawali multipliers predictable?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dev Deepawali and Kartik Mondays typically push rowboat fares to 4–8 times standard. Lock operators 2–3 weeks ahead, expect deposit requests, and insist on a written confirmation to avoid surprise add-ons."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I reschedule if the river is choppy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most reputable boatmen let you shift to the next sunrise with 6–8 hours notice if wind or current surges. Get the policy on WhatsApp when you confirm."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do kids count as full fare on shared seats?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Union counters charge children above five years as adults. Carry age proof if you expect a concession; private charters often waive extra fees for under-10s."
-      }
-    }
-  ]
-}
-</script>

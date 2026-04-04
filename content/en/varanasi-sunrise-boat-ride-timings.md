@@ -6,6 +6,8 @@ lastUpdated: "2026-09-20"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"
+metaTitle: "Varanasi Sunrise Boat Ride Timings 2026 — Monthly Schedule & Best Time to Go"
+metaDescription: "Best time for a boat ride in Varanasi: 2026 monthly sunrise schedule, boarding windows (winter 5:45 AM, summer 4:50 AM), monsoon risk & booking tips."
 description: "Varanasi sunrise boat ride 2026 timetable with monthly boarding windows, visibility, temperature & monsoon interruption risk matrix."
 keywords: "varanasi sunrise boat ride timings, sunrise time varanasi, subah e banaras timing, ganga aarti time, best time for boat ride varanasi, best time for boat ride in varanasi, boating time in varanasi, varanasi boat ride schedule"
 tags:

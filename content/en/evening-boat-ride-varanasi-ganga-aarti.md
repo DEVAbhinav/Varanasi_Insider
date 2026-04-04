@@ -6,6 +6,8 @@ lastUpdated: "2026-09-20"
 author: "Kamal Nayan Singh"
 lang: en-IN
 
+metaTitle: "Evening Boat Ride Varanasi 2026 — Ganga Aarti Prices ₹250–₹10,000 | Book Now"
+metaDescription: "Book an evening Ganga Aarti boat ride in Varanasi 2026. Shared from ₹250/pp, private rowboat ₹1,500+. Best boarding times, viewpoints & instant booking."
 description: "Evening boat ride Varanasi for Ganga Aarti: 2026 capacity classes, dynamic fare bands, best lens choices & booking workflow."
 keywords: "evening boat ride varanasi, ganga aarti boat ride, varanasi boat ride price, dashashwamedh ghat aarti, ganga aarti from boat, varanasi night boat ride"
 tags:
