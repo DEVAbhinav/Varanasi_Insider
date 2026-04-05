@@ -1,31 +1,42 @@
 /* ServiceContent.module.css */
 .serviceArticle {
-  @apply text-gray-800 leading-relaxed;
+  @apply text-slate-800 leading-relaxed;
 }
 
-/* Typography */
+/* Typography — ocean theme aligned with ArticleSection */
 .serviceArticle h1 {
-  @apply text-4xl md:text-5xl font-bold mb-6 mt-12 text-gray-900 font-serif border-b-4 border-yellow-500 pb-3;
+  @apply text-4xl md:text-5xl font-extrabold mb-5 mt-8 pb-3;
+  color: #0c4a6e;
+  border-bottom: 4px solid #0ea5e9;
 }
 
 .serviceArticle h2 {
-  @apply text-3xl md:text-4xl font-bold mb-5 mt-10 text-gray-900 font-serif;
+  @apply text-2xl md:text-3xl font-bold mb-3 mt-10 py-2.5 pl-4 rounded-r-xl relative;
+  color: #0c4a6e;
+  border-left: 4px solid #0ea5e9;
+  background: linear-gradient(135deg, rgba(224, 242, 254, 0.6), rgba(207, 250, 254, 0.3));
 }
 
 .serviceArticle h3 {
-  @apply text-2xl md:text-3xl font-semibold mb-4 mt-8 text-gray-800;
+  @apply text-xl md:text-2xl font-bold mb-3 mt-8 pb-1.5;
+  color: #155e75;
+  border-bottom: 2px solid rgba(14, 165, 233, 0.25);
 }
 
 .serviceArticle h4 {
-  @apply text-xl md:text-2xl font-semibold mb-3 mt-6 text-gray-800;
+  @apply text-lg md:text-xl font-bold mb-2 mt-6;
+  color: #155e75;
 }
 
 .serviceArticle p {
-  @apply mb-5 text-lg leading-relaxed;
+  @apply mb-4 text-lg leading-relaxed;
 }
 
 .serviceArticle blockquote {
-  @apply border-l-4 border-yellow-500 pl-6 py-4 my-6 bg-yellow-50 italic text-gray-700 rounded-r-lg;
+  @apply border-l-4 pl-6 py-4 my-6 italic rounded-r-lg;
+  border-left-color: #0ea5e9;
+  background: rgba(224, 242, 254, 0.5);
+  color: #334155;
 }
 
 /* Lists */
@@ -41,21 +52,25 @@
   @apply text-lg leading-relaxed pl-2;
 }
 
-/* Tables */
+/* Tables — ocean gradient */
 .serviceArticle table {
   @apply w-full border-collapse mb-8 shadow-md rounded-lg overflow-hidden;
 }
 
 .serviceArticle thead {
-  @apply bg-gradient-to-r from-yellow-500 to-yellow-600 text-white;
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.82), rgba(45, 212, 191, 0.74));
 }
 
 .serviceArticle th {
   @apply px-4 md:px-6 py-4 text-left font-bold text-sm md:text-base;
+  color: #0c4a6e;
 }
 
 .serviceArticle tbody tr {
-  @apply border-b border-gray-200 hover:bg-yellow-50 transition-colors;
+  @apply border-b border-gray-200 transition-colors;
+}
+.serviceArticle tbody tr:hover {
+  background-color: rgba(224, 242, 254, 0.5);
 }
 
 .serviceArticle tbody tr:last-child {
@@ -70,9 +85,17 @@
   @apply bg-gray-50;
 }
 
-/* Links */
+/* Links — cyan to match ArticleSection */
 .serviceArticle a {
-  @apply text-yellow-600 hover:text-yellow-700 underline font-medium transition-colors;
+  color: #0e7490;
+  text-decoration: underline;
+  text-decoration-color: rgba(14, 116, 144, 0.3);
+  text-underline-offset: 2px;
+  transition: color 0.15s, text-decoration-color 0.15s;
+}
+.serviceArticle a:hover {
+  color: #0c4a6e;
+  text-decoration-color: #0c4a6e;
 }
 
 /* Code blocks */

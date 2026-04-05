@@ -71,7 +71,7 @@
   @apply mb-4;
 }
 .prose a {
-  @apply text-blue-600 hover:underline;
+  @apply text-cyan-700 hover:text-cyan-900 hover:underline;
 }
 .prose ul {
   @apply list-disc list-inside mb-4;
@@ -188,8 +188,6 @@ p {
   font-size: 18px;
   line-height: 1.5;
   letter-spacing: -0.004em;
-  padding-top: 1.5%;
-  padding-bottom: 1.5%;
 }
 h2.sub-heading {
   font-size: 30px;
