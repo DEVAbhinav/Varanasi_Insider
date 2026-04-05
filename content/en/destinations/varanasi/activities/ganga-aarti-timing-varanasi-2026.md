@@ -410,15 +410,3 @@ You found this page because you searched "ganga aarti varanasi time" or "banaras
 **Updated:** December 22, 2026
 **Maintained by:** Kashitaxi Boat Operations (7-year Varanasi boat experience)
 **Next update:** January 2026 (seasonal timing shift)
-
----
-
-## Data Sources & Attribution
-
-- Dashashwamedh Ghat timing data (Brijhotels)
-- Dashashwamedh mythology & history (Varanasiguru)
-- Boat ride experience overview (Laure Wanders)
-- Dev Deepawali 2026 exact date & muhurat timing (StayVista)
-- Assi Ghat month-by-month data (Kashitaxi existing page)
-- Dev Deepawali celebrations & spiritual significance (DevDiwali.com)
-- Kartik Purnima 2026 snan timing & experience (Kashitaxi existing content)
