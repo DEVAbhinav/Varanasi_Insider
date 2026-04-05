@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.kashitaxi.in/sitemap.xml
+Sitemap: https://www.kashitaxi.in/kt-secret-map-v9.xml

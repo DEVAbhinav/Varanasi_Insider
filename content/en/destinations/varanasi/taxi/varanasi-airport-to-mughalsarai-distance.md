@@ -37,7 +37,9 @@ faqSchema:
 | Distance | ~35 km |
 | Time | 45–60 minutes |
 | Best route | Varanasi Airport → GT Road toward Mughalsarai/DDU Junction |
-| Typical fare | Hatchback ₹1,005–₹1,300 · Sedan ₹1,100–₹1,500 · Innova ₹2,000–₹2,300 |
+| Typical fare | Hatchback ₹1,005–₹1,300 · Sedan ₹1,100–₹1,500 · Mid SUV ₹1,300–1,500 · Innova ₹2,000–₹2,300 |
+
+> **Flash Offer:** ₹690 sedan drop when you confirm within 2 hours of pickup (weekday, non-festival, 15-minute standby, direct platform forecourt). *Suspended on Dev Deepawali, Chhath, Kumbh specials, and notified festival blocks.*
 
 ## Book your Varanasi Airport to Mughalsarai taxi
 - Call dispatch: **[80621 82380](tel:+918062182380)**
@@ -53,6 +55,9 @@ From the airport, taxis normally:
 2. Follow GT Road toward **Mughalsarai/DDU Junction**, using flyovers and bypasses where possible.
 
 This is one of the **closest major rail transfers** from VNS. Morning and late-night runs are quick; add a small buffer in the evening when local traffic thickens near crossings and markets.
+
+### Alternative route via NH31
+If GT Road reports heavy traffic or evening freight congestion near Chandauli, drivers take the **Ring Road → NH31 → Ramnagar bridge** route into Mughalsarai. Key waypoints: Babatpur toll plaza, NH31 Cantonment cut, Ramnagar bridge, and the Mughalsarai flyover. If the bridge has heavy freight queues, a **Balua crossing detour** adds around eight minutes but keeps you moving toward the station.
 
 ## GT Road ride highlights: landmarks, dhabas, safety tips
 
@@ -71,6 +76,8 @@ This is one of the **closest major rail transfers** from VNS. Morning and late-n
 - **Hatchback:** ₹1,005–₹1,300, popular with solo travellers and couples.
 - **Sedan:** ₹1,100–₹1,500, ideal for 3–4 passengers with bags.
 - **Innova:** ₹2,000–₹2,300 for family groups and heavy luggage.
+- **Mid SUV (Ertiga):** ₹1,300–₹1,500 including tolls, ideal for 4–5 passengers with luggage.
+- **Night surcharge:** ₹200 for sedans, ₹250 for SUVs after 9 PM.
 - **Extra km charge:** ₹11–₹12/km if you ask for additional stops beyond station/hotel.
 
 For tight train connections, request a **direct non-stop run** and keep extra halts to a minimum.
@@ -83,6 +90,7 @@ For tight train connections, request a **direct non-stop run** and keep extra ha
 
 **Common drop spots:**
 - **Main entry gates** of Pt. Deen Dayal Upadhyaya Junction.
+- **Platform 8/9 rear gate:** If your coach halts at the rear platforms, inform dispatch so they secure the necessary rear gate pass for direct access.
 - Nearby **hotels and lodges** for overnight stays.
 - Feeder bus stands and local taxi points.
 
@@ -92,6 +100,7 @@ Let the dispatcher know if elderly relatives or children are boarding so we can 
 
 - Build a **60–90 minute buffer** between your scheduled landing time and train departure.
 - In winter, allow extra time for fog-related flight delays.
+- For overnight arrivals, request a **co-driver rotation** to keep the highway leg safe.
 - Keep paper and digital copies of your ticket handy for quick entry at station gates.
 
 ## FAQs about Varanasi Airport to Mughalsarai taxis

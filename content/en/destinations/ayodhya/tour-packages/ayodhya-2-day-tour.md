@@ -5,7 +5,7 @@ date: "2026-11-06"
 lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
-canonical: "https://www.kashitaxi.in/ayodhya/tour-packages/ayodhya-2-day-tour"
+canonical: "https://www.kashitaxi.in/en/city/ayodhya/tour-packages/ayodhya-2-day-tour"
 
 metaTitle: "Ayodhya 2 Day Tour Package | Ram Janmabhoomi Pilgrimage Itinerary"
 metaDescription: "Focused Ram Janmabhoomi pilgrimage featuring Hanuman Garhi, Kanak Bhawan, Saryu Aarti, heritage walks and sattvic food trails."
@@ -104,6 +104,38 @@ ctaSubtitle: "Ram Janmabhoomi slots, Saryu Aarti seats, sattvic meals and truste
 3. Dress modestly; covered shoulders/knees mandated, socks recommended for multi-temple visits.
 4. Share dietary preferences (Jain, sattvic, vegan) for curated dining stops.
 5. Notify mobility constraints to plan assistance for Hanuman Garhi steps.
+
+## Timings Reference
+
+| Site | Hours |
+| --- | --- |
+| Ram Janmabhoomi | Open all day (expect security queues) |
+| Hanuman Garhi | 24 hours |
+| Kanak Bhawan | Early morning to late evening |
+| Sita Ki Rasoi | Open round the clock, free entry |
+| Nageshwarnath Temple | 7:00 AM – 10:00 PM |
+| Saryu Aarti | Around sunset (arrive 30 minutes early) |
+
+## Best Time to Visit
+
+- **Peak (Oct–Mar):** Pleasant 8°C–25°C, major festivals like Diwali, Ram Navami, Vivah Panchami. Book hotels 10–15 days ahead.
+- **Shoulder (Apr, Sep):** Moderate weather, standard pricing, 5–7 day lead time.
+- **Off-season (May–Aug):** Hot or monsoon, lighter crowds, 30–40% discounts with 2–3 day notice.
+
+## Food Guide
+
+- Sattvic thali (no onion/garlic) at Ram Rasoi Bhojanalaya.
+- Aloo tikki chaat, kachori-sabzi, and poori-halwa at market stalls (₹40–₹100).
+- Lassi, thandai, and kulhad chai for quick hydration.
+- Laddu, peda, and other prasad-friendly sweets as take-home gifts.
+
+## Travel Pointers
+
+- Dress modestly (shoulders and knees covered) and carry a scarf/dupatta.
+- Wear easy-to-remove footwear; socks help when walking barefoot.
+- No mobiles/cameras inside certain temple zones—use locker services.
+- Keep ₹5,000–₹8,000 cash in small denominations for donations and markets.
+- Drink only bottled water; carry sanitizer, tissues, sunscreen, hat, and basic medicines.
 
 ## Kashi Taxi Promise (Ayodhya Edition)
 

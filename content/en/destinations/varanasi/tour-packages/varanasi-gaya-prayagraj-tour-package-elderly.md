@@ -6,7 +6,7 @@ slug: varanasi-gaya-prayagraj-tour-package-elderly
 date: 2026-12-22
 author: "Kamal Nayan Singh"
 lastUpdated: 2026-12-22
-canonical: "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly"
+canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg"
 
 metaTitle: "Varanasi Gaya Tour Package 2026: Fatigue-Free Pilgrimage for Elderly & NRI Families"

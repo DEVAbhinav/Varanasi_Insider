@@ -5,7 +5,7 @@ date: "2026-11-06"
 lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
-canonical: "https://www.kashitaxi.in/varanasi/tour-packages/same-day-varanasi-tour"
+canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/same-day-varanasi-tour"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992833/kashitaxi/same-day-tour-hero.jpg"
 metaTitle: "Same Day Varanasi Tour Package | 8-10 Hour Guided Kashi Darshan"
 metaDescription: "8–10 hour escorted darshan covering Kashi Vishwanath, Sarnath, iconic ghats, curated street food and the Dashashwamedh Ganga Aarti."

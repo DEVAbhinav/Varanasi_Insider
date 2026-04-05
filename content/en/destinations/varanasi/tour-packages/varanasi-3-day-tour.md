@@ -5,7 +5,7 @@ date: "2026-11-06"
 lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
-canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-3-day-tour"
+canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/varanasi-3-day-tour"
 
 metaTitle: "3 Day Varanasi Tour Package | Complete Kashi Cultural Immersion"
 metaDescription: "Slow-paced 3-day Kashi immersion with twin boat rides, complete temple loop, Sarnath deep dive, Ramnagar Fort, culture shows and premium concierge support."
@@ -72,6 +72,7 @@ Stretching the itinerary over 72 hours gives breathing room to absorb Kashi’s 
 ## Day 3 · Forts, Markets & Farewell
 
 - **Ramnagar Fort & Museum** – Vintage cars, arms gallery, astronomical clock, riverside vistas.[^ramnagar]
+- OR additional temples: **Tridev, Nageshwar, local kula devta shrines** for a deeper spiritual circuit.
 - **Silk weaving atelier visit** – Meet master weavers, understand brocade patterns, guided shopping to avoid tourist traps.[^silk]
 - **Shopping crawl** – Banarasi sarees, brass idols, wooden toys, spices, sweets across Vishwanath Gali, Thatheri Bazaar, Golghar.[^shopping]
 - **Culinary wrap** – Blue Lassi signature flavours, Banarasi paan, tamatar chaat, Malaiyo (Nov–Feb).[^^culinary]
@@ -104,6 +105,20 @@ Stretching the itinerary over 72 hours gives breathing room to absorb Kashi’s 
 - **Off-season (May–Aug):** Hot or rainy but discount-friendly; 2–3 day notice suffices.[^off]
 - Declare interest in add-ons (VIP darshan, performances, yoga, photography guide) during booking to ensure slots.
 - Share ID proofs for temple fast-track and flight/train details for seamless transfers.
+
+## Culinary Roadmap
+
+- Street chaat at Godowlia, tamatar chaat, and lassi tastings.
+- Day 2 breakfast at Ram Bhandar; Day 2 evening Blue Lassi signature flavours (₹100–₹110).
+- Banarasi paan at Vishwanath Gali, seasonal malaiyo (Nov–Feb).
+- Final-day takeaway sweets: pedas, laddoos, khurchan.
+
+## Travel & Safety Tips
+
+- Pack modest clothing, comfortable footwear, sunscreen, power bank, and basic medicines.
+- Drink only branded bottled water; carry sanitizer and mosquito repellent.
+- Avoid photographing cremation rites; respect temple etiquette.
+- Carry cash ₹10,000–15,000 with small denominations for donations and markets.
 
 ## Why Travellers Choose Kashi Taxi
 

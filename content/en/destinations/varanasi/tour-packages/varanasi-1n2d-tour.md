@@ -5,7 +5,7 @@ date: "2026-11-06"
 lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
-canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-1n2d-tour"
+canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/varanasi-2-day-tour"
 
 metaTitle: "1 Night 2 Days Varanasi Tour Package | Weekend Kashi Itinerary"
 metaDescription: "Witness sunrise and sunset on the Ganges, temple circuits, Sarnath, and Banarasi street food over an immersive 2-day private itinerary."

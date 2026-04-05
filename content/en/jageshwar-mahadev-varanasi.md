@@ -5,7 +5,7 @@ date: "2026-07-25"
 lastUpdated: "2026-02-27"
 author: "Kamal Nayan Singh"
 lang: en-IN
-canonical: "https://www.kashitaxi.in/en/jageshwar-mahadev-varanasi-guide/"
+canonical: "https://www.kashitaxi.in/en/jageshwar-mahadev-varanasi"
 featuredImage: "/images/posts/jageshwar-mahadev-rangbhari-ekadashi-1.jpeg"
 description: "Jageshwar Mahadev Varanasi—self‑growing Shivling, history, timings and how to reach. See why this Siddhpeeth is a hidden gem. Learn more."
 tags:

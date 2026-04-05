@@ -5,7 +5,7 @@ date: "2026-11-06"
 lastUpdated: "2026-11-06"
 author: "Kashi Taxi Team"
 lang: en-IN
-canonical: "https://www.kashitaxi.in/varanasi/tour-packages/varanasi-2-day-tour"
+canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/varanasi-2-day-tour"
 
 metaTitle: "Varanasi 2 Day Tour Package | Weekend Kashi Itinerary with Ganga Aarti"
 metaDescription: "Balanced two-day Kashi immersion with sunrise and sunset boat rides, Sarnath, BHU, curated food walks and concierge-managed darshan."
@@ -128,6 +128,15 @@ brand: "Kashi Taxi"
 2. Share arrival details for seamless pickup coordination and early room readiness.
 3. Indicate dietary preferences (Jain, vegan, sattvic) to tailor meal reservations.
 4. Add optional cultural experiences (yoga, food walk, photography tour) at the time of confirmation for guaranteed slots.
+5. **Off-season (May–Aug):** Hot or rainy but budget-friendly with up to 30–40% discounts on hotels and services.
+
+## Add-On Experiences
+
+- VIP darshan at Kashi Vishwanath.
+- Yoga-on-the-ghats sunrise session.
+- Guided food walk (tamatar chaat, malaiyo, lassi).
+- Classical music recital or Kathak performance.
+- Professional photography or content capture.
 
 ## Kashi Taxi Edge
 

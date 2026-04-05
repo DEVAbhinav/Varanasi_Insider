@@ -2,9 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 
-// Generate a standard sitemap.xml (and keep the old secret filename for backward compatibility)
+// Generate sitemap with secret filename only
 const SITEMAP_OUTPUT_PATHS = [
-  path.join(__dirname, '../public/sitemap.xml'),
   path.join(__dirname, '../public/kt-secret-map-v9.xml'),
 ];
 const CONTENT_PATH = path.join(__dirname, '../content');

@@ -5,7 +5,7 @@ date: "2026-12-22"
 lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en
-canonical: "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi"
+canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi"
 
 
 metaTitle: "Pind Daan in Gaya 2026: Verified Gayawal Panda Service from Varanasi | Cost & Dates"
