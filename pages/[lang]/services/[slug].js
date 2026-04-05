@@ -1,11 +1,8 @@
 // pages/[lang]/services/[slug].js
-import NavBar from '../../../components/NavBar/NavBar';
-import Footer from '../../../components/Footer/Footer';
+import ContentPageLayout from '../../../components/layouts/ContentPageLayout';
 import HeadForBlogs from '../../../components/SEO/HeadForBlogs';
 import ServiceHero from '../../../components/ServicePage/ServiceHero';
 import ServiceContent from '../../../components/ServicePage/ServiceContent';
-import StickyContactBar from '../../../components/ServicePage/StickyContactBar';
-import CTASection from '../../../components/CTA/CTASection';
 import ContentEnhancements from '../../../components/ArticleSection/ContentEnhancements';
 import dynamic from 'next/dynamic';
 import { CONTACT } from '@/lib/contact';
@@ -21,12 +18,10 @@ const TravelerSegmentBlocks = dynamic(() => import('../../../components/Traveler
 });
 
 export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, pageSlug, alternateLanguages = [] }) {
-  // Split content logic for injection
   const { part1, part2 } = (() => {
     const html = postData.contentHtml || '';
     if (postData.showRatesCheatSheet === false || !html) return { part1: html, part2: null };
 
-    // Try to split after 2nd paragraph for better flow, fallback to 1st
     const firstP = html.indexOf('</p>');
     if (firstP === -1) return { part1: html, part2: null };
 
@@ -40,81 +35,54 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
   })();
 
   return (
-    <>
-      {/* SEO Head */}
-      <HeadForBlogs
-        postData={postData}
-        pageLang={pageLang}
-        pageSlug={`services/${pageSlug}`}
-        jsonLdData={jsonLdData}
-        alternateLanguages={alternateLanguages}
-      />
-
-      <NavBar />
-
-      {/* Sticky Contact Bar - Shows on Scroll */}
-      <StickyContactBar
-        phone={postData.phone}
-      />
-
-      <main className="min-h-screen bg-white">
-        {/* Hero Section with CTA */}
+    <ContentPageLayout
+      head={<HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={`services/${pageSlug}`} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />}
+      header={
         <ServiceHero
           title={postData.title}
           subtitle={postData.subtitle}
           heroImage={postData.featuredImage || postData.heroImage}
           phone={postData.phone}
         />
+      }
+      beforeGrid={postData.showSegmentBlocks ? <TravelerSegmentBlocks phone={postData.phone || CONTACT.whatsappNumberRaw} /> : null}
+      phone={postData.phone}
+      pageTitle={postData.title}
+      pageUrl={`/${pageLang}/services/${pageSlug}`}
+      contentHtml={postData.contentHtml}
+      faqSchema={postData.faqSchema}
+      cta={postData.phone ? { title: 'Need help with this trip plan?', subtitle: 'Talk to our local team for practical options, clear pricing, and smooth coordination', variant: 'service' } : null}
+      allPosts={allPosts}
+      hideSidebar
+    >
+      {/* Service Content Part 1 */}
+      {part1 && (
+        <ServiceContent
+          contentHtml={part1}
+          pageTitle={postData.title}
+          pageUrl={`/${pageLang}/services/${pageSlug}`}
+        />
+      )}
 
-        {/* Traveler Segment Blocks - Target persona value props */}
-        {postData.showSegmentBlocks && (
-          <TravelerSegmentBlocks phone={postData.phone || CONTACT.whatsappNumberRaw} />
-        )}
+      {/* Quick Facts + TOC */}
+      <div className="max-w-5xl mx-auto px-4">
+        <ContentEnhancements.Inline html={postData.contentHtml} quickFacts={postData.quickFacts} />
+      </div>
 
-        {/* Service Content Part 1 */}
-        {part1 && (
-          <ServiceContent
-            contentHtml={part1}
-            pageTitle={postData.title}
-            pageUrl={`/${pageLang}/services/${pageSlug}`}
-          />
-        )}
+      {/* Injected Rates Cheat Sheet */}
+      {(postData.showRatesCheatSheet !== false) && part2 && (
+        <TaxiRatesCheatSheet variant="compact" showCTA={true} />
+      )}
 
-        {/* Quick Facts + TOC */}
-        <div className="max-w-5xl mx-auto px-4">
-          <ContentEnhancements.Inline html={postData.contentHtml} quickFacts={postData.quickFacts} />
-        </div>
-
-        {/* Injected Rates Cheat Sheet */}
-        {(postData.showRatesCheatSheet !== false) && part2 && (
-          <TaxiRatesCheatSheet variant="compact" showCTA={true} />
-        )}
-
-        {/* Service Content Part 2 */}
-        {part2 && (
-          <ServiceContent
-            contentHtml={part2}
-            pageTitle={postData.title}
-            pageUrl={`/${pageLang}/services/${pageSlug}`}
-          />
-        )}
-
-        {/* FAQ Accordion */}
-        <ContentEnhancements.Bottom html={postData.contentHtml} faqSchema={postData.faqSchema} />
-
-        {/* Modular Bottom CTA Bar */}
-        {postData.phone && (
-          <CTASection
-            phone={postData.phone}
-            title="Need help with this trip plan?"
-            subtitle="Talk to our local team for practical options, clear pricing, and smooth coordination"
-            variant="service"
-          />
-        )}
-      </main>
-
-      <Footer allPosts={allPosts} />
-    </>
+      {/* Service Content Part 2 */}
+      {part2 && (
+        <ServiceContent
+          contentHtml={part2}
+          pageTitle={postData.title}
+          pageUrl={`/${pageLang}/services/${pageSlug}`}
+        />
+      )}
+    </ContentPageLayout>
   );
 }
 
@@ -136,7 +104,6 @@ export async function getStaticProps({ params }) {
     if (fs.existsSync(candidatePath)) {
       const scopedSlug = `${folder}/${params.slug}`;
       postData = await getPostData(params.lang, scopedSlug);
-      // We still fetch existing JSON-LD for backward compatibility or manual overrides
       const existingJsonLd = await getJsonLdData(params.lang, scopedSlug);
       jsonLdData = existingJsonLd || { '@context': 'https://schema.org', '@graph': [] };
       sourceFolder = folder;
@@ -148,7 +115,6 @@ export async function getStaticProps({ params }) {
     return { notFound: true };
   }
 
-  // --- Dynamic Schema Generation ---
   const siteUrl = 'https://www.kashitaxi.in';
   const pageUrl = `${siteUrl}/${params.lang}/services/${params.slug}`;
   const hasGraphType = (typeName) =>
@@ -159,7 +125,6 @@ export async function getStaticProps({ params }) {
       return type === typeName;
     });
 
-  // 1. Breadcrumbs
   if (!hasGraphType('BreadcrumbList')) {
     const breadcrumbs = [
       { name: 'Home', url: '/' },
@@ -170,7 +135,6 @@ export async function getStaticProps({ params }) {
     jsonLdData['@graph'].push(breadcrumbSchema);
   }
 
-  // 2. Service Schema (if applicable)
   if ((postData.schemaType === 'Service' || postData.offers) && !hasGraphType('Service')) {
     const serviceSchema = generateServiceSchema({
       title: postData.title,
@@ -178,13 +142,12 @@ export async function getStaticProps({ params }) {
       url: pageUrl,
       image: postData.featuredImage,
       offers: postData.offers,
-      provider: postData.provider, // Optional override from frontmatter
-      areaServed: postData.areaServed // Optional override
+      provider: postData.provider,
+      areaServed: postData.areaServed
     });
     jsonLdData['@graph'].push(serviceSchema);
   }
 
-  // 3. FAQ Schema (support both faq and faqSchema frontmatter keys)
   if ((postData.faq || postData.faqSchema) && !hasGraphType('FAQPage')) {
     const faqSchema = generateFAQSchema(postData.faq || postData.faqSchema);
     if (faqSchema) {
@@ -192,7 +155,6 @@ export async function getStaticProps({ params }) {
     }
   }
 
-  // 4. Article Schema (fallback if not a service)
   if (!postData.schemaType && !postData.offers && !hasGraphType('BlogPosting')) {
     const articleSchema = generateArticleSchema({
       title: postData.title,
@@ -234,7 +196,6 @@ export async function getStaticPaths() {
   const contentDir = path.join(process.cwd(), 'content');
   const paths = [];
 
-  // Get all service/landing/guide pages
   const folders = ['services', 'landing', 'guides'];
   const langs = ['en', 'hi'];
 

@@ -3,8 +3,7 @@ import path from 'path';
 import Head from 'next/head';
 import Image from 'next/image';
 import { markdownToHtml } from '../lib/markdown';
-import NavBar from '../components/NavBar/NavBar';
-import Footer from '../components/Footer/Footer';
+import LandingPageLayout from '../components/layouts/LandingPageLayout';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
 import JsonLd from '../components/JsonLd/JsonLd';
 import { SOCIAL_PROFILE_URLS } from '../config/socials';
@@ -171,7 +170,7 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
     ],
   };
 
-  return (
+  const seoHead = (
     <>
       <Head>
         <title>Best Banaras Travel Agency | Expert Tours & Packages</title>
@@ -201,8 +200,11 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         <link rel="canonical" href="https://www.kashitaxi.in/banaras-travel-agency" />
       </Head>
       <JsonLd data={structuredData} />
+    </>
+  );
 
-      <NavBar />
+  return (
+    <LandingPageLayout head={seoHead}>
 
       {/* Hero block mirrors home style but tuned to Banaras Travel Agency keyword */}
       <section className="relative flex items-center justify-center text-white overflow-hidden pt-16 pb-8 md:pt-20 md:pb-12">
@@ -474,8 +476,7 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         ]}
       />
 
-      <Footer />
-    </>
+    </LandingPageLayout>
   );
 }
 

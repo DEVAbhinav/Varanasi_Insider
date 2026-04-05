@@ -3,8 +3,7 @@ import path from 'path';
 import Head from 'next/head';
 import Image from 'next/image';
 import { markdownToHtml } from '../lib/markdown';
-import NavBar from '../components/NavBar/NavBar';
-import Footer from '../components/Footer/Footer';
+import LandingPageLayout from '../components/layouts/LandingPageLayout';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
 import JsonLd from '../components/JsonLd/JsonLd';
 import { SOCIAL_PROFILE_URLS } from '../config/socials';
@@ -145,7 +144,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
     ],
   };
 
-  return (
+  const seoHead = (
     <>
       <Head>
         <title>Kasi Tour Package 2026 | Kashi Darshan Spiritual Tours | Kashi Taxi</title>
@@ -175,8 +174,11 @@ export default function KasiTourPackagePage({ contentHtml }) {
         <link rel="canonical" href="https://www.kashitaxi.in/kasi-tour-package" />
       </Head>
       <JsonLd data={structuredData} />
+    </>
+  );
 
-      <NavBar />
+  return (
+    <LandingPageLayout head={seoHead}>
 
       <section className="relative flex items-center justify-center text-white overflow-hidden pt-16 pb-8 md:pt-20 md:pb-12">
         <div className="absolute inset-0 bg-gradient-to-br from-amber-500 via-orange-400 to-rose-400" />
@@ -340,8 +342,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
         ]}
       />
 
-      <Footer />
-    </>
+    </LandingPageLayout>
   );
 }
 

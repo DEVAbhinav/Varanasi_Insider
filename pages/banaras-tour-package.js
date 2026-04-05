@@ -3,8 +3,7 @@ import path from 'path';
 import Head from 'next/head';
 import Image from 'next/image';
 import { markdownToHtml } from '../lib/markdown';
-import NavBar from '../components/NavBar/NavBar';
-import Footer from '../components/Footer/Footer';
+import LandingPageLayout from '../components/layouts/LandingPageLayout';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
 import JsonLd from '../components/JsonLd/JsonLd';
 import { SOCIAL_PROFILE_URLS } from '../config/socials';
@@ -153,7 +152,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
     ],
   };
 
-  return (
+  const seoHead = (
     <>
       <Head>
         <title>Banaras Tour Package 2026 | Budget to Premium Packages | Kashi Taxi</title>
@@ -183,8 +182,11 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         <link rel="canonical" href="https://www.kashitaxi.in/banaras-tour-package" />
       </Head>
       <JsonLd data={structuredData} />
+    </>
+  );
 
-      <NavBar />
+  return (
+    <LandingPageLayout head={seoHead}>
 
       <section className="relative flex items-center justify-center text-white overflow-hidden pt-16 pb-8 md:pt-20 md:pb-12">
         <div className="absolute inset-0 bg-gradient-to-br from-cyan-600 via-blue-500 to-teal-500" />
@@ -348,8 +350,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         ]}
       />
 
-      <Footer />
-    </>
+    </LandingPageLayout>
   );
 }
 
