@@ -8,6 +8,7 @@ import HeadForBlogs from '../../../components/SEO/HeadForBlogs';
 import StickyContactBar from '../../../components/ServicePage/StickyContactBar';
 import CTASection from '../../../components/CTA/CTASection';
 import ArticleSection from '../../../components/ArticleSection/ArticleSection';
+import ContentEnhancements from '../../../components/ArticleSection/ContentEnhancements';
 import { CONTACT } from '@/lib/contact';
 
 export default function BusPilgrimagePage({ postData, relatedBusPages, jsonLdData, pageLang, pageSlug, alternateLanguages = [] }) {
@@ -19,7 +20,12 @@ export default function BusPilgrimagePage({ postData, relatedBusPages, jsonLdDat
       <main>
         <div className="container mx-auto px-4 py-8">
           <ArticleSection contentHtml={postData.contentHtml} />
+
+          <ContentEnhancements.Inline html={postData.contentHtml} quickFacts={postData.quickFacts} />
         </div>
+
+        <ContentEnhancements.Bottom html={postData.contentHtml} faqSchema={postData.faqSchema} />
+
         <CTASection
           phone={postData.phone || CONTACT.callNumberRaw}
           title="Need help with multi-city pilgrimage logistics?"

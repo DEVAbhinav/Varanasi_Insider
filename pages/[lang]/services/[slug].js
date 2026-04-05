@@ -6,6 +6,7 @@ import ServiceHero from '../../../components/ServicePage/ServiceHero';
 import ServiceContent from '../../../components/ServicePage/ServiceContent';
 import StickyContactBar from '../../../components/ServicePage/StickyContactBar';
 import CTASection from '../../../components/CTA/CTASection';
+import ContentEnhancements from '../../../components/ArticleSection/ContentEnhancements';
 import dynamic from 'next/dynamic';
 import { CONTACT } from '@/lib/contact';
 
@@ -79,6 +80,11 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
           />
         )}
 
+        {/* Quick Facts + TOC */}
+        <div className="max-w-5xl mx-auto px-4">
+          <ContentEnhancements.Inline html={postData.contentHtml} quickFacts={postData.quickFacts} />
+        </div>
+
         {/* Injected Rates Cheat Sheet */}
         {(postData.showRatesCheatSheet !== false) && part2 && (
           <TaxiRatesCheatSheet variant="compact" showCTA={true} />
@@ -92,6 +98,9 @@ export default function ServicePage({ postData, jsonLdData, allPosts, pageLang, 
             pageUrl={`/${pageLang}/services/${pageSlug}`}
           />
         )}
+
+        {/* FAQ Accordion */}
+        <ContentEnhancements.Bottom html={postData.contentHtml} faqSchema={postData.faqSchema} />
 
         {/* Modular Bottom CTA Bar */}
         {postData.phone && (

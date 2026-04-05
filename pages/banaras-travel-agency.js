@@ -2,11 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Head from 'next/head';
 import Image from 'next/image';
-import { remark } from 'remark';
-import remarkGfm from 'remark-gfm';
-import remarkRehype from 'remark-rehype';
-import rehypeSlug from 'rehype-slug';
-import rehypeStringify from 'rehype-stringify';
+import { markdownToHtml } from '../lib/markdown';
 import NavBar from '../components/NavBar/NavBar';
 import Footer from '../components/Footer/Footer';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
@@ -486,13 +482,7 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
 export async function getStaticProps() {
   const markdownPath = path.join(process.cwd(), 'content', 'en', 'banaras-travel-agency.md');
   const fileContents = fs.readFileSync(markdownPath, 'utf8');
-  const processedContent = await remark()
-    .use(remarkGfm)
-    .use(remarkRehype, { allowDangerousHtml: true })
-    .use(rehypeSlug)
-    .use(rehypeStringify, { allowDangerousHtml: true })
-    .process(fileContents);
-  const contentHtml = processedContent.toString();
+  const contentHtml = await markdownToHtml(fileContents);
 
   return {
     props: {

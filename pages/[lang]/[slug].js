@@ -6,9 +6,7 @@
 import NavBar from '../../components/NavBar/NavBar';
 // import Header from '../../components/Header/Header';
 import ArticleSection from '../../components/ArticleSection/ArticleSection';
-import TableOfContents from '../../components/ArticleSection/TableOfContents';
-import QuickFacts from '../../components/ArticleSection/QuickFacts';
-import FaqAccordion from '../../components/ArticleSection/FaqAccordion';
+import ContentEnhancements from '../../components/ArticleSection/ContentEnhancements';
 import Footer from '../../components/Footer/Footer';
 import HeadForBlogs from '../../components/SEO/HeadForBlogs';
 import RelatedPostsGrid from '../../components/RelatedPosts/RelatedPostsGrid';
@@ -162,7 +160,7 @@ function ThinRouteSupportSection({ postData, pageLang = 'en', pageSlug = '' }) {
   );
 }
 
-export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug, alternateLanguages = [], headings = [], bodyHasFaq = false }) {
+export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pageLang, pageSlug, alternateLanguages = [] }) {
   const contentHtmlBefore = postData?.contentHtmlBefore ?? postData?.contentHtml ?? '';
   const contentHtmlAfter = postData?.contentHtmlAfter ?? null;
   const itinerary = postData?.itinerary || null;
@@ -213,13 +211,11 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
                 <ArticleSection contentHtml={part1} />
               )}
 
-              {/* Quick Facts card (from frontmatter quickFacts) */}
-              {postData?.quickFacts?.length > 0 && (
-                <QuickFacts facts={postData.quickFacts} />
-              )}
-
-              {/* Table of Contents (auto-generated from headings) */}
-              <TableOfContents headings={headings} />
+              {/* Quick Facts + Table of Contents */}
+              <ContentEnhancements.Inline
+                html={(postData?.contentHtmlBefore ?? postData?.contentHtml ?? '') + (postData?.contentHtmlAfter ?? '')}
+                quickFacts={postData?.quickFacts}
+              />
 
               {/* Dynamic Injection: Taxi Rates Cheat Sheet */}
               {(postData?.showRatesCheatSheet !== false) && part2 && (
@@ -301,14 +297,11 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
           />
         </div>
 
-        {/* Interactive FAQ Accordion (from frontmatter faqSchema) — skip if body already has FAQ section */}
-        {postData?.faqSchema?.length > 0 && !bodyHasFaq && (
-          <div className="container mx-auto px-4">
-            <div className="max-w-3xl">
-              <FaqAccordion items={postData.faqSchema} />
-            </div>
-          </div>
-        )}
+        {/* Interactive FAQ Accordion */}
+        <ContentEnhancements.Bottom
+          html={(postData?.contentHtmlBefore ?? postData?.contentHtml ?? '') + (postData?.contentHtmlAfter ?? '')}
+          faqSchema={postData?.faqSchema}
+        />
 
         {/* Modular CTA Section */}
         <CTASection
@@ -328,17 +321,10 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
 export async function getStaticProps({ params }) {
   const { getPostData, getJsonLdData, getRelatedPosts, getAllPostsMeta } = await import('../../lib/posts');
-  const { extractHeadings } = await import('../../lib/markdown');
   const { buildAlternateLanguageUrls } = await import('../../lib/hreflang');
   const postData = await getPostData(params.lang, params.slug);
   const jsonLdData = await getJsonLdData(params.lang, params.slug);
   const relatedPosts = getRelatedPosts(params.lang, params.slug);
-
-  // Extract headings for Table of Contents
-  const fullHtml = postData?.contentHtmlBefore ?? postData?.contentHtml ?? '';
-  const afterHtml = postData?.contentHtmlAfter ?? '';
-  const headings = extractHeadings(fullHtml + afterHtml);
-  const bodyHasFaq = /<h[23][^>]*>.*?(?:FAQ|Frequently Asked)/i.test(fullHtml + afterHtml);
 
   // Get organized post metadata for Footer
   const allPosts = getAllPostsMeta();
@@ -356,8 +342,6 @@ export async function getStaticProps({ params }) {
       pageLang: params.lang,
       pageSlug: params.slug,
       alternateLanguages,
-      headings,
-      bodyHasFaq,
     },
   };
 }
