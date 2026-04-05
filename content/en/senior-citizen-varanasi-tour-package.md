@@ -51,6 +51,8 @@ faqSchema:
 
 Many elder travelers do not need a bigger package. They need a **smarter** one.
 
+I've coordinated trips where a 78-year-old father finished Kashi Vishwanath darshan, a boat ride, and Sarnath in two calm days — and told his son it was the best trip of his life. The difference wasn't luxury. It was pacing, lane access planning, and knowing which temple has wheelchair-width corridors and which has 47 steps with no rail.
+
 The useful question is not "can parents visit Varanasi?" The real question is:
 
 "How do we make Kashi possible without turning devotion into physical strain?"

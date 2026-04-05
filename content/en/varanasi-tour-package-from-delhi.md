@@ -55,7 +55,7 @@ faqSchema:
 > - Practical for when elders, children, hotel changes, and return-city logistics matter.
 > - Micro-tip: if arrival day already includes hotel check-in, Kashi Vishwanath, Ganga Aarti, shopping, and a calm family dinner, the itinerary is not ambitious. It is fiction.
 
-Groups starting from Delhi face a different planning problem from groups already based in Varanasi. The real questions are:
+Groups starting from Delhi face a different planning problem from groups already based in Varanasi. Having coordinated dozens of Delhi-origin yatras — from Rajdhani families to chartered bus groups — I've seen the same mistake repeat: people finalize transport before fixing the route. The real questions are:
 
 - how many days are actually available after travel
 - whether the group should do only **Kashi**

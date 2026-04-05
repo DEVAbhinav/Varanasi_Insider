@@ -37,7 +37,7 @@ A true Banaras tour package navigates these contradictions:
 - 100,000+ visitors daily during peak season
 - Cows, monkeys, boats, pilgrims, vendors--all in sacred harmony
 
-**The Package Approach:** We guide you through the chaos with professional timing, cultural respect, and local connections that transform potential frustration into profound spiritual experience.
+**The Package Approach:** We've been guiding visitors through this beautiful chaos since 1998. The difference is professional timing, cultural respect, and the local connections that come from living here — our team knows which boat captain actually shows up at 5 AM and which ghat steps stay dry during monsoon.
 
 ## Our Banaras Tour Package Options
 

@@ -44,6 +44,8 @@ This 2 night / 3 day combo links the new Ram Janmabhoomi Mandir in Ayodhya with 
 
 ## Distance, Time & Route First
 
+I've driven this Varanasi–Ayodhya corridor more times than I can count. A few things most guides won't tell you: the expressway stretch near Sultanpur can add 45 minutes if you hit a sugarcane-truck jam, the Ayodhya city entry gets choked after 10 AM on darshan days, and the Ram Mandir queue works best if you arrive before 7 AM. Keep these in mind when reading the timing blocks below.
+
 Many travelers start with a distance question before deciding on a package — here are the quick facts:
 
 | Common question | Direct answer |

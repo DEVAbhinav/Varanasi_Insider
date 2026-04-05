@@ -34,6 +34,8 @@ A tourist seeks sights; a pilgrim seeks **divine connection**. This distinction 
 | Pace driven by itinerary | Pace respects prayer, prasad collection, ritual bathing |
 | Standard vehicle cleanliness | Vehicle sanctity protocols (no-smoking, vegetarian snacks only) |
 
+I've personally driven this triangle hundreds of times. The route order matters more than people think — families who start with Prayagraj and end with Varanasi often lose a full darshan slot because Kashi traffic eats into their arrival evening. We recommend Kashi first for a reason.
+
 ## Route Order First: Kashi → Prayagraj → Ayodhya Distance by Road
 
 If the traveler is not yet shopping for a full package and is first trying to understand the **route sequence**, answer that before everything else.

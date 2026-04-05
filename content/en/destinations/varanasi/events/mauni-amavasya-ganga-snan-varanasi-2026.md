@@ -948,7 +948,7 @@ A: While "spiritual benefits" are subjective, science confirms silence reduces s
 
 ## Book Your Mauni Amavasya Experience
 
-Make Mauni Amavasya 2026 a smooth, respectful pilgrimage with pre-booked transport that works around your silence vow.
+Make Mauni Amavasya 2026 a life-changing spiritual milestone with pre-booked transport that respects your silence vow.
 
 ### 🚖 Book Now – Special Mauni Amavasya Rates
 

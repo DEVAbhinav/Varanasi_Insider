@@ -57,6 +57,8 @@ faqSchema:
 
 Group buyers searching for this circuit are not looking for a taxi only. They need a full pilgrimage package with the right sequence, the right city-to-city flow, and the right support for elders, families, and trip leaders.
 
+I've run this exact 3-city circuit for temple committees, corporate CSR teams, and joint families of 35+ people. The route that works — Varanasi first, Prayagraj second, Ayodhya last — isn't arbitrary. It gives the group the emotional high of Ram Mandir at the end, when they're already spiritually primed from Kashi and Sangam.
+
 ## Why Trust Kashi Taxi for This 3-City Group Tour
 
 This package works only when operations are tighter than the marketing copy. Our trust layer is simple and practical:

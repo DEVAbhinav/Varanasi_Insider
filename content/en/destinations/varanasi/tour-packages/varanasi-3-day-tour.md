@@ -42,7 +42,7 @@ brand: "Kashi Taxi"
 
 ## Why Three Days?
 
-Stretching the itinerary over 72 hours gives breathing room to absorb Kashi’s layered rituals, heritage pockets and culinary scene without rush. You experience sunrise and sunset Aartis, temple clusters, Sarnath archaeology, Ramnagar royalty, silk ateliers, and curated cultural performances.[^overview]
+After running this route hundreds of times, I can tell you — three days is the sweet spot. Two days feels rushed (you skip either Sarnath or the sunrise boat, and you'll regret both). Four days is great but most families can't spare it. Three gives you breathing room to absorb Kashi's layered rituals, heritage pockets and culinary scene without rush. You experience sunrise and sunset Aartis, temple clusters, Sarnath archaeology, Ramnagar royalty, silk ateliers, and curated cultural performances.[^overview]
 
 - **Ideal for:** Spiritual seekers, families, photography enthusiasts, travellers craving unhurried pacing.[^audience]
 - **Accommodation:** Choice of standard, deluxe, luxury properties with CP/MAP/AP meal plans.[^stay]

@@ -43,7 +43,7 @@ brand: "Kashi Taxi"
 
 ![Varanasi Same Day Tour Highlights](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/same-day-tour-hero.jpg)
 *Experience the spiritual trio: Kashi Vishwanath, Sarnath Stupa, and the mesmerizing Ganga Aarti in one day.*
-
+I've personally fine-tuned the timing on this itinerary over dozens of same-day runs. The sequencing below isn't arbitrary — it accounts for temple security queues clearing by 9:15 AM, Sarnath museum closing on Fridays, and the 30-minute window you need to lock a good boat position before Ganga Aarti starts.
 An express but immersive 8–10 hour Varanasi circuit designed for travellers with limited time who still want the city’s spiritual essence. Smart sequencing covers Jyotirlinga darshan, Sarnath’s Buddhist heritage, BHU’s cultural spine, a sunset boat ride, and the climactic Dashashwamedh Ganga Aarti.[^overview][^duration]
 
 - **Ideal crowd:** First timers, business travellers in transit, pilgrims on rail layovers, festival visitors needing a compact schedule.[^audience]

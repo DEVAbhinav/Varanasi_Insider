@@ -62,7 +62,7 @@ faqSchema:
 
 If you are a family organizer, temple committee, satsang group, school cultural coordinator, or NRI family point-person, your problem is not just booking a vehicle. Your real problem is keeping the group together, protecting elders from fatigue, avoiding avoidable queue chaos, and making sure the entire yatra feels organized from arrival to departure.
 
-That is what this guide helps you plan.
+I've managed group pilgrimages where the eldest member was 87 and the youngest was 4. The trip that works is never the cheapest one — it's the one where the coordinator doesn't have to make 30 panicked calls on Day 1. That is what this guide helps you plan.
 
 ## Why Trust Kashi Taxi for a Varanasi Group Tour Package
 

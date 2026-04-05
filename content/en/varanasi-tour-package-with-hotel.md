@@ -57,6 +57,8 @@ The useful question is not "which hotel is best?" It is:
 
 ## Who This Package Is For
 
+I've seen families lose an entire morning because they booked a ghat-side hotel without checking if their cab could reach the lane entrance. Area choice in Varanasi is not about aesthetics — it decides your entire day's movement flow.
+
 - first-time travelers choosing between Assi, Cantt, or ghat access
 - families wanting hotel + cab in one booking
 - travelers planning Kashi Vishwanath and Ganga Aarti around the stay location

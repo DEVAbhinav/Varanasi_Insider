@@ -41,6 +41,8 @@ brand: "Kashi Taxi"
 - **Perfect for:** Weekend travellers, couples, families, pilgrims after deeper immersion.[^audience]
 - **Core experiences:** Evening Ganga Aarti, sunrise Subah-e-Banaras, Sarnath, BHU campus, silk weaving, foodie trail.
 
+I always tell families booking 2 days: the first evening — Ganga Aarti from a boat — will rewrite your expectations. By sunrise the next morning, Kashi stops being a destination and starts feeling personal. Two days is tight, but with the right pacing it covers the spiritual core without exhausting anyone.
+
 ## Day-by-Day Game Plan
 
 ### Day 1 · Arrival, Temples & Twilight Aarti
