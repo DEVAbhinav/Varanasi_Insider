@@ -66,7 +66,7 @@ faqSchema:
 
 Sarnath stands as one of Buddhism's four most sacred pilgrimage sites, alongside Lumbini (Buddha's birthplace), Bodh Gaya (enlightenment site), and Kushinagar (Mahaparinirvana site). Located just 10-13 kilometers from Varanasi, this ancient **Sarnath temple** complex marks where Gautama Buddha delivered his momentous first sermon—the **Dhammacakkappavattana** or "Turning the Wheel of Dharma"—setting in motion one of the world's great spiritual traditions over 2,500 years ago.
 
-This comprehensive Sarnath visit guide covers everything you need to know about visiting Sarnath attractions, from the magnificent Dhamek Stupa and historic **original Sarnath pillar** (Ashoka Pillar) to **Sarnath Buddhist temples**, museum treasures, practical **Sarnath timing**, and transport options from Varanasi.
+This Sarnath visit guide covers all the key attractions — from the magnificent Dhamek Stupa and historic **original Sarnath pillar** (Ashoka Pillar) to **Sarnath Buddhist temples**, museum treasures, practical **Sarnath timing**, and transport options from Varanasi.
 
 ![Dhamek Stupa at Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png "Majestic Dhamek Stupa rising above manicured lawns")
 

@@ -116,10 +116,10 @@ All quotes include fuel, tolls, Prayagraj bridge fee, Sangam parking, and driver
 - Email (optional): bookings@kashitaxi.in
 - Token: ₹800 UPI to confirm; balance after trip.
 
-<!-- CTA Section for Maximum CTR Optimization -->
+<!-- Booking CTA -->
 ![Tempo Traveller charter staged near Triveni Sangam sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Tempo Traveller charter staged near Triveni Sangam sunrise")
-## Ready to Transform Your Varanasi to Prayagraj Journey?
-Experience unparalleled comfort, safety, and exclusive offers with our Tempo Traveller service. Don't miss our limited-time deals crafted just for your sacred journey.
+## Ready to Book Your Varanasi to Prayagraj Tempo Traveller?
+Get a flat-rate quote with driver, fuel, and tolls included.
 [Book Your Ride Now!](/booking)
 
 **Related Reads:** [Prayagraj Tempo Traveller Guide](/en/varanasi-to-prayagraj-tempo-traveller) · [Triveni Sangam Ritual Focus](/en/varanasi-to-triveni-sangam-tempo-traveller) · [Kumbh 2026 Special](/en/varanasi-to-prayagraj-kumbh-tempo-traveller)

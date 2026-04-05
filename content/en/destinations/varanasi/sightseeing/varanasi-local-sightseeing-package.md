@@ -75,7 +75,7 @@ faqSchema:
 
 > **TL;DR:** Half-day temple-and-ghat packages start from ₹1,800, full-day city tours with Sarnath from ₹2,200. All plans include private AC vehicle, driver, fuel, and parking.
 
-Planning to explore Varanasi's spiritual heritage without negotiating with multiple autos, guessing temple timing order, or wasting hours in traffic? Our **Varanasi local sightseeing package** is built exactly for that problem. This page is where we want city-tour and one-day-tour traffic to land first, because it cleanly answers the main commercial questions:
+Planning to explore Varanasi's spiritual heritage without negotiating with multiple autos, guessing temple timing order, or wasting hours in traffic? Our **Varanasi local sightseeing package** is built exactly for that problem. Below you'll find answers to the main questions:
 
 - How much does a one day Varanasi tour by car cost?
 - What can you cover in 4 hours vs 8 hours?

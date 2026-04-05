@@ -44,7 +44,7 @@ Need a low-heat pickup plan for temple or airport movement? [WhatsApp us](https:
 
 Varanasi in peak summer is not difficult only because it is hot. It is difficult because heat combines with walking lanes, queue exposure, reflective riverfront surfaces, and the tendency travelers have to overpack spiritual sightseeing into one day. The result is avoidable exhaustion.
 
-This page is meant to stop that pattern before it starts.
+This guide is meant to stop that pattern before it starts.
 
 ## Varanasi summer heat safety basics
 

@@ -61,7 +61,7 @@ faqSchema:
 
 **Season freshness:** Updated for Buddha Purnima and Guru Purnima 2026 visit operations.
 
-Planning your **Sarnath visit** timing correctly can make the difference between a rushed, uncomfortable experience and a peaceful, spiritually enriching pilgrimage. This comprehensive guide covers all **Sarnath timing** details—from daily opening hours to seasonal weather patterns, from temple prayer schedules to complete itineraries—helping you plan the perfect visit to this sacred Buddhist site.
+Planning your **Sarnath visit** timing correctly can make the difference between a rushed, uncomfortable experience and a peaceful, spiritually enriching pilgrimage. Below you'll find all **Sarnath timing** details—daily opening hours, seasonal weather patterns, temple prayer schedules, and sample itineraries—to help you plan your visit to this sacred Buddhist site.
 
 ![Sarnath Early Morning](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg)
 *Peaceful early morning atmosphere ideal for Sarnath visit*

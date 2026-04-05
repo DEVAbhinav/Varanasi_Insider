@@ -55,7 +55,7 @@ faqSchema:
 > - Organiser still deciding the route from NCR? Start with [Varanasi Tour Package from Delhi](/en/varanasi-tour-package-from-delhi) first.
 > - Micro-tip: this trip should feel like one yatra, not three separate cab bookings wearing one fake moustache.
 
-This page exists because group buyers searching for this circuit are not looking for a taxi only. They are looking for a full pilgrimage package with the right sequence, the right city-to-city flow, and the right support for elders, families, and trip leaders.
+Group buyers searching for this circuit are not looking for a taxi only. They need a full pilgrimage package with the right sequence, the right city-to-city flow, and the right support for elders, families, and trip leaders.
 
 ## Why Trust Kashi Taxi for This 3-City Group Tour
 

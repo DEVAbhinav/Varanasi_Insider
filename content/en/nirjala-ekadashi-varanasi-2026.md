@@ -47,7 +47,7 @@ Need help matching darshan timing with pickup and return planning? [WhatsApp us]
 
 Temple queue length and darshan speed can vary sharply by location and weather, so confirm locally if you are aiming for one specific mandir or a narrow visit window.
 
-## Who this page is for
+## Who this guide is for
 
 - Visitors observing the festival respectfully
 - Families accompanying fasting devotees

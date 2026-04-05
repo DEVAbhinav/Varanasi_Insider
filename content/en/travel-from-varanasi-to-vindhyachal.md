@@ -126,7 +126,7 @@ Use this simple decision rule:
 - choose **train** if budget matters more than last-mile convenience
 - choose **bus** only if cost is the clear priority and comfort is secondary
 
-This page is strongest when the traveler is still comparing modes. Once the traveler has already decided on taxi or itinerary format, the more specific pages should take over.
+This comparison is most useful when you're still deciding between taxi, train, bus, or group vehicle. Once you've decided, the more specific pages linked above will have deeper fare and booking details.
 
 ## Contact & Booking
 

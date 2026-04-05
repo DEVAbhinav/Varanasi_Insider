@@ -41,7 +41,7 @@ faqSchema:
 
 If you are planning darshan, a sunrise boat, a ghat walk, or a day trip onward to **Ayodhya, Prayagraj, Sarnath or Vindhyachal**, weather changes the trip far more than many first-time travellers expect. The right month can make Varanasi feel calm, photogenic and deeply spiritual. The wrong month, or the wrong time of day, can turn even a short outing into a tiring logistics problem.
 
-This page is built for practical planning, not just a temperature chart.
+This guide is built for practical planning, not just a temperature chart.
 
 ## Quick Season Snapshot
 

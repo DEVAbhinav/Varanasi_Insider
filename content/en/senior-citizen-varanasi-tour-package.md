@@ -29,8 +29,8 @@ relatedPosts:
   - kashi-vishwanath-darshan-ganga-aarti-package
   - kashi-darshan-tempo-traveller
 faqSchema:
-  - question: "Who should use this senior citizen Varanasi package page?"
-    answer: "Use this page when the main concern is elder comfort, low walking, rest windows, easier hotel access, and realistic Kashi darshan pacing inside Varanasi."
+  - question: "Who is the senior citizen Varanasi package for?"
+    answer: "Adult children booking for parents or grandparents, and elder travelers who want low-walking routes, rest-window planning, easier hotel access, and realistic Kashi darshan pacing."
   - question: "Is this page different from the multi-city elderly package?"
     answer: "Yes. This guide covers elder-friendly Kashi travel within Varanasi only. The multi-city elderly package is for wider Varanasi-Gaya-Prayagraj pilgrimage circuits."
   - question: "Can you plan for wheelchair users or walkers?"
@@ -49,13 +49,13 @@ faqSchema:
 > - We plan for **practical access and calmer flow**, while being honest about where exact public-space accessibility still varies.
 > - Banaras wisdom: devotion grows with patience, but knee pain grows faster, so the itinerary should know the difference.
 
-This page exists because many elder travelers do not need a bigger package. They need a **smarter** one.
+Many elder travelers do not need a bigger package. They need a **smarter** one.
 
 The useful question is not "can parents visit Varanasi?" The real question is:
 
 "How do we make Kashi possible without turning devotion into physical strain?"
 
-## Who Should Use This Page
+## Who This Package Is For
 
 - adult children booking for parents
 - elders who want Varanasi only, not a long multi-city circuit
@@ -63,7 +63,7 @@ The useful question is not "can parents visit Varanasi?" The real question is:
 - families who want hotel-access-first logic
 - visitors worried about crowd stress, stairs and bathroom timing
 
-## Who Should Not Use This Page
+## Looking for Something Else?
 
 - large committees and big batches
 - route-only taxi users
@@ -207,22 +207,15 @@ One rushed night often creates more stress than one extra night costs.
 - **real on-ground knowledge of where elders usually struggle**
 - **local understanding of old-city timing, lane access and recovery-friendly stay belts**
 
-## Best Fit Audience
+## Best For
 
-- parents traveling with adult children
+- Parents traveling with adult children
 - NRI families booking for elders
-- senior couples wanting a less stressful Kashi visit
+- Senior couples wanting a less stressful Kashi visit
 
-If the trip becomes multi-city, use:
+If the trip becomes multi-city, see:
 
 - [Varanasi Gaya Prayagraj Tour Package for Elderly](/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly)
-
-If the query is mostly:
-
-- `senior citizen varanasi tour package` -> stay on this page
-- `family trip to varanasi` -> move to the family page
-- `varanasi tour package with hotel` -> move to the hotel page
-- `varanasi gaya prayagraj elderly package` -> move to the multi-city elderly page
 
 ## Fast Quote Format for WhatsApp
 

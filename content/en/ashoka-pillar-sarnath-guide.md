@@ -49,7 +49,7 @@ faqSchema:
 
 The **Ashoka Pillar Sarnath** (also known as **Ashok Stambh Sarnath** or the **original Sarnath pillar**) is one of India's most historically significant monuments. Erected by the great Mauryan Emperor Ashoka around **250 BCE**, this magnificent **Sarnath pillar** originally stood over 15 meters tall, crowned with the world-famous **Lion Capital**—a masterpiece of ancient Indian sculpture that has become India's National Emblem.
 
-This comprehensive guide covers everything about the **Ashoka Pillar Sarnath**: its original location, the iconic Lion Capital, Ashoka's Buddhist edicts, historical significance, and practical visiting information.
+This guide covers the **Ashoka Pillar Sarnath**: its original location, the iconic Lion Capital, Ashoka's Buddhist edicts, historical significance, and practical visiting information.
 
 ![Ashoka Pillar Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png)
 *The original Ashoka Pillar Sarnath location near Dhamek Stupa*

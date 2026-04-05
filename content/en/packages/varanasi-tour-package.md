@@ -40,9 +40,9 @@ Varanasi, the world's oldest living city, offers an unparalleled spiritual and c
 
 > **Planning your visit?** Check out our [Best Time to Visit Varanasi](/en/best-time-to-visit-varanasi) guide for seasonal insights.
 
-## What This Page Covers
+## What's Included
 
-This is the right page when you want **Varanasi as a complete package**, not just one local cab ride. That usually means:
+Choose this when you want **Varanasi as a complete package**, not just one local cab ride. That usually means:
 
 - 2 nights / 3 days as the default first trip
 - hotel + airport or station pickup + local cab in one plan
@@ -272,7 +272,7 @@ This comprehensive **3-day Varanasi tour** includes complete **temple tour** and
 **Package Inclusions**: 3-star hotel accommodation, breakfast + 1 dinner, private AC vehicle, all boat rides, professional guide  
 **Ideal For**: First-time visitors, spiritual seekers, families seeking comprehensive Varanasi tour experience
 
-> Family-first planners should also compare [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families). Keep this page as the broad owner, and let the family page handle mixed-age comfort-specific objections.
+> Family-first planners should also compare [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families) for mixed-age comfort-specific planning.
 
 ### 4-Day Extended Varanasi Tour Package
 

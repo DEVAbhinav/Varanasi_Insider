@@ -112,7 +112,7 @@ aggregateRating:
 
 # Varanasi Airport Transfer Options Overview | VNS LBS Airport Transfers
 
-> **Important:** This is now a support overview page. For direct airport pickup booking, use the main [Varanasi Airport Taxi Service](/en/city/varanasi/taxi/airport-taxi-service-varanasi) page. For fare-first comparisons, use the [Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide). For route logistics and destination lookup, use the [Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) and [Airport Transfer Directory](/en/city/varanasi/taxi/varanasi-airport-transfer-directory).
+> **Quick links:** Need to [book an airport pickup](/en/city/varanasi/taxi/airport-taxi-service-varanasi) directly? Want to [compare fares](/en/varanasi-airport-taxi-price-guide)? Looking for [route logistics](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) or a [destination directory](/en/city/varanasi/taxi/varanasi-airport-transfer-directory)?
 
 ## Related Airport Pages
 

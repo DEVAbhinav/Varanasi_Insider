@@ -74,7 +74,7 @@ If your family needs a **Varanasi-only** low-walking package for elders, use the
 
 - [Senior Citizen Varanasi Tour Package](/en/senior-citizen-varanasi-tour-package)
 
-Keep this page for the broader Varanasi + Gaya + Prayagraj elderly circuit.
+This guide covers the broader Varanasi + Gaya + Prayagraj elderly circuit.
 
 ---
 

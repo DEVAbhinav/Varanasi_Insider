@@ -52,7 +52,7 @@ Answer Box
 
 ---
 
-Planning a pilgrimage or a road trip from the spiritual city of Varanasi to Bodh Gaya, where the Buddha attained enlightenment? This guide covers everything you need to know about the journey, including distance, travel time, and taxi fares.
+Planning a pilgrimage or a road trip from Varanasi to Bodh Gaya, where the Buddha attained enlightenment? Below you'll find the distance, travel time, taxi fares, and route details for the journey.
 
 > **Book Your Trip to Bodh Gaya!**  
 > Get a transparent, all-inclusive fare for your journey.  

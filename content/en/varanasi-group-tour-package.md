@@ -35,8 +35,8 @@ relatedPosts:
   - varanasi-to-ayodhya-tempo-traveller
   - tempo-traveller-varanasi
 faqSchema:
-  - question: "Who should use this Varanasi group tour package page?"
-    answer: "Use this page if you are organizing a trip for 6 or more people and want one operator to manage hotels, darshan timing, vehicles, meals, and group coordination in Varanasi or across Ayodhya and Prayagraj."
+  - question: "Who is the Varanasi group tour package for?"
+    answer: "This package works best if you are organizing a trip for 6 or more people and want one operator to manage hotels, darshan timing, vehicles, meals, and group coordination in Varanasi or across Ayodhya and Prayagraj."
   - question: "What group sizes do you handle?"
     answer: "We handle small family groups of 6-7, mid-sized yatras of 8-16, mini-bus groups of 17-26, and larger pilgrimage movements up to 40+ passengers with the right vehicle mix and rooming plan."
   - question: "Can you support senior citizens and slow-paced yatras?"
@@ -62,11 +62,11 @@ faqSchema:
 
 If you are a family organizer, temple committee, satsang group, school cultural coordinator, or NRI family point-person, your problem is not just booking a vehicle. Your real problem is keeping the group together, protecting elders from fatigue, avoiding avoidable queue chaos, and making sure the entire yatra feels organized from arrival to departure.
 
-That is what this page is for.
+That is what this guide helps you plan.
 
 ## Why Trust Kashi Taxi for a Varanasi Group Tour Package
 
-This page is not built like a generic “tour package” placeholder. It is based on the same operating model used across our airport, city-tour, and pilgrimage pages:
+This guide is based on the same operating model used across our airport, city-tour, and pilgrimage services:
 
 - **serving travelers since 1998** through the Vinayak Travels / Kashi Taxi operating setup
 - **24x7 phone and WhatsApp coordination** for organizers before and during the trip

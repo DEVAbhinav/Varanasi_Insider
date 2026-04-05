@@ -28,9 +28,9 @@ ctaSubtitle: "Travelers can request language support, route familiarity, and fam
 
 # Meet Your Verified Kashi Taxi Drivers
 
-This page helps travelers understand who drives with Kashitaxi.in and what standards we follow before assigning a ride.
+Here you can see who drives with Kashitaxi.in and what standards we follow before assigning a ride.
 
-## Why This Page Is Useful for Travelers
+## Why This Matters for Travelers
 - Know that your driver is verified and trained.
 - Understand route specialization before booking.
 - Request drivers by language, comfort needs, and trip type.
@@ -70,7 +70,7 @@ If you are a current driver partner and need profile updates, send your latest p
 
 ## How Driver Matching Works at Kashitaxi
 
-This page is not here to make vague trust claims. It exists because the quality of a Varanasi ride depends heavily on the match between **driver type and route type**.
+The quality of a Varanasi ride depends heavily on the match between **driver type and route type**.
 
 The driver who handles:
 
@@ -152,7 +152,7 @@ We do not promise:
 
 What we do promise is clearer pre-trip coordination so the traveller understands those limits before the ride begins.
 
-## Why This Matters for SEO and Trust
+## Why This Matters for Trust
 
 Many taxi sites publish only a rate line and a phone number. That is not enough for travellers comparing real operators. A serious buyer wants to know:
 
@@ -161,4 +161,4 @@ Many taxi sites publish only a rate line and a phone number. That is not enough 
 - what happens when access changes
 - whether dispatch understands family, pilgrimage and airport use cases
 
-That is why this page exists. It converts trust into something concrete.
+That is why we share this information publicly. It shows the standards behind our service.
