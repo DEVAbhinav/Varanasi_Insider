@@ -38,6 +38,24 @@ export async function getStaticProps() {
 }
 
 export default function PackagesPage({ packages, jsonLd }) {
+  const nonPackageLinks = [
+    {
+      href: '/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi',
+      title: 'Direct Ayodhya taxi booking',
+      description: 'Use this when you already know you want a direct sedan or SUV booking, not a bundled pilgrimage package.',
+    },
+    {
+      href: '/en/varanasi-to-ayodhya',
+      title: 'Ayodhya route, distance and taxi fare',
+      description: 'Use this when the main question is road distance, travel time, one-way fare, tolls, or train-vs-cab planning.',
+    },
+    {
+      href: '/en/city/varanasi/taxi/airport-taxi-service-varanasi',
+      title: 'Airport pickup and Babatpur booking',
+      description: 'Use this when the traveler is arriving by flight and needs airport pickup rather than a sightseeing or stay package.',
+    },
+  ];
+
   const featuredSections = [
     {
       title: 'One-Day & City Darshan',
@@ -197,8 +215,8 @@ export default function PackagesPage({ packages, jsonLd }) {
   return (
     <>
       <Head>
-        <title>Varanasi Tour Packages, Group Tours & Delhi Pilgrimages | Ayodhya, Prayagraj, Gaya</title>
-        <meta name="description" content={`Compare Varanasi tour packages, Delhi-origin pilgrimages, group tours, one-day city tours, Ayodhya and Prayagraj circuits, and elderly-friendly packages. Fixed itineraries and WhatsApp booking on ${CONTACT.callNumberDisplay.replace('+91 ', '')}.`} />
+        <title>Varanasi Tour Packages | Family, Group, Delhi & Pilgrimage Packages</title>
+        <meta name="description" content={`Compare Varanasi tour packages by actual travel intent: one-day city tours, family stays, Delhi-origin pilgrimages, Ayodhya-Prayagraj circuits, and senior-friendly plans. This page is for packages, not route-only taxi fares. WhatsApp booking on ${CONTACT.callNumberDisplay.replace('+91 ', '')}.`} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </Head>
       
@@ -220,10 +238,10 @@ export default function PackagesPage({ packages, jsonLd }) {
               📦 PILGRIMAGE PACKAGES, GROUP TOURS & CIRCUITS
             </div>
             <h1 className="text-3xl md:text-5xl font-bold mb-4 drop-shadow-lg">
-              Choose the Right Varanasi Package First
+              Choose the Right Varanasi Tour Package First
             </h1>
             <p className="text-lg md:text-xl text-cyan-50 max-w-2xl mx-auto">
-              One-day Kashi tours, 6-40+ group pilgrimage packages, Ayodhya-Prayagraj circuits, and family-friendly sacred travel in one category page.
+              One-day Kashi tours, family stay packages, 6-40+ group pilgrimages, and Ayodhya-Prayagraj circuits in one package-first hub.
             </p>
           </div>
         </div>
@@ -249,6 +267,21 @@ export default function PackagesPage({ packages, jsonLd }) {
                 <p className="mt-2 text-lg font-semibold text-gray-900">{item.value}</p>
               </div>
             ))}
+          </div>
+
+          <div className="mb-12 rounded-3xl border border-cyan-200 bg-cyan-50/70 p-8 shadow-sm">
+            <h2 className="text-2xl font-bold text-cyan-950 mb-3">Not looking for a package?</h2>
+            <p className="text-cyan-900/80 mb-5 max-w-3xl">
+              Leave this hub when the traveler already knows the transport task. Package pages should own itinerary and stay planning, while direct taxi booking, airport pickup, and route-only fare queries belong on narrower commercial pages.
+            </p>
+            <div className="grid gap-4 md:grid-cols-3">
+              {nonPackageLinks.map((item) => (
+                <Link key={item.href} href={item.href} className="rounded-2xl border border-cyan-200 bg-white p-5 transition hover:border-cyan-300 hover:shadow-md">
+                  <h3 className="font-semibold text-gray-900 mb-2">{item.title}</h3>
+                  <p className="text-sm text-gray-600">{item.description}</p>
+                </Link>
+              ))}
+            </div>
           </div>
 
           {featuredSections.map((section) => (
