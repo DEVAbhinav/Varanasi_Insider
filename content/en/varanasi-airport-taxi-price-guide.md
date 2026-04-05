@@ -6,15 +6,19 @@ lastUpdated: "2026-12-23"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
-metaTitle: "Varanasi Airport Taxi Fare 2026 (Dec): Fixed Airport-to-City Cabs from ₹700"
-metaDescription: "Updated Dec 2026 Varanasi airport taxi fares: sedan ₹700–₹950 (Flash ₹690), Innova ₹1,250–₹1,550, tempo ₹2,100. 25–30 km in 40–45 min with one-tap WhatsApp booking, capped night surcharge and clear refund policy."
+metaTitle: "Varanasi Airport Taxi Price Guide 2026: Fixed Cabs from ₹700 | No Surge"
+metaDescription: "Varanasi airport taxi fare: sedan ₹700, Innova ₹1,250, tempo ₹2,100. Fixed-price, no surge. 25 km to city in 40 min. Night cap ₹1,699. WhatsApp booking with flight tracking."
 description: "Updated Dec 2026 Varanasi airport taxi fares to Assi, Dashashwamedh, BHU, and Sarnath with live tables, booking scripts, pickup point map, and refund policies."
 keywords:
   - "varanasi airport taxi fare today"
+  - "varanasi airport taxi service"
+  - "varanasi airport taxi price"
+  - "varanasi airport taxi booking"
+  - "varanasi airport cab price"
   - "vns airport cab price 2026"
   - "varanasi airport prepaid taxi cost"
   - "varanasi airport pickup booking"
-  - "avoid taxi scams varanasi airport"
+  - "varanasi airport to hotel taxi"
 tags:
   - varanasi
   - airport taxi
@@ -207,6 +211,21 @@ Varanasi’s Lal Bahadur Shastri International Airport (VNS) sits 25–32 km fro
 
 ## Key Information for Your Airport Transfer
 
+### Varanasi Airport to Kashi Vishwanath Temple Distance
+
+The distance from **Varanasi airport to Kashi Vishwanath Temple** is approximately **26 km** and takes **35–45 minutes** by taxi. This is the most-searched airport route — almost every pilgrim arriving by flight heads directly to the temple.
+
+| Route | Distance | Time | Sedan Fare |
+|---|---:|---|---:|
+| **Airport → Kashi Vishwanath Temple** | 26 km | 35–45 min | ₹750–₹950 |
+| **Airport → Dashashwamedh Ghat** | 25 km | 40–45 min | ₹750–₹950 |
+| **Airport → Assi Ghat** | 27 km | 40–45 min | ₹700–₹900 |
+| **Airport → Varanasi Junction (station)** | 22 km | 30–40 min | ₹650–₹800 |
+| **Airport → Sarnath** | 32 km | 45–55 min | ₹850–₹1,050 |
+| **Airport → BHU Gate** | 30 km | 40–50 min | ₹800–₹950 |
+
+**Tip:** Kashi Vishwanath darshan queue is shortest before 8 AM and after 7 PM. If your flight lands early morning, head directly — our driver can store luggage in the car while you visit.
+
 ### Travel Time
 Expect a **40–45 minute** drive from the airport to key destinations like Kashi Vishwanath Temple or Dashashwamedh Ghat.
 
@@ -309,3 +328,20 @@ Yes. Pre-booked operators give you driver ID, vehicle number, and live tracking.
 ## Summary
 
 Booking a taxi from Varanasi airport is straightforward. A standard sedan now averages **₹700–₹950** to reach Assi or Dashashwamedh within 45 minutes, with a **Flash ₹690** option when you call within two hours on weekdays. Innova Crysta upgrades hover around **₹1,250–₹1,550**, and Tempo Travellers land near **₹2,100**. Share your flight details, screenshot the confirmation, and reconfirm the night or delay policy before you board.
+
+## Going Beyond the City? Airport to Outstation Fares
+
+Many travellers fly into Varanasi and head directly to pilgrimage destinations. Here are direct fares from VNS airport:
+
+| Destination | Distance | Sedan Fare | Time |
+|---|---:|---:|---|
+| **Ayodhya (Ram Mandir)** | 195 km | ₹3,500–₹3,800 | 4 hrs |
+| **Prayagraj (Sangam)** | 115 km | ₹2,500–₹2,800 | 2.5 hrs |
+| **Sarnath** | 32 km | ₹850–₹1,050 | 45 min |
+| **Vindhyachal** | 75 km | ₹1,800–₹2,200 | 2 hrs |
+| **Bodh Gaya** | 270 km | ₹5,500–₹6,500 | 6 hrs |
+| **Gorakhpur** | 230 km | ₹4,000–₹4,500 | 5 hrs |
+
+- [Varanasi to Ayodhya Distance & Fare](/en/varanasi-to-ayodhya)
+- [Varanasi to Prayagraj Distance & Fare](/en/varanasi-to-prayagraj)
+- [Airport Transfer Directory (all routes)](/en/city/varanasi/taxi/varanasi-airport-transfer-directory)

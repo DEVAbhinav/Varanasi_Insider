@@ -1,12 +1,14 @@
 ---
 lang: en
-title: "Tempo Traveller Varanasi: Rates & Booking [2026]"
-description: "Hire a Tempo Traveller in Varanasi (9–26 seater). Kashi Darshan, outstation, weddings and airport transfers. Transparent 2026 rates and clean AC fleet."
+title: "Tempo Traveller in Varanasi: Rates, Fleet & Booking [2026]"
+description: "Hire a Tempo Traveller in Varanasi (9–26 seater). Kashi Darshan from ₹5,500, airport transfer ₹2,500, outstation ₹24–27/km. Clean AC fleet with pushback seats. 2026 rates."
 date: 2026-08-27
 tags: [tempo traveller, varanasi, tempo traveller hire, tempo traveller booking, tempo traveller rates, kashi darshan, airport transfer, 12 seater, 17 seater]
 showRatesCheatSheet: true
 slug: tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/tempo-traveller-varanasi
+metaTitle: "Tempo Traveller in Varanasi ₹2,500+ | 9-17 Seater Hire 2026 Rates"
+metaDescription: "Hire tempo traveller in Varanasi from ₹2,500 (airport) ₹5,500 (local 8hr). 9, 12, 17, 20 & 26 seater AC fleet. Kashi darshan, Ayodhya day trip, weddings. 2026 fixed rates."
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 relatedPosts:
   - varanasi-airport-tempo-traveller
@@ -16,15 +18,51 @@ relatedPosts:
   - varanasi-group-tour-package
   - ayodhya-varanasi-prayagraj-group-tour-package
   - varanasi-tour-package-from-delhi
+faqSchema:
+  - question: "How much does tempo traveller cost in Varanasi?"
+    answer: "Tempo traveller rates in Varanasi for 2026: Airport transfer ₹2,500 (12-seater), local 8hr/80km from ₹5,500, outstation ₹24-27 per km (min 250 km/day). 17-seater costs 15-20% more. Luxury Urbania/Maharaja from ₹3,500 (airport) and ₹7,500 (local)."
+  - question: "Which size tempo traveller should I book in Varanasi?"
+    answer: "For 6-10 people: 12-seater (2x1 layout, ample legroom). For 11-15 people: 17-seater. For 16-22 people: 20 or 26-seater mini-bus. For premium comfort: Luxury Urbania (1x1 seats). Rule of thumb: book one size up for luggage comfort."
+  - question: "Can I hire tempo traveller for Ayodhya day trip from Varanasi?"
+    answer: "Yes. Varanasi to Ayodhya same-day round trip by 12-seater tempo traveller costs approximately ₹14,500 all-inclusive. 17-seater is ₹16,500. Trip leaves at 5:30 AM, returns by 9 PM. Includes toll, fuel, parking, and driver meals."
+  - question: "Is tempo traveller available for airport pickup in Varanasi?"
+    answer: "Yes. Airport transfer by 12-seater tempo traveller is ₹2,500 flat (VNS airport to hotel). 17-seater is ₹3,000. We monitor flight arrivals and adjust pickup time. Driver assists with luggage. Also available for Varanasi Junction and DDU (Mughalsarai) station."
+  - question: "Do tempo travellers in Varanasi have AC?"
+    answer: "Yes, all our tempo travellers are AC with pushback/recliner seats. Fleet includes standard 12 and 17-seater, 20/26-seater mini-bus, and luxury Urbania/Maharaja with 1x1 captain seats. All vehicles are GPS-tracked, sanitised before each trip."
+  - question: "Can I book tempo traveller for wedding in Varanasi?"
+    answer: "Yes. We handle wedding guest transportation between venues, sangeet/mehndi shuttles, baraat routes. Multi-day bookings available. Decorated tempo travellers on request. Fixed daily rate — no per-trip surprises."
 ---
 
-# Tempo Traveller on Rent in Varanasi – Reliable & Affordable Group Travel
+# Tempo Traveller on Rent in Varanasi – 2026 Rates & Fleet Guide
 
-> **At a Glance: Tempo Traveller Rental**
-> - **Fleet Options:** 9, 12, 17, 20, 26 Seater & Luxury Urbania.
-> - **Starting Rates:** Airport Transfer ₹2,500 | Local 8hr/80km ₹5,500.
-> - **Outstation Rate:** ₹24–₹27 per km (min 250km/day).
-> - **Best For:** Kashi Darshan, Ayodhya/Prayagraj trips, Weddings.
+> **At a Glance: Tempo Traveller Rates in Varanasi (2026)**
+>
+> | Service | 12-Seater | 17-Seater | Luxury/Urbania |
+> |---|---:|---:|---:|
+> | **Airport Transfer** | ₹2,500 | ₹3,000 | ₹3,500 |
+> | **Local 8hr/80km** | ₹5,500 | ₹6,500 | ₹7,500 |
+> | **Outstation (per km)** | ₹24 | ₹25–₹27 | ₹30+ |
+> | **Ayodhya same-day return** | ₹14,500 | ₹16,500 | ₹19,000 |
+> | **Prayagraj same-day** | ₹8,500 | ₹10,500 | ₹12,500 |
+> | **Bodh Gaya same-day** | ₹16,000 | ₹19,000 | ₹22,500 |
+
+## Tempo Traveller Hire: Quick Fare Table
+
+| Route / Service | 12-Seater | 17-Seater | Per-head (12 pax) |
+|---|---:|---:|---:|
+| Airport/Station pickup | ₹2,500 | ₹3,000 | ₹208 |
+| Kashi Darshan (8hr) | ₹5,500 | ₹6,500 | ₹458 |
+| Varanasi → Ayodhya (same-day) | ₹14,500 | ₹16,500 | ₹1,208 |
+| Varanasi → Prayagraj (same-day) | ₹8,500 | ₹10,500 | ₹708 |
+| Varanasi → Bodh Gaya (same-day) | ₹16,000 | ₹19,000 | ₹1,333 |
+| Varanasi → Vindhyachal (same-day) | ₹7,500 | ₹9,000 | ₹625 |
+| Varanasi → Chitrakoot (2-day) | ₹22,000 | ₹26,000 | ₹1,833 |
+| Outstation (per km, min 250km/day) | ₹24 | ₹25–₹27 | — |
+
+**All fares include:** Toll, fuel, driver meals, parking.  
+**Extra:** Night halt ₹300/night (driver stay), extra km ₹24–₹27/km.
+
+Full 2026 price breakdown: [Tempo Traveller Rates Varanasi](/en/tempo-traveller-rates-varanasi).
 
 Planning group travel in Varanasi? Our Tempo Traveller services offer the perfect blend of space, comfort, and convenience. Whether you’re organizing a family trip, a pilgrimage tour, or an airport pickup for a large group, Banarasi Varanasi Taxi has you covered with clean, well‑maintained vehicles and experienced drivers (kashitaxi.in).
 
