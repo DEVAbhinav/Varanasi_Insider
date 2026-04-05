@@ -152,21 +152,7 @@ People searching for:
 
 ---
 
-## SEO Note: 301 Redirect Recommended
-
-**For website administrators**: Consider implementing a **301 redirect** from this page to the main Prayagraj page for better SEO consolidation:
-
-```
-/en/city/allahabad/taxi/varanasi-to-allahabad-taxi 
-  → 301 redirect → 
-/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi
-```
-
-This ensures:
-- Search engines understand the name change
-- Users searching "Allahabad" find correct information
-- SEO authority consolidates to one page
-- No duplicate content issues
+**Allahabad is now officially called Prayagraj.** For the most up-to-date route details, fares, and booking options, visit our main [Varanasi to Prayagraj](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi) page.
 
 ---
 

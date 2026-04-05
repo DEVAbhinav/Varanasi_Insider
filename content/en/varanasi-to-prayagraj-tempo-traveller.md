@@ -44,7 +44,7 @@ faqSchema:
 
 # Varanasi to Prayagraj Tempo Traveller Price List 2026 | 12 & 17 Seater Fare
 
-> **TL;DR:** This is the main Kashitaxi page for `Varanasi to Prayagraj tempo traveller`, `Varanasi to Prayagraj tempo traveller price`, and `Varanasi to Prayagraj tempo traveller price list` intent. A same-day round trip starts from **₹8,500 for a 12 seater** and **₹9,500 for a 17 seater**, with driver, fuel, tolls, parking and taxes included.
+> **TL;DR:** Varanasi to Prayagraj tempo traveller same-day round trip starts from **₹8,500 for a 12 seater** and **₹9,500 for a 17 seater**, with driver, fuel, tolls, parking and taxes included.
 
 If your group is planning Triveni Sangam darshan from Varanasi and you need the **group-vehicle price first**, this is the right page. It is built for families, senior pilgrims, satsang groups, and friends who want one vehicle, one fare, and one clear Prayagraj schedule.
 
@@ -66,7 +66,7 @@ If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare in
 | **12 Seater Tempo Traveller** | 8-11 pilgrims | **₹8,500** | about ₹708 at full occupancy | Better comfort for families and elders |
 | **17 Seater Tempo Traveller** | 12-16 pilgrims | **₹9,500** | about ₹559 at full occupancy | Best for larger yatras and group travel |
 
-These are the latest confirmed fares. If you searched for **Varanasi to Prayagraj traveller price** or **tempo traveller from Varanasi to Prayagraj**, the full breakdown is above.
+These are the latest confirmed fares for a Varanasi to Prayagraj tempo traveller — the full breakdown is above.
 
 ## What Is Included In The Fare
 

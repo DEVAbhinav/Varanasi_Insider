@@ -33,7 +33,7 @@ faqSchema:
 
 ![Low mist over the Ganges just before nautical dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Soft pre‑dawn mist across Assi Ghat – January 2026 observation")
 
-> **Focus:** This page is the *precision timetable & atmospheric planning* resource (boarding windows, fog risk, temperature comfort) — pricing depths intentionally trimmed (see Morning Price Guide for tariffs).
+> **Focus:** Exact boarding windows, fog risk, and temperature comfort for planning your sunrise boat ride. For pricing, see the [Morning Boat Ride Price Guide](/en/morning-boat-ride-varanasi-price).
 
 ## 1. Why Sunrise Requires Exact Timing in 2026
 The transformative palette (indigo → saffron) lasts **≈14–18 minutes**. Missing early boarding compresses your exposure to Subah‑e‑Banaras chants + yoga silhouettes. Fog & seasonal humidity shift photography settings dramatically; planning offsets that.

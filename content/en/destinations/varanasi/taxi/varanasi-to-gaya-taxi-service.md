@@ -104,12 +104,12 @@ faqSchema:
 
 This guide covers the broader **Varanasi to Gaya taxi service** route. If your trip is specifically to Bodhgaya or the Mahabodhi Temple, the dedicated pages below will be more helpful.
 
-| If your actual trip is | Best page | Why |
-|---|---|---|
-| Gaya city, Vishnupad, Pind-daan support, broader taxi service | **This page** | Main Gaya service/comparison owner |
-| Direct Gaya route-only taxi page | [Varanasi to Gaya Taxi](/en/city/gaya/taxi/varanasi-to-gaya-taxi) | Better fit for narrow direct route intent |
-| Bodhgaya-specific taxi booking | [Varanasi to Bodhgaya Taxi](/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi) | Better fit for Bodhgaya city and temple intent |
-| Bodhgaya fare-first guide | [Varanasi to Bodhgaya Taxi Cost](/en/varanasi-to-bodhgaya-taxi-cost) | Better fit for Bodhgaya cost-first intent |
+| Your destination | Best page |
+|---|---|
+| Gaya city, Vishnupad, Pind-daan support | **This page** |
+| Direct Gaya route taxi booking | [Varanasi to Gaya Taxi](/en/city/gaya/taxi/varanasi-to-gaya-taxi) |
+| Bodhgaya-specific taxi booking | [Varanasi to Bodhgaya Taxi](/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi) |
+| Bodhgaya fare comparison | [Varanasi to Bodhgaya Taxi Cost](/en/varanasi-to-bodhgaya-taxi-cost) |
 
 **Quick note:** Gaya and Bodhgaya are not the same place. Gaya city is where Vishnupad Temple and Pind-daan rituals happen. Bodhgaya (13 km further) is where the Mahabodhi Temple and Buddhist circuit begin. If your trip is really about Bodhgaya, the dedicated guides above will serve you better.
 

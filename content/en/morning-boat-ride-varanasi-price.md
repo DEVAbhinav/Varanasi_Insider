@@ -127,7 +127,7 @@ WhatsApp **+91 94503 01573** with date, headcount, and preferred ghat. You’ll 
 > 💡 **Pro Tip:** Message the evening before to lock your price and boatman. Morning walk-ups pay 20–40% more during peak season.
 
 > ⚠️ **Festival Alert:** During Dev Deepawali and Kartik Purnima, boat fares jump 2–4×. Book 2–3 weeks ahead and get a written WhatsApp confirmation.
-> **Scope:** This page is the *pricing economics & negotiation* hub. Timing, atmospheric boarding logistics now live on the Sunrise Timings page; evening alignment lives on the Evening Boat Ride guide. Here you get cost structures, tariff vs premium deltas & scripting.
+> **What you'll find here:** Boat pricing, fare comparison, negotiation tips, and seasonal cost patterns. For boarding times and fog schedules, see the [Sunrise Timings page](/en/varanasi-sunrise-boat-ride-timings). For evening boat rides, see the [Evening Boat Ride guide](/en/evening-boat-ride-varanasi-ganga-aarti).
 
 ![Pre‑dawn private rowboat negotiating mild current before sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg "Pre‑dawn positioning – private rowboat before negotiation finalization")
 

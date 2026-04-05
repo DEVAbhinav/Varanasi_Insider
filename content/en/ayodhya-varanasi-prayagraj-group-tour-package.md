@@ -49,11 +49,10 @@ faqSchema:
 
 # Ayodhya Varanasi Prayagraj Group Tour Package 2026 | 4N/5D for 6 to 40+ Pilgrims
 
-> **TL;DR for searchers**
-> - `Ayodhya Varanasi Prayagraj group tour package`: the main guide for a **4N/5D Ram Mandir + Kashi Vishwanath + Sangam** circuit.
-> - `family pilgrimage package Ayodhya Varanasi Prayagraj`: best for **families, temple committees, satsang groups, and mixed-age pilgrims**.
-> - `Ram Mandir Kashi Sangam group tour`: use this page when you want **hotel + transport + darshan pacing + meal planning** in one quote.
-> - `Varanasi tour package from Delhi`: start there first if the organizer is still deciding the route from NCR.
+> **TL;DR**
+> - **4N/5D Ram Mandir + Kashi Vishwanath + Sangam** group pilgrimage circuit.
+> - Built for **families, temple committees, satsang groups, and mixed-age pilgrims** wanting **hotel + transport + darshan pacing + meal planning** in one quote.
+> - Organiser still deciding the route from NCR? Start with [Varanasi Tour Package from Delhi](/en/varanasi-tour-package-from-delhi) first.
 > - Micro-tip: this trip should feel like one yatra, not three separate cab bookings wearing one fake moustache.
 
 This page exists because group buyers searching for this circuit are not looking for a taxi only. They are looking for a full pilgrimage package with the right sequence, the right city-to-city flow, and the right support for elders, families, and trip leaders.
@@ -245,7 +244,7 @@ Send this in one message if you want the 3-city quote to move quickly:
 
 This is the difference between a serious package quote and a vague transport rate.
 
-## When This Page Is the Wrong Starting Point
+## When to Use a Different Page Instead
 
 Use another page if:
 

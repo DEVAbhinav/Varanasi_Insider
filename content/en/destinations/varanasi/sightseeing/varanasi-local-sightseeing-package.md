@@ -73,7 +73,7 @@ faqSchema:
 
 # Varanasi Local Sightseeing Package | One Day Tour by Car from ₹1,800
 
-> **TL;DR:** This is the main Kashitaxi page for **Varanasi local sightseeing**, **one day Varanasi tour package**, and **city tour by car** intent. Half-day temple-and-ghat packages start from ₹1,800, while full-day city tours with Sarnath start from ₹2,200. All plans include private AC vehicle, driver, fuel, and parking.
+> **TL;DR:** Half-day temple-and-ghat packages start from ₹1,800, full-day city tours with Sarnath from ₹2,200. All plans include private AC vehicle, driver, fuel, and parking.
 
 Planning to explore Varanasi's spiritual heritage without negotiating with multiple autos, guessing temple timing order, or wasting hours in traffic? Our **Varanasi local sightseeing package** is built exactly for that problem. This page is where we want city-tour and one-day-tour traffic to land first, because it cleanly answers the main commercial questions:
 
@@ -97,7 +97,7 @@ Whether you have only 4 hours or want a full city circuit, we provide sedan, SUV
 | You want Ayodhya from Varanasi by group vehicle | [Varanasi to Ayodhya Tempo Traveller](/en/varanasi-to-ayodhya-tempo-traveller) | ₹14,500 | Group Ram Mandir travel |
 | You want routes beyond city sightseeing | [Tour Packages from Varanasi](/en/tour-package-from-varanasi) | varies | Ayodhya, Prayagraj, Gaya, Vindhyachal |
 
-If your trip is mainly inside Varanasi, stay on this page. It is the right commercial home for **local sightseeing**, **one day tour**, **city tour by cab**, and **local sightseeing package by car** queries.
+If your trip is mainly inside Varanasi, stay on this page. Below you'll find pricing, itineraries, and booking details for **local sightseeing**, **one-day city tours**, and **sightseeing packages by car**.
 
 ---
 

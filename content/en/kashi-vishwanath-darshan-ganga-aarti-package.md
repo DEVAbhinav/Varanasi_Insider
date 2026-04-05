@@ -48,13 +48,13 @@ faqSchema:
 
 # Kashi Vishwanath Darshan + Ganga Aarti Package 2026 | Temple, Boat & Official-Safe Planning
 
-> **TL;DR for searchers**
-> - `kashi vishwanath darshan package`: use this page when you want **temple darshan + movement planning + pickup** in one package.
-> - `kashi vishwanath ganga aarti package`: best when the goal is **one same-day or 1N/2D Kashi experience** with temple plus evening Aarti.
-> - `sugam darshan package varanasi`: we help you plan around the **official system and current procedures**, not fantasy shortcuts whispered by strangers in the lane.
+> **TL;DR**
+> - Want **Kashi Vishwanath temple darshan + movement planning + pickup** in one package? Start here.
+> - Covers **same-day or 1N/2D Kashi Vishwanath + evening Ganga Aarti** planning.
+> - We help you plan around the **official Sugam Darshan system and current procedures**, not fantasy shortcuts whispered by strangers in the lane.
 > - Banaras micro-humor: if three different people promise "no line at all," congratulations, you have located three poets, not a process.
 
-This page is the commercial owner for travelers whose real question is:
+This guide is for travelers whose real question is:
 
 "How do we do Kashi Vishwanath and Ganga Aarti properly, without confusion?"
 
@@ -194,9 +194,9 @@ Temple plus Aarti is meaningful, but not always wise on:
 - late-arrival days
 - trips with very frail elders
 
-## When We Tell People Not to Force the Same-Day Plan
+## When the Same-Day Plan May Not Work
 
-This page should be helpful enough to say "not today" when needed.
+This guide is honest enough to say "not today" when needed.
 
 We usually advise against same-day temple plus evening Aarti if:
 

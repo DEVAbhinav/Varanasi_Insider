@@ -42,17 +42,17 @@ brand: "Kashi Taxi"
 
 This 2 night / 3 day combo links the new Ram Janmabhoomi Mandir in Ayodhya with the timeless ghats of Varanasi. Ideal for pilgrims, families, and spiritual explorers wanting a compact Uttar Pradesh circuit that honours both Lord Rama and Lord Shiva. The itinerary balances temple time with intercity comfort, curated food stops, and concierge assistance.
 
-> **Intent note:** Many searchers landing here are actually asking a route-first question such as **varanasi to ayodhya distance**, **varanasi to ayodhya distance by road**, or **kashi to ayodhya distance**. This page should answer that first, then present the 2N/3D tour as the packaged solution.
-
 ## Distance, Time & Route First
 
-| Query type this page attracts | Direct answer |
-|---|---|
-| **varanasi to ayodhya distance** | about **200–220 km** by road |
-| **varanasi to ayodhya distance by road** | usually **4–5 hours** depending on traffic and city exits |
-| **kashi to ayodhya distance** | same corridor, counted from Varanasi / Kashi city area |
+Many travelers start with a distance question before deciding on a package — here are the quick facts:
 
-If the user only wants direct taxi fare or route planning, the cleaner route owner is [Varanasi to Ayodhya](/en/varanasi-to-ayodhya). This page should stay focused on the combined **Ayodhya + Varanasi tour package** after the route basics are clear.
+| Common question | Direct answer |
+|---|---|
+| **Varanasi to Ayodhya distance** | about **200–220 km** by road |
+| **Varanasi to Ayodhya by road** | usually **4–5 hours** depending on traffic and city exits |
+| **Kashi to Ayodhya distance** | same corridor, counted from Varanasi / Kashi city area |
+
+If you only want direct taxi fare or route planning without a package, see [Varanasi to Ayodhya](/en/varanasi-to-ayodhya). This guide focuses on the combined **Ayodhya + Varanasi tour package**.
 
 ## Essential Facts
 

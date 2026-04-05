@@ -35,14 +35,14 @@ ctaSubtitle: "Share your arrival details and get a customized logistics plan wit
 > 
 > **Just need taxi fares?** See our [Airport Taxi Price Chart](/en/varanasi-airport-taxi-price-guide) for detailed rates, flash deals, and instant booking.
 
-## Pick the Right Airport Page First
+## Related Airport Pages
 
-| If your actual question is | Best page | Why |
-|---|---|---|
-| I need airport taxi booking with driver coordination | [Varanasi Airport Taxi Service](/en/city/varanasi/taxi/airport-taxi-service-varanasi) | Main owner for airport booking intent |
-| I need route planning, barricade intel, and arrival operations | **This page** | Main owner for airport logistics intent |
-| I need only fare bands, locality prices, or refund policy | [Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide) | Better fit for fare-first intent |
-| I want all airport destination pages in one lookup | [Airport Transfer Directory](/en/city/varanasi/taxi/varanasi-airport-transfer-directory) | Better fit for route-directory intent |
+| What you need | Best page |
+|---|---|
+| Airport taxi booking with driver coordination | [Varanasi Airport Taxi Service](/en/city/varanasi/taxi/airport-taxi-service-varanasi) |
+| Route planning, barricade intel, and arrival logistics | **This page** |
+| Fare bands, locality prices, or refund policy | [Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide) |
+| All airport destination pages in one lookup | [Airport Transfer Directory](/en/city/varanasi/taxi/varanasi-airport-transfer-directory) |
 
 ## Quick links (scan & go)
 

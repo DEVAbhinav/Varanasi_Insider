@@ -125,16 +125,16 @@ As a local who runs sunrise boat rides for a living, I’m at Assi Ghat almost e
 
 This guide covers **Assi Ghat timing, seating, festival shifts, and photo-planning**. If you need boat bookings, a full-city cab, or pre-dawn pickup, the right links are below.
 
-| If you need | Best page | Why |
-|---|---|---|
-| Morning / evening Assi timing and seat strategy | **This page** | Keep using this guide for timing and arrival planning |
-| Sunrise boat ride pricing from Assi side | [Morning Boat Ride Varanasi Price](/en/morning-boat-ride-varanasi-price) | Dedicated sunrise boat pricing and booking page |
-| One-day Varanasi city tour that includes ghats and temples | [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) | Best page for cab + city tour ownership |
-| Pre-dawn pickup or late return | [24/7 Taxi Service](/en/city/varanasi/taxi/24-7-taxi-varanasi) | Reliable early-morning transport without local negotiation |
+| If you need | Best page |
+|---|---|
+| Morning / evening Assi timing and seat strategy | **This page** |
+| Sunrise boat ride pricing from Assi side | [Morning Boat Ride Varanasi Price](/en/morning-boat-ride-varanasi-price) |
+| One-day Varanasi city tour that includes ghats and temples | [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) |
+| Pre-dawn pickup or late return | [24/7 Taxi Service](/en/city/varanasi/taxi/24-7-taxi-varanasi) |
 
 Need pickup plus boat coordination? [WhatsApp us](https://wa.me/919450301573?text=Need%20Assi%20Ghat%20morning%20pickup%20and%20boat%20help).
 
-If your actual buying question is **Kashi Vishwanath + evening Aarti + pickup + boat coordination as one package**, use:
+Want **Kashi Vishwanath + evening Aarti + pickup + boat** as one coordinated package? See:
 
 - [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
 

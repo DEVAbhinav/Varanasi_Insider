@@ -48,11 +48,11 @@ faqSchema:
 
 # Varanasi Tour Package from Delhi 2026 | Family & Group Pilgrimage Plans
 
-> **TL;DR for searchers**
-> - `Varanasi tour package from Delhi`: use this page when the buying decision starts in **Delhi / NCR** and the route is not fixed yet.
-> - `Ayodhya Varanasi tour package from Delhi`: best for **families and medium-size groups** wanting **Ram + Shiva** without forcing Prayagraj into the same trip.
-> - `Ayodhya Varanasi Prayagraj package from Delhi`: best for **disciplined larger groups** wanting the full sacred triangle.
-> - `family trip to Varanasi from Delhi`: strongest when elders, children, hotel changes, and return-city logic matter.
+> **TL;DR**
+> - Planning a **Varanasi trip from Delhi or NCR**? This guide helps when the route is not fixed yet.
+> - Covers **Ayodhya + Varanasi from Delhi** for families wanting **Ram + Shiva** without forcing Prayagraj into the same trip.
+> - Also covers the **full sacred triangle (Ayodhya + Varanasi + Prayagraj)** for disciplined larger groups.
+> - Practical for when elders, children, hotel changes, and return-city logistics matter.
 > - Micro-tip: if arrival day already includes hotel check-in, Kashi Vishwanath, Ganga Aarti, shopping, and a calm family dinner, the itinerary is not ambitious. It is fiction.
 
 Groups starting from Delhi face a different planning problem from groups already based in Varanasi. The real questions are:
@@ -80,7 +80,7 @@ This is useful because the real risk is not just price. It is backtracking, over
 
 ## Which Delhi-Origin Travelers Should Use This Page
 
-This page is the best fit for:
+This guide is designed for:
 
 - family groups from Delhi planning a first pilgrimage
 - multi-family or society groups who need hotel + transport + darshan structure

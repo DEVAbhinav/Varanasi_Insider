@@ -53,11 +53,11 @@ faqSchema:
 
 # Varanasi Group Tour Package 2026 | 6 to 40+ Pilgrims, Families & Temple Groups
 
-> **TL;DR for searchers**
-> - `Varanasi group tour package`: best for **6 to 40+ pilgrims** needing **hotel + transport + darshan timing + meals** in one booking.
-> - `Kashi group tour package`: strongest for **families, temple committees, satsang groups, and mixed-age yatras**.
-> - `Ayodhya Varanasi Prayagraj group package`: use the dedicated 3-city guide if the group already wants **Ram Mandir + Kashi + Sangam**.
-> - `Varanasi tour package from Delhi`: use the Delhi page first if the route, arrival city, or return city is still undecided.
+> **TL;DR**
+> - Group packages for **6 to 40+ pilgrims** with **hotel + transport + darshan timing + meals** in one booking.
+> - Built for **families, temple committees, satsang groups, and mixed-age yatras**.
+> - Want **Ram Mandir + Kashi + Sangam** together? See the dedicated [3-city group package](/en/ayodhya-varanasi-prayagraj-group-tour-package).
+> - Starting from Delhi and route still undecided? See [Varanasi Tour Package from Delhi](/en/varanasi-tour-package-from-delhi) first.
 > - Micro-tip: a pilgrimage should feel spiritual, not like a parking-lot committee meeting with 14 opinions and one missing slipper.
 
 If you are a family organizer, temple committee, satsang group, school cultural coordinator, or NRI family point-person, your problem is not just booking a vehicle. Your real problem is keeping the group together, protecting elders from fatigue, avoiding avoidable queue chaos, and making sure the entire yatra feels organized from arrival to departure.
@@ -93,7 +93,7 @@ You may prefer a different guide if:
 - you want only a **Varanasi to Ayodhya route price**
 - you need a **single taxi**, not a package
 
-For route and vehicle-only intent, use:
+For route and vehicle-only bookings, see:
 
 - [Varanasi to Ayodhya Tempo Traveller Price List](/en/varanasi-to-ayodhya-tempo-traveller)
 - [Tempo Traveller in Varanasi](/en/tempo-traveller-varanasi)

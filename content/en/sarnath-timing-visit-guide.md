@@ -74,12 +74,12 @@ This guide covers **Sarnath timing, Friday museum closure, opening hours, and vi
 
 Looking for **sarnath opening time**, **sarnath varanasi timings**, **sarnath temple varanasi timings**, or **sarnath mandir varanasi timings**? All the details are covered below.
 
-| If you need | Best page | Why |
-|---|---|---|
-| Opening hours, best time to visit, Friday closure | **This page** | Keep using this guide for timing and visit planning |
-| Sarnath + Kashi Vishwanath + ghats in one day | [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) | Best page for one-day city tour ownership |
-| Direct cab only from Varanasi to Sarnath | [Varanasi to Sarnath Taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) | Dedicated transport and fare page |
-| Group vehicle for Buddhist circuit | [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) | Better fit for family and group bookings |
+| If you need | Best page |
+|---|---|
+| Opening hours, best time to visit, Friday closure | **This page** |
+| Sarnath + Kashi Vishwanath + ghats in one day | [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) |
+| Direct cab only from Varanasi to Sarnath | [Varanasi to Sarnath Taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) |
+| Group vehicle for Buddhist circuit | [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) |
 
 Need help matching timing with a cab or one-day route? [WhatsApp us](https://wa.me/919450301573?text=Need%20Sarnath%20timing%20plus%20cab%20planning).
 

@@ -48,7 +48,7 @@ This is a movement guide, not a spiritual explainer. Its job is to help you avoi
 
 Kanwar Yatra usually disrupts travel in Varanasi through moving pressure, not one simple all-day closure. A route that looks manageable in the morning can become slow, diversion-heavy, or difficult for vehicle pickup later in the day. The biggest problem for visitors is not just traffic. It is planning a fragile day that depends on exact-minute movement through old-city or temple-sensitive corridors.
 
-That is why this page should be used as a sequencing tool, not just a route note.
+That is why this guide works best as a day-by-day sequencing tool, not just a route note.
 
 For any day with a fixed train, flight, or darshan slot, recheck conditions the previous night and again on the morning through your driver, hotel desk, or current traffic advisories.
 

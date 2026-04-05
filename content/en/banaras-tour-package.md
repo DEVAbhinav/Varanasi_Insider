@@ -371,9 +371,7 @@ After trip: Photo compilation, collect testimonial, referral rewards for friends
 
 ## Book Your Banaras Tour Package Now
 
-Whether you search "Banaras tour package," "Varanasi holiday package," or "Kashi pilgrimage package"--you've found the right agency.
-
-Kashi Taxi specializes in authentic Banaras experiences that transform visitors into pilgrims.
+Kashi Taxi specialises in authentic Banaras experiences that transform visitors into pilgrims.
 
 **Ready to book?**
 

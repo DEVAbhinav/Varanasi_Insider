@@ -47,13 +47,13 @@ If the traveler is not yet shopping for a full package and is first trying to un
 **Total Kashi → Prayagraj → Ayodhya road distance:** roughly **290 km** before the return to Varanasi.  
 **Full Kashi → Prayagraj → Ayodhya → Varanasi circuit:** roughly **500 km** depending on hotel location and inner-city temple diversions.
 
-This page is the right place for combined-route phrases like:
+This guide covers the full combined circuit:
 
-- **kashi to prayagraj to ayodhya distance**
-- **kashi to prayagraj to ayodhya distance by road**
+- **Kashi to Prayagraj to Ayodhya by car**
+- **Kashi to Prayagraj to Ayodhya distance by road**
 - Kashi Prayag Ayodhya yatra by car
 
-If the traveler only wants one direct route, the cleaner owners remain [Varanasi to Prayagraj](/en/varanasi-to-prayagraj) and [Varanasi to Ayodhya](/en/varanasi-to-ayodhya).
+For a single direct route, see [Varanasi to Prayagraj](/en/varanasi-to-prayagraj) or [Varanasi to Ayodhya](/en/varanasi-to-ayodhya).
 
 ## Kashi Prayag Ayodhya Yatra: The Sacred Triangle Circuit Guide
 

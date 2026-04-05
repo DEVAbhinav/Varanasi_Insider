@@ -43,10 +43,10 @@ faqSchema:
 
 # Senior Citizen Varanasi Tour Package 2026 | Low-Walking Kashi Plan for Elders
 
-> **TL;DR for searchers**
-> - `senior citizen varanasi tour package`: use this page for **elder-friendly Kashi travel** with lower walking pressure and better rest planning.
-> - `elderly varanasi package`: best for families booking for parents or grandparents who need **hotel-first comfort, easier movement and slower pacing**.
-> - `wheelchair friendly varanasi darshan`: we plan for **more practical access and calmer flow**, while being honest about where exact public-space accessibility still varies.
+> **TL;DR**
+> - **Elder-friendly Kashi travel** with lower walking pressure and better rest planning.
+> - Built for families booking for parents or grandparents who need **hotel-first comfort, easier movement and slower pacing**.
+> - We plan for **practical access and calmer flow**, while being honest about where exact public-space accessibility still varies.
 > - Banaras wisdom: devotion grows with patience, but knee pain grows faster, so the itinerary should know the difference.
 
 This page exists because many elder travelers do not need a bigger package. They need a **smarter** one.

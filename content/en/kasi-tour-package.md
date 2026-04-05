@@ -9,11 +9,11 @@
 
 Kasi. Kashi. Varanasi. Banaras.
 
-One city, many names--each carrying 5,000 years of spiritual wisdom, divine energy, and transformative experiences. Whether you search for Kasi tour package (the most common Hindi spelling variant), Kashi darshan (the Sanskrit name meaning "viewing the light"), or Varanasi tours, you're seeking the same sacred destination that has called millions of pilgrims across centuries.
+One city, many names--each carrying 5,000 years of spiritual wisdom, divine energy, and transformative experiences. Kasi (the common Hindi spelling), Kashi (the Sanskrit name meaning "city of light"), Varanasi, Banaras — all refer to the same sacred destination that has called millions of pilgrims across centuries.
 
 As one of India's premier travel agencies specializing in Kasi/Kashi spiritual journeys, Kashi Taxi understands that spelling shouldn't separate you from your spiritual destination. We've guided thousands through Kasi's ancient ghats, mystical temples, and transformative rituals--whether they searched for "Kasi tour" or "Kashi tour."
 
-This page is for every pilgrim, traveler, and seeker searching for authentic Kasi tour packages--exactly the spiritual experience you're meant to have.
+Below you'll find authentic Kasi tour packages designed around your spiritual needs — with real pricing, real guides, and real temple connections.
 
 ## What Makes a True Kasi Tour Package Different?
 
@@ -313,9 +313,7 @@ After your trip: We send photo compilation, collect your testimonial, offer refe
 
 ## Book Your Kasi Tour Package Today
 
-Whether you search "Kasi tour," "Kashi tour," or "Varanasi package"--you found the right agency.
-
-Kashi Taxi specializes in authentic Kasi spiritual journeys. We don't do generic tourism. Every package is built with reverence for this sacred city and respect for your spiritual journey.
+Kashi Taxi specialises in authentic Kasi spiritual journeys. We don't do generic tourism. Every package is built with reverence for this sacred city and respect for your spiritual journey.
 
 **Ready to experience Kasi?**
 

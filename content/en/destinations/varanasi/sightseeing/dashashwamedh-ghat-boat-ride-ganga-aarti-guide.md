@@ -59,7 +59,7 @@ faqSchema:
 
 When you search for "dashashwamedh ghat aarti" (or the common misspelling "dasaswamedh ghat aarti"), you're not looking for general Varanasi information. You want to understand **the** most important spiritual location on the Ganges—the place where a single ceremony draws hundreds of devotees nightly and has done so for 250+ years.
 
-Whether you're searching for "dashashwamedh ghat ganga aarti," "aarti in varanasi," or "varanasi aarti time," this guide covers it all.
+This guide covers the mythology, the modern ceremony, the boat ride experience, and practical logistics for getting the best view.
 
 Dashashwamedh isn't famous by accident. Its name alone—"the place of ten horse sacrifices"—carries spiritual weight that shaped Hindu cosmology. This guide explains the mythology, the modern ceremony, and the practical logistics of experiencing it from the best vantage point: a boat.
 
