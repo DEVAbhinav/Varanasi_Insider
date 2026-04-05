@@ -57,7 +57,7 @@ A three-day pilgrimage weaving together Ayodhya’s Ram Janmabhoomi energy with 
 
 The base itinerary below follows Option 1.
 
-If your organizer brief already includes **Prayagraj** or a larger **6 to 40+ group movement**, use the stronger owner pages first:
+If your organizer brief already includes **Prayagraj** or a larger **6 to 40+ group movement**, use the more detailed guides first:
 
 - [Varanasi Group Tour Package](/en/varanasi-group-tour-package)
 - [Ayodhya Varanasi Prayagraj Group Tour Package](/en/ayodhya-varanasi-prayagraj-group-tour-package)

@@ -130,7 +130,7 @@ Trying to force a heavy noon itinerary after a very early wake-up often reduces 
 
 ## Best Pages To Use Next
 
-- [Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2026) for the broader timing owner page
+- [Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2026) for the broader timing guide
 - [Assi Ghat Evening Aarti Guide](/en/assi-ghat-evening-aarti-time) if you are comparing morning vs evening
 - [Varanasi Weather Guide](/en/varanasi-weather-guide) if your trip is weather-sensitive
 - [What to Wear in Varanasi](/en/what-to-wear-in-varanasi) for packing help

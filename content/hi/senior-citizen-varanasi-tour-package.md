@@ -3,7 +3,7 @@ lang: hi
 title: "सीनियर सिटिजन वाराणसी टूर पैकेज 2026 | बुजुर्गों के लिए low-walking काशी यात्रा"
 metaTitle: "सीनियर सिटिजन वाराणसी पैकेज | elders-friendly काशी दर्शन"
 metaDescription: "सीनियर सिटिजन वाराणसी पैकेज बुक करें। low-walking darshan planning, hotel-first comfort, pickup, rest breaks और elder-friendly pacing के साथ।"
-description: "यह वाराणसी-only senior-friendly owner page है जिसमें कम walking pressure, आराम और practical darshan planning पर focus है।"
+description: "बुजुर्गों के लिए वाराणसी पैकेज — कम walking, आरामदायक hotel और practical दर्शन planning।"
 date: 2026-03-07
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"
@@ -28,7 +28,7 @@ faqSchema:
   - question: "यह page किसके लिए सबसे सही है?"
     answer: "यह page उन यात्रियों के लिए है जिनका मुख्य concern elder comfort, low walking, rest breaks और hotel-first planning है।"
   - question: "क्या यह multi-city elderly package से अलग है?"
-    answer: "हाँ। यह Varanasi-only owner page है। multi-city वाला page Varanasi-Gaya-Prayagraj circuit के लिए है।"
+    answer: "हाँ। यह गाइड सिर्फ वाराणसी के लिए है। multi-city वाला page Varanasi-Gaya-Prayagraj circuit के लिए है।"
   - question: "क्या wheelchair या walker वाले guests के लिए plan बन सकता है?"
     answer: "हाँ, जितना practical हो उतना low-walking route, easier drop points और pace adjustment किया जा सकता है।"
 ---
@@ -36,7 +36,7 @@ faqSchema:
 # सीनियर सिटिजन वाराणसी टूर पैकेज 2026 | बुजुर्गों के लिए low-walking काशी यात्रा
 
 > **संक्षेप: खोज करने वालों के लिए**
-> - `सीनियर सिटिजन वाराणसी टूर पैकेज`: बुजुर्ग यात्रियों के लिए यह मुख्य owner page है।
+> - `सीनियर सिटिजन वाराणसी टूर पैकेज`: बुजुर्ग यात्रियों के लिए पूरी गाइड।
 > - `बुजुर्ग वाराणसी पैकेज`: hotel-first comfort, कम walking और slower pacing के लिए सही।
 > - `wheelchair friendly वाराणसी दर्शन`: exact accessibility हर जगह समान नहीं होती, लेकिन planning practical रखी जाती है।
 > - Banaras note: आस्था मजबूत हो सकती है, पर घुटनों पर extra experiment करना जरूरी नहीं।

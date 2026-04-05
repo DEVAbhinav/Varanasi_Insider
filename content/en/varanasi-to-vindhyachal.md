@@ -124,7 +124,7 @@ Quick Fare Grid 2026
 
 Vindhyachal, a revered Shakti Peeth near Mirzapur, is home to the powerful Maa Vindhyavasini Devi. Its proximity to Varanasi makes a **Varanasi to Vindhyachal tour** a popular pilgrimage. Devotees often complete their Kashi darshan by seeking the blessings of the Divine Mother, creating a spiritually balanced journey. A **Vindhyachal darshan from Varanasi** is believed to bring immense *punya*, with the faith that wishes made at the feet of the Goddess are always fulfilled.
 
-Many searchers casually say **Vindhyachal Mandir** when they mean the Maa Vindhyavasini temple complex and the wider darshan circuit around Vindhyachal.
+The name **Vindhyachal Mandir** is commonly used to refer to the Maa Vindhyavasini temple complex — as well as the wider darshan circuit that includes Ashtabhuja and Kali Khoh temples.
 
 ---
 
@@ -134,7 +134,7 @@ Many searchers casually say **Vindhyachal Mandir** when they mean the Maa Vindhy
 
 The **Varanasi to Vindhyachal distance** is approximately 65-70 km, making it an ideal destination for a day trip. The journey usually takes about 1.5 to 2 hours.
 
-Searchers also phrase this route as **vindhyachal to varanasi distance**, **varanasi to vindhyachal distance by road**, **banaras to vindhyachal distance**, **distance between varanasi to vindhyachal**, **varanasi to vindhyachal temple distance**, **varanasi to vindhyavasini distance**, and **varanasi to vindhyavasini temple distance**. Those variants all belong on this route-and-fare owner page.
+Whether you're checking the **vindhyachal to varanasi distance**, **varanasi to vindhyachal distance by road**, **banaras to vindhyachal distance**, the **distance between varanasi to vindhyachal**, **varanasi to vindhyachal temple distance**, **varanasi to vindhyavasini distance**, or **varanasi to vindhyavasini temple distance** — the answer is the same: roughly 65–70 km one way.
 
 | Mode | Distance / Time | Route & Notes | Typical 2026 Fare |
 |------|-----------------|---------------|-------------------|

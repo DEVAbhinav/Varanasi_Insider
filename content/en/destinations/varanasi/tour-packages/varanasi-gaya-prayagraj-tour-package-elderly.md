@@ -70,7 +70,7 @@ faqSchema:
 
 ## Use This Page for the Multi-City Elderly Circuit
 
-If your family needs a **Varanasi-only** low-walking package for elders, use the dedicated owner page instead:
+If your family needs a **Varanasi-only** low-walking package for elders, use the dedicated guide instead:
 
 - [Senior Citizen Varanasi Tour Package](/en/senior-citizen-varanasi-tour-package)
 

@@ -35,7 +35,7 @@ faqSchema:
 
 ## Reverse Route Clarifier
 
-This page owns **Varanasi to Lucknow Tempo Traveller** intent. It should not try to become the main owner for sedan or reverse-route taxi searches.
+This guide covers **Varanasi to Lucknow Tempo Traveller** fares and planning. For sedan or reverse-route taxi options, see the dedicated pages linked below.
 
 If the traveler is really searching **lucknow to varanasi taxi**, the more natural owner is the reverse-route taxi content already on the site. This page should stay focused on group vehicle booking from Varanasi to Lucknow.
 

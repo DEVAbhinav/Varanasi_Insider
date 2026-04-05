@@ -3,7 +3,7 @@ lang: en
 title: "Kashi Vishwanath Darshan + Ganga Aarti Package 2026 | Temple, Boat & Official-Safe Planning"
 metaTitle: "Kashi Vishwanath Darshan Package | Ganga Aarti, Boat, Pickup & Sugam Guidance"
 metaDescription: "Book a Kashi Vishwanath darshan and Ganga Aarti package with pickup, local movement, boat options, and official-safe planning for regular, Shravan, and high-crowd periods."
-description: "Commercial owner page for Kashi Vishwanath darshan plus Ganga Aarti package intent with official-safe wording, Sugam guidance context and practical same-day planning."
+description: "Book a Kashi Vishwanath darshan plus Ganga Aarti package with official-safe wording, Sugam guidance context and practical same-day planning."
 date: 2026-03-07
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"
@@ -39,7 +39,7 @@ faqSchema:
   - question: "Is this a same-day package or an overnight package?"
     answer: "It can be either. Many travelers use it as a same-day darshan plus Aarti plan, while others prefer a 1N/2D version with hotel and slower pacing."
   - question: "Who should not use this page?"
-    answer: "If you only need an Aarti timing guide, use the informational timing pages. If you need a broad family or hotel package, use those dedicated owner pages instead."
+    answer: "If you only need an Aarti timing guide, use the informational timing pages. If you need a broad family or hotel package, use those dedicated guides instead."
   - question: "Why trust Kashi Taxi for darshan plus Aarti planning?"
     answer: "Because we combine local transport dispatch, practical reporting-point advice, written confirmations, police-verified drivers, and clear boundaries about what is official, what is flexible and what must be rechecked live."
   - question: "Can this package be used during Shravan and Kanwar traffic weeks?"

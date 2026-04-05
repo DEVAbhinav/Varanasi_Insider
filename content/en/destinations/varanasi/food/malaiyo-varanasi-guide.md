@@ -59,7 +59,7 @@ ctaSubtitle: "Book a taxi to Godowlia or Chowk to start your morning culinary ex
 
 **Malaiyo** (also called Makhan Malai or Nimish) is not merely a dessert – it's a seasonal miracle possible only during winter's specific meteorological conditions. A cloud-like foam that appears on milk left overnight under open winter sky, Malaiyo represents the convergence of ancient knowledge, nature's cooperation, and culinary craft.
 
-Many visitors and locals casually search for **banaras malaiyo** when they want the same dessert but are using the city's older everyday name instead of Varanasi.
+You'll hear locals call it **banaras malaiyo** just as often — Banaras being the older, everyday name for the city. Same dessert, same stalls, same winter-only magic.
 
 ![Early morning at Varanasi ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg "Dawn at the ghats – perfect time for fresh malaiyo tasting")
 

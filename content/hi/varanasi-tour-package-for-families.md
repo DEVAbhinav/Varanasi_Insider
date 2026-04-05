@@ -3,7 +3,7 @@ lang: hi
 title: "वाराणसी टूर पैकेज फॉर फैमिलीज 2026 | परिवार, माता-पिता और बच्चों के लिए आरामदायक काशी यात्रा"
 metaTitle: "वाराणसी फैमिली टूर पैकेज | होटल, कैब, दर्शन और गंगा आरती"
 metaDescription: "परिवार के लिए वाराणसी टूर पैकेज बुक करें। होटल, एयरपोर्ट पिकअप, काशी विश्वनाथ योजना, गंगा आरती, सारनाथ और elders-friendly pacing एक साथ।"
-description: "यह परिवार-केन्द्रित वाराणसी owner page है जहाँ hotel + cab + darshan + family pacing को एक package की तरह बेचा गया है।"
+description: "परिवार के लिए वाराणसी पैकेज — hotel + cab + darshan + family pacing एक ही बुकिंग में।"
 date: 2026-03-07
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"

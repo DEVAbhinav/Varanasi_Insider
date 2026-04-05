@@ -134,7 +134,7 @@ Rain, wind and river conditions matter more than people expect. A flexible eveni
 
 ## Best Pages To Use Next
 
-- [Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2026) for the broader timing owner page
+- [Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2026) for the broader timing guide
 - [Assi Ghat Morning Aarti Guide](/en/assi-ghat-morning-aarti-time) if you also want Subah-e-Banaras
 - [Dashashwamedh Ghat Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing) if you want the busier main ceremony
 - [Evening Boat Ride Guide](/en/evening-boat-ride-varanasi-ganga-aarti) if you prefer a river view

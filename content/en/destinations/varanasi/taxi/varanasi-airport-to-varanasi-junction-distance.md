@@ -82,7 +82,7 @@ faqSchema:
 
 **The distance from Varanasi Airport (VNS) to Varanasi Junction (Cantt/BSB) is 22 km via Ring Road and Cantt Road, and the drive typically takes 35–50 minutes in normal traffic.**
 
-This page is also the right answer for reverse-worded searches like **varanasi airport to railway station distance** and **varanasi railway station to varanasi airport distance**, because users usually want the same Cantt or BSB transfer information regardless of which end they mention first.
+The **varanasi airport to railway station distance** — or phrased the other way, **varanasi railway station to varanasi airport distance** — is the same 22 km stretch. The route, fare, and timing apply equally whether you are heading to or from the airport.
 
 | Key fact | Detail |
 | --- | --- |

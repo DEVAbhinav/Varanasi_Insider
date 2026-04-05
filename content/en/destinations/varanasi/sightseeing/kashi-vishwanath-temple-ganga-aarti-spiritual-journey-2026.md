@@ -55,7 +55,7 @@ Unlike secular tourist guides, this page honors the temple's sacred purpose whil
 
 ## Need a Finished Package, Not Just the Guide?
 
-If your question is "who can plan the darshan, pickup, lockers, boat option and evening Aarti flow for us?" then use the commercial owner page:
+If your question is "who can plan the darshan, pickup, lockers, boat option and evening Aarti flow for us?" then use the booking guide:
 
 - [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
 

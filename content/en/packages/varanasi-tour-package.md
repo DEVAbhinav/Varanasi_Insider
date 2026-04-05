@@ -34,7 +34,7 @@ lastUpdated: "2026-02-05"
 | You want a low-walking elder-friendly trip | [Senior Citizen Varanasi Tour Package](/en/senior-citizen-varanasi-tour-package) | Better fit for rest windows and mobility constraints |
 | You want Varanasi plus onward outstation combinations | [Tour Package from Varanasi](/en/tour-package-from-varanasi) | Better fit for wider multi-city circuits |
 
-This page should own the broad search intent around:
+If you searched for any of these, you're in the right place:
 
 - Varanasi tour package
 - Kashi tour package
@@ -43,7 +43,7 @@ This page should own the broad search intent around:
 - 4 day Varanasi tour package
 - Varanasi package with hotel and cab
 
-This page should not try to be the main landing page for:
+For more specific needs, see the links above:
 
 - one day local sightseeing by car
 - family-only package intent
@@ -272,7 +272,7 @@ These are the package formats this page should emphasize most strongly in search
 **Package Inclusions**: Accommodation (2-3 star), breakfast, private AC vehicle, boat rides, guide service  
 **Exclusions**: Lunch/dinner, personal expenses, temple donations
 
-> If the traveler is comparing only car-based same-day packages, route them to [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package). This page should stay focused on broader stay-inclusive package intent.
+> If the traveler is comparing only car-based same-day packages, see [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package). This guide focuses on broader stay-inclusive package planning.
 
 ### 3-Day Varanasi Tour Package (Complete Temple & City Tour)
 

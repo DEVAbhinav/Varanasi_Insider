@@ -53,7 +53,7 @@ Sarnath, the sacred site where Buddha delivered his first sermon 2,500 years ago
 
 This comprehensive guide covers all major **Sarnath temples**, their architecture, prayer timings, and practical visiting information, helping you experience the diversity and unity of Buddhist worship at one of the world's most sacred pilgrimage sites.
 
-If a visitor searches **sarnath mandir**, this page is the best fit when they want the actual temple complex, prayer schedule, and the role of Mulagandha Kuti Vihar inside the wider Sarnath Buddhist zone.
+The term **sarnath mandir** usually refers to the temple complex centred on Mulagandha Kuti Vihar — the main prayer hall and the spiritual heart of the wider Sarnath Buddhist zone. Prayer schedules and visiting details for every temple are listed below.
 
 ![Sarnath Buddhist Temples](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogfamousbhu.jpg)
 *Buddhist devotees at Sarnath temples during evening prayers*

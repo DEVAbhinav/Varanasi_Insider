@@ -70,9 +70,9 @@ Planning your **Sarnath visit** timing correctly can make the difference between
 
 ## Use The Right Sarnath Page
 
-This page should own **Sarnath timing, Friday museum closure, opening hours, and visit-planning** intent. If the visitor needs transport, booking or a combined city tour, move them to the matching commercial page below.
+This guide covers **Sarnath timing, Friday museum closure, opening hours, and visit-planning**. For transport, booking, or a combined city tour, see the relevant links below.
 
-High-intent exact variants that belong here include **sarnath opening time**, **sarnath varanasi timings**, **sarnath temple varanasi timings**, and **sarnath mandir varanasi timings**.
+Looking for **sarnath opening time**, **sarnath varanasi timings**, **sarnath temple varanasi timings**, or **sarnath mandir varanasi timings**? All the details are covered below.
 
 | If you need | Best page | Why |
 |---|---|---|

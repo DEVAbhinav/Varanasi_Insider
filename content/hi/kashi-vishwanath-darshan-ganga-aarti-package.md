@@ -3,7 +3,7 @@ lang: hi
 title: "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026 | मंदिर, बोट और official-safe planning"
 metaTitle: "काशी विश्वनाथ दर्शन पैकेज | गंगा आरती, पिकअप और Sugam planning"
 metaDescription: "काशी विश्वनाथ दर्शन और गंगा आरती पैकेज बुक करें। pickup, local movement, boat option और official-safe planning के साथ।"
-description: "यह Kashi Vishwanath darshan + Ganga Aarti intent के लिए commercial owner page है जिसमें official-safe wording और practical planning दी गई है।"
+description: "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज गाइड — official-safe wording, Sugam गाइडेंस और practical same-day planning।"
 date: 2026-03-07
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"

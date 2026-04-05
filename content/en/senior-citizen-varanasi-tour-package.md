@@ -3,7 +3,7 @@ lang: en
 title: "Senior Citizen Varanasi Tour Package 2026 | Low-Walking Kashi Plan for Elders"
 metaTitle: "Senior Citizen Varanasi Tour Package | Elder-Friendly Kashi Darshan with Hotel & Cab"
 metaDescription: "Book a senior citizen Varanasi tour package with low-walking darshan planning, hotel-first comfort, pickup, rest breaks and elder-friendly pacing."
-description: "Varanasi-only elder-friendly package owner page for low-walking, hotel-access-first, rest-aware temple and ghat planning."
+description: "Elder-friendly Varanasi package with low-walking darshan planning, hotel-access-first comfort, rest-aware temple and ghat scheduling."
 date: 2026-03-07
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"
@@ -32,7 +32,7 @@ faqSchema:
   - question: "Who should use this senior citizen Varanasi package page?"
     answer: "Use this page when the main concern is elder comfort, low walking, rest windows, easier hotel access, and realistic Kashi darshan pacing inside Varanasi."
   - question: "Is this page different from the multi-city elderly package?"
-    answer: "Yes. This is the Varanasi-only owner page for elder-friendly Kashi travel. The multi-city elderly package is for wider Varanasi-Gaya-Prayagraj pilgrimage circuits."
+    answer: "Yes. This guide covers elder-friendly Kashi travel within Varanasi only. The multi-city elderly package is for wider Varanasi-Gaya-Prayagraj pilgrimage circuits."
   - question: "Can you plan for wheelchair users or walkers?"
     answer: "We can plan around low-walking routes, easier drop points, hotel suitability and pace adjustments. Exact accessibility varies by temple and public-space conditions."
   - question: "What is the ideal duration for senior citizens in Varanasi?"
@@ -243,4 +243,4 @@ Need Sarnath: yes/no
 
 - Need Varanasi-only family package: [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)
 - Need hotel-led planning: [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel)
-- Need temple + Aarti owner page: [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
+- Need temple + Aarti guide: [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)

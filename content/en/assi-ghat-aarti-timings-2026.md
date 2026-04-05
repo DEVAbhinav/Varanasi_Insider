@@ -123,7 +123,7 @@ As a local who runs sunrise boat rides for a living, I’m at Assi Ghat almost e
 
 ## Use The Right Page For Your Assi Visit
 
-This page should own **Assi timing, seating, festival shifts, and photo-planning** intent. If the user really needs a boat, full-city cab, or pre-dawn pickup, move them to the dedicated page instead of making this URL do everything.
+This guide covers **Assi Ghat timing, seating, festival shifts, and photo-planning**. If you need boat bookings, a full-city cab, or pre-dawn pickup, the right links are below.
 
 | If you need | Best page | Why |
 |---|---|---|

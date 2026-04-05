@@ -56,7 +56,7 @@ faqSchema:
 > **TL;DR for searchers**
 > - `Varanasi group tour package`: best for **6 to 40+ pilgrims** needing **hotel + transport + darshan timing + meals** in one booking.
 > - `Kashi group tour package`: strongest for **families, temple committees, satsang groups, and mixed-age yatras**.
-> - `Ayodhya Varanasi Prayagraj group package`: use the dedicated 3-city owner page if the group already wants **Ram Mandir + Kashi + Sangam**.
+> - `Ayodhya Varanasi Prayagraj group package`: use the dedicated 3-city guide if the group already wants **Ram Mandir + Kashi + Sangam**.
 > - `Varanasi tour package from Delhi`: use the Delhi page first if the route, arrival city, or return city is still undecided.
 > - Micro-tip: a pilgrimage should feel spiritual, not like a parking-lot committee meeting with 14 opinions and one missing slipper.
 
@@ -77,9 +77,9 @@ This page is not built like a generic “tour package” placeholder. It is base
 
 That matters because a group tour fails for very ordinary reasons: late reporting, vague pickup points, unclear inclusions, and a quote that looked cheap only because half the details were missing.
 
-## Use This Page When Group Planning Is the Main Question
+## Use This Guide When Group Planning Is the Main Question
 
-This page is the best fit when:
+This guide is for you if:
 
 - you are planning for **6+ people**
 - you need **one itinerary for the whole group**
@@ -87,7 +87,7 @@ This page is the best fit when:
 - you want **Varanasi first** and then need Ayodhya or Prayagraj options
 - you need a package that works for **mixed ages**, not just fit young travellers
 
-This page is **not** the best fit when:
+You may prefer a different guide if:
 
 - you only need a **12 or 17 seater fare**
 - you want only a **Varanasi to Ayodhya route price**
@@ -185,7 +185,7 @@ The cleanest structure is:
 
 This product needs its own exact-match page because it is a true package, not just a transfer.
 
-Use the dedicated owner page here:
+Use the dedicated guide here:
 
 - [Ayodhya Varanasi Prayagraj Group Tour Package](/en/ayodhya-varanasi-prayagraj-group-tour-package)
 
@@ -199,7 +199,7 @@ That page is where we should win searches like:
 
 Some group tours are not really “groups” in the mass-travel sense. They are higher-support family pilgrimages where comfort, medical timing, and rest windows matter more than total price.
 
-For those groups, the best owner page is:
+For those groups, the best guide is:
 
 - [Varanasi Gaya Prayagraj Tour Package for Elderly](/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly)
 
@@ -310,7 +310,7 @@ Yes, if the main need is coordinated movement and city darshan. For pure vehicle
 
 ### What is the strongest package for a temple group doing Kashi, Prayagraj, and Ayodhya?
 
-The best owner page is our [Ayodhya Varanasi Prayagraj Group Tour Package](/en/ayodhya-varanasi-prayagraj-group-tour-package), because that trip needs route planning, hotel strategy, and darshan pacing together.
+The best resource is our [Ayodhya Varanasi Prayagraj Group Tour Package](/en/ayodhya-varanasi-prayagraj-group-tour-package), because that trip needs route planning, hotel strategy, and darshan pacing together.
 
 ### Can you quote mini bus or coach groups?
 

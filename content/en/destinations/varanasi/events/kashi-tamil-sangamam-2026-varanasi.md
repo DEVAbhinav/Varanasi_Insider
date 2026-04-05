@@ -41,7 +41,7 @@ organizer:
 
 # Kashi Tamil Sangamam 4.0 – A Cultural Bridge Between South and North
 
-This event page should also catch transliteration-heavy searches such as **kasi tamil sangam 2026**, **kasi tamil sangam registration 2026**, and **kasi tamil sangam registration 2026 tamilnadu online apply**. Those queries refer to the same event and should resolve here rather than being scattered across broader December guides.
+Also known online as **Kasi Tamil Sangam 2026**, this is the same event — the spelling simply follows Tamil transliteration. If you are looking for **kasi tamil sangam registration 2026** or specifically **kasi tamil sangam registration 2026 tamilnadu online apply**, the official registration portal and all event details are covered below.
 
 <script type="application/ld+json">
 {

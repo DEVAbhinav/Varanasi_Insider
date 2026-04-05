@@ -125,11 +125,11 @@ aggregateRating:
 
 ## What This Overview Helps You Compare
 
-Arriving at Lal Bahadur Shastri International Airport (LBS/VNS) in Varanasi? This page is for travelers who are still comparing airport transfer formats before deciding whether they need direct booking, fare research, or a route-specific page. Use it to understand the common city-drop patterns, then move to the correct owner page for the next step.
+Arriving at Lal Bahadur Shastri International Airport (LBS/VNS) in Varanasi? This guide is for travelers who are still comparing airport transfer formats before deciding whether they need direct booking, fare research, or a route-specific page. Use it to understand the common city-drop patterns, then move to the right guide for booking.
 
 ## Typical City-Drop Fare Bands
 
-Unlike street taxis with unpredictable rates, the airport cluster uses transparent fixed-fare positioning. Use these ranges as an overview, then confirm on the booking or price owner page:
+Unlike street taxis with unpredictable rates, the airport cluster uses transparent fixed-fare positioning. Use these ranges as an overview, then confirm on the booking or pricing page:
 
 - **Airport to City Center/Ghats:** Starting from ₹600 (Sedan), ₹800 (SUV)
 - **Airport to Assi Ghat:** ₹750 (Sedan), ₹950 (SUV)

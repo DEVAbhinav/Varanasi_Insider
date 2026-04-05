@@ -3,7 +3,7 @@ lang: hi
 title: "दिल्ली से वाराणसी टूर पैकेज 2026 | परिवार और समूह तीर्थ योजना"
 metaTitle: "दिल्ली से वाराणसी टूर पैकेज | परिवार और समूह यात्रा"
 metaDescription: "दिल्ली से वाराणसी टूर पैकेज बुक करें। परिवार और समूहों के लिए वाराणसी-only, अयोध्या-वाराणसी या अयोध्या-वाराणसी-प्रयागराज यात्रा योजना, होटल और दर्शन समर्थन सहित।"
-description: "Delhi/NCR से शुरू होने वाले परिवार और समूहों के लिए यह owner page सही package format, route order और departure logic तय करने में मदद करता है।"
+description: "Delhi/NCR से शुरू होने वाले परिवारों और समूहों के लिए वाराणसी पैकेज गाइड — सही route order, departure logic और पैकेज format।"
 date: 2026-03-07
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"

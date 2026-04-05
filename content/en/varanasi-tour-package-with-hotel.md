@@ -218,7 +218,7 @@ The hotel that feels romantic on arrival can feel much less poetic when four peo
 - whether the traveler needs old-city proximity or should visit it from outside
 - whether the arrival and departure times make the location practical
 
-That is also why this page should not cannibalize the family page. This page owns **stay-first commercial intent**. The family page owns **family-pacing intent**.
+The focus here is **choosing the right stay-area first** and building your itinerary around it. For family-specific pacing (rest windows, temple timing for kids and elders), see the [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families) instead.
 
 ## What Is Usually Included
 
@@ -294,4 +294,4 @@ Budget level: comfort / mid-range / premium
 
 - Need only stay guidance: [Hotel Booking in Varanasi](/en/services/hotel-booking-in-varanasi)
 - Need family-specific planning: [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)
-- Need temple + Aarti owner page: [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
+- Need temple + Aarti guide: [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)

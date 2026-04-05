@@ -8,7 +8,7 @@ author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide/"
 
-description: "Legacy comparison guide for Varanasi (VNS) airport. Compare prepaid fares with Uber/Ola, understand pickup zones, and avoid common scams before choosing the right airport owner page."
+description: "Comparison guide for Varanasi (VNS) airport transfers. Compare prepaid fares with Uber/Ola, understand pickup zones, and avoid common scams."
 tags:
   - airport taxi
   - varanasi

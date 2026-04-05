@@ -3,7 +3,7 @@ lang: hi
 title: "अयोध्या वाराणसी प्रयागराज समूह टूर पैकेज 2026 | 6 से 40+ श्रद्धालु"
 metaTitle: "अयोध्या वाराणसी प्रयागराज समूह टूर पैकेज | 6-40+ यात्रियों के लिए"
 metaDescription: "6 से 40+ श्रद्धालुओं के लिए अयोध्या वाराणसी प्रयागराज समूह टूर पैकेज बुक करें। 4N/5D सर्किट, होटल, वाहन, दर्शन योजना, भोजन और senior-friendly pacing सहित।"
-description: "Ram Mandir, Kashi Vishwanath और Triveni Sangam वाले 3-शहर तीर्थ सर्किट के लिए यह Kashitaxi का मुख्य Hindi owner page है।"
+description: "Ram Mandir, Kashi Vishwanath और Triveni Sangam वाले 3-शहर तीर्थ सर्किट — 6 से 40+ श्रद्धालुओं के लिए होटल, वाहन, दर्शन और भोजन सहित।"
 date: 2026-03-07
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"
@@ -40,7 +40,7 @@ faqSchema:
 # अयोध्या वाराणसी प्रयागराज समूह टूर पैकेज 2026 | 6 से 40+ श्रद्धालु
 
 > **संक्षेप: खोज करने वालों के लिए**
-> - `अयोध्या वाराणसी प्रयागराज समूह टूर पैकेज`: **4N/5D Ram Mandir + Kashi Vishwanath + Sangam** circuit का मुख्य owner page।
+> - `अयोध्या वाराणसी प्रयागराज समूह टूर पैकेज`: **4N/5D Ram Mandir + Kashi Vishwanath + Sangam** circuit की पूरी गाइड।
 > - `राम मंदिर काशी संगम ग्रुप पैकेज`: परिवार, समिति, satsang group और mixed-age batch के लिए बेहतर fit।
 > - `परिवार तीर्थ पैकेज अयोध्या वाराणसी प्रयागराज`: hotel + transport + darshan pacing + meal planning एक साथ चाहिए तो यही सही page है।
 > - `दिल्ली से वाराणसी टूर पैकेज`: अगर NCR से route decision अभी बाकी है तो पहले Delhi वाला page देखें।

@@ -51,7 +51,7 @@ faqSchema:
 | I want an Ayodhya + Varanasi tour package | [Ayodhya Varanasi Tour](/en/city/varanasi/tour-packages/ayodhya-varanasi-tour) | Better fit for package and hotel-inclusive planning |
 | I want Ayodhya with Prayagraj in one pilgrimage circuit | [Varanasi Ayodhya Prayagraj Pilgrimage Taxi](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi) | Better fit for multi-city taxi circuit planning |
 
-This page should own direct commercial phrases such as **varanasi to ayodhya taxi**, **varanasi to ayodhya taxi booking**, **varanasi to ayodhya cab**, and **ram mandir taxi from varanasi**.
+Looking for **varanasi to ayodhya taxi**, **varanasi to ayodhya taxi booking**, **varanasi to ayodhya cab**, or **ram mandir taxi from varanasi**? Here are the quick facts and booking details.
 
 ## Quick Facts: Varanasi to Ayodhya
 

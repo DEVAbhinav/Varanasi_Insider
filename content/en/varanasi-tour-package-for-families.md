@@ -3,7 +3,7 @@ lang: en
 title: "Varanasi Tour Package for Families 2026 | Safe, Comfortable Kashi Trip with Hotel & Cab"
 metaTitle: "Varanasi Tour Package for Families | Hotel, Cab, Darshan & Ganga Aarti"
 metaDescription: "Book a Varanasi tour package for families with hotel, airport pickup, Kashi Vishwanath planning, Ganga Aarti, Assi, Sarnath and calm pacing for parents, kids and elders."
-description: "A Varanasi-first family package owner page for travelers who want hotel, local cab, darshan planning, Ganga Aarti and comfortable pacing in one booking."
+description: "Complete Varanasi family package — hotel, local cab, darshan planning, Ganga Aarti and comfortable pacing in one booking."
 date: 2026-03-07
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"
@@ -54,7 +54,7 @@ faqSchema:
 > - `safe comfortable varanasi family package`: strongest for first-time Kashi trips where the family wants help with **pickup, stay area, temple timing and local sightseeing**.
 > - Tiny truth from the lanes of Banaras: even the holiest trip gets better when nobody is arguing about luggage at Godowlia.
 
-This is the main owner page for families who want **Varanasi as a finished product**, not just a taxi number and a vague idea of where to go after check-in.
+This is the complete guide for families who want **Varanasi as a finished product**, not just a taxi number and a vague idea of where to go after check-in.
 
 If your buying question sounds like this, you are on the right page:
 
@@ -368,7 +368,7 @@ It should not compete with:
 - large group-tour pages
 - generic informational guides
 
-That is intentional. One buying question, one owner page.
+That is intentional. Each buying question has a dedicated guide.
 
 If the query is mostly:
 

@@ -73,4 +73,4 @@ Varanasi has multiple railheads. The driver needs the real destination, not just
 
 Flight number, landing time, checked baggage and passenger count save time for both the traveller and dispatch.
 
-Use the route cards below as owner pages for that intent. Each card should answer one transfer question cleanly instead of mixing every airport need onto one thin page.
+Use the route cards below for that. Each card answers one transfer question cleanly instead of mixing every airport need onto one thin page.

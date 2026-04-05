@@ -142,7 +142,7 @@ At Kashitaxi.in, we suggest stays based on your actual itinerary and comfort nee
 
 If your real question is "can one team handle hotel + pickup + darshan + local cab?" then this service page is support content, not the main package owner.
 
-Use these package-owner pages instead:
+Use these dedicated guides instead:
 
 - [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel)
 - [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)

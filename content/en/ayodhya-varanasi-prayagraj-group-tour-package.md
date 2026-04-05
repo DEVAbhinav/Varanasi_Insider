@@ -3,7 +3,7 @@ lang: en
 title: "Ayodhya Varanasi Prayagraj Group Tour Package 2026 | 4N/5D for 6 to 40+ Pilgrims"
 metaTitle: "Ayodhya Varanasi Prayagraj Group Tour Package | 6-40+ Pilgrims"
 metaDescription: "Book Ayodhya Varanasi Prayagraj group tour package for 6 to 40+ pilgrims. 4N/5D circuit with hotel, transport, darshan planning, meals and senior-friendly pacing."
-description: "The exact-match Kashitaxi owner page for Ayodhya Varanasi Prayagraj group tours, built for families, temple committees, satsang batches, and mixed-age pilgrim groups."
+description: "Complete Ayodhya Varanasi Prayagraj group tour guide for families, temple committees, satsang batches, and mixed-age pilgrim groups."
 date: 2026-03-07
 lastUpdated: 2026-03-07
 author: "Kashi Taxi Team"
@@ -50,7 +50,7 @@ faqSchema:
 # Ayodhya Varanasi Prayagraj Group Tour Package 2026 | 4N/5D for 6 to 40+ Pilgrims
 
 > **TL;DR for searchers**
-> - `Ayodhya Varanasi Prayagraj group tour package`: the main owner page for a **4N/5D Ram Mandir + Kashi Vishwanath + Sangam** circuit.
+> - `Ayodhya Varanasi Prayagraj group tour package`: the main guide for a **4N/5D Ram Mandir + Kashi Vishwanath + Sangam** circuit.
 > - `family pilgrimage package Ayodhya Varanasi Prayagraj`: best for **families, temple committees, satsang groups, and mixed-age pilgrims**.
 > - `Ram Mandir Kashi Sangam group tour`: use this page when you want **hotel + transport + darshan pacing + meal planning** in one quote.
 > - `Varanasi tour package from Delhi`: start there first if the organizer is still deciding the route from NCR.

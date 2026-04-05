@@ -21,7 +21,7 @@ Evening Ganga Aarti at Dashashwamedh Ghat—a mesmerizing end to a day of sights
 
 This page is the right fit when your main need is **tempo traveller pricing for local darshan**.
 
-If the real buying question is broader, use the owner page that matches the intent:
+If the real buying question is broader, use the guide that matches your intent:
 
 - family trip with hotel and cab: [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)
 - stay-first booking: [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel)

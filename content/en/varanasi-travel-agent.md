@@ -87,7 +87,7 @@ Whether you need a late-night airport transfer, a women-only Pink Taxi, or a ful
 | I want a group vehicle specifically | [Tempo Traveller Varanasi](/en/tempo-traveller-varanasi) | Better fit for vehicle-specific intent |
 | I want airport pickup or drop only | [Varanasi Airport Taxi Service](/en/city/varanasi/taxi/airport-taxi-service-varanasi) | Better fit for airport-booking intent |
 
-This page should own broad provider-intent searches such as:
+If you searched for any of these, you've found the right resource:
 
 - varanasi travel agent
 - tour operators in varanasi
@@ -95,7 +95,7 @@ This page should own broad provider-intent searches such as:
 - trusted varanasi travel agent
 - varanasi travel agent contact number
 
-This page should support other commercial pages, not compete with each of them head-on.
+For specific service types (airport pickup, outstation cabs, group vehicles), see the dedicated pages linked above.
 
 <div class="trust-strip" style="background: linear-gradient(135deg, #06b6d4 0%, #14b8a6 100%); color: white; padding: 16px; border-radius: 12px; text-align: center; margin: 24px 0; font-weight: 600;">
   GSTIN: Verified ✓ | Police-Verified Drivers ✓ | 24×7 Support ✓ | 27+ Years in Business
@@ -131,7 +131,7 @@ Operating as **Vinayak Travels Tour (Regd.)**, Kashi Taxi has served 25,000+ tra
 
 ### **Varanasi Tour and Travels Services: Complete Solutions**
 
-Use the service sections below as a directory of what we operate. For deep route pricing, exact package comparison, or itinerary planning, the linked owner pages should do the heavy lifting.
+Use the service sections below as a directory of what we operate. For deep route pricing, exact package comparison, or itinerary planning, the linked guides should do the heavy lifting.
 
 #### **1. Varanasi Airport Taxi Service (VNS Airport Transfer)**
 
@@ -227,7 +227,7 @@ Launched in 2023, our Pink Taxi service prioritizes women's safety:
 
 ## Varanasi Tour Packages: Custom Tour and Travels Packages
 
-These package examples help users understand what a Varanasi travel agent can arrange. The narrower package owner pages should still rank for detailed package shopping queries.
+These package examples help users understand what a Varanasi travel agent can arrange. The narrower package guides have more detailed pricing and itinerary breakdown.
 
 ![Varanasi ghats overview](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg "Varanasi ghats - custom tour packages available")
 
@@ -569,7 +569,7 @@ Customizable itineraries available.
 
 **Varanasi Tour Packages:**
 - **[Tour Packages from Varanasi](/en/tour-package-from-varanasi)** — Multi-day packages
-- **[Ayodhya Varanasi Prayagraj Group Tour Package](/en/ayodhya-varanasi-prayagraj-group-tour-package)** — 3-city pilgrimage owner page
+- **[Ayodhya Varanasi Prayagraj Group Tour Package](/en/ayodhya-varanasi-prayagraj-group-tour-package)** — 3-city pilgrimage circuit guide
 - **[Varanasi Tour Package from Delhi](/en/varanasi-tour-package-from-delhi)** — Delhi-origin family & group planning
 - **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** — Daily tour pricing
 - **[Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)** — Group tours
