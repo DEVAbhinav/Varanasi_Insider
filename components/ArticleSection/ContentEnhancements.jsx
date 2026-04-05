@@ -27,8 +27,8 @@ export function InlineEnhancements({ html, quickFacts }) {
   const { headings } = useEnhancementData(html);
   return (
     <>
-      {quickFacts?.length > 0 && <QuickFacts facts={quickFacts} />}
       <TableOfContents headings={headings} />
+      {quickFacts?.length > 0 && <QuickFacts facts={quickFacts} />}
     </>
   );
 }
