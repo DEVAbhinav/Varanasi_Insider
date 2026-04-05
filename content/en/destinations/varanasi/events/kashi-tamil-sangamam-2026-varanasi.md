@@ -11,6 +11,9 @@ metaDescription: "Kashi Tamil Sangamam 4.0 ended Dec 15, 2026. 1,400+ delegates 
 description: "Kashi Tamil Sangamam 4.0 (Dec 2–15, 2026): Dates, venue, 1,400+ delegates, heritage walks, cultural programs. Book taxi, accommodation & group tours in Varanasi."
 keywords:
   - "Kashi Tamil Sangamam 2026"
+  - "kasi tamil sangam 2026"
+  - "kasi tamil sangam registration 2026"
+  - "kasi tamil sangam registration 2026 tamilnadu online apply"
   - "Varanasi December events"
   - "BHU festival schedule"
   - "Tamil Sangamam travel tips"
@@ -37,6 +40,8 @@ organizer:
 ---
 
 # Kashi Tamil Sangamam 4.0 – A Cultural Bridge Between South and North
+
+This event page should also catch transliteration-heavy searches such as **kasi tamil sangam 2026**, **kasi tamil sangam registration 2026**, and **kasi tamil sangam registration 2026 tamilnadu online apply**. Those queries refer to the same event and should resolve here rather than being scattered across broader December guides.
 
 <script type="application/ld+json">
 {

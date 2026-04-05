@@ -11,6 +11,7 @@ description: "Ultimate 2026 guide to Malaiyo in Varanasi – where to eat it, id
 keywords:
   - "Malaiyo Varanasi"
   - "malaiyo"
+  - "banaras malaiyo"
   - "Varanasi winter food"
   - "best malaiyo in varanasi"
   - "makhan malai varanasi"
@@ -57,6 +58,8 @@ ctaSubtitle: "Book a taxi to Godowlia or Chowk to start your morning culinary ex
 ### The Ethereal Delicacy That Defines Varanasi Winters
 
 **Malaiyo** (also called Makhan Malai or Nimish) is not merely a dessert – it's a seasonal miracle possible only during winter's specific meteorological conditions. A cloud-like foam that appears on milk left overnight under open winter sky, Malaiyo represents the convergence of ancient knowledge, nature's cooperation, and culinary craft.
+
+Many visitors and locals casually search for **banaras malaiyo** when they want the same dessert but are using the city's older everyday name instead of Varanasi.
 
 ![Early morning at Varanasi ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg "Dawn at the ghats – perfect time for fresh malaiyo tasting")
 

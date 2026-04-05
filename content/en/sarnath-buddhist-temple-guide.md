@@ -12,6 +12,7 @@ description: "Comprehensive guide to all Sarnath Buddhist temples including the 
 keywords:
   - "sarnath buddhist temple"
   - "sarnath temple"
+  - "sarnath mandir"
   - "main sarnath temple"
   - "mulagandha kuti vihar"
   - "sarnath temple timing"
@@ -51,6 +52,8 @@ faqSchema:
 Sarnath, the sacred site where Buddha delivered his first sermon 2,500 years ago, has become a living museum of global Buddhism. International Buddhist communities have built beautiful **Sarnath Buddhist temples** representing their unique traditions—from Thailand's golden spires to Tibet's prayer wheels, from Sri Lanka's white stupas to Japan's Zen simplicity.
 
 This comprehensive guide covers all major **Sarnath temples**, their architecture, prayer timings, and practical visiting information, helping you experience the diversity and unity of Buddhist worship at one of the world's most sacred pilgrimage sites.
+
+If a visitor searches **sarnath mandir**, this page is the best fit when they want the actual temple complex, prayer schedule, and the role of Mulagandha Kuti Vihar inside the wider Sarnath Buddhist zone.
 
 ![Sarnath Buddhist Temples](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogfamousbhu.jpg)
 *Buddhist devotees at Sarnath temples during evening prayers*
