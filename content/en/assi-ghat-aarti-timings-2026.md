@@ -202,10 +202,6 @@ Data compiled from updated priest rota & tourism board circulars.
 | Weather    | Carry a light shawl in Jan–Feb (see our [Varanasi in February guide](/en/varanasi-in-february-2026)); umbrellas in Jul–Sep.                                |
 | Safety     | Plenty of police at both aartis; watch for slippery steps after rain. For more tips, read our main [Varanasi Safety Guide](/en/safety-and-security-in-varanasi-guide-for-solo-travellar). |
 
-**TripAdvisor Snippet:**
-
-> "The Subah-e-Banaras at Assi Ghat was the highlight of our trip. More intimate than the main Aarti. We followed a local guide's tip to arrive early and it made all the difference!" - Review from Sarah J.
-
 ## How to Get to Assi Ghat
 
 *   **By Tuk-Tuk/E-Rickshaw:** Ask for “Assi Ghat main chowk”; expect ₹80-₹120 from Godowlia at pre-dawn rates.

@@ -298,7 +298,7 @@ A more intimate ceremony welcoming the sunrise:
 
 - Offers a unique floating perspective
 - Less crowded and more atmospheric
-- Book through reputable operators like Varanasiguru.com or your hotel
+- Book through your hotel or a trusted local operator
 
 > Complete Dashashwamedh guide: **[Dashashwamedh Ghat Boat Ride & Ganga Aarti Guide](/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide)** covers boat pricing, VIP seating, photography tips, and seasonal schedules.
 
@@ -390,7 +390,7 @@ Evening rides offer:
 
 **How to Book:**
 
-1. **Online Pre-booking**: Recommended through Varanasiguru.com, TripCosmos.co, or Thrillophilia
+1. **Online Pre-booking**: [WhatsApp Kashi Taxi](https://wa.me/919616939293) for guaranteed availability and fixed pricing
 2. **Hotel Concierge**: Many hotels arrange boats with trusted operators
 3. **On-the-spot at Ghats**: Available at Assi, Dashashwamedh, and Rajendra Prasad Ghats. Always **negotiate price before boarding**
 
@@ -850,8 +850,8 @@ Hiring a licensed government-approved guide significantly enhances understanding
 
 - Official tourism counter at the airport or railway station
 - Government-certified guide associations
-- Reputable platforms: TripCosmos.co, Varanasiguru.com
 - Hotel concierge referrals
+- [WhatsApp Kashi Taxi](https://wa.me/919616939293) for vetted, certified guides
 
 **Warning**: Avoid unlicensed "lapka" guides who approach you on the streets. They often lead tourists to shops where they receive commissions, inflate prices, and may not provide accurate information.
 

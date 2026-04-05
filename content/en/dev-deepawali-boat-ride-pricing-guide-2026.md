@@ -83,14 +83,9 @@ relatedPosts:
 
 ## Booking Method #1: Online Tour Operators (₹3,500-₹13,000+)
 
-### Major Online Platforms Analysis
+### What Online Tour Operators Typically Charge
 
-| Platform | Price Range | What's Included | Reliability Rating |
-|----------|-------------|-----------------|-------------------|
-| **Viator/GetYourGuide** | ₹4,500 - ₹8,000 | English guide, 2-3 hour cruise | High |
-| **MakeMyTrip/Cleartrip** | ₹3,500 - ₹6,000 | Basic boat ride, variable timing | Medium |
-| **TripAdvisor Partners** | ₹5,000 - ₹10,000 | Premium experience, photography | High |
-| **Luxury Operators** | ₹8,000 - ₹13,000+ | Private boats, catering, VIP treatment | Very High |
+Online platforms generally charge between **₹3,500 and ₹13,000+** for a Dev Deepawali boat ride, depending on what is included (basic shared ride vs. private luxury cruise with catering). Prices are highest for private boats with English-speaking guides and photography add-ons.
 
 ### Pros of Online Booking:
 - **Zero stress** - everything handled professionally

@@ -94,9 +94,6 @@ October marks the beginning of the tourist season, and prices reflect that.
 *   **Costs:** While not as high as in November or December, hotel and flight prices see a significant jump from the monsoon off-season rates.
 *   **Advice:** I recommend booking your travel and accommodation at least **2-3 months in advance** to get reasonable prices, especially if your visit coincides with the festival dates.
 
-> **TripAdvisor Snippet:**
-> "Visited Varanasi in mid-October and fell in love. The weather was just perfect for sightseeing. The festive atmosphere for Diwali was starting and the city felt so alive. The evening Aarti was a highlight. A truly magical trip!" - Review from Anja M, Germany
-
 ---
 
 ## What to Pack for an October Visit

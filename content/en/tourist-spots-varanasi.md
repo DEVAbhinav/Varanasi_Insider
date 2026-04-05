@@ -276,7 +276,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 **What to Bring:** Warm clothing (October-February mornings), sunscreen, hat, camera
 
-**Booking:** Hotel concierge, Varanasiguru.com, or negotiate at ghats (price first!)
+**Booking:** Hotel concierge, [WhatsApp us for boats](https://wa.me/919616939293), or negotiate at ghats (price first!)
 
 > Complete boat guide: **[Sunrise Boat Ride Ganges](/en/sunrise-boat-ride-ganges)** and **[Morning Boat Ride Varanasi Price](/en/morning-boat-ride-varanasi-price)**
 

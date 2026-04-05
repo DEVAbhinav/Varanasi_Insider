@@ -82,9 +82,6 @@ Let's be clear: February is prime time. The fantastic weather and Mahashivratri 
 *   **Costs:** Expect peak-season pricing for flights and hotels. Prices will be at their highest during the week of Mahashivratri. This is not the month for a budget-hunting trip.
 *   **Advice:** My strong advice is to book your accommodation and travel at least **3-4 months in advance** to avoid disappointment and exorbitant last-minute rates.
 
-> **TripAdvisor Snippet:**
-> "We visited Varanasi this February and it was perfect. The weather was amazing - warm enough for a t-shirt in the afternoon but cool enough for a jacket at night. The Mahashivratri procession was an incredible sight. So glad we booked our hotel in advance as we saw many people struggling to find rooms." - Review from Chloe R, Manchester
-
 ## What to Pack for Varanasi in February
 
 Layering is the name of the game for a comfortable February trip.

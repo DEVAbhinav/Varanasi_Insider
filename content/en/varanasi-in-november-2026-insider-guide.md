@@ -89,9 +89,6 @@ This means you need to plan ahead.
 *   **Hotels & Flights:** Book them at least 3-4 months in advance. Prices can easily double or even triple as November approaches.
 *   **Boats & Taxis:** Pre-booking is essential, particularly for a good boat on Dev Deepawali night.
 
-> **TripAdvisor Snippet:**
-> "Visited for Dev Deepawali in November and it was magical. The city was crowded but the sight of a million lamps on the Ganga was worth it. Our guide told us to book our boat two months early and it was the best advice we got! A once-in-a-lifetime trip." - Review from Sarah J, London
-
 ---
 
 ## What to Pack for Varanasi in November
