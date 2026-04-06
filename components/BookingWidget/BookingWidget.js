@@ -16,6 +16,7 @@ export default function BookingWidget() {
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
+  const [whatsappLink, setWhatsappLink] = useState('');
 
   const handleChange = (e) => {
     // Track form interaction start (once)
@@ -45,6 +46,12 @@ export default function BookingWidget() {
       return;
     }
 
+    if (!/^[6-9]\d{9}$/.test(formData.phone.replace(/\D/g, '').slice(-10))) {
+      setError('Please enter a valid 10-digit Indian phone number');
+      setLoading(false);
+      return;
+    }
+
     try {
       // Submit to API
       const response = await fetch('/api/contact-form', {
@@ -68,6 +75,7 @@ export default function BookingWidget() {
 
       if (response.ok) {
         setSuccess(true);
+        setWhatsappLink(data.whatsappLink || CONTACT.whatsappUrl);
 
         // Track successful lead generation
         gtag.event({
@@ -81,16 +89,6 @@ export default function BookingWidget() {
           passenger_count: formData.passengers,
           source_widget: 'Booking Widget'
         });
-
-        // Redirect to WhatsApp as backup
-        setTimeout(() => {
-          gtag.event({
-            action: 'whatsapp_redirect',
-            category: 'Conversion',
-            label: 'Booking Widget Success',
-          });
-          window.open(data.whatsappLink, '_blank');
-        }, 1500);
         
         // Reset form
         setFormData({
@@ -121,9 +119,17 @@ export default function BookingWidget() {
           <p className="text-gray-700 mb-4">
             We received your inquiry and will contact you shortly.
           </p>
-          <p className="text-sm text-gray-600">
-            Opening WhatsApp for instant confirmation...
-          </p>
+          {whatsappLink && (
+            <a
+              href={whatsappLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => gtag.event({ action: 'whatsapp_redirect', category: 'Conversion', label: 'Booking Widget Success' })}
+              className="inline-flex items-center gap-2 px-5 py-3 bg-green-500 hover:bg-green-600 text-white font-semibold rounded-lg transition-all shadow-lg"
+            >
+              💬 Chat on WhatsApp
+            </a>
+          )}
         </div>
       </div>
     );

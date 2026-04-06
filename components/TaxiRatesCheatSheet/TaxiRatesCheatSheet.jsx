@@ -1,4 +1,5 @@
 import React from 'react';
+import { useRouter } from 'next/router';
 import TrustBadge from '../TrustBadge/TrustBadge';
 import { Plane, Clock, Car, Users, Phone, MessageCircle } from 'lucide-react';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
@@ -12,6 +13,8 @@ import { CONTACT, getCallTelHref } from '@/lib/contact';
  * @param {boolean} props.showCTA - Whether to show booking buttons
  */
 export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }) {
+    const router = useRouter();
+    const lang = router.query.lang || 'en';
     const rateCards = [
         {
             id: 'airport',
@@ -183,7 +186,7 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                     {/* Fine print */}
                     <p className="text-xs text-gray-500 mb-4">
                         * Night charges apply after 10 PM (₹250-300) • Toll & parking at actuals for outstation •
-                        <a href="/en/varanasi-transport-price-guide-2026" className="text-cyan-600 hover:underline ml-1">
+                        <a href={`/${lang}/varanasi-transport-price-guide-2026`} className="text-cyan-600 hover:underline ml-1">
                             View full price guide →
                         </a>
                     </p>

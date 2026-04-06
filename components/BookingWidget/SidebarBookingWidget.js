@@ -15,6 +15,7 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
+  const [whatsappLink, setWhatsappLink] = useState('');
   const router = useRouter();
 
   const handleChange = (e) => {
@@ -40,6 +41,12 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
 
     if (!formData.name || !formData.phone) {
       setError('Please fill in your name and phone number');
+      setLoading(false);
+      return;
+    }
+
+    if (!/^[6-9]\d{9}$/.test(formData.phone.replace(/\D/g, '').slice(-10))) {
+      setError('Please enter a valid 10-digit phone number');
       setLoading(false);
       return;
     }
@@ -72,28 +79,20 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
 
       if (response.ok) {
         setSuccess(true);
+        setWhatsappLink(data.whatsappLink || CONTACT.whatsappUrl);
 
         // Track successful lead generation
         gtag.event({
           action: 'generate_lead',
           category: 'Form',
           label: 'Sidebar Booking Widget',
-          value: 1, // Lead Value
-          trip_origin: 'Varanasi', // Implied
+          value: 1,
+          trip_origin: 'Varanasi',
           travel_date: formData.date,
           passenger_count: formData.passengers,
           source_widget: 'Sidebar Booking Widget',
           page_location: widgetPageUrl
         });
-
-        setTimeout(() => {
-          gtag.event({
-            action: 'whatsapp_redirect',
-            category: 'Conversion',
-            label: 'Sidebar Booking Widget Success',
-          });
-          window.open(data.whatsappLink, '_blank');
-        }, 1500);
         
         setFormData({
           name: '',
@@ -118,9 +117,20 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
         <div className="text-center p-6 bg-gradient-to-br from-green-50 to-emerald-50">
           <div className="text-4xl mb-3">✅</div>
           <h3 className="text-lg font-bold text-green-600 mb-2">Thank You!</h3>
-          <p className="text-sm text-gray-700">
+          <p className="text-sm text-gray-700 mb-3">
             We'll contact you shortly
           </p>
+          {whatsappLink && (
+            <a
+              href={whatsappLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => gtag.event({ action: 'whatsapp_redirect', category: 'Conversion', label: 'Sidebar Widget Success' })}
+              className="inline-flex items-center gap-2 px-4 py-2 bg-green-500 hover:bg-green-600 text-white text-sm font-semibold rounded-lg transition-all"
+            >
+              💬 WhatsApp
+            </a>
+          )}
         </div>
       </div>
     );

@@ -1,6 +1,6 @@
 // components/ServicePage/ServiceHero.jsx
 import Image from 'next/image';
-import { CONTACT, getCallTelHref } from '@/lib/contact';
+ import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export default function ServiceHero({ title, subtitle, heroImage, phone }) {
   return (

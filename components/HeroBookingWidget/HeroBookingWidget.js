@@ -79,9 +79,9 @@ export default function HeroBookingWidget() {
       return;
     }
 
-    // Phone validation (basic)
-    if (formData.phone.length < 10) {
-      setError('Please enter a valid phone number');
+    // Phone validation
+    if (!/^[6-9]\d{9}$/.test(formData.phone.replace(/\D/g, '').slice(-10))) {
+      setError('Please enter a valid 10-digit Indian phone number');
       setLoading(false);
       return;
     }
@@ -124,18 +124,7 @@ export default function HeroBookingWidget() {
           source_widget: 'Hero Booking Widget'
         });
 
-        // Redirect to WhatsApp after showing success
-        setTimeout(() => {
-          gtag.event({
-            action: 'whatsapp_redirect',
-            category: 'Conversion',
-            label: 'Hero Booking Widget Success',
-          });
-          const whatsappMessage = encodeURIComponent(
-            `Hi! I need a taxi from ${formData.pickup} to ${formData.destination} on ${formData.date} for ${formData.passengers} passenger(s). My name is ${formData.name}.`
-          );
-          window.open(getWhatsAppUrl(whatsappMessage), '_blank');
-        }, 2000);
+        // WhatsApp link already shown in success UI
       } else {
         setError(data.error || 'Something went wrong. Please try again.');
       }
@@ -180,13 +169,14 @@ export default function HeroBookingWidget() {
               Thank you, <strong>{formData.name}</strong>! We'll contact you shortly at <strong>{formData.phone}</strong>
             </p>
             <p className="text-sm text-gray-600 mb-6">
-              Redirecting to WhatsApp for instant confirmation...
+              Chat on WhatsApp for instant confirmation
             </p>
             <div className="flex flex-wrap justify-center gap-3">
               <a
                 href={getWhatsAppUrl(`Hi! I need a taxi from ${formData.pickup} to ${formData.destination} on ${formData.date}. My name is ${formData.name}.`)}
                 target="_blank"
                 rel="noopener noreferrer"
+                onClick={() => gtag.event({ action: 'whatsapp_redirect', category: 'Conversion', label: 'Hero Widget Success' })}
                 className="inline-flex items-center gap-2 px-6 py-3 bg-green-500 hover:bg-green-600 text-white font-semibold rounded-lg transition-all shadow-lg"
               >
                 💬 Chat on WhatsApp

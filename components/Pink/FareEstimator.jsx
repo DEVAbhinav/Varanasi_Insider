@@ -29,7 +29,7 @@ export default function FareEstimator() {
               <a href="tel:+919450401573">Get Fare Estimate</a>
             </button>
           </form>
-          <p className="mt-4 text-gray-600">Or <a href="https://wa.me/919450301573" className="text-green-500 font-bold hover:underline">Chat on WhatsApp</a></p>
+          <p className="mt-4 text-gray-600">Or <a href="https://wa.me/919935474730" className="text-green-500 font-bold hover:underline">Chat on WhatsApp</a></p>
         </div>
       </div>
     </div>
