@@ -953,7 +953,7 @@ Make Mauni Amavasya 2026 a life-changing spiritual milestone with pre-booked tra
 ### 🚖 Book Now – Special Mauni Amavasya Rates
 
 **📞 Call (Before Vow Begins!):** +91-80621-82380
-**📱 WhatsApp (Silent-Friendly):** [Click Here](https://wa.me/919450301573?text=Mauni%20Amavasya%20booking)
+**📱 WhatsApp (Silent-Friendly):** [Click Here](https://wa.me/919935474730?text=Mauni%20Amavasya%20booking)
 **🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/booking)
 
 ### Early Booking Benefits

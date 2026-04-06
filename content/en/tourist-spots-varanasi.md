@@ -89,27 +89,27 @@ faqSchema:
 ## 1. Dashashwamedh Ghat + Ganga Aarti
 📍 25km from airport | ₹690 taxi + boat ₹150 = ₹840 total
 ⏱️ 40 min drive | 📅 6:30 PM ceremony
-[**BOOK THIS PACKAGE**](https://wa.me/919450301573?text=Book%20Dashashwamedh%20Taxi%20Package)
+[**BOOK THIS PACKAGE**](https://wa.me/919935474730?text=Book%20Dashashwamedh%20Taxi%20Package)
 
 ## 2. Sarnath Buddhist Circuit
 📍 32km from airport | ₹690 taxi + ₹20 museum = ₹710 total
 ⏱️ 50 min drive | 🏛️ Dhamek Stupa + 4 temples
-[**BOOK THIS PACKAGE**](https://wa.me/919450301573?text=Book%20Sarnath%20Taxi%20Package)
+[**BOOK THIS PACKAGE**](https://wa.me/919935474730?text=Book%20Sarnath%20Taxi%20Package)
 
 ## 3. Kashi Vishwanath Temple
 📍 15km from airport | ₹600 taxi
 ⏱️ 25 min drive | 🕉️ #1 Sacred site
-[**BOOK THIS PACKAGE**](https://wa.me/919450301573?text=Book%20Kashi%20Vishwanath%20Taxi)
+[**BOOK THIS PACKAGE**](https://wa.me/919935474730?text=Book%20Kashi%20Vishwanath%20Taxi)
 
 ## 4. NaMo Ghat Light Show
 📍 24km from airport | ₹690 taxi
 ⏱️ 35 min drive | ⛲ 7:00 PM show
-[**BOOK THIS PACKAGE**](https://wa.me/919450301573?text=Book%20NaMo%20Ghat%20Taxi)
+[**BOOK THIS PACKAGE**](https://wa.me/919935474730?text=Book%20NaMo%20Ghat%20Taxi)
 
 ## 5. Assi Ghat Morning Aarti
 📍 28km from airport | ₹750 taxi
 ⏱️ 60 min drive | 🌅 5:00 AM ceremony
-[**BOOK THIS PACKAGE**](https://wa.me/919450301573?text=Book%20Assi%20Ghat%20Taxi)
+[**BOOK THIS PACKAGE**](https://wa.me/919935474730?text=Book%20Assi%20Ghat%20Taxi)
 
 ---
 
@@ -276,7 +276,7 @@ The 84 ghats of Varanasi form the city's spiritual backbone, stretching 7 kilome
 
 **What to Bring:** Warm clothing (October-February mornings), sunscreen, hat, camera
 
-**Booking:** Hotel concierge, [WhatsApp us for boats](https://wa.me/919616939293), or negotiate at ghats (price first!)
+**Booking:** Hotel concierge, [WhatsApp us for boats](https://wa.me/919935474730), or negotiate at ghats (price first!)
 
 > Complete boat guide: **[Sunrise Boat Ride Ganges](/en/sunrise-boat-ride-ganges)** and **[Morning Boat Ride Varanasi Price](/en/morning-boat-ride-varanasi-price)**
 

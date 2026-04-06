@@ -69,11 +69,11 @@ faqSchema:
 
 # Varanasi Airport to Dashashwamedh Ghat Taxi | ₹690 Flash Offer
 
-**Book Instant Now** | Call: [9450301573](tel:+918062182380) | WhatsApp: [wa.me/919450301573](https://wa.me/919450301573?text=Hi,%20I%20need%20taxi%20from%20airport%20to%20Dashashwamedh.%20What's%20my%20best%20time?)
+**Book Instant Now** | Call: [9450301573](tel:+918062182380) | WhatsApp: [wa.me/919935474730](https://wa.me/919935474730?text=Hi,%20I%20need%20taxi%20from%20airport%20to%20Dashashwamedh.%20What's%20my%20best%20time?)
 
 **Quick Facts:** 25 km • 40-55 minutes • ₹690-950 • 4.8★ Verified
 
-[**BOOK NOW - ₹690**](https://wa.me/919450301573?text=Hi,%20I%20need%20taxi%20from%20airport%20to%20Dashashwamedh.%20What's%20my%20best%20time?)
+[**BOOK NOW - ₹690**](https://wa.me/919935474730?text=Hi,%20I%20need%20taxi%20from%20airport%20to%20Dashashwamedh.%20What's%20my%20best%20time?)
 
 **Perfect for:** Catching 6:30 PM Ganga Aarti | Business travelers | First-time visitors
 
@@ -86,7 +86,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Dashashwamedh Ghat transfer
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Dashashwamedh%20Ghat)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Dashashwamedh%20Ghat)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby for Godowlia barricade).
 

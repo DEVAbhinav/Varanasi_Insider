@@ -93,7 +93,7 @@ The **varanasi airport to railway station distance** — or phrased the other wa
 
 ## Book your Varanasi Airport to Varanasi Junction transfer
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Varanasi%20Junction)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Varanasi%20Junction)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Cantt parao lane).
 

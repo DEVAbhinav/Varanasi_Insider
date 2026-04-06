@@ -166,7 +166,7 @@ A: Yes, call us for corporate/group rates.
 Experience professional, transparent, reliable taxi service in Varanasi.
 
 📞 **Call:** +91-8062182380 (24/7)
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919450301573?text=Book%20Taxi%20Service)
+📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Book%20Taxi%20Service)
 🌐 **Book Online:** Contact us for booking
 
 Your trusted taxi partner in Varanasi. ✓

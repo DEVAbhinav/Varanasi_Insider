@@ -117,7 +117,7 @@ Updated: Dec 2026 · 25–30 km · 40–45 min drive
 | Every airport destination page in one place | [Airport Transfer Directory](/en/city/varanasi/taxi/varanasi-airport-transfer-directory) |
 | Locality fare bands and price comparisons | **This page** |
 
-**One-tap booking (WhatsApp):** https://wa.me/919450301573?text=Need%20a%20Varanasi%20airport%20pickup%20today
+**One-tap booking (WhatsApp):** https://wa.me/919935474730?text=Need%20a%20Varanasi%20airport%20pickup%20today
 
 **Fastest response window:** 6am–11pm IST with 15-minute quote turnaround; share landing time + flight number for on-time dispatch.
 
@@ -157,7 +157,7 @@ Updated: Dec 2026 · 25–30 km · 40–45 min drive
   <p class="note">Rates include toll + airport entry. Pickup point: Arrivals Gate 3 beside Costa Coffee counter.</p>
   <p class="note">*Flash fare valid for weekday sedan drops confirmed within 2 hours of pickup, capped at 15-minute standby, and paused on festival blackout dates.</p>
   <p>
-    <a class="cta-button" href="https://wa.me/919450301573?text=Need%20a%20Varanasi%20airport%20pickup%20today&source=website&medium=guides&utm_source=website&utm_medium=guide&utm_campaign=airport-taxi" rel="nofollow noopener" target="_blank">WhatsApp one-tap booking</a>
+    <a class="cta-button" href="https://wa.me/919935474730?text=Need%20a%20Varanasi%20airport%20pickup%20today&source=website&medium=guides&utm_source=website&utm_medium=guide&utm_campaign=airport-taxi" rel="nofollow noopener" target="_blank">WhatsApp one-tap booking</a>
   </p>
 </div>
 

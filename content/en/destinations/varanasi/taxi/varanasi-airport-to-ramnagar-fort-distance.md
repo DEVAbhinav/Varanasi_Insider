@@ -49,7 +49,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Ramnagar Fort transfer
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Ramnagar%20Fort)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Ramnagar%20Fort)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, museum gate drop).
 

@@ -502,7 +502,7 @@ Fill out the inquiry form with:
 
 📞 **Phone:** [+91-8062182380](tel:+918062182380)
 
-💬 **WhatsApp:** [Chat Now](https://wa.me/919450301573?text=I%20want%20to%20book%20Varanasi%20Gaya%20Prayagraj%20tour%20package%20for%20elderly%20parents)
+💬 **WhatsApp:** [Chat Now](https://wa.me/919935474730?text=I%20want%20to%20book%20Varanasi%20Gaya%20Prayagraj%20tour%20package%20for%20elderly%20parents)
 
 📧 **Email:** info@kashitaxi.in
 

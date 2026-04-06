@@ -59,7 +59,7 @@ ctaSubtitle: "Share your arrival details and get a customized logistics plan wit
 - ✅ **Arrival playbook:** Timeline from wheels-down to hotel check-in.
 - ✅ **Permit checklist:** Temple manifests, night arrivals, festival barricades.
 - ✅ **Outstation pairing table:** Multi-city departure windows and route planning.
-- ✅ **One-touch dispatch:** [WhatsApp 94503 01573](https://wa.me/919450301573?text=Landing%20now%20-%20need%20VNS%20pickup) for instant coordination.
+- ✅ **One-touch dispatch:** [WhatsApp 94503 01573](https://wa.me/919935474730?text=Landing%20now%20-%20need%20VNS%20pickup) for instant coordination.
 
 **For detailed taxi pricing and fare comparisons**, visit our [Airport Taxi Price Chart](/en/varanasi-airport-taxi-price-guide).
 
@@ -81,7 +81,7 @@ ctaSubtitle: "Share your arrival details and get a customized logistics plan wit
 ## ☎️ Varanasi Airport Ops Desk & Real-Time Support
 
 - **Call:** [80621 82380](tel:+918062182380) (concierge & dispatch)
-- **WhatsApp:** [wa.me/919450301573](https://wa.me/919450301573?text=Landing%20at%20VNS%20-%20need%20transfer%20support)
+- **WhatsApp:** [wa.me/919935474730](https://wa.me/919935474730?text=Landing%20at%20VNS%20-%20need%20transfer%20support)
 - **Share:** Flight number · PAX count · luggage (hard case? duffels?) · mandatory halts · ghat entry preference
 
 Once logged, you get:

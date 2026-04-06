@@ -65,7 +65,7 @@ faqSchema:
       "serviceArea": {"@type": "City", "name": "Varanasi"},
       "availableChannel": {
         "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919450301573?text=Book%20Kedar%20Harishchandra%20taxi",
+        "serviceUrl": "https://wa.me/919935474730?text=Book%20Kedar%20Harishchandra%20taxi",
         "availableLanguage": ["hi", "en", "ta", "te", "kn", "ml"],
         "servicePhone": {"@type": "ContactPoint", "telephone": "+918062182380", "contactType": "reservations"}
       },
@@ -133,7 +133,7 @@ faqSchema:
 
 ## केदार/हरिश्चंद्र टैक्सी बुक करें
 - कॉल डिस्पैच: **[80621 82380](tel:+918062182380)**
-- व्हाट्सएप: **[wa.me/919450301573](https://wa.me/919450301573?text=Book%20Kedar%20Harishchandra%20taxi)**
+- व्हाट्सएप: **[wa.me/919935474730](https://wa.me/919935474730?text=Book%20Kedar%20Harishchandra%20taxi)**
 
 ## FAQs
 

@@ -22,7 +22,7 @@
   },
   "availableChannel": {
     "@type": "ServiceChannel",
-    "serviceUrl": "https://wa.me/919450301573?text=Book%20taxi%20at%20Varanasi%20Cantt",
+    "serviceUrl": "https://wa.me/919935474730?text=Book%20taxi%20at%20Varanasi%20Cantt",
     "availableLanguage": ["hi", "en"],
     "servicePhone": {
       "@type": "ContactPoint",

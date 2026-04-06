@@ -41,7 +41,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Mau taxi
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Mau)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Mau)**
 
 > **Tip:** For long family drives, request an Ertiga/Innova with working rear AC vents and confirm child-seat availability if needed.
 

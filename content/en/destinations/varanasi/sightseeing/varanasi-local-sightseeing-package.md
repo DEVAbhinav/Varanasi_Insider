@@ -144,7 +144,7 @@ If your trip is mainly inside Varanasi, stay on this page. Below you'll find pri
 **Extra Hours:** ₹250-400/hour depending on vehicle type  
 **Extra Kilometers:** ₹11-15/km beyond 40 km
 
-> **Book Half-Day Package:** WhatsApp **[+91 9450301573](https://wa.me/919450301573)** with your travel date and passenger count.
+> **Book Half-Day Package:** WhatsApp **[+91 9450301573](https://wa.me/919935474730)** with your travel date and passenger count.
 
 ---
 
@@ -567,7 +567,7 @@ Professional photography service to capture your Varanasi memories:
 Ready to explore the spiritual heart of India without any hassle? Our Varanasi local sightseeing packages offer the perfect blend of comfort, convenience, and comprehensive coverage of all major attractions.
 
 **Instant Booking:**
-- **WhatsApp:** [+91 9450301573](https://wa.me/919450301573)
+- **WhatsApp:** [+91 9450301573](https://wa.me/919935474730)
 - **Call:** 80621 82380
 - **Website:** www.kashitaxi.in
 

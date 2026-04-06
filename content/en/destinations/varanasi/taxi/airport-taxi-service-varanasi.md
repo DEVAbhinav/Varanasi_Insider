@@ -96,7 +96,7 @@ The airport cluster includes a fare page, a logistics hub, a route directory, an
 ## Book Your Varanasi Airport Taxi Service
 
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp booking: **[wa.me/919450301573](https://wa.me/919450301573?text=Need%20Varanasi%20airport%20taxi%20service)**
+- WhatsApp booking: **[wa.me/919935474730](https://wa.me/919935474730?text=Need%20Varanasi%20airport%20taxi%20service)**
 
 ## FAQ
 

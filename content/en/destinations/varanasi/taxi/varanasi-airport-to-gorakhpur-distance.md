@@ -41,7 +41,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Gorakhpur taxi
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Gorakhpur)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Gorakhpur)**
 
 > **Tip:** For darshan at Gorakhnath Temple, inform your driver about aarti timing so he can choose the best arrival window and parking.
 

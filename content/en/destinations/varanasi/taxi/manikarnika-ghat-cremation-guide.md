@@ -62,7 +62,7 @@ faqSchema:
       },
       "availableChannel": {
         "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919450301573?text=Visit%20Manikarnika%20Ghat",
+        "serviceUrl": "https://wa.me/919935474730?text=Visit%20Manikarnika%20Ghat",
         "availableLanguage": ["en", "hi"],
         "servicePhone": {
           "@type": "ContactPoint",
@@ -141,7 +141,7 @@ Manikarnika is a sacred cremation ground, not a tourist spot. We drop at **Maida
 
 ## Book Manikarnika access
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp: **[wa.me/919450301573](https://wa.me/919450301573?text=Visit%20Manikarnika%20Ghat)**
+- WhatsApp: **[wa.me/919935474730](https://wa.me/919935474730?text=Visit%20Manikarnika%20Ghat)**
 
 ## Manikarnika FAQ
 

@@ -225,7 +225,7 @@ A: Call us for custom quotes. Multi-day trips get better rates.
 Experience honest, fixed-price taxi service. No surprises, no negotiations.
 
 📞 **Call:** +91-8062182380 (24/7)
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919450301573?text=Check%20Taxi%20Rates)
+📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Check%20Taxi%20Rates)
 🌐 **Book Online:** Contact us for transparent pricing
 
 Clear rates, professional service, guaranteed satisfaction. ✓

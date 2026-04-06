@@ -386,7 +386,7 @@ faqSchema:
 
 **Step 1: Contact Us**
 - Phone: [80621 82380](tel:+918062182380)
-- WhatsApp: [+91 9450301573](https://wa.me/919450301573?text=Book%20Varanasi%20to%20Kathmandu%20taxi)
+- WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Kathmandu%20taxi)
 
 **Step 2: Share Details**
 - Travel dates
@@ -428,6 +428,6 @@ faqSchema:
 **Ready for your Nepal adventure from Varanasi?**  
 Book your cross-border journey today!  
 📞 Call: [80621 82380](tel:+918062182380)  
-💬 WhatsApp: [+91 9450301573](https://wa.me/919450301573?text=Book%20Kathmandu%20trip)
+💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Kathmandu%20trip)
 
 **International Travel Made Easy!** 🇮🇳 → 🇳🇵

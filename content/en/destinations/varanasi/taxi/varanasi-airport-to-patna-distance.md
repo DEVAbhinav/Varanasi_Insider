@@ -41,7 +41,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Patna taxi
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Patna)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Patna)**
 
 > **Tip:** For long-haul legs like this, choose a sedan or Innova over a hatchback for better seating comfort and luggage handling.
 

@@ -704,7 +704,7 @@ Make Kartik Purnima 2026 a spiritually transformative experience with hassle-fre
 ### 🚖 Book Your Taxi Now
 
 **📞 Call:** +91-80621-82380 (24/7)  
-**📱 WhatsApp:** [Click to Chat](https://wa.me/919450301573)  
+**📱 WhatsApp:** [Click to Chat](https://wa.me/919935474730)  
 **🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/booking)
 
 **Special Kartik Purnima Offers:**

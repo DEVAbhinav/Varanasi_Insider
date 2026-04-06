@@ -390,7 +390,7 @@ Evening rides offer:
 
 **How to Book:**
 
-1. **Online Pre-booking**: [WhatsApp Kashi Taxi](https://wa.me/919616939293) for guaranteed availability and fixed pricing
+1. **Online Pre-booking**: [WhatsApp Kashi Taxi](https://wa.me/919935474730) for guaranteed availability and fixed pricing
 2. **Hotel Concierge**: Many hotels arrange boats with trusted operators
 3. **On-the-spot at Ghats**: Available at Assi, Dashashwamedh, and Rajendra Prasad Ghats. Always **negotiate price before boarding**
 
@@ -851,7 +851,7 @@ Hiring a licensed government-approved guide significantly enhances understanding
 - Official tourism counter at the airport or railway station
 - Government-certified guide associations
 - Hotel concierge referrals
-- [WhatsApp Kashi Taxi](https://wa.me/919616939293) for vetted, certified guides
+- [WhatsApp Kashi Taxi](https://wa.me/919935474730) for vetted, certified guides
 
 **Warning**: Avoid unlicensed "lapka" guides who approach you on the streets. They often lead tourists to shops where they receive commissions, inflate prices, and may not provide accurate information.
 

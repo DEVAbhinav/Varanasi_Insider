@@ -97,7 +97,7 @@ faq:
   <p class="note">Rates include tolls + airport entry. Pickup point: Arrivals Gate 3 beside Costa Coffee counter.</p>
   <p class="note">*Flash fare valid for weekday sedan drops confirmed within 2 hours of pickup, capped at 15-minute standby, paused on festival blackout dates.</p>
   <p>
-    <a class="cta-button" href="https://wa.me/919450301573?text=Lock%20Varanasi%20airport%20to%20city%20cab%20fare&source=website&medium=services&utm_source=website&utm_medium=service&utm_campaign=airport-to-city" rel="nofollow noopener" target="_blank">WhatsApp to lock today’s fare</a>
+    <a class="cta-button" href="https://wa.me/919935474730?text=Lock%20Varanasi%20airport%20to%20city%20cab%20fare&source=website&medium=services&utm_source=website&utm_medium=service&utm_campaign=airport-to-city" rel="nofollow noopener" target="_blank">WhatsApp to lock today’s fare</a>
   </p>
 </div>
 
@@ -188,7 +188,7 @@ Need a quote faster than email? Tap the WhatsApp button below, share your arriva
 <div class="inline-cta" role="region" aria-label="Book airport to city cab">
   <h3>Skip surge & queues — pre-book now</h3>
   <p>Send your flight details. We lock today’s fare, assign a vetted driver, and SMS the plate 12 hours before touchdown.</p>
-    <a class="btn-primary" href="https://wa.me/919450301573?text=Need%20airport%20to%20city%20cab%20in%20Varanasi&source=website&medium=services&utm_source=website&utm_medium=service&utm_campaign=airport-to-city" rel="nofollow noopener" target="_blank">WhatsApp booking team (+91 94503 01573)</a>
+    <a class="btn-primary" href="https://wa.me/919935474730?text=Need%20airport%20to%20city%20cab%20in%20Varanasi&source=website&medium=services&utm_source=website&utm_medium=service&utm_campaign=airport-to-city" rel="nofollow noopener" target="_blank">WhatsApp booking team (+91 94503 01573)</a>
 </div>
 
 ## Surge-Protection FAQ

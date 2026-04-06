@@ -43,7 +43,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Jaunpur taxi
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Jaunpur)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Jaunpur)**
 
 > **Tip:** For late-night landings, share your drop location (old city vs new colonies) so the driver can choose wider roads and safer parking spots.
 

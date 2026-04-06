@@ -38,7 +38,7 @@ faqSchema:
 
 > TL;DR: Kanwar Yatra in Varanasi 2026 requires larger transfer buffers, lighter schedules, and verified last-mile access.
 
-Need a route-aware pickup plan during Kanwar dates? [WhatsApp us](https://wa.me/919450301573?text=Need%20Kanwar%20Yatra%20pickup%20and%20transfer%20planning%20in%20Varanasi).
+Need a route-aware pickup plan during Kanwar dates? [WhatsApp us](https://wa.me/919935474730?text=Need%20Kanwar%20Yatra%20pickup%20and%20transfer%20planning%20in%20Varanasi).
 
 ## What this guide helps you avoid
 

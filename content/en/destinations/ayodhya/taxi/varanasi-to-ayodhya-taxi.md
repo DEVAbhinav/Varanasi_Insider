@@ -208,7 +208,7 @@ Choose from:
 - Early morning 6 AM departure
 - Temple darshan + lunch included
 - Same-day return by 8 PM
-- **Book Now**: WhatsApp [+91 9450301573](https://wa.me/919450301573?text=Ram%20Darshan%20Special)
+- **Book Now**: WhatsApp [+91 9450301573](https://wa.me/919935474730?text=Ram%20Darshan%20Special)
 
 **Offer 2: First-Time Pilgrim Discount**
 - **15% off** on first booking
@@ -324,7 +324,7 @@ Choose from:
 
 **Step 1: Contact Us**
 - Phone: [80621 82380](tel:+918062182380)
-- WhatsApp: [+91 9450301573](https://wa.me/919450301573?text=Book%20Varanasi%20to%20Ayodhya%20taxi)
+- WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Ayodhya%20taxi)
 - Or fill online booking form
 
 **Step 2: Share Details**
@@ -389,4 +389,4 @@ Choose from:
 **Ready to visit Ram Janmabhoomi?**  
 Book your Varanasi to Ayodhya taxi now!  
 📞 Call: [80621 82380](tel:+918062182380)  
-💬 WhatsApp: [+91 9450301573](https://wa.me/919450301573?text=Book%20Ram%20Mandir%20taxi)
+💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Ram%20Mandir%20taxi)

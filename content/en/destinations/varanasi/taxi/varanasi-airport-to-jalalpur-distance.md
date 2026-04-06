@@ -40,7 +40,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Jalalpur taxi
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Jalalpur)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Jalalpur)**
 
 > **Tip:** Jalalpur has multiple villages and localities across districts—always share your full address and nearby landmark when booking.
 

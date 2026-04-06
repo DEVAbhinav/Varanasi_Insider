@@ -67,9 +67,9 @@ location:
 
 **35 Minutes to Light Show** | Fastest ghat route
 
-[**Reserve Your Taxi - ₹690**](https://wa.me/919450301573?text=Airport%20to%20NaMo%20Ghat)
+[**Reserve Your Taxi - ₹690**](https://wa.me/919935474730?text=Airport%20to%20NaMo%20Ghat)
 ↓
-WhatsApp booking: [wa.me/919450301573](https://wa.me/919450301573?text=Airport%20to%20NaMo%20Ghat)
+WhatsApp booking: [wa.me/919935474730](https://wa.me/919935474730?text=Airport%20to%20NaMo%20Ghat)
 
 **Why choose us:**
 ✓ 4.7★ rated by 64+ travelers
@@ -86,7 +86,7 @@ WhatsApp booking: [wa.me/919450301573](https://wa.me/919450301573?text=Airport%2
 
 ## Book your Varanasi Airport to NaMo Ghat transfer
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20NaMo%20Ghat)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20NaMo%20Ghat)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at NaMo promenade parking).
 

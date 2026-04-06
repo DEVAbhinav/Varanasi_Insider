@@ -41,7 +41,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Deoria taxi
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Deoria)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Deoria)**
 
 > **Tip:** For overnight drives or family trips, split the journey with planned dhaba or hotel halts and inform the operator in advance.
 

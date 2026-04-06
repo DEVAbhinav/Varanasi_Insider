@@ -62,7 +62,7 @@ faqSchema:
       },
       "availableChannel": {
         "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919450301573?text=Book%20Shivala%20Ghat%20taxi",
+        "serviceUrl": "https://wa.me/919935474730?text=Book%20Shivala%20Ghat%20taxi",
         "availableLanguage": ["en", "hi"],
         "servicePhone": {
           "@type": "ContactPoint",
@@ -141,7 +141,7 @@ Shivala Ghat is a peaceful stay cluster with boutique hotels and meditation-frie
 
 ## Book a Shivala Ghat taxi now
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp: **[wa.me/919450301573](https://wa.me/919450301573?text=Book%20taxi%20to%20Shivala%20Ghat)**
+- WhatsApp: **[wa.me/919935474730](https://wa.me/919935474730?text=Book%20taxi%20to%20Shivala%20Ghat)**
 
 ## Shivala Ghat taxi FAQs
 

@@ -38,7 +38,7 @@ faqSchema:
 
 > TL;DR: Langda mango season in Varanasi 2026 is strongest in late June and July, with the best buys coming from fresh lots, not rushed random purchases.
 
-Planning a food-first city run with one market stop and simple transport? [WhatsApp us](https://wa.me/919450301573?text=Need%20a%20Varanasi%20city%20cab%20for%20a%20food%20day%20plan).
+Planning a food-first city run with one market stop and simple transport? [WhatsApp us](https://wa.me/919935474730?text=Need%20a%20Varanasi%20city%20cab%20for%20a%20food%20day%20plan).
 
 ## Why this matters
 

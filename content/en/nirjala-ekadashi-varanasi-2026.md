@@ -38,7 +38,7 @@ faqSchema:
 
 > TL;DR: Nirjala Ekadashi in Varanasi 2026 is best experienced with one early temple plan, a long midday break, and strict heat caution.
 
-Need help matching darshan timing with pickup and return planning? [WhatsApp us](https://wa.me/919450301573?text=Need%20Nirjala%20Ekadashi%20darshan%20and%20cab%20planning).
+Need help matching darshan timing with pickup and return planning? [WhatsApp us](https://wa.me/919935474730?text=Need%20Nirjala%20Ekadashi%20darshan%20and%20cab%20planning).
 
 ## Nirjala Ekadashi 2026 date and context
 

@@ -62,7 +62,7 @@ faqSchema:
       },
       "availableChannel": {
         "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919450301573?text=Book%20Kedar%20Harishchandra%20taxi",
+        "serviceUrl": "https://wa.me/919935474730?text=Book%20Kedar%20Harishchandra%20taxi",
         "availableLanguage": ["en", "hi", "ta", "te", "kn", "ml"],
         "servicePhone": {
           "@type": "ContactPoint",
@@ -140,7 +140,7 @@ Kedar and Harishchandra sit in Varanasi's spiritual core. Lanes are narrow, crow
 
 ## Book a Kedar/Harishchandra taxi
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp: **[wa.me/919450301573](https://wa.me/919450301573?text=Book%20Kedar%20Harishchandra%20taxi)**
+- WhatsApp: **[wa.me/919935474730](https://wa.me/919935474730?text=Book%20Kedar%20Harishchandra%20taxi)**
 
 ## FAQs about Kedar & Harishchandra taxi service
 

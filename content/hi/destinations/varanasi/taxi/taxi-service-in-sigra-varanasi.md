@@ -62,7 +62,7 @@ faqSchema:
       },
       "availableChannel": {
         "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919450301573?text=Book%20cab%20from%20Sigra",
+        "serviceUrl": "https://wa.me/919935474730?text=Book%20cab%20from%20Sigra",
         "availableLanguage": ["hi", "en"],
         "servicePhone": {
           "@type": "ContactPoint",
@@ -161,7 +161,7 @@ faqSchema:
 
 ## अभी सिगरा से कैब बुक करें
 - कॉल डिस्पैच: **[80621 82380](tel:+918062182380)**
-- व्हाट्सएप: **[wa.me/919450301573](https://wa.me/919450301573?text=Book%20cab%20from%20Sigra)**
+- व्हाट्सएप: **[wa.me/919935474730](https://wa.me/919935474730?text=Book%20cab%20from%20Sigra)**
 - भुगतान: कैश, UPI, कार्ड; रसीद उपलब्ध।
 
 ## सिगरा टैक्सी FAQs

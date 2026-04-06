@@ -6,7 +6,7 @@ lastUpdated: "2026-11-22"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS→Assi Ghat Taxi ₹800 | Subah-e-Banaras, BHU, Café Access"
-metaDescription: "27km VNS to Assi Ghat in 40-60min. ₹800 sedan via BHU-Lanka. Pre-dawn pickup for Subah-e-Banaras (5:15 AM). Book: wa.me/919450301573"
+metaDescription: "27km VNS to Assi Ghat in 40-60min. ₹800 sedan via BHU-Lanka. Pre-dawn pickup for Subah-e-Banaras (5:15 AM). Book: wa.me/919935474730"
 description: "Catch morning aarti! Airport to Assi Ghat taxi at ₹800. 27km, 40-60min. Pre-dawn pickups for Subah-e-Banaras. Café culture access. Book: 80621 82380."
 keywords:
   - "varanasi airport to assi ghat distance"
@@ -49,7 +49,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Assi Ghat transfer
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Assi%20Ghat)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Assi%20Ghat)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby for Assi plaza).
 

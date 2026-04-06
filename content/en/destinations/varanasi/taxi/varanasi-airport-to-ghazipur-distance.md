@@ -41,7 +41,7 @@ faqSchema:
 
 ## Book your Varanasi Airport to Ghazipur taxi
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Ghazipur)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Ghazipur)**
 
 > **Tip:** Share whether you are heading to city centre, cantonment, or Ganga-side ghats so your driver can plan the cleanest entry route.
 

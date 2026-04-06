@@ -572,7 +572,7 @@ Regular maintenance. Vehicles replaced every 150,000 km or 5 years. Clean interi
 
 📞 **Phone:** [+91-8062182380](tel:+918062182380)
 
-💬 **WhatsApp:** [Chat Now](https://wa.me/919450301573?text=I%20want%20to%20book%20Varanasi%20to%20Gaya%20taxi)
+💬 **WhatsApp:** [Chat Now](https://wa.me/919935474730?text=I%20want%20to%20book%20Varanasi%20to%20Gaya%20taxi)
 
 📧 **Email:** info@kashitaxi.in
 
@@ -582,10 +582,10 @@ Regular maintenance. Vehicles replaced every 150,000 km or 5 years. Clean interi
 
 | Vehicle | Price | Book Now |
 |---------|-------|----------|
-| **Sedan** | ₹2,850 | [Book Sedan](https://wa.me/919450301573?text=Book%20Sedan%20Varanasi%20to%20Gaya) |
-| **SUV** | ₹4,200 | [Book SUV](https://wa.me/919450301573?text=Book%20SUV%20Varanasi%20to%20Gaya) |
-| **Innova Crysta** | ₹6,500 | [Book Innova](https://wa.me/919450301573?text=Book%20Innova%20Varanasi%20to%20Gaya) |
-| **Tempo Traveller** | ₹1,833/person | [Book Tempo](https://wa.me/919450301573?text=Book%20Tempo%20Traveller%20Varanasi%20to%20Gaya) |
+| **Sedan** | ₹2,850 | [Book Sedan](https://wa.me/919935474730?text=Book%20Sedan%20Varanasi%20to%20Gaya) |
+| **SUV** | ₹4,200 | [Book SUV](https://wa.me/919935474730?text=Book%20SUV%20Varanasi%20to%20Gaya) |
+| **Innova Crysta** | ₹6,500 | [Book Innova](https://wa.me/919935474730?text=Book%20Innova%20Varanasi%20to%20Gaya) |
+| **Tempo Traveller** | ₹1,833/person | [Book Tempo](https://wa.me/919935474730?text=Book%20Tempo%20Traveller%20Varanasi%20to%20Gaya) |
 
 ---
 

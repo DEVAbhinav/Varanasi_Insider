@@ -85,7 +85,7 @@ The evening Ganga Aarti at Dashashwamedh Ghat is Varanasi's most famous ceremony
 | A one-day city tour that ends at Ganga Aarti | [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) |
 | Late-evening pickup, drop or station/airport transfer | [24/7 Taxi Service](/en/city/varanasi/taxi/24-7-taxi-varanasi) |
 
-Need a direct quote for cab plus boat coordination? [WhatsApp us](https://wa.me/919450301573?text=Need%20Dashashwamedh%20Ganga%20Aarti%20cab%20and%20boat%20help).
+Need a direct quote for cab plus boat coordination? [WhatsApp us](https://wa.me/919935474730?text=Need%20Dashashwamedh%20Ganga%20Aarti%20cab%20and%20boat%20help).
 
 Want to combine Kashi Vishwanath, pickup, walking, return, and evening Aarti without confusion? See:
 

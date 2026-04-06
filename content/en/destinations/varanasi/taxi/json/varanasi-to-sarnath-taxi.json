@@ -32,7 +32,7 @@
       },
       "openingHours": "Mo-Su 00:00-24:00",
       "sameAs": [
-        "https://wa.me/919450301573",
+        "https://wa.me/919935474730",
         "https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
       ]
     },
@@ -57,7 +57,7 @@
       ],
       "availableChannel": {
         "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919450301573?text=Book%20Varanasi%20to%20Sarnath%20Taxi",
+        "serviceUrl": "https://wa.me/919935474730?text=Book%20Varanasi%20to%20Sarnath%20Taxi",
         "availableLanguage": [
           "en",
           "hi"

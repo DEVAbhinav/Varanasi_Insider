@@ -75,7 +75,7 @@ location:
 
 **The distance from Varanasi Airport (VNS) to Sarnath is 32 km via Ring Road and Sarnath Road, and the drive typically takes 50–60 minutes in normal traffic.**
 
-**→ [BOOK SARNATH TAXI NOW](https://wa.me/919450301573?text=Airport%20pickup%20for%20Sarnath)** | Flash: ₹690 | Call: [9450301573](tel:+918062182380)
+**→ [BOOK SARNATH TAXI NOW](https://wa.me/919935474730?text=Airport%20pickup%20for%20Sarnath)** | Flash: ₹690 | Call: [9450301573](tel:+918062182380)
 
 | Key fact | Detail |
 | --- | --- |
@@ -86,7 +86,7 @@ location:
 
 ## Book your Varanasi Airport to Sarnath transfer
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Sarnath)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Sarnath)**
 
 ## Varanasi Airport to Sarnath taxi fare
 - **FLASH RATE: ₹690** (Book within 2 hours of pickup)

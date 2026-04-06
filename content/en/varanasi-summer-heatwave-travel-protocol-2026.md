@@ -38,7 +38,7 @@ faqSchema:
 
 > TL;DR: Varanasi summer heatwave travel in 2026 is safest with early starts, midday recovery, steady hydration, and fewer daily stops.
 
-Need a low-heat pickup plan for temple or airport movement? [WhatsApp us](https://wa.me/919450301573?text=Need%20a%20low-heat%20Varanasi%20cab%20plan%20for%20summer%20travel).
+Need a low-heat pickup plan for temple or airport movement? [WhatsApp us](https://wa.me/919935474730?text=Need%20a%20low-heat%20Varanasi%20cab%20plan%20for%20summer%20travel).
 
 ## Why Varanasi summer heat feels harder than expected
 

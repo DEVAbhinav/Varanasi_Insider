@@ -89,7 +89,7 @@ location:
         "availabilityStarts": "2026-11-22",
         "potentialAction": {
           "@type": "ReserveAction",
-          "target": "https://wa.me/919450301573?text=Airport%20to%20Kashi%20Vishwanath"
+          "target": "https://wa.me/919935474730?text=Airport%20to%20Kashi%20Vishwanath"
         }
       },
       {
@@ -126,7 +126,7 @@ location:
 
 ## Book your Varanasi Airport to Kashi Vishwanath transfer
 - Call dispatch: **[80621 82380](tel:+918062182380)**
-- WhatsApp confirmation: **[wa.me/919450301573](https://wa.me/919450301573?text=Airport%20pickup%20for%20Kashi%20Vishwanath)**
+- WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Kashi%20Vishwanath)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, corridor-ready).
 

@@ -62,7 +62,7 @@ faqSchema:
       },
       "availableChannel": {
         "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919450301573?text=Book%20taxi%20at%20Varanasi%20Cantt",
+        "serviceUrl": "https://wa.me/919935474730?text=Book%20taxi%20at%20Varanasi%20Cantt",
         "availableLanguage": ["hi", "en"],
         "servicePhone": {
           "@type": "ContactPoint",
@@ -160,7 +160,7 @@ faqSchema:
 
 ## कैंट स्टेशन के लिए टैक्सी बुक करें
 - कॉल डिस्पैच: **[80621 82380](tel:+918062182380)**
-- व्हाट्सएप: **[wa.me/919450301573](https://wa.me/919450301573?text=Book%20taxi%20at%20Varanasi%20Cantt)**
+- व्हाट्सएप: **[wa.me/919935474730](https://wa.me/919935474730?text=Book%20taxi%20at%20Varanasi%20Cantt)**
 - PNR और कोच पोज़िशन साझा करें ताकि सही गेट/पिकअप साइड तय हो सके।
 
 ## कैंट स्टेशन टैक्सी FAQs

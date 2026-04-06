@@ -222,7 +222,7 @@ A: Extra stops charged at ₹100-150 per stop, or included in our hourly rate fo
 Flexible, transparent, professional taxi service for all your Varanasi travel needs.
 
 📞 **Call:** +91-8062182380 (24/7)
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919450301573?text=Book%20One-Way%20or%20Round-Trip%20Taxi)
+📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Book%20One-Way%20or%20Round-Trip%20Taxi)
 🌐 **Book Online:** Contact us for flexible booking
 
 Your flexible travel solution awaits. ✓

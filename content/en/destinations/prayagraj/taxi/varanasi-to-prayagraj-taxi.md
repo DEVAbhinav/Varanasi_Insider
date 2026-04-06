@@ -274,7 +274,7 @@ Plan temple visits early in the morning or post-lunch to avoid heavy queues at p
 
 **Contact Us:**
 - Phone: [80621 82380](tel:+918062182380)
-- WhatsApp: [+91 9450301573](https://wa.me/919450301573?text=Book%20Varanasi%20to%20Prayagraj%20taxi)
+- WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Prayagraj%20taxi)
 
 ## Safety and Booking Tips
 

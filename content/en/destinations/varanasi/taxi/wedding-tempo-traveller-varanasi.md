@@ -235,7 +235,7 @@ A: Yes, hourly rates apply with 4-hour minimum. Same day booking available if ve
 Make your special occasion memorable with KashiTaxi's professional, luxurious transportation.
 
 📞 **Call:** +91-8062182380 (24/7)
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919450301573?text=Book%20Wedding%20or%20Group%20Transport)
+📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Book%20Wedding%20or%20Group%20Transport)
 🌐 **Book Online:** Contact us for group booking
 
 Celebrate with style and comfort. ✓

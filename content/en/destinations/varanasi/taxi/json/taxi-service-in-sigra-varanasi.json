@@ -22,7 +22,7 @@
   },
   "availableChannel": {
     "@type": "ServiceChannel",
-    "serviceUrl": "https://wa.me/919450301573?text=Book%20cab%20from%20Sigra",
+    "serviceUrl": "https://wa.me/919935474730?text=Book%20cab%20from%20Sigra",
     "availableLanguage": ["en", "hi"],
     "servicePhone": {
       "@type": "ContactPoint",

@@ -81,7 +81,7 @@ Looking for **sarnath opening time**, **sarnath varanasi timings**, **sarnath te
 | Direct cab only from Varanasi to Sarnath | [Varanasi to Sarnath Taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) |
 | Group vehicle for Buddhist circuit | [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) |
 
-Need help matching timing with a cab or one-day route? [WhatsApp us](https://wa.me/919450301573?text=Need%20Sarnath%20timing%20plus%20cab%20planning).
+Need help matching timing with a cab or one-day route? [WhatsApp us](https://wa.me/919935474730?text=Need%20Sarnath%20timing%20plus%20cab%20planning).
 
 ---
 

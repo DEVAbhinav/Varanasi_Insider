@@ -132,7 +132,7 @@ This guide covers **Assi Ghat timing, seating, festival shifts, and photo-planni
 | One-day Varanasi city tour that includes ghats and temples | [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) |
 | Pre-dawn pickup or late return | [24/7 Taxi Service](/en/city/varanasi/taxi/24-7-taxi-varanasi) |
 
-Need pickup plus boat coordination? [WhatsApp us](https://wa.me/919450301573?text=Need%20Assi%20Ghat%20morning%20pickup%20and%20boat%20help).
+Need pickup plus boat coordination? [WhatsApp us](https://wa.me/919935474730?text=Need%20Assi%20Ghat%20morning%20pickup%20and%20boat%20help).
 
 Want **Kashi Vishwanath + evening Aarti + pickup + boat** as one coordinated package? See:
 

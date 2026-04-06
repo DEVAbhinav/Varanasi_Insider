@@ -1051,7 +1051,7 @@ Don't just witness Makar Sankranti—**immerse yourself** in India's most joyous
 ### 🚖 Book Your Sankranti Taxi Now
 
 **📞 Call:** +91-80621-82380 (24/7)
-**📱 WhatsApp:** [Click to Chat](https://wa.me/919450301573?text=Makar%20Sankranti%20booking)
+**📱 WhatsApp:** [Click to Chat](https://wa.me/919935474730?text=Makar%20Sankranti%20booking)
 **🌐 Online Booking:** [www.kashitaxi.in/booking](https://www.kashitaxi.in/booking)
 
 ### Early Bird Benefits (Book Before Jan 5, 2026)

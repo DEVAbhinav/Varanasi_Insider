@@ -38,7 +38,7 @@ faqSchema:
 
 > TL;DR: Jagannath Rath Yatra in Varanasi 2026 is best handled with one viewing point, early arrival, and a confirmed exit plan.
 
-Need help matching festival timing with pickup and return planning? [WhatsApp us](https://wa.me/919450301573?text=Need%20Jagannath%20Rath%20Yatra%20pickup%20and%20return%20planning).
+Need help matching festival timing with pickup and return planning? [WhatsApp us](https://wa.me/919935474730?text=Need%20Jagannath%20Rath%20Yatra%20pickup%20and%20return%20planning).
 
 ## Before you go
 
