@@ -12,6 +12,15 @@ function escapeHtml(str) {
     .replace(/'/g, '&#39;');
 }
 
+function sanitizeUrl(url) {
+  if (!url) return '';
+  try {
+    const parsed = new URL(url);
+    if (parsed.protocol === 'http:' || parsed.protocol === 'https:') return url;
+  } catch (_) {}
+  return '';
+}
+
 const CONTACT = {
   callNumberE164: '+918062182380',
   callNumberDisplay: '+91 80621 82380',
@@ -105,7 +114,7 @@ module.exports = async function (context, req) {
     const safeMessage = escapeHtml(message);
     const safeSource = escapeHtml(source);
     const safeParentPageTitle = escapeHtml(parentPageTitle);
-    const safeParentPageUrl = escapeHtml(parentPageUrl);
+    const safeParentPageUrl = escapeHtml(sanitizeUrl(parentPageUrl));
 
     // Initialize Resend
     const resend = new Resend(process.env.RESEND_API_KEY);
