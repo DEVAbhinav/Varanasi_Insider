@@ -26,7 +26,7 @@ const fadeUp = {
 
 const currency = (n) => `₹${Number(n || 0).toLocaleString("en-IN")}`;
 const withBuffer = (n, pct = 10) => Math.round(Number(n || 0) * (1 + pct / 100));
-const waLink = (phone, text) => `https://wa.me/91${phone}?text=${encodeURIComponent(text)}`;
+const waLink = (text) => `${CONTACT.whatsappUrl}?text=${encodeURIComponent(text)}`;
 
 export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPackages, pageLang, pageSlug, alternateLanguages = [] }) {
   const { title, subtitle, heroImage, coverAlt, phone = CONTACT.callNumberRaw, components, tiers = [], addOns = [], vehicles = [], seasonNotes = {}, breadcrumbs = [], faqs = [] } = pkgData || {};
@@ -53,7 +53,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
       <div className="fixed inset-x-0 bottom-0 z-40 border-t bg-background/85 backdrop-blur md:hidden">
         <div className="mx-auto max-w-6xl px-4 py-3 flex gap-2">
           <Button asChild className="flex-1">
-            <a aria-label="WhatsApp Now" href={waLink(phone, `Hi, I want to book ${title || "a package"}`)}>WhatsApp</a>
+            <a aria-label="WhatsApp Now" href={waLink(`Hi, I want to book ${title || "a package"}`)}>WhatsApp</a>
           </Button>
           <Button asChild variant="secondary" className="flex-1">
             <a aria-label="Call now" href={getCallTelHref(phone)}>Call</a>
@@ -65,7 +65,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
       <div className="hidden md:block fixed right-6 bottom-6 z-40">
         <div className="flex flex-col gap-2">
           <Button size="lg" asChild>
-            <a aria-label="WhatsApp Now" href={waLink(phone, `Hi, I want to book ${title || "a package"}`)}>WhatsApp</a>
+            <a aria-label="WhatsApp Now" href={waLink(`Hi, I want to book ${title || "a package"}`)}>WhatsApp</a>
           </Button>
           <Button size="lg" variant="secondary" asChild>
             <a aria-label="Call now" href={getCallTelHref(phone)}>Call</a>
