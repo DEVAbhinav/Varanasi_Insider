@@ -50,7 +50,7 @@ export default function CTASection({
             Call Now
           </a>
           <a
-            href={`https://wa.me/91${phone}`}
+            href={CONTACT.whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-5 py-3 bg-green-600 text-white font-bold rounded-lg hover:bg-green-700 transition-all transform hover:scale-105 shadow-lg"

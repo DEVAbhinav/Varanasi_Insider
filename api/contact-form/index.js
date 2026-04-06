@@ -2,6 +2,18 @@ const { Resend } = require('resend');
 const fs = require('fs').promises;
 const path = require('path');
 
+const ALLOWED_ORIGIN = 'https://www.kashitaxi.in';
+
+function escapeHtml(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 const CONTACT = {
   callNumberE164: '+918062182380',
   callNumberDisplay: '+91 80621 82380',
@@ -42,7 +54,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 200,
       headers: {
-        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
         'Access-Control-Allow-Methods': 'POST, OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type',
       },
@@ -56,7 +68,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 405,
       headers: {
-        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({ error: 'Method not allowed' }),
@@ -73,7 +85,7 @@ module.exports = async function (context, req) {
       context.res = {
         status: 400,
         headers: {
-          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({ error: 'Name and phone are required' }),
@@ -84,6 +96,18 @@ module.exports = async function (context, req) {
     const normalizedPhone = normalizePhoneNumber(phone);
     const whatsappHref = normalizedPhone ? `https://wa.me/${normalizedPhone}` : null;
     const telHref = normalizedPhone ? `tel:+${normalizedPhone}` : null;
+
+    // Sanitize user inputs for safe HTML interpolation
+    const safeName = escapeHtml(name);
+    const safePhone = escapeHtml(phone);
+    const safeEmail = escapeHtml(email);
+    const safePassengers = escapeHtml(passengers);
+    const safeTripType = escapeHtml(tripType);
+    const safePickupDate = escapeHtml(pickupDate);
+    const safeMessage = escapeHtml(message);
+    const safeSource = escapeHtml(source);
+    const safeParentPageTitle = escapeHtml(parentPageTitle);
+    const safeParentPageUrl = escapeHtml(parentPageUrl);
 
     // Initialize Resend
     const resend = new Resend(process.env.RESEND_API_KEY);
@@ -114,57 +138,57 @@ module.exports = async function (context, req) {
           <div class="content">
             <div class="field">
               <span class="label">Name:</span>
-              <span class="value">${name}</span>
+              <span class="value">${safeName}</span>
             </div>
             <div class="field">
               <span class="label">Phone:</span>
               <span class="value">
-                ${phone}
+                ${safePhone}
                 ${whatsappHref ? ` &middot; <a href="${whatsappHref}" style="color: #FF1493; text-decoration: none;">WhatsApp</a>` : ''}
               </span>
             </div>
             ${email ? `
             <div class="field">
               <span class="label">Email:</span>
-              <span class="value">${email}</span>
+              <span class="value">${safeEmail}</span>
             </div>
             ` : ''}
             ${passengers ? `
             <div class="field">
               <span class="label">Passengers:</span>
-              <span class="value">${passengers}</span>
+              <span class="value">${safePassengers}</span>
             </div>
             ` : ''}
             ${tripType ? `
             <div class="field">
               <span class="label">Trip Type:</span>
-              <span class="value">${tripType}</span>
+              <span class="value">${safeTripType}</span>
             </div>
             ` : ''}
             ${pickupDate ? `
             <div class="field">
               <span class="label">Pickup Date:</span>
-              <span class="value">${pickupDate}</span>
+              <span class="value">${safePickupDate}</span>
             </div>
             ` : ''}
             ${message ? `
             <div class="field">
               <span class="label">Message:</span>
-              <div class="value" style="white-space: pre-wrap;">${message}</div>
+              <div class="value" style="white-space: pre-wrap;">${safeMessage}</div>
             </div>
             ` : ''}
             ${(parentPageTitle || parentPageUrl) ? `
             <div class="field">
               <span class="label">Widget Location:</span>
               <div class="value">
-                ${parentPageTitle ? `<div><strong>Page:</strong> ${parentPageTitle}</div>` : ''}
-                ${parentPageUrl ? `<div><strong>URL:</strong> <a href="${parentPageUrl}" target="_blank" rel="noopener">${parentPageUrl}</a></div>` : ''}
+                ${parentPageTitle ? `<div><strong>Page:</strong> ${safeParentPageTitle}</div>` : ''}
+                ${parentPageUrl ? `<div><strong>URL:</strong> <a href="${safeParentPageUrl}" target="_blank" rel="noopener">${safeParentPageUrl}</a></div>` : ''}
               </div>
             </div>
             ` : ''}
             <div class="field">
               <span class="label">Source:</span>
-              <span class="value">${source || 'Website'}</span>
+              <span class="value">${safeSource || 'Website'}</span>
             </div>
             <div class="field">
               <span class="label">Submitted:</span>
@@ -190,7 +214,7 @@ module.exports = async function (context, req) {
     const emailPayload = {
       from: process.env.RESEND_FROM_EMAIL || 'bookings@kashitaxi.in',
       to: process.env.RESEND_TO_EMAIL || 'sudhir.vinayaktravels@gmail.com',
-      subject: `New ${tripType || 'Contact'} Inquiry from ${name}`,
+      subject: `New ${safeTripType || 'Contact'} Inquiry from ${safeName}`,
       html: emailHtml,
     };
 
@@ -210,7 +234,7 @@ module.exports = async function (context, req) {
     let customerEmailError = null;
 
     if (email) {
-      const safeCustomerName = name?.trim() || 'Guest';
+      const safeCustomerName = escapeHtml(name?.trim()) || 'Guest';
       const customerEmailHtml = `
         <!DOCTYPE html>
         <html>
@@ -361,7 +385,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 200,
       headers: {
-        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
@@ -379,7 +403,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 500,
       headers: {
-        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({

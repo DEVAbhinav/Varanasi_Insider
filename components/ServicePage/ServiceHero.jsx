@@ -1,6 +1,6 @@
 // components/ServicePage/ServiceHero.jsx
 import Image from 'next/image';
-import { getCallTelHref } from '@/lib/contact';
+import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export default function ServiceHero({ title, subtitle, heroImage, phone }) {
   return (
@@ -42,7 +42,7 @@ export default function ServiceHero({ title, subtitle, heroImage, phone }) {
                 Call {phone}
               </a>
               <a
-                href={`https://wa.me/91${phone}`}
+                href={CONTACT.whatsappUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 bg-green-600 hover:bg-green-700 text-white font-bold rounded-lg transition-all transform hover:scale-105 shadow-lg"
