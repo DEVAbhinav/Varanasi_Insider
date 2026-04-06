@@ -132,14 +132,14 @@ export default function HomePage({ allPosts }) {
         <meta name="geo.placename" content="Varanasi" />
         <meta name="geo.position" content="25.287133678944816;82.94264689837131" />
         <meta name="ICBM" content="25.287133678944816, 82.94264689837131" />
+        <HreflangTags
+          pageLang="en"
+          canonical="https://www.kashitaxi.in/"
+          alternates={[
+            { lang: 'hi', url: 'https://www.kashitaxi.in/hi/' },
+          ]}
+        />
       </Head>
-      <HreflangTags
-        pageLang="en"
-        canonical="https://www.kashitaxi.in/"
-        alternates={[
-          { lang: 'hi', url: 'https://www.kashitaxi.in/hi/' },
-        ]}
-      />
       <JsonLd data={structuredData} />
 
       <NavBar />
