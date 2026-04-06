@@ -4,7 +4,8 @@ import Script from 'next/script';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
 import { Lora, Source_Sans_3 } from 'next/font/google';
-import MobileLeadPopup from '../components/MobileLeadPopup/MobileLeadPopup';
+import dynamic from 'next/dynamic';
+const MobileLeadPopup = dynamic(() => import('../components/MobileLeadPopup/MobileLeadPopup'), { ssr: false });
 import { SOCIAL_PROFILE_URLS } from '../config/socials';
 import * as gtag from '../lib/gtag';
 

@@ -49,7 +49,7 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
       {description && <meta name="description" content={description} />}
       {keywords && <meta name="keywords" content={keywords} />}
       <meta name="author" content={author} />
-      <meta name="robots" content="index, follow" />
+      <meta name="robots" content={postData.noindex ? 'noindex, follow' : 'index, follow'} />
       <link rel="canonical" href={canonical} />
 
       <HreflangTags pageLang={langForPath} canonical={canonical} alternates={alternateLanguages} />
