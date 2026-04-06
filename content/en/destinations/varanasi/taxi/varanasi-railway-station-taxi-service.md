@@ -87,6 +87,8 @@ Most people land at Varanasi Junction without knowing there were other options. 
 
 ## Varanasi Junction (BSB) — The Main Station
 
+> **Deep dive:** For PNR tracking, platform-level pickup, and Cantt-specific tips, see our [dedicated Varanasi Cantt Station Taxi page](/en/city/varanasi/taxi/taxi-service-varanasi-cantt-station).
+
 ### Station Layout & Exits
 
 Varanasi Junction is the busiest station in the city. Roughly 300+ trains pass through. That means the area around it is a permanent traffic jam of autos, cycle rickshaws, taxis, touts, and confused passengers.

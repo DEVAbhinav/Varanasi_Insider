@@ -15,7 +15,7 @@ keywords:
   - "Varanasi Cantt taxi"
   - "taxi at Varanasi Junction"
   - "Cantt station pickup cab"
-  - "Varanasi railway station taxi"
+  - "Varanasi Junction platform pickup"
   - "safe taxi Cantt Varanasi"
 tags:
   - taxi
@@ -189,3 +189,7 @@ We include 45 minutes of complimentary waiting from actual arrival. We track PNR
 
 ### Is late-night pickup at Cantt safe?
 Cars are GPS-tracked, drivers are verified, and dispatch stays on-call; share the live link for solo travel.
+
+---
+
+> **Arriving at a different station?** See our [complete guide to all 3 Varanasi railway stations](/en/city/varanasi/taxi/varanasi-railway-station-taxi-service) — including Manduadih (MUV) and Varanasi City (BCY) pickup details.
