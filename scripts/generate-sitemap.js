@@ -232,11 +232,12 @@ function generateSitemap() {
   const body = sorted.map(loc => {
     const { priority, changefreq, hreflang, lastmod } = urlEntries.get(loc);
     
+    // Cap lastmod to today — future dates look broken to crawlers
     let finalLastmod = nowIso;
     if (lastmod) {
       const d = new Date(lastmod);
       if (!isNaN(d.getTime())) {
-        finalLastmod = d.toISOString();
+        finalLastmod = d.getTime() > Date.now() ? nowIso : d.toISOString();
       }
     }
 

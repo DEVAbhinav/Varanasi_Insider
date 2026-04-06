@@ -1,6 +1,7 @@
 ---
 title: "Varanasi in January 2026: Weather, Packing & Fog Survival Guide"
 slug: "varanasi-january-weather-travel-guide"
+canonical: "/en/city/varanasi/travel-guide/varanasi-in-january-2026"
 date: "2026-12-09"
 lastUpdated: "2026-12-09"
 author: "Varanasi Insider Team"
