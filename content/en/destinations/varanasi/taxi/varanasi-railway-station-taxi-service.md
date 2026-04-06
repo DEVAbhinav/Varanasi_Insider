@@ -6,7 +6,7 @@ lastUpdated: "2026-04-06"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Varanasi Railway Station Taxi 2026 | Junction, Manduadih, City Station Pickup"
-metaDescription: "Pre-book Varanasi railway station taxi from ₹400. Junction (BSB), Manduadih (MUV), City (BCY) pickup & drop. Fixed fare, no scams, 24/7 service."
+metaDescription: "Pre-book Varanasi railway station taxi from ₹800. Junction (BSB), Manduadih (MUV), City (BCY) pickup & drop. Fixed fare, no scams, 24/7 service."
 description: "Complete guide to taxi services at all 3 Varanasi railway stations — Varanasi Junction, Manduadih, and City Station. Fixed fares, pre-booking, and scam-free transport."
 keywords:
   - "Varanasi railway station taxi"
@@ -28,7 +28,7 @@ ctaTitle: "Arriving at Varanasi by train?"
 ctaSubtitle: "Pre-book your station pickup — driver waiting at exit with name board. No haggling, no scams, fixed fare."
 faqSchema:
   - q: "How much does a taxi cost from Varanasi Junction to hotels?"
-    a: "Sedan ₹400-600 to most hotels near ghats. Innova ₹600-800. Night charge (after 10 PM) adds ₹200-300."
+    a: "Sedan ₹800-1,000 to most hotels near ghats. Innova ₹1,200-1,400. Night charge (after 10 PM) adds ₹200-300."
   - q: "Is prepaid taxi available at Varanasi Junction?"
     a: "Yes, there's a prepaid booth at Varanasi Junction, but it's often closed at night. Pre-booking via WhatsApp is more reliable."
   - q: "Which is the best railway station in Varanasi for tourists?"
@@ -49,15 +49,15 @@ Varanasi has **3 railway stations**. Most tourists only know about Varanasi Junc
 
 | Route | Sedan (Dzire/Etios) | SUV (Innova/Ertiga) | Tempo Traveller |
 |---|---|---|---|
-| **Varanasi Junction (BSB) → Ghats area** | ₹400–500 | ₹600–700 | ₹1,000–1,200 |
-| **Varanasi Junction → Sarnath** | ₹400–500 | ₹600–700 | ₹1,000–1,200 |
-| **Varanasi Junction → Airport (Babatpur)** | ₹800–1,000 | ₹1,100–1,300 | ₹1,800–2,200 |
-| **Manduadih (MUV) → Ghats area** | ₹350–450 | ₹550–650 | ₹900–1,100 |
-| **Manduadih → Sarnath** | ₹500–600 | ₹700–800 | ₹1,100–1,300 |
-| **Manduadih → Airport** | ₹900–1,100 | ₹1,200–1,400 | ₹1,900–2,300 |
-| **City Station (BCY) → Ghats area** | ₹250–350 | ₹400–500 | ₹700–900 |
-| **City Station → Sarnath** | ₹500–600 | ₹700–800 | ₹1,100–1,300 |
-| **City Station → Airport** | ₹900–1,100 | ₹1,200–1,400 | ₹2,000–2,400 |
+| **Varanasi Junction (BSB) → Ghats area** | ₹800–1,000 | ₹1,200–1,400 | ₹1,800–2,200 |
+| **Varanasi Junction → Sarnath** | ₹900–1,100 | ₹1,400–1,600 | ₹2,000–2,400 |
+| **Varanasi Junction → Airport (Babatpur)** | ₹1,500–1,800 | ₹2,200–2,500 | ₹3,200–3,800 |
+| **Manduadih (MUV) → Ghats area** | ₹800–1,000 | ₹1,200–1,400 | ₹1,800–2,000 |
+| **Manduadih → Sarnath** | ₹1,000–1,200 | ₹1,500–1,700 | ₹2,200–2,600 |
+| **Manduadih → Airport** | ₹1,500–1,800 | ₹2,200–2,500 | ₹3,200–3,800 |
+| **City Station (BCY) → Ghats area** | ₹800 | ₹1,200 | ₹1,600–1,800 |
+| **City Station → Sarnath** | ₹1,000–1,200 | ₹1,500–1,700 | ₹2,200–2,600 |
+| **City Station → Airport** | ₹1,500–1,800 | ₹2,200–2,500 | ₹3,200–3,800 |
 
 **Night surcharge (10 PM – 6 AM): +₹200–300** on all routes.
 
@@ -116,14 +116,14 @@ If your train arrives before 9 PM and you're in no rush, the prepaid booth is fi
 
 | Destination | Sedan | SUV (Innova/Ertiga) | Distance | Time |
 |---|---|---|---|---|
-| Assi Ghat area hotels | ₹400–500 | ₹600–700 | 6 km | 20–30 min |
-| Dashashwamedh Ghat area | ₹450–550 | ₹650–750 | 5 km | 20–25 min |
-| Godowlia / Vishwanath Temple | ₹400–500 | ₹600–700 | 4.5 km | 20–25 min |
-| Lanka / BHU area | ₹350–400 | ₹500–600 | 5 km | 15–20 min |
-| Sarnath (Deer Park) | ₹400–500 | ₹600–700 | 10 km | 25–35 min |
-| Varanasi Airport (Babatpur) | ₹800–1,000 | ₹1,100–1,300 | 26 km | 45–60 min |
-| Ramnagar Fort | ₹500–600 | ₹700–800 | 14 km | 30–40 min |
-| Vindhyachal (Mirzapur) | ₹1,800–2,200 | ₹2,500–3,000 | 75 km | 2 hr |
+| Assi Ghat area hotels | ₹800–1,000 | ₹1,200–1,400 | 6 km | 20–30 min |
+| Dashashwamedh Ghat area | ₹800–1,000 | ₹1,200–1,400 | 5 km | 20–25 min |
+| Godowlia / Vishwanath Temple | ₹800–1,000 | ₹1,200–1,400 | 4.5 km | 20–25 min |
+| Lanka / BHU area | ₹800–900 | ₹1,200–1,300 | 5 km | 15–20 min |
+| Sarnath (Deer Park) | ₹900–1,100 | ₹1,400–1,600 | 10 km | 25–35 min |
+| Varanasi Airport (Babatpur) | ₹1,500–1,800 | ₹2,200–2,500 | 26 km | 45–60 min |
+| Ramnagar Fort | ₹1,200–1,400 | ₹1,800–2,000 | 14 km | 30–40 min |
+| Vindhyachal (Mirzapur) | ₹2,800–3,200 | ₹3,800–4,200 | 75 km | 2 hr |
 
 *Add ₹200–300 for pickups between 10 PM – 6 AM.*
 
@@ -168,13 +168,13 @@ Single main exit. When you walk out, there's a small parking area. Our driver wi
 
 | Destination | Sedan | SUV (Innova/Ertiga) | Distance | Time |
 |---|---|---|---|---|
-| Assi Ghat area hotels | ₹350–450 | ₹550–650 | 5.5 km | 15–20 min |
-| Dashashwamedh Ghat area | ₹400–500 | ₹600–700 | 7 km | 25–30 min |
-| Godowlia / Vishwanath Temple | ₹400–500 | ₹600–700 | 6.5 km | 20–25 min |
-| Lanka / BHU area | ₹250–350 | ₹400–500 | 2 km | 5–10 min |
-| Sarnath (Deer Park) | ₹500–600 | ₹700–800 | 13 km | 30–40 min |
-| Varanasi Airport (Babatpur) | ₹900–1,100 | ₹1,200–1,400 | 28 km | 50–65 min |
-| Ramnagar Fort | ₹450–550 | ₹650–750 | 12 km | 25–35 min |
+| Assi Ghat area hotels | ₹800–1,000 | ₹1,200–1,400 | 5.5 km | 15–20 min |
+| Dashashwamedh Ghat area | ₹800–1,000 | ₹1,200–1,400 | 7 km | 25–30 min |
+| Godowlia / Vishwanath Temple | ₹800–1,000 | ₹1,200–1,400 | 6.5 km | 20–25 min |
+| Lanka / BHU area | ₹800 | ₹1,200 | 2 km | 5–10 min |
+| Sarnath (Deer Park) | ₹1,000–1,200 | ₹1,500–1,700 | 13 km | 30–40 min |
+| Varanasi Airport (Babatpur) | ₹1,500–1,800 | ₹2,200–2,500 | 28 km | 50–65 min |
+| Ramnagar Fort | ₹1,000–1,200 | ₹1,500–1,700 | 12 km | 25–35 min |
 
 *Add ₹200–300 for night pickups (10 PM – 6 AM).*
 
@@ -201,12 +201,12 @@ This is exactly why pre-booking matters at City Station more than anywhere else.
 
 | Destination | Sedan | SUV (Innova/Ertiga) | Distance | Time |
 |---|---|---|---|---|
-| Assi Ghat area hotels | ₹300–400 | ₹450–550 | 4 km | 15–20 min |
-| Dashashwamedh Ghat area | ₹250–300 | ₹400–450 | 1.5 km | 10 min |
-| Godowlia / Vishwanath Temple | ₹250–300 | ₹400–450 | 1.5 km | 10 min |
-| Lanka / BHU area | ₹350–400 | ₹500–600 | 5 km | 15–20 min |
-| Sarnath (Deer Park) | ₹500–600 | ₹700–800 | 12 km | 30–40 min |
-| Varanasi Airport (Babatpur) | ₹900–1,100 | ₹1,200–1,400 | 28 km | 50–65 min |
+| Assi Ghat area hotels | ₹800–900 | ₹1,200–1,300 | 4 km | 15–20 min |
+| Dashashwamedh Ghat area | ₹800 | ₹1,200 | 1.5 km | 10 min |
+| Godowlia / Vishwanath Temple | ₹800 | ₹1,200 | 1.5 km | 10 min |
+| Lanka / BHU area | ₹800–900 | ₹1,200–1,300 | 5 km | 15–20 min |
+| Sarnath (Deer Park) | ₹1,000–1,200 | ₹1,500–1,700 | 12 km | 30–40 min |
+| Varanasi Airport (Babatpur) | ₹1,500–1,800 | ₹2,200–2,500 | 28 km | 50–65 min |
 
 *Night surcharge applies: +₹200–300 after 10 PM.*
 
@@ -220,29 +220,29 @@ For group bookings and families, here's the full breakdown by vehicle type:
 
 | From → To | Varanasi Junction | Manduadih | City Station |
 |---|---|---|---|
-| Ghats area (Assi/Dashashwamedh) | ₹400–550 | ₹350–500 | ₹250–400 |
-| Sarnath | ₹400–500 | ₹500–600 | ₹500–600 |
-| Airport (Babatpur) | ₹800–1,000 | ₹900–1,100 | ₹900–1,100 |
-| Ramnagar Fort | ₹500–600 | ₹450–550 | ₹550–650 |
-| BHU / Lanka | ₹350–400 | ₹250–350 | ₹350–400 |
+| Ghats area (Assi/Dashashwamedh) | ₹800–1,000 | ₹800–1,000 | ₹800 |
+| Sarnath | ₹900–1,100 | ₹1,000–1,200 | ₹1,000–1,200 |
+| Airport (Babatpur) | ₹1,500–1,800 | ₹1,500–1,800 | ₹1,500–1,800 |
+| Ramnagar Fort | ₹1,200–1,400 | ₹1,000–1,200 | ₹1,200–1,400 |
+| BHU / Lanka | ₹800–900 | ₹800 | ₹800–900 |
 
 ### SUV (Toyota Innova, Maruti Ertiga) — 4–6 Passengers
 
 | From → To | Varanasi Junction | Manduadih | City Station |
 |---|---|---|---|
-| Ghats area (Assi/Dashashwamedh) | ₹600–750 | ₹550–700 | ₹400–550 |
-| Sarnath | ₹600–700 | ₹700–800 | ₹700–800 |
-| Airport (Babatpur) | ₹1,100–1,300 | ₹1,200–1,400 | ₹1,200–1,400 |
-| Ramnagar Fort | ₹700–800 | ₹650–750 | ₹750–850 |
-| BHU / Lanka | ₹500–600 | ₹400–500 | ₹500–600 |
+| Ghats area (Assi/Dashashwamedh) | ₹1,200–1,400 | ₹1,200–1,400 | ₹1,200 |
+| Sarnath | ₹1,400–1,600 | ₹1,500–1,700 | ₹1,500–1,700 |
+| Airport (Babatpur) | ₹2,200–2,500 | ₹2,200–2,500 | ₹2,200–2,500 |
+| Ramnagar Fort | ₹1,800–2,000 | ₹1,500–1,700 | ₹1,800–2,000 |
+| BHU / Lanka | ₹1,200–1,300 | ₹1,200 | ₹1,200–1,300 |
 
 ### Tempo Traveller (12–17 Seater) — Groups 7–15
 
 | From → To | Varanasi Junction | Manduadih | City Station |
 |---|---|---|---|
-| Ghats area | ₹1,000–1,200 | ₹900–1,100 | ₹700–900 |
-| Sarnath | ₹1,000–1,200 | ₹1,100–1,300 | ₹1,100–1,300 |
-| Airport (Babatpur) | ₹1,800–2,200 | ₹1,900–2,300 | ₹2,000–2,400 |
+| Ghats area | ₹1,800–2,200 | ₹1,800–2,000 | ₹1,600–1,800 |
+| Sarnath | ₹2,000–2,400 | ₹2,200–2,600 | ₹2,200–2,600 |
+| Airport (Babatpur) | ₹3,200–3,800 | ₹3,200–3,800 | ₹3,200–3,800 |
 
 All fares are **one-way, inclusive of toll** where applicable. Night surcharge (10 PM–6 AM) adds ₹200–300.
 
@@ -449,7 +449,7 @@ Yes. Many of our bookings are from family members or travel agents booking for a
 
 ### Do you do pickups from Pt. Deen Dayal Upadhyaya Junction (Mughal Sarai)?
 
-Yes. DDU Junction is about 17 km from central Varanasi. Sedan fare: ₹600–800. SUV: ₹900–1,100. Many important trains (including some Rajdhanis) stop here. We do regular pickups from DDU.
+Yes. DDU Junction is about 17 km from central Varanasi. Sedan fare: ₹1,200–1,400. SUV: ₹1,800–2,000. Many important trains (including some Rajdhanis) stop here. We do regular pickups from DDU.
 
 ### Can the taxi wait while I check into my hotel?
 
@@ -457,7 +457,7 @@ For station pickups, the service is point-to-point: station → hotel. If you ne
 
 ### What vehicles do you have for groups of 8–10 people?
 
-Tempo Traveller (12-seater or 17-seater). Starting at ₹1,000 from Junction to ghats area. For groups, pre-booking is critical — we don't keep Tempos idling at stations. They're assigned per booking.
+Tempo Traveller (12-seater or 17-seater). Starting at ₹1,800 from Junction to ghats area. For groups, pre-booking is critical — we don't keep Tempos idling at stations. They're assigned per booking.
 
 ### Is the ride shared with other passengers?
 
