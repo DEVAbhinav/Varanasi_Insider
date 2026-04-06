@@ -2,8 +2,6 @@ const { Resend } = require('resend');
 const fs = require('fs').promises;
 const path = require('path');
 
-const ALLOWED_ORIGIN = 'https://www.kashitaxi.in';
-
 function escapeHtml(str) {
   if (!str) return '';
   return String(str)
@@ -54,7 +52,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 200,
       headers: {
-        'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
+        'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Methods': 'POST, OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type',
       },
@@ -68,7 +66,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 405,
       headers: {
-        'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
+        'Access-Control-Allow-Origin': '*',
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({ error: 'Method not allowed' }),
@@ -85,7 +83,7 @@ module.exports = async function (context, req) {
       context.res = {
         status: 400,
         headers: {
-          'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
+          'Access-Control-Allow-Origin': '*',
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({ error: 'Name and phone are required' }),
@@ -385,7 +383,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 200,
       headers: {
-        'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
+        'Access-Control-Allow-Origin': '*',
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
@@ -403,7 +401,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 500,
       headers: {
-        'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
+        'Access-Control-Allow-Origin': '*',
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
