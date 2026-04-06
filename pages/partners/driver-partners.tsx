@@ -62,7 +62,7 @@ export default function DriverPartnersPage() {
               </p>
               <div className="flex flex-wrap gap-3">
                 <a
-                  href="https://wa.me/919450301573?text=Add%20my%20driver%20profile"
+                  href="https://wa.me/919935474730?text=Add%20my%20driver%20profile"
                   className="inline-flex items-center gap-2 rounded-full bg-amber-400 px-4 py-2 text-slate-900 font-semibold shadow-lg shadow-amber-400/30 hover:-translate-y-0.5 transition"
                 >
                   Submit your photo via WhatsApp
@@ -163,7 +163,7 @@ export default function DriverPartnersPage() {
             <p className="mt-2 text-lg">Send your headshot, years driving, languages, and top 3 routes. We update weekly.</p>
             <div className="mt-4 flex flex-wrap gap-3">
               <a
-                href="https://wa.me/919450301573?text=Add%20my%20driver%20profile"
+                href="https://wa.me/919935474730?text=Add%20my%20driver%20profile"
                 className="inline-flex items-center gap-2 rounded-full bg-slate-900 px-4 py-2 text-amber-100 font-semibold shadow-lg shadow-slate-900/20 hover:-translate-y-0.5 transition"
               >
                 WhatsApp ops now
