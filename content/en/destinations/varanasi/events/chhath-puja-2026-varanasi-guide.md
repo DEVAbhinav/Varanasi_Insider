@@ -98,59 +98,6 @@ faqSchema:
         "availability": "https://schema.org/PreOrder",
         "validFrom": "2026-04-06"
       }
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "When is Chhath Puja 2026 in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chhath Puja 2026 runs October 28-31. Nahay Khay is October 28, Kharna is October 29, Sandhya Arghya (sunset offering) is October 30, and Usha Arghya (sunrise offering) is October 31."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Which ghats are best for Chhath Puja in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chhath Ghat (near Tulsi Ghat), Assi Ghat, Shivala Ghat, and Namo Ghat are the main celebration spots. Namo Ghat is newest and significantly less crowded."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How much does airport to ghat taxi cost during Chhath Puja?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Airport to ghat fare with Kashi Taxi is ₹899 for sedan, ₹1,200 for Innova, ₹1,800 for Tempo Traveller. Book in advance — walk-in rates at the airport surge 2-3x during Chhath week."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are roads closed during Chhath Puja in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. Ghat approach roads close from approximately 3 PM on October 30 (Sandhya Arghya) through noon on October 31. Vehicles cannot reach within 1-2 km of the major ghats during this window."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I get a taxi from Varanasi airport during Chhath Puja?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, but only if pre-booked. Walk-in taxi counters at the airport charge 2-3x normal rates during Chhath week. Kashi Taxi holds confirmed bookings at fixed prices."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Which train station is closest to the Chhath ghats?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Varanasi City station (Cantt) is closest at roughly 5 km from the main ghats. Manduadih station is about 4 km from Assi Ghat. Varanasi Junction is 7 km away."
-          }
-        }
-      ]
     }
   ]
 }
