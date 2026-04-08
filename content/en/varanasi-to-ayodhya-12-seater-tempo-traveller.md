@@ -115,3 +115,5 @@ Row 4: 3 seats + rear luggage bay
 4. Night prior: We send driver details, darshan reminders, and crowd advisory.
 
 Planning a larger group? Upgrade to our [17 seater guide](/en/17-seater-tempo-traveller-varanasi) or combine with [Ram Mandir security package](/en/varanasi-to-ram-janmabhoomi-tempo-traveller) for even smoother darshan.
+
+**Ayodhya arrival tips:** Check the [Ayodhya temple timing & entry guide](https://bharat-tourism.com/en/ayodhya-temple-timing-and-entry-guide) for current darshan slots and security requirements before your trip.

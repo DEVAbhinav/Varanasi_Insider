@@ -185,3 +185,4 @@ Yes, but one-way or overnight plans should be quoted separately because the same
 - [Varanasi to Ayodhya distance, taxi fare and travel options](/en/varanasi-to-ayodhya)
 - [Tempo Traveller Rates in Varanasi](/en/tempo-traveller-rates-varanasi)
 - [Pilgrimage and Yatra Tours](/en/pilgrimage-yatra-tours-tempo-traveller-varanasi)
+- [Ayodhya Ram Mandir darshan & cab guide](https://bharat-tourism.com/en/city/ayodhya/pillar/ayodhya-travel-guide-ram-mandir-darshan-cab) — temple timings, security tips & local transport

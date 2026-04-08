@@ -232,6 +232,10 @@ Stay overnight if:
 
 No hidden charges. No surge pricing. Fixed fare confirmed at booking.
 
+## Ayodhya Destination Guide
+
+Planning your itinerary after reaching Ayodhya? The [Ayodhya Ram Mandir darshan & travel guide on Bharat Tourism](https://bharat-tourism.com/en/city/ayodhya/pillar/ayodhya-travel-guide-ram-mandir-darshan-cab) covers temple timings, security protocols, nearby attractions, and local transport options to help you make the most of your visit.
+
 ## Related Pages
 
 - [Varanasi to Ayodhya Taxi — Direct Booking](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi)
@@ -240,5 +244,4 @@ No hidden charges. No surge pricing. Fixed fare confirmed at booking.
 - [Varanasi-Ayodhya-Prayagraj Pilgrimage Taxi](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi)
 - [Tour Packages from Varanasi](/en/tour-package-from-varanasi)
 - [Varanasi to Prayagraj Distance & Taxi Fare](/en/varanasi-to-prayagraj)
-- [Direct Varanasi to Ayodhya Taxi booking page](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi)
-- [Tour Packages from Varanasi](/en/tour-package-from-varanasi)
+- [Ayodhya travel & taxi services](https://bharat-tourism.com/city/ayodhya) — complete Ayodhya destination hub

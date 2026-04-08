@@ -117,4 +117,4 @@ Planning a sunrise-to-night pilgrimage from Kashi to Ayodhya? This page packages
 3. Block with ₹1,000 token (UPI/bank). Balance after the trip.
 4. Driver & coordinator details sent 12 hours prior, along with crowd alerts.
 
-**Also consider:** [Ram Mandir Priority Package](/en/varanasi-to-ram-mandir-tempo-traveller) · [Ram Janmabhoomi Security Briefing](/en/varanasi-to-ram-janmabhoomi-tempo-traveller)
+**Also consider:** [Ram Mandir Priority Package](/en/varanasi-to-ram-mandir-tempo-traveller) · [Ram Janmabhoomi Security Briefing](/en/varanasi-to-ram-janmabhoomi-tempo-traveller) · [Ayodhya 1-day itinerary for families](https://bharat-tourism.com/en/city/ayodhya/travel-guide/ayodhya-1-day-itinerary-for-family)
