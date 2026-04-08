@@ -118,4 +118,4 @@ Performing *Pind Daan* at Gaya is a sacred responsibility. Having escorted count
 
 > Need a Hindi priest, English translator, or Buddhist monk interaction for international guests? Mention it upfront—we customise accordingly.
 
-**Related Pages:** [Bodh Gaya Tempo Traveller Guide](/en/varanasi-to-bodhgaya-tempo-traveller) · [Gaya & Bodh Gaya Tour Package](/en/varanasi-to-gaya-bodh-gaya-tour-package) · [Pilgrimage Tours Overview](/en/pilgrimage-yatra-tours-tempo-traveller-varanasi)
+**Related Pages:** [Bodh Gaya Tempo Traveller Guide](/en/varanasi-to-bodhgaya-tempo-traveller) · [Gaya & Bodh Gaya Tour Package](/en/varanasi-to-gaya-bodh-gaya-tour-package) · [Pilgrimage Tours Overview](/en/pilgrimage-yatra-tours-tempo-traveller-varanasi) · [Gaya & Bodh Gaya destination guide](https://bharat-tourism.com/city/gaya)

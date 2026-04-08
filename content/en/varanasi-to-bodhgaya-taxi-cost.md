@@ -181,3 +181,5 @@ Where Buddha meditated for 6 years before enlightenment. 12 km from Bodhgaya, sc
 ---
 
 For a seamless booking experience and a comfortable journey, call **80621 82380**.
+
+**Planning your Bodh Gaya visit?** The [Gaya & Bodh Gaya travel guide](https://bharat-tourism.com/city/gaya) covers Mahabodhi Temple access, Buddhist monastery circuit, and Pind Daan logistics at Vishnupad Temple.

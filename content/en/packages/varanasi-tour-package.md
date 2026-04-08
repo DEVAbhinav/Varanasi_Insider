@@ -704,3 +704,5 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 ---
 
 **Need help planning your Varanasi tour?** Contact us at **80621 82380** for customized **Varanasi tour packages**, **Varanasi city tour**, and **Varanasi temple tour** bookings.
+
+**Extending your trip?** Explore [Ayodhya](https://bharat-tourism.com/city/ayodhya), [Prayagraj](https://bharat-tourism.com/city/prayagraj), and [Gaya & Bodh Gaya](https://bharat-tourism.com/city/gaya) destination guides on Bharat Tourism for multi-city pilgrimage planning.

@@ -145,3 +145,4 @@ A: While buses are available and are a budget-friendly option, they are less fre
 A: It is a pilgrimage that combines the Hindu holy city of Kashi (Varanasi), for personal salvation, with Gaya, for ancestral salvation (Pind Daan), and Bodh Gaya, the site of Buddha's enlightenment.
 
 From Kashi’s ghats to the Bodhi Tree’s shade, this pilgrimage unites Shiva’s grace, Vishnu’s blessings, and Buddha’s enlightenment—one unforgettable journey toward liberation.
+**Explore the destination:** For detailed Gaya and Bodh Gaya sightseeing, temple timings, and local travel options, see the [Gaya & Bodh Gaya travel guide on Bharat Tourism](https://bharat-tourism.com/city/gaya).

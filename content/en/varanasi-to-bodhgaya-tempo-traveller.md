@@ -105,3 +105,5 @@ Carry water/snacks; mobiles/cameras are deposited before entering the Mahabodhi 
 - Secondary CTA: Customize Your Buddhist Circuit Tour
 - Call: [+91 80621 82380](tel:+918062182380)
 - WhatsApp: https://wa.me/919935474730?text=Bodhgaya%20day%20trip%20booking
+
+**Bodh Gaya arrival tips:** Check the [Gaya & Bodh Gaya destination guide on Bharat Tourism](https://bharat-tourism.com/city/gaya) for Mahabodhi Temple timings, monastery visits, and local transport.
