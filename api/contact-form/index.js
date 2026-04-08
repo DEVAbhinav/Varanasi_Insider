@@ -27,6 +27,17 @@ const CONTACT = {
   whatsappNumberRaw: '919935474730',
 };
 
+const ALLOWED_ORIGINS = [
+  'https://www.kashitaxi.in',
+  'https://kashitaxi.in',
+  'http://localhost:3000',
+];
+
+function getCorsOrigin(req) {
+  const origin = req.headers?.origin || req.headers?.Origin || '';
+  return ALLOWED_ORIGINS.includes(origin) ? origin : ALLOWED_ORIGINS[0];
+}
+
 const normalizePhoneNumber = (rawPhone) => {
   if (!rawPhone) {
     return null;
@@ -61,7 +72,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 200,
       headers: {
-        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Origin': getCorsOrigin(req),
         'Access-Control-Allow-Methods': 'POST, OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type',
       },
@@ -75,7 +86,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 405,
       headers: {
-        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Origin': getCorsOrigin(req),
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({ error: 'Method not allowed' }),
@@ -92,7 +103,7 @@ module.exports = async function (context, req) {
       context.res = {
         status: 400,
         headers: {
-          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Origin': getCorsOrigin(req),
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({ error: 'Name and phone are required' }),
@@ -392,7 +403,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 200,
       headers: {
-        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Origin': getCorsOrigin(req),
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
@@ -410,7 +421,7 @@ module.exports = async function (context, req) {
     context.res = {
       status: 500,
       headers: {
-        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Origin': getCorsOrigin(req),
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
