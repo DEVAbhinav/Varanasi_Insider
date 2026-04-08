@@ -146,3 +146,4 @@ keywords:
 - [वाराणसी से अयोध्या टेंपो ट्रैवलर](/hi/varanasi-to-ayodhya-tempo-traveller)
 - [वाराणसी से प्रयागराज दूरी और किराया](/hi/varanasi-to-prayagraj)
 - [टूर पैकेज वाराणसी](/en/tour-package-from-varanasi)
+- [अयोध्या यात्रा व टैक्सी सेवाएँ](https://bharat-tourism.com/city/ayodhya) — अयोध्या दर्शन, मंदिर समय और स्थानीय परिवहन गाइड

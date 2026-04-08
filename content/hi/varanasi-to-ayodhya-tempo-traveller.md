@@ -82,3 +82,5 @@ relatedPosts:
 
 ## अभी बुक करें
 राम मंदिर दर्शन का स्लॉट सुनिश्चित करने के लिए अभी अपना **Varanasi → Ayodhya Tempo Traveller** रिज़र्व करें।
+
+**अयोध्या पहुँचने से पहले:** [अयोध्या राम मंदिर दर्शन गाइड](https://bharat-tourism.com/hi/city/ayodhya/taxi/ayodhya-local-darshan-cab-package) पर मंदिर का समय, सुरक्षा नियम और लोकल ट्रांसपोर्ट की जानकारी देखें।

@@ -143,3 +143,4 @@ relatedPosts:
 - [वाराणसी एयरपोर्ट टैक्सी प्राइस गाइड](/en/varanasi-airport-taxi-price-guide)
 - [टूर पैकेज वाराणसी](/en/tour-package-from-varanasi)
 - [वाराणसी ट्रांसपोर्ट प्राइस गाइड](/en/varanasi-transport-price-guide-2026)
+- [प्रयागराज यात्रा व टैक्सी सेवाएँ](https://bharat-tourism.com/city/prayagraj) — संगम दर्शन, मेला लॉजिस्टिक्स और स्थानीय परिवहन गाइड

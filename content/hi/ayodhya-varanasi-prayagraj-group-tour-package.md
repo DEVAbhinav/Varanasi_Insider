@@ -192,3 +192,5 @@ departure options:
 ### क्या बुजुर्गों के लिए slower version बनाया जा सकता है?
 
 हाँ। कम walking pressure, early start-early finish और बेहतर rest windows के साथ circuit rescope किया जा सकता है।
+
+**गंतव्य गाइड:** [अयोध्या यात्रा व टैक्सी सेवाएँ](https://bharat-tourism.com/city/ayodhya) · [प्रयागराज यात्रा व टैक्सी सेवाएँ](https://bharat-tourism.com/city/prayagraj) — दर्शन समय, स्थानीय परिवहन और तीर्थ सर्किट की विस्तृत जानकारी।

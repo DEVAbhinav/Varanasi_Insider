@@ -143,3 +143,5 @@ faqSchema:
 - [प्रयागराज डे ट्रिप](/hi/varanasi-to-prayagraj-tempo-traveller)
 - [बोधगया यात्रा](/hi/varanasi-to-bodhgaya-tempo-traveller)
 - [12 सीटर vs 17 सीटर](/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
+- [गया और बोधगया यात्रा गाइड](https://bharat-tourism.com/city/gaya) — विष्णुपद मंदिर, पिंडदान विधि और बौद्ध सर्किट
+- [प्रयागराज यात्रा गाइड](https://bharat-tourism.com/city/prayagraj) — संगम दर्शन और स्थानीय परिवहन
