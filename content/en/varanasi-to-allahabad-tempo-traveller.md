@@ -122,4 +122,4 @@ All quotes include fuel, tolls, Prayagraj bridge fee, Sangam parking, and driver
 Get a flat-rate quote with driver, fuel, and tolls included.
 [Book Your Ride Now!](/booking)
 
-**Related Reads:** [Prayagraj Tempo Traveller Guide](/en/varanasi-to-prayagraj-tempo-traveller) · [Triveni Sangam Ritual Focus](/en/varanasi-to-triveni-sangam-tempo-traveller) · [Kumbh 2026 Special](/en/varanasi-to-prayagraj-kumbh-tempo-traveller)
+**Related Reads:** [Prayagraj Tempo Traveller Guide](/en/varanasi-to-prayagraj-tempo-traveller) · [Triveni Sangam Ritual Focus](/en/varanasi-to-triveni-sangam-tempo-traveller) · [Kumbh 2026 Special](/en/varanasi-to-prayagraj-kumbh-tempo-traveller) · [Prayagraj destination guide](https://bharat-tourism.com/city/prayagraj)

@@ -215,6 +215,10 @@ See: [Varanasi-Ayodhya-Prayagraj Pilgrimage Taxi](/en/services/varanasi-ayodhya-
 
 No hidden charges. No surge pricing.
 
+## Prayagraj Destination Guide
+
+Arriving in Prayagraj? The [Prayagraj travel & taxi services hub on Bharat Tourism](https://bharat-tourism.com/city/prayagraj) covers Triveni Sangam rituals, local sightseeing, Magh Mela logistics, and city transport options.
+
 ## Related Pages
 
 - [Varanasi to Prayagraj Taxi — Direct Booking](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)
@@ -223,5 +227,4 @@ No hidden charges. No surge pricing.
 - [Varanasi to Ayodhya Distance & Fare](/en/varanasi-to-ayodhya)
 - [Varanasi to Vindhyachal Travel Guide](/en/travel-from-varanasi-to-vindhyachal)
 - [Tour Packages from Varanasi](/en/tour-package-from-varanasi)
-- [Direct Varanasi to Prayagraj taxi booking page](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)
-- [Tour Packages from Varanasi](/en/tour-package-from-varanasi)
+- [Prayagraj travel & taxi services](https://bharat-tourism.com/city/prayagraj) — complete Prayagraj destination hub

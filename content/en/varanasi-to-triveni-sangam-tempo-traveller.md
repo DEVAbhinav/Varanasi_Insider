@@ -122,4 +122,4 @@ Lock your charter now for guaranteed boat, priest, and comfort halts—perfect f
 
 [Confirm Your Sangam Charter](/booking)
 
-**Explore More:** [Prayagraj Tempo Traveller Fare](/en/varanasi-to-prayagraj-tempo-traveller) · [Prayagraj Kumbh Logistics](/en/varanasi-to-prayagraj-kumbh-tempo-traveller)
+**Explore More:** [Prayagraj Tempo Traveller Fare](/en/varanasi-to-prayagraj-tempo-traveller) · [Prayagraj Kumbh Logistics](/en/varanasi-to-prayagraj-kumbh-tempo-traveller) · [Prayagraj travel & taxi services](https://bharat-tourism.com/city/prayagraj)

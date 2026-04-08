@@ -180,3 +180,4 @@ Yes, but one-way or overnight plans should be quoted separately because the same
 - [Varanasi to Prayagraj distance, taxi fare and travel options](/en/varanasi-to-prayagraj)
 - [Tempo Traveller Rates in Varanasi](/en/tempo-traveller-rates-varanasi)
 - [Tour Packages from Varanasi](/en/tour-package-from-varanasi)
+- [Prayagraj travel & taxi services](https://bharat-tourism.com/city/prayagraj) — Sangam rituals, local sightseeing & transport guide

@@ -132,3 +132,5 @@ Mahakumbh 2026 (January–February) is expected to draw over 40 crore pilgrims. 
 5. Day of travel: Operations desk monitors crowd alerts and reroutes if police change traffic plan.
 
 **Next Steps:** Pair this Kumbh plan with [Triveni Sangam ritual package](/en/varanasi-to-triveni-sangam-tempo-traveller) or set up post-Kumbh pilgrimages to [Chitrakoot](/en/varanasi-to-chitrakoot-tempo-traveller) for an extended Uttar Pradesh spiritual circuit.
+
+**Planning ahead?** See the [Magh Mela 2027 Prayagraj logistics guide](https://bharat-tourism.com/en/city/prayagraj/events/magh-mela-2027-prayagraj-logistics-guide) for accommodation, routes, and snan-date scheduling.
