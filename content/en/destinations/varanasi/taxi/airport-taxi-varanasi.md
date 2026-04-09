@@ -1,51 +1,77 @@
 ---
-title: "Varanasi Airport Transfer Options Overview | VNS City Drop Comparison"
-slug: "airport-taxi-varanasi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
-author: "Kamal Nayan Singh"
+title: Varanasi Airport Transfer Options Overview | VNS City Drop Comparison
+slug: airport-taxi-varanasi
+date: '2026-11-25'
+lastUpdated: '2026-11-25'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Varanasi Airport Transfer Options Overview | Compare Service, Price and Route Pages"
-metaDescription: "Overview of VNS airport transfer options, vehicle types, and typical city-drop ranges. Use the main airport taxi service page for direct booking and the price guide for fare-first comparisons."
-description: "Overview of VNS airport transfer options, city-drop fare ranges, and vehicle choices. Compare airport transfer formats and find the right guide for your needs."
+metaTitle: >-
+  Varanasi Airport Transfer Options Overview | Compare Service, Price and Route
+  Pages
+metaDescription: >-
+  Overview of VNS airport transfer options, vehicle types, and typical city-drop
+  ranges. Use the main airport taxi service page for direct booking and the
+  price guide for fare-first comparisons.
+description: >-
+  Overview of VNS airport transfer options, city-drop fare ranges, and vehicle
+  choices. Compare airport transfer formats and find the right guide for your
+  needs.
 location:
-  name: "Lal Bahadur Shastri International Airport"
-  address: "Varanasi, Uttar Pradesh 221006"
+  name: Lal Bahadur Shastri International Airport
+  address: 'Varanasi, Uttar Pradesh 221006'
 keywords:
-  - "varanasi airport transfer options"
-  - "vns airport transfer overview"
-  - "varanasi airport to city options"
-  - "varanasi airport transfer comparison"
-  - "varanasi airport fare overview"
-  - "vns airport city drop options"
-  - "airport transfer varanasi"
+  - varanasi airport transfer options
+  - vns airport transfer overview
+  - varanasi airport to city options
+  - varanasi airport transfer comparison
+  - varanasi airport fare overview
+  - vns airport city drop options
+  - airport transfer varanasi
 tags:
   - taxi
   - airport-transfer
   - varanasi
 template: destination
 faqSchema:
-  - question: "What if my flight is delayed?"
-    answer: "Our system automatically tracks your flight. If delayed, your booking is extended at no extra charge."
-  - question: "Can I modify my pickup location after booking?"
-    answer: "Yes, you can change it until 2 hours before your flight lands by calling or WhatsApp."
-  - question: "Is the meter tampered with or are rates fixed?"
-    answer: "We use fixed, transparent fares. No meters. Prices are published on our website."
-  - question: "Do you accept credit cards?"
-    answer: "Yes, we accept all payment methods including cards, UPI, net banking, and cash."
-  - question: "What is the cancellation policy?"
-    answer: "Free cancellation up to 2 hours. 50% charge if cancelled between 30 min to 2 hours."
+  - question: What if my flight is delayed?
+    answer: >-
+      Our system automatically tracks your flight. If delayed, your booking is
+      extended at no extra charge.
+  - question: Can I modify my pickup location after booking?
+    answer: >-
+      Yes, you can change it until 2 hours before your flight lands by calling
+      or WhatsApp.
+  - question: Is the meter tampered with or are rates fixed?
+    answer: >-
+      We use fixed, transparent fares. No meters. Prices are published on our
+      website.
+  - question: Do you accept credit cards?
+    answer: >-
+      Yes, we accept all payment methods including cards, UPI, net banking, and
+      cash.
+  - question: What is the cancellation policy?
+    answer: >-
+      Free cancellation up to 2 hours. 50% charge if cancelled between 30 min to
+      2 hours.
 offers:
-  - price: "600"
-    priceCurrency: "INR"
-    name: "Airport to City Sedan"
+  - price: '600'
+    priceCurrency: INR
+    name: Airport to City Sedan
 provider:
-  name: "Kashi Taxi"
-  telephone: "+91-8062182380"
-areaServed: ["Varanasi Airport", "Varanasi City", "Sarnath", "BHU"]
+  name: Kashi Taxi
+  telephone: +91-8062182380
+areaServed:
+  - Varanasi Airport
+  - Varanasi City
+  - Sarnath
+  - BHU
 aggregateRating:
-  ratingValue: "4.9"
-  reviewCount: "850"
+  ratingValue: '4.9'
+  reviewCount: '850'
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 <script type="application/ld+json">

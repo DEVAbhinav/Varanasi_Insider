@@ -1,21 +1,27 @@
 ---
-title: "Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | KashiTaxi"
-slug: "varanasi-city-tour-cab"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
-author: "Kamal Nayan Singh"
+title: Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | KashiTaxi
+slug: varanasi-city-tour-cab
+date: '2026-11-25'
+lastUpdated: '2026-11-25'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | KashiTaxi"
-metaDescription: "Half-day & full-day Varanasi tour cabs. Visit Kashi Vishwanath Temple, Dashashwamedh Ghat, Assi Ghat. Professional drivers, AC vehicles, flexible timings."
-description: "Half-day & full-day Varanasi tour cabs. Visit Kashi Vishwanath Temple, Dashashwamedh Ghat, Assi Ghat. Professional drivers, AC vehicles, flexible timings."
+metaTitle: Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | KashiTaxi
+metaDescription: >-
+  Half-day & full-day Varanasi tour cabs. Visit Kashi Vishwanath Temple,
+  Dashashwamedh Ghat, Assi Ghat. Professional drivers, AC vehicles, flexible
+  timings.
+description: >-
+  Half-day & full-day Varanasi tour cabs. Visit Kashi Vishwanath Temple,
+  Dashashwamedh Ghat, Assi Ghat. Professional drivers, AC vehicles, flexible
+  timings.
 keywords:
-  - "Kashi darshan cab"
-  - "taxi for varanasi city tour"
-  - "Varanasi sightseeing taxi"
-  - "safe taxi varanasi"
-  - "Varanasi full day cab"
-  - "temple tour cab"
-  - "Varanasi city tour"
+  - Kashi darshan cab
+  - taxi for varanasi city tour
+  - Varanasi sightseeing taxi
+  - safe taxi varanasi
+  - Varanasi full day cab
+  - temple tour cab
+  - Varanasi city tour
 tags:
   - taxi
   - city-tour
@@ -23,19 +29,27 @@ tags:
   - sightseeing
 template: destination
 aggregateRating:
-  ratingValue: "4.8"
-  reviewCount: "152"
+  ratingValue: '4.8'
+  reviewCount: '152'
 faqSchema:
-  - question: "Do I need to book in advance?"
-    answer: "Not mandatory, but we recommend booking 24 hours prior for best availability."
-  - question: "Can I start the tour from a different time?"
-    answer: "Yes, flexible start times available. Call us and we'll adjust timings."
-  - question: "Are temples really crowded in the morning?"
-    answer: "Yes, 7-8 AM is busiest. Very early (6-6:30 AM) is less crowded."
-  - question: "Is there parking at all locations?"
-    answer: "Yes, our drivers know all parking spots. No parking hassles."
-  - question: "Can I combine half-day + half-day tours in one day?"
-    answer: "Absolutely! You can do morning + evening tours on the same day (₹2200-3200)."
+  - question: Do I need to book in advance?
+    answer: >-
+      Not mandatory, but we recommend booking 24 hours prior for best
+      availability.
+  - question: Can I start the tour from a different time?
+    answer: 'Yes, flexible start times available. Call us and we''ll adjust timings.'
+  - question: Are temples really crowded in the morning?
+    answer: 'Yes, 7-8 AM is busiest. Very early (6-6:30 AM) is less crowded.'
+  - question: Is there parking at all locations?
+    answer: 'Yes, our drivers know all parking spots. No parking hassles.'
+  - question: Can I combine half-day + half-day tours in one day?
+    answer: >-
+      Absolutely! You can do morning + evening tours on the same day
+      (₹2200-3200).
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Sightseeing

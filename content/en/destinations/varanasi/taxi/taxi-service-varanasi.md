@@ -1,23 +1,27 @@
 ---
-title: "Taxi Service in Varanasi | Affordable Cab Booking Online 24/7 | KashiTaxi"
-slug: "taxi-service-varanasi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
-author: "Kamal Nayan Singh"
+title: Taxi Service in Varanasi | Affordable Cab Booking Online 24/7 | KashiTaxi
+slug: taxi-service-varanasi
+date: '2026-11-25'
+lastUpdated: '2026-11-25'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Taxi Service in Varanasi | Affordable Cab Booking Online 24/7 | KashiTaxi"
-metaDescription: "Book taxi/cab in Varanasi online 24/7. Airport transfer, city tours, outstation travel. Fixed fares, professional drivers, trusted service."
-description: "Book taxi/cab in Varanasi online 24/7. Airport transfer, city tours, outstation travel. Fixed fares, professional drivers, trusted service."
+metaTitle: Taxi Service in Varanasi | Affordable Cab Booking Online 24/7 | KashiTaxi
+metaDescription: >-
+  Book taxi/cab in Varanasi online 24/7. Airport transfer, city tours,
+  outstation travel. Fixed fares, professional drivers, trusted service.
+description: >-
+  Book taxi/cab in Varanasi online 24/7. Airport transfer, city tours,
+  outstation travel. Fixed fares, professional drivers, trusted service.
 keywords:
-  - "taxi service Varanasi"
-  - "taxi service in varanasi"
-  - "taxi varanasi"
-  - "kashi taxi service"
-  - "safe taxi varanasi"
-  - "cab service Varanasi"
-  - "taxi booking Varanasi"
-  - "Varanasi cab online"
-  - "best taxi Varanasi"
+  - taxi service Varanasi
+  - taxi service in varanasi
+  - taxi varanasi
+  - kashi taxi service
+  - safe taxi varanasi
+  - cab service Varanasi
+  - taxi booking Varanasi
+  - Varanasi cab online
+  - best taxi Varanasi
 tags:
   - taxi
   - cab-service
@@ -25,27 +29,32 @@ tags:
   - booking
 template: destination
 faqSchema:
-  - question: "Are your drivers multilingual?"
-    answer: "Yes, most drivers speak English, Hindi, and local dialects."
-  - question: "Can I track my taxi in real-time?"
-    answer: "Yes, receive tracking link via SMS/WhatsApp with driver details."
-  - question: "What payment methods do you accept?"
-    answer: "Cash, UPI, Cards, Net Banking, Online Transfer."
-  - question: "Is cancellation free?"
-    answer: "Free up to 2 hours before booking. 50% charge between 30 min-2 hours."
-  - question: "Do you provide quotes for bulk bookings?"
-    answer: "Yes, call us for corporate/group rates."
+  - question: Are your drivers multilingual?
+    answer: 'Yes, most drivers speak English, Hindi, and local dialects.'
+  - question: Can I track my taxi in real-time?
+    answer: 'Yes, receive tracking link via SMS/WhatsApp with driver details.'
+  - question: What payment methods do you accept?
+    answer: 'Cash, UPI, Cards, Net Banking, Online Transfer.'
+  - question: Is cancellation free?
+    answer: Free up to 2 hours before booking. 50% charge between 30 min-2 hours.
+  - question: Do you provide quotes for bulk bookings?
+    answer: 'Yes, call us for corporate/group rates.'
 offers:
-  - price: "300"
-    priceCurrency: "INR"
-    name: "Hourly Rental"
+  - price: '300'
+    priceCurrency: INR
+    name: Hourly Rental
 provider:
-  name: "Kashi Taxi"
-  telephone: "+91-8062182380"
-areaServed: ["Varanasi"]
+  name: Kashi Taxi
+  telephone: +91-8062182380
+areaServed:
+  - Varanasi
 aggregateRating:
-  ratingValue: "4.8"
-  reviewCount: "500"
+  ratingValue: '4.8'
+  reviewCount: '500'
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # Taxi Service in Varanasi | Professional Cab Booking 24/7 | KashiTaxi

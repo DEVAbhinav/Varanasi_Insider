@@ -1,23 +1,32 @@
 ---
-title: "Taj Ganges Varanasi Premium Taxi Service | Ghat Tours & Airport Transfers | KashiTaxi"
-slug: "taj-ganges-varanasi-taxi-service"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
-author: "Kamal Nayan Singh"
+title: >-
+  Taj Ganges Varanasi Premium Taxi Service | Ghat Tours & Airport Transfers |
+  KashiTaxi
+slug: taj-ganges-varanasi-taxi-service
+date: '2026-12-09'
+lastUpdated: '2026-12-09'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Taj Ganges Varanasi Taxi Service | Premium Transport for Hotel Guests | KashiTaxi"
-metaDescription: "Premium taxi service for Taj Ganges Varanasi guests. Reliable transport for ghat tours, sightseeing & airport transfers. Book now!"
-description: "Dedicated taxi and transport service for Taj Ganges Varanasi guests. Save 50%+ compared to hotel concierge. Ghat tours, airport transfers, and Sarnath day trips."
+metaTitle: >-
+  Taj Ganges Varanasi Taxi Service | Premium Transport for Hotel Guests |
+  KashiTaxi
+metaDescription: >-
+  Premium taxi service for Taj Ganges Varanasi guests. Reliable transport for
+  ghat tours, sightseeing & airport transfers. Book now!
+description: >-
+  Dedicated taxi and transport service for Taj Ganges Varanasi guests. Save 50%+
+  compared to hotel concierge. Ghat tours, airport transfers, and Sarnath day
+  trips.
 location:
-  name: "Taj Ganges Hotel Varanasi"
-  address: "Nadesar Palace Grounds, Varanasi, Uttar Pradesh 221002"
+  name: Taj Ganges Hotel Varanasi
+  address: 'Nadesar Palace Grounds, Varanasi, Uttar Pradesh 221002'
 keywords:
-  - "taj ganges varanasi taxi service"
-  - "Taj Ganges taxi"
-  - "Taj Ganges hotel transport"
-  - "Taj Ganges ghat tour"
-  - "Taj Ganges airport transfer"
-  - "premium taxi Varanasi"
+  - taj ganges varanasi taxi service
+  - Taj Ganges taxi
+  - Taj Ganges hotel transport
+  - Taj Ganges ghat tour
+  - Taj Ganges airport transfer
+  - premium taxi Varanasi
 tags:
   - taxi
   - hotel-service
@@ -27,33 +36,49 @@ tags:
   - varanasi
 template: destination
 faqSchema:
-  - question: "Do you coordinate with Taj Ganges hotel staff?"
-    answer: "Yes, hotel reception can arrange our service for you, or you can contact us directly for the same pricing."
-  - question: "Is English guaranteed with your drivers?"
-    answer: "Yes, all our guides and drivers are fluent English speakers trained for international guests."
-  - question: "Can you accommodate dietary preferences on tours?"
-    answer: "Absolutely – vegetarian, vegan, and gluten-free options are all accommodated on our tours."
-  - question: "What if we want to change our planned itinerary?"
-    answer: "Perfect! Tell us and we adapt the plan in real-time. Flexibility is our specialty."
-  - question: "Do you offer photographer guides?"
-    answer: "Yes, professional photographer guides are available for ₹500 extra."
+  - question: Do you coordinate with Taj Ganges hotel staff?
+    answer: >-
+      Yes, hotel reception can arrange our service for you, or you can contact
+      us directly for the same pricing.
+  - question: Is English guaranteed with your drivers?
+    answer: >-
+      Yes, all our guides and drivers are fluent English speakers trained for
+      international guests.
+  - question: Can you accommodate dietary preferences on tours?
+    answer: >-
+      Absolutely – vegetarian, vegan, and gluten-free options are all
+      accommodated on our tours.
+  - question: What if we want to change our planned itinerary?
+    answer: >-
+      Perfect! Tell us and we adapt the plan in real-time. Flexibility is our
+      specialty.
+  - question: Do you offer photographer guides?
+    answer: 'Yes, professional photographer guides are available for ₹500 extra.'
 offers:
-  - price: "800"
-    priceCurrency: "INR"
-    name: "Sunrise Ghat Tour"
-  - price: "1000"
-    priceCurrency: "INR"
-    name: "Sunset Ghat + Ganga Aarti"
-  - price: "1200"
-    priceCurrency: "INR"
-    name: "Airport Transfer"
+  - price: '800'
+    priceCurrency: INR
+    name: Sunrise Ghat Tour
+  - price: '1000'
+    priceCurrency: INR
+    name: Sunset Ghat + Ganga Aarti
+  - price: '1200'
+    priceCurrency: INR
+    name: Airport Transfer
 provider:
-  name: "Kashi Taxi"
-  telephone: "+91-8062182380"
-areaServed: ["Taj Ganges Hotel", "Varanasi Ghats", "Sarnath", "Varanasi Airport"]
+  name: Kashi Taxi
+  telephone: +91-8062182380
+areaServed:
+  - Taj Ganges Hotel
+  - Varanasi Ghats
+  - Sarnath
+  - Varanasi Airport
 aggregateRating:
-  ratingValue: "4.9"
-  reviewCount: "980"
+  ratingValue: '4.9'
+  reviewCount: '980'
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # Staying at Taj Ganges Varanasi? Hire Our Premium Taxi Service

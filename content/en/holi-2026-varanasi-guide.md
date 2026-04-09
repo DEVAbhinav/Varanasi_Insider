@@ -1,39 +1,61 @@
 ---
-title: "Holi 2026 in Varanasi: Complete Guide to Playing Holi in Banaras"
-slug: "holi-2026-varanasi-guide"
-date: "2026-04-06"
-lastUpdated: "2026-04-06"
-author: "Varanasi Insider Team"
+title: 'Holi 2026 in Varanasi: Complete Guide to Playing Holi in Banaras'
+slug: holi-2026-varanasi-guide
+date: '2026-04-06'
+lastUpdated: '2026-04-06'
+author: Varanasi Insider Team
 lang: en
-metaTitle: "Holi 2026 in Varanasi | Festival Guide, Best Spots, When & Where"
-metaDescription: "Holi 2026 Varanasi guide: Holika Dahan March 13, Rangwali Holi March 14. Best spots, ghat celebrations, taxi booking, safety tips for playing Holi in Banaras."
-description: "Complete guide to celebrating Holi 2026 in Varanasi — dates, best ghats, old city celebrations, taxi booking, safety, hotel areas, and insider tips from local operators."
+metaTitle: 'Holi 2026 in Varanasi | Festival Guide, Best Spots, When & Where'
+metaDescription: >-
+  Holi 2026 Varanasi guide: Holika Dahan March 13, Rangwali Holi March 14. Best
+  spots, ghat celebrations, taxi booking, safety tips for playing Holi in
+  Banaras.
+description: >-
+  Complete guide to celebrating Holi 2026 in Varanasi — dates, best ghats, old
+  city celebrations, taxi booking, safety, hotel areas, and insider tips from
+  local operators.
 keywords:
-  - "Holi in Varanasi"
-  - "Holi 2026 Varanasi"
-  - "Varanasi Holi celebration"
-  - "Holi at Varanasi ghats"
-  - "Banaras Holi guide"
-  - "Rangwali Holi Varanasi"
-  - "Holika Dahan Varanasi 2026"
-  - "where to play Holi in Varanasi"
+  - Holi in Varanasi
+  - Holi 2026 Varanasi
+  - Varanasi Holi celebration
+  - Holi at Varanasi ghats
+  - Banaras Holi guide
+  - Rangwali Holi Varanasi
+  - Holika Dahan Varanasi 2026
+  - where to play Holi in Varanasi
 tags:
   - festivals
   - holi
   - varanasi events
 template: blog
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
-ctaTitle: "Visiting Varanasi for Holi 2026?"
-ctaSubtitle: "Book your taxi for safe transport during the colorful chaos. Airport pickup, ghat transfers, and hotel drop-offs."
+featuredImage: >-
+  https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg
+ctaTitle: Visiting Varanasi for Holi 2026?
+ctaSubtitle: >-
+  Book your taxi for safe transport during the colorful chaos. Airport pickup,
+  ghat transfers, and hotel drop-offs.
 faqSchema:
-  - q: "When is Holi 2026 in Varanasi?"
-    a: "Holika Dahan is March 13 (Friday evening) and Rangwali Holi (colors) is March 14 (Saturday) in Varanasi."
-  - q: "Where is the best place to play Holi in Varanasi?"
-    a: "Assi Ghat, Dashashwamedh Ghat, and the old city lanes near Vishwanath Gali are the most vibrant spots. BHU campus also has a famous celebration."
-  - q: "Is it safe to play Holi in Varanasi?"
-    a: "Yes, with basic precautions. Apply coconut oil before going out, carry only essentials, use organic colors. Avoid isolated lanes. Our drivers can be your safe pickup point."
-  - q: "How much does a taxi cost during Holi in Varanasi?"
-    a: "Airport pickup ₹899-1,200. Full-day city tour ₹2,500-3,500. Most vehicles need post-Holi cleaning charge of ₹200-300 extra."
+  - q: When is Holi 2026 in Varanasi?
+    a: >-
+      Holika Dahan is March 13 (Friday evening) and Rangwali Holi (colors) is
+      March 14 (Saturday) in Varanasi.
+  - q: Where is the best place to play Holi in Varanasi?
+    a: >-
+      Assi Ghat, Dashashwamedh Ghat, and the old city lanes near Vishwanath Gali
+      are the most vibrant spots. BHU campus also has a famous celebration.
+  - q: Is it safe to play Holi in Varanasi?
+    a: >-
+      Yes, with basic precautions. Apply coconut oil before going out, carry
+      only essentials, use organic colors. Avoid isolated lanes. Our drivers can
+      be your safe pickup point.
+  - q: How much does a taxi cost during Holi in Varanasi?
+    a: >-
+      Airport pickup ₹899-1,200. Full-day city tour ₹2,500-3,500. Most vehicles
+      need post-Holi cleaning charge of ₹200-300 extra.
+relatedPosts:
+  - ganga-aarti-timing-varanasi-2026
+  - best-time-to-visit-varanasi
+  - varanasi-sunrise-boat-ride-timings
 ---
 
 # Holi 2026 in Varanasi — The Unfiltered Guide to Banaras Ka Holi

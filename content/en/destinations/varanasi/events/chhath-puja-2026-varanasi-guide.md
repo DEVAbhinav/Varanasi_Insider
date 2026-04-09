@@ -1,56 +1,81 @@
 ---
-title: "Chhath Puja 2026 Varanasi: Dates, Best Ghats & Taxi Booking Guide"
-slug: "chhath-puja-2026-varanasi-guide"
-date: "2026-04-06"
-lastUpdated: "2026-04-06"
-author: "Varanasi Insider Team"
+title: 'Chhath Puja 2026 Varanasi: Dates, Best Ghats & Taxi Booking Guide'
+slug: chhath-puja-2026-varanasi-guide
+date: '2026-04-06'
+lastUpdated: '2026-04-06'
+author: Varanasi Insider Team
 lang: en
-metaTitle: "Chhath Puja 2026 Varanasi | Oct 28-31 Dates, Ghats, Taxi Booking"
-metaDescription: "Chhath Puja 2026 Varanasi guide: Oct 28-31 dates, best ghats, airport taxi ₹899, station pickup, road closures & booking. Local operator since 2016."
-description: "Complete Chhath Puja 2026 Varanasi guide with exact dates (Oct 28-31), best ghats for Arghya, airport/station taxi fares, road closure alerts, and advance booking for Chhath week rush."
+metaTitle: 'Chhath Puja 2026 Varanasi | Oct 28-31 Dates, Ghats, Taxi Booking'
+metaDescription: >-
+  Chhath Puja 2026 Varanasi guide: Oct 28-31 dates, best ghats, airport taxi
+  ₹899, station pickup, road closures & booking. Local operator since 2016.
+description: >-
+  Complete Chhath Puja 2026 Varanasi guide with exact dates (Oct 28-31), best
+  ghats for Arghya, airport/station taxi fares, road closure alerts, and advance
+  booking for Chhath week rush.
 keywords:
-  - "chhath puja 2026 varanasi"
-  - "chhath puja varanasi ghat"
-  - "chhath puja taxi booking varanasi"
-  - "varanasi airport taxi chhath puja"
-  - "chhath ghat varanasi"
-  - "chhath puja 2026 dates"
-  - "namo ghat chhath puja"
-  - "sandhya arghya varanasi 2026"
-  - "usha arghya varanasi ghat"
-  - "chhath puja varanasi travel guide"
+  - chhath puja 2026 varanasi
+  - chhath puja varanasi ghat
+  - chhath puja taxi booking varanasi
+  - varanasi airport taxi chhath puja
+  - chhath ghat varanasi
+  - chhath puja 2026 dates
+  - namo ghat chhath puja
+  - sandhya arghya varanasi 2026
+  - usha arghya varanasi ghat
+  - chhath puja varanasi travel guide
 tags:
   - events
   - religious festivals
   - chhath puja
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
-eyebrow: "Chhath Puja Festival Guide"
-ctaTitle: "Visiting Varanasi for Chhath Puja 2026?"
-ctaSubtitle: "Book your taxi for airport pickup, ghat transfers, and station drop during the festival rush."
-startDate: "2026-10-28"
-endDate: "2026-10-31"
+featuredImage: >-
+  https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg
+eyebrow: Chhath Puja Festival Guide
+ctaTitle: Visiting Varanasi for Chhath Puja 2026?
+ctaSubtitle: >-
+  Book your taxi for airport pickup, ghat transfers, and station drop during the
+  festival rush.
+startDate: '2026-10-28'
+endDate: '2026-10-31'
 location:
-  name: "Varanasi Ghats"
-  address: "Varanasi, Uttar Pradesh"
+  name: Varanasi Ghats
+  address: 'Varanasi, Uttar Pradesh'
 offers:
-  - price: "0"
-    priceCurrency: "INR"
+  - price: '0'
+    priceCurrency: INR
 organizer:
-  name: "Varanasi Municipal Corporation"
+  name: Varanasi Municipal Corporation
 faqSchema:
-  - q: "When is Chhath Puja 2026 in Varanasi?"
-    a: "Chhath Puja 2026 runs October 28-31. Sandhya Arghya (sunset offering) is October 30, Usha Arghya (sunrise offering) is October 31."
-  - q: "Which ghats are best for Chhath Puja in Varanasi?"
-    a: "Chhath Ghat (near Tulsi Ghat), Assi Ghat, and Namo Ghat are the main Chhath Puja celebration spots. Namo Ghat is newest and less crowded."
-  - q: "How much does airport to ghat taxi cost during Chhath Puja?"
-    a: "Airport to ghat fare is ₹899-1,200 for sedan, ₹1,800 for Innova. Book in advance as surge pricing applies during Chhath week."
-  - q: "Are roads closed during Chhath Puja in Varanasi?"
-    a: "Yes — ghat approach roads close from 3 PM on Oct 30 (Sandhya Arghya) and reopen by noon on Oct 31. Plan arrivals before 2 PM or expect detours."
-  - q: "Can I get a taxi from Varanasi airport during Chhath Puja?"
-    a: "Yes, but only if pre-booked. Walk-in counters at the airport charge 2-3x normal fares. We hold confirmed bookings at fixed rates through Chhath week."
-  - q: "Which train station is closest to the Chhath ghats?"
-    a: "Varanasi City station (Cantt) is closest to most ghats at ~5 km. Varanasi Junction is ~7 km. Manduadih is ~4 km from the southern ghats like Assi."
+  - q: When is Chhath Puja 2026 in Varanasi?
+    a: >-
+      Chhath Puja 2026 runs October 28-31. Sandhya Arghya (sunset offering) is
+      October 30, Usha Arghya (sunrise offering) is October 31.
+  - q: Which ghats are best for Chhath Puja in Varanasi?
+    a: >-
+      Chhath Ghat (near Tulsi Ghat), Assi Ghat, and Namo Ghat are the main
+      Chhath Puja celebration spots. Namo Ghat is newest and less crowded.
+  - q: How much does airport to ghat taxi cost during Chhath Puja?
+    a: >-
+      Airport to ghat fare is ₹899-1,200 for sedan, ₹1,800 for Innova. Book in
+      advance as surge pricing applies during Chhath week.
+  - q: Are roads closed during Chhath Puja in Varanasi?
+    a: >-
+      Yes — ghat approach roads close from 3 PM on Oct 30 (Sandhya Arghya) and
+      reopen by noon on Oct 31. Plan arrivals before 2 PM or expect detours.
+  - q: Can I get a taxi from Varanasi airport during Chhath Puja?
+    a: >-
+      Yes, but only if pre-booked. Walk-in counters at the airport charge 2-3x
+      normal fares. We hold confirmed bookings at fixed rates through Chhath
+      week.
+  - q: Which train station is closest to the Chhath ghats?
+    a: >-
+      Varanasi City station (Cantt) is closest to most ghats at ~5 km. Varanasi
+      Junction is ~7 km. Manduadih is ~4 km from the southern ghats like Assi.
+relatedPosts:
+  - ganga-aarti-timing-varanasi-2026
+  - best-time-to-visit-varanasi
+  - varanasi-sunrise-boat-ride-timings
 ---
 
 # Chhath Puja 2026 Varanasi: Complete Guide to Dates, Ghats & Taxi Booking

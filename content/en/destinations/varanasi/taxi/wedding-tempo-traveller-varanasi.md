@@ -1,19 +1,23 @@
 ---
-title: "Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | KashiTaxi"
-slug: "wedding-tempo-traveller-varanasi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
-author: "Kamal Nayan Singh"
+title: Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | KashiTaxi
+slug: wedding-tempo-traveller-varanasi
+date: '2026-11-25'
+lastUpdated: '2026-11-25'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | KashiTaxi"
-metaDescription: "Luxury wedding cabs and tempo traveller rental for groups in Varanasi. 12-17 seater AC vehicles. Special wedding packages & decorations."
-description: "Luxury wedding cabs and tempo traveller rental for groups in Varanasi. 12-17 seater AC vehicles. Special wedding packages & decorations."
+metaTitle: Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | KashiTaxi
+metaDescription: >-
+  Luxury wedding cabs and tempo traveller rental for groups in Varanasi. 12-17
+  seater AC vehicles. Special wedding packages & decorations.
+description: >-
+  Luxury wedding cabs and tempo traveller rental for groups in Varanasi. 12-17
+  seater AC vehicles. Special wedding packages & decorations.
 keywords:
-  - "wedding car rental Varanasi"
-  - "tempo traveller Varanasi"
-  - "group taxi Varanasi"
-  - "12 seater tempo"
-  - "wedding transport"
+  - wedding car rental Varanasi
+  - tempo traveller Varanasi
+  - group taxi Varanasi
+  - 12 seater tempo
+  - wedding transport
 tags:
   - taxi
   - wedding
@@ -21,16 +25,28 @@ tags:
   - tempo-traveller
 template: destination
 faqSchema:
-  - question: "How much advance booking is needed for wedding?"
-    answer: "Minimum 1 week for decorations & special arrangements. 2 weeks recommended for multi-vehicle bookings."
-  - question: "Can you customize vehicle decorations?"
-    answer: "Yes, we can incorporate your theme. Additional cost ₹500-1000 depending on complexity."
-  - question: "Is driver change allowed during multi-day tours?"
-    answer: "Not recommended for consistency. Same driver provides better service & route knowledge. Available if medically needed."
-  - question: "What if group size increases after booking?"
-    answer: "We can add vehicles with 24-hour notice. No cancellation penalty."
-  - question: "Can we book tempo traveller for just 4-5 hours?"
-    answer: "Yes, hourly rates apply with 4-hour minimum. Same day booking available if vehicle is free."
+  - question: How much advance booking is needed for wedding?
+    answer: >-
+      Minimum 1 week for decorations & special arrangements. 2 weeks recommended
+      for multi-vehicle bookings.
+  - question: Can you customize vehicle decorations?
+    answer: >-
+      Yes, we can incorporate your theme. Additional cost ₹500-1000 depending on
+      complexity.
+  - question: Is driver change allowed during multi-day tours?
+    answer: >-
+      Not recommended for consistency. Same driver provides better service &
+      route knowledge. Available if medically needed.
+  - question: What if group size increases after booking?
+    answer: We can add vehicles with 24-hour notice. No cancellation penalty.
+  - question: Can we book tempo traveller for just 4-5 hours?
+    answer: >-
+      Yes, hourly rates apply with 4-hour minimum. Same day booking available if
+      vehicle is free.
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # Wedding Cabs & Tempo Traveller Rental in Varanasi | Group Travel Solutions

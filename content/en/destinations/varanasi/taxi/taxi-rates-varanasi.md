@@ -1,23 +1,27 @@
 ---
-title: "Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi"
-slug: "taxi-rates-varanasi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
-author: "Kamal Nayan Singh"
+title: Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi
+slug: taxi-rates-varanasi
+date: '2026-11-25'
+lastUpdated: '2026-11-25'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi"
-metaDescription: "Check transparent taxi rates in Varanasi. Airport transfer, city tour, outstation rates. No hidden charges, fixed fares. Book now."
-description: "Complete guide to taxi rates in Varanasi for 2026. Check per km charges for sedan, SUV, and tempo traveller. Airport transfer and sightseeing costs."
+metaTitle: Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi
+metaDescription: >-
+  Check transparent taxi rates in Varanasi. Airport transfer, city tour,
+  outstation rates. No hidden charges, fixed fares. Book now.
+description: >-
+  Complete guide to taxi rates in Varanasi for 2026. Check per km charges for
+  sedan, SUV, and tempo traveller. Airport transfer and sightseeing costs.
 location:
-  name: "Varanasi"
-  address: "Varanasi, Uttar Pradesh"
+  name: Varanasi
+  address: 'Varanasi, Uttar Pradesh'
 keywords:
-  - "Varanasi taxi fare"
-  - "varanasi taxi service rates"
-  - "Varanasi cab rates"
-  - "cheap cab Varanasi"
-  - "best taxi service rates"
-  - "Varanasi taxi pricing"
+  - Varanasi taxi fare
+  - varanasi taxi service rates
+  - Varanasi cab rates
+  - cheap cab Varanasi
+  - best taxi service rates
+  - Varanasi taxi pricing
 tags:
   - taxi
   - pricing
@@ -25,27 +29,36 @@ tags:
   - varanasi
 template: destination
 faqSchema:
-  - question: "Are rates per person or per vehicle?"
-    answer: "All rates are per vehicle. Split among passengers to reduce cost."
-  - question: "Do you charge for waiting time?"
-    answer: "First 15 minutes included. After that, ₹2/minute or ₹120/hour."
-  - question: "Can I negotiate rates?"
-    answer: "Rates are fixed and non-negotiable. We believe transparency is better than haggling."
-  - question: "Are rates different during peak season?"
-    answer: "No, rates remain same year-round. Peak season discounts may apply occasionally."
-  - question: "What if I want a multi-day package?"
-    answer: "Call us for custom quotes. Multi-day trips get better rates."
+  - question: Are rates per person or per vehicle?
+    answer: All rates are per vehicle. Split among passengers to reduce cost.
+  - question: Do you charge for waiting time?
+    answer: 'First 15 minutes included. After that, ₹2/minute or ₹120/hour.'
+  - question: Can I negotiate rates?
+    answer: >-
+      Rates are fixed and non-negotiable. We believe transparency is better than
+      haggling.
+  - question: Are rates different during peak season?
+    answer: >-
+      No, rates remain same year-round. Peak season discounts may apply
+      occasionally.
+  - question: What if I want a multi-day package?
+    answer: Call us for custom quotes. Multi-day trips get better rates.
 offers:
-  - price: "600"
-    priceCurrency: "INR"
-    name: "Airport Transfer"
+  - price: '600'
+    priceCurrency: INR
+    name: Airport Transfer
 provider:
-  name: "Kashi Taxi"
-  telephone: "+91-8062182380"
-areaServed: ["Varanasi"]
+  name: Kashi Taxi
+  telephone: +91-8062182380
+areaServed:
+  - Varanasi
 aggregateRating:
-  ratingValue: "4.9"
-  reviewCount: "300"
+  ratingValue: '4.9'
+  reviewCount: '300'
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi

@@ -1,24 +1,28 @@
 ---
-title: "One-Way Taxi & Round-Trip Cab Service in Varanasi | KashiTaxi"
-slug: "one-way-taxi-varanasi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
-author: "Kamal Nayan Singh"
+title: One-Way Taxi & Round-Trip Cab Service in Varanasi | KashiTaxi
+slug: one-way-taxi-varanasi
+date: '2026-11-25'
+lastUpdated: '2026-11-25'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "One-Way Taxi & Round-Trip Cab Service in Varanasi | KashiTaxi"
-metaDescription: "Book one-way and round-trip taxis in Varanasi. Flexible drop-off, transparent pricing, professional drivers. Airport, hotels, stations available."
-description: "Book one-way taxi from Varanasi to Prayagraj, Ayodhya, Gaya, and more. Save up to 40% on return fare. Reliable intercity cab service."
+metaTitle: One-Way Taxi & Round-Trip Cab Service in Varanasi | KashiTaxi
+metaDescription: >-
+  Book one-way and round-trip taxis in Varanasi. Flexible drop-off, transparent
+  pricing, professional drivers. Airport, hotels, stations available.
+description: >-
+  Book one-way taxi from Varanasi to Prayagraj, Ayodhya, Gaya, and more. Save up
+  to 40% on return fare. Reliable intercity cab service.
 location:
-  name: "Varanasi"
-  address: "Varanasi, Uttar Pradesh"
+  name: Varanasi
+  address: 'Varanasi, Uttar Pradesh'
 keywords:
-  - "one way taxi Varanasi"
-  - "round trip taxi Varanasi"
-  - "taxi service in varanasi"
-  - "taxi varanasi"
-  - "one way cab"
-  - "Varanasi round trip"
-  - "point to point taxi"
+  - one way taxi Varanasi
+  - round trip taxi Varanasi
+  - taxi service in varanasi
+  - taxi varanasi
+  - one way cab
+  - Varanasi round trip
+  - point to point taxi
 tags:
   - taxi
   - one-way
@@ -26,27 +30,36 @@ tags:
   - varanasi
 template: destination
 faqSchema:
-  - question: "What if I need to modify my return date?"
-    answer: "No problem. Call us anytime to change drop-off date. First change is free."
-  - question: "Can I book a one-way from airport but haven't booked return yet?"
-    answer: "Yes, completely flexible. Decide your return date later and book when ready."
-  - question: "Is there a round-trip package for just 2 days?"
-    answer: "Yes, our Airport Round-Trip package is perfect for 1-2 day stays at ₹1800."
-  - question: "Can I combine different routes in a round-trip package?"
-    answer: "Absolutely. Design your own package. Call for custom quote."
-  - question: "What if I need to add extra stops during the journey?"
-    answer: "Extra stops charged at ₹100-150 per stop, or included in our hourly rate for round-trip bookings."
+  - question: What if I need to modify my return date?
+    answer: No problem. Call us anytime to change drop-off date. First change is free.
+  - question: Can I book a one-way from airport but haven't booked return yet?
+    answer: >-
+      Yes, completely flexible. Decide your return date later and book when
+      ready.
+  - question: Is there a round-trip package for just 2 days?
+    answer: 'Yes, our Airport Round-Trip package is perfect for 1-2 day stays at ₹1800.'
+  - question: Can I combine different routes in a round-trip package?
+    answer: Absolutely. Design your own package. Call for custom quote.
+  - question: What if I need to add extra stops during the journey?
+    answer: >-
+      Extra stops charged at ₹100-150 per stop, or included in our hourly rate
+      for round-trip bookings.
 offers:
-  - price: "600"
-    priceCurrency: "INR"
-    name: "One Way Transfer"
+  - price: '600'
+    priceCurrency: INR
+    name: One Way Transfer
 provider:
-  name: "Kashi Taxi"
-  telephone: "+91-8062182380"
-areaServed: ["Varanasi"]
+  name: Kashi Taxi
+  telephone: +91-8062182380
+areaServed:
+  - Varanasi
 aggregateRating:
-  ratingValue: "4.8"
-  reviewCount: "250"
+  ratingValue: '4.8'
+  reviewCount: '250'
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # One-Way Taxi & Round-Trip Cab Service in Varanasi

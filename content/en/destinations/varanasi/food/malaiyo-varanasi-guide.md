@@ -1,42 +1,67 @@
 ---
-title: "Malaiyo in Varanasi (2026): Best Places, Timings & Price Guide"
-slug: "malaiyo-varanasi-guide"
-date: "2026-11-20"
-lastUpdated: "2026-02-05"
-author: "Varanasi Insider Team"
+title: 'Malaiyo in Varanasi (2026): Best Places, Timings & Price Guide'
+slug: malaiyo-varanasi-guide
+date: '2026-11-20'
+lastUpdated: '2026-02-05'
+author: Varanasi Insider Team
 lang: en
-metaTitle: "Malaiyo Varanasi [2026]: ₹50 | Sells Out by 11 AM (Winter Only)"
-metaDescription: "Taste Varanasi's famous winter dessert Malaiyo. Expert guide to best shops (Markandey), exact timings (until 11 AM), and price. Eat like a local."
-description: "Ultimate 2026 guide to Malaiyo in Varanasi – where to eat it, ideal timings, price ranges, and insider tips on pairing it with sunrise walks, yoga, or shopping sprees."
+metaTitle: 'Malaiyo Varanasi [2026]: ₹50 | Sells Out by 11 AM (Winter Only)'
+metaDescription: >-
+  Taste Varanasi's famous winter dessert Malaiyo. Expert guide to best shops
+  (Markandey), exact timings (until 11 AM), and price. Eat like a local.
+description: >-
+  Ultimate 2026 guide to Malaiyo in Varanasi – where to eat it, ideal timings,
+  price ranges, and insider tips on pairing it with sunrise walks, yoga, or
+  shopping sprees.
 keywords:
-  - "Malaiyo Varanasi"
-  - "malaiyo"
-  - "banaras malaiyo"
-  - "Varanasi winter food"
-  - "best malaiyo in varanasi"
-  - "makhan malai varanasi"
-  - "nimish varanasi"
-  - "Thatheri Bazar food"
+  - Malaiyo Varanasi
+  - malaiyo
+  - banaras malaiyo
+  - Varanasi winter food
+  - best malaiyo in varanasi
+  - makhan malai varanasi
+  - nimish varanasi
+  - Thatheri Bazar food
 tags:
   - food
   - street food
   - winter special
 template: destination
 faqSchema:
-  - question: "What is Malaiyo in Varanasi?"
-    answer: "Malaiyo (also called Makhan Malai or Nimish) is a cloud-like milk foam dessert available only in winter (November-February) in Varanasi. It's made by leaving boiled milk overnight under the cold open sky, which creates a delicate froth that is skimmed at dawn and served in clay cups."
-  - question: "Where can I find the best Malaiyo in Varanasi?"
-    answer: "The best Malaiyo is found in Thatheri Bazar, Chaukhamba Lane, and near Vishwanath Gali in old Varanasi. Markandey and other heritage vendors in these lanes are known for authentic, freshly skimmed Malaiyo."
-  - question: "What time should I go to eat Malaiyo?"
-    answer: "Go between 5:30–8:00 AM for the freshest Malaiyo. Most vendors sell out by 10-11 AM because the foam collapses as the sun warms it. Earlier is always better."
-  - question: "How much does Malaiyo cost in Varanasi?"
-    answer: "A serving of Malaiyo costs ₹20-50 per kulhad (clay cup) for regular, and ₹40-70 for premium or flavored versions."
-  - question: "Why is Malaiyo available only in winter?"
-    answer: "Malaiyo requires cold overnight temperatures (8-15°C) and clear skies for the milk to properly froth. These conditions exist only from late November through February in Varanasi."
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
-eyebrow: "Culinary Gem"
-ctaTitle: "Planning a Food Walk?"
-ctaSubtitle: "Book a taxi to Godowlia or Chowk to start your morning culinary exploration."
+  - question: What is Malaiyo in Varanasi?
+    answer: >-
+      Malaiyo (also called Makhan Malai or Nimish) is a cloud-like milk foam
+      dessert available only in winter (November-February) in Varanasi. It's
+      made by leaving boiled milk overnight under the cold open sky, which
+      creates a delicate froth that is skimmed at dawn and served in clay cups.
+  - question: Where can I find the best Malaiyo in Varanasi?
+    answer: >-
+      The best Malaiyo is found in Thatheri Bazar, Chaukhamba Lane, and near
+      Vishwanath Gali in old Varanasi. Markandey and other heritage vendors in
+      these lanes are known for authentic, freshly skimmed Malaiyo.
+  - question: What time should I go to eat Malaiyo?
+    answer: >-
+      Go between 5:30–8:00 AM for the freshest Malaiyo. Most vendors sell out by
+      10-11 AM because the foam collapses as the sun warms it. Earlier is always
+      better.
+  - question: How much does Malaiyo cost in Varanasi?
+    answer: >-
+      A serving of Malaiyo costs ₹20-50 per kulhad (clay cup) for regular, and
+      ₹40-70 for premium or flavored versions.
+  - question: Why is Malaiyo available only in winter?
+    answer: >-
+      Malaiyo requires cold overnight temperatures (8-15°C) and clear skies for
+      the milk to properly froth. These conditions exist only from late November
+      through February in Varanasi.
+featuredImage: >-
+  https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png
+eyebrow: Culinary Gem
+ctaTitle: Planning a Food Walk?
+ctaSubtitle: Book a taxi to Godowlia or Chowk to start your morning culinary exploration.
+relatedPosts:
+  - best-time-to-visit-varanasi
+  - varanasi-street-food-guide
+  - same-day-varanasi-tour
 ---
 
 # Malaiyo – The Rare Winter Sweet Only Found in December

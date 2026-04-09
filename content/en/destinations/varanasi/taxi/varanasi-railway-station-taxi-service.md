@@ -1,40 +1,60 @@
 ---
-title: "Varanasi Railway Station Taxi Service 2026: Pickup, Drop & Pre-Book Guide"
-slug: "varanasi-railway-station-taxi-service"
-date: "2026-04-06"
-lastUpdated: "2026-04-06"
-author: "Varanasi Insider Team"
+title: 'Varanasi Railway Station Taxi Service 2026: Pickup, Drop & Pre-Book Guide'
+slug: varanasi-railway-station-taxi-service
+date: '2026-04-06'
+lastUpdated: '2026-04-06'
+author: Varanasi Insider Team
 lang: en
-metaTitle: "Varanasi Railway Station Taxi 2026 | Junction, Manduadih, City Station Pickup"
-metaDescription: "Pre-book Varanasi railway station taxi from ₹800. Junction (BSB), Manduadih (MUV), City (BCY) pickup & drop. Fixed fare, no scams, 24/7 service."
-description: "Complete guide to taxi services at all 3 Varanasi railway stations — Varanasi Junction, Manduadih, and City Station. Fixed fares, pre-booking, and scam-free transport."
+metaTitle: 'Varanasi Railway Station Taxi 2026 | Junction, Manduadih, City Station Pickup'
+metaDescription: >-
+  Pre-book Varanasi railway station taxi from ₹800. Junction (BSB), Manduadih
+  (MUV), City (BCY) pickup & drop. Fixed fare, no scams, 24/7 service.
+description: >-
+  Complete guide to taxi services at all 3 Varanasi railway stations — Varanasi
+  Junction, Manduadih, and City Station. Fixed fares, pre-booking, and scam-free
+  transport.
 keywords:
-  - "Varanasi railway station taxi"
-  - "Varanasi Junction cab booking"
-  - "Manduadih station taxi"
-  - "BSB station taxi"
-  - "Varanasi City station cab"
-  - "taxi from Varanasi station"
-  - "Varanasi station to hotel taxi"
-  - "pre-book taxi Varanasi station"
+  - Varanasi railway station taxi
+  - Varanasi Junction cab booking
+  - Manduadih station taxi
+  - BSB station taxi
+  - Varanasi City station cab
+  - taxi from Varanasi station
+  - Varanasi station to hotel taxi
+  - pre-book taxi Varanasi station
 tags:
   - taxi service
   - railway station
   - varanasi transport
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
-eyebrow: "Station Taxi Service"
-ctaTitle: "Arriving at Varanasi by train?"
-ctaSubtitle: "Pre-book your station pickup — driver waiting at exit with name board. No haggling, no scams, fixed fare."
+featuredImage: >-
+  https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg
+eyebrow: Station Taxi Service
+ctaTitle: Arriving at Varanasi by train?
+ctaSubtitle: >-
+  Pre-book your station pickup — driver waiting at exit with name board. No
+  haggling, no scams, fixed fare.
 faqSchema:
-  - q: "How much does a taxi cost from Varanasi Junction to hotels?"
-    a: "Sedan ₹800-1,000 to most hotels near ghats. Innova ₹1,200-1,400. Night charge (after 10 PM) adds ₹200-300."
-  - q: "Is prepaid taxi available at Varanasi Junction?"
-    a: "Yes, there's a prepaid booth at Varanasi Junction, but it's often closed at night. Pre-booking via WhatsApp is more reliable."
-  - q: "Which is the best railway station in Varanasi for tourists?"
-    a: "Varanasi Junction (BSB) is best connected. Manduadih (MUV) is less chaotic and preferred if your train stops there."
-  - q: "How to avoid taxi scams at Varanasi station?"
-    a: "Pre-book your taxi, agree on fare before getting in, or use the prepaid booth. Avoid touts who approach you inside the station."
+  - q: How much does a taxi cost from Varanasi Junction to hotels?
+    a: >-
+      Sedan ₹800-1,000 to most hotels near ghats. Innova ₹1,200-1,400. Night
+      charge (after 10 PM) adds ₹200-300.
+  - q: Is prepaid taxi available at Varanasi Junction?
+    a: >-
+      Yes, there's a prepaid booth at Varanasi Junction, but it's often closed
+      at night. Pre-booking via WhatsApp is more reliable.
+  - q: Which is the best railway station in Varanasi for tourists?
+    a: >-
+      Varanasi Junction (BSB) is best connected. Manduadih (MUV) is less chaotic
+      and preferred if your train stops there.
+  - q: How to avoid taxi scams at Varanasi station?
+    a: >-
+      Pre-book your taxi, agree on fare before getting in, or use the prepaid
+      booth. Avoid touts who approach you inside the station.
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # Varanasi Railway Station Taxi Service — Pickup & Drop Guide 2026

@@ -30,6 +30,8 @@ tags:
   - temples
   - ganga aarti
 relatedPosts:
+  - tourist-spots-varanasi
+  - varanasi-local-sightseeing-package
   - guide-to-ghats-of-varanasi
   - best-time-to-visit-varanasi
   - varanasi-airport-taxi-guide
@@ -1003,6 +1005,13 @@ Keep these numbers handy during your Varanasi visit:
 Foreign nationals should note their embassy/consulate contacts in Delhi or Kolkata (nearest major cities with diplomatic missions).
 
 **Important**: When dialing from international roaming, prefix numbers with +91-542 (Varanasi city code).
+
+---
+
+## Explore More Varanasi Guides
+
+- **[Varanasi Tourist Spots — Complete Attraction Reference](/en/tourist-spots-varanasi):** Every temple, ghat, and heritage site with entry fees, timings, photography rules, and accessibility notes.
+- **[Varanasi Local Sightseeing Package — Book Your Tour](/en/destinations/varanasi/sightseeing/varanasi-local-sightseeing-package):** Ready-to-book half-day and full-day car tours from ₹1,800 with transparent pricing and pre-designed itineraries.
 
 ---
 

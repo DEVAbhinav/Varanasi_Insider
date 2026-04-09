@@ -1,22 +1,27 @@
 ---
-title: "Kedar Ghat & Harishchandra Ghat Taxi Service (Pilgrims & Seekers)"
-slug: "kedar-harishchandra-ghat-taxi-service"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
-author: "Kamal Nayan Singh"
+title: Kedar Ghat & Harishchandra Ghat Taxi Service (Pilgrims & Seekers)
+slug: kedar-harishchandra-ghat-taxi-service
+date: '2026-12-09'
+lastUpdated: '2026-12-09'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Kedar & Harishchandra Ghat Taxi | South Indian Pilgrims, Spiritual Zone"
-metaDescription: "Respectful taxi service for Kedar and Harishchandra Ghats. Fixed pilgrim rates, cultural briefing, Maidagin/Kedar Gate access, no-honk driving near temples."
-description: "Taxi service for Kedar and Harishchandra Ghats with pilgrim-friendly drivers, cultural briefing, and fixed rates for sacred-zone travel."
+metaTitle: 'Kedar & Harishchandra Ghat Taxi | South Indian Pilgrims, Spiritual Zone'
+metaDescription: >-
+  Respectful taxi service for Kedar and Harishchandra Ghats. Fixed pilgrim
+  rates, cultural briefing, Maidagin/Kedar Gate access, no-honk driving near
+  temples.
+description: >-
+  Taxi service for Kedar and Harishchandra Ghats with pilgrim-friendly drivers,
+  cultural briefing, and fixed rates for sacred-zone travel.
 location:
-  name: "Kedar Ghat, Varanasi"
-  address: "Kedar Ghat, Garawasi Tola, Varanasi, Uttar Pradesh 221001"
+  name: 'Kedar Ghat, Varanasi'
+  address: 'Kedar Ghat, Garawasi Tola, Varanasi, Uttar Pradesh 221001'
 keywords:
-  - "Kedar Ghat taxi"
-  - "Harishchandra Ghat cab"
-  - "South Indian pilgrims Varanasi"
-  - "Kedar Gate drop"
-  - "cremation ghat respectful visit"
+  - Kedar Ghat taxi
+  - Harishchandra Ghat cab
+  - South Indian pilgrims Varanasi
+  - Kedar Gate drop
+  - cremation ghat respectful visit
 tags:
   - taxi
   - kedar-ghat
@@ -24,14 +29,22 @@ tags:
   - pilgrims
 template: destination
 faqSchema:
-  - question: "What is the difference between Kedar, Harishchandra, and Manikarnika?"
-    answer: "Kedar is a Shiva temple ghat (not cremation). Harishchandra is a quieter cremation ghat. Manikarnika is the main cremation ghat with heavy crowds."
-  - question: "Will people understand South Indian languages here?"
-    answer: "Yes. Many locals and priests in this zone speak Tamil, Telugu, Kannada, and Malayalam; our drivers help with introductions."
-  - question: "Is it respectful to observe cremations at Harishchandra?"
-    answer: "Yes if you stand aside, stay quiet, dress modestly, and do not photograph."
-  - question: "Do you charge more for pilgrims?"
-    answer: "No surge or pilgrim markup. Rates are fixed 24 hours before the ride."
+  - question: 'What is the difference between Kedar, Harishchandra, and Manikarnika?'
+    answer: >-
+      Kedar is a Shiva temple ghat (not cremation). Harishchandra is a quieter
+      cremation ghat. Manikarnika is the main cremation ghat with heavy crowds.
+  - question: Will people understand South Indian languages here?
+    answer: >-
+      Yes. Many locals and priests in this zone speak Tamil, Telugu, Kannada,
+      and Malayalam; our drivers help with introductions.
+  - question: Is it respectful to observe cremations at Harishchandra?
+    answer: 'Yes if you stand aside, stay quiet, dress modestly, and do not photograph.'
+  - question: Do you charge more for pilgrims?
+    answer: No surge or pilgrim markup. Rates are fixed 24 hours before the ride.
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 <script type="application/ld+json">

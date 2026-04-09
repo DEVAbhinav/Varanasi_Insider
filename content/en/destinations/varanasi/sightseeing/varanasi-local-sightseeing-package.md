@@ -38,6 +38,7 @@ tags:
   - city tour
 relatedPosts:
   - varanasi-sightseeing-complete-guide
+  - tourist-spots-varanasi
   - varanasi-day-tour-cab-charges
   - services/varanasi-full-day-city-tour-winter-2026
   - tempo-traveller-varanasi
@@ -543,7 +544,8 @@ Professional photography service to capture your Varanasi memories:
 ## Related Varanasi Tour Resources
 
 **Comprehensive Guides:**
-- **[Varanasi Sightseeing Complete Guide](/en/varanasi-sightseeing-complete-guide)** - Detailed information on all attractions, timings, and travel tips
+- **[Varanasi Tourist Spots — Full Attraction Reference](/en/tourist-spots-varanasi)** - Every temple, ghat, and heritage site with entry fees, timings, and photography rules
+- **[Varanasi Sightseeing Complete Guide](/en/varanasi-sightseeing-complete-guide)** - Travel planning, itineraries, and practical tips
 - **[Varanasi Day Tour Cab Charges](/en/varanasi-day-tour-cab-charges)** - Complete pricing breakdown for different vehicle types
 - **[Varanasi Full Day City Tour Winter 2026](/en/services/varanasi-full-day-city-tour-winter-2026)** - Seasonal itineraries and weather-specific tips
 

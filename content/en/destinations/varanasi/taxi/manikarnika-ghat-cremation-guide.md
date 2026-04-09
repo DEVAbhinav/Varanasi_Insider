@@ -1,22 +1,26 @@
 ---
-title: "Manikarnika Ghat Taxi & Etiquette Guide (Sacred Cremation Access)"
-slug: "manikarnika-ghat-cremation-guide"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
-author: "Kamal Nayan Singh"
+title: Manikarnika Ghat Taxi & Etiquette Guide (Sacred Cremation Access)
+slug: manikarnika-ghat-cremation-guide
+date: '2026-12-09'
+lastUpdated: '2026-12-09'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Manikarnika Ghat Taxi Drop & Etiquette | Maidagin Access, No-Photo Rules"
-metaDescription: "Respectful access to Manikarnika Ghat: Maidagin drop, 200m walk, etiquette SMS, no-photo policy, fixed fares, and waiting service."
-description: "Cremation ghat access guide with Maidagin drop, 200 m walking route, etiquette briefing, and safe pickup-return logistics."
+metaTitle: 'Manikarnika Ghat Taxi Drop & Etiquette | Maidagin Access, No-Photo Rules'
+metaDescription: >-
+  Respectful access to Manikarnika Ghat: Maidagin drop, 200m walk, etiquette
+  SMS, no-photo policy, fixed fares, and waiting service.
+description: >-
+  Cremation ghat access guide with Maidagin drop, 200 m walking route, etiquette
+  briefing, and safe pickup-return logistics.
 location:
-  name: "Manikarnika Ghat (via Maidagin Gate)"
-  address: "Maidagin Gate, Varanasi, Uttar Pradesh 221001"
+  name: Manikarnika Ghat (via Maidagin Gate)
+  address: 'Maidagin Gate, Varanasi, Uttar Pradesh 221001'
 keywords:
-  - "Manikarnika Ghat taxi"
-  - "Maidagin drop"
-  - "cremation etiquette Varanasi"
-  - "no photo cremation ghat"
-  - "Manikarnika walking route"
+  - Manikarnika Ghat taxi
+  - Maidagin drop
+  - cremation etiquette Varanasi
+  - no photo cremation ghat
+  - Manikarnika walking route
 tags:
   - taxi
   - manikarnika-ghat
@@ -24,14 +28,26 @@ tags:
   - etiquette
 template: destination
 faqSchema:
-  - question: "Is it okay for foreigners to visit Manikarnika?"
-    answer: "Yes, if you are respectful, quiet, and do not photograph. Locals welcome sincere visitors and object to disrespect."
-  - question: "Can you drop closer than Maidagin?"
-    answer: "No. Maidagin is the legal, respectful drop point; the last 200 m is pedestrian-only and sacred."
-  - question: "Can I bring children?"
-    answer: "Teens are fine. Under-10s are not recommended because cremations can be intense."
-  - question: "Do you offer a guide to explain the ritual?"
-    answer: "There are no official guides, but cremation workers sometimes explain for a small tip; we can connect you on request."
+  - question: Is it okay for foreigners to visit Manikarnika?
+    answer: >-
+      Yes, if you are respectful, quiet, and do not photograph. Locals welcome
+      sincere visitors and object to disrespect.
+  - question: Can you drop closer than Maidagin?
+    answer: >-
+      No. Maidagin is the legal, respectful drop point; the last 200 m is
+      pedestrian-only and sacred.
+  - question: Can I bring children?
+    answer: >-
+      Teens are fine. Under-10s are not recommended because cremations can be
+      intense.
+  - question: Do you offer a guide to explain the ritual?
+    answer: >-
+      There are no official guides, but cremation workers sometimes explain for
+      a small tip; we can connect you on request.
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 <script type="application/ld+json">

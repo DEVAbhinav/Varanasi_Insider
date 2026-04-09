@@ -1,22 +1,27 @@
 ---
-title: "Reliable Taxi Service in Sigra, Varanasi (Near Shastri Nagar & IP Mall)"
-slug: "taxi-service-in-sigra-varanasi"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
-author: "Kamal Nayan Singh"
+title: 'Reliable Taxi Service in Sigra, Varanasi (Near Shastri Nagar & IP Mall)'
+slug: taxi-service-in-sigra-varanasi
+date: '2026-12-09'
+lastUpdated: '2026-12-09'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Sigra Taxi Service Varanasi: 10–15 min | From ₹800"
-metaDescription: "Book a Sigra cab near IP Mall/Rath Yatra: 10–15 min pickup, verified drivers, fixed fares on confirmed bookings. Airport drops from ₹800."
-description: "Local Sigra taxi service with office in Shastri Nagar. 10–15 minute pickups near IP Mall, Rath Yatra, Mahmoorganj. No surge pricing, fixed fares, verified drivers."
+metaTitle: 'Sigra Taxi Service Varanasi: 10–15 min | From ₹800'
+metaDescription: >-
+  Book a Sigra cab near IP Mall/Rath Yatra: 10–15 min pickup, verified drivers,
+  fixed fares on confirmed bookings. Airport drops from ₹800.
+description: >-
+  Local Sigra taxi service with office in Shastri Nagar. 10–15 minute pickups
+  near IP Mall, Rath Yatra, Mahmoorganj. No surge pricing, fixed fares, verified
+  drivers.
 location:
-  name: "Sigra, Varanasi"
-  address: "Shastri Nagar, Sigra, Varanasi, Uttar Pradesh 221002"
+  name: 'Sigra, Varanasi'
+  address: 'Shastri Nagar, Sigra, Varanasi, Uttar Pradesh 221002'
 keywords:
-  - "Sigra taxi service"
-  - "taxi in Sigra Varanasi"
-  - "cab near IP Mall"
-  - "Shastri Nagar taxi"
-  - "Sigra to airport cab"
+  - Sigra taxi service
+  - taxi in Sigra Varanasi
+  - cab near IP Mall
+  - Shastri Nagar taxi
+  - Sigra to airport cab
 tags:
   - taxi
   - sigra
@@ -24,14 +29,27 @@ tags:
   - local-service
 template: destination
 faqSchema:
-  - question: "How quickly can you pick up in Sigra?"
-    answer: "Drivers staged near Shastri Nagar and IP Mall reach most Sigra pickups in 10–15 minutes during normal traffic."
-  - question: "Do you add surge pricing during rains or weddings?"
-    answer: "No surge pricing. Sigra rates stay standard even in peak season; only pre-agreed add-ons like extra hours apply."
-  - question: "Which Sigra landmarks get instant pickup?"
-    answer: "Sigra Thana, Vidyapeeth, Nagar Nigam, Englishia Line, IP Mall, Rath Yatra crossing, and Mahmoorganj turn are covered by the closest on-ground driver."
-  - question: "How do I book a Sigra cab right now?"
-    answer: "Tap to call 9450301573 or WhatsApp the pickup pin and landmark; you’ll receive driver name, number, and car plate before dispatch."
+  - question: How quickly can you pick up in Sigra?
+    answer: >-
+      Drivers staged near Shastri Nagar and IP Mall reach most Sigra pickups in
+      10–15 minutes during normal traffic.
+  - question: Do you add surge pricing during rains or weddings?
+    answer: >-
+      No surge pricing. Sigra rates stay standard even in peak season; only
+      pre-agreed add-ons like extra hours apply.
+  - question: Which Sigra landmarks get instant pickup?
+    answer: >-
+      Sigra Thana, Vidyapeeth, Nagar Nigam, Englishia Line, IP Mall, Rath Yatra
+      crossing, and Mahmoorganj turn are covered by the closest on-ground
+      driver.
+  - question: How do I book a Sigra cab right now?
+    answer: >-
+      Tap to call 9450301573 or WhatsApp the pickup pin and landmark; you’ll
+      receive driver name, number, and car plate before dispatch.
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 <script type="application/ld+json">

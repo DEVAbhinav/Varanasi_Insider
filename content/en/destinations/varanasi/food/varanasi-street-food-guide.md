@@ -1,42 +1,62 @@
 ---
-title: "Varanasi Street Food Guide 2026: 25+ Must-Try Dishes & Where to Find Them"
-slug: "varanasi-street-food-guide"
-date: "2026-04-06"
-lastUpdated: "2026-04-06"
-author: "Varanasi Insider Team"
+title: 'Varanasi Street Food Guide 2026: 25+ Must-Try Dishes & Where to Find Them'
+slug: varanasi-street-food-guide
+date: '2026-04-06'
+lastUpdated: '2026-04-06'
+author: Varanasi Insider Team
 lang: en
-metaTitle: "Varanasi Street Food Guide | 25+ Best Dishes, Shops & Food Walk Map"
-metaDescription: "Varanasi street food guide: kachori, tamatar chaat, Blue Lassi, malaiyo, paan & more. Best shops, prices, food walk routes. Local insider picks."
-description: "Complete Varanasi street food guide with 25+ must-try dishes, best shops, food tour routes, prices, and seasonal specialties from a Banaras local."
+metaTitle: 'Varanasi Street Food Guide | 25+ Best Dishes, Shops & Food Walk Map'
+metaDescription: >-
+  Varanasi street food guide: kachori, tamatar chaat, Blue Lassi, malaiyo, paan
+  & more. Best shops, prices, food walk routes. Local insider picks.
+description: >-
+  Complete Varanasi street food guide with 25+ must-try dishes, best shops, food
+  tour routes, prices, and seasonal specialties from a Banaras local.
 keywords:
-  - "Varanasi street food"
-  - "Banaras food guide"
-  - "best food in Varanasi"
-  - "Varanasi food tour"
-  - "kachori Varanasi"
-  - "tamatar chaat Varanasi"
-  - "Blue Lassi Varanasi"
-  - "Banarasi paan"
-  - "Varanasi food walk"
-  - "malaiyo Varanasi"
+  - Varanasi street food
+  - Banaras food guide
+  - best food in Varanasi
+  - Varanasi food tour
+  - kachori Varanasi
+  - tamatar chaat Varanasi
+  - Blue Lassi Varanasi
+  - Banarasi paan
+  - Varanasi food walk
+  - malaiyo Varanasi
 tags:
   - food
   - street food
   - varanasi guide
 template: destination
-featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
-eyebrow: "Banaras Food Bible"
-ctaTitle: "Want a food tour of Varanasi?"
-ctaSubtitle: "Our drivers know every gali and every shop. Book a half-day food tour with local guide recommendations."
+featuredImage: >-
+  https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg
+eyebrow: Banaras Food Bible
+ctaTitle: Want a food tour of Varanasi?
+ctaSubtitle: >-
+  Our drivers know every gali and every shop. Book a half-day food tour with
+  local guide recommendations.
 faqSchema:
-  - q: "What is Varanasi famous for food?"
-    a: "Varanasi is famous for kachori-sabzi, tamatar chaat, Blue Lassi, Banarasi paan, thandai, malaiyo (winter), litti chokha, and rabri-jalebi. The street food scene is one of India's best."
-  - q: "Where is the best street food in Varanasi?"
-    a: "Vishwanath Gali, Dashashwamedh area, Kachori Gali (Sindhia), Lanka/BHU area, and Chowk are the top street food zones."
-  - q: "How much does street food cost in Varanasi?"
-    a: "Most items cost ₹20-80. A full food tour meal covering 5-6 dishes costs ₹200-400 per person."
-  - q: "What is Malaiyo in Varanasi?"
-    a: "Malaiyo is a unique Banarasi winter dessert — light, frothy milk cream flavored with saffron. Available only November to February, best before sunrise."
+  - q: What is Varanasi famous for food?
+    a: >-
+      Varanasi is famous for kachori-sabzi, tamatar chaat, Blue Lassi, Banarasi
+      paan, thandai, malaiyo (winter), litti chokha, and rabri-jalebi. The
+      street food scene is one of India's best.
+  - q: Where is the best street food in Varanasi?
+    a: >-
+      Vishwanath Gali, Dashashwamedh area, Kachori Gali (Sindhia), Lanka/BHU
+      area, and Chowk are the top street food zones.
+  - q: How much does street food cost in Varanasi?
+    a: >-
+      Most items cost ₹20-80. A full food tour meal covering 5-6 dishes costs
+      ₹200-400 per person.
+  - q: What is Malaiyo in Varanasi?
+    a: >-
+      Malaiyo is a unique Banarasi winter dessert — light, frothy milk cream
+      flavored with saffron. Available only November to February, best before
+      sunrise.
+relatedPosts:
+  - best-time-to-visit-varanasi
+  - same-day-varanasi-tour
 ---
 
 # Varanasi Street Food Guide — Best Local Food Tour 2026

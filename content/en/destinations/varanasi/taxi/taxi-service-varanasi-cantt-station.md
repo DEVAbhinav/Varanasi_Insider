@@ -1,22 +1,27 @@
 ---
-title: "Taxi Service at Varanasi Cantt Railway Station (Junction) - 24/7 Pickup"
-slug: "taxi-service-varanasi-cantt-station"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
-author: "Kamal Nayan Singh"
+title: Taxi Service at Varanasi Cantt Railway Station (Junction) - 24/7 Pickup
+slug: taxi-service-varanasi-cantt-station
+date: '2026-12-09'
+lastUpdated: '2026-12-09'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Varanasi Cantt Station Taxi: 24/7 | PNR tracking | ₹450"
-metaDescription: "Varanasi Junction (Cantt) taxi: 24/7 pickup with PNR tracking, driver details before arrival, guided meeting point. From ₹450."
-description: "Beat the crowd at Varanasi Junction (Cantt). Pre-book a cab with PNR sharing, driver details before arrival, and guided meeting point at the circulating area."
+metaTitle: 'Varanasi Cantt Station Taxi: 24/7 | PNR tracking | ₹450'
+metaDescription: >-
+  Varanasi Junction (Cantt) taxi: 24/7 pickup with PNR tracking, driver details
+  before arrival, guided meeting point. From ₹450.
+description: >-
+  Beat the crowd at Varanasi Junction (Cantt). Pre-book a cab with PNR sharing,
+  driver details before arrival, and guided meeting point at the circulating
+  area.
 location:
-  name: "Varanasi Junction (Cantt)"
-  address: "Railway Station, Varanasi, Uttar Pradesh 221002"
+  name: Varanasi Junction (Cantt)
+  address: 'Railway Station, Varanasi, Uttar Pradesh 221002'
 keywords:
-  - "Varanasi Cantt taxi"
-  - "taxi at Varanasi Junction"
-  - "Cantt station pickup cab"
-  - "Varanasi Junction platform pickup"
-  - "safe taxi Cantt Varanasi"
+  - Varanasi Cantt taxi
+  - taxi at Varanasi Junction
+  - Cantt station pickup cab
+  - Varanasi Junction platform pickup
+  - safe taxi Cantt Varanasi
 tags:
   - taxi
   - cantt-station
@@ -24,14 +29,26 @@ tags:
   - railway
 template: destination
 faqSchema:
-  - question: "Where will the driver meet me at Varanasi Cantt?"
-    answer: "Drivers guide you to the circulating area/Parao lane on Platform 1 side; Platform 8 gate is used on request for elderly passengers."
-  - question: "Can I share my PNR or train number for tracking?"
-    answer: "Yes. Send PNR or train number; dispatch tracks live status and aligns driver arrival 20–30 minutes before ETD/ETA."
-  - question: "Is late-night pickup at Cantt safe?"
-    answer: "Cars are GPS-tracked, driver IDs are verified, and a dispatcher is on-call 24/7; share ride link with family for night arrivals."
-  - question: "What if my train is delayed?"
-    answer: "We adjust the pickup window based on live train updates; 30-minute standby is included without extra charges."
+  - question: Where will the driver meet me at Varanasi Cantt?
+    answer: >-
+      Drivers guide you to the circulating area/Parao lane on Platform 1 side;
+      Platform 8 gate is used on request for elderly passengers.
+  - question: Can I share my PNR or train number for tracking?
+    answer: >-
+      Yes. Send PNR or train number; dispatch tracks live status and aligns
+      driver arrival 20–30 minutes before ETD/ETA.
+  - question: Is late-night pickup at Cantt safe?
+    answer: >-
+      Cars are GPS-tracked, driver IDs are verified, and a dispatcher is on-call
+      24/7; share ride link with family for night arrivals.
+  - question: What if my train is delayed?
+    answer: >-
+      We adjust the pickup window based on live train updates; 30-minute standby
+      is included without extra charges.
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 <script type="application/ld+json">

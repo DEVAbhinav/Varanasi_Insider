@@ -1,23 +1,28 @@
 ---
-title: "Airport to Taj Gateway Varanasi | Complete Transfer Guide | KashiTaxi"
-slug: "airport-to-taj-gateway-varanasi"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
-author: "Kamal Nayan Singh"
+title: Airport to Taj Gateway Varanasi | Complete Transfer Guide | KashiTaxi
+slug: airport-to-taj-gateway-varanasi
+date: '2026-12-09'
+lastUpdated: '2026-12-09'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "Airport to Taj Gateway Varanasi | Complete Transfer Guide | KashiTaxi"
-metaDescription: "Complete guide to airport transfers from Varanasi Airport (VNS) to Taj Gateway Hotel. Book reliable taxi service with pricing, distance & tips."
-description: "Everything you need to know about airport transfers from Varanasi Airport (VNS) to Taj Gateway Hotel. Distance, pricing, routes, and booking options for stress-free arrival."
+metaTitle: Airport to Taj Gateway Varanasi | Complete Transfer Guide | KashiTaxi
+metaDescription: >-
+  Complete guide to airport transfers from Varanasi Airport (VNS) to Taj Gateway
+  Hotel. Book reliable taxi service with pricing, distance & tips.
+description: >-
+  Everything you need to know about airport transfers from Varanasi Airport
+  (VNS) to Taj Gateway Hotel. Distance, pricing, routes, and booking options for
+  stress-free arrival.
 location:
-  name: "Taj Gateway Hotel Varanasi"
-  address: "Raja Bazar Road, Near Nadesar Palace, Varanasi, Uttar Pradesh 221002"
+  name: Taj Gateway Hotel Varanasi
+  address: 'Raja Bazar Road, Near Nadesar Palace, Varanasi, Uttar Pradesh 221002'
 keywords:
-  - "airport to taj gateway varanasi"
-  - "VNS airport to Taj Gateway"
-  - "Varanasi airport transfer Taj Gateway"
-  - "Taj Gateway hotel taxi"
-  - "airport pickup Taj Gateway Varanasi"
-  - "LBS airport to Taj Gateway"
+  - airport to taj gateway varanasi
+  - VNS airport to Taj Gateway
+  - Varanasi airport transfer Taj Gateway
+  - Taj Gateway hotel taxi
+  - airport pickup Taj Gateway Varanasi
+  - LBS airport to Taj Gateway
 tags:
   - taxi
   - airport-transfer
@@ -26,32 +31,51 @@ tags:
   - varanasi
 template: destination
 faqSchema:
-  - question: "What is the distance from Varanasi Airport to Taj Gateway Hotel?"
-    answer: "The distance from Lal Bahadur Shastri International Airport (VNS) to Taj Gateway Hotel is approximately 23-25 kilometers, taking 45-60 minutes in normal traffic."
-  - question: "What if my flight is delayed?"
-    answer: "Inform your driver immediately via WhatsApp. There are no additional charges for flight delays - our drivers track flight status automatically."
-  - question: "Can I pay by credit card?"
-    answer: "Yes, we accept all major cards, Google Pay, WhatsApp Pay, UPI, and cash payments."
-  - question: "Is the driver English-speaking?"
-    answer: "Yes, all our drivers speak basic English and are familiar with hotel landmarks in Varanasi."
-  - question: "What if my hotel booking changes; can I change the destination?"
-    answer: "Absolutely. Just inform us of the change; standard rates apply for the new destination."
-  - question: "Can I request a female driver?"
-    answer: "Female drivers are available on request with 48-hour advance notice."
+  - question: What is the distance from Varanasi Airport to Taj Gateway Hotel?
+    answer: >-
+      The distance from Lal Bahadur Shastri International Airport (VNS) to Taj
+      Gateway Hotel is approximately 23-25 kilometers, taking 45-60 minutes in
+      normal traffic.
+  - question: What if my flight is delayed?
+    answer: >-
+      Inform your driver immediately via WhatsApp. There are no additional
+      charges for flight delays - our drivers track flight status automatically.
+  - question: Can I pay by credit card?
+    answer: >-
+      Yes, we accept all major cards, Google Pay, WhatsApp Pay, UPI, and cash
+      payments.
+  - question: Is the driver English-speaking?
+    answer: >-
+      Yes, all our drivers speak basic English and are familiar with hotel
+      landmarks in Varanasi.
+  - question: What if my hotel booking changes; can I change the destination?
+    answer: >-
+      Absolutely. Just inform us of the change; standard rates apply for the new
+      destination.
+  - question: Can I request a female driver?
+    answer: Female drivers are available on request with 48-hour advance notice.
 offers:
-  - price: "900"
-    priceCurrency: "INR"
-    name: "Airport to Taj Gateway Sedan"
-  - price: "1200"
-    priceCurrency: "INR"
-    name: "Airport to Taj Gateway SUV"
+  - price: '900'
+    priceCurrency: INR
+    name: Airport to Taj Gateway Sedan
+  - price: '1200'
+    priceCurrency: INR
+    name: Airport to Taj Gateway SUV
 provider:
-  name: "Kashi Taxi"
-  telephone: "+91-8062182380"
-areaServed: ["Varanasi Airport", "Taj Gateway Hotel", "Assi Ghat", "Nadesar"]
+  name: Kashi Taxi
+  telephone: +91-8062182380
+areaServed:
+  - Varanasi Airport
+  - Taj Gateway Hotel
+  - Assi Ghat
+  - Nadesar
 aggregateRating:
-  ratingValue: "4.9"
-  reviewCount: "1250"
+  ratingValue: '4.9'
+  reviewCount: '1250'
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # Airport to Taj Gateway Varanasi: Complete Transfer Guide

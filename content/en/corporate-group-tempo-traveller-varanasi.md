@@ -1,25 +1,62 @@
 ---
 lang: en
-title: "Corporate Group Tempo Traveller Varanasi: Shuttle, Offsite & Event Transport (2026)"
-description: "Corporate group Tempo Traveller Varanasi for airport clusters, hotel–venue shuttles, offsites, plant visits, conferences. 9–26 seater AC fleet, SLAs, safety & pricing."
-date: 2026-09-18
-tags: [corporate, tempo traveller, varanasi, group transport, shuttle, airport transfer, conference, event logistics]
+title: >-
+  Corporate Group Tempo Traveller Varanasi: Shuttle, Offsite & Event Transport
+  (2026)
+description: >-
+  Corporate group Tempo Traveller Varanasi for airport clusters, hotel–venue
+  shuttles, offsites, plant visits, conferences. 9–26 seater AC fleet, SLAs,
+  safety & pricing.
+date: 2026-09-18T00:00:00.000Z
+tags:
+  - corporate
+  - tempo traveller
+  - varanasi
+  - group transport
+  - shuttle
+  - airport transfer
+  - conference
+  - event logistics
 slug: corporate-group-tempo-traveller-varanasi
-canonical: https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi
-author: "Kamal Nayan Singh"
-lastUpdated: 2026-09-18
-keywords: ["corporate tempo traveller varanasi","corporate shuttle tempo traveller varanasi","event transport tempo traveller varanasi","conference tempo traveller varanasi","group transport varanasi tempo traveller","17 seater corporate tempo traveller varanasi","tempo traveller hire for offsite varanasi"]
+canonical: 'https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi'
+author: Kamal Nayan Singh
+lastUpdated: 2026-09-18T00:00:00.000Z
+keywords:
+  - corporate tempo traveller varanasi
+  - corporate shuttle tempo traveller varanasi
+  - event transport tempo traveller varanasi
+  - conference tempo traveller varanasi
+  - group transport varanasi tempo traveller
+  - 17 seater corporate tempo traveller varanasi
+  - tempo traveller hire for offsite varanasi
 faqSchema:
-  - question: "How do you manage multi-hotel corporate airport pickups in Varanasi?"
-    answer: "We cluster arrival manifests by landing time, assign staging order, share driver & vehicle details 12–18 hrs prior, and run a dispatcher WhatsApp group for real-time ETAs."
-  - question: "Can you provide GST invoice for corporate Tempo Traveller hire in Varanasi?"
-    answer: "Yes, GST-compliant invoice issued—share legal entity name, GSTIN and billing address at confirmation."
-  - question: "Do you support last-minute loop schedule changes during conferences?"
-    answer: "Within city limits yes—dispatcher evaluates slack buffer and reissues an updated loop timetable to drivers & coordinator contact."
-  - question: "What seating size is best for 14 delegates with laptops & demo kits?"
-    answer: "17 seater Tempo Traveller—gives 2–3 spare seats for kits + aisle movement, reducing clutter and improving comfort."
-  - question: "Is Urbania / Maharaja variant useful for CXO movement?"
-    answer: "Yes—1×1 recliner layout, quieter cabin, improved ride comfort for investor/CXO groups or international NGO teams."
+  - question: How do you manage multi-hotel corporate airport pickups in Varanasi?
+    answer: >-
+      We cluster arrival manifests by landing time, assign staging order, share
+      driver & vehicle details 12–18 hrs prior, and run a dispatcher WhatsApp
+      group for real-time ETAs.
+  - question: >-
+      Can you provide GST invoice for corporate Tempo Traveller hire in
+      Varanasi?
+    answer: >-
+      Yes, GST-compliant invoice issued—share legal entity name, GSTIN and
+      billing address at confirmation.
+  - question: Do you support last-minute loop schedule changes during conferences?
+    answer: >-
+      Within city limits yes—dispatcher evaluates slack buffer and reissues an
+      updated loop timetable to drivers & coordinator contact.
+  - question: What seating size is best for 14 delegates with laptops & demo kits?
+    answer: >-
+      17 seater Tempo Traveller—gives 2–3 spare seats for kits + aisle movement,
+      reducing clutter and improving comfort.
+  - question: Is Urbania / Maharaja variant useful for CXO movement?
+    answer: >-
+      Yes—1×1 recliner layout, quieter cabin, improved ride comfort for
+      investor/CXO groups or international NGO teams.
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # Corporate Group Tempo Traveller Varanasi – Reliable Shuttle & Event Logistics (2026)

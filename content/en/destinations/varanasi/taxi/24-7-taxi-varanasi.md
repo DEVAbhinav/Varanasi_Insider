@@ -1,21 +1,25 @@
 ---
-title: "24/7 Taxi Service in Varanasi | Night Cab & Emergency Transport | KashiTaxi"
-slug: "24-7-taxi-varanasi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
-author: "Kamal Nayan Singh"
+title: 24/7 Taxi Service in Varanasi | Night Cab & Emergency Transport | KashiTaxi
+slug: 24-7-taxi-varanasi
+date: '2026-11-25'
+lastUpdated: '2026-11-25'
+author: Kamal Nayan Singh
 lang: en
-metaTitle: "24/7 Taxi Service in Varanasi | Night Cab & Emergency Transport | KashiTaxi"
-metaDescription: "24/7 taxi service in Varanasi. Night cabs, early morning transfers, emergency rides anytime. Professional drivers, safe service."
-description: "24/7 taxi service in Varanasi. Night cabs, early morning transfers, emergency rides anytime. Professional drivers, safe service."
+metaTitle: 24/7 Taxi Service in Varanasi | Night Cab & Emergency Transport | KashiTaxi
+metaDescription: >-
+  24/7 taxi service in Varanasi. Night cabs, early morning transfers, emergency
+  rides anytime. Professional drivers, safe service.
+description: >-
+  24/7 taxi service in Varanasi. Night cabs, early morning transfers, emergency
+  rides anytime. Professional drivers, safe service.
 keywords:
-  - "24x7 taxi Varanasi"
-  - "night taxi service Varanasi"
-  - "taxi varanasi"
-  - "kashi taxi service"
-  - "early morning cab Varanasi"
-  - "emergency taxi Varanasi"
-  - "24 hour taxi"
+  - 24x7 taxi Varanasi
+  - night taxi service Varanasi
+  - taxi varanasi
+  - kashi taxi service
+  - early morning cab Varanasi
+  - emergency taxi Varanasi
+  - 24 hour taxi
 tags:
   - taxi
   - 24-7
@@ -24,19 +28,23 @@ tags:
   - varanasi
 template: destination
 aggregateRating:
-  ratingValue: "4.5"
-  reviewCount: "189"
+  ratingValue: '4.5'
+  reviewCount: '189'
 faqSchema:
-  - question: "Is there a surcharge for 24/7 service?"
-    answer: "Yes, early morning (5-6 AM): +₹100 | Late night (11 PM-5 AM): +₹200"
-  - question: "How quickly can you respond to emergency calls?"
-    answer: "Average 2-5 minutes dispatch, depending on location."
-  - question: "Are drivers trained for emergency situations?"
-    answer: "Yes, all drivers trained in basic first aid & emergency protocols."
-  - question: "Can I book night transport in advance?"
-    answer: "Yes, up to 7 days in advance. Booking confirmation sent via SMS."
-  - question: "What if I call and no vehicle is available?"
-    answer: "Extremely rare. We maintain buffer capacity for 24/7 emergencies."
+  - question: Is there a surcharge for 24/7 service?
+    answer: 'Yes, early morning (5-6 AM): +₹100 | Late night (11 PM-5 AM): +₹200'
+  - question: How quickly can you respond to emergency calls?
+    answer: 'Average 2-5 minutes dispatch, depending on location.'
+  - question: Are drivers trained for emergency situations?
+    answer: 'Yes, all drivers trained in basic first aid & emergency protocols.'
+  - question: Can I book night transport in advance?
+    answer: 'Yes, up to 7 days in advance. Booking confirmation sent via SMS.'
+  - question: What if I call and no vehicle is available?
+    answer: Extremely rare. We maintain buffer capacity for 24/7 emergencies.
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - outstation-cabs-from-varanasi
+  - varanasi-day-tour-cab-charges
 ---
 
 # 24/7 Taxi Service in Varanasi | Night Cab & Emergency Transport
