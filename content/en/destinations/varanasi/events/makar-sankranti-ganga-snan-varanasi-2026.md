@@ -36,160 +36,48 @@ offers:
 organizer:
   name: "Kashi Vishwanath Temple Trust"
   url: "https://www.kashivishwanath.org"
+faqSchema:
+  - q: "What is Makar Sankranti and why is Ganga Snan important on this day?"
+    a: >-
+      Makar Sankranti marks the sun's transition into Capricorn zodiac
+      (Makar Rashi), signaling end of winter solstice and beginning of
+      longer days. It's one of the few Hindu festivals based on solar
+      calendar, falling on same date (Jan 14-15) every year. Taking Ganga
+      Snan on this day is considered extremely auspicious as it cleanses
+      sins, brings prosperity, and marks new beginnings. Bathing at sunrise
+      is most powerful when sun enters Makar.
+  - q: "When is Makar Sankranti 2026?"
+    a: >-
+      Makar Sankranti 2026 falls on Wednesday, January 14, 2026. The
+      auspicious snan muhurat is at sunrise (6:52 AM) when sun transitions
+      into Capricorn. Best bathing time: 6:30 AM - 8:30 AM. The kite
+      festival continues throughout the day till evening.
+  - q: "Is Makar Sankranti different from Makar Sankranti Kite Festival?"
+    a: >-
+      They're the same festival with dual aspects: morning is dedicated to
+      sacred bathing (Ganga Snan) and religious rituals, while afternoon-
+      evening features the famous kite flying festival (Patang Utsav). In
+      Varanasi, both traditions coexist beautifully—pilgrims bathe at dawn,
+      then fly kites from ghats and rooftops. It's a unique blend of
+      spirituality and celebration.
+  - q: "Which ghat is best for Makar Sankranti Snan in Varanasi?"
+    a: >-
+      Dashashwamedh Ghat is most popular for Makar Sankranti due to grand
+      celebrations and space for kite flying. Assi Ghat offers best sunrise
+      views and youthful energy. Raj Ghat and Chetsingh Ghat are excellent
+      for family picnics post-snan. For traditional atmosphere, Panchganga
+      Ghat. All ghats distribute free khichdi prasad throughout the day.
+  - q: "How do I book taxi for Makar Sankranti in Varanasi?"
+    a: >-
+      Book 7-10 days in advance for Makar Sankranti by calling
+      +91-80621-82380. Early morning packages (5:30 AM pickup) cost
+      ₹700-1000 sedan, ₹1100-1500 SUV. Full-day packages (snan + kite
+      festival + city tour) available ₹2200-3200. Tempo travellers for
+      groups ₹4500-6000. We provide kite-buying assistance and rooftop
+      location recommendations.
 ---
 
 # Makar Sankranti Ganga Snan Varanasi 2026 – When Sky Meets Sacred Waters
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Event",
-      "name": "Makar Sankranti Ganga Snan & Kite Festival Varanasi 2026",
-      "description": "Sacred harvest festival marking sun's transition to Capricorn (Makar). Holy bathing in Ganges combined with spectacular kite flying festival. Celebrated with til-gud laddoos, khichdi prasad, and community feasts across Varanasi ghats.",
-      "startDate": "2026-01-14T05:00:00+05:30",
-      "endDate": "2026-01-14T23:59:00+05:30",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "location": {
-        "@type": "Place",
-        "name": "Varanasi Ghats and City Rooftops",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Ghats along River Ganges",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "postalCode": "221001",
-          "addressCountry": "IN"
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": "25.3176",
-          "longitude": "82.9739"
-        }
-      },
-      "organizer": {
-        "@type": "Organization",
-        "name": "Kashi Vishwanath Temple Trust",
-        "url": "https://www.kashivishwanath.org"
-      },
-      "image": "https://www.kashitaxi.in/images/makar-sankranti-varanasi-kite-festival.jpg",
-      "url": "https://www.kashitaxi.in/en/city/varanasi/events/makar-sankranti-ganga-snan-varanasi-2026",
-      "offers": {
-        "@type": "Offer",
-        "url": "https://www.kashitaxi.in/booking",
-        "price": "0",
-        "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "validFrom": "2026-01-14"
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Makar Sankranti and why is Ganga Snan important on this day?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Makar Sankranti marks the sun's transition into Capricorn zodiac (Makar Rashi), signaling end of winter solstice and beginning of longer days. It's one of the few Hindu festivals based on solar calendar, falling on same date (Jan 14-15) every year. Taking Ganga Snan on this day is considered extremely auspicious as it cleanses sins, brings prosperity, and marks new beginnings. Bathing at sunrise is most powerful when sun enters Makar."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "When is Makar Sankranti 2026?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Makar Sankranti 2026 falls on Wednesday, January 14, 2026. The auspicious snan muhurat is at sunrise (6:52 AM) when sun transitions into Capricorn. Best bathing time: 6:30 AM - 8:30 AM. The kite festival continues throughout the day till evening."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Makar Sankranti different from Makar Sankranti Kite Festival?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "They're the same festival with dual aspects: morning is dedicated to sacred bathing (Ganga Snan) and religious rituals, while afternoon-evening features the famous kite flying festival (Patang Utsav). In Varanasi, both traditions coexist beautifully—pilgrims bathe at dawn, then fly kites from ghats and rooftops. It's a unique blend of spirituality and celebration."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Which ghat is best for Makar Sankranti Snan in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Dashashwamedh Ghat is most popular for Makar Sankranti due to grand celebrations and space for kite flying. Assi Ghat offers best sunrise views and youthful energy. Raj Ghat and Chetsingh Ghat are excellent for family picnics post-snan. For traditional atmosphere, Panchganga Ghat. All ghats distribute free khichdi prasad throughout the day."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I book taxi for Makar Sankranti in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Book 7-10 days in advance for Makar Sankranti by calling +91-80621-82380. Early morning packages (5:30 AM pickup) cost ₹700-1000 sedan, ₹1100-1500 SUV. Full-day packages (snan + kite festival + city tour) available ₹2200-3200. Tempo travellers for groups ₹4500-6000. We provide kite-buying assistance and rooftop location recommendations."
-          }
-        }
-      ]
-    },
-    {
-      "@type": "Service",
-      "name": "Makar Sankranti Festival Taxi Service",
-      "serviceType": "Taxi and Cultural Festival Transportation",
-      "provider": {
-        "@type": "LocalBusiness",
-        "name": "KashiTaxi",
-        "image": "https://www.kashitaxi.in/images/kashitaxi-logo.png",
-        "priceRange": "₹₹",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        },
-        "telephone": "+91-80621-82380",
-        "url": "https://www.kashitaxi.in"
-      },
-      "areaServed": {
-        "@type": "City",
-        "name": "Varanasi"
-      },
-      "hasOfferCatalog": {
-        "@type": "OfferCatalog",
-        "name": "Makar Sankranti Transport Packages",
-        "itemListElement": [
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Sunrise Ghat Transfer (5:30 AM - 9:00 AM)"
-            },
-            "price": "700",
-            "priceCurrency": "INR"
-          },
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Full Day Sankranti Experience (Snan + Kite Festival)"
-            },
-            "price": "2200",
-            "priceCurrency": "INR"
-          }
-        ]
-      }
-    },
-    {
-      "@type": "Festival",
-      "name": "Makar Sankranti Varanasi",
-      "description": "Harvest festival combining sacred bathing and kite flying",
-      "location": {
-        "@type": "Place",
-        "name": "Varanasi"
-      },
-      "startDate": "2026-01-14"
-    }
-  ]
-}
-</script>
 
 ## What is Makar Sankranti?
 
