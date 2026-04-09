@@ -13,6 +13,46 @@ seoDescription: "3-city Kashi Prayagraj Ayodhya pilgrimage bus package from Sout
 keywords: ["kashi prayagraj ayodhya bus package","kashi prayagraj ayodhya tour south india","varanasi prayagraj ayodhya itinerary","bangalore to kashi prayagraj ayodhya yatra","chennai to kashi prayagraj ayodhya bus", "hyderabad to kashi prayagraj ayodhya tour", "prayagraj sangam boat timing", "ram mandir darshan slot", "kashi vishwanath sugam darshan", "multi city pilgrimage bus package"]
 relatedPosts: ["kashi-yatra-south-india-bus-package","dev-deepawali-2026-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2026"]
 tags: ["Kashi Yatra","Prayagraj Sangam","Ayodhya Ram Mandir","South India Departures","Multi-Circuit Pilgrimage","Ganga Aarti","Ram Mandir Darshan"]
+faqSchema:
+  - q: "Is this suitable for elders?"
+    a: >-
+      Yes—rest pacing, reduced walking variants, early darshan windows,
+      alternative Sangam viewing if boat boarding is hard.
+  - q: "How long are travel legs?"
+    a: >-
+      Longest intra-circuit leg typically Varanasi ↔ Ayodhya (~4–5 hrs)
+      under normal conditions; matrix lists ranges.
+  - q: "Can you arrange Pind Daan?"
+    a: >-
+      Yes—advance gotra/family details needed; priest fees quoted
+      separately.
+  - q: "Is boat Aarti included?"
+    a: >-
+      Shared sunrise boat is included; evening Aarti boat upgrade
+      recommended and pre-booked.
+  - q: "How are Ram Mandir darshan slots handled?"
+    a: >-
+      Guidance provided; actual slot allocation depends on current temple
+      system and seasonal policy.
+  - q: "Do you guarantee VIP darshan?"
+    a: >-
+      No guarantees beyond official channels; we optimize timing & sequence.
+  - q: "South Indian meals available?"
+    a: >-
+      Breakfast rotation can emphasize idli/pongal/dosa with advance notice;
+      core meals are sattvic veg.
+  - q: "Refund & cancellation terms?"
+    a: >-
+      Deposit partially refundable by slab; festival periods stricter; full
+      policy shared in quote.
+  - q: "Can we extend to Gaya or Sarnath?"
+    a: >-
+      Yes—custom pricing based on nights & distance; add-ons planned early
+      to secure slots.
+  - q: "Is travel insurance mandatory?"
+    a: >-
+      Not mandatory but strongly recommended for medical and cancellation
+      coverage.
 ---
 
 # Kashi • Prayagraj • Ayodhya 3-City Bus Pilgrimage (South India)
@@ -270,52 +310,8 @@ A **multi-circuit yatra architecture** merging Kashi moksha focus, Sangam conflu
 
 ---
 ## ✅ JSON-LD (Trip + Offers + FAQ)
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Trip",
-  "name": "Kashi • Prayagraj • Ayodhya 3-City Bus Pilgrimage (South India)",
-  "description": "7–9 day multi-circuit pilgrimage bus package covering Kashi, Prayagraj Sangam, and Ayodhya Ram Mandir with elder-friendly pacing, sunrise boat, Sangam snan, and optional extensions.",
-  "itinerary": [
-    {"@type": "TouristAttraction", "name": "Kashi Vishwanath Temple", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Dashashwamedh Ghat", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Triveni Sangam", "address": "Prayagraj, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Ram Mandir", "address": "Ayodhya, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Visalakshi Temple", "address": "Varanasi, Uttar Pradesh"}
-  ],
-  "offers": {
-    "@type": "AggregateOffer",
-    "priceCurrency": "INR",
-    "lowPrice": "9999",
-    "highPrice": "21999",
-    "offerCount": "3",
-    "availability": "https://schema.org/InStock"
-  },
-  "provider": {
-    "@type": "Organization",
-    "name": "Vinayak Travels Tour",
-    "url": "https://www.kashitaxi.in/en/bus/kashi-prayagraj-ayodhya-south"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "Is this suitable for elders?", "acceptedAnswer": {"@type": "Answer", "text": "Yes—rest pacing, reduced walking variants, early darshan windows, alternative Sangam viewing if boat boarding is hard."}},
-    {"@type": "Question", "name": "How long are travel legs?", "acceptedAnswer": {"@type": "Answer", "text": "Longest intra-circuit leg typically Varanasi ↔ Ayodhya (~4–5 hrs) under normal conditions; matrix lists ranges."}},
-    {"@type": "Question", "name": "Can you arrange Pind Daan?", "acceptedAnswer": {"@type": "Answer", "text": "Yes—advance gotra/family details needed; priest fees quoted separately."}},
-    {"@type": "Question", "name": "Is boat Aarti included?", "acceptedAnswer": {"@type": "Answer", "text": "Shared sunrise boat is included; evening Aarti boat upgrade recommended and pre-booked."}},
-    {"@type": "Question", "name": "How are Ram Mandir darshan slots handled?", "acceptedAnswer": {"@type": "Answer", "text": "Guidance provided; actual slot allocation depends on current temple system and seasonal policy."}},
-    {"@type": "Question", "name": "Do you guarantee VIP darshan?", "acceptedAnswer": {"@type": "Answer", "text": "No guarantees beyond official channels; we optimize timing & sequence."}},
-    {"@type": "Question", "name": "South Indian meals available?", "acceptedAnswer": {"@type": "Answer", "text": "Breakfast rotation can emphasize idli/pongal/dosa with advance notice; core meals are sattvic veg."}},
-    {"@type": "Question", "name": "Refund & cancellation terms?", "acceptedAnswer": {"@type": "Answer", "text": "Deposit partially refundable by slab; festival periods stricter; full policy shared in quote."}},
-    {"@type": "Question", "name": "Can we extend to Gaya or Sarnath?", "acceptedAnswer": {"@type": "Answer", "text": "Yes—custom pricing based on nights & distance; add-ons planned early to secure slots."}},
-    {"@type": "Question", "name": "Is travel insurance mandatory?", "acceptedAnswer": {"@type": "Answer", "text": "Not mandatory but strongly recommended for medical and cancellation coverage."}}
-  ]
-}
-</script>
+
+
 
 ---
 ## 🔧 Future Data Enhancements (Bring Later)

@@ -195,35 +195,6 @@ A structured South India → Kashi bus pilgrimage that **compresses logistics wh
 
 ---
 ## ✅ JSON-LD (Trip + Offer)
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Trip",
-  "name": "Kashi Yatra Bus Package from South India (Chennai • Bengaluru • Hyderabad)",
-  "description": "6–7 day Kashi (Varanasi) pilgrimage by deluxe A/C coach including Ganga Aarti, sunrise boat ride, Kashi Vishwanath, Annapurna & Visalakshi darshan with optional Prayagraj & Ayodhya extensions.",
-  "itinerary": [
-    {"@type": "TouristAttraction", "name": "Kashi Vishwanath Temple", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Dashashwamedh Ghat", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Annapurna Temple", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Visalakshi Temple", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Sarnath (optional)", "address": "Sarnath, Uttar Pradesh"}
-  ],
-  "offers": {
-    "@type": "AggregateOffer",
-    "priceCurrency": "INR",
-    "lowPrice": "8999",
-    "highPrice": "17999",
-    "offerCount": "3",
-    "availability": "https://schema.org/InStock"
-  },
-  "provider": {
-    "@type": "Organization",
-    "name": "Vinayak Travels Tour",
-    "areaServed": "IN",
-    "url": "https://www.kashitaxi.in/en/bus/kashi-yatra-south-india-bus-package"
-  }
-}
-</script>
 
 ---
 ## ⚙ Future Data Hooks (Bring Back to Enhance Page)

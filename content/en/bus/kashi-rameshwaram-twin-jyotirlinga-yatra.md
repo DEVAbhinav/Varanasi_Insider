@@ -13,6 +13,44 @@ seoDescription: "Complete Kashi–Rameshwaram twin Jyotirlinga yatra guide: fast
 keywords: ["kashi rameshwaram yatra","twin jyotirlinga tour","kashi rameshwaram bus package","kashi rameshwaram flight package","south india twin jyotirlinga pilgrimage","rameshwaram to varanasi tour","madurai to rameshwaram transfer","kashi vishwanath sugam darshan","ramanathaswamy temple timings","kashi rameshwaram itinerary","kashi rameshwaram yatra tamil","kashi rameshwaram yatra telugu","kasi rameswaram yathirai tamil","kasi rameswaram tour hyderabad","காசி ராமேஸ்வரம் யாத்திரை","காசி ராமேஸ்வரம் பயணம்","కాశి రామేశ్వరం యాత్ర","కాశి రామేశ్వరమ్ టూర్"]
 relatedPosts: ["kashi-yatra-south-india-bus-package","kashi-prayagraj-ayodhya-south","dev-deepawali-2026-varanasi-ultimate-guide"]
 tags: ["Kashi Yatra","Rameshwaram","Twin Jyotirlinga","Multi-Modal Pilgrimage","South India Departures","Flight + Coach","Darshan Strategy"]
+faqSchema:
+  - q: "Is flying both legs mandatory?"
+    a: >-
+      No—bus-heavy and mixed templates exist if you prioritise budget over
+      speed.
+  - q: "Fastest Rameshwaram to Varanasi route?"
+    a: >-
+      Usually multi-flight via Madurai and a hub (Chennai or Bengaluru) to
+      Varanasi in ~10–12+ hrs including transfers.
+  - q: "How long is Madurai to Rameshwaram by road?"
+    a: >-
+      Approx 3–4 hours in normal conditions; add buffer for rain or festival
+      traffic.
+  - q: "Can you arrange Sugam or priority darshan?"
+    a: >-
+      We assist within official, ethical channels—advance notice increases
+      success.
+  - q: "Suitable for elders?"
+    a: >-
+      Yes—rest pacing, reduced walking variants, seat allocation,
+      alternative Aarti viewing, private transfers possible.
+  - q: "Both darshans in 6 days—realistic?"
+    a: >-
+      Yes if flights align; a buffer day is advised for rituals or delays.
+  - q: "Need to carry ritual items?"
+    a: >-
+      Basic items are locally sourced; bring personal beads or small kit if
+      desired.
+  - q: "What if a key flight is delayed?"
+    a: >-
+      We plan buffers and can resequence; disruption insurance recommended.
+  - q: "Can we add Prayagraj or Gaya?"
+    a: >-
+      Yes—choose a deep variant or custom extension adding 1–3 days.
+  - q: "Is travel insurance required?"
+    a: >-
+      Not mandatory but strongly recommended for medical and disruption
+      coverage.
 ---
 
 # Kashi – Rameshwaram Twin Jyotirlinga Yatra (Flight + Bus Connectors)
@@ -269,50 +307,8 @@ A **high-leverage two‑Jyotirlinga framework** that compresses geographic sprea
 
 ---
 ## ✅ JSON-LD (Trip + Offers + FAQ)
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Trip",
-  "name": "Kashi – Rameshwaram Twin Jyotirlinga Yatra",
-  "description": "Multi-modal twin Jyotirlinga pilgrimage covering Kashi Vishwanath (Varanasi) and Ramanathaswamy (Rameshwaram) with flight + coach connectors, itinerary variants (6–14 days), darshan strategy, elder support.",
-  "itinerary": [
-    {"@type": "TouristAttraction", "name": "Kashi Vishwanath Temple", "address": "Varanasi, Uttar Pradesh, India"},
-    {"@type": "TouristAttraction", "name": "Dashashwamedh Ghat", "address": "Varanasi, Uttar Pradesh, India"},
-    {"@type": "TouristAttraction", "name": "Ramanathaswamy Temple", "address": "Rameswaram, Tamil Nadu, India"}
-  ],
-  "offers": {
-    "@type": "AggregateOffer",
-    "priceCurrency": "INR",
-    "lowPrice": "24999",
-    "highPrice": "48999",
-    "offerCount": "3",
-    "availability": "https://schema.org/InStock"
-  },
-  "provider": {
-    "@type": "Organization",
-    "name": "Vinayak Travels Tour",
-    "url": "https://www.kashitaxi.in/en/bus/kashi-rameshwaram-twin-jyotirlinga-yatra"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "Is flying both legs mandatory?", "acceptedAnswer": {"@type": "Answer", "text": "No—bus-heavy and mixed templates exist if you prioritise budget over speed."}},
-    {"@type": "Question", "name": "Fastest Rameshwaram to Varanasi route?", "acceptedAnswer": {"@type": "Answer", "text": "Usually multi-flight via Madurai and a hub (Chennai or Bengaluru) to Varanasi in ~10–12+ hrs including transfers."}},
-    {"@type": "Question", "name": "How long is Madurai to Rameshwaram by road?", "acceptedAnswer": {"@type": "Answer", "text": "Approx 3–4 hours in normal conditions; add buffer for rain or festival traffic."}},
-    {"@type": "Question", "name": "Can you arrange Sugam or priority darshan?", "acceptedAnswer": {"@type": "Answer", "text": "We assist within official, ethical channels—advance notice increases success."}},
-    {"@type": "Question", "name": "Suitable for elders?", "acceptedAnswer": {"@type": "Answer", "text": "Yes—rest pacing, reduced walking variants, seat allocation, alternative Aarti viewing, private transfers possible."}},
-    {"@type": "Question", "name": "Both darshans in 6 days—realistic?", "acceptedAnswer": {"@type": "Answer", "text": "Yes if flights align; a buffer day is advised for rituals or delays."}},
-    {"@type": "Question", "name": "Need to carry ritual items?", "acceptedAnswer": {"@type": "Answer", "text": "Basic items are locally sourced; bring personal beads or small kit if desired."}},
-    {"@type": "Question", "name": "What if a key flight is delayed?", "acceptedAnswer": {"@type": "Answer", "text": "We plan buffers and can resequence; disruption insurance recommended."}},
-    {"@type": "Question", "name": "Can we add Prayagraj or Gaya?", "acceptedAnswer": {"@type": "Answer", "text": "Yes—choose a deep variant or custom extension adding 1–3 days."}},
-    {"@type": "Question", "name": "Is travel insurance required?", "acceptedAnswer": {"@type": "Answer", "text": "Not mandatory but strongly recommended for medical and disruption coverage."}}
-  ]
-}
-</script>
+
+
 
 ---
 ## 🔧 Future Data Hooks (Provide Later for Upgrades)
