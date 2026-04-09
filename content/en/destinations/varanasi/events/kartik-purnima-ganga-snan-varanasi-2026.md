@@ -35,157 +35,44 @@ offers:
 organizer:
   name: "Kashi Vishwanath Temple Trust"
   url: "https://www.kashivishwanath.org"
+faqSchema:
+  - q: "What is Kartik Purnima Ganga Snan?"
+    a: >-
+      Kartik Purnima Ganga Snan is the sacred ritual of bathing in the
+      Ganges on the full moon day of Kartik month (Oct-Nov). In Varanasi,
+      this coincides with Dev Deepawali festival when gods descend to earth
+      to bathe in the Ganges. Taking a holy dip on this day is believed to
+      wash away sins and bring moksha (liberation).
+  - q: "What is the date of Kartik Purnima 2026?"
+    a: >-
+      Kartik Purnima in 2026 falls on Saturday, November 15, 2026. The
+      auspicious bathing time (snan muhurat) begins at 4:30 AM and continues
+      throughout the day, with peak activity from sunrise (6:00 AM) to 10:00
+      AM.
+  - q: "Which are the best ghats for Kartik Purnima Snan in Varanasi?"
+    a: >-
+      While all 84 ghats are auspicious, the most popular ghats for Kartik
+      Purnima Snan are: Dashashwamedh Ghat (main ghat), Assi Ghat (less
+      crowded), Panchganga Ghat (confluence of five rivers), Manikarnika
+      Ghat (spiritual liberation), and Raj Ghat (peaceful atmosphere).
+      Arrive early to secure a good spot.
+  - q: "How can I book a taxi for Kartik Purnima Snan?"
+    a: >-
+      Book taxis for Kartik Purnima in advance due to high demand. Call
+      +91-80621-82380 or WhatsApp for 24/7 booking. Pre-dawn packages (3:30
+      AM pickup) cost ₹800-1200 sedan, ₹1200-1800 SUV. Round-trip ghat
+      packages with waiting time available. Book at least 7 days in advance
+      for festival period.
+  - q: "What should I carry for Kartik Purnima Ganga Snan?"
+    a: >-
+      Essential items: 2 sets of clothes (one for bathing, one dry set),
+      towel, small waterproof pouch for valuables, prasad for offering
+      (flowers, incense, diya), water bottle, basic first-aid,
+      torch/flashlight for pre-dawn visit, and modest clothing. Keep jewelry
+      minimal. Many pilgrims also carry a small mat or cloth to sit on.
 ---
 
 # Kartik Purnima Ganga Snan in Varanasi 2026 – The Most Auspicious Holy Bath
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Event",
-      "name": "Kartik Purnima Ganga Snan Varanasi 2026",
-      "description": "Sacred ritual bathing in the Ganges during Kartik Purnima, coinciding with Dev Deepawali festival. One of the most auspicious days for holy dip in Varanasi with lakhs of devotees participating.",
-      "startDate": "2026-11-15T04:00:00+05:30",
-      "endDate": "2026-11-15T23:59:00+05:30",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "location": {
-        "@type": "Place",
-        "name": "Varanasi Ghats (All 84 Ghats)",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Ghats along River Ganges",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "postalCode": "221001",
-          "addressCountry": "IN"
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": "25.3176",
-          "longitude": "82.9739"
-        }
-      },
-      "organizer": {
-        "@type": "Organization",
-        "name": "Kashi Vishwanath Temple Trust",
-        "url": "https://www.kashivishwanath.org"
-      },
-      "image": "https://www.kashitaxi.in/images/kartik-purnima-ganga-snan-varanasi.jpg",
-      "url": "https://www.kashitaxi.in/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
-      "offers": {
-        "@type": "Offer",
-        "url": "https://www.kashitaxi.in/booking",
-        "price": "0",
-        "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "validFrom": "2026-11-15"
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Kartik Purnima Ganga Snan?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Kartik Purnima Ganga Snan is the sacred ritual of bathing in the Ganges on the full moon day of Kartik month (Oct-Nov). In Varanasi, this coincides with Dev Deepawali festival when gods descend to earth to bathe in the Ganges. Taking a holy dip on this day is believed to wash away sins and bring moksha (liberation)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the date of Kartik Purnima 2026?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Kartik Purnima in 2026 falls on Saturday, November 15, 2026. The auspicious bathing time (snan muhurat) begins at 4:30 AM and continues throughout the day, with peak activity from sunrise (6:00 AM) to 10:00 AM."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Which are the best ghats for Kartik Purnima Snan in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "While all 84 ghats are auspicious, the most popular ghats for Kartik Purnima Snan are: Dashashwamedh Ghat (main ghat), Assi Ghat (less crowded), Panchganga Ghat (confluence of five rivers), Manikarnika Ghat (spiritual liberation), and Raj Ghat (peaceful atmosphere). Arrive early to secure a good spot."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can I book a taxi for Kartik Purnima Snan?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Book taxis for Kartik Purnima in advance due to high demand. Call +91-80621-82380 or WhatsApp for 24/7 booking. Pre-dawn packages (3:30 AM pickup) cost ₹800-1200 sedan, ₹1200-1800 SUV. Round-trip ghat packages with waiting time available. Book at least 7 days in advance for festival period."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should I carry for Kartik Purnima Ganga Snan?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Essential items: 2 sets of clothes (one for bathing, one dry set), towel, small waterproof pouch for valuables, prasad for offering (flowers, incense, diya), water bottle, basic first-aid, torch/flashlight for pre-dawn visit, and modest clothing. Keep jewelry minimal. Many pilgrims also carry a small mat or cloth to sit on."
-          }
-        }
-      ]
-    },
-    {
-      "@type": "Service",
-      "name": "Kartik Purnima Taxi Service Varanasi",
-      "serviceType": "Taxi and Transportation Services",
-      "provider": {
-        "@type": "LocalBusiness",
-        "name": "KashiTaxi",
-        "image": "https://www.kashitaxi.in/images/kashitaxi-logo.png",
-        "priceRange": "₹₹",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        },
-        "telephone": "+91-80621-82380",
-        "url": "https://www.kashitaxi.in"
-      },
-      "areaServed": {
-        "@type": "City",
-        "name": "Varanasi"
-      },
-      "hasOfferCatalog": {
-        "@type": "OfferCatalog",
-        "name": "Kartik Purnima Festival Transport",
-        "itemListElement": [
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Pre-Dawn Ghat Transfer (3:30 AM - 7:00 AM)"
-            },
-            "price": "800",
-            "priceCurrency": "INR"
-          },
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Round-Trip Ghat Package with 4-hour waiting"
-            },
-            "price": "1500",
-            "priceCurrency": "INR"
-          }
-        ]
-      }
-    },
-    {
-      "@type": "TouristAttraction",
-      "name": "Kartik Purnima Ganga Snan",
-      "description": "Sacred bathing festival at Varanasi ghats during full moon of Kartik month",
-      "touristType": ["Pilgrims", "Spiritual Seekers", "Cultural Tourists"],
-      "isAccessibleForFree": true
-    }
-  ]
-}
-</script>
 
 ## What is Kartik Purnima Ganga Snan?
 
