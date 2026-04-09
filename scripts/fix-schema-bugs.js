@@ -108,7 +108,7 @@ function fixInlineJsonLd() {
     // Also check if the rendering pipeline will generate schema from frontmatter
     const matter = require('gray-matter');
     const { data } = matter(raw);
-    const hasFrontmatterSchema = !!(data.faqSchema || data.faq || data.eventSchema);
+    const hasFrontmatterSchema = !!(data.faqSchema || data.faq || data.eventSchema || data.startDate);
 
     // Parse what schemas are inline
     INLINE_RE.lastIndex = 0;
