@@ -236,3 +236,55 @@ test.describe('Breadcrumb schema on destination pages', () => {
     });
   }
 });
+
+// ── Event pages: no inline JSON-LD duplication, valid Event + FAQ schemas ──
+
+test.describe('Event pages: inline JSON-LD removed, pipeline schemas valid', () => {
+  const EVENT_PAGES = [
+    { path: '/en/destinations/varanasi/events/banaras-lit-fest-2026-taxi-booking', hasFaq: false },
+    { path: '/en/destinations/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026', hasFaq: true, minQuestions: 5 },
+    { path: '/en/destinations/varanasi/events/kashi-tamil-sangamam-2026-varanasi', hasFaq: true, minQuestions: 25 },
+    { path: '/en/destinations/varanasi/events/makar-sankranti-ganga-snan-varanasi-2026', hasFaq: true, minQuestions: 5 },
+    { path: '/en/destinations/varanasi/events/mauni-amavasya-ganga-snan-varanasi-2026', hasFaq: true, minQuestions: 5 },
+  ];
+
+  for (const { path, hasFaq, minQuestions } of EVENT_PAGES) {
+    test(`${path} has exactly 1 Event with startDate + location`, async ({ page }) => {
+      await page.goto(`${BASE}${path}`, { waitUntil: 'networkidle' });
+      const schemas = await parseSchemas(page);
+      const nodes = flattenGraph(schemas);
+
+      const eventNodes = nodes.filter((n) => n['@type'] === 'Event');
+      expect(eventNodes.length, 'Should have exactly 1 Event').toBe(1);
+      expect(eventNodes[0]).toHaveProperty('startDate');
+      expect(eventNodes[0]).toHaveProperty('location');
+    });
+
+    if (hasFaq) {
+      test(`${path} has FAQPage with ≥${minQuestions} questions`, async ({ page }) => {
+        await page.goto(`${BASE}${path}`, { waitUntil: 'networkidle' });
+        const schemas = await parseSchemas(page);
+        const nodes = flattenGraph(schemas);
+
+        const faqNodes = nodes.filter((n) => n['@type'] === 'FAQPage');
+        expect(faqNodes.length, 'Should have exactly 1 FAQPage').toBe(1);
+
+        const mainEntity = faqNodes[0].mainEntity;
+        expect(Array.isArray(mainEntity)).toBe(true);
+        expect((mainEntity as unknown[]).length).toBeGreaterThanOrEqual(minQuestions!);
+      });
+    }
+
+    test(`${path} has no duplicate schema types`, async ({ page }) => {
+      await page.goto(`${BASE}${path}`, { waitUntil: 'networkidle' });
+      const schemas = await parseSchemas(page);
+      const nodes = flattenGraph(schemas);
+
+      // Check no duplicate Event or FAQPage
+      const eventCount = nodes.filter((n) => n['@type'] === 'Event').length;
+      const faqCount = nodes.filter((n) => n['@type'] === 'FAQPage').length;
+      expect(eventCount, 'No duplicate Event').toBeLessThanOrEqual(1);
+      expect(faqCount, 'No duplicate FAQPage').toBeLessThanOrEqual(1);
+    });
+  }
+});
