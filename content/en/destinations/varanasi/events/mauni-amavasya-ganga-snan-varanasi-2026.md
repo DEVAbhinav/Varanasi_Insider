@@ -36,150 +36,47 @@ offers:
 organizer:
   name: "Kashi Vishwanath Temple Trust"
   url: "https://www.kashivishwanath.org"
+faqSchema:
+  - q: "What is Mauni Amavasya and why is it special?"
+    a: >-
+      Mauni Amavasya is the new moon day falling in Magh month (Jan-Feb)
+      when devotees observe complete silence (maun vrat) while taking holy
+      bath in Ganges. It's considered the most auspicious bathing day of the
+      year, even more powerful than Kartik Purnima. Taking snan in silence
+      amplifies spiritual benefits manifold, cleansing sins of multiple
+      lifetimes and granting moksha.
+  - q: "When is Mauni Amavasya 2026?"
+    a: >-
+      Mauni Amavasya 2026 falls on Thursday, January 29, 2026. The
+      auspicious snan muhurat begins at 5:47 AM and continues till 8:24 AM
+      (Brahma Muhurat 5:47-6:42 AM is most powerful). Observing silence from
+      previous night (8 PM Jan 28) till afternoon Jan 29 maximizes spiritual
+      merit.
+  - q: "Why do people maintain silence during Mauni Amavasya Snan?"
+    a: >-
+      Silence (maun) during sacred bath multiplies spiritual merit by 1000
+      times according to scriptures. It helps turn attention inward,
+      conserve spiritual energy, avoid negative speech, show discipline, and
+      connect deeply with divine consciousness. Many pilgrims maintain
+      complete silence for 12-24 hours around the bath.
+  - q: "Which ghat is best for Mauni Amavasya Snan in Varanasi?"
+    a: >-
+      Dashashwamedh Ghat is most popular but very crowded. For silent
+      meditation-focused snan, Assi Ghat, Panchganga Ghat, or Tulsi Ghat
+      offer better atmosphere. Serious spiritual seekers prefer Manikarnika
+      Ghat. Many devotees also travel to Prayagraj's Triveni Sangam (120 km
+      from Varanasi) where Mauni Amavasya is considered even more powerful
+      during Magh Mela.
+  - q: "How do I book taxi for Mauni Amavasya pre-dawn snan?"
+    a: >-
+      Book at least 10 days in advance by calling +91-80621-82380. Pre-dawn
+      pickup (4:00-4:30 AM) costs ₹900-1200 sedan, ₹1400-1800 SUV for ghat
+      transfer. Prayagraj Sangam day trip packages ₹3500-4500 sedan with
+      return. Drivers trained to respect silence vow—minimal conversation
+      during journey.
 ---
 
 # Mauni Amavasya Ganga Snan Varanasi 2026 – The Most Powerful Silent Bath
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Event",
-      "name": "Mauni Amavasya Ganga Snan Varanasi 2026",
-      "description": "The most sacred new moon bathing ritual in Hindu calendar. Devotees observe complete silence (maun vrat) while taking holy dip in Ganges at Varanasi. Considered most auspicious day of Magh month for spiritual liberation.",
-      "startDate": "2026-01-29T04:00:00+05:30",
-      "endDate": "2026-01-29T23:59:00+05:30",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "location": {
-        "@type": "Place",
-        "name": "Varanasi Ghats & Triveni Sangam Prayagraj",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Ghats along River Ganges",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "postalCode": "221001",
-          "addressCountry": "IN"
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": "25.3176",
-          "longitude": "82.9739"
-        }
-      },
-      "organizer": {
-        "@type": "Organization",
-        "name": "Kashi Vishwanath Temple Trust",
-        "url": "https://www.kashivishwanath.org"
-      },
-      "image": "https://www.kashitaxi.in/images/mauni-amavasya-ganga-snan-varanasi.jpg",
-      "url": "https://www.kashitaxi.in/en/city/varanasi/events/mauni-amavasya-ganga-snan-varanasi-2026",
-      "offers": {
-        "@type": "Offer",
-        "url": "https://www.kashitaxi.in/booking",
-        "price": "0",
-        "priceCurrency": "INR",
-        "availability": "https://schema.org/InStock",
-        "validFrom": "2026-01-29"
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Mauni Amavasya and why is it special?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Mauni Amavasya is the new moon day falling in Magh month (Jan-Feb) when devotees observe complete silence (maun vrat) while taking holy bath in Ganges. It's considered the most auspicious bathing day of the year, even more powerful than Kartik Purnima. Taking snan in silence amplifies spiritual benefits manifold, cleansing sins of multiple lifetimes and granting moksha."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "When is Mauni Amavasya 2026?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Mauni Amavasya 2026 falls on Thursday, January 29, 2026. The auspicious snan muhurat begins at 5:47 AM and continues till 8:24 AM (Brahma Muhurat 5:47-6:42 AM is most powerful). Observing silence from previous night (8 PM Jan 28) till afternoon Jan 29 maximizes spiritual merit."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why do people maintain silence during Mauni Amavasya Snan?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Silence (maun) during sacred bath multiplies spiritual merit by 1000 times according to scriptures. It helps turn attention inward, conserve spiritual energy, avoid negative speech, show discipline, and connect deeply with divine consciousness. Many pilgrims maintain complete silence for 12-24 hours around the bath."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Which ghat is best for Mauni Amavasya Snan in Varanasi?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Dashashwamedh Ghat is most popular but very crowded. For silent meditation-focused snan, Assi Ghat, Panchganga Ghat, or Tulsi Ghat offer better atmosphere. Serious spiritual seekers prefer Manikarnika Ghat. Many devotees also travel to Prayagraj's Triveni Sangam (120 km from Varanasi) where Mauni Amavasya is considered even more powerful during Magh Mela."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I book taxi for Mauni Amavasya pre-dawn snan?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Book at least 10 days in advance by calling +91-80621-82380. Pre-dawn pickup (4:00-4:30 AM) costs ₹900-1200 sedan, ₹1400-1800 SUV for ghat transfer. Prayagraj Sangam day trip packages ₹3500-4500 sedan with return. Drivers trained to respect silence vow—minimal conversation during journey."
-          }
-        }
-      ]
-    },
-    {
-      "@type": "Service",
-      "name": "Mauni Amavasya Silent Bathing Taxi Service",
-      "serviceType": "Taxi and Pilgrimage Transportation",
-      "provider": {
-        "@type": "LocalBusiness",
-        "name": "KashiTaxi",
-        "image": "https://www.kashitaxi.in/images/kashitaxi-logo.png",
-        "priceRange": "₹₹",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        },
-        "telephone": "+91-80621-82380",
-        "url": "https://www.kashitaxi.in"
-      },
-      "areaServed": {
-        "@type": "City",
-        "name": "Varanasi"
-      },
-      "hasOfferCatalog": {
-        "@type": "OfferCatalog",
-        "name": "Mauni Amavasya Transport Options",
-        "itemListElement": [
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Varanasi Ghat Pre-Dawn Transfer (4:00 AM - 8:00 AM)"
-            },
-            "price": "900",
-            "priceCurrency": "INR"
-          },
-          {
-            "@type": "Offer",
-            "itemOffered": {
-              "@type": "Service",
-              "name": "Varanasi to Prayagraj Sangam Day Trip"
-            },
-            "price": "3500",
-            "priceCurrency": "INR"
-          }
-        ]
-      }
-    }
-  ]
-}
-</script>
 
 ## What is Mauni Amavasya?
 
