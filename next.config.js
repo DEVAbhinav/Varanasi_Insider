@@ -814,9 +814,14 @@ const nextConfig = {
       // ===================================
 
       // Tour packages: identical itinerary/pricing pairs (1n2d = 2-day, 2n3d = 3-day)
+      // Deep URLs (direct match)
       { source: '/en/city/varanasi/tour-packages/varanasi-1n2d-tour', destination: '/en/city/varanasi/tour-packages/varanasi-2-day-tour', permanent: true },
       { source: '/en/city/varanasi/tour-packages/varanasi-2n3d-tour', destination: '/en/city/varanasi/tour-packages/varanasi-3-day-tour', permanent: true },
       { source: '/en/city/ayodhya/tour-packages/ayodhya-1n2d-tour', destination: '/en/city/ayodhya/tour-packages/ayodhya-2-day-tour', permanent: true },
+      // Flat URLs (skip 2-hop chain from buildDestinationRootRedirects)
+      { source: '/en/varanasi-1n2d-tour', destination: '/en/city/varanasi/tour-packages/varanasi-2-day-tour', permanent: true },
+      { source: '/en/varanasi-2n3d-tour', destination: '/en/city/varanasi/tour-packages/varanasi-3-day-tour', permanent: true },
+      { source: '/en/ayodhya-1n2d-tour', destination: '/en/city/ayodhya/tour-packages/ayodhya-2-day-tour', permanent: true },
 
       // DDU Junction → Mughalsarai (same station; "mughalsarai" gets 3x more GSC impressions)
       { source: '/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance', destination: '/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance', permanent: true },
