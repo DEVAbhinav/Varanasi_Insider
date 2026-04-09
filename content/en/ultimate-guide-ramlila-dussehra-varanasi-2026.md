@@ -121,26 +121,6 @@ relatedPosts:
   - best-time-to-visit-varanasi
   - varanasi-sunrise-boat-ride-timings
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Event",
-  "name": "Ramlila Dussehra Varanasi 2026",
-  "startDate": "2026-10-02",
-  "endDate": "2026-10-12",
-  "location": {
-    "@type": "City",
-    "name": "Varanasi, India"
-  },
-  "offers": {
-    "@type": "Offer",
-    "name": "Airport Taxi to Ramlila",
-    "price": "690",
-    "priceCurrency": "INR",
-    "url": "https://www.kashitaxi.in/en/ultimate-guide-ramlila-dussehra-varanasi-2026"
-  }
-}
-</script>
 
 # Varanasi Dussehra 2026 & Ramnagar Ramlila UNESCO Festival Guide: Complete Schedule & Transport
 

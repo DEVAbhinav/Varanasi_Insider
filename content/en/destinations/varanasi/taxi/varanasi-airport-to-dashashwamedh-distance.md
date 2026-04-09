@@ -36,36 +36,6 @@ faqSchema:
   - question: "What time should I leave the airport to catch the Ganga Aarti?"
     answer: "For the 6:30–7:00 PM Ganga Aarti, target a 4:45–5:00 PM airport departure to clear city traffic, collect your hotel keys, and reach viewing ghats 45 minutes early."
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TaxiReservation",
-  "name": "Varanasi Airport to Dashashwamedh Ghat Taxi",
-  "description": "Instant taxi booking from Varanasi Airport to Dashashwamedh Ghat. Flash fare ₹690, 40 minutes.",
-  "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance",
-  "telephone": "+918062182380",
-  "priceRange": "₹690-950",
-  "priceCurrency": "INR",
-  "areaServed": {
-    "@type": "City",
-    "name": "Varanasi"
-  },
-  "availability": "InStock",
-  "availabilityStarts": "2026-12-15",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "ratingCount": "127"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "690",
-    "priceCurrency": "INR",
-    "description": "Flash offer - Book within 2 hours of pickup",
-    "availability": "InStock"
-  }
-}
-</script>
 
 # Varanasi Airport to Dashashwamedh Ghat Taxi | ₹690 Flash Offer
 

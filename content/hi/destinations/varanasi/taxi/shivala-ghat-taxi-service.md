@@ -43,57 +43,6 @@ faqSchema:
     answer: "हाँ, 3-4 घंटे का हाफ-डे टूर: शिवाला → असी → दशाश्वमेध (आरती) → वापस। ड्राइवर इंतज़ार करता है।"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "TaxiService",
-      "@id": "https://www.kashitaxi.in/hi/city/varanasi/taxi/shivala-ghat-taxi-service#service",
-      "name": "शिवाला घाट टैक्सी सेवा",
-      "serviceType": "होटल और घाट ट्रांसफर",
-      "url": "https://www.kashitaxi.in/hi/city/varanasi/taxi/shivala-ghat-taxi-service",
-      "description": "शिवाला घाट होटलों के लिए सोनारपुरा ड्रॉप और पार्किंग-अनुकूल टैक्सी सेवा।",
-      "provider": {
-        "@type": "LocalBusiness",
-        "@id": "https://www.kashitaxi.in/#org",
-        "name": "Kashi Taxi",
-        "url": "https://www.kashitaxi.in/",
-        "telephone": "+918062182380"
-      },
-      "areaServed": {"@type": "Place", "name": "शिवाला घाट, वाराणसी"},
-      "serviceArea": {"@type": "City", "name": "Varanasi"},
-      "availableChannel": {
-        "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919935474730?text=Book%20Shivala%20Ghat%20taxi",
-        "availableLanguage": ["hi", "en"],
-        "servicePhone": {"@type": "ContactPoint", "telephone": "+918062182380", "contactType": "reservations"}
-      },
-      "offers": {
-        "@type": "AggregateOffer",
-        "priceCurrency": "INR",
-        "lowPrice": 450,
-        "highPrice": 1500,
-        "offerCount": 3,
-        "offers": [
-          {"@type": "Offer", "name": "शिवाला ड्रॉप सेडान", "priceCurrency": "INR", "price": 450, "description": "सोनारपुरा/शिवाला सही लेन गाइडेंस के साथ सिटी ड्रॉप।"},
-          {"@type": "Offer", "name": "एयरपोर्ट से शिवाला सेडान", "priceCurrency": "INR", "price": 900, "description": "बबतपुर से शिवाला (सोनारपुरा ड्रॉप) ऑल-इन्क्लूसिव।"},
-          {"@type": "Offer", "name": "घाट हॉप हाफ-डे", "priceCurrency": "INR", "price": 1800, "description": "3-4 घंटे का घाट सर्किट, शिवाला से शुरू/खत्म।"}
-        ]
-      },
-      "timeRequired": "PT20M",
-      "additionalProperty": [
-        {"@type": "PropertyValue", "name": "DistanceAirport", "value": "26 km"},
-        {"@type": "PropertyValue", "name": "DistanceCantt", "value": "6 km"},
-        {"@type": "PropertyValue", "name": "DriveTimePeakAirport", "value": "PT80M"},
-        {"@type": "PropertyValue", "name": "DriveTimePeakCantt", "value": "PT45M"}
-      ],
-      "knowsAbout": ["Sonarpura Crossing", "Hotel Heritage Inn parking", "Shivala quiet zone"]
-    }
-  ]
-}
-</script>
-
 # शिवाला घाट टैक्सी सेवा (होटल हब और शांत ठहराव)
 
 शिवाला घाट शांत रहने की जगह है जहाँ कई बुटीक होटल और मेडिटेशन करने वाले यात्री ठहरते हैं। **ज़्यादातर ड्रॉप सोनारपुरा क्रॉसिंग पर होते हैं**, फिर 100-150 मीटर पैदल चलकर होटल/घाट पहुँचना होता है।

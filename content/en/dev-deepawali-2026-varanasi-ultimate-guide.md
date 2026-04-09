@@ -34,26 +34,6 @@ relatedPosts:
   - book-taxi-varanasi-ramlila-dussehra
 ---
 
-<script type="application/ld+json">
-{
-  "@context":"https://schema.org",
-  "@type":"Event",
-  "name":"Dev Deepawali (Kashi) 2026",
-  "startDate":"2026-11-05",
-  "location":{
-    "@type":"Place",
-    "name":"Ghats of Varanasi",
-    "address":{
-      "@type":"PostalAddress",
-      "addressLocality":"Varanasi",
-      "addressRegion":"Uttar Pradesh",
-      "addressCountry":"IN"
-    }
-  },
-  "description":"Dev Deepawali 2026 in Varanasi: program schedule, best ghats for viewing, travel tips and safety information."
-}
-</script>
-
 ---
 
 # Dev Deepawali 2026 Varanasi November 5: Million Lamps Festival Complete Guide

@@ -196,7 +196,12 @@ export default function DestinationContentPage({ entry, category, allPosts, page
   const headerEyebrow = entry.eyebrow || CATEGORY_TITLE_MAP[pageCategory] || 'Destination Insight';
   const breadcrumbs = Array.isArray(entry.breadcrumbs) ? entry.breadcrumbs : [];
 
-  const breadcrumbJsonLd = breadcrumbs.length >= 2
+  // Only render standalone breadcrumb JSON-LD if the main jsonLd graph doesn't already contain one.
+  const mainGraphHasBreadcrumbs = entry.jsonLd?.['@graph']?.some(
+    (n) => n?.['@type'] === 'BreadcrumbList'
+  );
+
+  const breadcrumbJsonLd = (!mainGraphHasBreadcrumbs && breadcrumbs.length >= 2)
     ? {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',

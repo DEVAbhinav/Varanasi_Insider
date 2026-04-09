@@ -44,57 +44,6 @@ faqSchema:
     answer: "आधिकारिक गाइड नहीं हैं; कभी-कभी कर्मकार (Dom) छोटी टिप पर समझाते हैं। अनुरोध पर हम जोड़ सकते हैं।"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "TaxiService",
-      "@id": "https://www.kashitaxi.in/hi/city/varanasi/taxi/manikarnika-ghat-cremation-guide#service",
-      "name": "मणिकर्णिका घाट टैक्सी और एटीकेट सेवा",
-      "serviceType": "दाह-संस्कार घाट पहुँच",
-      "url": "https://www.kashitaxi.in/hi/city/varanasi/taxi/manikarnika-ghat-cremation-guide",
-      "description": "मणिकर्णिका घाट के लिए मैदागिन ड्रॉप, आचार-संहिता ब्रीफिंग, और वेटिंग सर्विस।",
-      "provider": {
-        "@type": "LocalBusiness",
-        "@id": "https://www.kashitaxi.in/#org",
-        "name": "Kashi Taxi",
-        "url": "https://www.kashitaxi.in/",
-        "telephone": "+918062182380"
-      },
-      "areaServed": {"@type": "Place", "name": "मणिकर्णिका घाट, वाराणसी"},
-      "serviceArea": {"@type": "City", "name": "Varanasi"},
-      "availableChannel": {
-        "@type": "ServiceChannel",
-        "serviceUrl": "https://wa.me/919935474730?text=Visit%20Manikarnika%20Ghat",
-        "availableLanguage": ["hi", "en"],
-        "servicePhone": {"@type": "ContactPoint", "telephone": "+918062182380", "contactType": "reservations"}
-      },
-      "offers": {
-        "@type": "AggregateOffer",
-        "priceCurrency": "INR",
-        "lowPrice": 450,
-        "highPrice": 1800,
-        "offerCount": 3,
-        "offers": [
-          {"@type": "Offer", "name": "मैदागिन ड्रॉप सेडान", "priceCurrency": "INR", "price": 450, "description": "मैदागिन गेट तक ड्रॉप + 45 मिनट वेटिंग।"},
-          {"@type": "Offer", "name": "शाम का पवित्र सर्किट", "priceCurrency": "INR", "price": 1300, "description": "मणिकर्णिका + दशाश्वमेध आरती सर्किट, वेटिंग सहित।"},
-          {"@type": "Offer", "name": "एयरपोर्ट से मैदागिन", "priceCurrency": "INR", "price": 900, "description": "एयरपोर्ट से मैदागिन ड्रॉप, मणिकर्णिका विजिट के लिए।"}
-        ]
-      },
-      "timeRequired": "PT45M",
-      "additionalProperty": [
-        {"@type": "PropertyValue", "name": "DistanceAirport", "value": "27 km"},
-        {"@type": "PropertyValue", "name": "DistanceAssi", "value": "5 km"},
-        {"@type": "PropertyValue", "name": "DriveTimePeakAirport", "value": "PT90M"},
-        {"@type": "PropertyValue", "name": "DriveTimePeakAssi", "value": "PT50M"}
-      ],
-      "knowsAbout": ["Maidagin कानूनी ड्रॉप", "नो-फोटो दाह-संस्कार एटीकेट", "पवित्र पैदल लेन"]
-    }
-  ]
-}
-</script>
-
 # मणिकर्णिका घाट टैक्सी और एटीकेट गाइड (पवित्र दाह-संस्कार पहुँच)
 
 मणिकर्णिका एक पवित्र दाह-संस्कार स्थल है, पर्यटन स्पॉट नहीं। **ड्रॉप मैदागिन गेट** पर होता है (कानूनी, सम्मानजनक), और बाकी 200 मीटर पैदल चलते हैं।

@@ -29,7 +29,7 @@
         "@id": "https://www.kashitaxi.in#organization"
       },
       "category": "Buddhist Circuit Tour",
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png",
+      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

@@ -37,39 +37,6 @@ location:
   name: "Sarnath"
   address: "Sarnath, Varanasi, Uttar Pradesh 221007"
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TaxiReservation",
-  "name": "Varanasi Airport to Sarnath Buddhist Circuit Taxi",
-  "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance",
-  "telephone": "+918062182380",
-  "priceRange": "₹690-850",
-  "priceCurrency": "INR",
-  "availability": "InStock",
-  "offers": [
-    {
-      "@type": "Offer",
-      "name": "Flash Rate",
-      "price": "690",
-      "priceCurrency": "INR",
-      "description": "Book within 2 hours"
-    },
-    {
-      "@type": "Offer",
-      "name": "Standard Rate",
-      "price": "850",
-      "priceCurrency": "INR",
-      "description": "Regular booking"
-    }
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.9",
-    "ratingCount": "89"
-  }
-}
-</script>
 
 # Airport to Sarnath Taxi ₹690 | Dhamek Stupa | 50-min Route
 

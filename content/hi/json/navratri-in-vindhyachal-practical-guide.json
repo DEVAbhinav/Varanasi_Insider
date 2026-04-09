@@ -8,7 +8,7 @@
       "description": "विंध्याचल नवरात्रि 2026 की संपूर्ण व्यावहारिक गाइड। मंदिर दर्शन समय, विशेष आरती, पूजा बुकिंग, व्रत नियम, भीड़ प्रबंधन और स्थानीय सुझावों के साथ—माता विंध्यवासिनी के आशीर्वाद के लिए आदर्श तैयारी।",
       "image": {
         "@type": "ImageObject",
-        "url": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg",
+        "url": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg",
         "width": 1200,
         "height": 630
       },
@@ -54,7 +54,7 @@
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
-          "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
+          "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
           "location": {
             "@type": "Place",
             "name": "विंध्यवासिनी देवी मंदिर, विंध्याचल",
@@ -166,7 +166,7 @@
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
-          "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
+          "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
           "endDate": "2026-03-30T02:00:00+05:30",
           "location": {
             "@type": "Place",
@@ -199,7 +199,7 @@
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
-          "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
+          "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
           "endDate": "2026-04-06T02:00:00+05:30",
           "location": {
             "@type": "Place",
@@ -232,7 +232,7 @@
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
-          "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
+          "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
           "endDate": "2026-04-07T02:00:00+05:30",
           "location": {
             "@type": "Place",
@@ -256,7 +256,7 @@
         "priceCurrency": "INR",
         "availability": "https://schema.org/InStock"
       },
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
+      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
     },
     {
       "@type": "Schedule",
@@ -363,7 +363,7 @@
           "priceCurrency": "INR",
           "availability": "https://schema.org/InStock"
         },
-        "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
+        "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
         "location": {
           "@type": "Place",
           "name": "विंध्यवासिनी देवी मंदिर, विंध्याचल",

@@ -85,7 +85,7 @@
         "@id": "https://www.kashitaxi.in#organization"
       },
       "category": "Outstation Taxi",
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTaxi1.jpg",
+      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTaxi1.jpg",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

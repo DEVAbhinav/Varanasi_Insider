@@ -65,31 +65,6 @@ faqSchema:
   - question: "What should I know about the Monkey Temple (Durga Temple) in Varanasi?"
     answer: "Durga Temple, locally called 'Monkey Temple', has hundreds of resident monkeys. Secure phones, sunglasses, and water bottles before entering. Avoid visible food. The temple's red-ochre architecture and stepped Durga Kund pond are the main draws. Best visited during Navratri for special nine-night celebrations."
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TourOperator",
-  "name": "KashiTaxi Varanasi Tourist Packages",
-  "url": "https://www.kashitaxi.in/en/tourist-spots-varanasi",
-  "telephone": "+918062182380",
-  "areaServed": "Varanasi, India",
-  "availableLanguage": ["en", "hi"],
-  "offers": [
-    {
-      "@type": "Offer",
-      "name": "Ganga Aarti + Dashashwamedh Taxi",
-      "price": "690",
-      "priceCurrency": "INR"
-    },
-    {
-      "@type": "Offer",
-      "name": "Sarnath Buddhist Circuit",
-      "price": "690",
-      "priceCurrency": "INR"
-    }
-  ]
-}
-</script>
 
 # Varanasi's Best Tourist Spots + Taxi Bookings
 

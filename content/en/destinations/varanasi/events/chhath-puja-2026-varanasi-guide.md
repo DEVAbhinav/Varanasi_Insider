@@ -80,54 +80,6 @@ relatedPosts:
 
 # Chhath Puja 2026 Varanasi: Complete Guide to Dates, Ghats & Taxi Booking
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Event",
-      "name": "Chhath Puja 2026 Varanasi",
-      "description": "Four-day Chhath Puja festival at Varanasi ghats with Sandhya Arghya (sunset offering) on October 30 and Usha Arghya (sunrise offering) on October 31, 2026.",
-      "startDate": "2026-10-28T05:00:00+05:30",
-      "endDate": "2026-10-31T08:00:00+05:30",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "location": {
-        "@type": "Place",
-        "name": "Varanasi Ghats (Chhath Ghat, Assi Ghat, Namo Ghat)",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Ghats along River Ganges",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "postalCode": "221001",
-          "addressCountry": "IN"
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": "25.2854",
-          "longitude": "83.0098"
-        }
-      },
-      "organizer": {
-        "@type": "Organization",
-        "name": "Varanasi Municipal Corporation"
-      },
-      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg",
-      "url": "https://www.kashitaxi.in/en/city/varanasi/events/chhath-puja-2026-varanasi-guide",
-      "offers": {
-        "@type": "Offer",
-        "url": "https://wa.me/919935474730?text=Chhath%20Puja%20taxi%20booking",
-        "price": "899",
-        "priceCurrency": "INR",
-        "availability": "https://schema.org/PreOrder",
-        "validFrom": "2026-04-06"
-      }
-    }
-  ]
-}
-</script>
-
 > **TL;DR — Chhath Puja 2026 Varanasi Cheat Sheet**
 >
 > | Detail | Info |

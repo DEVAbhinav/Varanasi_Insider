@@ -36,28 +36,6 @@ location:
   name: "Namo Ghat"
   address: "Namo Ghat, Varanasi, Uttar Pradesh 221001"
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TaxiReservation",
-  "name": "NaMo Ghat Taxi from Varanasi Airport",
-  "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance",
-  "telephone": "+918062182380",
-  "priceRange": "₹690-780",
-  "priceCurrency": "INR",
-  "offers": {
-    "@type": "Offer",
-    "price": "690",
-    "priceCurrency": "INR",
-    "description": "35-minute drive to NaMo light show"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.7",
-    "ratingCount": "64"
-  }
-}
-</script>
 
 # VNS Airport to NaMo Ghat Taxi ₹690 | Light Show Drop, 35min Route
 

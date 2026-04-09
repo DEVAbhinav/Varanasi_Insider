@@ -27,7 +27,7 @@ export default function CategoryDirectoryPage({ entry, allPosts }) {
   const modified = entry.lastUpdated || entry.date || undefined;
   const ogImage = entry.featuredImage
     ? (entry.featuredImage.startsWith('http') ? entry.featuredImage : `${SITE_BASE}${entry.featuredImage}`)
-    : `${SITE_BASE}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`;
+    : 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png';
   const phoneNumber = entry.phone || DEFAULT_PHONE;
   const headerEyebrow = entry.eyebrow || 'Destination Cluster';
 

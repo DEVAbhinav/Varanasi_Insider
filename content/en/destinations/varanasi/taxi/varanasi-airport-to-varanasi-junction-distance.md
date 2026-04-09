@@ -36,48 +36,7 @@ faqSchema:
   - question: "Is Ola or Uber reliable for Varanasi Junction pickups?"
     answer: "App cabs operate but often cancel at peak arrival times; pre-booked taxis hold permits and wait through queue delays."
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "Kashi Taxi - Airport to Varanasi Junction (Cantt)",
-  "image": "https://www.kashitaxi.in/images/kashi-taxi-logo.png",
-  "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance",
-  "url": "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance",
-  "telephone": "+918062182380",
-  "priceRange": "₹690-₹2050",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Near Sigra",
-    "addressLocality": "Varanasi",
-    "postalCode": "221002",
-    "addressRegion": "UP",
-    "addressCountry": "IN"
-  },
-  "openingHoursSpecification": {
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-    "opens": "00:00",
-    "closes": "23:59"
-  },
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Cantt Station Transfer Services",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Airport to Cantt Station Fixed Fare",
-          "description": "22km transfer with no surge pricing, platform drop included"
-        },
-        "price": "690",
-        "priceCurrency": "INR"
-      }
-    ]
-  }
-}
-</script>
+
 # Airport to Varanasi Junction (Cantt) Taxi ₹690 | 35min Direct, Train Connection Ready
 
 **The distance from Varanasi Airport (VNS) to Varanasi Junction (Cantt/BSB) is 22 km via Ring Road and Cantt Road, and the drive typically takes 35–50 minutes in normal traffic.**

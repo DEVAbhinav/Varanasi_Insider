@@ -33,42 +33,7 @@ faqSchema:
   - question: "Is Ola or Uber dependable for Manduadih station trips?"
     answer: "Apps operate but frequently surge at night; a reserved taxi guarantees fixed fare and assistance with luggage scanning queues."
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Varanasi Airport to Banaras Railway Station Taxi",
-  "serviceType": "Airport to Railway Transfer",
-  "areaServed": "Varanasi, Uttar Pradesh, India",
-  "provider": {
-    "@type": "LocalBusiness",
-    "name": "Vinayak Travels Varanasi",
-    "telephone": "+918062182380",
-    "url": "https://www.kashitaxi.in",
-    "priceRange": "₹690-₹2150"
-  },
-  "description": "Reliable airport to Banaras Railway Station (Manduadih) transfer with flight tracking and platform drop. Never miss your train.",
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "name": "Flash Fare Sedan",
-        "price": "690",
-        "priceCurrency": "INR",
-        "description": "27km transfer with flight tracking and platform assistance"
-      },
-      {
-        "@type": "Offer",
-        "name": "SUV for Families",
-        "price": "1150",
-        "priceCurrency": "INR",
-        "description": "Spacious vehicle with luggage help"
-      }
-    ]
-  }
-}
-</script>
+
 # Varanasi Airport to Banaras Station Taxi ₹690 Flash | 27km, 45min Direct Drop
 
 **The distance from Varanasi Airport (VNS) to Banaras Railway Station (BSBS/Manduadih) is 27 km via Ring Road and Manduadih Road, and the drive typically takes 45–60 minutes in normal traffic.**

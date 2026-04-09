@@ -64,7 +64,7 @@
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
-          "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
+          "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
           "description": "Nag Nathaiya 2026",
           "location": {
             "@type": "Place",
@@ -97,7 +97,7 @@
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
-          "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
+          "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
           "description": "Ganga Mahotsav 2026",
           "location": {
             "@type": "Place",
