@@ -40,60 +40,25 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - varanasi-to-prayagraj-pilgrimage-guide
   - varanasi-to-bodh-gaya-pilgrimage-guide
+faqSchema:
+  - q: "What is the best way to plan a Varanasi to Vindhyachal tour?"
+    a: >-
+      Booking a private taxi for an 8-hour same-day loop lets you cover
+      Vindhyavasini, Kali Khoh, and Ashtabhuja comfortably with buffer for
+      darshan queues.
+  - q: "What is the distance from Varanasi to Vindhyachal?"
+    a: >-
+      The Mirzapur highway stretch measures roughly 65–70 km, taking 1.5–2
+      hours each way in normal traffic.
+  - q: "Are there direct trains from Varanasi to Vindhyachal?"
+    a: >-
+      A few passenger trains halt at Vindhyachal (BDL), but most pilgrims
+      ride an express to Mirzapur (MZP) and finish the last 8 km by auto.
+  - q: "How much is the taxi fare from Varanasi to Vindhyachal?"
+    a: >-
+      Sedan same-day returns cost ₹2,000–₹2,200 in Nov 2026, SUV upgrades
+      ₹2,600–₹2,900, and one-way drops ₹1,400–₹1,600.
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Varanasi to Vindhyachal Taxi Service",
-  "serviceType": "Outstation Taxi",
-  "areaServed": [
-    "Varanasi",
-    "Vindhyachal",
-    "Mirzapur"
-  ],
-  "provider": {
-    "@type": "LocalBusiness",
-    "name": "Vinayak Travels Varanasi",
-    "telephone": "+918062182380",
-    "url": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Varanasi",
-      "addressRegion": "UP",
-      "addressCountry": "IN"
-    }
-  },
-  "serviceOutput": "Same-day darshan of Vindhyavasini, Kali Khoh & Ashtabhuja",
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Varanasi to Vindhyachal Cab Fare",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "name": "Sedan Same-Day Return",
-        "price": "2000",
-        "priceCurrency": "INR",
-        "description": "8-hour / 150 km sedan with driver allowance",
-        "url": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal#book",
-        "availabilityStarts": "2026-11-05",
-        "potentialAction": {
-          "@type": "ReserveAction",
-          "target": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal#book"
-        }
-      },
-      {
-        "@type": "Offer",
-        "name": "SUV 7-Seater Same-Day",
-        "price": "2800",
-        "priceCurrency": "INR",
-        "description": "Toyota Innova or similar, 8-hour / 150 km",
-        "url": "https://www.kashitaxi.in/en/varanasi-to-vindhyachal#book"
-      }
-    ]
-  }
-}
-</script>
 
 Updated: Nov 2026
 
@@ -197,48 +162,6 @@ A: While some passenger trains stop at Vindhyachal (BDL), it is more convenient 
 
 **Q: How much is the taxi fare from Varanasi to Vindhyachal?**  
 A: A same-day return sedan now sits at ₹2,000–₹2,200. A one-way drop lands around ₹1,400–₹1,600 depending on pickup time.
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the best way to plan a Varanasi to Vindhyachal tour?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Booking a private taxi for an 8-hour same-day loop lets you cover Vindhyavasini, Kali Khoh, and Ashtabhuja comfortably with buffer for darshan queues."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the distance from Varanasi to Vindhyachal?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Mirzapur highway stretch measures roughly 65–70 km, taking 1.5–2 hours each way in normal traffic."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there direct trains from Varanasi to Vindhyachal?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A few passenger trains halt at Vindhyachal (BDL), but most pilgrims ride an express to Mirzapur (MZP) and finish the last 8 km by auto."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much is the taxi fare from Varanasi to Vindhyachal?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sedan same-day returns cost ₹2,000–₹2,200 in Nov 2026, SUV upgrades ₹2,600–₹2,900, and one-way drops ₹1,400–₹1,600."
-      }
-    }
-  ]
-}
-</script>
 
 ## Tips for Your Trip
 

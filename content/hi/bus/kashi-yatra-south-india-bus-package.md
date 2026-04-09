@@ -152,19 +152,3 @@ Inquiry → तिथि + Pax → प्राथमिक itinerary → 20% �
 ## सारांश
 संरचित बस तीर्थ जो **लॉजिस्टिक्स को संपीड़ित** कर भक्तिमय गहराई सुरक्षित रखता है; मॉड्यूलर ऐड‑ऑन से बिना पुनर्निर्माण विस्तार संभव।
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Trip",
-  "name": "दक्षिण भारत से काशी यात्रा बस पैकेज",
-  "description": "6–7 दिन काशी तीर्थ – गंगा आरती, सूर्योदय बोट, विश्वनाथ, अन्नपूर्णा, विशालाक्षी, Prayagraj / Ayodhya विस्तार विकल्प सहित।",
-  "itinerary": [
-    {"@type": "TouristAttraction", "name": "Kashi Vishwanath Temple", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Dashashwamedh Ghat", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Annapurna Temple", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Visalakshi Temple", "address": "Varanasi, Uttar Pradesh"}
-  ],
-  "offers": {"@type": "AggregateOffer", "priceCurrency": "INR", "lowPrice": "8999", "highPrice": "17999", "offerCount": "3", "availability": "https://schema.org/InStock"},
-  "provider": {"@type": "Organization", "name": "Vinayak Travels Tour", "url": "https://www.kashitaxi.in/hi/bus/kashi-yatra-south-india-bus-package"}
-}
-</script>

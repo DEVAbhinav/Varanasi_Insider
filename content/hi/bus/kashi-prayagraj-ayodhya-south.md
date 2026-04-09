@@ -14,6 +14,22 @@ keywords: ["kashi prayagraj ayodhya yatra hindi","काशी प्रया�
 relatedPosts: ["kashi-yatra-south-india-bus-package","dev-deepawali-2026-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2026"]
 tags: ["काशी यात्रा","प्रयागराज संगम","अयोध्या राम मंदिर","दक्षिण भारत प्रस्थान","मल्टी सर्किट तीर्थ","गंगा आरती","राम मंदिर दर्शन"]
 translationOf: "kashi-prayagraj-ayodhya-south"
+faqSchema:
+  - q: "वरिष्ठों हेतु उपयुक्त?"
+    a: >-
+      हाँ—आराम ब्लॉक, सीट प्राथमिकता, कम चाल मार्ग विकल्प।
+  - q: "सबसे लम्बा सड़क खंड?"
+    a: >-
+      वाराणसी ↔ अयोध्या लगभग 4–5 घंटे सामान्य परिस्थितियों में।
+  - q: "पिंड दान सुविधा?"
+    a: >-
+      अग्रिम गोत्र/परिवार विवरण पर; पुजारी शुल्क पृथक।
+  - q: "शाम आरती बोट शामिल?"
+    a: >-
+      सूर्योदय साझा बोट शामिल; शाम आरती बोट अपग्रेड पर।
+  - q: "VIP दर्शन गारंटी?"
+    a: >-
+      कोई गारंटी नहीं; आधिकारिक प्रणाली अनुसार समय रणनीति।
 ---
 
 # काशी • प्रयागराज • अयोध्या 3-शहर बस तीर्थ (दक्षिण भारत समूह)
@@ -174,32 +190,5 @@ translationOf: "kashi-prayagraj-ayodhya-south"
 ## सारांश
 एकीकृत **तीन-शहर तीर्थ संरचना** जो समय/लागत घटाकर आध्यात्मिक कवरेज बढ़ाती है। वैरिएंट चुनें → तिथि भेजें → स्लॉट व ऐड‑ऑन सुरक्षित करें।
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Trip",
-  "name": "काशी • प्रयागराज • अयोध्या 3-शहर बस तीर्थ (दक्षिण भारत)",
-  "description": "7–9 दिन का संरचित मल्टी-सर्किट पैकेज: काशी, प्रयागराज संगम स्नान, अयोध्या राम मंदिर दर्शन, दो वैरिएंट, वरिष्ठ अनुकूल घटक।",
-  "itinerary": [
-    {"@type": "TouristAttraction", "name": "Kashi Vishwanath Temple", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Dashashwamedh Ghat", "address": "Varanasi, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Triveni Sangam", "address": "Prayagraj, Uttar Pradesh"},
-    {"@type": "TouristAttraction", "name": "Ram Mandir", "address": "Ayodhya, Uttar Pradesh"}
-  ],
-  "offers": {"@type": "AggregateOffer", "priceCurrency": "INR", "lowPrice": "9999", "highPrice": "21999", "offerCount": "3", "availability": "https://schema.org/InStock"},
-  "provider": {"@type": "Organization", "name": "Vinayak Travels Tour", "url": "https://www.kashitaxi.in/hi/bus/kashi-prayagraj-ayodhya-south"}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "वरिष्ठों हेतु उपयुक्त?", "acceptedAnswer": {"@type": "Answer", "text": "हाँ—आराम ब्लॉक, सीट प्राथमिकता, कम चाल मार्ग विकल्प।"}},
-    {"@type": "Question", "name": "सबसे लम्बा सड़क खंड?", "acceptedAnswer": {"@type": "Answer", "text": "वाराणसी ↔ अयोध्या लगभग 4–5 घंटे सामान्य परिस्थितियों में।"}},
-    {"@type": "Question", "name": "पिंड दान सुविधा?", "acceptedAnswer": {"@type": "Answer", "text": "अग्रिम गोत्र/परिवार विवरण पर; पुजारी शुल्क पृथक।"}},
-    {"@type": "Question", "name": "शाम आरती बोट शामिल?", "acceptedAnswer": {"@type": "Answer", "text": "सूर्योदय साझा बोट शामिल; शाम आरती बोट अपग्रेड पर।"}},
-    {"@type": "Question", "name": "VIP दर्शन गारंटी?", "acceptedAnswer": {"@type": "Answer", "text": "कोई गारंटी नहीं; आधिकारिक प्रणाली अनुसार समय रणनीति।"}}
-  ]
-}
-</script>
+
+

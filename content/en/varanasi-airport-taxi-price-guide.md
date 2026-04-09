@@ -27,82 +27,32 @@ relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
   - is-varanasi-safe-for-solo-female-travellers
   - varanasi-transport-price-guide-2026
+faqSchema:
+  - q: "How far is Varanasi city from the airport?"
+    a: >-
+      Varanasi airport to Assi Ghat spans 27–28 km and takes 40–45 minutes,
+      while Dashashwamedh is 25 km with a short walk due to barricades.
+  - q: "Where do I meet my driver at arrivals?"
+    a: >-
+      Drivers wait at Gate 3 in the arrivals hall near the Costa Coffee
+      stall holding placards. Sharing your flight number keeps them updated
+      on delays or gate changes.
+  - q: "What is the late-night surcharge policy?"
+    a: >-
+      Sedans add ₹150 after 9 PM, SUVs add ₹200, and Innova Crysta quotes
+      cap at ₹1,699 all-inclusive. Tempo Travellers include night allowance
+      upfront.
+  - q: "Can I get a refund if my flight is delayed or cancelled?"
+    a: >-
+      Cancel at least three hours before landing for a full refund. After
+      driver dispatch, 50% covers standby, while delays under 90 minutes
+      simply roll to the next slot for free.
+  - q: "Is it safe to hire a taxi at night from Varanasi airport?"
+    a: >-
+      Pre-booked operators share driver ID, vehicle number and tracking
+      links, making night arrivals safe. Alternate option: use the prepaid
+      counter inside the terminal to avoid touts.
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Service",
-  "@id": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#service",
-  "name": "Varanasi Airport Taxi",
-  "serviceType": "Airport Transfer",
-  "provider": {
-    "@type": "LocalBusiness",
-    "name": "Vinayak Travels Varanasi",
-    "telephone": "+918062182380",
-    "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide"
-  },
-  "areaServed": ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "BHU", "Sarnath"],
-  "description": "Dec 2026 Varanasi airport taxi fares with fixed sedan, Innova and tempo traveller pricing, night surcharge caps, and WhatsApp booking.",
-  "image": [
-    "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg",
-    "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png"
-  ],
-  "offers": [
-    {
-      "@type": "Offer",
-      "name": "Sedan Airport Pickup",
-      "price": "700",
-      "priceCurrency": "INR",
-      "priceValidUntil": "2026-06-30",
-      "description": "Sedan VNS airport to Assi/Dashashwamedh day rate; Flash ₹690 within 2 hours of pickup (weekday).",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book"
-    },
-    {
-      "@type": "Offer",
-      "name": "Innova Crysta Airport Pickup",
-      "price": "1250",
-      "priceCurrency": "INR",
-      "priceValidUntil": "2026-06-30",
-      "description": "Premium 6-seater airport transfer; capped night fare ₹1,699 all-inclusive.",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book"
-    },
-    {
-      "@type": "Offer",
-      "name": "Tempo Traveller Airport Transfer",
-      "price": "2100",
-      "priceCurrency": "INR",
-      "priceValidUntil": "2026-06-30",
-      "description": "12-seater airport transfer with baggage support and driver allowance included.",
-      "availability": "https://schema.org/InStock",
-      "url": "https://www.kashitaxi.in/en/varanasi-airport-taxi-price-guide#book"
-    }
-  ],
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Varanasi Airport Taxi Fare 2026",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "item": {"@type": "Offer", "name": "Sedan Airport Pickup"}
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "item": {"@type": "Offer", "name": "Innova Crysta Airport Pickup"}
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "item": {"@type": "Offer", "name": "Tempo Traveller Airport Transfer"}
-      }
-    ]
-  }
-}
-</script>
 
 # Varanasi Airport to Assi/Dashashwamedh Taxi Fare 2026
 
@@ -274,55 +224,6 @@ Yes. Pre-booked operators give you driver ID, vehicle number, and live tracking.
 > For a complete overview of all transport options, see our **[Varanasi Transport Price Guide](/en/varanasi-transport-price-guide-2026)**.
 
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How far is Varanasi city from the airport?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Varanasi airport to Assi Ghat spans 27–28 km and takes 40–45 minutes, while Dashashwamedh is 25 km with a short walk due to barricades."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where do I meet my driver at arrivals?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drivers wait at Gate 3 in the arrivals hall near the Costa Coffee stall holding placards. Sharing your flight number keeps them updated on delays or gate changes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the late-night surcharge policy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sedans add ₹150 after 9 PM, SUVs add ₹200, and Innova Crysta quotes cap at ₹1,699 all-inclusive. Tempo Travellers include night allowance upfront."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I get a refund if my flight is delayed or cancelled?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cancel at least three hours before landing for a full refund. After driver dispatch, 50% covers standby, while delays under 90 minutes simply roll to the next slot for free."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is it safe to hire a taxi at night from Varanasi airport?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pre-booked operators share driver ID, vehicle number and tracking links, making night arrivals safe. Alternate option: use the prepaid counter inside the terminal to avoid touts."
-      }
-    }
-  ]
-}
-</script>
 
 ## Summary
 

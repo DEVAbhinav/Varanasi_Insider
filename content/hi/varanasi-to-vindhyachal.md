@@ -21,24 +21,12 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - varanasi-to-prayagraj-pilgrimage-guide
   - varanasi-to-bodh-gaya-pilgrimage-guide
+faqSchema:
+  - q: "बनारस से विंध्याचल कितनी दूर है?"
+    a: >-
+      बनारस से विंध्याचल की दूरी लगभग 65–70 किमी है। टैक्सी से यात्रा 1.5–2
+      घंटे लेती है।
 ---
-
-<script type="application/ld+json">
-{
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity":[
-    {
-      "@type":"Question",
-      "name":"बनारस से विंध्याचल कितनी दूर है?",
-      "acceptedAnswer":{
-        "@type":"Answer",
-        "text":"बनारस से विंध्याचल की दूरी लगभग 65–70 किमी है। टैक्सी से यात्रा 1.5–2 घंटे लेती है।"
-      }
-    }
-  ]
-}
-</script>
 
 ---
 

@@ -14,6 +14,22 @@ keywords: ["काशी रामेश्वरम यात्रा","का
 relatedPosts: ["kashi-yatra-south-india-bus-package","kashi-prayagraj-ayodhya-south","dev-deepawali-2026-varanasi-ultimate-guide"]
 tags: ["काशी यात्रा","रामेश्वरम","ज्योतिर्लिंग","बहु-दिवसीय तीर्थ","दक्षिण भारत","फ़्लाइट + बस"]
 translationOf: "kashi-rameshwaram-twin-jyotirlinga-yatra"
+faqSchema:
+  - q: "6 दिन में दोनों दर्शन सम्भव?"
+    a: >-
+      हाँ, उड़ान संरेखण और एक बफ़र दिन से सम्भव।
+  - q: "मदुरै–रामेश्वरम सड़क समय?"
+    a: >-
+      लगभग 3–4 घंटे सामान्य परिस्थितियों में।
+  - q: "सुगम दर्शन सहायता?"
+    a: >-
+      उपलब्धता पर आधिकारिक माध्यम से सहायता; पूर्व सूचना दें।
+  - q: "वरिष्ठों के लिए उपयुक्त?"
+    a: >-
+      हाँ, विश्राम लय, वैकल्पिक निजी ट्रांसफर व कतार रणनीति।
+  - q: "विस्तार (गया / प्रयागराज) जोड़ें?"
+    a: >-
+      गहन वैरिएंट या कस्टम 1–3 दिन विस्तार संभव।
 ---
 
 # काशी – रामेश्वरम ट्विन ज्योतिर्लिंग यात्रा (फ़्लाइट + बस संयोजन)
@@ -132,33 +148,5 @@ translationOf: "kashi-rameshwaram-twin-jyotirlinga-yatra"
 ## सारांश
 यह संरचना दूरी तनाव घटाकर आध्यात्मिक घनत्व को बनाए रखती है। अपना वैरिएंट चुनें → कनेक्टर पैटर्न लॉक करें → प्रमुख उड़ान + दर्शन विंडो आरक्षित करें।
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Trip",
-  "name": "काशी – रामेश्वरम ट्विन ज्योतिर्लिंग यात्रा",
-  "description": "काशी विश्वनाथ और रामनाथस्वामी ज्योतिर्लिंग दर्शन हेतु मल्टी-मोड (उड़ान + कोच) यात्रा वैरिएंट 6–14 दिन, दर्शन रणनीति व वरिष्ठ सहायता सहित।",
-  "offers": {
-    "@type": "AggregateOffer",
-    "priceCurrency": "INR",
-    "lowPrice": "24999",
-    "highPrice": "48999",
-    "offerCount": "3",
-    "availability": "https://schema.org/InStock"
-  },
-  "provider": {"@type": "Organization","name": "Vinayak Travels Tour"}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question","name": "6 दिन में दोनों दर्शन सम्भव?","acceptedAnswer": {"@type": "Answer","text": "हाँ, उड़ान संरेखण और एक बफ़र दिन से सम्भव।"}},
-    {"@type": "Question","name": "मदुरै–रामेश्वरम सड़क समय?","acceptedAnswer": {"@type": "Answer","text": "लगभग 3–4 घंटे सामान्य परिस्थितियों में।"}},
-    {"@type": "Question","name": "सुगम दर्शन सहायता?","acceptedAnswer": {"@type": "Answer","text": "उपलब्धता पर आधिकारिक माध्यम से सहायता; पूर्व सूचना दें।"}},
-    {"@type": "Question","name": "वरिष्ठों के लिए उपयुक्त?","acceptedAnswer": {"@type": "Answer","text": "हाँ, विश्राम लय, वैकल्पिक निजी ट्रांसफर व कतार रणनीति।"}},
-    {"@type": "Question","name": "विस्तार (गया / प्रयागराज) जोड़ें?","acceptedAnswer": {"@type": "Answer","text": "गहन वैरिएंट या कस्टम 1–3 दिन विस्तार संभव।"}}
-  ]
-}
-</script>
+
+
