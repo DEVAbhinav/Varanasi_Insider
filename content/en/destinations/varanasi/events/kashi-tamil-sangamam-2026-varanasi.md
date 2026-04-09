@@ -37,260 +37,140 @@ offers:
 organizer:
   name: "Ministry of Education, Govt of India"
   url: "https://kashitamil.iitm.ac.in"
+faqSchema:
+  - q: "Who can attend Kashi Tamil Sangamam 4.0?"
+    a: >-
+      The event welcomes Tamil delegates, heritage travelers, students,
+      researchers, and anyone interested in India's cultural diversity.
+      While 1,400+ seats organized for Tamil Nadu delegations, many sessions
+      open to walk-in visitors. No prior background in Tamil or Varanasi
+      required.
+  - q: "Is registration mandatory? What are the fees?"
+    a: >-
+      Registration required for delegate programs and some special academic
+      sessions. Costs: Most programs free or ₹100–500; premium workshops
+      ₹500–1,000. Walk-ins welcome for cultural performances, heritage
+      tours, exhibitions (typically free). Register at official Kashi Tamil
+      Sangamam website.
+  - q: "Can non-Tamil speakers attend?"
+    a: >-
+      Yes! While celebrating Tamil culture, event designed for cultural
+      unity. Theme "Learn Tamil – Tamil Karkalam" includes Tamil language
+      workshops for beginners. Real-time translations (app-based) provided
+      for academic sessions.
+  - q: "Can families with children attend?"
+    a: >-
+      Absolutely. Many cultural performances, heritage walks, exhibitions
+      child-friendly. Academic sessions may bore younger kids. Plan mix of
+      events suited to your group.
+  - q: "Can I attend only certain days?"
+    a: >-
+      Yes. You don't need full Dec 2–15 stay. Book 1–7 days per your
+      schedule. Many attend Dec 2–5 (opening + key cultural events) or Dec
+      10–15 (main programs + valedictory).
+  - q: "What's the best way to reach Varanasi from Tamil Nadu?"
+    a: >-
+      Flight (fastest): Chennai/Coimbatore/Bengaluru → Varanasi (2–3 hours).
+      ₹2,500–6,000 one-way. Train (economical): Direct/connecting trains
+      from major TN cities (24–36 hours). ₹600–2,500 one-way. Bus: Overnight
+      AC buses (20–28 hours). ₹400–1,500 one-way.
+  - q: "How do I get from Varanasi Airport to BHU?"
+    a: >-
+      Recommended: Pre-book taxi with us (₹900, 45–60 min drive).
+      Alternatives: Auto-rickshaw (₹800–1,200 negotiable), Uber/Ola
+      (₹1,200–1,800 peak season).
+  - q: "Are Tamil-speaking taxi drivers available?"
+    a: >-
+      YES! KashiTaxi specializes in supporting Tamil delegates. We arrange
+      Tamil-speaking drivers for individual bookings or group delegations.
+      Contact us 24 hours before arrival.
+  - q: "Should I book taxis in advance?"
+    a: >-
+      Highly recommended Dec 2–15. Peak season = high demand + surge
+      pricing. Pre-booking locks fair rates + ensures Tamil-speaking
+      drivers.
+  - q: "Can I book a group taxi for 10+ people?"
+    a: >-
+      YES! We offer tempo travellers (12, 17, 26 seaters) and customized
+      group packages. Rates: ₹1,200–1,500/person for Dec 2–15. Contact with
+      group details below.
+  - q: "Where's the best place to stay during Sangamam?"
+    a: >-
+      Three options: 1. BHU/Lanka – Closest (₹1,500–3,000/night). Best for
+      academics. 2. Assi Ghat – Budget (₹600–2,000/night). Vibrant,
+      authentic. 3. Cantonment – Mid-range comfort (₹2,500–5,000/night).
+      Quieter, orderly.
+  - q: "Should I book hotels in advance?"
+    a: >-
+      Yes. December peak season. Book by Dec 1 for best availability &
+      rates.
+  - q: "Can I get hotel + transport package?"
+    a: >-
+      Yes! We partner with hotels for combo packages (room + daily taxi).
+  - q: "What's total cost for 14-day Sangamam visit?"
+    a: >-
+      Rough breakdown: Accommodation: ₹1,500–3,000/night = ₹21,000–42,000.
+      Transport: ₹400–1,500/day = ₹5,600–21,000. Meals: ₹300–1,000/day =
+      ₹4,200–14,000. Entry fees & activities: ₹3,000–5,000. Total:
+      ₹33,800–82,000 per person. Budget travelers can reduce to
+      ₹25,000–35,000 with shared autos and guest houses.
+  - q: "Are there discounts for groups?"
+    a: >-
+      Yes! Group packages (10+ people) for accommodation, transport,
+      activities. Contact for quotes.
+  - q: "What's the dress code?"
+    a: >-
+      Casual, respectful clothing. Temples/Ghats: Modest dress (women:
+      salwar/kurti or full-length pants; men: shirts). Cultural
+      performances: Casual fine. Academic sessions: Smart casual (no
+      beachwear). Avoid: Leather footwear in temples.
+  - q: "Will there be food options at the event?"
+    a: >-
+      Yes. BHU campus has cafeterias and food stalls. Expect vegetarian bias
+      (Varanasi tradition). Nearby restaurants in Lanka/Assi offer varied
+      options.
+  - q: "What language will sessions be in?"
+    a: >-
+      Primarily Hindi and English. Tamil sessions for delegates. Real-time
+      translations (app-based) for major academic sessions.
+  - q: "Can I book accommodation through event organizers?"
+    a: >-
+      Not typically. But most hotels coordinate for block bookings. Better
+      to book directly through hotel websites or call.
+  - q: "Can I extend beyond Dec 15?"
+    a: >-
+      Absolutely! Pair with Varanasi classics or nearby pilgrimages: Sarnath
+      (8 km): Buddhist site, day trip. Ayodhya (260 km): Ram Mandir, 1–2 day
+      trip. Prayagraj (120 km): Sangam confluence, 1–2 day trip. Sapta Puri
+      Circuit: All 7 sacred cities (10–14 day journey).
+  - q: "Can KashiTaxi arrange post-Sangamam tours?"
+    a: >-
+      Yes! Tempo travellers and taxis for Sarnath, Ayodhya, Prayagraj
+      day/overnight tours.
+  - q: "Is it safe to travel alone as a woman?"
+    a: >-
+      Varanasi generally safe for solo female travelers. Tips: Use pre-
+      booked taxis (safer than street hails). Stay in group areas (Lanka,
+      Assi, Cantonment). Avoid isolated ghats after dark. Share location
+      with friend back home. Join group tours for heritage walks.
+  - q: "Will I need travel insurance?"
+    a: >-
+      Recommended especially for international travelers. Cover medical,
+      flight cancellations, lost luggage.
+  - q: "Do I need a visa from abroad?"
+    a: >-
+      India visa policies vary. Most nationals need e-visa or tourist visa.
+      Check Indian Embassy for your country.
+  - q: "What's the weather in December?"
+    a: >-
+      Pleasant! Daytime 20–25°C (cool, sunny). Nighttime 10–15°C (cold).
+      Pack: light jacket, sweater, comfortable walking shoes.
+      Mornings/evenings chilly.
 ---
 
 # Kashi Tamil Sangamam 4.0 – A Cultural Bridge Between South and North
 
 Also known online as **Kasi Tamil Sangam 2026**, this is the same event — the spelling simply follows Tamil transliteration. If you are looking for **kasi tamil sangam registration 2026** or specifically **kasi tamil sangam registration 2026 tamilnadu online apply**, the official registration portal and all event details are covered below.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Event",
-      "name": "Kashi Tamil Sangamam 4.0",
-      "description": "A celebration of Tamil and North Indian cultural unity bringing 1,400+ delegates to Varanasi. Heritage walks, academic sessions, cultural performances, temple experiences.",
-      "startDate": "2026-12-02",
-      "endDate": "2026-12-15",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "location": {
-        "@type": "Place",
-        "name": "Banaras Hindu University (BHU), Varanasi",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "BHU Campus",
-          "addressLocality": "Varanasi",
-          "addressRegion": "Uttar Pradesh",
-          "postalCode": "221005",
-          "addressCountry": "IN"
-        }
-      },
-      "organizer": {
-        "@type": "Organization",
-        "name": "Ministry of Education, Government of India",
-        "url": "https://moe.gov.in"
-      },
-      "image": "https://www.kashitaxi.in/images/kashi-tamil-sangamam-2026.jpg",
-      "url": "https://www.kashitaxi.in/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-      "offers": {
-        "@type": "Offer",
-        "url": "https://www.kashitaxi.in/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "price": "0",
-        "priceCurrency": "INR",
-        "availability": "https://schema.org/PreOrder",
-        "validFrom": "2026-12-02"
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Who can attend Kashi Tamil Sangamam 4.0?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The event welcomes Tamil delegates, heritage travelers, students, researchers, and anyone interested in India's cultural diversity. While 1,400+ seats organized for Tamil Nadu delegations, many sessions open to walk-in visitors. No prior background in Tamil or Varanasi required."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is registration mandatory? What are the fees?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Registration required for delegate programs and some special academic sessions. Costs: Most programs free or ₹100–500; premium workshops ₹500–1,000. Walk-ins welcome for cultural performances, heritage tours, exhibitions (typically free). Register at official Kashi Tamil Sangamam website."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can non-Tamil speakers attend?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes! While celebrating Tamil culture, event designed for cultural unity. Theme \"Learn Tamil – Tamil Karkalam\" includes Tamil language workshops for beginners. Real-time translations (app-based) provided for academic sessions."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can families with children attend?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Absolutely. Many cultural performances, heritage walks, exhibitions child-friendly. Academic sessions may bore younger kids. Plan mix of events suited to your group."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I attend only certain days?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. You don't need full Dec 2–15 stay. Book 1–7 days per your schedule. Many attend Dec 2–5 (opening + key cultural events) or Dec 10–15 (main programs + valedictory)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What's the best way to reach Varanasi from Tamil Nadu?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Flight (fastest): Chennai/Coimbatore/Bengaluru → Varanasi (2–3 hours). ₹2,500–6,000 one-way. Train (economical): Direct/connecting trains from major TN cities (24–36 hours). ₹600–2,500 one-way. Bus: Overnight AC buses (20–28 hours). ₹400–1,500 one-way."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I get from Varanasi Airport to BHU?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recommended: Pre-book taxi with us (₹900, 45–60 min drive). Alternatives: Auto-rickshaw (₹800–1,200 negotiable), Uber/Ola (₹1,200–1,800 peak season)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are Tamil-speaking taxi drivers available?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "YES! KashiTaxi specializes in supporting Tamil delegates. We arrange Tamil-speaking drivers for individual bookings or group delegations. Contact us 24 hours before arrival."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Should I book taxis in advance?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Highly recommended Dec 2–15. Peak season = high demand + surge pricing. Pre-booking locks fair rates + ensures Tamil-speaking drivers."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I book a group taxi for 10+ people?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "YES! We offer tempo travellers (12, 17, 26 seaters) and customized group packages. Rates: ₹1,200–1,500/person for Dec 2–15. Contact with group details below."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Where's the best place to stay during Sangamam?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Three options: 1. BHU/Lanka – Closest (₹1,500–3,000/night). Best for academics. 2. Assi Ghat – Budget (₹600–2,000/night). Vibrant, authentic. 3. Cantonment – Mid-range comfort (₹2,500–5,000/night). Quieter, orderly."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Should I book hotels in advance?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. December peak season. Book by Dec 1 for best availability & rates."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I get hotel + transport package?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes! We partner with hotels for combo packages (room + daily taxi)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What's total cost for 14-day Sangamam visit?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rough breakdown: Accommodation: ₹1,500–3,000/night = ₹21,000–42,000. Transport: ₹400–1,500/day = ₹5,600–21,000. Meals: ₹300–1,000/day = ₹4,200–14,000. Entry fees & activities: ₹3,000–5,000. Total: ₹33,800–82,000 per person. Budget travelers can reduce to ₹25,000–35,000 with shared autos and guest houses."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there discounts for groups?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes! Group packages (10+ people) for accommodation, transport, activities. Contact for quotes."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What's the dress code?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Casual, respectful clothing. Temples/Ghats: Modest dress (women: salwar/kurti or full-length pants; men: shirts). Cultural performances: Casual fine. Academic sessions: Smart casual (no beachwear). Avoid: Leather footwear in temples."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will there be food options at the event?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. BHU campus has cafeterias and food stalls. Expect vegetarian bias (Varanasi tradition). Nearby restaurants in Lanka/Assi offer varied options."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What language will sessions be in?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Primarily Hindi and English. Tamil sessions for delegates. Real-time translations (app-based) for major academic sessions."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I book accommodation through event organizers?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Not typically. But most hotels coordinate for block bookings. Better to book directly through hotel websites or call."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I extend beyond Dec 15?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Absolutely! Pair with Varanasi classics or nearby pilgrimages: Sarnath (8 km): Buddhist site, day trip. Ayodhya (260 km): Ram Mandir, 1–2 day trip. Prayagraj (120 km): Sangam confluence, 1–2 day trip. Sapta Puri Circuit: All 7 sacred cities (10–14 day journey)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can KashiTaxi arrange post-Sangamam tours?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes! Tempo travellers and taxis for Sarnath, Ayodhya, Prayagraj day/overnight tours."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is it safe to travel alone as a woman?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Varanasi generally safe for solo female travelers. Tips: Use pre-booked taxis (safer than street hails). Stay in group areas (Lanka, Assi, Cantonment). Avoid isolated ghats after dark. Share location with friend back home. Join group tours for heritage walks."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Will I need travel insurance?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recommended especially for international travelers. Cover medical, flight cancellations, lost luggage."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do I need a visa from abroad?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "India visa policies vary. Most nationals need e-visa or tourist visa. Check Indian Embassy for your country."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What's the weather in December?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Pleasant! Daytime 20–25°C (cool, sunny). Nighttime 10–15°C (cold). Pack: light jacket, sweater, comfortable walking shoes. Mornings/evenings chilly."
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
 
 <div style="margin: 20px 0; text-align: center;">
   <a href="https://wa.me/919935474730?text=Hi%20I%20want%20to%20book%20transport%20for%20Kashi%20Tamil%20Sangamam%202026%20(Dec%202-15)%20delegates"
