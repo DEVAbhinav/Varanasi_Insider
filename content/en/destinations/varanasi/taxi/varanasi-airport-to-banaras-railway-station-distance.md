@@ -13,6 +13,19 @@ keywords:
   - "vns to manduadih taxi fare"
   - "banaras station airport pickup"
   - "best route vns to bsbs"
+  - "varanasi to ddu station distance by road"
+  - "varanasi station to varanasi airport distance"
+  - "varanasi airport to ddu railway station distance"
+  - "ddu station to varanasi distance by road fare"
+  - "banaras airport to banaras railway station"
+  - "banaras railway station to airport distance"
+  - "varanasi airport nearest railway station"
+  - "varanasi airport to mughalsarai railway station distance"
+  - "banaras airport to banaras railway station distance"
+  - "distance between banaras to vindhyachal"
+  - "banaras to varanasi airport distance"
+  - "bike rent in varanasi near railway station"
+  - "scooty rent in varanasi near railway station"
 tags:
   - taxi
   - varanasi airport
@@ -32,6 +45,12 @@ faqSchema:
     answer: "Pre-booked cabs use the Manduadih porch beside Platform 1; tell dispatch if you need Platform 5/6 entry so they secure the inner lane pass."
   - question: "Is Ola or Uber dependable for Manduadih station trips?"
     answer: "Apps operate but frequently surge at night; a reserved taxi guarantees fixed fare and assistance with luggage scanning queues."
+  - question: "What is varanasi airport nearest railway station and its distance?"
+    answer: "Varanasi airport nearest railway station is Banaras (BSBS/Manduadih) at 27 km; banaras railway station to airport distance is the same. For mainline trains, varanasi airport to ddu railway station distance is 47 km and varanasi airport to mughalsarai railway station distance is also ~47 km (same junction)."
+  - question: "What is the banaras airport to banaras railway station fare and route?"
+    answer: "Banaras airport to banaras railway station distance is 27 km via Ring Road–Manduadih; pre-booked sedan ₹690 (Flash) covers the door-to-platform drop. Banaras to varanasi airport distance is identical in reverse with the same fare band."
+  - question: "What is ddu station to varanasi distance by road and fare?"
+    answer: "DDU station to varanasi distance by road is ~18 km to city; varanasi to ddu station distance by road is the same. Pre-booked airport sedans cover VNS → DDU at ₹950–1,100 with confirmed train tracking."
 ---
 
 # Varanasi Airport to Banaras Station Taxi ₹690 Flash | 27km, 45min Direct Drop

@@ -13,6 +13,10 @@ keywords:
   - "namo ghat taxi fare"
   - "vns to namo ghat travel time"
   - "namo ghat walkway access"
+  - "namo ghat varanasi distance"
+  - "namo ghat distance from my location"
+  - "varanasi junction to namo ghat distance"
+  - "varanasi to namo ghat distance"
 tags:
   - taxi
   - varanasi airport

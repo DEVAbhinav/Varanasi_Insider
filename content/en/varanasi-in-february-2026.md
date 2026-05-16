@@ -9,7 +9,7 @@ author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"
 description: "Planning a trip to Varanasi in February? Learn about the pleasant weather, what to pack, and key festivals and events happening this month."
-keywords: "varanasi in february, mahashivratri 2026 date, varanasi weather february, what to wear in varanasi in february, things to do in varanasi in february, is february good time to visit varanasi"
+keywords: "varanasi in february, mahashivratri 2026 date, varanasi weather february, what to wear in varanasi in february, things to do in varanasi in february, is february good time to visit varanasi, varanasi weather in february 2026, temperature in varanasi in february 2026, varanasi weather february 2026, weather in varanasi in february 2026, varanasi temperature in february 2026, kashi temperature in february 2026"
 tags:
   - varanasi
   - february

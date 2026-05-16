@@ -14,6 +14,10 @@ keywords:
   - "assi ghat airport taxi fare 2026"
   - "varanasi airport travel time"
   - "assi ghat airport transfer"
+  - "kedar ghat to assi ghat distance"
+  - "varanasi airport to ghat distance"
+  - "varanasi airport to dashashwamedh ghat distance"
+  - "varanasi airport to ganga ghat distance"
 tags:
   - assi ghat
   - varanasi airport

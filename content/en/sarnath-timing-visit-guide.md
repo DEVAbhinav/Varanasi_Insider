@@ -29,6 +29,9 @@ keywords:
   - "sarnath temple time"
   - "buddha purnima sarnath"
   - "guru purnima sarnath"
+  - "sarnath mandir timing"
+  - "places to visit in sarnath varanasi"
+  - "how much time it takes to visit sarnath"
 tags:
   - sarnath
   - sarnath timing

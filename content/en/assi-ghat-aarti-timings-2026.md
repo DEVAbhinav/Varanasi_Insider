@@ -9,7 +9,7 @@ featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kash
 metaTitle: "Assi Ghat Aarti Time 2026: Morning & Evening Timings Today"
 metaDescription: "Assi Ghat Aarti time today: morning Subah-e-Banaras and evening Ganga Aarti timings, best arrival time, seating tips, and monthly schedule."
 description: "Get the latest summer and winter timings for the Assi Ghat Ganga Aarti. Learn what to expect, the duration, and tips for the best view."
-keywords: "assi ghat aarti, assi ghat aarti time, assi ghat aarti timings, assi ghat ganga aarti timings, assi ghat morning aarti time, subah e banaras assi ghat, assi ghat sunrise aarti, varanasi morning aarti, sunrise boat ride assi ghat, assi ghat aarti time today"
+keywords: "assi ghat aarti, assi ghat aarti time, assi ghat aarti timings, assi ghat ganga aarti timings, assi ghat morning aarti time, subah e banaras assi ghat, assi ghat sunrise aarti, varanasi morning aarti, sunrise boat ride assi ghat, assi ghat aarti time today, dashashwamedh ghat aarti timings, assi ghat aarti timings evening, ganga aarti at dasaswamedh ghat varanasi timings, assi ghat boat ride timings, assi ghat aarti timings today, aarti at assi ghat timing, keshi ghat aarti timings, aarti timings at assi ghat, varanasi ganga aarti timings morning, assi ghat arti timing, assi ghat aarti booking, scooty rent in varanasi near assi ghat"
 tags:
   - "Assi Ghat Aarti Timings"
   - "Ganga Aarti"

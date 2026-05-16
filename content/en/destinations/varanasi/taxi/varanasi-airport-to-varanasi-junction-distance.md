@@ -16,6 +16,7 @@ keywords:
   - "vns to cantt railway station taxi fare"
   - "best route varanasi airport to bsb"
   - "varanasi airport pickup to cantt station"
+  - "varanasi junction to airport distance"
 tags:
   - taxi
   - varanasi airport

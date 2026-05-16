@@ -14,6 +14,11 @@ keywords:
   - "vns to sarnath taxi fare"
   - "sarnath dhamek stupa timing"
   - "best route varanasi airport to sarnath"
+  - "sarnath to varanasi airport distance"
+  - "varanasi to sarnath distance by road"
+  - "sarnath to varanasi distance"
+  - "godowlia to sarnath distance"
+  - "sarnath distance from my location"
 tags:
   - taxi
   - varanasi airport

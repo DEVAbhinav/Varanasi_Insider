@@ -6,7 +6,7 @@ lastUpdated: "2026-07-21"
 lastVerified: "2026-07-21"
 author: "Kamal Nayan Singh"
 lang: en-IN
-canonical: "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide/"
+canonical: "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide"
 
 description: "Comparison guide for Varanasi (VNS) airport transfers. Compare prepaid fares with Uber/Ola, understand pickup zones, and avoid common scams."
 tags:

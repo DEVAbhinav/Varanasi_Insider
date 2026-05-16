@@ -16,6 +16,12 @@ keywords:
   - "women safety varanasi ghats"
   - "varanasi safe hostels for women"
   - "what to wear varanasi female"
+  - "is varanasi safe for women"
+  - "is varanasi safe for girls"
+  - "is varanasi safe for a woman"
+  - "varanasi solo trip female"
+  - "is varanasi safe for tourists"
+  - "is kashi safe for women"
 ---
 
 # Is Varanasi Safe for Solo Female Travellers in 2026?

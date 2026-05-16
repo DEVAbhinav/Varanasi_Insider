@@ -89,12 +89,20 @@ def load_queries(csv_path: Path) -> List[str]:
     return queries
 
 
+SKIP_PAGE_DIRS = {"api", "_app", "_document", "node_modules", ".next", ".vercel"}
+
+
 def iter_content_files(root: Path) -> Iterable[Path]:
     for path in root.rglob("*"):
         if not path.is_file():
             continue
         ext = path.suffix.lower()
         if ext in BINARY_EXTENSIONS:
+            continue
+        rel_parts = path.relative_to(root).parts
+        if any(p in SKIP_PAGE_DIRS for p in rel_parts):
+            continue
+        if any(p.startswith("[") for p in rel_parts):
             continue
         yield path
 
@@ -142,8 +150,9 @@ def main() -> None:
     parser.add_argument(
         "--content-root",
         type=Path,
-        default=Path("content"),
-        help="Root folder to scan for content files",
+        action="append",
+        default=None,
+        help="Root folder(s) to scan for content files. Repeatable. Default: content + pages.",
     )
     parser.add_argument(
         "--out",
@@ -163,15 +172,20 @@ def main() -> None:
     if not queries:
         raise SystemExit("No queries with impressions > 0 were found.")
 
-    content_root = args.content_root
-    if not content_root.exists():
-        raise SystemExit(f"Content root {content_root} does not exist")
-
-    content_records, skipped = load_content(content_root)
-    if not content_records:
+    content_roots = args.content_root or [Path("content"), Path("pages")]
+    all_records = []
+    total_skipped = 0
+    for content_root in content_roots:
+        if not content_root.exists():
+            print(f"WARN: content root {content_root} does not exist, skipping")
+            continue
+        recs, skipped = load_content(content_root)
+        all_records.extend(recs)
+        total_skipped += skipped
+    if not all_records:
         raise SystemExit("No readable content files found.")
 
-    result = find_missing(queries, content_records, skipped)
+    result = find_missing(queries, all_records, total_skipped)
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
     report = {

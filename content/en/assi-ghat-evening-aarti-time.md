@@ -11,6 +11,27 @@ metaDescription: "Evening Sandhya Aarti at Assi Ghat: today’s timing, best arr
 keywords:
   - "assi ghat evening aarti"
   - "assi ghat aarti evening time"
+  - "assi ghat ganga aarti time"
+  - "aarti time at assi ghat"
+  - "banaras ghat aarti time"
+  - "kashi ghat aarti time"
+  - "varanasi ghat aarti time"
+  - "dashmesh ghat aarti time"
+  - "dasaswamedh ghat aarti time today"
+  - "assi ghat varanasi aarti time"
+  - "dashashwamedh ghat evening aarti time"
+  - "varanasi assi ghat aarti time"
+  - "varanasi ganga aarti time evening"
+  - "evening aarti time in varanasi"
+  - "banaras aarti time"
+  - "assi time"
+  - "evening ganga aarti time in varanasi"
+  - "ganga aarti time in varanasi assi ghat today"
+  - "aarti time in dasaswamedh ghat"
+  - "today aarti time"
+  - "banaras me subah ki aarti time"
+  - "dashashwamedh ghat aarti time evening"
+  - "ghat aarti time varanasi"
 relatedPosts:
   - assi-ghat-aarti-timings-2026
   - dashashwamedh-ghat-ganga-aarti-timing

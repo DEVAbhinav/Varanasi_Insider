@@ -4,7 +4,7 @@ slug: "dashashwamedh-ghat-ganga-aarti"
 date: "2026-07-22"
 author: "Kamal Nayan Singh"
 lang: hi-IN
-canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti/"
+canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti"
 
 description: "भगवान राम के अश्वमेध यज्ञ से लेकर विश्व-प्रसिद्ध गंगा आरती तक—दशाश्वमेध घाट की पूरी जानकारी, समय और पहुंच मार्ग।"
 tags:

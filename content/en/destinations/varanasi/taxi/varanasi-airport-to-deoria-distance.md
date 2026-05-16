@@ -13,6 +13,7 @@ keywords:
   - "vns to deoria taxi fare"
   - "deoria from varanasi airport via nh-28"
   - "tirupati balaji deoria from varanasi"
+  - "varanasi to deoria distance"
 tags:
   - taxi
   - varanasi airport

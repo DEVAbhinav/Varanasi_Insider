@@ -11,6 +11,20 @@ metaDescription: "Plan Subah-e-Banaras at Assi Ghat: live morning aarti timings,
 keywords:
   - "assi ghat morning aarti"
   - "subah e banaras timing"
+  - "morning aarti in varanasi"
+  - "varanasi ganga aarti time morning"
+  - "varanasi morning aarti time"
+  - "morning ganga aarti time in varanasi"
+  - "dashashwamedh ghat aarti time morning"
+  - "morning aarti time in varanasi"
+  - "ganga aarti morning time in varanasi"
+  - "morning aarti at assi ghat timing"
+  - "morning aarti time at assi ghat"
+  - "assi ghat morning aarti time today"
+  - "varanasi ganga aarti time morning assi ghat"
+  - "assi ghat morning aarti timing"
+  - "morning assi ghat aarti time"
+  - "dasaswamedh ghat aarti time morning"
 relatedPosts:
   - assi-ghat-aarti-timings-2026
   - varanasi-weather-guide

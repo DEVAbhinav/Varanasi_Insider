@@ -13,6 +13,16 @@ keywords:
   - "varanasi airport to mirzapur taxi fare"
   - "vns to maa vindhyavasini temple from airport"
   - "trikon yatra from varanasi airport"
+  - "varanasi to vindhyachal mandir distance"
+  - "vindhyachal mandir to varanasi distance"
+  - "vindhyachal to varanasi distance by road"
+  - "vindhyachal mandir mirzapur to varanasi distance"
+  - "varanasi to vindhyachal temple distance by road"
+  - "vns to vindhyachal distance"
+  - "varanasi to vindhyachal distance by bus"
+  - "varanasi to mirzapur vindhyachal distance"
+  - "varanasi to vindhyachal mandir distance by road"
+  - "vindhyachal varanasi distance"
 tags:
   - taxi
   - varanasi airport
@@ -30,6 +40,10 @@ faqSchema:
     answer: "Hatchbacks are usually ₹1,380–₹1,450, sedans ₹1,449–₹1,715, and Innovas ₹1,715–₹1,799, with extra km billed at ₹15–₹15.5/km."
   - question: "Can I complete Trikon Yatra from the airport in one day?"
     answer: "On non-peak days, a well-planned route covers Maa Vindhyavasini, Ashtabhuja, and Kali Khoh in one long day if you land before 9 AM."
+  - question: "What is the varanasi to vindhyachal mandir distance by road?"
+    answer: "Varanasi to vindhyachal mandir distance by road is 65–70 km via NH-2; vindhyachal mandir to varanasi distance is the same on the return. VNS to vindhyachal distance is 63–73 km depending on pickup point."
+  - question: "How can I reach Vindhyachal from Varanasi by bus or taxi?"
+    answer: "Varanasi to vindhyachal distance by bus is ~73 km via NH-2 with 2.5–3 hours travel time including stops; a pre-booked sedan covers the same vindhyachal varanasi distance in 1.5–2 hours with door-to-temple drop."
 ---
 # Varanasi Airport to Mirzapur (Vindhyachal): Distance, Time, Taxi Fare (2026)
 
