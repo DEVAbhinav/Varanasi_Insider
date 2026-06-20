@@ -39,7 +39,7 @@ faqSchema:
 | Typical fare | Sedan ~₹2,626 · Innova ₹2,626–₹2,940 · Crysta ₹5,650–₹7,345 · Tempo 16 seater ₹8,300–₹10,790 |
 
 ## Book your Varanasi Airport to Jalalpur taxi
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Jalalpur)**
 
 > **Tip:** Jalalpur has multiple villages and localities across districts—always share your full address and nearby landmark when booking.

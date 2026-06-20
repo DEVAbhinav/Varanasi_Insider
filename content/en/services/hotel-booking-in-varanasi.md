@@ -34,7 +34,7 @@ tags:
   - kashi vishwanath
   - ghats
   - travel planning
-phone: "8062182380"
+phone: "9935474730"
 schemaType: "Service"
 serviceCategory: "Hotel Booking and Local Travel Planning"
 structuredData: true

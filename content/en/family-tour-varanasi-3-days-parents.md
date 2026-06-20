@@ -148,4 +148,4 @@ A **Varanasi itinerary with elderly parents** should be built around three princ
 > A **Tempo Traveller** is perfect for keeping the whole family together comfortably.
 > *   **Local Sightseeing:** [Kashi Darshan Packages](/en/kashi-darshan-tempo-traveller)
 > *   **Airport Pickup:** [Varanasi Airport Transfer](/en/varanasi-airport-tempo-traveller)
-> *   **Call to Book:** [+91 80621 82380](tel:+918062182380)
+> *   **Call to Book:** [+91 99354 74730](tel:+919935474730)

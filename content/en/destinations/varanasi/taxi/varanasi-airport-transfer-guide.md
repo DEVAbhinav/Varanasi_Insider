@@ -63,7 +63,7 @@ ctaSubtitle: "Share your arrival details and get a customized logistics plan wit
 
 **For detailed taxi pricing and fare comparisons**, visit our [Airport Taxi Price Chart](/en/varanasi-airport-taxi-price-guide).
 
-[Call 80621 82380](tel:+918062182380) if you’re already in the arrivals queue and need a clean cab in under 10 minutes.
+[Call 99354 74730](tel:+919935474730) if you’re already in the arrivals queue and need a clean cab in under 10 minutes.
 
 ---
 
@@ -80,7 +80,7 @@ ctaSubtitle: "Share your arrival details and get a customized logistics plan wit
 
 ## ☎️ Varanasi Airport Ops Desk & Real-Time Support
 
-- **Call:** [80621 82380](tel:+918062182380) (concierge & dispatch)
+- **Call:** [99354 74730](tel:+919935474730) (concierge & dispatch)
 - **WhatsApp:** [wa.me/919935474730](https://wa.me/919935474730?text=Landing%20at%20VNS%20-%20need%20transfer%20support)
 - **Share:** Flight number · PAX count · luggage (hard case? duffels?) · mandatory halts · ghat entry preference
 

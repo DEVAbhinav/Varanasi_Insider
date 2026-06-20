@@ -274,9 +274,9 @@ We price at **fair market value** - significantly less than luxury operators but
    style="background-color: #059669; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold; margin: 0.5rem;">
    📱 WhatsApp: ₹2,200 Boat Package
 </a><br>
-<a href="tel:+918062182380" 
+<a href="tel:+919935474730" 
    style="background-color: #1e40af; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold; margin: 0.5rem;">
-   📞 Call: +91 80621 82380
+   📞 Call: +91 99354 74730
 </a>
 </div>
 

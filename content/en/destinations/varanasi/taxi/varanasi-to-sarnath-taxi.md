@@ -69,7 +69,7 @@ offers:
     name: Full-Day Sarnath Experience
 provider:
   name: Kashi Taxi
-  telephone: +91-8062182380
+  telephone: +91-9935474730
 areaServed:
   - Varanasi
   - Sarnath
@@ -241,7 +241,7 @@ Most taxis approach via main city roads toward **Sarnath Road**; during school h
 ### Option 1: Pre-Book from Your Hotel (Easiest)
 
 **Step 1: Contact us 1 day in advance**
-- WhatsApp: +91-8062182380
+- WhatsApp: +91-9935474730
 - Email: taxiinvaranasiii@gmail.com
 
 **Step 2: Provide Details**
@@ -376,9 +376,9 @@ A: Yes, all our guides are fluent English speakers and trained for international
 ## Ready to Book Your Varanasi to Sarnath Taxi?
 
 **Quick Booking:**
-- **WhatsApp:** +91-8062182380
+- **WhatsApp:** +91-9935474730
 - **Email:** taxiinvaranasiii@gmail.com
-- **Call:** +91-8062182380
+- **Call:** +91-9935474730
 
 We'll handle transport. You focus on the sacred experience.
 

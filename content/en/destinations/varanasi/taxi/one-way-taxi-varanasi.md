@@ -50,7 +50,7 @@ offers:
     name: One Way Transfer
 provider:
   name: Kashi Taxi
-  telephone: +91-8062182380
+  telephone: +91-9935474730
 areaServed:
   - Varanasi
 aggregateRating:
@@ -164,8 +164,8 @@ A **round-trip cab booking** covers your transportation for multiple journeys du
 ## How to Book Varanasi One-Way or Round-Trip Taxi
 
 ### Step 1: Call or WhatsApp Us
-📞 +91-8062182380 (24/7)
-📱 WhatsApp: +91-8062182380
+📞 +91-9935474730 (24/7)
+📱 WhatsApp: +91-9935474730
 
 ### Step 2: Provide Details
 - Pickup location & time
@@ -234,8 +234,8 @@ A: Extra stops charged at ₹100-150 per stop, or included in our hourly rate fo
 
 Flexible, transparent, professional taxi service for all your Varanasi travel needs.
 
-📞 **Call:** +91-8062182380 (24/7)
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Book%20One-Way%20or%20Round-Trip%20Taxi)
+📞 **Call:** +91-9935474730 (24/7)
+📱 **WhatsApp:** [+91-9935474730](https://wa.me/919935474730?text=Book%20One-Way%20or%20Round-Trip%20Taxi)
 🌐 **Book Online:** Contact us for flexible booking
 
 Your flexible travel solution awaits. ✓

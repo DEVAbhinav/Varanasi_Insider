@@ -13,7 +13,7 @@
         "Taj Ganges Taxi Service"
       ],
       "url": "https://www.kashitaxi.in/",
-      "telephone": "+918062182380",
+      "telephone": "+919935474730",
       "priceRange": "₹₹",
       "address": {
         "@type": "PostalAddress",
@@ -68,7 +68,7 @@
         ],
         "servicePhone": {
           "@type": "ContactPoint",
-          "telephone": "+918062182380",
+          "telephone": "+919935474730",
           "contactType": "reservations",
           "availableLanguage": [
             "English",

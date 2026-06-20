@@ -305,7 +305,7 @@ faqSchema:
 ### Book Varanasi to Kolkata Taxi in 3 Easy Steps
 
 **Step 1: Contact Us**
-- Phone: [80621 82380](tel:+918062182380)
+- Phone: [99354 74730](tel:+919935474730)
 - WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Kolkata%20taxi)
 
 **Step 2: Discuss Options**
@@ -341,7 +341,7 @@ We'll help you decide best transport mode based on your specific needs!
 
 **Need Kolkata transfer from Varanasi?**  
 Let's find the best option for you!  
-📞 Call: [80621 82380](tel:+918062182380)  
+📞 Call: [99354 74730](tel:+919935474730)  
 💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Discuss%20Kolkata%20travel%20options)
 
 **Note**: We provide taxi service, but we believe in honest recommendations. Our goal is your comfort, whether by our taxi, train, or flight!

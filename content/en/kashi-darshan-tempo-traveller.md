@@ -100,5 +100,5 @@ We believe in transparent pricing—no surprises. See full 2026 price list: [/en
 ## Book Kashi Darshan Tempo Traveller (Varanasi)
 
 - Primary CTA: Book Kashi Darshan Now (₹5,500)
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Kashi%20Darshan%20booking

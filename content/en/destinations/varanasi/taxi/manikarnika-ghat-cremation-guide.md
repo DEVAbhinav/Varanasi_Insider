@@ -91,7 +91,7 @@ Manikarnika is a sacred cremation ground, not a tourist spot. We drop at **Maida
 - **Return pickup:** Same spot pickup; no need to navigate alone.
 
 ## Book Manikarnika access
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp: **[wa.me/919935474730](https://wa.me/919935474730?text=Visit%20Manikarnika%20Ghat)**
 
 ## Manikarnika FAQ

@@ -913,7 +913,7 @@ Dress modestly with covered shoulders and legs (avoid shorts, tank tops, reveali
 ### 📞 Contact Kashi Taxi - Trusted Since 1998
 
 📱 **WhatsApp** (Quick Response): **+91 94503 01573**  
-📞 **Call Now**: **+91 80621 82380**  
+📞 **Call Now**: **+91 99354 74730**  
 🌐 **Website**: www.kashitaxi.in  
 ⏰ **Available**: 24/7 for bookings & inquiries
 
@@ -956,7 +956,7 @@ Experience the timeless magic of Banaras at your own pace, respecting local cust
 ### Quick Booking Options:
 
 **📱 WhatsApp** (Fastest Response): **+91 94503 01573**  
-**📞 Call Directly**: **+91 80621 82380**  
+**📞 Call Directly**: **+91 99354 74730**  
 **💻 Online Booking**: www.kashitaxi.in
 
 ### Popular Tourist Spot Packages:

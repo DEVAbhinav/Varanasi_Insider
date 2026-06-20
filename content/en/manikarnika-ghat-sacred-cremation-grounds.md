@@ -111,7 +111,7 @@ Manikarnika Ghat is in the old-city riverfront zone of Varanasi. If you are sear
 ### Book local cab/driver familiar with ghat access
 
 - **WhatsApp booking:** [Book local cab now](https://wa.me/919935474730?text=Need%20a%20local%20cab%20for%20Manikarnika%20Ghat%20drop%20and%20pickup)
-- **Call dispatch:** [+91 80621 82380](tel:+918062182380)
+- **Call dispatch:** [+91 99354 74730](tel:+919935474730)
 - **What to ask for:** "Manikarnika Ghat drop + local-lane pickup by driver familiar with Godowlia/Maidagin access."
 
 If your query is **Manikarnika Ghat near temple**, it is near the wider Kashi Vishwanath old-city zone, but movement is still lane-based on foot near the ghat area.

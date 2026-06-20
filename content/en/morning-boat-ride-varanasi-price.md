@@ -26,7 +26,7 @@ faqSchema:
   - question: "What is the boat ride price per person in Varanasi?"
     answer: "Per-person rates: shared rowing boat ₹80–₹150, shared motorboat ₹200–₹350, Ganga Aarti evening shared boat ₹250–₹500 per person. Private boats are charged per boat, not per person — a 4-seat rowboat at ₹1,800 works out to ₹450/person if you split."
   - question: "How do I book a boat ride in Varanasi?"
-    answer: "Three ways: (1) Walk up to Assi Ghat or Dashashwamedh Ghat 30 min before sunrise and negotiate directly, (2) WhatsApp Kashi Taxi boat desk at +91-8062182380 the evening before to lock price & boatman, (3) Ask your hotel — most arrange rides but add a 20–30% markup."
+    answer: "Three ways: (1) Walk up to Assi Ghat or Dashashwamedh Ghat 30 min before sunrise and negotiate directly, (2) WhatsApp Kashi Taxi boat desk at +91-9935474730 the evening before to lock price & boatman, (3) Ask your hotel — most arrange rides but add a 20–30% markup."
   - question: "What is the best time for a boat ride in Varanasi?"
     answer: "Sunrise (5:00–6:30 AM depending on season) is the best time — calm water, golden light, morning rituals on the ghats. Evening Ganga Aarti boats (board by 5:30 PM winter / 6:00 PM summer) are the second-best slot. Avoid midday — harsh sun and no ceremonies."
   - question: "What is the Assi Ghat boat ride price and timing?"

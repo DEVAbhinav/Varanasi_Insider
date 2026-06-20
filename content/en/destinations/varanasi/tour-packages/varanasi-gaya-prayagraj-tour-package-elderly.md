@@ -13,7 +13,7 @@ metaTitle: "Varanasi Gaya Tour Package 2026: Fatigue-Free Pilgrimage for Elderly
 metaDescription: "Book our 4-5 day Varanasi Gaya Prayagraj tour package with private transport, elderly-friendly hotels & expert local guides. No crowds, no stress—pure devotion."
 destination: "varanasi"
 category: "tour-packages"
-phone: "8062182380"
+phone: "9935474730"
 schemaType: "Product"
 serviceCategory: "Tour Packages"
 structuredData: true
@@ -500,7 +500,7 @@ Fill out the inquiry form with:
 
 ## Book Your Varanasi Gaya Prayagraj Tour Now
 
-📞 **Phone:** [+91-8062182380](tel:+918062182380)
+📞 **Phone:** [+91-9935474730](tel:+919935474730)
 
 💬 **WhatsApp:** [Chat Now](https://wa.me/919935474730?text=I%20want%20to%20book%20Varanasi%20Gaya%20Prayagraj%20tour%20package%20for%20elderly%20parents)
 

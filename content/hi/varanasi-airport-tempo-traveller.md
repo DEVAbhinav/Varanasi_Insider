@@ -81,7 +81,7 @@ canonical: "https://www.kashitaxi.in/hi/varanasi-airport-tempo-traveller"
 **Departure के लिए कब निकलें?** उड़ान से ~2 घंटे पहले – शहर→एयरपोर्ट 45–60 मिनट।
 
 ## बुकिंग (Quick Call To Action)
-- कॉल: +91 80621 82380  
+- कॉल: +91 99354 74730  
 - WhatsApp: https://wa.me/919935474730?text=Airport%20Tempo%20Traveller%20VNS  
 - “Airport Tempo Quote” लिखकर भेजें – 2 मिनिट में रिप्लाई
 

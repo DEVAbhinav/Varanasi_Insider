@@ -112,7 +112,7 @@ All quotes include fuel, tolls, Prayagraj bridge fee, Sangam parking, and driver
 ## How to Book Your Varanasi to Prayagraj Tempo Traveller
 
 - WhatsApp: https://wa.me/919935474730?text=Allahabad%20Tempo%20Traveller%20Booking
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 - Email (optional): bookings@kashitaxi.in
 - Token: ₹800 UPI to confirm; balance after trip.
 

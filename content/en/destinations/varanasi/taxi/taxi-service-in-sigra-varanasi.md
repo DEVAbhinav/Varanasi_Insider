@@ -97,7 +97,7 @@ Looking for a cab in Sigra? Skip last-minute cancellations. Kashi Taxi is headqu
 3) **Board & go:** No haggling; fare and route confirmed in-app message.
 
 ## Book a cab from Sigra now
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp: **[wa.me/919935474730](https://wa.me/919935474730?text=Book%20cab%20from%20Sigra)**
 - Preferred payment: Cash, UPI, card; receipts available.
 

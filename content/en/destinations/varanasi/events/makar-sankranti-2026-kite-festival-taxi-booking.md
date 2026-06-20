@@ -80,7 +80,7 @@ I live barely 10 minutes from Dashashwamedh, so I’ve watched these Sankranti m
 - VIP parking allocations at BrijRama, Darbhanga rooftops, and curated café decks
 - Add-ons: kite bundles, GoPro rentals, photography guides, rooftop coordinators
 
-**CTA:** Drop "Kite Package" to `+91 80621 82380`; I’ll reply with the rooftop availability screenshot, deposit link, and driver details so you don’t miss the opening kite battles.
+**CTA:** Drop "Kite Package" to `+91 99354 74730`; I’ll reply with the rooftop availability screenshot, deposit link, and driver details so you don’t miss the opening kite battles.
 
 ## Daily Schedule & Booking Windows
 

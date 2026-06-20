@@ -22,9 +22,12 @@ function sanitizeUrl(url) {
 }
 
 const CONTACT = {
-  callNumberE164: '+918062182380',
-  callNumberDisplay: '+91 80621 82380',
+  callNumberE164: '+919935474730',
+  callNumberDisplay: '+91 99354 74730',
   whatsappNumberRaw: '919935474730',
+  // Deprecated by business decision: keep for record only, do not use in flows.
+  legacyCallNumberE164: '+918062182380',
+  legacyCallNumberDisplay: '+91 80621 82380',
 };
 
 const ALLOWED_ORIGINS = [

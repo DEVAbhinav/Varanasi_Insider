@@ -7,7 +7,7 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Airport to Kashi Vishwanath Distance 2026: Fare, Time & Route"
 metaDescription: "Varanasi Airport to Kashi Vishwanath distance is about 25 km. Check taxi fare, travel time, Godowlia drop options and the easiest route to the temple area."
-description: "Book pre-arranged Varanasi Airport to Kashi Vishwanath taxi at ₹690 flash rate with corridor parking access. 25km, 40min drop. Driver waits 15min. Call 80621 82380."
+description: "Book pre-arranged Varanasi Airport to Kashi Vishwanath taxi at ₹690 flash rate with corridor parking access. 25km, 40min drop. Driver waits 15min. Call 99354 74730."
 keywords:
   - "varanasi airport to kashi vishwanath distance"
   - "varanasi airport to kashi vishwanath temple taxi fare"
@@ -90,7 +90,7 @@ location:
 | Typical fare | Sedan ₹800–900 · SUV ₹1,100–1,300 |
 
 ## Book your Varanasi Airport to Kashi Vishwanath transfer
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Kashi%20Vishwanath)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, corridor-ready).

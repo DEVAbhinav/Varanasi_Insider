@@ -10,7 +10,7 @@
     "@id": "https://www.kashitaxi.in/#org",
     "name": "Kashi Taxi",
     "url": "https://www.kashitaxi.in/",
-    "telephone": "+918062182380"
+    "telephone": "+919935474730"
   },
   "areaServed": {"@type": "Place", "name": "शिवाला घाट, वाराणसी"},
   "serviceArea": {"@type": "City", "name": "Varanasi"},
@@ -18,7 +18,7 @@
     "@type": "ServiceChannel",
     "serviceUrl": "https://wa.me/919935474730?text=Book%20Shivala%20Ghat%20taxi",
     "availableLanguage": ["hi", "en"],
-    "servicePhone": {"@type": "ContactPoint", "telephone": "+918062182380", "contactType": "reservations"}
+    "servicePhone": {"@type": "ContactPoint", "telephone": "+919935474730", "contactType": "reservations"}
   },
   "offers": {
     "@type": "AggregateOffer",

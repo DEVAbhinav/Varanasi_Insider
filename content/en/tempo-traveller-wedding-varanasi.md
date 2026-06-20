@@ -78,7 +78,7 @@ High-stakes logistics done right: punctual, professional, and clean vehicles.
 
 - Primary CTA: Get a Custom Quote for Your Wedding
 - Secondary CTA: Schedule a Consultation (form with dates, guest count, venues)
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Wedding%20transport%20consultation
 
 ## Related

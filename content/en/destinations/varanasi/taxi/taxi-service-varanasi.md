@@ -45,7 +45,7 @@ offers:
     name: Hourly Rental
 provider:
   name: Kashi Taxi
-  telephone: +91-8062182380
+  telephone: +91-9935474730
 areaServed:
   - Varanasi
 aggregateRating:
@@ -109,13 +109,13 @@ Luxury cabs for weddings, tempo travellers for groups.
 ## How to Book Your Varanasi Taxi Online
 
 ### Option 1: Call Us (Fastest)
-📞 **+91-8062182380** (24/7)
+📞 **+91-9935474730** (24/7)
 - Direct dispatcher access
 - Instant confirmation
 - Immediate pickup
 
 ### Option 2: WhatsApp Us
-📱 **+91-8062182380**
+📱 **+91-9935474730**
 - Send location & requirements
 - Driver assignment in 2 minutes
 - Easy payment options
@@ -174,8 +174,8 @@ A: Yes, call us for corporate/group rates.
 
 Experience professional, transparent, reliable taxi service in Varanasi.
 
-📞 **Call:** +91-8062182380 (24/7)
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Book%20Taxi%20Service)
+📞 **Call:** +91-9935474730 (24/7)
+📱 **WhatsApp:** [+91-9935474730](https://wa.me/919935474730?text=Book%20Taxi%20Service)
 🌐 **Book Online:** Contact us for booking
 
 Your trusted taxi partner in Varanasi. ✓

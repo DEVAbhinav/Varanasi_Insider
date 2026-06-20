@@ -136,5 +136,5 @@ Costs depend on time (sunrise/aarti are premium), boat type, and season.
 > Hiring a **Tempo Traveller** saves you from coordinating multiple autos.
 > *   **Airport Transfer:** [Varanasi Airport to City](/en/varanasi-airport-tempo-traveller)
 > *   **Local Sightseeing:** [All-Day Cab for Group](/en/kashi-darshan-tempo-traveller)
-> *   **Call/WhatsApp:** [+91 99354 74730](tel:+918062182380)
+> *   **Call/WhatsApp:** [+91 99354 74730](tel:+919935474730)
 > *   **Custom Planning:** Need help? [Contact a Varanasi Travel Agent](/en/varanasi-travel-agent)

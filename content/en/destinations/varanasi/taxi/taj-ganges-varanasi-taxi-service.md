@@ -66,7 +66,7 @@ offers:
     name: Airport Transfer
 provider:
   name: Kashi Taxi
-  telephone: +91-8062182380
+  telephone: +91-9935474730
 areaServed:
   - Taj Ganges Hotel
   - Varanasi Ghats
@@ -244,7 +244,7 @@ We've designed our **Taj Ganges taxi service** specifically for luxury hotel gue
 
 ### Option 1: Direct WhatsApp Booking
 
-1. Message us: **+91-8062182380**
+1. Message us: **+91-9935474730**
 2. Tell us your requirements
 3. Get instant quote (usually within 1 hour)
 4. Confirm dates
@@ -295,8 +295,8 @@ We've designed our **Taj Ganges taxi service** specifically for luxury hotel gue
 
 ## Ready to Experience Real Varanasi?
 
-**Taj Guests Hotline:** +91-8062182380  
-**WhatsApp:** +91-8062182380  
+**Taj Guests Hotline:** +91-9935474730  
+**WhatsApp:** +91-9935474730  
 **Email:** taxiinvaranasiii@gmail.com  
 
 **Ask for:** "Taj Guest Premium Package" – includes welcome gift + local tips card

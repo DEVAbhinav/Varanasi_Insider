@@ -212,7 +212,7 @@ On a normal day in Varanasi, you can hail a ride easily. On Holi? Forget it.
 
 [Book Holi taxi on WhatsApp →](https://wa.me/919935474730?text=Holi%20taxi%20booking%20Varanasi)
 
-📞 Or call: **8062182380**
+📞 Or call: **9935474730**
 
 ---
 
@@ -348,7 +348,7 @@ Holi crowds can get handsy. This isn't unique to Varanasi — it's a Pan-India r
 - **Full-length clothing** preferred — long kurta + leggings or salwar
 - **Mixed-gender groups** are safer than all-female groups in crowded lanes
 - **Don't accept drinks from strangers** — bhang gets slipped into thandai without asking
-- **Our drivers' numbers as emergency contact:** If anything feels off, call us at **8062182380** and we'll send a car immediately. Our drivers know every lane in this city.
+- **Our drivers' numbers as emergency contact:** If anything feels off, call us at **9935474730** and we'll send a car immediately. Our drivers know every lane in this city.
 
 ### Managing Color & Skin
 
@@ -468,7 +468,7 @@ For more on weather patterns, see our [Best Time to Visit Varanasi](/en/best-tim
 
 | Service | Number |
 |---|---|
-| **Kashi Taxi (our line)** | 📞 8062182380 |
+| **Kashi Taxi (our line)** | 📞 9935474730 |
 | **WhatsApp booking** | [919935474730](https://wa.me/919935474730?text=Holi%20taxi%20booking%20Varanasi) |
 | **Varanasi Police helpline** | 112 |
 | **BHU Hospital (emergency)** | 0542-236-9631 |
@@ -500,7 +500,7 @@ Holika Dahan (bonfire) is **Friday, March 13, 2026** (evening). Rangwali Holi (c
 
 ### Is it safe to play Holi in Varanasi?
 
-Yes, with precautions. Go in groups, stick to main ghats, avoid isolated old city lanes during peak hours, don't accept drinks from strangers, and apply coconut oil beforehand. Our drivers can serve as your safe extraction point — call **8062182380** anytime.
+Yes, with precautions. Go in groups, stick to main ghats, avoid isolated old city lanes during peak hours, don't accept drinks from strangers, and apply coconut oil beforehand. Our drivers can serve as your safe extraction point — call **9935474730** anytime.
 
 ### How do I get from Varanasi airport to the ghats during Holi?
 
@@ -548,7 +548,7 @@ Don't wait until Holi morning. By then, every vehicle in the city is either book
 
 **WhatsApp (fastest):** [Book on WhatsApp →](https://wa.me/919935474730?text=Holi%20taxi%20booking%20Varanasi)
 
-**Call us:** 📞 **8062182380**
+**Call us:** 📞 **9935474730**
 
 **What we need from you:**
 1. Travel date and time

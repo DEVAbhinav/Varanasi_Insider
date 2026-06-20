@@ -7,7 +7,7 @@ author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Airport to Varanasi Junction Distance 2026: Fare, Time & Taxi"
 metaDescription: "Varanasi Airport to Varanasi Junction distance is about 22 km. Check taxi fare, travel time and the best transfer option for Cantt or BSB station."
-description: "Beat surge pricing! Airport to Varanasi Junction (BSB/Cantt) taxi at ₹690 fixed fare. 22km, 35-50min, platform drop included. Book: 80621 82380."
+description: "Beat surge pricing! Airport to Varanasi Junction (BSB/Cantt) taxi at ₹690 fixed fare. 22km, 35-50min, platform drop included. Book: 99354 74730."
 keywords:
   - "varanasi airport to varanasi junction distance"
   - "varanasi airport to railway station distance"
@@ -52,7 +52,7 @@ The **varanasi airport to railway station distance** — or phrased the other wa
 | Typical fare | Sedan ₹700–900 · SUV ₹1,050–1,250 |
 
 ## Book your Varanasi Airport to Varanasi Junction transfer
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Varanasi%20Junction)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Cantt parao lane).

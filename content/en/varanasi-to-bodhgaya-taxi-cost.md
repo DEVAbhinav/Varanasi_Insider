@@ -56,7 +56,7 @@ Planning a pilgrimage or a road trip from Varanasi to Bodh Gaya, where the Buddh
 
 > **Book Your Trip to Bodh Gaya!**  
 > Get a transparent, all-inclusive fare for your journey.  
-> **Call:** **[80621 82380](tel:+918062182380)**  
+> **Call:** **[99354 74730](tel:+919935474730)**  
 > **Visit:** **[www.kashitaxi.in/buddhist-circuit](https://www.kashitaxi.in/buddhist-circuit)**
 
 ---
@@ -180,6 +180,6 @@ Where Buddha meditated for 6 years before enlightenment. 12 km from Bodhgaya, sc
 
 ---
 
-For a seamless booking experience and a comfortable journey, call **80621 82380**.
+For a seamless booking experience and a comfortable journey, call **99354 74730**.
 
 **Planning your Bodh Gaya visit?** The [Gaya & Bodh Gaya travel guide](https://bharat-tourism.com/city/gaya) covers Mahabodhi Temple access, Buddhist monastery circuit, and Pind Daan logistics at Vishnupad Temple.

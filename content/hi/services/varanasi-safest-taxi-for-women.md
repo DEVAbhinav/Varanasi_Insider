@@ -133,7 +133,7 @@ relatedPosts:
 - Assi Aarti Timings: [/hi/assi-ghat-aarti-timings-2026]
 
 ## बुकिंग अब
-- कॉल: +91 80621 82380 / +91 80621 82380
+- कॉल: +91 99354 74730 / +91 99354 74730
 - WhatsApp: https://wa.me/919935474730?text=Safe%20Taxi%20Varanasi%20Booking
 - ईमेल (यदि प्रयोग): taxiinvaranasiii@gmail.com
 

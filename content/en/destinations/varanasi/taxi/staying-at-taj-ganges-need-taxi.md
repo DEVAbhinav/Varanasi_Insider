@@ -84,7 +84,7 @@ offers:
     name: Hourly Taxi Rate
 provider:
   name: Kashi Taxi
-  telephone: +91-8062182380
+  telephone: +91-9935474730
 areaServed:
   - Taj Ganges Hotel
   - Varanasi Ghats
@@ -341,7 +341,7 @@ We've answered the **10 most common questions** from Taj Ganges guests. Read on.
 #### Midnight - 2 AM (Emergency)
 - Available but limited
 - Book in advance when possible
-- **Emergency contact:** +91-8062182380
+- **Emergency contact:** +91-9935474730
 
 **Pro Tip:** Plan major trips during 6 AM - 8 PM for best driver availability.
 
@@ -349,8 +349,8 @@ We've answered the **10 most common questions** from Taj Ganges guests. Read on.
 
 ## Quick Reference: Essential Information
 
-**Emergency Contact:** +91-8062182380  
-**WhatsApp:** +91-8062182380  
+**Emergency Contact:** +91-9935474730  
+**WhatsApp:** +91-9935474730  
 **Email:** taxiinvaranasiii@gmail.com  
 
 ### Documents You'll Need:
@@ -378,9 +378,9 @@ We've answered the **10 most common questions** from Taj Ganges guests. Read on.
 We'll handle all the logistical stress. You focus on the spiritual experience.
 
 **Contact Us:**
-- **WhatsApp:** +91-8062182380
+- **WhatsApp:** +91-9935474730
 - **Email:** taxiinvaranasiii@gmail.com
-- **Call:** +91-8062182380
+- **Call:** +91-9935474730
 
 ## Related Guides for Taj Ganges Guests
 

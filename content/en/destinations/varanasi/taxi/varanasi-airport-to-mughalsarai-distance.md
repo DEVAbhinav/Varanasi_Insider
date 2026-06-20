@@ -42,7 +42,7 @@ faqSchema:
 > **Flash Offer:** ₹690 sedan drop when you confirm within 2 hours of pickup (weekday, non-festival, 15-minute standby, direct platform forecourt). *Suspended on Dev Deepawali, Chhath, Kumbh specials, and notified festival blocks.*
 
 ## Book your Varanasi Airport to Mughalsarai taxi
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Mughalsarai)**
 
 > **Tip:** Share your **train number and platform details** so the driver can time arrival and choose the best drop gate around DDU Junction.

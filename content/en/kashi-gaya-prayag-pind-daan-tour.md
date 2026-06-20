@@ -145,7 +145,7 @@ Upgrade multipliers: 17 seater @ ₹27/km; Premium Urbania @ ₹34–35/km.
 ## Book Your Kashi Gaya Prayag Pind Daan Tempo Traveller
 Share dates, passenger count, elder ages, and preferred Gaya priest language (Hindi / English / Bengali / Marathi if needed). I’ll respond with optimal route timing & transparent quote.
 
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Kashi%20Gaya%20Prayag%20Pind%20Daan%20Plan
 
 ## Related

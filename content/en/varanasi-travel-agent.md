@@ -56,7 +56,7 @@ faqSchema:
   - question: "Are your drivers police-verified?"
     answer: "Yes, all our drivers are police-verified and trained. For our Pink Taxi service, we employ verified female chauffeurs. Every driver undergoes background verification, holds a valid commercial driving license, and is trained in customer service and route knowledge."
   - question: "What is your cancellation and refund policy?"
-    answer: "Free cancellation up to 24 hours before scheduled pickup. Cancellations within 12-24 hours: 25% charge. Cancellations within 12 hours or no-shows: 50% charge. Full refund for cancellations due to natural calamities or verified emergencies. Contact us at +91 80621 82380 for cancellation requests."
+    answer: "Free cancellation up to 24 hours before scheduled pickup. Cancellations within 12-24 hours: 25% charge. Cancellations within 12 hours or no-shows: 50% charge. Full refund for cancellations due to natural calamities or verified emergencies. Contact us at +91 99354 74730 for cancellation requests."
   - question: "Do you provide airport pick-up and drop?"
     answer: "Yes, we provide 24×7 Varanasi airport (VNS) transfer services. Sedan airport pickup starts from ₹800-1,000, SUV from ₹1,100-1,350, and tempo traveller for groups. We offer meet-and-greet service with driver holding name placard, 15-minute free waiting time, and flight tracking."
   - question: "Can you arrange a tempo traveller for group tours?"
@@ -97,7 +97,7 @@ For specific service types (airport pickup, outstation cabs, group vehicles), se
   <h2 style="color: white; margin-bottom: 16px;">Book Trusted Tour Operators in Varanasi</h2>
   <p style="font-size: 18px; margin-bottom: 24px;">Verified drivers • Transparent pricing • 24×7 support</p>
   <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-    <a href="tel:+918062182380" style="background: white; color: #0ea5e9; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block;">📞 Call Now: +91 80621 82380</a>
+    <a href="tel:+919935474730" style="background: white; color: #0ea5e9; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block;">📞 Call Now: +91 99354 74730</a>
     <a href="https://wa.me/919935474730?text=Hi%2C%20I%20want%20to%20book%20a%20tour%20in%20Varanasi" style="background: #25D366; color: white; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block;">💬 WhatsApp Us</a>
   </div>
 </div>
@@ -118,7 +118,7 @@ Operating as **Vinayak Travels Tour (Regd.)**, Kashi Taxi has served 25,000+ tra
 - **Police-Verified Drivers:** Every chauffeur undergoes background checks
 - **Transparent Pricing:** No hidden charges — you see the full breakdown before booking
 - **Local Expertise:** Born-and-raised Banarasi drivers who know every ghat, temple, and shortcut
-- **24×7 Availability:** Round-the-clock phone support at +91 80621 82380
+- **24×7 Availability:** Round-the-clock phone support at +91 99354 74730
 - **4.8/5 Google Rating:** Based on 600+ verified reviews
 
 ### **Varanasi Tour and Travels Services: Complete Solutions**
@@ -343,7 +343,7 @@ All our tour operator drivers undergo:
 
 **Step 1: Contact Kashi Taxi Tour Operators**
 
-- **Call:** +91 80621 82380
+- **Call:** +91 99354 74730
 - **WhatsApp:** +91 99354 74730
 - **Email:** sudhir.vinayaktravels@gmail.com
 - **Visit:** Shastri Nagar office (6:00 AM - 10:00 PM daily)
@@ -489,7 +489,7 @@ Yes, **all our drivers are police-verified** and trained. For our Pink Taxi serv
 - **50% charge:** Less than 12 hours or no-shows
 - **Full refund:** For verified emergencies (medical, natural calamities)
 
-Contact +91 80621 82380 for cancellation requests.
+Contact +91 99354 74730 for cancellation requests.
 
 ### Do you provide airport pick-up and drop?
 
@@ -537,7 +537,7 @@ Customizable itineraries available.
   <p style="font-size: 18px; margin-bottom: 24px; opacity: 0.95;">Experience Varanasi with verified drivers • Transparent pricing • 24×7 support</p>
   
   <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; margin-bottom: 24px;">
-    <a href="tel:+918062182380" style="background: white; color: #0c4a6e; padding: 16px 36px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 18px; display: inline-block;">📞 Call: +91 80621 82380</a>
+    <a href="tel:+919935474730" style="background: white; color: #0c4a6e; padding: 16px 36px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 18px; display: inline-block;">📞 Call: +91 99354 74730</a>
     <a href="https://wa.me/919935474730?text=Hi%2C%20I%20want%20to%20book%20a%20tour%20in%20Varanasi" style="background: #25D366; color: white; padding: 16px 36px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 18px; display: inline-block;">💬 WhatsApp Now</a>
   </div>
   

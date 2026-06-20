@@ -66,7 +66,7 @@ test.describe('P1 Verification — WhatsApp, Phone Validation, Security Headers'
     for (const link of waLinks) {
       const href = await link.getAttribute('href');
       expect(href).toContain('919935474730');
-      expect(href).not.toContain('8062182380'); // call number should NOT be in WhatsApp links
+      // call and WhatsApp now share the same number (9935474730), no conflicting number to exclude
     }
   });
 
@@ -136,12 +136,12 @@ test.describe('P1 Verification — WhatsApp, Phone Validation, Security Headers'
 
   // ─── Call number correctness ─────────────────────────────────
 
-  test('Call links use correct number 8062182380', async ({ page }) => {
+  test('Call links use correct number 9935474730', async ({ page }) => {
     await page.goto(`${BASE}/`);
     const telLinks = await page.locator('a[href*="tel:"]').all();
     for (const link of telLinks) {
       const href = await link.getAttribute('href');
-      expect(href).toContain('8062182380');
+      expect(href).toContain('9935474730');
     }
   });
 });

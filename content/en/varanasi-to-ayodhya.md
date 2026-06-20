@@ -225,7 +225,7 @@ Stay overnight if:
 
 ## How to Book Your Varanasi to Ayodhya Taxi
 
-1. **Call or WhatsApp:** [+91 80621 82380](tel:+918062182380) — instant quote
+1. **Call or WhatsApp:** [+91 99354 74730](tel:+919935474730) — instant quote
 2. **Share:** Travel date, pickup point, group size, vehicle preference
 3. **Confirm:** We share fare breakdown, driver details, and arrival time
 4. **Trip day:** Driver reaches 15 min early. Toll, fuel, parking — everything handled.

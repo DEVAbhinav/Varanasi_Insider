@@ -66,7 +66,7 @@ relatedPosts:
 
 **Quick booking (WhatsApp dispatch)** — share headcount + luggage and get the right size locked:
 - WhatsApp: https://wa.me/919935474730?text=Tempo%20Traveller%20size%20help
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 
 **Need a price right now?** Mention date, route (Ayodhya/Prayagraj/local) and whether you need a roof carrier; we revert with 9/12/17 quotes within 15 minutes during 6am–11pm.
 
@@ -235,7 +235,7 @@ All sizes: seatbelts, sanitized interiors, experienced drivers used to shrine ti
 ## Book the Right Tempo Traveller Size
 Unsure? Send passenger count + rough plan (Ayodhya / Prayagraj / Local / Multi‑day) on WhatsApp—we’ll reply with a recommendation, transparent quote and optional alternatives.
 
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Tempo%20Traveller%20size%20help
 
 ## Related

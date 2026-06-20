@@ -138,7 +138,7 @@ If you are accessing our website from outside India, please be aware that your i
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
 **Varanasi Taxi Services**
-- **Phone:** +91 80621 82380
+- **Phone:** +91 99354 74730
 - **WhatsApp:** +91 9450301573
 - **Email:** taxiinvaranasiii@gmail.com
 - **Website:** www.kashitaxi.in

@@ -3,7 +3,7 @@ lang: en
 title: Ramlila Dussehra Varanasi 2026 - Book Airport Taxi Guide
 description: >-
   Ramlila Dussehra 2026 Varanasi dates, schedule, venues. Book airport taxi for
-  ₹690. Festival crowds, parking, viewing spots explained. 80621 82380.
+  ₹690. Festival crowds, parking, viewing spots explained. 99354 74730.
 date: 2026-09-27T00:00:00.000Z
 tags:
   - ramlila varanasi 2026
@@ -384,7 +384,7 @@ Our range of **[Tempo Travellers Varanasi 2026](/en/tempo-traveller-group-bookin
    style="background-color: #16a34a; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; display: inline-block; font-weight: bold; margin-right: 1rem;">
    📱 WhatsApp Booking
 </a>
-<a href="tel:+918062182380" 
+<a href="tel:+919935474730" 
    style="background-color: #1e40af; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; display: inline-block; font-weight: bold;">
    📞 Call Now
 </a>
@@ -537,9 +537,9 @@ Our drivers are Varanasi natives who understand:
    style="background-color: #059669; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold; margin: 0.5rem;">
    💬 WhatsApp: Instant Quotes
 </a><br>
-<a href="tel:+918062182380" 
+<a href="tel:+919935474730" 
    style="background-color: #dc2626; color: white; padding: 15px 30px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold; margin: 0.5rem;">
-   📞 Call: +91 80621 82380
+   📞 Call: +91 99354 74730
 </a>
 </div>
 

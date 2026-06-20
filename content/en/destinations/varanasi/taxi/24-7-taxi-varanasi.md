@@ -137,7 +137,7 @@ Simply call/WhatsApp with your requirement:
 
 **When someone needs urgent medical attention:**
 
-📞 **Emergency Line:** +91-8062182380
+📞 **Emergency Line:** +91-9935474730
 
 **Process:**
 1. Call emergency line with location
@@ -244,8 +244,8 @@ A: Extremely rare. We maintain buffer capacity for 24/7 emergencies.
 ## Contact Varanasi 24/7 Taxi Service
 
 **Emergency/Immediate Service:**
-📞 **Call:** +91-8062182380 (Always attended)
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=24/7%20Emergency%20Taxi)
+📞 **Call:** +91-9935474730 (Always attended)
+📱 **WhatsApp:** [+91-9935474730](https://wa.me/919935474730?text=24/7%20Emergency%20Taxi)
 
 **Advance Booking (Night/Early Morning):**
 🌐 **Book Online:** Contact us for 24/7 booking
@@ -254,7 +254,7 @@ A: Extremely rare. We maintain buffer capacity for 24/7 emergencies.
 
 Available anytime, anywhere. Professional drivers, safe service, guaranteed response.
 
-📞 **24/7 Hotline:** +91-8062182380
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Book%2024/7%20Taxi)
+📞 **24/7 Hotline:** +91-9935474730
+📱 **WhatsApp:** [+91-9935474730](https://wa.me/919935474730?text=Book%2024/7%20Taxi)
 
 Your reliable taxi partner, always available. ✓

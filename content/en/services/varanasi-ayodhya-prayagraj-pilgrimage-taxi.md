@@ -7,7 +7,7 @@ description: "Pilgrimage taxi service Varanasi to Ayodhya, Prayagraj, Bodh Gaya 
 keywords: ["Varanasi to Ayodhya pilgrimage taxi","pilgrim taxi varanasi","varanasi pilgrimage cab amaze","pilgrimage taxi service Varanasi","Varanasi to Prayagraj taxi","varanasi to prayagraj taxi pilgrimage","varanasi to prayagraj taxi service","Kashi Prayag Ayodhya yatra","Varanasi Bodh Gaya tour by car","innova crysta for outstation from Varanasi","best taxi for Varanasi Ayodhya Prayagraj tour"]
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-boat-eve-p.jpeg"
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-boat-eve-p.jpeg"
-phone: "8062182380"
+phone: "9935474730"
 schemaType: "Service"
 serviceCategory: "Pilgrimage Circuit"
 structuredData: true

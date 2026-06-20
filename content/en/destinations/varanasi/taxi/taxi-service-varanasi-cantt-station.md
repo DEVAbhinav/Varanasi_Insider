@@ -101,7 +101,7 @@ Varanasi Junction (Cantt) is crowded at all hours—autos, touts, and porters ev
 - Live GPS link shared; dispatcher on-call throughout the ride.
 
 ## Book taxi for Cantt Station
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp booking: **[wa.me/919935474730](https://wa.me/919935474730?text=Book%20taxi%20at%20Varanasi%20Cantt)**
 - Share PNR and coach position to align pickup side and porter support.
 

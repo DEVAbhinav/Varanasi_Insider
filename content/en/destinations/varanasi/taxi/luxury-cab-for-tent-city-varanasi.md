@@ -55,7 +55,7 @@ faqSchema:
 
 ---
 
-**Quick Book:** Call [94503 01573](tel:+918062182380) · WhatsApp [919935474730](https://wa.me/919935474730?text=Luxury%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city) · Innova Crysta as default, Ravidas Ghat jetty escort.
+**Quick Book:** Call [94503 01573](tel:+919935474730) · WhatsApp [919935474730](https://wa.me/919935474730?text=Luxury%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city) · Innova Crysta as default, Ravidas Ghat jetty escort.
 
 ---
 
@@ -572,7 +572,7 @@ We know Ravidas Ghat. We know the boat timings. We know Tent City's protocols. W
 
 ## Book Your Tent City Transfer Now
 
-📞 **Call:** [80621 82380](tel:+918062182380)  
+📞 **Call:** [99354 74730](tel:+919935474730)  
 📱 **WhatsApp:** [wa.me/919935474730](https://wa.me/919935474730?text=Luxury%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city)  
 🌐 **Website:** [kashitaxi.in](https://kashitaxi.in)  
 📧 **Email:** [taxiinvaranasiii@gmail.com](mailto:taxiinvaranasiii@gmail.com)

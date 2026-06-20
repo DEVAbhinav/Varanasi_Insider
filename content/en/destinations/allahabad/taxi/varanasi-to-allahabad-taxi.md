@@ -118,7 +118,7 @@ faqSchema:
 
 **Book your Varanasi to Prayagraj (Allahabad) taxi now:**
 
-📞 **Call**: [80621 82380](tel:+918062182380)  
+📞 **Call**: [99354 74730](tel:+919935474730)  
 💬 **WhatsApp**: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Prayagraj%20taxi)
 
 ---
@@ -157,7 +157,7 @@ People searching for:
 ---
 
 **Ready to visit Triveni Sangam in Prayagraj (Allahabad)?**  
-📞 Call: [80621 82380](tel:+918062182380)  
+📞 Call: [99354 74730](tel:+919935474730)  
 💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Sangam%20visit)
 
 ---

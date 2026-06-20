@@ -81,7 +81,7 @@ Varanasi has **3 railway stations**. Most tourists only know about Varanasi Junc
 
 **Night surcharge (10 PM – 6 AM): +₹200–300** on all routes.
 
-**Pre-book and skip the chaos →** [Book Station Pickup on WhatsApp](https://wa.me/919935474730?text=Railway%20station%20pickup%20Varanasi) | 📞 8062182380
+**Pre-book and skip the chaos →** [Book Station Pickup on WhatsApp](https://wa.me/919935474730?text=Railway%20station%20pickup%20Varanasi) | 📞 9935474730
 
 ---
 
@@ -301,7 +301,7 @@ On the day of arrival:
 - At Manduadih: Driver directly outside the exit
 - At City Station: Driver calls with exact location (lanes are narrow)
 
-**Pre-book now →** [WhatsApp: Book Station Pickup](https://wa.me/919935474730?text=Railway%20station%20pickup%20Varanasi) | 📞 8062182380
+**Pre-book now →** [WhatsApp: Book Station Pickup](https://wa.me/919935474730?text=Railway%20station%20pickup%20Varanasi) | 📞 9935474730
 
 ---
 
@@ -415,7 +415,7 @@ Everything above works in reverse. If you need a **drop to the station**, here's
 
 Same fares as pickup. Same night surcharge rules.
 
-[Book Station Drop on WhatsApp](https://wa.me/919935474730?text=Drop%20to%20Varanasi%20railway%20station) | 📞 8062182380
+[Book Station Drop on WhatsApp](https://wa.me/919935474730?text=Drop%20to%20Varanasi%20railway%20station) | 📞 9935474730
 
 ---
 
@@ -497,7 +497,7 @@ No credit card machine in vehicles. UPI is the most popular option.
 
 Arriving by train? Don't gamble with auto-rickshaws and station touts. A pre-booked taxi costs the same (or less) than what you'd negotiate with an auto driver — and you get AC, luggage space, and zero drama.
 
-### 📞 Call: 8062182380
+### 📞 Call: 9935474730
 ### 💬 WhatsApp: [Book Station Pickup](https://wa.me/919935474730?text=Railway%20station%20pickup%20Varanasi)
 
 **What to send on WhatsApp:**

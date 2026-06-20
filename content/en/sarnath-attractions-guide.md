@@ -881,7 +881,7 @@ The **monastery ruins** at Sarnath represent 1,500+ years of continuous Buddhist
 - ✅ Fuel, tolls, parking
 
 📱 **WhatsApp "SARNATH TOUR"**: **+91 94503 01573**  
-📞 **Call for Custom Itinerary**: **+91 80621 82380**
+📞 **Call for Custom Itinerary**: **+91 99354 74730**
 
 **27+ Years Experience** | **4.8★ Google Rating** | **Buddhist Site Specialists**
 
@@ -926,4 +926,4 @@ Sri Lankan, Japanese, Chinese, Burmese, Korean temples
 
 Experience 2,500 years of Buddhist history, architecture from 10+ countries, and India's national emblem—all within a walkable 2 km radius. **Sarnath attractions** offer one of India's most concentrated cultural and spiritual experiences.
 
-📱 **Book your complete Sarnath tour**: **+91 80621 82380**
+📱 **Book your complete Sarnath tour**: **+91 99354 74730**

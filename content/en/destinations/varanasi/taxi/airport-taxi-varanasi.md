@@ -59,7 +59,7 @@ offers:
     name: Airport to City Sedan
 provider:
   name: Kashi Taxi
-  telephone: +91-8062182380
+  telephone: +91-9935474730
 areaServed:
   - Varanasi Airport
   - Varanasi City
@@ -223,8 +223,8 @@ A: Free cancellation up to 2 hours. 50% charge if cancelled between 30 min to 2 
 
 Don't risk negotiations with street taxis at the airport. Experience hassle-free, transparent taxi service with KashiTaxi.
 
-**📞 Call Now:** +91-8062182380 (24/7)
-**📱 WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Book%20Airport%20Taxi)
+**📞 Call Now:** +91-9935474730 (24/7)
+**📱 WhatsApp:** [+91-9935474730](https://wa.me/919935474730?text=Book%20Airport%20Taxi)
 **🌐 Book Online:** Contact us for easy booking
 
 Your journey to Varanasi starts with KashiTaxi. ✓

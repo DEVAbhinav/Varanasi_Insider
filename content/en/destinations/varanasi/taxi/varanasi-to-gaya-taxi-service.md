@@ -18,7 +18,7 @@ serviceCategory: "Outstation Taxi"
 schemaType: "Product"
 structuredData: true
 published: true
-phone: "8062182380"
+phone: "9935474730"
 keywords:
   - varanasi to gaya taxi service
   - varanasi to gaya taxi fare one way
@@ -570,7 +570,7 @@ Regular maintenance. Vehicles replaced every 150,000 km or 5 years. Clean interi
 
 ## Book Your Varanasi to Gaya Taxi Now
 
-📞 **Phone:** [+91-8062182380](tel:+918062182380)
+📞 **Phone:** [+91-9935474730](tel:+919935474730)
 
 💬 **WhatsApp:** [Chat Now](https://wa.me/919935474730?text=I%20want%20to%20book%20Varanasi%20to%20Gaya%20taxi)
 

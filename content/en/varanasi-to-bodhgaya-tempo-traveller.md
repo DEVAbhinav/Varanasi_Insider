@@ -3,7 +3,7 @@ lang: en
 title: "Varanasi to Bodhgaya Tempo Traveller: 255km | ₹16,000 [2026]"
 description: Varanasi to Bodhgaya Tempo Traveller—255 km, 5-6 hr drive. Same‑day or overnight. Visit Mahabodhi, Great Buddha and monasteries. All‑inclusive 2026 pricing.
 metaTitle: "Varanasi to Bodhgaya Tempo Traveller: 255km | ₹16,000 [2026]"
-metaDescription: "Varanasi to Bodhgaya = 255 km (5-6 hr). 12-seater Tempo ₹16,000 same-day. Mahabodhi Temple + Vishnupad Pind Daan. 26-seater available. Book: 80621 82380"
+metaDescription: "Varanasi to Bodhgaya = 255 km (5-6 hr). 12-seater Tempo ₹16,000 same-day. Mahabodhi Temple + Vishnupad Pind Daan. 26-seater available. Book: 99354 74730"
 date: 2026-08-27
 lastUpdated: 2026-12-22
 tags: [bodhgaya, buddhist circuit, tempo traveller]
@@ -103,7 +103,7 @@ Carry water/snacks; mobiles/cameras are deposited before entering the Mahabodhi 
 
 - Primary CTA: Book Your Bodhgaya Day Trip (₹16,000)
 - Secondary CTA: Customize Your Buddhist Circuit Tour
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Bodhgaya%20day%20trip%20booking
 
 **Bodh Gaya arrival tips:** Check the [Gaya & Bodh Gaya destination guide on Bharat Tourism](https://bharat-tourism.com/city/gaya) for Mahabodhi Temple timings, monastery visits, and local transport.

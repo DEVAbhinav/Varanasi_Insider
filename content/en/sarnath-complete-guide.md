@@ -173,7 +173,7 @@ The upper section remains **unfinished brick work**, creating an interesting con
 ✅ Multi-day circuit expertise (hotels, permits, routes)
 
 📱 **WhatsApp "SARNATH PILGRIMAGE"**: **+91 94503 01573**  
-📞 **Call for Buddhist Circuit Quote**: **+91 80621 82380**
+📞 **Call for Buddhist Circuit Quote**: **+91 99354 74730**
 
 **27+ Years Serving International Buddhist Pilgrims** | **4.8★ Rated** | **Japanese, Thai, Tibetan Client References Available**
 
@@ -733,7 +733,7 @@ Active and completed excavation areas reveal multiple layers of Sarnath's histor
 **Includes:** AC vehicle, professional driver, all fuel/tolls, flexible timing, hotel pick-up/drop
 
 📱 **WhatsApp for Instant Quote**: **+91 94503 01573**  
-📞 **Call Now**: **+91 80621 82380**
+📞 **Call Now**: **+91 99354 74730**
 
 > **Book Now**: **[Varanasi to Sarnath Transport](/en/varanasi-to-sarnath-tempo-traveller)** | **[Buddhist Circuit Tours](/en/buddhist-circuit-tour-tempo-traveller-varanasi)**
 
@@ -1059,7 +1059,7 @@ Minimum 2 hours for quick visit covering Dhamek Stupa and museum. Recommended 3-
 ### 📞 Contact Kashi Taxi - Your Sarnath Visit Partner
 
 📱 **WhatsApp** (Quick Response): **+91 94503 01573**  
-📞 **Call Now**: **+91 80621 82380**  
+📞 **Call Now**: **+91 99354 74730**  
 🌐 **Website**: www.kashitaxi.in  
 ⏰ **Available**: 24/7 for bookings & inquiries
 
@@ -1174,7 +1174,7 @@ Experience where Buddha's revolutionary teachings began their journey across Asi
 1. **📱 WhatsApp** (Fastest Response): **+91 94503 01573**  
    *Text your dates, group size, and preferred package*
 
-2. **📞 Call Direct**: **+91 80621 82380**  
+2. **📞 Call Direct**: **+91 99354 74730**  
    *Speak with our Buddhist circuit specialists*
 
 3. **🌐 Online Booking**: **www.kashitaxi.in**  

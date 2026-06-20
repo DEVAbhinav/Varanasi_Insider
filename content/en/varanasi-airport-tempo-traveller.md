@@ -61,5 +61,5 @@ Immediate, transactional need—price is upfront. Also covers Cantt and DDU stat
 ## Book Your Varanasi Airport Tempo Traveller Now
 
 - Primary CTA: Book Your Airport Transfer Now
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Airport%20transfer%20booking

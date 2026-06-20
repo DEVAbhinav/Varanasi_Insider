@@ -7,7 +7,7 @@ description: "Compare the best Varanasi tour package options for 2 day, 3 day, a
 keywords: ["Varanasi tour package","Varanasi tour packages 2026","Varanasi package with hotel","2 day Varanasi tour package","3 day Varanasi tour package","4 day Varanasi tour package","Varanasi temple tour package","Kashi tour package","Ganga Aarti Varanasi","Sarnath day trip"]
 
 
-phone: "8062182380"
+phone: "9935474730"
 schemaType: "Service"
 serviceCategory: "Tour Packages"
 structuredData: true
@@ -703,6 +703,6 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 
 ---
 
-**Need help planning your Varanasi tour?** Contact us at **80621 82380** for customized **Varanasi tour packages**, **Varanasi city tour**, and **Varanasi temple tour** bookings.
+**Need help planning your Varanasi tour?** Contact us at **99354 74730** for customized **Varanasi tour packages**, **Varanasi city tour**, and **Varanasi temple tour** bookings.
 
 **Extending your trip?** Explore [Ayodhya](https://bharat-tourism.com/city/ayodhya), [Prayagraj](https://bharat-tourism.com/city/prayagraj), and [Gaya & Bodh Gaya](https://bharat-tourism.com/city/gaya) destination guides on Bharat Tourism for multi-city pilgrimage planning.

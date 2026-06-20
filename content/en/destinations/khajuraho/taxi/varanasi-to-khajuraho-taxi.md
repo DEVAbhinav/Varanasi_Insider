@@ -313,7 +313,7 @@ Early morning departure (4 AM), reach by noon, 3-4 hours at main temples, depart
 ### Book Varanasi to Khajuraho Taxi in 3 Easy Steps
 
 **Step 1: Contact Us**
-- Phone: [80621 82380](tel:+918062182380)
+- Phone: [99354 74730](tel:+919935474730)
 - WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Khajuraho%20taxi)
 
 **Step 2: Share Details**
@@ -347,5 +347,5 @@ Early morning departure (4 AM), reach by noon, 3-4 hours at main temples, depart
 
 **Ready to explore UNESCO Khajuraho temples?**  
 Book your 2-day heritage tour from Varanasi!  
-📞 Call: [80621 82380](tel:+918062182380)  
+📞 Call: [99354 74730](tel:+919935474730)  
 💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Khajuraho%20UNESCO%20tour)

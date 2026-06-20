@@ -52,7 +52,7 @@ If your query is **book tempo traveller from Varanasi for Ayodhya**, here's our 
 
 **Planning a family yatra or a quick city-to-city hop?** We run outstation cabs from Varanasi every single day—Ayodhya, Prayagraj, Bodh Gaya, Lucknow and beyond—with commercial-permit vehicles, verified drivers, GST invoices and transparent fares. Pick your size: **6 seater, 7 seater, SUV, Innova Crysta, or Tempo Traveller** with **luggage carrier** on request.
 
-**Quick Book (6:00 AM–10:00 PM):** [WhatsApp 99354 74730](https://wa.me/919935474730) • Call [94503 01573](tel:+918062182380) • Fast quotes • Clear T\&Cs
+**Quick Book (6:00 AM–10:00 PM):** [WhatsApp 99354 74730](https://wa.me/919935474730) • Call [94503 01573](tel:+919935474730) • Fast quotes • Clear T\&Cs
 
 ---
 
@@ -224,6 +224,6 @@ Tell your chauffeur and message dispatch—fare adjusts transparently to actual 
 * **7 seater cab hire in Varanasi for outstation** → Choose SUV/Crysta.
 * **Large taxi for group travel Varanasi** → Tempo Traveller 9/12/17.
 
-**WhatsApp [99354 74730](https://wa.me/919935474730) • Call [94503 01573](tel:+918062182380)** — Share date, route, pax, and if you need a **luggage carrier**. We’ll reply with a firm, written quote and a clean, comfortable vehicle you’ll actually want to sit in all day.
+**WhatsApp [99354 74730](https://wa.me/919935474730) • Call [94503 01573](tel:+919935474730)** — Share date, route, pax, and if you need a **luggage carrier**. We’ll reply with a firm, written quote and a clean, comfortable vehicle you’ll actually want to sit in all day.
 
 <sub>Last updated: August 2026</sub>

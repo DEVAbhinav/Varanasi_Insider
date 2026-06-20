@@ -165,7 +165,7 @@ Add upgrade margins for 17 seater (₹27/km) or premium Urbania variant (₹34�
 ## Book Your Chitrakoot Yatra Vehicle
 Share passenger count + preferred dates + any elder considerations. We’ll reply with best‑fit seating, transparent quotation and optional itinerary refinement.
 
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Chitrakoot%20Tempo%20Traveller%20Plan
 
 ## Related

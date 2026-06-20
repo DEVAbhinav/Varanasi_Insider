@@ -6,7 +6,7 @@ lastUpdated: "2026-12-31"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Prayagraj to Varanasi Taxi | Triveni Sangam to Kashi | ₹2,500"
-metaDescription: "Prayagraj (Allahabad) to Varanasi taxi ₹2,500. 100 km, 2-2.5 hrs. Sangam + Ganga Aarti same-day. Book ☎ 80621 82380."
+metaDescription: "Prayagraj (Allahabad) to Varanasi taxi ₹2,500. 100 km, 2-2.5 hrs. Sangam + Ganga Aarti same-day. Book ☎ 99354 74730."
 description: "Prayagraj to Varanasi taxi from ₹2,500. 100-124 km in 2-2.5 hours via NH19. Triveni Sangam to Ganga Aarti same-day. Professional drivers."
 keywords:
   - "prayagraj to varanasi taxi"
@@ -360,7 +360,7 @@ faqSchema:
 ### Ready for the Shortest Sacred Journey?
 
 **Call/WhatsApp**: [+91 99354 74730](https://wa.me/919935474730?text=Prayagraj%20to%20Varanasi%20same-day%20circuit%20taxi)  
-**Alternate**: [+91 80621 82380](tel:+918062182380)  
+**Alternate**: [+91 99354 74730](tel:+919935474730)  
 **Email**: taxiinvaranasiii@gmail.com  
 **Website**: [www.kashitaxi.in](https://www.kashitaxi.in/booking)
 

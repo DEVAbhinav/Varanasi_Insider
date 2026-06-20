@@ -92,7 +92,7 @@ Shivala Ghat is a peaceful stay cluster with boutique hotels and meditation-frie
 - **Quiet-area specialists:** Drivers trained for low-honk, respectful driving in Shivala.
 
 ## Book a Shivala Ghat taxi now
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp: **[wa.me/919935474730](https://wa.me/919935474730?text=Book%20taxi%20to%20Shivala%20Ghat)**
 
 ## Shivala Ghat taxi FAQs

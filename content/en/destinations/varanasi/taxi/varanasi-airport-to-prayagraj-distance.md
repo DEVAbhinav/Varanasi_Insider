@@ -48,7 +48,7 @@ location:
 | Typical fare | Hatchback ₹1,380–₹1,640 · Sedan ₹1,500–₹2,000 · Innova ₹2,600–₹3,500 |
 
 ## Book your Varanasi Airport to Prayagraj taxi
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Prayagraj)**
 
 > **Tip:** Share your flight number and hotel name (e.g., Civil Lines, Sangam, or Tagore Town) so the driver can plan the final approach and parking in advance.

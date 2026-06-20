@@ -176,7 +176,7 @@ Yes, but one-way or overnight plans should be quoted separately because the same
 
 ## Book Your Ayodhya Tempo Traveller
 
-- Call: [+91 80621 82380](tel:+918062182380)
+- Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: [Book Ayodhya tempo traveller](https://wa.me/919935474730?text=Ayodhya%20tempo%20traveller%20price%20list)
 - Need route-only fare first? See [Varanasi to Ayodhya taxi and travel guide](/en/varanasi-to-ayodhya)
 

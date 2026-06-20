@@ -445,7 +445,7 @@ This is for the serious food tourist. You'll cover all six food zones, three mea
 **Transport:** You need a taxi for the full day. Lanka and Assi are 5–7 km from the old city.
 
 > **Book your full-day food tour taxi:** Our drivers know every gali and can navigate the old city lanes. They'll wait while you eat and take you between zones.
-> [Book Food Tour Taxi on WhatsApp →](https://wa.me/919935474730?text=Food%20tour%20taxi%20in%20Varanasi) | 📞 8062182380
+> [Book Food Tour Taxi on WhatsApp →](https://wa.me/919935474730?text=Food%20tour%20taxi%20in%20Varanasi) | 📞 9935474730
 
 ---
 
@@ -566,7 +566,7 @@ The lanes are narrow, uneven, occasionally wet. Wear comfortable walking shoes �
 
 You can't do a full food tour on foot alone. The old city is walkable, but Lanka, Assi, and Sarnath are far apart. Book a half-day or full-day taxi so you have a base between food zones.
 
-[Book a food tour taxi →](https://wa.me/919935474730?text=Food%20tour%20taxi%20in%20Varanasi) | 📞 8062182380
+[Book a food tour taxi →](https://wa.me/919935474730?text=Food%20tour%20taxi%20in%20Varanasi) | 📞 9935474730
 
 ### 8. Avoid the Monsoon Chaos
 
@@ -616,7 +616,7 @@ Our drivers are from Varanasi. They grew up here. They know the parking spots (c
 **Full-day food tour (8–10 hours):** Cover all 6 zones plus Sarnath.
 
 [Book Food Tour Taxi on WhatsApp →](https://wa.me/919935474730?text=Food%20tour%20taxi%20in%20Varanasi)
-📞 Call: 8062182380
+📞 Call: 9935474730
 
 ---
 
@@ -662,7 +662,7 @@ Varanasi's food is cheap, incredible, and made by families who've been doing thi
 
 Come hungry. Walk slowly. Eat everything. And when your legs are tired and your belly is full, call us — we'll have a car waiting.
 
-[Book Food Tour Taxi →](https://wa.me/919935474730?text=Food%20tour%20taxi%20in%20Varanasi) | 📞 8062182380
+[Book Food Tour Taxi →](https://wa.me/919935474730?text=Food%20tour%20taxi%20in%20Varanasi) | 📞 9935474730
 
 *This guide is written by the team at Kashi Taxi — Varanasi locals since 2016. Kamal Nayan Singh, our founder, was born and raised in Varanasi. Every recommendation here is personally verified.*
 

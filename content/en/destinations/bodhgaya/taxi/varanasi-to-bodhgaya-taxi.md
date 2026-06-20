@@ -6,7 +6,7 @@ lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Bodhgaya Distance: 255km, 5hr | Taxi ₹3,500 [2026]"
-metaDescription: "Varanasi to Bodhgaya = 255 km (5 hrs via NH19). Taxi ₹3,500 sedan, ₹5,500 Innova. Same-day Mahabodhi Temple + Bodhi Tree visit possible. Book: 80621 82380"
+metaDescription: "Varanasi to Bodhgaya = 255 km (5 hrs via NH19). Taxi ₹3,500 sedan, ₹5,500 Innova. Same-day Mahabodhi Temple + Bodhi Tree visit possible. Book: 99354 74730"
 description: "Book Varanasi to Bodhgaya cabs from ₹3,500. 234 km journey in 3.5-4 hours. UNESCO World Heritage Mahabodhi Temple, Bodhi Tree pilgrimage. 24/7 service."
 keywords:
   - "varanasi to bodhgaya taxi"
@@ -372,7 +372,7 @@ Choose from:
 ### Book Varanasi to Bodhgaya Taxi in 3 Easy Steps
 
 **Step 1: Contact Us**
-- Phone: [80621 82380](tel:+918062182380)
+- Phone: [99354 74730](tel:+919935474730)
 - WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Bodhgaya%20taxi)
 
 **Step 2: Share Details**
@@ -412,7 +412,7 @@ Choose from:
 
 **Ready for your spiritual journey to Bodhgaya?**  
 Book your Varanasi to Bodhgaya Buddhist pilgrimage taxi now!  
-📞 Call: [80621 82380](tel:+918062182380)  
+📞 Call: [99354 74730](tel:+919935474730)  
 💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Bodhgaya%20enlightenment%20tour)
 
 **May all beings be happy. May all beings be peaceful. 🙏**

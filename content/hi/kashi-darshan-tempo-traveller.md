@@ -100,7 +100,7 @@ canonical: "https://www.kashitaxi.in/hi/kashi-darshan-tempo-traveller"
 - ganga aarti tempo traveller tour
 
 ## अभी बुक करें (Call To Action)
-- Call: +91 80621 82380  
+- Call: +91 99354 74730  
 - WhatsApp: https://wa.me/919935474730?text=Kashi%20Darshan%20Tempo%20Hindi  
 - “Kashi Darshan Quote” लिखें – शीघ्र जवाब
 

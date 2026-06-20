@@ -208,7 +208,7 @@ See: [Varanasi-Ayodhya-Prayagraj Pilgrimage Taxi](/en/services/varanasi-ayodhya-
 
 ## How to Book
 
-1. **Call or WhatsApp:** [+91 80621 82380](tel:+918062182380) — instant quote
+1. **Call or WhatsApp:** [+91 99354 74730](tel:+919935474730) — instant quote
 2. **Share:** Date, pickup point, group size, vehicle preference
 3. **Confirm:** Fixed fare, driver name, arrival time shared
 4. **Trip day:** Driver arrives 15 min early. Everything handled.

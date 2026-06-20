@@ -60,7 +60,7 @@ This guide covers every mode of transport into Varanasi with real fares, station
 > | 🚌 Bus | 12–16 hours | ₹800–₹1,800 | Ultra-budget, short hops |
 > | 🚗 Road | 12–14 hours | ₹8,000–₹14,000 (cab) | Flexibility, group travel |
 >
-> **Just landed or arriving soon?** [Book your Varanasi pickup on WhatsApp](https://wa.me/919935474730?text=Need%20pickup%20in%20Varanasi) or call 📞 8062182380.
+> **Just landed or arriving soon?** [Book your Varanasi pickup on WhatsApp](https://wa.me/919935474730?text=Need%20pickup%20in%20Varanasi) or call 📞 9935474730.
 
 ---
 
@@ -575,7 +575,7 @@ We run pickups from the airport, all three railway stations, and the highway ent
 ### Book Now
 
 - **WhatsApp (fastest):** [Book Pickup on WhatsApp](https://wa.me/919935474730?text=Need%20pickup%20in%20Varanasi) — share flight/train number, pax count, destination
-- **Call:** 📞 [8062182380](tel:+918062182380) — 6 AM to 10 PM, daily
+- **Call:** 📞 [9935474730](tel:+919935474730) — 6 AM to 10 PM, daily
 - **Website:** [kashitaxi.in](https://www.kashitaxi.in)
 
 ---
@@ -647,4 +647,4 @@ Varanasi is not a city where you wing the last mile. The airport is far, the sta
 
 Share your arrival details — flight, train, or road — and we'll have a car and a driver waiting.
 
-[Book Pickup on WhatsApp](https://wa.me/919935474730?text=Need%20pickup%20in%20Varanasi) · 📞 [8062182380](tel:+918062182380) · [kashitaxi.in](https://www.kashitaxi.in)
+[Book Pickup on WhatsApp](https://wa.me/919935474730?text=Need%20pickup%20in%20Varanasi) · 📞 [9935474730](tel:+919935474730) · [kashitaxi.in](https://www.kashitaxi.in)

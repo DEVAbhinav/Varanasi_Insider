@@ -18,7 +18,7 @@ keywords:
   - airport route pages varanasi
 ctaTitle: "Need a Custom Airport Pickup?"
 ctaSubtitle: "Share your flight details and destination—we'll create a personalized transfer plan with exact fare and timing."
-phone: "8062182380"
+phone: "9935474730"
 ---
 
 # Varanasi Airport Route Directory
@@ -127,7 +127,7 @@ Comprehensive guides for Varanasi Airport transfers.
 
 ## Book Your Airport Transfer
 
-**Call/WhatsApp:** [+91-8062182380](tel:+918062182380)
+**Call/WhatsApp:** [+91-9935474730](tel:+919935474730)
 
 Share your:
 - Flight number & arrival time

@@ -10,7 +10,7 @@ featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kash
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg"
 metaTitle: "Where to Stay in Vindhyachal 2026 – Dharamshala, Hotels and Navratri Planning"
 metaDescription: "Plan your Vindhyachal stay for 2026 with practical guidance on dharamshala availability, Navratri crowd periods, Mirzapur backup hotels, and transport-friendly options."
-phone: "8062182380"
+phone: "9935474730"
 schemaType: "Article"
 category: "Accommodation Guide"
 structuredData: true

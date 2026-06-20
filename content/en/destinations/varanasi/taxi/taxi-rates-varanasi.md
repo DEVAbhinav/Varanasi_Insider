@@ -49,7 +49,7 @@ offers:
     name: Airport Transfer
 provider:
   name: Kashi Taxi
-  telephone: +91-8062182380
+  telephone: +91-9935474730
 areaServed:
   - Varanasi
 aggregateRating:
@@ -237,8 +237,8 @@ A: Call us for custom quotes. Multi-day trips get better rates.
 
 Experience honest, fixed-price taxi service. No surprises, no negotiations.
 
-📞 **Call:** +91-8062182380 (24/7)
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Check%20Taxi%20Rates)
+📞 **Call:** +91-9935474730 (24/7)
+📱 **WhatsApp:** [+91-9935474730](https://wa.me/919935474730?text=Check%20Taxi%20Rates)
 🌐 **Book Online:** Contact us for transparent pricing
 
 Clear rates, professional service, guaranteed satisfaction. ✓

@@ -45,7 +45,7 @@ faqSchema:
 | Typical fare | Sedan ₹820–950 · SUV ₹1,150–1,350 |
 
 ## Book your Varanasi Airport to Scindia Ghat transfer
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Scindia%20Ghat)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Maidagin barricade).

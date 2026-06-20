@@ -31,7 +31,7 @@ relatedPosts:
   - varanasi-tour-package-with-hotel
   - senior-citizen-varanasi-tour-package
   - tour-package-from-varanasi
-phone: "8062182380"
+phone: "9935474730"
 schemaType: "Service"
 serviceCategory: "Tour Packages"
 structuredData: true
@@ -731,4 +731,4 @@ Itinerary तुलना करने से पहले, यह rule या�
 
 ---
 
-**वाराणसी टूर plan करने में मदद चाहिए?** हमसे संपर्क करें **80621 82380** पर — customized **वाराणसी टूर पैकेज**, **शहर टूर** और **मंदिर टूर** बुकिंग के लिए।
+**वाराणसी टूर plan करने में मदद चाहिए?** हमसे संपर्क करें **99354 74730** पर — customized **वाराणसी टूर पैकेज**, **शहर टूर** और **मंदिर टूर** बुकिंग के लिए।

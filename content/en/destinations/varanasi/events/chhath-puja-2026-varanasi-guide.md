@@ -92,7 +92,7 @@ relatedPosts:
 > | **Airport → Ghat taxi** | Sedan ₹899 · Innova ₹1,200 |
 > | **Station pickup** | ₹400–600 |
 > | **Road closures** | Oct 30, 3 PM → Oct 31, noon |
-> | **Book now** | [WhatsApp](https://wa.me/919935474730?text=Chhath%20Puja%20taxi%20booking) · 📞 8062182380 |
+> | **Book now** | [WhatsApp](https://wa.me/919935474730?text=Chhath%20Puja%20taxi%20booking) · 📞 9935474730 |
 
 *Last updated: April 6, 2026*
 
@@ -298,7 +298,7 @@ Large families and groups coming together for Chhath — this is your best optio
 
 **WhatsApp (fastest response):** [Book on WhatsApp](https://wa.me/919935474730?text=Chhath%20Puja%20taxi%20booking)
 
-**Call:** 📞 8062182380
+**Call:** 📞 9935474730
 
 **What to include in your message:**
 - Arrival date, time, and flight/train number
@@ -563,7 +563,7 @@ You've read the guide. Now lock in your ride before the Chhath rush fills every 
 | | |
 |---|---|
 | **WhatsApp** | [Book on WhatsApp](https://wa.me/919935474730?text=Chhath%20Puja%20taxi%20booking) |
-| **Call** | 📞 8062182380 |
+| **Call** | 📞 9935474730 |
 | **Response time** | Within 1 hour during Chhath season |
 | **Advance booking** | Recommended 3-5 days before arrival |
 

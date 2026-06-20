@@ -323,7 +323,7 @@ Choose from:
 ### Book Varanasi to Ayodhya Taxi in 3 Easy Steps
 
 **Step 1: Contact Us**
-- Phone: [80621 82380](tel:+918062182380)
+- Phone: [99354 74730](tel:+919935474730)
 - WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Ayodhya%20taxi)
 - Or fill online booking form
 
@@ -388,5 +388,5 @@ Choose from:
 
 **Ready to visit Ram Janmabhoomi?**  
 Book your Varanasi to Ayodhya taxi now!  
-📞 Call: [80621 82380](tel:+918062182380)  
+📞 Call: [99354 74730](tel:+919935474730)  
 💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Ram%20Mandir%20taxi)

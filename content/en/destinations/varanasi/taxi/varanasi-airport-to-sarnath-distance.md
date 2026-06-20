@@ -6,8 +6,8 @@ lastUpdated: "2026-11-30"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Airport to Sarnath Taxi ₹690 | Dhamek Stupa | 50-min Route"
-metaDescription: "Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist circuit tours available. Book now 80621 82380."
-description: "Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist circuit tours available. Book now 80621 82380."
+metaDescription: "Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist circuit tours available. Book now 99354 74730."
+description: "Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist circuit tours available. Book now 99354 74730."
 keywords:
   - "varanasi airport to sarnath distance"
   - "varanasi airport to sarnath taxi fare"
@@ -47,7 +47,7 @@ location:
 
 **The distance from Varanasi Airport (VNS) to Sarnath is 32 km via Ring Road and Sarnath Road, and the drive typically takes 50–60 minutes in normal traffic.**
 
-**→ [BOOK SARNATH TAXI NOW](https://wa.me/919935474730?text=Airport%20pickup%20for%20Sarnath)** | Flash: ₹690 | Call: [9450301573](tel:+918062182380)
+**→ [BOOK SARNATH TAXI NOW](https://wa.me/919935474730?text=Airport%20pickup%20for%20Sarnath)** | Flash: ₹690 | Call: [9450301573](tel:+919935474730)
 
 | Key fact | Detail |
 | --- | --- |
@@ -57,7 +57,7 @@ location:
 | Typical fare | Flash ₹690 · Sedan ₹850–950 · SUV ₹1,200–1,400 |
 
 ## Book your Varanasi Airport to Sarnath transfer
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Sarnath)**
 
 ## Varanasi Airport to Sarnath taxi fare

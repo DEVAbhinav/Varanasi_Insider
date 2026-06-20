@@ -41,7 +41,7 @@ faqSchema:
 | Typical fare | Hatchback ~₹3,769 · Sedan ₹3,769–₹3,999 · Innova ₹3,810–₹4,188 |
 
 ## Book your Varanasi Airport to Deoria taxi
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Deoria)**
 
 > **Tip:** For overnight drives or family trips, split the journey with planned dhaba or hotel halts and inform the operator in advance.

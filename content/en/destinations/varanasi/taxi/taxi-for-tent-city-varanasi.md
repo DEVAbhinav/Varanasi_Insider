@@ -43,7 +43,7 @@ faqSchema:
 
 ---
 
-**Quick Book:** Call [94503 01573](tel:+918062182380) · WhatsApp [919935474730](https://wa.me/919935474730?text=Book%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city) · Drivers trained for Ravidas Ghat Tent City jetty.
+**Quick Book:** Call [94503 01573](tel:+919935474730) · WhatsApp [919935474730](https://wa.me/919935474730?text=Book%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city) · Drivers trained for Ravidas Ghat Tent City jetty.
 
 ---
 
@@ -259,7 +259,7 @@ Your Tent City stay costs ₹20,000–₹50,000+ per night. The last thing you n
 
 ## Call to Action
 
-📞 **Call:** [80621 82380](tel:+918062182380)  
+📞 **Call:** [99354 74730](tel:+919935474730)  
 📱 **WhatsApp:** [wa.me/919935474730](https://wa.me/919935474730?text=Book%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city)  
 🌐 **Book Online:** [kashitaxi.in](https://kashitaxi.in)  
 📧 **Email:** [taxiinvaranasiii@gmail.com](mailto:taxiinvaranasiii@gmail.com)

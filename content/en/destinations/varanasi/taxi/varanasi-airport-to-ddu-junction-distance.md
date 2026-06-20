@@ -45,7 +45,7 @@ faqSchema:
 | Typical fare | Sedan ₹900–1,050 · SUV ₹1,300–1,500 |
 
 ## Book your Varanasi Airport to DDU Junction transfer
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20DDU%20Junction)**
 
 > **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, direct platform forecourt).

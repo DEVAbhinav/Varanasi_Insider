@@ -232,8 +232,8 @@ A: Absolutely! You can do morning + evening tours on the same day (₹2200-3200)
 
 Experience authentic Kashi Darshan with KashiTaxi. Professional drivers, comfortable cabs, flexible timing, and spiritual enlightenment.
 
-📞 **Call:** +91-8062182380 (24/7)
-📱 **WhatsApp:** [+91-8062182380](https://wa.me/919935474730?text=Book%20Varanasi%20City%20Tour)
+📞 **Call:** +91-9935474730 (24/7)
+📱 **WhatsApp:** [+91-9935474730](https://wa.me/919935474730?text=Book%20Varanasi%20City%20Tour)
 🌐 **Book Online:** Contact us for tour booking
 
 Make memories in the holy city of Varanasi. ✓

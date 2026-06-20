@@ -93,7 +93,7 @@
         {
             "id": "call_preferred",
             "label": "Prefer to Call",
-            "template": "This might be easier to discuss over a quick call. Would you be available for a 2-minute chat? I can call you at {{phone}} or you can reach us at +91 80621 82380. 📞",
+            "template": "This might be easier to discuss over a quick call. Would you be available for a 2-minute chat? I can call you at {{phone}} or you can reach us at +91 99354 74730. 📞",
             "use_when": "Complex requirements better handled by voice"
         }
     ],
@@ -107,7 +107,7 @@
         {
             "id": "after_hours",
             "label": "After Hours",
-            "template": "Thanks for reaching out! Our team will respond first thing tomorrow morning (9 AM). For urgent bookings, you can call +91 80621 82380. 🌙",
+            "template": "Thanks for reaching out! Our team will respond first thing tomorrow morning (9 AM). For urgent bookings, you can call +91 99354 74730. 🌙",
             "use_when": "Late night messages"
         }
     ],

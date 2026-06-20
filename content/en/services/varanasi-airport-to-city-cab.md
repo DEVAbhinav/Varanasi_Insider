@@ -9,7 +9,7 @@ metaTitle: "Varanasi Airport to City Cab 2026 | Fixed Fares & Surge Shield"
 metaDescription: "Compare 2026 Varanasi airport to city cab fares (₹700+), lock surge-proof pickups, view zone-wise distance table, and book instantly on WhatsApp."
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
-phone: "8062182380"
+phone: "9935474730"
 schemaType: "Service"
 serviceCategory: "Airport Transfer"
 structuredData: true
@@ -19,7 +19,7 @@ lastUpdated: "2026-11-25"
 areaServed: ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "Sarnath", "BHU", "Cantonment"]
 provider:
   name: "Banarasi Kashitaxi"
-  telephone: "+918062182380"
+  telephone: "+919935474730"
   url: "https://www.kashitaxi.in/en/services/varanasi-airport-to-city-cab"
 offers:
   - name: "Sedan Drop"

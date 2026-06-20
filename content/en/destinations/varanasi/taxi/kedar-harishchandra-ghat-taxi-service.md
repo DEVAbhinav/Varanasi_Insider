@@ -87,7 +87,7 @@ Kedar and Harishchandra sit in Varanasi's spiritual core. Lanes are narrow, crow
 - **Fixed pilgrim rates:** Locked 24 hours prior; zero surge.
 
 ## Book a Kedar/Harishchandra taxi
-- Call dispatch: **[80621 82380](tel:+918062182380)**
+- Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp: **[wa.me/919935474730](https://wa.me/919935474730?text=Book%20Kedar%20Harishchandra%20taxi)**
 
 ## FAQs about Kedar & Harishchandra taxi service

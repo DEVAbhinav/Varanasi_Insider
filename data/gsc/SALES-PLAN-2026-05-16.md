@@ -22,8 +22,7 @@ Phone numbers used across `content/en/*.md`:
 
 | Number | Occurrences | Status |
 |---|---|---|
-| 919935474730 | 96 | ✅ canonical WhatsApp in `lib/contact.js` |
-| 918062182380 | 132 | ✅ canonical call in `lib/contact.js` |
+| 919935474730 | 228 | ✅ canonical call + WhatsApp (unified) in `lib/contact.js` |
 | 919450301573 | 59 | ⚠️ **NOT in `lib/contact.js`** — separate number routing some leads |
 | 919876543210 | 2 | ❌ looks like a placeholder/dummy |
 | 8299764647, 9454404392, 9454401119 | a few each | ❓ unknown source |
