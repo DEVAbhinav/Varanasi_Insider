@@ -516,11 +516,6 @@ const nextConfig = {
         permanent: false, // Temporary until Hindi translation
       },
       {
-        source: '/hi/best-time-to-visit-varanasi',
-        destination: '/en/best-time-to-visit-varanasi',
-        permanent: false,
-      },
-      {
         source: '/hi/vegetarian-cafes-near-assi-ghat',
         destination: '/en',
         permanent: false,
