@@ -113,7 +113,7 @@ const jsonLdBusiness = {
       '@type': 'Offer',
       priceCurrency: 'INR',
       price: 449,
-      itemOffered: { '@type': 'Product', name: 'Scooty (Honda Activa or similar)' },
+      itemOffered: { '@type': 'Product', name: 'Scooty (Honda Activa or similar)', image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/scooty-varanasi-ghat.jpeg' },
       availability: 'https://schema.org/InStock',
       url: canonicalUrl + '#book',
       eligibleRegion: 'Varanasi',
@@ -126,7 +126,7 @@ const jsonLdBusiness = {
       '@type': 'Offer',
       priceCurrency: 'INR',
       price: 900,
-      itemOffered: { '@type': 'Product', name: 'Motorbike (125–160cc)' },
+      itemOffered: { '@type': 'Product', name: 'Motorbike (125–160cc)', image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/scooty-varanasi-ghat.jpeg' },
       availability: 'https://schema.org/InStock',
       url: canonicalUrl + '#book',
       eligibleRegion: 'Varanasi'
