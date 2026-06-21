@@ -6,8 +6,8 @@ lastUpdated: "2026-12-22"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg"
-metaTitle: "Varanasi to Bodh Gaya Distance 2026: Taxi Fare, Time & Route"
-metaDescription: "Varanasi to Bodh Gaya distance is about 250 km. Check taxi fare, travel time, same-day trip planning, and Buddhist Circuit route details."
+metaTitle: "Varanasi to Bodh Gaya Distance & Taxi Fare 2026: ₹5,000, 250 km"
+metaDescription: "Varanasi to Bodh Gaya taxi from ₹5,000 one-way, ₹6,500 same-day return — 250 km (~5 hrs). Fixed fares, sedan/SUV, Buddhist Circuit stops & instant WhatsApp booking."
 description: "2026 Varanasi → Bodh Gaya taxi fares, route intel, pit-stop map, and WhatsApp script to lock fixed quotes before touts call back."
 keywords:
   - "varanasi to bodh gaya taxi cost"

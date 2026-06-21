@@ -165,7 +165,7 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
 
       <div class="december-tab-panel" data-december-panel="food">
         <div class="december-card-grid">
-          <a class="december-card" href="/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi">
+          <a class="december-card" href="/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2026">
             <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" alt="Banarasi silk boutique" loading="lazy" />
             <div class="december-card-body">
               <h4>Banarasi Silk Shopping</h4>

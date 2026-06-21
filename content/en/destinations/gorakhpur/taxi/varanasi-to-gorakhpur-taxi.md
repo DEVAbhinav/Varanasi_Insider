@@ -23,6 +23,7 @@ template: destination
 relatedPosts:
   - varanasi-to-ayodhya-taxi
   - varanasi-to-gaya-taxi
+  - varanasi-to-nepal-taxi
 faqSchema:
   - question: "How much does a taxi cost from Varanasi to Gorakhpur?"
     answer: "Taxi fares from Varanasi to Gorakhpur start from ₹3,000 for a sedan. Prices vary: Swift Dzire ₹3,000-3,400, Ertiga ₹4,000-4,500, Innova ₹5,200-5,800. All fares include fuel, tolls, and driver charges."
@@ -36,7 +37,7 @@ faqSchema:
 
 # Varanasi to Gorakhpur | Nepal Border Gateway | Cabs from ₹3,000
 
-**Gorakhpur is a strategic city in eastern Uttar Pradesh**, famous for the Gorakhnath Temple and serving as the **gateway to Nepal**. Located approximately **200-229 kilometers** from Varanasi, the comfortable journey takes **4 to 4.5 hours** via NH29. Whether you're visiting the Gorakhnath Temple, heading to Nepal, or catching a train from Gorakhpur Junction, KashiTaxi offers reliable service.
+**Gorakhpur is a strategic city in eastern Uttar Pradesh**, famous for the Gorakhnath Temple and serving as the **gateway to Nepal**. Located approximately **200-229 kilometers** from Varanasi, the comfortable journey takes **4 to 4.5 hours** via NH29. Whether you're visiting the Gorakhnath Temple, heading to Nepal on a [Varanasi to Nepal taxi](/en/city/nepal/taxi/varanasi-to-nepal-taxi), or catching a train from Gorakhpur Junction, KashiTaxi offers reliable service.
 
 ## Quick Facts: Varanasi to Gorakhpur
 

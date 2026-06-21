@@ -89,4 +89,4 @@ Before confirming your booking, ask for a written fare breakup via WhatsApp so t
 Yes. Plan quick snack and washroom halts every 90 minutes, and choose an AC sedan or Innova for comfort.
 
 ### Can I combine Gorakhpur with nearby Nepal border visits?
-Many visitors combine Gorakhpur with trips to the Nepal border or Lumbini. In that case, discuss a custom itinerary and km package with the operator.
+Many visitors combine Gorakhpur with [trips to the Nepal border](/en/city/nepal/taxi/varanasi-to-nepal-taxi) or Lumbini. In that case, discuss a custom itinerary and km package with the operator.

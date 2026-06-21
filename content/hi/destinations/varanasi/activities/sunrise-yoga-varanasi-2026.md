@@ -104,7 +104,7 @@ ctaSubtitle: "असी या दशाश्वमेध घाट तक स�
 - **बुध:** दशाश्वमेध विन्यासा + [मलाईयो वॉक](/hi/destinations/varanasi/food/malaiyo-varanasi-guide)।
 - **गुरु:** सूर्योदय नाव + दुपहर निजी सेशन।
 - **शुक्र:** Subah-e-Banaras सांस्कृतिक योग।
-- **शनि:** कुंडलिनी + [साड़ी शॉपिंग गाइड](/hi/destinations/varanasi/shopping/banarasi-silk-saree-shopping-varanasi)।
+- **शनि:** कुंडलिनी + [साड़ी शॉपिंग गाइड](/hi/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2026)।
 - **रवि:** रेस्टोरेटिव + पर्सनल मेडिटेशन।
 
 ### टैक्सी-फ्रेंडली डे ट्रिप्स

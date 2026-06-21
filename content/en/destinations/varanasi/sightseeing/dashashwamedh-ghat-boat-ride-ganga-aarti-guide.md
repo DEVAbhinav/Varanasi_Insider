@@ -5,8 +5,8 @@ date: "2026-12-12"
 lastUpdated: "2026-02-05"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Dashashwamedh Ghat Aarti + Boat Ride Guide (2026) | Best Viewpoints & Prices"
-metaDescription: "Complete 2026 Dashashwamedh Ghat guide: mythology, aarti step-by-step, seasonal timing, boat ride options & pricing, photography settings, safety, and nearby attractions."
+metaTitle: "Dashashwamedh Boat Ride for Ganga Aarti (2026): Price, Timing & Views"
+metaDescription: "Watch the Dashashwamedh Ganga Aarti from a boat in 2026 — shared & private boat prices, best viewpoints, aarti timing, photography tips & instant WhatsApp booking."
 description: "Dashashwamedh Ghat boat ride and Ganga Aarti guide with mythology, history, boat logistics, best viewing angles, photography tips, safety, and itinerary combos for 2026."
 keywords:
   - "dashashwamedh ghat aarti"

@@ -3,7 +3,7 @@ lang: hi
 slug: tempo-traveller-rates-varanasi
 sourceSlug: tempo-traveller-rates-varanasi
 title: "वाराणसी Tempo Traveller किराया 2026: पूरी दर सूची (Price List)"
-metaTitle: "वाराणसी Tempo Traveller Rates 2026 | 9,12,17,26 सीटर रेंट लिस्ट"
+metaTitle: "वाराणसी Tempo Traveller किराया 2026: 9-26 सीटर, लोकल ₹5,500 से"
 metaDescription: "वाराणसी टेम्पो ट्रैवलर 2026 किराया सूची: एयरपोर्ट, लोकल 8 घंटे/80KM, आउटस्टेशन प्रति किमी रेट, पैकेज बनाम पर किमी टिप्स। अभी पारदर्शी कोट पाएं।"
 description: "Tempo Traveller Rates Varanasi 2026 – 9, 12, 16/17, 20, 26 सीटर स्थानीय व आउटस्टेशन चार्ज, एयरपोर्ट फिक्स किराया, ड्राइवर भत्ता व अतिरिक्त लागत गाइड।"
 keywords: ["वाराणसी tempo traveller rate","tempo traveller price varanasi hindi","12 seater tempo traveller rent varanasi","17 seater tempo traveller km rate","varanasi tempo traveller airport","tempo traveller wedding varanasi","tempo traveller kashi darshan price"]

@@ -108,10 +108,10 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Varanasi Taxi & Pilgrimage Tour Packages | Airport, Kashi Darshan, Ayodhya</title>
+        <title>Taxi in Varanasi | Varanasi Taxi Service & Airport Cab</title>
         <meta
           name="description"
-          content="Book taxi in Varanasi plus pilgrimage packages for airport pickup, Kashi darshan, group tours, Delhi-origin pilgrimages, Ayodhya, Prayagraj and Vindhyachal. Fixed fares, local drivers and WhatsApp booking."
+          content="Taxi & cab service in Varanasi — airport pickup from ₹700, sightseeing, outstation & pilgrimage trips. Fixed fares, verified drivers, instant WhatsApp booking."
         />
         <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi group tour package, kashi group tour, ayodhya varanasi prayagraj group tour, varanasi tour package from delhi, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
         <meta name="author" content="Varanasi Taxi" />
@@ -119,7 +119,7 @@ export default function HomePage({ allPosts }) {
         <link rel="canonical" href="https://www.kashitaxi.in/" />
 
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Varanasi Taxi, Group Tours & Pilgrimage Packages | Safe Local Travel Team" />
+        <meta property="og:title" content="Taxi in Varanasi | Varanasi Taxi Service & Airport Cab" />
         <meta property="og:description" content="Airport pickup, local sightseeing, group pilgrimage packages, Delhi-origin sacred circuits, Ayodhya darshan, Vindhyachal and Prayagraj trips from one trusted Varanasi team." />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/" />
@@ -233,10 +233,10 @@ export default function HomePage({ allPosts }) {
             {/* Main Title */}
             <div className="text-center mb-4">
               <div className="inline-block mb-2 px-4 py-1.5 bg-white/20 backdrop-blur-md rounded-full text-[10px] md:text-xs font-bold border border-white/30 uppercase tracking-widest text-white/90">
-                Taxi + Pilgrimage Packages from One Local Team
+                Taxi in Varanasi + Pilgrimage Packages
               </div>
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-extrabold mb-3 drop-shadow-2xl tracking-tight leading-tight">
-                Varanasi Taxi & Pilgrimage Tour Packages
+                Taxi in Varanasi – Airport Cab, Local Tours & Outstation
               </h1>
               <h2 className="text-sm md:text-lg font-medium text-white/95 mb-2 drop-shadow-md">
                 Airport Pickup, Kashi Darshan, Delhi-Origin Group Tours, Ayodhya, Prayagraj & Vindhyachal

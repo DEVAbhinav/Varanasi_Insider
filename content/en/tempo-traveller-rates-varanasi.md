@@ -1,6 +1,8 @@
 ---
 lang: en
 title: "Tempo Traveller Rates Varanasi: 2026 Price List [Guide]"
+metaTitle: "Tempo Traveller Rates Varanasi 2026: 9–26 Seater from ₹24/km"
+metaDescription: "2026 Tempo Traveller rates in Varanasi: 9/12/17/26-seater. Local 8hr/80km from ₹5,500, airport ₹2,500, outstation ₹24–27/km. Transparent fixed fares — get an instant quote."
 description: "Transparent Tempo Traveller rates in Varanasi: per‑km outstation, 8‑hour local and airport transfers. 2026 price list. Compare and request a quote."
 date: 2026-08-27
 lastUpdated: "2026-03-07"

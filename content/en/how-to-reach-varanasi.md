@@ -508,7 +508,7 @@ Popular pilgrim combo — Ram Janmabhoomi then Kashi Vishwanath.
 | **Bhopal** | Train (Mahanagri route) | 12–16h | ₹400–₹1,400 |
 | **Ranchi** | Train via Dhanbad | 8–12h | ₹350–₹1,100 |
 | **Indore** | Flight (via Delhi/Mumbai) | 4–6h total | ₹5,000–₹12,000 |
-| **Kathmandu** | Flight (seasonal) or Sunauli border road | 12–14h by road | ₹6,000–₹10,000 |
+| **Kathmandu** | Flight (seasonal) or [Sunauli border road](/en/city/nepal/taxi/varanasi-to-nepal-taxi) | 12–14h by road | ₹6,000–₹10,000 |
 
 ---
 

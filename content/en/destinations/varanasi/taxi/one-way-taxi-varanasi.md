@@ -66,7 +66,7 @@ relatedPosts:
 
 ## Flexible Taxi Solutions for All Your Travel Needs
 
-Whether you need a **simple one-way transfer** to a hotel or a **round-trip package for your complete stay**, KashiTaxi offers flexible, transparent pricing for all your Varanasi travel needs.
+Whether you need a **simple one-way transfer** to a hotel or a **round-trip package for your complete stay**, KashiTaxi offers flexible, transparent pricing for all your Varanasi travel needs. One-way and round-trip trips are both part of our wider [taxi service in Varanasi](/).
 
 ## Varanasi One-Way Taxi Service - Point-to-Point Transfers
 

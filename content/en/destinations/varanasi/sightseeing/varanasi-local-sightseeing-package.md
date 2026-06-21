@@ -196,7 +196,7 @@ If your trip is mainly inside Varanasi, stay on this page. Below you'll find pri
 **Typical Itinerary:**
 - Complete Full-Day Classic itinerary PLUS:
 - Ramnagar Fort (Maharaja's palace & museum)
-- Extended ghat tour covering all 84 ghats
+- Extended [84 ghats boat tour](/en/city/varanasi/activities/84-ghats-boat-tour-varanasi) covering all 84 ghats
 - Sankat Mochan Hanuman Temple
 - Additional photography stops at Manikarnika, Harishchandra Ghats
 

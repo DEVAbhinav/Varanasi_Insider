@@ -384,7 +384,7 @@ const nextConfig = {
       },
       {
         source: '/blogs/Vindhyachal',
-        destination: '/en/travel-from-varanasi-to-vindhyachal-guide',
+        destination: '/en/travel-from-varanasi-to-vindhyachal',
         permanent: true,
       },
       {
@@ -578,11 +578,6 @@ const nextConfig = {
         destination: '/en',
         permanent: false,
       },
-      {
-        source: '/en/varanasi-to-gaya-bodh-gaya-tour-package',
-        destination: '/en/varanasi-to-gaya-bodh-gaya-tour-package',
-        permanent: true,
-      },
 
       // ===================================
       // CATEGORY 13: December Guide Variations
@@ -688,7 +683,7 @@ const nextConfig = {
       },
       {
         source: '/en/varanasi-airport-taxi-winter-2025',
-        destination: '/en/city/varanasi/taxi/airport-taxi-service-varanasi',
+        destination: '/en/city/varanasi/taxi/airport-taxi-varanasi',
         permanent: true,
       },
       {
@@ -717,7 +712,7 @@ const nextConfig = {
       // Group tour packages
       {
         source: '/en/varanasi-group-tour-packages',
-        destination: '/en/packages/varanasi-customised-packages-tour',
+        destination: '/en/packages/varanasi-tour-package',
         permanent: true,
       },
 
@@ -803,8 +798,8 @@ const nextConfig = {
       { source: '/hi/city/varanasi/activities/sunrise-yoga-varanasi-2025', destination: '/hi/city/varanasi/activities/sunrise-yoga-varanasi-2026', permanent: true },
       { source: '/hi/sunrise-yoga-varanasi-2025', destination: '/hi/city/varanasi/activities/sunrise-yoga-varanasi-2026', permanent: true },
       { source: '/hi/kashi-vishwanath-mandir-ganga-aarti-yatra-2025', destination: '/hi/city/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2026', permanent: true },
-      { source: '/hi/varanasi-december-2025-experience-hub', destination: '/hi/city/varanasi/varanasi-december-2026-experience-hub', permanent: true },
-      { source: '/en/varanasi-december-2025-experience-hub', destination: '/en/city/varanasi/varanasi-december-2026-experience-hub', permanent: true },
+      { source: '/hi/varanasi-december-2025-experience-hub', destination: '/hi/varanasi-in-december-2026', permanent: true },
+      { source: '/en/varanasi-december-2025-experience-hub', destination: '/en/varanasi-in-december-2026', permanent: true },
       { source: '/hi/kashi-tamil-sangamam-2025-varanasi', destination: '/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi', permanent: true },
       { source: '/hi/city/varanasi/events/mahindra-kabira-festival-2025-varanasi', destination: '/hi/city/varanasi/events/mahindra-kabira-festival-2026-varanasi', permanent: true },
 
@@ -831,6 +826,11 @@ const nextConfig = {
 
       // Lucknow: fare article (1,176 imp) → service page (2,041 imp); winner already has all content at ₹5,200
       { source: '/en/lucknow-to-varanasi-taxi-fare', destination: '/en/city/lucknow/taxi/lucknow-to-varanasi-taxi', permanent: true },
+
+      // Flat URLs → final canonical (skip 2-hop chain through buildDestinationRootRedirects + cannibalization 301)
+      { source: '/en/varanasi-to-allahabad-taxi', destination: '/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi', permanent: true },
+      { source: '/en/varanasi-to-bodhgaya-taxi', destination: '/en/varanasi-to-bodhgaya-taxi-cost', permanent: true },
+      { source: '/en/varanasi-airport-to-ddu-junction-distance', destination: '/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance', permanent: true },
 
       ...buildRootCanonicalRedirects(),
       ...buildScopedRootRedirects(),

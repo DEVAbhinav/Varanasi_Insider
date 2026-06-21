@@ -5,7 +5,7 @@ date: "2026-12-12"
 lastUpdated: "2026-12-12"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "84 Ghats Boat Tour Varanasi (2026) | Routes, Timing, Pricing & Booking"
+metaTitle: "84 Ghats Boat Tour Varanasi 2026: 3–4 Hr Route, Timing & Price"
 metaDescription: "Complete 2026 guide to the 84 ghats boat tour in Varanasi: what 84 means, major ghats on the route, tour types, real pricing, group booking tips, safety, and photography advice."
 description: "84 ghats boat tour guide for Varanasi with route knowledge, pricing, booking strategy, photography windows, safety protocols, and itinerary combinations."
 keywords:
@@ -63,7 +63,7 @@ quickFacts:
     value: "Oct–Mar peak"
 ---
 
-# The 84 Ghats Boat Tour
+# 84 Ghats Boat Tour in Varanasi
 
 ## Why "84 Ghats" Matters
 

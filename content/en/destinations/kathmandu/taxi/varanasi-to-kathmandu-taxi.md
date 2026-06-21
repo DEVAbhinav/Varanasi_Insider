@@ -37,7 +37,7 @@ faqSchema:
 
 # Varanasi to Kathmandu | Nepal Capital | International Cross-Border | ₹8,500
 
-**Kathmandu, the capital of Nepal**, is a vibrant Himalayan city known for UNESCO World Heritage Sites (Durbar Square, Pashupatinath, Boudhanath), stunning mountain views, trekking base, and rich Buddhist-Hindu culture. Located approximately **352 kilometers** from Varanasi via the Sunauli border crossing, this international journey takes **9 to 12 hours** including border procedures, making it a popular cross-border taxi route.
+**Kathmandu, the capital of Nepal**, is a vibrant Himalayan city known for UNESCO World Heritage Sites (Durbar Square, Pashupatinath, Boudhanath), stunning mountain views, trekking base, and rich Buddhist-Hindu culture. Located approximately **352 kilometers** from Varanasi via the Sunauli border crossing, this international journey takes **9 to 12 hours** including border procedures, making it a popular [Varanasi to Nepal cross-border taxi route](/en/city/nepal/taxi/varanasi-to-nepal-taxi).
 
 ## Quick Facts for Varanasi to Kathmandu Taxi
 

@@ -7,7 +7,7 @@ tags: [tempo traveller, varanasi, tempo traveller hire, tempo traveller booking,
 showRatesCheatSheet: true
 slug: tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/tempo-traveller-varanasi
-metaTitle: "Tempo Traveller in Varanasi ₹2,500+ | 9-17 Seater Hire 2026 Rates"
+metaTitle: "Tempo Traveller in Varanasi ₹2,500+ | 9-26 Seater Hire 2026 Rates"
 metaDescription: "Hire tempo traveller in Varanasi from ₹2,500 (airport) ₹5,500 (local 8hr). 9, 12, 17, 20 & 26 seater AC fleet. Kashi darshan, Ayodhya day trip, weddings. 2026 fixed rates."
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 relatedPosts:

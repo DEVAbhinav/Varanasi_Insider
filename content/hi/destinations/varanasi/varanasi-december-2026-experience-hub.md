@@ -161,7 +161,7 @@ ctaSubtitle: "एयरपोर्ट ट्रांसफर + फेस्�
 
       <div class="december-tab-panel" data-december-panel="food">
         <div class="december-card-grid">
-          <a class="december-card" href="/hi/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi">
+          <a class="december-card" href="/hi/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2026">
             <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" alt="बनारसी सिल्क" loading="lazy" />
             <div class="december-card-body">
               <h4>बनारसी सिल्क शॉपिंग</h4>

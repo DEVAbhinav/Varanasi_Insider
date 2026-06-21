@@ -197,7 +197,7 @@ Many sessions include 15-30 minutes seated meditation:
 - **Wednesday:** Dashashwamedh Ghat, Vinyasa flow, intermediate, followed by a [Malaiyo tasting walk](/en/city/varanasi/food/malaiyo-varanasi-guide).
 - **Thursday:** Morning boat ride + afternoon private yoga session.
 - **Friday:** Subah-e-Banaras cultural yoga experience.
-- **Saturday:** Kundalini yoga, focus on pranayama, then browse sarees using the [Banarasi silk shopping guide](/en/destinations/varanasi/shopping/banarasi-silk-saree-shopping-varanasi).
+- **Saturday:** Kundalini yoga, focus on pranayama, then browse sarees using the [Banarasi silk shopping guide](/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2026).
 - **Sunday:** Restorative gentle yoga, personal meditation.
 
 ### Taxi-Ready Day Trips to Pair With Yoga
