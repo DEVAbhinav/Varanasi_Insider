@@ -5,6 +5,7 @@ import Footer from '../components/Footer/Footer';
 import SeoFooterLinks from '../components/SeoFooterLinks/SeoFooterLinks';
 import fleet from '../data/fleet.json';
 import PinkTaxiSection1 from '../components/PinkTaxiSection/PinkTaxiSection1';
+import StickyContactBar from '../components/ServicePage/StickyContactBar';
 import { CONTACT } from '../lib/contact';
 
 // --- SEO: Structured Data & Meta (updated) ---
@@ -610,6 +611,7 @@ export default function BikeRentalsPage({ allPosts }) {
       </div>
       <SeoFooterLinks />
       <Footer allPosts={allPosts} />
+      <StickyContactBar phone={CONTACT.callNumberRaw} />
     </>
   );
 }
