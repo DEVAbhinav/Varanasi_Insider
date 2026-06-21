@@ -1,5 +1,6 @@
 // This page lists all blog posts for a specific language.
 import NavBar from '../../components/NavBar/NavBar';
+import StickyContactBar from '../../components/ServicePage/StickyContactBar';
 import Footer from '../../components/Footer/Footer';
 import Link from 'next/link';
 import Head from 'next/head';
@@ -200,6 +201,7 @@ export default function LangHome({ allPostsData, lang }) {
       </main>
       
       <Footer />
+      <StickyContactBar phone={CONTACT.callNumberRaw} />
     </>
   );
 }

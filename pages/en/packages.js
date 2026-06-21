@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import NavBar from '../../components/NavBar/NavBar';
+import StickyContactBar from '../../components/ServicePage/StickyContactBar';
 import Footer from '../../components/Footer/Footer';
 import { getSortedPostsData } from '../../lib/posts';
 import { listByCategory, getBreadcrumbConfig } from '../../lib/categories';
@@ -453,6 +454,7 @@ export default function PackagesPage({ packages, jsonLd }) {
       </main>
       
       <Footer />
+      <StickyContactBar phone={CONTACT.callNumberRaw} />
     </>
   );
 }

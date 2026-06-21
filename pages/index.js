@@ -3,6 +3,7 @@ import Image from 'next/image';
 import dynamic from 'next/dynamic';
 import { useRef, useState } from 'react';
 import NavBar from '../components/NavBar/NavBar';
+import StickyContactBar from '../components/ServicePage/StickyContactBar';
 import Footer from '../components/Footer/Footer';
 import SeoFooterLinks from '../components/SeoFooterLinks/SeoFooterLinks';
 import GoogleReviews from '../components/GoogleReviews/GoogleReviews';
@@ -737,6 +738,7 @@ export default function HomePage({ allPosts }) {
 
       <SeoFooterLinks />
       <Footer allPosts={allPosts} />
+      <StickyContactBar phone={CONTACT.callNumberRaw} />
     </>
   );
 }

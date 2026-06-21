@@ -1,7 +1,7 @@
 /**
  * LandingPageLayout — shared shell for full-width marketing/landing pages.
  *
- * Provides: NavBar, Footer. No sidebar, no StickyContactBar, no CTA.
+ * Provides: NavBar, Footer, StickyContactBar (floating mobile Call/WhatsApp CTA).
  * Each landing page brings its own hero, sections, and CTAs.
  *
  * Slot props:
@@ -10,12 +10,15 @@
  *
  * Data props:
  *   allPosts  — post metadata for Footer (optional)
+ *   phone     — phone number for StickyContactBar (optional; defaults to CONTACT)
  */
 
 import NavBar from '@/components/NavBar/NavBar';
 import Footer from '@/components/Footer/Footer';
+import StickyContactBar from '@/components/ServicePage/StickyContactBar';
+import { CONTACT } from '@/lib/contact';
 
-export default function LandingPageLayout({ head, children, allPosts }) {
+export default function LandingPageLayout({ head, children, allPosts, phone }) {
   return (
     <>
       {head}
@@ -24,6 +27,7 @@ export default function LandingPageLayout({ head, children, allPosts }) {
         {children}
       </main>
       <Footer allPosts={allPosts} />
+      <StickyContactBar phone={phone || CONTACT.callNumberRaw} />
     </>
   );
 }

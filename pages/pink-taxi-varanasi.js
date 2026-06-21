@@ -2,6 +2,8 @@
 import Head from 'next/head';
 import NavBar from '../components/NavBar/NavBar';
 import Footer from '../components/Footer/Footer';
+import StickyContactBar from '../components/ServicePage/StickyContactBar';
+import { CONTACT } from '../lib/contact';
 import PinkHero from '../components/Pink/PinkHero';
 import KeyBenefits from '../components/Pink/KeyBenefits';
 import FareEstimator from '../components/Pink/FareEstimator';
@@ -28,6 +30,7 @@ export default function PinkPage() {
         {/* Placeholder for other sections */}
       </main>
       <Footer />
+      <StickyContactBar phone={CONTACT.callNumberRaw} />
     </>
   );
 }

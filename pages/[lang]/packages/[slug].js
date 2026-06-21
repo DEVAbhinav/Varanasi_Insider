@@ -7,6 +7,7 @@ import React, { useState } from "react";
 import Head from "next/head";
 import Image from "next/image";
 import NavBar from "../../../components/NavBar/NavBar";
+import StickyContactBar from "../../../components/ServicePage/StickyContactBar";
 import Footer from "../../../components/Footer/Footer";
 import HeadForBlogs from "../../../components/SEO/HeadForBlogs"; // reuse central SEO head
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -305,6 +306,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
       </main>
 
       <Footer allPosts={[]} />
+      <StickyContactBar phone={CONTACT.callNumberRaw} />
     </>
   );
 }
