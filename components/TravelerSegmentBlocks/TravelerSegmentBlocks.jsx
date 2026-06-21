@@ -1,7 +1,7 @@
 import React from 'react';
 import { Users, Heart, Globe, MessageCircle, Baby, Shield, MapPin, Clock, Car, Languages } from 'lucide-react';
 import TrustBadge from '../TrustBadge/TrustBadge';
-import { CONTACT } from '@/lib/contact';
+import { CONTACT, getWhatsAppUrl } from '@/lib/contact';
 
 /**
  * TravelerSegmentBlocks - Persona-targeted value proposition blocks
@@ -70,8 +70,7 @@ export default function TravelerSegmentBlocks({ phone = CONTACT.whatsappNumberRa
     ];
 
     const buildWhatsAppUrl = (message) => {
-        const encodedMessage = encodeURIComponent(message);
-        return `https://wa.me/${phone}?text=${encodedMessage}`;
+        return getWhatsAppUrl(message, phone);
     };
 
     return (

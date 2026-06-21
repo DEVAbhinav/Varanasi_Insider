@@ -1,6 +1,7 @@
 const { Resend } = require('resend');
 const fs = require('fs').promises;
 const path = require('path');
+const { CONTACT, getCallTelHref, getWhatsAppUrl } = require('../../lib/contact.cjs');
 
 function escapeHtml(str) {
   if (!str) return '';
@@ -20,15 +21,6 @@ function sanitizeUrl(url) {
   } catch (_) {}
   return '';
 }
-
-const CONTACT = {
-  callNumberE164: '+919935474730',
-  callNumberDisplay: '+91 99354 74730',
-  whatsappNumberRaw: '919935474730',
-  // Deprecated by business decision: keep for record only, do not use in flows.
-  legacyCallNumberE164: '+918062182380',
-  legacyCallNumberDisplay: '+91 80621 82380',
-};
 
 const ALLOWED_ORIGINS = [
   'https://www.kashitaxi.in',
@@ -311,13 +303,13 @@ module.exports = async function (context, req) {
               </ul>
 
               <div class="cta-group">
-                <a href="https://wa.me/${CONTACT.whatsappNumberRaw}?text=Hi%20team%20Kashi%20Taxi!%20I%20just%20sent%20an%20inquiry." class="cta">📲 WhatsApp Concierge</a>
-                <a href="tel:${CONTACT.callNumberE164}" class="cta-secondary">📞 Call ${CONTACT.callNumberDisplay}</a>
+                <a href="${getWhatsAppUrl('Hi team Kashi Taxi! I just sent an inquiry.')}" class="cta">📲 WhatsApp Concierge</a>
+                <a href="${getCallTelHref()}" class="cta-secondary">📞 Call ${CONTACT.callNumberDisplay}</a>
               </div>
 
               <p>Save our contact, reply with any must-see spots or timing constraints, and we will personalise the itinerary before we loop in your driver.</p>
 
-              <p>If you need immediate support, call <a href="tel:${CONTACT.callNumberE164}" style="color: #0369a1; font-weight: 600; text-decoration: none;">${CONTACT.callNumberDisplay}</a>. We are live from <strong>5:30 AM to midnight</strong>.</p>
+              <p>If you need immediate support, call <a href="${getCallTelHref()}" style="color: #0369a1; font-weight: 600; text-decoration: none;">${CONTACT.callNumberDisplay}</a>. We are live from <strong>5:30 AM to midnight</strong>.</p>
 
               <p>🙏 We’re excited to host you in Kashi.<br><strong>Team Kashi Taxi | Travel Agent Varanasi</strong></p>
 
@@ -396,11 +388,10 @@ module.exports = async function (context, req) {
     }
 
     // Generate WhatsApp link
-    const whatsappNumber = CONTACT.whatsappNumberRaw;
     const whatsappText = encodeURIComponent(
       `Hi! I'm ${name}. I just submitted a booking inquiry on your website. Phone: ${phone}${pickupDate ? `. Date: ${pickupDate}` : ''}${passengers ? `. Passengers: ${passengers}` : ''}`
     );
-    const whatsappLink = `https://wa.me/${whatsappNumber}?text=${whatsappText}`;
+    const whatsappLink = `${CONTACT.whatsappUrl}?text=${whatsappText}`;
 
     // Return success response
     context.res = {
@@ -429,7 +420,7 @@ module.exports = async function (context, req) {
       },
       body: JSON.stringify({
         error: 'Something went wrong. Please WhatsApp or call us directly.',
-        whatsapp: `https://wa.me/${CONTACT.whatsappNumberRaw}`,
+        whatsapp: CONTACT.whatsappUrl,
         phone: CONTACT.callNumberDisplay,
       }),
     };

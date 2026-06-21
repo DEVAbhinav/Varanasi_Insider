@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+const { CONTACT } = require('../lib/contact.cjs');
 
 const BASE = process.env.BASE_URL || 'http://localhost:3111';
 
@@ -60,13 +61,12 @@ test.describe('P1 Verification — WhatsApp, Phone Validation, Security Headers'
 
   // ─── WhatsApp number correctness ─────────────────────────────
 
-  test('All WhatsApp links use correct number 919935474730', async ({ page }) => {
+  test('All WhatsApp links use correct number', async ({ page }) => {
     await page.goto(`${BASE}/`);
     const waLinks = await page.locator('a[href*="wa.me"]').all();
     for (const link of waLinks) {
       const href = await link.getAttribute('href');
-      expect(href).toContain('919935474730');
-      // call and WhatsApp now share the same number (9935474730), no conflicting number to exclude
+      expect(href).toContain(CONTACT.phoneDigits);
     }
   });
 
@@ -76,7 +76,7 @@ test.describe('P1 Verification — WhatsApp, Phone Validation, Security Headers'
     expect(waLinks.length).toBeGreaterThan(0);
     for (const link of waLinks) {
       const href = await link.getAttribute('href');
-      expect(href).toContain('919935474730');
+      expect(href).toContain(CONTACT.phoneDigits);
     }
   });
 
@@ -136,12 +136,12 @@ test.describe('P1 Verification — WhatsApp, Phone Validation, Security Headers'
 
   // ─── Call number correctness ─────────────────────────────────
 
-  test('Call links use correct number 9935474730', async ({ page }) => {
+  test('Call links use correct +91 number', async ({ page }) => {
     await page.goto(`${BASE}/`);
     const telLinks = await page.locator('a[href*="tel:"]').all();
     for (const link of telLinks) {
       const href = await link.getAttribute('href');
-      expect(href).toContain('9935474730');
+      expect(href).toContain(CONTACT.phoneE164);
     }
   });
 });
