@@ -232,7 +232,7 @@ Itinerary तुलना करने से पहले, यह rule या�
 | **दशाश्वमेध घाट (शाम)** | **गर्मी**: 19:00 / **सर्दी**: 18:00 | 45 मिनट | नवंबर–फरवरी (सबसे ज्यादा भीड़) |
 | **अस्सी घाट (शाम)** | **गर्मी**: 18:30 / **सर्दी**: 18:00 | 45 मिनट | साल भर |
 
-> **विस्तृत समय**: [दशाश्वमेध घाट गंगा आरती का समय](/hi/dashashwamedh-ghat-ganga-aarti-timing) | [अस्सी घाट आरती समय 2026](/hi/assi-ghat-aarti-timings-2026) | [गंगा आरती समय वाराणसी 2026](/hi/city/varanasi/activities/ganga-aarti-timing-varanasi-2026)
+> **विस्तृत समय**: [दशाश्वमेध घाट गंगा आरती का समय](/hi/dashashwamedh-ghat-ganga-aarti-timing) | [अस्सी घाट आरती समय 2026](/hi/assi-ghat-aarti-timings-2026) | [गंगा आरती समय वाराणसी 2026](/hi/city/varanasi/activities/ganga-aarti-samay-varanasi-2026)
 
 #### वाराणसी टूर पैकेज के लिए Viewing Options
 

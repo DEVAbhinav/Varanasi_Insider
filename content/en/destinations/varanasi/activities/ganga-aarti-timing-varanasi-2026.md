@@ -134,6 +134,8 @@ Based on 2026 seasonal data compiled from temple rotation schedules and my 7-yea
 
 ## Dashashwamedh Ghat Evening Aarti (Primary Venue)
 
+> For a Dashashwamedh-only deep dive — crowd-density curve, VIP-seat reality, exact vantage points and fastest exit routes — see the dedicated [Dashashwamedh Ghat aarti time guide](/en/dashashwamedh-ghat-ganga-aarti-timing).
+
 ### Timing Specifics for Evening Ceremony
 
 - **Winter Schedule (October–March):** 5:30 PM – 6:15 PM
