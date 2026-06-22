@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-21T08:16:04.494Z",
+  "timestamp": "2026-06-22T13:52:55.279Z",
   "summary": {
     "totalLinksChecked": 349,
-    "brokenLinksCount": 35,
+    "brokenLinksCount": 34,
     "validRoutesCount": 540
   },
   "brokenLinks": [
@@ -242,15 +242,6 @@
         {
           "file": "content/hi/varanasi-tour-package.md",
           "line": 165
-        }
-      ]
-    },
-    {
-      "url": "/hi/city/varanasi/activities/ganga-aarti-timing-varanasi-2026",
-      "sources": [
-        {
-          "file": "content/hi/varanasi-tour-package.md",
-          "line": 235
         }
       ]
     },
