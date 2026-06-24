@@ -395,7 +395,7 @@ Choose from:
 
 - [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Hindu pilgrimage
 - [Outstation Cabs from Varanasi](/en/outstation-cabs-from-varanasi) - 240 km | 4 hrs | Patna, Museum & Mahavir Mandir
-- Varanasi to Kushinagar - 265 km | 5 hrs | Buddha's Parinirvana site
+- [Varanasi to Kushinagar Taxi](/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi) - 245 km | 5-6 hrs | Buddha's Mahaparinirvana site
 - Varanasi to Lumbini (Nepal) - 380 km | 7 hrs | Buddha's birthplace
 
 ### Complete Buddhist Circuit Packages

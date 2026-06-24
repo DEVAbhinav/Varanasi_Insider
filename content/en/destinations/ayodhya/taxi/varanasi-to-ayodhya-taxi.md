@@ -371,6 +371,8 @@ Choose from:
 - [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Vishnupad Temple
 - [Ayodhya Day Trip Tempo Traveller](/en/varanasi-to-ayodhya-day-trip-tempo-traveller) - Complete Ayodhya experience
 - [Varanasi to Ayodhya Tempo Traveller](/en/varanasi-to-ayodhya-tempo-traveller) - Multi-day Ayodhya packages
+- [Varanasi to Jaunpur Taxi](/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi) - 60 km | 1.5 hrs | Sharqi heritage stop en route
+- [Varanasi to Naimisharanya Taxi](/en/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi) - 370 km | 7-8 hrs | Puranic forest tirtha
 
 ### Combine with Other Destinations
 

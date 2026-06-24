@@ -391,6 +391,7 @@ Varanasi → NH19 → Prayagraj → Kanpur → Agra
 - [Varanasi to Delhi Taxi](/en/city/delhi/taxi/varanasi-to-delhi-taxi) - 830 km | 12 hrs
 - [Varanasi to Lucknow Cab](/en/city/lucknow/taxi/varanasi-to-lucknow-taxi) - 320 km | 6 hrs
 - [Varanasi to Jaipur Taxi](/en/city/jaipur/taxi/varanasi-to-jaipur-taxi) - 826 km | 12 hrs
+- [Varanasi to Mathura-Vrindavan Taxi](/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi) - 600 km | Multi-day | Krishna's Braj Bhoomi (via Agra)
 
 ### Golden Triangle Packages from Varanasi
 

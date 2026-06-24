@@ -290,6 +290,8 @@ Plan temple visits early in the morning or post-lunch to avoid heavy queues at p
 - [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) - 219 km | 4 hrs | Ram Mandir visit
 - [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Vishnupad Temple
 - [Varanasi Airport to Prayagraj](/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance) - Airport transfers
+- [Varanasi to Vindhyachal Taxi](/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi) - 65 km | 1.5-2 hrs | Vindhyavasini Shakti Peeth
+- [Varanasi to Mathura-Vrindavan Taxi](/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi) - 600 km | Multi-day | Krishna's Braj Bhoomi
 
 ### Travel Blog Posts
 
