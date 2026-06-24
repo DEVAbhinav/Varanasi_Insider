@@ -53,6 +53,28 @@ relatedPosts:
 - [वाराणसी से नैमिषारण्य टैक्सी](/hi/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi) — नैमिष धाम, ~370 किमी, ₹6,500 से
 - [वाराणसी से लखनऊ टैक्सी](/hi/city/lucknow/taxi/varanasi-to-lucknow-taxi) — नवाबों का शहर, ~340 किमी, ₹4,500 से
 
+### और इंटरसिटी रूट (विरासत, मेट्रो व नेपाल)
+
+- [वाराणसी से आगरा टैक्सी](/hi/city/agra/taxi/varanasi-to-agra-taxi) — ताजमहल, ~600 किमी, ₹8,000 से
+- [वाराणसी से जयपुर टैक्सी](/hi/city/jaipur/taxi/varanasi-to-jaipur-taxi) — गुलाबी नगर, ~826 किमी, ₹10,000 से
+- [वाराणसी से दिल्ली टैक्सी](/hi/city/delhi/taxi/varanasi-to-delhi-taxi) — राष्ट्रीय राजधानी, ~830 किमी, ₹10,000 से
+- [वाराणसी से खजुराहो टैक्सी](/hi/city/khajuraho/taxi/varanasi-to-khajuraho-taxi) — UNESCO मंदिर, ~320 किमी, ₹6,500 से
+- [वाराणसी से पटना टैक्सी](/hi/city/patna/taxi/varanasi-to-patna-taxi) — बिहार राजधानी, ~240 किमी, ₹3,500 से
+- [वाराणसी से गोरखपुर टैक्सी](/hi/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi) — गोरखनाथ व नेपाल गेटवे, ~210 किमी, ₹3,000 से
+- [वाराणसी से कुशीनगर टैक्सी](/hi/city/kushinagar/taxi/varanasi-to-kushinagar-taxi) — बुद्ध महापरिनिर्वाण, ~245 किमी, ₹4,000 से
+- [वाराणसी से जौनपुर टैक्सी](/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi) — शर्की विरासत, ~60 किमी, ₹2,200 से
+- [वाराणसी से नेपाल टैक्सी](/hi/city/nepal/taxi/varanasi-to-nepal-taxi) — सुनौली, लुंबिनी, पोखरा, ₹3,000 से
+- [वाराणसी से काठमांडू टैक्सी](/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi) — पशुपतिनाथ, ~560 किमी, ₹8,500 से
+- [वाराणसी से कोलकाता टैक्सी](/hi/city/kolkata/taxi/varanasi-to-kolkata-taxi) — सिटी ऑफ़ जॉय, ~678 किमी, ₹9,000 से
+
+### वाराणसी आने वाले रूट (वापसी दिशा)
+
+- [प्रयागराज से वाराणसी टैक्सी](/hi/city/prayagraj/taxi/prayagraj-to-varanasi-taxi) — संगम से काशी, ₹2,500 से
+- [अयोध्या से वाराणसी टैक्सी](/hi/city/ayodhya/taxi/ayodhya-to-varanasi-taxi) — राम मंदिर से काशी, ₹3,550 से
+- [गया से वाराणसी टैक्सी](/hi/city/gaya/taxi/gaya-to-varanasi-taxi) — विष्णुपद से काशी, ₹4,200 से
+- [लखनऊ से वाराणसी टैक्सी](/hi/city/lucknow/taxi/lucknow-to-varanasi-taxi) — नवाबों के शहर से काशी, ₹5,200 से
+- [कानपुर से वाराणसी टैक्सी](/hi/city/kanpur/taxi/kanpur-to-varanasi-taxi) — औद्योगिक नगर से काशी, ₹5,500 से
+
 ---
 
 

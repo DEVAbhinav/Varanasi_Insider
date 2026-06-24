@@ -211,7 +211,7 @@
 - **Varanasi to Lucknow** - https://www.kashitaxi.in/hi/varanasi-to-lucknow-tempo-traveller
 - **Varanasi to Naimisharanya** - https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller
 
-### 🚕 इंटरसिटी टैक्सी रूट पेज (हिंदी) (10)
+### 🚕 इंटरसिटी टैक्सी रूट पेज (हिंदी) (27)
 - **वाराणसी से अयोध्या टैक्सी** - https://www.kashitaxi.in/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi
 - **वाराणसी से प्रयागराज टैक्सी** - https://www.kashitaxi.in/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi
 - **वाराणसी से गया टैक्सी** - https://www.kashitaxi.in/hi/city/gaya/taxi/varanasi-to-gaya-taxi
@@ -222,6 +222,23 @@
 - **वाराणसी से देवघर टैक्सी** - https://www.kashitaxi.in/hi/city/deoghar/taxi/varanasi-to-deoghar-taxi
 - **वाराणसी से नैमिषारण्य टैक्सी** - https://www.kashitaxi.in/hi/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi
 - **वाराणसी से लखनऊ टैक्सी** - https://www.kashitaxi.in/hi/city/lucknow/taxi/varanasi-to-lucknow-taxi
+- **वाराणसी से पटना टैक्सी** - https://www.kashitaxi.in/hi/city/patna/taxi/varanasi-to-patna-taxi
+- **वाराणसी से गोरखपुर टैक्सी** - https://www.kashitaxi.in/hi/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi
+- **वाराणसी से कुशीनगर टैक्सी** - https://www.kashitaxi.in/hi/city/kushinagar/taxi/varanasi-to-kushinagar-taxi
+- **वाराणसी से जौनपुर टैक्सी** - https://www.kashitaxi.in/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi
+- **वाराणसी से आगरा टैक्सी** - https://www.kashitaxi.in/hi/city/agra/taxi/varanasi-to-agra-taxi
+- **वाराणसी से खजुराहो टैक्सी** - https://www.kashitaxi.in/hi/city/khajuraho/taxi/varanasi-to-khajuraho-taxi
+- **वाराणसी से जयपुर टैक्सी** - https://www.kashitaxi.in/hi/city/jaipur/taxi/varanasi-to-jaipur-taxi
+- **वाराणसी से दिल्ली टैक्सी** - https://www.kashitaxi.in/hi/city/delhi/taxi/varanasi-to-delhi-taxi
+- **वाराणसी से कोलकाता टैक्सी** - https://www.kashitaxi.in/hi/city/kolkata/taxi/varanasi-to-kolkata-taxi
+- **वाराणसी से काठमांडू टैक्सी** - https://www.kashitaxi.in/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi
+- **वाराणसी से नेपाल टैक्सी** - https://www.kashitaxi.in/hi/city/nepal/taxi/varanasi-to-nepal-taxi
+- **वाराणसी से इलाहाबाद टैक्सी** - https://www.kashitaxi.in/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi
+- **प्रयागराज से वाराणसी टैक्सी** - https://www.kashitaxi.in/hi/city/prayagraj/taxi/prayagraj-to-varanasi-taxi
+- **अयोध्या से वाराणसी टैक्सी** - https://www.kashitaxi.in/hi/city/ayodhya/taxi/ayodhya-to-varanasi-taxi
+- **गया से वाराणसी टैक्सी** - https://www.kashitaxi.in/hi/city/gaya/taxi/gaya-to-varanasi-taxi
+- **लखनऊ से वाराणसी टैक्सी** - https://www.kashitaxi.in/hi/city/lucknow/taxi/lucknow-to-varanasi-taxi
+- **कानपुर से वाराणसी टैक्सी** - https://www.kashitaxi.in/hi/city/kanpur/taxi/kanpur-to-varanasi-taxi
 
 ### 🕉️ Ghats & Religious (हिंदी) (6)
 - **वाराणसी के घाटों के लिए गाइड** - https://www.kashitaxi.in/hi/varanasi-ke-ghaton-ke-liye-guide
