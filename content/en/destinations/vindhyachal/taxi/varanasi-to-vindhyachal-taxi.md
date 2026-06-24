@@ -103,7 +103,7 @@ Completing the **Trikon Parikrama** (circumambulating all three) on foot takes m
 
 The road runs alongside the Ganga for stretches and is smooth four-lane almost the whole way. Leave by **6:00 AM** to reach for the morning aarti and beat the heat on the hill shrines. **Navratri** (twice a year, March-April and September-October) is peak season - the town is packed and an early start is essential.
 
-## Vehicle Options & Fares
+## Varanasi to Vindhyachal Taxi Fare & Vehicle Options
 
 | Vehicle | Seating | Round Trip (with wait) | One-Way Drop | Best For |
 |---------|---------|------------------------|--------------|----------|

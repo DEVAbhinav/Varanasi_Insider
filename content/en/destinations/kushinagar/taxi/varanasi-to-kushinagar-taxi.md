@@ -103,7 +103,7 @@ The town is quiet, green, and dotted with monasteries built by Buddhist nations 
 
 **Best time to start:** 5:30-6:00 AM for a same-day return. **Best season:** October to March. **Buddha Purnima** (April/May) is the most significant festival, when the town fills with international pilgrims.
 
-## Vehicle Options & Fares
+## Varanasi to Kushinagar Taxi Fare & Vehicle Options
 
 | Vehicle | Seating | One-Way Fare | Same-Day Return | Best For |
 |---------|---------|--------------|------------------|----------|

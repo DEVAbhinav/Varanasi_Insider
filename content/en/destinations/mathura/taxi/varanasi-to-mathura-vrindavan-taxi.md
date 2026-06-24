@@ -115,7 +115,7 @@ Because Agra sits squarely on this route, **combining Braj with a Taj Mahal visi
 - **Govardhan Hill** - the 21-km parikrama linked to Krishna lifting the hill.
 - **Barsana & Nandgaon** - Radha's and Krishna's villages, famous for Lathmar Holi.
 
-## Vehicle Options & Fares
+## Varanasi to Mathura Vrindavan Taxi Fare & Vehicle Options
 
 | Vehicle | Seating | One-Way | 3-Day Braj Tour (2N) | Best For |
 |---------|---------|---------|----------------------|----------|

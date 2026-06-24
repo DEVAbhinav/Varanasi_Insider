@@ -104,7 +104,7 @@ We quote this as a **2-day return (1 night)** so the darshan, not the driving, i
 4. **Tapovan Caves** - meditation caves linked to sage Valmiki.
 5. **Basukinath** - the "court of Baba", ~45 km away, often visited in the same circuit.
 
-## Vehicle Options & Fares
+## Varanasi to Deoghar Taxi Fare & Vehicle Options
 
 | Vehicle | Seating | One-Way | 2-Day Return (1N) | Best For |
 |---------|---------|---------|--------------------|----------|

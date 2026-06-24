@@ -106,7 +106,7 @@ We price this as a **2-day return (1 night)** because it gives you the route the
 5. **Pandav Kila & Dadhichi Kund** - linked to the Mahabharata and the sage Dadhichi's sacrifice.
 6. **Misrikh (Dadhichi Kund)** - ~10 km away, often visited in the same circuit.
 
-## Vehicle Options & Fares
+## Varanasi to Naimisharanya Taxi Fare & Vehicle Options
 
 | Vehicle | Seating | One-Way | 2-Day Return (1N) | Best For |
 |---------|---------|---------|--------------------|----------|

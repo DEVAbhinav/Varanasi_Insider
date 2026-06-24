@@ -98,7 +98,7 @@ faqSchema:
 
 **Varanasi → NH731 → Jaunpur** is a quick, low-traffic drive that also serves as the first leg of the Ayodhya road. Leave by **8:00-9:00 AM**, cover the monuments through the late morning, have lunch, and you are back in Varanasi by mid-afternoon. **October to March** offers the most comfortable sightseeing weather.
 
-## Vehicle Options & Fares
+## Varanasi to Jaunpur Taxi Fare & Vehicle Options
 
 | Vehicle | Seating | Round Trip (with wait) | One-Way Drop | Best For |
 |---------|---------|------------------------|--------------|----------|
