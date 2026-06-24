@@ -78,6 +78,14 @@
 - **Varanasi to Lucknow** - https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller
 - **Varanasi to Naimisharanya** - https://www.kashitaxi.in/en/varanasi-to-naimisharanya-tempo-traveller
 
+### 🚕 Intercity Taxi Route Pages (6)
+- **Varanasi to Kushinagar Taxi** - https://www.kashitaxi.in/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi
+- **Varanasi to Vindhyachal Taxi** - https://www.kashitaxi.in/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi
+- **Varanasi to Jaunpur Taxi** - https://www.kashitaxi.in/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi
+- **Varanasi to Naimisharanya Taxi** - https://www.kashitaxi.in/en/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi
+- **Varanasi to Mathura-Vrindavan Taxi** - https://www.kashitaxi.in/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi
+- **Varanasi to Deoghar Taxi** - https://www.kashitaxi.in/en/city/deoghar/taxi/varanasi-to-deoghar-taxi
+
 ### 🎒 Tour Packages (6)
 - **Tour Packages from Varanasi** - https://www.kashitaxi.in/en/tour-package-from-varanasi
 - **Customised Packages** - https://www.kashitaxi.in/en/packages/varanasi-customised-packages-tour

@@ -164,6 +164,7 @@
                 "Temple dress code applies"
             ],
             "website_pages": [
+                "/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi",
                 "/en/varanasi-to-vindhyachal",
                 "/en/trikon-parikrama-vindhyachal-complete-guide"
             ]
@@ -220,6 +221,7 @@
             },
             "significance": "Buddha's Mahaparinirvana site",
             "website_pages": [
+                "/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi",
                 "/en/varanasi-to-kushinagar-tempo-traveller"
             ]
         },
@@ -296,7 +298,103 @@
                 "Limited hotel options - book ahead"
             ],
             "website_pages": [
+                "/en/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi",
                 "/en/varanasi-to-naimisharanya-tempo-traveller"
+            ]
+        },
+        {
+            "id": "varanasi_jaunpur",
+            "from": "Varanasi",
+            "to": "Jaunpur",
+            "from_hi": "वाराणसी",
+            "to_hi": "जौनपुर",
+            "distance_km": 60,
+            "duration_hrs": "1.5",
+            "highlights": [
+                "Atala Masjid",
+                "Jama Masjid",
+                "Shahi Bridge (Akbari Bridge)",
+                "Shahi Qila",
+                "Lal Darwaza Masjid"
+            ],
+            "pricing": {
+                "sedan_one_way": 1400,
+                "sedan_round_trip": 2200,
+                "ertiga_round_trip": 2900,
+                "innova_round_trip": 3500,
+                "tempo_round_trip": 5000
+            },
+            "tips": [
+                "Easy half-day heritage trip",
+                "Try Jaunpur's famous imarti",
+                "Combine with onward Ayodhya route"
+            ],
+            "best_time": "October to March (pleasant sightseeing weather)",
+            "website_pages": [
+                "/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi"
+            ]
+        },
+        {
+            "id": "varanasi_mathura",
+            "from": "Varanasi",
+            "to": "Mathura-Vrindavan",
+            "from_hi": "वाराणसी",
+            "to_hi": "मथुरा-वृंदावन",
+            "distance_km": 600,
+            "duration_hrs": "10",
+            "highlights": [
+                "Shri Krishna Janmabhoomi",
+                "Dwarkadhish Temple",
+                "Banke Bihari Temple",
+                "Prem Mandir",
+                "ISKCON Vrindavan",
+                "Govardhan Hill"
+            ],
+            "pricing": {
+                "sedan_one_way": 8500,
+                "sedan_3d2n": 19000,
+                "innova_3d2n": 26000,
+                "tempo_3d2n": 34000
+            },
+            "tips": [
+                "Plan as a 2-3 day Braj yatra",
+                "Add Agra (Taj Mahal) on the same route",
+                "Janmashtami and Holi are crowded"
+            ],
+            "best_time": "October to March",
+            "website_pages": [
+                "/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi"
+            ]
+        },
+        {
+            "id": "varanasi_deoghar",
+            "from": "Varanasi",
+            "to": "Deoghar",
+            "from_hi": "वाराणसी",
+            "to_hi": "देवघर",
+            "distance_km": 460,
+            "duration_hrs": "9-10",
+            "highlights": [
+                "Baba Baidyanath Jyotirlinga",
+                "Naulakha Mandir",
+                "Trikut Pahar",
+                "Tapovan Caves",
+                "Basukinath"
+            ],
+            "pricing": {
+                "sedan_one_way": 7500,
+                "sedan_2d1n": 15500,
+                "innova_2d1n": 20500,
+                "tempo_2d1n": 27000
+            },
+            "tips": [
+                "Plan as a 2-day trip with 1 night",
+                "Shravan month sees huge kanwar crowds",
+                "Early-morning darshan beats the queue"
+            ],
+            "best_time": "October to March (avoid peak Shravan rush unless intended)",
+            "website_pages": [
+                "/en/city/deoghar/taxi/varanasi-to-deoghar-taxi"
             ]
         }
     ],
