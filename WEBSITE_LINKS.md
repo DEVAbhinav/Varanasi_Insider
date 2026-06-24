@@ -211,6 +211,18 @@
 - **Varanasi to Lucknow** - https://www.kashitaxi.in/hi/varanasi-to-lucknow-tempo-traveller
 - **Varanasi to Naimisharanya** - https://www.kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller
 
+### 🚕 इंटरसिटी टैक्सी रूट पेज (हिंदी) (10)
+- **वाराणसी से अयोध्या टैक्सी** - https://www.kashitaxi.in/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi
+- **वाराणसी से प्रयागराज टैक्सी** - https://www.kashitaxi.in/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi
+- **वाराणसी से गया टैक्सी** - https://www.kashitaxi.in/hi/city/gaya/taxi/varanasi-to-gaya-taxi
+- **वाराणसी से बोधगया टैक्सी** - https://www.kashitaxi.in/hi/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi
+- **वाराणसी से विंध्याचल टैक्सी** - https://www.kashitaxi.in/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi
+- **वाराणसी से चित्रकूट टैक्सी** - https://www.kashitaxi.in/hi/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi
+- **वाराणसी से मथुरा-वृंदावन टैक्सी** - https://www.kashitaxi.in/hi/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi
+- **वाराणसी से देवघर टैक्सी** - https://www.kashitaxi.in/hi/city/deoghar/taxi/varanasi-to-deoghar-taxi
+- **वाराणसी से नैमिषारण्य टैक्सी** - https://www.kashitaxi.in/hi/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi
+- **वाराणसी से लखनऊ टैक्सी** - https://www.kashitaxi.in/hi/city/lucknow/taxi/varanasi-to-lucknow-taxi
+
 ### 🕉️ Ghats & Religious (हिंदी) (6)
 - **वाराणसी के घाटों के लिए गाइड** - https://www.kashitaxi.in/hi/varanasi-ke-ghaton-ke-liye-guide
 - **10 सबसे महत्वपूर्ण घाट** - https://www.kashitaxi.in/hi/guide-to-10-most-important-ghats-of-varanasi
