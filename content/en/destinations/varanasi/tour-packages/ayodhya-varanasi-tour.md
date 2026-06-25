@@ -1,5 +1,5 @@
 ---
-title: "2 Night / 3 Day Ayodhya–Varanasi Combined Tour"
+title: "Kashi–Ayodhya Yatra: 3-Day Ram Mandir & Ganga Aarti Tour Package"
 slug: "ayodhya-varanasi-tour"
 date: "2026-11-06"
 lastUpdated: "2026-11-06"
@@ -7,16 +7,19 @@ author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/ayodhya-varanasi-tour"
 
-metaTitle: "Ayodhya Varanasi Tour Package 3 Days | Ram Janmabhoomi to Kashi"
-metaDescription: "Bridge Ram's Ayodhya and Shiva's Kashi in one seamless 3-day pilgrimage with private transfers, curated darshan slots, and riverside rituals."
-description: "Bridge Ram's Ayodhya and Shiva's Kashi in one seamless 3-day pilgrimage with private transfers, curated darshan slots, and riverside rituals."
+metaTitle: "Kashi Ayodhya Tour Package 3 Days | Ram Mandir Darshan + Ganga Aarti Yatra"
+metaDescription: "Book 3-day Kashi Ayodhya yatra from ₹8,499. Ram Janmabhoomi darshan, Kashi Vishwanath, Ganga Aarti & intercity cab included. WhatsApp to confirm dates."
+description: "Book 3-day Kashi Ayodhya yatra from ₹8,499. Ram Janmabhoomi darshan, Kashi Vishwanath, Ganga Aarti & intercity cab included. WhatsApp to confirm dates."
 keywordescription: "Complete Ayodhya-Varanasi tour package covering Ram Mandir, Kashi Vishwanath, and Sarnath. Customizable itinerary with private cab and hotel options."
 location:
   name: "Ayodhya"
   address: "Ayodhya, Uttar Pradesh"
 keywords:
+  - kashi ayodhya tour package
+  - kashi ayodhya yatra
   - ayodhya varanasi tour package
   - ram janmabhoomi kashi yatra
+  - ayodhya varanasi ganga aarti tour
   - ayodhya varanasi itinerary
   - dual city pilgrimage
 tags:
@@ -40,7 +43,7 @@ brand: "Kashi Taxi"
 
 ## Overview
 
-This 2 night / 3 day combo links the new Ram Janmabhoomi Mandir in Ayodhya with the timeless ghats of Varanasi. Ideal for pilgrims, families, and spiritual explorers wanting a compact Uttar Pradesh circuit that honours both Lord Rama and Lord Shiva. The itinerary balances temple time with intercity comfort, curated food stops, and concierge assistance.
+This 2 night / 3 day Kashi–Ayodhya yatra links the new Ram Janmabhoomi Mandir in Ayodhya with the timeless ghats of Varanasi. Ideal for pilgrims, families, and spiritual explorers wanting a compact Uttar Pradesh circuit that honours both Lord Rama and Lord Shiva. The itinerary balances temple time with intercity comfort, curated food stops, and concierge assistance.
 
 ## Distance, Time & Route First
 
@@ -174,9 +177,9 @@ _Cost depends on hotel class, meal plan, vehicle, festival surcharges, and add-o
 
 ## Why Kashi Taxi for the Combo?
 
-- One-team accountability across both cities with live WhatsApp support.
+- One-team accountability across both cities — your single point of contact for the entire yatra.
 - Trusted partnerships with hotels, darshan desks, boat operators, and guides.
 - Transparent costing, rest-stop curation, and driver rotation for long-haul comfort.
 - Custom add-ons: Prayagraj day tour, Bodhgaya extension, yoga or cultural workshops.
 
-Share your preferred routing (Varanasi-first or Ayodhya-first), travel dates, group size, and accommodation tier. The concierge will finalise allocations, share payment links, and email a personalised tour brief.
+Share your preferred routing (Varanasi-first or Ayodhya-first), travel dates, group size, and accommodation tier. The concierge will finalise allocations for your Kashi Ayodhya yatra, share payment links, and email a personalised tour brief.
