@@ -4,9 +4,9 @@ lang: "en"
 title: "Varanasi Airport to City Cab (2026 Fixed Fares)"
 subtitle: "Airport-to-city cabs with transparent pricing, surge-proof booking, and driver meet & greet for every VNS arrival."
 description: "Book a Varanasi airport to city cab with 2026 fixed fares, live price grid, WhatsApp CTA, surge-protection FAQ, and quick links to every major arrival route including Assi, Dashashwamedh, Sarnath, and Cantt stations."
-keywords: ["airport to city cab varanasi","varanasi airport to city cab","taxi from varanasi airport to city","airport to assi ghat taxi","vns airport cab fixed fare","dashashwamedh airport taxi","varanasi airport surge pricing","varanasi airport to city taxi fare"]
-metaTitle: "Varanasi Airport to City Cab 2026 | Fixed Fares & Surge Shield"
-metaDescription: "Compare 2026 Varanasi airport to city cab fares (₹700+), lock surge-proof pickups, view zone-wise distance table, and book instantly on WhatsApp."
+keywords: ["airport to city cab varanasi","varanasi airport to city cab","taxi from varanasi airport to city","varanasi airport to kashi vishwanath temple","varanasi airport to kashi vishwanath temple taxi fare","varanasi airport to kashi vishwanath temple distance","varanasi airport to kashi temple distance","varanasi airport to kashi distance","varanasi airport to varanasi railway station taxi fare","airport to assi ghat taxi","vns airport cab fixed fare","dashashwamedh airport taxi","varanasi airport to city distance"]
+metaTitle: "Varanasi Airport to Kashi Vishwanath & City Cab | 2026 Fares"
+metaDescription: "Varanasi airport to Kashi Vishwanath temple: 25 km, taxi fare ₹750–₹950. Fixed 2026 fares to all city zones — Dashashwamedh, railway station, Assi Ghat, Sarnath. Book on WhatsApp."
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 phone: "9935474730"
@@ -35,6 +35,10 @@ offers:
     priceCurrency: "INR"
     description: "12-seater with luggage coach and night allowance"
 faq:
+  - question: "How far is Varanasi airport to Kashi Vishwanath temple and what is the taxi fare?"
+    answer: "Varanasi airport (LBS International, VNS) to Kashi Vishwanath Temple is 25 km. Taxi fare is ₹750–₹950 for a sedan and ₹1,250–₹1,500 for an Innova Crysta (2026 fixed rates). Travel time is 45–55 minutes. Drivers drop at Godowlia/Dasaswamedh Road — 5–8 min walk to the temple entrance — as the corridor is vehicle-free."
+  - question: "What is the taxi fare from Varanasi airport to Varanasi railway station?"
+    answer: "Varanasi airport to Varanasi Junction (Cantt) is 22 km with a fixed sedan fare of ₹690–₹750 and Innova ₹1,200–₹1,400. For Banaras City Station (BCY/Manduadih), the distance is 21 km and fare is ₹700–₹900 sedan. Both include tolls, airport entry, and a 30-minute flight delay buffer."
   - question: "Do fares stay fixed during Dev Deepawali or other peak days?"
     answer: "Yes. Festival blackout dates only pause the Flash ₹690 sedan but the published fare grid remains unchanged and every confirmation carries a Surge Shield note to block last-minute markups."
   - question: "What if my flight is delayed beyond the 30-minute buffer?"
@@ -115,6 +119,36 @@ faq:
 | Ramnagar Fort / Dussehra ground | 36 km | 55–65 min | 900–1,100 | 1,450–1,650 | Bridge toll included; add 10 minutes buffer. |
 
 This grid gives travelers a clear fare reference for common city drop points and helps compare options before landing.
+
+## Varanasi Airport to Kashi Vishwanath Temple — Distance & Taxi Fare
+
+**Distance:** 25 km from Lal Bahadur Shastri International Airport (VNS) to Kashi Vishwanath Temple Corridor.  
+**Travel time:** 45–55 minutes depending on ghat traffic.  
+**Taxi fare:** Sedan ₹750–₹950 · Mini SUV ₹1,100–₹1,300 · Innova Crysta ₹1,250–₹1,500.
+
+The temple sits inside the Kashi Vishwanath Corridor, which has vehicle-free zones around Vishwanath Gali and Gyan Vapi. Drivers drop passengers at the nearest permitted point (Godowlia/Dasaswamedh Road) — roughly a 5–8 minute walk to the main entrance. This is the same arrival point used by all cab services; auto-rickshaws or porters cover the last stretch.
+
+**What's included in the airport-to-Kashi-Vishwanath taxi fare:**
+- Tolls and airport entry charges
+- 30-minute flight delay buffer
+- WhatsApp fare confirmation with driver details before landing
+- Surge shield on festival days (Dev Deepawali, Mahashivratri, Navratri)
+
+For the detailed route and ghat barricade notes see the [Airport → Kashi Vishwanath distance guide](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance).
+
+## Varanasi Airport to Railway Station — Taxi Fare
+
+Two stations serve Varanasi city; fares and distances differ:
+
+| Station | Distance | Travel Time | Sedan Fare | Innova Fare |
+|---|---|---|---|---|
+| Varanasi Junction (Cantt / DDU) | 22 km | 35–45 min | ₹690 Flash / ₹750 std | ₹1,200–₹1,400 |
+| Banaras City Station (BCY) / Manduadih | 21 km | 35–45 min | ₹700–₹900 | ₹1,200–₹1,400 |
+
+**Which station should I book a drop to?**  
+Most long-distance trains (Delhi, Mumbai, Kolkata, Prayagraj) use Varanasi Junction (Cantt). Banaras City Station handles select Express routes and is closer to the old city. Confirm your train's departure board before booking — the fare difference is minimal but the route differs.
+
+Drivers track your flight and time the drop to reach the station with at least 45 minutes to spare for luggage and platform finding.
 
 ## Why a Dedicated Airport-to-City Cab Page?
 
