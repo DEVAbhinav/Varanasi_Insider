@@ -1,6 +1,7 @@
 // components/ServicePage/StickyContactBar.jsx
 import { useState, useEffect } from 'react';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
+import { logClick } from '@/lib/logClick';
 
 export default function StickyContactBar({ phone }) {
   const [isVisible, setIsVisible] = useState(false);
@@ -93,6 +94,7 @@ export default function StickyContactBar({ phone }) {
             <div className="flex gap-2.5">
               <a
                 href={getCallTelHref(phone)}
+                onClick={() => logClick('CALL')}
                 className="inline-flex items-center px-5 py-2 bg-white text-sky-600 font-bold rounded-lg hover:bg-gray-50 transition-all transform hover:scale-105 shadow-md text-sm"
               >
                 <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
@@ -104,6 +106,7 @@ export default function StickyContactBar({ phone }) {
                 href={CONTACT.whatsappUrl}
                 target="_blank"
                 rel="noopener noreferrer"
+                onClick={() => logClick('WHATSAPP')}
                 className="inline-flex items-center px-5 py-2 bg-emerald-500 text-white font-bold rounded-lg hover:bg-emerald-600 transition-all transform hover:scale-105 shadow-md text-sm"
               >
                 <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
@@ -126,6 +129,7 @@ export default function StickyContactBar({ phone }) {
           href={CONTACT.whatsappUrl}
           target="_blank"
           rel="noopener noreferrer"
+          onClick={() => logClick('WHATSAPP')}
           className="flex items-center justify-center w-14 h-14 bg-green-600 text-white rounded-full shadow-2xl hover:bg-green-700 transition-all transform hover:scale-110 active:scale-95"
           aria-label="WhatsApp"
         >
@@ -137,6 +141,7 @@ export default function StickyContactBar({ phone }) {
         {/* Call Button */}
         <a
           href={getCallTelHref(phone)}
+          onClick={() => logClick('CALL')}
           className="flex items-center justify-center w-14 h-14 bg-cyan-500 text-white rounded-full shadow-2xl hover:bg-cyan-600 transition-all transform hover:scale-110 active:scale-95"
           aria-label="Call Now"
         >

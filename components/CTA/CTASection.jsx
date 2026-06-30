@@ -1,5 +1,6 @@
 // components/CTA/CTASection.jsx
 import { CONTACT, getCallTelHref } from '@/lib/contact';
+import { logClick } from '@/lib/logClick';
 
 export default function CTASection({ 
   phone = CONTACT.callNumberRaw, 
@@ -41,6 +42,7 @@ export default function CTASection({
         <div className="flex gap-3 flex-shrink-0">
           <a
             href={getCallTelHref(phone)}
+            onClick={() => logClick('CALL')}
             className="inline-flex items-center px-5 py-3 bg-white text-yellow-600 font-bold rounded-lg hover:bg-gray-100 transition-all transform hover:scale-105 shadow-lg"
             aria-label={`Call ${phone}`}
           >
@@ -53,6 +55,7 @@ export default function CTASection({
             href={CONTACT.whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
+            onClick={() => logClick('WHATSAPP')}
             className="inline-flex items-center px-5 py-3 bg-green-600 text-white font-bold rounded-lg hover:bg-green-700 transition-all transform hover:scale-105 shadow-lg"
             aria-label="Contact via WhatsApp"
           >

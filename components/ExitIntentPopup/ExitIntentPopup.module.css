@@ -1,0 +1,190 @@
+/* ── Backdrop ────────────────────────────────────────── */
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.55);
+  backdrop-filter: blur(4px);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+/* ── Card ────────────────────────────────────────────── */
+.modal {
+  position: relative;
+  background: #ffffff;
+  border-radius: 1.25rem;
+  width: 100%;
+  max-width: 380px;
+  overflow: hidden;
+  box-shadow:
+    0 25px 60px rgba(0, 0, 0, 0.18),
+    0 0 0 1px rgba(255, 255, 255, 0.08);
+  text-align: center;
+  padding: 1.75rem 1.5rem 1.25rem;
+}
+
+/* Warm teal accent bar at top — matches brand */
+.accentBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #0ea5e9 0%, #06b6d4 50%, #10b981 100%);
+}
+
+/* ── Close button ────────────────────────────────────── */
+.closeBtn {
+  position: absolute;
+  top: 0.85rem;
+  right: 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #f3f4f6;
+  border: none;
+  cursor: pointer;
+  color: #6b7280;
+  transition: background 0.15s, color 0.15s, transform 0.15s;
+}
+
+.closeBtn:hover {
+  background: #e5e7eb;
+  color: #111827;
+  transform: scale(1.08);
+}
+
+/* ── Content ─────────────────────────────────────────── */
+.heading {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #111827;
+  line-height: 1.35;
+  margin-bottom: 0.6rem;
+  margin-top: 0.25rem;
+}
+
+.body {
+  font-size: 0.925rem;
+  color: #4b5563;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+}
+
+/* ── WhatsApp CTA (primary) ──────────────────────────── */
+.whatsappBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+  padding: 0.875rem 1.25rem;
+  background: #16a34a;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1rem;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  transition: background 0.18s, transform 0.15s, box-shadow 0.15s;
+  box-shadow: 0 4px 16px rgba(22, 163, 74, 0.4);
+  margin-bottom: 0.75rem;
+  letter-spacing: 0.01em;
+}
+
+.whatsappBtn:hover {
+  background: #15803d;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(22, 163, 74, 0.45);
+}
+
+.whatsappBtn:active {
+  transform: translateY(0);
+}
+
+.whatsappIcon {
+  width: 1.3rem;
+  height: 1.3rem;
+  flex-shrink: 0;
+}
+
+/* ── Call CTA (secondary, full-width button) ─────────── */
+.callBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+  padding: 0.8rem 1.25rem;
+  background: #f0f9ff;
+  color: #0369a1;
+  font-weight: 700;
+  font-size: 0.95rem;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  border: 1.5px solid #bae6fd;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+  margin-bottom: 1rem;
+  letter-spacing: 0.01em;
+}
+
+.callBtn:hover {
+  background: #e0f2fe;
+  border-color: #7dd3fc;
+  transform: translateY(-1px);
+}
+
+.callBtn:active {
+  transform: translateY(0);
+}
+
+.callIcon {
+  width: 1.1rem;
+  height: 1.1rem;
+  flex-shrink: 0;
+}
+
+/* ── Trust badges ────────────────────────────────────── */
+.trust {
+  margin-bottom: 1rem;
+}
+
+/* ── Mobile bottom-sheet variant ────────────────────── */
+.modalMobile {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  max-width: 100%;
+  border-radius: 1.5rem 1.5rem 0 0;
+  padding: 1.75rem 1.5rem 2rem; /* extra bottom padding for home indicator */
+}
+
+/* On mobile overlay, align card to bottom */
+@media (max-width: 767px) {
+  .overlay {
+    align-items: flex-end;
+    padding: 0;
+  }
+}
+.dismissLink {
+  background: #fff1f2;
+  border: 1.5px solid #fecdd3;
+  border-radius: 0.6rem;
+  cursor: pointer;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: #e11d48;
+  padding: 0.4rem 0.85rem;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.dismissLink:hover {
+  background: #ffe4e6;
+  border-color: #fda4af;
+}

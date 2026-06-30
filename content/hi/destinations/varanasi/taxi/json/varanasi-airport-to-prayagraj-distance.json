@@ -36,7 +36,7 @@
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "INR",
-    "lowPrice": 1380,
+    "lowPrice": 2499,
     "highPrice": 3500,
     "offerCount": 3
   },

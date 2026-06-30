@@ -364,27 +364,42 @@ module.exports = async function (context, req) {
 
     try {
       const leadsFilePath = path.join(process.cwd(), 'data', 'leads.json');
-      
-      // Ensure data directory exists
       const dataDir = path.dirname(leadsFilePath);
       await fs.mkdir(dataDir, { recursive: true });
-
-      // Read existing leads or create empty array
       let leads = [];
       try {
         const fileContent = await fs.readFile(leadsFilePath, 'utf8');
         leads = JSON.parse(fileContent);
       } catch (err) {
-        // File doesn't exist or is invalid, start fresh
         leads = [];
       }
-
-      // Add new lead and save
       leads.push(lead);
       await fs.writeFile(leadsFilePath, JSON.stringify(leads, null, 2));
     } catch (fileError) {
       console.error('Error saving lead to file:', fileError);
-      // Don't fail the request if file save fails
+    }
+
+    // Push lead to Gaadi Diary ERP (fire-and-forget — never blocks user response)
+    const erpUrl = process.env.WEBSITE_LEAD_ERP_URL;
+    const erpKey = process.env.WEBSITE_LEAD_API_KEY;
+    if (erpUrl && erpKey) {
+      fetch(`${erpUrl}/api/public/lead`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'x-website-key': erpKey },
+        body: JSON.stringify({
+          clientName: name,
+          clientPhone: phone,
+          clientEmail: email || undefined,
+          tripType: tripType || undefined,
+          pickup: 'Varanasi',
+          passengers: passengers || undefined,
+          notes: message || undefined,
+          sourcePage: parentPageUrl ? new URL(parentPageUrl).pathname : undefined,
+          sourceUrl: parentPageUrl || undefined,
+          pageTitle: parentPageTitle || undefined,
+          device: 'unknown',
+        }),
+      }).catch(err => console.error('ERP lead push failed (non-blocking):', err));
     }
 
     // Generate WhatsApp link

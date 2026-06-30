@@ -6,6 +6,7 @@ import { useRouter } from 'next/router';
 import { Lora, Source_Sans_3 } from 'next/font/google';
 import dynamic from 'next/dynamic';
 const MobileLeadPopup = dynamic(() => import('../components/MobileLeadPopup/MobileLeadPopup'), { ssr: false });
+const ExitIntentPopup = dynamic(() => import('../components/ExitIntentPopup/ExitIntentPopup'), { ssr: false });
 import { SOCIAL_PROFILE_URLS } from '../config/socials';
 import * as gtag from '../lib/gtag';
 
@@ -155,6 +156,7 @@ function MyApp({ Component, pageProps }) {
         <Component {...pageProps} />
       </div>
       <MobileLeadPopup delay={30000} />
+      <ExitIntentPopup />
     </>
   );
 }

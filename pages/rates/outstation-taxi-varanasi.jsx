@@ -48,7 +48,7 @@ const KASHITAXI_RATES = [
 
 const ONEWAY = [
   { to: "Vindhyachal", km: 80, hr: "~2 hr", fare: 1600, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg" },
-  { to: "Prayagraj (Allahabad)", km: 120, hr: "~3 hr", fare: 2500, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg" },
+  { to: "Prayagraj (Allahabad)", km: 120, hr: "~3 hr", fare: 2499, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg" },
   { to: "Ayodhya", km: 200, hr: "4–5 hr", fare: 6500, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTaxi1.jpg" },
   { to: "Bodhgaya", km: 250, hr: "6–7 hr", fare: 7000, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg" },
   { to: "Lucknow", km: 300, hr: "6–7 hr", fare: 8500, img: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/vnsayopyg.png" },
