@@ -23,6 +23,7 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - safety-and-security-in-varanasi-guide-for-solo-travellar
   - varanasi-in-february-2026
+  - where-to-stay-in-varanasi
 ---
 
 ---

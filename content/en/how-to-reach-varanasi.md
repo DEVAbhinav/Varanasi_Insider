@@ -34,6 +34,7 @@ relatedPosts:
   - best-time-to-visit-varanasi
   - tempo-traveller-varanasi
   - varanasi-sightseeing-complete-guide
+  - where-to-stay-in-varanasi
 faqSchema:
   - q: "How to reach Varanasi from Delhi?"
     a: "By flight (1.5 hours, ₹3,000-8,000), by train (8-14 hours, Shiv Ganga Express/Mahamana recommended), or by road via NH-2 (12-14 hours, 800km)."

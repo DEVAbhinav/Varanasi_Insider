@@ -33,6 +33,7 @@ relatedPosts:
   - 84-ghats-boat-tour-varanasi
   - dashashwamedh-ghat-boat-ride-ganga-aarti-guide
   - kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026
+  - where-to-stay-in-varanasi
   - family-tour-varanasi-3-days-parents
   - varanasi-with-friends-plan
 faqSchema:

@@ -15,6 +15,7 @@ relatedPosts:
   - varanasi-tour-package-for-families
   - varanasi-tour-package-with-hotel
   - senior-citizen-varanasi-tour-package
+  - where-to-stay-in-varanasi
 ---
 
 # Family Tour of Varanasi 3 Days with Parents

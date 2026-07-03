@@ -22,6 +22,8 @@ function normalizeAbsoluteUrl(url) {
 }
 
 function shouldEmitCanonicalizedEntry(loc, fm = {}) {
+  // Never emit pages that are explicitly noindex or draft.
+  if (fm?.noindex === true || fm?.draft === true) return false;
   if (!fm?.canonical) return true;
   const canonical = normalizeAbsoluteUrl(fm.canonical);
   const current = normalizeAbsoluteUrl(loc);
