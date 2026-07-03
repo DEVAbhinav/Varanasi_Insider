@@ -21,8 +21,8 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         name: 'Banaras Travel Agency | Kashi Taxi',
         alternateName: ['Varanasi Travel Agency', 'Banaras Tour Operator', 'Kashi Taxi Tours'],
         url: `${site}/banaras-travel-agency`,
-        logo: `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg`,
-        image: [`${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`, `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg`],
+        logo: `https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg`,
+        image: [`https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`, `https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg`],
         description:
           'Banaras travel agency for spiritual journeys, airport transfers, tempo traveller hire, and custom pilgrimage packages with local guides and 24/7 support.',
         slogan: 'Your trusted Banaras travel partner',
@@ -189,14 +189,14 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.kashitaxi.in/banaras-travel-agency" />
-        <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
+        <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Best Banaras Travel Agency | Expert Tours & Packages" />
         <meta
           name="twitter:description"
           content="Banaras travel agency for spiritual journeys, airport transfers, tempo traveller rentals, and custom pilgrimage packages. Local guides, vetted hotels, 24/7 support."
         />
-        <meta name="twitter:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
+        <meta name="twitter:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <link rel="canonical" href="https://www.kashitaxi.in/banaras-travel-agency" />
       </Head>
       <JsonLd data={structuredData} />

@@ -83,6 +83,8 @@
             "@type": "Product",
             "name": "Varanasi to Gaya Sedan Transfer",
             "description": "AC Sedan with professional driver, 260 km, 5-6 hours",
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg",
+            "brand": { "@type": "Brand", "name": "Vinayak Travels" },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",
@@ -109,6 +111,8 @@
             "@type": "Product",
             "name": "Varanasi to Gaya SUV Transfer",
             "description": "AC SUV with professional driver, 260 km, 5-6 hours",
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/luxuryCar.png",
+            "brand": { "@type": "Brand", "name": "Vinayak Travels" },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",
@@ -135,6 +139,8 @@
             "@type": "Product",
             "name": "Varanasi to Gaya Innova Crysta",
             "description": "Premium AC vehicle with reclining seats, USB charging",
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/luxuryCar.png",
+            "brand": { "@type": "Brand", "name": "Vinayak Travels" },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",
@@ -161,6 +167,8 @@
             "@type": "Product",
             "name": "Varanasi to Gaya Tempo Traveller",
             "description": "Large group transport, 12-17 seats, AC",
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/TempoTraveller_side_White.jpeg",
+            "brand": { "@type": "Brand", "name": "Vinayak Travels" },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",

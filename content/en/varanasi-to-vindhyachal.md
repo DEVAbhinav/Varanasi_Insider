@@ -28,6 +28,11 @@ keywords:
   - "vindhyavasini temple timings"
   - "how to reach vindhyachal from varanasi"
   - "vindhyachal distance from varanasi"
+  - "mirzapur to vindhyachal distance"
+  - "vindhyachal station to vindhyachal mandir distance"
+  - "vindhyachal station to vindhyachal temple distance"
+  - "kashi to vindhyavasini temple distance"
+  - "kashi vishwanath temple to vindhyachal temple distance"
 tags:
   - varanasi
   - vindhyachal
@@ -58,6 +63,20 @@ faqSchema:
     a: >-
       Sedan same-day returns cost ₹2,000–₹2,200 in Nov 2026, SUV upgrades
       ₹2,600–₹2,900, and one-way drops ₹1,400–₹1,600.
+  - q: "What is the Mirzapur to Vindhyachal distance?"
+    a: >-
+      Mirzapur to Vindhyachal distance is only about 8 km, roughly 15–20
+      minutes by road. Most Varanasi cabs take the Varanasi → Mirzapur →
+      Vindhyachal highway, so Mirzapur is the last town before the temple.
+  - q: "What is the Vindhyachal station to Vindhyachal Mandir distance?"
+    a: >-
+      Vindhyachal railway station (BDL) to Vindhyavasini Mandir distance is
+      about 2–3 km, a 5–10 minute auto or taxi ride. Vindhyachal station to
+      Vindhyachal temple is the shortest hop of the whole trip.
+  - q: "What is the Kashi to Vindhyavasini temple distance?"
+    a: >-
+      Kashi (Varanasi) to Vindhyavasini temple distance is roughly 65–70 km
+      via the Mirzapur highway, about 1.5–2 hours by taxi one way.
 ---
 
 Updated: Nov 2026
@@ -146,6 +165,19 @@ Hiring a taxi remains the most convenient way to complete darshan without scramb
 
 ### Book Your Taxi {#book}
 > **Book Your Tour:** WhatsApp or call **+91 94503 01573** with travel date, headcount, and preferred pickup. Instant confirmation with driver + vehicle number the evening before travel.
+
+---
+
+## Make It a Complete Kashi Trip — Book More Than a Cab
+
+Most pilgrims who book the Vindhyachal route also add a Ganga experience in Varanasi. Bundle these on the same WhatsApp booking and travel with one trusted operator:
+
+- 🚕 **[Full-day Varanasi taxi & sightseeing packages](/en/packages)** — pair your Vindhyachal darshan with the ghats, Kashi Vishwanath and Sarnath.
+- 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** — the highlight of any Kashi trip.
+- 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — reserve a front-row boat for the Dashashwamedh Aarti.
+- 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — riverside and budget stays near the ghats.
+
+> **One WhatsApp, whole trip:** send your dates on **+91 94503 01573** and we bundle the Vindhyachal cab, boat ride, Ganga Aarti and hotel together — no juggling multiple vendors.
 
 ---
 

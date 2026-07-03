@@ -599,6 +599,15 @@ A taxi isn't a luxury upgrade. It's a practical choice that protects your time a
 
 ---
 
+## Add a Varanasi Experience — Boat Ride, Aarti & Hotel
+
+Gaya pilgrims usually base themselves in Varanasi. Book the whole trip with one operator:
+
+- 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** on the Ganges.
+- 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — front-row seats for the Dashashwamedh Aarti.
+- 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — stays near the ghats.
+- 🚕 **[Varanasi tour packages](/en/tour-package-from-varanasi)** — combine Gaya/Pind Daan with Kashi darshan.
+
 ## Related Services
 
 - [Pind Daan Service in Gaya (Verified)](/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi)

@@ -21,8 +21,8 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         name: 'Banaras Tour Package | Kashi Taxi',
         alternateName: ['Varanasi Tour Package', 'Kashi Tour Package', 'Banaras Pilgrimage Package'],
         url: `${site}/banaras-tour-package`,
-        logo: `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg`,
-        image: [`${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`, `${site}https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg`],
+        logo: `https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg`,
+        image: [`https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`, `https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg`],
         description:
           'Banaras tour packages with expert guides. 3-7 day spiritual journeys, transparent pricing, ghatside stays, airport transfers, and 24/7 support.',
         slogan: 'Authentic Banaras tours with local experts',
@@ -171,14 +171,14 @@ export default function BanarasTourPackagePage({ contentHtml }) {
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.kashitaxi.in/banaras-tour-package" />
-        <meta property="og:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
+        <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Banaras Tour Package 2026 | Budget to Premium Packages | Kashi Taxi" />
         <meta
           name="twitter:description"
           content="Best Banaras tour packages with expert guides. 3-7 day spiritual journeys with transparent pricing, accommodation near ghats, and 24/7 support."
         />
-        <meta name="twitter:image" content="https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
+        <meta name="twitter:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <link rel="canonical" href="https://www.kashitaxi.in/banaras-tour-package" />
       </Head>
       <JsonLd data={structuredData} />

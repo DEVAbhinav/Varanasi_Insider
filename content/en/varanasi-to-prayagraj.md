@@ -219,6 +219,15 @@ No hidden charges. No surge pricing.
 
 Arriving in Prayagraj? The [Prayagraj travel & taxi services hub on Bharat Tourism](https://bharat-tourism.com/city/prayagraj) covers Triveni Sangam rituals, local sightseeing, Magh Mela logistics, and city transport options.
 
+## Add a Varanasi Experience — Boat Ride, Aarti & Hotel
+
+Prayagraj/Sangam pilgrims almost always start or end in Varanasi. Book the whole trip with one operator:
+
+- 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** on the Ganges.
+- 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — front-row seats for the Dashashwamedh Aarti.
+- 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — stays near the ghats.
+- 🚕 **[Varanasi tour packages](/en/tour-package-from-varanasi)** — combine Sangam with Kashi Vishwanath and Sarnath.
+
 ## Related Pages
 
 - [Varanasi to Prayagraj Taxi — Direct Booking](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)

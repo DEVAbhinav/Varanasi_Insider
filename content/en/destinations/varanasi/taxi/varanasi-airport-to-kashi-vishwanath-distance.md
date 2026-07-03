@@ -155,3 +155,14 @@ All dispatched drivers carry verified ID, corridor permits, and digital payment 
 
 For darshan planning, pair this transfer with our [Kashi Vishwanath crowd guide](/en/kashi-vishwanath-shivaratri-crowd-survival-guide) to match queue windows with your arrival.
 
+---
+
+## Just Landed? Book Your Whole Kashi Trip in One Message
+
+Turn your airport pickup into a complete Varanasi experience — booked with one trusted operator:
+
+- 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** on the Ganges.
+- 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — reserve a front-row boat for the Dashashwamedh Aarti.
+- 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — riverside and budget stays near the ghats.
+- 🚕 **[Varanasi tour & sightseeing packages](/en/tour-package-from-varanasi)** — Kashi Vishwanath, Sarnath and the ghats.
+

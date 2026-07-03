@@ -504,3 +504,14 @@ Multiple routes, multiple destinations!
 💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Plan%20my%20Nepal%20trip)
 
 **Your Gateway to the Himalayas!** 🇮🇳 → 🇳🇵
+
+---
+
+## Planning Varanasi Before You Cross Into Nepal?
+
+Most Nepal travellers spend a day or two in Varanasi first. Add these to the same booking and travel with one operator:
+
+- 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** on the Ganges.
+- 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — front-row seats for the Dashashwamedh Aarti.
+- 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — riverside and budget stays near the ghats.
+- 🚕 **[Varanasi tour packages](/en/tour-package-from-varanasi)** — Kashi Vishwanath, Sarnath and the ghats before your border crossing.

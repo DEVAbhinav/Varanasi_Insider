@@ -57,6 +57,8 @@
   "makesOffer": {
     "@type": "Product",
     "name": "Manikarnika Ghat Taxi Varanasi - Sacred Tour",
+    "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg",
+    "brand": { "@type": "Brand", "name": "Vinayak Travels" },
     "description": "Book taxi to Manikarnika Ghat Varanasi. Maidagin drop ₹450, evening sacred tour ₹1300, airport pickup ₹900. Etiquette briefing, respectful drivers.",
     "category": "Sacred Site Taxi",
     "offers": {

@@ -160,7 +160,13 @@
       "endDate": "2026-04-07",
       "location": {
         "@type": "Place",
-        "name": "Vindhyavasini Temple, Vindhyachal"
+        "name": "Vindhyavasini Temple, Vindhyachal",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Vindhyachal",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "India"
+        }
       },
       "eventStatus": "https://schema.org/EventScheduled",
       "performer": {

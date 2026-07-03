@@ -57,6 +57,8 @@
   "makesOffer": {
     "@type": "Product",
     "name": "Kedar Harishchandra Ghat Taxi - Pilgrim Service",
+    "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg",
+    "brand": { "@type": "Brand", "name": "Vinayak Travels" },
     "description": "Book taxi to Kedar & Harishchandra Ghat Varanasi. Drop ₹400, pilgrim circuit ₹1200, airport ₹900. Respectful drivers, multi-language support.",
     "category": "Pilgrim Taxi Service",
     "offers": {

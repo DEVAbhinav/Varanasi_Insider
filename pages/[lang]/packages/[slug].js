@@ -318,6 +318,7 @@ export async function getStaticProps({ params }) {
   const matter = (await import("gray-matter")).default;
   const { markdownToHtml } = await import("../../../lib/markdown");
   const { buildAlternateLanguageUrls } = await import("../../../lib/hreflang");
+  const { sanitizeJsonLdData } = await import("../../../lib/jsonLdSanitizer");
 
   const contentDir = path.join(process.cwd(), "content", params.lang, "packages");
   const filePath = path.join(contentDir, `${params.slug}.md`);
@@ -348,6 +349,14 @@ export async function getStaticProps({ params }) {
   } catch { }
 
   // Build OfferCatalog JSON-LD based on tiers
+  const FALLBACK_PRODUCT_IMAGE = "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png";
+  const resolveImageUrl = (img) => {
+    if (typeof img !== "string" || !img.trim()) return FALLBACK_PRODUCT_IMAGE;
+    const v = img.trim();
+    if (/^https?:\/\//i.test(v)) return v; // already absolute
+    return `https://www.kashitaxi.in${v.startsWith("/") ? v : `/${v}`}`;
+  };
+  const productImage = resolveImageUrl(frontmatter.heroImage);
   const jsonLdData = {
     "@context": "https://schema.org",
     "@type": "OfferCatalog",
@@ -356,7 +365,7 @@ export async function getStaticProps({ params }) {
       "@type": "Product",
       name: `${t.name} (${t.duration || ""})`,
       description: (t.includes || []).join("; "),
-      image: frontmatter.heroImage ? `https://www.kashitaxi.in${frontmatter.heroImage}` : "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
+      image: productImage,
       brand: { "@type": "Brand", name: "Varanasi Taxi" },
       areaServed: "Varanasi",
       offers: {
@@ -369,6 +378,7 @@ export async function getStaticProps({ params }) {
       },
     })),
   };
+  const sanitizedJsonLdData = sanitizeJsonLdData(jsonLdData);
 
   const alternateLanguages = buildAlternateLanguageUrls({
     relativeFilePath: path.join('packages', `${params.slug}.md`),
@@ -380,7 +390,7 @@ export async function getStaticProps({ params }) {
     props: {
       pkgData: frontmatter,
       contentHtml,
-      jsonLdData,
+      jsonLdData: sanitizedJsonLdData,
       allPackages,
       pageLang: params.lang,
       pageSlug: params.slug,

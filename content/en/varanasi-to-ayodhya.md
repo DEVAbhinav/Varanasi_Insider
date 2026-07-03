@@ -236,9 +236,18 @@ No hidden charges. No surge pricing. Fixed fare confirmed at booking.
 
 Planning your itinerary after reaching Ayodhya? The [Ayodhya Ram Mandir darshan & travel guide on Bharat Tourism](https://bharat-tourism.com/en/city/ayodhya/pillar/ayodhya-travel-guide-ram-mandir-darshan-cab) covers temple timings, security protocols, nearby attractions, and local transport options to help you make the most of your visit.
 
-## Related Pages
+## Add a Varanasi Experience — Boat Ride, Aarti & Hotel
 
-- [Varanasi to Ayodhya Taxi — Direct Booking](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi)
+Ayodhya pilgrims almost always spend a night in Varanasi. Book the whole trip with one operator instead of chasing separate vendors:
+
+- 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** on the Ganges.
+- 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — front-row seats for the Dashashwamedh Aarti.
+- 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — riverside and budget stays near the ghats.
+- 🚕 **[Full Varanasi tour packages](/en/tour-package-from-varanasi)** — combine Ayodhya with Kashi Vishwanath, Sarnath and the ghats.
+
+> **One WhatsApp books it all:** cab to Ayodhya plus your Varanasi boat ride, Ganga Aarti and hotel on a single confirmation.
+
+## Related Pages
 - [Varanasi to Ayodhya Tempo Traveller Price List](/en/varanasi-to-ayodhya-tempo-traveller)
 - [Ayodhya 2-Day Tour Package from Varanasi](/en/city/ayodhya/tour-packages/ayodhya-2-day-tour)
 - [Varanasi-Ayodhya-Prayagraj Pilgrimage Taxi](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi)

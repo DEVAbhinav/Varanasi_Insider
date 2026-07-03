@@ -75,6 +75,8 @@
   "makesOffer": {
     "@type": "Product",
     "name": "Taxi Service in Sigra Varanasi - Local Cab Booking",
+    "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg",
+    "brand": { "@type": "Brand", "name": "Vinayak Travels" },
     "description": "Book taxi from Sigra Varanasi. Airport ₹800, Kashi Vishwanath ₹1600, Sarnath ₹1800. Fast 10-15 min pickup, fixed fares, no surge pricing.",
     "category": "Local Taxi Service",
     "offers": {

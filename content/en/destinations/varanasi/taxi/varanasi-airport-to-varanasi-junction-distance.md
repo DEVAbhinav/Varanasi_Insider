@@ -114,3 +114,14 @@ Pre-booked cars access the Parao lane beside Platform 1; inform dispatch if you 
 ## Varanasi Airport to Varanasi Junction safety and reliability
 Drivers are police-verified, share live GPS, and carry station entry slips. Confirm fare, car number, and porter needs via WhatsApp before boarding and forward the itinerary to family. Request an enclosed boot if you carry valuables; luggage straps are available on request.
 
+---
+
+## Add a Varanasi Experience to Your Transfer
+
+Booking an airport or station transfer? Add the Ganga highlights on the same message:
+
+- 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** on the Ganges.
+- 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — front-row seats for the Dashashwamedh Aarti.
+- 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — stays near the ghats.
+- 🚕 **[Varanasi tour & sightseeing packages](/en/tour-package-from-varanasi)** — Kashi Vishwanath, Sarnath and the ghats.
+

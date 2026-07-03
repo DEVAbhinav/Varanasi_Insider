@@ -34,6 +34,45 @@ const websiteNode = {
 // Primary keyword phrase chosen: "Bike & Scooty Rental in Varanasi" (high intent + combines key variants)
 const primaryPageName = 'Bike & Scooty Rental in Varanasi — From ₹449/day | Self-Drive';
 
+// Rating + reviews live on the Product node below (Google shows review stars for
+// Product, not for self-serving LocalBusiness/Organization reviews). Shared here
+// so the visible on-page reviews section stays in sync with the structured data.
+const rentalAggregateRating = {
+  '@type': 'AggregateRating',
+  ratingValue: 4.7,
+  bestRating: 5,
+  worstRating: 1,
+  ratingCount: 150,
+  reviewCount: 150
+};
+
+const rentalReviews = [
+  {
+    '@type': 'Review',
+    '@id': canonicalUrl + '#review-1',
+    reviewBody: 'I got a very nice and properly maintained bike — I recommend it to everyone!',
+    reviewRating: { '@type': 'Rating', ratingValue: 5, bestRating: 5 },
+    datePublished: '2026-01-15',
+    author: { '@type': 'Person', name: 'Rahul S.' }
+  },
+  {
+    '@type': 'Review',
+    '@id': canonicalUrl + '#review-2',
+    reviewBody: 'Service is top-notch with clean, well-maintained bikes. Booking was smooth and quick.',
+    reviewRating: { '@type': 'Rating', ratingValue: 5, bestRating: 5 },
+    datePublished: '2026-02-02',
+    author: { '@type': 'Person', name: 'Priya K.' }
+  },
+  {
+    '@type': 'Review',
+    '@id': canonicalUrl + '#review-3',
+    reviewBody: 'Very nice and properly maintained bike — highly recommend! Friendly support on WhatsApp.',
+    reviewRating: { '@type': 'Rating', ratingValue: 5, bestRating: 5 },
+    datePublished: '2026-03-10',
+    author: { '@type': 'Person', name: 'Amit Verma' }
+  }
+];
+
 const jsonLdBusiness = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
@@ -67,53 +106,30 @@ const jsonLdBusiness = {
     { '@type': 'Place', name: 'Sigra' }
   ],
   knowsAbout: [
-    'bike rental varanasi', 'scooty on rent varanasi', 'self drive bike varanasi', 'two wheeler rental varanasi', 'activa on rent varanasi', 'royal enfield on rent varanasi'
+    'bike rental varanasi', 'scooty on rent varanasi', 'self drive bike varanasi', 'two wheeler rental varanasi', 'activa on rent varanasi', 'royal enfield on rent varanasi', 'bike rental in varanasi', 'rental bike in varanasi', 'scooty rental in varanasi', 'rental scooty in varanasi', 'rent bike in varanasi'
   ],
-  // Added AggregateRating & individual Review nodes
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: 4.7,
-    bestRating: 5,
-    worstRating: 1,
-    ratingCount: 150,
-    reviewCount: 150
-  },
   areaServed: {
     '@type': 'City',
     name: 'Varanasi'
   },
-  review: [
-    {
-      '@type': 'Review',
-      '@id': canonicalUrl + '#review-1',
-      reviewBody: 'I got a very nice and properly maintained bike — I recommend it to everyone!',
-      reviewRating: { '@type': 'Rating', ratingValue: 5, bestRating: 5 },
-      datePublished: '2026-01-15',
-      author: { '@type': 'Person', name: 'Rahul S.' }
-    },
-    {
-      '@type': 'Review',
-      '@id': canonicalUrl + '#review-2',
-      reviewBody: 'Service is top-notch with clean, well-maintained bikes. Booking was smooth and quick.',
-      reviewRating: { '@type': 'Rating', ratingValue: 5, bestRating: 5 },
-      datePublished: '2026-02-02',
-      author: { '@type': 'Person', name: 'Priya K.' }
-    },
-    {
-      '@type': 'Review',
-      '@id': canonicalUrl + '#review-3',
-      reviewBody: 'Very nice and properly maintained bike — highly recommend! Friendly support on WhatsApp.',
-      reviewRating: { '@type': 'Rating', ratingValue: 5, bestRating: 5 },
-      datePublished: '2026-03-10',
-      author: { '@type': 'Person', name: 'Amit Verma' }
-    }
-  ],
   makesOffer: [
     {
       '@type': 'Offer',
       priceCurrency: 'INR',
       price: 449,
-      itemOffered: { '@type': 'Product', name: 'Scooty (Honda Activa or similar)', image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/scooty-varanasi-ghat.jpeg' },
+      itemOffered: {
+        '@type': 'Product',
+        name: 'Scooty (Honda Activa or similar)',
+        image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/scooty-varanasi-ghat.jpeg',
+        brand: { '@type': 'Brand', name: 'Vinayak Travels' },
+        offers: {
+          '@type': 'Offer',
+          priceCurrency: 'INR',
+          price: 449,
+          availability: 'https://schema.org/InStock',
+          url: canonicalUrl + '#book'
+        }
+      },
       availability: 'https://schema.org/InStock',
       url: canonicalUrl + '#book',
       eligibleRegion: 'Varanasi',
@@ -126,7 +142,19 @@ const jsonLdBusiness = {
       '@type': 'Offer',
       priceCurrency: 'INR',
       price: 900,
-      itemOffered: { '@type': 'Product', name: 'Motorbike (125–160cc)', image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/scooty-varanasi-ghat.jpeg' },
+      itemOffered: {
+        '@type': 'Product',
+        name: 'Motorbike (125–160cc)',
+        image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/scooty-varanasi-ghat.jpeg',
+        brand: { '@type': 'Brand', name: 'Vinayak Travels' },
+        offers: {
+          '@type': 'Offer',
+          priceCurrency: 'INR',
+          price: 900,
+          availability: 'https://schema.org/InStock',
+          url: canonicalUrl + '#book'
+        }
+      },
       availability: 'https://schema.org/InStock',
       url: canonicalUrl + '#book',
       eligibleRegion: 'Varanasi'
@@ -142,6 +170,31 @@ const jsonLdBusiness = {
   brand: { '@id': organizationNode['@id'] },
   provider: { '@id': organizationNode['@id'] },
   publisher: { '@id': organizationNode['@id'] }
+};
+
+// Star-eligible entity. Google shows review stars for Product (not for
+// self-serving LocalBusiness reviews), so the rating + reviews live here.
+const jsonLdProduct = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  '@id': canonicalUrl + '#rental-product',
+  name: 'Bike & Scooty Rental in Varanasi',
+  description: 'Self-drive scooty, bike and Royal Enfield rentals in Varanasi from ₹449/day — well-maintained two-wheelers with helmets, doorstep delivery and 24x7 WhatsApp support.',
+  image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/scooty-varanasi-ghat.jpeg',
+  brand: { '@type': 'Brand', name: 'Vinayak Travels' },
+  category: 'Vehicle Rental',
+  areaServed: { '@type': 'City', name: 'Varanasi' },
+  aggregateRating: rentalAggregateRating,
+  review: rentalReviews,
+  offers: {
+    '@type': 'AggregateOffer',
+    priceCurrency: 'INR',
+    lowPrice: 449,
+    highPrice: 1500,
+    offerCount: 4,
+    availability: 'https://schema.org/InStock',
+    url: canonicalUrl + '#book'
+  }
 };
 
 const jsonLdFAQ = {
@@ -217,7 +270,7 @@ const webPageNode = {
   publisher: { '@id': organizationNode['@id'] }
 };
 
-const jsonLd = { '@context': 'https://schema.org', '@graph': [organizationNode, websiteNode, webPageNode, jsonLdBreadcrumbs, jsonLdBusiness, jsonLdFAQ] };
+const jsonLd = { '@context': 'https://schema.org', '@graph': [organizationNode, websiteNode, webPageNode, jsonLdBreadcrumbs, jsonLdBusiness, jsonLdProduct, jsonLdFAQ] };
 
 const businessCallNumber = CONTACT.callNumberRaw;
 const businessWhatsAppNumber = CONTACT.whatsappNumberRaw;
@@ -228,7 +281,7 @@ export default function BikeRentalsPage({ allPosts }) {
       <Head>
         <title>Bike & Scooty Rental in Varanasi from ₹449/day | Self-Drive</title>
         <meta name="description" content="Bike rental in Varanasi from ₹449/day. Activa, Royal Enfield, 125-160cc bikes with helmet, simple documents, WhatsApp booking, airport & Assi pickup by Vinayak Travels." />
-        <meta name="keywords" content="bike rental varanasi,scooty on rent varanasi,bike on rent varanasi,self drive bike varanasi,two wheeler rental varanasi,activa on rent varanasi,royal enfield on rent varanasi" />
+        <meta name="keywords" content="bike rental varanasi,scooty on rent varanasi,bike on rent varanasi,self drive bike varanasi,two wheeler rental varanasi,activa on rent varanasi,royal enfield on rent varanasi,bike rental in varanasi,rental bike in varanasi,scooty rental in varanasi,rental scooty in varanasi,rent bike in varanasi" />
         <link rel="canonical" href={canonicalUrl} />
 
         {/* Hreflang tags for international SEO - prevents duplicate content penalties */}
@@ -548,11 +601,11 @@ export default function BikeRentalsPage({ allPosts }) {
                   ))}
                 </div>
                 <p className="text-sm text-gray-700">
-                  <span className="font-semibold">{jsonLdBusiness.aggregateRating.ratingValue}</span>/5 based on {jsonLdBusiness.aggregateRating.ratingCount} reviews
+                  <span className="font-semibold">{rentalAggregateRating.ratingValue}</span>/5 based on {rentalAggregateRating.ratingCount} reviews
                 </p>
               </div>
               <div className="mt-6 grid gap-6 sm:grid-cols-3">
-                {jsonLdBusiness.review.map(r => (
+                {rentalReviews.map(r => (
                   <figure key={r['@id']} className="relative rounded-lg border bg-white p-5 shadow-sm">
                     <blockquote className="text-sm text-gray-700 leading-relaxed">“{r.reviewBody}”</blockquote>
                     <figcaption className="mt-4 flex items-center justify-between text-xs text-gray-500">

@@ -57,6 +57,8 @@
   "makesOffer": {
     "@type": "Product",
     "name": "Shivala Ghat Taxi Service Varanasi",
+    "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg",
+    "brand": { "@type": "Brand", "name": "Vinayak Travels" },
     "description": "Book taxi to Shivala Ghat Varanasi. City drop ₹450, airport ₹900, ghat hop ₹1800. Sonarpura Crossing expertise, quiet-area drivers.",
     "category": "Ghat Taxi Service",
     "offers": {
