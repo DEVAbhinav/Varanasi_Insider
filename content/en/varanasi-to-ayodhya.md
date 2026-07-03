@@ -29,6 +29,7 @@ relatedPosts:
   - varanasi-to-ayodhya-tempo-traveller
   - varanasi-to-ayodhya-taxi
   - tour-package-from-varanasi
+  - where-to-stay-in-varanasi
 faqSchema:
   - question: "What is the distance from Varanasi to Ayodhya by road?"
     answer: "The road distance from Varanasi to Ayodhya is about 200 km via NH-31 (Jaunpur bypass) and 219 km via NH-31 through Jaunpur city. The journey usually takes 4 to 5 hours depending on traffic and city congestion near Ayodhya. After the 4-lane widening of NH-31, drive time has improved to 3.5-4 hours in off-peak conditions."

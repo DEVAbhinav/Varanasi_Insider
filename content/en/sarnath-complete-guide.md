@@ -40,6 +40,7 @@ relatedPosts:
   - tourist-spots-varanasi
   - varanasi-day-tour-cab-charges
   - varanasi-transport-price-guide-2026
+  - where-to-stay-in-varanasi
   - best-time-to-visit-varanasi
 faqSchema:
   - question: "What is the Dhamek Stupa at Sarnath?"

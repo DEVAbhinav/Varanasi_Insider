@@ -23,6 +23,7 @@ relatedPosts:
   - safety-and-security-in-varanasi-guide-for-solo-travellar
   - varanasi-transport-price-guide-2026
   - dashashwamedh-ghat-ganga-aarti-timing
+  - where-to-stay-in-varanasi
 faqSchema:
   - question: "Is it safe to visit Varanasi during the monsoon?"
     answer: "Yes, it is generally safe to visit Varanasi during the monsoon (July-September), but you must be cautious. The main risks are slippery ghats and potential water-logging in lanes. The biggest safety concern is the high level of the Ganga, which leads to the suspension of boat rides."

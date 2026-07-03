@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-03T08:30:46.784Z",
+  "timestamp": "2026-07-03T09:11:05.770Z",
   "summary": {
-    "totalLinksChecked": 404,
+    "totalLinksChecked": 406,
     "brokenLinksCount": 29,
-    "validRoutesCount": 656
+    "validRoutesCount": 658
   },
   "brokenLinks": [
     {

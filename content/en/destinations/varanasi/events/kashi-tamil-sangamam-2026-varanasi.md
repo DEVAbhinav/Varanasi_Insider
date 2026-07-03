@@ -269,6 +269,8 @@ KashiTaxi offers hourly and full-day taxi bookings optimized for the Sangamam ci
 
 Choosing the right neighborhood makes a big difference in your Sangamam experience. Here's where to book based on your priorities:
 
+Travelling as a family or group? A whole-flat homestay often beats several hotel rooms — see our full guide on [where to stay in Varanasi](/en/where-to-stay-in-varanasi).
+
 ### 🏨 BHU / Lanka Area (Best for Event Proximity)
 **Distance to BHU venues:** 0–3 km (5–10 min taxi ride)
 

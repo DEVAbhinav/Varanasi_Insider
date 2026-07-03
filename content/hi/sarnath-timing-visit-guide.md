@@ -27,6 +27,7 @@ relatedPosts:
   - varanasi-to-sarnath-tempo-traveller
   - best-time-to-visit-varanasi
   - varanasi-in-april
+  - where-to-stay-in-varanasi
 faqSchema:
   - question: "सारनाथ साइट और म्यूजियम का समय क्या है?"
     answer: "सारनाथ पुरातात्विक स्थल सामान्यतः सुबह 6:00 बजे से शाम 6:00 बजे तक खुला रहता है। सारनाथ म्यूजियम सुबह 9:00 बजे से शाम 5:00 बजे तक खुलता है और शुक्रवार को बंद रहता है।"

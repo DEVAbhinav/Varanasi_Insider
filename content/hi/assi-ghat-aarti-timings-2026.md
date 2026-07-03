@@ -22,6 +22,7 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - varanasi-in-february-2026
   - varanasi-sunrise-boat-ride-timings
+  - where-to-stay-in-varanasi
   - varanasi-day-tour-cab-charges
 originalEnglishRef: /en/assi-ghat-aarti-timings-2026
 sourceSlug: assi-ghat-aarti-timings-2026

@@ -20,6 +20,7 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - ganga-aarti-timing-varanasi
   - varanasi-safety-guide
+  - where-to-stay-in-varanasi
 faqSchema:
   - question: "How much does a boat ride cost in Varanasi in 2026?"
     answer: "Shared sunrise boat seats cost ₹80–₹150 per person. A private rowboat (4–6 seats) is ₹1,800–₹3,000. Motorboats for groups up to 15 cost ₹3,500–₹6,000. Luxury bajra boats start at ₹10,000+. Festival periods (Dev Deepawali, Kartik Purnima) can push fares 2–4× higher."

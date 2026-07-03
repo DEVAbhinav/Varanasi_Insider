@@ -43,6 +43,7 @@ relatedPosts:
   - ashoka-pillar-sarnath-guide
   - sarnath-buddhist-temple-guide
   - varanasi-to-sarnath-tempo-traveller
+  - where-to-stay-in-varanasi
 faqSchema:
   - question: "What is Sarnath timing for archaeological site and museum?"
     answer: "Sarnath archaeological site timing: 6:00 AM to 6:00 PM daily (sunrise to sunset), open every day including Fridays. Sarnath museum timing: 9:00 AM to 5:00 PM (last entry 4:30 PM), closed every Friday and national holidays. Buddhist temple timing varies: Main temple 4:30-11:00 AM and 1:30-5:30 PM. Entry fees: ₹5-300 depending on nationality. Best to visit site early morning 6:00-9:00 AM for peaceful atmosphere."
@@ -74,6 +75,8 @@ Planning your **Sarnath visit** timing correctly can make the difference between
 ## Use The Right Sarnath Page
 
 This guide covers **Sarnath timing, Friday museum closure, opening hours, and visit-planning**. For transport, booking, or a combined city tour, see the relevant links below.
+
+Sarnath is only a 30-minute drive from Varanasi, so most visitors base themselves in the city and make Sarnath a half-day trip — see [where to stay in Varanasi](/en/where-to-stay-in-varanasi) for the best areas for families and groups.
 
 Looking for **sarnath opening time**, **sarnath varanasi timings**, **sarnath temple varanasi timings**, or **sarnath mandir varanasi timings**? All the details are covered below.
 

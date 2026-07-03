@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LodgingBusiness", "BedAndBreakfast"],
+      "@id": "https://www.kashitaxi.in/hi/varanasi-family-homestay-4bhk-sigra#lodging",
+      "name": "4BHK Family Homestay Varanasi (Sigra)",
+      "url": "https://www.kashitaxi.in/hi/varanasi-family-homestay-4bhk-sigra",
+      "description": "Private entire 4BHK apartment homestay in central Sigra, Varanasi. Sleeps up to 10 guests across 4 bedrooms with 3 bathrooms and a full kitchen. A 5-minute walk from Varanasi Cantt Railway Station, opposite IP Sigra Mall, and 2-3 km from Kashi Vishwanath temple and the main ghats. Ideal for families and groups.",
+      "image": [
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
+      ],
+      "telephone": "+91-99354-74730",
+      "priceRange": "$$",
+      "petsAllowed": false,
+      "numberOfRooms": 4,
+      "maximumAttendeeCapacity": 10,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shastri Nagar Colony, Sigra (opposite IP Sigra Mall)",
+        "addressLocality": "Varanasi",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "221010",
+        "addressCountry": "IN"
+      },
+      "areaServed": "Varanasi",
+      "amenityFeature": [
+        { "@type": "LocationFeatureSpecification", "name": "Entire private 4BHK flat", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Full kitchen", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "3 bathrooms", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Sleeps up to 10", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Near Cantt Railway Station (500 m)", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Airport & station pickup on request", "value": true }
+      ],
+      "publisher": {
+        "@id": "https://www.kashitaxi.in#organization",
+        "@type": "Organization",
+        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.kashitaxi.in/hi/varanasi-family-homestay-4bhk-sigra#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.kashitaxi.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Where to Stay in Varanasi", "item": "https://www.kashitaxi.in/hi/where-to-stay-in-varanasi" },
+        { "@type": "ListItem", "position": 3, "name": "4BHK Family Homestay (Sigra)", "item": "https://www.kashitaxi.in/hi/varanasi-family-homestay-4bhk-sigra" }
+      ]
+    }
+  ]
+}

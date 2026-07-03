@@ -583,6 +583,7 @@ export default function BikeRentalsPage({ allPosts }) {
               <li><strong>Outstation Pilgrimage</strong>: Planning <a href="/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service" className="text-blue-600 hover:underline">Varanasi to Gaya for Pind Daan</a>? A 260 km trip needs AC taxi comfort.</li>
               <li><strong>Family Tours</strong>: <a href="/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly" className="text-blue-600 hover:underline">Elderly-friendly pilgrimage packages</a> with private transport.</li>
               <li><strong>Group Weddings</strong>: <a href="/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi" className="text-blue-600 hover:underline">Tempo traveller for weddings</a> (12-17 seater).</li>
+              <li><strong>Where to Stay</strong>: Riding around the city? See <a href="/en/where-to-stay-in-varanasi" className="text-blue-600 hover:underline">where to stay in Varanasi</a> — best areas for families and groups, near the ghats or central Sigra.</li>
             </ul>
             <p className="mt-4">
               Check our <a href="/en/city/varanasi/taxi/taxi-rates-varanasi" className="text-blue-600 hover:underline">complete taxi rate card</a> for transparent pricing. Mix bike rental for city days + taxi for longer excursions!

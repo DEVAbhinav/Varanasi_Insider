@@ -45,6 +45,7 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - varanasi-to-prayagraj-pilgrimage-guide
   - varanasi-to-bodh-gaya-pilgrimage-guide
+  - where-to-stay-in-varanasi
 faqSchema:
   - q: "What is the best way to plan a Varanasi to Vindhyachal tour?"
     a: >-

@@ -52,6 +52,7 @@ template: destination
 relatedPosts:
   - varanasi-airport-taxi-price-guide
   - kashi-vishwanath-shivaratri-crowd-survival-guide
+  - where-to-stay-in-varanasi
 faqSchema:
   - question: "How far is Kashi Vishwanath Temple from Varanasi Airport?"
     answer: "The distance from Varanasi Airport (VNS) to Kashi Vishwanath Temple is 25–26 km via Ring Road and Lahartara-Godowlia corridor, with a typical drive time of 40–55 minutes in normal traffic."

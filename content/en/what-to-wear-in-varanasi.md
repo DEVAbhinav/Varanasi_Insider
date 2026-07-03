@@ -13,6 +13,10 @@ keywords:
   - "what to wear in varanasi in december"
   - "what to wear in varanasi for ladies"
   - "dress code for kashi vishwanath temple"
+relatedPosts:
+  - best-time-to-visit-varanasi
+  - where-to-stay-in-varanasi
+  - is-varanasi-safe-for-solo-female-travellers
 ---
 
 # What to Wear in Varanasi: 2026 Local Dress Code Guide
