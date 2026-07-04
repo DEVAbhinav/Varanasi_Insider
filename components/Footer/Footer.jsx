@@ -2,14 +2,22 @@ import Link from 'next/link';
 import styles from './Footer.module.css';
 
 export default function Footer({ allPosts }) {
+  // Supports both the current shape ({ posts, counts }) and a legacy plain array.
+  const isStructured =
+    allPosts && !Array.isArray(allPosts) && Array.isArray(allPosts.posts);
+  const rawList = isStructured
+    ? allPosts.posts
+    : Array.isArray(allPosts)
+      ? allPosts
+      : [];
+  const totals = isStructured ? allPosts.counts || {} : {};
+
   // Normalize incoming posts to handle both formats
-  const normalized = Array.isArray(allPosts)
-    ? allPosts.map((p) =>
-        p?.params
-          ? { lang: p.params.lang, slug: p.params.slug, routePath: p.params.routePath, title: p.params.title || p.params.slug }
-          : { lang: p.lang, slug: p.slug, routePath: p.routePath, title: p.title || p.slug }
-      )
-    : [];
+  const normalized = rawList.map((p) =>
+    p?.params
+      ? { lang: p.params.lang, slug: p.params.slug, routePath: p.params.routePath, title: p.params.title || p.params.slug }
+      : { lang: p.lang, slug: p.slug, routePath: p.routePath, title: p.title || p.slug }
+  );
 
   // Group posts by language
   const groups = normalized.reduce(
@@ -62,6 +70,7 @@ export default function Footer({ allPosts }) {
                 .filter((lang) => groups[lang] && groups[lang].length > 0)
                 .map((lang) => {
                   const posts = groups[lang].slice(0, perLangLimit);
+                  const totalForLang = totals[lang] ?? groups[lang].length;
                   return (
                     <div key={lang} className={styles.langColumn}>
                       <div className={styles.langHeader}>
@@ -76,9 +85,9 @@ export default function Footer({ allPosts }) {
                           </li>
                         ))}
                       </ul>
-                      {groups[lang].length > perLangLimit && (
+                      {totalForLang > perLangLimit && (
                         <Link href={`/${lang}`} className={styles.viewAll}>
-                          View all {groups[lang].length} posts →
+                          View all {totalForLang} posts →
                         </Link>
                       )}
                     </div>
