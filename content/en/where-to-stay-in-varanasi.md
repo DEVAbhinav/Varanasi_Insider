@@ -49,6 +49,7 @@ Deciding **where to stay in Varanasi** is the single choice that shapes your who
 - **First-time visitors and families:** stay **central (Sigra area)** — close to Cantt station, markets and hospitals, with the main ghats 2–3 km away and easy taxis in every direction.
 - **Ghat-first travellers who pack light:** stay near **Assi Ghat or Dashashwamedh** to walk to the aarti.
 - **Groups of 6–10:** book a **whole-flat homestay** instead of several hotel rooms — more space, a kitchen, and a lower cost per head. See our [private 4BHK family homestay in Sigra](/en/varanasi-family-homestay-4bhk-sigra).
+- **Want prices before you decide?** See transparent from-rates for [dormitory, budget, homestay & hotel stays](/en/services/varanasi-dormitory-budget-homestay-booking) (dormitory from ₹500/night) — we show prices instead of "call for charges."
 
 ## The main areas to stay in Varanasi
 

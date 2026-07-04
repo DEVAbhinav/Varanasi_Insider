@@ -6,7 +6,7 @@ title: "12 Seater Tempo Traveller वाराणसी: 2026 रेट व उ�
 metaTitle: "12 Seater Tempo Traveller वाराणसी रेट 2026 | लोकल + आउटस्टेशन"
 metaDescription: "वाराणसी 12 सीटर टेम्पो ट्रैवलर किराया – एयरपोर्ट ₹2,500, लोकल 8hr/80km ₹5,500, आउटस्टेशन ₹24/km (250 km min). परिवार, काशी दर्शन, तीर्थ, पिंड दान यत्रा हेतु आदर्श।"
 description: "12 Seater Tempo Traveller Varanasi – मिड आकार समूह के लिए आराम + किफ़ायत का संतुलन। सीट लेआउट, रेट, उपयोग केस, बुकिंग टिप्स।"
-keywords: ["12 seater tempo traveller varanasi hindi","12 seater rent kashi","12 seater tempo traveller rate varanasi","12 seater kashi darshan","tempo traveller 12 seater airport varanasi","12 seater tempo traveller booking varanasi"]
+keywords: ["12 seater tempo traveller varanasi hindi","12 seater rent kashi","12 seater tempo traveller rate varanasi","tempo traveller 12 seater airport varanasi","12 seater tempo traveller booking varanasi"]
 relatedPosts:
   - tempo-traveller-rates-varanasi
   - 17-seater-tempo-traveller-varanasi

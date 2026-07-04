@@ -74,6 +74,9 @@ export default function ServicesPage({ services, jsonLd }) {
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/kashi-vishwanath-darshan-ganga-aarti-package">Kashi Vishwanath + Ganga Aarti planning</Link>,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-group-tour-package">Varanasi group tour packages</Link>,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/ayodhya-varanasi-prayagraj-group-tour-package">Ayodhya / Prayagraj pilgrim circuits</Link>,{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package">Golden Triangle packages</Link>,{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/services/kashi-vishwanath-vip-darshan-booking">Kashi Vishwanath VIP darshan</Link>,{' '}
+            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/services/varanasi-dormitory-budget-homestay-booking">stay booking from ₹500/night</Link>,{' '}
             <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-gaya-bodh-gaya-tour-package">Bodh Gaya spiritual tours</Link>, staff transport shuttles and 12–26 seater tempo travellers.
           </p>
 

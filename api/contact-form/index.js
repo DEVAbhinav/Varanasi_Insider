@@ -226,7 +226,7 @@ module.exports = async function (context, req) {
     // Send email notification via Resend
     const emailPayload = {
       from: process.env.RESEND_FROM_EMAIL || 'bookings@kashitaxi.in',
-      to: process.env.RESEND_TO_EMAIL || 'sudhir.vinayaktravels@gmail.com',
+      to: [process.env.RESEND_TO_EMAIL || 'sudhir.vinayaktravels@gmail.com', 'upanday232@gmail.com'],
       subject: `New ${safeTripType || 'Contact'} Inquiry from ${safeName}`,
       html: emailHtml,
     };

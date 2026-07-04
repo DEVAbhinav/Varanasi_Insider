@@ -73,6 +73,7 @@ This guide is for travelers whose real question is:
 
 For those cases:
 
+- [Kashi Vishwanath VIP / Sugam Darshan Booking](/en/services/kashi-vishwanath-vip-darshan-booking) — skip-the-queue darshan & aarti passes
 - [Dashashwamedh Ghat Ganga Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing)
 - [Assi Ghat Aarti Timings](/en/assi-ghat-aarti-timings-2026)
 - [Varanasi Group Tour Package](/en/varanasi-group-tour-package)

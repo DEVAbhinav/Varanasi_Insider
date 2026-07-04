@@ -149,6 +149,8 @@ Use these dedicated guides instead:
 - [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel)
 - [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)
 - [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
+- [Kashi Vishwanath VIP / Sugam Darshan Booking](/en/services/kashi-vishwanath-vip-darshan-booking) — skip-the-queue darshan & aarti
+- [All Varanasi stays with prices](/en/services/varanasi-dormitory-budget-homestay-booking) — dormitory, budget, homestay & hotel from ₹500/night
 
 ---
 

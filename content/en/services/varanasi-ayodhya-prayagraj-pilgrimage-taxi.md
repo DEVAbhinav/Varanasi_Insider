@@ -127,7 +127,7 @@ For a single direct route, see [Varanasi to Prayagraj](/en/varanasi-to-prayagraj
 
 **Circuit**: Varanasi → Bodh Gaya → Varanasi (Same Day): ₹9,500 Sedan / ₹12,500 Innova
 
-**Multi-Day Option**: Kashi → Gaya → Prayagraj → Ayodhya (4D/3N pilgrimage package available)
+**Multi-Day Option**: Kashi → Gaya → Prayagraj → Ayodhya (4D/3N pilgrimage package available) — see our fixed-price [Divya Dham 4-city package](/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package) (from ₹12,000/person) or the 3-city [Golden Triangle package](/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package) (from ₹8,499/person).
 
 ## Best Taxi for Varanasi Ayodhya Prayagraj Tour: Our Pilgrimage Service Standards
 

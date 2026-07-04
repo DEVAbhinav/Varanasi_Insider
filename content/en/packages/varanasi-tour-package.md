@@ -33,6 +33,9 @@ lastUpdated: "2026-02-05"
 | Hotel-area selection first | [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel) |
 | A low-walking elder-friendly trip | [Senior Citizen Varanasi Tour Package](/en/senior-citizen-varanasi-tour-package) |
 | Varanasi plus outstation combinations | [Tour Package from Varanasi](/en/tour-package-from-varanasi) |
+| 3-city Varanasi–Ayodhya–Prayagraj with fixed per-person price | [Golden Triangle Package](/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package) |
+| 4-city circuit adding Bodh Gaya | [Divya Dham Package](/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package) |
+| Skip-the-queue Kashi Vishwanath VIP darshan | [VIP / Sugam Darshan Booking](/en/services/kashi-vishwanath-vip-darshan-booking) |
 
 ## Why Choose a Varanasi Tour Package?
 

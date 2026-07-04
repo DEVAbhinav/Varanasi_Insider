@@ -78,6 +78,8 @@ I've run this exact 3-city circuit for temple committees, corporate CSR teams, a
 
 All intercity legs are on national highways. The same vehicle and driver cover the entire circuit — no handover confusion.
 
+> **Want fixed per-person pricing for this circuit?** See our transparent-priced [Golden Triangle Varanasi–Ayodhya–Prayagraj package](/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package) (3N/4D from ₹8,499/person), or add Bodh Gaya with the 4-city [Divya Dham package](/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package).
+
 ## Why Trust Kashi Taxi for This 3-City Group Tour
 
 This package works only when operations are tighter than the marketing copy. Our trust layer is simple and practical:
