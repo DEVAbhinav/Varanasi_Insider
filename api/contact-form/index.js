@@ -91,7 +91,7 @@ module.exports = async function (context, req) {
 
   try {
     // Parse request body
-    const { name, phone, email, passengers, tripType, pickupDate, message, source, parentPageTitle, parentPageUrl } = req.body;
+    const { name, phone, email, passengers, tripType, pickupDate, message, source, parentPageTitle, parentPageUrl, visitorLanguage } = req.body;
 
     // Validate required fields
     if (!name || !phone) {
@@ -121,6 +121,48 @@ module.exports = async function (context, req) {
     const safeSource = escapeHtml(source);
     const safeParentPageTitle = escapeHtml(parentPageTitle);
     const safeParentPageUrl = escapeHtml(sanitizeUrl(parentPageUrl));
+
+    // Language-independent context so the lead is actionable regardless of the
+    // page's language or the visitor's browser auto-translation (e.g. a Tamil
+    // visitor auto-translating an English event page). The URL slug is always
+    // English, so we derive a readable "Enquiry about" topic from it.
+    const LANG_NAMES = {
+      en: 'English', hi: 'Hindi', ta: 'Tamil', te: 'Telugu', kn: 'Kannada',
+      ml: 'Malayalam', bn: 'Bengali', mr: 'Marathi', gu: 'Gujarati', pa: 'Punjabi',
+      or: 'Odia', as: 'Assamese', ur: 'Urdu', ne: 'Nepali', sa: 'Sanskrit',
+    };
+    const deriveEnquiryTopic = (url) => {
+      try {
+        const { pathname } = new URL(url, 'https://www.kashitaxi.in');
+        const parts = pathname.split('/').filter(Boolean);
+        if (parts[0] === 'en' || parts[0] === 'hi') parts.shift();
+        const slug = parts[parts.length - 1] || '';
+        if (!slug) return '';
+        return slug.replace(/[-_]+/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()).trim();
+      } catch (e) {
+        return '';
+      }
+    };
+    const detectPageLanguage = (url) => {
+      try {
+        const { pathname } = new URL(url, 'https://www.kashitaxi.in');
+        const first = pathname.split('/').filter(Boolean)[0];
+        return LANG_NAMES[first] || '';
+      } catch (e) {
+        return '';
+      }
+    };
+    const describeLanguage = (code) => {
+      if (!code) return '';
+      const base = String(code).toLowerCase().split('-')[0];
+      const name = LANG_NAMES[base];
+      return name ? `${name} (${code})` : String(code);
+    };
+    const enquiryTopic = deriveEnquiryTopic(parentPageUrl);
+    const pageLanguageLabel = detectPageLanguage(parentPageUrl);
+    const visitorLanguageLabel = describeLanguage(visitorLanguage);
+    const safeEnquiryTopic = escapeHtml(enquiryTopic);
+    const safeVisitorLanguageLabel = escapeHtml(visitorLanguageLabel);
 
     // Initialize Resend
     const resend = new Resend(process.env.RESEND_API_KEY);
@@ -190,11 +232,15 @@ module.exports = async function (context, req) {
               <div class="value" style="white-space: pre-wrap;">${safeMessage}</div>
             </div>
             ` : ''}
-            ${(parentPageTitle || parentPageUrl) ? `
+            ${(parentPageTitle || parentPageUrl || enquiryTopic) ? `
             <div class="field">
               <span class="label">Widget Location:</span>
               <div class="value">
-                ${parentPageTitle ? `<div><strong>Page:</strong> ${safeParentPageTitle}</div>` : ''}
+                ${enquiryTopic ? `<div style="font-size: 15px;"><strong>Enquiry about:</strong> ${safeEnquiryTopic}</div>
+                <div style="color: #888; font-size: 12px; margin: 2px 0 6px;">Travel service enquiry (cab / hotel / boat / tour) — not event registration.</div>` : ''}
+                ${parentPageTitle ? `<div style="color: #666; font-size: 13px;"><strong>Page title (as visitor saw it):</strong> ${safeParentPageTitle}</div>` : ''}
+                ${pageLanguageLabel ? `<div style="color: #666; font-size: 13px;"><strong>Page language:</strong> ${escapeHtml(pageLanguageLabel)}</div>` : ''}
+                ${visitorLanguageLabel ? `<div style="color: #666; font-size: 13px;"><strong>Visitor's browser language:</strong> ${safeVisitorLanguageLabel}</div>` : ''}
                 ${parentPageUrl ? `<div><strong>URL:</strong> <a href="${safeParentPageUrl}" target="_blank" rel="noopener">${safeParentPageUrl}</a></div>` : ''}
               </div>
             </div>
@@ -227,7 +273,7 @@ module.exports = async function (context, req) {
     const emailPayload = {
       from: process.env.RESEND_FROM_EMAIL || 'bookings@kashitaxi.in',
       to: [process.env.RESEND_TO_EMAIL || 'sudhir.vinayaktravels@gmail.com', 'upanday232@gmail.com'],
-      subject: `New ${safeTripType || 'Contact'} Inquiry from ${safeName}`,
+      subject: `New ${safeTripType || 'Contact'} Inquiry from ${safeName}${enquiryTopic ? ` — ${enquiryTopic}` : ''}`,
       html: emailHtml,
     };
 
@@ -356,6 +402,8 @@ module.exports = async function (context, req) {
       source: source || 'Website',
       parentPageTitle: parentPageTitle || null,
       parentPageUrl: parentPageUrl || null,
+      visitorLanguage: visitorLanguage || null,
+      enquiryTopic: enquiryTopic || null,
       emailSent: !adminEmailError,
       emailId: adminEmailData?.id || null,
       customerEmailSent: !!customerEmailData?.id && !customerEmailError,

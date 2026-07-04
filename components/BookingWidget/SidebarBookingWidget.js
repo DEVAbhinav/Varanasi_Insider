@@ -52,9 +52,16 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
     }
 
     try {
-  const widgetPageTitle = pageTitle || (typeof document !== 'undefined' ? document.title : '');
+  // Prefer the untranslated canonical title (prop or <meta og:title>) so browser
+  // auto-translation (e.g. Chrome translating a page to Tamil) can't rewrite the
+  // page title we report in the lead email. Fall back to document.title last.
+  const ogTitle = typeof document !== 'undefined'
+    ? (document.querySelector('meta[property="og:title"]')?.getAttribute('content') || '')
+    : '';
+  const widgetPageTitle = pageTitle || ogTitle || (typeof document !== 'undefined' ? document.title : '');
   const browserLocation = typeof window !== 'undefined' ? window.location.href : '';
   const widgetPageUrl = browserLocation || pageUrl || router.asPath || '';
+  const visitorLanguage = typeof navigator !== 'undefined' ? (navigator.language || '') : '';
 
       const response = await fetch('/api/contact-form', {
         method: 'POST',
@@ -72,6 +79,7 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
           source: 'Sidebar Widget',
           parentPageTitle: widgetPageTitle || null,
           parentPageUrl: widgetPageUrl || null,
+          visitorLanguage: visitorLanguage || null,
         }),
       });
 
@@ -146,8 +154,8 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
           }}></div>
         </div>
         <div className="relative z-10">
-          <h3 className="text-xl font-bold mb-1 drop-shadow-md">🚕 Quick Booking</h3>
-          <p className="text-sm text-blue-50">Get instant quote</p>
+          <h3 className="text-xl font-bold mb-1 drop-shadow-md">🚕 Book Cab, Hotel &amp; Boat</h3>
+          <p className="text-sm text-blue-50">Instant quote for Varanasi travel &amp; tours</p>
         </div>
       </div>
 
