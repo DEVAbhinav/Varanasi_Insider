@@ -270,17 +270,19 @@ module.exports = async function (context, req) {
     `;
 
     // Send email notification via Resend
+    // All lead emails go to Sudhir, with Abhinav and Upanday CC'd for visibility.
+    const emailCc = ['abhinavpandey.1996@gmail.com', 'upanday232@gmail.com'];
+    if (process.env.RESEND_CC_EMAIL) {
+      emailCc.push(process.env.RESEND_CC_EMAIL);
+    }
+
     const emailPayload = {
       from: process.env.RESEND_FROM_EMAIL || 'bookings@kashitaxi.in',
-      to: [process.env.RESEND_TO_EMAIL || 'sudhir.vinayaktravels@gmail.com', 'upanday232@gmail.com'],
+      to: 'sudhir.vinayaktravels@gmail.com',
+      cc: emailCc,
       subject: `New ${safeTripType || 'Contact'} Inquiry from ${safeName}${enquiryTopic ? ` — ${enquiryTopic}` : ''}`,
       html: emailHtml,
     };
-
-    // Add CC if configured
-    if (process.env.RESEND_CC_EMAIL) {
-      emailPayload.cc = process.env.RESEND_CC_EMAIL;
-    }
 
     const { data: adminEmailData, error: adminEmailError } = await resend.emails.send(emailPayload);
 
