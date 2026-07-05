@@ -17,6 +17,7 @@ tags:
   - evening
   - price guide
 relatedPosts:
+  - boat-ride-varanasi
   - morning-boat-ride-varanasi-price
   - varanasi-transport-price-guide-2026
   - varanasi-safety-guide
@@ -31,7 +32,14 @@ faqSchema:
 
 # Evening Boat Ride Varanasi: Watch Ganga Aarti from the Water (Differentiated 2026 Planning Guide)
 
-> **TL;DR:** Evening boat ride Varanasi seats disappear 40 minutes before the Ganga Aarti, so decide between shared ₹250 benches and ₹3,000 private rowboats ahead of time, board early to claim the central arc, and prep ISO 2000 and f2.8 settings for flame detail. Micro-tip: carry a thin cushion; wooden planks bruise during 60-minute holds.
+> **TL;DR — book before the aarti rush:**
+>
+> - **Shared bench** → from ₹250 per seat
+> - **Private rowboat** → around ₹3,000
+> - **Seats vanish ~40 min before the Ganga Aarti** → board early for the central arc
+> - **Photographers** → prep ISO 2000 and f2.8 for flame detail
+>
+> Micro-tip: carry a thin cushion — the wooden planks bruise during a 60-minute hold.
 
 > **What's covered here:** Boat types, seat classes, boarding timing, river alignment, and photography settings for watching Ganga Aarti from the water. For the ceremony's full timing and crowd strategy, see the [Dashashwamedh timing guide](/en/dashashwamedh-ghat-ganga-aarti-timing).
 

@@ -25,7 +25,14 @@ relatedPosts:
 
 # Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)
 
-> **TL;DR:** Outstation cabs from Varanasi cover Ayodhya, Prayagraj, Bodh Gaya, and more with Ertiga, Innova, SUVs, and Tempo Travellers—expect ₹12-₹14 per km for sedans, ₹16-₹18 per km for Crystas, and ₹24-₹27 per km for travellers with GST invoices. Micro-tip: request a luggage carrier or rain cover during booking, not dispatch morning, to avoid delays.
+> **TL;DR — Outstation cabs from Varanasi:**
+>
+> - **Sedan** → ₹12–₹14 per km
+> - **Innova Crysta** → ₹16–₹18 per km
+> - **Tempo Traveller** → ₹24–₹27 per km (GST invoices included)
+> - **Routes** → Ayodhya, Prayagraj, Bodh Gaya and more (Ertiga, Innova, SUVs, Tempo Travellers)
+>
+> Micro-tip: request a luggage carrier or rain cover during booking, not on dispatch morning, to avoid delays.
 
 **Planning a family yatra or a quick city-to-city hop?** We run outstation cabs from Varanasi every single day—Ayodhya, Prayagraj, Bodh Gaya, Lucknow and beyond—with commercial-permit vehicles, verified drivers, GST invoices and transparent fares. Pick your size: **6 seater, 7 seater, SUV, Innova Crysta, or Tempo Traveller** with **luggage carrier** on request.
 

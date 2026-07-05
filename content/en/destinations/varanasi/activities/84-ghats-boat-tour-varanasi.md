@@ -33,6 +33,7 @@ location:
   name: "Ghats of Varanasi"
   address: "Varanasi, Uttar Pradesh"
 relatedPosts:
+  - boat-ride-varanasi
   - morning-boat-ride-varanasi-price
   - evening-boat-ride-varanasi-ganga-aarti
   - ganga-aarti-timing-varanasi-2026

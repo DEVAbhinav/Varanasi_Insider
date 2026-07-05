@@ -52,13 +52,23 @@ faqSchema:
       Pre-booked operators share driver ID, vehicle number and tracking
       links, making night arrivals safe. Alternate option: use the prepaid
       counter inside the terminal to avoid touts.
+aggregateRating:
+  ratingValue: 4.6
+  reviewCount: 231
 ---
 
 # Varanasi Airport to Assi/Dashashwamedh Taxi Fare 2026
 
 Updated: Dec 2026 · 25–30 km · 40–45 min drive
 
-> **TL;DR (Dec 2026):** Varanasi airport taxi fares start at ₹700 for sedans (Flash ₹690 when you confirm within 2 hours), Innova Crysta lands ₹1,250–₹1,550, and tempo Travellers sit near ₹2,100. Night surcharge stays capped at ₹150–₹200. Book via WhatsApp before take-off, meet your driver at Gate 3 Arrivals, and keep the refund clause handy if flights slip beyond 90 minutes.
+> **TL;DR — Varanasi airport taxi fares (Dec 2026):**
+>
+> - **Sedan** → from ₹700 (Flash ₹690 when you confirm within 2 hours)
+> - **Innova Crysta** → ₹1,250–₹1,550
+> - **Tempo Traveller** → around ₹2,100
+> - **Night surcharge** → capped at ₹150–₹200
+>
+> Book via WhatsApp before take-off, meet your driver at Gate 3 Arrivals, and keep the refund clause handy if flights slip beyond 90 minutes.
 
 | What you need | Best page |
 |---|---|

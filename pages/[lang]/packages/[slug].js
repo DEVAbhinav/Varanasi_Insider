@@ -357,8 +357,7 @@ export async function getStaticProps({ params }) {
     return `https://www.kashitaxi.in${v.startsWith("/") ? v : `/${v}`}`;
   };
   const productImage = resolveImageUrl(frontmatter.heroImage);
-  const jsonLdData = {
-    "@context": "https://schema.org",
+  const offerCatalog = {
     "@type": "OfferCatalog",
     name: frontmatter.title,
     itemListElement: (frontmatter.tiers || []).map((t) => ({
@@ -378,6 +377,31 @@ export async function getStaticProps({ params }) {
       },
     })),
   };
+
+  let jsonLdData = { "@context": "https://schema.org", ...offerCatalog };
+
+  // Attach a standalone Product node so Google has an unambiguous item to render
+  // review stars for in the SERP (OfferCatalog itself is not review-snippet eligible).
+  if (frontmatter.aggregateRating && frontmatter.aggregateRating.ratingValue != null) {
+    const canonicalUrl = `https://www.kashitaxi.in/${params.lang}/packages/${params.slug}`;
+    const ratingProduct = {
+      "@type": "Product",
+      name: frontmatter.title,
+      description: frontmatter.description || frontmatter.subtitle || frontmatter.title,
+      image: productImage,
+      url: canonicalUrl,
+      brand: { "@type": "Brand", name: "Varanasi Taxi" },
+      areaServed: "Varanasi",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: frontmatter.aggregateRating.ratingValue,
+        reviewCount: frontmatter.aggregateRating.reviewCount || frontmatter.aggregateRating.ratingCount,
+        bestRating: "5",
+        worstRating: "1",
+      },
+    };
+    jsonLdData = { "@context": "https://schema.org", "@graph": [offerCatalog, ratingProduct] };
+  }
   const sanitizedJsonLdData = sanitizeJsonLdData(jsonLdData);
 
   const alternateLanguages = buildAlternateLanguageUrls({

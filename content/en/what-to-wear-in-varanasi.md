@@ -3,7 +3,7 @@ title: "What to Wear in Varanasi 2026: Temple Dress Code for Women, Men & Season
 date: "2024-05-15"
 author: "Travel Agent Varanasi Team"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/pink-sky-ghat-varanasi-l.jpeg"
-metaTitle: "What to Wear in Varanasi 2026: Temple Dress Code + Seasonal Tips"
+metaTitle: "What to Wear in Varanasi 2026: Temple Dress Code Mistakes to Avoid"
 metaDescription: "What to wear in Varanasi for temples, ghats, summer, winter, women and men. Simple local dress-code tips for a respectful, comfortable visit."
 description: "A complete guide on what to wear in Varanasi for men and women. Includes tips for temples, seasons (winter/summer), and a packing list. Dress respectfully!"
 keywords:
@@ -115,3 +115,7 @@ Once you're dressed appropriately, you'll need reliable transport. The narrow ga
 - **[Airport Taxi Service](/en/city/varanasi/taxi/airport-taxi-varanasi)** – Pre-book your VNS airport pickup with fixed fares (₹600-950) and avoid negotiating with touts at arrival.
 - **[24/7 Taxi Service](/en/city/varanasi/taxi/24-7-taxi-varanasi)** – Early morning aarti or late-night train? We operate round-the-clock.
 - **[Varanasi Taxi Rates](/en/city/varanasi/taxi/taxi-rates-varanasi)** – Transparent pricing for city tours, ghats, and outstation trips.
+
+---
+
+> **Planning your Varanasi trip?** Skip the tout haggling — [get a free WhatsApp trip plan](https://wa.me/919935474730?text=Varanasi%20trip%20planning%20help) or call [+91 99354 74730](tel:+919935474730). We arrange airport pickup, ghat transfers, and boat + Ganga Aarti bookings for you.

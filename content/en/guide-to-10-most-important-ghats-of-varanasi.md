@@ -121,3 +121,7 @@ The cost of a boat ride can vary depending on the duration, type of boat (rowing
 
 **Are the ghats safe for solo female travellers?**
 The main ghats are generally safe during the day and early evening due to high foot traffic. However, it is advisable to avoid isolated ghats or narrow lanes after dark. Dressing modestly and being aware of your surroundings is recommended for a safe experience. Read our complete [Varanasi safety guide for solo female travellers](/en/is-varanasi-safe-for-solo-female-travellers) for more tips.
+
+---
+
+> **Want to cover these ghats by boat?** [Book a sunrise or evening boat with a cab on WhatsApp](https://wa.me/919935474730?text=Varanasi%20ghats%20boat%20%26%20cab%20plan) or call [+91 99354 74730](tel:+919935474730).

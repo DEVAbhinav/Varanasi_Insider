@@ -34,7 +34,13 @@ relatedPosts:
 
 # 5 Best Dev Deepawali Viewing Spots Beyond Dashashwamedh Ghat: Escape the Crowds 2026
 
-> **TL;DR:** Skip Dashashwamedh gridlock and claim calmer yet dazzling sightlines at Assi, Chet Singh, Raj, Domri, and select rooftops for Dev Deepawali 2026—your best ghat Dev Deepawali playbook. Expect balanced crowds, better photography, and easier exits when you arrive by 4:30 PM. Micro-tip: pre-book a return e-rickshaw so you aren't stranded once barricades lock in.
+> **TL;DR — best Dev Deepawali viewing spots 2026:**
+>
+> - **Skip** → Dashashwamedh gridlock
+> - **Head to** → Assi, Chet Singh, Raj, Domri and select rooftops
+> - **Arrive by 4:30 PM** → balanced crowds, better photography, easier exits
+>
+> Micro-tip: pre-book a return e-rickshaw so you aren't stranded once the barricades lock in.
 
 <!-- Moved featured image below TL;DR to prioritize summary per content guidelines. -->
 

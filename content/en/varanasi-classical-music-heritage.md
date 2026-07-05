@@ -121,3 +121,5 @@ Do not interrupt riyaz with gear chatter. Support artisans by paying fair rates 
 - [Dev Deepawali Photography Guide](/en/dev-deepawali-photography-guide-2026)
 
 **Need the Hindi version or instrument buying guide? Ask next.**
+
+> **Want to catch a live classical performance on your trip?** [Ask us on WhatsApp](https://wa.me/919935474730?text=Varanasi%20classical%20music%20experience%20%26%20cab) or call [+91 99354 74730](tel:+919935474730) and we'll add it to your plan with transport.

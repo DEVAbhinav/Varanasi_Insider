@@ -753,4 +753,6 @@ Come with an open heart, leave with expanded consciousness, and carry the blessi
 
 *Book your authentic Maha Shivaratri 2026 experience through our verified spiritual tour partners. Get temple guidance, cultural context, and safe navigation through one of the world's most intense spiritual celebrations.*
 
+> **Planning your Maha Shivaratri 2026 trip?** [Get a WhatsApp cab & darshan plan](https://wa.me/919935474730?text=Maha%20Shivaratri%202026%20cab%20%26%20darshan%20plan) or call [+91 99354 74730](tel:+919935474730). Festival dates book out early — lock your pickup and boat now.
+
 **Spiritual Tip:** Maha Shivaratri in Varanasi is not about seeing a festival - it's about becoming part of an ancient spiritual tradition. Approach it with reverence, patience, and openness, and you'll discover why millions of devotees consider this the most powerful spiritual experience of their lives.

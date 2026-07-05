@@ -95,3 +95,5 @@ Rooms and flats fill up fast around **Dev Deepawali, Mahashivratri, and the wedd
 ## Putting it together for a family trip
 
 For a typical 2–3 night family visit, base yourself centrally, book a whole-flat stay, and let one local team handle your **stay + taxi + Ganga Aarti and boat booking**. That is exactly what we set up for families at our [4BHK homestay in Sigra](/en/varanasi-family-homestay-4bhk-sigra) — a 5-minute walk from Cantt station and a short drive to the ghats. Pair it with our [3-day Varanasi family itinerary](/en/family-tour-varanasi-3-days-parents) for a smooth, low-stress trip.
+
+> **Want your stay + taxi + boat handled by one local team?** [Message us on WhatsApp](https://wa.me/919935474730?text=Varanasi%20stay%20%2B%20taxi%20%2B%20boat%20package) or call [+91 99354 74730](tel:+919935474730) with your dates and group size for a single, fixed quote.

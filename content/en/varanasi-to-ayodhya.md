@@ -47,7 +47,14 @@ faqSchema:
 
 # Varanasi to Ayodhya Distance, Taxi Fare & Travel Options (2026)
 
-> **TL;DR:** Varanasi to Ayodhya is **200 km via NH-31 (Jaunpur bypass)** and takes **4 to 5 hours**. Sedan taxi fare is **₹3,500–₹3,800 one way**, same-day return from **₹6,500**. One toll plaza (₹215 at Jaunpur). Taxi drops you 800 m from Ram Mandir security gate — way faster than train + auto combo. For group vehicles, use our [Ayodhya tempo traveller price list](/en/varanasi-to-ayodhya-tempo-traveller).
+> **TL;DR — Varanasi to Ayodhya by taxi:**
+>
+> - **Distance** → 200 km via NH-31 (Jaunpur bypass), 4–5 hours
+> - **Sedan fare** → ₹3,500–₹3,800 one way · same-day return from ₹6,500
+> - **Tolls** → one plaza, ₹215 at Jaunpur
+> - **Drop point** → 800 m from the Ram Mandir security gate (faster than train + auto)
+>
+> Travelling as a group? See our [Ayodhya tempo traveller price list](/en/varanasi-to-ayodhya-tempo-traveller).
 
 **Also searched as:** Banaras se Ayodhya ki duri • वाराणसी से अयोध्या की दूरी • बनारस से अयोध्या कितने किलोमीटर है • Kashi to Ayodhya distance
 

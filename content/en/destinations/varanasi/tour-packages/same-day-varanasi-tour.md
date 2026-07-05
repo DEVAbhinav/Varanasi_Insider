@@ -60,12 +60,19 @@ offers:
   - price: "2500"
     priceCurrency: "INR"
 aggregateRating:
-  ratingValue: "4.9"
+  ratingValue: "4.6"
   reviewCount: "230"
 brand: "Kashi Taxi"
 ---
 
-> **TL;DR:** 8–10 hour Varanasi day-tour (₹2,500+) covering Kashi Vishwanath Jyotirlinga, Sarnath Buddhist site, BHU campus, sunset Ganga boat ride, and the iconic Dashashwamedh Aarti — with street food stops woven in. Ideal for transit travellers, business layovers, and pilgrims on tight schedules. *Scroll for the hour-by-hour plan, entry fees, and seasonal tips.*
+> **TL;DR — same-day Varanasi tour (₹2,500+, 8–10 hours):**
+>
+> - **See** → Kashi Vishwanath Jyotirlinga, Sarnath, BHU campus
+> - **On the water** → sunset Ganga boat ride + Dashashwamedh Aarti
+> - **Woven in** → street-food stops
+> - **Ideal for** → transit travellers, business layovers, pilgrims on tight schedules
+>
+> *Scroll for the hour-by-hour plan, entry fees, and seasonal tips.*
 
 ## Why This Itinerary Works
 

@@ -150,3 +150,5 @@ Trying to force a heavy noon itinerary after a very early wake-up often reduces 
 - [What to Wear in Varanasi](/en/what-to-wear-in-varanasi) for packing help
 
 If you want to line this up with a pickup, a boat or a same-morning temple visit, send the **date, hotel area and group size** first. Morning Varanasi rewards precise timing more than guesswork.
+
+> **Want a pre-dawn pickup + boat for the morning aarti?** [Send date, hotel area & group size on WhatsApp](https://wa.me/919935474730?text=Assi%20Ghat%20morning%20aarti%20pickup%20%26%20boat) or call [+91 99354 74730](tel:+919935474730) for a fixed quote.

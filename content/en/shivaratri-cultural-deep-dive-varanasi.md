@@ -621,4 +621,6 @@ Remember that all these practices - from the gentle devotional singing to the ex
 
 *Explore Maha Shivaratri's deeper cultural traditions responsibly with our verified spiritual guides. Get authentic philosophical context, safety guidance, and respectful access to traditional practices in Varanasi.*
 
+> **Visiting Varanasi for Maha Shivaratri?** [Get a WhatsApp cab & darshan plan](https://wa.me/919935474730?text=Maha%20Shivaratri%20Varanasi%20cab%20%26%20darshan%20plan) or call [+91 99354 74730](tel:+919935474730). Book early — the festival window fills fast.
+
 **Cultural Wisdom:** The most profound spiritual traditions often appear the most challenging or controversial to outsiders. This isn't to exclude, but to ensure that those who approach do so with the seriousness, preparation, and respect that these powerful practices require. Whether you dive deep or observe from afar, approach with reverence for the sincere seekers who have preserved these traditions through millennia of change.

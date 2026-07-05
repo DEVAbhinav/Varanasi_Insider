@@ -38,7 +38,14 @@ relatedPosts:
 
 # Dev Deepawali 2026 Varanasi November 5: Million Lamps Festival Complete Guide
 
-> **TL;DR:** Dev Deepawali 2026 falls on November 5th (Kartik Purnima) in Varanasi. Experience millions of earthen lamps illuminating all 84 ghats, creating the world's most spectacular spiritual light show. Book boat rides (₹200-₹13,000+ range), arrive early (3-4 PM), expect massive crowds (100,000+), and plan transport in advance for the "Diwali of the Gods."
+> **TL;DR — Dev Deepawali 2026 at a glance:**
+>
+> - **Date** → 5 November 2026 (Kartik Purnima)
+> - **The sight** → millions of earthen lamps across all 84 ghats
+> - **Boat rides** → ₹200–₹13,000+
+> - **Crowds** → 100,000+ — arrive by 3–4 PM and plan transport in advance
+>
+> It's the "Diwali of the Gods" — the world's most spectacular spiritual light show.
 
 <!-- Note: Hero image shifted below TL;DR for compliance with new summary placement. -->
 

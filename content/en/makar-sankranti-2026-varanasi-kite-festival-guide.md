@@ -836,6 +836,8 @@ The festival teaches us that **spirituality doesn't have to be somber** - it can
 
 *Book your Makar Sankranti 2026 experience in Varanasi through our verified local partners. Get authentic accommodation with rooftop access, cultural guidance, and insider access to the best family celebrations and traditional experiences.*
 
+> **Planning Makar Sankranti 2026 in Varanasi?** [Get a WhatsApp trip plan (cab, boat & rooftop access)](https://wa.me/919935474730?text=Makar%20Sankranti%202026%20Varanasi%20trip%20plan) or call [+91 99354 74730](tel:+919935474730).
+
 **Festival Tip:** Makar Sankranti in Varanasi is perfect for travelers seeking authentic cultural immersion without overwhelming crowds. It offers the ideal balance of spiritual depth and recreational joy, making it suitable for all ages and cultural backgrounds.
 
 > **Planning January Travel?** See our comprehensive **[Varanasi in January 2026 Guide](/en/city/varanasi/travel-guide/varanasi-in-january-2026)** for weather, packing tips, and a complete 3-day itinerary.

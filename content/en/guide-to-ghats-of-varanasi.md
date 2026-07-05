@@ -156,3 +156,7 @@ That single framework is far more effective than trying to collect every famous 
 - [Dashashwamedh Ghat Aarti Timing](/en/dashashwamedh-ghat-ganga-aarti-timing)
 - [Morning Boat Ride Price](/en/morning-boat-ride-varanasi-price)
 - [Manikarnika Ghat Guide](/en/manikarnika-ghat-sacred-cremation-grounds)
+
+---
+
+> **Planning to see the ghats in person?** [Get a free WhatsApp itinerary with a boat & cab plan](https://wa.me/919935474730?text=Varanasi%20ghats%20trip%20plan) or call [+91 99354 74730](tel:+919935474730).

@@ -168,7 +168,20 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
     if (firstP === -1) return { part1: contentHtmlBefore, part2: null };
 
     const secondP = contentHtmlBefore.indexOf('</p>', firstP + 4);
-    const splitIndex = (secondP !== -1) ? secondP + 4 : firstP + 4;
+    let splitIndex = (secondP !== -1) ? secondP + 4 : firstP + 4;
+
+    // Never split inside an open block element (blockquote/list/table); if the
+    // tentative split lands inside one, advance past that block's closing tag.
+    const countTag = (str, tag) => (str.match(new RegExp(`<${tag}[\\s>]`, 'g')) || []).length;
+    const blocks = ['blockquote', 'ul', 'ol', 'table'];
+    for (let guard = 0; guard < blocks.length + 2; guard += 1) {
+      const head = contentHtmlBefore.substring(0, splitIndex);
+      const openBlock = blocks.find((tag) => countTag(head, tag) > (head.match(new RegExp(`</${tag}>`, 'g')) || []).length);
+      if (!openBlock) break;
+      const close = contentHtmlBefore.indexOf(`</${openBlock}>`, splitIndex);
+      if (close === -1) { splitIndex = contentHtmlBefore.length; break; }
+      splitIndex = close + `</${openBlock}>`.length;
+    }
 
     return {
       part1: contentHtmlBefore.substring(0, splitIndex),

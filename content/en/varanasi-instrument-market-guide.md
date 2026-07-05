@@ -125,3 +125,5 @@ Morning purchase → Evening Ganga Mahotsav performance: immediate ear training 
 - [Ganga Mahotsav 2026 Guide](/en/ganga-mahotsav-2026-classical-festival-varanasi)
 
 Need Hindi translation or video gear checklist next? Ask. 
+
+> **Planning a visit to the instrument markets?** [Get a WhatsApp guide with a cab for the day](https://wa.me/919935474730?text=Varanasi%20instrument%20market%20visit%20%26%20cab) or call [+91 99354 74730](tel:+919935474730).

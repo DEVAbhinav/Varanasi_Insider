@@ -228,4 +228,6 @@ For operating constraints in rain season, read [Varanasi in Monsoon](/en/varanas
 
 For the best balance of comfort, photography, and cultural experiences, **October through March** is undoubtedly the best time to visit Varanasi. If you want to see the city at its most ethereal (and busiest), aim for **Dev Deepawali in November** and be sure to book everything early. If you prefer fewer crowds and lower prices, consider visiting in **late February** or **September**—and always check the river conditions if a **Ganga boat ride** is a priority for your trip.
 
+> **Not sure when to come?** Tell us your travel window and we'll suggest the best dates and build your plan — [message on WhatsApp](https://wa.me/919935474730?text=Varanasi%20trip%20planning%20best%20dates) or call [+91 99354 74730](tel:+919935474730).
+
 > Next: plan your evenings with our guide to **[Ganga Aarti timings](/en/dashashwamedh-ghat-ganga-aarti-timing)** and your logistics with the **[Varanasi Transport Price Guide](/en/varanasi-transport-price-guide-2026)**.

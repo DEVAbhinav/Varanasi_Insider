@@ -585,4 +585,6 @@ Photography Communities: Flickr groups, Reddit photography
 
 *Book your Varanasi photography tour or equipment rental through our verified local partners. Get insider access to the best photography spots and professional guidance for capturing once-in-a-lifetime Dev Deepawali images.*
 
+> **Shooting Dev Deepawali 2026?** [Book a photography-friendly boat & cab on WhatsApp](https://wa.me/919935474730?text=Dev%20Deepawali%202026%20photography%20boat%20%26%20cab) or call [+91 99354 74730](tel:+919935474730). Prime boat slots sell out weeks ahead.
+
 **Photography Tip:** The magic of Dev Deepawali photography lies not just in the lamps, but in capturing the deep spiritual connection between the devotees, the ancient ghats, and the eternal Ganges. Focus on telling the complete story, not just documenting the spectacle.

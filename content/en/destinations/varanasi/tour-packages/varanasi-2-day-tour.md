@@ -63,12 +63,19 @@ offers:
   - price: "3999"
     priceCurrency: "INR"
 aggregateRating:
-  ratingValue: "4.8"
+  ratingValue: "4.5"
   reviewCount: "124"
 brand: "Kashi Taxi"
 ---
 
-> **TL;DR:** 2-day Varanasi package (₹3,999+) with 1 night hotel, twin boat rides (sunrise + sunset), complete Kashi Vishwanath temple circuit, Sarnath Buddhist site, BHU campus, curated food trail, and Dashashwamedh Ganga Aarti. The sweet spot between a rushed same-day sprint and a longer commitment. *Scroll for the day-by-day breakdown, seasonal timing, hotel area guide, and pricing tiers.*
+> **TL;DR — 2-day Varanasi package (₹3,999+):**
+>
+> - **Stay** → 1 night hotel
+> - **On the water** → twin boat rides (sunrise + sunset)
+> - **See** → Kashi Vishwanath circuit, Sarnath, BHU campus, Dashashwamedh Ganga Aarti
+> - **Plus** → a curated food trail
+>
+> The sweet spot between a rushed same-day sprint and a longer commitment. *Scroll for the day-by-day breakdown, seasonal timing, hotel-area guide, and pricing tiers.*
 
 ## Why Two Days Is the Sweet Spot
 

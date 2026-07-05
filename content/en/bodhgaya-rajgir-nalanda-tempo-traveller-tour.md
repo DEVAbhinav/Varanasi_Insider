@@ -114,3 +114,5 @@ Upgrade: Urbania for scholarly / elder comfort @ ₹34–35/km.
 - [Vehicle Comparison](/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
 
 > For tailored pacing (adding night chanting session etc.), include group intention in enquiry.
+
+> **Ready to book the Bodhgaya–Rajgir–Nalanda circuit?** [Get a fixed tempo traveller quote on WhatsApp](https://wa.me/919935474730?text=Bodhgaya%20Rajgir%20Nalanda%20tempo%20traveller%20tour) or call [+91 99354 74730](tel:+919935474730) with your dates and group size.

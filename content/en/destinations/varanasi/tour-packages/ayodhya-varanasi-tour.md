@@ -36,7 +36,7 @@ offers:
   - price: "8499"
     priceCurrency: "INR"
 aggregateRating:
-  ratingValue: "4.7"
+  ratingValue: "4.6"
   reviewCount: "85"
 brand: "Kashi Taxi"
 ---

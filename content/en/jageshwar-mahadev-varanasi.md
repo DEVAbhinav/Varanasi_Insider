@@ -122,3 +122,5 @@ The intricate decorations and the festive spirit make it a unique time to visit 
 > Modest clothing covering shoulders and knees; men may go shirtless inside but it’s optional.  
 
 ---
+
+> **Visiting Jageshwar Mahadev in Varanasi?** [Get a WhatsApp cab & darshan plan](https://wa.me/919935474730?text=Jageshwar%20Mahadev%20Varanasi%20darshan%20%26%20cab) or call [+91 99354 74730](tel:+919935474730).

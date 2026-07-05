@@ -703,4 +703,6 @@ The memories you create on those rooftops, learning from patient grandparents an
 
 *Book your authentic Makar Sankranti kite flying experience through our verified local family partners. Get rooftop access, expert instruction, traditional equipment, and genuine cultural immersion with Varanasi families who've been celebrating this festival for generations.*
 
+> **Want in on the rooftop kite wars?** [Message us on WhatsApp](https://wa.me/919935474730?text=Makar%20Sankranti%20kite%20flying%20experience%20Varanasi) or call [+91 99354 74730](tel:+919935474730) to line up rooftop access, a cab, and a boat for the day.
+
 **Cultural Tip:** The real joy of Varanasi's kite wars isn't in winning battles - it's in the laughter, learning, and friendships created while trying. Approach it with curiosity and humility, and you'll discover why this simple festival creates some of India's most cherished travel memories.

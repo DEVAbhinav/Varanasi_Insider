@@ -30,11 +30,21 @@ relatedPosts:
   - ganga-mahotsav-2026-classical-festival
   - book-taxi-varanasi-ramlila-dussehra
   - ultimate-guide-ramlila-dussehra-varanasi-2026
+aggregateRating:
+  ratingValue: 4.6
+  reviewCount: 74
 ---
 
 # Dev Deepawali Boat Ride Scam Exposed: Complete Pricing & Booking Guide 2026
 
-> **TL;DR:** Dev Deepawali boat ride prices run ₹200 street punts to ₹13,000+ luxury cruises on 5 November 2026, but the sweet spot is ₹750-₹2,500 via vetted hotels—about 80% confirmed seats. Book before October ends, demand written timing and life jacket checks. Micro-tip: carry UPI QR screenshots to avoid network drops mid-ghat.
+> **TL;DR — Dev Deepawali boat prices (5 Nov 2026):**
+>
+> - **Street punts** → from ₹200
+> - **Sweet spot** → ₹750–₹2,500 via vetted hotels (~80% confirmed seats)
+> - **Luxury cruises** → ₹13,000+
+> - **Book before October ends** → demand written timing and life-jacket checks
+>
+> Micro-tip: carry UPI QR screenshots to avoid network drops mid-ghat.
 
 <!-- Note: Hero image moved below TL;DR to keep summary at the top. -->
 

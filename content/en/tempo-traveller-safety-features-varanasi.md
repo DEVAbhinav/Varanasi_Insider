@@ -136,3 +136,5 @@ Ask before confirming:
 - [Corporate Transport](/en/corporate-group-tempo-traveller-varanasi)
 
 > Build a culture of proactive checks—90% of avoidable issues show early hints.
+
+> **Booking a tempo traveller in Varanasi?** [Get a fixed quote with a safety-checked vehicle on WhatsApp](https://wa.me/919935474730?text=Tempo%20traveller%20booking%20Varanasi) or call [+91 99354 74730](tel:+919935474730).

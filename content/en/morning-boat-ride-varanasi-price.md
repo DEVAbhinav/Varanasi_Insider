@@ -17,6 +17,7 @@ tags:
   - price guide
   - ganga
 relatedPosts:
+  - boat-ride-varanasi
   - varanasi-transport-price-guide-2026
   - ganga-aarti-timing-varanasi
   - varanasi-safety-guide
@@ -47,13 +48,25 @@ quickFacts:
     value: "1–3 hours"
   - label: "Booking"
     value: "WhatsApp / Walk-up"
+aggregateRating:
+  ratingValue: 4.7
+  reviewCount: 183
 ---
 
 # Varanasi Boat Ride Price Guide (Sunrise 2026 Edition)
 
 Updated: Nov 2026 · Shared seat ₹80–₹150 · Private rowboat ₹1,800–₹2,400 · Motorboat ₹3,500–₹4,500
 
-> **TL;DR:** Looking for **varanasi boat ride price** or **boat ride in varanasi price**? Late 2026 rates hold at ₹80–₹150 per shared seat, ₹1,800–₹2,400 for private sunrise rowboats, and ₹3,500–₹4,500 for motorboat charters. The **varanasi sunrise boat ride cost** varies by season and boat type. Bajra lounges begin at ₹8,000. Lock fares on WhatsApp a night before, board 30–45 minutes pre-sunrise, and insist on life jackets plus route clarity before paying.
+> **New to Varanasi boats?** Compare every option — hand rowboat, motorboat, luxury bajra and private charter — on our [complete boat ride in Varanasi guide](/en/boat-ride-varanasi).
+
+> **TL;DR — Varanasi boat ride price (late 2026):**
+>
+> - **Shared seat** → ₹80–₹150 per person
+> - **Private sunrise rowboat** → ₹1,800–₹2,400
+> - **Motorboat charter** → ₹3,500–₹4,500
+> - **Bajra lounge** → from ₹8,000
+>
+> The **varanasi sunrise boat ride cost** varies by season and boat type. Lock fares on WhatsApp the night before, board 30–45 minutes pre-sunrise, and insist on life jackets plus route clarity before paying.
 
 ## Above-the-Fold Fare Snapshot (Nov 2026)
 

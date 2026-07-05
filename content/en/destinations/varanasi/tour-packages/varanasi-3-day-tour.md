@@ -65,12 +65,19 @@ offers:
   - price: "7988"
     priceCurrency: "INR"
 aggregateRating:
-  ratingValue: "4.8"
+  ratingValue: "4.7"
   reviewCount: "150"
 brand: "Kashi Taxi"
 ---
 
-> **TL;DR:** 3-day Kashi package (₹7,988+) with 2 nights hotel, twin boat rides (sunrise + sunset), complete 10+ temple circuit, Sarnath deep dive, Ramnagar Fort & museum, silk weaving atelier, guided shopping crawl, and optional cultural performances. The complete Varanasi experience without rushing a single moment. *Scroll for day-by-day breakdown, seasonal guide, pricing tiers, and hotel area recommendations.*
+> **TL;DR — 3-day Kashi package (₹7,988+):**
+>
+> - **Stay** → 2 nights hotel
+> - **On the water** → twin boat rides (sunrise + sunset)
+> - **See** → 10+ temple circuit, Sarnath deep dive, Ramnagar Fort & museum, silk-weaving atelier
+> - **Plus** → guided shopping crawl and optional cultural performances
+>
+> The complete Varanasi experience without rushing a single moment. *Scroll for the day-by-day breakdown, seasonal guide, pricing tiers, and hotel-area recommendations.*
 
 ## Why Three Days Is the Sweet Spot
 

@@ -44,7 +44,14 @@ faqSchema:
 
 # Varanasi to Prayagraj Distance, Taxi Fare & Travel Options (2026)
 
-> **TL;DR:** Varanasi to Prayagraj (Allahabad) is **121 km via NH-19** and takes **2.5 to 3 hours**. Sedan taxi fare is **₹2,500–₹2,800 one way**, same-day Sangam return from **₹4,500**. No toll on this highway since 2024. Taxi drops you at Sangam ghat directly — train drops at Prayagraj Junction (7 km away). For group bookings: [Prayagraj tempo traveller price list](/en/varanasi-to-prayagraj-tempo-traveller).
+> **TL;DR — Varanasi to Prayagraj by taxi:**
+>
+> - **Distance** → 121 km via NH-19, 2.5–3 hours
+> - **Sedan fare** → ₹2,500–₹2,800 one way · same-day Sangam return from ₹4,500
+> - **Tolls** → none on this highway since 2024
+> - **Drop point** → Sangam ghat directly (train stops 7 km away at the Junction)
+>
+> For group bookings, see the [Prayagraj tempo traveller price list](/en/varanasi-to-prayagraj-tempo-traveller).
 
 ## Quick Distance & Fare Snapshot
 

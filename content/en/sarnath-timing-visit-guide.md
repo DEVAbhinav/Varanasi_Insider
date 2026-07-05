@@ -1,5 +1,5 @@
 ---
-title: "Sarnath Temple Timing 2026: Open 6 AM-6 PM | Entry Rs.25 | Museum Closed Fridays"
+title: "Sarnath Temple Timing 2026: Hours, Entry Fee & Best Time to Visit"
 slug: "sarnath-timing-visit-guide"
 date: "2026-03-07"
 lastUpdated: "2026-07-05"

@@ -14,6 +14,9 @@ structuredData: true
 published: true
 date: "2026-10-26"
 lastUpdated: "2026-02-05"
+aggregateRating:
+  ratingValue: 4.7
+  reviewCount: 268
 ---
 
 # Varanasi Tour Package 2026 | 2 Day, 3 Day, 4 Day Kashi Tour with Hotel, Cab & Darshan
@@ -21,7 +24,14 @@ lastUpdated: "2026-02-05"
 ![Varanasi Ghats Early Morning](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg)
 *Serene morning view of Varanasi's ancient ghats along the holy Ganges*
 
-> **TL;DR:** Varanasi tour packages range ₹7,000–₹50,000+ covering multi-day Kashi planning with hotel, cab, temple darshan, Ganga Aarti (evening: 18:00 winter/19:00 summer), Sarnath, and optional Ayodhya-Prayagraj-Bodhgaya extensions. Best time: **November–March** (10–25°C). Peak festivals: **Dev Deepawali (Nov 24)**, **Mahashivratri (Feb 15)**.
+> **TL;DR — Varanasi tour packages:**
+>
+> - **Price range** → ₹7,000–₹50,000+
+> - **Includes** → hotel, cab, temple darshan, Ganga Aarti, Sarnath (+ optional Ayodhya–Prayagraj–Bodhgaya)
+> - **Best time** → November–March (10–25°C)
+> - **Peak festivals** → Dev Deepawali (Nov 24), Mahashivratri (Feb 15)
+>
+> Evening Ganga Aarti runs 18:00 in winter, 19:00 in summer.
 
 ## Choose Your Varanasi Package Type
 
