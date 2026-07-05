@@ -84,20 +84,14 @@ Planning your **Sarnath visit** timing correctly can make the difference between
 
 ---
 
-## Use The Right Sarnath Page
+## Planning Your Sarnath Trip
 
-This guide covers **Sarnath timing, Friday museum closure, opening hours, and visit-planning**. For transport, booking, or a combined city tour, see the relevant links below.
+Sarnath is only a ~30-minute drive from Varanasi, so most visitors make it a **half-day trip** from the city. Useful links while you plan:
 
-Sarnath is only a 30-minute drive from Varanasi, so most visitors base themselves in the city and make Sarnath a half-day trip — see [where to stay in Varanasi](/en/where-to-stay-in-varanasi) for the best areas for families and groups.
-
-Looking for **sarnath opening time**, **sarnath varanasi timings**, **sarnath temple varanasi timings**, or **sarnath mandir varanasi timings**? All the details are covered below.
-
-| If you need | Best page |
-|---|---|
-| Opening hours, best time to visit, Friday closure | **This page** |
-| Sarnath + Kashi Vishwanath + ghats in one day | [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) |
-| Direct cab only from Varanasi to Sarnath | [Varanasi to Sarnath Taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) |
-| Group vehicle for Buddhist circuit | [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) |
+- **Direct cab both ways:** [Varanasi → Sarnath Taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi)
+- **Group vehicle (Buddhist circuit):** [Varanasi → Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller)
+- **Full day out:** [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) — Sarnath + Kashi Vishwanath + ghats in one day
+- **Where to base yourself:** [Where to stay in Varanasi](/en/where-to-stay-in-varanasi)
 
 Need help matching timing with a cab or one-day route? [WhatsApp us](https://wa.me/919935474730?text=Need%20Sarnath%20timing%20plus%20cab%20planning).
 

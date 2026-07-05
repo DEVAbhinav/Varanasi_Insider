@@ -217,80 +217,93 @@
   color: #065f46;
 }
 
-/* Inline CTA block (airport pickup) */
-.articleBody .inline-cta {
+/* Inline CTA block (airport pickup) — oceanic theme (matches home page / boat & Sarnath CTAs) */
+.articleBody :global(.inline-cta) {
   margin: 2rem 0;
-  padding: 1.5rem;
-  border-radius: 0.75rem;
-  border: 1px solid rgba(148, 163, 184, 0.28);
-  background-color: #ffffff;
-  box-shadow: 0 16px 38px rgba(15, 23, 42, 0.12);
-  border-left: 6px solid #2563eb; /* blue-600 */
+  padding: 1.5rem 1.75rem;
+  border-radius: 16px;
+  border: none;
+  background: linear-gradient(135deg, #3b82f6, #22d3ee, #2dd4bf);
+  box-shadow: 0 16px 38px rgba(6, 95, 130, 0.28);
+  color: #ffffff;
 }
-.articleBody .inline-cta h3 {
-  font-size: 2rem;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
+.articleBody :global(.inline-cta) h3 {
+  font-size: 1.35rem;
+  font-weight: 800;
+  margin-bottom: 0.4rem;
+  color: #ffffff;
 }
-.articleBody .inline-cta p {
+.articleBody :global(.inline-cta) p {
   margin-bottom: 0.75rem;
+  color: #ffffff;
+  opacity: 0.97;
 }
-.articleBody .inline-cta .cta-actions {
+.articleBody :global(.inline-cta) p strong {
+  color: #ffffff;
+}
+.articleBody :global(.inline-cta) a {
+  text-decoration: none;
+}
+.articleBody :global(.inline-cta .cta-actions) {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem;
-  margin-top: 0.5rem;
+  margin-top: 0.75rem;
 }
-.articleBody .inline-cta .btn-primary {
+.articleBody :global(.inline-cta .btn-primary) {
   display: inline-block;
-  padding: 0.5rem 1rem;
-  border-radius: 0.75rem;
+  padding: 0.7rem 1.4rem;
+  border-radius: 9999px;
+  color: #0369a1;
+  font-weight: 800;
+  background: #ffffff;
+  box-shadow: 0 4px 12px rgba(3, 105, 161, 0.18);
+}
+.articleBody :global(.inline-cta .btn-primary:hover) {
+  background: #f0f9ff;
+}
+.articleBody :global(.inline-cta .btn-outline) {
+  display: inline-block;
+  padding: 0.7rem 1.4rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  border: 1.5px solid rgba(255, 255, 255, 0.85);
   color: #ffffff;
-  font-weight: 500;
-  background: #2563eb;
+  background: transparent;
 }
-.articleBody .inline-cta .btn-primary:hover {
-  background: #1d4ed8;
+.articleBody :global(.inline-cta .btn-outline:hover) {
+  background: rgba(255, 255, 255, 0.15);
 }
-.articleBody .inline-cta .btn-outline {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  border-radius: 0.75rem;
-  font-weight: 500;
-  border: 1px solid #2563eb;
-  color: #2563eb;
-}
-.articleBody .inline-cta .btn-outline:hover {
-  background: #eff6ff;
-}
-.articleBody .inline-cta .fine-print {
-  font-size: 0.875rem;
-  color: #475569;
-  margin-top: 0.25rem;
+.articleBody :global(.inline-cta .fine-print) {
+  font-size: 0.85rem;
+  color: #ffffff;
+  opacity: 0.9;
+  margin-top: 0.75rem;
+  margin-bottom: 0;
 }
 
 /* Pink Taxi safety section */
-.articleBody .pink-safety {
+.articleBody :global(.pink-safety) {
   margin: 2.5rem 0;
   display: grid;
   gap: 1.5rem;
   align-items: center;
   grid-template-columns: 1.2fr 0.8fr;
 }
-.articleBody .pink-copy p {
+.articleBody :global(.pink-copy) p {
   margin-bottom: 1rem;
 }
-.articleBody .pink-copy ul {
+.articleBody :global(.pink-copy) ul {
   list-style-type: disc;
   padding-left: 1.25rem;
   margin-bottom: 1rem;
 }
-.articleBody .pink-copy .cta-actions {
+.articleBody :global(.pink-copy .cta-actions) {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem;
 }
-.articleBody .pink-copy .btn-primary {
+.articleBody :global(.pink-copy .btn-primary) {
   display: inline-block;
   padding: 0.5rem 1rem;
   border-radius: 0.75rem;
@@ -298,10 +311,10 @@
   font-weight: 500;
   background: #db2777;
 }
-.articleBody .pink-copy .btn-primary:hover {
+.articleBody :global(.pink-copy .btn-primary:hover) {
   background: #be185d;
 }
-.articleBody .pink-copy .btn-outline {
+.articleBody :global(.pink-copy .btn-outline) {
   display: inline-block;
   padding: 0.5rem 1rem;
   border-radius: 0.75rem;
@@ -309,16 +322,16 @@
   border: 1px solid #db2777;
   color: #db2777;
 }
-.articleBody .pink-copy .btn-outline:hover {
+.articleBody :global(.pink-copy .btn-outline:hover) {
   background: #fdf2f8;
 }
-.articleBody .pink-media img {
+.articleBody :global(.pink-media) img {
   border-radius: 0.75rem;
   box-shadow: 0 14px 34px rgba(15, 23, 42, 0.15);
 }
 
 @media (max-width: 768px) {
-  .articleBody .pink-safety {
+  .articleBody :global(.pink-safety) {
     grid-template-columns: 1fr;
   }
 }
