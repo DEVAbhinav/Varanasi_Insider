@@ -1,14 +1,14 @@
 ---
-title: "Varanasi Airport Taxi Comparison Guide: Fares, Pick-ups & Scam Alerts (2026)"
+title: "Varanasi Airport Taxi 2026: Fares from ₹850, 25 km to the Ghats"
 slug: "varanasi-airport-taxi-guide"
-date: "2026-07-21"
-lastUpdated: "2026-07-21"
-lastVerified: "2026-07-21"
+date: "2026-07-05"
+lastUpdated: "2026-07-05"
+lastVerified: "2026-07-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide"
 
-description: "Comparison guide for Varanasi (VNS) airport transfers. Compare prepaid fares with Uber/Ola, understand pickup zones, and avoid common scams."
+description: "Varanasi airport (VNS) is ≈25 km (45–90 min) from the ghats. Compare 2026 prepaid taxi fares from ₹850 with Uber/Ola, find pickup zones & avoid scams."
 tags:
   - airport taxi
   - varanasi
@@ -21,7 +21,7 @@ relatedPosts:
   - evening-ganga-aarti-guide
 ---
 
-# Varanasi Airport Taxi Comparison Guide 2026: Fares, Pick-ups & Scam Alerts
+# Varanasi Airport Taxi Guide 2026: Fares, Distance, Pick-ups & Scam Alerts
 
 > **Use the right airport page first:** For direct pickup booking, go to [Varanasi Airport Taxi Service](/en/city/varanasi/taxi/airport-taxi-service-varanasi). For fare-first comparison, use [Varanasi Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide). For route planning and barricade intel, use [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide).
 
@@ -32,9 +32,21 @@ But figuring out the best way to reach your hotel can be confusing. This guide g
 * pay the right price, and  
 * avoid rookie scams.
 
-> We verify fares **on‑site every quarter**; photos are geo‑tagged at VNS and time‑stamped **21 July 2026** for proof.
+> We verify fares **on‑site every quarter**; photos are geo‑tagged at VNS and time‑stamped **July 2026** for proof.
 
 After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timings) or explore our [guide to ghats](/en/guide-to-ghats-of-varanasi).
+
+---
+
+## Quick Answer — Airport to City at a Glance
+
+| Question | Quick answer |
+| :-- | :-- |
+| **How far is the airport?** | **≈ 25 km** to the ghats (22–25 km by route) |
+| **How long does it take?** | **45–90 min** depending on traffic |
+| **Cheapest option** | Uber/Ola off‑peak — **₹620–₹700** |
+| **Fixed, hassle‑free option** | Prepaid sedan — **₹850–₹1,000** |
+| **Safest for solo & female travellers** | Pre‑booked **Pink Taxi** |
 
 ---
 
@@ -87,22 +99,20 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
 
 1. Connect to airport Wi‑Fi or mobile data.  
 2. Set pick‑up **Pillar 12** (official ride‑share bay, formalised late 2023).  
-3. Compare Uber & Ola – availability fluctuates; check both. :contentReference[oaicite:2]{index=2}  
+3. Compare Uber & Ola – availability fluctuates; check both.  
 4. Verify car & plate before entering.
 
 ---
 
 ## Navigate the Terminal
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/your-video-id" title="Walk to Pillar 12"></iframe>
-
-* **Prepaid Counter:** inside arrivals hall, left of exit.  
+* **Prepaid Counter:** inside arrivals hall, left of exit.
 * **Prepaid Stands:** first lane, Bays 5‑8.  
 * **Uber/Ola:** Pillar 12 in the ride‑share lane.
 
 ---
 
-## Travel Time (25 km route)
+## Travel Time & Distance (Airport ⇄ City)
 
 | Time slot | Typical travel time | Note |
 | :-- | :-- | :-- |
@@ -110,7 +120,20 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
 | **13:00 – 16:00** | **55 – 75 min** | Moderate congestion. |
 | **After 20:00** | **45 – 60 min** | Lightest traffic. |
 
-> Distance is **≈ 25 km** (22 – 25 km depending on chosen route). :contentReference[oaicite:3]{index=3}
+> Distance is **≈ 25 km** (22 – 25 km depending on chosen route).
+
+### Distance from Varanasi Airport (VNS) to key places
+
+| From VNS Airport to… | Distance (by road) | Typical drive |
+| :-- | :-- | :-- |
+| [**Kashi Vishwanath Temple / Godowlia**](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance) | ~24 km | 45 – 75 min |
+| [**Cantt Railway Station (Varanasi Jn)**](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance) | ~22 km | 40 – 70 min |
+| [**Banaras Railway Station**](/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance) | ~18 km | 35 – 60 min |
+| [**Dashashwamedh Ghat**](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance) | ~24 km | 45 – 75 min |
+| [**Assi Ghat**](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance) | ~26 km | 50 – 80 min |
+| [**Sarnath**](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance) | ~30 km | 50 – 70 min |
+
+Each destination links to its **exact fare + route page**. Distances are approximate and by road; the precise figure shifts with your chosen route and old-city drop point.
 
 ### Summer, monsoon, and festival reality check
 
@@ -127,7 +150,7 @@ If your hotel is inside old-city access zones, assume the last segment matters m
 ## Safety & Scam Shield
 
 1. **Ignore touts** claiming the counter is “closed.”  
-2. **Fare on slip is final** – RTO‑approved, inclusive of all charges. :contentReference[oaicite:4]{index=4}  
+2. **Fare on slip is final** – RTO‑approved, inclusive of all charges.  
 3. **Lost item?** Call airport police with the slip number.  
 4. **Airport Police Helpline:** **+91‑94544 01119**
 

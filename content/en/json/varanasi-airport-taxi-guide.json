@@ -80,14 +80,6 @@
       ]
     },
     {
-      "@type": "VideoObject",
-      "name": "Walk from Varanasi Airport Arrivals to Pillar 12 (Ride‑share pick‑up)",
-      "description": "A 30‑second POV guide showing exactly how to reach the Uber/Ola pick‑up point at VNS airport.",
-      "thumbnailUrl": "https://img.youtube.com/vi/your-video-id/maxresdefault.jpg",
-      "uploadDate": "2026-07-21",
-      "contentUrl": "https://www.youtube.com/watch?v=your-video-id"
-    },
-    {
       "@type": "Service",
       "@id": "https://www.kashitaxi.in/#airport-transfer",
       "serviceType": "Airport Transfer",
@@ -111,7 +103,7 @@
           "name": "Prepaid Sedan (Airport → Ghats/City)",
           "priceCurrency": "INR",
           "price": 850,
-          "priceValidUntil": "2026-03-31",
+          "priceValidUntil": "2026-12-31",
           "availability": "https://schema.org/InStock"
         },
         {
@@ -119,7 +111,7 @@
           "name": "Prepaid SUV (Airport → Ghats/City)",
           "priceCurrency": "INR",
           "price": 1100,
-          "priceValidUntil": "2026-03-31",
+          "priceValidUntil": "2026-12-31",
           "availability": "https://schema.org/InStock"
         }
       ],
