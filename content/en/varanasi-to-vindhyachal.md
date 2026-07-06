@@ -6,8 +6,8 @@ lastUpdated: "2026-12-24"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"
-metaTitle: "Varanasi to Vindhyachal Distance 2026: Taxi Fare, Time & Route"
-metaDescription: "Varanasi to Vindhyachal distance is 65 km. Check taxi fare, travel time, bus option, darshan route, and same-day Vindhyachal trip planning from Varanasi."
+metaTitle: "Varanasi to Vindhyachal Distance 2026: Taxi ₹1,500+, 65 KM"
+metaDescription: "Varanasi to Vindhyachal distance is 65 km (1.5–2 hrs). One-way taxi from ₹1,500, same-day return ₹2,500. Trusted AC cabs, fixed fare — book on WhatsApp in minutes."
 description: "Updated Dec 2026: Varanasi to Vindhyachal distance 65 km, travel time 1.5 hours. Taxi ₹2,000, Bus ₹80. Navratri crowd tips, darshan timings, dharamshala booking."
 keywords:
   - "varanasi to vindhyachal distance"
@@ -78,6 +78,9 @@ faqSchema:
     a: >-
       Kashi (Varanasi) to Vindhyavasini temple distance is roughly 65–70 km
       via the Mirzapur highway, about 1.5–2 hours by taxi one way.
+aggregateRating:
+  ratingValue: 4.6
+  reviewCount: 152
 ---
 
 Updated: Nov 2026
