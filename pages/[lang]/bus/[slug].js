@@ -42,10 +42,8 @@ export default function BusPilgrimagePage({ postData, relatedBusPages, jsonLdDat
 
 export async function getStaticProps({ params }) {
   const fs = await import('fs');
-  const fsp = await import('fs/promises');
   const path = await import('path');
-  const matter = (await import('gray-matter')).default;
-  const { markdownToHtml } = await import('../../../lib/markdown');
+  const { loadMarkdownContent } = await import('../../../lib/posts');
   const { buildAlternateLanguageUrls } = await import('../../../lib/hreflang');
 
   const baseDir = path.join(process.cwd(), 'content', params.lang, 'bus');
@@ -53,9 +51,7 @@ export async function getStaticProps({ params }) {
   if (!fs.existsSync(filePath)) {
     return { notFound: true };
   }
-  const raw = await fsp.readFile(filePath, 'utf8');
-  const { data: frontmatter, content } = matter(raw);
-  const contentHtml = await markdownToHtml(content);
+  const { frontmatter, contentHtml } = await loadMarkdownContent(params.lang, `bus/${params.slug}`);
 
   let jsonLdData = null;
   try {
@@ -68,19 +64,19 @@ export async function getStaticProps({ params }) {
   let relatedBusPages = [];
   try {
     const entries = fs.readdirSync(baseDir).filter(f => f.endsWith('.md'));
-    relatedBusPages = entries.map(fname => {
-      const full = path.join(baseDir, fname);
+    relatedBusPages = (await Promise.all(entries.map(async (fname) => {
       try {
-        const { data } = matter(fs.readFileSync(full, 'utf8'));
+        const slug = fname.replace(/\.md$/, '');
+        const { frontmatter: data } = await loadMarkdownContent(params.lang, `bus/${slug}`);
         return {
           title: data.title || fname.replace(/\.md$/, ''),
-            slug: fname.replace(/\.md$/, ''),
+            slug,
             excerpt: data.excerpt || '',
             seoDescription: data.seoDescription || '',
             lang: params.lang,
         };
       } catch { return null; }
-    }).filter(Boolean);
+    }))).filter(Boolean);
   } catch {}
 
   const alternateLanguages = buildAlternateLanguageUrls({

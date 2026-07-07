@@ -1,10 +1,11 @@
 import { useState } from 'react';
 import * as gtag from '../../lib/gtag';
 import { CONTACT, getCallTelHref, getWhatsAppUrl } from '@/lib/contact';
+import { useBookingForm } from '../BookingWidget/useBookingForm';
 
 export default function HeroBookingWidget() {
   const [step, setStep] = useState(1); // Step 1: Trip details, Step 2: Contact info
-  const [formData, setFormData] = useState({
+  const initialFormData = {
     pickup: '',
     destination: '',
     date: '',
@@ -12,26 +13,45 @@ export default function HeroBookingWidget() {
     name: '',
     phone: '',
     email: '',
-  });
-  const [loading, setLoading] = useState(false);
-  const [success, setSuccess] = useState(false);
-  const [error, setError] = useState('');
-
-  const handleChange = (e) => {
-    // Track form interaction start (once)
-    if (!formData[e.target.name] && e.target.value) {
-      gtag.event({
-        action: 'form_start',
-        category: 'Form',
-        label: 'Hero Booking Widget',
-      });
-    }
-    setFormData({
-      ...formData,
-      [e.target.name]: e.target.value,
-    });
-    setError(''); // Clear error on input
   };
+  const {
+    formData,
+    setFormData,
+    loading,
+    success,
+    setSuccess,
+    error,
+    setError,
+    handleChange,
+    handleSubmit,
+  } = useBookingForm({
+    initialFormData,
+    widgetLabel: 'Hero Booking Widget',
+    resetOnSuccess: false,
+    clearErrorOnChange: true,
+    missingContactMessage: 'Please provide your name and phone number',
+    networkErrorMessage: `Network error. Please call us at ${CONTACT.callNumberDisplay.replace('+91 ', '')}`,
+    onNetworkError: (err) => console.error('Booking error:', err),
+    buildPayload: (data) => ({
+      name: data.name,
+      phone: data.phone,
+      email: data.email,
+      passengers: data.passengers,
+      tripType: 'Instant Quote Request',
+      pickupLocation: data.pickup,
+      destination: data.destination,
+      pickupDate: data.date,
+      message: `Booking Request: ${data.pickup} → ${data.destination} | Date: ${data.date} | Passengers: ${data.passengers}`,
+      source: 'Homepage Hero Widget',
+    }),
+    buildAnalytics: (data) => ({
+      trip_origin: data.pickup,
+      trip_destination: data.destination,
+      travel_date: data.date,
+      passenger_count: data.passengers,
+      source_widget: 'Hero Booking Widget',
+    }),
+  });
 
   const handleSearchRides = (e) => {
     e.preventDefault();
@@ -67,74 +87,7 @@ export default function HeroBookingWidget() {
     setError('');
   };
 
-  const handleSubmitBooking = async (e) => {
-    e.preventDefault();
-    setLoading(true);
-    setError('');
-
-    // Validate contact info
-    if (!formData.name || !formData.phone) {
-      setError('Please provide your name and phone number');
-      setLoading(false);
-      return;
-    }
-
-    // Phone validation
-    if (!/^[6-9]\d{9}$/.test(formData.phone.replace(/\D/g, '').slice(-10))) {
-      setError('Please enter a valid 10-digit Indian phone number');
-      setLoading(false);
-      return;
-    }
-
-    try {
-      const response = await fetch('/api/contact-form', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          name: formData.name,
-          phone: formData.phone,
-          email: formData.email,
-          passengers: formData.passengers,
-          tripType: 'Instant Quote Request',
-          pickupLocation: formData.pickup,
-          destination: formData.destination,
-          pickupDate: formData.date,
-          message: `Booking Request: ${formData.pickup} → ${formData.destination} | Date: ${formData.date} | Passengers: ${formData.passengers}`,
-          source: 'Homepage Hero Widget',
-        }),
-      });
-
-      const data = await response.json();
-
-      if (response.ok) {
-        setSuccess(true);
-        
-        // Track successful lead generation
-        gtag.event({
-          action: 'generate_lead',
-          category: 'Form',
-          label: 'Hero Booking Widget',
-          value: 1, // Lead Value
-          trip_origin: formData.pickup,
-          trip_destination: formData.destination,
-          travel_date: formData.date,
-          passenger_count: formData.passengers,
-          source_widget: 'Hero Booking Widget'
-        });
-
-        // WhatsApp link already shown in success UI
-      } else {
-        setError(data.error || 'Something went wrong. Please try again.');
-      }
-    } catch (err) {
-      setError(`Network error. Please call us at ${CONTACT.callNumberDisplay.replace('+91 ', '')}`);
-      console.error('Booking error:', err);
-    } finally {
-      setLoading(false);
-    }
-  };
+  const handleSubmitBooking = (e) => handleSubmit(e);
 
   const handleBack = () => {
     setStep(1);
@@ -144,15 +97,7 @@ export default function HeroBookingWidget() {
   const resetForm = () => {
     setStep(1);
     setSuccess(false);
-    setFormData({
-      pickup: '',
-      destination: '',
-      date: '',
-      passengers: '1',
-      name: '',
-      phone: '',
-      email: '',
-    });
+    setFormData(initialFormData);
   };
 
   // Success State

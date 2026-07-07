@@ -1,115 +1,50 @@
-import { useState } from 'react';
 import { useRouter } from 'next/router';
 import * as gtag from '../../lib/gtag';
 import styles from './SidebarBookingWidget.module.css';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
+import { useBookingForm } from './useBookingForm';
 
 export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
-  const [formData, setFormData] = useState({
+  const router = useRouter();
+  const getWidgetContext = () => {
+  const widgetPageTitle = pageTitle || (typeof document !== 'undefined' ? document.title : '');
+  const browserLocation = typeof window !== 'undefined' ? window.location.href : '';
+  const widgetPageUrl = browserLocation || pageUrl || router.asPath || '';
+
+  return { widgetPageTitle, widgetPageUrl };
+  };
+  const { formData, loading, success, error, whatsappLink, handleChange, handleSubmit } = useBookingForm({
+  initialFormData: {
     name: '',
     phone: '',
     email: '',
     passengers: '1',
     date: '',
+  },
+  widgetLabel: 'Sidebar Booking Widget',
+  invalidPhoneMessage: 'Please enter a valid 10-digit phone number',
+  submitErrorMessage: 'Something went wrong',
+  networkErrorMessage: 'Network error. Please call us directly.',
+  buildPayload: (data, { widgetPageTitle, widgetPageUrl }) => ({
+    name: data.name,
+    phone: data.phone,
+    email: data.email,
+    passengers: data.passengers,
+    tripType: 'Quick Inquiry',
+    pickupDate: data.date,
+    message: `Quick inquiry from sidebar widget.${widgetPageTitle ? ` Page: ${widgetPageTitle}.` : ''} Date: ${data.date}, Passengers: ${data.passengers}${widgetPageUrl ? `. Link: ${widgetPageUrl}` : ''}`,
+    source: 'Sidebar Widget',
+    parentPageTitle: widgetPageTitle || null,
+    parentPageUrl: widgetPageUrl || null,
+  }),
+  buildAnalytics: (data, { widgetPageUrl }) => ({
+    trip_origin: 'Varanasi',
+    travel_date: data.date,
+    passenger_count: data.passengers,
+    source_widget: 'Sidebar Booking Widget',
+    page_location: widgetPageUrl,
+  }),
   });
-  const [loading, setLoading] = useState(false);
-  const [success, setSuccess] = useState(false);
-  const [error, setError] = useState('');
-  const [whatsappLink, setWhatsappLink] = useState('');
-  const router = useRouter();
-
-  const handleChange = (e) => {
-    // Track form interaction start (once)
-    if (!formData[e.target.name] && e.target.value) {
-      gtag.event({
-        action: 'form_start',
-        category: 'Form',
-        label: 'Sidebar Booking Widget',
-      });
-    }
-    setFormData({
-      ...formData,
-      [e.target.name]: e.target.value,
-    });
-  };
-
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    setLoading(true);
-    setError('');
-    setSuccess(false);
-
-    if (!formData.name || !formData.phone) {
-      setError('Please fill in your name and phone number');
-      setLoading(false);
-      return;
-    }
-
-    if (!/^[6-9]\d{9}$/.test(formData.phone.replace(/\D/g, '').slice(-10))) {
-      setError('Please enter a valid 10-digit phone number');
-      setLoading(false);
-      return;
-    }
-
-    try {
-  const widgetPageTitle = pageTitle || (typeof document !== 'undefined' ? document.title : '');
-  const browserLocation = typeof window !== 'undefined' ? window.location.href : '';
-  const widgetPageUrl = browserLocation || pageUrl || router.asPath || '';
-
-      const response = await fetch('/api/contact-form', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          name: formData.name,
-          phone: formData.phone,
-          email: formData.email,
-          passengers: formData.passengers,
-          tripType: 'Quick Inquiry',
-          pickupDate: formData.date,
-          message: `Quick inquiry from sidebar widget.${widgetPageTitle ? ` Page: ${widgetPageTitle}.` : ''} Date: ${formData.date}, Passengers: ${formData.passengers}${widgetPageUrl ? `. Link: ${widgetPageUrl}` : ''}`,
-          source: 'Sidebar Widget',
-          parentPageTitle: widgetPageTitle || null,
-          parentPageUrl: widgetPageUrl || null,
-        }),
-      });
-
-      const data = await response.json();
-
-      if (response.ok) {
-        setSuccess(true);
-        setWhatsappLink(data.whatsappLink || CONTACT.whatsappUrl);
-
-        // Track successful lead generation
-        gtag.event({
-          action: 'generate_lead',
-          category: 'Form',
-          label: 'Sidebar Booking Widget',
-          value: 1,
-          trip_origin: 'Varanasi',
-          travel_date: formData.date,
-          passenger_count: formData.passengers,
-          source_widget: 'Sidebar Booking Widget',
-          page_location: widgetPageUrl
-        });
-        
-        setFormData({
-          name: '',
-          phone: '',
-          email: '',
-          passengers: '1',
-          date: '',
-        });
-      } else {
-        setError(data.error || 'Something went wrong');
-      }
-    } catch (err) {
-      setError('Network error. Please call us directly.');
-    } finally {
-      setLoading(false);
-    }
-  };
 
   if (success) {
     return (
@@ -151,7 +86,7 @@ export default function SidebarBookingWidget({ pageTitle, pageUrl }) {
         </div>
       </div>
 
-      <form onSubmit={handleSubmit} className="p-5 space-y-3.5">
+      <form onSubmit={(e) => handleSubmit(e, getWidgetContext())} className="p-5 space-y-3.5">
         {error && (
           <div className="bg-red-50 border-2 border-red-200 text-red-700 px-3 py-2.5 rounded-xl text-xs font-medium">
             {error}

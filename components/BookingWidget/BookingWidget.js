@@ -1,114 +1,38 @@
-import { useState } from 'react';
 import * as gtag from '../../lib/gtag';
 import styles from './BookingWidget.module.css';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
+import { useBookingForm } from './useBookingForm';
 
 export default function BookingWidget() {
-  const [formData, setFormData] = useState({
-    name: '',
-    phone: '',
-    email: '',
-    from: '',
-    to: '',
-    date: '',
-    passengers: '1',
+  const { formData, loading, success, error, whatsappLink, handleChange, handleSubmit } = useBookingForm({
+    initialFormData: {
+      name: '',
+      phone: '',
+      email: '',
+      from: '',
+      to: '',
+      date: '',
+      passengers: '1',
+    },
+    widgetLabel: 'Booking Widget',
+    buildPayload: (data) => ({
+      name: data.name,
+      phone: data.phone,
+      email: data.email,
+      passengers: data.passengers,
+      tripType: 'Booking',
+      pickupDate: data.date,
+      message: `From: ${data.from}\nTo: ${data.to}\nDate: ${data.date}\nPassengers: ${data.passengers}`,
+      source: 'Booking Widget',
+    }),
+    buildAnalytics: (data) => ({
+      trip_origin: data.from,
+      trip_destination: data.to,
+      travel_date: data.date,
+      passenger_count: data.passengers,
+      source_widget: 'Booking Widget',
+    }),
   });
-  const [loading, setLoading] = useState(false);
-  const [success, setSuccess] = useState(false);
-  const [error, setError] = useState('');
-  const [whatsappLink, setWhatsappLink] = useState('');
-
-  const handleChange = (e) => {
-    // Track form interaction start (once)
-    if (!formData[e.target.name] && e.target.value) {
-      gtag.event({
-        action: 'form_start',
-        category: 'Form',
-        label: 'Booking Widget',
-      });
-    }
-    setFormData({
-      ...formData,
-      [e.target.name]: e.target.value,
-    });
-  };
-
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    setLoading(true);
-    setError('');
-    setSuccess(false);
-
-    // Validate
-    if (!formData.name || !formData.phone) {
-      setError('Please fill in your name and phone number');
-      setLoading(false);
-      return;
-    }
-
-    if (!/^[6-9]\d{9}$/.test(formData.phone.replace(/\D/g, '').slice(-10))) {
-      setError('Please enter a valid 10-digit Indian phone number');
-      setLoading(false);
-      return;
-    }
-
-    try {
-      // Submit to API
-      const response = await fetch('/api/contact-form', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          name: formData.name,
-          phone: formData.phone,
-          email: formData.email,
-          passengers: formData.passengers,
-          tripType: 'Booking',
-          pickupDate: formData.date,
-          message: `From: ${formData.from}\nTo: ${formData.to}\nDate: ${formData.date}\nPassengers: ${formData.passengers}`,
-          source: 'Booking Widget',
-        }),
-      });
-
-      const data = await response.json();
-
-      if (response.ok) {
-        setSuccess(true);
-        setWhatsappLink(data.whatsappLink || CONTACT.whatsappUrl);
-
-        // Track successful lead generation
-        gtag.event({
-          action: 'generate_lead',
-          category: 'Form',
-          label: 'Booking Widget',
-          value: 1, // Lead Value
-          trip_origin: formData.from,
-          trip_destination: formData.to,
-          travel_date: formData.date,
-          passenger_count: formData.passengers,
-          source_widget: 'Booking Widget'
-        });
-        
-        // Reset form
-        setFormData({
-          name: '',
-          phone: '',
-          email: '',
-          from: '',
-          to: '',
-          date: '',
-          passengers: '1',
-        });
-      } else {
-        setError(data.error || 'Something went wrong. Please call us instead.');
-      }
-    } catch (err) {
-      setError('Network error. Please WhatsApp or call us directly.');
-    } finally {
-      setLoading(false);
-    }
-  };
 
   if (success) {
     return (

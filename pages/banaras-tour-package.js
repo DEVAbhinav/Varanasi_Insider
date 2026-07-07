@@ -1,8 +1,6 @@
-import fs from 'fs';
-import path from 'path';
 import Head from 'next/head';
 import Image from 'next/image';
-import { markdownToHtml } from '../lib/markdown';
+import { loadMarkdownContent } from '../lib/posts';
 import LandingPageLayout from '../components/layouts/LandingPageLayout';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
 import JsonLd from '../components/JsonLd/JsonLd';
@@ -355,9 +353,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
 }
 
 export async function getStaticProps() {
-  const markdownPath = path.join(process.cwd(), 'content', 'en', 'banaras-tour-package.md');
-  const fileContents = fs.readFileSync(markdownPath, 'utf8');
-  const contentHtml = await markdownToHtml(fileContents);
+  const { contentHtml } = await loadMarkdownContent('en', 'banaras-tour-package');
 
   return { props: { contentHtml } };
 }

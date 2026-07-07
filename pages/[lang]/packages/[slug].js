@@ -1,5 +1,5 @@
 // pages/[lang]/packages/[slug].js
-// Dynamic, SEO-friendly Package page that reads gray-matter frontmatter
+// Dynamic, SEO-friendly package page backed by /content markdown
 // Content file path: /content/<lang>/packages/<slug>.md
 // Example: /content/en/packages/varanasi-customised-packages-tour.md
 
@@ -108,7 +108,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
               {/* Primary CTAs */}
               <div className="mt-6 flex flex-wrap gap-3">
                 <Button asChild size="lg">
-                  <a aria-label="WhatsApp Now" href={waLink(phone, `Hi, I want to book ${title || "a package"}`)}>WhatsApp Now</a>
+                  <a aria-label="WhatsApp Now" href={waLink(`Hi, I want to book ${title || "a package"}`)}>WhatsApp Now</a>
                 </Button>
                 <Button variant="secondary" asChild size="lg">
                   <a aria-label="Call now" href={getCallTelHref(phone)}>Call {phone}</a>
@@ -209,7 +209,7 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
                       ) : null}
                       <div className="mt-6 grid grid-cols-2 gap-2">
                         <Button className="w-full" asChild>
-                          <a aria-label={`Book ${t.name}`} href={waLink(phone, `I want to book the ${t.name} package`)}>Book {t.name}</a>
+                          <a aria-label={`Book ${t.name}`} href={waLink(`I want to book the ${t.name} package`)}>Book {t.name}</a>
                         </Button>
                         <Button variant="secondary" className="w-full" asChild>
                           <a aria-label="Call now" href={getCallTelHref(phone)}>Call</a>
@@ -315,16 +315,12 @@ export async function getStaticProps({ params }) {
   // Read markdown from /content/<lang>/packages/<slug>.md
   const fs = await import("fs/promises");
   const path = await import("path");
-  const matter = (await import("gray-matter")).default;
-  const { markdownToHtml } = await import("../../../lib/markdown");
+  const { loadMarkdownContent } = await import("../../../lib/posts");
   const { buildAlternateLanguageUrls } = await import("../../../lib/hreflang");
   const { sanitizeJsonLdData } = await import("../../../lib/jsonLdSanitizer");
 
   const contentDir = path.join(process.cwd(), "content", params.lang, "packages");
-  const filePath = path.join(contentDir, `${params.slug}.md`);
-  const raw = await fs.readFile(filePath, "utf8");
-  const { data: frontmatter, content } = matter(raw);
-  const contentHtml = await markdownToHtml(content);
+  const { frontmatter, contentHtml } = await loadMarkdownContent(params.lang, `packages/${params.slug}`);
 
   // Also collect all packages (for related grid)
   let allPackages = [];
@@ -334,13 +330,12 @@ export async function getStaticProps({ params }) {
       entries
         .filter((f) => f.endsWith(".md"))
         .map(async (fname) => {
-          const p = path.join(contentDir, fname);
-          const r = await fs.readFile(p, "utf8");
-          const { data } = matter(r);
+          const slug = fname.replace(/\.md$/, "");
+          const { frontmatter: data } = await loadMarkdownContent(params.lang, `packages/${slug}`);
           return {
             title: data.title || "",
             subtitle: data.subtitle || "",
-            slug: fname.replace(/\.md$/, ""),
+            slug,
             heroImage: data.heroImage || "",
             lang: data.lang || params.lang,
           };
