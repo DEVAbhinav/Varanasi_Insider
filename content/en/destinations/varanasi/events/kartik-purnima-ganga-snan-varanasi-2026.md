@@ -15,6 +15,8 @@ keywords:
   - "Dev Deepawali bathing"
   - "Ganga Snan Varanasi"
   - "Kartik Purnima ritual"
+  - "ganga snan date"
+  - "ganga snan"
 tags:
   - events
   - religious festivals
@@ -63,6 +65,14 @@ faqSchema:
       AM pickup) cost ₹800-1200 sedan, ₹1200-1800 SUV. Round-trip ghat
       packages with waiting time available. Book at least 7 days in advance
       for festival period.
+  - q: "When is the next Ganga Snan date in Varanasi?"
+    a: >-
+      "Ganga Snan" (holy dip) is observed on several sacred dates through the
+      year in Varanasi. The major 2026 Ganga Snan dates are Kartik Purnima
+      (November 15, 2026), Makar Sankranti (January 14), Mauni Amavasya, and
+      Maha Shivaratri. Kartik Purnima — coinciding with Dev Deepawali — is the
+      most auspicious Ganga Snan of the year, when millions bathe at the ghats
+      at dawn.
   - q: "What should I carry for Kartik Purnima Ganga Snan?"
     a: >-
       Essential items: 2 sets of clothes (one for bathing, one dry set),
