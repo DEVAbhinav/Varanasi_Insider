@@ -131,16 +131,15 @@ Upgrade multipliers: 17 seater @ ₹27/km; Premium Urbania @ ₹34–35/km.
 - Can we add Ayodhya in same run?  
   - Not advisable in 4D plan—adds fatigue and dilutes ritual focus.
 
-## Photo Gallery (Existing Fleet & Symbolic Placeholders)
-| Varanasi Corridor | Prayagraj Sangam | Gaya (Symbolic) |
+## Photo Gallery
+| Varanasi Corridor | Prayagraj Sangam | Gaya |
 | --- | --- | --- |
-| ![Kashi Vishwanath corridor approach](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogKashiVishwanath.jpg "Kashi Vishwanath Corridor – Start of Circuit") | ![Prayagraj sangam snan representation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Prayagraj Triveni Sangam Morning") | ![Gaya symbolic pilgrimage image](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Gaya Pilgrimage (Add real pind daan photo later)") |
+| ![Kashi Vishwanath corridor approach](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogKashiVishwanath.jpg "Kashi Vishwanath Corridor – Start of Circuit") | ![Prayagraj sangam snan representation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Prayagraj Triveni Sangam Morning") | ![Gaya pilgrimage site for Pind Daan rituals](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Gaya Pilgrimage – Pind Daan") |
 
 | Tempo Traveller Interior | Fleet Exterior | Luggage / Ritual Space |
 | --- | --- | --- |
 | ![Tempo traveller interior for pind daan circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Clean interior space for multi-day ritual circuit") | ![Tempo traveller exterior before departure](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Fleet staged for departure") | ![Rear access luggage pind daan items](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear bay managing ritual vessels & bags") |
 
-> Replace Gaya placeholder with authentic ritual compliant photo (no sensitive exposure) when available.
 
 ## Book Your Kashi Gaya Prayag Pind Daan Tempo Traveller
 Share dates, passenger count, elder ages, and preferred Gaya priest language (Hindi / English / Bengali / Marathi if needed). I’ll respond with optimal route timing & transparent quote.

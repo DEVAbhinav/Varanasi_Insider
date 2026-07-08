@@ -122,7 +122,7 @@ Add-ons: Cushion storage, chilled water crate
 | Proactive Vehicle Substitution Policy | Written fallback clause |
 | Driver Rotation Policy (long circuits) | Prevents fatigue |
 
-### Visual Aids (Symbolic Fleet & Process)
+### Visual Aids
 | Fleet Exterior | Interior Aisle | Premium Seat Detail |
 | --- | --- | --- |
 | ![Tempo traveller booking guide varanasi exterior verification](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Exterior – verify actual vehicle matches photo") | ![Interior aisle clarity booking phase](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – seating & aisle spacing") | ![Seat comfort inspection point](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Seat ergonomics – confirm padding") |

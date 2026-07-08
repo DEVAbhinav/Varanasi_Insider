@@ -80,16 +80,15 @@ This configuration guidance supports a group pilgrimage tempo traveller varanasi
 
 Upgrade: 17 seater @ ₹27/km; Urbania @ ₹34–35/km (comfort uplift).
 
-## Visual Gallery (Current Symbolic Assets)
+## Visual Gallery
 | Prayagraj – Sangam | Ayodhya – Temple Zone | Fleet Side (Highway) |
 | --- | --- | --- |
-| ![Prayagraj Ayodhya Chitrakoot circuit tempo traveller overview](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Prayagraj – Sangam zone context") | ![Ayodhya symbolic temple skyline placeholder](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg "Ayodhya – darshan focus placeholder") | ![Tempo traveller side movement long circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Vehicle stance for long transfer") |
+| ![Prayagraj Ayodhya Chitrakoot circuit tempo traveller overview](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Prayagraj – Sangam zone context") | ![Ayodhya temple skyline on the Prayagraj–Ayodhya–Chitrakoot circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg "Ayodhya Ram Mandir darshan") | ![Tempo traveller side movement long circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Vehicle stance for long transfer") |
 
 | Rural Approach | Fleet Front | Interior Aisle |
 | --- | --- | --- |
 | ![Rural landscape en route circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Rural segment – pacing breaks") | ![Fleet front exterior prayagraj ayodhya chitrakoot circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Front profile – recognition on pickup") | ![Interior seating layout sample](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – aisle for comfort") |
 
-> Replace with authentic Ayodhya / Chitrakoot field shots when captured (parikrama path, Ram Ghat dusk) – maintain descriptive alt text.
 
 ## Morning Window Priorities
 - Prayagraj: Sangam immersion pre‑9 AM.

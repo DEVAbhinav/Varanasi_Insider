@@ -33,16 +33,15 @@ faqSchema:
 
 A **Buddhist circuit tour from Varanasi** links the pivotal sites of the Buddha’s life and teachings—Sarnath (first sermon), Bodh Gaya (Enlightenment), Rajgir (Vulture Peak discourses), Nalanda (ancient monastic university), Kushinagar (Mahaparinirvana) and optionally Lumbini (birthplace) & Vaishali. I’ve coordinated multiple meditation pilgrimage groups, study cohorts and international visitors—this guide distills a road‑tested approach using a private Tempo Traveller for flexibility and cohesion.
 
-![Bodh Gaya symbolic orientation – replace later](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Mahabodhi Temple context – replace with authentic field photo when captured")
+![Mahabodhi Temple, Bodh Gaya – Buddhist circuit tour](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Mahabodhi Temple, Bodh Gaya")
 
 > Core Insight: Keep daily drive blocks under 6.5 hours where possible; protect early mornings for site immersion / meditation.
 
-## Visual Orientation (Current Symbolic Assets)
-| Sarnath (Symbolic) | Bodh Gaya (Symbolic) | Varanasi Context |
+## Visual Orientation
+| Sarnath | Bodh Gaya | Varanasi Context |
 | --- | --- | --- |
-| ![Sarnath symbolic site image – to be replaced](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png "Sarnath – Dhamek / museum placeholder") | ![Bodh Gaya symbolic – to be replaced with authentic](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Bodh Gaya – Enlightenment site placeholder") | ![Varanasi spiritual hub link](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogKashiVishwanath.jpg "Varanasi – Launch point for circuit") |
+| ![Sarnath Dhamek Stupa – Buddhist circuit start](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png "Sarnath Dhamek Stupa") | ![Bodh Gaya Mahabodhi Temple – place of Enlightenment](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Bodh Gaya Mahabodhi Temple") | ![Varanasi spiritual hub link](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogKashiVishwanath.jpg "Varanasi – Launch point for circuit") |
 
-> Replace symbolic frames with licensed / original field captures (Rajgir ridge, Nalanda brick cells, Parinirvana Temple) once photography batch is done.
 
 A well-paced circuit feels like a progressive unfolding rather than a checklist: stillness under the Bodhi Tree, wind on Vulture Peak ridges, the scholarly quiet of Nalanda’s brick cells, the soft dusk light at Kushinagar’s Parinirvana shrine. Poor pacing turns this into fatigue + highway blur; good pacing preserves contemplative bandwidth.
 
@@ -171,16 +170,15 @@ Upgrade: 17 seater @ ₹27/km; Premium Urbania @ ₹34–35/km (comfort premium 
 - Night monastery stays possible?  
   - Limited; some centers allow with prior permission. Most choose hotels / dharamshalas.
 
-## Photo Gallery (Fleet & Site Placeholder)
-| Bodh Gaya (Symbolic) | Practice Aisle Interior | Fleet Exterior |
+## Photo Gallery
+| Bodh Gaya | Practice Aisle Interior | Fleet Exterior |
 | --- | --- | --- |
-| ![Bodh Gaya symbolic image – replace with authentic later](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Bodh Gaya – Replace with authentic Mahabodhi photo when available") | ![Tempo traveller interior buddhist circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – space for meditation cushions") | ![Tempo traveller fleet for buddhist pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Fleet readied for multi-state circuit") |
+| ![Bodh Gaya Mahabodhi Temple – Buddhist circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Bodh Gaya Mahabodhi Temple") | ![Tempo traveller interior buddhist circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Interior – space for meditation cushions") | ![Tempo traveller fleet for buddhist pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Fleet readied for multi-state circuit") |
 
 | Premium Seat Option | Rear Luggage & Gear | Urbania Premium Interior |
 | --- | --- | --- |
 | ![Premium seat comfort buddhist circuit tempo traveller](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Premium seating – long haul comfort") | ![Rear access & gear loading buddhist tour](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear access – cushions & bags organization") | ![Urbania interior variant buddhist practice group](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-Inside-Potrait.jpeg "Urbania interior – recliner layout for senior pilgrims") |
 
-> Replace placeholder site images with authentic stupa / temple photos (proper attribution if externally sourced) once captured.
 
 ### Transit & Pacing Visuals (Fleet Perspectives)
 | Rural Highway Progress | Side Profile (Long Haul) | Multi-Unit Fleet |

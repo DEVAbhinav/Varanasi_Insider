@@ -83,7 +83,7 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 - Slip-on footwear
 - ID copies (group coordination)
 
-## Kushinagar Visual Gallery (Symbolic Until Field Photos Added)
+## Kushinagar Visual Gallery
 | Meditation Interior Mood | Fleet Exterior | Interior Aisle |
 | --- | --- | --- |
 | ![Varanasi to Kushinagar tempo traveller interior ambience](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Evening ambient lighting – calm re-entry") | ![Tempo traveller exterior kushinagar circuit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Exterior – recognition at hotel") | ![Interior seating for pilgrimage group](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Aisle for cushion storage") |
@@ -92,7 +92,6 @@ A focused **1 Night / 2 Day Kushinagar pilgrimage** centers on stillness at the 
 | --- | --- | --- |
 | ![Seat comfort close detail kushinagar trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Seat ergonomics long drive") | ![Rear loading door access](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear loading – organized gear") | ![Rural segment en route kushinagar](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Highway pacing break zone") |
 
-> Replace with authentic Mahaparinirvana Temple & Ramabhar Stupa images once obtained (ensure proper attribution policies if external sources used).
 
 ## Ethical Conduct for Kushinagar Buddhist Sites
 - Maintain silence cues inside inner hall.

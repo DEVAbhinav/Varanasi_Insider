@@ -149,11 +149,11 @@ faqSchema:
 - **क्या हम इसी यात्रा में अयोध्या भी जा सकते हैं?**
   - 4 दिन में अयोध्या जोड़ना बहुत मुश्किल है। इसके लिए कम से कम 5-6 दिन चाहिए।
 
-## फोटो गैलरी (प्रतीकात्मक)
+## फोटो गैलरी
 
-| काशी विश्वनाथ कॉरिडोर | प्रयागराज संगम | गया (प्रतीकात्मक) |
+| काशी विश्वनाथ कॉरिडोर | प्रयागराज संगम | गया |
 | --- | --- | --- |
-| ![Kashi Vishwanath corridor approach](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogKashiVishwanath.jpg "काशी विश्वनाथ कॉरिडोर – यात्रा का प्रारंभ") | ![Prayagraj sangam snan representation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "प्रयागराज त्रिवेणी संगम सुबह") | ![Gaya symbolic pilgrimage image](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "गया तीर्थ (पिंड दान)") |
+| ![Kashi Vishwanath corridor approach](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogKashiVishwanath.jpg "काशी विश्वनाथ कॉरिडोर – यात्रा का प्रारंभ") | ![Prayagraj sangam snan representation](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "प्रयागराज त्रिवेणी संगम सुबह") | ![Gaya pilgrimage site for Pind Daan rituals](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "गया तीर्थ (पिंड दान)") |
 
 | टेम्पो ट्रैवलर इंटीरियर | फ्लीट बाहरी दृश्य | सामान / पूजा सामग्री |
 | --- | --- | --- |

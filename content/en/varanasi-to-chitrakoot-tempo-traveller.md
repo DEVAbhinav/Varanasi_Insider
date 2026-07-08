@@ -54,7 +54,6 @@ featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashi
 | --- | --- | --- |
 | ![Ambient lighting inside tempo traveller chitrakoot trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Soft ambient lighting for early morning / evening legs") | ![Rear access and luggage tempo traveller chitrakoot](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Rear door & luggage handling clarity") | ![Urbania premium interior option chitrakoot pilgrimage](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-Inside-Potrait.jpeg "Premium Urbania variant – higher roof & recliner comfort") |
 
-> Replace/add authentic Chitrakoot site photos (Ramghat, Kamadgiri path, Hanuman Dhara steps) when captured—keep filenames concise (e.g., /images/Chitrakoot-Ramghat-Evening.jpg).
 
 Planning a spiritually fulfilling journey from Kashi to Chitrakoot? This guide gives you a firsthand, on‑road perspective of how to structure a comfortable **Varanasi to Chitrakoot Tempo Traveller** trip with an optimized **1N/2D itinerary** (strongly preferred over a punishing same‑day attempt). I’ve helped many families and small yatri groups plan this circuit—below are distilled learnings you can trust.
 

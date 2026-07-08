@@ -317,9 +317,9 @@ Kashi Taxi specialises in authentic Kasi spiritual journeys. We don't do generic
 
 **Ready to experience Kasi?**
 
-- **WhatsApp:** [Link]
-- **Phone:** [Number]
-- **Email:** [Email]
+- **WhatsApp:** [Chat with us](https://wa.me/919935474730?text=Hi,%20I%20want%20to%20plan%20my%20Kasi%20tour%20package.%20My%20travel%20dates%20and%20group%20size:)
+- **Phone:** [+91 99354 74730](tel:+919935474730)
+- **Email:** [sudhir.vinayaktravels@gmail.com](mailto:sudhir.vinayaktravels@gmail.com)
 
 **Include in Your Message:**
 

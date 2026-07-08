@@ -375,9 +375,9 @@ Kashi Taxi specialises in authentic Banaras experiences that transform visitors 
 
 **Ready to book?**
 
-- **WhatsApp:** [Link]
-- **Phone:** [Number]
-- **Email:** [Email]
+- **WhatsApp:** [Chat with us](https://wa.me/919935474730?text=Hi,%20I%20want%20to%20plan%20my%20Banaras%20tour%20package.%20My%20travel%20dates%20and%20group%20size:)
+- **Phone:** [+91 99354 74730](tel:+919935474730)
+- **Email:** [sudhir.vinayaktravels@gmail.com](mailto:sudhir.vinayaktravels@gmail.com)
 
 **What to Include:**
 

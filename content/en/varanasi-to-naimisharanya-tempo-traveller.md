@@ -38,7 +38,6 @@ faqSchema:
 | --- | --- | --- |
 | ![Varanasi to Naimisharanya tempo traveller fleet pre dawn start](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Fleet staging before departure for Naimisharanya from Varanasi") | ![Tempo traveller interior comfort naimisharanya itinerary](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Spacious aisle helps on 8–9 hour outbound drive") | ![Luxury tempo traveller seating for naimisharanya pilgrims](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Luxury seating option – comfort for elders on long spiritual circuits") |
 
-> Capture and add real Naimisharanya site images soon (Chakratirth, Lalita Devi temple entrance, Sukadeva Peeth). Suggested filenames: /images/Naimisharanya-Chakratirth-Aarti.jpg, /images/Lalita-Devi-Darshan.jpg.
 
 Undertaking a **Varanasi to Naimisharanya Tempo Traveller** journey connects two profound spiritual geographies—Kashi’s moksha vibration and Naimisharanya’s timeless sanctity where sages compiled and narrated Purāṇic wisdom. Having coordinated long‑range pilgrim circuits, I strongly advise a **1 Night / 2 Day format** for depth rather than a fatiguing day dash.
 
