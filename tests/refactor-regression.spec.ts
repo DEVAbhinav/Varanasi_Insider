@@ -282,3 +282,53 @@ test.describe('Sidebar booking widget (/chatgpt-app/quote-widget)', () => {
     await expect(page.getByText(/Thank You/i)).toBeVisible();
   });
 });
+
+test.describe('Markdown content CTA & media hardening', () => {
+  const TAXI_PAGE = '/en/city/varanasi/taxi/24-7-taxi-varanasi';
+
+  test('inline WhatsApp links in content render as button pills (not bare text-links)', async ({ page }) => {
+    await page.goto(TAXI_PAGE, { waitUntil: 'domcontentloaded' });
+
+    // The two in-content WhatsApp CTAs are converted to the shared pill button.
+    const pills = page.locator('article a.wa-inline-btn[href*="wa.me"], main a.wa-inline-btn[href*="wa.me"]');
+    const count = await pills.count();
+    expect(count).toBeGreaterThan(0);
+
+    for (let i = 0; i < count; i++) {
+      const a = pills.nth(i);
+      const href = await a.getAttribute('href');
+      expect(href).toContain('?text='); // still carries a prefilled message
+      // Rendered as a rounded pill button, not a plain link.
+      const radius = await a.evaluate((el) => getComputedStyle(el).borderTopLeftRadius);
+      expect(parseFloat(radius)).toBeGreaterThan(8);
+      const display = await a.evaluate((el) => getComputedStyle(el).display);
+      expect(display).toContain('inline-block');
+    }
+  });
+
+  test('no raw markdown WhatsApp link syntax leaks into rendered text', async ({ page }) => {
+    await page.goto(TAXI_PAGE, { waitUntil: 'domcontentloaded' });
+    const bodyText = await page.locator('body').innerText();
+    expect(bodyText).not.toContain('](https://wa.me');
+  });
+
+  test('image URLs with spaces are encoded and load (200)', async ({ page }) => {
+    const response = await page.goto(TAXI_PAGE, { waitUntil: 'domcontentloaded' });
+    expect(response?.status()).toBe(200);
+
+    // The tourist-map image must render as an <img> with a space-encoded src...
+    const img = page.locator('img[src*="tourist%20map"]').first();
+    await expect(img).toHaveCount(1);
+    const src = await img.getAttribute('src');
+    expect(src).not.toContain(' '); // no raw spaces
+    expect(src).toContain('%20');
+
+    // ...and the encoded URL must actually resolve.
+    const assetRes = await page.request.get(src!);
+    expect(assetRes.status()).toBe(200);
+
+    // The old broken literal markdown must be gone from the page text.
+    const bodyText = await page.locator('body').innerText();
+    expect(bodyText).not.toContain('tourist map-flat-lanscape.jpeg)');
+  });
+});
