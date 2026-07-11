@@ -19,6 +19,8 @@ description: "Practical 2026 Vindhyachal stay guide with dharamshala availabilit
 keywords:
   - "where to stay in vindhyachal"
   - "vindhyachal dharamshala booking"
+  - "vindhyachal dharamshala price per day"
+  - "goenka dharamshala vindhyachal"
   - "vindhyavasini temple accommodation"
   - "navratri stay vindhyachal"
   - "mirzapur hotels for vindhyachal"
@@ -48,6 +50,8 @@ faqSchema:
     answer: "Stay in Vindhyachal for spiritual convenience; choose Mirzapur (6–8 km) if you need better amenities like larger rooms, generators, dining variety, or parking ease during peak Navratri."
   - question: "How far is Konark Grand Hotel from the Vindhyachal temple?"
     answer: "Konark Grand Hotel is roughly 6.5–7 km away in Mirzapur, making it suitable for travelers needing higher-end facilities while still being a 15–20 minute drive to the temple (longer on festival days)."
+  - question: "What is the dharamshala price per day in Vindhyachal?"
+    answer: "Dharamshala price per day in Vindhyachal is roughly ₹400–₹800 for non-AC rooms, ₹900–₹1,600 for AC small rooms, and ₹1,200–₹2,200 for family/4-bed rooms. Goenka Dharamshala and nearby trust dharamshalas sit in the non-AC band. Rates rise 15–40% during Navratri, so reconfirm the per-day price before booking."
   - question: "Do I need advance booking for Vindhyachal stay during Navratri?"
     answer: "Yes—Navratri demand surges sharply. Secure rooms 3–4 weeks ahead. Walk-in availability becomes uncertain from Chaturthi onward, especially for rooms under ₹2,000."
 ---
@@ -101,11 +105,13 @@ Coming from Varanasi? Most pilgrims take a [same-day taxi from Varanasi to Vindh
 | Guest House | B R Palace Vindhyachal | ~50 m | Extremely close, AC & cooler rooms, small hall |
 | Budget Lodge | Local unnamed lodges (cluster) | 50–200 m | Walk-in basis, variable cleanliness |
 
-**Indicative Price Bands (2026):**
-- Non-AC Dharamshala rooms: ₹400–₹800
-- AC Small Rooms: ₹900–₹1,600
-- Family / 4-Bed Rooms: ₹1,200–₹2,200
+**Indicative Price Bands (2026) — dharamshala price per day:**
+- Non-AC Dharamshala rooms: ₹400–₹800 per day
+- AC Small Rooms: ₹900–₹1,600 per day
+- Family / 4-Bed Rooms: ₹1,200–₹2,200 per day
 - Festival Surge (Navratri): +15–40%
+
+*Goenka Dharamshala Vindhyachal* and the other trust dharamshalas above fall in the ₹400–₹800 per day non-AC band, with AC rooms priced higher. These are dharamshalas near the mandir with price transparency — reconfirm the per-day rate on call as festival dates shift bands.
 
 > Booking: Most accept **phone or walk-in**. Limited genuine online listings—avoid third-party overpricing during Navratri.
 

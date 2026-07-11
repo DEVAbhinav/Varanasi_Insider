@@ -10,6 +10,7 @@ metaDescription: "Varanasi to Vindhyachal = 65 km (1.5-2 hrs via NH19). Round-tr
 description: "Book Varanasi to Vindhyachal taxi for ₹2,500 round trip. 65 km to the Vindhyavasini Devi Shakti Peeth, with darshan waiting time and the Trikon Parikrama covered."
 keywords:
   - "varanasi to vindhyachal taxi"
+  - "varanasi to vindhyachal taxi fare"
   - "varanasi to vindhyachal cab"
   - "vindhyachal taxi from varanasi"
   - "varanasi to mirzapur taxi"
@@ -51,6 +52,8 @@ offers:
     priceCurrency: "INR"
     description: "One-way drop to Vindhyachal or Mirzapur"
 faqSchema:
+  - question: "What is the taxi fare from Varanasi to Vindhyachal?"
+    answer: "The Varanasi to Vindhyachal taxi fare is around ₹2,500 round trip for a sedan (with darshan waiting time), ₹3,200 for an Ertiga, ₹3,800 for an Innova, and ₹5,500 for a tempo traveller. One-way drop fare starts at ₹1,500. All fares are fixed and include fuel, tolls, and driver allowance."
   - question: "How much is a taxi from Varanasi to Vindhyachal?"
     answer: "A Varanasi to Vindhyachal round-trip taxi with darshan waiting time costs around ₹2,500 for a sedan, ₹3,200 for an Ertiga, and ₹3,800 for an Innova. A one-way drop is about ₹1,500. Fares include fuel, tolls, and driver allowance."
   - question: "What is the distance from Varanasi to Vindhyachal?"

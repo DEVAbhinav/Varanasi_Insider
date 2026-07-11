@@ -51,7 +51,7 @@ relatedPosts:
 
 ## Available 24/7 Taxi Service Anytime, Anywhere in Varanasi
 
-**KashiTaxi operates 24 hours, 7 days a week** to serve your transportation needs at any time. Whether it's an early morning flight, late-night arrival, or emergency medical transport, our professional drivers are always ready. This round-the-clock cover is part of our full [taxi service in Varanasi](/).
+**KashiTaxi operates 24 hours, 7 days a week** to serve your transportation needs at any time. Whether it's an early morning flight, late-night arrival, or emergency medical transport, our professional drivers are always ready. This round-the-clock cover is part of our full [taxi service in Varanasi](/en/city/varanasi/taxi/taxi-service-varanasi).
 
 ![Varanasi Tourist Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi tourist map-flat-lanscape.jpeg)
 *Varanasi Tourist Map - 24/7 service coverage across all locations*

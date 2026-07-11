@@ -18,6 +18,9 @@ keywords:
   - "sarnath sightseeing"
   - "sarnath places"
   - "what to see in sarnath"
+  - "sarnath museum ticket price"
+  - "sarnath ticket"
+  - "sarnath museum ticket"
 tags:
   - sarnath
   - sarnath attractions
@@ -41,6 +44,8 @@ faqSchema:
     answer: "Sarnath has 10+ Buddhist temples representing different countries and traditions: 1) Mulagandha Kuti Vihar (main Indian temple), 2) Thai Temple (golden architecture), 3) Tibetan Temple (Gelug tradition), 4) Sri Lankan Temple (Sinhalese style), 5) Japanese Temple, 6) Chinese Temple, 7) Burmese Temple, 8) Korean Temple, 9) Cambodian Temple, 10) Vietnamese Temple. Each temple has unique architecture, timing varies 6 AM-6 PM. Main temple (Mulagandha Kuti Vihar) timing: 4:30-11 AM, 1:30-5:30 PM."
   - question: "Is Deer Park in Sarnath worth visiting?"
     answer: "Yes, Deer Park is worth visiting as it's the exact location where Buddha gave his first sermon (Dhammacakkappavattana Sutta) to five disciples 2,500 years ago. Features include: sacred Bodhi tree, meditation spots, monastery ruins, green gardens for contemplation, free entry, open 6 AM-6 PM. Ideal for peaceful walk, meditation, understanding Buddhist history. Recommend 20-30 minutes. Best time: early morning 6-8 AM or evening 4-6 PM for peaceful atmosphere."
+  - question: "What is the Sarnath museum ticket price?"
+    answer: "The Sarnath Museum ticket price is ₹5 for Indians and ₹100 for foreigners. A combo ticket at ₹20 (Indians) / ₹250 (foreigners) covers both the museum and the archaeological site and is the best value. Camera charge is ₹25 extra. The museum is open 9 AM-5 PM and closed on Fridays."
   - question: "What are the timings and entry fees for Sarnath attractions?"
     answer: "Sarnath attraction timing & entry fees: Archaeological Site (Dhamek Stupa, Ashoka Pillar, ruins) 6 AM-6 PM, ₹5 (Indians)/₹100 (foreigners). Archaeological Museum 9 AM-5 PM (closed Fridays), ₹5 (Indians)/₹100 (foreigners). Combo ticket ₹20/₹250 covers both. Buddhist temples 4:30 AM-6 PM (varies), free entry. Deer Park 6 AM-6 PM, free. Chaukhandi Stupa sunrise-sunset, free. Camera ₹25 extra. Complete visit needs 3-4 hours minimum."
 ---
@@ -284,6 +289,18 @@ The **Sarnath Archaeological Museum** houses one of India's finest Buddhist art 
 ✅ **Start with Gallery 1**: See Lion Capital first (most important)  
 ✅ **Read Information Boards**: Enhance understanding of Buddhist symbolism  
 ✅ **Check Temporary Exhibition**: Gallery 5 often has special displays  
+
+**Sarnath Museum Ticket Price (2026) at a glance:**
+
+| Ticket | Indians | Foreigners |
+|--------|---------|------------|
+| Museum entry | ₹5 | ₹100 |
+| Combo (site + museum) | ₹20 | ₹250 |
+| Camera | ₹25 | ₹25 |
+
+The Sarnath ticket for the museum is among the cheapest of any major Indian monument — carry small change and buy the combo ticket to skip a second queue. Planning the trip from the city? A round-trip cab makes the 10 km Sarnath run painless.
+
+{{CTA:SARNATH_CAB:en}}
 
 ---
 

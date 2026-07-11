@@ -216,7 +216,7 @@ const jsonLdFAQ = {
       name: 'How much does a scooty or bike cost per day?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Scooty/Activa ~₹449–₹599/day, 125–160cc bikes ~₹700–₹900/day, Royal Enfield/350–500cc ~₹1,200–₹1,500/day. Fuel is usually not included. Seasonal demand (festivals, holidays) can push the higher end—call or WhatsApp for today’s rate.'
+        text: 'Bike on rent in Varanasi is priced by vehicle: Scooty/Activa ~₹449–₹599/day, 125–160cc bikes ~₹700–₹900/day, Royal Enfield/350–500cc ~₹1,200–₹1,500/day. Fuel is usually not included. Seasonal demand (festivals, holidays) can push the higher end—call or WhatsApp for today’s rate.'
       }
     },
     {

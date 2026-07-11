@@ -20,6 +20,9 @@ keywords:
   - "budget room near dashashwamedh ghat"
   - "dormitory near kashi vishwanath temple"
   - "where to stay near kashi vishwanath temple"
+  - "kashi vishwanath mandir ke pass dharamshala"
+  - "काशी विश्वनाथ मंदिर के पास धर्मशाला"
+  - "dharamshala near kashi vishwanath mandir"
 tags:
   - varanasi
   - dharamshala
@@ -43,7 +46,7 @@ offers:
 published: true
 faqSchema:
   - question: "Is there a dharamshala near Kashi Vishwanath temple?"
-    answer: "Yes. There are several dharamshalas, pilgrim guest houses and budget lodges within a short walk of the Kashi Vishwanath temple and Dashashwamedh Ghat, in the old-city lanes around Godowlia. Availability changes daily and many do not take online bookings, so we help you find and confirm a clean one for your dates."
+    answer: "Yes. There are several dharamshalas, pilgrim guest houses and budget lodges within a short walk of the Kashi Vishwanath temple and Dashashwamedh Ghat, in the old-city lanes around Godowlia. Availability changes daily and many do not take online bookings, so we help you find and confirm a clean one for your dates. (काशी विश्वनाथ मंदिर के पास धर्मशाला — मंदिर से पैदल दूरी पर साफ-सुथरे कमरे बुक करने में हम मदद करते हैं।)"
   - question: "How much does a dharamshala near the temple cost?"
     answer: "Budget dormitory beds start from about ₹400 per night and simple private rooms from about ₹900, depending on the property, season and how close it is to the temple. Festival dates (Mahashivratri, Shravan, Dev Deepawali) run higher and fill fast. We confirm the exact rate on WhatsApp before you book."
   - question: "Can I get a room right next to Kashi Vishwanath?"
