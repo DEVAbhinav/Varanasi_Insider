@@ -4,6 +4,7 @@ Description — Page-level SEO, sales and content changes over the last 30 days,
 
 ## 12 July 2026
 
+- kashitaxi.in/en/services/where-to-stay-in-vindhyachal - Changed the accommodation H2 from "Dharamshalas & Guest Houses Near Maa Vindhyavasini Temple" to "Dharamshala Near Vindhyachal Temple (Maa Vindhyavasini): Guest Houses & Trust Rooms" so it matches the exact searcher phrase "dharamshala near vindhyachal temple" (51 impr, pos 7.1) — a low-traffic dharamshala-booking page with no cannibalization, nudging it toward top-5 to win pilgrim lodging calls.
 - kashitaxi.in/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - Added "Fare" to the SEO title and metaTitle ("Varanasi to Vindhyachal Taxi Fare ₹2,500 | 65km Cab") so the existing fare table finally matches the exact query "varanasi to vindhyachal taxi fare" (303 impr, pos 12).
 - kashitaxi.in/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - Added "किराया" to the metaTitle and the keyword "वाराणसी से विंध्याचल टैक्सी किराया" so the Hindi page mirrors the English fare-intent targeting.
 - kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi - Added an "Auto-Rickshaw vs Taxi: Varanasi to Sarnath Auto Fare Compared" table plus keyword "varanasi to sarnath auto fare" (184 impr, pos 7, previously owned by no page) to capture auto-fare searchers and upsell the AC taxi.

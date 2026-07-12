@@ -94,7 +94,7 @@ Coming from Varanasi? Most pilgrims take a [same-day taxi from Varanasi to Vindh
 
 ---
 
-## Dharamshalas & Guest Houses Near Maa Vindhyavasini Temple
+## Dharamshala Near Vindhyachal Temple (Maa Vindhyavasini): Guest Houses & Trust Rooms
 
 | Type | Name | Approx. Distance | Key Features |
 |------|------|------------------|--------------|
