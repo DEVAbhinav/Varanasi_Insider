@@ -1,17 +1,398 @@
 # Change Log
 
-Description — SEO/content changes done to kashitaxi.in, newest first. Based on GSC data in this folder.
+Description — Page-level changes from the last 30 days of commits (latest change per page), generated from git history.
 
-## 11 July 2026 — Sales-first keyword→page fixes (10 pages, from 2026-07-09 GSC snapshot)
+## 11 July 2026
 
-- kashitaxi.in/en/jagannath-rath-yatra-varanasi-2026 — Reframed title/H1/FAQ around "Rath Yatra Mela 2026" + added taxi CTA to capture "rathyatra mela 2026" (1,392 impr, pos 4.0).
-- kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi — Led H1 with exact "Taxi Service in Varanasi" and fixed 24/7 page's internal link into this hub to rank the query "taxi service in varanasi" (pos 17.2).
-- kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi — Repointed "taxi service in Varanasi" anchor from `/` to the hub page to consolidate ranking signal.
-- kashitaxi.in/en/services/where-to-stay-in-vindhyachal — Added "dharamshala price per day" + Goenka phrasing and a price FAQ to target "vindhyachal dharamshala price per day".
-- kashitaxi.in/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi — Added exact keyword + fare FAQ to target "varanasi to vindhyachal taxi fare" (pos 12.8).
-- kashitaxi.in/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package — Added exact "varanasi local tour package" phrase + FAQ (page targeted "sightseeing package" only).
-- kashitaxi.in/en/sarnath-attractions-guide — Added Sarnath museum ticket-price table + FAQ + cab CTA to target "sarnath museum ticket price" / "sarnath ticket".
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance — Added Uber-vs-fixed-fare table to target "...kashi vishwanath temple uber price" (pos 4.7).
-- kashitaxi.in/en/services/dharamshala-near-kashi-vishwanath-temple-varanasi — Added Hinglish/Devanagari keywords + bilingual FAQ for "kashi vishwanath mandir ke pass dharamshala".
-- kashitaxi.in/en/17-seater-tempo-traveller-varanasi — Added exact "tempo traveller 17 seater price" keyword phrasings.
-- kashitaxi.in/bike-rentals-varanasi — Protected top page: single exact-phrase touch ("bike on rent in Varanasi") in one FAQ answer, no title/structure change.
+- kashitaxi.in/bike-rentals-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/17-seater-tempo-traveller-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/jagannath-rath-yatra-varanasi-2026 - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/sarnath-attractions-guide - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/services/dharamshala-near-kashi-vishwanath-temple-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/en/services/where-to-stay-in-vindhyachal - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+
+## 8 July 2026
+
+- kashitaxi.in/en/banaras-tour-package - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/bodhgaya-rajgir-nalanda-tempo-traveller-tour - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/kasi-tour-package - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/tempo-traveller-booking-guide-varanasi - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/tempo-traveller-safety-features-varanasi - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/varanasi-to-naimisharanya-tempo-traveller - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/hi/kashi-gaya-prayag-pind-daan-tour - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+
+## 7 July 2026
+
+- kashitaxi.in/banaras-tour-package - refactor: remove redundant components and routes.
+- kashitaxi.in/banaras-travel-agency - refactor: remove redundant components and routes.
+- kashitaxi.in/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026 - seo(content): close remaining GSC keyword gaps on darshan + ganga snan pages.
+- kashitaxi.in/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026 - seo(content): close remaining GSC keyword gaps on darshan + ganga snan pages.
+- kashitaxi.in/kasi-tour-package - refactor: remove redundant components and routes.
+
+## 6 July 2026
+
+- kashitaxi.in/en/varanasi-to-vindhyachal - feat(seo/ctr): boost Varanasi–Vindhyachal CTR (pos 5.4, 0.6% CTR).
+- kashitaxi.in/hi/varanasi-to-vindhyachal - feat(seo/ctr): boost Varanasi–Vindhyachal CTR (pos 5.4, 0.6% CTR).
+
+## 5 July 2026
+
+- kashitaxi.in/en/assi-ghat-morning-aarti-time - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/bajra-boat-ride-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/best-time-to-visit-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/boat-ride-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/city/varanasi/activities/84-ghats-boat-tour-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/city/varanasi/tour-packages/ayodhya-varanasi-tour - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/city/varanasi/tour-packages/same-day-varanasi-tour - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/city/varanasi/tour-packages/varanasi-2-day-tour - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/city/varanasi/tour-packages/varanasi-3-day-tour - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/dev-deepawali-2026-varanasi-ultimate-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/dev-deepawali-best-viewing-spots-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/dev-deepawali-boat-ride-pricing-guide-2026 - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/dev-deepawali-crowd-survival-guide-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/dev-deepawali-photography-guide-2026 - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/ganga-aarti-boat-booking-price - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/guide-to-10-most-important-ghats-of-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/guide-to-ghats-of-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/hand-boat-ride-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/jageshwar-mahadev-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/landing/dev-deepawali-taxi-booking-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/lucknow-to-varanasi-taxi-fare - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/maha-shivaratri-2026-varanasi-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/makar-sankranti-2026-varanasi-kite-festival-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/morning-boat-ride-varanasi-price - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/motor-boat-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/outstation-cabs-from-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/packages/varanasi-tour-package - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/private-boat-hire-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/sarnath-timing-visit-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/shivaratri-cultural-deep-dive-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/varanasi-airport-taxi-guide - content/ui: readability + CTA polish for airport & Sarnath guides.
+- kashitaxi.in/en/varanasi-airport-taxi-price-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/varanasi-classical-music-heritage - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/varanasi-instrument-market-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2026 - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/varanasi-to-ayodhya - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/varanasi-to-prayagraj - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/what-to-wear-in-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/en/where-to-stay-in-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
+- kashitaxi.in/hi/varanasi-airport-taxi-guide - content: add Sarnath cab CTA, refactor CTA shortcodes, refresh airport-taxi guide.
+
+## 4 July 2026
+
+- kashitaxi.in/en/ayodhya-varanasi-prayagraj-group-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/kashi-vishwanath-darshan-ganga-aarti-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/ayodhya-ram-mandir-darshan-package-from-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/budget-hotels-near-kashi-vishwanath-godowlia - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/group-accommodation-varanasi-large-groups - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/guest-house-hotels-near-assi-ghat-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/hotel-booking-in-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/hotels-near-varanasi-airport - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/hotels-near-varanasi-railway-station-cantt - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/kashi-vishwanath-aarti-timings-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/kashi-vishwanath-darshan-senior-citizen-wheelchair - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/kashi-vishwanath-rudrabhishek-puja-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/kashi-vishwanath-sugam-darshan-price-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/kashi-vishwanath-temple-dress-code-rules - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/kashi-vishwanath-vip-darshan-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/varanasi-ayodhya-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/varanasi-dormitory-budget-homestay-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/services/varanasi-prayagraj-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/12-seater-tempo-traveller-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-guide - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/ayodhya-ram-mandir-darshan-package-from-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/budget-hotels-near-kashi-vishwanath-godowlia - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/dharamshala-near-kashi-vishwanath-temple-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/group-accommodation-varanasi-large-groups - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/guest-house-hotels-near-assi-ghat-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/hotels-near-varanasi-airport - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/hotels-near-varanasi-railway-station-cantt - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/kashi-vishwanath-aarti-timings-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/kashi-vishwanath-darshan-senior-citizen-wheelchair - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/kashi-vishwanath-rudrabhishek-puja-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/kashi-vishwanath-sugam-darshan-price-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/kashi-vishwanath-temple-dress-code-rules - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/kashi-vishwanath-vip-darshan-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/varanasi-ayodhya-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/varanasi-dormitory-budget-homestay-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/hi/services/varanasi-prayagraj-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+
+## 3 July 2026
+
+- kashitaxi.in/en/assi-ghat-aarti-timings-2026 - feat(seo/stays): launch Varanasi family/group homestay content cluster.
+- kashitaxi.in/en/city/nepal/taxi/varanasi-to-nepal-taxi - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
+- kashitaxi.in/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
+- kashitaxi.in/en/family-tour-varanasi-3-days-parents - feat(seo/stays): launch Varanasi family/group homestay content cluster.
+- kashitaxi.in/en/how-to-reach-varanasi - feat(seo/stays): launch Varanasi family/group homestay content cluster.
+- kashitaxi.in/en/sarnath-complete-guide - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
+- kashitaxi.in/en/varanasi-family-homestay-4bhk-sigra - feat(seo/stays): launch Varanasi family/group homestay content cluster.
+- kashitaxi.in/en/varanasi-in-monsoon-july-september-2026 - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
+- kashitaxi.in/hi/assi-ghat-aarti-timings-2026 - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
+- kashitaxi.in/hi/city/varanasi/activities/ganga-aarti-samay-varanasi-2026 - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
+- kashitaxi.in/hi/sarnath-timing-visit-guide - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
+- kashitaxi.in/hi/varanasi-family-homestay-4bhk-sigra - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
+- kashitaxi.in/hi/varanasi-ke-ghaton-ke-liye-guide - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
+- kashitaxi.in/hi/varanasi-to-ayodhya - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
+- kashitaxi.in/hi/varanasi-to-prayagraj - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
+- kashitaxi.in/hi/where-to-stay-in-varanasi - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
+
+## 25 June 2026
+
+- kashitaxi.in/en/services/varanasi-airport-to-city-cab - seo(services): optimize airport-to-city-cab for Kashi Vishwanath & railway-station intents (GSC).
+- kashitaxi.in/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi - seo(hi): enrich 84-ghat-naav-tour with काशी/बनारस keywords + improve H1/H2 (GSC).
+- kashitaxi.in/hi/varanasi-day-tour-cab-charges - seo(hi): optimize day-tour-cab-charges for trip-cost intent (GSC fix).
+
+## 24 June 2026
+
+- kashitaxi.in/en/city/agra/taxi/varanasi-to-agra-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
+- kashitaxi.in/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
+- kashitaxi.in/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
+- kashitaxi.in/en/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
+- kashitaxi.in/en/city/deoghar/taxi/varanasi-to-deoghar-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/en/city/gaya/taxi/varanasi-to-gaya-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
+- kashitaxi.in/en/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
+- kashitaxi.in/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/en/city/lucknow/taxi/varanasi-to-lucknow-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
+- kashitaxi.in/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/en/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/en/city/patna/taxi/varanasi-to-patna-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
+- kashitaxi.in/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
+- kashitaxi.in/hi/banaras-tour-package - feat(hi): add 10 evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/banaras-travel-agency - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/agra/taxi/varanasi-to-agra-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/allahabad/taxi/varanasi-to-allahabad-taxi - feat(hi): complete Hindi parity for all intercity outstation taxi routes.
+- kashitaxi.in/hi/city/ayodhya/taxi/ayodhya-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/ayodhya/tour-packages/ayodhya-2-day-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/delhi/taxi/varanasi-to-delhi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/deoghar/taxi/varanasi-to-deoghar-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/gaya/taxi/gaya-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/gaya/taxi/varanasi-to-gaya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/jaipur/taxi/varanasi-to-jaipur-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/kanpur/taxi/kanpur-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/khajuraho/taxi/varanasi-to-khajuraho-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/kolkata/taxi/varanasi-to-kolkata-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/kushinagar/taxi/varanasi-to-kushinagar-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/lucknow/taxi/lucknow-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/lucknow/taxi/varanasi-to-lucknow-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/nepal/taxi/varanasi-to-nepal-taxi - feat(hi): complete Hindi parity for all intercity outstation taxi routes.
+- kashitaxi.in/hi/city/patna/taxi/varanasi-to-patna-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi - feat(hi): add Hindi festival event pages (Magh Mela cluster + Kartik Purnima).
+- kashitaxi.in/hi/city/prayagraj/events/safe-taxi-magh-mela-seniors-families - feat(hi): add Hindi festival event pages (Magh Mela cluster + Kartik Purnima).
+- kashitaxi.in/hi/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking - feat(hi): add Hindi festival event pages (Magh Mela cluster + Kartik Purnima).
+- kashitaxi.in/hi/city/prayagraj/taxi/prayagraj-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026 - feat(hi): add Hindi festival event pages (Magh Mela cluster + Kartik Purnima).
+- kashitaxi.in/hi/city/varanasi/food/varanasi-street-food-guide - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/varanasi/food/varanasi-winter-food-itinerary - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/varanasi/sightseeing/varanasi-local-sightseeing-package - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/varanasi/tour-packages/same-day-varanasi-tour - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/city/varanasi/tour-packages/varanasi-2-day-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/varanasi/tour-packages/varanasi-3-day-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/varanasi/travel-guide/varanasi-in-january-2026 - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
+- kashitaxi.in/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/family-tour-varanasi-3-days-parents - feat(hi): add 10 evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/guide-to-ghats-of-varanasi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/how-to-reach-varanasi - feat(hi): add 6 high-value evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/kasi-tour-package - feat(hi): add 10 evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/lucknow-to-varanasi-taxi-fare - feat(hi): add 10 evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/outstation-cabs-from-varanasi - feat(hi): complete Hindi parity for all intercity outstation taxi routes.
+- kashitaxi.in/hi/safety-and-security-in-varanasi-guide-for-solo-travellar - feat(hi): add 10 evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/sarnath-attractions-guide - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/sarnath-buddhist-temple-guide - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/tour-package-from-varanasi - feat(hi): add 6 high-value evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/travel-from-varanasi-to-vindhyachal-guide - feat(hi): add 10 evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/varanasi-sightseeing-complete-guide - feat(hi): add 6 high-value evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/varanasi-travel-agent - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
+- kashitaxi.in/hi/varanasi-weather-guide - feat(hi): add 6 high-value evergreen root guide pages in Hindi.
+- kashitaxi.in/hi/varanasi-with-friends-plan - feat(hi): add 10 evergreen root guide pages in Hindi.
+
+## 22 June 2026
+
+- kashitaxi.in/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026 - seo(ganga-aarti): fix cannibalization between flat and nested timing pages.
+- kashitaxi.in/hi/varanasi-tour-package - seo(ganga-aarti): fix cannibalization between flat and nested timing pages.
+
+## 21 June 2026
+
+- kashitaxi.in/ - feat(cta): add sticky mobile CTA to homepage and all standalone pages.
+- kashitaxi.in/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/en/city/varanasi/activities/sunrise-yoga-varanasi-2026 - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/en/city/varanasi/taxi/one-way-taxi-varanasi - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-city-tour-cab - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/en/destinations/varanasi/varanasi-december-2026-experience-hub - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/en/packages - feat(cta): add sticky mobile CTA to homepage and all standalone pages.
+- kashitaxi.in/en/tempo-traveller-rates-varanasi - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/en/tempo-traveller-varanasi - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/en/varanasi-to-bodhgaya-taxi-cost - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/hi/city/varanasi/activities/sunrise-yoga-varanasi-2026 - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/hi/destinations/varanasi/varanasi-december-2026-experience-hub - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/hi/tempo-traveller-rates-varanasi - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/hi/varanasi-to-chitrakoot-tempo-traveller - seo: improve titles/meta, internal links & redirects for sales pages.
+- kashitaxi.in/pink-taxi-varanasi - feat(cta): add sticky mobile CTA to homepage and all standalone pages.
+
+## 20 June 2026
+
+- kashitaxi.in/en/12-seater-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/ashoka-pillar-sarnath-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/assi-ghat-to-airport-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/bharat-milap-nati-imli-oct-3 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/book-taxi-varanasi-ramlila-dussehra - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/allahabad/taxi/varanasi-to-allahabad-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/delhi/taxi/varanasi-to-delhi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/gaya/taxi/gaya-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/jaipur/taxi/varanasi-to-jaipur-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/kanpur/taxi/kanpur-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/khajuraho/taxi/varanasi-to-khajuraho-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/kolkata/taxi/varanasi-to-kolkata-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/lucknow/taxi/lucknow-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/events/banaras-lit-fest-2026-taxi-booking - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/events/chhath-puja-2026-varanasi-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/food/varanasi-street-food-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/airport-taxi-service-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/airport-taxi-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/how-to-reach-tent-city-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/luxury-cab-for-tent-city-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/manikarnika-ghat-cremation-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/shivala-ghat-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/staying-at-taj-ganges-need-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-for-tent-city-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-near-bhu - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-rates-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-service-in-sigra-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi-cantt-station - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ballia-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-deoria-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ghazipur-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-jalalpur-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-jaunpur-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-mau-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-patna-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-raj-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-transfer-directory - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-transfer-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-railway-station-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/corporate-group-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/dussehra-ravana-dahan-varanasi-oct-2 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/guides/best-experience-dev-deepawali-ghat-boat-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/holi-2026-varanasi-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/is-varanasi-safe-for-solo-female-travellers - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/kashi-darshan-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/luxury-maharaja-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/manikarnika-ghat-sacred-cremation-grounds - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/pilgrimage-yatra-tours-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/privacy-policy - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/ram-rajya-finale-ramnagar-ramlila-oct-7 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/ramnagar-ramlila-moving-stages-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/sarnath-buddhist-temple-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2026 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/services/varanasi-safest-taxi-for-women - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/tempo-traveller-group-booking-dussehra - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/tempo-traveller-wedding-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/tourist-spots-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/ultimate-guide-ramlila-dussehra-varanasi-2026 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-airport-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-day-tour-cab-charges - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-to-allahabad-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-to-bodhgaya-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-travel-agent - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/varanasi-with-friends-plan - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/best-time-to-visit-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2026 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/airport-taxi-service-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/airport-to-taj-gateway-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/manikarnika-ghat-cremation-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/shivala-ghat-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/staying-at-taj-ganges-need-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/taxi-service-in-sigra-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/taxi-service-varanasi-cantt-station - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-transfer-directory - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-transfer-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-to-sarnath-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/contact - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/kashi-darshan-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/services/varanasi-safest-taxi-for-women - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/varanasi-airport-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/varanasi-sunrise-time - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/varanasi-to-bodhgaya-taxi-cost - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/hi/varanasi-transport-price-guide-2026 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
