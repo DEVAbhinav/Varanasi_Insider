@@ -7,7 +7,7 @@ author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 metaTitle: "Varanasi Local Sightseeing Package | One Day Tour by Car ₹1,800"
-metaDescription: "Book Varanasi local sightseeing package and one day city tour by car from ₹1,800. Kashi Vishwanath, ghats, Sarnath, BHU and Ganga Aarti-ready cab itineraries."
+metaDescription: "Book a Varanasi local tour package or one day sightseeing tour by car from ₹1,800. Kashi Vishwanath, ghats, Sarnath, BHU and Ganga Aarti-ready cab itineraries."
 description: "The main one-day Varanasi city tour page for local sightseeing by car. Compare half-day, full-day, Sarnath and Ganga Aarti-ready packages with transparent pricing."
 location:
   name: "Varanasi"
@@ -445,6 +445,14 @@ Driver arrives 10 minutes before scheduled time. Relax and enjoy Varanasi's spir
 ### What is the price of Varanasi local sightseeing package?
 
 Varanasi local sightseeing packages start from ₹1,800 for half-day sedan tour (4 hours/40 km) covering main temples and ghats. Full-day packages with Sarnath cost ₹2,200-3,500 depending on vehicle type (sedan/Innova/tempo traveller).
+
+### What does a Varanasi local tour package cost?
+
+A Varanasi local tour package starts from ₹1,800 for a half-day sedan tour (4 hours/40 km) covering the main temples and ghats, and ₹2,200-3,500 for a full-day local tour package that adds Sarnath. Price depends on vehicle type and total hours, with all fares fixed and inclusive of fuel, tolls and driver allowance.
+
+### What is the price of one day Varanasi tour package by car?
+
+A one day Varanasi tour package by car starts from ₹2,200 for a sedan and usually covers Kashi Vishwanath, ghats, Sarnath, BHU, and an evening Ganga Aarti-ready return. Final fare depends on vehicle type and total hours.
 
 ### What is included in Varanasi sightseeing package?
 

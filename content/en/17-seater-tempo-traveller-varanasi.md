@@ -71,7 +71,7 @@ In essence, this mini‑coach gives you bus‑like capacity with the agility of 
 
 ## Local 8hr/80km Tips (Kashi Darshan)
 
-- Club Sarnath + BHU + Ramnagar thoughtfully to stay within 80 km; your driver will help optimize routing
+- Club Sarnath + BHU + Ramnagar thoughtfully to stay within 80 km; your driver will help optimize routing — see the full [Kashi Darshan tempo traveller](/en/kashi-darshan-tempo-traveller) plan and rates
 - Evenings near the corridor get crowded for Ganga Aarti—use driver‑coordinated pickup points
 - Expect short heritage walks; carry water and comfortable footwear
 
@@ -95,6 +95,8 @@ In essence, this mini‑coach gives you bus‑like capacity with the agility of 
 
 - [Tempo Traveller in Varanasi](/en/tempo-traveller-varanasi)
 - [12‑Seater Tempo Traveller](/en/12-seater-tempo-traveller-varanasi)
+- [9 vs 12 vs 17 Seater — Which to Pick](/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
+- [Kashi Darshan Tempo Traveller](/en/kashi-darshan-tempo-traveller)
 - [Wedding Transport](/en/tempo-traveller-wedding-varanasi)
 - [Rates Guide](/en/tempo-traveller-rates-varanasi)
 - [Ayodhya Day Trip](/en/varanasi-to-ayodhya-tempo-traveller)

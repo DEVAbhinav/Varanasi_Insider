@@ -820,6 +820,8 @@ The **monastery ruins** at Sarnath represent 1,500+ years of continuous Buddhist
 
 **Pro Tip**: **Always buy combo ticket** even if unsure about museum—saves money and separate queuing.
 
+> **Reach Sarnath the easy way:** Skip the ₹300-450 auto-rickshaw haggling — a fixed-fare AC cab from your Varanasi hotel to Sarnath and back (with 3-4 hr waiting included) starts at ₹2,000. Compare the full [Varanasi to Sarnath taxi & auto fare](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi), or fold Sarnath into a driver-guided [Varanasi local sightseeing tour](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) that drops you at every monument gate.
+
 ---
 
 ## Practical Sarnath Attractions Guide

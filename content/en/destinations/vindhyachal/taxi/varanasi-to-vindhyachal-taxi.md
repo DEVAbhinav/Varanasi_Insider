@@ -1,11 +1,11 @@
 ---
-title: "Varanasi to Vindhyachal Taxi | Shakti Peeth Cabs | ₹2,500 | KashiTaxi"
+title: "Varanasi to Vindhyachal Taxi Fare | Shakti Peeth Cabs | ₹2,500 | KashiTaxi"
 slug: "varanasi-to-vindhyachal-taxi"
 date: "2026-06-24"
 lastUpdated: "2026-06-24"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Vindhyachal Taxi ₹2,500 | 65km Cab [2026]"
+metaTitle: "Varanasi to Vindhyachal Taxi Fare ₹2,500 | 65km Cab [2026]"
 metaDescription: "Varanasi to Vindhyachal = 65 km (1.5-2 hrs via NH19). Round-trip taxi ₹2,500 sedan. Vindhyavasini Shakti Peeth + Trikon Parikrama. Book: 99354 74730"
 description: "Book Varanasi to Vindhyachal taxi for ₹2,500 round trip. 65 km to the Vindhyavasini Devi Shakti Peeth, with darshan waiting time and the Trikon Parikrama covered."
 keywords:
