@@ -4,8 +4,6 @@ Description — Page-level SEO, sales and content changes over the last 30 days,
 
 ## 12 July 2026
 
-- kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi - Rewrote SEO title & metaTitle to lead with the exact phrase "Taxi Service in Varanasi 2026 | Fares, Popular Routes & Online Booking" (was "Varanasi Taxi Services & Fares 2026…") so this canonical page — not the 24/7 page — wins the high-intent query "taxi service in varanasi" (401 impr, stuck at pos 18).
-- kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi - Retitled from "24/7 Taxi Service in Varanasi | Night Cab…" to "24/7 Night & Emergency Taxi in Varanasi | Late-Night & Airport Cabs" (title, metaTitle and H1) to remove the duplicate exact bigram "Taxi Service in Varanasi" that was cannibalising the main taxi page, while keeping its night/emergency keywords (24x7, night, emergency taxi) intact.
 - kashitaxi.in/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - Added "Fare" to the SEO title and metaTitle ("Varanasi to Vindhyachal Taxi Fare ₹2,500 | 65km Cab") so the existing fare table finally matches the exact query "varanasi to vindhyachal taxi fare" (303 impr, pos 12).
 - kashitaxi.in/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - Added "किराया" to the metaTitle and the keyword "वाराणसी से विंध्याचल टैक्सी किराया" so the Hindi page mirrors the English fare-intent targeting.
 - kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi - Added an "Auto-Rickshaw vs Taxi: Varanasi to Sarnath Auto Fare Compared" table plus keyword "varanasi to sarnath auto fare" (184 impr, pos 7, previously owned by no page) to capture auto-fare searchers and upsell the AC taxi.

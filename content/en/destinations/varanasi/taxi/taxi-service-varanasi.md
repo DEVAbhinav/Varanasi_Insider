@@ -1,11 +1,11 @@
 ---
-title: Taxi Service in Varanasi 2026 | Fares, Popular Routes & Online Booking
+title: Varanasi Taxi Services & Fares 2026 | Routes, Rates & Online Booking
 slug: taxi-service-varanasi
 date: '2026-11-25'
 lastUpdated: '2026-11-25'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: Taxi Service in Varanasi 2026 | Fares, Routes & Online Booking
+metaTitle: Varanasi Taxi Services & Fares 2026 | Routes, Rates & Booking
 metaDescription: >-
   Compare Varanasi taxi fares & services: airport from ₹700, 8-hr Kashi Darshan
   ₹1,800, plus Ayodhya, Prayagraj, Nepal & Bodh Gaya routes. Fixed fares, 24/7 booking.
