@@ -1,398 +1,398 @@
 # Change Log
 
-Description — Page-level changes from the last 30 days of commits (latest change per page), generated from git history.
+Description — Page-level SEO, sales and content changes from the last 30 days. Each line is generated from the actual page diff (not the commit message); newest change per page is listed.
 
 ## 11 July 2026
 
-- kashitaxi.in/bike-rentals-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/17-seater-tempo-traveller-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/jagannath-rath-yatra-varanasi-2026 - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/sarnath-attractions-guide - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/services/dharamshala-near-kashi-vishwanath-temple-varanasi - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
-- kashitaxi.in/en/services/where-to-stay-in-vindhyachal - SEO: sales-first low-hanging-fruit fixes for 10 keyword-page pairs.
+- kashitaxi.in/bike-rentals-varanasi - Updated the structured FAQ to add exact “bike on rent in Varanasi” wording alongside daily scooter, bike and Royal Enfield rates.
+- kashitaxi.in/en/17-seater-tempo-traveller-varanasi - Added keyword targets: “17 seater tempo traveller varanasi”, “tempo traveller 17 seater price”, “tempo traveller 17 seater in varanasi price”.
+- kashitaxi.in/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package - Added keyword targets: “varanasi local tour package”; Added 1 FAQ.
+- kashitaxi.in/en/city/varanasi/taxi/24-7-taxi-varanasi - Changed the generic “taxi service in Varanasi” internal link from the homepage to the dedicated taxi-service hub.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi - Changed H1 to exact “Taxi Service in Varanasi” wording to target the page-two commercial query.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance - Added Uber/Ola versus KashiTaxi fixed-fare comparison to convert airport-to-temple Uber-price searches.
+- kashitaxi.in/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - Added keyword targets: “varanasi to vindhyachal taxi fare”; Added 1 FAQ.
+- kashitaxi.in/en/jagannath-rath-yatra-varanasi-2026 - Changed SEO title from “Jagannath Rath Yatra in Varanasi 2026: Timing, Route Strategy and Crowd Tips” to “Rath Yatra Mela 2026 Varanasi: Jagannath Yatra Timing, Route & Crowd Tips”; Changed meta description from “Planning for Jagannath Rath Yatra in Varanasi on July 16, 2026? Use this guide for likely timing windows…” to “Rath Yatra Mela 2026 in Varanasi is on July 16. Get Jagannath Yatra timing, crowd movement, family-safe…”; Added keyword targets: “rathyatra mela 2026”, “rath yatra mela 2026 varanasi”, “rath yatra mela varanasi 2026”; Added 1 FAQ; Added/updated a booking CTA.
+- kashitaxi.in/en/sarnath-attractions-guide - Added keyword targets: “sarnath museum ticket price”, “sarnath ticket”, “sarnath museum ticket”; Added 1 FAQ; Added/updated a booking CTA.
+- kashitaxi.in/en/services/dharamshala-near-kashi-vishwanath-temple-varanasi - Added keyword targets: “kashi vishwanath mandir ke pass dharamshala”, “काशी विश्वनाथ मंदिर के पास धर्मशाला”, “dharamshala near kashi vishwanath mandir”.
+- kashitaxi.in/en/services/where-to-stay-in-vindhyachal - Added keyword targets: “vindhyachal dharamshala price per day”, “goenka dharamshala vindhyachal”; Added 1 FAQ.
 
 ## 8 July 2026
 
-- kashitaxi.in/en/banaras-tour-package - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/bodhgaya-rajgir-nalanda-tempo-traveller-tour - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/kasi-tour-package - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/tempo-traveller-booking-guide-varanasi - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/tempo-traveller-safety-features-varanasi - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/en/varanasi-to-naimisharanya-tempo-traveller - fix(content): fill placeholder contact blocks + strip leaked editor notes.
-- kashitaxi.in/hi/kashi-gaya-prayag-pind-daan-tour - fix(content): fill placeholder contact blocks + strip leaked editor notes.
+- kashitaxi.in/en/banaras-tour-package - Added/updated a booking CTA.
+- kashitaxi.in/en/bodhgaya-rajgir-nalanda-tempo-traveller-tour - Added heading: “Visual Gallery”.
+- kashitaxi.in/en/buddhist-circuit-tour-tempo-traveller-varanasi - Added heading: “Visual Orientation”.
+- kashitaxi.in/en/kashi-gaya-prayag-pind-daan-tour - Added heading: “Photo Gallery”.
+- kashitaxi.in/en/kasi-tour-package - Added/updated a booking CTA.
+- kashitaxi.in/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit - Added heading: “Visual Gallery”.
+- kashitaxi.in/en/tempo-traveller-booking-guide-varanasi - Added heading: “Visual Aids”.
+- kashitaxi.in/en/tempo-traveller-safety-features-varanasi - Added heading: “Visual Safety Gallery”.
+- kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller - Replaced placeholder contact blocks with live booking details and removed leaked editor notes.
+- kashitaxi.in/en/varanasi-to-kushinagar-tempo-traveller - Added heading: “Kushinagar Visual Gallery”.
+- kashitaxi.in/en/varanasi-to-naimisharanya-tempo-traveller - Replaced placeholder contact blocks with live booking details and removed leaked editor notes.
+- kashitaxi.in/hi/kashi-gaya-prayag-pind-daan-tour - Added heading: “फोटो गैलरी”.
 
 ## 7 July 2026
 
-- kashitaxi.in/banaras-tour-package - refactor: remove redundant components and routes.
-- kashitaxi.in/banaras-travel-agency - refactor: remove redundant components and routes.
-- kashitaxi.in/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026 - seo(content): close remaining GSC keyword gaps on darshan + ganga snan pages.
-- kashitaxi.in/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026 - seo(content): close remaining GSC keyword gaps on darshan + ganga snan pages.
-- kashitaxi.in/kasi-tour-package - refactor: remove redundant components and routes.
+- kashitaxi.in/banaras-tour-package - Removed this duplicate or redundant route during cleanup.
+- kashitaxi.in/banaras-travel-agency - Removed this duplicate or redundant route during cleanup.
+- kashitaxi.in/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026 - Added keyword targets: “ganga snan date”, “ganga snan”.
+- kashitaxi.in/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026 - Added keyword targets: “kashi vishwanath temple dress code”, “kashi vishwanath temple dress code for ladies”, “dress code in kashi vishwanath temple”; Added/updated a booking CTA; Added heading: “Kashi Vishwanath Temple Dress Code (What to Wear)”.
+- kashitaxi.in/kasi-tour-package - Removed this duplicate or redundant route during cleanup.
 
 ## 6 July 2026
 
-- kashitaxi.in/en/varanasi-to-vindhyachal - feat(seo/ctr): boost Varanasi–Vindhyachal CTR (pos 5.4, 0.6% CTR).
-- kashitaxi.in/hi/varanasi-to-vindhyachal - feat(seo/ctr): boost Varanasi–Vindhyachal CTR (pos 5.4, 0.6% CTR).
+- kashitaxi.in/en/varanasi-to-vindhyachal - Changed SEO title from “Varanasi to Vindhyachal Distance 2026: Taxi Fare, Time & Route” to “Varanasi to Vindhyachal Distance 2026: Taxi ₹1,500+, 65 KM”; Changed meta description from “Varanasi to Vindhyachal distance is 65 km. Check taxi fare, travel time, bus option, darshan route, and…” to “Varanasi to Vindhyachal distance is 65 km (1.5–2 hrs). One-way taxi from ₹1,500, same-day return ₹2,500.…”.
+- kashitaxi.in/hi/varanasi-to-vindhyachal - Changed SEO title from “वाराणसी से विंध्याचल दूरी 2026: टैक्सी किराया, समय और रूट” to “वाराणसी से विंध्याचल दूरी 2026: टैक्सी ₹1,500 से, 65 किमी”; Changed meta description from “वाराणसी से विंध्याचल दूरी 65 किमी है। टैक्सी किराया, बस विकल्प, यात्रा समय, दर्शन रूट और एक दिन के विंध्…” to “वाराणसी से विंध्याचल दूरी 65 किमी (1.5–2 घंटे)। वन-वे टैक्सी ₹1,500 से, उसी दिन वापसी ₹2,500। भरोसेमंद A…”.
 
 ## 5 July 2026
 
-- kashitaxi.in/en/assi-ghat-morning-aarti-time - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/bajra-boat-ride-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/best-time-to-visit-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/boat-ride-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/city/varanasi/activities/84-ghats-boat-tour-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/city/varanasi/tour-packages/ayodhya-varanasi-tour - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/city/varanasi/tour-packages/same-day-varanasi-tour - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/city/varanasi/tour-packages/varanasi-2-day-tour - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/city/varanasi/tour-packages/varanasi-3-day-tour - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/dev-deepawali-2026-varanasi-ultimate-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/dev-deepawali-best-viewing-spots-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/dev-deepawali-boat-ride-pricing-guide-2026 - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/dev-deepawali-crowd-survival-guide-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/dev-deepawali-photography-guide-2026 - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/ganga-aarti-boat-booking-price - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/guide-to-10-most-important-ghats-of-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/guide-to-ghats-of-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/hand-boat-ride-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/jageshwar-mahadev-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/landing/dev-deepawali-taxi-booking-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/lucknow-to-varanasi-taxi-fare - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/maha-shivaratri-2026-varanasi-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/makar-sankranti-2026-varanasi-kite-festival-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/morning-boat-ride-varanasi-price - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/motor-boat-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/outstation-cabs-from-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/packages/varanasi-tour-package - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/private-boat-hire-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/sarnath-timing-visit-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/shivaratri-cultural-deep-dive-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/varanasi-airport-taxi-guide - content/ui: readability + CTA polish for airport & Sarnath guides.
-- kashitaxi.in/en/varanasi-airport-taxi-price-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/varanasi-classical-music-heritage - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/varanasi-instrument-market-guide - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2026 - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/varanasi-to-ayodhya - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/varanasi-to-prayagraj - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/what-to-wear-in-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/en/where-to-stay-in-varanasi - feat(seo): boat-ride cluster, scannable TL;DRs & review-star schema.
-- kashitaxi.in/hi/varanasi-airport-taxi-guide - content: add Sarnath cab CTA, refactor CTA shortcodes, refresh airport-taxi guide.
+- kashitaxi.in/en/assi-ghat-morning-aarti-time - Added/updated a booking CTA.
+- kashitaxi.in/en/bajra-boat-ride-varanasi - Created this page; SEO title: “Bajra Boat Varanasi 2026: Luxury Boat Hire from ₹10,000 | Book”.
+- kashitaxi.in/en/best-time-to-visit-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/boat-ride-varanasi - Created this page; SEO title: “Boat Ride in Varanasi 2026: Types, Prices & Booking | Hand vs Motor vs Bajra”.
+- kashitaxi.in/en/city/varanasi/activities/84-ghats-boat-tour-varanasi - Added boat-ride conversion content, scannable TL;DR structure and review-schema support.
+- kashitaxi.in/en/city/varanasi/tour-packages/ayodhya-varanasi-tour - Added boat-ride conversion content, scannable TL;DR structure and review-schema support.
+- kashitaxi.in/en/city/varanasi/tour-packages/same-day-varanasi-tour - Added/updated on-page copy: “> TL;DR — same-day Varanasi tour (₹2,500+, 8–10 hours):”.
+- kashitaxi.in/en/city/varanasi/tour-packages/varanasi-2-day-tour - Added/updated on-page copy: “> TL;DR — 2-day Varanasi package (₹3,999+):”.
+- kashitaxi.in/en/city/varanasi/tour-packages/varanasi-3-day-tour - Added/updated on-page copy: “> TL;DR — 3-day Kashi package (₹7,988+):”.
+- kashitaxi.in/en/dashashwamedh-ghat-ganga-aarti-timing - Changed SEO title from “Dashashwamedh Ghat Ganga Aarti Time 2026: 5:45 / 6:45 PM” to “Dashashwamedh Ganga Aarti 2026: Timing, Best View Spot & Boat Tips”.
+- kashitaxi.in/en/dev-deepawali-2026-varanasi-ultimate-guide - Added/updated on-page copy: “> TL;DR — Dev Deepawali 2026 at a glance:”.
+- kashitaxi.in/en/dev-deepawali-best-viewing-spots-varanasi - Added/updated on-page copy: “> TL;DR — best Dev Deepawali viewing spots 2026:”.
+- kashitaxi.in/en/dev-deepawali-boat-ride-pricing-guide-2026 - Added/updated on-page copy: “> TL;DR — Dev Deepawali boat prices (5 Nov 2026):”.
+- kashitaxi.in/en/dev-deepawali-crowd-survival-guide-varanasi - Added/updated on-page copy: “> TL;DR — surviving the Dev Deepawali crowds:”.
+- kashitaxi.in/en/dev-deepawali-photography-guide-2026 - Added/updated a booking CTA.
+- kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti - Added/updated on-page copy: “> TL;DR — book before the aarti rush:”.
+- kashitaxi.in/en/ganga-aarti-boat-booking-price - Added/updated on-page copy: “> TL;DR — Ganga Aarti boat prices 2026:”.
+- kashitaxi.in/en/guide-to-10-most-important-ghats-of-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/guide-to-ghats-of-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/hand-boat-ride-varanasi - Created this page; SEO title: “Hand Boat Ride Varanasi 2026: Rowboat Price from ₹80/seat | Book”.
+- kashitaxi.in/en/jageshwar-mahadev-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/landing/dev-deepawali-taxi-booking-varanasi - Added/updated on-page copy: “> TL;DR — Dev Deepawali taxi booking, Varanasi:”.
+- kashitaxi.in/en/lucknow-to-varanasi-taxi-fare - Added/updated on-page copy: “> TL;DR — Lucknow to Varanasi taxi fare (2026):”.
+- kashitaxi.in/en/maha-shivaratri-2026-varanasi-guide - Added/updated a booking CTA.
+- kashitaxi.in/en/makar-sankranti-2026-varanasi-kite-festival-guide - Added/updated a booking CTA.
+- kashitaxi.in/en/morning-boat-ride-varanasi-price - Added/updated on-page copy: “> New to Varanasi boats? Compare every option — hand rowboat, motorboat, luxury bajra and private charter — on our [complete boat ride…”.
+- kashitaxi.in/en/motor-boat-varanasi - Created this page; SEO title: “Motor Boat Varanasi 2026: Group Boat Ride ₹3,500–₹6,000 | Book”.
+- kashitaxi.in/en/outstation-cabs-from-varanasi - Added/updated on-page copy: “> TL;DR — Outstation cabs from Varanasi:”.
+- kashitaxi.in/en/packages/varanasi-tour-package - Added/updated on-page copy: “> TL;DR — Varanasi tour packages:”.
+- kashitaxi.in/en/private-boat-hire-varanasi - Created this page; SEO title: “Private Boat Hire Varanasi 2026: Charter from ₹1,500 | Book”.
+- kashitaxi.in/en/sarnath-timing-visit-guide - Changed page title from “Sarnath Temple Timing 2026: Open 6 AM-6 PM | Entry Rs.25 | Museum Closed Fridays” to “Sarnath Temple Timing 2026: Hours, Entry Fee & Best Time to Visit”.
+- kashitaxi.in/en/shivaratri-cultural-deep-dive-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-airport-taxi-guide - Added/updated on-page copy: “Arriving at Lal Bahadur Shastri International Airport (VNS) is the start of your [Varanasi adventure](/en/varanasi-sightseeing-complet…”.
+- kashitaxi.in/en/varanasi-airport-taxi-price-guide - Added/updated on-page copy: “> TL;DR — Varanasi airport taxi fares (Dec 2026):”.
+- kashitaxi.in/en/varanasi-classical-music-heritage - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-instrument-market-guide - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2026 - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-to-ayodhya - Added/updated on-page copy: “> TL;DR — Varanasi to Ayodhya by taxi:”.
+- kashitaxi.in/en/varanasi-to-prayagraj - Added/updated on-page copy: “> TL;DR — Varanasi to Prayagraj by taxi:”.
+- kashitaxi.in/en/what-to-wear-in-varanasi - Changed SEO title from “What to Wear in Varanasi 2026: Temple Dress Code + Seasonal Tips” to “What to Wear in Varanasi 2026: Temple Dress Code Mistakes to Avoid”; Added/updated a booking CTA.
+- kashitaxi.in/en/where-to-stay-in-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/hi/varanasi-airport-taxi-guide - Changed description from “वाराणसी (VNS) हवाई अड्डे पर टैक्सी बुक करने के लिए आपकी पूरी 2026 गाइड। प्रीपेड किराये की तुलना उबर/ओला…” to “वाराणसी हवाई अड्डा (VNS) घाटों से ≈25 किमी (45–90 मिनट) दूर है। 2026 प्रीपेड टैक्सी किराये (₹850 से) की…”.
 
 ## 4 July 2026
 
-- kashitaxi.in/en/ayodhya-varanasi-prayagraj-group-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/kashi-vishwanath-darshan-ganga-aarti-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/ayodhya-ram-mandir-darshan-package-from-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/budget-hotels-near-kashi-vishwanath-godowlia - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/group-accommodation-varanasi-large-groups - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/guest-house-hotels-near-assi-ghat-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/hotel-booking-in-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/hotels-near-varanasi-airport - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/hotels-near-varanasi-railway-station-cantt - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/kashi-vishwanath-aarti-timings-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/kashi-vishwanath-darshan-senior-citizen-wheelchair - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/kashi-vishwanath-rudrabhishek-puja-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/kashi-vishwanath-sugam-darshan-price-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/kashi-vishwanath-temple-dress-code-rules - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/kashi-vishwanath-vip-darshan-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/varanasi-ayodhya-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/varanasi-dormitory-budget-homestay-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/en/services/varanasi-prayagraj-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/12-seater-tempo-traveller-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-guide - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/ayodhya-ram-mandir-darshan-package-from-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/budget-hotels-near-kashi-vishwanath-godowlia - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/dharamshala-near-kashi-vishwanath-temple-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/group-accommodation-varanasi-large-groups - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/guest-house-hotels-near-assi-ghat-varanasi - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/hotels-near-varanasi-airport - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/hotels-near-varanasi-railway-station-cantt - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/kashi-vishwanath-aarti-timings-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/kashi-vishwanath-darshan-senior-citizen-wheelchair - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/kashi-vishwanath-rudrabhishek-puja-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/kashi-vishwanath-sugam-darshan-price-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/kashi-vishwanath-temple-dress-code-rules - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/kashi-vishwanath-vip-darshan-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/varanasi-ayodhya-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/varanasi-dormitory-budget-homestay-booking - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
-- kashitaxi.in/hi/services/varanasi-prayagraj-tour-package - feat(seo): launch hub-and-spoke cluster for darshan, packages & stays.
+- kashitaxi.in/en/ayodhya-varanasi-prayagraj-group-tour-package - Added/updated on-page copy: “> Want fixed per-person pricing for this circuit? See our transparent-priced [Golden Triangle Varanasi–Ayodhya–Prayagraj package](/en/…”.
+- kashitaxi.in/en/kashi-vishwanath-darshan-ganga-aarti-package - Added/updated on-page copy: “- [Kashi Vishwanath VIP / Sugam Darshan Booking](/en/services/kashi-vishwanath-vip-darshan-booking) — skip-the-queue darshan & aarti p…”.
+- kashitaxi.in/en/services - Added this page to the darshan/package/stay hub-and-spoke internal-link cluster.
+- kashitaxi.in/en/services/ayodhya-ram-mandir-darshan-package-from-varanasi - Created this page for “ayodhya ram mandir package from varanasi”, “varanasi to ayodhya ram mandir darshan”, “ram mandir tour package from varanasi”; SEO title: “Ayodhya Ram Mandir Package from Varanasi 2026 | From ₹5,499/pp”.
+- kashitaxi.in/en/services/budget-hotels-near-kashi-vishwanath-godowlia - Created this page for “budget hotels near kashi vishwanath”, “cheap hotels near kashi vishwanath temple”, “hotels near godowlia varanasi”; SEO title: “Budget Hotels Near Kashi Vishwanath & Godowlia 2026 | Rooms from ₹1,000”.
+- kashitaxi.in/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package - Created this page for “varanasi ayodhya prayagraj bodhgaya tour package”, “divya dham yatra package”, “varanasi ayodhya prayagraj gaya tour”; SEO title: “Divya Dham 4-City Tour: Varanasi Ayodhya Prayagraj Bodhgaya 2026 | from ₹12,000”.
+- kashitaxi.in/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package - Created this page for “golden triangle varanasi ayodhya prayagraj package”, “varanasi ayodhya prayagraj tour package”, “varanasi ayodhya prayagraj package price”; SEO title: “Golden Triangle Varanasi Ayodhya Prayagraj Package 2026 | 3N/4D from ₹8,499”.
+- kashitaxi.in/en/services/group-accommodation-varanasi-large-groups - Created this page for “group accommodation varanasi”, “hotels for large groups in varanasi”, “group stay varanasi pilgrims”; SEO title: “Group Accommodation in Varanasi for Large Groups 2026 | Booking”.
+- kashitaxi.in/en/services/guest-house-hotels-near-assi-ghat-varanasi - Created this page for “guest house near assi ghat”, “hotels near assi ghat varanasi”, “stay near assi ghat”; SEO title: “Guest House & Hotels Near Assi Ghat Varanasi 2026 | Booking Help & Prices”.
+- kashitaxi.in/en/services/hotel-booking-in-varanasi - Added/updated on-page copy: “- [Kashi Vishwanath VIP / Sugam Darshan Booking](/en/services/kashi-vishwanath-vip-darshan-booking) — skip-the-queue darshan & aarti”.
+- kashitaxi.in/en/services/hotels-near-varanasi-airport - Created this page for “hotels near varanasi airport”, “hotels near babatpur airport varanasi”, “hotels near lbs airport varanasi”; SEO title: “Hotels Near Varanasi Airport (Babatpur) 2026 | Booking & Transfers”.
+- kashitaxi.in/en/services/hotels-near-varanasi-railway-station-cantt - Created this page for “hotels near varanasi railway station”, “hotels near varanasi cantt station”, “hotels near varanasi junction”; SEO title: “Hotels Near Varanasi Railway Station (Cantt) 2026 | Booking Help & Prices”.
+- kashitaxi.in/en/services/kashi-vishwanath-aarti-timings-booking - Created this page for “kashi vishwanath aarti timings”, “kashi vishwanath mangala aarti timing”, “kashi vishwanath sapt rishi aarti”; SEO title: “Kashi Vishwanath Aarti Timings & Booking 2026 | Mangala, Sapt Rishi, Shringar”.
+- kashitaxi.in/en/services/kashi-vishwanath-darshan-senior-citizen-wheelchair - Created this page for “kashi vishwanath darshan for senior citizens”, “kashi vishwanath wheelchair access”, “kashi vishwanath darshan for elderly”; SEO title: “Kashi Vishwanath Darshan for Seniors & Wheelchair 2026 | Assistance”.
+- kashitaxi.in/en/services/kashi-vishwanath-rudrabhishek-puja-booking - Created this page for “kashi vishwanath rudrabhishek booking”, “rudrabhishek in kashi vishwanath cost”, “kashi vishwanath puja booking”; SEO title: “Kashi Vishwanath Rudrabhishek & Puja Booking 2026 | Cost & Pandit Help”.
+- kashitaxi.in/en/services/kashi-vishwanath-sugam-darshan-price-booking - Created this page for “kashi vishwanath sugam darshan price”, “kashi vishwanath sugam darshan booking”, “sugam darshan kashi vishwanath”; SEO title: “Kashi Vishwanath Sugam Darshan Price & Booking 2026 | Skip-the-Queue Help”.
+- kashitaxi.in/en/services/kashi-vishwanath-temple-dress-code-rules - Created this page for “kashi vishwanath temple dress code”, “kashi vishwanath temple rules”, “what to wear kashi vishwanath temple”; SEO title: “Kashi Vishwanath Temple Dress Code & Rules 2026 | What to Wear & Carry”.
+- kashitaxi.in/en/services/kashi-vishwanath-vip-darshan-booking - Created this page for “kashi vishwanath vip darshan”, “kashi vishwanath vip darshan booking”, “vip darshan varanasi”; SEO title: “Kashi Vishwanath VIP Darshan Booking 2026 | Priced Darshan Assistance”.
+- kashitaxi.in/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi - Added/updated on-page copy: “Multi-Day Option: Kashi → Gaya → Prayagraj → Ayodhya (4D/3N pilgrimage package available) — see our fixed-price [Divya Dham 4-city pac…”.
+- kashitaxi.in/en/services/varanasi-ayodhya-tour-package - Created this page for “varanasi ayodhya tour package”, “varanasi to ayodhya package”, “kashi ayodhya tour package”; SEO title: “Varanasi Ayodhya Tour Package 2026 | 2N/3D from ₹5,499, Kashi + Ram Mandir”.
+- kashitaxi.in/en/services/varanasi-dormitory-budget-homestay-booking - Created this page for “dormitory in varanasi”, “dormitory in varanasi near kashi vishwanath”, “budget hotels in varanasi”; SEO title: “Varanasi Stay Booking 2026: Dormitory ₹500, Budget, Homestay & Hotels | Kashitaxi”.
+- kashitaxi.in/en/services/varanasi-prayagraj-tour-package - Created this page for “varanasi prayagraj tour package”, “varanasi to prayagraj package”, “kashi prayagraj tour package”; SEO title: “Varanasi Prayagraj Tour Package 2026 | 1N/2D from ₹3,499, Kashi + Sangam”.
+- kashitaxi.in/hi/12-seater-tempo-traveller-varanasi - Added/updated on-page copy: “keywords: ["12 seater tempo traveller varanasi hindi","12 seater rent kashi","12 seater tempo traveller rate varanasi","tempo travelle…”.
+- kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-guide - Added/updated on-page copy: “keywords: ["देव दीपावली 2026 वाराणसी","dev deepawali varanasi hindi","karthik purnima varanasi","million lamps festival hindi","dev de…”.
+- kashitaxi.in/hi/services/ayodhya-ram-mandir-darshan-package-from-varanasi - Created this page for “वाराणसी से अयोध्या राम मंदिर पैकेज”, “वाराणसी से अयोध्या राम मंदिर दर्शन”, “वाराणसी से राम मंदिर टूर पैकेज”; SEO title: “वाराणसी से अयोध्या राम मंदिर पैकेज 2026 | ₹5,499/व्यक्ति से”.
+- kashitaxi.in/hi/services/budget-hotels-near-kashi-vishwanath-godowlia - Created this page for “काशी विश्वनाथ के पास बजट होटल”, “काशी विश्वनाथ मंदिर के पास सस्ते होटल”, “गोदौलिया वाराणसी के पास होटल”; SEO title: “काशी विश्वनाथ व गोदौलिया के पास बजट होटल 2026 | ₹1,000 से कमरे”.
+- kashitaxi.in/hi/services/dharamshala-near-kashi-vishwanath-temple-varanasi - Created this page for “काशी विश्वनाथ मंदिर के पास धर्मशाला”, “वाराणसी में धर्मशाला”, “काशी विश्वनाथ के पास सस्ती धर्मशाला”; SEO title: “काशी विश्वनाथ मंदिर के पास धर्मशाला वाराणसी 2026 | ₹400 से कमरे”.
+- kashitaxi.in/hi/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package - Created this page for “वाराणसी अयोध्या प्रयागराज बोधगया टूर पैकेज”, “दिव्य धाम यात्रा पैकेज”, “वाराणसी अयोध्या प्रयागराज गया टूर”; SEO title: “दिव्य धाम 4-नगर टूर: वाराणसी अयोध्या प्रयागराज बोधगया 2026 | ₹12,000 से”.
+- kashitaxi.in/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package - Created this page for “गोल्डन ट्रायंगल वाराणसी अयोध्या प्रयागराज पैकेज”, “वाराणसी अयोध्या प्रयागराज टूर पैकेज”, “वाराणसी अयोध्या प्रयागराज पैकेज मूल्य”; SEO title: “गोल्डन ट्रायंगल वाराणसी अयोध्या प्रयागराज पैकेज 2026 | 3रात/4दिन ₹8,499 से”.
+- kashitaxi.in/hi/services/group-accommodation-varanasi-large-groups - Created this page for “वाराणसी में ग्रुप आवास”, “वाराणसी में बड़े समूहों के लिए होटल”, “तीर्थयात्री समूह वाराणसी ठहराव”; SEO title: “बड़े समूहों के लिए वाराणसी में ग्रुप आवास 2026 | बुकिंग”.
+- kashitaxi.in/hi/services/guest-house-hotels-near-assi-ghat-varanasi - Created this page for “अस्सी घाट के पास गेस्ट हाउस”, “अस्सी घाट वाराणसी के पास होटल”, “अस्सी घाट के पास ठहराव”; SEO title: “अस्सी घाट वाराणसी के पास गेस्ट हाउस व होटल 2026”.
+- kashitaxi.in/hi/services/hotels-near-varanasi-airport - Created this page for “वाराणसी एयरपोर्ट के पास होटल”, “बाबतपुर एयरपोर्ट वाराणसी के पास होटल”, “एलबीएस एयरपोर्ट वाराणसी के पास होटल”; SEO title: “वाराणसी एयरपोर्ट (बाबतपुर) के पास होटल 2026 | बुकिंग व ट्रांसफर”.
+- kashitaxi.in/hi/services/hotels-near-varanasi-railway-station-cantt - Created this page for “वाराणसी रेलवे स्टेशन के पास होटल”, “वाराणसी कैंट स्टेशन के पास होटल”, “वाराणसी जंक्शन के पास होटल”; SEO title: “वाराणसी रेलवे स्टेशन के पास होटल 2026 | बुकिंग”.
+- kashitaxi.in/hi/services/kashi-vishwanath-aarti-timings-booking - Created this page for “काशी विश्वनाथ आरती समय”, “काशी विश्वनाथ मंगला आरती समय”, “काशी विश्वनाथ सप्तऋषि आरती”; SEO title: “काशी विश्वनाथ आरती समय व बुकिंग 2026”.
+- kashitaxi.in/hi/services/kashi-vishwanath-darshan-senior-citizen-wheelchair - Created this page for “काशी विश्वनाथ वरिष्ठ नागरिक दर्शन”, “काशी विश्वनाथ व्हीलचेयर सुविधा”, “काशी विश्वनाथ बुजुर्गों के लिए दर्शन”; SEO title: “काशी विश्वनाथ वरिष्ठ व व्हीलचेयर दर्शन 2026 | सहायता”.
+- kashitaxi.in/hi/services/kashi-vishwanath-rudrabhishek-puja-booking - Created this page for “काशी विश्वनाथ रुद्राभिषेक बुकिंग”, “काशी विश्वनाथ रुद्राभिषेक खर्च”, “काशी विश्वनाथ पूजा बुकिंग”; SEO title: “काशी विश्वनाथ रुद्राभिषेक व पूजा बुकिंग 2026”.
+- kashitaxi.in/hi/services/kashi-vishwanath-sugam-darshan-price-booking - Created this page for “काशी विश्वनाथ सुगम दर्शन मूल्य”, “काशी विश्वनाथ सुगम दर्शन बुकिंग”, “सुगम दर्शन काशी विश्वनाथ”; SEO title: “काशी विश्वनाथ सुगम दर्शन मूल्य व बुकिंग 2026”.
+- kashitaxi.in/hi/services/kashi-vishwanath-temple-dress-code-rules - Created this page for “काशी विश्वनाथ मंदिर ड्रेस कोड”, “काशी विश्वनाथ मंदिर नियम”, “काशी विश्वनाथ मंदिर में क्या पहनें”; SEO title: “काशी विश्वनाथ मंदिर ड्रेस कोड और नियम 2026 | क्या पहनें व ले जाएँ”.
+- kashitaxi.in/hi/services/kashi-vishwanath-vip-darshan-booking - Created this page for “काशी विश्वनाथ vip दर्शन”, “काशी विश्वनाथ vip दर्शन बुकिंग”, “वाराणसी vip दर्शन”; SEO title: “काशी विश्वनाथ VIP दर्शन बुकिंग 2026 | मूल्य सहित दर्शन सहायता”.
+- kashitaxi.in/hi/services/varanasi-ayodhya-tour-package - Created this page for “वाराणसी अयोध्या टूर पैकेज”, “वाराणसी से अयोध्या पैकेज”, “काशी अयोध्या टूर पैकेज”; SEO title: “वाराणसी अयोध्या टूर पैकेज 2026 | 2रात/3दिन ₹5,499 से”.
+- kashitaxi.in/hi/services/varanasi-dormitory-budget-homestay-booking - Created this page for “वाराणसी में डॉर्मिटरी”, “काशी विश्वनाथ के पास डॉर्मिटरी”, “वाराणसी में बजट होटल”; SEO title: “वाराणसी स्टे बुकिंग 2026: डॉर्मिटरी ₹500, बजट, होमस्टे व होटल | Kashitaxi”.
+- kashitaxi.in/hi/services/varanasi-prayagraj-tour-package - Created this page for “वाराणसी प्रयागराज टूर पैकेज”, “वाराणसी से प्रयागराज पैकेज”, “काशी प्रयागराज टूर पैकेज”; SEO title: “वाराणसी प्रयागराज टूर पैकेज 2026 | 1रात/2दिन ₹3,499 से”.
 
 ## 3 July 2026
 
-- kashitaxi.in/en/assi-ghat-aarti-timings-2026 - feat(seo/stays): launch Varanasi family/group homestay content cluster.
-- kashitaxi.in/en/city/nepal/taxi/varanasi-to-nepal-taxi - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
-- kashitaxi.in/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
-- kashitaxi.in/en/family-tour-varanasi-3-days-parents - feat(seo/stays): launch Varanasi family/group homestay content cluster.
-- kashitaxi.in/en/how-to-reach-varanasi - feat(seo/stays): launch Varanasi family/group homestay content cluster.
-- kashitaxi.in/en/sarnath-complete-guide - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
-- kashitaxi.in/en/varanasi-family-homestay-4bhk-sigra - feat(seo/stays): launch Varanasi family/group homestay content cluster.
-- kashitaxi.in/en/varanasi-in-monsoon-july-september-2026 - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
-- kashitaxi.in/hi/assi-ghat-aarti-timings-2026 - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
-- kashitaxi.in/hi/city/varanasi/activities/ganga-aarti-samay-varanasi-2026 - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
-- kashitaxi.in/hi/sarnath-timing-visit-guide - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
-- kashitaxi.in/hi/varanasi-family-homestay-4bhk-sigra - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
-- kashitaxi.in/hi/varanasi-ke-ghaton-ke-liye-guide - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
-- kashitaxi.in/hi/varanasi-to-ayodhya - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
-- kashitaxi.in/hi/varanasi-to-prayagraj - feat(seo/sales): boat-aarti CTA component + GSC schema/image fixes + cross-sell.
-- kashitaxi.in/hi/where-to-stay-in-varanasi - feat(seo/stays): internal-link stay cluster from GSC top pages + Hindi twins.
+- kashitaxi.in/en/assi-ghat-aarti-timings-2026 - Added/updated on-page copy: “- where-to-stay-in-varanasi”.
+- kashitaxi.in/en/city/nepal/taxi/varanasi-to-nepal-taxi - Added heading: “Planning Varanasi Before You Cross Into Nepal?”.
+- kashitaxi.in/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi - Added/updated on-page copy: “Travelling as a family or group? A whole-flat homestay often beats several hotel rooms — see our full guide on [where to stay in Varan…”.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance - Added heading: “Add a Varanasi Experience to Your Transfer”.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service - Added heading: “Add a Varanasi Experience — Boat Ride, Aarti & Hotel”.
+- kashitaxi.in/en/family-tour-varanasi-3-days-parents - Added/updated on-page copy: “- where-to-stay-in-varanasi”.
+- kashitaxi.in/en/how-to-reach-varanasi - Added/updated on-page copy: “- where-to-stay-in-varanasi”.
+- kashitaxi.in/en/sarnath-complete-guide - Added/updated on-page copy: “- where-to-stay-in-varanasi”.
+- kashitaxi.in/en/varanasi-family-homestay-4bhk-sigra - Created this page for “family homestay in varanasi”, “4bhk flat for family stay varanasi”, “group accommodation varanasi”; SEO title: “4BHK Family Homestay Varanasi (Sigra) — Sleeps 10, Kitchen | Near Cantt”.
+- kashitaxi.in/en/varanasi-in-monsoon-july-september-2026 - Added/updated on-page copy: “- where-to-stay-in-varanasi”.
+- kashitaxi.in/hi/assi-ghat-aarti-timings-2026 - Added/updated on-page copy: “- where-to-stay-in-varanasi”.
+- kashitaxi.in/hi/city/varanasi/activities/ganga-aarti-samay-varanasi-2026 - Added boat-aarti sales CTA/cross-sell and corrected GSC-facing schema or image data.
+- kashitaxi.in/hi/sarnath-timing-visit-guide - Added/updated on-page copy: “- where-to-stay-in-varanasi”.
+- kashitaxi.in/hi/varanasi-family-homestay-4bhk-sigra - Created this page for “वाराणसी में परिवार के लिए होमस्टे”, “वाराणसी में 4bhk फ्लैट”, “वाराणसी में ग्रुप के लिए ठहरने की जगह”; SEO title: “4BHK फैमिली होमस्टे वाराणसी (सिगरा) — 10 लोग, रसोई | कैंट के पास”.
+- kashitaxi.in/hi/varanasi-ke-ghaton-ke-liye-guide - Added/updated on-page copy: “- where-to-stay-in-varanasi”.
+- kashitaxi.in/hi/varanasi-to-ayodhya - Added heading: “वाराणसी अनुभव जोड़ें — बोट राइड, आरती और होटल”.
+- kashitaxi.in/hi/varanasi-to-prayagraj - Added heading: “वाराणसी अनुभव जोड़ें — बोट राइड, आरती और होटल”.
+- kashitaxi.in/hi/where-to-stay-in-varanasi - Created this page for “वाराणसी में कहाँ ठहरें”, “वाराणसी में ठहरने की जगह”, “वाराणसी में परिवार के लिए होटल”; SEO title: “वाराणसी में कहाँ ठहरें 2026: परिवार और ग्रुप के लिए बेस्ट इलाके”.
 
 ## 25 June 2026
 
-- kashitaxi.in/en/services/varanasi-airport-to-city-cab - seo(services): optimize airport-to-city-cab for Kashi Vishwanath & railway-station intents (GSC).
-- kashitaxi.in/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi - seo(hi): enrich 84-ghat-naav-tour with काशी/बनारस keywords + improve H1/H2 (GSC).
-- kashitaxi.in/hi/varanasi-day-tour-cab-charges - seo(hi): optimize day-tour-cab-charges for trip-cost intent (GSC fix).
+- kashitaxi.in/en/services/varanasi-airport-to-city-cab - Changed SEO title from “Varanasi Airport to City Cab 2026 | Fixed Fares & Surge Shield” to “Varanasi Airport to Kashi Vishwanath & City Cab | 2026 Fares”; Changed meta description from “Compare 2026 Varanasi airport to city cab fares (₹700+), lock surge-proof pickups, view zone-wise distan…” to “Varanasi airport to Kashi Vishwanath temple: 25 km, taxi fare ₹750–₹950. Fixed 2026 fares to all city zo…”; Added keyword targets: “Tolls and airport entry charges”, “30-minute flight delay buffer”, “WhatsApp fare confirmation with driver details before landing”; Added 2 FAQs.
+- kashitaxi.in/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi - Changed SEO title from “84 घाट नाव टूर वाराणसी (2026) | मार्ग, समय, मूल्य और बुकिंग” to “वाराणसी 84 घाट नाव टूर 2026 | काशी-बनारस घाट यात्रा गाइड”; Changed meta description from “वाराणसी में 84 घाट नाव टूर की पूर्ण 2026 गाइड: 84 का क्या मतलब है, मार्ग पर प्रमुख घाट, टूर प्रकार, वास्…” to “काशी (बनारस) के 84 घाट नाव टूर की पूरी गाइड: अस्सी से रामनगर किला तक मार्ग, प्रमुख घाटों का इतिहास, टूर…”; Added keyword targets: “काशी के 84 घाट”, “बनारस के 84 घाट”, “84 ghat varanasi”.
+- kashitaxi.in/hi/varanasi-day-tour-cab-charges - Changed SEO title from “वाराणसी डे टूर कैब किराया 2026: 8 घंटे ₹1,800 से | पूरी रेट लिस्ट” to “वाराणसी डे टूर खर्च 2026: कैब ₹1,800 से + यात्रा बजट”; Changed meta description from “वाराणसी डे टूर कैब: 8 घंटे/80 किमी ₹1,800 (सेडान), ₹2,500 (इनोवा)। काशी विश्वनाथ, सारनाथ, 5 घाट और गंगा…” to “वाराणसी डे टूर का खर्च: कैब 8 घंटे ₹1,800 से (सेडान), ₹2,500 (इनोवा)। साथ में पूरी यात्रा का कुल बजट, कि…”; Added keyword targets: “वाराणसी डे टूर कैब किराया”, “वाराणसी यात्रा का खर्च”, “वाराणसी जाने का खर्चा”; Added 6 FAQs.
 
 ## 24 June 2026
 
-- kashitaxi.in/en/city/agra/taxi/varanasi-to-agra-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
-- kashitaxi.in/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
-- kashitaxi.in/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
-- kashitaxi.in/en/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
-- kashitaxi.in/en/city/deoghar/taxi/varanasi-to-deoghar-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/en/city/gaya/taxi/varanasi-to-gaya-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
-- kashitaxi.in/en/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
-- kashitaxi.in/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/en/city/lucknow/taxi/varanasi-to-lucknow-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
-- kashitaxi.in/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/en/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/en/city/patna/taxi/varanasi-to-patna-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
-- kashitaxi.in/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi - seo(content): de-orphan new route pages + add empathy/helpfulness sections.
-- kashitaxi.in/hi/banaras-tour-package - feat(hi): add 10 evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/banaras-travel-agency - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/agra/taxi/varanasi-to-agra-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/allahabad/taxi/varanasi-to-allahabad-taxi - feat(hi): complete Hindi parity for all intercity outstation taxi routes.
-- kashitaxi.in/hi/city/ayodhya/taxi/ayodhya-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/ayodhya/tour-packages/ayodhya-2-day-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/delhi/taxi/varanasi-to-delhi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/deoghar/taxi/varanasi-to-deoghar-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/gaya/taxi/gaya-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/gaya/taxi/varanasi-to-gaya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/jaipur/taxi/varanasi-to-jaipur-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/kanpur/taxi/kanpur-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/khajuraho/taxi/varanasi-to-khajuraho-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/kolkata/taxi/varanasi-to-kolkata-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/kushinagar/taxi/varanasi-to-kushinagar-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/lucknow/taxi/lucknow-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/lucknow/taxi/varanasi-to-lucknow-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/nepal/taxi/varanasi-to-nepal-taxi - feat(hi): complete Hindi parity for all intercity outstation taxi routes.
-- kashitaxi.in/hi/city/patna/taxi/varanasi-to-patna-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi - feat(hi): add Hindi festival event pages (Magh Mela cluster + Kartik Purnima).
-- kashitaxi.in/hi/city/prayagraj/events/safe-taxi-magh-mela-seniors-families - feat(hi): add Hindi festival event pages (Magh Mela cluster + Kartik Purnima).
-- kashitaxi.in/hi/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking - feat(hi): add Hindi festival event pages (Magh Mela cluster + Kartik Purnima).
-- kashitaxi.in/hi/city/prayagraj/taxi/prayagraj-to-varanasi-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026 - feat(hi): add Hindi festival event pages (Magh Mela cluster + Kartik Purnima).
-- kashitaxi.in/hi/city/varanasi/food/varanasi-street-food-guide - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/varanasi/food/varanasi-winter-food-itinerary - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/varanasi/sightseeing/varanasi-local-sightseeing-package - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/varanasi/tour-packages/same-day-varanasi-tour - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/city/varanasi/tour-packages/varanasi-2-day-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/varanasi/tour-packages/varanasi-3-day-tour - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/varanasi/travel-guide/varanasi-in-january-2026 - feat(hi): add Hindi tour-packages, food, sightseeing & travel-guide pages.
-- kashitaxi.in/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/family-tour-varanasi-3-days-parents - feat(hi): add 10 evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/guide-to-ghats-of-varanasi - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/how-to-reach-varanasi - feat(hi): add 6 high-value evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/kasi-tour-package - feat(hi): add 10 evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/lucknow-to-varanasi-taxi-fare - feat(hi): add 10 evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/outstation-cabs-from-varanasi - feat(hi): complete Hindi parity for all intercity outstation taxi routes.
-- kashitaxi.in/hi/safety-and-security-in-varanasi-guide-for-solo-travellar - feat(hi): add 10 evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/sarnath-attractions-guide - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/sarnath-buddhist-temple-guide - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/tour-package-from-varanasi - feat(hi): add 6 high-value evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/travel-from-varanasi-to-vindhyachal-guide - feat(hi): add 10 evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/varanasi-sightseeing-complete-guide - feat(hi): add 6 high-value evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/varanasi-travel-agent - seo(headings): enrich fare H2s with route keyword + de-duplicate H1s.
-- kashitaxi.in/hi/varanasi-weather-guide - feat(hi): add 6 high-value evergreen root guide pages in Hindi.
-- kashitaxi.in/hi/varanasi-with-friends-plan - feat(hi): add 10 evergreen root guide pages in Hindi.
+- kashitaxi.in/en/city/agra/taxi/varanasi-to-agra-taxi - Added/updated on-page copy: “- [Varanasi to Mathura-Vrindavan Taxi](/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi) - 600 km | Multi-day | Krishna's Braj…”.
+- kashitaxi.in/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi - Added/updated on-page copy: “- [Varanasi to Jaunpur Taxi](/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi) - 60 km | 1.5 hrs | Sharqi heritage stop en route”.
+- kashitaxi.in/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi - Added/updated on-page copy: “- [Varanasi to Kushinagar Taxi](/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi) - 245 km | 5-6 hrs | Buddha's Mahaparinirvana si…”.
+- kashitaxi.in/en/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi - Added/updated on-page copy: “- [Varanasi to Vindhyachal Taxi](/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi) - 65 km | 1.5-2 hrs | Vindhyavasini Shakti Pe…”.
+- kashitaxi.in/en/city/deoghar/taxi/varanasi-to-deoghar-taxi - Added heading: “Varanasi to Deoghar Taxi Fare & Vehicle Options”.
+- kashitaxi.in/en/city/gaya/taxi/varanasi-to-gaya-taxi - Added/updated on-page copy: “- [Varanasi to Deoghar Taxi](/en/city/deoghar/taxi/varanasi-to-deoghar-taxi) - 460 km | 9-10 hrs | Baidyanath Jyotirlinga”.
+- kashitaxi.in/en/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi - Added/updated on-page copy: “- [Varanasi to Kushinagar Taxi](/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi) - 245 km | 5-6 hrs | Buddha's Mahaparinirvana”.
+- kashitaxi.in/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi - Added heading: “Varanasi to Jaunpur Taxi Fare & Vehicle Options”.
+- kashitaxi.in/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi - Added heading: “Varanasi to Kushinagar Taxi Fare & Vehicle Options”.
+- kashitaxi.in/en/city/lucknow/taxi/varanasi-to-lucknow-taxi - Added/updated on-page copy: “- [Varanasi to Naimisharanya Taxi](/en/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi) - 370 km | 7-8 hrs | via Lucknow, Puran…”.
+- kashitaxi.in/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi - Added heading: “Varanasi to Mathura Vrindavan Taxi Fare & Vehicle Options”.
+- kashitaxi.in/en/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi - Added heading: “Varanasi to Naimisharanya Taxi Fare & Vehicle Options”.
+- kashitaxi.in/en/city/patna/taxi/varanasi-to-patna-taxi - Added/updated on-page copy: “- [Varanasi to Deoghar Taxi](/en/city/deoghar/taxi/varanasi-to-deoghar-taxi) - 460 km | 9-10 hrs | Baidyanath Jyotirlinga”.
+- kashitaxi.in/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi - Added/updated on-page copy: “- [Varanasi to Vindhyachal Taxi](/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi) - 65 km | 1.5-2 hrs | Vindhyavasini Shakti Pe…”.
+- kashitaxi.in/hi/banaras-tour-package - Created this page for “बनारस टूर पैकेज”, “बनारस यात्रा पैकेज”, “काशी टूर पैकेज”; SEO title: “बनारस टूर पैकेज | काशी यात्रा, गाइड व कैब सहित”.
+- kashitaxi.in/hi/banaras-travel-agency - Added heading: “बनारस ट्रैवल एजेंसी | परेशानी-मुक्त काशी यात्रा की पूरी व्यवस्था”.
+- kashitaxi.in/hi/city/agra/taxi/varanasi-to-agra-taxi - Added heading: “वाराणसी से आगरा टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/allahabad/taxi/varanasi-to-allahabad-taxi - Created this page for “वाराणसी से इलाहाबाद टैक्सी”, “वाराणसी से इलाहाबाद कैब”, “इलाहाबाद टैक्सी किराया”; SEO title: “वाराणसी से इलाहाबाद (प्रयागराज) टैक्सी ₹2,500”.
+- kashitaxi.in/hi/city/ayodhya/taxi/ayodhya-to-varanasi-taxi - Added heading: “अयोध्या से वाराणसी टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi - Added heading: “वाराणसी से अयोध्या टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/ayodhya/tour-packages/ayodhya-2-day-tour - Created this page for “अयोध्या 2 दिन टूर”, “अयोध्या तीर्थयात्रा पैकेज”, “राम जन्मभूमि टूर इटिनरेरी”; SEO title: “अयोध्या 2-दिन टूर पैकेज | राम जन्मभूमि तीर्थयात्रा”.
+- kashitaxi.in/hi/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi - Added heading: “वाराणसी से बोधगया टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi - Added heading: “वाराणसी से चित्रकूट टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/delhi/taxi/varanasi-to-delhi-taxi - Added heading: “वाराणसी से दिल्ली टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/deoghar/taxi/varanasi-to-deoghar-taxi - Added heading: “वाराणसी से देवघर टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/gaya/taxi/gaya-to-varanasi-taxi - Added heading: “गया से वाराणसी टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/gaya/taxi/varanasi-to-gaya-taxi - Added heading: “वाराणसी से गया टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi - Added heading: “वाराणसी से गोरखपुर टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/jaipur/taxi/varanasi-to-jaipur-taxi - Added heading: “वाराणसी से जयपुर टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi - Added heading: “वाराणसी से जौनपुर टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/kanpur/taxi/kanpur-to-varanasi-taxi - Added heading: “कानपुर से वाराणसी टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi - Added heading: “वाराणसी से काठमांडू टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/khajuraho/taxi/varanasi-to-khajuraho-taxi - Added heading: “वाराणसी से खजुराहो टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/kolkata/taxi/varanasi-to-kolkata-taxi - Added heading: “वाराणसी से कोलकाता टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/kushinagar/taxi/varanasi-to-kushinagar-taxi - Added heading: “वाराणसी से कुशीनगर टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/lucknow/taxi/lucknow-to-varanasi-taxi - Added heading: “लखनऊ से वाराणसी टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/lucknow/taxi/varanasi-to-lucknow-taxi - Added heading: “वाराणसी से लखनऊ टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi - Added heading: “वाराणसी से मथुरा वृंदावन टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi - Added heading: “वाराणसी से नैमिषारण्य टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/nepal/taxi/varanasi-to-nepal-taxi - Created this page for “वाराणसी से नेपाल टैक्सी”, “वाराणसी से नेपाल कैब”, “सुनौली बॉर्डर टैक्सी”; SEO title: “वाराणसी से नेपाल टैक्सी ₹3,000 | सुनौली बॉर्डर कैब”.
+- kashitaxi.in/hi/city/patna/taxi/varanasi-to-patna-taxi - Added heading: “वाराणसी से पटना टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi - Created this page for “माघ मेला 2026”, “माघ मेला तिथि”, “वाराणसी से प्रयागराज माघ मेला टैक्सी”; SEO title: “माघ मेला 2026 यात्रा गाइड | तिथि, रूट, वाराणसी से टैक्सी”.
+- kashitaxi.in/hi/city/prayagraj/events/safe-taxi-magh-mela-seniors-families - Created this page for “माघ मेला बुज़ुर्ग टैक्सी”, “परिवार के लिए माघ मेला कैब”, “सुरक्षित संगम स्नान यात्रा”; SEO title: “सुरक्षित माघ मेला टैक्सी | बुज़ुर्गों व परिवारों के लिए”.
+- kashitaxi.in/hi/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking - Created this page for “माघ मेला टैक्सी बुकिंग”, “वाराणसी प्रयागराज माघ मेला कैब”, “माघ मेला स्नान टैक्सी”; SEO title: “माघ मेला 2026 टैक्सी बुकिंग | वाराणसी से प्रयागराज”.
+- kashitaxi.in/hi/city/prayagraj/taxi/prayagraj-to-varanasi-taxi - Added heading: “प्रयागराज से वाराणसी टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi - Added heading: “वाराणसी से प्रयागराज टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026 - Created this page for “कार्तिक पूर्णिमा वाराणसी 2026”, “कार्तिक पूर्णिमा गंगा स्नान”, “देव दीपावली वाराणसी”; SEO title: “कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026 | तिथि व घाट”.
+- kashitaxi.in/hi/city/varanasi/food/varanasi-street-food-guide - Created this page for “वाराणसी स्ट्रीट फूड”, “बनारस का खाना”, “वाराणसी फूड गाइड”; SEO title: “वाराणसी स्ट्रीट फूड गाइड | 25+ बेहतरीन व्यंजन व दुकानें”.
+- kashitaxi.in/hi/city/varanasi/food/varanasi-winter-food-itinerary - Added heading: “वाराणसी विंटर फूड गाइड 2026 | मलइयो और 3-दिन जनवरी फूड प्लान”.
+- kashitaxi.in/hi/city/varanasi/sightseeing/varanasi-local-sightseeing-package - Created this page for “वाराणसी लोकल साइटसीइंग पैकेज”, “वाराणसी एक दिन कार टूर”, “वाराणसी सिटी टूर”; SEO title: “वाराणसी लोकल साइटसीइंग पैकेज ₹1,800 | कार से एक दिन टूर”.
+- kashitaxi.in/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour - Created this page for “अयोध्या वाराणसी 3 दिन टूर”, “राम जन्मभूमि काशी सर्किट”, “अयोध्या काशी तीर्थ पैकेज”; SEO title: “अयोध्या-वाराणसी 3-दिन टूर ₹8,499 | राम+काशी सर्किट”.
+- kashitaxi.in/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour - Created this page for “अयोध्या वाराणसी टूर पैकेज”, “राम जन्मभूमि काशी यात्रा”, “अयोध्या काशी 3 दिन टूर”; SEO title: “अयोध्या-वाराणसी टूर पैकेज 3 दिन ₹8,499 | राम-काशी”.
+- kashitaxi.in/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi - Created this page for “गया पिंडदान सेवा”, “सत्यापित गयावल पंडा”, “पितृ पक्ष गया तिथि बुकिंग”; SEO title: “गया पिंडदान 2026 | सत्यापित गयावल पंडा सेवा, खर्च व तिथि”.
+- kashitaxi.in/hi/city/varanasi/tour-packages/same-day-varanasi-tour - Added heading: “वाराणसी सेम-डे टूर पैकेज | 8-10 घंटे में काशी विश्वनाथ, सारनाथ व गंगा आरती”.
+- kashitaxi.in/hi/city/varanasi/tour-packages/varanasi-2-day-tour - Created this page for “वाराणसी 2 दिन टूर”, “वाराणसी वीकेंड टूर पैकेज”, “काशी 2 दिन यात्रा”; SEO title: “वाराणसी 2-दिन टूर पैकेज ₹3,999 | वीकेंड काशी यात्रा”.
+- kashitaxi.in/hi/city/varanasi/tour-packages/varanasi-3-day-tour - Created this page for “वाराणसी 3 दिन टूर”, “काशी 3 दिन यात्रा”, “वाराणसी टूर पैकेज परिवार”; SEO title: “वाराणसी 3-दिन टूर पैकेज ₹7,988 | संपूर्ण काशी अनुभव”.
+- kashitaxi.in/hi/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly - Created this page for “वाराणसी गया तीर्थ पैकेज”, “बुज़ुर्ग तीर्थयात्रा वाराणसी”, “वरिष्ठ नागरिक काशी यात्रा”; SEO title: “वाराणसी गया प्रयागराज तीर्थ | बुज़ुर्गों के लिए”.
+- kashitaxi.in/hi/city/varanasi/travel-guide/varanasi-in-january-2026 - Created this page for “जनवरी में वाराणसी”, “वाराणसी जनवरी मौसम”, “वाराणसी जनवरी तापमान”; SEO title: “जनवरी 2026 में वाराणसी | मौसम, तापमान व यात्रा गाइड”.
+- kashitaxi.in/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi - Added heading: “वाराणसी से विंध्याचल टैक्सी किराया और गाड़ियाँ”.
+- kashitaxi.in/hi/family-tour-varanasi-3-days-parents - Created this page for “परिवार के साथ वाराणसी”, “माता-पिता के साथ वाराणसी यात्रा”, “वाराणसी फैमिली टूर 3 दिन”; SEO title: “परिवार के साथ 3 दिन वाराणसी | माता-पिता सहित इटिनरेरी”.
+- kashitaxi.in/hi/guide-to-ghats-of-varanasi - Added heading: “वाराणसी के घाटों की गाइड | दशाश्वमेध, अस्सी, मणिकर्णिका और सही घाट सर्किट”.
+- kashitaxi.in/hi/how-to-reach-varanasi - Created this page for “वाराणसी कैसे पहुँचें”, “वाराणसी एयरपोर्ट VNS”, “वाराणसी ट्रेन स्टेशन”; SEO title: “वाराणसी कैसे पहुँचें 2026 | फ्लाइट, ट्रेन, बस, कार रूट”.
+- kashitaxi.in/hi/kasi-tour-package - Created this page for “काशी टूर पैकेज”, “काशी यात्रा पैकेज”, “काशी दर्शन पैकेज”; SEO title: “काशी टूर पैकेज | प्राचीन नगरी की आध्यात्मिक यात्रा”.
+- kashitaxi.in/hi/lucknow-to-varanasi-taxi-fare - Created this page for “लखनऊ से वाराणसी टैक्सी किराया”, “लखनऊ वाराणसी कैब रेट”, “लखनऊ से वाराणसी कार किराया”; SEO title: “लखनऊ से वाराणसी टैक्सी किराया 2026 | सेडान व SUV”.
+- kashitaxi.in/hi/outstation-cabs-from-varanasi - Added heading: “और इंटरसिटी रूट (विरासत, मेट्रो व नेपाल)”.
+- kashitaxi.in/hi/safety-and-security-in-varanasi-guide-for-solo-travellar - Created this page for “वाराणसी सुरक्षा”, “वाराणसी अकेले यात्रा”, “वाराणसी स्कैम”; SEO title: “वाराणसी सुरक्षा गाइड [2026] | इमरजेंसी नंबर व स्कैम”.
+- kashitaxi.in/hi/sarnath-attractions-guide - Added heading: “सारनाथ दर्शनीय स्थल गाइड 2026 | धमेक स्तूप, संग्रहालय व मूलगंध कुटी विहार”.
+- kashitaxi.in/hi/sarnath-buddhist-temple-guide - Added heading: “सारनाथ बौद्ध मंदिर गाइड 2026 | मूलगंध कुटी विहार, थाई व तिब्बती मंदिर”.
+- kashitaxi.in/hi/tour-package-from-varanasi - Created this page for “वाराणसी से टूर पैकेज”, “वाराणसी अयोध्या प्रयागराज टूर”, “काशी यात्रा पैकेज”; SEO title: “वाराणसी से टूर पैकेज | अयोध्या, प्रयागराज, ग्रुप सर्किट”.
+- kashitaxi.in/hi/travel-from-varanasi-to-vindhyachal-guide - Created this page for “वाराणसी से विंध्याचल यात्रा”, “विंध्यवासिनी दर्शन”, “वाराणसी विंध्याचल गाइड”; SEO title: “वाराणसी से विंध्याचल यात्रा गाइड | विंध्यवासिनी दर्शन”.
+- kashitaxi.in/hi/varanasi-sightseeing-complete-guide - Created this page for “वाराणसी दर्शनीय स्थल”, “वाराणसी घूमने की जगह”, “काशी दर्शन गाइड”; SEO title: “वाराणसी दर्शनीय स्थल गाइड [2026] | आकर्षण व इटिनरेरी”.
+- kashitaxi.in/hi/varanasi-travel-agent - Added heading: “वाराणसी ट्रैवल एजेंट | वेरिफाइड ड्राइवर, फिक्स किराया और कस्टम टूर”.
+- kashitaxi.in/hi/varanasi-weather-guide - Created this page for “वाराणसी मौसम”, “वाराणसी घूमने का सबसे अच्छा समय”, “वाराणसी में सर्दी”; SEO title: “वाराणसी मौसम गाइड 2026 | सबसे अच्छे महीने, गर्मी, कोहरा”.
+- kashitaxi.in/hi/varanasi-with-friends-plan - Created this page for “दोस्तों के साथ वाराणसी”, “वाराणसी ग्रुप ट्रिप”, “वाराणसी फ्रेंड्स इटिनरेरी”; SEO title: “दोस्तों के साथ वाराणसी प्लान | ग्रुप इटिनरेरी व हॉस्टल”.
 
 ## 22 June 2026
 
-- kashitaxi.in/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026 - seo(ganga-aarti): fix cannibalization between flat and nested timing pages.
-- kashitaxi.in/hi/varanasi-tour-package - seo(ganga-aarti): fix cannibalization between flat and nested timing pages.
+- kashitaxi.in/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026 - Added/updated on-page copy: “> For a Dashashwamedh-only deep dive — crowd-density curve, VIP-seat reality, exact vantage points and fastest exit routes — see the d…”.
+- kashitaxi.in/hi/varanasi-tour-package - Added/updated on-page copy: “> विस्तृत समय: [दशाश्वमेध घाट गंगा आरती का समय](/hi/dashashwamedh-ghat-ganga-aarti-timing) | [अस्सी घाट आरती समय 2026](/hi/assi-ghat-a…”.
 
 ## 21 June 2026
 
-- kashitaxi.in/ - feat(cta): add sticky mobile CTA to homepage and all standalone pages.
-- kashitaxi.in/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/en/city/varanasi/activities/sunrise-yoga-varanasi-2026 - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/en/city/varanasi/taxi/one-way-taxi-varanasi - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-city-tour-cab - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/en/destinations/varanasi/varanasi-december-2026-experience-hub - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/en/packages - feat(cta): add sticky mobile CTA to homepage and all standalone pages.
-- kashitaxi.in/en/tempo-traveller-rates-varanasi - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/en/tempo-traveller-varanasi - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/en/varanasi-to-bodhgaya-taxi-cost - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/hi/city/varanasi/activities/sunrise-yoga-varanasi-2026 - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/hi/destinations/varanasi/varanasi-december-2026-experience-hub - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/hi/tempo-traveller-rates-varanasi - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/hi/varanasi-to-chitrakoot-tempo-traveller - seo: improve titles/meta, internal links & redirects for sales pages.
-- kashitaxi.in/pink-taxi-varanasi - feat(cta): add sticky mobile CTA to homepage and all standalone pages.
+- kashitaxi.in/ - Added sticky mobile Call/WhatsApp booking buttons for mobile visitors.
+- kashitaxi.in/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi - Added/updated on-page copy: “Kathmandu, the capital of Nepal, is a vibrant Himalayan city known for UNESCO World Heritage Sites (Durbar Square, Pashupatinath, Boud…”.
+- kashitaxi.in/en/city/varanasi/activities/sunrise-yoga-varanasi-2026 - Added/updated on-page copy: “- Saturday: Kundalini yoga, focus on pranayama, then browse sarees using the [Banarasi silk shopping guide](/en/city/varanasi/shopping…”.
+- kashitaxi.in/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide - Changed SEO title from “Dashashwamedh Ghat Aarti + Boat Ride Guide (2026) | Best Viewpoints & Prices” to “Dashashwamedh Boat Ride for Ganga Aarti (2026): Price, Timing & Views”; Changed meta description from “Complete 2026 Dashashwamedh Ghat guide: mythology, aarti step-by-step, seasonal timing, boat ride option…” to “Watch the Dashashwamedh Ganga Aarti from a boat in 2026 — shared & private boat prices, best viewpoints,…”.
+- kashitaxi.in/en/city/varanasi/taxi/one-way-taxi-varanasi - Added/updated on-page copy: “Whether you need a simple one-way transfer to a hotel or a round-trip package for your complete stay, KashiTaxi offers flexible, trans…”.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance - Added/updated on-page copy: “Many visitors combine Gorakhpur with [trips to the Nepal border](/en/city/nepal/taxi/varanasi-to-nepal-taxi) or Lumbini. In that case,…”.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-city-tour-cab - Added/updated on-page copy: “Experience the spiritual beauty of Varanasi with KashiTaxi's comprehensive city tour packages. Looking for a taxi for Varanasi city to…”.
+- kashitaxi.in/en/destinations/varanasi/varanasi-december-2026-experience-hub - Refreshed sales SEO metadata, internal links and redirects to strengthen commercial intent.
+- kashitaxi.in/en/packages - Added sticky mobile Call/WhatsApp booking buttons for mobile visitors.
+- kashitaxi.in/en/tempo-traveller-rates-varanasi - Added/updated on-page copy: “metaTitle: "Tempo Traveller Rates Varanasi 2026: 9–26 Seater from ₹24/km”.
+- kashitaxi.in/en/tempo-traveller-varanasi - Changed SEO title from “Tempo Traveller in Varanasi ₹2,500+ | 9-17 Seater Hire 2026 Rates” to “Tempo Traveller in Varanasi ₹2,500+ | 9-26 Seater Hire 2026 Rates”.
+- kashitaxi.in/en/varanasi-to-bodhgaya-taxi-cost - Changed SEO title from “Varanasi to Bodh Gaya Distance 2026: Taxi Fare, Time & Route” to “Varanasi to Bodh Gaya Distance & Taxi Fare 2026: ₹5,000, 250 km”; Changed meta description from “Varanasi to Bodh Gaya distance is about 250 km. Check taxi fare, travel time, same-day trip planning, an…” to “Varanasi to Bodh Gaya taxi from ₹5,000 one-way, ₹6,500 same-day return — 250 km (~5 hrs). Fixed fares, s…”.
+- kashitaxi.in/hi/city/varanasi/activities/sunrise-yoga-varanasi-2026 - Added/updated on-page copy: “- शनि: कुंडलिनी + [साड़ी शॉपिंग गाइड](/hi/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2026)।”.
+- kashitaxi.in/hi/destinations/varanasi/varanasi-december-2026-experience-hub - Refreshed sales SEO metadata, internal links and redirects to strengthen commercial intent.
+- kashitaxi.in/hi/tempo-traveller-rates-varanasi - Changed SEO title from “वाराणसी Tempo Traveller Rates 2026 | 9,12,17,26 सीटर रेंट लिस्ट” to “वाराणसी Tempo Traveller किराया 2026: 9-26 सीटर, लोकल ₹5,500 से”.
+- kashitaxi.in/hi/varanasi-to-chitrakoot-tempo-traveller - Added/updated on-page copy: “metaTitle: "वाराणसी से चित्रकूट Tempo Traveller: 1N/2D रामघाट यात्रा ₹16,500 से”.
+- kashitaxi.in/pink-taxi-varanasi - Added sticky mobile Call/WhatsApp booking buttons for mobile visitors.
 
 ## 20 June 2026
 
-- kashitaxi.in/en/12-seater-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/ashoka-pillar-sarnath-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/assi-ghat-to-airport-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/bharat-milap-nati-imli-oct-3 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/book-taxi-varanasi-ramlila-dussehra - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/allahabad/taxi/varanasi-to-allahabad-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/delhi/taxi/varanasi-to-delhi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/gaya/taxi/gaya-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/jaipur/taxi/varanasi-to-jaipur-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/kanpur/taxi/kanpur-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/khajuraho/taxi/varanasi-to-khajuraho-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/kolkata/taxi/varanasi-to-kolkata-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/lucknow/taxi/lucknow-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/events/banaras-lit-fest-2026-taxi-booking - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/events/chhath-puja-2026-varanasi-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/food/varanasi-street-food-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/airport-taxi-service-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/airport-taxi-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/how-to-reach-tent-city-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/luxury-cab-for-tent-city-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/manikarnika-ghat-cremation-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/shivala-ghat-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/staying-at-taj-ganges-need-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/taxi-for-tent-city-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/taxi-near-bhu - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/taxi-rates-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/taxi-service-in-sigra-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi-cantt-station - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ballia-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-deoria-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ghazipur-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-jalalpur-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-jaunpur-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-mau-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-patna-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-raj-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-transfer-directory - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-transfer-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-railway-station-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/corporate-group-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/dussehra-ravana-dahan-varanasi-oct-2 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/guides/best-experience-dev-deepawali-ghat-boat-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/holi-2026-varanasi-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/is-varanasi-safe-for-solo-female-travellers - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/kashi-darshan-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/luxury-maharaja-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/manikarnika-ghat-sacred-cremation-grounds - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/pilgrimage-yatra-tours-tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/privacy-policy - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/ram-rajya-finale-ramnagar-ramlila-oct-7 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/ramnagar-ramlila-moving-stages-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/sarnath-buddhist-temple-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2026 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/services/varanasi-safest-taxi-for-women - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/tempo-traveller-group-booking-dussehra - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/tempo-traveller-wedding-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/tourist-spots-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/ultimate-guide-ramlila-dussehra-varanasi-2026 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-airport-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-day-tour-cab-charges - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-to-allahabad-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-to-bodhgaya-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-travel-agent - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/en/varanasi-with-friends-plan - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/best-time-to-visit-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2026 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/airport-taxi-service-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/airport-to-taj-gateway-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/manikarnika-ghat-cremation-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/shivala-ghat-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/staying-at-taj-ganges-need-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/taxi-service-in-sigra-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/taxi-service-varanasi-cantt-station - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-distance - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-transfer-directory - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-transfer-guide - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/city/varanasi/taxi/varanasi-to-sarnath-taxi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/contact - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/kashi-darshan-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/services/varanasi-safest-taxi-for-women - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/tempo-traveller-varanasi - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/varanasi-airport-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/varanasi-sunrise-time - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/varanasi-to-bodhgaya-taxi-cost - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
-- kashitaxi.in/hi/varanasi-transport-price-guide-2026 - chore: unify call & WhatsApp to 9935474730, retire 8062182380.
+- kashitaxi.in/en/12-seater-tempo-traveller-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/ashoka-pillar-sarnath-guide - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/en/assi-ghat-to-airport-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/bharat-milap-nati-imli-oct-3 - Added/updated a booking CTA.
+- kashitaxi.in/en/book-taxi-varanasi-ramlila-dussehra - Added/updated a booking CTA.
+- kashitaxi.in/en/city/allahabad/taxi/varanasi-to-allahabad-taxi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi - Changed meta description from “Ayodhya to Varanasi taxi ₹3,550. Ram Mandir to Kashi 4-5 hrs. Door-to-door pickup. Book Now ☎ 80621 8238…” to “Ayodhya to Varanasi taxi ₹3,550. Ram Mandir to Kashi 4-5 hrs. Door-to-door pickup. Book Now ☎ 99354 7473…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/delhi/taxi/varanasi-to-delhi-taxi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/gaya/taxi/gaya-to-varanasi-taxi - Changed meta description from “Gaya to Varanasi taxi ₹4,200. 219 km, 5-6 hrs. Pind Daan + Bodhgaya stopover. Book Now ☎ 80621 82380. Vi…” to “Gaya to Varanasi taxi ₹4,200. 219 km, 5-6 hrs. Pind Daan + Bodhgaya stopover. Book Now ☎ 99354 74730. Vi…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/jaipur/taxi/varanasi-to-jaipur-taxi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/kanpur/taxi/kanpur-to-varanasi-taxi - Changed meta description from “Kanpur to Varanasi taxi ₹5,500. 293 km, 6-7 hrs. Book Now ☎ 80621 82380. Prayagraj stopover option. Busi…” to “Kanpur to Varanasi taxi ₹5,500. 293 km, 6-7 hrs. Book Now ☎ 99354 74730. Prayagraj stopover option. Busi…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/khajuraho/taxi/varanasi-to-khajuraho-taxi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/kolkata/taxi/varanasi-to-kolkata-taxi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/lucknow/taxi/lucknow-to-varanasi-taxi - Changed meta description from “Lucknow to Varanasi taxi ₹5,200. 283 km in 5-6 hrs. Book Now ☎ 80621 82380. Train vs Taxi comparison. Ka…” to “Lucknow to Varanasi taxi ₹5,200. 283 km in 5-6 hrs. Book Now ☎ 99354 74730. Train vs Taxi comparison. Ka…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi - Changed meta description from “Prayagraj (Allahabad) to Varanasi taxi ₹2,500. 100 km, 2-2.5 hrs. Sangam + Ganga Aarti same-day. Book ☎…” to “Prayagraj (Allahabad) to Varanasi taxi ₹2,500. 100 km, 2-2.5 hrs. Sangam + Ganga Aarti same-day. Book ☎…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/events/banaras-lit-fest-2026-taxi-booking - Added/updated on-page copy: “CTA: Reply "Fleet Options BLF" to +91 99354 74730 with your group size and preferred vehicle—I'll send availability screenshots, confi…”.
+- kashitaxi.in/en/city/varanasi/events/chhath-puja-2026-varanasi-guide - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking - Added/updated on-page copy: “CTA: Drop "Kite Package" to +91 99354 74730; I’ll reply with the rooftop availability screenshot, deposit link, and driver details so…”.
+- kashitaxi.in/en/city/varanasi/food/varanasi-street-food-guide - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/airport-taxi-service-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/airport-taxi-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi - Added/updated on-page copy: “- WhatsApp: +91-9935474730”.
+- kashitaxi.in/en/city/varanasi/taxi/how-to-reach-tent-city-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/luxury-cab-for-tent-city-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/manikarnika-ghat-cremation-guide - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/shivala-ghat-taxi-service - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/staying-at-taj-ganges-need-taxi - Added/updated on-page copy: “- Emergency contact: +91-9935474730”.
+- kashitaxi.in/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service - Added/updated on-page copy: “1. Message us: +91-9935474730”.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-for-tent-city-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-near-bhu - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-rates-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-service-in-sigra-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/taxi-service-varanasi-cantt-station - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance - Changed description from “Catch morning aarti! Airport to Assi Ghat taxi at ₹800. 27km, 40-60min. Pre-dawn pickups for Subah-e-Ban…” to “Catch morning aarti! Airport to Assi Ghat taxi at ₹800. 27km, 40-60min. Pre-dawn pickups for Subah-e-Ban…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ballia-distance - Changed meta description from “150km VNS to Ballia in 3-4hrs via NH-31. Sedan ₹2,500, Innova ₹3,200. Surha Tal bird sanctuary stops inc…” to “150km VNS to Ballia in 3-4hrs via NH-31. Sedan ₹2,500, Innova ₹3,200. Surha Tal bird sanctuary stops inc…”; Changed description from “Long-distance airport to Ballia taxi at competitive rates. 150km via NH-31, 3-4hrs, bird sanctuary stops…” to “Long-distance airport to Ballia taxi at competitive rates. 150km via NH-31, 3-4hrs, bird sanctuary stops…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance - Changed description from “Never miss your train! Pre-book VNS to Banaras Railway Station taxi at ₹690. Flight tracking, platform d…” to “Never miss your train! Pre-book VNS to Banaras Railway Station taxi at ₹690. Flight tracking, platform d…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance - Changed description from “Varanasi Airport to Dashashwamedh Ghat taxi ₹690 (Flash offer 2 hours). 25km, 40-55 min. Book instant or…” to “Varanasi Airport to Dashashwamedh Ghat taxi ₹690 (Flash offer 2 hours). 25km, 40-55 min. Book instant or…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-deoria-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ghazipur-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-jalalpur-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-jaunpur-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-mau-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance - Changed description from “NaMo Ghat taxi from airport ₹690 | 24km, 35-45 min to light show & promenade. Instant booking or call 80…” to “NaMo Ghat taxi from airport ₹690 | 24km, 35-45 min to light show & promenade. Instant booking or call 99…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-patna-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-raj-ghat-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance - Changed meta description from “Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist c…” to “Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist c…”; Changed description from “Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist c…” to “Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist c…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-distance - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance - Changed meta description from “Varanasi Airport to City Station (BCY) = 21km, 35 min. Fixed ₹690 taxi. Best for ghat-side hotels. No su…” to “Varanasi Airport to City Station (BCY) = 21km, 35 min. Fixed ₹690 taxi. Best for ghat-side hotels. No su…”; Changed description from “Perfect for ghat-side stays! Airport to Varanasi City Station taxi at ₹690. 21km, 35-45min via old city…” to “Perfect for ghat-side stays! Airport to Varanasi City Station taxi at ₹690. 21km, 35-45min via old city…”; Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-transfer-directory - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-transfer-guide - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-railway-station-taxi-service - Added/updated a booking CTA; Added heading: “📞 Call: 9935474730”.
+- kashitaxi.in/en/city/varanasi/taxi/varanasi-to-sarnath-taxi - Added/updated on-page copy: “- WhatsApp: +91-9935474730”.
+- kashitaxi.in/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly - Added/updated a booking CTA.
+- kashitaxi.in/en/corporate-group-tempo-traveller-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/dussehra-ravana-dahan-varanasi-oct-2 - Added/updated a booking CTA.
+- kashitaxi.in/en/guides/best-experience-dev-deepawali-ghat-boat-guide - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/en/holi-2026-varanasi-guide - Added/updated on-page copy: “- Our drivers' numbers as emergency contact: If anything feels off, call us at 9935474730 and we'll send a car immediately. Our driver…”.
+- kashitaxi.in/en/is-varanasi-safe-for-solo-female-travellers - Added/updated on-page copy: “Trusted cab: +91 99354 74730”.
+- kashitaxi.in/en/kashi-darshan-tempo-traveller - Added/updated a booking CTA.
+- kashitaxi.in/en/luxury-maharaja-tempo-traveller-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/manikarnika-ghat-sacred-cremation-grounds - Added/updated a booking CTA.
+- kashitaxi.in/en/pilgrimage-yatra-tours-tempo-traveller-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/privacy-policy - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/en/ram-rajya-finale-ramnagar-ramlila-oct-7 - Added/updated a booking CTA.
+- kashitaxi.in/en/ramnagar-ramlila-moving-stages-guide - Added/updated a booking CTA.
+- kashitaxi.in/en/safety-and-security-in-varanasi-guide-for-solo-travellar - Added/updated on-page copy: “This is my single most important piece of advice for arriving at VNS: ignore the chorus of taxi touts waiting outside and call directl…”.
+- kashitaxi.in/en/sarnath-buddhist-temple-guide - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/en/services/varanasi-full-day-city-tour-winter-2026 - Changed meta description from “Winter city tour ₹2,200 sedan, ₹3,500 Innova. 8hr package: Kashi Vishwanath, Sarnath, ghats, Ganga Aarti…” to “Winter city tour ₹2,200 sedan, ₹3,500 Innova. 8hr package: Kashi Vishwanath, Sarnath, ghats, Ganga Aarti…”.
+- kashitaxi.in/en/services/varanasi-safest-taxi-for-women - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/en/tempo-traveller-group-booking-dussehra - Added/updated a booking CTA.
+- kashitaxi.in/en/tempo-traveller-wedding-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/en/tourist-spots-varanasi - Added/updated on-page copy: “📞 Call Now: +91 99354 74730”.
+- kashitaxi.in/en/ultimate-guide-ramlila-dussehra-varanasi-2026 - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-airport-tempo-traveller - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-day-tour-cab-charges - Changed meta description from “Varanasi cab 8hr = ₹1,800 sedan, ₹2,500 Innova. Covers: Kashi Vishwanath, Sarnath, 5 ghats, Ganga Aarti.…” to “Varanasi cab 8hr = ₹1,800 sedan, ₹2,500 Innova. Covers: Kashi Vishwanath, Sarnath, 5 ghats, Ganga Aarti.…”; Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-to-allahabad-tempo-traveller - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-to-bodhgaya-tempo-traveller - Changed meta description from “Varanasi to Bodhgaya = 255 km (5-6 hr). 12-seater Tempo ₹16,000 same-day. Mahabodhi Temple + Vishnupad P…” to “Varanasi to Bodhgaya = 255 km (5-6 hr). 12-seater Tempo ₹16,000 same-day. Mahabodhi Temple + Vishnupad P…”; Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-to-triveni-sangam-tempo-traveller - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-travel-agent - Added/updated a booking CTA.
+- kashitaxi.in/en/varanasi-with-friends-plan - Added/updated a booking CTA.
+- kashitaxi.in/hi/best-time-to-visit-varanasi - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/hi/city/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2026 - Added/updated on-page copy: “- काशी टैक्सी के माध्यम से नाव बुक करें: +91 99354 74730”.
+- kashitaxi.in/hi/city/varanasi/taxi/airport-taxi-service-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/airport-to-taj-gateway-varanasi - Added/updated on-page copy: “telephone: "+91-9935474730”.
+- kashitaxi.in/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service - Changed meta description from “केदार घाट और हरिश्चंद्र घाट के लिए टैक्सी बुक करें। गौरी केदारेश्वर मंदिर ड्रॉप, दक्षिण भारतीय तीर्थयात्…” to “केदार घाट और हरिश्चंद्र घाट के लिए टैक्सी बुक करें। गौरी केदारेश्वर मंदिर ड्रॉप, दक्षिण भारतीय तीर्थयात्…”; Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/manikarnika-ghat-cremation-guide - Changed meta description from “मणिकर्णिका घाट के लिए टैक्सी बुक करें। मैदागिन गेट ड्रॉप, 200 मीटर पैदल मार्ग, एटीकेट SMS ब्रीफिंग, नो-फ…” to “मणिकर्णिका घाट के लिए टैक्सी बुक करें। मैदागिन गेट ड्रॉप, 200 मीटर पैदल मार्ग, एटीकेट SMS ब्रीफिंग, नो-फ…”; Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/shivala-ghat-taxi-service - Changed meta description from “शिवाला घाट होटलों के लिए टैक्सी बुक करें वाराणसी में। सोनारपुरा ड्रॉप, Heritage Inn पार्किंग एक्सेस, शां…” to “शिवाला घाट होटलों के लिए टैक्सी बुक करें वाराणसी में। सोनारपुरा ड्रॉप, Heritage Inn पार्किंग एक्सेस, शां…”; Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/staying-at-taj-ganges-need-taxi - Added/updated on-page copy: “telephone: "+91-9935474730”.
+- kashitaxi.in/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service - Added/updated on-page copy: “telephone: "+91-9935474730”.
+- kashitaxi.in/hi/city/varanasi/taxi/taxi-service-in-sigra-varanasi - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/taxi-service-varanasi-cantt-station - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-distance - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-transfer-directory - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-airport-transfer-guide - Added/updated a booking CTA.
+- kashitaxi.in/hi/city/varanasi/taxi/varanasi-to-sarnath-taxi - Added/updated on-page copy: “telephone: "+91-9935474730”.
+- kashitaxi.in/hi/contact - Added/updated on-page copy: “- फोन (भारत): +91 99354 74730”.
+- kashitaxi.in/hi/kashi-darshan-tempo-traveller - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/hi/services/varanasi-safest-taxi-for-women - Added/updated on-page copy: “- कॉल: +91 99354 74730 / +91 99354 74730”.
+- kashitaxi.in/hi/tempo-traveller-varanasi - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/hi/varanasi-airport-tempo-traveller - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/hi/varanasi-sunrise-time - Added/updated on-page copy: “घाट पर सीधे बुक कर सकते हैं या पहले से काशी टैक्सी (99354 74730) के माध्यम से बुक कर सकते हैं। एडवांस बुकिंग चरम मौसम (नवंबर-फरवरी) मे…”.
+- kashitaxi.in/hi/varanasi-to-ayodhya-tempo-traveller - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/hi/varanasi-to-bodhgaya-taxi-cost - Added/updated a booking CTA.
+- kashitaxi.in/hi/varanasi-to-naimisharanya-tempo-traveller - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/hi/varanasi-to-triveni-sangam-tempo-traveller - Replaced the retired contact number with the canonical +91 9935474730 Call/WhatsApp booking number.
+- kashitaxi.in/hi/varanasi-transport-price-guide-2026 - Changed description from “वाराणसी एयरपोर्ट टैक्सी मूल्य, केवला-महिलाओं के लिए पिंक टैक्सी, लखनऊ → वाराणसी किराया, गंगा आरती नाव बु…” to “वाराणसी एयरपोर्ट टैक्सी मूल्य, केवला-महिलाओं के लिए पिंक टैक्सी, लखनऊ → वाराणसी किराया, गंगा आरती नाव बु…”.
