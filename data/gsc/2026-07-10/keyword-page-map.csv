@@ -1,0 +1,251 @@
+query,intent,clicks,impressions,ctr,position,mapped_page,match_where
+scooty on rent in varanasi,sales,44,779,5.6%,3.5,/bike-rentals-varanasi,body
+scooty rent in varanasi,sales,46,650,7.1%,3.3,/bike-rentals-varanasi,all terms on page
+bike rent in varanasi,sales,32,525,6.1%,4.5,/bike-rentals-varanasi,slug (all terms)
+bike on rent varanasi,sales,17,486,3.5%,6.5,/bike-rentals-varanasi,slug (all terms)
+taxi service in varanasi,sales,2,401,0.5%,18.0,/en/city/varanasi/taxi/24-7-taxi-varanasi,title
+bike rent varanasi,sales,19,378,5%,4.9,/bike-rentals-varanasi,slug (all terms)
+bike rental in varanasi,sales,23,317,7.3%,4.2,/bike-rentals-varanasi,slug (all terms)
+varanasi to vindhyachal taxi fare,sales,3,303,1%,12.3,/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi,body
+rental scooty in varanasi,sales,11,275,4%,3.4,/bike-rentals-varanasi,body
+bike on rent in varanasi,sales,18,263,6.8%,5.3,/bike-rentals-varanasi,slug (all terms)
+rental bike in varanasi,sales,11,249,4.4%,3.8,/bike-rentals-varanasi,slug (all terms)
+bike on rent near me,sales,2,249,0.8%,9.1,/bike-rentals-varanasi,all terms on page
+kasi free tour 2026 tamil nadu,sales,15,242,6.2%,4.2,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,all terms on page
+bike rental varanasi,sales,11,225,4.9%,6.2,/bike-rentals-varanasi,slug (all terms)
+scooty rental in varanasi,sales,15,213,7%,3.4,/bike-rentals-varanasi,title
+bike rentals varanasi,sales,4,203,2%,4.0,/bike-rentals-varanasi,slug
+rent scooty in varanasi,sales,9,199,4.5%,3.0,/bike-rentals-varanasi,all terms on page
+rent bike in varanasi,sales,8,199,4%,3.4,/bike-rentals-varanasi,slug (all terms)
+rental bike varanasi,sales,4,190,2.1%,3.7,/bike-rentals-varanasi,slug (all terms)
+varanasi scooty rent,sales,6,187,3.2%,3.3,/bike-rentals-varanasi,body
+varanasi to sarnath auto fare,sales,2,184,1.1%,7.1,/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance,all terms on page
+varanasi boat ride price,sales,2,169,1.2%,10.6,/en/morning-boat-ride-varanasi-price,title
+bike rentals in varanasi,sales,12,168,7.1%,4.1,/bike-rentals-varanasi,slug (all terms)
+taxi 690,sales,4,146,2.7%,5.2,/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance,title
+sarnath museum tickets,sales,2,133,1.5%,8.4,/en/sarnath-attractions-guide,all terms on page
+varanasi bike rent,sales,8,132,6.1%,4.6,/bike-rentals-varanasi,slug (all terms)
+varanasi bike rental,sales,8,131,6.1%,3.8,/bike-rentals-varanasi,slug (all terms)
+scooty rental varanasi,sales,6,127,4.7%,3.2,/bike-rentals-varanasi,all terms on page
+scooty rental near me,sales,2,122,1.6%,9.0,/bike-rentals-varanasi,all terms on page
+varanasi boat ride cost,sales,2,119,1.7%,14.0,/en/boat-ride-varanasi,all terms on page
+varanasi scooty rent price,sales,4,105,3.8%,2.0,/bike-rentals-varanasi,all terms on page
+vindhyachal dharamshala price per day,sales,3,79,3.8%,6.0,/en/services/where-to-stay-in-vindhyachal,all terms on page
+banaras bike rent,sales,3,78,3.8%,3.9,/bike-rentals-varanasi,slug (all terms)
+varanasi rental bike,sales,8,77,10.4%,3.2,/bike-rentals-varanasi,slug (all terms)
+sarnath ticket price,sales,3,75,4%,3.9,/en/sarnath-attractions-guide,body
+bike rent in varanasi near railway station,sales,9,72,12.5%,3.5,/bike-rentals-varanasi,all terms on page
+scooty rent varanasi,sales,7,69,10.1%,3.4,/bike-rentals-varanasi,all terms on page
+varanasi bike rental price,sales,5,67,7.5%,3.1,/bike-rentals-varanasi,all terms on page
+bike for rent in varanasi,sales,3,54,5.6%,4.3,/bike-rentals-varanasi,slug (all terms)
+dharamshala near vindhyachal temple,sales,6,51,11.8%,7.1,/en/services/where-to-stay-in-vindhyachal,all terms on page
+rent a bike in varanasi,sales,3,49,6.1%,4.2,/bike-rentals-varanasi,slug (all terms)
+scooty on rent varanasi,sales,4,48,8.3%,3.1,/bike-rentals-varanasi,body
+scooty for rent in varanasi,sales,3,48,6.3%,3.1,/bike-rentals-varanasi,all terms on page
+kashi taxi,sales,9,47,19.1%,2.6,/banaras-tour-package,title
+boating price in varanasi,sales,3,46,6.5%,6.9,/en/morning-boat-ride-varanasi-price,all terms on page
+sarnath temple ticket price,sales,3,44,6.8%,3.0,/en/sarnath-buddhist-temple-guide,all terms on page
+varanasi local sightseeing package by car,sales,4,41,9.8%,6.2,/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package,all terms on page
+two wheeler on rent in varanasi,sales,3,40,7.5%,3.3,/bike-rentals-varanasi,all terms on page
+assi ghat boat ride price,sales,3,40,7.5%,6.1,/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide,all terms on page
+scooty on rent in banaras,sales,4,39,10.3%,3.1,/bike-rentals-varanasi,all terms on page
+varanasi scooty rental,sales,6,37,16.2%,3.2,/bike-rentals-varanasi,body
+varanasi to ayodhya traveller price,sales,3,37,8.1%,3.1,/en/varanasi-to-ayodhya-tempo-traveller,body
+sarnath temple varanasi ticket price,sales,3,33,9.1%,2.4,/en/city/varanasi/taxi/varanasi-to-sarnath-taxi,all terms on page
+varanasi me bike rent price,sales,4,32,12.5%,3.2,/bike-rentals-varanasi,all terms on page
+kasi free tour 2026 tamil nadu timings,sales,6,29,20.7%,2.3,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,all terms on page
+rental bike in varanasi price,sales,3,28,10.7%,3.6,/bike-rentals-varanasi,all terms on page
+two wheeler rent in varanasi,sales,4,27,14.8%,3.1,/bike-rentals-varanasi,all terms on page
+banaras bike rental,sales,4,22,18.2%,3.3,/bike-rentals-varanasi,slug (all terms)
+tempo traveller 17 seater in varanasi price,sales,3,20,15%,3.4,/en/17-seater-tempo-traveller-varanasi,all terms on page
+sarnath museum ticket price,sales,2,18,11.1%,6.7,/en/sarnath-attractions-guide,body
+varanasi to kathmandu taxi fare,sales,3,13,23.1%,1.7,/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi,body
+varanasi to vindhyachal distance,info,55,7344,0.7%,4.4,/en/varanasi-to-vindhyachal,title
+varanasi to nepal distance,info,13,4360,0.3%,4.9,/en/city/nepal/taxi/varanasi-to-nepal-taxi,title
+assi ghat aarti time,info,35,3321,1.1%,3.3,/en/assi-ghat-aarti-timings-2026,title
+dashashwamedh ghat aarti time,info,18,2578,0.7%,5.5,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,body
+vindhyachal to varanasi distance,info,7,2395,0.3%,7.4,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,slug (all terms)
+varanasi ganga aarti time,info,2,2321,0.1%,9.7,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,all terms on page
+varanasi to kashi distance,info,2,2292,0.1%,10.5,/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance,slug (all terms)
+ganga aarti timing in varanasi,info,3,1766,0.2%,10.1,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,slug (all terms)
+varanasi airport to kashi vishwanath temple distance,info,9,1546,0.6%,3.8,/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance,body
+varanasi to kashi vishwanath temple distance,info,4,1229,0.3%,7.1,/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026,all terms on page
+varanasi to vindhyachal distance by road,info,20,1093,1.8%,4.1,/en/varanasi-to-vindhyachal,body
+assi ghat morning aarti time,info,31,1078,2.9%,3.5,/en/assi-ghat-morning-aarti-time,slug
+sarnath timing,info,45,945,4.8%,2.0,/en/sarnath-timing-visit-guide,slug
+varanasi se vindhyachal ki duri,info,11,843,1.3%,2.9,/hi/varanasi-to-vindhyachal,body
+banaras se vindhyachal ki duri,info,7,806,0.9%,2.9,/hi/varanasi-to-vindhyachal,body
+ganga aarti varanasi time,info,2,763,0.3%,10.5,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,body
+banaras me kitne ghat h,info,9,760,1.2%,4.8,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,slug (all terms)
+dasaswamedh ghat aarti time,info,3,735,0.4%,6.5,/en/assi-ghat-evening-aarti-time,all terms on page
+varanasi weather in july 2026,info,3,608,0.5%,6.4,/en/varanasi-in-monsoon-july-september-2026,all terms on page
+varanasi airport to varanasi railway station distance,info,6,575,1%,3.8,/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance,slug (all terms)
+varanasi ganga aarti time today,info,2,569,0.4%,7.8,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,all terms on page
+assi ghat aarti timings,info,12,541,2.2%,3.4,/en/assi-ghat-timings,title
+varanasi airport to kashi temple distance,info,4,508,0.8%,3.9,/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance,body
+sarnath temple timings,info,22,502,4.4%,3.6,/en/sarnath-timing-visit-guide,title
+banaras se vindhyachal ki duri kitni hai,info,6,461,1.3%,2.9,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,tokens (2/4)
+assi ghat ganga aarti timing,info,6,443,1.4%,3.1,/en/assi-ghat-aarti-timings-2026,body
+banaras to vindhyachal distance,info,3,434,0.7%,5.3,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,slug (all terms)
+banaras me kitne ghat hai,info,3,428,0.7%,6.3,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,slug (all terms)
+vindhyachal se banaras ki duri,info,3,409,0.7%,4.0,/hi/varanasi-to-vindhyachal,all terms on page
+kashi to nepal distance,info,3,407,0.7%,5.1,/en/city/nepal/taxi/varanasi-to-nepal-taxi,all terms on page
+varanasi railway station to varanasi airport distance,info,3,398,0.8%,4.5,/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance,slug (all terms)
+sarnath museum timing,info,2,387,0.5%,4.7,/en/sarnath-timing-visit-guide,body
+sarnath temple varanasi timings,info,23,386,6%,1.8,/en/sarnath-buddhist-temple-guide,all terms on page
+varanasi aarti time,info,2,382,0.5%,10.5,/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026,body
+sarnath opening time,info,15,377,4%,1.5,/en/ashoka-pillar-sarnath-guide,all terms on page
+dashashwamedh ghat aarti time today,info,3,369,0.8%,3.2,/en/assi-ghat-aarti-timings-2026,all terms on page
+assi ghat aarti time today,info,22,359,6.1%,2.5,/en/assi-ghat-aarti-timings-2026,all terms on page
+ganga snan kab hai 2026 november,info,9,358,2.5%,2.2,/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026,tokens (4/5)
+banaras mein kitne ghat hai,info,2,342,0.6%,6.0,/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2026,all terms on page
+weather in varanasi in july 2026,info,3,337,0.9%,5.5,/en/varanasi-in-monsoon-july-september-2026,all terms on page
+kashi me kitne ghat hai,info,3,318,0.9%,5.5,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,slug (all terms)
+varanasi junction to varanasi airport distance,info,2,312,0.6%,4.7,/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance,slug (all terms)
+vindhyachal ki duri,info,3,310,1%,3.5,/hi/varanasi-to-vindhyachal,body
+banaras mein kitne ghat hain,info,3,308,1%,5.3,/en/dev-deepawali-boat-ride-pricing-guide-2026,all terms on page
+varanasi ganga aarti timings,info,2,299,0.7%,10.5,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,slug (all terms)
+varanasi to nepal distance by road,info,2,295,0.7%,3.1,/en/city/nepal/taxi/varanasi-to-nepal-taxi,all terms on page
+varanasi to vindhyavasini temple distance,info,15,293,5.1%,3.2,/en/varanasi-to-vindhyachal,body
+sarnath varanasi timings,info,17,285,6%,1.7,/en/city/varanasi/taxi/varanasi-to-sarnath-taxi,all terms on page
+varanasi airport to railway station distance,info,5,281,1.8%,3.1,/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance,slug (all terms)
+kashi vishwanath to prayagraj distance,info,2,278,0.7%,7.5,/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance,all terms on page
+distance between varanasi to vindhyachal,info,3,269,1.1%,4.7,/en/varanasi-to-vindhyachal,body
+banaras mein kul kitne ghat hain,info,2,255,0.8%,5.1,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,tokens (2/5)
+80 ghat aarti time,info,2,242,0.8%,3.6,/en/assi-ghat-aarti-timings-2026,all terms on page
+sarnath mandir timing,info,7,239,2.9%,7.6,/en/sarnath-timing-visit-guide,all terms on page
+sarnath closing time,info,2,227,0.9%,1.8,/en/ashoka-pillar-sarnath-guide,all terms on page
+assi ghat aarti time morning,info,9,211,4.3%,2.3,/en/assi-ghat-morning-aarti-time,slug (all terms)
+dashashwamedh ghat ganga aarti timing,info,2,209,1%,4.9,/en/dashashwamedh-ghat-ganga-aarti-timing,slug
+vindhyachal distance from my location,info,2,204,1%,8.4,/en/navratri-pilgrimage-vindhyachal-from-varanasi-guide,all terms on page
+vindhyachal mandir to varanasi distance,info,3,203,1.5%,3.8,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,all terms on page
+banaras se vindhyachal kitna kilometre hai,info,2,196,1%,3.0,/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi,all terms on page
+varanasi to vindhyachal temple distance,info,5,194,2.6%,3.2,/en/varanasi-to-vindhyachal,body
+vindhyachal mandir mirzapur to varanasi distance,info,5,188,2.7%,2.7,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,all terms on page
+sunauli border to nepal distance,info,2,187,1.1%,6.0,/en/city/nepal/taxi/varanasi-to-nepal-taxi,all terms on page
+sarnath mandir varanasi timings,info,8,181,4.4%,1.7,/en/sarnath-timing-visit-guide,all terms on page
+morning ganga aarti timing in varanasi,info,4,179,2.2%,4.0,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,all terms on page
+banaras se vindhyachal kitna dur hai,info,6,177,3.4%,2.8,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,tokens (2/3)
+banaras me total kitne ghat hai,info,2,175,1.1%,5.0,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,all terms on page
+varanasi to vindhyachal mandir distance,info,4,172,2.3%,4.9,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,all terms on page
+varanasi weather,info,3,172,1.7%,2.3,/en/varanasi-weather-guide,title
+assi ghat evening aarti time,info,2,171,1.2%,4.5,/en/assi-ghat-evening-aarti-time,slug
+varanasi city to airport distance,info,2,171,1.2%,5.7,/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance,slug (all terms)
+varanasi to sarnath distance,info,3,167,1.8%,6.4,/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance,slug (all terms)
+assi ghat ganga aarti time,info,4,164,2.4%,2.4,/en/assi-ghat-evening-aarti-time,all terms on page
+varanasi to manikarnika ghat distance,info,2,162,1.2%,5.4,/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance,all terms on page
+varanasi to vindhyachal temple distance by road,info,6,153,3.9%,3.1,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,all terms on page
+varanasi railway station to airport distance,info,2,146,1.4%,3.4,/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance,slug (all terms)
+varanasi ganga aarti time morning,info,2,144,1.4%,6.5,/en/assi-ghat-morning-aarti-time,all terms on page
+dashashwamedh ghat aarti timings,info,2,141,1.4%,5.3,/en/dashashwamedh-ghat-ganga-aarti-timing,slug (all terms)
+varanasi me ganga aarti kitne baje hota hai,info,2,141,1.4%,7.2,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,tokens (3/5)
+sarnath timings,info,7,136,5.1%,5.8,/en/sarnath-timing-visit-guide,slug (all terms)
+kashi to prayagraj distance by road,info,2,134,1.5%,7.2,/en/varanasi-to-prayagraj,all terms on page
+banaras mein kitna ghat hai,info,2,129,1.6%,6.5,/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2026,all terms on page
+varanasi ganga aarti timings morning,info,2,127,1.6%,8.8,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,all terms on page
+dashmesh ghat ganga aarti time,info,2,126,1.6%,7.0,/en/assi-ghat-evening-aarti-time,all terms on page
+kashi to vindhyavasini temple distance,info,2,123,1.6%,3.7,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,all terms on page
+banaras mein kul kitne ghat hai,info,2,123,1.6%,6.0,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,tokens (2/4)
+aarti time at assi ghat,info,6,117,5.1%,3.3,/en/assi-ghat-evening-aarti-time,slug (all terms)
+ganga aarti time dashashwamedh ghat today,info,3,112,2.7%,2.0,/en/dashashwamedh-ghat-ganga-aarti-timing,all terms on page
+sarnath opening and closing time today,info,3,111,2.7%,1.6,/en/ashoka-pillar-sarnath-guide,all terms on page
+dasaswamedh ghat aarti time today,info,5,109,4.6%,2.2,/en/assi-ghat-aarti-timings-2026,all terms on page
+dashashwamedh ghat aarti time morning,info,3,109,2.8%,3.7,/en/assi-ghat-morning-aarti-time,all terms on page
+is varanasi safe for women,info,8,108,7.4%,3.1,/en/is-varanasi-safe-for-solo-female-travellers,all terms on page
+varanasi airport to temple distance,info,2,107,1.9%,2.0,/en/city/varanasi/taxi/varanasi-airport-to-ghazipur-distance,all terms on page
+is varanasi safe for girls,info,3,106,2.8%,2.5,/en/is-varanasi-safe-for-solo-female-travellers,all terms on page
+banaras ki ganga aarti kitne baje hoti hai,info,3,95,3.2%,7.4,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,tokens (3/5)
+varanasi se sarnath ki duri,info,2,95,2.1%,8.3,/en/varanasi-to-ayodhya,all terms on page
+nahan kab hai 2026 november,info,2,94,2.1%,5.5,/en/varanasi-in-november-2026-insider-guide,tokens (2/4)
+sarnath timings varanasi,info,6,90,6.7%,1.4,/en/city/varanasi/taxi/varanasi-to-sarnath-taxi,all terms on page
+sarnath opening time today,info,10,85,11.8%,1.9,/en/ashoka-pillar-sarnath-guide,all terms on page
+sarnath visiting time,info,9,83,10.8%,1.6,/en/ashoka-pillar-sarnath-guide,all terms on page
+kashi vishwanath me kitne ghat hai,info,3,79,3.8%,3.7,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,all terms on page
+varanasi mein kitne ghat hain,info,3,77,3.9%,5.4,/en/dev-deepawali-boat-ride-pricing-guide-2026,all terms on page
+kashi vishwanath temple to vindhyachal temple distance,info,3,75,4%,2.8,/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance,all terms on page
+varanasi airport to manikarnika ghat distance,info,3,74,4.1%,3.0,/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance,title
+sarnath mandir opening time,info,3,68,4.4%,1.7,/en/sarnath-buddhist-temple-guide,all terms on page
+distance between varanasi airport to kashi vishwanath temple,info,3,68,4.4%,3.5,/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance,all terms on page
+ganga aarti timing assi ghat,info,3,65,4.6%,1.7,/en/assi-ghat-aarti-timings-2026,all terms on page
+varanasi to vindhyavasini distance,info,3,56,5.4%,3.6,/en/varanasi-to-vindhyachal,body
+ganga snan 2026 november mein kab hai,info,6,55,10.9%,1.9,/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026,tokens (4/6)
+varanasi assi ghat aarti time,info,3,54,5.6%,1.8,/en/assi-ghat-morning-aarti-time,all terms on page
+banaras assi ghat aarti time,info,3,51,5.9%,2.6,/en/assi-ghat-morning-aarti-time,all terms on page
+assi ghat par ganga aarti kab hoti hai,info,3,40,7.5%,1.6,/en/assi-ghat-aarti-timings-2026,tokens (4/7)
+varanasi me kitne ghat hai,info,4,36,11.1%,5.4,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,slug (all terms)
+sarnath varanasi opening time,info,3,35,8.6%,1.5,/en/ashoka-pillar-sarnath-guide,all terms on page
+assi ghat par aarti kab hota hai,info,4,33,12.1%,1.5,/en/assi-ghat-aarti-timings-2026,tokens (3/6)
+assi ghat morning aarti timing,info,3,32,9.4%,3.1,/en/assi-ghat-aarti-timings-2026,all terms on page
+aarti time in assi ghat,info,4,24,16.7%,1.3,/en/assi-ghat-evening-aarti-time,slug (all terms)
+varanasi junction se airport ki duri,info,4,22,18.2%,2.3,/en/varanasi-to-ayodhya,all terms on page
+kasi tamil sangam registration 2026 tamilnadu online last date and time,info,3,21,14.3%,2.7,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,tokens (10/11)
+varanasi to vindhyachal by road distance,info,3,20,15%,3.6,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,all terms on page
+varanasi ghats map with distance,info,3,4,75%,1.0,/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-distance,all terms on page
+आज सूर्यास्त का समय,other,7,157141,0%,9.3,/hi/varanasi-sunrise-time,all terms on page
+rathyatra mela 2026,other,17,2793,0.6%,3.8,/en/jagannath-rath-yatra-varanasi-2026,all terms on page
+sarnath mandir,other,3,2133,0.1%,3.8,/en/sarnath-buddhist-temple-guide,body
+monsoon in varanasi 2026,other,78,1541,5.1%,1.9,/en/varanasi-in-monsoon-july-september-2026,slug (all terms)
+varanasi ghat,other,2,1286,0.2%,8.8,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,slug (all terms)
+rathyatra mela 2026 varanasi,other,9,1185,0.8%,4.1,/en/jagannath-rath-yatra-varanasi-2026,all terms on page
+ganga snan 2026,other,2,946,0.2%,3.0,/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026,slug (all terms)
+varanasi,other,4,770,0.5%,3.4,/bike-rentals-varanasi,title
+kasi tamil sangam registration 2026 tamilnadu online apply last date,other,63,686,9.2%,3.2,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,tokens (9/10)
+kasi tamil sangam registration 2026 tamilnadu online apply,other,52,678,7.7%,4.6,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,body
+varanasi airport to kashi vishwanath temple,other,10,645,1.6%,4.2,/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance,body
+kasi tamil sangam registration 2026 tamilnadu online,other,33,554,6%,4.8,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,body
+ganga snan 2026 november,other,3,458,0.7%,2.7,/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026,all terms on page
+rath yatra varanasi,other,6,296,2%,8.3,/en/jagannath-rath-yatra-varanasi-2026,slug
+sarnath,other,7,282,2.5%,3.8,/en/ashoka-pillar-sarnath-guide,title
+ganga snan 2026 date,other,4,266,1.5%,8.5,/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026,all terms on page
+morning aarti at assi ghat,other,4,258,1.6%,5.6,/en/assi-ghat-morning-aarti-time,slug (all terms)
+बनारस से विंध्याचल कितना किलोमीटर है,other,5,226,2.2%,2.9,/hi/travel-from-varanasi-to-vindhyachal,all terms on page
+varanasi to ayodhya,other,3,225,1.3%,7.0,/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi,title
+विंध्याचल से बनारस की दूरी,other,6,208,2.9%,2.4,/hi/varanasi-to-vindhyachal,body
+kashi tamil sangamam 2026,other,11,202,5.4%,3.0,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,title
+yes,other,3,192,1.6%,5.5,/,body
+varanasi temperature in december,other,2,180,1.1%,6.8,/en/varanasi-in-december-2026,all terms on page
+ganga snan 2026 date november,other,2,171,1.2%,1.9,/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026,all terms on page
+sarnath varanasi,other,3,165,1.8%,9.0,/en/city/varanasi/taxi/varanasi-to-sarnath-taxi,slug (all terms)
+ganga snan november 2026,other,5,164,3%,1.9,/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026,all terms on page
+वाराणसी में कितने घाट है,other,2,161,1.2%,4.8,/hi/scindia-ghat-submerged-temple,all terms on page
+sarnath temple,other,2,157,1.3%,5.8,/en/sarnath-timing-visit-guide,title
+rath yatra 2026 varanasi,other,4,156,2.6%,2.0,/en/jagannath-rath-yatra-varanasi-2026,slug (all terms)
+monsoon in varanasi 2026 date,other,5,149,3.4%,1.9,/en/varanasi-in-monsoon-july-september-2026,all terms on page
+बनारस गंगा आरती का समय,other,2,149,1.3%,7.3,/hi/assi-ghat-aarti-timings-2026,all terms on page
+sarnath museum,other,7,147,4.8%,2.1,/en/sarnath-attractions-guide,body
+ganga mahotsav 2026,other,3,147,2%,2.3,/en/ganga-mahotsav-2026-classical-festival-varanasi,title
+rathyatra mela 2026 in varanasi,other,4,144,2.8%,4.1,/en/jagannath-rath-yatra-varanasi-2026,all terms on page
+kasi tamil sangam registration online tamilnadu login,other,5,134,3.7%,5.9,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,tokens (6/7)
+kasi tamil sangam registration 2026,other,13,128,10.2%,3.2,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,body
+kasi tamil sangam registration 2026 tamilnadu online last date,other,8,127,6.3%,3.2,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,tokens (8/9)
+वाराणसी से विंध्याचल की दूरी,other,4,126,3.2%,2.9,/hi/varanasi-to-vindhyachal,body
+बनारस से विन्ध्याचल की दूरी,other,5,122,4.1%,3.0,/hi/varanasi-to-vindhyachal-itinerary,all terms on page
+kashi vishwanath ghat name,other,3,122,2.5%,7.6,/en/city/varanasi/activities/84-ghats-boat-tour-varanasi,all terms on page
+varanasi to vindhyachal,other,2,120,1.7%,7.9,/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi,title
+sarnath temple varanasi,other,3,110,2.7%,4.5,/en/city/varanasi/taxi/varanasi-to-sarnath-taxi,all terms on page
+varanasi monsoon 2026,other,8,109,7.3%,2.8,/en/varanasi-in-monsoon-july-september-2026,slug (all terms)
+वाराणसी से विन्ध्याचल की दूरी,other,2,105,1.9%,3.0,/hi/varanasi-to-vindhyachal-itinerary,all terms on page
+kasi tamil sangam registration,other,9,104,8.7%,5.2,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,body
+बनारस से विंध्याचल कितना दूर है,other,2,99,2%,3.0,/hi/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance,all terms on page
+kasi tamil sangam registration 2026 tamilnadu online apply form,other,6,97,6.2%,4.7,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,tokens (8/9)
+varanasi ghat name list in hindi,other,3,87,3.4%,4.4,/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026,all terms on page
+वाराणसी से विंध्याचल मंदिर की दूरी,other,5,85,5.9%,2.9,/hi/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,all terms on page
+বেনারস থেকে অযোধ্যা দূরত্ব,other,4,84,4.8%,4.2,,UNMATCHED
+kasi tamil sangam 2026,other,4,83,4.8%,2.9,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,body
+"कल सूर्योदय का समय1277,",other,0,81,0%,9.4,/hi/city/varanasi/events/mahindra-kabira-sunrise-music,tokens (6/7)
+varanasi to vindhyavasini,other,3,73,4.1%,4.0,/en/varanasi-to-vindhyachal,body
+when monsoon starts in varanasi 2026,other,4,71,5.6%,1.8,/en/holi-2026-varanasi-guide,all terms on page
+காசி தமிழ் சங்கமம் 2026,other,16,69,23.2%,2.6,/en/assi-ghat-aarti-timings-2026,tokens (1/7)
+kasi tamil sangam registration online tamilnadu login app download,other,3,64,4.7%,5.0,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,tokens (8/9)
+trikon parikrama vindhyachal,other,4,60,6.7%,1.3,/en/trikon-parikrama-vindhyachal-complete-guide,slug
+kasi tamil sangam registration online,other,6,59,10.2%,5.0,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,all terms on page
+बनारस में गंगा आरती का समय,other,3,53,5.7%,7.2,/hi/assi-ghat-aarti-timings-2026,all terms on page
+विंध्याचल में धर्मशाला,other,5,47,10.6%,5.1,/hi/where-to-stay-in-vindhyachal,all terms on page
+what to wear in varanasi,other,3,40,7.5%,3.4,/en/what-to-wear-in-varanasi,title
+trikon yatra vindhyachal,other,7,39,17.9%,1.3,/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance,all terms on page
+बनारस से बिनधाचल की दूरी,other,4,39,10.3%,3.0,/hi/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance,tokens (8/9)
+kashi tamil sangamam 2026 registration,other,5,36,13.9%,4.3,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,all terms on page
+காசி தமிழ் சங்கம் பதிவு 2026,other,6,27,22.2%,2.1,/en/assi-ghat-aarti-timings-2026,tokens (1/9)
+बनारस से विंध्याचल कितने किलोमीटर है,other,3,24,12.5%,2.9,/hi/travel-from-varanasi-to-vindhyachal,all terms on page
+kashi tamil sangamam 2026 venue,other,4,22,18.2%,1.9,/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi,all terms on page
+monsoon 2026 varanasi,other,3,22,13.6%,3.0,/en/varanasi-in-monsoon-july-september-2026,slug (all terms)
