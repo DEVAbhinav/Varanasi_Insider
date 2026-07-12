@@ -128,3 +128,13 @@ These users are still researching. CTAs need to be lower-pressure ("plan with us
 2. **`scripts/audit-page-cta.js`** — counts wa.me/tel links per content/*.md, flags any page in the top-100 GSC clicks list with zero inline CTAs.
 
 Both are small and re-runnable on every new GSC export.
+
+---
+
+# Update log
+
+- **2026-07-12** — Matcher promoted to `scripts/keyword_page_map.py` (bidirectional keyword↔page,
+  indexes all 508 pages via `lib/posts.js`). Applied a 10-item sales keyword→page batch off the
+  2026-07-09 snapshot; see `data/gsc/SALES-KEYWORDS-2026-07-09.md` (commit `94e77ab`). Fruit #7
+  (airport→Kashi Vishwanath) overlaps Section-C item #1 of the keyword-gap table above.
+
