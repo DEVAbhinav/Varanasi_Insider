@@ -22,7 +22,6 @@ relatedPosts:
   - travel-from-varanasi-to-vindhyachal
   - trikon-parikrama-vindhyachal-complete-guide
   - tempo-traveller-rates-varanasi
-  - pilgrimage-yatra-tours-tempo-traveller-varanasi
 ---
 
 # वाराणसी से विंध्याचल Tempo Traveller (2026)

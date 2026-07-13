@@ -25,7 +25,6 @@ relatedPosts:
   - tempo-traveller-rates-varanasi
   - varanasi-to-prayagraj-tempo-traveller
   - varanasi-to-ayodhya-tempo-traveller
-  - pilgrimage-yatra-tours-tempo-traveller-varanasi
 ---
 
 # वाराणसी से चित्रकूट Tempo Traveller पैकेज (2026)

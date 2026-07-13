@@ -65,7 +65,6 @@ faqSchema:
   - question: "आपके साथ वाराणसी में स्टे कैसे बुक करें?"
     answer: "WhatsApp +91 99354 74730 पर अपनी तिथियाँ, मेहमानों की संख्या, बजट और पसंदीदा क्षेत्र (मंदिर के पास, घाट के पास, या शांत/आरामदायक) भेजें। हम मूल्य सहित साफ़ विकल्प भेजते हैं, फिर बुकिंग व कैब/दर्शन ऐड-ऑन तय करते हैं।"
 relatedPosts:
-  - hotel-booking-in-varanasi
   - kashi-vishwanath-vip-darshan-booking
   - golden-triangle-varanasi-ayodhya-prayagraj-package
 ---

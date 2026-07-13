@@ -24,7 +24,7 @@ relatedPosts:
   - best-time-to-visit-varanasi
   - varanasi-in-monsoon-july-september-2026
   - varanasi-transport-price-guide-2026
-  - destinations/varanasi/food/malaiyo-varanasi-guide
+  - malaiyo-varanasi-guide
 faqSchema:
   - question: "When is Langda mango season in Varanasi in 2026?"
     answer: "Langda mango season in Varanasi generally peaks from late June into July, with best quality usually seen in active local market cycles."

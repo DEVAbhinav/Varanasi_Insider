@@ -28,8 +28,8 @@ relatedPosts:
   - dev-deepawali-2026-varanasi-ultimate-guide
   - dev-deepawali-boat-ride-pricing-guide-2026
   - dev-deepawali-photography-guide-2026
-  - dev-deepawali-crowd-survival-guide
-  - ganga-mahotsav-2026-classical-festival
+  - dev-deepawali-crowd-survival-guide-varanasi
+  - ganga-mahotsav-2026-classical-festival-varanasi
 ---
 
 # 5 Best Dev Deepawali Viewing Spots Beyond Dashashwamedh Ghat: Escape the Crowds 2026

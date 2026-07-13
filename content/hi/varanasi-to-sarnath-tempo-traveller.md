@@ -19,9 +19,7 @@ keywords:
   - sarnath museum guided tour hindi
   - buddhist pilgrims varanasi traveller
 relatedPosts:
-  - buddhist-circuit-tour-tempo-traveller-varanasi
   - tempo-traveller-varanasi
-  - varanasi-full-day-city-tour-winter-2026
   - tempo-traveller-rates-varanasi
 ---
 

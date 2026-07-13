@@ -24,7 +24,6 @@ tags:
   - यात्रा योजना
 relatedPosts:
   - best-time-to-visit-varanasi
-  - varanasi-safety-guide
   - varanasi-transport-price-guide-2026
   - dashashwamedh-ghat-ganga-aarti-timing
 faqSchema:

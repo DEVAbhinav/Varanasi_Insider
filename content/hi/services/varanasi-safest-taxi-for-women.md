@@ -17,7 +17,6 @@ translationStatus: human
 auditNote: "Manual SEO-focused Hindi localization."
 canonical: "https://www.kashitaxi.in/hi/services/varanasi-safest-taxi-for-women"
 relatedPosts:
-  - pink-taxi-varanasi
   - varanasi-airport-taxi-guide
   - tempo-traveller-varanasi
 ---

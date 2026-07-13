@@ -16,9 +16,8 @@ tags:
   - परिवहन
   - VNS
 relatedPosts:
-  - assi-ghat-walking-guide
-  - best-street-food-varanasi
-  - evening-ganga-aarti-guide
+  - varanasi-street-food-guide
+  - dashashwamedh-ghat-ganga-aarti-timing
 ---
 
 # वाराणसी एयरपोर्ट टैक्सी गाइड (2026): किराया, पिक-अप, ड्रॉप

@@ -571,6 +571,18 @@ Active and completed excavation areas reveal multiple layers of Sarnath's histor
 
 ### Transport Options from Varanasi to Sarnath
 
+#### Sarnath as Your Decompression Day from Varanasi
+
+After the intensity of the ghats, Sarnath is the calm reset day: Buddhist stupas, open lawns, the deer park and a quieter museum circuit instead of lanes, cremation smoke and evening crowds. If you are planning [how many days in Varanasi](/en/how-many-days-in-varanasi), keep Sarnath as the half-day breathing space between your early-morning boat ride and evening Aarti plans — it is also the single best way to spend the harsh [mid-day hours in Varanasi](/en/midday-in-varanasi-what-to-do).
+
+For a simple 3-4 hour visit, prioritise **Dhamek Stupa** for Buddha's first-sermon site, the **Archaeological Museum** for the Ashoka lion capital, and the **Deer Park** for a slower walk before returning to Varanasi. Add the international Buddhist temples only if you have extra time or a specific pilgrimage interest.
+
+#### Skip the Lanka Auto Haggle: Use a Waiting Round-Trip Cab
+
+The uncomfortable part is not the distance; it is the auto haggle from Lanka or the BHU gate. Drivers often quote inflated fares, push hard for a one-way deal, then renegotiate for the return. A fixed [Varanasi to Sarnath taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) that waits for about 3-4 hours removes the bargaining, gives you a known ride back, and keeps your museum/deer-park visit unhurried. Groups can compare the [Varanasi to Sarnath tempo traveller](/en/varanasi-to-sarnath-tempo-traveller) instead.
+
+{{CTA:SARNATH_CAB:en}}
+
 **1. Taxi/Cab (Most Comfortable)**
 
 **Pricing:**

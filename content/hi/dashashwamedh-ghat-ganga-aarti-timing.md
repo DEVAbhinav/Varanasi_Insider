@@ -126,6 +126,8 @@ canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti-timing"
 - सुबह लागत: [/hi/morning-boat-ride-varanasi-price]
 - घाट 10 गाइड: [/hi/guide-to-10-most-important-ghats-of-varanasi]
 
+{{CTA:BOAT_AARTI:hi}}
+
 ## CTA – आरती व्यू / चेयर / नाव सलाह
 > WhatsApp: +91 99354 74730  
 > लिखें: “Aarti + Date + Standing/Chair/Boat” – उत्तर: आगमन मिनट + व्यू विकल्प।

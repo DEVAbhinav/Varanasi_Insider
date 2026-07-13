@@ -22,7 +22,6 @@ relatedPosts:
   - tempo-traveller-varanasi
   - tempo-traveller-rates-varanasi
   - varanasi-to-prayagraj-tempo-traveller
-  - pilgrimage-yatra-tours-tempo-traveller-varanasi
   - varanasi-to-ayodhya-tempo-traveller
 ---
 

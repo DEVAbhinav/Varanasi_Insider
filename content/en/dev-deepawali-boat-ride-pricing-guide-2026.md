@@ -27,7 +27,7 @@ keywords: ["Dev Deepawali boat ride price","Dev Deepawali boat booking","Ganga b
 relatedPosts:
   - dev-deepawali-2026-varanasi-ultimate-guide
   - dev-deepawali-best-viewing-spots-varanasi
-  - ganga-mahotsav-2026-classical-festival
+  - ganga-mahotsav-2026-classical-festival-varanasi
   - book-taxi-varanasi-ramlila-dussehra
   - ultimate-guide-ramlila-dussehra-varanasi-2026
 aggregateRating:

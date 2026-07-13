@@ -19,7 +19,7 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - safety-and-security-in-varanasi-guide-for-solo-travellar
   - dashashwamedh-ghat-ganga-aarti-timing
-  - sarnath-day-trip
+  - sarnath-complete-guide
 faqSchema:
   - question: "क्या फरवरी वाराणसी जाने के लिए एक अच्छा समय है?"
     answer: "हाँ, फरवरी वाराणसी जाने के लिए सबसे अच्छे महीनों में से एक है। मौसम आदर्श है - दिन के दौरान सुखद रूप से गर्म और शाम को ठंडा - दर्शनीय स्थलों की यात्रा के लिए एकदम सही। यह महाशिवरात्रि के प्रमुख त्योहार का महीना भी है।"

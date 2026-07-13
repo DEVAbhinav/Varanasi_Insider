@@ -92,6 +92,8 @@ canonical: "https://www.kashitaxi.in/hi/evening-boat-ride-varanasi-ganga-aarti"
 - सुबह कीमत: [/hi/morning-boat-ride-varanasi-price]
 - देव दीपावली प्रीमियम: [/hi/dev-deepawali-boat-ride-pricing-guide-2026]
 
+{{CTA:BOAT_AARTI:hi}}
+
 ## CTA – ऑन-वॉटर पोज़िशनिंग सहायता
 > WhatsApp: +91 99354 74730  
 > लिखें: “Evening Boat + Date + Shared/Private + Photo (Y/N)” – उत्तर: बोर्डिंग मिनट + उचित कोट.

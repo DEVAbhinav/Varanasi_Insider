@@ -24,8 +24,8 @@ tags:
   - pilgrimage
 template: destination
 relatedPosts:
-  - lucknow-to-varanasi-tempo-traveller
-  - varanasi-kashi-darshan-tour
+  - varanasi-to-lucknow-tempo-traveller
+  - kashi-darshan-tempo-traveller
 faqSchema:
   - question: "How much does a taxi cost from Lucknow to Varanasi?"
     answer: "Taxi fares from Lucknow to Varanasi start from ₹5,200 for a 4-seater sedan (Swift Dzire). Prices vary: Ertiga ₹6,500-7,000, Innova Crysta ₹8,500-9,000. All fares include fuel, tolls, and driver charges."

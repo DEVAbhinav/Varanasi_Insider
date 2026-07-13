@@ -394,6 +394,18 @@ This is the quintessential Varanasi morning. Start with the essentials and eat y
 
 ---
 
+### Hidden Gems & the 6–9 AM Windows
+
+If you want less-hyped local stops, add **Gupta Chaat in Chetganj** for chaat away from the Dashashwamedh rush, the smaller kachori counters around Chowk/Kachori Gali for a local breakfast, and Lanka-side malai toast stalls when BHU crowds come out.
+
+The important rule: **kachori-jalebi and malaiyo are morning-only in practice — plan them between 6:00 and 9:00 AM.** Malaiyo is stricter: it is a **winter-only** treat (roughly November–February) and collapses as the day warms. Blue Lassi is more forgiving because it runs through the day, but it sits inside a narrow lane, so go before the late-morning crowd if you want breathing room.
+
+For thandai, choose regular first. Bhang/thandai is legal only at government-authorized shops, go light, wait for the effect, and **do not drive or ride after**. If you want the full sequence from breakfast to late night, use the fuller [Banaras food trail](/en/banaras-food-trail-breakfast-to-late-night).
+
+{{CTA:CITY_TOUR:en}}
+
+---
+
 ### 🌆 Evening Food Walk (5:00 PM – 9:00 PM)
 
 **The Chaat-Paan-Thandai Circuit — 4 hours, 6 stops**

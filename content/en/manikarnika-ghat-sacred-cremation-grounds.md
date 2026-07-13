@@ -145,6 +145,25 @@ For broader rainy-season movement planning, check [Varanasi in Monsoon](/en/vara
 - **Walk carefully:** Lanes can be crowded, wet, and uneven.
 - **Use trusted local guidance:** A respectful guide helps with route, context, and boundaries.
 
+### Etiquette at the Cremation Ghat
+
+Manikarnika is an active cremation ground, not a sightseeing stage. Keep your visit quiet, brief, and respectful.
+
+- **Do not photograph pyres, bodies, or mourners:** This includes phones, zoom lenses, reels, and boat-side shots.
+- **Dress modestly:** Covered shoulders and knees are the safest baseline in the lanes and at the riverfront.
+- **Stay to the sides:** Give funeral processions, wood carriers, priests, and families the right of way.
+- **Do not treat rituals as a spectacle:** Avoid staring, posing, laughing loudly, or narrating someone else's grief for content.
+
+### The Wood-Donation / "Hospice Fee" Scam
+
+One common Manikarnika scam starts when a tout offers a "free explanation" and guides visitors upstairs to a "dying person's home," "hospice," or "wood bank." The pitch then becomes an emotional demand for thousands of rupees for "cremation wood for the poor."
+
+You are under **no obligation** to donate. Real donations go through the Doms/official channels, not a stranger who grabbed you in the lane. If you want to help, ask a trusted local contact or known operator for a verified route and walk away from pressure. A driver/guide on a fixed fare has no incentive to steer you into this; their job is to help with route, pickup, timing, and boundaries.
+
+For a wider first-timer checklist, see [Varanasi scams to avoid in 2026](/en/varanasi-scams-to-avoid-2026).
+
+{{CTA:SCAM_SHIELD:en}}
+
 ---
 
 ## Nearby Places to Combine in One Walk

@@ -178,6 +178,10 @@ Also known online as **Kasi Tamil Sangam 2026**, this is the same event — the 
     🎯 Book Your Sangamam Transport NOW
   </a>
   <p style="margin-top: 10px; color: #666; font-size: 14px;">Get 15% off multi-day packages for delegates</p>
+  <a href="https://wa.me/919935474730?text=%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%21%20%E0%AE%95%E0%AE%BE%E0%AE%9A%E0%AE%BF%20%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%20%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AE%AE%E0%AF%8D%202026%20%28%E0%AE%9F%E0%AE%BF%E0%AE%9A%202-15%29%20%E0%AE%AA%E0%AE%AF%E0%AE%A3%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AF%81%20%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AE%A3%E0%AE%BE%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D%20%E0%AE%9F%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%B8%E0%AE%BF%20%E0%AE%AE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D%20%E0%AE%A4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%BF%E0%AE%9F%E0%AE%AE%E0%AF%8D%20%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%B5%E0%AF%81%20%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%AF%20%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%BF%E0%AE%B1%E0%AF%87%E0%AE%A9%E0%AF%8D."
+     style="background-color: #128C7E; color: white; padding: 12px 34px; font-size: 16px; font-weight: bold; border-radius: 8px; text-decoration: none; display: inline-block; margin-top: 12px; cursor: pointer;">
+    💬 தமிழில் பதிவு செய்யுங்கள் (Book in Tamil)
+  </a>
 </div>
 
 **At a Glance**

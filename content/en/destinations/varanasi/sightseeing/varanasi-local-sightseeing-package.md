@@ -41,7 +41,7 @@ relatedPosts:
   - varanasi-sightseeing-complete-guide
   - tourist-spots-varanasi
   - varanasi-day-tour-cab-charges
-  - services/varanasi-full-day-city-tour-winter-2026
+  - varanasi-full-day-city-tour-winter-2026
   - tempo-traveller-varanasi
   - varanasi-transport-price-guide-2026
 offers:

@@ -68,8 +68,6 @@ faqSchema:
     answer: "WhatsApp +91 99354 74730 पर अपनी यात्रा तिथियाँ और लोगों की संख्या भेजें। हम आपका सटीक प्रति-व्यक्ति मूल्य, दिन-प्रतिदिन योजना और साफ़ शामिल/अशामिल सूची भेजते हैं, फिर वाहन व ड्राइवर तय करते हैं।"
 relatedPosts:
   - kashi-vishwanath-vip-darshan-booking
-  - varanasi-ayodhya-prayagraj-pilgrimage-taxi
-  - hotel-booking-in-varanasi
 ---
 
 # गोल्डन ट्रायंगल टूर: वाराणसी–अयोध्या–प्रयागराज पैकेज (3 रात/4 दिन)

@@ -21,7 +21,7 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - safety-and-security-in-varanasi-guide-for-solo-travellar
   - dashashwamedh-ghat-ganga-aarti-timing
-  - sarnath-day-trip
+  - sarnath-complete-guide
 faqSchema:
   - question: "Is February a good time to visit Varanasi?"
     answer: "Yes, February is one of the best months to visit Varanasi. The weather is ideal—pleasantly warm during the day and cool in the evenings—perfect for sightseeing. It's also the month of the major festival of Mahashivratri."

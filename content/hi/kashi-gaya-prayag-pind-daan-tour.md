@@ -29,7 +29,6 @@ relatedPosts:
   - tempo-traveller-varanasi
   - varanasi-to-prayagraj-tempo-traveller
   - varanasi-to-bodhgaya-tempo-traveller
-  - pilgrimage-yatra-tours-tempo-traveller-varanasi
   - 9-vs-12-vs-17-seater-tempo-traveller-varanasi
   - tempo-traveller-rates-varanasi
 faqSchema:

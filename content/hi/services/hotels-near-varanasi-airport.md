@@ -53,8 +53,6 @@ faqSchema:
 relatedPosts:
   - varanasi-dormitory-budget-homestay-booking
   - hotels-near-varanasi-railway-station-cantt
-  - varanasi-airport-to-city-cab
-  - hotel-booking-in-varanasi
   - budget-hotels-near-kashi-vishwanath-godowlia
 ---
 

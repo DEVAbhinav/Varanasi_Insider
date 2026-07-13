@@ -26,8 +26,8 @@ tags:
   - pind-daan
 template: destination
 relatedPosts:
-  - varanasi-kashi-darshan
-  - gaya-varanasi-tour-package
+  - kashi-darshan-tempo-traveller
+  - varanasi-tour-package
 faqSchema:
   - question: "How much does a taxi cost from Gaya to Varanasi?"
     answer: "Taxi fares from Gaya to Varanasi start from ₹4,200 for a 4-seater sedan (Swift Dzire). Prices vary: Ertiga ₹5,500-6,000, Innova ₹7,000-7,500. Includes fuel, tolls, and driver charges for 219-236 km journey."

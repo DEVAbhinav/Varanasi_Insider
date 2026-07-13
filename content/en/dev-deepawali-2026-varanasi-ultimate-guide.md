@@ -29,7 +29,7 @@ keywords: ["Dev Deepawali 2026 Varanasi","Kartik Purnima Varanasi","million lamp
 relatedPosts:
   - dev-deepawali-boat-ride-pricing-guide-2026
   - dev-deepawali-best-viewing-spots-varanasi
-  - ganga-mahotsav-2026-classical-festival
+  - ganga-mahotsav-2026-classical-festival-varanasi
   - ultimate-guide-ramlila-dussehra-varanasi-2026
   - book-taxi-varanasi-ramlila-dussehra
 ---

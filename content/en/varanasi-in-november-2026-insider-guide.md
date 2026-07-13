@@ -16,7 +16,7 @@ tags:
   - travel planning
 relatedPosts:
   - best-time-to-visit-varanasi
-  - varanasi-safety-guide
+  - varanasi-scams-to-avoid-2026
   - varanasi-transport-price-guide-2026
   - dashashwamedh-ghat-ganga-aarti-timing
 faqSchema:

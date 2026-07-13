@@ -89,7 +89,7 @@ Long-distance transfers from Varanasi Airport. All rates include tolls and drive
 
 | City | Distance | Time | Fare (Sedan) | Guide |
 |------|----------|------|--------------|-------|
-| **Prayagraj (Allahabad)** | 118 km | 2.5 hrs | ₹1,380 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance) |
+| **Prayagraj (Allahabad)** | 118 km | 2.5 hrs | ₹3,499 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance) |
 | **Mirzapur (Vindhyachal)** | 75 km | 1.5 hrs | ₹1,800 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance) |
 | **Gorakhpur** | 230 km | 4.5 hrs | ₹5,520 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance) |
 | **Patna** | 290 km | 5-6 hrs | ₹6,960 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-patna-distance) |

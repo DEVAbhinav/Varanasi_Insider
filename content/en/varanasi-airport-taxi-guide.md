@@ -16,9 +16,9 @@ tags:
   - transport
   - VNS
 relatedPosts:
-  - assi-ghat-walking-guide
-  - best-street-food-varanasi
-  - evening-ganga-aarti-guide
+  - assi-ghat-timings
+  - varanasi-street-food-guide
+  - dashashwamedh-ghat-ganga-aarti-timing
 ---
 
 # Varanasi Airport Taxi Guide 2026: Fares, Distance, Pick-ups & Scam Alerts

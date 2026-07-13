@@ -53,7 +53,6 @@ relatedPosts:
   - varanasi-dormitory-budget-homestay-booking
   - budget-hotels-near-kashi-vishwanath-godowlia
   - kashi-vishwanath-vip-darshan-booking
-  - hotel-booking-in-varanasi
   - where-to-stay-in-varanasi
 ---
 

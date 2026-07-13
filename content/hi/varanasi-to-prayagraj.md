@@ -30,7 +30,7 @@ keywords:
 relatedPosts:
   - varanasi-transport-price-guide-2026
   - morning-boat-ride-varanasi-price
-  - varanasi-to-ayodhya-pilgrimage-guide
+  - varanasi-to-ayodhya-tempo-traveller
 ---
 
 # वाराणसी से प्रयागराज (इलाहाबाद): टूर पैकेज और यात्रा गाइड

@@ -19,8 +19,8 @@ tags:
 relatedPosts:
   - boat-ride-varanasi
   - varanasi-transport-price-guide-2026
-  - ganga-aarti-timing-varanasi
-  - varanasi-safety-guide
+  - ganga-aarti-timing-varanasi-2026
+  - varanasi-scams-to-avoid-2026
   - where-to-stay-in-varanasi
 faqSchema:
   - question: "How much does a boat ride cost in Varanasi in 2026?"

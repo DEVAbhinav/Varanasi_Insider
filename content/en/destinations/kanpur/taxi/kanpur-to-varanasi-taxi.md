@@ -24,8 +24,8 @@ tags:
   - business-travel
 template: destination
 relatedPosts:
-  - varanasi-kashi-darshan
-  - kanpur-varanasi-tour-package
+  - kashi-darshan-tempo-traveller
+  - varanasi-tour-package
 faqSchema:
   - question: "How much does a taxi cost from Kanpur to Varanasi?"
     answer: "Taxi fares from Kanpur to Varanasi start from ₹5,500 for a 4-seater sedan (Swift Dzire). Prices vary: Ertiga ₹7,000-7,500, Innova ₹8,500-9,000. Includes fuel, tolls, and driver charges for 293-346 km journey."

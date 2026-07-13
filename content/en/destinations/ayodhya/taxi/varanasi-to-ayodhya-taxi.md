@@ -22,7 +22,6 @@ tags:
   - pilgrimage
 template: destination
 relatedPosts:
-  - ayodhya-1n2d-tour
   - ayodhya-2-day-tour
 faqSchema:
   - question: "How much does a taxi cost from Varanasi to Ayodhya?"

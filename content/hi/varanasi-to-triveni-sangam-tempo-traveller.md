@@ -21,7 +21,6 @@ keywords:
 relatedPosts:
   - varanasi-to-prayagraj-tempo-traveller
   - varanasi-to-prayagraj-kumbh-tempo-traveller
-  - pilgrimage-yatra-tours-tempo-traveller-varanasi
 ---
 
 # त्रिवेणी संगम Tempo Traveller व अनुष्ठान सहायता

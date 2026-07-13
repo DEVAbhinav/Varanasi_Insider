@@ -19,7 +19,6 @@ keywords:
   - varanasi to ayodhya itinerary
   - ayodhya darshan whatsapp booking
 relatedPosts:
-  - pilgrimage-yatra-tours-tempo-traveller-varanasi
   - tempo-traveller-rates-varanasi
   - varanasi-to-prayagraj-tempo-traveller
 ---

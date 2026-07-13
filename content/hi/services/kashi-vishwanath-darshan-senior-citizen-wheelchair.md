@@ -55,7 +55,7 @@ relatedPosts:
   - kashi-vishwanath-sugam-darshan-price-booking
   - kashi-vishwanath-temple-dress-code-rules
   - kashi-vishwanath-aarti-timings-booking
-  - varanasi-local-sightseeing-cab
+  - varanasi-local-sightseeing-package
 ---
 
 # काशी विश्वनाथ वरिष्ठ नागरिक और व्हीलचेयर दर्शन

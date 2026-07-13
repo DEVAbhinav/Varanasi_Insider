@@ -21,7 +21,6 @@ tags:
 template: destination
 relatedPosts:
   - varanasi-airport-to-prayagraj-distance
-  - ayodhya-tour-packages
 faqSchema:
   - question: "How much does a taxi cost from Varanasi to Prayagraj?"
     answer: "Taxi fares from Varanasi to Prayagraj start from ₹2,500 for a 4-seater Swift Dzire. Prices vary based on vehicle type: Sedan ₹2,500-2,800, Ertiga ₹3,200-3,600, Innova ₹4,500-5,200, and Tempo Traveller ₹6,500-8,000. All fares include fuel, tolls, and driver charges."

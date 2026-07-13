@@ -153,6 +153,8 @@ Assi is easier than Godowlia, but the last stretch still needs walking logic. Fa
 
 Rain, wind and river conditions matter more than people expect. A flexible evening plan is better than locking a rigid multi-stop schedule.
 
+{{CTA:BOAT_AARTI:en}}
+
 ## Best Pages To Use Next
 
 - [Assi Ghat Aarti Timings 2026](/en/assi-ghat-aarti-timings-2026) for the broader timing guide

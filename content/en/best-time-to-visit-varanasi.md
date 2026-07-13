@@ -26,7 +26,7 @@ tags:
   - travel planning
 relatedPosts:
   - dashashwamedh-ghat-ganga-aarti-timing
-  - sunrise-boat-ride-varanasi-timing
+  - varanasi-sunrise-boat-ride-timings
   - varanasi-transport-price-guide-2026
   - is-varanasi-safe-for-solo-female-travellers
   - ganga-aarti-timing-varanasi-2026
@@ -154,6 +154,18 @@ For operating constraints in rain season, read [Varanasi in Monsoon](/en/varanas
 * **Note:** **Ganga boat rides may be suspended** for safety when the water level is high. Keep your plans flexible.
 
 ![Monsoon storm clouds gathering above the Ganga boat lane](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "A boat ride under dramatic monsoon skies in Varanasi.")
+
+---
+
+## Monsoon & Flooding: what the season really does to your trip
+
+Monsoon in Varanasi is roughly July–September. The Ganga rises and often **submerges the lower ghat steps**, so your mental image of sitting low on Dashashwamedh or walking continuously along the river may not work. Evening Ganga Aarti still happens on most nights, but on high-water days it is often shifted to higher platforms, rooftops, or upper-terrace viewing zones.
+
+Boat rides are the biggest variable. On high-water/current days, operations can be suspended or restricted with little notice; keep the [evening boat ride + Ganga Aarti plan](/en/evening-boat-ride-varanasi-ganga-aarti) conditional instead of building the whole trip around it. Cremation ghats also compress when lower steps are under water, so give Manikarnika/Harishchandra more space and avoid crowding ceremonies.
+
+Also be honest about summer: May–June is brutally hot, often **40°C+**, and noon sightseeing is punishment. If you are deciding trip length, start with [how many days in Varanasi](/en/how-many-days-in-varanasi), then keep monsoon/summer days flexible. In unpredictable weather, a fixed-fare AC cab is not a luxury — it lets the driver swap in indoor stops, shift temple timing, and keep you off flooded lanes without renegotiating every ride.
+
+{{CTA:CITY_TOUR:en}}
 
 ---
 

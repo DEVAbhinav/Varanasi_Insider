@@ -19,8 +19,8 @@ tags:
   - यात्रा कार्यक्रम
 relatedPosts:
   - varanasi-transport-price-guide-2026
-  - varanasi-to-prayagraj-pilgrimage-guide
-  - varanasi-to-bodh-gaya-pilgrimage-guide
+  - varanasi-to-prayagraj
+  - varanasi-to-gaya-bodh-gaya-tour-package
   - where-to-stay-in-varanasi
 faqSchema:
   - q: "बनारस से विंध्याचल कितनी दूर है?"

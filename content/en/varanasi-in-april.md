@@ -34,7 +34,6 @@ tags:
   - itinerary
   - accommodation
 relatedPosts:
-  - varanasi-summer-heat-smart-itinerary-march-may
   - dashashwamedh-ghat-ganga-aarti-timing
   - varanasi-sunrise-boat-ride-timings
   - hotel-booking-in-varanasi

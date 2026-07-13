@@ -52,7 +52,6 @@ faqSchema:
     answer: "कुछ संपत्तियाँ नदी या घाट की ओर मुख वाले कमरे देती हैं; ये सीमित होते हैं और विशेषकर त्योहार तिथियों पर महँगे होते हैं। यदि नदी दृश्य आपके लिए ज़रूरी है तो बताएँ, हम आपकी तिथियों के लिए वास्तव में उपलब्ध विकल्प जाँचेंगे — बढ़ा-चढ़ाकर वादा नहीं करेंगे।"
 relatedPosts:
   - varanasi-dormitory-budget-homestay-booking
-  - hotel-booking-in-varanasi
   - assi-ghat-aarti-timings-2026
   - where-to-stay-in-varanasi
   - hotels-near-varanasi-railway-station-cantt

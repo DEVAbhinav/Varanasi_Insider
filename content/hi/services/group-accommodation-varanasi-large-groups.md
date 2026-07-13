@@ -53,7 +53,6 @@ faqSchema:
 relatedPosts:
   - varanasi-dormitory-budget-homestay-booking
   - dharamshala-near-kashi-vishwanath-temple-varanasi
-  - hotel-booking-in-varanasi
   - divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package
   - golden-triangle-varanasi-ayodhya-prayagraj-package
 ---

@@ -15,8 +15,8 @@ tags:
   - taxi fare
   - tour package
 relatedPosts:
-  - varanasi-to-ayodhya-pilgrimage-guide
-  - varanasi-to-prayagraj-pilgrimage-guide
+  - varanasi-to-ayodhya-tempo-traveller
+  - varanasi-to-prayagraj
   - varanasi-transport-price-guide-2026
 ---
 

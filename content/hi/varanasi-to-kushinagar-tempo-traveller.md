@@ -18,11 +18,9 @@ keywords:
   - buddhist pilgrimage kushinagar varanasi
   - ramabhar stupa meditation package
 relatedPosts:
-  - buddhist-circuit-tour-tempo-traveller-varanasi
   - varanasi-to-bodhgaya-tempo-traveller
   - 9-vs-12-vs-17-seater-tempo-traveller-varanasi
   - tempo-traveller-rates-varanasi
-  - corporate-group-tempo-traveller-varanasi
 ---
 
 # वाराणसी से कुशीनगर Tempo Traveller (2026)

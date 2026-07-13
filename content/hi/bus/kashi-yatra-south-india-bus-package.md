@@ -11,7 +11,7 @@ featured: false
 seoTitle: "दक्षिण भारत से काशी यात्रा बस पैकेज – 6–7 दिन (चेन्नई, बेंगलुरु, हैदराबाद)"
 seoDescription: "चेन्नई, बेंगलुरु, हैदराबाद से काशी यात्रा बस पैकेज – 6–7 दिन कार्यक्रम, काशी विश्वनाथ एवं गंगा आरती रणनीति, मूल्य, ऐड‑ऑन Prayagraj Ayodhya विकल्प।"
 keywords: ["kashi yatra hindi","काशी यात्रा बस पैकेज","चेनई से काशी यात्रा","बेंगलुरु से काशी टूर","hyderabad se kashi yatra","काशी गंगा स्नान पैकेज","काशी विश्वनाथ दर्शन रणनीति","अन्नपूर्णा मंदिर वाराणसी","विशालाक्षी अम्मन वाराणसी","tempo traveller kashi yatra","south indian food kashi yatra"]
-relatedPosts: ["dev-deepawali-2026-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2026","ganga-mahotsav-2026-classical-festival-varanasi"]
+relatedPosts: ["dev-deepawali-2026-varanasi-ultimate-guide","ganga-mahotsav-2026-classical-festival-varanasi"]
 tags: ["काशी यात्रा","दक्षिण भारत प्रस्थान","तीर्थ बस","विश्वनाथ मंदिर","गंगा आरती","अयोध्या विस्तार","प्रयागराज सर्किट"]
 translationOf: "kashi-yatra-south-india-bus-package"
 ---

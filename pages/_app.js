@@ -102,6 +102,29 @@ function MyApp({ Component, pageProps }) {
         destination_url: destination,
         page_location: window.location.href,
       });
+
+      // High-signal conversion events: WhatsApp / phone-call intent.
+      // Fired in addition to the generic click so we can attribute leads to the exact page.
+      const href = typeof destination === 'string' ? destination : '';
+      if (href.includes('wa.me') || href.includes('api.whatsapp.com') || href.startsWith('whatsapp:')) {
+        gtag.event({
+          action: 'whatsapp_click',
+          category: 'Conversion',
+          label: window.location.pathname,
+          element_text: elementText,
+          destination_url: href,
+          page_location: window.location.href,
+        });
+      } else if (href.startsWith('tel:')) {
+        gtag.event({
+          action: 'call_click',
+          category: 'Conversion',
+          label: window.location.pathname,
+          element_text: elementText,
+          destination_url: href,
+          page_location: window.location.href,
+        });
+      }
     };
 
     window.addEventListener('click', handleClick, { passive: true });

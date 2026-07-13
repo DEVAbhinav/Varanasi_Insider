@@ -40,12 +40,11 @@ relatedPosts:
   - varanasi-to-ayodhya
   - outstation-cabs-from-varanasi
   - varanasi-sightseeing-complete-guide
-  - "varanasi-sightseeing-complete-guide"
-  - "tour-package-from-varanasi"
-  - "family-tour-varanasi-3-days-parents"
-  - "varanasi-with-friends-plan"
-  - "varanasi-group-tour-package"
-  - "contact"
+  - tour-package-from-varanasi
+  - family-tour-varanasi-3-days-parents
+  - varanasi-with-friends-plan
+  - varanasi-group-tour-package
+  - contact
 faqSchema:
   - question: "Are you a licensed Varanasi travel agent?"
     answer: "Yes, Kashi Taxi operates as Vinayak Travels Tour (Regd.), a licensed travel agency in Varanasi since 1998. We are a GSTIN-registered business with verified vehicles and police-verified drivers. Our office is located at Shastri Nagar, Sigra, Varanasi."

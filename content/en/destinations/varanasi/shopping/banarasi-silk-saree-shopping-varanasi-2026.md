@@ -90,6 +90,22 @@ Banarasi silk sarees represent over 400 years of continuous textile tradition. W
 
 ### Shopping Locations & Experiences
 
+#### The Silk Commission Trap (and how to beat it)
+
+The "free ride to the weaver" is often the hook. Some auto, e-rickshaw, or guide drivers earn a 30-40% kickback from certain silk showrooms, and that commission is baked into the inflated price you pay.
+
+**How to spot a commission detour:**
+- The driver suggests a shop you did not ask for.
+- He insists it is a "government emporium" but cannot show proof.
+- He says your chosen shop is closed, unsafe, or "not original" without evidence.
+- He refuses to take you where **you** chose until you browse his preferred showroom.
+
+**How to beat it:** choose your market or shop before the ride, ask for that exact drop, compare two or three stores, and leave if the pitch turns high-pressure. For authentic buying, look for GI/Silk Mark documentation, insist on an invoice with fibre details, and visit weaver co-op areas or wholesale pockets yourself instead of accepting a detour.
+
+Our drivers earn a flat fare and never take shop commission — you go only where you want. For the wider scam checklist, read [Varanasi scams to avoid in 2026](/en/varanasi-scams-to-avoid-2026), or book a [fixed-fare Varanasi city tour cab](/en/city/varanasi/taxi/varanasi-city-tour-cab) for a shopping loop with no showroom pressure.
+
+{{CTA:SCAM_SHIELD:en}}
+
 **Madhuban Wholesale Market – Authentic Weaver Connection**
 - **Location:** Off Godowlia, about 1 km from main ghats.
 - **Character:** Wholesale warehouse with retail counters.
@@ -173,7 +189,7 @@ Banarasi silk sarees represent over 400 years of continuous textile tradition. W
 
 - **Stack your mornings wisely:** Start with [Sunrise Yoga at Assi](/en/city/varanasi/activities/sunrise-yoga-varanasi-2026) or music at the [Mahindra Kabira Festival](/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi), then roll into shopping with an elevated mood.
 - **Block a dedicated taxi:** Use the CTA to secure a full-day cab (airport pickup → hotel → Madhuban → Thatheri Bazar) via the [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) so you can stash purchases safely between runs.
-- **Fuel the loop:** Slot a [Malaiyo tasting break](/en/destinations/varanasi/food/malaiyo-varanasi-guide) around noon to refresh sugar levels without derailing the budget.
+- **Fuel the loop:** Slot a [Malaiyo tasting break](/en/city/varanasi/food/malaiyo-varanasi-guide) around noon to refresh sugar levels without derailing the budget.
 - **Leave buffer for tailoring & shipping:** Serious buyers should finish purchases by 22 December to allow minor fall adjustments before big events like [Kashi Tamil Sangamam](/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi).
 
 ### Price Negotiation Guide
@@ -260,7 +276,7 @@ Banarasi silk sarees represent over 400 years of continuous textile tradition. W
 
 **Half-Day Shopping Itinerary:**
 - **9:30 AM:** Meet your pre-booked taxi at hotel, head straight to Madhuban Wholesale Market (cool, less crowded mornings).
-- **11:00 AM:** [Malaiyo + chai break](/en/destinations/varanasi/food/malaiyo-varanasi-guide) to reset palate and energy before the next round.
+- **11:00 AM:** [Malaiyo + chai break](/en/city/varanasi/food/malaiyo-varanasi-guide) to reset palate and energy before the next round.
 - **12:00 PM:** Visit established retail shop for comparison, quality evaluation; shortlist 2-3 pieces.
 - **1:30 PM:** Negotiate final purchase at preferred location and load bags into the cab for safekeeping.
 - **3:00 PM:** Return to hotel or airport (if flying out the same evening) – coordinate via [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide).

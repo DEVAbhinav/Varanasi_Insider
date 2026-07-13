@@ -80,7 +80,7 @@ phone: "9935474730"
 
 | शहर | दूरी | समय | किराया (सेडान) | गाइड |
 |------|------|------|----------------|------|
-| **प्रयागराज (इलाहाबाद)** | 118 km | 2.5 घंटे | ₹1,380 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance) |
+| **प्रयागराज (इलाहाबाद)** | 118 km | 2.5 घंटे | ₹3,499 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance) |
 | **मिर्जापुर (विंध्याचल)** | 75 km | 1.5 घंटे | ₹1,800 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance) |
 | **गोरखपुर** | 230 km | 4.5 घंटे | ₹5,520 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance) |
 | **पटना** | 290 km | 5-6 घंटे | ₹6,960 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-patna-distance) |

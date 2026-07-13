@@ -65,7 +65,6 @@ faqSchema:
 relatedPosts:
   - golden-triangle-varanasi-ayodhya-prayagraj-package
   - kashi-vishwanath-vip-darshan-booking
-  - hotel-booking-in-varanasi
 ---
 
 # दिव्य धाम यात्रा: वाराणसी–अयोध्या–प्रयागराज–बोधगया पैकेज (4 नगर)

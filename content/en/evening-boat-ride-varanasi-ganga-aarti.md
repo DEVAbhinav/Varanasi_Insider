@@ -20,7 +20,7 @@ relatedPosts:
   - boat-ride-varanasi
   - morning-boat-ride-varanasi-price
   - varanasi-transport-price-guide-2026
-  - varanasi-safety-guide
+  - varanasi-scams-to-avoid-2026
 faqSchema:
   - question: "What is the optimal boarding window for an evening Ganga Aarti boat?"
     answer: "Board 40–50 minutes before scheduled Aarti start (winter: ~5:55–6:05 PM; summer: ~6:25–6:35 PM) to secure central river alignment before boat congestion tightens the arc."
@@ -103,6 +103,8 @@ Private rowboat (lowest vibration) + small gimbal.
 Generally no (restricted airspace, enforcement increasing). Skip unless licensed.
 ### 8.4 Do fares change mid‑ceremony?
 Late arrivals sometimes accept inflated last‑minute shared fares—avoid boarding after lamps ignite.
+
+{{CTA:BOAT_AARTI:en}}
 
 ## 9. Cross Links
 For ceremony crowd phases & barricade timing see **Dashashwamedh Ganga Aarti Timing Guide**. For sunrise experience & timetable consult the sunrise timings page.

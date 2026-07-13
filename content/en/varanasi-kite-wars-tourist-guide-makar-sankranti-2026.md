@@ -12,7 +12,7 @@ readingTime: "10 minutes"
 featured: true
 seoTitle: "Varanasi Kite Wars Guide 2026: Tourist's Makar Sankranti Kite Fighting Experience"
 seoDescription: "Join Varanasi's legendary kite wars on Makar Sankranti 2026! Complete guide to kite fighting, rooftop access, equipment & cultural participation for tourists."
-relatedPosts: ["makar-sankranti-2026-varanasi-kite-festival-guide", "dev-deepawali-2026-varanasi-ultimate-guide", "varanasi-rooftop-experiences"]
+relatedPosts: ["makar-sankranti-2026-varanasi-kite-festival-guide", "dev-deepawali-2026-varanasi-ultimate-guide"]
 ---
 
 # Tourist's Guide to Varanasi Kite Wars on Makar Sankranti 2026: Rooftops, Battles & Celebration

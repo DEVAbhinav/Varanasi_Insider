@@ -24,8 +24,8 @@ tags:
   - pilgrimage
 template: destination
 relatedPosts:
-  - ayodhya-varanasi-tour-package
-  - varanasi-kashi-darshan
+  - varanasi-ayodhya-tour-package
+  - kashi-darshan-tempo-traveller
 faqSchema:
   - question: "How much does a taxi cost from Ayodhya to Varanasi?"
     answer: "Taxi fares from Ayodhya to Varanasi start from ₹3,550 for a 4-seater sedan (Swift Dzire). Prices vary: Ertiga ₹4,510-5,000, Innova ₹5,500-6,000. Includes fuel, tolls, and driver charges."

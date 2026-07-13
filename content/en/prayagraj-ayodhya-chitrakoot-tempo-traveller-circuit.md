@@ -36,6 +36,14 @@ A compact **3–4 day circuit** – this **prayagraj ayodhya chitrakoot circuit*
 
 > Core Strategy: Start with Sangam (predictable timing), slot Ayodhya mid, conclude contemplative Chitrakoot for gentler finish; avoid forcing Ayodhya Chitrakoot from Varanasi direct in one stretch.
 
+## Fitting Varanasi into a bigger India trip
+
+If Varanasi is your spiritual add-on to the Golden Triangle, treat it as a 2–3 day anchor, not a one-night checkbox; compare your time using [how many days in Varanasi](/en/how-many-days-in-varanasi) and the honest [is Varanasi worth visiting](/en/is-varanasi-worth-visiting) guide. Delhi–Agra–Jaipur gives monuments, while Varanasi adds living ritual, sunrise ghats, and eastern UP pilgrimage access.
+
+For the common "Amritsar or Varanasi?" add-on choice: Amritsar is cleaner to plug into a north-west loop for the Golden Temple and Wagah; Varanasi is stronger if you want Ganga Aarti, Kashi Vishwanath, and onward Ayodhya/Prayagraj/Chitrakoot. Once you choose Varanasi plus this circuit, one [tempo traveller from Varanasi](/en/tempo-traveller-varanasi) with the same driver beats stitching trains plus taxis: bags stay onboard, elderly travellers avoid platform transfers, and your Ayodhya/Prayagraj timing can shift without rebuilding the whole itinerary.
+
+{{CTA:CITY_TOUR:en}}
+
 ## Distance & Transfer Snapshot
 | Leg | Km (approx) | Notes |
 | --- | --- | --- |

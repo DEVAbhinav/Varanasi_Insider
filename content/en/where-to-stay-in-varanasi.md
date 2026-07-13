@@ -65,6 +65,26 @@ If you arrive late by train or leave early, being minutes from the station remov
 ### BHU / Lanka (south)
 Quieter and greener, good if you have work at Banaras Hindu University or want a calmer base, but it is farther from the central ghats and station.
 
+## The 3-tier "which zone is right for me?" framework
+
+Travellers who overthink Varanasi accommodation usually just need to pick one of three trade-off tiers. Match the tier to your tolerance for chaos:
+
+| Tier | Zones | You get | You give up | Best for |
+|---|---|---|---|---|
+| **1. Immersion** | Assi, Dashashwamedh, Godowlia (ghat lanes) | Walk to aarti; wake to temple bells; pure old-city magic | Car access, quiet, easy luggage — lanes are narrow and loud | Light-packing ghat-first travellers, photographers, repeat visitors |
+| **2. Periphery** | Sigra, Bhelupur, near Cantt | Wide roads, taxis, markets, hospitals; ghats 2–3 km away | The "steps-from-the-river" romance | First-timers, families, elderly parents, groups |
+| **3. Sterile-calm** | BHU/Lanka, cantonment hotels | Green, quiet, predictable, cleaner, business-grade | Distance and daily commute to the ghats | Light sleepers, business+pilgrimage trips, nervous first-timers |
+
+A simple rule: **if it's your first trip or you're travelling with parents or kids, choose Periphery** and let a fixed-fare car bridge the 2–3 km to the ghats. Save Immersion for when you know the city and are travelling light.
+
+> **International & first-time visitors** ("where to stay in Varanasi / 住宿建議") almost always do best in **Tier 2 (Periphery)** — you get the sights without being overwhelmed on day one.
+
+### A note for solo and women travellers
+
+Choose a stay on a **well-lit main road with 24×7 reception and easy taxi access** (Tier 2 or 3), not a hard-to-find ghat-lane guesthouse you'd have to reach on foot at night. Pair it with a **vetted driver for late aarti nights** so you're never negotiating in a dark gali at 10 PM. See our [solo female safety blueprint](/en/is-varanasi-safe-for-solo-female-travellers) for zones, dress code and SOS scripts.
+
+{{CTA:HOTEL:en}}
+
 ## Hotel vs homestay in Varanasi
 
 | | Hotel rooms | Whole-flat homestay |

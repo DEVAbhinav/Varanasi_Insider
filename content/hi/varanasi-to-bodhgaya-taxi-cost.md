@@ -18,7 +18,7 @@ tags:
 relatedPosts:
   - varanasi-transport-price-guide-2026
   - varanasi-day-tour-cab-charges
-  - varanasi-to-gaya
+  - gaya-to-varanasi-taxi
 keywords:
   - "वाराणसी से बोधगया टैक्सी"
   - "बोधगया टैक्सी किराया 2026"

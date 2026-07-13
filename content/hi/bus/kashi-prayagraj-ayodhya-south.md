@@ -11,7 +11,7 @@ featured: false
 seoTitle: "काशी प्रयागराज अयोध्या बस पैकेज (दक्षिण भारत) – 7–9 दिन मल्टी सर्किट"
 seoDescription: "दक्षिण भारत से काशी प्रयागराज अयोध्या बस पैकेज – 7 व 9 दिन के वैरिएंट, दर्शन समय, संगम स्नान, राम मंदिर स्लॉट रणनीति, मूल्य श्रेणियाँ, ऐड‑ऑन।"
 keywords: ["kashi prayagraj ayodhya yatra hindi","काशी प्रयागराज अयोध्या बस पैकेज","दक्षिण भारत से काशी प्रयागराज अयोध्या टूर","bangalore to kashi prayagraj ayodhya yatra","chennai se kashi prayagraj ayodhya","ram mandir darshan slot hindi","triveni sangam snan samay","kashi vishwanath sugam darshan","multi city pilgrimage bus"]
-relatedPosts: ["kashi-yatra-south-india-bus-package","dev-deepawali-2026-varanasi-ultimate-guide","nag-nathaiya-festival-varanasi-2026"]
+relatedPosts: ["kashi-yatra-south-india-bus-package","dev-deepawali-2026-varanasi-ultimate-guide"]
 tags: ["काशी यात्रा","प्रयागराज संगम","अयोध्या राम मंदिर","दक्षिण भारत प्रस्थान","मल्टी सर्किट तीर्थ","गंगा आरती","राम मंदिर दर्शन"]
 translationOf: "kashi-prayagraj-ayodhya-south"
 faqSchema:

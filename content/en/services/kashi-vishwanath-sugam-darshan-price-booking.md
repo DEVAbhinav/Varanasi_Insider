@@ -94,6 +94,20 @@ On **Mahashivratri, Shravan Mondays and other peak days**, Sugam is often change
 
 ---
 
+## Don't Get Ripped Off: The "VIP Darshan" Tout Trap
+
+This is the most common way visitors overpay at Kashi Vishwanath. Here's the honest ladder so you can spot it instantly:
+
+| What you're offered | Real cost | Is it legit? |
+|---|---|---|
+| **General darshan** | Free | ✅ Yes — just a longer queue |
+| **Official Sugam Darshan** | ~₹350 (official rate + transparent 10% help) | ✅ Yes — what we assist with |
+| **"VIP / instant / special darshan"** from a lane tout | ₹1,400 – ₹4,500 | ❌ No — a markup on something the temple doesn't sell at that price |
+
+If a "guide" in saffron intercepts you near the temple promising to *"skip everything for ₹2,500,"* walk away. The temple does **not** sell four-figure instant darshan. What's real is the **official Sugam ticket (~₹350)**, and the smartest move is to book it for a **low-queue slot** and let a vetted driver drop and collect you at the right gate — the same experience without the tout tax. For the full playbook, see **[Varanasi Scams to Avoid in 2026](/en/varanasi-scams-to-avoid-2026)**.
+
+---
+
 ## How We Help You Use Sugam Darshan Well
 
 1. **Pick the best slot** for your date, avoiding aarti-window suspensions.
@@ -110,6 +124,7 @@ On **Mahashivratri, Shravan Mondays and other peak days**, Sugam is often change
 - **Full VIP darshan hub:** [Kashi Vishwanath VIP Darshan Booking](/en/services/kashi-vishwanath-vip-darshan-booking)
 - **All aarti timings & booking:** [Kashi Vishwanath aarti timings & booking](/en/services/kashi-vishwanath-aarti-timings-booking)
 - **Rudrabhishek & special puja:** [Kashi Vishwanath Rudrabhishek & puja booking](/en/services/kashi-vishwanath-rudrabhishek-puja-booking)
+- **Sparsh Darshan & night/Shayan Aarti:** [Sparsh Darshan & Night Aarti access guide](/en/kashi-vishwanath-sparsh-darshan-night-aarti-guide)
 - **Darshan + Ganga Aarti day plan:** [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
 
 ---

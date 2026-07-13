@@ -21,7 +21,6 @@ keywords:
   - "काशी विश्वनाथ के पास वाराणसी पैकेज"
   - "घाट के पास वाराणसी स्टे पैकेज"
 relatedPosts:
-  - hotel-booking-in-varanasi
   - varanasi-tour-package-for-families
   - kashi-vishwanath-darshan-ganga-aarti-package
 faqSchema:

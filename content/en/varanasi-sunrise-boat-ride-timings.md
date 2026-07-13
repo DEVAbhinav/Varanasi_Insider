@@ -18,8 +18,8 @@ tags:
   - ganga
 relatedPosts:
   - morning-boat-ride-varanasi-price
-  - ganga-aarti-timing-varanasi
-  - varanasi-safety-guide
+  - ganga-aarti-timing-varanasi-2026
+  - varanasi-scams-to-avoid-2026
 faqSchema:
   - question: "When should I board for a sunrise boat ride in peak winter vs summer?"
     answer: "Board 35–40 min before sunrise in winter (fog slows positioning) and 25–30 min before in summer (clear visibility, faster alignment)."
@@ -90,6 +90,8 @@ If river level triggers suspension: pivot to **ground vantage** (Assi steps), ca
 **Fog is thick – delay or go?** If horizontal visibility <50 m, delay 10–15 min; colours still rewarding.  
 **Tripod on boat?** Not practical; use monopod or brace.  
 **Solo traveller safety before 5 AM?** High pedestrian flow Oct–Mar; in off months, pre‑arrange drop & walk lit lanes only.  
+
+{{CTA:BOAT_AARTI:en}}
 
 ## 9. Cross Links
 Need fare depth? Open the Morning Price Guide. Want evening ritual? Jump to Evening Boat Ride guide.

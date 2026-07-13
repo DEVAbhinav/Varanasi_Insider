@@ -335,6 +335,16 @@ As a solo female traveller, you will attract more attention in Varanasi. These r
 11. **Be Cautious with Bhang Lassi:** This cannabis-infused drink is potent. Do not try it alone. Only consume it in a reputable, government-approved shop with people you trust.   
 12. **Create a Personal Bubble:** On crowded public transport or in dense market areas, be aware of your personal space. Keeping your bag in front of you can create a small barrier.
 
+### Solo Female Reality Check: After 8 PM, Holi & Crowd Hotspots
+
+The real threat for many solo women in Varanasi is not violent crime; it is exhaustion from constant staring, pushing, bargaining and hyper-vigilance. The old-city lanes around the ghats are car-free, confusing and magical by day, but after about 8 PM they empty out fast and become disorienting. If you are coming back from Aarti, stick to lit main roads, walk with your hotel group, or use a pre-booked known driver rather than hailing a random late auto.
+
+Godowlia and Dashashwamedh are the worst pressure points for staring, shoulder-pushing and "selfie" requests, especially during Aarti dispersal. Holi needs a separate warning: predatory "bura na mano" behaviour toward women spikes in crowded lanes and ghats, so solo female travellers should avoid being out in public crowds that day. Modest layers and a dupatta reduce unwanted attention, but the biggest stress-reliever is outsourcing the moving-around part to one trusted driver who knows your hotel, pickup points and return times.
+
+For a deeper solo-woman baseline, read [Is Varanasi safe for solo female travellers?](/en/is-varanasi-safe-for-solo-female-travellers), compare the [Pink Taxi Varanasi](/pink-taxi-varanasi) option, or book a [safe taxi for women in Varanasi](/en/services/varanasi-safest-taxi-for-women).
+
+{{CTA:WOMEN_TAXI:en}}
+
 ### How to Report a Crime in Varanasi (Online FIR)
 An FIR is a "First Information Report," the official document filed with the police when a crime is reported. For serious crimes, you must go to the nearest police station in person. However, for certain non-emergency incidents (like a lost passport or phone), you can file a report online.
 

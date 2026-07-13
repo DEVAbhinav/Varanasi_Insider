@@ -104,6 +104,19 @@ When visiting religious sites like the Kashi Vishwanath Temple or the ghats, it'
 - **Remove Your Shoes:** You will need to remove your shoes before entering most temples.
 - **No Leather:** Some temples prohibit leather items, so be mindful of your belts and bags.
 
+### Temple Dress Code (Kashi Vishwanath & others)
+
+For Kashi Vishwanath and most major temples, the safe rule is simple: covered shoulders, covered knees, and clothing you can stand or walk in comfortably through crowds.
+
+- **Generally acceptable:** Kurta/leggings, salwar-kameez, saree, long skirt, loose trousers, jeans with a modest top, or a shirt/T-shirt with full pants.
+- **Avoid for temple entry:** Sleeveless tops, shorts, very short dresses, transparent layers, or clothing with loud/irreverent prints.
+- **Leather caution:** Some temples ask visitors to remove leather belts, wallets, bags, or watch straps before entry. Travel light and keep valuables minimal.
+- **For women:** Modest layers are practical in Varanasi's busy lanes, not a judgement. A dupatta or scarf is versatile for covering shoulders/head and helps reduce unwanted attention in dense temple queues.
+
+For current temple-specific rules, check our [Kashi Vishwanath temple dress code guide](/en/services/kashi-vishwanath-temple-dress-code-rules). Solo women can also read the practical safety notes in [Is Varanasi safe for solo female travellers?](/en/is-varanasi-safe-for-solo-female-travellers).
+
+{{CTA:DARSHAN:en}}
+
 By following these guidelines, you can ensure a comfortable, respectful, and memorable trip to the incredible city of Varanasi.
 
 ---

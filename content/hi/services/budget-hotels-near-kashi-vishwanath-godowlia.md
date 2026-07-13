@@ -54,7 +54,6 @@ relatedPosts:
   - varanasi-dormitory-budget-homestay-booking
   - dharamshala-near-kashi-vishwanath-temple-varanasi
   - hotels-near-varanasi-railway-station-cantt
-  - hotel-booking-in-varanasi
   - kashi-vishwanath-vip-darshan-booking
 ---
 
