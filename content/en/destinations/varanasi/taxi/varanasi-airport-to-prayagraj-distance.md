@@ -27,7 +27,7 @@ faqSchema:
   - question: "How long does a taxi take from VNS to Prayagraj?"
     answer: "Most daytime runs take 2–3 hours. Add 30 minutes in winter fog or during Kumbh/Magh Mela traffic when police diversions are active."
   - question: "What is the taxi fare from Varanasi Airport to Prayagraj?"
-    answer: "Hatchbacks cost ₹3,499 one-way, sedans ₹1,500–₹2,000, and Innovas ₹2,600–₹3,500. Round trips start around ₹2,760–₹3,000 for small cars."
+    answer: "A sedan costs ₹3,499 one-way, premium sedans ₹3,999, and SUV/Innovas ₹4,499. Same-day round trips start around ₹5,499 for a sedan and ₹6,999 for an SUV, both covering driver allowance and standard tolls."
   - question: "Is one-way taxi available from Varanasi Airport to Prayagraj?"
     answer: "Yes, one-way drops are available with no forced return. You only pay extra per km if you extend the route beyond your agreed itinerary."
   - question: "Can I cover Prayagraj sightseeing on the same day as arrival?"
@@ -45,7 +45,7 @@ location:
 | Distance | 118–125 km |
 | Time | 2–3 hours |
 | Best route | Varanasi Airport → NH-19 → Handia → Naini/Allahabad City |
-| Typical fare | Hatchback ₹3,499 · Sedan ₹1,500–₹2,000 · Innova ₹2,600–₹3,500 |
+| Typical fare | Sedan ₹3,499 · Premium sedan ₹3,999 · SUV/Innova ₹4,499 · Tempo ₹5,800 |
 
 ## Book your Varanasi Airport to Prayagraj taxi
 - Call dispatch: **[99354 74730](tel:+919935474730)**
@@ -67,9 +67,9 @@ Start with a single number: **₹3,499** covers the first **118 km slab** in a s
 
 | Vehicle | Km slab included | One-way fare | Round-trip (same day) | Notes |
 | --- | --- | --- | --- | --- |
-| **Sedan (Dzire/Etios)** | 118 km | ₹3,499 | ₹2,650 (240 km cap) | Best for 3 pax + 2 suitcases |
-| **Premium sedan** | 118 km | ₹1,650 | ₹3,050 | Adds airport meet & greet and snacks |
-| **SUV/Innova** | 118 km | ₹2,650 | ₹4,650 | Families, Maha Kumbh pilgrims with luggage |
+| **Sedan (Dzire/Etios)** | 118 km | ₹3,499 | ₹5,499 (240 km cap) | Best for 3 pax + 2 suitcases |
+| **Premium sedan** | 118 km | ₹3,999 | ₹5,999 | Adds airport meet & greet and snacks |
+| **SUV/Innova** | 118 km | ₹4,499 | ₹6,999 | Families, Maha Kumbh pilgrims with luggage |
 | **Tempo Traveller (12/17 seater)** | 140 km | ₹5,800 | ₹8,900 | Pilgrim groups, includes parking marshal |
 
 Extra km rates: **₹12/km (sedan)**, **₹16/km (SUV)**, **₹23/km (tempo)** once you cross the slab. Share your detours (e.g., **Bharadwaj Ashram**, **Akbar Fort**) in advance so we quote accurately.
@@ -151,7 +151,7 @@ The VNS terminal to Sangam/Civil Lines stretch is 118–125 km depending on your
 Daytime runs average 2–3 hours. Add 30–40 minutes in winter fog or during Maha Kumbh barricades when police route cars via Arail bridge.
 
 ### What is the taxi fare from VNS to Prayagraj?
-Sedans start at ₹3,499 for the 118 km slab, SUVs at ₹2,650, and tempos at ₹5,800. Extra km applies only if you push beyond the agreed itinerary.
+Sedans start at ₹3,499 for the 118 km slab, SUVs at ₹4,499, and tempos at ₹5,800. Extra km applies only if you push beyond the agreed itinerary.
 
 ### Is one-way taxi cheaper than round trip?
 Yes. Pay ₹3,499 for a one-way sedan when you fly into VNS and continue onward. Book a round trip only if you plan to return to Varanasi within 24 hours so the vehicle cost amortises over both legs.
