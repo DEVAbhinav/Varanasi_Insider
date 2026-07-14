@@ -45,9 +45,9 @@ This is a page I write with care, because the families who need it are often car
 
 > **A note on expectations:** these are faith-based remedial rites performed as scriptures prescribe. We facilitate a genuine, correctly-performed ceremony with a verified purohit — we do not make guarantees about outcomes, and we will never use fear or "black magic" scare tactics to upsell you.
 
-## First, You Can Set the Fear Down
+## First, Remember: 'Mochan' Means Release
 
-If you've arrived here after a sudden loss, or a run of misfortunes someone has told you is "Pitra Dosh," you may be carrying a heavy mix of grief and fear. Please take a breath. The families we help usually walk in with the same anxieties:
+The name of this place is a promise. *Pisach Mochan* means "liberation from tormented spirits" — families arrive here heavy and leave lighter, because the whole purpose of these rites is peace: for the departed, and for the living who have been carrying the worry. If you've come after a sudden loss, or a run of misfortunes someone has called "Pitra Dosh," hold on to that. The remedy exists, it is prescribed by scripture, and it works through faith — never through fear. Take a breath. The families we help usually walk in with the same anxieties:
 
 - *"Someone told us the household is 'cursed' — is that being used to frighten us?"*
 - *"We don't understand these esoteric rites. What if it's done wrong?"*

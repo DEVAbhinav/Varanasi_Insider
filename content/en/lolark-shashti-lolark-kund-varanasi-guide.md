@@ -43,9 +43,11 @@ faqSchema:
 
 Lolark Shashti is one of Kashi's most moving days. For couples who have waited a long time for a child, it carries enormous emotional weight — and the reality on the ground (a deep, packed stepwell in peak monsoon) can be overwhelming. This guide explains the ritual with respect, and how to experience it calmly.
 
-## First, Take a Breath — You're Not Doing This Alone
+## Come Carrying Hope — We'll Carry Everything Else
 
-If the thought of the day is already making your chest tighten, that's completely normal. Almost every couple who comes to us is carrying the same quiet worries:
+For centuries, couples have walked down to Lolark Kund at dawn holding exactly the hope you hold now. There's something quietly beautiful in that: you're joining an unbroken line of faith stretching back nearly a thousand years, on the one day set aside for precisely this longing. Let *that* be the feeling you arrive with — hope, and a little wonder — not dread.
+
+The practical worries are real too, and almost every couple names the same ones:
 
 - *"What if we can't even get down the steps in that crowd?"*
 - *"We don't know the exact ritual — what if we do it wrong?"*

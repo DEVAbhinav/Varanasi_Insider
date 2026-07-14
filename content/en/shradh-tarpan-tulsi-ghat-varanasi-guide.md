@@ -43,9 +43,11 @@ faqSchema:
 
 I've coordinated Pitru Paksha rites for families in Kashi for years, and the pattern is always the same: the ritual itself is deeply moving, but the *logistics* — finding an honest purohit, the right samagri, and a spot that isn't swallowed by tourist crowds — are what exhaust people. This guide fixes exactly that.
 
-## First, Set Down the Worry
+## Performing Shradh in Kashi Is an Act of Love
 
-You've come to Kashi carrying grief, and often a long, tiring journey on top of it. The last thing you should be doing is haggling in a strange city. The worries we hear most:
+Before anything practical, hold on to this: what you've come to do is one of the most loving, meaningful things a person can offer. Kashi is the *moksha-kshetra* — Hindus believe Shradh and Tarpan performed here carry a grace available almost nowhere else, gently releasing ancestors toward peace. You are not "getting through a chore." You are keeping a promise to the people who made you, in the one city where that promise means the most.
+
+The only thing that dulls that feeling is worry — and it's worry you can set down. The concerns we hear most:
 
 - *"How do I find a purohit I can actually trust — not someone who'll pressure me for money mid-ritual?"*
 - *"Where do I even buy the samagri, and what if I get the wrong things?"*
