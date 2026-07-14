@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TaxiService",
+  "name": "Varanasi Airport to NaMo Ghat Taxi",
+  "serviceType": "Airport transfer",
+  "url": "https://www.kashitaxi.in/en/varanasi-airport-to-namo-ghat-taxi",
+  "description": "24 km Varanasi airport transfer to NaMo Ghat with 35–50 minute drive time, promenade access, and flash ₹690 sedan drop.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.kashitaxi.in/#org",
+    "name": "Varanasi Taxi - Vinayak Travels",
+    "url": "https://www.kashitaxi.in/",
+    "telephone": "+919935474730"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "NaMo Ghat, Varanasi"
+  },
+  "serviceArea": {
+    "@type": "City",
+    "name": "Varanasi"
+  },
+  "availableChannel": {
+    "@type": "ServiceChannel",
+    "serviceUrl": "https://wa.me/919935474730?text=Airport%20pickup%20for%20NaMo%20Ghat",
+    "availableLanguage": [
+      "en",
+      "hi"
+    ],
+    "servicePhone": {
+      "@type": "ContactPoint",
+      "telephone": "+919935474730",
+      "contactType": "reservations"
+    }
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "INR",
+    "lowPrice": 690,
+    "highPrice": 2080,
+    "offerCount": 3,
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Flash Weekday Sedan Drop",
+        "priceCurrency": "INR",
+        "price": 690,
+        "availability": "https://schema.org/InStock",
+        "availabilityEnds": "2026-12-31",
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "NaMo Ghat"
+        },
+        "description": "₹690 sedan drop when confirmed within 2 hours of pickup; weekday, 15-minute standby at NaMo promenade parking."
+      },
+      {
+        "@type": "Offer",
+        "name": "Standard Sedan Drop",
+        "priceCurrency": "INR",
+        "price": 780,
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "NaMo Ghat"
+        },
+        "description": "₹780–₹900 sedan transfer with promenade escort support."
+      },
+      {
+        "@type": "Offer",
+        "name": "Tempo Traveller Drop",
+        "priceCurrency": "INR",
+        "price": 2080,
+        "eligibleRegion": {
+          "@type": "Place",
+          "name": "NaMo Ghat"
+        },
+        "description": "Tempo Traveller group transfer with driver allowance and reserved parking bay."
+      }
+    ]
+  },
+  "timeRequired": "PT35M",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "DriveTimeHigh",
+      "value": "PT50M"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Distance",
+      "value": "24 km"
+    }
+  ],
+  "knowsAbout": [
+    "NaMo ghat light show",
+    "Ravidas gate approach",
+    "Varanasi airport gate 3 pickups"
+  ]
+}

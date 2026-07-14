@@ -206,7 +206,7 @@ Keep the momentum of your sunrise practice by stacking short pilgrimages with tr
 
 - **Buddhist add-on:** Charter the [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) for a 6-hour Dhamek Stupa + museum loop right after class.
 - **Gaya/Bodh Gaya rituals:** Use the [Varanasi to Gaya & Bodh Gaya taxi plan](/en/varanasi-to-gaya-bodh-gaya-tour-package) when extending your retreat for Pind Daan or meditation under the Bodhi Tree.
-- **Full-day pilgrimages:** Road-trip north via the [Varanasi to Ayodhya taxi guide](/en/varanasi-to-ayodhya) or west on the [Varanasi to Prayagraj tour plan](/en/varanasi-to-prayagraj) to cover Sapta Puri circuits while your body is limber from daily practice.
+- **Full-day pilgrimages:** Road-trip north via the [Varanasi to Ayodhya taxi guide](/en/varanasi-to-ayodhya-taxi) or west on the [Varanasi to Prayagraj tour plan](/en/varanasi-to-prayagraj-taxi) to cover Sapta Puri circuits while your body is limber from daily practice.
 
 ### The Deeper Benefits Beyond Physical
 

@@ -44,18 +44,18 @@ Airport transfers to Varanasi's most sacred sites. All routes include ghat-acces
 
 | Destination | Distance | Time | Fare | Guide |
 |-------------|----------|------|------|-------|
-| **Kashi Vishwanath Temple** | 25 km | 40-55 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance) |
-| **Dashashwamedh Ghat** | 25 km | 40-55 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance) |
-| **Assi Ghat** | 27 km | 40-60 min | ₹800 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance) |
-| **Manikarnika Ghat** | 26 km | 45-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-distance) |
-| **Sarnath (Buddhist Site)** | 32 km | 50-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance) |
-| **NaMo Ghat** | 24 km | 35-45 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance) |
-| **Kedar Ghat** | 26 km | 45-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-distance) |
-| **Tulsi Ghat** | 27 km | 45-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-distance) |
-| **Panchganga Ghat** | 26 km | 45-55 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-distance) |
-| **Scindia Ghat** | 26 km | 45-55 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-distance) |
-| **Raj Ghat** | 24 km | 40-50 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-raj-ghat-distance) |
-| **Ramnagar Fort** | 35 km | 50-70 min | ₹850 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-distance) |
+| **Kashi Vishwanath Temple** | 25 km | 40-55 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi) |
+| **Dashashwamedh Ghat** | 25 km | 40-55 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-taxi) |
+| **Assi Ghat** | 27 km | 40-60 min | ₹800 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi) |
+| **Manikarnika Ghat** | 26 km | 45-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-taxi) |
+| **Sarnath (Buddhist Site)** | 32 km | 50-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi) |
+| **NaMo Ghat** | 24 km | 35-45 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-taxi) |
+| **Kedar Ghat** | 26 km | 45-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-taxi) |
+| **Tulsi Ghat** | 27 km | 45-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi) |
+| **Panchganga Ghat** | 26 km | 45-55 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-taxi) |
+| **Scindia Ghat** | 26 km | 45-55 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-taxi) |
+| **Raj Ghat** | 24 km | 40-50 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-raj-ghat-taxi) |
+| **Ramnagar Fort** | 35 km | 50-70 min | ₹850 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-taxi) |
 
 ---
 
@@ -65,11 +65,11 @@ Never miss your train! All station transfers include platform drop and luggage a
 
 | Station | Distance | Time | Fare | Guide |
 |---------|----------|------|------|-------|
-| **Varanasi Junction (Cantt/BSB)** | 22 km | 35-50 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance) |
-| **Varanasi City Station (BCY)** | 21 km | 35-45 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance) |
-| **Banaras Railway Station** | 27 km | 45-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance) |
-| **DDU Junction (Mughalsarai)** | 35 km | 50-65 min | ₹1,005 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance) |
-| **Mughalsarai** | 35 km | 50-65 min | ₹1,200 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance) |
+| **Varanasi Junction (Cantt/BSB)** | 22 km | 35-50 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) |
+| **Varanasi City Station (BCY)** | 21 km | 35-45 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-taxi) |
+| **Banaras Railway Station** | 27 km | 45-60 min | ₹690 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi) |
+| **DDU Junction (Mughalsarai)** | 35 km | 50-65 min | ₹1,005 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi) |
+| **Mughalsarai** | 35 km | 50-65 min | ₹1,200 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-taxi) |
 
 ---
 
@@ -89,16 +89,16 @@ Long-distance transfers from Varanasi Airport. All rates include tolls and drive
 
 | City | Distance | Time | Fare (Sedan) | Guide |
 |------|----------|------|--------------|-------|
-| **Prayagraj (Allahabad)** | 118 km | 2.5 hrs | ₹3,499 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance) |
-| **Mirzapur (Vindhyachal)** | 75 km | 1.5 hrs | ₹1,800 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-distance) |
-| **Gorakhpur** | 230 km | 4.5 hrs | ₹5,520 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-gorakhpur-distance) |
-| **Patna** | 290 km | 5-6 hrs | ₹6,960 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-patna-distance) |
-| **Jaunpur** | 65 km | 1.5 hrs | ₹1,560 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-jaunpur-distance) |
-| **Ghazipur** | 85 km | 2 hrs | ₹2,040 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-ghazipur-distance) |
-| **Ballia** | 150 km | 3-4 hrs | ₹2,500 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-ballia-distance) |
-| **Mau** | 95 km | 2 hrs | ₹2,280 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-mau-distance) |
-| **Deoria** | 130 km | 2.5 hrs | ₹3,120 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-deoria-distance) |
-| **Jalalpur** | 45 km | 1 hr | ₹1,080 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-jalalpur-distance) |
+| **Prayagraj (Allahabad)** | 118 km | 2.5 hrs | ₹3,499 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-taxi) |
+| **Mirzapur (Vindhyachal)** | 75 km | 1.5 hrs | ₹1,800 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi) |
+| **Gorakhpur** | 230 km | 4.5 hrs | ₹5,520 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-gorakhpur-taxi) |
+| **Patna** | 290 km | 5-6 hrs | ₹6,960 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-patna-taxi) |
+| **Jaunpur** | 65 km | 1.5 hrs | ₹1,560 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-jaunpur-taxi) |
+| **Ghazipur** | 85 km | 2 hrs | ₹2,040 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-ghazipur-taxi) |
+| **Ballia** | 150 km | 3-4 hrs | ₹2,500 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-ballia-taxi) |
+| **Mau** | 95 km | 2 hrs | ₹2,280 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-mau-taxi) |
+| **Deoria** | 130 km | 2.5 hrs | ₹3,120 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-deoria-taxi) |
+| **Jalalpur** | 45 km | 1 hr | ₹1,080 | [View Route →](/en/city/varanasi/taxi/varanasi-airport-to-jalalpur-taxi) |
 
 ---
 

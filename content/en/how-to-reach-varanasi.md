@@ -495,7 +495,7 @@ Popular pilgrim combo — Ram Janmabhoomi then Kashi Vishwanath.
 
 **Best pick:** Hire a cab. Many families combine Ayodhya + Prayagraj + Varanasi in one circuit.
 
-👉 Route guide: [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) | [Temple Circuit Tempo Traveller](/en/varanasi-to-ram-janmabhoomi-tempo-traveller)
+👉 Route guide: [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi) | [Temple Circuit Tempo Traveller](/en/varanasi-to-ram-janmabhoomi-tempo-traveller)
 
 ---
 

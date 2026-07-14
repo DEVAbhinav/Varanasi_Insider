@@ -344,8 +344,8 @@ A: For local Varanasi festival transport, there are typically no tolls. For outs
 - [Varanasi Transport Price Guide](/en/varanasi-transport-price-guide-2026) - Complete pricing information
 
 ### Popular Spiritual Routes
-- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) - Ram Janmabhoomi pilgrimage extension
-- [Varanasi to Prayagraj Tour](/en/varanasi-to-prayagraj) - Triveni Sangam spiritual journey
+- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi) - Ram Janmabhoomi pilgrimage extension
+- [Varanasi to Prayagraj Tour](/en/varanasi-to-prayagraj-taxi) - Triveni Sangam spiritual journey
 
 ---
 

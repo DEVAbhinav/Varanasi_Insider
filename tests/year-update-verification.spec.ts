@@ -44,7 +44,7 @@ const CRITICAL_PAGES = [
   { url: '/en/varanasi-airport-taxi-guide', name: 'Airport Taxi Guide' },
   { url: '/en/guide-to-ghats-of-varanasi', name: 'Ghats Guide' },
   { url: '/en/best-time-to-visit-varanasi', name: 'Best Time to Visit' },
-  { url: '/en/varanasi-to-ayodhya', name: 'Varanasi to Ayodhya' },
+  { url: '/en/varanasi-to-ayodhya-taxi', name: 'Varanasi to Ayodhya' },
   { url: '/en/outstation-cabs-from-varanasi', name: 'Outstation Cabs' },
   { url: '/en/services/varanasi-full-day-city-tour-winter-2026', name: 'City Tour Winter 2026' },
   // Airport Taxi Winter 2026 service page does not exist (old page was redirected to /en/varanasi-airport-taxi-price-guide)
@@ -60,7 +60,7 @@ const CRITICAL_PAGES = [
   // Hindi – evergreen
   { url: '/hi/about', name: 'HI About' },
   { url: '/hi/tempo-traveller-varanasi', name: 'HI Tempo Traveller' },
-  { url: '/hi/varanasi-to-ayodhya', name: 'HI Varanasi to Ayodhya' },
+  { url: '/hi/varanasi-to-ayodhya-taxi', name: 'HI Varanasi to Ayodhya' },
   { url: '/hi/varanasi-airport-taxi-guide', name: 'HI Airport Taxi Guide' },
   { url: '/hi/outstation-cabs-from-varanasi', name: 'HI Outstation Cabs' },
   { url: '/hi/morning-boat-ride-varanasi-price', name: 'HI Morning Boat Ride' },

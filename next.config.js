@@ -155,6 +155,36 @@ function buildDestinationRootRedirects() {
   return redirects;
 }
 
+// Distance → Taxi slug rename (commercial-intent migration).
+// Old `varanasi-airport-to-<place>-distance` URLs 301 → new `-taxi` URLs.
+// Slugs are derived from the actual `-taxi.md` files on disk (the routing
+// source of truth) so this list can never drift from the live sitemap.
+// Covers deep (/city/varanasi/taxi/) and flat (/<lang>/) forms per language.
+// NOTE: 'ddu-junction' is intentionally excluded here — it is consolidated to
+// 'mughalsarai' via explicit rules above (both -distance and -taxi variants).
+function buildDistanceToTaxiRedirects() {
+  const langs = ['en', 'hi'];
+  const redirects = [];
+
+  langs.forEach((lang) => {
+    safeReadDir(path.join(CONTENT_ROOT, lang, 'destinations', 'varanasi', 'taxi'))
+      .filter((entry) =>
+        entry.isFile() &&
+        /^varanasi-airport-to-.+-taxi\.md$/i.test(entry.name) &&
+        entry.name.toLowerCase() !== 'varanasi-airport-to-ddu-junction-taxi.md'
+      )
+      .forEach((entry) => {
+        const newSlug = entry.name.replace(/\.md$/i, '');
+        const oldSlug = newSlug.replace(/-taxi$/i, '-distance');
+        const newDeep = `/${lang}/city/varanasi/taxi/${newSlug}`;
+        redirects.push({ source: `/${lang}/city/varanasi/taxi/${oldSlug}`, destination: newDeep, permanent: true });
+        redirects.push({ source: `/${lang}/${oldSlug}`, destination: newDeep, permanent: true });
+      });
+  });
+
+  return redirects;
+}
+
 function dedupeRedirects(redirects) {
   const seen = new Set();
   return redirects.filter((redirect) => {
@@ -389,7 +419,7 @@ const nextConfig = {
       },
       {
         source: '/blogs/Prayagraj',
-        destination: '/en/varanasi-to-prayagraj',
+        destination: '/en/varanasi-to-prayagraj-taxi',
         permanent: true,
       },
 
@@ -433,7 +463,7 @@ const nextConfig = {
       },
       {
         source: '/en/package/prayagraj-day-tour',
-        destination: '/en/varanasi-to-prayagraj',
+        destination: '/en/varanasi-to-prayagraj-taxi',
         permanent: true,
       },
       {
@@ -814,7 +844,10 @@ const nextConfig = {
       { source: '/en/ayodhya-1n2d-tour', destination: '/en/city/ayodhya/tour-packages/ayodhya-2-day-tour', permanent: true },
 
       // DDU Junction → Mughalsarai (same station; "mughalsarai" gets 3x more GSC impressions)
-      { source: '/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance', destination: '/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance', permanent: true },
+      { source: '/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance', destination: '/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-taxi', permanent: true },
+      { source: '/en/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi', destination: '/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-taxi', permanent: true },
+      { source: '/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-distance', destination: '/hi/city/varanasi/taxi/varanasi-airport-transfer-directory', permanent: true },
+      { source: '/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi', destination: '/hi/city/varanasi/taxi/varanasi-airport-transfer-directory', permanent: true },
 
       // Bodh Gaya: service page (532 imp) → taxi-cost article (17,415 imp); content merged, higher prices kept
       { source: '/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi', destination: '/en/varanasi-to-bodhgaya-taxi-cost', permanent: true },
@@ -825,8 +858,20 @@ const nextConfig = {
       // Flat URLs → final canonical (skip 2-hop chain through buildDestinationRootRedirects + cannibalization 301)
       { source: '/en/varanasi-to-allahabad-taxi', destination: '/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi', permanent: true },
       { source: '/en/varanasi-to-bodhgaya-taxi', destination: '/en/varanasi-to-bodhgaya-taxi-cost', permanent: true },
-      { source: '/en/varanasi-airport-to-ddu-junction-distance', destination: '/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-distance', permanent: true },
+      { source: '/en/varanasi-airport-to-ddu-junction-distance', destination: '/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-taxi', permanent: true },
+      { source: '/en/varanasi-airport-to-ddu-junction-taxi', destination: '/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-taxi', permanent: true },
 
+      // Intercity route pages: flat slugs migrated to `-taxi` (commercial intent).
+      // Old bare-route URLs 301 → new `-taxi` URLs. Both langs where the page exists.
+      { source: '/en/varanasi-to-ayodhya', destination: '/en/varanasi-to-ayodhya-taxi', permanent: true },
+      { source: '/hi/varanasi-to-ayodhya', destination: '/hi/varanasi-to-ayodhya-taxi', permanent: true },
+      { source: '/en/varanasi-to-prayagraj', destination: '/en/varanasi-to-prayagraj-taxi', permanent: true },
+      { source: '/hi/varanasi-to-prayagraj', destination: '/hi/varanasi-to-prayagraj-taxi', permanent: true },
+      { source: '/en/varanasi-to-vindhyachal', destination: '/en/varanasi-to-vindhyachal-taxi', permanent: true },
+      { source: '/hi/varanasi-to-vindhyachal', destination: '/hi/varanasi-to-vindhyachal-taxi', permanent: true },
+      { source: '/en/assi-ghat-to-airport-distance', destination: '/en/assi-ghat-to-airport-taxi', permanent: true },
+
+      ...buildDistanceToTaxiRedirects(),
       ...buildRootCanonicalRedirects(),
       ...buildScopedRootRedirects(),
       ...buildDestinationRootRedirects(),

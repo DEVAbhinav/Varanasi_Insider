@@ -65,6 +65,8 @@ faqSchema:
 
 > **TL;DR:** Sarnath temple complex, 10 km from Varanasi, houses the iconic Dhamek Stupa (43.6m high) and original Ashoka Pillar Sarnath location where Buddha gave his first sermon in 528 BCE. Sarnath timing: Site 6 AM-6 PM daily; Museum 9 AM-5 PM (closed Fridays). Entry: ₹20-250 combo ticket. Must-see Sarnath attractions: Ashok Stambh with Lion Capital (India's emblem), Sarnath Buddhist temples (Mulagandha Kuti Vihar), Archaeological Museum. Taxi from Varanasi: ₹300-500 (30 mins). Best time for Sarnath visit: October-March.
 
+> 🚕 **Skip the auto haggle:** Book a fixed-fare **[Varanasi to Sarnath taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi)** (₹300–500, ~30 min, waits 3–4 hrs) or arrive direct with the **[Varanasi Airport to Sarnath cab](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi)**. Reserve on WhatsApp: **[wa.me/919935474730](https://wa.me/919935474730?text=Sarnath%20taxi%20booking)** · Call **[99354 74730](tel:+919935474730)**.
+
 Sarnath stands as one of Buddhism's four most sacred pilgrimage sites, alongside Lumbini (Buddha's birthplace), Bodh Gaya (enlightenment site), and Kushinagar (Mahaparinirvana site). Located just 10-13 kilometers from Varanasi, this ancient **Sarnath temple** complex marks where Gautama Buddha delivered his momentous first sermon—the **Dhammacakkappavattana** or "Turning the Wheel of Dharma"—setting in motion one of the world's great spiritual traditions over 2,500 years ago.
 
 This Sarnath visit guide covers all the key attractions — from the magnificent Dhamek Stupa and historic **original Sarnath pillar** (Ashoka Pillar) to **Sarnath Buddhist temples**, museum treasures, practical **Sarnath timing**, and transport options from Varanasi.

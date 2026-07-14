@@ -259,10 +259,10 @@ A: This year, **Dussehra coincides with Gandhi Jayanti** on October 2nd, creatin
 - [Festival Transport Booking](/en/book-taxi-varanasi-ramlila-dussehra) - Complete booking guide
 - [Tempo Traveller for Festival Groups](/en/tempo-traveller-group-booking-dussehra) - Group travel solutions
 - [9 vs 12 vs 17 Seater Comparison](/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi) - Choose right vehicle size
-- [Varanasi to Prayagraj Tour](/en/varanasi-to-prayagraj) - Extend your spiritual journey
+- [Varanasi to Prayagraj Tour](/en/varanasi-to-prayagraj-taxi) - Extend your spiritual journey
 
 ### Popular Festival Routes
-- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) - Ram Janmabhoomi pilgrimage
+- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi) - Ram Janmabhoomi pilgrimage
 - [Complete Tempo Traveller Guide](/en/tempo-traveller-varanasi) - All vehicle options
 
 ---

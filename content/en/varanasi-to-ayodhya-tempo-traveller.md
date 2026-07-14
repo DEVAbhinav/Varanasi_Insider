@@ -32,7 +32,7 @@ relatedPosts:
   - tempo-traveller-rates-varanasi
   - varanasi-group-tour-package
   - ayodhya-varanasi-prayagraj-group-tour-package
-  - varanasi-to-ayodhya
+  - varanasi-to-ayodhya-taxi
 faqSchema:
   - question: "What is the Varanasi to Ayodhya tempo traveller price list?"
     answer: "For a same-day round trip from Varanasi, our 12 seater tempo traveller starts from ₹14,500 and the 17 seater starts from ₹15,500. These fares include vehicle, driver, fuel, tolls, parking and state taxes."
@@ -50,7 +50,7 @@ faqSchema:
 
 If your group is planning Ram Mandir darshan from Varanasi and you need the **group-vehicle price first**, this is the right page. It is built for families, senior pilgrims, temple committees, and friend groups who want one vehicle, one fare, and one clear Ayodhya schedule.
 
-If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare instead, use our [Varanasi to Ayodhya route and taxi guide](/en/varanasi-to-ayodhya).
+If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare instead, use our [Varanasi to Ayodhya route and taxi guide](/en/varanasi-to-ayodhya-taxi).
 
 If your group needs **hotel-inclusive pilgrimage planning** instead of just vehicle pricing, use:
 
@@ -105,7 +105,7 @@ You may prefer a different guide if:
 - you are comparing train vs taxi
 - you want a broad route guide first
 
-For those cases, use [Varanasi to Ayodhya distance, taxi fare and travel options](/en/varanasi-to-ayodhya).
+For those cases, use [Varanasi to Ayodhya distance, taxi fare and travel options](/en/varanasi-to-ayodhya-taxi).
 
 ## Ayodhya Day Trip Timing From Varanasi
 
@@ -154,7 +154,7 @@ Book a taxi instead when:
 - you want a one-way drop more than a group pilgrimage
 - you are comparing train vs road first
 
-For that use case, go to [Varanasi to Ayodhya route and taxi fare guide](/en/varanasi-to-ayodhya).
+For that use case, go to [Varanasi to Ayodhya route and taxi fare guide](/en/varanasi-to-ayodhya-taxi).
 
 ## FAQ: Varanasi To Ayodhya Tempo Traveller
 
@@ -178,11 +178,11 @@ Yes, but one-way or overnight plans should be quoted separately because the same
 
 - Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: [Book Ayodhya tempo traveller](https://wa.me/919935474730?text=Ayodhya%20tempo%20traveller%20price%20list)
-- Need route-only fare first? See [Varanasi to Ayodhya taxi and travel guide](/en/varanasi-to-ayodhya)
+- Need route-only fare first? See [Varanasi to Ayodhya taxi and travel guide](/en/varanasi-to-ayodhya-taxi)
 
 ## Related Pages
 
-- [Varanasi to Ayodhya distance, taxi fare and travel options](/en/varanasi-to-ayodhya)
+- [Varanasi to Ayodhya distance, taxi fare and travel options](/en/varanasi-to-ayodhya-taxi)
 - [Tempo Traveller Rates in Varanasi](/en/tempo-traveller-rates-varanasi)
 - [Pilgrimage and Yatra Tours](/en/pilgrimage-yatra-tours-tempo-traveller-varanasi)
 - [Ayodhya Ram Mandir darshan & cab guide](https://bharat-tourism.com/en/city/ayodhya/pillar/ayodhya-travel-guide-ram-mandir-darshan-cab) — temple timings, security tips & local transport

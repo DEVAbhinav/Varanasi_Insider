@@ -60,7 +60,7 @@ relatedPosts:
   - varanasi-ayodhya-tour-package
   - golden-triangle-varanasi-ayodhya-prayagraj-package
   - divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package
-  - varanasi-to-ayodhya
+  - varanasi-to-ayodhya-taxi
   - varanasi-prayagraj-tour-package
 ---
 
@@ -105,7 +105,7 @@ Want to visit the **Ram Mandir at Ayodhya** from Varanasi without juggling cabs,
 - **2-city (transport + stay):** [Varanasi–Ayodhya tour package](/en/services/varanasi-ayodhya-tour-package)
 - **3-city best value:** [Golden Triangle: Varanasi–Ayodhya–Prayagraj](/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package)
 - **4-city grand yatra:** [Divya Dham: Varanasi–Ayodhya–Prayagraj–Bodhgaya](/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package)
-- **Just the drive/fare:** [Varanasi to Ayodhya cab](/en/varanasi-to-ayodhya)
+- **Just the drive/fare:** [Varanasi to Ayodhya cab](/en/varanasi-to-ayodhya-taxi)
 
 ---
 

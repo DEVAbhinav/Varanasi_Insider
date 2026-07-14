@@ -181,7 +181,7 @@ Varanasi’s Lal Bahadur Shastri International Airport (VNS) sits 25–32 km fro
 
 The most-searched airport route: **Varanasi airport to Kashi Vishwanath Temple is approximately 26 km (35–45 min)**. Almost every pilgrim arriving by flight heads directly to the temple.
 
-For the full breakdown — corridor drop-off rules, Godowlia access, night arrival tips, and fare by vehicle type — see our dedicated guide: **[Varanasi Airport to Kashi Vishwanath Distance: Fare, Time & Route](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance)**.
+For the full breakdown — corridor drop-off rules, Godowlia access, night arrival tips, and fare by vehicle type — see our dedicated guide: **[Varanasi Airport to Kashi Vishwanath Distance: Fare, Time & Route](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi)**.
 
 **Tip:** Kashi Vishwanath darshan queue is shortest before 8 AM and after 7 PM. If your flight lands early morning, head directly — our driver can store luggage in the car while you visit.
 
@@ -252,6 +252,6 @@ Many travellers fly into Varanasi and head directly to pilgrimage destinations. 
 | **Bodh Gaya** | 270 km | ₹5,500–₹6,500 | 6 hrs |
 | **Gorakhpur** | 230 km | ₹4,000–₹4,500 | 5 hrs |
 
-- [Varanasi to Ayodhya Distance & Fare](/en/varanasi-to-ayodhya)
-- [Varanasi to Prayagraj Distance & Fare](/en/varanasi-to-prayagraj)
+- [Varanasi to Ayodhya Distance & Fare](/en/varanasi-to-ayodhya-taxi)
+- [Varanasi to Prayagraj Distance & Fare](/en/varanasi-to-prayagraj-taxi)
 - [Airport Transfer Directory (all routes)](/en/city/varanasi/taxi/varanasi-airport-transfer-directory)

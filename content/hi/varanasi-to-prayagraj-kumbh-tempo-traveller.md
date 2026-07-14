@@ -19,7 +19,7 @@ keywords:
   - tempo traveller pass for kumbh mela
   - varanasi pilgrimage transport tips
 relatedPosts:
-  - varanasi-to-prayagraj
+  - varanasi-to-prayagraj-taxi
   - varanasi-to-triveni-sangam-tempo-traveller
   - tempo-traveller-rates-varanasi
 ---

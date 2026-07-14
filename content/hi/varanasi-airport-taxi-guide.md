@@ -109,12 +109,12 @@ relatedPosts:
 
 | VNS एयरपोर्ट से… | दूरी (सड़क मार्ग) | सामान्य ड्राइव |
 | :-- | :-- | :-- |
-| [**काशी विश्वनाथ मंदिर / गोदौलिया**](/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance) | ~24 किमी | 45 – 75 मिनट |
-| [**कैंट रेलवे स्टेशन (वाराणसी जं.)**](/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance) | ~22 किमी | 40 – 70 मिनट |
-| [**बनारस रेलवे स्टेशन**](/hi/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance) | ~18 किमी | 35 – 60 मिनट |
-| [**दशाश्वमेध घाट**](/hi/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance) | ~24 किमी | 45 – 75 मिनट |
-| [**अस्सी घाट**](/hi/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance) | ~26 किमी | 50 – 80 मिनट |
-| [**सारनाथ**](/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-distance) | ~30 किमी | 50 – 70 मिनट |
+| [**काशी विश्वनाथ मंदिर / गोदौलिया**](/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi) | ~24 किमी | 45 – 75 मिनट |
+| [**कैंट रेलवे स्टेशन (वाराणसी जं.)**](/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) | ~22 किमी | 40 – 70 मिनट |
+| [**बनारस रेलवे स्टेशन**](/hi/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi) | ~18 किमी | 35 – 60 मिनट |
+| [**दशाश्वमेध घाट**](/hi/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-taxi) | ~24 किमी | 45 – 75 मिनट |
+| [**अस्सी घाट**](/hi/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi) | ~26 किमी | 50 – 80 मिनट |
+| [**सारनाथ**](/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi) | ~30 किमी | 50 – 70 मिनट |
 
 हर गंतव्य अपने **सटीक किराया + रूट पेज** से लिंक है। दूरियाँ अनुमानित और सड़क मार्ग से हैं; सटीक आँकड़ा आपके मार्ग और ओल्ड-सिटी ड्रॉप पॉइंट के अनुसार बदलता है।
 

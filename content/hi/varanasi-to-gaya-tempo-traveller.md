@@ -20,7 +20,7 @@ keywords:
   - kashi gaya prayag itinerary
 relatedPosts:
   - kashi-gaya-prayag-pind-daan-tour
-  - varanasi-to-prayagraj
+  - varanasi-to-prayagraj-taxi
   - tempo-traveller-rates-varanasi
 ---
 

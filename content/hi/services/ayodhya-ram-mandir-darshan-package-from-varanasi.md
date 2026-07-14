@@ -60,7 +60,7 @@ relatedPosts:
   - varanasi-ayodhya-tour-package
   - golden-triangle-varanasi-ayodhya-prayagraj-package
   - divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package
-  - varanasi-to-ayodhya
+  - varanasi-to-ayodhya-taxi
   - varanasi-prayagraj-tour-package
 ---
 
@@ -105,7 +105,7 @@ relatedPosts:
 - **2-नगर (परिवहन + ठहराव):** [वाराणसी–अयोध्या टूर पैकेज](/hi/services/varanasi-ayodhya-tour-package)
 - **3-नगर बेहतर मूल्य:** [गोल्डन ट्रायंगल: वाराणसी–अयोध्या–प्रयागराज](/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package)
 - **4-नगर भव्य यात्रा:** [दिव्य धाम: वाराणसी–अयोध्या–प्रयागराज–बोधगया](/hi/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package)
-- **सिर्फ ड्राइव/किराया:** [वाराणसी से अयोध्या कैब](/hi/varanasi-to-ayodhya)
+- **सिर्फ ड्राइव/किराया:** [वाराणसी से अयोध्या कैब](/hi/varanasi-to-ayodhya-taxi)
 
 ---
 

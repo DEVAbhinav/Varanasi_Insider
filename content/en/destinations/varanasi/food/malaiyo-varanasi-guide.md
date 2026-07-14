@@ -199,7 +199,7 @@ For Varanasi residents, malaiyo's appearance marks winter officially begun. It's
 - Watch the ghat life awakening around you.
 - Observe other malaiyo eaters – mix of locals, pilgrims, travelers.
 - Journal the experience while sensations are fresh.
-- Plot onward pilgrimages for the rest of the day: hop into the [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) for a Buddhist trail, drive south on the [Varanasi to Gaya/Bodh Gaya package](/en/varanasi-to-gaya-bodh-gaya-tour-package) for rituals, or chase evening aartis via the [Varanasi to Prayagraj tour plan](/en/varanasi-to-prayagraj).
+- Plot onward pilgrimages for the rest of the day: hop into the [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) for a Buddhist trail, drive south on the [Varanasi to Gaya/Bodh Gaya package](/en/varanasi-to-gaya-bodh-gaya-tour-package) for rituals, or chase evening aartis via the [Varanasi to Prayagraj tour plan](/en/varanasi-to-prayagraj-taxi).
 
 ### Cost & Budget Considerations
 

@@ -84,4 +84,4 @@ location:
 - सुबह-सुबह ठंड के लिए लेयरिंग करें।
 - स्टॉल कम, इसलिए पानी/हल्की स्नैक्स साथ रखें।
 - [एयरपोर्ट ट्रांसफर गाइड](/hi/city/varanasi/taxi/varanasi-airport-transfer-guide) से देर-रात/सुबह कैब पहले से तय करें।
-- फेस्टिवल के बाद [अयोध्या](/hi/varanasi-to-ayodhya), [प्रयागराज](/hi/varanasi-to-prayagraj) या [बोधगया](/hi/varanasi-to-gaya-bodh-gaya-tour-package) रोड ट्रिप जोड़ें।
+- फेस्टिवल के बाद [अयोध्या](/hi/varanasi-to-ayodhya-taxi), [प्रयागराज](/hi/varanasi-to-prayagraj-taxi) या [बोधगया](/hi/varanasi-to-gaya-bodh-gaya-tour-package) रोड ट्रिप जोड़ें।

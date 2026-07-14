@@ -72,8 +72,8 @@ If you are landing at Lal Bahadur Shastri International Airport and your main qu
 | Airport taxi booking with fixed fare and driver coordination | **This page** |
 | Overall airport logistics and route planning | [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) |
 | Airport fare bands and vehicle pricing | [Varanasi Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide) |
-| Airport to Kashi Vishwanath distance and corridor-entry details | [Airport to Kashi Vishwanath Distance](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance) |
-| Airport to Varanasi Junction distance and train-connection timing | [Airport to Varanasi Junction Distance](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance) |
+| Airport to Kashi Vishwanath distance and corridor-entry details | [Airport to Kashi Vishwanath Distance](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi) |
+| Airport to Varanasi Junction distance and train-connection timing | [Airport to Varanasi Junction Distance](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) |
 
 ## What You Get with Our Airport Taxi Service
 
@@ -88,7 +88,7 @@ If you are landing at Lal Bahadur Shastri International Airport and your main qu
 | Destination type | Typical use | Better detailed page |
 |---|---|---|
 | Temple & corridor drop | Kashi Vishwanath, Dashashwamedh, Assi | [Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) |
-| Railway station transfer | Cantt / BSB / Banaras station | [Airport to Varanasi Junction Distance](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance) |
+| Railway station transfer | Cantt / BSB / Banaras station | [Airport to Varanasi Junction Distance](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) |
 | General city hotel drop | Cantt, Sigra, Lanka, Assi | [Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide) |
 | Outstation transfer | Prayagraj, Vindhyachal, Gorakhpur | [Airport Transfer Directory](/en/city/varanasi/taxi/varanasi-airport-transfer-directory) |
 

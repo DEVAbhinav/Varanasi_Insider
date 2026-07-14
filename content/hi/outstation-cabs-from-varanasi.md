@@ -18,8 +18,8 @@ tags:
   - बोध गया
 relatedPosts:
   - varanasi-transport-price-guide-2026
-  - varanasi-to-ayodhya
-  - varanasi-to-prayagraj
+  - varanasi-to-ayodhya-taxi
+  - varanasi-to-prayagraj-taxi
   - varanasi-to-gaya-bodh-gaya-tour-package
 ---
 
@@ -33,10 +33,10 @@ relatedPosts:
 
 ## लोकप्रिय आउटस्टेशन मार्ग (गाइड)
 
-- वाराणसी ↔ अयोध्या — [मार्ग, यात्रा कार्यक्रम, किराए](/hi/varanasi-to-ayodhya)
-- वाराणसी ↔ प्रयागराज — [संगम डे ट्रिप गाइड](/hi/varanasi-to-prayagraj)
+- वाराणसी ↔ अयोध्या — [मार्ग, यात्रा कार्यक्रम, किराए](/hi/varanasi-to-ayodhya-taxi)
+- वाराणसी ↔ प्रयागराज — [संगम डे ट्रिप गाइड](/hi/varanasi-to-prayagraj-taxi)
 - वाराणसी ↔ गया/बोध गया — [काशी-गया आध्यात्मिक मार्ग](/hi/varanasi-to-gaya-bodh-gaya-tour-package)
-- वाराणसी ↔ विंध्याचल — [शक्ति पीठ दर्शन](/hi/varanasi-to-vindhyachal)
+- वाराणसी ↔ विंध्याचल — [शक्ति पीठ दर्शन](/hi/varanasi-to-vindhyachal-taxi)
 
 ## टैक्सी रूट गाइड (दूरी, किराया और फिक्स रेट)
 
@@ -133,6 +133,6 @@ relatedPosts:
 * **क्या *वाराणसी से अयोध्या इनोवा किराया* को प्रभावित करता है?** कुल किमी (उसी दिन वापसी पर राउंड-ट्रिप), ड्राइवर डीए, टोल/राज्य कर, रात का भत्ता (यदि देर से ड्राइविंग), पड़ाव।
   **सीटीए:** सटीक किराए के लिए व्हाट्सएप पर तारीख/यात्री के साथ "**अयोध्या इनोवा उद्धरण**" संदेश भेजें।
 
-> पूरी गाइड देखें: [वाराणसी से अयोध्या](/hi/varanasi-to-ayodhya)
+> पूरी गाइड देखें: [वाराणसी से अयोध्या](/hi/varanasi-to-ayodhya-taxi)
 
 ### वाराणसी ↔ प्रयागराज (इलाहाबाद)

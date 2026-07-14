@@ -28,7 +28,7 @@ slug: varanasi-to-prayagraj-tempo-traveller
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg
 canonical: https://www.kashitaxi.in/en/varanasi-to-prayagraj-tempo-traveller
 relatedPosts:
-  - varanasi-to-prayagraj
+  - varanasi-to-prayagraj-taxi
   - tempo-traveller-rates-varanasi
   - tour-package-from-varanasi
 faqSchema:
@@ -48,7 +48,7 @@ faqSchema:
 
 If your group is planning Triveni Sangam darshan from Varanasi and you need the **group-vehicle price first**, this is the right page. It is built for families, senior pilgrims, satsang groups, and friends who want one vehicle, one fare, and one clear Prayagraj schedule.
 
-If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare instead, use our [Varanasi to Prayagraj route and taxi guide](/en/varanasi-to-prayagraj).
+If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare instead, use our [Varanasi to Prayagraj route and taxi guide](/en/varanasi-to-prayagraj-taxi).
 
 ## Quick Route Snapshot
 
@@ -102,7 +102,7 @@ You may prefer a different guide if:
 - you are comparing train vs taxi
 - you want a broad route guide first
 
-For those cases, use [Varanasi to Prayagraj distance, taxi fare and travel options](/en/varanasi-to-prayagraj).
+For those cases, use [Varanasi to Prayagraj distance, taxi fare and travel options](/en/varanasi-to-prayagraj-taxi).
 
 ## Prayagraj Day Trip Timing From Varanasi
 
@@ -149,7 +149,7 @@ Book a taxi instead when:
 - you want a one-way drop more than a group pilgrimage
 - you are comparing train vs road first
 
-For that use case, go to [Varanasi to Prayagraj route and taxi fare guide](/en/varanasi-to-prayagraj).
+For that use case, go to [Varanasi to Prayagraj route and taxi fare guide](/en/varanasi-to-prayagraj-taxi).
 
 ## FAQ: Varanasi To Prayagraj Tempo Traveller
 
@@ -173,11 +173,11 @@ Yes, but one-way or overnight plans should be quoted separately because the same
 
 - Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: [Book Prayagraj tempo traveller](https://wa.me/919935474730?text=Prayagraj%20tempo%20traveller%20price%20list)
-- Need route-only fare first? See [Varanasi to Prayagraj taxi and travel guide](/en/varanasi-to-prayagraj)
+- Need route-only fare first? See [Varanasi to Prayagraj taxi and travel guide](/en/varanasi-to-prayagraj-taxi)
 
 ## Related Pages
 
-- [Varanasi to Prayagraj distance, taxi fare and travel options](/en/varanasi-to-prayagraj)
+- [Varanasi to Prayagraj distance, taxi fare and travel options](/en/varanasi-to-prayagraj-taxi)
 - [Tempo Traveller Rates in Varanasi](/en/tempo-traveller-rates-varanasi)
 - [Tour Packages from Varanasi](/en/tour-package-from-varanasi)
 - [Prayagraj travel & taxi services](https://bharat-tourism.com/city/prayagraj) — Sangam rituals, local sightseeing & transport guide

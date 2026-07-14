@@ -232,7 +232,7 @@ The **Kashi Tamil Sangamam** represents a remarkable celebration of India's ling
 - **How to Book:** Registration through official Kashi Tamil Sangamam website; walk-ins welcome to many events.
 - **Staying Connected:** The event provides real-time app-based translations and detailed daily schedules.
 - **Arriving Smoothly:** Coordinate cabs in advance with our [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) to glide straight from VNS to BHU or your Assi/Lanka hotel.
-- **Extend the Trip:** Pair downtime days with the [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) or plan post-festival pilgrimages via the [Varanasi to Ayodhya taxi guide](/en/varanasi-to-ayodhya) and the [Varanasi to Prayagraj tour plan](/en/varanasi-to-prayagraj) to cover the greater Sapta Puri circuit.
+- **Extend the Trip:** Pair downtime days with the [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) or plan post-festival pilgrimages via the [Varanasi to Ayodhya taxi guide](/en/varanasi-to-ayodhya-taxi) and the [Varanasi to Prayagraj tour plan](/en/varanasi-to-prayagraj-taxi) to cover the greater Sapta Puri circuit.
 
 ### Why Choose This Event?
 

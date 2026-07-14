@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-const slug = 'varanasi-airport-to-banaras-railway-station-distance';
+const slug = 'varanasi-airport-to-banaras-railway-station-taxi';
 const pagePath = `/en/city/varanasi/taxi/${slug}`;
 
 const parseSchemas = async (page) => {

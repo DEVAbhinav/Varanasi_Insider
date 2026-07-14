@@ -64,7 +64,7 @@ relatedPosts:
   - golden-triangle-varanasi-ayodhya-prayagraj-package
   - divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package
   - varanasi-prayagraj-tour-package
-  - varanasi-to-ayodhya
+  - varanasi-to-ayodhya-taxi
   - kashi-vishwanath-vip-darshan-booking
 ---
 
@@ -107,7 +107,7 @@ Two of India's most important pilgrimages — **Kashi** and **Ram Janmabhoomi** 
 
 - **Add Prayagraj (3 cities):** [Golden Triangle Varanasi–Ayodhya–Prayagraj package](/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package) from ₹8,499/person
 - **Add Prayagraj + Bodh Gaya (4 cities):** [Divya Dham package](/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package) from ₹12,000/person
-- **Just the drive & fare:** [Varanasi to Ayodhya distance, taxi fare & options](/en/varanasi-to-ayodhya)
+- **Just the drive & fare:** [Varanasi to Ayodhya distance, taxi fare & options](/en/varanasi-to-ayodhya-taxi)
 - **Large groups (6–40+):** [Ayodhya Varanasi Prayagraj group tour package](/en/ayodhya-varanasi-prayagraj-group-tour-package)
 
 ---

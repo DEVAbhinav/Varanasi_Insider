@@ -125,12 +125,12 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
 
 | From VNS Airport to… | Distance (by road) | Typical drive |
 | :-- | :-- | :-- |
-| [**Kashi Vishwanath Temple / Godowlia**](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance) | ~24 km | 45 – 75 min |
-| [**Cantt Railway Station (Varanasi Jn)**](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance) | ~22 km | 40 – 70 min |
-| [**Banaras Railway Station**](/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-distance) | ~18 km | 35 – 60 min |
-| [**Dashashwamedh Ghat**](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance) | ~24 km | 45 – 75 min |
-| [**Assi Ghat**](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance) | ~26 km | 50 – 80 min |
-| [**Sarnath**](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance) | ~30 km | 50 – 70 min |
+| [**Kashi Vishwanath Temple / Godowlia**](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi) | ~24 km | 45 – 75 min |
+| [**Cantt Railway Station (Varanasi Jn)**](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) | ~22 km | 40 – 70 min |
+| [**Banaras Railway Station**](/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi) | ~18 km | 35 – 60 min |
+| [**Dashashwamedh Ghat**](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-taxi) | ~24 km | 45 – 75 min |
+| [**Assi Ghat**](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi) | ~26 km | 50 – 80 min |
+| [**Sarnath**](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi) | ~30 km | 50 – 70 min |
 
 Each destination links to its **exact fare + route page**. Distances are approximate and by road; the precise figure shifts with your chosen route and old-city drop point.
 

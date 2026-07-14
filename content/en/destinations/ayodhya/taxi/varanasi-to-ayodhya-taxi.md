@@ -45,7 +45,7 @@ faqSchema:
 | What you need | Best page |
 |---|---|
 | Direct Varanasi to Ayodhya taxi booking with confirmed fare | **This page** |
-| Distance, road time, tolls, and train-vs-cab comparison | [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) |
+| Distance, road time, tolls, and train-vs-cab comparison | [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi) |
 | 12/17-seater group vehicle pricing | [Varanasi to Ayodhya Tempo Traveller](/en/varanasi-to-ayodhya-tempo-traveller) |
 | Ayodhya + Varanasi tour package | [Ayodhya Varanasi Tour](/en/city/varanasi/tour-packages/ayodhya-varanasi-tour) |
 | Ayodhya with Prayagraj in one pilgrimage circuit | [Varanasi Ayodhya Prayagraj Pilgrimage Taxi](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi) |
@@ -366,7 +366,7 @@ Choose from:
 
 ### Similar Pilgrimage Routes from Varanasi
 
-- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj) - 120 km | 2.5 hrs | Triveni Sangam
+- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi) - 120 km | 2.5 hrs | Triveni Sangam
 - [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Vishnupad Temple
 - [Ayodhya Day Trip Tempo Traveller](/en/varanasi-to-ayodhya-day-trip-tempo-traveller) - Complete Ayodhya experience
 - [Varanasi to Ayodhya Tempo Traveller](/en/varanasi-to-ayodhya-tempo-traveller) - Multi-day Ayodhya packages

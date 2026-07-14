@@ -36,8 +36,8 @@ relatedPosts:
   - tempo-traveller-varanasi
   - varanasi-day-tour-cab-charges
   - varanasi-to-sarnath-tempo-traveller
-  - varanasi-to-prayagraj
-  - varanasi-to-ayodhya
+  - varanasi-to-prayagraj-taxi
+  - varanasi-to-ayodhya-taxi
   - outstation-cabs-from-varanasi
   - varanasi-sightseeing-complete-guide
   - tour-package-from-varanasi
@@ -198,7 +198,7 @@ Perfect for families, corporate groups, and pilgrimage tours with our **tempo tr
 | **Varanasi → Bodhgaya** | 250 km | ₹7,000-8,500 | ₹9,000-11,000 |
 | **Varanasi → Vindhyachal** | 80 km | ₹2,800-3,500 | ₹3,500-4,500 |
 
-> Route guides: **[Varanasi to Prayagraj](/en/varanasi-to-prayagraj)** | **[Varanasi to Ayodhya](/en/varanasi-to-ayodhya)** | **[Outstation Cabs from Varanasi](/en/outstation-cabs-from-varanasi)**
+> Route guides: **[Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi)** | **[Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi)** | **[Outstation Cabs from Varanasi](/en/outstation-cabs-from-varanasi)**
 
 #### **5. Pink Taxi Varanasi: Safest Tour Operators for Women Travelers**
 
@@ -569,8 +569,8 @@ Customizable itineraries available.
 - **[Group Tour Package](/en/varanasi-group-tour-package)** — For pilgrims & large groups
 
 **Outstation Taxi from Varanasi:**
-- **[Varanasi to Prayagraj](/en/varanasi-to-prayagraj)** — 130 km pilgrimage
-- **[Varanasi to Ayodhya](/en/varanasi-to-ayodhya)** — 220 km journey
+- **[Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi)** — 130 km pilgrimage
+- **[Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi)** — 220 km journey
 - **[Varanasi to Bodhgaya Tour Package](/en/varanasi-to-gaya-bodh-gaya-tour-package)** — Buddhist circuit
 
 **Tempo Traveller Hire in Varanasi:**

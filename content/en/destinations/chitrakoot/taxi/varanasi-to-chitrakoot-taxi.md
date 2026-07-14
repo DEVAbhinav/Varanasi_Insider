@@ -407,8 +407,8 @@ Choose from:
 
 ### Similar Ramayana Pilgrimage Routes
 
-- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) - 219 km | 4 hrs | Ram Janmabhoomi
-- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj) - 120 km | 2.5 hrs | Triveni Sangam
+- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi) - 219 km | 4 hrs | Ram Janmabhoomi
+- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi) - 120 km | 2.5 hrs | Triveni Sangam
 - Varanasi to Nashik - 1,050 km | Multi-day | Panchavati (Ram's exile)
 - [Varanasi to Vindhyachal Taxi](/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi) - 65 km | 1.5-2 hrs | Vindhyavasini Shakti Peeth
 

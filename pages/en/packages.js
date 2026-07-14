@@ -46,7 +46,7 @@ export default function PackagesPage({ packages, jsonLd }) {
       description: 'Use this when you already know you want a direct sedan or SUV booking, not a bundled pilgrimage package.',
     },
     {
-      href: '/en/varanasi-to-ayodhya',
+      href: '/en/varanasi-to-ayodhya-taxi',
       title: 'Ayodhya route, distance and taxi fare',
       description: 'Use this when the main question is road distance, travel time, one-way fare, tolls, or train-vs-cab planning.',
     },
@@ -168,7 +168,7 @@ export default function PackagesPage({ packages, jsonLd }) {
 
   const routeOnlyLinks = [
     {
-      href: '/en/varanasi-to-ayodhya',
+      href: '/en/varanasi-to-ayodhya-taxi',
       title: 'Varanasi to Ayodhya route, taxi fare and travel options',
       description: 'Use this when you need road distance, travel time, taxi fare and train-vs-cab planning.',
     },

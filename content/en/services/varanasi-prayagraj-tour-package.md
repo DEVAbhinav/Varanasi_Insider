@@ -65,7 +65,7 @@ relatedPosts:
   - golden-triangle-varanasi-ayodhya-prayagraj-package
   - divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package
   - varanasi-ayodhya-tour-package
-  - varanasi-to-prayagraj
+  - varanasi-to-prayagraj-taxi
   - kashi-vishwanath-vip-darshan-booking
 ---
 
@@ -108,7 +108,7 @@ Kashi and the **Triveni Sangam** — the sacred confluence of the Ganga, Yamuna 
 
 - **Add Ayodhya (3 cities):** [Golden Triangle Varanasi–Ayodhya–Prayagraj package](/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package) from ₹8,499/person
 - **Add Ayodhya + Bodh Gaya (4 cities):** [Divya Dham package](/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package) from ₹12,000/person
-- **Just the drive & fare:** [Varanasi to Prayagraj distance, taxi fare & options](/en/varanasi-to-prayagraj)
+- **Just the drive & fare:** [Varanasi to Prayagraj distance, taxi fare & options](/en/varanasi-to-prayagraj-taxi)
 - **A 2-city Ayodhya trip instead:** [Varanasi–Ayodhya tour package](/en/services/varanasi-ayodhya-tour-package)
 
 ---

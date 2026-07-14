@@ -48,7 +48,7 @@ test.describe('Bug 1: No malformed double-domain URLs', () => {
   const SAMPLE_PAGES = [
     '/en/12-seater-tempo-traveller-varanasi',
     '/en/best-time-to-visit-varanasi',
-    '/en/varanasi-to-prayagraj',
+    '/en/varanasi-to-prayagraj-taxi',
     '/en/city/varanasi/activities/evening-boat-ride-varanasi-ganga-aarti',
     '/en/varanasi-transport-price-guide-2026',
   ];

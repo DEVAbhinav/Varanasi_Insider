@@ -20,7 +20,7 @@ keywords:
   - prayagraj sangam panda support
 canonical: https://www.kashitaxi.in/hi/varanasi-to-prayagraj-tempo-traveller
 relatedPosts:
-  - varanasi-to-prayagraj
+  - varanasi-to-prayagraj-taxi
   - varanasi-to-triveni-sangam-tempo-traveller
   - tempo-traveller-rates-varanasi
 ---

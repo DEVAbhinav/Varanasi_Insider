@@ -55,7 +55,7 @@ This guide covers the full combined circuit:
 - **Kashi to Prayagraj to Ayodhya distance by road**
 - Kashi Prayag Ayodhya yatra by car
 
-For a single direct route, see [Varanasi to Prayagraj](/en/varanasi-to-prayagraj) or [Varanasi to Ayodhya](/en/varanasi-to-ayodhya).
+For a single direct route, see [Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi) or [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi).
 
 ## Kashi Prayag Ayodhya Yatra: The Sacred Triangle Circuit Guide
 

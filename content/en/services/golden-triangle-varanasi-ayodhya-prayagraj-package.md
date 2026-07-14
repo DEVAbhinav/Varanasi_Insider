@@ -76,8 +76,8 @@ relatedPosts:
   - varanasi-ayodhya-prayagraj-pilgrimage-taxi
   - kashi-vishwanath-darshan-ganga-aarti-package
   - hotel-booking-in-varanasi
-  - varanasi-to-prayagraj
-  - varanasi-to-ayodhya
+  - varanasi-to-prayagraj-taxi
+  - varanasi-to-ayodhya-taxi
 ---
 
 # Golden Triangle Tour: Varanasi–Ayodhya–Prayagraj Package (3N/4D)

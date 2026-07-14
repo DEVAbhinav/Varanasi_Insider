@@ -259,8 +259,8 @@ A: Very crowded (15,000+ people) but manageable if you arrive early and have pre
 - [9 vs 12 vs 17 Seater Comparison](/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi) - Choose the right vehicle size
 
 ### Popular Spiritual Routes
-- [Varanasi to Ayodhya Pilgrimage](/en/varanasi-to-ayodhya) - Ram Janmabhoomi journey
-- [Varanasi to Prayagraj Tour](/en/varanasi-to-prayagraj) - Triveni Sangam visit
+- [Varanasi to Ayodhya Pilgrimage](/en/varanasi-to-ayodhya-taxi) - Ram Janmabhoomi journey
+- [Varanasi to Prayagraj Tour](/en/varanasi-to-prayagraj-taxi) - Triveni Sangam visit
 
 ---
 

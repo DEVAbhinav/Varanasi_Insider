@@ -656,7 +656,7 @@ Itinerary तुलना करने से पहले, यह rule या�
 - वाराणसी + प्रयागराज (3 दिन): ₹12,000–₹18,000 प्रति व्यक्ति
 - वाराणसी + अयोध्या + प्रयागराज (5 दिन): ₹18,000–₹28,000 प्रति व्यक्ति
 
-> **पास की तीर्थयात्राएँ**: [वाराणसी से विंध्याचल गाइड](/hi/varanasi-to-vindhyachal) | [वाराणसी से विंध्याचल Itinerary](/hi/varanasi-to-vindhyachal-itinerary)
+> **पास की तीर्थयात्राएँ**: [वाराणसी से विंध्याचल गाइड](/hi/varanasi-to-vindhyachal-taxi) | [वाराणसी से विंध्याचल Itinerary](/hi/varanasi-to-vindhyachal-itinerary)
 
 ## वाराणसी टूर के लिए व्यावहारिक Tips
 

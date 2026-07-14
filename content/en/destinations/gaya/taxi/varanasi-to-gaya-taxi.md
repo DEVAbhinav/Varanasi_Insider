@@ -378,7 +378,7 @@ Pind-daan is a Hindu ritual performed for the peace and salvation of departed so
 
 - [Varanasi to Bodhgaya Taxi](/en/varanasi-to-bodhgaya-taxi-cost) - 234 km | 4 hrs | Buddhist circuit
 - [Outstation Cabs from Varanasi](/en/outstation-cabs-from-varanasi) - 240 km | 4 hrs | Bihar capital
-- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj) - 120 km | 2.5 hrs | Triveni Sangam
+- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi) - 120 km | 2.5 hrs | Triveni Sangam
 - [Varanasi to Deoghar Taxi](/en/city/deoghar/taxi/varanasi-to-deoghar-taxi) - 460 km | 9-10 hrs | Baidyanath Jyotirlinga
 
 ### Combine Multiple Destinations

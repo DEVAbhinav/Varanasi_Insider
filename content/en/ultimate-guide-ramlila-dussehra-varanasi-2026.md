@@ -571,8 +571,8 @@ Our drivers are Varanasi natives who understand:
 - [9 vs 12 vs 17 Seater Comparison](/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi) - Choose the right size
 
 **Popular Routes:**
-- [Varanasi to Ayodhya Taxi](/en/varanasi-to-ayodhya) - Day trip options
-- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj) - Sangam city journey
+- [Varanasi to Ayodhya Taxi](/en/varanasi-to-ayodhya-taxi) - Day trip options
+- [Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi) - Sangam city journey
 
 ### Quick Booking Summary
 

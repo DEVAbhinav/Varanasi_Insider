@@ -111,7 +111,7 @@ ctaSubtitle: "असी या दशाश्वमेध घाट तक स�
 
 - **सारनाथ बौद्ध सर्किट:** [सारनाथ टेम्पो ट्रैवलर](/hi/varanasi-to-sarnath-tempo-traveller)。
 - **गया/बोधगया:** [वाराणसी से गया पैकेज](/hi/varanasi-to-gaya-bodh-gaya-tour-package)।
-- **अयोध्या/प्रयागराज:** [अयोध्या टैक्सी गाइड](/hi/varanasi-to-ayodhya) और [प्रयागराज प्लान](/hi/varanasi-to-prayagraj)।
+- **अयोध्या/प्रयागराज:** [अयोध्या टैक्सी गाइड](/hi/varanasi-to-ayodhya-taxi) और [प्रयागराज प्लान](/hi/varanasi-to-prayagraj-taxi)।
 
 ### शारीरिक से आगे – गहरे लाभ
 

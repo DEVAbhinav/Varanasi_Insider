@@ -114,7 +114,7 @@ The optimal period for visiting this Banaras tourist spot is **October through M
 - **App-based Rides**: Uber and Ola available
 - **Tempo Traveller** (for groups): ₹2,500 for airport pickup
 
-> Complete airport transfer guides: **[Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)**, **[Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide)**, and **[Airport Tempo Traveller](/en/varanasi-airport-tempo-traveller)** for group transfers. For distance calculations: **[Assi Ghat to Airport Distance](/en/assi-ghat-to-airport-distance)**.
+> Complete airport transfer guides: **[Varanasi Airport Taxi Guide](/en/varanasi-airport-taxi-guide)**, **[Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide)**, and **[Airport Tempo Traveller](/en/varanasi-airport-tempo-traveller)** for group transfers. For distance calculations: **[Assi Ghat to Airport Distance](/en/assi-ghat-to-airport-taxi)**.
 
 **By Train**
 
@@ -1084,8 +1084,8 @@ Varanasi sightseeing is a journey into India's spiritual heart, where ancient tr
 **Multi-City Pilgrimage Tours:**
 
 - **[Varanasi Ayodhya Prayagraj Pilgrimage Taxi](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi)**
-- **[Varanasi to Ayodhya](/en/varanasi-to-ayodhya)** and **[Varanasi to Ayodhya Tempo Traveller](/en/varanasi-to-ayodhya-tempo-traveller)**
-- **[Varanasi to Prayagraj](/en/varanasi-to-prayagraj)** and **[Varanasi to Prayagraj Tempo Traveller](/en/varanasi-to-prayagraj-tempo-traveller)**
+- **[Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi)** and **[Varanasi to Ayodhya Tempo Traveller](/en/varanasi-to-ayodhya-tempo-traveller)**
+- **[Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi)** and **[Varanasi to Prayagraj Tempo Traveller](/en/varanasi-to-prayagraj-tempo-traveller)**
 - **[Varanasi to Bodh Gaya Tour Package](/en/varanasi-to-gaya-bodh-gaya-tour-package)**
 - **[Kashi Gaya Prayag Pind Daan Tour](/en/kashi-gaya-prayag-pind-daan-tour)**
 - **[Prayagraj Ayodhya Chitrakoot Tempo Traveller Circuit](/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit)**

@@ -134,7 +134,7 @@ The temple sits inside the Kashi Vishwanath Corridor, which has vehicle-free zon
 - WhatsApp fare confirmation with driver details before landing
 - Surge shield on festival days (Dev Deepawali, Mahashivratri, Navratri)
 
-For the detailed route and ghat barricade notes see the [Airport → Kashi Vishwanath distance guide](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance).
+For the detailed route and ghat barricade notes see the [Airport → Kashi Vishwanath distance guide](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi).
 
 ## Varanasi Airport to Railway Station — Taxi Fare
 
@@ -161,14 +161,14 @@ Drivers track your flight and time the drop to reach the station with at least 4
 
 | Route / Intent | Distance | Sedan Fare | Deep Dive |
 | --- | --- | --- | --- |
-| Assi Ghat / Bhelupura cafés | 26–27 km | ₹700–₹950 | [Airport → Assi Ghat](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-distance) |
-| Dashashwamedh / Godowlia (Ganga Aarti) | 24–25 km | ₹750–₹950 | [Airport → Dashashwamedh](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-distance) |
-| Sarnath Buddhist circuit | 32 km | ₹850–₹1,050 | [Airport → Sarnath](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-distance) |
-| Varanasi Junction (Cantt Station) | 22 km | ₹690 Flash / ₹750 std | [Airport → Cantt Station](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-distance) |
-| Banaras City Station (BCY) / Old City | 21 km | ₹700–₹900 | [Airport → City Station](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-distance) |
-| Kashi Vishwanath Corridor & temples | 25 km | ₹750–₹950 | [Airport → Kashi Vishwanath](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-distance) |
+| Assi Ghat / Bhelupura cafés | 26–27 km | ₹700–₹950 | [Airport → Assi Ghat](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi) |
+| Dashashwamedh / Godowlia (Ganga Aarti) | 24–25 km | ₹750–₹950 | [Airport → Dashashwamedh](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-taxi) |
+| Sarnath Buddhist circuit | 32 km | ₹850–₹1,050 | [Airport → Sarnath](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi) |
+| Varanasi Junction (Cantt Station) | 22 km | ₹690 Flash / ₹750 std | [Airport → Cantt Station](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) |
+| Banaras City Station (BCY) / Old City | 21 km | ₹700–₹900 | [Airport → City Station](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-taxi) |
+| Kashi Vishwanath Corridor & temples | 25 km | ₹750–₹950 | [Airport → Kashi Vishwanath](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi) |
 | BHU / Lanka hostels | 20 km | ₹800–₹950 | [Airport → BHU/Lanka guide](/en/varanasi-airport-taxi-price-guide) |
-| NaMo Ghat / Light Show | 24 km | ₹800–₹1,000 | [Airport → NaMo Ghat](/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-distance) |
+| NaMo Ghat / Light Show | 24 km | ₹800–₹1,000 | [Airport → NaMo Ghat](/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-taxi) |
 
 Use these links for detailed turn-by-turn routes, ghat barricade intel, and backup pickup points.
 

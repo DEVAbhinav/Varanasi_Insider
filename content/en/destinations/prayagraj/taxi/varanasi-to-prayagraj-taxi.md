@@ -20,7 +20,7 @@ tags:
   - outstation
 template: destination
 relatedPosts:
-  - varanasi-airport-to-prayagraj-distance
+  - varanasi-airport-to-prayagraj-taxi
 faqSchema:
   - question: "How much does a taxi cost from Varanasi to Prayagraj?"
     answer: "Taxi fares from Varanasi to Prayagraj start from ₹2,500 for a 4-seater Swift Dzire. Prices vary based on vehicle type: Sedan ₹2,500-2,800, Ertiga ₹3,200-3,600, Innova ₹4,500-5,200, and Tempo Traveller ₹6,500-8,000. All fares include fuel, tolls, and driver charges."
@@ -286,9 +286,9 @@ Plan temple visits early in the morning or post-lunch to avoid heavy queues at p
 
 ### Similar Routes from Varanasi You Might Like
 
-- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya) - 219 km | 4 hrs | Ram Mandir visit
+- [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi) - 219 km | 4 hrs | Ram Mandir visit
 - [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Vishnupad Temple
-- [Varanasi Airport to Prayagraj](/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-distance) - Airport transfers
+- [Varanasi Airport to Prayagraj](/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-taxi) - Airport transfers
 - [Varanasi to Vindhyachal Taxi](/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi) - 65 km | 1.5-2 hrs | Vindhyavasini Shakti Peeth
 - [Varanasi to Mathura-Vrindavan Taxi](/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi) - 600 km | Multi-day | Krishna's Braj Bhoomi
 

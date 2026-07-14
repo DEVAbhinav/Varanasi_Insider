@@ -16,7 +16,7 @@ tags:
   - टूर पैकेज
 relatedPosts:
   - varanasi-to-ayodhya-tempo-traveller
-  - varanasi-to-prayagraj
+  - varanasi-to-prayagraj-taxi
   - varanasi-transport-price-guide-2026
 ---
 

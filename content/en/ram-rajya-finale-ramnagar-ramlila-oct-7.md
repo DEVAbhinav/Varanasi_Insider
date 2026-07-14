@@ -273,7 +273,7 @@ A: The ceremony maintains 200+ year-old traditions with no modern technology, au
 ### Extend Your Varanasi Experience
 - [12 Seater Tempo Traveller Varanasi](/en/12-seater-tempo-traveller-varanasi) - Family vehicle option
 - [17 Seater Tempo Traveller Varanasi](/en/17-seater-tempo-traveller-varanasi) - Large group transport
-- [Varanasi to Ayodhya Day Trip](/en/varanasi-to-ayodhya) - Visit Ram's birthplace after Ramlila
+- [Varanasi to Ayodhya Day Trip](/en/varanasi-to-ayodhya-taxi) - Visit Ram's birthplace after Ramlila
 
 ---
 

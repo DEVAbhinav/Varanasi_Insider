@@ -57,7 +57,7 @@ Many travelers start with a distance question before deciding on a package — h
 | **Varanasi to Ayodhya by road** | usually **4–5 hours** depending on traffic and city exits |
 | **Kashi to Ayodhya distance** | same corridor, counted from Varanasi / Kashi city area |
 
-If you only want direct taxi fare or route planning without a package, see [Varanasi to Ayodhya](/en/varanasi-to-ayodhya). This guide focuses on the combined **Ayodhya + Varanasi tour package**.
+If you only want direct taxi fare or route planning without a package, see [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi). This guide focuses on the combined **Ayodhya + Varanasi tour package**.
 
 ## Essential Facts
 

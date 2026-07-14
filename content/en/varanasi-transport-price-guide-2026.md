@@ -111,7 +111,7 @@ GST 5 % & parking extra.
 
 ---
 
-## [6 · Assi Ghat ↔ Airport Distance & Fare](/en/assi-ghat-to-airport-distance)
+## [6 · Assi Ghat ↔ Airport Distance & Fare](/en/assi-ghat-to-airport-taxi)
 
 * **Distance:** 28 km  
 * **Time:** 50‑60 min normal, up to 90 min peak  
@@ -170,7 +170,7 @@ Safe travels—and if you need wheels at any hour, remember **www.kashitaxi.in**
 *   **Pink Taxi** → [Pink Taxi landing page](https://www.kashitaxi.in/pink-taxi-varanasi)
 *   **Lucknow → Varanasi Taxi** → [Lucknow to Varanasi Taxi Fare Guide](/en/lucknow-to-varanasi-taxi-fare)
 *   **Varanasi Day Tour** → [Varanasi Day Tour Cab Charges Guide](/en/varanasi-day-tour-cab-charges)
-*   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-distance)
-*   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-distance)
+*   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-taxi)
+*   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-taxi)
 *   **Varanasi → Bodhgaya** → [Varanasi to Bodhgaya Taxi Cost Guide](/en/varanasi-to-bodhgaya-taxi-cost)
 *   **Group Tours** → [Varanasi Group Tour Package](/en/varanasi-group-tour-package)

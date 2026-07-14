@@ -65,7 +65,7 @@ relatedPosts:
   - golden-triangle-varanasi-ayodhya-prayagraj-package
   - divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package
   - varanasi-ayodhya-tour-package
-  - varanasi-to-prayagraj
+  - varanasi-to-prayagraj-taxi
   - kashi-vishwanath-vip-darshan-booking
 ---
 
@@ -108,7 +108,7 @@ relatedPosts:
 
 - **अयोध्या जोड़ें (3 नगर):** [गोल्डन ट्रायंगल वाराणसी–अयोध्या–प्रयागराज पैकेज](/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package) ₹8,499/व्यक्ति से
 - **अयोध्या + बोध गया जोड़ें (4 नगर):** [दिव्य धाम पैकेज](/hi/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package) ₹12,000/व्यक्ति से
-- **सिर्फ ड्राइव व किराया:** [वाराणसी से प्रयागराज दूरी, टैक्सी किराया व विकल्प](/hi/varanasi-to-prayagraj)
+- **सिर्फ ड्राइव व किराया:** [वाराणसी से प्रयागराज दूरी, टैक्सी किराया व विकल्प](/hi/varanasi-to-prayagraj-taxi)
 - **इसके बजाय 2-नगर अयोध्या यात्रा:** [वाराणसी–अयोध्या टूर पैकेज](/hi/services/varanasi-ayodhya-tour-package)
 
 ---

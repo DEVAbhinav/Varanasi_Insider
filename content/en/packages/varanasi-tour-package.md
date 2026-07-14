@@ -641,7 +641,7 @@ Includes heritage palace accommodation (BrijRama Palace, Taj Ganges), private lu
 - Varanasi + Prayagraj tour package (3 days): ₹12,000–₹18,000 per person
 - Varanasi + Ayodhya + Prayagraj tour package (5 days): ₹18,000–₹28,000 per person
 
-> **Nearby pilgrimages**: [Varanasi to Vindhyachal Guide](/en/varanasi-to-vindhyachal) | [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary)
+> **Nearby pilgrimages**: [Varanasi to Vindhyachal Guide](/en/varanasi-to-vindhyachal-taxi) | [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary)
 
 ## Practical Tips for Varanasi Tour
 

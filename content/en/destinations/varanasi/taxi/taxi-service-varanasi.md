@@ -152,9 +152,9 @@ Round-the-clock [24/7 taxi service](/en/city/varanasi/taxi/24-7-taxi-varanasi) p
 | Varanasi Airport → City | ~25 km | from ₹700 | [Airport taxi](/en/varanasi-airport-taxi-price-guide) |
 | Railway station pickup | in-city | from ₹800 | [Station taxi](/en/city/varanasi/taxi/varanasi-railway-station-taxi-service) |
 | Full-day Kashi Darshan | 8 hr / 80 km | from ₹1,800 | [Day tour cab](/en/varanasi-day-tour-cab-charges) |
-| Varanasi → Vindhyachal | 65 km | from ₹2,000 | [Vindhyachal taxi](/en/varanasi-to-vindhyachal) |
-| Varanasi → Prayagraj | 121 km | from ₹2,500 | [Prayagraj taxi](/en/varanasi-to-prayagraj) |
-| Varanasi → Ayodhya | 200 km | from ₹3,500 | [Ayodhya taxi](/en/varanasi-to-ayodhya) |
+| Varanasi → Vindhyachal | 65 km | from ₹2,000 | [Vindhyachal taxi](/en/varanasi-to-vindhyachal-taxi) |
+| Varanasi → Prayagraj | 121 km | from ₹2,500 | [Prayagraj taxi](/en/varanasi-to-prayagraj-taxi) |
+| Varanasi → Ayodhya | 200 km | from ₹3,500 | [Ayodhya taxi](/en/varanasi-to-ayodhya-taxi) |
 | Varanasi → Bodh Gaya | 250 km | from ₹5,000 | [Bodh Gaya taxi](/en/varanasi-to-bodhgaya-taxi-cost) |
 | Varanasi → Nepal (Sunauli) | 290 km | from ₹3,000 | [Nepal taxi](/en/city/nepal/taxi/varanasi-to-nepal-taxi) |
 

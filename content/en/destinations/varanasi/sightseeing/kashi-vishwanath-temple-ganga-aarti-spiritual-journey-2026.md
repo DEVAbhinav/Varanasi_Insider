@@ -208,7 +208,7 @@ There is no rigidly enforced uniform, but the temple is an active place of worsh
 
 ### Getting to the Temple from Varanasi Junction & Airport
 
-Most pilgrims arrive via Varanasi Junction (Cantt) railway station. A shared auto to Godowlia runs ₹30–50 per seat; a **reserved auto from the railway station to Kashi Vishwanath Temple** is roughly ₹150–250, and a pre-booked taxi that clears the Godowlia corridor barricade is ₹300–500. From the airport it is 25–26 km. For fixed, tout-free fares and corridor drop, see the [Varanasi Airport to Kashi Vishwanath taxi guide](/en/varanasi-airport-to-kashi-vishwanath-distance) or WhatsApp **[99354 74730](https://wa.me/919935474730)**.
+Most pilgrims arrive via Varanasi Junction (Cantt) railway station. A shared auto to Godowlia runs ₹30–50 per seat; a **reserved auto from the railway station to Kashi Vishwanath Temple** is roughly ₹150–250, and a pre-booked taxi that clears the Godowlia corridor barricade is ₹300–500. From the airport it is 25–26 km. For fixed, tout-free fares and corridor drop, see the [Varanasi Airport to Kashi Vishwanath taxi guide](/en/varanasi-airport-to-kashi-vishwanath-taxi) or WhatsApp **[99354 74730](https://wa.me/919935474730)**.
 
 ---
 

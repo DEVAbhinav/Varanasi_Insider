@@ -155,7 +155,7 @@ After the sunrise session ends around 7:15 AM, you have several options:
 **Taxi-Linked Extensions:**
 
 - Book a noon [Varanasi to Sarnath Tempo Traveller](/en/varanasi-to-sarnath-tempo-traveller) run for a Buddhist circuit immediately after the set.
-- Reserve sunset drives to Prayagraj or Ayodhya using the [Varanasi to Prayagraj tour plan](/en/varanasi-to-prayagraj) and [Varanasi to Ayodhya taxi guide](/en/varanasi-to-ayodhya) if you're stitching a longer Sapta Puri journey around the festival weekend.
+- Reserve sunset drives to Prayagraj or Ayodhya using the [Varanasi to Prayagraj tour plan](/en/varanasi-to-prayagraj-taxi) and [Varanasi to Ayodhya taxi guide](/en/varanasi-to-ayodhya-taxi) if you're stitching a longer Sapta Puri journey around the festival weekend.
 
 ### Why This Specific Experience
 

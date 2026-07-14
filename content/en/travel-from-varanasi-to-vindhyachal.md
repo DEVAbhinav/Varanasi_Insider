@@ -42,7 +42,7 @@ faqSchema:
 
 Traveling from the spiritual city of Varanasi to the sacred Shaktipeeth of Vindhyachal is a journey that connects two of India's most powerful spiritual destinations. Located approximately 65-70 kilometers from Varanasi, Vindhyachal offers multiple transportation options to suit different budgets, comfort preferences, and group sizes.
 
-> **TL;DR:** Use this page when your question is **how to travel from Varanasi to Vindhyachal** and which mode is best: taxi, train, bus, or Tempo Traveller. If your question is mainly **distance and taxi fare**, use [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal). If your question is mainly **darshan sequence**, use [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary).
+> **TL;DR:** Use this page when your question is **how to travel from Varanasi to Vindhyachal** and which mode is best: taxi, train, bus, or Tempo Traveller. If your question is mainly **distance and taxi fare**, use [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal-taxi). If your question is mainly **darshan sequence**, use [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary).
 
 > 📞 **Book your Varanasi to Vindhyachal transport — WhatsApp +91 94503 01573**
 
@@ -51,7 +51,7 @@ Traveling from the spiritual city of Varanasi to the sacred Shaktipeeth of Vindh
 | What you need | Best page |
 |---|---|
 | Comparing taxi, train, bus and group vehicle options | **This page** |
-| Quick distance, taxi fare and same-day route info | [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal) |
+| Quick distance, taxi fare and same-day route info | [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal-taxi) |
 | 1-day or 2-day darshan itinerary | [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary) |
 | Navratri crowd strategy and festival planning | [Navratri Pilgrimage Vindhyachal from Varanasi Guide](/en/navratri-pilgrimage-vindhyachal-from-varanasi-guide) |
 | Overnight stay options in Vindhyachal | [Where to Stay in Vindhyachal](/en/services/where-to-stay-in-vindhyachal) |
@@ -99,7 +99,7 @@ Traveling from the spiritual city of Varanasi to the sacred Shaktipeeth of Vindh
 **Route:** Varanasi → Chandauli → Mughal Sarai → Vindhyachal  
 **Road Condition:** Well-maintained highway
 
-> For a quick answer on **distance, cab fare and same-day return costs**, see [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal).
+> For a quick answer on **distance, cab fare and same-day return costs**, see [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal-taxi).
 
 ## Booking Tips & Recommendations
 
@@ -150,7 +150,7 @@ The best option depends less on price alone and more on **how your darshan is st
 
 If your plan includes **Vindhyavasini darshan plus Ashtabhuja and Kali Khoh**, private road transport almost always wins on practicality.
 
-If your plan is already fixed as a same-day taxi darshan, the stronger next click is [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal). If your plan is already fixed as a temple sequence, the stronger next click is [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary).
+If your plan is already fixed as a same-day taxi darshan, the stronger next click is [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal-taxi). If your plan is already fixed as a temple sequence, the stronger next click is [Varanasi to Vindhyachal Itinerary](/en/varanasi-to-vindhyachal-itinerary).
 
 ## The Main Vindhyachal Temple Circuit
 
@@ -236,7 +236,7 @@ For solo or very light travellers, rail and bus are fine. For groups, parents an
 
 ## Best Pages To Use Next
 
-- [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal)
+- [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal-taxi)
 - [Vindhyachal Itinerary from Varanasi](/en/varanasi-to-vindhyachal-itinerary)
 - [Trikon Parikrama Guide](/en/trikon-parikrama-vindhyachal-complete-guide)
 - [Where to Stay in Vindhyachal](/en/services/where-to-stay-in-vindhyachal)

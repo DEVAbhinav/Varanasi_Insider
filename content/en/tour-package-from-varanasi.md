@@ -23,7 +23,7 @@ relatedPosts:
   - varanasi-tour-package-from-delhi
   - ayodhya-varanasi-3-day-tour
   - varanasi-to-ayodhya-tempo-traveller
-  - varanasi-to-prayagraj
+  - varanasi-to-prayagraj-taxi
   - varanasi-to-gaya-bodh-gaya-tour-package
   - family-tour-varanasi-3-days-parents
   - varanasi-with-friends-plan

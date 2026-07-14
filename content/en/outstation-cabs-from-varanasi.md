@@ -18,8 +18,8 @@ tags:
   - bodh gaya
 relatedPosts:
   - varanasi-transport-price-guide-2026
-  - varanasi-to-ayodhya
-  - varanasi-to-prayagraj
+  - varanasi-to-ayodhya-taxi
+  - varanasi-to-prayagraj-taxi
   - varanasi-to-gaya-bodh-gaya-tour-package
 ---
 
@@ -65,10 +65,10 @@ If your query is **book tempo traveller from Varanasi for Ayodhya**, here's our 
 
 ## Popular Outstation Routes (Guides)
 
-- Varanasi ↔ Ayodhya — [Route, itinerary, fares](/en/varanasi-to-ayodhya)
-- Varanasi ↔ Prayagraj — [Sangam day trip guide](/en/varanasi-to-prayagraj)
+- Varanasi ↔ Ayodhya — [Route, itinerary, fares](/en/varanasi-to-ayodhya-taxi)
+- Varanasi ↔ Prayagraj — [Sangam day trip guide](/en/varanasi-to-prayagraj-taxi)
 - Varanasi ↔ Gaya/Bodh Gaya — [Kashi–Gaya spiritual route](/en/varanasi-to-gaya-bodh-gaya-tour-package)
-- Varanasi ↔ Vindhyachal — [Shakti Peeth darshan](/en/varanasi-to-vindhyachal)
+- Varanasi ↔ Vindhyachal — [Shakti Peeth darshan](/en/varanasi-to-vindhyachal-taxi)
 
 ---
 
@@ -138,7 +138,7 @@ Roomy, AC, pushback seats, bottle holders, charging points.
 * **What affects *Varanasi to Ayodhya Innova fare*?** Total km (round-trip if same-day return), driver DA, tolls/state tax, night allowance (if late driving), halts.
   **CTA:** Message “**Ayodhya Innova quote**” with date/pax on WhatsApp for a precise fare.
 
-> See full guide: [Varanasi to Ayodhya](/en/varanasi-to-ayodhya)
+> See full guide: [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi)
 
 ### Varanasi ↔ Prayagraj (Allahabad)
 
@@ -146,9 +146,9 @@ Roomy, AC, pushback seats, bottle holders, charging points.
 * **Why many choose Ertiga?** Better space for 4–5 plus prasad/gifts on return.
   **Keyword fit:** *Varanasi sedan taxi for Prayagraj*.
 
-> See full guide: [Varanasi to Prayagraj](/en/varanasi-to-prayagraj)
+> See full guide: [Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi)
 
-> More routes: [Varanasi to Gaya/Bodh Gaya](/en/varanasi-to-gaya-bodh-gaya-tour-package) · [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal)
+> More routes: [Varanasi to Gaya/Bodh Gaya](/en/varanasi-to-gaya-bodh-gaya-tour-package) · [Varanasi to Vindhyachal](/en/varanasi-to-vindhyachal-taxi)
 
 ---
 

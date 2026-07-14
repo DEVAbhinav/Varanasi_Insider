@@ -20,8 +20,8 @@ keywords:
   - family travel varanasi tips
 relatedPosts:
   - tempo-traveller-rates-varanasi
-  - varanasi-to-ayodhya
-  - varanasi-to-prayagraj
+  - varanasi-to-ayodhya-taxi
+  - varanasi-to-prayagraj-taxi
 ---
 
 # एक टेम्पो या कई कारें? वाराणसी परिवारों के लिए प्रैक्टिकल तुलना
