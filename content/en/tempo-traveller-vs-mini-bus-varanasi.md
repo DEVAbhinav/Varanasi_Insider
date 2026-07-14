@@ -406,14 +406,14 @@ If your group is **23-26** and your itinerary is mainly highway/new city areas (
 
 If your group is **27+**, Mini Bus is your only single-vehicle option (or go multi-vehicle setup).
 
-**Gray zone (18-22 people):** Call me at **+91-XXXXXXXXXX**. I'll review your actual itinerary and give honest advice based on 15 years of experience. I have no incentive to push you toward the wrong vehicle.
+**Gray zone (18-22 people):** Call me at **+91 99354 74730**. I'll review your actual itinerary and give honest advice based on 15 years of experience. I have no incentive to push you toward the wrong vehicle.
 
 ## Book the Right Vehicle for Your Group
 
 **Get Expert Consultation:**
 
-📞 **Call Me Directly:** +91-XXXXXXXXXX – I'll help you decide  
-💬 **WhatsApp Quote:** +91-XXXXXXXXXX – Send group size + itinerary  
+📞 **Call Me Directly:** +91 99354 74730 – I'll help you decide  
+💬 **WhatsApp Quote:** +91 99354 74730 – Send group size + itinerary  
 🌐 **Book Online:** [www.banarasikashitaxi.com](https://www.banarasikashitaxi.com)  
 📧 **Email:** info@banarasikashitaxi.com
 

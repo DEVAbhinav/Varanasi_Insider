@@ -103,7 +103,7 @@ Most Varanasi taxi drivers take this route — it's the fastest and avoids Jaunp
 **What's extra:** Parking at Ram Mandir (₹100–₹150), night halt charges if overnight (₹300 driver stay).
 
 For exact group pricing, use the [Ayodhya tempo traveller fare page](/en/varanasi-to-ayodhya-tempo-traveller).  
-For live booking, use the [direct Varanasi to Ayodhya taxi page](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi).
+For live booking, use the [direct Varanasi to Ayodhya taxi page](/en/varanasi-to-ayodhya-taxi).
 
 ## Train vs Taxi: Honest Comparison
 

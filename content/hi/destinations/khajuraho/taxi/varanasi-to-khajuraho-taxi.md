@@ -78,7 +78,7 @@ faqSchema:
 |---|---|
 | सीधी खजुराहो कैब बुकिंग | **यही पेज** |
 | राम वनवास स्थल (चित्रकूट, रास्ते में) | [वाराणसी से चित्रकूट टैक्सी](/hi/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi) |
-| त्रिवेणी संगम (प्रयागराज) | [वाराणसी से प्रयागराज टैक्सी](/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi) |
+| त्रिवेणी संगम (प्रयागराज) | [वाराणसी से प्रयागराज टैक्सी](/hi/varanasi-to-prayagraj-taxi) |
 
 ## वाराणसी से खजुराहो टैक्सी किराया और गाड़ियाँ
 
@@ -120,7 +120,7 @@ faqSchema:
 ## मिलती-जुलती यात्राएँ
 
 - [वाराणसी से चित्रकूट टैक्सी](/hi/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi) — रास्ते में राम वनवास स्थल।
-- [वाराणसी से प्रयागराज टैक्सी](/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi) — त्रिवेणी संगम।
+- [वाराणसी से प्रयागराज टैक्सी](/hi/varanasi-to-prayagraj-taxi) — त्रिवेणी संगम।
 - और रूट: [वाराणसी से आउटस्टेशन कैब](/hi/outstation-cabs-from-varanasi)।
 
 ## बुकिंग कैसे करें

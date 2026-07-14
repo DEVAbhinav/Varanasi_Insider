@@ -187,7 +187,7 @@ Offline Booking:
 - At venue (subject to availability)
 
 VIP Packages:
-- Contact: +91-542-XXXX-XXX (TBA)
+- Contact: +91 99354 74730
 - Includes: Transportation, meals, backstage meet & greet
 - Price: ₹8,000-15,000 per person depending on package
 ```
@@ -464,7 +464,7 @@ Combined Package: ₹3,500 per person (all activities)
 ```
 📞 CONTACT INFORMATION:
 Official Website: www.gangamahotsav.com
-Booking Helpline: +91-542-XXXX-XXX (TBA October 2026)
+Booking Helpline: +91 99354 74730
 Email: bookings@gangamahotsav.com
 WhatsApp Support: Available during booking period
 Tourist Information: Varanasi Tourism Office

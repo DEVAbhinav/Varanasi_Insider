@@ -65,7 +65,7 @@ relatedPosts:
 
 Arriving by train and want to drop your bags fast without haggling with touts at the exit? Most travellers use **Varanasi Junction (Cantt, station code BSB)**, which has the widest choice of stays nearby. We help you book a clean, well-located hotel near the station — with a cab waiting at your platform and easy onward access to Kashi Vishwanath and the ghats.
 
-**Trust line:** Local Varanasi team since 2016 • Station pickup + stay + cab in one plan • Transparent from-prices
+**Why travelers pick us:** Local Varanasi team since 2016 • Station pickup + stay + cab in one plan • Transparent from-prices
 
 > **How we're different:** we publish starting prices and confirm the exact rate on WhatsApp, and we can have a driver meet you at the station — no touts, no confusion after a long train journey.
 

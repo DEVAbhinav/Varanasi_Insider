@@ -134,8 +134,8 @@ faqSchema:
 
 ## मिलती-जुलती यात्राएँ
 
-- [वाराणसी से अयोध्या टैक्सी](/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) — राम जन्मभूमि।
-- [वाराणसी से प्रयागराज टैक्सी](/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi) — त्रिवेणी संगम, रास्ते में।
+- [वाराणसी से अयोध्या टैक्सी](/hi/varanasi-to-ayodhya-taxi) — राम जन्मभूमि।
+- [वाराणसी से प्रयागराज टैक्सी](/hi/varanasi-to-prayagraj-taxi) — त्रिवेणी संगम, रास्ते में।
 - और रूट: [वाराणसी से आउटस्टेशन कैब](/hi/outstation-cabs-from-varanasi)।
 
 ## बुकिंग कैसे करें

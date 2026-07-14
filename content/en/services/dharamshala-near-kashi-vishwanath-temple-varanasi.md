@@ -69,7 +69,7 @@ relatedPosts:
 
 Most pilgrims want the same thing in Kashi: a **clean, cheap room within walking distance of the Kashi Vishwanath temple** so darshan and the evening Ganga Aarti are minutes away. The problem is that the best dharamshalas and pilgrim guest houses sit deep in the old-city lanes, rarely publish prices, and are hard to book from outside the city. We fix that — we find a clean one for your dates and confirm it before you travel.
 
-**Trust line:** Local Varanasi team since 2016 • Stay + darshan + cab in one plan • Honest from-prices, no touts
+**Why travelers pick us:** Local Varanasi team since 2016 • Stay + darshan + cab in one plan • Honest from-prices, no touts
 
 > **How we're different:** we publish starting prices and confirm the exact rate on WhatsApp. We check the ground truth — cleanliness, staircase, how close a car can reach — before we recommend anything.
 

@@ -193,7 +193,7 @@ We keep it simple:
 
 ---
 
-## Safety, Compliance & Service Standards (EEAT)
+## Safety, Compliance & Service Standards
 
 * **Commercial permits & insurance**; vehicles pass periodic fitness checks.
 * **Professional drivers** with intercity experience on Ayodhya/Prayagraj corridors.

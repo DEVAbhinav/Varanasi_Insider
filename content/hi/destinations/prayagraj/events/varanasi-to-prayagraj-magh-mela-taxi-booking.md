@@ -88,7 +88,7 @@ faqSchema:
 
 - [माघ मेला 2026 संपूर्ण यात्रा गाइड](/hi/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi)
 - [बुज़ुर्गों व परिवारों के लिए सुरक्षित माघ मेला टैक्सी](/hi/city/prayagraj/events/safe-taxi-magh-mela-seniors-families)
-- [वाराणसी से प्रयागराज टैक्सी](/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)
+- [वाराणसी से प्रयागराज टैक्सी](/hi/varanasi-to-prayagraj-taxi)
 
 ## बुकिंग कैसे करें
 

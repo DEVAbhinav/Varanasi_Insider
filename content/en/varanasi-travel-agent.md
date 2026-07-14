@@ -434,13 +434,13 @@ We respond within 1 business hour with:
 ## Customer Reviews: Best Tour Operators in Varanasi
 
 > *"Kashi Taxi made our family trip to Varanasi absolutely seamless. The driver was punctual, knowledgeable, and the tempo traveller was comfortable for our group of 12. Highly recommended tour operators!"*  
-> — **Priya Sharma**, Google Reviews (5/5) | [View Review](https://g.co/kgs/example)
+> — **Priya Sharma**, Google Reviews (5/5)
 
 > *"As a solo female traveler, I was nervous about exploring Varanasi. The Pink Taxi service with a lady driver made me feel completely safe. Professional service from true local tour operators."*  
 > — **Sarah Johnson**, Google Reviews (5/5)
 
 > *"Best Varanasi travel agent we could have found. Transparent pricing, no hidden charges, and they arranged everything from airport pickup to Sarnath tour. Will definitely book again."*  
-> — **Rajesh Kumar**, Google Reviews (5/5) | [View Review](https://g.co/kgs/example)
+> — **Rajesh Kumar**, Google Reviews (5/5)
 
 **Google Business Rating:** ⭐ 4.8/5 (600+ verified reviews)
 

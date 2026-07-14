@@ -102,7 +102,7 @@ faqSchema:
 
 - [अयोध्या-वाराणसी टूर (सारांश)](/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour)
 - [वाराणसी 3-दिन टूर](/hi/city/varanasi/tour-packages/varanasi-3-day-tour)
-- [वाराणसी से अयोध्या टैक्सी](/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi)
+- [वाराणसी से अयोध्या टैक्सी](/hi/varanasi-to-ayodhya-taxi)
 
 ## बुकिंग कैसे करें
 

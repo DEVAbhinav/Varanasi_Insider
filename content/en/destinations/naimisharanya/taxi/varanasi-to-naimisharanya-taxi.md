@@ -86,7 +86,7 @@ faqSchema:
 |---|---|
 | Direct Varanasi-Naimisharanya pilgrimage cab | **This page** |
 | Lucknow leg / overnight halt city | [Varanasi to Lucknow Taxi](/en/city/lucknow/taxi/varanasi-to-lucknow-taxi) |
-| Ayodhya, often added to a Naimish circuit | [Varanasi to Ayodhya Taxi](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) |
+| Ayodhya, often added to a Naimish circuit | [Varanasi to Ayodhya Taxi](/en/varanasi-to-ayodhya-taxi) |
 
 ## Why Plan This as a 2-Day Trip
 
@@ -132,7 +132,7 @@ We price this as a **2-day return (1 night)** because it gives you the route the
 ## Extend the Pilgrimage
 
 - [Varanasi to Lucknow Taxi](/en/city/lucknow/taxi/varanasi-to-lucknow-taxi) - the natural halfway halt and a worthwhile sightseeing stop.
-- [Varanasi to Ayodhya Taxi](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) - add Ram Janmabhoomi to your Naimish circuit.
+- [Varanasi to Ayodhya Taxi](/en/varanasi-to-ayodhya-taxi) - add Ram Janmabhoomi to your Naimish circuit.
 
 ## Planning a Comfortable Trip
 

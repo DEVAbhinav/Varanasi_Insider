@@ -64,7 +64,7 @@ relatedPosts:
 
 Flying in late or out early? We help you book a **convenient hotel near Lal Bahadur Shastri Airport (Babatpur)** — and we'll tell you honestly when it's smarter to stay in the city instead and take a timed airport transfer. Either way, your pickup and drop are sorted with fixed fares.
 
-**Trust line:** Local Varanasi team since 2016 • Stay + airport transfer in one plan • Transparent from-prices, honest advice
+**Why travelers pick us:** Local Varanasi team since 2016 • Stay + airport transfer in one plan • Transparent from-prices, honest advice
 
 > **How we're different:** we don't push an airport hotel if your flight times don't need one — we optimise for your actual schedule and comfort.
 

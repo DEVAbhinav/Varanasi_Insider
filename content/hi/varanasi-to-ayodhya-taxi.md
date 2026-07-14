@@ -153,7 +153,7 @@ keywords:
 
 ## संबंधित पेज
 
-- [वाराणसी से अयोध्या टैक्सी बुकिंग](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi)
+- [वाराणसी से अयोध्या टैक्सी बुकिंग](/en/varanasi-to-ayodhya-taxi)
 - [वाराणसी से अयोध्या टेंपो ट्रैवलर](/hi/varanasi-to-ayodhya-tempo-traveller)
 - [वाराणसी से प्रयागराज दूरी और किराया](/hi/varanasi-to-prayagraj-taxi)
 - [टूर पैकेज वाराणसी](/en/tour-package-from-varanasi)

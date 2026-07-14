@@ -74,7 +74,7 @@ relatedPosts:
 
 Two of India's most important pilgrimages — **Kashi** and **Ram Janmabhoomi** — in one smooth trip. This 2-night/3-day package pairs Kashi Vishwanath darshan, the Ganga Aarti and a sunrise boat ride in Varanasi with Ram Mandir, Hanuman Garhi and the Saryu Aarti in Ayodhya, all by private AC cab with a clear per-person price.
 
-**Trust line:** Local Varanasi team since 2016 • Private AC cab + darshan + boat coordination • Transparent per-person pricing
+**Why travelers pick us:** Local Varanasi team since 2016 • Private AC cab + darshan + boat coordination • Transparent per-person pricing
 
 > **TL;DR:** 2N/3D Varanasi–Ayodhya by private AC cab from **₹5,499/person** (group) up to ₹8,999/person (couple). Transport, transfers, tolls, fuel, permits and driver **included**. Hotel & tickets quoted separately or bundled. Book on WhatsApp.
 

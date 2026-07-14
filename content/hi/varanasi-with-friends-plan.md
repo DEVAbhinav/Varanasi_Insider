@@ -41,7 +41,7 @@ faqSchema:
 
 ## 4-दिन प्लान
 
-ऊपर का प्लान + एक दिन आसपास — सारनाथ को विस्तार से, या [विंध्याचल](/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi)/[जौनपुर](/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi) जैसी डे-ट्रिप।
+ऊपर का प्लान + एक दिन आसपास — सारनाथ को विस्तार से, या [विंध्याचल](/hi/varanasi-to-vindhyachal-taxi)/[जौनपुर](/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi) जैसी डे-ट्रिप।
 
 ## ठहरने के सस्ते विकल्प
 

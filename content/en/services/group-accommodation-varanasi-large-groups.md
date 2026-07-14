@@ -64,7 +64,7 @@ relatedPosts:
 
 Bringing a **family, pilgrim jatha, school trip or corporate group** to Kashi? We block **rooms, dormitories or a whole dharamshala together** near the ghats or temple — so your group stays in one place — and coordinate **group cabs, darshan and meals** through a single local contact. One plan, one person to call, a clear per-person price.
 
-**Trust line:** Local Varanasi team since 2016 • Stay + transport + darshan + meals in one plan • Transparent per-person pricing
+**Why travelers pick us:** Local Varanasi team since 2016 • Stay + transport + darshan + meals in one plan • Transparent per-person pricing
 
 > **How we're different:** group leaders deal with one coordinator, not five vendors — and we keep the group together instead of scattering it across the city.
 

@@ -252,7 +252,7 @@ Based on my January 2026 rates:
 - ✅ Multi-day tours
 - ✅ Corporate/wedding group logistics
 
-**Still confused?** Call me at **+91-XXXXXXXXXX** – I'll recommend honestly based on your specific situation. I've never pushed someone toward the more expensive option if it doesn't suit them.
+**Still confused?** Call me at **+91 99354 74730** – I'll recommend honestly based on your specific situation. I've never pushed someone toward the more expensive option if it doesn't suit them.
 
 ## My Transparent Booking Process
 
@@ -300,8 +300,8 @@ For groups of **8+ people**, Tempo Traveller wins on:
 
 **Book your Tempo Traveller now:**
 
-📱 **WhatsApp:** +91-XXXXXXXXXX (Quick quote in 5 minutes)  
-☎️ **Call:** +91-XXXXXXXXXX (Speak to me directly)  
+📱 **WhatsApp:** +91 99354 74730 (Quick quote in 5 minutes)  
+☎️ **Call:** +91 99354 74730 (Speak to me directly)  
 💻 **Book Online:** [www.banarasikashitaxi.com](https://www.banarasikashitaxi.com)  
 📧 **Email:** info@banarasikashitaxi.com
 

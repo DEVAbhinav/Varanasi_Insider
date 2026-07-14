@@ -92,7 +92,7 @@ faqSchema:
 
 - [वाराणसी से प्रयागराज माघ मेला टैक्सी बुकिंग](/hi/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking)
 - [बुज़ुर्गों व परिवारों के लिए सुरक्षित माघ मेला टैक्सी](/hi/city/prayagraj/events/safe-taxi-magh-mela-seniors-families)
-- [वाराणसी से प्रयागराज टैक्सी](/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)
+- [वाराणसी से प्रयागराज टैक्सी](/hi/varanasi-to-prayagraj-taxi)
 
 ## बुकिंग कैसे करें
 

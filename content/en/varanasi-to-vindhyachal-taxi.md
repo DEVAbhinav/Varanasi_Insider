@@ -167,6 +167,9 @@ Hiring a taxi remains the most convenient way to complete darshan without scramb
 | Tempo Traveller | 10 hrs · 200 km · escort add-on | **4,500–5,000** | Community groups |
 | One-Way Drop | Direct drop at Vindhyavasini gate (sedan) | **1,400–1,600** | Those staying overnight |
 
+**Included:** fuel, tolls, driver allowance, GST and waiting time at all three shrines (Vindhyavasini, Ashtabhuja, Kali Khoh).  
+**Not included:** panda/priest fees, prasad, and any extra stops beyond the Trikon Parikrama (e.g., Chunar Fort).
+
 ### Book Your Taxi {#book}
 > **Book Your Tour:** WhatsApp or call **+91 94503 01573** with travel date, headcount, and preferred pickup. Instant confirmation with driver + vehicle number the evening before travel.
 

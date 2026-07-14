@@ -34,7 +34,7 @@ faqSchema:
 
 यह एक संक्षिप्त गाइड है। दूरी, किराया, त्रिकोण परिक्रमा की विधि और बुकिंग सहित पूरी जानकारी के लिए हमारा विस्तृत पेज देखें:
 
-👉 **[वाराणसी से विंध्याचल टैक्सी (पूरी गाइड)](/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi)**
+👉 **[वाराणसी से विंध्याचल टैक्सी (पूरी गाइड)](/hi/varanasi-to-vindhyachal-taxi)**
 
 ## त्वरित जानकारी
 
@@ -47,8 +47,8 @@ faqSchema:
 
 ## और देखें
 
-- [वाराणसी से विंध्याचल टैक्सी (पूरी गाइड)](/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi)
-- [वाराणसी से प्रयागराज टैक्सी](/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)
+- [वाराणसी से विंध्याचल टैक्सी (पूरी गाइड)](/hi/varanasi-to-vindhyachal-taxi)
+- [वाराणसी से प्रयागराज टैक्सी](/hi/varanasi-to-prayagraj-taxi)
 - [वाराणसी से आउटस्टेशन कैब](/hi/outstation-cabs-from-varanasi)
 
 ## बुकिंग कैसे करें

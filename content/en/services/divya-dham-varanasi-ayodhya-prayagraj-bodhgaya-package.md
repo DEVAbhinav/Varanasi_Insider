@@ -79,7 +79,7 @@ relatedPosts:
 
 Four sacred cities, two great traditions, one seamless journey. The **Divya Dham** circuit takes you from **Kashi Vishwanath** in Varanasi to the **Ram Mandir** in Ayodhya, the **Triveni Sangam** in Prayagraj, and the **Mahabodhi Temple** in Bodh Gaya — where the Buddha attained enlightenment. One private cab, one driver, one clear per-person price.
 
-**Trust line:** Local Varanasi operator since 2016 • Private AC cab + driver included • Transparent per-person pricing • Hindi & English support
+**Why travelers pick us:** Local Varanasi operator since 2016 • Private AC cab + driver included • Transparent per-person pricing • Hindi & English support
 
 > **TL;DR:** 4-city Divya Dham by private AC cab from **₹12,000/person** (group) up to ₹17,999/person (couple). Transport, transfers, tolls, fuel, permits and driver **included**. Hotel & tickets quoted separately or bundled. Standard pacing 4N/5D. Book on WhatsApp — exact price confirmed before you pay.
 

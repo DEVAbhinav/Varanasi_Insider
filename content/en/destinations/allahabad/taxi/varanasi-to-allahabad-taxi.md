@@ -21,7 +21,7 @@ tags:
   - redirect
   - renamed
 template: destination
-canonical: https://www.kashitaxi.in/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi
+canonical: https://www.kashitaxi.in/en/varanasi-to-prayagraj-taxi
 relatedPosts:
   - varanasi-to-prayagraj-taxi
   - varanasi-to-ayodhya-taxi
@@ -44,7 +44,7 @@ faqSchema:
 
 **The complete taxi service information is now available at our updated page:**
 
-### 👉 [Varanasi to Prayagraj Taxi](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)
+### 👉 [Varanasi to Prayagraj Taxi](/en/varanasi-to-prayagraj-taxi)
 
 ---
 
@@ -110,7 +110,7 @@ faqSchema:
 - ✓ Customer reviews
 - ✓ Booking process
 
-### **👉 Visit: [Varanasi to Prayagraj Taxi - Complete Guide](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)**
+### **👉 Visit: [Varanasi to Prayagraj Taxi - Complete Guide](/en/varanasi-to-prayagraj-taxi)**
 
 ---
 
@@ -131,7 +131,7 @@ People searching for:
 - "Varanasi Allahabad taxi fare"
 - "Allahabad Sangam taxi"
 
-**All will find complete information at**: [Varanasi to Prayagraj Taxi Page](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)
+**All will find complete information at**: [Varanasi to Prayagraj Taxi Page](/en/varanasi-to-prayagraj-taxi)
 
 ---
 
@@ -139,8 +139,8 @@ People searching for:
 
 ### Similar Pilgrimage Routes
 
-- [Varanasi to Prayagraj Taxi](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi) - Main page ⭐
-- [Varanasi to Ayodhya Cab](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) - Ram Mandir
+- [Varanasi to Prayagraj Taxi](/en/varanasi-to-prayagraj-taxi) - Main page ⭐
+- [Varanasi to Ayodhya Cab](/en/varanasi-to-ayodhya-taxi) - Ram Mandir
 - [Varanasi to Gaya Taxi](/en/city/gaya/taxi/varanasi-to-gaya-taxi) - Pind-daan
 
 ### Religious Circuit Packages
@@ -152,7 +152,7 @@ People searching for:
 
 ---
 
-**Allahabad is now officially called Prayagraj.** For the most up-to-date route details, fares, and booking options, visit our main [Varanasi to Prayagraj](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi) page.
+**Allahabad is now officially called Prayagraj.** For the most up-to-date route details, fares, and booking options, visit our main [Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi) page.
 
 ---
 

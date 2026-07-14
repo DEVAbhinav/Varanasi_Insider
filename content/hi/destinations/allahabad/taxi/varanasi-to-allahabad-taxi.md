@@ -5,7 +5,7 @@ date: "2026-06-24"
 lastUpdated: "2026-06-24"
 author: "Kamal Nayan Singh"
 lang: hi
-canonical: https://www.kashitaxi.in/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi
+canonical: https://www.kashitaxi.in/hi/varanasi-to-prayagraj-taxi
 metaTitle: "वाराणसी से इलाहाबाद (प्रयागराज) टैक्सी ₹2,500"
 metaDescription: "वाराणसी से इलाहाबाद (प्रयागराज) टैक्सी ₹2,500 से। 120 किमी, 2.5 घंटे (NH19)। त्रिवेणी संगम दर्शन। बुकिंग: 99354 74730"
 description: "वाराणसी से इलाहाबाद (अब प्रयागराज) टैक्सी ₹2,500 से। त्रिवेणी संगम के लिए 120 किमी की यात्रा — पूरी गाइड हमारे प्रयागराज पेज पर।"
@@ -50,7 +50,7 @@ faqSchema:
 
 इस रूट की दूरी, किराया, संगम दर्शन के टिप्स, माघ मेला/कुंभ की जानकारी और बुकिंग — सब कुछ हमारे विस्तृत पेज पर है:
 
-👉 **[वाराणसी से प्रयागराज टैक्सी (पूरी गाइड)](/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)**
+👉 **[वाराणसी से प्रयागराज टैक्सी (पूरी गाइड)](/hi/varanasi-to-prayagraj-taxi)**
 
 ## त्वरित जानकारी
 

@@ -93,7 +93,7 @@ faqSchema:
 **What's extra:** Sangam boat ride (₹50–₹200/person), Sangam ghat parking (₹50–₹100).
 
 For exact group pricing: [Prayagraj tempo traveller fare page](/en/varanasi-to-prayagraj-tempo-traveller).  
-For direct booking: [Varanasi to Prayagraj taxi page](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi).
+For direct booking: [Varanasi to Prayagraj taxi page](/en/varanasi-to-prayagraj-taxi).
 
 ## Train vs Taxi: Honest Comparison
 
@@ -237,7 +237,7 @@ Prayagraj/Sangam pilgrims almost always start or end in Varanasi. Book the whole
 
 ## Related Pages
 
-- [Varanasi to Prayagraj Taxi — Direct Booking](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi)
+- [Varanasi to Prayagraj Taxi — Direct Booking](/en/varanasi-to-prayagraj-taxi)
 - [Varanasi to Prayagraj Tempo Traveller](/en/varanasi-to-prayagraj-tempo-traveller)
 - [Varanasi-Ayodhya-Prayagraj Pilgrimage Package](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi)
 - [Varanasi to Ayodhya Distance & Fare](/en/varanasi-to-ayodhya-taxi)

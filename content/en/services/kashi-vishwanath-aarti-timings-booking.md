@@ -68,7 +68,7 @@ relatedPosts:
 
 The daily aartis inside Kashi Vishwanath are the emotional heart of a Kashi visit — but the most sought-after ones (**Mangala Aarti** and **Sapt Rishi Aarti**) need limited, dated passes that sell out, and the timings shift with the temple calendar. We help you understand the schedule, plan around the current official system, book the right pass, and reach the correct gate on time.
 
-**Trust line:** Local Varanasi team since 2016 • Aarti + darshan + cab + boat coordination • Honest, no false "guaranteed seat" promises
+**Why travelers pick us:** Local Varanasi team since 2016 • Aarti + darshan + cab + boat coordination • Honest, no false "guaranteed seat" promises
 
 > **How we're different:** we share accurate current information and confirm a clear quote on WhatsApp. We never promise access the temple trust cannot guarantee, and we always point you to the official portal to verify rates and timings.
 

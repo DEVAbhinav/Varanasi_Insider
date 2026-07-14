@@ -86,7 +86,7 @@ relatedPosts:
 
 The spiritual **Golden Triangle** of Uttar Pradesh — **Kashi Vishwanath** in Varanasi, the **Ram Mandir** in Ayodhya, and the sacred **Triveni Sangam** in Prayagraj — in one smooth **3-night / 4-day** private-cab journey. One driver, one vehicle, one clear price. No hopping between agents, no hidden add-ons at the end.
 
-**Trust line:** Local Varanasi operator since 2016 • Private AC cab + driver included • Transparent per-person pricing • Hindi & English support
+**Why travelers pick us:** Local Varanasi operator since 2016 • Private AC cab + driver included • Transparent per-person pricing • Hindi & English support
 
 > **TL;DR:** 3N/4D Varanasi–Ayodhya–Prayagraj by private AC cab from **₹8,499/person** (group rate) up to ₹12,999/person (couple). Transport, transfers, tolls, fuel, permits and driver **included**. Hotel & tickets quoted separately or bundled. Book on WhatsApp — we confirm your exact price before you pay.
 

@@ -249,7 +249,7 @@ Based on my extensive experience, here are the best places for **Navratri fastin
 - **Location:** Near main temple, 200m walking
 - **Cost:** ₹150-300 per thali
 - **Why I Recommend:** They explicitly advertise "Navratri Vrat Thali"
-- **Advance Call:** +91-XXXXX-XXXXX (I can provide contact)
+- **Advance Call:** +91 99354 74730
 
 **2. Maa Vindhyavasini Pure Veg Restaurant**
 - **Specialty:** Custom fasting meals

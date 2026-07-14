@@ -67,7 +67,7 @@ relatedPosts:
 
 Many pilgrims come to Kashi not just for darshan but to perform a **Rudrabhishek**, a **Maha Mrityunjaya Jaap**, or another sankalp for family wellbeing. The catch is the lane game — vague pricing, "compulsory donations," and touts posing as pandits. We do the opposite: a genuine pandit, an itemised quote, and the ritual planned neatly around your darshan and cab.
 
-**Trust line:** Local Varanasi team since 2016 • Genuine pandits • Itemised quotes, no donation pressure
+**Why travelers pick us:** Local Varanasi team since 2016 • Genuine pandits • Itemised quotes, no donation pressure
 
 > **How we're different:** you get a clear scope and price for the puja before you commit — samagri, dakshina and coordination spelled out. No surprise "big donation" at the end.
 

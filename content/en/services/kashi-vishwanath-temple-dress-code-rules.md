@@ -57,7 +57,7 @@ relatedPosts:
 
 Planning darshan at **Kashi Vishwanath**? A little preparation saves a lot of time at the gate. Here's a **clear, practical guide** to what to wear, what you can (and can't) carry, mobile and cloakroom rules, and how to avoid queue delays — followed by local help if you'd rather have it all sorted for you.
 
-**Trust line:** Local Varanasi team since 2016 • Practical, respectful guidance • We always defer to official temple rules
+**Why travelers pick us:** Local Varanasi team since 2016 • Practical, respectful guidance • We always defer to official temple rules
 
 > **Please verify:** temple rules are set and updated by the **Shri Kashi Vishwanath Temple Trust**. Always confirm the current dress code, prohibited items and timings on **shrikashivishwanath.org** or with temple staff. The notes below are a practical guide, not official policy.
 

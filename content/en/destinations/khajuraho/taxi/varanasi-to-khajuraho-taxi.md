@@ -334,7 +334,7 @@ Early morning departure (4 AM), reach by noon, 3-4 hours at main temples, depart
 ### Similar Heritage Routes
 
 - [Varanasi to Lucknow Taxi](/en/city/lucknow/taxi/varanasi-to-lucknow-taxi) - 320 km | 6 hrs
-- [Varanasi to Prayagraj Cab](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi) - 120 km | 2.5 hrs
+- [Varanasi to Prayagraj Cab](/en/varanasi-to-prayagraj-taxi) - 120 km | 2.5 hrs
 - Varanasi to Orchha - 400 km | 8 hrs | Medieval fort town
 
 ### Heritage Circuit Packages

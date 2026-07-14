@@ -871,6 +871,15 @@ const nextConfig = {
       { source: '/hi/varanasi-to-vindhyachal', destination: '/hi/varanasi-to-vindhyachal-taxi', permanent: true },
       { source: '/en/assi-ghat-to-airport-distance', destination: '/en/assi-ghat-to-airport-taxi', permanent: true },
 
+      // Consolidation: thin deep route duplicates merged into the stronger
+      // root `-taxi` pages (which hold the GSC traffic). Deep URLs 301 → root.
+      { source: '/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi', destination: '/en/varanasi-to-ayodhya-taxi', permanent: true },
+      { source: '/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi', destination: '/hi/varanasi-to-ayodhya-taxi', permanent: true },
+      { source: '/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi', destination: '/en/varanasi-to-prayagraj-taxi', permanent: true },
+      { source: '/hi/city/prayagraj/taxi/varanasi-to-prayagraj-taxi', destination: '/hi/varanasi-to-prayagraj-taxi', permanent: true },
+      { source: '/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi', destination: '/en/varanasi-to-vindhyachal-taxi', permanent: true },
+      { source: '/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi', destination: '/hi/varanasi-to-vindhyachal-taxi', permanent: true },
+
       ...buildDistanceToTaxiRedirects(),
       ...buildRootCanonicalRedirects(),
       ...buildScopedRootRedirects(),

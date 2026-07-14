@@ -96,7 +96,7 @@ faqSchema:
 ## और देखें
 
 - [अयोध्या-वाराणसी टूर](/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour) — दो शहर, दो आरती।
-- [वाराणसी से अयोध्या टैक्सी](/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi)
+- [वाराणसी से अयोध्या टैक्सी](/hi/varanasi-to-ayodhya-taxi)
 - रूट देखें: [वाराणसी से आउटस्टेशन कैब](/hi/outstation-cabs-from-varanasi)।
 
 ## बुकिंग कैसे करें

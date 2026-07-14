@@ -81,7 +81,7 @@ faqSchema:
 | आपको क्या चाहिए | सबसे अच्छा पेज |
 |---|---|
 | सीधी लखनऊ कैब बुकिंग | **यही पेज** |
-| रास्ते में राम जन्मभूमि (अयोध्या) | [वाराणसी से अयोध्या टैक्सी](/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) |
+| रास्ते में राम जन्मभूमि (अयोध्या) | [वाराणसी से अयोध्या टैक्सी](/hi/varanasi-to-ayodhya-taxi) |
 | आगे नैमिष धाम तीर्थ | [वाराणसी से नैमिषारण्य टैक्सी](/hi/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi) |
 
 ## वाराणसी से लखनऊ टैक्सी किराया और गाड़ियाँ
@@ -132,7 +132,7 @@ faqSchema:
 
 ## मिलती-जुलती यात्राएँ
 
-- [वाराणसी से अयोध्या टैक्सी](/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) — राम जन्मभूमि, रास्ते में।
+- [वाराणसी से अयोध्या टैक्सी](/hi/varanasi-to-ayodhya-taxi) — राम जन्मभूमि, रास्ते में।
 - [वाराणसी से नैमिषारण्य टैक्सी](/hi/city/naimisharanya/taxi/varanasi-to-naimisharanya-taxi) — पौराणिक तीर्थ, लखनऊ के आगे।
 - और रूट: [वाराणसी से आउटस्टेशन कैब](/hi/outstation-cabs-from-varanasi)।
 

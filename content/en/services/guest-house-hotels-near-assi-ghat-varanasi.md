@@ -64,7 +64,7 @@ relatedPosts:
 
 If you want the ghats without the crush of the old-city lanes, **Assi Ghat** is the sweet spot — calmer, greener, with cafes, morning yoga, its own sunrise aarti, and easy access to a sunrise boat ride. It's also easier to reach by car than the central ghats, which makes it a favourite for families and longer stays. We help you book a clean guest house, homestay or hotel near Assi with honest prices.
 
-**Trust line:** Local Varanasi team since 2016 • Stay + boat + darshan + cab in one plan • Transparent from-prices
+**Why travelers pick us:** Local Varanasi team since 2016 • Stay + boat + darshan + cab in one plan • Transparent from-prices
 
 > **How we're different:** we publish starting prices, confirm the exact rate on WhatsApp, and check car access and cleanliness before we recommend a property.
 

@@ -80,7 +80,7 @@ relatedPosts:
 
 Where you sleep in Varanasi decides how your whole trip feels — how far you walk to darshan, whether a cab can reach your door at 5 AM for the sunrise boat, and how much you overpay. We book **clean, well-located stays across every budget** and **show you the prices** — no "call for charges" runaround.
 
-**Trust line:** Local Varanasi team since 2016 • Dormitory to comfortable hotels • Stay + Cab + Darshan + Boat in one plan • Hindi & English
+**Why travelers pick us:** Local Varanasi team since 2016 • Dormitory to comfortable hotels • Stay + Cab + Darshan + Boat in one plan • Hindi & English
 
 > **TL;DR:** Dormitory beds **from ₹500/night**, budget rooms from ~₹1,200, homestays from ~₹1,800, mid-range family hotels from ~₹2,500 — near the ghats, Kashi Vishwanath, and Assi. We bundle stay + cab + darshan + boat. Prices confirmed on WhatsApp before you pay.
 

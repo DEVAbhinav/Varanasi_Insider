@@ -30,8 +30,6 @@ seoNote: "Consolidated into evening boat ride guide to reduce duplication; keep 
 | Motorboat (≤15 pax)    | ₹4,000–₹6,000      | 2–3×          | More vibration; faster reposition |
 | Luxury Bajra           | ₹10,000+           | 3–5×          | Elevated deck & comfort |
 
-Next step: Implement 301 → /en/evening-boat-ride-varanasi-ganga-aarti/ in redirects config (planned). Remove this stub from sitemap once redirect live.
-
 ### Quick FAQ
 - **Varanasi ganga aarti booking** and **ganga aarti booking varanasi**: WhatsApp [+91 99354 74730](https://wa.me/919935474730?text=Ganga%20Aarti%20boat%20booking) for live seat hold; **varanasi ganga aarti boat booking price** starts at ₹250 shared.
 - **Ganga aarti varanasi booking** confirmation: dispatch shares boat number + boarding ghat within 5 minutes.

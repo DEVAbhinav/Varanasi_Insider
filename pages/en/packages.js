@@ -41,7 +41,7 @@ export async function getStaticProps() {
 export default function PackagesPage({ packages, jsonLd }) {
   const nonPackageLinks = [
     {
-      href: '/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi',
+      href: '/en/varanasi-to-ayodhya-taxi',
       title: 'Direct Ayodhya taxi booking',
       description: 'Use this when you already know you want a direct sedan or SUV booking, not a bundled pilgrimage package.',
     },

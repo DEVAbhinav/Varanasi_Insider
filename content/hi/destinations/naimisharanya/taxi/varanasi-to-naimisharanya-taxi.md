@@ -134,7 +134,7 @@ faqSchema:
 ## मिलती-जुलती यात्राएँ
 
 - [वाराणसी से लखनऊ टैक्सी](/hi/city/lucknow/taxi/varanasi-to-lucknow-taxi) — रास्ते में आधे पड़ाव का शहर।
-- [वाराणसी से अयोध्या टैक्सी](/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) — राम जन्मभूमि, सर्किट में जोड़ें।
+- [वाराणसी से अयोध्या टैक्सी](/hi/varanasi-to-ayodhya-taxi) — राम जन्मभूमि, सर्किट में जोड़ें।
 - और रूट: [वाराणसी से आउटस्टेशन कैब](/hi/outstation-cabs-from-varanasi)।
 
 ## बुकिंग कैसे करें

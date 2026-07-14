@@ -74,8 +74,6 @@ This **force urbania hire varanasi** guide clarifies upgrade value for comfort�
 | --- | --- | --- |
 | ![Multiple premium vehicles for split cohorts varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Multi_Urbania-Square.jpeg "Parallel deployment – larger delegations") | ![Standard tempo traveller side profile comparator](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Benchmark – baseline comfort tier") | ![Ambient lighting inside premium group van](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Lighting mood – reduced visual fatigue") |
 
-> Authentic Kushinagar / Rajgir / Nalanda route shots will replace comparator placeholders after next field imagery run.
-
 ### Additional Visual Matrix
 | Multi Urbania Fleet | Urbania Front Wide | Standard Fleet Exterior |
 | --- | --- | --- |

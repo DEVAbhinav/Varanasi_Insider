@@ -87,7 +87,7 @@ faqSchema:
 |---|---|
 | Direct Varanasi-Mathura/Vrindavan cab or Braj tour | **This page** |
 | Agra & Taj Mahal (on the same route) | [Varanasi to Agra Taxi](/en/city/agra/taxi/varanasi-to-agra-taxi) |
-| Prayagraj Triveni Sangam (first leg) | [Varanasi to Prayagraj Taxi](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi) |
+| Prayagraj Triveni Sangam (first leg) | [Varanasi to Prayagraj Taxi](/en/varanasi-to-prayagraj-taxi) |
 
 ## Why a Multi-Day Braj Yatra
 
@@ -141,7 +141,7 @@ Because Agra sits squarely on this route, **combining Braj with a Taj Mahal visi
 ## Extend the Trip
 
 - [Varanasi to Agra Taxi](/en/city/agra/taxi/varanasi-to-agra-taxi) - the Taj Mahal stop on the way to Braj.
-- [Varanasi to Prayagraj Taxi](/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi) - Triveni Sangam, an easy first-leg halt.
+- [Varanasi to Prayagraj Taxi](/en/varanasi-to-prayagraj-taxi) - Triveni Sangam, an easy first-leg halt.
 
 ## Planning a Comfortable Trip
 

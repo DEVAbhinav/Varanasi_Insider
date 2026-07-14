@@ -70,7 +70,7 @@ relatedPosts:
 
 Want to visit the **Ram Mandir at Ayodhya** from Varanasi without juggling cabs, hotels and darshan queues? We run a **fixed-price Ayodhya package** — comfortable cab, hotel, and darshan help at **Ram Janmabhoomi, Hanumangarhi and the Saryu Aarti** — with one local team coordinating everything and a transparent per-person price.
 
-**Trust line:** Local Varanasi team since 2016 • Cab + hotel + darshan in one fixed price • Honest pricing, no false promises
+**Why travelers pick us:** Local Varanasi team since 2016 • Cab + hotel + darshan in one fixed price • Honest pricing, no false promises
 
 > **How we're different:** one fixed per-person price and one coordinator — instead of separately haggling a cab, a hotel and darshan help. We follow official temple rules and never promise guaranteed entry.
 

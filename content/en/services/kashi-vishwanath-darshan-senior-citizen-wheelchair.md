@@ -64,7 +64,7 @@ relatedPosts:
 
 Taking **elderly parents** or a **wheelchair user** for darshan at Kashi Vishwanath? We make it as **comfortable and low-walking as possible** — a cab right up to the nearest gate, an escort to assist your family, and honest advice on the least tiring route and timing. Your loved ones darshan with dignity, and you don't have to worry about the logistics.
 
-**Trust line:** Local Varanasi team since 2016 • Comfort-first for elders • Honest advice, no false promises
+**Why travelers pick us:** Local Varanasi team since 2016 • Comfort-first for elders • Honest advice, no false promises
 
 > **Important & honest:** we assist with the journey, cab and escort. Wheelchair facilities and any special access inside the temple are managed by the official administration — please verify current facilities on **shrikashivishwanath.org** or with temple staff. We never promise "guaranteed entry."
 

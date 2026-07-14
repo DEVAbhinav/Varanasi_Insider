@@ -75,7 +75,7 @@ relatedPosts:
 
 Kashi and the **Triveni Sangam** — the sacred confluence of the Ganga, Yamuna and the mythical Saraswati — make a natural short pilgrimage. Because Prayagraj is only ~120 km away, this 1-night/2-day package (or a long day trip) pairs Kashi Vishwanath darshan, the Ganga Aarti and a sunrise boat ride in Varanasi with the Sangam snan and Prayagraj's key temples, all by private AC cab at a clear per-person price.
 
-**Trust line:** Local Varanasi team since 2016 • Private AC cab + darshan + boat coordination • Transparent per-person pricing
+**Why travelers pick us:** Local Varanasi team since 2016 • Private AC cab + darshan + boat coordination • Transparent per-person pricing
 
 > **TL;DR:** 1N/2D Varanasi–Prayagraj by private AC cab from **₹3,499/person** (group) up to ₹5,999/person (couple). Transport, transfers, tolls, fuel, permits and driver **included**. Hotel & boat/tickets quoted separately or bundled. Long day-trip option available. Book on WhatsApp.
 

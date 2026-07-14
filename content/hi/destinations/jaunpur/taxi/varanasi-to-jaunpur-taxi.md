@@ -81,8 +81,8 @@ faqSchema:
 | आपको क्या चाहिए | सबसे अच्छा पेज |
 |---|---|
 | सीधी जौनपुर साइटसीइंग कैब | **यही पेज** |
-| विंध्यवासिनी शक्तिपीठ डे-ट्रिप | [वाराणसी से विंध्याचल टैक्सी](/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi) |
-| अयोध्या (जौनपुर रास्ते में) | [वाराणसी से अयोध्या टैक्सी](/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) |
+| विंध्यवासिनी शक्तिपीठ डे-ट्रिप | [वाराणसी से विंध्याचल टैक्सी](/hi/varanasi-to-vindhyachal-taxi) |
+| अयोध्या (जौनपुर रास्ते में) | [वाराणसी से अयोध्या टैक्सी](/hi/varanasi-to-ayodhya-taxi) |
 
 ## वाराणसी से जौनपुर टैक्सी किराया और गाड़ियाँ
 
@@ -124,8 +124,8 @@ faqSchema:
 
 ## मिलती-जुलती यात्राएँ
 
-- [वाराणसी से अयोध्या टैक्सी](/hi/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) — राम जन्मभूमि, रास्ते में।
-- [वाराणसी से विंध्याचल टैक्सी](/hi/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi) — शक्तिपीठ दर्शन।
+- [वाराणसी से अयोध्या टैक्सी](/hi/varanasi-to-ayodhya-taxi) — राम जन्मभूमि, रास्ते में।
+- [वाराणसी से विंध्याचल टैक्सी](/hi/varanasi-to-vindhyachal-taxi) — शक्तिपीठ दर्शन।
 - और रूट: [वाराणसी से आउटस्टेशन कैब](/hi/outstation-cabs-from-varanasi)।
 
 ## बुकिंग कैसे करें

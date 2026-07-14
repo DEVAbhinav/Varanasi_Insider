@@ -81,8 +81,8 @@ faqSchema:
 | What you need | Best page |
 |---|---|
 | Direct Varanasi-Jaunpur sightseeing cab | **This page** |
-| Vindhyavasini Shakti Peeth day-trip | [Varanasi to Vindhyachal Taxi](/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi) |
-| Ayodhya pilgrimage (Jaunpur is en route) | [Varanasi to Ayodhya Taxi](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) |
+| Vindhyavasini Shakti Peeth day-trip | [Varanasi to Vindhyachal Taxi](/en/varanasi-to-vindhyachal-taxi) |
+| Ayodhya pilgrimage (Jaunpur is en route) | [Varanasi to Ayodhya Taxi](/en/varanasi-to-ayodhya-taxi) |
 
 ## What to See in Jaunpur
 
@@ -119,8 +119,8 @@ faqSchema:
 
 ## Combine With
 
-- [Varanasi to Ayodhya Taxi](/en/city/ayodhya/taxi/varanasi-to-ayodhya-taxi) - Jaunpur is the first town on this road; pause here on the way to Ram Mandir.
-- [Varanasi to Vindhyachal Taxi](/en/city/vindhyachal/taxi/varanasi-to-vindhyachal-taxi) - pair a heritage morning with a Shakti Peeth pilgrimage.
+- [Varanasi to Ayodhya Taxi](/en/varanasi-to-ayodhya-taxi) - Jaunpur is the first town on this road; pause here on the way to Ram Mandir.
+- [Varanasi to Vindhyachal Taxi](/en/varanasi-to-vindhyachal-taxi) - pair a heritage morning with a Shakti Peeth pilgrimage.
 
 ## Planning a Comfortable Trip
 

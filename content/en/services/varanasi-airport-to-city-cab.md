@@ -187,7 +187,7 @@ Use these links for detailed turn-by-turn routes, ghat barricade intel, and back
 | Dev Deepawali micro-shuttle | +₹350 | Last-mile e-rickshaw/porter in barricaded ghats |
 | Pink Taxi handover | Complimentary | Women-only onward ride within city |
 
-## Proof of Trust & Safety (E-E-A-T)
+## Proof of Trust & Safety
 
 - **Experience since 1998:** Family-run Banarasi Kashitaxi dispatches 150+ monthly airport-to-city cabs with <1% reassignments.
 - **Police-verified drivers:** IDs and permits are kept in our records and shared on WhatsApp before pickup to reduce tout risk.

@@ -64,7 +64,7 @@ relatedPosts:
 
 If you want to be **walking distance from Kashi Vishwanath and the Ganga Aarti** without paying heritage-hotel prices, **Godowlia** is the sweet spot — the crossing just outside the old-city lanes, with the widest choice of clean budget hotels and guest houses. We help you book a good one for your dates with an honest price and clear notes on lane access.
 
-**Trust line:** Local Varanasi team since 2016 • Stay + darshan + boat + cab in one plan • Transparent from-prices, no touts
+**Why travelers pick us:** Local Varanasi team since 2016 • Stay + darshan + boat + cab in one plan • Transparent from-prices, no touts
 
 > **How we're different:** we publish starting prices, confirm the exact rate on WhatsApp, and tell you honestly how close a car can reach and how far you'll walk.
 
