@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Triveni Sangam Tempo Traveller ₹9,300 | Sunrise Snan"
 description: "Lock your private boat, priest concierge, and dressing tents for dawn snan. Crowd control, ORS halts, and elder care handled—reserve 2026 slots today."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [triveni sangam, prayagraj, tempo traveller, snan, pilgrimage]
 keywords:
   - varanasi to triveni sangam tempo traveller

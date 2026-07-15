@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी से बोधगया टैक्सी 2026: ₹5000 किराया, रूट व व्हाट्सऐप स्क्रिप्ट"
 slug: "varanasi-to-bodhgaya-taxi-cost"
-date: "2026-07-28"
-lastUpdated: "2026-07-28"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg"

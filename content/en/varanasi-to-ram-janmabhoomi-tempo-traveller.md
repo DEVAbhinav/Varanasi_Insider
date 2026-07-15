@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Ram Janmabhoomi Traveller | Security Fast-Track Guide"
 description: "Navigate frisking lanes, lockers, and express queues with our security liaison, ₹14.8k Traveller package, and live crowd alerts—lock your preferred darshan window now."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [ram janmabhoomi, ayodhya, tempo traveller, pilgrimage, security]
 keywords:
   - varanasi to ram janmabhoomi tempo traveller

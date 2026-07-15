@@ -1,8 +1,8 @@
 ---
 title: "Dev Deepawali Boat Booking 2026: Front-Row Ganga Aarti Views [Best Price]"
 slug: "dev-deepawali-boat-ride-pricing-guide-2026"
-date: "2026-09-30"
-lastUpdated: "2026-09-30"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-boat-evening-p.jpeg"

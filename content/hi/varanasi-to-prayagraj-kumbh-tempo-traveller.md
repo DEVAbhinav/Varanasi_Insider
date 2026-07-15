@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-prayagraj-kumbh-tempo-traveller
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "वाराणसी से प्रयागराज कुम्भ Tempo Traveller | स्नान तिथियाँ, शिविर और ट्रैफिक योजना"
 description: "2026-26 प्रयागराज कुम्भ के लिए वाराणसी से टेम्पो ट्रैवलर: स्नान तिथियाँ, स्नान कुंड लॉजिस्टिक्स, पार्किंग पास, टेंट सिटी विकल्प और किराया।"

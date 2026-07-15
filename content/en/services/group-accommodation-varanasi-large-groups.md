@@ -111,4 +111,4 @@ Bringing a **family, pilgrim jatha, school trip or corporate group** to Kashi? W
 
 [Get a group accommodation plan on WhatsApp →](https://wa.me/919935474730?text=I%20need%20group%20accommodation%20in%20Varanasi)
 
-*Kashitaxi.in is a local Varanasi travel operator. Starting prices are indicative and vary by group size, dates and availability; the exact per-person quote is confirmed on WhatsApp before booking.*
+*Kashi Taxi is a local Varanasi travel operator. Starting prices are indicative and vary by group size, dates and availability; the exact per-person quote is confirmed on WhatsApp before booking.*

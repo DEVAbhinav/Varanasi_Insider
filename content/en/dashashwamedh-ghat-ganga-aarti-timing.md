@@ -1,7 +1,7 @@
 ---
 title: "Dashashwamedh Ghat Aarti Time 2026: Evening Timing, Best View & Boat Tips"
 slug: "dashashwamedh-ghat-ganga-aarti-timing"
-date: "2026-07-22"
+date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN

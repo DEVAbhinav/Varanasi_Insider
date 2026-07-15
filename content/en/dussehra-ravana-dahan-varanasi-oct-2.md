@@ -1,8 +1,8 @@
 ---
 title: "Dussehra Ravana Dahan Varanasi October 2, 2026: Complete Festival Guide & Transport Booking"
 slug: "dussehra-ravana-dahan-varanasi-oct-2"
-date: "2026-09-29"
-lastUpdated: "2026-09-29"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 
@@ -77,7 +77,7 @@ relatedPosts:
   - book-taxi-varanasi-ramlila-dussehra
 ---
 
-# Your Guide to Dussehra (Ravana Dahan) in Varanasi on Oct 2nd
+## Your Guide to Dussehra (Ravana Dahan) in Varanasi on Oct 2nd
 
 > **TL;DR:** October 2 Dussehra in Varanasi overlaps Gandhi Jayanti, so expect double security layers around Lanka, Sigra, and BHU effigy grounds; reach entrances by 6 PM, pre-book your Varanasi festival transport, and align exit meet-points before fireworks flare. Micro-tip: keep a spare UPI-lite account ready because mobile networks wobble during dispersal.
 

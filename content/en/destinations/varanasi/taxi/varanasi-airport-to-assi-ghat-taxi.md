@@ -1,8 +1,8 @@
 ---
 title: "Airport to Assi Ghat for Morning Aarti: ₹800 | 4:30 AM Pickup Available"
 slug: "varanasi-airport-to-assi-ghat-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-11-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS→Assi Ghat Taxi ₹800 | Subah-e-Banaras, BHU, Café Access"

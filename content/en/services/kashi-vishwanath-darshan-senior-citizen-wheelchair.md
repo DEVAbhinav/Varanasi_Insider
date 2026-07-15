@@ -111,4 +111,4 @@ Taking **elderly parents** or a **wheelchair user** for darshan at Kashi Vishwan
 
 [Get comfortable senior darshan help on WhatsApp →](https://wa.me/919935474730?text=I%20need%20comfortable%20darshan%20help%20for%20elderly%20parents%20at%20Kashi%20Vishwanath)
 
-*Kashitaxi.in is a local Varanasi travel operator, not the temple administration. We assist with cabs, escort and coordination; official darshan facilities, wheelchair provision and rates are set by the Shri Kashi Vishwanath Temple Trust — always verify on shrikashivishwanath.org. We never promise guaranteed entry or special access.*
+*Kashi Taxi is a local Varanasi travel operator, not the temple administration. We assist with cabs, escort and coordination; official darshan facilities, wheelchair provision and rates are set by the Shri Kashi Vishwanath Temple Trust — always verify on shrikashivishwanath.org. We never promise guaranteed entry or special access.*

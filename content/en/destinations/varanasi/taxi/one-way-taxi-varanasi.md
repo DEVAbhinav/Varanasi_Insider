@@ -1,11 +1,11 @@
 ---
-title: One-Way Taxi & Round-Trip Cab Service in Varanasi | KashiTaxi
+title: One-Way Taxi & Round-Trip Cab Service in Varanasi | Kashi Taxi
 slug: one-way-taxi-varanasi
-date: '2026-11-25'
-lastUpdated: '2026-11-25'
+date: '2026-07-15'
+lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: One-Way Taxi & Round-Trip Cab Service in Varanasi | KashiTaxi
+metaTitle: One-Way Taxi & Round-Trip Cab Service in Varanasi | Kashi Taxi
 metaDescription: >-
   Book one-way and round-trip taxis in Varanasi. Flexible drop-off, transparent
   pricing, professional drivers. Airport, hotels, stations available.
@@ -66,7 +66,7 @@ relatedPosts:
 
 ## Flexible Taxi Solutions for All Your Travel Needs
 
-Whether you need a **simple one-way transfer** to a hotel or a **round-trip package for your complete stay**, KashiTaxi offers flexible, transparent pricing for all your Varanasi travel needs. One-way and round-trip trips are both part of our wider [taxi service in Varanasi](/).
+Whether you need a **simple one-way transfer** to a hotel or a **round-trip package for your complete stay**, Kashi Taxi offers flexible, transparent pricing for all your Varanasi travel needs. One-way and round-trip trips are both part of our wider [taxi service in Varanasi](/).
 
 ## Varanasi One-Way Taxi Service - Point-to-Point Transfers
 

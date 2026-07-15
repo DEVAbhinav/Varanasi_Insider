@@ -128,6 +128,13 @@ export async function getStaticProps({ params }) {
     return { notFound: true };
   }
 
+  // ServiceHero renders the page <h1>, so demote the markdown body's leading
+  // H1 to H2 to keep a single H1 per page.
+  if (postData.contentHtml) {
+    const { demoteContentHeadings } = await import('../../../lib/markdown');
+    postData.contentHtml = demoteContentHeadings(postData.contentHtml);
+  }
+
   const siteUrl = 'https://www.kashitaxi.in';
   const pageUrl = `${siteUrl}/${params.lang}/services/${params.slug}`;
   const hasGraphType = (typeName) =>

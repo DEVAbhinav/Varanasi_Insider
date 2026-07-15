@@ -125,7 +125,7 @@ Here's the honest breakdown:
 | Option | Fare | Time | Best For |
 |---|---|---|---|
 | **Prepaid taxi booth** (airport counter) | ₹850–₹1,100 | 50–70 min | Solo, couples — queue can be 15–20 min |
-| **KashiTaxi pre-booked sedan** | ₹899 flat | 45–60 min | Zero wait, driver at arrivals gate with placard |
+| **Kashi Taxi pre-booked sedan** | ₹899 flat | 45–60 min | Zero wait, driver at arrivals gate with placard |
 | **Ola/Uber** | ₹620–₹900 | 45–70 min | Variable availability, surge pricing at peak |
 | **Auto-rickshaw** | ₹500–₹700 (negotiate) | 55–75 min | Budget option, no AC, bumpy ride |
 | **UPSRTC bus** | ₹50–₹80 | 90+ min | Ultra-budget, infrequent |

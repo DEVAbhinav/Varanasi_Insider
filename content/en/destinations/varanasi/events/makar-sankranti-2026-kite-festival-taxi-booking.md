@@ -1,8 +1,8 @@
 ---
 title: "Makar Sankranti 2026 Kite Festival Taxi Booking Hub – Varanasi"
 slug: "makar-sankranti-2026-kite-festival-taxi-booking"
-date: "2026-12-06"
-lastUpdated: "2026-12-06"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Makar Sankranti 2026 Kite Festival Taxi Booking Hub – Varanasi"
@@ -14,7 +14,7 @@ keywords:
   - "Varanasi kite festival taxi"
   - "Makar Sankranti ghat drop-off"
   - "Varanasi rooftop kite packages"
-  - "KashiTaxi Makar Sankranti"
+  - "Kashi Taxi Makar Sankranti"
   - "Makar Sankranti morning snan transport"
 tags:
   - events
@@ -34,9 +34,8 @@ offers:
   - price: "1200"
     priceCurrency: "INR"
 organizer:
-  name: "KashiTaxi"
+  name: "Kashi Taxi"
   url: "https://www.kashitaxi.in"
-
 ---
 
 # Makar Sankranti 2026 Kite Festival Taxi Booking Hub for Varanasi

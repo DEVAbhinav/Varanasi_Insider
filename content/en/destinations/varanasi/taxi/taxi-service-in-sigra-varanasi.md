@@ -1,8 +1,8 @@
 ---
 title: 'Reliable Taxi Service in Sigra, Varanasi (Near Shastri Nagar & IP Mall)'
 slug: taxi-service-in-sigra-varanasi
-date: '2026-12-09'
-lastUpdated: '2026-12-09'
+date: '2026-07-15'
+lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
 metaTitle: 'Sigra Taxi Service Varanasi: 10–15 min | From ₹800'

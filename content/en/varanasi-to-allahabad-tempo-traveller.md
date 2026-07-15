@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Allahabad Tempo Traveller ₹8,500 | Sangam Day Trip"
 description: "Secure sunrise snan, Anand Bhavan heritage walk, and vetted priest support with our ₹8,500 Prayagraj charter. WhatsApp now for same-day confirmation."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [allahabad, prayagraj, tempo traveller, sangam darshan, heritage tour]
 keywords:
   - varanasi to allahabad tempo traveller

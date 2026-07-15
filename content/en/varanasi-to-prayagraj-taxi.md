@@ -1,7 +1,7 @@
 ---
 title: "Varanasi to Prayagraj Distance, Taxi Fare & Travel Options (2026)"
 slug: "varanasi-to-prayagraj-taxi"
-date: "2026-08-07"
+date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN

@@ -1,8 +1,8 @@
 ---
 title: "Book Taxi Varanasi Ramlila Dussehra 2026: Guaranteed Festival Transport Booking"
 slug: "book-taxi-varanasi-ramlila-dussehra"
-date: "2026-09-29"
-lastUpdated: "2026-09-29"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 

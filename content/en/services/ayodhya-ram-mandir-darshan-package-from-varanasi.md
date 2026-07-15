@@ -117,4 +117,4 @@ Want to visit the **Ram Mandir at Ayodhya** from Varanasi without juggling cabs,
 
 [Book the Ayodhya Ram Mandir package on WhatsApp →](https://wa.me/919935474730?text=I%20want%20to%20book%20the%20Ayodhya%20Ram%20Mandir%20darshan%20package%20from%20Varanasi)
 
-*Kashitaxi.in is a local Varanasi travel operator. Prices are indicative, at fair market parity with a small service margin, and vary by dates, group size and hotel level; the exact figure is confirmed on WhatsApp. Ram Mandir darshan facilities are managed by the temple trust — we follow official rules and never promise guaranteed or special entry.*
+*Kashi Taxi is a local Varanasi travel operator. Prices are indicative, at fair market parity with a small service margin, and vary by dates, group size and hotel level; the exact figure is confirmed on WhatsApp. Ram Mandir darshan facilities are managed by the temple trust — we follow official rules and never promise guaranteed or special entry.*

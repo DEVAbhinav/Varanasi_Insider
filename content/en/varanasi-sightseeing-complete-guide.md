@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Sightseeing Guide 2026: Ghats, Sarnath & Complete Itineraries"
 slug: "varanasi-sightseeing-complete-guide"
-date: "2026-10-26"
-lastUpdated: "2026-12-17"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"

@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Lucknow Tempo Traveller | Wi-Fi Corporate Shuttle"
 description: "Upgrade your 320 km transfer with recliner seats, onboard Wi-Fi, vetted night drivers, and transparent 2026 fare quotes. Block your corporate or wedding shuttle now."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [lucknow, tempo traveller, varanasi to lucknow, corporate travel, wedding logistics]
 keywords:
   - varanasi to lucknow tempo traveller

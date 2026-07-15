@@ -403,7 +403,7 @@ export default function BikeRentalsPage({ allPosts }) {
         {/* Updated SEO Content Section */}
         <section className="bg-white py-16 sm:py-20">
           <div className="container mx-auto max-w-4xl px-4 text-lg text-gray-700">
-            <h1 className="text-center text-4xl font-bold sm:text-5xl text-gray-800 mb-8">Bike Rental in Varanasi: Scooty & Motorcycle on Rent from ₹449/day</h1>
+            <h2 className="text-center text-4xl font-bold sm:text-5xl text-gray-800 mb-8">Bike Rental in Varanasi: Scooty & Motorcycle on Rent from ₹449/day</h2>
             <p className="mt-6">
               Varanasi, the eternal city of ghats and temples, comes alive when explored on two wheels. At Varanasi Taxi, we specialize in <strong>bike rental in Varanasi</strong> and <strong>scooty on rent in Varanasi</strong>, giving you the freedom to cruise from Assi to Dashashwamedh without haggling with autos. Whether you need a nimble Activa for navigating temple lanes or a powerful Royal Enfield for highway rides to Sarnath, our <strong>two wheeler rental in Varanasi</strong> starts at just ₹449/day with helmets and easy paperwork. All vehicles are serviced weekly and sanitized before handover.
             </p>

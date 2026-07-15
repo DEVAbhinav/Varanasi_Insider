@@ -1,7 +1,7 @@
 ---
 title: 'वाराणसी घाट गाइड 2026: अस्सी, दशाश्वमेध, मणिकर्णिका, नाव और आरती'
 slug: 'varanasi-ke-ghaton-ke-liye-guide'
-date: '2026-07-24'
+date: '2026-07-15'
 lastUpdated: '2026-01-12'
 author: 'अभिनव पांडेय'
 featuredImage: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg'

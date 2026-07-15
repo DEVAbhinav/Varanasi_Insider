@@ -1,7 +1,7 @@
 ---
 title: "वाराणसी में गंगा आरती का समय 2026: पूर्ण मौसमी गाइड"
 slug: "ganga-aarti-samay-varanasi-2026"
-date: "2026-12-12"
+date: "2026-07-15"
 lastUpdated: "2026-02-05"
 author: "Varanasi Insider Team"
 lang: hi

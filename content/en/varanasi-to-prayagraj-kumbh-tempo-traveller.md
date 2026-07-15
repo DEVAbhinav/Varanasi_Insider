@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Prayagraj Kumbh Traveller | Mahakumbh 2026 Playbook"
 description: "Secure permitted Travellers, barricade passes, camp shuttles, and two-driver teams for Mauni Amavasya & more. Crowd calendars included—reserve before quotas close."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [kumbh mela, prayagraj, tempo traveller, pilgrimage, snan]
 keywords:
   - varanasi to prayagraj kumbh tempo traveller

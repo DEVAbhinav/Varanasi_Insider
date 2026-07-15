@@ -3,9 +3,9 @@ lang: en
 title: "Tempo Traveller Safety Features Varanasi (2026): Vehicle, Driver & Operational Safeguards"
 description: "Safety checklist for hiring a Tempo Traveller in Varanasi – vehicle safety features, driver protocols, fatigue management, night driving policy, passenger guidelines, FAQs."
 slug: tempo-traveller-safety-features-varanasi
-date: 2026-09-19
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-09-19
+lastUpdated: 2026-07-15
 tags: [safety, tempo traveller, varanasi group travel, operational standards]
 keywords: ["tempo traveller safety features varanasi","safe tempo traveller hire varanasi","tempo traveller driver policy","tempo traveller night driving rules","group travel safety varanasi"]
 relatedPosts:

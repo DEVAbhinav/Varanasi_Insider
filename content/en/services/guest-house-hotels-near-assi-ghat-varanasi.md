@@ -113,4 +113,4 @@ If you want the ghats without the crush of the old-city lanes, **Assi Ghat** is 
 
 [Get Assi Ghat stay options on WhatsApp →](https://wa.me/919935474730?text=I%20need%20a%20guest%20house%20or%20hotel%20near%20Assi%20Ghat)
 
-*Kashitaxi.in is a local Varanasi travel operator. Starting prices are indicative and vary by date and availability; the exact rate is confirmed on WhatsApp before booking.*
+*Kashi Taxi is a local Varanasi travel operator. Starting prices are indicative and vary by date and availability; the exact rate is confirmed on WhatsApp before booking.*

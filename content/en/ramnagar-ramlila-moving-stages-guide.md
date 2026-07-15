@@ -1,8 +1,8 @@
 ---
 title: "A Simple Map & Guide to Ramnagar Ramlila's 'Moving Stages' [2026]"
 slug: "ramnagar-ramlila-moving-stages-guide"
-date: "2026-09-29"
-lastUpdated: "2026-09-29"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 

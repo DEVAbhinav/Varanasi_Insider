@@ -1,7 +1,7 @@
 ---
 title: "Varanasi in January 2026: Weather, Temperature & Travel Guide"
 slug: "varanasi-in-january-2026"
-date: "2026-12-15"
+date: "2026-07-15"
 lastUpdated: "2026-02-05"
 author: "Varanasi Insider Team"
 lang: en

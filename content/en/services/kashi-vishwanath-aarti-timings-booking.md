@@ -129,4 +129,4 @@ The daily aartis inside Kashi Vishwanath are the emotional heart of a Kashi visi
 
 [Book Kashi Vishwanath aarti assistance on WhatsApp →](https://wa.me/919935474730?text=I%20want%20Kashi%20Vishwanath%20aarti%20timings%20and%20booking%20help)
 
-*Kashitaxi.in is a local Varanasi travel operator. Aarti timings and pass rates are set by the Shri Kashi Vishwanath Temple Trust and can change; we assist with coordination and confirm current details on WhatsApp. Verify official rates and timings on shrikashivishwanath.org.*
+*Kashi Taxi is a local Varanasi travel operator. Aarti timings and pass rates are set by the Shri Kashi Vishwanath Temple Trust and can change; we assist with coordination and confirm current details on WhatsApp. Verify official rates and timings on shrikashivishwanath.org.*

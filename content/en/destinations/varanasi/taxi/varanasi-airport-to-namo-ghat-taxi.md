@@ -1,8 +1,8 @@
 ---
 title: "VNS Airport to NaMo Ghat Taxi ₹690 | Light Show Drop, 35min Route"
 slug: "varanasi-airport-to-namo-ghat-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-11-30"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to NaMo Ghat Taxi from ₹690 | 24 km, 35–50 min"

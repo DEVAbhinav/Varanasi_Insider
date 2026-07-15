@@ -1,7 +1,7 @@
 // components/JsonLd/homepageSchema.js
 // Returns JSON-LD for the homepage (WebSite + LocalBusiness + TaxiService + FAQPage)
-import { SOCIAL_PROFILE_URLS } from '../../config/socials';
 import { CONTACT } from '@/lib/contact';
+import { BUSINESS } from '../../config/business';
 
 const getHomeSchema = (site) => ({
   '@context': 'https://schema.org',
@@ -22,7 +22,7 @@ const getHomeSchema = (site) => ({
     {
       '@type': ['LocalBusiness', 'TaxiService', 'TouristInformationCenter'],
       '@id': `${site}/#org`,
-      name: 'Varanasi Taxi Service | Taxi in Varanasi - Vinayak Travels',
+      name: 'Kashi Taxi | Varanasi Taxi Service (operated by Vinayak Travels)',
       alternateName: ['Taxi in Varanasi', 'Varanasi Taxi Service', 'Varanasi Taxi', 'Cab in Varanasi', 'Varanasi Cab Service', 'Taxi Service in Varanasi', 'Varanasi Travels', 'Vinayak Travels Varanasi', 'Tempo Traveller Varanasi'],
       url: `${site}/`,
       logo: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg',
@@ -36,19 +36,19 @@ const getHomeSchema = (site) => ({
       slogan: 'Your trusted travel partner in Varanasi',
       telephone: CONTACT.callNumberE164,
       faxNumber: CONTACT.callNumberDisplay,
-      email: 'taxiinvaranasiii@gmail.com',
+      email: BUSINESS.email,
       address: {
         '@type': 'PostalAddress',
-        streetAddress: 'Vinayak Travels, Varanasi',
-        addressLocality: 'Varanasi',
-        addressRegion: 'Uttar Pradesh',
-        postalCode: '221010',
-        addressCountry: 'IN',
+        streetAddress: BUSINESS.address.streetAddress,
+        addressLocality: BUSINESS.address.addressLocality,
+        addressRegion: BUSINESS.address.addressRegion,
+        postalCode: BUSINESS.address.postalCode,
+        addressCountry: BUSINESS.address.addressCountry,
       },
       geo: {
         '@type': 'GeoCoordinates',
-        latitude: 25.287133678944816,
-        longitude: 82.94264689837131,
+        latitude: BUSINESS.geo.latitude,
+        longitude: BUSINESS.geo.longitude,
       },
       openingHoursSpecification: [
         {
@@ -156,8 +156,8 @@ const getHomeSchema = (site) => ({
           availableLanguage: ['en', 'hi'],
         },
       ],
-      sameAs: SOCIAL_PROFILE_URLS,
-      foundingDate: '2018',
+      sameAs: BUSINESS.socials,
+      foundingDate: BUSINESS.foundingDate,
       numberOfEmployees: {
         '@type': 'QuantitativeValue',
         minValue: 15,
@@ -174,8 +174,8 @@ const getHomeSchema = (site) => ({
       ],
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: 4.8,
-        reviewCount: 150,
+        ratingValue: BUSINESS.rating,
+        reviewCount: BUSINESS.reviewCount,
         bestRating: 5,
         worstRating: 1,
       },

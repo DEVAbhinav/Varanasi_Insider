@@ -1,7 +1,7 @@
 ---
 title: "Varanasi Transport Price Guide 2026: Fare Cheatsheet & Scam Shields"
 slug: "varanasi-transport-price-guide-2026"
-date: "2026-07-24"
+date: "2026-07-15"
 author: "Kamal Nayan Singh"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 metaTitle: "Varanasi Transport Prices 2026 – Auto, E-Rickshaw, Taxi & Boat Fares"

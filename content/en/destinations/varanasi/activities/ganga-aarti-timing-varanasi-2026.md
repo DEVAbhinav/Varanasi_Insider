@@ -1,8 +1,8 @@
 ---
 title: "Ganga Aarti Timing in Varanasi 2026: Complete Seasonal Guide with Boat Ride"
 slug: "ganga-aarti-timing-varanasi-2026"
-date: "2026-12-22"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Ganga Aarti Timing Varanasi [2026]: Dashashwamedh vs Assi"
@@ -410,5 +410,5 @@ You found this page because you searched "ganga aarti varanasi time" or "banaras
 4. **Experience the sacred** — And come back to tell your story
 
 **Updated:** December 22, 2026
-**Maintained by:** Kashitaxi Boat Operations (7-year Varanasi boat experience)
+**Maintained by:** Kashi Taxi Boat Operations (7-year Varanasi boat experience)
 **Next update:** January 2026 (seasonal timing shift)

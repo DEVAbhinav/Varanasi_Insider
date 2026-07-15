@@ -3,7 +3,7 @@ title: "Tempo Traveller vs Multiple Cars in Varanasi – Which is Better for Gro
 description: "Tempo Traveller or multiple cars for Varanasi group travel? I compare costs, convenience & comfort. Learn how groups save ₹3000+ choosing the right option."
 keywords: "tempo traveller vs multiple cars varanasi, group travel varanasi cost comparison, tempo traveller benefits, multiple cars or one tempo varanasi"
 date: 2026-01-10
-author: "Kamal - Banarasi Varanasi Taxi"
+author: "Kamal - Kashi Taxi"
 
 lang: "en"
 category: "Tempo Traveller Services"
@@ -11,7 +11,7 @@ category: "Tempo Traveller Services"
 
 # Tempo Traveller vs Multiple Cars in Varanasi: The Smart Choice for Group Travel
 
-After running Banarasi Varanasi Taxi for over 15 years, I've had this conversation hundreds of times: "Should we book one Tempo Traveller or multiple cars for our Varanasi trip?" 
+After running Kashi Taxi for over 15 years, I've had this conversation hundreds of times: "Should we book one Tempo Traveller or multiple cars for our Varanasi trip?" 
 
 Let me share what I've learned from thousands of group bookings – and why 85% of families ultimately choose the Tempo Traveller option.
 
@@ -313,6 +313,6 @@ Thousands of Varanasi families have already made the smart switch. Experience th
 
 ---
 
-**About the Author:** I'm Kamal, founder of Banarasi Varanasi Taxi. Born and raised in Varanasi, I've been helping families and groups explore our sacred city for over 15 years. My goal is simple: honest service, fair prices, and making your Kashi yatra memorable.
+**About the Author:** I'm Kamal, founder of Kashi Taxi. Born and raised in Varanasi, I've been helping families and groups explore our sacred city for over 15 years. My goal is simple: honest service, fair prices, and making your Kashi yatra memorable.
 
 *Last updated: January 10, 2026*

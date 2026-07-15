@@ -1,7 +1,7 @@
 ---
 title: "10 Most Important Varanasi Ghats: Complete [2026 Guide]"
 slug: "guide-to-10-most-important-ghats-of-varanasi"
-date: "2026-07-28"
+date: "2026-07-15"
 author: "Kamal Nayan Singh"
 description: "Discover the 10 most important Varanasi ghats—from Assi to Adi Keshav. History, significance and visiting tips in one guide. Plan your route."
 

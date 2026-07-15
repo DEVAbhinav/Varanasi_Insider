@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-triveni-sangam-tempo-traveller
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "वाराणसी से त्रिवेणी संगम Tempo Traveller ₹9,300 | सूर्योदय स्नान"
 description: "निजी नाव, पंडित समन्वय, ड्रेसिंग टेंट और भीड़ प्रबंधन सहित त्रिवेणी संगम स्नान पैकेज – 2026 स्लॉट सुरक्षित करें।"

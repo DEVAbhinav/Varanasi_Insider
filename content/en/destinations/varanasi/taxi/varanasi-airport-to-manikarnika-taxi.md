@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Manikarnika Ghat Taxi ₹850 | 25 km, 45 min"
 slug: "varanasi-airport-to-manikarnika-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-11-12"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Manikarnika Ghat Taxi from VNS Airport ₹850 | 25 km, 45 min"

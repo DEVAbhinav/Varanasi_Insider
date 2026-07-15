@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Ballia: Outstation Taxi | ₹24/km Fixed Rate"
 slug: "varanasi-airport-to-ballia-taxi"
-date: "2026-11-19"
-lastUpdated: "2026-11-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS to Ballia Outstation Cab: 150km, 3hrs | ₹2,500 Sedan"

@@ -13,7 +13,7 @@
       ],
       "brand": {
         "@type": "Brand",
-        "name": "KashiTaxi"
+        "name": "Kashi Taxi"
       },
       "sku": "PIND-DAAN-GAYA-VERIFIED",
       "mpn": "KASHITAXI-PDG-2026",
@@ -29,7 +29,7 @@
         "url": "https://www.kashitaxi.in/en/destinations/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
         "seller": {
           "@type": "LocalBusiness",
-          "name": "KashiTaxi",
+          "name": "Kashi Taxi",
           "telephone": "+91-9935474730",
           "url": "https://www.kashitaxi.in"
         },
@@ -133,7 +133,7 @@
       "serviceType": "Pilgrimage Service",
       "provider": {
         "@type": "LocalBusiness",
-        "name": "KashiTaxi",
+        "name": "Kashi Taxi",
         "telephone": "+91-9935474730"
       },
       "areaServed": [
@@ -192,7 +192,7 @@
     {
       "@type": "LocalBusiness",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "KashiTaxi",
+      "name": "Kashi Taxi",
       "image": "https://www.kashitaxi.in/images/logo.png",
       "url": "https://www.kashitaxi.in",
       "telephone": "+91-9935474730",
@@ -341,7 +341,7 @@
       },
       "organizer": {
         "@type": "LocalBusiness",
-        "name": "KashiTaxi",
+        "name": "Kashi Taxi",
         "url": "https://www.kashitaxi.in"
       },
       "offers": {

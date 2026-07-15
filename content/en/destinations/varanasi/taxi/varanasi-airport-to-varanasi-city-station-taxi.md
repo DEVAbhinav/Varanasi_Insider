@@ -1,8 +1,8 @@
 ---
 title: "Airport to Varanasi City Station (BCY) ₹690 | 21km, Ghat-Side Drop"
 slug: "varanasi-airport-to-varanasi-city-station-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to Varanasi City Station: 21km, ₹690 [2026]"

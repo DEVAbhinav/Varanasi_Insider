@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी से विंध्याचल दूरी 2026: 65 किमी, टैक्सी किराया और समय"
 slug: "varanasi-to-vindhyachal-taxi"
-date: "2026-08-07"
-lastUpdated: "2026-12-24"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogVindhyachal.png"

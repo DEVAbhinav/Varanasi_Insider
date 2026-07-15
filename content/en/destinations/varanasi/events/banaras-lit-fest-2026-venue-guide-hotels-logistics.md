@@ -1,8 +1,8 @@
 ---
 title: "Banaras Lit Fest 2026 Venue Guide – Taj Ganges, Hotels & Logistics"
 slug: "banaras-lit-fest-2026-venue-guide-hotels-logistics"
-date: "2026-12-07"
-lastUpdated: "2026-12-07"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Banaras Lit Fest 2026 Complete Venue Guide – Taj Ganges, Hotels & Local Transport"
@@ -34,7 +34,6 @@ location:
 organizer:
   name: "Banaras Lit Fest 2026"
   url: "https://banaraslitfest.org"
-
 ---
 
 # Banaras Lit Fest 2026 Complete Venue & Travel Guide – Taj Ganges Location, Hotels & Logistics
@@ -161,7 +160,7 @@ These options usually mean a 10–20 minute daily ride depending on traffic, so 
 
 ## Reaching Taj Ganges from Varanasi Airport
 
-### Scenario 1: Pre-Booked KashiTaxi (Recommended)
+### Scenario 1: Pre-Booked Kashi Taxi (Recommended)
 
 - English-speaking driver meets you at Lal Bahadur Shastri International Airport arrivals with a name placard
 - Drive to Taj Ganges: ~21 km, usually 19–22 minutes in normal traffic
@@ -181,7 +180,7 @@ These options usually mean a 10–20 minute daily ride depending on traffic, so 
 - Cost and availability vary – check at the time of room booking
 - Usually very reliable, but you may need to coordinate timings tightly with your arrival
 
-For many delegates, the sweet spot is a pre-booked service like KashiTaxi: you fix the price in advance, share your flight details, and let the local team handle timing and route choices.
+For many delegates, the sweet spot is a pre-booked service like Kashi Taxi: you fix the price in advance, share your flight details, and let the local team handle timing and route choices.
 
 ## Day-by-Day Logistics – What a Typical BLF 2026 Schedule Looks Like
 

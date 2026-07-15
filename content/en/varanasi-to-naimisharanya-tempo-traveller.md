@@ -5,9 +5,9 @@ metaTitle: "Varanasi to Naimisharanya Tempo Traveller: 1N/2D Yatra ₹21,500"
 metaDescription: "Varanasi–Naimisharanya tempo traveller for the 1N/2D Chakra Yatra: 12-seater all-inclusive ₹21,500–₹22,500. Chakratirth, Lalita Devi, Sukadeva Peeth & Vyasa Gaddi. WhatsApp to reserve."
 description: "Plan Chakratirth, Lalita Devi, and Sukadeva Peeth with 1N Tempo Traveller support, priest coordination, and ₹22k transparent costing—reserve your sacred circuit now."
 slug: varanasi-to-naimisharanya-tempo-traveller
-date: 2026-09-18
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-09-18
+lastUpdated: 2026-07-15
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 tags: [naimisharanya, varanasi to naimisharanya, tempo traveller, chakratirth, lalita devi, pilgrimage]
 keywords: ["varanasi to naimisharanya tempo traveller","naimisharanya from varanasi distance","chakratirth naimisharanya yatra","lalita devi temple naimisharanya","varanasi to naimisharanya itinerary","naimisharanya pilgrimage tempo traveller","naimisharanya tour from varanasi"]

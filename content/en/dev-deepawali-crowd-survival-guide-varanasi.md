@@ -1,7 +1,7 @@
 ---
 title: "Dev Deepawali Crowd Survival 2026: 9 Tactics to Beat 500k Rush"
 slug: "dev-deepawali-crowd-survival-guide-varanasi"
-date: "2026-09-30"
+date: "2026-07-15"
 lastModified: "2026-09-30"
 excerpt: "Use 9 field-tested tactics to beat the 500k+ Dev Deepawali rush—crowd flow maps, exit drills, WhatsApp alerts, and emergency response playbook for 5 Nov 2026."
 author: "Travel Agent Varanasi Safety Team"

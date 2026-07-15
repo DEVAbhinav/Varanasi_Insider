@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-allahabad-tempo-traveller
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "वाराणसी से प्रयागराज (इलाहाबाद) Tempo Traveller पैकेज ₹8,500"
 description: "प्रयागराज संगम स्नान, आनंद भवन, खुर्शीदबाग और हेरिटेज वॉक के लिए वाराणसी से टेम्पो ट्रैवलर दिनभर की यात्रा – कीमत, यात्रा कार्यक्रम और पंडा सहायता।"

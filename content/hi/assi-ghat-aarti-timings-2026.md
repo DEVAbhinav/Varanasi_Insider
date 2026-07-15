@@ -1,8 +1,8 @@
 ---
 title: "अस्सी घाट आरती समय 2026 — सुबह 5:30 AM | शाम 6:00 PM [अपडेटेड]"
 slug: "assi-ghat-aarti-timings-2026"
-date: "2026-08-04"
-lastUpdated: "2026-12-24"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Naval Kishore (स्थानीय नाव व टूर समन्वयक)"
 lang: hi-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-aarti-l.jpeg"

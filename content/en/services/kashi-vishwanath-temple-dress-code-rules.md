@@ -112,4 +112,4 @@ Planning darshan at **Kashi Vishwanath**? A little preparation saves a lot of ti
 
 [Get hassle-free darshan help on WhatsApp →](https://wa.me/919935474730?text=I%20want%20hassle-free%20darshan%20help%20at%20Kashi%20Vishwanath)
 
-*Kashitaxi.in is a local Varanasi travel operator, not the temple administration. Dress code, prohibited items and timings are set by the Shri Kashi Vishwanath Temple Trust and may change — always verify on shrikashivishwanath.org. We never promise guaranteed entry.*
+*Kashi Taxi is a local Varanasi travel operator, not the temple administration. Dress code, prohibited items and timings are set by the Shri Kashi Vishwanath Temple Trust and may change — always verify on shrikashivishwanath.org. We never promise guaranteed entry.*

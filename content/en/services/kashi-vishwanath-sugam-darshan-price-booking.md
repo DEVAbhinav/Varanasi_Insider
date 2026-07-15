@@ -137,4 +137,4 @@ If a "guide" in saffron intercepts you near the temple promising to *"skip every
 
 [Book Sugam Darshan assistance on WhatsApp →](https://wa.me/919935474730?text=I%20want%20Kashi%20Vishwanath%20Sugam%20Darshan%20price%20and%20booking)
 
-*Kashitaxi.in is a local Varanasi travel operator. Sugam Darshan is an official ticketed service of the Shri Kashi Vishwanath Temple Trust; rates and availability are set by the Trust and can change. We assist with coordination and confirm current details on WhatsApp. Verify official rates on shrikashivishwanath.org.*
+*Kashi Taxi is a local Varanasi travel operator. Sugam Darshan is an official ticketed service of the Shri Kashi Vishwanath Temple Trust; rates and availability are set by the Trust and can change. We assist with coordination and confirm current details on WhatsApp. Verify official rates on shrikashivishwanath.org.*

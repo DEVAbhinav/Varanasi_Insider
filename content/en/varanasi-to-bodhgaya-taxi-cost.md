@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Bodh Gaya Distance & Taxi Fare 2026: Same-Day Trip Guide"
 slug: "varanasi-to-bodhgaya-taxi-cost"
-date: "2026-07-28"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg"

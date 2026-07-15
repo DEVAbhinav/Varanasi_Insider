@@ -1,8 +1,8 @@
 ---
 title: "सूर्योदय योग वाराणसी (2026): सर्वश्रेष्ठ घाट, क्लासेस और खर्च"
 slug: "sunrise-yoga-varanasi-2026"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "वाराणसी सूर्योदय योग 2026 | असी घाट क्लासेस, फीस और दिसंबर टाइमटेबल"

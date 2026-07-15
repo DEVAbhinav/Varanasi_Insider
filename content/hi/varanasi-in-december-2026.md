@@ -1,8 +1,8 @@
 ---
 title: "दिसंबर 2026 वाराणसी: कोहरा प्लान, पैकिंग और करने लायक इवेंट"
 slug: "varanasi-in-december-2026"
-date: "2026-08-02"
-lastUpdated: "2026-08-02"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"

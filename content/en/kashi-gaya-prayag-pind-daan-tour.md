@@ -3,9 +3,9 @@ lang: en
 title: "Kashi Gaya Prayag Pind Daan Tour: Tempo Traveller Itinerary & Ritual Guide (2026)"
 description: "Kashi Gaya Prayag Pind Daan tour by Tempo Traveller – sequencing of rituals, 3D/2N & 4D options, pind daan procedure in Gaya & Prayagraj, items list, costs, tips."
 slug: kashi-gaya-prayag-pind-daan-tour
-date: 2026-09-19
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-09-19
+lastUpdated: 2026-07-15
 tags: [pind daan, gaya, prayagraj, kashi, varanasi, tempo traveller, pilgrimage, ritual sequencing, triveni sangam]
 keywords: ["kashi gaya prayag pind daan tour","kashi gaya prayagraj pind daan itinerary","pind daan tour from varanasi","gaya pind daan with prayag sangam","kashi prayag gaya ritual sequence","tempo traveller pind daan tour varanasi","kashi gaya prayag package"]
 relatedPosts:

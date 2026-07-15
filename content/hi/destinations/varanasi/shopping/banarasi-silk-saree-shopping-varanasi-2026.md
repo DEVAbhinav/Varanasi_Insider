@@ -1,8 +1,8 @@
 ---
 title: "बनारसी सिल्क शॉपिंग वाराणसी (2026): मार्केट, कीमत और असलियत"
 slug: "banarasi-silk-saree-shopping-varanasi-2026"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "बनारसी साड़ी शॉपिंग 2026 | मधुबन होलसेल vs ठठेरी बाजार"

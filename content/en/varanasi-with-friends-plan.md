@@ -2,7 +2,7 @@
 lang: en
 title: "Varanasi with Friends: How to Plan It Right (Itinerary + Tips)"
 description: "Planning a trip to Varanasi with friends? A complete guide with 3-4 day itineraries, affordable hostels, scam alerts, and group boat ride costs."
-date: 2026-08-29
+date: 2026-07-15
 tags: [varanasi with friends, varanasi group trip, varanasi itinerary for friends, hostels in varanasi, varanasi scams]
 slug: varanasi-with-friends-plan
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogghats.jpg

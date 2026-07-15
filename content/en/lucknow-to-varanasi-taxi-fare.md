@@ -1,8 +1,8 @@
 ---
 title: "Lucknow to Varanasi Taxi Fare 2026: Sedan & SUV [Guide]"
 slug: "lucknow-to-varanasi-taxi-fare"
-date: "2026-07-27"
-lastUpdated: "2026-07-27"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTaxi1.jpg"

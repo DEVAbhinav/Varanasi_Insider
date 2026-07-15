@@ -2,8 +2,8 @@
 title: "Varanasi Airport to DDU Junction (Mughalsarai): Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-ddu-junction-taxi"
 canonical: "/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-11-12"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to DDU Junction Taxi ₹900+ | 35 km"

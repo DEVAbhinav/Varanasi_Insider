@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: kashi-gaya-prayag-pind-daan-tour
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "काशी गया प्रयाग पिंड दान टूर: टेम्पो ट्रैवलर पैकेज और विधि (2026)"
 metaTitle: "काशी गया प्रयाग: दूरी, क्रम और पिंड दान टूर 2026"

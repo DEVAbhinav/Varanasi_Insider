@@ -64,7 +64,7 @@ export default function HomePage({ allPosts }) {
     },
     {
       name: 'First impression of Kashi',
-      years: '22 yrs trusted service',
+      years: 'Trusted since 1998',
       route: 'A friendly face at arrivals – your Varanasi adventure begins right here',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo%20Traveller%20Mishra%20ji%20with%20germal%20tourist.jpg',
     },
@@ -82,7 +82,7 @@ export default function HomePage({ allPosts }) {
     },
     {
       name: 'Solo traveller? Sorted.',
-      years: '500+ solo women trust us',
+      years: 'Verified drivers & live tracking',
       route: 'Live location sharing, verified drivers, 24×7 helpline – we’ve got your back, always',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg',
     },
@@ -99,8 +99,8 @@ export default function HomePage({ allPosts }) {
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Urbania-front-Square.jpeg',
     },
     {
-      name: '4.9★ on Google Reviews',
-      years: '2000+ happy guests',
+      name: '4.8★ on Google Reviews',
+      years: '312 verified Google reviews',
       route: '“Driver knew secret ghat parking” – hear it from our guests',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo%20traveller%20Happy%20Customer.jpg',
     }
@@ -115,7 +115,7 @@ export default function HomePage({ allPosts }) {
           content="Taxi & cab service in Varanasi — airport pickup from ₹700, sightseeing, outstation & pilgrimage trips. Fixed fares, verified drivers, instant WhatsApp booking."
         />
         <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi group tour package, kashi group tour, ayodhya varanasi prayagraj group tour, varanasi tour package from delhi, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
-        <meta name="author" content="Varanasi Taxi" />
+        <meta name="author" content="Kashi Taxi" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.kashitaxi.in/" />
 
@@ -125,14 +125,14 @@ export default function HomePage({ allPosts }) {
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Varanasi Taxi & Tempo Traveller" />
+        <meta property="og:site_name" content="Kashi Taxi" />
         <meta property="og:locale" content="en_IN" />
 
         {/* Geo Location Meta Tags for Local SEO */}
         <meta name="geo.region" content="IN-UP" />
         <meta name="geo.placename" content="Varanasi" />
-        <meta name="geo.position" content="25.287133678944816;82.94264689837131" />
-        <meta name="ICBM" content="25.287133678944816, 82.94264689837131" />
+        <meta name="geo.position" content="25.3176;82.9739" />
+        <meta name="ICBM" content="25.3176, 82.9739" />
         <HreflangTags
           pageLang="en"
           canonical="https://www.kashitaxi.in/"
@@ -304,7 +304,7 @@ export default function HomePage({ allPosts }) {
             <div className="flex items-center gap-2">
               <span className="h-6 w-6 rounded-full bg-cyan-100 text-cyan-700 text-xs font-semibold grid place-items-center">✨</span>
               <div>
-                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">22 years in Varanasi • 2000+ trips</p>
+                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Serving Kashi since 1998 • 4.8★ on Google</p>
                 <h2 className="text-base font-semibold text-gray-900 leading-snug">Local drivers who know every ghat, gali & shortcut</h2>
               </div>
             </div>
@@ -686,7 +686,7 @@ export default function HomePage({ allPosts }) {
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">
-                <p>Vinayak Travels (KashiTaxi) is rated among the <strong>best taxi services in Varanasi</strong> with 4.8★ Google rating from 150+ reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.</p>
+                <p>Kashi Taxi (operated by Vinayak Travels) is rated among the <strong>best taxi services in Varanasi</strong> with a 4.8★ Google rating from 312 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.</p>
               </div>
             </details>
 

@@ -130,4 +130,4 @@ Kashi and the **Triveni Sangam** — the sacred confluence of the Ganga, Yamuna 
 
 [Get my Varanasi–Prayagraj price on WhatsApp →](https://wa.me/919935474730?text=I%20want%20the%20Varanasi-Prayagraj%20tour%20package)
 
-*Kashitaxi.in is a local Varanasi travel operator. Prices are indicative fixed tiers and may vary on peak festival and Magh Mela/Kumbh dates; the exact total is confirmed on WhatsApp before booking. Temple darshan access and official charges are governed by the respective temple trusts.*
+*Kashi Taxi is a local Varanasi travel operator. Prices are indicative fixed tiers and may vary on peak festival and Magh Mela/Kumbh dates; the exact total is confirmed on WhatsApp before booking. Temple darshan access and official charges are governed by the respective temple trusts.*

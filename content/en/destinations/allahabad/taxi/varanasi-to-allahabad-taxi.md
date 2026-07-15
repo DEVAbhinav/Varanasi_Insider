@@ -1,11 +1,11 @@
 ---
-title: "Varanasi to Allahabad Taxi - Now Prayagraj | ₹2,500 | KashiTaxi"
+title: "Varanasi to Allahabad Taxi - Now Prayagraj | ₹2,500 | Kashi Taxi"
 slug: "varanasi-to-allahabad-taxi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Allahabad (Prayagraj) Taxi | ₹2,500 | KashiTaxi"
+metaTitle: "Varanasi to Allahabad (Prayagraj) Taxi | ₹2,500 | Kashi Taxi"
 metaDescription: "Book Varanasi to Allahabad (now Prayagraj) taxi from ₹2,500. 120 km in 2.5 hours. Triveni Sangam, Kumbh Mela city. 24/7 booking."
 description: "Allahabad was officially renamed Prayagraj in 2018. Book Varanasi to Prayagraj (formerly Allahabad) taxi from ₹2,500. 120 km journey in 2.5 hours. Visit Triveni Sangam, Kumbh Mela city, Fort."
 keywords:

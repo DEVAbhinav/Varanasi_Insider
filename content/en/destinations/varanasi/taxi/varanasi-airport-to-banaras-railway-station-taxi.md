@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Banaras Station Taxi ₹690 | 27 km, 45 min"
 slug: "varanasi-airport-to-banaras-railway-station-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Banaras Station Taxi from VNS Airport ₹690 | 27 km, 45 min"
@@ -81,11 +81,11 @@ Take Ring Road east toward Lahartara, pass the BHU Trauma Centre intersection, a
 
 *Flash fare paused for Dev Deepawali, Kumbh specials, and other notified festival blocks; applies to direct Banaras station porch drops only.*
 
-## KashiTaxi vs Prepaid Booth vs Ola/Uber for Manduadih (BSBS)
+## Kashi Taxi vs Prepaid Booth vs Ola/Uber for Manduadih (BSBS)
 
 | Provider | One-way fare | Inclusions | Limitations |
 | --- | --- | --- | --- |
-| **KashiTaxi ₹690 Flash** | ₹690 sedan (weekday) | Flight tracking, Gate 3 meet, Platform 1 porter handoff, WhatsApp support | Must confirm within 2 hours, sedan only |
+| **Kashi Taxi ₹690 Flash** | ₹690 sedan (weekday) | Flight tracking, Gate 3 meet, Platform 1 porter handoff, WhatsApp support | Must confirm within 2 hours, sedan only |
 | **Airport Prepaid Booth** | ₹820 hatchback, ₹920 sedan | Official slip, queue-based dispatch | 20-30 min wait, no Manduadih porch guarantee |
 | **Ola/Uber** | ₹700-1,100 when available | App convenience, live fare estimate | Surges at night, drivers avoid BSBS porch due to queue |
 

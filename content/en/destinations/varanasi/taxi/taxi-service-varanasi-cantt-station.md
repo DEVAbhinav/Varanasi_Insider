@@ -1,8 +1,8 @@
 ---
 title: Taxi Service at Varanasi Cantt Railway Station (Junction) - 24/7 Pickup
 slug: taxi-service-varanasi-cantt-station
-date: '2026-12-09'
-lastUpdated: '2026-12-09'
+date: '2026-07-15'
+lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
 metaTitle: 'Varanasi Cantt Station Taxi: 24/7 | PNR tracking | ₹450'

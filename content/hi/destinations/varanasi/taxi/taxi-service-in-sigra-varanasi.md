@@ -1,8 +1,8 @@
 ---
 title: "सिगरा, वाराणसी में विश्वसनीय टैक्सी सेवा (शास्त्री नगर और IP मॉल के पास)"
 slug: "taxi-service-in-sigra-varanasi"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "सिगरा वाराणसी टैक्सी सेवा | शास्त्री नगर ऑफिस | नो सर्ज"

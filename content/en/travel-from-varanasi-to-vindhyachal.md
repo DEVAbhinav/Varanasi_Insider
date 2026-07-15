@@ -1,7 +1,7 @@
 ---
 title: "Travel from Varanasi to Vindhyachal 2026 | Taxi, Train, Bus or Tempo Traveller?"
 slug: "travel-from-varanasi-to-vindhyachal"
-date: "2026-09-17"
+date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN

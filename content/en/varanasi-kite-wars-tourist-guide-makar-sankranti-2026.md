@@ -1,7 +1,7 @@
 ---
 title: "Tourist's Guide to Varanasi Kite Wars on Makar Sankranti 2026: Rooftops, Battles & Celebration"
 slug: "varanasi-kite-wars-tourist-guide-makar-sankranti-2026"
-date: "2026-09-30"
+date: "2026-07-15"
 lastModified: "2026-09-30"
 excerpt: "Complete tourist guide to joining Varanasi's epic kite battles on Makar Sankranti 2026. Learn kite fighting techniques, find the best rooftops, and experience authentic Indian celebration."
 author: "Travel Agent Varanasi Activity Team"

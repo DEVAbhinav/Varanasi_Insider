@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport Transfer Directory: All Routes & Destinations"
 slug: "varanasi-airport-transfer-directory"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Varanasi Airport Transfer Directory | Temples, Railheads & Outstation Routes"

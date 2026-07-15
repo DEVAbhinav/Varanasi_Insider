@@ -1,8 +1,8 @@
 ---
 title: "Siberian Birds & Winter Festivals: The Best of Varanasi in January"
 slug: "siberian-birds-winter-events-varanasi"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Siberian Birds in Varanasi January 2026 | Kite Wars & Magh Mela"

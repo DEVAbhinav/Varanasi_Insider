@@ -2,7 +2,7 @@
 lang: en
 title: "Kashi Darshan Tempo Traveller: 8‑Hr Tour ₹5,500 [2026]"
 description: "Kashi Darshan by Tempo Traveller: 8hr/80km ₹5,500 (12‑seater). Cover Kashi Vishwanath, Sarnath and ghats. Transparent 2026 pricing—get a quote."
-date: 2026-08-27
+date: 2026-07-15
 tags: [kashi darshan, varanasi local sightseeing, tempo traveller, kashi darshan tempo traveller, varanasi sightseeing package, book tempo traveller varanasi, 12 seater tempo traveller, 17 seater tempo traveller, ganga aarti]
 slug: kashi-darshan-tempo-traveller
 canonical: https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller

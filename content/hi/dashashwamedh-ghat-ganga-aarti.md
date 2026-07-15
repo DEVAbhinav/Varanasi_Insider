@@ -1,7 +1,7 @@
 ---
 title: "दशाश्वमेध घाट गंगा आरती गाइड (2026) — समय, नाव बुकिंग, टिप्स"
 slug: "dashashwamedh-ghat-ganga-aarti"
-date: "2026-07-22"
+date: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: hi-IN
 canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti"
@@ -12,7 +12,7 @@ tags:
   - गंगा आरती
   - वाराणसी
   - देव दीवाली
-lastUpdated: "2026-07-22"
+lastUpdated: "2026-07-15"
 ---
 
 # दशाश्वमेध घाट गंगा आरती समय (2026): नाव बुकिंग और दर्शक टिप्स

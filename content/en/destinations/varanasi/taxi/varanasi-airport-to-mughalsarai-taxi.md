@@ -1,8 +1,8 @@
 ---
 title: "VNS Airport to Mughalsarai (DDU Junction) Taxi from ₹1,005 | 45-60 min via GT Road"
 slug: "varanasi-airport-to-mughalsarai-taxi"
-date: "2026-11-19"
-lastUpdated: "2026-11-30"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS to Mughalsarai (DDU) Taxi from ₹1,005 | 35 km"

@@ -1,8 +1,8 @@
 ---
 title: "Airport to Sarnath Taxi ₹690 | Dhamek Stupa | 50-min Route"
 slug: "varanasi-airport-to-sarnath-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-11-30"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Airport to Sarnath Taxi ₹690 | Dhamek Stupa | 50-min Route"

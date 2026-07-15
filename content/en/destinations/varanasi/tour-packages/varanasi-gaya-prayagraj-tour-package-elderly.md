@@ -3,9 +3,9 @@ lang: en
 title: "Varanasi Gaya Tour Package: Fatigue-Free Pilgrimage for Elderly Parents & Families (2026)"
 description: "Book our 4-5 day Varanasi Gaya Prayagraj tour package with private transport, elderly-friendly hotels & expert local guides. No crowds, no stress—pure devotion."
 slug: varanasi-gaya-prayagraj-tour-package-elderly
-date: 2026-12-22
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-12-22
+lastUpdated: 2026-07-15
 canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg"
 
@@ -84,7 +84,7 @@ I've organized dozens of family pilgrimages, and I've seen the same pattern repe
 
 **This doesn't have to be your story.**
 
-At KashiTaxi.in, we've built the **Fatigue-Free Pilgrimage**—a complete circuit through three of India's holiest cities designed specifically for elderly pilgrims, NRIs returning home, and families who refuse to compromise on comfort. Here's what we've learned managing thousands of kilometers across this route:
+At Kashi Taxi, we've built the **Fatigue-Free Pilgrimage**—a complete circuit through three of India's holiest cities designed specifically for elderly pilgrims, NRIs returning home, and families who refuse to compromise on comfort. Here's what we've learned managing thousands of kilometers across this route:
 
 > **Your parents didn't wait 30 years to visit Varanasi so they could suffer through a budget tour.** They came to offer prayers, reconnect with their faith, and feel honored by their children. Our job is to handle every logistical chaos so they can do exactly that.
 
@@ -346,7 +346,7 @@ Companies promise "₹15,000 per person, all-inclusive!"
 
 **The outcome:** You saved ₹10,000 per person and lost the entire spiritual experience.
 
-### What Sets KashiTaxi.in Apart
+### What Sets Kashi Taxi Apart
 
 #### 1. Founder's Personal Obsession with Detail
 
@@ -506,7 +506,7 @@ Fill out the inquiry form with:
 
 📧 **Email:** info@kashitaxi.in
 
-🌐 **Website:** [KashiTaxi.in](https://www.kashitaxi.in)
+🌐 **Website:** [Kashi Taxi](https://www.kashitaxi.in)
 
 ---
 
@@ -525,7 +525,7 @@ Let's make it happen. Not next year. Soon.
 **With respect and service,**
 
 *Kamal Nayan Singh*
-Founder, KashiTaxi.in
+Founder, Kashi Taxi
 
 > **P.S.** – If budget is the concern, we offer flexible payment plans. If timing is the concern, we have January openings. If health is the concern, we've worked with people in wheelchairs, with dementia, with cardiac history. Every concern has been solved before. **Yours is solvable too.**
 

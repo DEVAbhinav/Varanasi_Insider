@@ -1,7 +1,7 @@
 ---
 title: "Varanasi Local Sightseeing Package | One Day Tour by Car from ₹1,800 (2026)"
 slug: "varanasi-local-sightseeing-package"
-date: "2026-11-21"
+date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN

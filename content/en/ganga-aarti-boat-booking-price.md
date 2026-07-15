@@ -1,8 +1,8 @@
 ---
 title: "Ganga Aarti Boat Price Varanasi (2026): Best Seats"
 slug: "ganga-aarti-boat-booking-price"
-date: "2026-07-27"
-lastUpdated: "2026-09-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 canonical: "https://www.kashitaxi.in/en/evening-boat-ride-varanasi-ganga-aarti"
 status: "merged"
 seoNote: "Consolidated into evening boat ride guide to reduce duplication; keep stub for users/bookmarks until 301 added."

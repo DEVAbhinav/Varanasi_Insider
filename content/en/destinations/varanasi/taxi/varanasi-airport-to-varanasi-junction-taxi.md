@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Varanasi Junction Distance 2026: Taxi Fare & Time"
 slug: "varanasi-airport-to-varanasi-junction-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Airport to Varanasi Junction Distance 2026: Fare, Time & Taxi"

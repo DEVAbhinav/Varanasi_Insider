@@ -1,7 +1,7 @@
 ---
 title: "दक्षिण भारत से काशी यात्रा बस पैकेज (Chennai • Bengaluru • Hyderabad) – 6 से 7 दिन मार्गदर्शिका"
 slug: "kashi-yatra-south-india-bus-package"
-date: "2026-10-25"
+date: "2026-07-15"
 lastModified: "2026-10-25"
 excerpt: "6–7 दिन की काशी (वाराणसी) बस तीर्थ यात्रा – कार्यक्रम, विश्वनाथ दर्शन रणनीति, गंगा आरती, मूल्य श्रेणियाँ, शामिल/अपवर्जित, वरिष्ठ अनुकूल योजना, वैकल्पिक Prayagraj / Ayodhya विस्तार।"
 author: "Travel Agent Varanasi तीर्थ डेस्क"

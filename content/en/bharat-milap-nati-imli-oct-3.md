@@ -1,8 +1,8 @@
 ---
 title: "Bharat Milap Nati Imli 3 Oct 2026: Timings, Route & Crowd Hacks"
 slug: "bharat-milap-nati-imli-oct-3"
-date: "2026-09-29"
-lastUpdated: "2026-09-29"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-priests-2025.jpg"

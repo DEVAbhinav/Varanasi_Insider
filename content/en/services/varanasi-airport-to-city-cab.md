@@ -14,11 +14,11 @@ schemaType: "Service"
 serviceCategory: "Airport Transfer"
 structuredData: true
 published: true
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 areaServed: ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "Sarnath", "BHU", "Cantonment"]
 provider:
-  name: "Banarasi Kashitaxi"
+  name: "Kashi Taxi"
   telephone: "+919935474730"
   url: "https://www.kashitaxi.in/en/services/varanasi-airport-to-city-cab"
 offers:
@@ -189,7 +189,7 @@ Use these links for detailed turn-by-turn routes, ghat barricade intel, and back
 
 ## Proof of Trust & Safety
 
-- **Experience since 1998:** Family-run Banarasi Kashitaxi dispatches 150+ monthly airport-to-city cabs with <1% reassignments.
+- **Experience since 1998:** Family-run Kashi Taxi dispatches 150+ monthly airport-to-city cabs with <1% reassignments.
 - **Police-verified drivers:** IDs and permits are kept in our records and shared on WhatsApp before pickup to reduce tout risk.
 - **Dual-language support:** Hindi + English dispatch desk, plus Tamil/Bengali-speaking drivers on request for pilgrimage charters.
 - **Live compliance log:** Night rides share GPS link + SOS contact; copies stored for 30 days in case guests need proof for insurance.

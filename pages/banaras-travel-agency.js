@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import { loadMarkdownContent } from '../lib/posts';
+import { demoteContentHeadings } from '../lib/markdown';
 import LandingPageLayout from '../components/layouts/LandingPageLayout';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
 import JsonLd from '../components/JsonLd/JsonLd';
@@ -483,7 +484,7 @@ export async function getStaticProps() {
 
   return {
     props: {
-      contentHtml,
+      contentHtml: demoteContentHeadings(contentHtml),
     },
   };
 }

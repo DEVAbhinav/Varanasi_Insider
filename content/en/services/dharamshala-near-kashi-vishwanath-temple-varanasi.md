@@ -136,4 +136,4 @@ The temple sits in a dense web of pedestrian lanes near **Godowlia** and **Dasha
 
 [Get dharamshala options near the temple on WhatsApp →](https://wa.me/919935474730?text=I%20need%20a%20dharamshala%20near%20Kashi%20Vishwanath%20temple)
 
-*Kashitaxi.in is a local Varanasi travel operator. Starting prices are indicative and vary by date, property and availability; the exact rate is confirmed on WhatsApp before booking.*
+*Kashi Taxi is a local Varanasi travel operator. Starting prices are indicative and vary by date, property and availability; the exact rate is confirmed on WhatsApp before booking.*

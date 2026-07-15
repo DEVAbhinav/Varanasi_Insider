@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी से अयोध्या दूरी 2026: टैक्सी किराया, समय और यात्रा विकल्प"
 slug: "varanasi-to-ayodhya-taxi"
-date: "2026-08-07"
-lastUpdated: "2026-08-07"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg"

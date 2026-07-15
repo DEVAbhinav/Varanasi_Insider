@@ -1,11 +1,11 @@
 ---
-title: "Varanasi to Jaipur Taxi | Pink City | ₹10,000 | KashiTaxi"
+title: "Varanasi to Jaipur Taxi | Pink City | ₹10,000 | Kashi Taxi"
 slug: "varanasi-to-jaipur-taxi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Jaipur Taxi | Pink City Tour | ₹10,000 | KashiTaxi"
+metaTitle: "Varanasi to Jaipur Taxi | Pink City Tour | ₹10,000 | Kashi Taxi"
 metaDescription: "Book Varanasi to Jaipur cabs from ₹10,000. 826 km in 11.5-12 hours. Rajasthan heritage, Amber Fort, Hawa Mahal. Overnight packages."
 description: "Book Varanasi to Jaipur cabs from ₹10,000. 826 km journey in 11.5-12 hours. Rajasthan's Pink City, Amber Fort, City Palace, Hawa Mahal, heritage tours, verified drivers."
 keywords:

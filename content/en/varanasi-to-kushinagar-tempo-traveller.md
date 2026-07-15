@@ -3,9 +3,9 @@ lang: en
 title: "Varanasi to Kushinagar Tempo Traveller | Mahaparinirvana 1N Plan"
 description: "Secure a cushioned Traveller for Mahaparinirvana Temple, Ramabhar Stupa, and dawn meditation slots. 1N/2D itineraries with vetted hotels—lock your dates."
 slug: varanasi-to-kushinagar-tempo-traveller
-date: 2026-09-19
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-09-19
+lastUpdated: 2026-07-15
 tags: [kushinagar, buddhist circuit, mahaparinirvana, tempo traveller]
 keywords: ["varanasi to kushinagar tempo traveller","kushinagar tour from varanasi","mahaparinirvana temple trip","kushinagar itinerary tempo traveller","buddhist pilgrimage kushinagar varanasi"]
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png

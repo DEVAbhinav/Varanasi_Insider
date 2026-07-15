@@ -3,9 +3,9 @@ lang: en
 title: "Bodh Gaya Rajgir Nalanda Tempo Traveller Tour (2–3 Day Buddhist Learning Circuit, 2026)"
 description: "Focused Bodh Gaya – Rajgir – Nalanda circuit by Tempo Traveller: meditation, Vulture Peak hike, ancient university ruins. 2–3 day itinerary, distances, costs, practice windows."
 slug: bodhgaya-rajgir-nalanda-tempo-traveller-tour
-date: 2026-09-19
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-09-19
+lastUpdated: 2026-07-15
 tags: [bodh gaya, rajgir, nalanda, buddhist circuit, tempo traveller]
 keywords: ["bodh gaya rajgir nalanda tour","bodh gaya rajgir nalanda tempo traveller","rajgir nalanda itinerary","nalanda university tour bus","buddhist circuit short tour"]
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png

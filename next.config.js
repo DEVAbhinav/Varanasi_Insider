@@ -227,10 +227,9 @@ const nextConfig = {
     return {
       beforeFiles: [
         // In development, proxy /api/* to Azure Functions running on port 7071
-        // EXCLUDING /api/assistant which is handled locally by Next.js
         ...(process.env.NODE_ENV === 'development' ? [
           {
-            source: '/api/:path((?!assistant).*)',
+            source: '/api/:path*',
             destination: 'http://localhost:7071/api/:path*',
           },
         ] : []),

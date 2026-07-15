@@ -1,8 +1,8 @@
 ---
 title: "Assi Ghat to Varanasi Airport Taxi: 2026 Fare & Travel Guide"
 slug: "assi-ghat-to-airport-taxi"
-date: "2026-07-28"
-lastUpdated: "2026-07-28"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogbhugate.jpg"

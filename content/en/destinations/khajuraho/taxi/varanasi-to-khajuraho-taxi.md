@@ -1,11 +1,11 @@
 ---
-title: "Varanasi to Khajuraho Taxi | UNESCO Temples | ₹6,500 | KashiTaxi"
+title: "Varanasi to Khajuraho Taxi | UNESCO Temples | ₹6,500 | Kashi Taxi"
 slug: "varanasi-to-khajuraho-taxi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Khajuraho Taxi | UNESCO Temples | ₹6,500 | KashiTaxi"
+metaTitle: "Varanasi to Khajuraho Taxi | UNESCO Temples | ₹6,500 | Kashi Taxi"
 metaDescription: "Book Varanasi to Khajuraho cabs from ₹6,500. 320 km in 7-8 hours. UNESCO World Heritage temples. 24/7 safe travel."
 description: "Book Varanasi to Khajuraho cabs from ₹6,500. 320-380 km journey in 7-8 hours. UNESCO World Heritage temples, 85 ancient temples, architectural marvel. Verified drivers, overnight packages."
 keywords:

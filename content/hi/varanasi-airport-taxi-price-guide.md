@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी एयरपोर्ट टैक्सी किराया 2026: फिक्स्ड-प्राइस कैब ₹700 से"
 slug: "varanasi-airport-taxi-price-guide"
-date: "2026-07-27"
-lastUpdated: "2026-07-27"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"

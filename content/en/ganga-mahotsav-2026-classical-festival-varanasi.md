@@ -1,7 +1,7 @@
 ---
 title: "Ganga Mahotsav 2026 Varanasi November 6-8: Classical Music & Dance Festival Complete Guide"
 slug: "ganga-mahotsav-2026-classical-festival-varanasi"
-date: "2026-09-30"
+date: "2026-07-15"
 lastModified: "2026-09-30"
 excerpt: "Discover Ganga Mahotsav 2026 in Varanasi - India's premier classical music and dance festival. Complete guide to performances, artists, venues, and booking information for November 6-8, 2026."
 author: "Travel Agent Varanasi Cultural Team"

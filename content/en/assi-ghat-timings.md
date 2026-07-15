@@ -3,7 +3,7 @@ title: "Assi Ghat Aarti Timings (Consolidated)"
 slug: "assi-ghat-timings"
 redirect: "/en/assi-ghat-aarti-timings-2026"
 status: "redirect"
-lastUpdated: "2026-09-20"
+lastUpdated: "2026-07-15"
 seoNote: "Legacy slug retained as lightweight redirect placeholder after consolidation."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Assi Ghat Aarti Time 2026: Morning & Evening Timings"
 slug: "assi-ghat-aarti-timings-2026"
-date: "2026-08-04"
+date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Naval Kishore"
 lang: en-IN

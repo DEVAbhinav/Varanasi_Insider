@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-ayodhya-tempo-traveller
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "वाराणसी से अयोध्या Tempo Traveller ₹14,500 (2026)"
 description: "राम जन्मभूमि दर्शन के लिए वाराणसी से अयोध्या टेम्पो ट्रैवलर डे-टूर – 12/17 सीटर विकल्प, टोल, पार्किंग और ड्राइवर सहित ₹14,500 ऑल-इन।"

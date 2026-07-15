@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Ayodhya 12-Seater Traveller | Family Charter 2026"
 description: "Seat-map your 8–12 pilgrim group with luggage hacks, ₹14,500 fare, cushions, and coordinator support for Ram Mandir darshan. Book instantly on WhatsApp."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [ayodhya, tempo traveller, 12 seater, family travel, pilgrimage]
 keywords:
   - varanasi to ayodhya 12 seater tempo traveller

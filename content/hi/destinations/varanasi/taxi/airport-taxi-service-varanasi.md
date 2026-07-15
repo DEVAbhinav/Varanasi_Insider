@@ -1,8 +1,8 @@
 ---
 title: "प्रीपेड एयरपोर्ट टैक्सी वाराणसी: बिना छुपे चार्ज, समय पर पिकअप"
 slug: "airport-taxi-service-varanasi"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "वाराणसी एयरपोर्ट टैक्सी | फिक्स्ड किराया, मीट-एंड-ग्रीट, फ्लाइट ट्रैकिंग"

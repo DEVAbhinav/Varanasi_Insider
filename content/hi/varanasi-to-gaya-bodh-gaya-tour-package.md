@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी से गया टूर पैकेज: मूल्य और यात्रा कार्यक्रम (2026)"
 slug: "varanasi-to-gaya-bodh-gaya-tour-package"
-date: "2026-08-07"
-lastUpdated: "2026-08-07"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png"

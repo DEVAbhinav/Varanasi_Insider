@@ -3,9 +3,9 @@ lang: en
 title: "Buddhist Circuit Tempo Traveller Tour 2026: 5-Day Bodh Gaya, Sarnath & Nalanda from ₹18,000"
 description: "Buddhist circuit tour from Varanasi by Tempo Traveller – optimized 5D & 7D itineraries for Sarnath, Bodh Gaya, Gaya rituals, Rajgir Vulture Peak, Nalanda ruins, Kushinagar Mahaparinirvana, Lumbini add‑on. Distances, costs, tips."
 slug: buddhist-circuit-tour-tempo-traveller-varanasi
-date: 2026-09-19
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-09-19
+lastUpdated: 2026-07-15
 tags: [buddhist circuit, bodh gaya, sarnath, nalanda, kushinagar, lumbini, tempo traveller, pilgrimage]
 keywords: ["buddhist circuit tour varanasi","varanasi to bodh gaya tempo traveller","buddhist pilgrimage tempo traveller","bodh gaya rajgir nalanda kushinagar tour","varanasi buddhist circuit itinerary","tempo traveller buddhist circuit india","buddhist circuit 7 day tour varanasi"]
 relatedPosts:

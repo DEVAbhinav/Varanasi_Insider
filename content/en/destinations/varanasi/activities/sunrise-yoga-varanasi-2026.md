@@ -1,8 +1,8 @@
 ---
 title: "Sunrise Yoga in Varanasi (2026): Best Ghats, Classes & Costs"
 slug: "sunrise-yoga-varanasi-2026"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Sunrise Yoga in Varanasi 2026 | Assi Ghat Classes, Costs & December Schedule"

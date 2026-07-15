@@ -9,7 +9,7 @@
       "@id": "https://www.kashitaxi.in/#org",
       "name": "Varanasi Taxi - Vinayak Travels",
       "alternateName": [
-        "KashiTaxi",
+        "Kashi Taxi",
         "Taj Ganges Taxi Service"
       ],
       "url": "https://www.kashitaxi.in/",
@@ -207,7 +207,7 @@
         },
         {
           "@type": "Question",
-          "name": "How much cheaper is KashiTaxi compared to hotel concierge?",
+          "name": "How much cheaper is Kashi Taxi compared to hotel concierge?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Our services are typically 40-73% cheaper than hotel concierge rates. For example, sunrise ghat tour is ₹800 vs hotel's ₹3,000 - saving you ₹2,200."

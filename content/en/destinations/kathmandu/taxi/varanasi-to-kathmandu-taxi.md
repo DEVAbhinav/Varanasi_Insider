@@ -1,8 +1,8 @@
 ---
-title: "Varanasi to Kathmandu Taxi | Nepal Cross-Border | ₹8,500 | KashiTaxi"
+title: "Varanasi to Kathmandu Taxi | Nepal Cross-Border | ₹8,500 | Kashi Taxi"
 slug: "varanasi-to-kathmandu-taxi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Kathmandu Taxi | Nepal Border Crossing | ₹8,500"

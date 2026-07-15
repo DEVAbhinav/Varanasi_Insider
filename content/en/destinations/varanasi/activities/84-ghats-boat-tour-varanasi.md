@@ -1,8 +1,8 @@
 ---
 title: "84 Ghats Boat Tour in Varanasi: Complete 2026 Guide & Pricing"
 slug: "84-ghats-boat-tour-varanasi"
-date: "2026-12-12"
-lastUpdated: "2026-12-12"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "84 Ghats Boat Tour Varanasi 2026: 3–4 Hr Route, Timing & Price"
@@ -253,7 +253,7 @@ For your **varanasi ghat tour by boat**, choose from these options based on time
 
 **Festival periods (Nov 5 Dev Deepawali, Nov 15 Kartik Purnima):** Book 5–7 days in advance; prices 3–6x higher (₹1,500–2,500 per person).
 
-### Group Booking Process (Kashitaxi)
+### Group Booking Process (Kashi Taxi)
 
 **Step 1:** Calculate headcount (include children; ask if special needs require accommodations)
 
@@ -307,7 +307,7 @@ For your **varanasi ghat tour by boat**, choose from these options based on time
 **Boat capacity:** Never overloaded (weight limits strictly enforced)
 **Boatman experience:** All operators minimum 5+ years experience
 **Weather cancellation:** Monsoon boats may be cancelled morning-of if water too rough
-**Insurance:** Kashitaxi boats carry liability insurance (standard in tourism industry)
+**Insurance:** Kashi Taxi boats carry liability insurance (standard in tourism industry)
 
 ### Weather Impact on Tours
 
@@ -460,4 +460,4 @@ The "84 ghats" isn't just a tourist catchphrase—it represents a complete spiri
 A 2–3 hour varanasi boat trip won't make you spiritually enlightened, but boat riding in varanasi gives you a profound perspective on one of humanity's oldest continuous civilizations still vibrantly alive on the banks of the sacred Ganges.
 
 **Updated:** December 2026
-**Maintained by:** Kashitaxi Boat Operations
+**Maintained by:** Kashi Taxi Boat Operations

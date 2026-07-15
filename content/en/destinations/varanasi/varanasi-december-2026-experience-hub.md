@@ -2,8 +2,8 @@
 title: "Varanasi in December 2026: Festivals, Sunrise Rituals & Shopping"
 slug: "varanasi-december-2026-experience-hub"
 canonical: "/en/varanasi-in-december-2026"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Varanasi December 2026 Guide | Festivals, Sunrise Yoga, Malaiyo & Banarasi Silk"

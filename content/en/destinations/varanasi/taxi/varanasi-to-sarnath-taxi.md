@@ -1,10 +1,10 @@
 ---
 title: >-
   Varanasi to Sarnath Taxi | Distance, Cost & Best Service Guide 2026 |
-  KashiTaxi
+  Kashi Taxi
 slug: varanasi-to-sarnath-taxi
-date: '2026-12-09'
-lastUpdated: '2026-12-09'
+date: '2026-07-15'
+lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
 metaTitle: 'Varanasi to Sarnath Taxi from ₹1,200 | 10–13 km, 30–45 min'
@@ -277,7 +277,7 @@ Most taxis approach via main city roads toward **Sarnath Road**; during school h
 
 ### Option 2: Book Through Hotel Concierge
 
-- **Approach:** Ask reception to arrange via KashiTaxi
+- **Approach:** Ask reception to arrange via Kashi Taxi
 - **Advantage:** Hotel coordinates; you just approve
 - **Pricing:** Same as direct booking
 - **Ease:** Maximum (hotel handles everything)
@@ -291,7 +291,7 @@ Most taxis approach via main city roads toward **Sarnath Road**; during school h
 
 ## Cost Comparison: Hotel vs. Direct Booking for Sarnath Trip
 
-| Service | Hotel Quotes | KashiTaxi | Savings |
+| Service | Hotel Quotes | Kashi Taxi | Savings |
 |---------|--------------|-----------|---------|
 | One-way taxi | ₹2,000-2,500 | ₹1,200 | 40-50% |
 | Return + waiting | ₹3,500-4,000 | ₹2,000 | 43-49% |

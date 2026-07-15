@@ -1,8 +1,8 @@
 ---
 title: "काशी तमिल संगमम 4.0 (दिसंबर 2026): डेट, वेन्यू और यात्रा गाइड"
 slug: "kashi-tamil-sangamam-2026-varanasi"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "काशी तमिल संगमम 2026 वाराणसी | BHU वेन्यू, प्रोग्राम और ट्रैवल टिप्स"

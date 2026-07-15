@@ -6,11 +6,11 @@
   "inLanguage": "en",
   "author": {
     "@type": "Organization",
-    "name": "KashiTaxi"
+    "name": "Kashi Taxi"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "KashiTaxi",
+    "name": "Kashi Taxi",
     "url": "https://www.kashitaxi.in/",
     "logo": {
       "@type": "ImageObject",

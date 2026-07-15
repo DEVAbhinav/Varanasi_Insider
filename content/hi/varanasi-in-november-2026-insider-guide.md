@@ -1,8 +1,8 @@
 ---
 title: "नवंबर 2026 वाराणसी ट्रिप: देव दीपावली ब्लूप्रिंट, मौसम और बुकिंग"
 slug: "varanasi-in-november-2026-insider-guide"
-date: "2026-08-02"
-lastUpdated: "2026-08-02"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-night-boat-ghat-p.jpeg"

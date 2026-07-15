@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी से आउटस्टेशन कैब - इनोवा क्रिस्टा, अर्टिगा, एसयूवी और टेम्पो ट्रैवलर (6-12 सीटर)"
 slug: "outstation-cabs-from-varanasi"
-date: "2026-08-10"
-lastUpdated: "2026-08-10"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 

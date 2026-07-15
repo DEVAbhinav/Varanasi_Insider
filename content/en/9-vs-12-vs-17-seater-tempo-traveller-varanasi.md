@@ -4,7 +4,7 @@ title: '9 vs 12 vs 17 Seater Tempo Traveller Varanasi: Which One to Book? (2026 
 description: >-
   9 vs 12 vs 17 seater Tempo Traveller Varanasi comparison: capacity, comfort,
   rates, when to choose each, pros & cons, FAQs and booking tips.
-date: 2026-09-18T00:00:00.000Z
+date: 2026-07-15
 tags:
   - tempo traveller
   - 9 seater
@@ -18,7 +18,7 @@ tags:
 slug: 9-vs-12-vs-17-seater-tempo-traveller-varanasi
 canonical: 'https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi'
 author: Kamal Nayan Singh
-lastUpdated: 2026-12-23T00:00:00.000Z
+lastUpdated: 2026-07-15
 keywords:
   - 9 vs 12 vs 17 seater tempo traveller varanasi
   - tempo traveller size comparison varanasi

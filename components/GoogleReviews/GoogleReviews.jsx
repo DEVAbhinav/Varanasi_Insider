@@ -1,6 +1,7 @@
 import React, { useRef } from 'react';
 import { Star, MapPin, Users } from 'lucide-react';
 import styles from './GoogleReviews.module.css';
+import { BUSINESS } from '../../config/business';
 
 // Real customer reviews from Google Business Profile
 const customerReviews = [
@@ -71,8 +72,8 @@ const customerReviews = [
 ];
 
 export default function GoogleReviews() {
-	const averageRating = '4.8';
-	const totalReviews = 169;
+	const averageRating = String(BUSINESS.rating);
+	const totalReviews = BUSINESS.reviewCount;
 
 	// Smooth scroll controls for desktop
 	const scrollerRef = useRef(null);
@@ -133,7 +134,7 @@ export default function GoogleReviews() {
 				</div>
 				<div className={styles.actions}>
 					<a
-						href="https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA"
+						href={BUSINESS.mapsUrl}
 						target="_blank"
 						rel="noopener noreferrer"
 						className={styles.viewAllButton}

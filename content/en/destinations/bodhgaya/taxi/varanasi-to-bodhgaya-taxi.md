@@ -1,8 +1,8 @@
 ---
-title: "Varanasi to Bodhgaya Taxi | Buddhist Pilgrimage | ₹3,500 | KashiTaxi"
+title: "Varanasi to Bodhgaya Taxi | Buddhist Pilgrimage | ₹3,500 | Kashi Taxi"
 slug: "varanasi-to-bodhgaya-taxi"
-date: "2026-11-25"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Bodhgaya Distance: 255km, 5hr | Taxi ₹3,500 [2026]"
@@ -179,9 +179,9 @@ Must visit at least 3-4 different monasteries to experience diverse Buddhist tra
 | GST (5%) | ₹175 |
 | **Total Estimated Fare** | **₹3,575** |
 
-### Why Choose KashiTaxi Over Alternatives
+### Why Choose Kashi Taxi Over Alternatives
 
-| Feature | KashiTaxi | Train | Bus | Shared Taxi |
+| Feature | Kashi Taxi | Train | Bus | Shared Taxi |
 |---------|-----------|-------|-----|-------------|
 | **Door-to-Door** | ✓ Yes | ✗ No | ✗ No | ✗ Limited |
 | **Temple Drop** | ✓ Direct | ✗ Station | ✗ Stand | ✗ Fixed |
@@ -192,9 +192,9 @@ Must visit at least 3-4 different monasteries to experience diverse Buddhist tra
 | **Starting Price** | ₹3,500 | ₹300 | ₹400 | ₹600/seat |
 | **Travel Time** | 3.5-4 hrs | 5-6 hrs | 5-6 hrs | 4-5 hrs |
 
-**Best Value**: KashiTaxi offers the best comfort-to-price ratio with door-to-door service.
+**Best Value**: Kashi Taxi offers the best comfort-to-price ratio with door-to-door service.
 
-## Why Book Varanasi to Bodhgaya Cabs with KashiTaxi
+## Why Book Varanasi to Bodhgaya Cabs with Kashi Taxi
 
 ### 1. Buddhist Circuit Expertise
 - Drivers experienced with international Buddhist pilgrims

@@ -1,5 +1,5 @@
 ---
-title: "Varanasi to Jaunpur Taxi | Sharqi Heritage Cabs | ₹2,200 | KashiTaxi"
+title: "Varanasi to Jaunpur Taxi | Sharqi Heritage Cabs | ₹2,200 | Kashi Taxi"
 slug: "varanasi-to-jaunpur-taxi"
 date: "2026-06-24"
 lastUpdated: "2026-06-24"
@@ -110,7 +110,7 @@ faqSchema:
 **Included:** fuel, tolls, driver allowance, GST, and waiting time while you explore the monuments.
 **Not included:** monument entry tips, meals, and shopping stops beyond the planned itinerary.
 
-## Why Book With KashiTaxi
+## Why Book With Kashi Taxi
 
 - **Drivers who know the monument circuit** and can park close to the Atala Masjid and Shahi Bridge.
 - **Built-in sightseeing waiting time** so you explore at your own pace.

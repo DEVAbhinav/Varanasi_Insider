@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import { loadMarkdownContent } from '../lib/posts';
+import { demoteContentHeadings } from '../lib/markdown';
 import LandingPageLayout from '../components/layouts/LandingPageLayout';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
 import JsonLd from '../components/JsonLd/JsonLd';
@@ -347,5 +348,5 @@ export default function KasiTourPackagePage({ contentHtml }) {
 export async function getStaticProps() {
   const { contentHtml } = await loadMarkdownContent('en', 'kasi-tour-package');
 
-  return { props: { contentHtml } };
+  return { props: { contentHtml: demoteContentHeadings(contentHtml) } };
 }

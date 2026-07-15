@@ -4,8 +4,8 @@ title: "Varanasi to Bodhgaya Tempo Traveller: 255km | ₹16,000 [2026]"
 description: Varanasi to Bodhgaya Tempo Traveller—255 km, 5-6 hr drive. Same‑day or overnight. Visit Mahabodhi, Great Buddha and monasteries. All‑inclusive 2026 pricing.
 metaTitle: "Varanasi to Bodhgaya Tempo Traveller: 255km | ₹16,000 [2026]"
 metaDescription: "Varanasi to Bodhgaya = 255 km (5-6 hr). 12-seater Tempo ₹16,000 same-day. Mahabodhi Temple + Vishnupad Pind Daan. 26-seater available. Book: 99354 74730"
-date: 2026-08-27
-lastUpdated: 2026-12-22
+date: 2026-07-15
+lastUpdated: 2026-07-15
 tags: [bodhgaya, buddhist circuit, tempo traveller]
 slug: varanasi-to-bodhgaya-tempo-traveller
 canonical: https://www.kashitaxi.in/en/varanasi-to-bodhgaya-tempo-traveller

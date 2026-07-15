@@ -1,22 +1,22 @@
 ---
-title: "About Banarasi Kashitaxi: Trusted Varanasi Taxis (2026)"
+title: "About Kashi Taxi: Trusted Varanasi Taxis (2026)"
 slug: "about"
-date: "2026-07-28"
+date: "2026-07-15"
 author: "Utkarsh Pandey"
-description: "Meet Banarasi Kashitaxi, a family-run Varanasi taxi service since 1998. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
+description: "Meet Kashi Taxi, a family-run Varanasi taxi service (operated by Vinayak Travels) since 1998. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/aboutUs.svg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/about"
 tags: ["about us", "our story", "Varanasi taxi", "Vinayak Travels Tour", "safe taxi Varanasi"]
-metaTitle: "About Us | Banarasi Kashitaxi | Trusted Varanasi Taxi Service Since 1998"
-metaDescription: "Discover the story of Banarasi Kashitaxi, a family-run Varanasi taxi service. We offer reliable airport transfers, Pink Taxis for women, and custom tours."
+metaTitle: "About Us | Kashi Taxi | Trusted Varanasi Taxi Service Since 1998"
+metaDescription: "Discover the story of Kashi Taxi, a family-run Varanasi taxi service operated by Vinayak Travels. Reliable airport transfers, Pink Taxis for women, and custom tours."
 ---
 
 # नमस्ते! I’m Utkarsh Pandey—Here’s Our Story 🚖✨
 
-> **TL;DR:** Banarasi Kashitaxi is a family-run Varanasi taxi network scaling from one Ambassador in 1998 to GPS-tracked airport shuttles, Pink Taxis, and curated Buddhist circuits in 2026. Expect transparent fares, locally trained chauffeurs, and a 24x7 helpline anchored by the Pandey family. Scroll for services, values, and booking contacts.
+> **TL;DR:** Kashi Taxi (operated by Vinayak Travels) is a family-run Varanasi taxi network that has grown from one Ambassador in 1998 to GPS-tracked airport shuttles, Pink Taxis, and curated Buddhist circuits. Expect transparent fares, locally trained chauffeurs, and a 24x7 helpline anchored by the Pandey family. Scroll for services, values, and booking contacts.
 
-I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into a lifeline for pilgrims landing at Varanasi Junction. What began as a modest **Vinayak Travels Tour** counter in 1998 is now **Banarasi Kashitaxi**: a tech‑enabled fleet serving 30+ cities across Uttar Pradesh and Bihar, with special focus on women‑only Pink Taxis and curated Buddhist Circuit tours.
+I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into a lifeline for pilgrims landing at Varanasi Junction. What began as a modest **Vinayak Travels Tour** counter in 1998 is now **Kashi Taxi**: a family-run fleet serving travellers across Uttar Pradesh and Bihar, with special focus on women‑only Pink Taxis and curated Buddhist Circuit tours.
 
 ![Women-driven Pink Taxi in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg "Women-driven Pink Taxi in Varanasi")
 
@@ -73,17 +73,16 @@ I grew up watching my father **Sudhir Pandey** turn a single Ambassador car in
 
 * **1998** – Vinayak Travels Tour founded with one Ambassador.  
 * **2010** – First online airport‑pickup booking via SMS!  
-* **2018** – Fleet crosses 50 vehicles; self‑drive scooter rentals launch.  
-* **2023** – Pink Taxi service for women travellers inaugurated on Holi.  
-* **2026** – Website relaunch as **Banarasi Kashitaxi** with AI‑powered fare estimator.
+* **2018** – Fleet expands; self‑drive scooter rentals launch.  
+* **2023** – Pink Taxi service for women travellers inaugurated on Holi.  
+* **2026** – Website relaunch as **Kashi Taxi** with online fare guides and instant WhatsApp booking.
 
 ---
 
-## Press & Praise
+## Praise from Our Guests
 
-- *“The most reliable cab company in Varanasi.”* — **Times of India, Travel Edition** (2024)  
-- ⭐ **4.8/5** rating from 600+ Google reviews  
-- Recommended by Lonely Planet’s “National Geographic Traveller India” feature (2026)
+- ⭐ **4.8/5** rating from 312 Google reviews ([see them on Google](https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA))
+- Hundreds of pilgrims, families and solo women travellers served every season across Varanasi and nearby circuits.
 
 ---
 
@@ -91,9 +90,9 @@ I grew up watching my father **Sudhir Pandey** turn a single Ambassador car in
 
 [Book your ride](https://www.kashitaxi.in/en/book) or just ping us:
 
-* **Call/WhatsApp:** +91 94503 01573 | +91 99354 74730  
+* **Call/WhatsApp:** +91 99354 74730  
 * **E‑mail:** sudhir.vinayaktravels@gmail.com  
-* Or swing by **L 10/125, Shastri Nagar (near IP Mall), Sigra, Varanasi – 221 002**.
+* Or swing by **L 10/125, Shastri Nagar (near IP Mall), Sigra, Varanasi – 221010**.
 
 > Have questions? Our **Contact Us** page has every hotline, map, and form you’ll ever need.
 

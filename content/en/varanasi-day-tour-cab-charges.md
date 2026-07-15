@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Sightseeing Cab: 8hr Ghats & Temples Tour from ₹1,800"
 slug: "varanasi-day-tour-cab-charges"
-date: "2026-07-28"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png"

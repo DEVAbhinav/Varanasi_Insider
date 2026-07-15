@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी दिसंबर 2026: उत्सव, सूर्योदय रूटीन और शॉपिंग"
 slug: "varanasi-december-2026-experience-hub"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "वाराणसी दिसंबर 2026 हब | तमिल संगमम, कबीर, योग, मलाईयो"

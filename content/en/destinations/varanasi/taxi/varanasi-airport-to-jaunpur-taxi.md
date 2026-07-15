@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Jaunpur: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-jaunpur-taxi"
-date: "2026-11-19"
-lastUpdated: "2026-11-19"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Airport to Jaunpur: Distance, Time, Taxi Fare (2026)"

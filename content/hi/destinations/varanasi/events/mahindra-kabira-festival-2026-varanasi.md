@@ -1,8 +1,8 @@
 ---
 title: "महिंद्रा कबीर उत्सव 2026 वाराणसी: तिथियाँ, टिकट, लाइनअप"
 slug: "mahindra-kabira-festival-2026-varanasi"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "महिंद्रा कबीर फेस्टिवल 2026 वाराणसी | टिकट, वेन्यू, यात्रा योजना"

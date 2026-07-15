@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Panchganga Ghat: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-panchganga-ghat-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-11-12"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Airport to Panchganga Ghat: Distance, Time, Taxi Fare (2026)"

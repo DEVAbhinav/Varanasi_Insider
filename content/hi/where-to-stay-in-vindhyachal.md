@@ -1,8 +1,8 @@
 ---
 title: "विंध्याचल में कहां ठहरें: होटल, धर्मशाला और बुकिंग गाइड 2026"
 slug: "where-to-stay-in-vindhyachal"
-date: "2026-09-17"
-lastUpdated: "2026-09-17"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "कमल नयन सिंह"
 lang: hi-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg"

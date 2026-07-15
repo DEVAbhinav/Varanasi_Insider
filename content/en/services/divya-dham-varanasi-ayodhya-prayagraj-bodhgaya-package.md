@@ -184,4 +184,4 @@ Not ready for the full 4-city yatra? Start smaller — each has its own fixed-pr
 
 [Get my Divya Dham price on WhatsApp →](https://wa.me/919935474730?text=I%20want%20the%204-city%20Divya%20Dham%20package)
 
-*Kashitaxi.in is a local Varanasi travel operator. Prices are indicative fixed tiers and may vary on peak festival dates; the exact total is confirmed on WhatsApp before booking. Temple darshan access and official ticket rates are governed by the respective temple trusts.*
+*Kashi Taxi is a local Varanasi travel operator. Prices are indicative fixed tiers and may vary on peak festival dates; the exact total is confirmed on WhatsApp before booking. Temple darshan access and official ticket rates are governed by the respective temple trusts.*

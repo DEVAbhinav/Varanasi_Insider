@@ -1,8 +1,8 @@
 ---
 title: "Privacy Policy - Varanasi Taxi Services"
 slug: "privacy-policy"
-date: "2026-10-04"
-lastUpdated: "2026-10-04"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Taxi"
 lang: en-IN
 description: "Privacy Policy for Varanasi Taxi Services. Learn how we collect, use, and protect your personal information."

@@ -1,7 +1,7 @@
 ---
 title: "Dashashwamedh Ghat Boat Ride & Ganga Aarti: Complete 2026 Guide"
 slug: "dashashwamedh-ghat-boat-ride-ganga-aarti-guide"
-date: "2026-12-12"
+date: "2026-07-15"
 lastUpdated: "2026-02-05"
 author: "Varanasi Insider Team"
 lang: en
@@ -234,7 +234,7 @@ The key to a great boat aarti is **where the boat positions itself** before the 
 
 **Avoid:** Boats anchoring too close (safety risk + blocked by adjacent boats) or too far (ceremony looks small, sound muffled).
 
-**Boatman tip:** Message your boatman 1 day before with: "We want prime angle opposite altar, not crowded area." Experienced boatmen (like our Kashitaxi network) know the 5–6 premium spots and will fight for positioning.
+**Boatman tip:** Message your boatman 1 day before with: "We want prime angle opposite altar, not crowded area." Experienced boatmen (like our Kashi Taxi network) know the 5–6 premium spots and will fight for positioning.
 
 ### Boat Timing Departure Window
 
@@ -358,7 +358,7 @@ If you book an extended boat tour (2–3 hours), many routes include Manikarnika
 
 ---
 
-## Integration with Kashitaxi Services
+## Integration with Kashi Taxi Services
 
 ### Same-Day Booking Process
 
@@ -433,4 +433,4 @@ The Dashashwamedh Ghat ceremony isn't just a tourist attraction—it's a 250-yea
 **Ready to book?** WhatsApp +91 94503 01573 with your date and preferences.
 
 **Updated:** February 2026
-**Maintained by:** Kashitaxi Boat Operations
+**Maintained by:** Kashi Taxi Boat Operations

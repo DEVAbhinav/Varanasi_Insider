@@ -320,7 +320,11 @@ export async function getStaticProps({ params }) {
   const { sanitizeJsonLdData } = await import("../../../lib/jsonLdSanitizer");
 
   const contentDir = path.join(process.cwd(), "content", params.lang, "packages");
-  const { frontmatter, contentHtml } = await loadMarkdownContent(params.lang, `packages/${params.slug}`);
+  const { frontmatter, contentHtml: rawContentHtml } = await loadMarkdownContent(params.lang, `packages/${params.slug}`);
+  // The package hero renders the page <h1>, so demote the markdown body's
+  // leading H1 to H2 to keep a single H1 per page.
+  const { demoteContentHeadings } = await import("../../../lib/markdown");
+  const contentHtml = demoteContentHeadings(rawContentHtml);
 
   // Also collect all packages (for related grid)
   let allPackages = [];

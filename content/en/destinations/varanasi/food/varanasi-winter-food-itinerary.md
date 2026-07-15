@@ -1,8 +1,8 @@
 ---
 title: "Winter Food Guide & Perfect 3-Day January Itinerary for Varanasi"
 slug: "varanasi-winter-food-itinerary"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Varanasi Winter Food Guide 2026 & 3-Day January Itinerary"

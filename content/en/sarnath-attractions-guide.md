@@ -1,8 +1,8 @@
 ---
 title: "Sarnath Attractions Guide 2026: Complete List of Places to Visit with Timing & Entry Fees"
 slug: "sarnath-attractions-guide"
-date: "2026-10-27"
-lastUpdated: "2026-10-27"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png"

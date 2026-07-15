@@ -1,8 +1,8 @@
 ---
 title: "Is Varanasi Safe for Solo Female Travellers in 2026? Safety Blueprint"
 slug: "is-varanasi-safe-for-solo-female-travellers"
-date: "2026-07-24"
-lastUpdated: "2026-09-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Utkarsh Pandey"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/solo-femal-traveller-varanasi.jpeg"

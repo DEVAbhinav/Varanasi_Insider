@@ -1,8 +1,8 @@
 ---
 title: "काशी विश्वनाथ टैक्सी VNS एयरपोर्ट से ₹690–900 | 25 किमी, 40 मिनट"
 slug: "varanasi-airport-to-kashi-vishwanath-taxi"
-date: "2026-11-19"
-lastUpdated: "2026-11-19"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "VNS से काशी विश्वनाथ टैक्सी ₹690–₹900 | 25–26 किमी, 40–55 मिनट"

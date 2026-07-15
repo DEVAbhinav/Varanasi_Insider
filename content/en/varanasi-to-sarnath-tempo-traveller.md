@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Sarnath Tempo Traveller | 6-Hour Buddhist Circuit"
 description: "Charter an AC Traveller with ASI guide, museum fast-track entry, and curated vegetarian lunch stop—ideal for pilgrims, schools, and foreign guests. WhatsApp to confirm."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [sarnath, buddhist circuit, tempo traveller, varanasi sightseeing, heritage]
 keywords:
   - varanasi to sarnath tempo traveller

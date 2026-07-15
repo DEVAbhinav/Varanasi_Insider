@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-ayodhya-day-trip-tempo-traveller
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "वाराणसी से अयोध्या डे ट्रिप Tempo Traveller गाइड (15 घंटे)"
 description: "सुबह 4:30 से रात 9 बजे तक कवर होने वाला अयोध्या डे ट्रिप पैकेज: राम मंदिर दर्शन, कनक भवन, सरयू आरती, भोजन स्टॉप और ₹14,500 टेम्पो ट्रैवलर किराए की जानकारी।"

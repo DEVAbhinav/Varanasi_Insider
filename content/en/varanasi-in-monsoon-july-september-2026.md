@@ -1,8 +1,8 @@
 ---
 title: "Varanasi in Monsoon 2026: July–Sept [Guide]"
 slug: "varanasi-in-monsoon-july-september-2026"
-date: "2026-08-02"
-lastUpdated: "2026-08-02"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/pink-sky-ghat-varanasi-l.jpeg"

@@ -1,7 +1,7 @@
 ---
 title: "Photographer's Guide to Capturing Dev Deepawali 2026: Camera Settings, Best Spots & Pro Tips"
 slug: "dev-deepawali-photography-guide-2026"
-date: "2026-09-30"
+date: "2026-07-15"
 lastModified: "2026-09-30"
 excerpt: "Complete photography guide for Dev Deepawali 2026. Camera settings, golden hour timing, best angles, and insider spots for capturing stunning lamp-lit images without crowds."
 author: "Travel Agent Varanasi Photography Team"

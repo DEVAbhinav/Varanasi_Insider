@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Travel Agent | Trusted Tour Operators in Varanasi | Kashi Taxi"
 slug: "varanasi-travel-agent"
-date: "2026-10-26"
-lastUpdated: "2026-10-26"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Utkarsh Pandey"
 lang: en-IN
 
@@ -118,7 +118,7 @@ Operating as **Vinayak Travels Tour (Regd.)**, Kashi Taxi has served 25,000+ tra
 - **Transparent Pricing:** No hidden charges — you see the full breakdown before booking
 - **Local Expertise:** Born-and-raised Banarasi drivers who know every ghat, temple, and shortcut
 - **24×7 Availability:** Round-the-clock phone support at +91 99354 74730
-- **4.8/5 Google Rating:** Based on 600+ verified reviews
+- **4.8/5 Google Rating:** Based on 312 verified reviews
 
 ### **Varanasi Tour and Travels Services: Complete Solutions**
 
@@ -310,7 +310,7 @@ Starting from ₹25,000 (sedan) | ₹32,000 (SUV)
 - **GSTIN:** *[Verification pending display on website — Available on request]*
 - **Registration Year:** 1998
 - **Office Address:** L 10/125, Shastri Nagar (near IP Mall), Sigra/Chetganj, Varanasi – 221 002, Uttar Pradesh, India
-- **Google Business Profile:** 4.8/5 rating (600+ reviews)
+- **Google Business Profile:** 4.8/5 rating (312 reviews)
 
 ### **Tour Operator Vehicle Safety Standards in Varanasi**
 
@@ -442,7 +442,7 @@ We respond within 1 business hour with:
 > *"Best Varanasi travel agent we could have found. Transparent pricing, no hidden charges, and they arranged everything from airport pickup to Sarnath tour. Will definitely book again."*  
 > — **Rajesh Kumar**, Google Reviews (5/5)
 
-**Google Business Rating:** ⭐ 4.8/5 (600+ verified reviews)
+**Google Business Rating:** ⭐ 4.8/5 (312 verified reviews)
 
 ---
 

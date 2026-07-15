@@ -9,7 +9,7 @@ heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitax
 author: "Kamal Nayan Singh"
 subtitle: "Transparent, honest stay booking in Varanasi — dormitory beds from ₹500/night, clean budget rooms, family homestays, and hotels near the ghats and Kashi Vishwanath — with local cab, darshan and boat support. We show prices; we don't hide behind 'call for charges.'"
 description: "Book stays in Varanasi with transparent prices: dormitory from ₹500/night, budget hotels, family homestays, and rooms near ghats & Kashi Vishwanath. Local support for cab, darshan and boat. Hindi & English."
-metaTitle: "Varanasi Stay Booking 2026: Dormitory ₹500, Budget, Homestay & Hotels | Kashitaxi"
+metaTitle: "Varanasi Stay Booking 2026: Dormitory ₹500, Budget, Homestay & Hotels | Kashi Taxi"
 metaDescription: "Transparent Varanasi stay booking — dormitory from ₹500/night, budget rooms, family homestays & hotels near ghats and Kashi Vishwanath. Cab + darshan + boat support. Book on WhatsApp."
 keywords:
   - "dormitory in varanasi"
@@ -180,4 +180,4 @@ Find the right stay for where you want to be — each has its own page with pric
 
 [Get stay options with prices on WhatsApp →](https://wa.me/919935474730?text=I%20need%20Varanasi%20stay%20options%20with%20prices)
 
-*Kashitaxi.in is a local Varanasi travel operator. Starting prices are indicative and vary by date, area and availability; the exact rate is confirmed on WhatsApp before booking.*
+*Kashi Taxi is a local Varanasi travel operator. Starting prices are indicative and vary by date, area and availability; the exact rate is confirmed on WhatsApp before booking.*

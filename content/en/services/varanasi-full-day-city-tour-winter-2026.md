@@ -16,8 +16,8 @@ structuredData: true
 published: true
 showRatesCheatSheet: true
 showSegmentBlocks: true
-date: "2026-10-02"
-lastUpdated: "2026-10-02"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 ---
 
 # Varanasi Full-Day City Tour by Car: Packages & Pricing for Winter 2026

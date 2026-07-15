@@ -1,8 +1,8 @@
 ---
 title: "Navratri in Vindhyachal 2026: Complete Pilgrim's Practical Guide"
 slug: "navratri-in-vindhyachal-practical-guide"
-date: "2026-09-16"
-lastUpdated: "2026-09-16"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"

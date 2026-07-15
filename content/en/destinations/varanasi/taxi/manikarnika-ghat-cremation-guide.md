@@ -1,8 +1,8 @@
 ---
 title: Manikarnika Ghat Taxi & Etiquette Guide (Sacred Cremation Access)
 slug: manikarnika-ghat-cremation-guide
-date: '2026-12-09'
-lastUpdated: '2026-12-09'
+date: '2026-07-15'
+lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
 metaTitle: 'Manikarnika Ghat Taxi Drop & Etiquette | Maidagin Access, No-Photo Rules'

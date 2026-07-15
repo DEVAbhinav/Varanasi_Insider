@@ -2,7 +2,7 @@
 lang: en
 title: "Pilgrimage Yatra Varanasi by Tempo Traveller [2026]"
 description: "Book specialized pilgrimage tours from Varanasi—Ayodhya, Chitrakoot, Vindhyachal, Naimisaranya, Bodhgaya and more. Customizable Tempo packages."
-date: 2026-08-27
+date: 2026-07-15
 tags: [pilgrimage, yatra, ayodhya, chitrakoot, vindhyachal, naimisaranya, bodhgaya]
 slug: pilgrimage-yatra-tours-tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/pilgrimage-yatra-tours-tempo-traveller-varanasi

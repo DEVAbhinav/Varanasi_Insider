@@ -4,7 +4,7 @@
     {
       "@type": "TaxiService",
       "@id": "https://www.kashitaxi.in/en/about#service",
-      "name": "Banarasi Kashitaxi",
+      "name": "Kashi Taxi",
       "alternateName": "Vinayak Travels Tour",
       "founder": {
         "@type": "Person",
@@ -55,7 +55,7 @@
         }
       ],
       "sameAs": [
-        "https://youtube.com/@KashiTaxi",
+        "https://youtube.com/@Kashi Taxi",
         "https://instagram.com/banarasi.kashitaxi",
         "https://www.facebook.com/profile.php?id=100063817792339"
       ],
@@ -90,7 +90,7 @@
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
         "Varanasi Taxi",
-        "Kashitaxi"
+        "Kashi Taxi"
       ],
       "url": "https://www.kashitaxi.in/",
       "logo": {
@@ -121,7 +121,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Banarasi Kashitaxi",
+          "name": "Kashi Taxi",
           "item": "https://www.kashitaxi.in/en/about/"
         }
       ]

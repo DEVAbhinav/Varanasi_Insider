@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Vindhyachal Navratri Pilgrimage: Ultimate Guide 2026"
 slug: "navratri-pilgrimage-vindhyachal-from-varanasi-guide"
-date: "2026-09-16"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"

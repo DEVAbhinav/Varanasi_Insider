@@ -1,8 +1,8 @@
 ---
 title: "शिवाला घाट टैक्सी सेवा (होटल हब और शांत ठहराव)"
 slug: "shivala-ghat-taxi-service"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "शिवाला घाट टैक्सी वाराणसी | सोनारपुरा कैब | होटल ड्रॉप सेवा"

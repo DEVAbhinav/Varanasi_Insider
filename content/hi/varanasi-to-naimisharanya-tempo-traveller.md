@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-naimisharanya-tempo-traveller
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "वाराणसी से नैमिषारण्य Tempo Traveller | 1N/2D चक्र यात्रा"
 description: "चक्रतीर्थ, ललिता देवी, दधीचि कुंड और सूकदेव पीठ दर्शन हेतु 1N टेम्पो ट्रैवलर समर्थन, पंडित समन्वय और ₹22k पारदर्शी लागत – अभी स्लॉट सुरक्षित करें।"

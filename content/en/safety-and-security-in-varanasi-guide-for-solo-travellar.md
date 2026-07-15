@@ -1,8 +1,8 @@
 ---
 title: "Is Varanasi Safe? 2026 Solo Traveler Safety & Scam Guide"
 slug: "safety-and-security-in-varanasi-guide-for-solo-travellar"
-date: "2026-07-30"
-lastUpdated: "2026-12-17"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Abhinav Pandey"
 description: "Our comprehensive safety guide for solo travellers in Varanasi. Learn about common scams, safe areas to stay, and essential safety contacts."
 metaTitle: "Varanasi Safety Guide [2026]: Emergency #s & Scams to Avoid"
@@ -130,7 +130,7 @@ The first hour in a new city, especially one as intense as Varanasi, sets the to
 Let's clear this up immediately: yes, they are the exact same place. Lal Bahadur Shastri International Airport is the official name of the airport serving Varanasi. VNS is its three-letter IATA code used by airlines. The airport is located in a suburb called Babatpur, which is approximately 26 km (16 miles) northwest of the main city and the ghats.   
 
 ### Fixed-Fare Airport Taxi Prices in Varanasi
-This is my single most important piece of advice for arriving at VNS: ignore the chorus of taxi touts waiting outside and call directly Kashitaxi.in at 99354 74730, Govt regt. taxi provider in varanasi. This is your best defense against being overcharged. You pay a fixed price at the counter, receive a receipt, and are assigned a driver. This simple act eliminates haggling and the primary vector for taxi scams.
+This is my single most important piece of advice for arriving at VNS: ignore the chorus of taxi touts waiting outside and call directly Kashi Taxi at 99354 74730, Govt regt. taxi provider in varanasi. This is your best defense against being overcharged. You pay a fixed price at the counter, receive a receipt, and are assigned a driver. This simple act eliminates haggling and the primary vector for taxi scams.
 
 | Vehicle Type | Model Examples | Approx. Fare to Ghats/City Center | Notes |
 |--------------|----------------|-----------------------------------|-------|

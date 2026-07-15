@@ -7,7 +7,7 @@ description: >-
   Corporate group Tempo Traveller Varanasi for airport clusters, hotel–venue
   shuttles, offsites, plant visits, conferences. 9–26 seater AC fleet, SLAs,
   safety & pricing.
-date: 2026-09-18T00:00:00.000Z
+date: 2026-07-15
 tags:
   - corporate
   - tempo traveller
@@ -20,7 +20,7 @@ tags:
 slug: corporate-group-tempo-traveller-varanasi
 canonical: 'https://www.kashitaxi.in/en/corporate-group-tempo-traveller-varanasi'
 author: Kamal Nayan Singh
-lastUpdated: 2026-09-18T00:00:00.000Z
+lastUpdated: 2026-07-15
 keywords:
   - corporate tempo traveller varanasi
   - corporate shuttle tempo traveller varanasi

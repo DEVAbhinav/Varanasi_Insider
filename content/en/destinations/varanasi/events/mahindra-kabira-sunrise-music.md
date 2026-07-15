@@ -1,8 +1,8 @@
 ---
 title: "Mahindra Kabira Sunrise Music 2026: Morning Raag on the Ganges"
 slug: "mahindra-kabira-sunrise-music"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Mahindra Kabira Sunrise Music 2026 | Morning Raag on the Ganges"

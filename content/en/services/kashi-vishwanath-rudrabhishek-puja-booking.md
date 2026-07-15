@@ -114,4 +114,4 @@ Many pilgrims come to Kashi not just for darshan but to perform a **Rudrabhishek
 
 [Book Rudrabhishek / puja assistance on WhatsApp →](https://wa.me/919935474730?text=I%20want%20to%20book%20Rudrabhishek%20or%20puja%20at%20Kashi%20Vishwanath)
 
-*Kashitaxi.in is a local Varanasi travel operator. Puja is performed by independent pandits we coordinate; temple access and any official charges are governed by the respective temple trusts. Indicative costs vary by ritual and are confirmed on WhatsApp before booking.*
+*Kashi Taxi is a local Varanasi travel operator. Puja is performed by independent pandits we coordinate; temple access and any official charges are governed by the respective temple trusts. Indicative costs vary by ritual and are confirmed on WhatsApp before booking.*

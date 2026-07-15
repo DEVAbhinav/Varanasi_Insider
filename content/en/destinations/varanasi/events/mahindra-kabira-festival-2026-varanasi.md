@@ -1,8 +1,8 @@
 ---
 title: "Mahindra Kabira Festival 2026, Varanasi: Dates, Tickets, Lineup & Travel Guide"
 slug: "mahindra-kabira-festival-2026-varanasi"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Mahindra Kabira Festival 2026, Varanasi: Dates, Tickets, Lineup & Travel Guide"
@@ -36,7 +36,6 @@ offers:
 organizer:
   name: "Mahindra Kabira Festival"
   url: "https://mahindrakabira.com"
-
 ---
 
 # Mahindra Kabira Festival – A Celebration of the 15th-Century Mystic Poet

@@ -1,7 +1,7 @@
 ---
 title: "Maha Shivaratri 2026 Varanasi: Feb 15 Shiv Baraat Playbook"
 slug: "maha-shivaratri-2026-varanasi-guide"
-date: "2026-09-30"
+date: "2026-07-15"
 lastModified: "2026-09-30"
 excerpt: "Plan Maha Shivaratri 2026 (Feb 15) in Varanasi with the Shiv Baraat playbook: temple queues, darshan slots, akhada timings, and all-night crowd flow intel."
 author: "Travel Agent Varanasi Spiritual Team"

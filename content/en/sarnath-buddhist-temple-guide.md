@@ -1,8 +1,8 @@
 ---
 title: "Sarnath Buddhist Temple Guide 2026: Main Sarnath Temples, Timings & Prayer Schedule"
 slug: "sarnath-buddhist-temple-guide"
-date: "2026-10-27"
-lastUpdated: "2026-10-27"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogfamousbhu.jpg"

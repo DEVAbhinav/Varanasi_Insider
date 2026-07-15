@@ -1,8 +1,8 @@
 ---
 title: "Evening Boat Ride Varanasi: Ganga Aarti [2026 Guide]"
 slug: "evening-boat-ride-varanasi-ganga-aarti"
-date: "2026-08-01"
-lastUpdated: "2026-09-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 

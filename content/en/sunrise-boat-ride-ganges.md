@@ -1,7 +1,7 @@
 ---
 title: "Sunrise Boat Ride Varanasi: Step-by-Step [2026 Guide]"
 slug: "sunrise-boat-ride-ganges"
-date: "2026-07-28"
+date: "2026-07-15"
 author: "Kamal Nayan Singh"
 description: "Sunrise boat ride Varanasi tips: booking, route, what to expect, safety and costs. See the best ghats and plan the perfect morning."
 lang: en-IN

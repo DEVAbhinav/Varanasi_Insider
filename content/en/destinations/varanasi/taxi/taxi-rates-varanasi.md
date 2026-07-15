@@ -1,11 +1,11 @@
 ---
-title: Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi
+title: Varanasi Taxi Fares & Cab Rates | Transparent Pricing | Kashi Taxi
 slug: taxi-rates-varanasi
-date: '2026-11-25'
-lastUpdated: '2026-11-25'
+date: '2026-07-15'
+lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi
+metaTitle: Varanasi Taxi Fares & Cab Rates | Transparent Pricing | Kashi Taxi
 metaDescription: >-
   Check transparent taxi rates in Varanasi. Airport transfer, city tour,
   outstation rates. No hidden charges, fixed fares. Book now.
@@ -61,13 +61,13 @@ relatedPosts:
   - varanasi-day-tour-cab-charges
 ---
 
-# Varanasi Taxi Fares & Cab Rates | Transparent Pricing | KashiTaxi
+# Varanasi Taxi Fares & Cab Rates | Transparent Pricing | Kashi Taxi
 
 > **TL;DR:** This is the main pricing page for **Varanasi taxi fares** and **cab rates** across the city. Use it to compare airport, city-tour, outstation and tempo pricing at a glance. For detailed route-specific fares, follow the links below.
 
 ## Clear, Transparent Varanasi Taxi Service Rates - No Hidden Charges
 
-Looking for Varanasi taxi service rates you can trust? At **KashiTaxi**, we believe in transparent pricing. All our rates are published, fixed, and include GST. No meter tampering, no surprise charges—just honest, professional taxi service.
+Looking for Varanasi taxi service rates you can trust? At **Kashi Taxi**, we believe in transparent pricing. All our rates are published, fixed, and include GST. No meter tampering, no surprise charges—just honest, professional taxi service.
 
 ## Related Pricing Pages
 
@@ -205,9 +205,9 @@ All charges included—you don't pay extra for tolls, parking, fuel.
 ### 5. Discounts for Loyalty
 Frequent users get increasing discounts.
 
-## Varanasi Taxi Rate Comparison: KashiTaxi vs Street Taxi
+## Varanasi Taxi Rate Comparison: Kashi Taxi vs Street Taxi
 
-| Factor | KashiTaxi | Street Taxi |
+| Factor | Kashi Taxi | Street Taxi |
 |---|---|---|
 | **Price** | Fixed ₹600 | ₹500-1000 (negotiated) |
 | **Transparency** | Clear rates | Meter often defective |

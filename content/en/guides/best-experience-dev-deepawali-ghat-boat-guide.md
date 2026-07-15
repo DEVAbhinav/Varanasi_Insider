@@ -12,8 +12,8 @@ schemaType: "Article"
 category: "Travel Guide"
 structuredData: true
 published: true
-date: "2026-10-02"
-lastUpdated: "2026-10-02"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 relatedPosts:
   - dev-deepawali-2026-varanasi-ultimate-guide
   - dev-deepawali-taxi-booking-varanasi

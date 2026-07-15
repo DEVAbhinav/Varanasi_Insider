@@ -1,8 +1,8 @@
 ---
 title: "Makar Sankranti Ganga Snan Varanasi 2026: Dates, Kite Festival & Guide"
 slug: "makar-sankranti-ganga-snan-varanasi-2026"
-date: "2026-12-01"
-lastUpdated: "2026-12-01"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 excerpt: "Celebrate Makar Sankranti 2026 in Varanasi with sacred Ganga Snan, kite festival, and harvest celebrations. Complete guide to dates, rituals, best ghats, and taxi booking."
 lang: en
@@ -895,7 +895,7 @@ If you lose something at ghats:
 
 ### Taxi Booking Support
 
-**KashiTaxi 24/7 Helpline:** +91-80621-82380
+**Kashi Taxi 24/7 Helpline:** +91-80621-82380
 
 **WhatsApp Support:** Available throughout Sankranti day for:
 - Driver not arriving on time
@@ -950,7 +950,7 @@ Don't just witness Makar Sankranti—**immerse yourself** in India's most joyous
 ✅ **Priority booking** (Sankranti is high-demand day)
 ✅ **Driver briefing** on best photo spots and local tips
 
-### Why Choose KashiTaxi for Sankranti
+### Why Choose Kashi Taxi for Sankranti
 
 ✅ **Festival Specialists:** 8 years serving Sankranti pilgrims—we know the rhythms, crowds, best timings
 ✅ **Local Drivers:** Born and raised in Varanasi, speak Hindi/English, love sharing kite-flying tips
@@ -973,4 +973,4 @@ Don't just witness Makar Sankranti—**immerse yourself** in India's most joyous
 
 **Traveler's Note:** Makar Sankranti is when Varanasi sheds its "intensity" and shows its joyful soul. Even if you're not religious, the sight of a thousand colorful kites against the ancient ghats will stay with you forever. Don't miss it.
 
-**Share the Joy:** Tag your Sankranti photos with #MakarSankranti2026 #VaranasiKiteFestival #KashiTaxi #SankrantiSnan
+**Share the Joy:** Tag your Sankranti photos with #MakarSankranti2026 #VaranasiKiteFestival #Kashi Taxi #SankrantiSnan

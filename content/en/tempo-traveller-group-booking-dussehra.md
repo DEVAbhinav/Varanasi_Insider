@@ -1,8 +1,8 @@
 ---
 title: "Tempo Traveller Group Booking Dussehra Varanasi 2026: Family Transport Guide"
 slug: "tempo-traveller-group-booking-dussehra"
-date: "2026-09-29"
-lastUpdated: "2026-09-29"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 

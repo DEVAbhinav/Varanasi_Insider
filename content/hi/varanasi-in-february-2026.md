@@ -1,8 +1,8 @@
 ---
 title: "फरवरी 2026 में वाराणसी: मौसम, घूमने की जगहें और त्यौहार"
 slug: "varanasi-in-february-2026"
-date: "2026-08-02"
-lastUpdated: "2026-08-02"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"

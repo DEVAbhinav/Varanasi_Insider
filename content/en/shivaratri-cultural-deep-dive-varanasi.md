@@ -1,7 +1,7 @@
 ---
 title: "Maha Shivaratri Varanasi 2026: Bhang, Aghoris & Sacred Cultural Traditions Deep Dive"
 slug: "shivaratri-cultural-deep-dive-varanasi"
-date: "2026-09-30"
+date: "2026-07-15"
 lastModified: "2026-09-30"
 excerpt: "Explore the deeper cultural traditions of Maha Shivaratri in Varanasi. Understanding bhang consumption, Aghori practices, and authentic spiritual customs beyond the surface celebrations."
 author: "Travel Agent Varanasi Cultural Research Team"

@@ -1,11 +1,11 @@
 ---
-title: Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | KashiTaxi
+title: Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | Kashi Taxi
 slug: varanasi-city-tour-cab
-date: '2026-11-25'
-lastUpdated: '2026-11-25'
+date: '2026-07-15'
+lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | KashiTaxi
+metaTitle: Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | Kashi Taxi
 metaDescription: >-
   Half-day & full-day Varanasi tour cabs. Visit Kashi Vishwanath Temple,
   Dashashwamedh Ghat, Assi Ghat. Professional drivers, AC vehicles, flexible
@@ -56,12 +56,12 @@ relatedPosts:
 
 ## Explore the Sacred City with Professional Guides & Comfortable Cabs
 
-Experience the spiritual beauty of Varanasi with **KashiTaxi's comprehensive city tour packages**. Looking for a taxi for Varanasi city tour? Our expert drivers know every temple, ghat, and hidden gem in the city. Whether you have 4 hours or a full day, we've curated the perfect itinerary to experience authentic Kashi Darshan with our trusted [taxi service in Varanasi](/).
+Experience the spiritual beauty of Varanasi with **Kashi Taxi's comprehensive city tour packages**. Looking for a taxi for Varanasi city tour? Our expert drivers know every temple, ghat, and hidden gem in the city. Whether you have 4 hours or a full day, we've curated the perfect itinerary to experience authentic Kashi Darshan with our trusted [taxi service in Varanasi](/).
 
 ![Varanasi Tourist Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi tourist map-flat-lanscape.jpeg)
 *Varanasi Tourist Map - Major attractions and routes covered in our city tour packages*
 
-## Why Choose KashiTaxi for Varanasi City Tour Cab Service?
+## Why Choose Kashi Taxi for Varanasi City Tour Cab Service?
 
 ✅ **Experienced Drivers:** Born and raised in Varanasi, know all local legends and shortcuts
 ✅ **Flexible Timing:** Half-day (4 hrs) or Full-day (8 hrs) packages
@@ -230,7 +230,7 @@ A: Absolutely! You can do morning + evening tours on the same day (₹2200-3200)
 
 ## Book Your Varanasi City Tour Now
 
-Experience authentic Kashi Darshan with KashiTaxi. Professional drivers, comfortable cabs, flexible timing, and spiritual enlightenment.
+Experience authentic Kashi Darshan with Kashi Taxi. Professional drivers, comfortable cabs, flexible timing, and spiritual enlightenment.
 
 📞 **Call:** +91-9935474730 (24/7)
 📱 **WhatsApp:** [+91-9935474730](https://wa.me/919935474730?text=Book%20Varanasi%20City%20Tour)

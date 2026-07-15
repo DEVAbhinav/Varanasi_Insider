@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी से विंध्याचल नवरात्रि तीर्थयात्रा: संपूर्ण गाइड 2026"
 slug: "navratri-pilgrimage-vindhyachal-from-varanasi-guide"
-date: "2026-09-16"
-lastUpdated: "2026-09-16"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "कमल नयन सिंह"
 lang: hi-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"

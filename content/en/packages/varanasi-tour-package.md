@@ -12,7 +12,7 @@ schemaType: "Service"
 serviceCategory: "Tour Packages"
 structuredData: true
 published: true
-date: "2026-10-26"
+date: "2026-07-15"
 lastUpdated: "2026-02-05"
 aggregateRating:
   ratingValue: 4.7

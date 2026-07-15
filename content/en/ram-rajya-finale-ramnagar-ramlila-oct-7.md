@@ -1,8 +1,8 @@
 ---
 title: "Ram Rajya Finale October 7, 2026: Ramnagar Ramlila UNESCO Coronation Ceremony Guide"
 slug: "ram-rajya-finale-ramnagar-ramlila-oct-7"
-date: "2026-09-30"
-lastUpdated: "2026-09-30"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"

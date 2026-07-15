@@ -1,7 +1,7 @@
 ---
 title: 'Ghats of Varanasi: Visitor Guide [2026]'
 slug: 'guide-to-ghats-of-varanasi'
-date: '2026-07-20'
+date: '2026-07-15'
 lastUpdated: '2026-03-07'
 author: 'Kamal Nayan Singh'
 featuredImage: 'https://placehold.co/1200x600/FBBF24/333333?text=Ghats+of+Varanasi'

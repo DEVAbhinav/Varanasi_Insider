@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "TaxiService",
-      "name": "Banarasi Kashitaxi",
+      "name": "Kashi Taxi",
       "url": "https://www.kashitaxi.in/",
       "logo": "https://www.kashitaxi.in/images/logo.png",
       "image": "https://www.kashitaxi.in/images/posts/contact-banarasi-kashitaxi.jpg",
@@ -54,7 +54,7 @@
         "name": "Kamal Nayan Singh"
       },
       "sameAs": [
-        "https://youtube.com/@KashiTaxi",
+        "https://youtube.com/@Kashi Taxi",
         "https://instagram.com/banarasi.kashitaxi",
         "https://www.facebook.com/profile.php?id=100063817792339"
       ]
@@ -66,7 +66,7 @@
       "legalName": "Vinayak Travels Varanasi",
       "alternateName": [
         "Varanasi Taxi",
-        "Kashitaxi"
+        "Kashi Taxi"
       ],
       "url": "https://www.kashitaxi.in/",
       "logo": {
@@ -97,7 +97,7 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Banarasi Kashitaxi",
+          "name": "Kashi Taxi",
           "item": "https://www.kashitaxi.in/en/contact/"
         }
       ]

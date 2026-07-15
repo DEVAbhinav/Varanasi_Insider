@@ -1,7 +1,7 @@
 ---
 title: "Assi Ghat Evening Aarti Time – Sandhya Ceremony Guide"
 slug: "assi-ghat-evening-aarti-time"
-date: "2026-11-25"
+date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Naval Kishore"
 lang: en-IN

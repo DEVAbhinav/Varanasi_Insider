@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी एयरपोर्ट ट्रांसफर डायरेक्टरी: संपूर्ण रूट गाइड 2026"
 slug: "varanasi-airport-transfer-directory"
-date: "2026-12-24"
-lastUpdated: "2026-12-24"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "वाराणसी एयरपोर्ट टैक्सी डायरेक्टरी | सभी रूट, किराया और गंतव्य (2026)"

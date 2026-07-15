@@ -3,6 +3,7 @@ import { useState, useEffect, useRef } from 'react';
 import { Menu, X, Phone, MessageCircle, ChevronRight, Plane, Users, MapPin, Map, BookOpen } from 'lucide-react';
 import styles from './Navbar.module.css';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
+import { BUSINESS } from '@/config/business';
 
 export default function NavBar() {
   const [open, setOpen] = useState(false);
@@ -33,8 +34,8 @@ export default function NavBar() {
       style={{ paddingTop: 'env(safe-area-inset-top)' }}
     >
       <nav className={styles.navContainer} role="navigation" aria-label="Primary">
-        <Link href="/" className={styles.logo} aria-label="Varanasi Taxi & Tempo Traveller homepage">
-          Travel Agent Varanasi
+        <Link href="/" className={styles.logo} aria-label={`${BUSINESS.brandName} — Varanasi taxi & tempo traveller homepage`}>
+          {BUSINESS.brandName}
         </Link>
 
         {/* Desktop links */}
@@ -105,7 +106,7 @@ export default function NavBar() {
           </div>
           <div className="relative z-10 flex items-center justify-between">
             <div>
-              <span className="text-xl font-bold text-white drop-shadow-md">Varanasi Travels</span>
+              <span className="text-xl font-bold text-white drop-shadow-md">{BUSINESS.brandName}</span>
               <p className="text-xs text-cyan-50 mt-0.5">Taxi, Tempo Traveller & Tour Packages</p>
             </div>
             <button 

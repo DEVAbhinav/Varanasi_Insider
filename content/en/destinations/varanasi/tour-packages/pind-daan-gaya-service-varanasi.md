@@ -1,8 +1,8 @@
 ---
 title: "Pind Daan in Gaya: Scam-Free Verified Service from Varanasi (2026)"
 slug: "pind-daan-gaya-service-varanasi"
-date: "2026-12-22"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi"
@@ -112,7 +112,7 @@ Last year, a software engineer from Bangalore called me crying. He'd done "onlin
 
 The son had honored his father's last wish, but done it wrong. Cost him ₹20,000 and emotional scars that took months to heal.
 
-At KashiTaxi.in, we've built **The Scam-Free Sankalp**—a complete pind daan service where you're present (physically or virtually verified), a **Gayawal Panda** (legitimate lineage priest) performs the ritual at the correct locations, and we provide transparent cost breakdown with ancestral record documentation.
+At Kashi Taxi, we've built **The Scam-Free Sankalp**—a complete pind daan service where you're present (physically or virtually verified), a **Gayawal Panda** (legitimate lineage priest) performs the ritual at the correct locations, and we provide transparent cost breakdown with ancestral record documentation.
 
 > **This isn't a transaction. It's ensuring your family's spiritual duty is honored.**
 
@@ -604,7 +604,7 @@ We'll discuss:
 
 📧 **Email:** info@kashitaxi.in
 
-🌐 **Website:** [KashiTaxi.in](https://www.kashitaxi.in)
+🌐 **Website:** [Kashi Taxi](https://www.kashitaxi.in)
 
 ---
 
@@ -631,7 +631,7 @@ Let's make sure he receives it.
 **With respect and service,**
 
 *Kamal Nayan Singh*
-Founder, KashiTaxi.in
+Founder, Kashi Taxi
 
 ---
 

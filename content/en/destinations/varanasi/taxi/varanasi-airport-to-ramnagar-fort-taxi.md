@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Ramnagar Fort: Distance, Time, Taxi Fare (2026)"
 slug: "varanasi-airport-to-ramnagar-fort-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-11-12"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to Ramnagar Fort Taxi from ₹950 | 35 km (2026)"

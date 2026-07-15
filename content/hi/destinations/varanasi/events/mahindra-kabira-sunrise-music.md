@@ -1,8 +1,8 @@
 ---
 title: "महिंद्रा कबीर सूर्योदय संगीत 2026: गंगा किनारे सुबह के राग"
 slug: "mahindra-kabira-sunrise-music"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "कबीर फेस्टिवल सूर्योदय राग 2026 | टाइमिंग, कलाकार, सीटिंग टिप्स"

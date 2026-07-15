@@ -1,11 +1,11 @@
 ---
-title: "Varanasi to Delhi Taxi | NCR Transfer | ₹10,000 | KashiTaxi"
+title: "Varanasi to Delhi Taxi | NCR Transfer | ₹10,000 | Kashi Taxi"
 slug: "varanasi-to-delhi-taxi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Delhi Taxi | National Capital | ₹10,000 | KashiTaxi"
+metaTitle: "Varanasi to Delhi Taxi | National Capital | ₹10,000 | Kashi Taxi"
 metaDescription: "Book Varanasi to Delhi cabs from ₹10,000. 830 km in 12-14 hours. Premium long-distance travel, airport transfer, overnight packages."
 description: "Book Varanasi to Delhi cabs from ₹10,000. 830 km journey in 12-14 hours via expressway. Premium long-distance service, airport/railway transfer, business travel, verified drivers."
 keywords:
@@ -301,7 +301,7 @@ faqSchema:
 
 **Review 1: Rajesh Kumar (Business Traveler)**  
 ⭐⭐⭐⭐⭐ (5/5)  
-"Regular Delhi trips for business. Always use KashiTaxi. Overnight journey is smooth, driver is experienced on expressway. GST invoice provided promptly. Highly professional!"  
+"Regular Delhi trips for business. Always use Kashi Taxi. Overnight journey is smooth, driver is experienced on expressway. GST invoice provided promptly. Highly professional!"  
 **Trip**: Solo, Swift Dzire, overnight | **Date**: November 2026
 
 **Review 2: Mehta Family**  

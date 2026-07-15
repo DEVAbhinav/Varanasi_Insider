@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Classical Music Heritage: Gharanas, Legends & Living Traditions"
 slug: "varanasi-classical-music-heritage"
-date: "2026-10-07"
-lastUpdated: "2026-10-07"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Travel Agent Varanasi Cultural Team"
 lang: en
 

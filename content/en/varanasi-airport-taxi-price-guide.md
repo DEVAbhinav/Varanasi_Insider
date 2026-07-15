@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport Taxi Fare 2026: Fixed-Price Cabs from ₹700 (Dec Update)"
 slug: "varanasi-airport-taxi-price-guide"
-date: "2026-07-27"
-lastUpdated: "2026-12-23"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"

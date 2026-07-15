@@ -1,8 +1,8 @@
 ---
 title: "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा (तीर्थयात्री और साधक)"
 slug: "kedar-harishchandra-ghat-taxi-service"
-date: "2026-12-09"
-lastUpdated: "2026-12-09"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "केदार घाट टैक्सी वाराणसी | हरिश्चंद्र घाट कैब | तीर्थयात्री सेवा"

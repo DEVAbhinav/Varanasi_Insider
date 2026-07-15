@@ -1,11 +1,11 @@
 ---
-title: Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | KashiTaxi
+title: Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | Kashi Taxi
 slug: wedding-tempo-traveller-varanasi
-date: '2026-11-25'
-lastUpdated: '2026-11-25'
+date: '2026-07-15'
+lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | KashiTaxi
+metaTitle: Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | Kashi Taxi
 metaDescription: >-
   Luxury wedding cabs and tempo traveller rental for groups in Varanasi. 12-17
   seater AC vehicles. Special wedding packages & decorations.
@@ -53,7 +53,7 @@ relatedPosts:
 
 ## Premium Wedding & Group Transportation in Varanasi
 
-Celebrate your special moments with **KashiTaxi's wedding cabs and group travel services**. From bridal vehicles to family guest transportation, we provide luxurious, reliable vehicles for weddings, festivals, family outings, and group tours across Varanasi.
+Celebrate your special moments with **Kashi Taxi's wedding cabs and group travel services**. From bridal vehicles to family guest transportation, we provide luxurious, reliable vehicles for weddings, festivals, family outings, and group tours across Varanasi.
 
 ## Varanasi Wedding Car Rental - Make Your Day Special
 
@@ -181,7 +181,7 @@ Features:
 ✅ Real-time GPS tracking
 ✅ 24/7 support for group coordination
 
-## Why Choose KashiTaxi for Varanasi Weddings & Group Transport?
+## Why Choose Kashi Taxi for Varanasi Weddings & Group Transport?
 
 **Experience:** 500+ successful weddings & group tours
 **Reliability:** Never missed a booking in 5+ years
@@ -225,7 +225,7 @@ Include:
 
 ⭐⭐⭐⭐⭐ "Wedding transportation was flawless. Decorated car was beautiful, driver was professional. Highly recommended!" - Neha & Rahul (Bride & Groom)
 
-⭐⭐⭐⭐⭐ "Organized school group trip for 40 students. KashiTaxi provided 4 tempo travellers, perfect coordination. Safe, reliable!" - School Principal, Varanasi
+⭐⭐⭐⭐⭐ "Organized school group trip for 40 students. Kashi Taxi provided 4 tempo travellers, perfect coordination. Safe, reliable!" - School Principal, Varanasi
 
 ⭐⭐⭐⭐⭐ "Family vacation was amazing. Tempo traveller was spacious, comfortable for all 15 members. Great experience!" - Rajesh Family, Delhi
 
@@ -248,7 +248,7 @@ A: Yes, hourly rates apply with 4-hour minimum. Same day booking available if ve
 
 ## Book Your Wedding or Group Transport Now
 
-Make your special occasion memorable with KashiTaxi's professional, luxurious transportation.
+Make your special occasion memorable with Kashi Taxi's professional, luxurious transportation.
 
 📞 **Call:** +91-9935474730 (24/7)
 📱 **WhatsApp:** [+91-9935474730](https://wa.me/919935474730?text=Book%20Wedding%20or%20Group%20Transport)

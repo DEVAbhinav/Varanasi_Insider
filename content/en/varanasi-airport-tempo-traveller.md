@@ -2,7 +2,7 @@
 lang: en
 title: "Varanasi Airport Tempo Traveller: ₹2,500 [2026]"
 description: "Group airport transfer Varanasi at ₹2,500 fixed fare. Door‑to‑door with luggage space and meet‑and‑greet. Call now to book."
-date: 2026-08-27
+date: 2026-07-15
 tags: [airport transfer, lbs airport, tempo traveller]
 slug: varanasi-airport-tempo-traveller
 canonical: https://www.kashitaxi.in/en/varanasi-airport-tempo-traveller

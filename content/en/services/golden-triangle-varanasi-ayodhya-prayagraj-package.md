@@ -192,4 +192,4 @@ Prefer a shorter trip or a specific shrine? Each has its own fixed-price page:
 
 [Get my Golden Triangle price on WhatsApp →](https://wa.me/919935474730?text=I%20want%20the%20Golden%20Triangle%20Varanasi-Ayodhya-Prayagraj%20package)
 
-*Kashitaxi.in is a local Varanasi travel operator. Prices are indicative fixed tiers and may vary on peak festival dates; the exact total is confirmed on WhatsApp before booking. Temple darshan access and official ticket rates are governed by the respective temple trusts.*
+*Kashi Taxi is a local Varanasi travel operator. Prices are indicative fixed tiers and may vary on peak festival dates; the exact total is confirmed on WhatsApp before booking. Temple darshan access and official ticket rates are governed by the respective temple trusts.*

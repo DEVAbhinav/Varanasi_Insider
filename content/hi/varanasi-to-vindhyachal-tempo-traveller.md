@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-vindhyachal-tempo-traveller
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "वाराणसी से विंध्याचल Tempo Traveller | नवरात्रि विशेष"
 description: "मां विंध्यवासिनी दर्शन, त्रिकोण परिक्रमा पंडित, और वरिष्ठजनों की देखभाल किट सहित 8-घंटे का टेम्पो ट्रैवलर चार्टर – ₹6,200 से बुकिंग।"

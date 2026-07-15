@@ -1,8 +1,8 @@
 ---
 title: "Outstation Cabs Varanasi: Innova, Ertiga, Tempo [2026]"
 slug: "outstation-cabs-from-varanasi"
-date: "2026-08-10"
-lastUpdated: "2026-08-10"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 
@@ -55,7 +55,7 @@ If your query is **book tempo traveller from Varanasi for Ayodhya**, here's our 
 
 ## Choose Your Vehicle (Instant Clarity)
 
-# Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)
+## Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)
 
 **Planning a family yatra or a quick city-to-city hop?** We run outstation cabs from Varanasi every single day—Ayodhya, Prayagraj, Bodh Gaya, Lucknow and beyond—with commercial-permit vehicles, verified drivers, GST invoices and transparent fares. Pick your size: **6 seater, 7 seater, SUV, Innova Crysta, or Tempo Traveller** with **luggage carrier** on request.
 
@@ -78,25 +78,21 @@ If your query is **book tempo traveller from Varanasi for Ayodhya**, here's our 
 
 Perfect “joint-family compact”: captain-like comfort for 4–6 with sensible luggage.
 **Best for:** *6 seater taxi for family from Varanasi* and budget-friendly outstations.
-**Keyword fit:** *Ertiga taxi booking Varanasi*.
 
 ### Innova Crysta (6/7 Seater)
 
 India’s long-run king: stable at highway speeds, captain seats option, refined ride.
 **Best for:** multigenerational trips, seniors, long days.
-**Keyword fit:** *Varanasi Innova Crysta booking for outstation* and *Varanasi to Ayodhya Innova fare*.
 
 ### 7-Seater SUV (XUV/Scorpio class)
 
 Looking for a **7+1 seating taxi in Varanasi**? Our 7-seater SUVs offer more ground clearance for uneven roads, tough suspension, great view.
 **Best for:** hilly/rural approaches and big bags (with carrier).
-**Keyword fit:** *7 seater cab hire in Varanasi for outstation*, *Varanasi SUV cab for outstation trip*.
 
 ### Sedan (4+1)
 
 Comfy for 2–3 plus light luggage; agile and economical.
 **Best for:** day trips and airport–city intercity hops.
-**Keyword fit:** *Varanasi sedan taxi for Prayagraj*.
 
 ### Tempo Traveller (9/12/17)
 
@@ -104,7 +100,6 @@ Comfy for 2–3 plus light luggage; agile and economical.
 
 Roomy, AC, pushback seats, bottle holders, charging points.
 **Best for:** groups, kirtan teams, school/college batches.
-**Keyword fit:** *book tempo traveller from Varanasi for Ayodhya*, *large taxi for group travel Varanasi*.
 
 ![Tempo Traveller luxury interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_beige_brown_seating_potrait.jpeg "Comfortable push-back seats with ample legroom")
 
@@ -144,7 +139,6 @@ Roomy, AC, pushback seats, bottle holders, charging points.
 
 * **Sedan/Ertiga for Prayagraj**: Popular day trip—Triveni Sangam + Anand Bhavan add-ons.
 * **Why many choose Ertiga?** Better space for 4–5 plus prasad/gifts on return.
-  **Keyword fit:** *Varanasi sedan taxi for Prayagraj*.
 
 > See full guide: [Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi)
 

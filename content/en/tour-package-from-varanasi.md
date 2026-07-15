@@ -1,7 +1,7 @@
 ---
 title: "Tour Packages from Varanasi: Ayodhya, Prayagraj (2026)"
 slug: "tour-package-from-varanasi"
-date: "2026-08-07"
+date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN

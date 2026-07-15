@@ -1,8 +1,8 @@
 ---
 title: "Banarasi Silk Shopping in Varanasi (2026): Markets, Prices & Authentic Tips"
 slug: "banarasi-silk-saree-shopping-varanasi-2026"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Banarasi Silk Saree Shopping Varanasi 2026 | Markets, Prices & Authentic Tips"

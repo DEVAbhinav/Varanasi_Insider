@@ -1,8 +1,8 @@
 ---
 title: "Dev Deepawali 2026 — November 5, 2026 | Kashi Dev Diwali Guide"
 slug: "dev-deepawali-2026-varanasi-ultimate-guide"
-date: "2026-09-30"
-lastUpdated: "2026-11-04"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/ganga-aarti.jpeg"

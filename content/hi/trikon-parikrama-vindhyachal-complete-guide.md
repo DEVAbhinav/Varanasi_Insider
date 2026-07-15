@@ -1,8 +1,8 @@
 ---
 title: "विंध्याचल में त्रिकोण परिक्रमा: पवित्र त्रिकोण परिक्रमा की संपूर्ण गाइड"
 slug: "trikon-parikrama-vindhyachal-complete-guide"
-date: "2026-09-16"
-lastUpdated: "2026-09-16"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "कमल नयन सिंह"
 lang: hi-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg"

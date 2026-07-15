@@ -8,9 +8,9 @@ featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kash
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
 author: "Kamal Nayan Singh"
 subtitle: "Hassle-free Kashi Vishwanath darshan with local assistance, plus cab, guide and boat coordination for a smooth pilgrimage. For specific needs we have dedicated pages for Sugam darshan, aarti timings and puja."
-description: "Book hassle-free Kashi Vishwanath darshan with Kashitaxi.in. Get help with Sugam (skip-the-queue) darshan, Mangala Aarti, Sapt Rishi & Bhog Aarti passes, Rudrabhishek, plus cab, guide and boat support."
+description: "Book hassle-free Kashi Vishwanath darshan with Kashi Taxi. Get help with Sugam (skip-the-queue) darshan, Mangala Aarti, Sapt Rishi & Bhog Aarti passes, Rudrabhishek, plus cab, guide and boat support."
 metaTitle: "Kashi Vishwanath VIP Darshan Booking 2026 | Priced Darshan Assistance"
-metaDescription: "Skip-the-queue Kashi Vishwanath darshan assistance from Kashitaxi.in. Sugam darshan, Mangala Aarti, Sapt Rishi & Bhog Aarti help + cab, guide and boat. Clear support, no long queues."
+metaDescription: "Skip-the-queue Kashi Vishwanath darshan assistance from Kashi Taxi. Sugam darshan, Mangala Aarti, Sapt Rishi & Bhog Aarti help + cab, guide and boat. Clear support, no long queues."
 keywords:
   - "kashi vishwanath vip darshan"
   - "kashi vishwanath vip darshan booking"
@@ -81,7 +81,7 @@ relatedPosts:
 
 **Last updated:** July 4, 2026
 
-Standing in a three-hour queue in the heat, unsure which gate to enter or which counter sells which pass — that is how most first-time pilgrims lose half a day at Kashi Vishwanath. We fix that. Kashitaxi.in helps you plan **hassle-free Kashi Vishwanath darshan** with **Sugam (skip-the-queue) darshan**, **aarti passes**, and full local coordination — cab, timing, dress guidance, and boat + Ganga Aarti add-ons.
+Standing in a three-hour queue in the heat, unsure which gate to enter or which counter sells which pass — that is how most first-time pilgrims lose half a day at Kashi Vishwanath. We fix that. Kashi Taxi helps you plan **hassle-free Kashi Vishwanath darshan** with **Sugam (skip-the-queue) darshan**, **aarti passes**, and full local coordination — cab, timing, dress guidance, and boat + Ganga Aarti add-ons.
 
 **Why travelers pick us:** Local Varanasi team since 2016 • Darshan + Aarti + Cab + Boat coordination • Honest, no false "guaranteed entry" promises
 
@@ -207,4 +207,4 @@ Pick the darshan help that fits you — each has its own detailed page with pric
 
 [Message the Kashi Vishwanath desk on WhatsApp →](https://wa.me/919935474730?text=I%20want%20Kashi%20Vishwanath%20VIP%2FSugam%20darshan%20assistance)
 
-*Kashitaxi.in is a local Varanasi travel operator. Sugam Darshan and aarti passes are official services of the Shri Kashi Vishwanath Temple Trust; we provide planning, coordination and travel assistance and do not control temple access, timings, or official rates. Always verify current schedules and prices on the official temple portal before travel.*
+*Kashi Taxi is a local Varanasi travel operator. Sugam Darshan and aarti passes are official services of the Shri Kashi Vishwanath Temple Trust; we provide planning, coordination and travel assistance and do not control temple access, timings, or official rates. Always verify current schedules and prices on the official temple portal before travel.*

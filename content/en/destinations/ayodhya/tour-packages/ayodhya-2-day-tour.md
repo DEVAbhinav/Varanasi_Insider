@@ -1,8 +1,8 @@
 ---
 title: "1 Night / 2 Days Ayodhya Tour Package"
 slug: "ayodhya-2-day-tour"
-date: "2026-11-06"
-lastUpdated: "2026-11-06"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/city/ayodhya/tour-packages/ayodhya-2-day-tour"

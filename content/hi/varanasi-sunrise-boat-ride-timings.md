@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी सनराइज बोट राइड: 2026 के लिए समय और मूल्य"
 slug: "varanasi-sunrise-boat-ride-timings"
-date: "2026-08-01"
-lastUpdated: "2026-08-01"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"

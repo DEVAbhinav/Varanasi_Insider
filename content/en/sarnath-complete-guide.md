@@ -1,7 +1,7 @@
 ---
 title: "Sarnath Temple Guide 2026: Timings, Entry Fee & Museum Ticket"
 slug: "sarnath-complete-guide"
-date: "2026-10-26"
+date: "2026-07-15"
 lastUpdated: "2026-02-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
@@ -1080,7 +1080,7 @@ Minimum 2 hours for quick visit covering Dhamek Stupa and museum. Recommended 3-
 
 **Why Choose Kashi Taxi for Sarnath Visit:**
 - ✅ **27+ Years Experience** serving Buddhist pilgrims and tourists
-- ✅ **4.8★ Google Rating** (600+ verified reviews)
+- ✅ **4.8★ Google Rating** (312 verified reviews)
 - ✅ **Knowledgeable Drivers** familiar with Sarnath timings and routes
 - ✅ **Transparent Pricing** - No hidden charges
 - ✅ **Well-Maintained Vehicles** - Clean, comfortable AC cars
@@ -1167,7 +1167,7 @@ Experience where Buddha's revolutionary teachings began their journey across Asi
 ✅ **Multilingual Support**: Japanese, Thai, Tibetan client references available  
 ✅ **Safety First**: Police-verified drivers, GPS tracking, 24/7 support  
 ✅ **Transparent Pricing**: No hidden charges, all-inclusive rates  
-✅ **27+ Years Legacy**: Serving since 1998, 4.8★ Google rating, 600+ reviews  
+✅ **27+ Years Legacy**: Serving since 1998, 4.8★ Google rating, 312 reviews  
 ✅ **Circuit Expertise**: Bodh Gaya routes, Kushinagar timing, Nepal border assistance
 
 ### **Special Services for Buddhist Pilgrims:**

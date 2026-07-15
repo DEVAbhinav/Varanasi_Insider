@@ -13,7 +13,7 @@
       ],
       "brand": {
         "@type": "Brand",
-        "name": "KashiTaxi"
+        "name": "Kashi Taxi"
       },
       "sku": "VGPT-ELDERLY-4N5D",
       "mpn": "KASHITAXI-VGP-2026",
@@ -29,7 +29,7 @@
         "url": "https://www.kashitaxi.in/en/varanasi-gaya-prayagraj-tour-package-elderly",
         "seller": {
           "@type": "LocalBusiness",
-          "name": "KashiTaxi",
+          "name": "Kashi Taxi",
           "telephone": "+91-9935474730",
           "url": "https://www.kashitaxi.in"
         },
@@ -89,7 +89,7 @@
             "@type": "Person",
             "name": "Rajesh Kumar (NRI, USA)"
           },
-          "reviewBody": "Brought my 78-year-old parents from California. KashiTaxi handled everything perfectly - the VIP darshan at Kashi Vishwanath, accessible hotels, and the pind daan ceremony at Gaya was arranged with such respect. My mother said it was the best trip of her life."
+          "reviewBody": "Brought my 78-year-old parents from California. Kashi Taxi handled everything perfectly - the VIP darshan at Kashi Vishwanath, accessible hotels, and the pind daan ceremony at Gaya was arranged with such respect. My mother said it was the best trip of her life."
         },
         {
           "@type": "Review",
@@ -102,7 +102,7 @@
             "@type": "Person",
             "name": "Priya Sharma"
           },
-          "reviewBody": "My father-in-law has diabetes and mobility issues. Was worried about the pilgrimage but KashiTaxi accommodated everything - meal timings, wheelchair assistance at temples, ground floor rooms. They truly understand elderly needs."
+          "reviewBody": "My father-in-law has diabetes and mobility issues. Was worried about the pilgrimage but Kashi Taxi accommodated everything - meal timings, wheelchair assistance at temples, ground floor rooms. They truly understand elderly needs."
         }
       ]
     },
@@ -167,7 +167,7 @@
     {
       "@type": "LocalBusiness",
       "@id": "https://www.kashitaxi.in#organization",
-      "name": "KashiTaxi",
+      "name": "Kashi Taxi",
       "image": "https://www.kashitaxi.in/images/logo.png",
       "url": "https://www.kashitaxi.in",
       "telephone": "+91-9935474730",

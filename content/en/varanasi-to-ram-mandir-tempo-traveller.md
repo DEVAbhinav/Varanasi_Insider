@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Ram Mandir Tempo Traveller ₹14,500 | Priority Coach"
 description: "Book your Ayodhya charter now for Sugam Darshan slots, vetted drivers, and on-ground coordinator support—instant WhatsApp confirmation and senior-friendly halts."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [ram mandir, ayodhya yatra, tempo traveller, varanasi to ayodhya, pilgrimage]
 keywords:
   - varanasi to ram mandir tempo traveller

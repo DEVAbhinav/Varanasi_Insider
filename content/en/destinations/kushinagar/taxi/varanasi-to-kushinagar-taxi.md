@@ -1,5 +1,5 @@
 ---
-title: "Varanasi to Kushinagar Taxi | Buddhist Circuit Cabs | ₹4,000 | KashiTaxi"
+title: "Varanasi to Kushinagar Taxi | Buddhist Circuit Cabs | ₹4,000 | Kashi Taxi"
 slug: "varanasi-to-kushinagar-taxi"
 date: "2026-06-24"
 lastUpdated: "2026-06-24"
@@ -126,7 +126,7 @@ The town is quiet, green, and dotted with monasteries built by Buddhist nations 
 
 **Suggested same-day plan:** depart Varanasi 5:30 AM → reach ~11:30 AM → Mahaparinirvana Temple and Matha Kuar (until 1:30 PM) → lunch → Ramabhar Stupa and Wat Thai (until 4 PM) → depart → reach Varanasi by 9:30-10 PM.
 
-## Why Book With KashiTaxi
+## Why Book With Kashi Taxi
 
 This is a long-distance route where driver experience matters more than the lowest quote. Our promise:
 

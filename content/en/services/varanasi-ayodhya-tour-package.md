@@ -129,4 +129,4 @@ Two of India's most important pilgrimages — **Kashi** and **Ram Janmabhoomi** 
 
 [Get my Varanasi–Ayodhya price on WhatsApp →](https://wa.me/919935474730?text=I%20want%20the%20Varanasi-Ayodhya%20tour%20package)
 
-*Kashitaxi.in is a local Varanasi travel operator. Prices are indicative fixed tiers and may vary on peak festival dates; the exact total is confirmed on WhatsApp before booking. Temple darshan access and official ticket rates are governed by the respective temple trusts.*
+*Kashi Taxi is a local Varanasi travel operator. Prices are indicative fixed tiers and may vary on peak festival dates; the exact total is confirmed on WhatsApp before booking. Temple darshan access and official ticket rates are governed by the respective temple trusts.*

@@ -1,20 +1,20 @@
 ---
-title: "Contact Banarasi Kashitaxi (24×7 Varanasi Taxi Service)"
+title: "Contact Kashi Taxi (24×7 Varanasi Taxi Service)"
 slug: "contact"
-date: "2026-07-28"
+date: "2026-07-15"
 author: "Utkarsh Pandey"
-description: "Contact Banarasi Kashitaxi for 24×7 taxi services in Varanasi. Call or WhatsApp for airport pickups, local tours, and outstation cabs. Get a free quote now."
+description: "Contact Kashi Taxi for 24×7 taxi services in Varanasi. Call or WhatsApp for airport pickups, local tours, and outstation cabs. Get a free quote now."
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/aboutUs.svg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/contact"
 tags: ["contact", "support", "taxi booking", "Varanasi travel", "Varanasi airport taxi"]
-metaTitle: "Contact Us – 24×7 Varanasi Taxi Service | Banarasi Kashitaxi"
-metaDescription: "Contact Banarasi Kashitaxi for 24×7 taxi services in Varanasi. Call or WhatsApp for airport pickups, local tours, and outstation cabs. Get a free quote now."
+metaTitle: "Contact Us – 24×7 Varanasi Taxi Service | Kashi Taxi"
+metaDescription: "Contact Kashi Taxi for 24×7 taxi services in Varanasi. Call or WhatsApp for airport pickups, local tours, and outstation cabs. Get a free quote now."
 ---
 
 # Talk to Your Local Varanasi Travel Expert 🚕✨
 
-> **TL;DR:** Contact Banarasi Kashitaxi anytime via +91 94503 01573 or WhatsApp +91 99354 74730 for airport pickups, Pink Taxis, or multi-day tours; office at Shastri Nagar near IP Mall with 6:00–22:00 desk and 24×7 phone support. Share travel screenshots to speed dispatch. Scroll for full contact channels, social links, and visit directions.
+> **TL;DR:** Contact Kashi Taxi anytime via +91 94503 01573 or WhatsApp +91 99354 74730 for airport pickups, Pink Taxis, or multi-day tours; office at Shastri Nagar near IP Mall with 6:00–22:00 desk and 24×7 phone support. Share travel screenshots to speed dispatch. Scroll for full contact channels, social links, and visit directions.
 
 Whether you need a late‑night airport transfer, a women‑only Pink Taxi, or a fully‑loaded eight‑day Buddhist Circuit itinerary, I’m just a call away. **Let’s make your Banaras journey smooth and stress‑free.**
 
@@ -60,7 +60,7 @@ Mon–Sun  06:00 – 22:00
 
 | Platform | Handle | Why Follow? |
 |----------|--------|-------------|
-| YouTube  | [`/@KashiTaxi`](https://youtube.com/@KashiTaxi) | Route walkthroughs, fare hacks, behind‑the‑scenes stories |
+| YouTube  | [`/@Kashi Taxi`](https://youtube.com/@Kashi Taxi) | Route walkthroughs, fare hacks, behind‑the‑scenes stories |
 | Instagram| [`@banarasi.kashitaxi`](https://instagram.com/banarasi.kashitaxi) | Daily Banaras reels & festive discounts |
 | Facebook | [`Kashi Taxi`](https://www.facebook.com/profile.php?id=100063817792339) | Live support chat & travel news |
 
@@ -75,7 +75,7 @@ Mon–Sun  06:00 – 22:00
    Pre‑book a sedan (₹ 850) or SUV (₹ 1 350). Typical travel time: **45 min**.
 
 3. **From Varanasi Junction (Cantt) Station**  
-   Fixed‑fare pickup ₹ 250. Exit Gate 2—our driver will hold a **“Banarasi Kashitaxi”** placard.
+   Fixed‑fare pickup ₹ 250. Exit Gate 2—our driver will hold a **“Banarasi Kashi Taxi”** placard.
 
 ---
 

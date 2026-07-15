@@ -1,8 +1,8 @@
 ---
 title: "मिर्जापुर/विंध्याचल टैक्सी VNS एयरपोर्ट से | 63–73 किमी, किराया 2026"
 slug: "varanasi-airport-to-mirzapur-vindhyachal-taxi"
-date: "2026-11-19"
-lastUpdated: "2026-11-19"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "मिर्जापुर/विंध्याचल टैक्सी VNS से | 63–73 किमी, किराया 2026"

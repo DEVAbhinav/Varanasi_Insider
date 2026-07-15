@@ -1,5 +1,5 @@
 ---
-title: "Varanasi to Naimisharanya Taxi | Puranic Pilgrimage Cabs | ₹6,500 | KashiTaxi"
+title: "Varanasi to Naimisharanya Taxi | Puranic Pilgrimage Cabs | ₹6,500 | Kashi Taxi"
 slug: "varanasi-to-naimisharanya-taxi"
 date: "2026-06-24"
 lastUpdated: "2026-06-24"
@@ -122,7 +122,7 @@ We price this as a **2-day return (1 night)** because it gives you the route the
 
 **October to March** is ideal. **Ekadashi, Amavasya, and the month of Phalgun** see large gatherings at Chakra Tirth. Summers are hot on this route; if travelling May-June, plan an early Day-1 start to beat the heat.
 
-## Why Book With KashiTaxi
+## Why Book With Kashi Taxi
 
 - **Long-route specialists** - drivers experienced on the Varanasi-Lucknow-Sitapur corridor, including the expressway sections.
 - **Driver night-halt handled** - the 2-day fare already covers the driver's stay, so there are no awkward end-of-trip additions.

@@ -1,7 +1,7 @@
 ---
 title: "Varanasi to Ayodhya Taxi ₹4,990 | 200 km, 4–5 hr, Ram Mandir Cab"
 slug: "varanasi-to-ayodhya-taxi"
-date: "2026-08-07"
+date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Kamal Nayan Singh"
 lang: en-IN

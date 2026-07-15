@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import styles from './Footer.module.css';
+import { BUSINESS } from '@/config/business';
 
 export default function Footer({ allPosts }) {
   // Supports both the current shape ({ posts, counts }) and a legacy plain array.
@@ -43,8 +44,8 @@ export default function Footer({ allPosts }) {
     <footer className={styles.footerWrapper}>
       <div className={styles.footerContainer}>
         <div className={styles.logoSection}>
-          <h3 className={styles.footerTitle}>Varanasi Taxi</h3>
-          <p className={styles.footerSubtitle}>A Vinayak Travels Tour Venture</p>
+          <h3 className={styles.footerTitle}>{BUSINESS.brandName}</h3>
+          <p className={styles.footerSubtitle}>Operated by {BUSINESS.legalNameFull}</p>
         </div>
         <div className={styles.linksSection}>
           <h4 className={styles.linksTitle}>Quick Links</h4>
@@ -60,7 +61,7 @@ export default function Footer({ allPosts }) {
             Kashi Tamil Sangamam
           </Link>
           <a href="https://www.kashitaxi.in" target="_blank" rel="noopener noreferrer" className={styles.footerLink}>Book a Taxi</a>
-          <Link href="#" className={styles.footerLink}>Privacy Policy</Link>
+          <Link href="/en/privacy-policy" className={styles.footerLink}>Privacy Policy</Link>
         </div>
         {hasAnyPosts && (
           <div className={styles.allPostsSection}>
@@ -98,7 +99,7 @@ export default function Footer({ allPosts }) {
         )}
       </div>
       <div className={styles.copyright}>
-        © {new Date().getFullYear()} Vinayak Travels. All Rights Reserved.
+        © {new Date().getFullYear()} {BUSINESS.legalName}. All Rights Reserved.
       </div>
       <div className={styles.credit}>
         Made and managed with ♥ by <a href="https://www.vistalabs.in/" target="_blank" rel="noopener noreferrer">Vista Labs</a>

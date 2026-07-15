@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Bodh Gaya Taxi Fare 2026 – 255 km, 5–6 hrs, Sedan from ₹5,500"
 slug: "varanasi-to-gaya-bodh-gaya-tour-package"
-date: "2026-08-07"
-lastUpdated: "2026-08-07"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png"

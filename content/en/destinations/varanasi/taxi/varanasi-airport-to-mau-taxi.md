@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Mau Taxi ₹2,300 | 117 km, 2–3 hr Drive (2026)"
 slug: "varanasi-airport-to-mau-taxi"
-date: "2026-11-19"
-lastUpdated: "2026-11-19"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Airport to Mau Taxi ₹2,300 | 117 km, 2–3 hr"

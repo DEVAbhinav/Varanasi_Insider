@@ -1,8 +1,8 @@
 ---
 title: "Best Time to Visit Varanasi 2026: Weather & Festival Guide"
 slug: "best-time-to-visit-varanasi"
-date: "2026-08-02"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"

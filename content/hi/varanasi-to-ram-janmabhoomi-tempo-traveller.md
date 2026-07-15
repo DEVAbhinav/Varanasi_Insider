@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-ram-janmabhoomi-tempo-traveller
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "वाराणसी से राम जन्मभूमि Tempo Traveller – सिक्योरिटी फोकस्ड पैकेज"
 description: "राम जन्मभूमि पर express क्यू, फ्रिस्किंग लेन और लॉकर प्रबंधन के साथ टेम्पो ट्रैवलर पैकेज: ₹14,800, सिक्योरिटी लायज़न, ORS किट और भीड़ अपडेट।"

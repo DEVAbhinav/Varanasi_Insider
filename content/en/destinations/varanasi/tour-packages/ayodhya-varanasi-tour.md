@@ -1,8 +1,8 @@
 ---
 title: "Kashi–Ayodhya Yatra: 3-Day Ram Mandir & Ganga Aarti Tour Package"
 slug: "ayodhya-varanasi-tour"
-date: "2026-11-06"
-lastUpdated: "2026-11-06"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/ayodhya-varanasi-tour"

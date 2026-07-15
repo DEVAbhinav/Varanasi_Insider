@@ -5,9 +5,9 @@ metaTitle: "Varanasi to Chitrakoot Tempo Traveller: 1N/2D Ramghat Yatra ₹16,50
 metaDescription: "Varanasi–Chitrakoot tempo traveller for the 1N/2D Ramghat circuit: 12-seater all-inclusive ₹16,500–₹18,500. Kamadgiri Parikrama, Hanuman Dhara, Gupt Godavari & Ramghat aarti. WhatsApp to reserve."
 description: "Cover Kamadgiri Parikrama, Hanuman Dhara, and Ramghat aarti with 1N Traveller support, driver rotation, and ₹18k transparent pricing—WhatsApp to reserve."
 slug: varanasi-to-chitrakoot-tempo-traveller
-date: 2026-09-18
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-09-18
+lastUpdated: 2026-07-15
 tags: [chitrakoot, varanasi to chitrakoot, tempo traveller, pilgrimage, kamadgiri parikrama, ramghat]
 keywords: ["varanasi to chitrakoot tempo traveller","chitrakoot from varanasi tempo traveller","varanasi to chitrakoot itinerary","kamadgiri parikrama tempo traveller","chitrakoot tour 2 day from varanasi","varanasi to chitrakoot distance","hanuman dhara chitrakoot yatra"]
 relatedPosts:

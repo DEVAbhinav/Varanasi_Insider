@@ -1,8 +1,8 @@
 ---
 title: Varanasi Airport Taxi Service 2026 | Fixed Fare Pickup from Babatpur
 slug: airport-taxi-service-varanasi
-date: '2026-12-09'
-lastUpdated: '2026-12-09'
+date: '2026-07-15'
+lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
 metaTitle: >-

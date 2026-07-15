@@ -1,8 +1,8 @@
 ---
 title: "Gaya to Varanasi Taxi | Pind Daan to Kashi | ₹4,200 | Buddhist Circuit"
 slug: "gaya-to-varanasi-taxi"
-date: "2026-12-31"
-lastUpdated: "2026-12-31"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Gaya to Varanasi Taxi | Vishnupad to Kashi Vishwanath | ₹4,200"
@@ -402,7 +402,7 @@ faqSchema:
 - **Luggage**: No overhead rack struggles with post-ritual fatigue
 - **Flexibility**: Rest stops as needed (unlike train/bus fixed schedule)
 
-**Driver Training**: KashiTaxi drivers are briefed on:
+**Driver Training**: Kashi Taxi drivers are briefed on:
 - Post-Pind Daan fatigue sensitivity
 - Quiet environment respect (many families in contemplative mood)
 - Flexible rest stop accommodation

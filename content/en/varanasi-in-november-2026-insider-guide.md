@@ -1,8 +1,8 @@
 ---
 title: "Varanasi in November 2026: ✅Dev Deepawali Guide"
 slug: "varanasi-in-november-2026-insider-guide"
-date: "2026-08-02"
-lastUpdated: "2026-08-02"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-night-boat-ghat-p.jpeg"

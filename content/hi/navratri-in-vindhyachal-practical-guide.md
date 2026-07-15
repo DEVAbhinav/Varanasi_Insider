@@ -1,8 +1,8 @@
 ---
 title: "विंध्याचल में नवरात्रि 2026: तीर्थयात्रियों की संपूर्ण व्यावहारिक गाइड"
 slug: "navratri-in-vindhyachal-practical-guide"
-date: "2026-09-16"
-lastUpdated: "2026-09-16"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "कमल नयन सिंह"
 lang: hi-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"

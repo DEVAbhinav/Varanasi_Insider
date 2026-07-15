@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Nepal Taxi 2026: Fare, Border Route & Travel Time"
 slug: "varanasi-to-nepal-taxi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Nepal Distance (290 km) | Taxi Fare ₹3,000+ | Sunauli Border 2026"

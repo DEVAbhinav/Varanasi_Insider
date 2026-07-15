@@ -1,8 +1,8 @@
 ---
 title: "दशाश्वमेध घाट नाव सवारी और गंगा आरती: पूर्ण 2026 गाइड"
 slug: "dashashwamedh-ghat-naav-ganga-aarti-guide"
-date: "2026-12-12"
-lastUpdated: "2026-12-12"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "दशाश्वमेध घाट आरती + नाव सवारी गाइड (2026) | सर्वश्रेष्ठ दृश्य और कीमतें"

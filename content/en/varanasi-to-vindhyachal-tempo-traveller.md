@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Vindhyachal Tempo Traveller | Navratri VIP Charter"
 description: "Beat festival queues with 5:30 AM departures, Trikon Parikrama priests, and elder-care kits. Transparent ₹6,200 fares—book your Maa Vindhyavasini darshan now."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [vindhyachal, tempo traveller, shakti peeth, pilgrimage, trikon parikrama]
 keywords:
   - varanasi to vindhyachal tempo traveller

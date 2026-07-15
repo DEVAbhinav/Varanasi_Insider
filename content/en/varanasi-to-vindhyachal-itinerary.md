@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Vindhyachal Itinerary: 1-Day & 2-Day Pilgrimage Guide (2026)"
 slug: "varanasi-to-vindhyachal-itinerary"
-date: "2026-09-17"
-lastUpdated: "2026-09-17"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Lux-Tempo-Travellar-square.jpeg"

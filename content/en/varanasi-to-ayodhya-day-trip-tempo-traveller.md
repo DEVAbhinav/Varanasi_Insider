@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Ayodhya Day Trip Traveller | 15-Hour Ram Mandir Plan"
 description: "Follow a proven sunrise-to-9PM itinerary covering Ram Mandir, Hanuman Garhi, Kanak Bhawan, and Saryu Aarti with ₹14,500 all-inclusive Traveller and wheelchair support."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [ayodhya, day trip, tempo traveller, pilgrimage, ram mandir]
 keywords:
   - varanasi to ayodhya day trip tempo traveller

@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी एयरपोर्ट (VNS) ट्रांसफर गाइड: रूट, दूरी और लॉजिस्टिक्स (2026)"
 slug: "varanasi-airport-transfer-guide"
-date: "2026-11-19"
-lastUpdated: "2026-11-19"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "वाराणसी एयरपोर्ट ट्रांसफर गाइड 2026 | दूरी चार्ट, रूट और ट्रैवल लॉजिस्टिक्स"

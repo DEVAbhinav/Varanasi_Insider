@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Event",
   "name": "Makar Sankranti 2026 Kite Festival Taxi Service in Varanasi",
-  "description": "Pre-dawn snan, rooftop kite flying and city movement supported by KashiTaxi's dedicated taxi service for Makar Sankranti 2026 in Varanasi.",
+  "description": "Pre-dawn snan, rooftop kite flying and city movement supported by Kashi Taxi's dedicated taxi service for Makar Sankranti 2026 in Varanasi.",
   "eventStatus": "https://schema.org/EventScheduled",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   "startDate": "2026-01-14T04:00:00+05:30",
@@ -27,7 +27,7 @@
   },
   "organizer": {
     "@type": "Organization",
-    "name": "KashiTaxi",
+    "name": "Kashi Taxi",
     "url": "https://www.kashitaxi.in/"
   },
   "offers": {

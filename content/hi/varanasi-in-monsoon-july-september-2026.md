@@ -1,8 +1,8 @@
 ---
 title: "मानसून में वाराणसी: जुलाई-सितंबर में यात्रा के लिए एक 2026 गाइड"
 slug: "varanasi-in-monsoon-july-september-2026"
-date: "2026-08-02"
-lastUpdated: "2026-08-02"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "अभिनव पांडे"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/pink-sky-ghat-varanasi-l.jpeg"

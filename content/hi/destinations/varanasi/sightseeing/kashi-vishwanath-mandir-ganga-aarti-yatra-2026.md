@@ -1,8 +1,8 @@
 ---
 title: "काशी विश्वनाथ मंदिर और गंगा आरती: पूर्ण आध्यात्मिक यात्रा 2026"
 slug: "kashi-vishwanath-mandir-ganga-aarti-yatra-2026"
-date: "2026-12-12"
-lastUpdated: "2026-12-12"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "काशी विश्वनाथ मंदिर आरती + गंगा आरती (2026) | दर्शन, समय, यात्रा कार्यक्रम"

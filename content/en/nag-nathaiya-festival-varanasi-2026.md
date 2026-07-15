@@ -1,7 +1,7 @@
 ---
 title: "Nag Nathaiya Festival 2026 (Lakkha Mela) Tulsi Ghat Varanasi: Complete Viewing & Travel Guide"
 slug: "nag-nathaiya-festival-varanasi-2026"
-date: "2026-10-25"
+date: "2026-07-15"
 lastModified: "2026-10-25"
 excerpt: "Nag Nathaiya (Lakkha Mela) 2026 at Tulsi Ghat: Date, timings, Krishna–Kaliya Leela reenactment sequence, best viewing spots (including boat strategy), safety, logistics, stay & travel planning tips."
 author: "Travel Agent Varanasi Festival Desk"

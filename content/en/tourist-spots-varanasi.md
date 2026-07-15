@@ -1,7 +1,7 @@
 ---
 title: "Varanasi Tourist Spots - Taxi Packages & Routes 2026"
 slug: "tourist-spots-varanasi"
-date: "2026-10-26"
+date: "2026-07-15"
 lastUpdated: "2026-02-05"
 author: "Kamal Nayan Singh"
 lang: en-IN
@@ -919,7 +919,7 @@ Dress modestly with covered shoulders and legs (avoid shorts, tank tops, reveali
 
 **Why Choose Us:**
 - ✅ 27+ years serving Varanasi tourists
-- ✅ 4.8★ Google rating (600+ reviews)
+- ✅ 4.8★ Google rating (312 reviews)
 - ✅ GSTIN-registered, police-verified drivers
 - ✅ All-inclusive transparent pricing
 - ✅ Women-friendly Pink Taxi service
@@ -986,7 +986,7 @@ Experience the timeless magic of Banaras at your own pace, respecting local cust
 
 ### Why 5,000+ Tourists Choose Kashi Taxi:
 
-⭐ **4.8/5 Google Rating** (600+ verified reviews)  
+⭐ **4.8/5 Google Rating** (312 verified reviews)  
 🏆 **27+ Years Experience** (since 1998)  
 ✅ **GSTIN Registered** & police-verified drivers  
 💯 **Transparent Pricing** - no hidden charges  

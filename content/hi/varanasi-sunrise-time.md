@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी में सूर्योदय का समय 2026 | मासिक समय सारणी"
 slug: "varanasi-sunrise-time"
-date: "2026-11-04"
-lastUpdated: "2026-12-22"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Naval Kishore"
 lang: "hi"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"

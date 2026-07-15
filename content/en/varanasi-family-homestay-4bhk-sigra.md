@@ -50,6 +50,8 @@ faqSchema:
     answer: "Yes. We run our own taxi service, so we can arrange station or airport pickup, local sightseeing, day trips, and Ganga Aarti boat booking as part of your stay."
 ---
 
+# Private 4BHK Family Homestay in Varanasi (Sigra)
+
 Looking for a **private, whole-flat stay in Varanasi** for your family or group? This is an **entire 4BHK apartment in central Sigra** — you get the full flat to yourselves, a kitchen for home-cooked meals, and a location that puts the railway station, markets and the ghats all within easy reach.
 
 > **Note (pre-launch):** This page is being prepared ahead of our opening. Final photos and nightly rates are being confirmed — message us on WhatsApp to pre-book dates and get current pricing.

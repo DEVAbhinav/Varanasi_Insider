@@ -1,7 +1,7 @@
 ---
 title: "Jageshwar Mahadev Varanasi: Temple Guide [2026]"
 slug: "jageshwar-mahadev-varanasi"
-date: "2026-07-25"
+date: "2026-07-15"
 lastUpdated: "2026-02-27"
 author: "Kamal Nayan Singh"
 lang: en-IN

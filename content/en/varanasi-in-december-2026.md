@@ -1,8 +1,8 @@
 ---
 title: "Varanasi in December 2026: Fog Hacks, Packing & Plans"
 slug: "varanasi-in-december-2026"
-date: "2026-08-02"
-lastUpdated: "2026-12-17"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-sunrise-p.jpeg"

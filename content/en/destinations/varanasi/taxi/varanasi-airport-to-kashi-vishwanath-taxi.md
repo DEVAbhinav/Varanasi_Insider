@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Kashi Vishwanath Taxi ₹690 | 25 km, 40 min"
 slug: "varanasi-airport-to-kashi-vishwanath-taxi"
-date: "2026-11-12"
-lastUpdated: "2026-11-30"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Kashi Vishwanath Taxi from VNS Airport ₹690 | 25 km, 40 min"
@@ -126,12 +126,12 @@ Looking for the exact taxi fare from Varanasi airport to Kashi Vishwanath temple
 
 *Flash fare excludes Dev Deepawali, Maha Shivaratri, and other peak festival blocks and applies to direct Kashi Vishwanath corridor drops within city limits.
 
-### Uber price vs KashiTaxi fixed fare
+### Uber price vs Kashi Taxi fixed fare
 
 | Option | Typical fare | Notes |
 |--------|-------------|-------|
 | Uber / Ola (app) | ₹950–1,400 | Surge at dawn & after 8 PM; no corridor access |
-| KashiTaxi sedan (pre-booked) | ₹800 (Flash ₹690) | Fixed, no surge, corridor-ready, driver waits 15 min |
+| Kashi Taxi sedan (pre-booked) | ₹800 (Flash ₹690) | Fixed, no surge, corridor-ready, driver waits 15 min |
 
 For a single airport-to-temple drop the pre-booked sedan is usually cheaper than the surging Uber price and never changes after you book. Prefer a full trip? See the whole [taxi service in Varanasi](/en/city/varanasi/taxi/taxi-service-varanasi).
 

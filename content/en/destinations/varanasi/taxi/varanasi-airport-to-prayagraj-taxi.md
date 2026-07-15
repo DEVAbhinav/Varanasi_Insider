@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport to Prayagraj Taxi ₹3,499 | 2.5hr Highway Trip, Sangam Drop"
 slug: "varanasi-airport-to-prayagraj-taxi"
-date: "2026-11-19"
-lastUpdated: "2026-11-30"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Airport to Prayagraj Taxi ₹3,499 | 2.5hr Highway Trip, Sangam Drop"

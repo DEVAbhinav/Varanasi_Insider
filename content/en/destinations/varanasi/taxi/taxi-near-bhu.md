@@ -1,11 +1,11 @@
 ---
-title: "Taxi Near BHU Varanasi | Quick Cab Pickup | KashiTaxi"
+title: "Taxi Near BHU Varanasi | Quick Cab Pickup | Kashi Taxi"
 slug: "taxi-near-bhu"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Taxi Near BHU Varanasi | Quick Cab Pickup | KashiTaxi"
+metaTitle: "Taxi Near BHU Varanasi | Quick Cab Pickup | Kashi Taxi"
 metaDescription: "Book taxi near BHU Varanasi instantly. Fast pickup, professional drivers, fixed rates. Available 24/7."
 description: "Book taxi near BHU Varanasi instantly. Fast pickup, professional drivers, fixed rates. Available 24/7."
 keywords:
@@ -28,7 +28,7 @@ aggregateRating:
 
 ## Get a Taxi Within Minutes from BHU Varanasi
 
-Located at Banaras Hindu University campus in Varanasi? **KashiTaxi provides quick, reliable taxi pickup from your exact BHU location.** No long waits, no negotiations—just professional service with transparent fixed fares.
+Located at Banaras Hindu University campus in Varanasi? **Kashi Taxi provides quick, reliable taxi pickup from your exact BHU location.** No long waits, no negotiations—just professional service with transparent fixed fares.
 
 ## Why Book a Taxi Near BHU Varanasi?
 

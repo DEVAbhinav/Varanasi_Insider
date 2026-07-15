@@ -1,8 +1,8 @@
 ---
 title: "Where to Stay in Vindhyachal 2026: Dharamshala, Hotels and Practical Booking Guide"
 slug: "where-to-stay-in-vindhyachal"
-date: "2026-09-17"
-lastUpdated: "2026-09-17"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 subtitle: "Complete accommodation guide: dharamshalas, guest houses, and comfortable hotels near Maa Vindhyavasini Temple with practical Navratri planning advice."

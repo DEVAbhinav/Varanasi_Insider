@@ -1,11 +1,11 @@
 ---
-title: "Varanasi to Kolkata Taxi | ₹9,000 | Consider Train/Flight | KashiTaxi"
+title: "Varanasi to Kolkata Taxi | ₹9,000 | Consider Train/Flight | Kashi Taxi"
 slug: "varanasi-to-kolkata-taxi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Kolkata Taxi | ₹9,000 | Train Alternative | KashiTaxi"
+metaTitle: "Varanasi to Kolkata Taxi | ₹9,000 | Train Alternative | Kashi Taxi"
 metaDescription: "Varanasi to Kolkata taxi from ₹9,000. 678 km in 14-15 hours. Alternative: Direct trains in 7-8 hours recommended. 24/7 booking."
 description: "Varanasi to Kolkata taxi from ₹9,000. 678 km journey takes 14-15 hours due to Bihar road conditions. We honestly recommend direct trains (7-8 hours) or flights (1 hour) for better experience. Cab available for those who need it."
 keywords:

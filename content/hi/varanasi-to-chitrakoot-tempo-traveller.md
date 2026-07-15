@@ -1,8 +1,8 @@
 ---
 lang: hi
 slug: varanasi-to-chitrakoot-tempo-traveller
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-07-15
+lastUpdated: 2026-07-15
 author: "कमल नयन सिंह"
 title: "वाराणसी से चित्रकूट Tempo Traveller – 1N/2D रामघाट परिक्रमा"
 metaTitle: "वाराणसी से चित्रकूट Tempo Traveller: 1N/2D रामघाट यात्रा ₹16,500 से"

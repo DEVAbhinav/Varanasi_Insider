@@ -3,8 +3,8 @@ lang: en
 title: "Varanasi to Ayodhya Tempo Traveller Price List 2026 | 12 & 17 Seater Fare"
 metaTitle: "Varanasi to Ayodhya Tempo Traveller Price List 2026 | 12, 17 Seater"
 metaDescription: "Check Varanasi to Ayodhya tempo traveller price list for 2026. 12 seater from ₹14,500 and 17 seater from ₹15,500 for Ram Mandir day trips with tolls, parking and driver included."
-description: "The dedicated Kashitaxi fare page for Varanasi to Ayodhya tempo traveller booking. Compare 12 and 17 seater prices, inclusions, itinerary timing and group-fit details."
-date: 2026-08-27
+description: "The dedicated Kashi Taxi fare page for Varanasi to Ayodhya tempo traveller booking. Compare 12 and 17 seater prices, inclusions, itinerary timing and group-fit details."
+date: 2026-07-15
 lastUpdated: 2026-03-07
 tags:
   - ayodhya

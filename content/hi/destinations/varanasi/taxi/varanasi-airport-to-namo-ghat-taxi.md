@@ -1,8 +1,8 @@
 ---
 title: "नमो घाट टैक्सी VNS एयरपोर्ट से | 24 किमी, 35–50 मिनट (2026)"
 slug: "varanasi-airport-to-namo-ghat-taxi"
-date: "2026-11-19"
-lastUpdated: "2026-11-19"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "नमो घाट टैक्सी VNS एयरपोर्ट से | 24 किमी, किराया 2026"

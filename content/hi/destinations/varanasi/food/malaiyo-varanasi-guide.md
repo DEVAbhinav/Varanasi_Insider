@@ -1,8 +1,8 @@
 ---
 title: "मलाईयो वाराणसी (2026): बेस्ट ठेले, टाइमिंग और कीमत"
 slug: "malaiyo-varanasi-guide"
-date: "2026-11-20"
-lastUpdated: "2026-11-20"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "वाराणसी मलाईयो गाइड | ठठेरी बाजार, चौखंभा, कीमत और सीज़न"

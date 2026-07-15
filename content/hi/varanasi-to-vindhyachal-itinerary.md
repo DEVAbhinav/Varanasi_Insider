@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी से विंध्याचल यात्रा योजना: 1-दिन और 2-दिन की पूर्ण गाइड 2026"
 slug: "varanasi-to-vindhyachal-itinerary"
-date: "2026-09-17"
-lastUpdated: "2026-09-17"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "कमल नयन सिंह"
 lang: hi-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"

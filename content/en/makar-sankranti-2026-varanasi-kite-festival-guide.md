@@ -1,7 +1,7 @@
 ---
 title: "Makar Sankranti 2026 Varanasi: Holy Dips & Kite Wars Complete Guide (January 14)"
 slug: "makar-sankranti-2026-varanasi-kite-festival-guide"
-date: "2026-09-30"
+date: "2026-07-15"
 lastModified: "2026-09-30"
 excerpt: "Complete guide to Makar Sankranti 2026 in Varanasi. Holy Ganga dips, massive kite festivals, traditional celebrations, and travel tips for January 14, 2026."
 author: "Travel Agent Varanasi Festival Team"

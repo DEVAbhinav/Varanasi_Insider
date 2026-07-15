@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी एयरपोर्ट से गोरखपुर दूरी, समय और टैक्सी किराया (2026)"
 slug: "varanasi-airport-to-gorakhpur-taxi"
-date: "2026-11-19"
-lastUpdated: "2026-11-19"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: hi
 metaTitle: "वाराणसी एयरपोर्ट → गोरखपुर टैक्सी ₹2,280 से | 211 किमी"

@@ -2,7 +2,7 @@
 lang: en
 title: "12‑Seater Tempo Traveller in Varanasi – Family & Small Group Van from ₹5,500 (2026)"
 description: "12 Seater Tempo Traveller Varanasi rates for airport, local and outstation. Transparent 2026 prices and easy booking. Check fares and book now."
-date: 2026-08-27
+date: 2026-07-15
 tags: [12 seater, tempo traveller, varanasi, fares, price, hire, booking, kashi darshan, airport transfer, outstation]
 slug: 12-seater-tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/12-seater-tempo-traveller-varanasi

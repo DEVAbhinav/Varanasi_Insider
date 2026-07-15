@@ -1,11 +1,11 @@
 ---
-title: "Varanasi to Gaya Cab | Vishnupad Temple Taxi | ₹2,800 | KashiTaxi"
+title: "Varanasi to Gaya Cab | Vishnupad Temple Taxi | ₹2,800 | Kashi Taxi"
 slug: "varanasi-to-gaya-taxi"
-date: "2026-11-25"
-lastUpdated: "2026-11-25"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Gaya Cab | Vishnupad Temple Taxi | ₹2,800 | KashiTaxi"
+metaTitle: "Varanasi to Gaya Cab | Vishnupad Temple Taxi | ₹2,800 | Kashi Taxi"
 metaDescription: "Book Varanasi to Gaya cabs from ₹2,800. 115 km via NH19+NH22. Vishnupad Temple pilgrimage. 24/7 service, verified drivers."
 description: "Book affordable Varanasi to Gaya cabs from ₹2,800. 115 km journey in 3 hours via NH19+NH22. Vishnupad Temple, Pind-daan ceremony. Verified drivers, 24/7 service."
 keywords:
@@ -160,9 +160,9 @@ faqSchema:
 | GST (5%) | ₹140 |
 | **Total Estimated Fare** | **₹2,780** |
 
-### Why Choose KashiTaxi for Gaya Pilgrimage
+### Why Choose Kashi Taxi for Gaya Pilgrimage
 
-| Feature | KashiTaxi | Train | Bus | Shared Taxi |
+| Feature | Kashi Taxi | Train | Bus | Shared Taxi |
 |---------|-----------|-------|-----|-------------|
 | **Door-to-Door** | ✓ Yes | ✗ No | ✗ No | ✗ Pickup points |
 | **Temple Drop** | ✓ Direct | ✗ Station | ✗ Stand | ✗ Fixed route |
@@ -173,9 +173,9 @@ faqSchema:
 | **Travel Time** | 3 hrs | 3-4 hrs | 4-5 hrs | 3-4 hrs |
 | **Comfort** | High | Medium | Low | Medium |
 
-**Best Value**: KashiTaxi offers the lowest per-person cost for groups of 3-4, with added comfort and convenience.
+**Best Value**: Kashi Taxi offers the lowest per-person cost for groups of 3-4, with added comfort and convenience.
 
-## Why Book Varanasi to Gaya Cabs with KashiTaxi
+## Why Book Varanasi to Gaya Cabs with Kashi Taxi
 
 ### 1. Pind-daan Ceremony Expertise
 - Drivers familiar with all Pind-daan locations

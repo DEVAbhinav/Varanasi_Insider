@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Instrument Market Guide 2026: Where to Buy Tabla, Shehnai, Sitar & More"
 slug: "varanasi-instrument-market-guide"
-date: "2026-10-07"
-lastUpdated: "2026-10-07"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Travel Agent Varanasi Field Team"
 lang: en
 

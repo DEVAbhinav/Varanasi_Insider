@@ -1,8 +1,8 @@
 ---
 title: "5 Best Dev Deepawali Viewing Spots Beyond Dashashwamedh Ghat: Escape the Crowds 2026"
 slug: "dev-deepawali-best-viewing-spots-varanasi"
-date: "2026-09-30"
-lastUpdated: "2026-09-30"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"

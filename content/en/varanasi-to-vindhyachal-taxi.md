@@ -1,8 +1,8 @@
 ---
 title: "Varanasi to Vindhyachal Distance 2026: 65 KM, Taxi Fare & Travel Time"
 slug: "varanasi-to-vindhyachal-taxi"
-date: "2026-08-07"
-lastUpdated: "2026-12-24"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"

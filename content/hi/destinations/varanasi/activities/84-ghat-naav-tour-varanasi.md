@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी में 84 घाट नाव टूर: पूर्ण 2026 गाइड और मूल्य"
 slug: "84-ghat-naav-tour-varanasi"
-date: "2026-12-12"
-lastUpdated: "2026-12-12"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: hi
 metaTitle: "वाराणसी 84 घाट नाव टूर 2026 | काशी-बनारस घाट यात्रा गाइड"

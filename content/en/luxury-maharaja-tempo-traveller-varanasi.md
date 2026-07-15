@@ -2,7 +2,7 @@
 lang: en
 title: "Luxury Tempo Traveller Varanasi (Maharaja/Urbania) – 8hr Tour from ₹7,500"
 description: "Luxury Tempo Traveller Varanasi with 1×1 Maharaja seats and Urbania comfort. Premium airport, local and outstation service. Explore features and enquire."
-date: 2026-08-27
+date: 2026-07-15
 tags: [luxury, maharaja, urbania, premium travel]
 slug: luxury-maharaja-tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/luxury-maharaja-tempo-traveller-varanasi

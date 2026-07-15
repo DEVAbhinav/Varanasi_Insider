@@ -2,9 +2,9 @@
 lang: en
 title: "Varanasi to Gaya Tempo Traveller | Pind Daan Escort 2026"
 description: "Plan Vishnupad Pind Daan with registered pandas, 2-day Traveller support, Bodh Gaya add-ons, and transparent ₹17.5k pricing. Reserve your ritual slot today."
-date: 2026-10-09
+date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-10-09
+lastUpdated: 2026-07-15
 tags: [gaya, pind daan, tempo traveller, pilgrimage, bodhgaya]
 keywords:
   - varanasi to gaya tempo traveller

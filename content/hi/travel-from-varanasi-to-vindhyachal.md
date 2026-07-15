@@ -1,8 +1,8 @@
 ---
 title: "वाराणसी से विंध्याचल टैक्सी: एकदिवसीय मंदिर दर्शन ₹2,000 से"
 slug: "travel-from-varanasi-to-vindhyachal"
-date: "2026-09-17"
-lastUpdated: "2026-09-17"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "कमल नयन सिंह"
 lang: hi-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg"

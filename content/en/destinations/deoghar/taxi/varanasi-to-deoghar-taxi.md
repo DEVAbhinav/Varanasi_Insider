@@ -1,5 +1,5 @@
 ---
-title: "Varanasi to Deoghar Taxi | Baidyanath Jyotirlinga Cabs | ₹7,500 | KashiTaxi"
+title: "Varanasi to Deoghar Taxi | Baidyanath Jyotirlinga Cabs | ₹7,500 | Kashi Taxi"
 slug: "varanasi-to-deoghar-taxi"
 date: "2026-06-24"
 lastUpdated: "2026-06-24"
@@ -120,7 +120,7 @@ We quote this as a **2-day return (1 night)** so the darshan, not the driving, i
 
 **October to March** is most comfortable. **Shravan (July-August)** is the grand kanwar season - the town overflows with kanwariyas and road traffic peaks, so plan carefully and start very early. **Mahashivratri** is another major occasion.
 
-## Why Book With KashiTaxi
+## Why Book With Kashi Taxi
 
 - **GT Road specialists** - drivers familiar with the Sasaram-Aurangabad-Dhanbad corridor and its dhabas and fuel stops.
 - **Driver night-halt included** in the 2-day fare - no end-of-trip surprises.

@@ -1,8 +1,8 @@
 ---
 title: "Varanasi Airport Route Directory 2026 | Temple, Station & City Drop Lookup"
 slug: "varanasi-airport-transfer-directory"
-date: "2026-12-24"
-lastUpdated: "2026-12-24"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Varanasi Airport Route Directory | All Airport Destinations and Lookup Pages"

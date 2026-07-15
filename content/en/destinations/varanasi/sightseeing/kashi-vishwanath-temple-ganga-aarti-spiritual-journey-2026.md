@@ -1,8 +1,8 @@
 ---
 title: "Kashi Vishwanath Temple & Ganga Aarti: Complete Spiritual Journey 2026"
 slug: "kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026"
-date: "2026-12-12"
-lastUpdated: "2026-12-12"
+date: "2026-07-15"
+lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Kashi Vishwanath Temple Aarti + Ganga Aarti (2026) | Darshan, Timings, Itinerary"
@@ -472,10 +472,10 @@ First-time pilgrimage to Kashi Vishwanath is often deeply emotional. Visitors re
 ### Integrated Boat + Temple Booking
 
 **For complete 3–4 hour spiritual journey:**
-- Book boat through Kashitaxi: +91 99354 74730
+- Book boat through Kashi Taxi: +91 99354 74730
 - Message: "Temple + boat combo, [date], [time preference], [headcount]"
 - Specify: Temple morning darshan (6:00 AM) + afternoon sacred dip + evening boat aarti
-- Kashitaxi coordinates hotel pickup, temple timing, boat departure
+- Kashi Taxi coordinates hotel pickup, temple timing, boat departure
 - **Cost:** ₹1,000–1,500 per person (combines all experiences)
 
 ### Festival Booking (Peak Dates)

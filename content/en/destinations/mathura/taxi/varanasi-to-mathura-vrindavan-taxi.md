@@ -1,5 +1,5 @@
 ---
-title: "Varanasi to Mathura Vrindavan Taxi | Braj Pilgrimage Cabs | ₹8,500 | KashiTaxi"
+title: "Varanasi to Mathura Vrindavan Taxi | Braj Pilgrimage Cabs | ₹8,500 | Kashi Taxi"
 slug: "varanasi-to-mathura-vrindavan-taxi"
 date: "2026-06-24"
 lastUpdated: "2026-06-24"
@@ -131,7 +131,7 @@ Because Agra sits squarely on this route, **combining Braj with a Taj Mahal visi
 
 **October to March** is most pleasant. **Janmashtami** (August/September) in Mathura and **Holi** in Barsana/Vrindavan are spectacular but extremely crowded - book early and expect heavy traffic. Summers are very hot across this plain.
 
-## Why Book With KashiTaxi
+## Why Book With Kashi Taxi
 
 - **One car for the whole Braj circuit** - no re-booking between Mathura, Vrindavan, and Govardhan.
 - **Driver night-halts included** in the multi-day fare, so there are no surprise additions.
