@@ -23,7 +23,7 @@ export default function TrustRibbon({ extraClaims = [], className = '' }) {
     <div className={`flex flex-wrap items-center gap-x-5 gap-y-2 ${className}`}>
       {items.map((it, i) => (
         <div key={i} className="inline-flex items-center gap-1.5 text-sm">
-          <it.Icon className="h-4 w-4 text-primary" aria-hidden="true" />
+          <it.Icon className="h-4 w-4 text-cyan-600" aria-hidden="true" />
           <span>{it.text}</span>
         </div>
       ))}

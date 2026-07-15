@@ -7,23 +7,23 @@ import { formatINR } from '@/lib/pricing';
 export default function PriceBreakdown({ estimate, className = '' }) {
   if (!estimate) return null;
   return (
-    <div className={`rounded-xl border bg-muted/30 p-4 ${className}`}>
+    <div className={`rounded-xl border border-cyan-100 bg-cyan-50/60 p-4 ${className}`}>
       <ul className="space-y-1.5 text-sm">
         {estimate.lines.map((l, i) => (
           <li key={i} className="flex items-center justify-between">
-            <span className="text-muted-foreground">{l.label}</span>
-            <span className="font-medium">{formatINR(l.amount)}</span>
+            <span className="text-slate-600">{l.label}</span>
+            <span className="font-medium text-slate-800">{formatINR(l.amount)}</span>
           </li>
         ))}
       </ul>
-      <div className="mt-3 flex items-baseline justify-between border-t pt-3">
-        <span className="text-sm font-semibold">
+      <div className="mt-3 flex items-baseline justify-between border-t border-cyan-200 pt-3">
+        <span className="text-sm font-semibold text-slate-700">
           Estimated total {estimate.priceType === 'from' ? '(from)' : ''}
         </span>
-        <span className="text-xl font-semibold">{formatINR(estimate.total)}</span>
+        <span className="text-xl font-bold text-cyan-700">{formatINR(estimate.total)}</span>
       </div>
       {estimate.assumptions && (
-        <p className="mt-1 text-xs text-muted-foreground">Based on: {estimate.assumptions}</p>
+        <p className="mt-1 text-xs text-slate-500">Based on: {estimate.assumptions}</p>
       )}
     </div>
   );

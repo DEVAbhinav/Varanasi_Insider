@@ -20,19 +20,19 @@ export default function AddonPicker({ addons = [], selectedIds = [], onToggle, c
             <label
               key={a.id}
               className={`flex cursor-pointer items-center gap-3 rounded-xl border p-3 text-sm transition ${
-                checked ? 'border-primary bg-primary/5' : 'border-border hover:border-primary/50'
+                checked ? 'border-cyan-500 bg-cyan-50' : 'border-border hover:border-cyan-400 hover:bg-cyan-50/40'
               }`}
             >
               <input
                 type="checkbox"
-                className="h-4 w-4 accent-current"
+                className="h-4 w-4 accent-cyan-600"
                 checked={checked}
                 onChange={() => onToggle?.(a.id)}
                 aria-label={`${a.label} (${formatINR(a.price)})`}
               />
-              <Icon className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
+              <Icon className="h-4 w-4 text-cyan-600" aria-hidden="true" />
               <span className="flex-1">{a.label}</span>
-              <span className="font-medium">
+              <span className="font-semibold text-cyan-700">
                 +{formatINR(a.price)}
                 {a.perPerson ? '/pp' : ''}
               </span>

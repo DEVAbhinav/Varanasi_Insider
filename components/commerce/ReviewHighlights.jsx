@@ -10,7 +10,7 @@ export default function ReviewHighlights({ highlights = [], className = '' }) {
     <div className={`grid gap-4 md:grid-cols-3 ${className}`}>
       {highlights.slice(0, 3).map((r, i) => (
         <figure key={i} className="rounded-xl border bg-card p-4">
-          <Quote className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
+          <Quote className="h-4 w-4 text-cyan-500" aria-hidden="true" />
           <blockquote className="mt-2 text-sm">{r.quote}</blockquote>
           {(r.author || r.trip) && (
             <figcaption className="mt-2 text-xs text-muted-foreground">

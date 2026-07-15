@@ -13,7 +13,7 @@ export default function ItineraryAccordion({ itinerary = [], className = '' }) {
           <AccordionTrigger className="text-left">
             <span className="font-medium">
               {(seg.label || seg.day) && (
-                <span className="mr-2 text-primary">{seg.label || seg.day}</span>
+                <span className="mr-2 font-semibold text-cyan-700">{seg.label || seg.day}</span>
               )}
               {seg.title}
             </span>

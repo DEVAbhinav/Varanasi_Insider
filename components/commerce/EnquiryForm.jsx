@@ -42,14 +42,14 @@ export default function EnquiryForm({ product, offer, estimate, addons = [], met
 
   if (success) {
     return (
-      <div className="rounded-2xl border bg-card p-6 text-center">
+      <div className="rounded-2xl border border-cyan-100 bg-white p-6 text-center shadow-sm">
         <div className="mb-2 text-4xl">✅</div>
-        <h3 className="text-lg font-semibold">Enquiry received!</h3>
-        <p className="mt-1 text-sm text-muted-foreground">
+        <h3 className="text-lg font-semibold text-slate-900">Enquiry received!</h3>
+        <p className="mt-1 text-sm text-slate-500">
           Thanks {formData.name || ''} — we'll call you shortly at {formData.phone}.
         </p>
         <div className="mt-4 flex justify-center gap-2">
-          <Button asChild>
+          <Button asChild className="bg-emerald-500 text-white hover:bg-emerald-600">
             <a
               href={whatsappLink || getWhatsAppUrl(waText)}
               target="_blank"
@@ -65,12 +65,12 @@ export default function EnquiryForm({ product, offer, estimate, addons = [], met
   }
 
   const inputCls =
-    'w-full rounded-lg border-2 border-border bg-background px-3 py-2.5 text-sm outline-none transition focus:border-primary';
+    'w-full rounded-lg border-2 border-slate-200 bg-white px-3 py-2.5 text-sm outline-none transition focus:border-cyan-500';
 
   return (
-    <form onSubmit={onSubmit} className="rounded-2xl border bg-card p-5">
-      <h3 className="text-base font-semibold">Get a quote / book</h3>
-      <p className="mt-0.5 text-xs text-muted-foreground">
+    <form onSubmit={onSubmit} className="rounded-2xl border border-cyan-100 bg-white p-5 shadow-sm">
+      <h3 className="text-base font-semibold text-slate-900">Get a quote / book</h3>
+      <p className="mt-0.5 text-xs text-slate-500">
         No advance needed. We confirm availability by call/WhatsApp.
       </p>
 
@@ -125,10 +125,16 @@ export default function EnquiryForm({ product, offer, estimate, addons = [], met
       </div>
 
       <div className="mt-4 flex flex-col gap-2 sm:flex-row">
-        <Button type="submit" size="lg" className="flex-1" disabled={loading}>
+        <Button type="submit" size="lg" variant="brand" className="flex-1" disabled={loading}>
           {loading ? 'Sending…' : `${product?.ctaVerb || 'Enquire'} now`}
         </Button>
-        <Button type="button" variant="secondary" size="lg" asChild>
+        <Button
+          type="button"
+          variant="outline"
+          size="lg"
+          className="border-cyan-500 text-cyan-700 hover:bg-cyan-50 hover:text-cyan-800"
+          asChild
+        >
           <a
             href={getCallTelHref()}
             onClick={() => trackCommerce(COMMERCE_EVENTS.CLICK_CALL, { product_slug: meta.slug })}

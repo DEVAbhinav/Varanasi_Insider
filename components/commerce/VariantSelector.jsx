@@ -38,10 +38,10 @@ export default function VariantSelector({
                   role="radio"
                   aria-checked={active}
                   onClick={() => onSelectOffer?.(i)}
-                  className={`rounded-xl border px-3 py-2 text-left text-sm transition ${
+                  className={`rounded-xl border px-3 py-2 text-left text-sm font-medium transition ${
                     active
-                      ? 'border-primary bg-primary/5 ring-1 ring-primary'
-                      : 'border-border hover:border-primary/50'
+                      ? 'border-cyan-500 bg-cyan-50 text-cyan-900 ring-1 ring-cyan-500'
+                      : 'border-border hover:border-cyan-400 hover:bg-cyan-50/40'
                   }`}
                 >
                   {o.name}
@@ -57,23 +57,23 @@ export default function VariantSelector({
           <label htmlFor="commerce-qty" className="mb-2 block text-sm font-semibold">
             {qtyLabel}
           </label>
-          <div className="inline-flex items-center rounded-xl border">
+          <div className="inline-flex items-center rounded-xl border border-cyan-200 bg-white">
             <button
               type="button"
               aria-label={`Decrease ${qtyLabel.toLowerCase()}`}
               onClick={() => onChangeQuantity?.(Math.max(1, quantity - 1))}
-              className="px-3 py-2 text-lg leading-none text-muted-foreground hover:text-foreground"
+              className="px-3 py-2 text-lg leading-none text-cyan-600 hover:text-cyan-800"
             >
               −
             </button>
             <span
               id="commerce-qty"
-              className="inline-flex min-w-[3rem] items-center justify-center gap-1.5 border-x px-3 py-2 text-sm font-medium"
+              className="inline-flex min-w-[3rem] items-center justify-center gap-1.5 border-x border-cyan-200 px-3 py-2 text-sm font-semibold"
             >
               {selector === 'days' ? (
-                <CalendarDays className="h-4 w-4" aria-hidden="true" />
+                <CalendarDays className="h-4 w-4 text-cyan-600" aria-hidden="true" />
               ) : (
-                <Users className="h-4 w-4" aria-hidden="true" />
+                <Users className="h-4 w-4 text-cyan-600" aria-hidden="true" />
               )}
               {quantity}
             </span>
@@ -81,7 +81,7 @@ export default function VariantSelector({
               type="button"
               aria-label={`Increase ${qtyLabel.toLowerCase()}`}
               onClick={() => onChangeQuantity?.(quantity + 1)}
-              className="px-3 py-2 text-lg leading-none text-muted-foreground hover:text-foreground"
+              className="px-3 py-2 text-lg leading-none text-cyan-600 hover:text-cyan-800"
             >
               +
             </button>

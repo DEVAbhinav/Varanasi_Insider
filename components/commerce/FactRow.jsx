@@ -13,7 +13,7 @@ export default function FactRow({ facts = [], className = '' }) {
         const Icon = FactIcons[f.key] || FactIcons.duration;
         return (
           <li key={i} className="inline-flex items-center gap-1.5">
-            <Icon className="h-4 w-4" aria-hidden="true" />
+            <Icon className="h-4 w-4 text-cyan-600" aria-hidden="true" />
             <span>{f.value}</span>
           </li>
         );

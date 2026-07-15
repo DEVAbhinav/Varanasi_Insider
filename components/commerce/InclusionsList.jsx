@@ -27,7 +27,7 @@ function List({ items, tone, expandableAfter }) {
         <button
           type="button"
           onClick={() => setExpanded(true)}
-          className="mt-2 text-sm font-medium text-primary hover:underline"
+          className="mt-2 text-sm font-semibold text-cyan-700 hover:underline"
         >
           +{hidden} more
         </button>

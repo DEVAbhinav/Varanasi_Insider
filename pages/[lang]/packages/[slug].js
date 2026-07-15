@@ -310,7 +310,7 @@ export default function PackagePage({ pkgData, commerce = null, contentHtml, jso
       </main>
 
       <Footer allPosts={[]} />
-      <StickyContactBar phone={CONTACT.callNumberRaw} />
+      <StickyContactBar phone={CONTACT.callNumberRaw} floatingOnly={!!commerce} />
     </>
   );
 }

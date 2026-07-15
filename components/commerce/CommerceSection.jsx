@@ -5,6 +5,7 @@
 
 import React, { useMemo, useState, useEffect } from 'react';
 import PriceAnchor from './PriceAnchor';
+import PolkaOverlay from './PolkaOverlay';
 import BadgeRow from './BadgeRow';
 import FactRow from './FactRow';
 import InclusionsList from './InclusionsList';
@@ -78,30 +79,33 @@ export default function CommerceSection({ product, meta = {} }) {
       <div className="grid gap-8 lg:grid-cols-[1.4fr_1fr]">
         {/* Left: offer detail */}
         <div className="space-y-6">
-          <div>
-            <span className="text-xs font-semibold uppercase tracking-wide text-primary">
-              {product.typeLabel}
-            </span>
-            <h2 className="mt-1 text-2xl font-semibold tracking-tight md:text-3xl">
-              {product.productName}
-            </h2>
-            {product.bestFor && (
-              <p className="mt-1 text-sm text-muted-foreground">Best for: {product.bestFor}</p>
-            )}
-          </div>
-
-          <div className="flex flex-wrap items-center gap-4">
-            <PriceAnchor
-              price={product.startingPrice}
-              unit={product.startingPriceUnit}
-              priceType="from"
-            />
-            <BadgeRow badges={product.badges} />
+          <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-sky-500 via-cyan-500 to-teal-500 p-6 text-white shadow-sm md:p-7">
+            <PolkaOverlay />
+            <div className="relative z-10">
+              <span className="text-xs font-semibold uppercase tracking-wide text-white/85">
+                {product.typeLabel}
+              </span>
+              <h2 className="mt-1 text-2xl font-bold tracking-tight md:text-3xl">
+                {product.productName}
+              </h2>
+              {product.bestFor && (
+                <p className="mt-1.5 text-sm text-white/90">Best for: {product.bestFor}</p>
+              )}
+              <div className="mt-4 flex flex-wrap items-center gap-4">
+                <PriceAnchor
+                  price={product.startingPrice}
+                  unit={product.startingPriceUnit}
+                  priceType="from"
+                  tone="light"
+                />
+                <BadgeRow badges={product.badges} tone="light" />
+              </div>
+            </div>
           </div>
 
           <FactRow facts={facts} />
 
-          <TrustRibbon className="border-y py-3" />
+          <TrustRibbon className="border-y border-cyan-100 py-3" />
 
           <InclusionsList
             inclusions={product.inclusions}
@@ -119,15 +123,15 @@ export default function CommerceSection({ product, meta = {} }) {
           )}
 
           {product.requirements?.length > 0 && (
-            <div className="rounded-xl border bg-muted/30 p-4 text-sm">
-              <p className="mb-1 font-semibold">Good to know</p>
-              <ul className="list-disc space-y-1 pl-5 text-muted-foreground">
+            <div className="rounded-xl border border-cyan-100 bg-cyan-50/60 p-4 text-sm">
+              <p className="mb-1 font-semibold text-slate-800">Good to know</p>
+              <ul className="list-disc space-y-1 pl-5 text-slate-600">
                 {product.requirements.map((r, i) => (
                   <li key={i}>{r}</li>
                 ))}
               </ul>
               {product.cancellationPolicy && (
-                <p className="mt-2 text-muted-foreground">{product.cancellationPolicy}</p>
+                <p className="mt-2 text-slate-600">{product.cancellationPolicy}</p>
               )}
             </div>
           )}
@@ -139,27 +143,33 @@ export default function CommerceSection({ product, meta = {} }) {
 
         {/* Right: sticky configurator + enquiry */}
         <div className="lg:sticky lg:top-24 lg:self-start">
-          <div className="space-y-5 rounded-2xl border bg-card p-5 shadow-sm">
-            <VariantSelector
-              offers={product.offers}
-              selectedIndex={selectedIndex}
-              quantity={quantity}
-              selector={product.selector}
-              onSelectOffer={handleSelectOffer}
-              onChangeQuantity={setQuantity}
-            />
-            <AddonPicker
-              addons={product.addons}
-              selectedIds={addonIds}
-              onToggle={handleToggleAddon}
-            />
-            <PriceBreakdown estimate={est} />
-            {(offer?.priceIncludes?.length > 0 || offer?.priceExcludes?.length > 0) && (
-              <InclusionsList
-                inclusions={offer.priceIncludes}
-                exclusions={offer.priceExcludes}
+          <div className="overflow-hidden rounded-2xl border border-cyan-100 bg-white shadow-sm">
+            <div className="relative overflow-hidden bg-gradient-to-r from-sky-500 via-cyan-500 to-teal-500 px-5 py-3 text-white">
+              <PolkaOverlay opacity={0.18} />
+              <p className="relative z-10 text-sm font-semibold">Build your booking</p>
+            </div>
+            <div className="space-y-5 p-5">
+              <VariantSelector
+                offers={product.offers}
+                selectedIndex={selectedIndex}
+                quantity={quantity}
+                selector={product.selector}
+                onSelectOffer={handleSelectOffer}
+                onChangeQuantity={setQuantity}
               />
-            )}
+              <AddonPicker
+                addons={product.addons}
+                selectedIds={addonIds}
+                onToggle={handleToggleAddon}
+              />
+              <PriceBreakdown estimate={est} />
+              {(offer?.priceIncludes?.length > 0 || offer?.priceExcludes?.length > 0) && (
+                <InclusionsList
+                  inclusions={offer.priceIncludes}
+                  exclusions={offer.priceExcludes}
+                />
+              )}
+            </div>
           </div>
 
           <div className="mt-4">

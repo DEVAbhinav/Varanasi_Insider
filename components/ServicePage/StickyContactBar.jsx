@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
 import { logClick } from '@/lib/logClick';
 
-export default function StickyContactBar({ phone }) {
+export default function StickyContactBar({ phone, floatingOnly = false }) {
   const [isVisible, setIsVisible] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
 
@@ -35,6 +35,7 @@ export default function StickyContactBar({ phone }) {
   return (
     <>
       {/* Desktop/Tablet Version - Bottom Sticky Bar */}
+      {!floatingOnly && (
       <div
         className={`fixed bottom-0 left-0 right-0 z-50 transition-transform duration-300 ${isVisible ? 'translate-y-0' : 'translate-y-full'
           } hidden md:block`}
@@ -118,6 +119,7 @@ export default function StickyContactBar({ phone }) {
           </div>
         </div>
       </div>
+      )}
 
       {/* Mobile Version - Floating Action Buttons */}
       <div
