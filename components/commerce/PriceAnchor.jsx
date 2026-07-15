@@ -1,0 +1,21 @@
+// components/commerce/PriceAnchor.jsx
+// "from ₹X / unit" price anchor chip. Read-only display of the starting price.
+
+import React from 'react';
+import { formatINR } from '@/lib/pricing';
+
+export default function PriceAnchor({ price, unit, priceType = 'from', className = '' }) {
+  if (!price) return null;
+  const n = Number(String(price).replace(/[,₹\s]/g, ''));
+  if (!Number.isFinite(n) || n <= 0) return null;
+
+  return (
+    <div className={`inline-flex items-baseline gap-1.5 ${className}`}>
+      {priceType === 'from' && (
+        <span className="text-xs font-medium text-muted-foreground">from</span>
+      )}
+      <span className="text-2xl font-semibold tracking-tight">{formatINR(n)}</span>
+      {unit && <span className="text-xs text-muted-foreground">{unit}</span>}
+    </div>
+  );
+}

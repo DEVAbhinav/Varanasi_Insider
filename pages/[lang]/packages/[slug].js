@@ -17,6 +17,7 @@ import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/
 import { Phone, CheckCircle2, Clock, Ship, IndianRupee, Info, BadgeCheck, ShieldCheck, Sparkles } from "lucide-react";
 import { motion } from "framer-motion";
 import { CONTACT, getCallTelHref } from "@/lib/contact";
+import CommerceSection from "../../../components/commerce/CommerceSection";
 
 const fadeUp = {
   initial: { opacity: 0, y: 16 },
@@ -29,7 +30,7 @@ const currency = (n) => `₹${Number(n || 0).toLocaleString("en-IN")}`;
 const withBuffer = (n, pct = 10) => Math.round(Number(n || 0) * (1 + pct / 100));
 const waLink = (text) => `${CONTACT.whatsappUrl}?text=${encodeURIComponent(text)}`;
 
-export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPackages, pageLang, pageSlug, alternateLanguages = [] }) {
+export default function PackagePage({ pkgData, commerce = null, contentHtml, jsonLdData, allPackages, pageLang, pageSlug, alternateLanguages = [] }) {
   const { title, subtitle, heroImage, coverAlt, phone = CONTACT.callNumberRaw, components, tiers = [], addOns = [], vehicles = [], seasonNotes = {}, breadcrumbs = [], faqs = [] } = pkgData || {};
   const bufferPct = components?.buffer_percent ?? 10;
   const [imgSrc, setImgSrc] = useState(heroImage && heroImage.trim() ? heroImage : "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png");
@@ -120,6 +121,9 @@ export default function PackagePage({ pkgData, contentHtml, jsonLdData, allPacka
             </motion.div>
           </div>
         </section>
+
+        {/* Commerce / ordering block (opt-in via `commerce` frontmatter) */}
+        {commerce && <CommerceSection product={commerce} meta={{ slug: pageSlug, lang: pageLang }} />}
 
         {/* Quick highlights row */}
         <section className="bg-muted/30 py-4">
@@ -326,6 +330,11 @@ export async function getStaticProps({ params }) {
   const { demoteContentHeadings } = await import("../../../lib/markdown");
   const contentHtml = demoteContentHeadings(rawContentHtml);
 
+  // Parse opt-in commerce/ordering block (plan §18). Returns null when absent;
+  // throws (failing the build) if a block is present but invalid — CI gate.
+  const { getCommerceData } = await import("../../../lib/commercialPageData");
+  const commerce = getCommerceData(frontmatter, { slug: params.slug, lang: params.lang });
+
   // Also collect all packages (for related grid)
   let allPackages = [];
   try {
@@ -401,6 +410,52 @@ export async function getStaticProps({ params }) {
     };
     jsonLdData = { "@context": "https://schema.org", "@graph": [offerCatalog, ratingProduct] };
   }
+
+  // When a commerce block is present, add a Product node with AggregateOffer
+  // built from the real offers[] prices so Google sees a bookable product.
+  if (commerce) {
+    const canonicalUrl = `https://www.kashitaxi.in/${params.lang}/packages/${params.slug}`;
+    const prices = commerce.offers
+      .map((o) => Number(String(o.price).replace(/[,₹\s]/g, "")))
+      .filter((n) => Number.isFinite(n) && n > 0);
+    const commerceProduct = {
+      "@type": commerce.schemaType || "Product",
+      name: commerce.productName,
+      description: frontmatter.description || frontmatter.subtitle || commerce.productName,
+      image: productImage,
+      url: canonicalUrl,
+      brand: { "@type": "Brand", name: "Kashi Taxi" },
+      areaServed: "Varanasi",
+      offers: {
+        "@type": prices.length > 1 ? "AggregateOffer" : "Offer",
+        priceCurrency: commerce.offers[0]?.priceCurrency || "INR",
+        ...(prices.length > 1
+          ? {
+              lowPrice: String(Math.min(...prices)),
+              highPrice: String(Math.max(...prices)),
+              offerCount: commerce.offers.length,
+            }
+          : { price: String(prices[0] || commerce.offers[0]?.price || "") }),
+        availability: "https://schema.org/InStock",
+      },
+      ...(frontmatter.aggregateRating && frontmatter.aggregateRating.ratingValue != null
+        ? {
+            aggregateRating: {
+              "@type": "AggregateRating",
+              ratingValue: frontmatter.aggregateRating.ratingValue,
+              reviewCount:
+                frontmatter.aggregateRating.reviewCount || frontmatter.aggregateRating.ratingCount,
+              bestRating: "5",
+              worstRating: "1",
+            },
+          }
+        : {}),
+    };
+    const graph = Array.isArray(jsonLdData["@graph"])
+      ? jsonLdData["@graph"]
+      : [offerCatalog];
+    jsonLdData = { "@context": "https://schema.org", "@graph": [...graph, commerceProduct] };
+  }
   const sanitizedJsonLdData = sanitizeJsonLdData(jsonLdData);
 
   const alternateLanguages = buildAlternateLanguageUrls({
@@ -412,6 +467,7 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       pkgData: frontmatter,
+      commerce: commerce ? JSON.parse(JSON.stringify(commerce)) : null,
       contentHtml,
       jsonLdData: sanitizedJsonLdData,
       allPackages,
