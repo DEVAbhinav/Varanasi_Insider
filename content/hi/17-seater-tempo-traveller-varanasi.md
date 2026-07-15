@@ -26,10 +26,10 @@ canonical: "https://www.kashitaxi.in/hi/17-seater-tempo-traveller-varanasi"
 ## त्वरित बुकिंग CTA
 > WhatsApp: https://wa.me/919935474730?text=17-Seater%20Hindi | Call: +91 99354 74730  
 > “17 Seater + Date + Route (Local / Ayodhya / Prayagraj / Bodh Gaya)” भेजें
-- Rate Sheet: [/hi/tempo-traveller-rates-varanasi]
-- 12 Seater Option: [/hi/12-seater-tempo-traveller-varanasi]
-- Size Comparison: [/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi]
-- Airport Transfer: [/hi/varanasi-airport-tempo-traveller]
+- [Rate Sheet](/hi/tempo-traveller-rates-varanasi)
+- [12 Seater Option](/hi/12-seater-tempo-traveller-varanasi)
+- [Size Comparison](/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
+- [Airport Transfer](/hi/varanasi-airport-tempo-traveller)
 
 ## वाहन ओवरव्यू
 - **सीट क्षमता:** 17 पैसेंजर (कुछ मॉडल 16 + ड्राइवर)
@@ -84,9 +84,9 @@ canonical: "https://www.kashitaxi.in/hi/17-seater-tempo-traveller-varanasi"
 - Bodh Gaya लम्बा दिन → aisle movement comfort लाभ
 
 ## Internal Links (Cluster)
-- Master Page: [/hi/tempo-traveller-varanasi]
-- Kashi Darshan: [/hi/kashi-darshan-tempo-traveller]
-- Safety (Women Taxi): [/hi/services/varanasi-safest-taxi-for-women]
+- [Master Page](/hi/tempo-traveller-varanasi)
+- [Kashi Darshan](/hi/kashi-darshan-tempo-traveller)
+- [Safety (Women Taxi)](/hi/services/varanasi-safest-taxi-for-women)
 
 ---
 अगला कौन सा पेज? (उदा: luxury-maharaja-tempo-traveller-varanasi) लिखें या “auto”।

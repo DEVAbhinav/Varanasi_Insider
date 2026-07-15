@@ -23,9 +23,9 @@ canonical: "https://www.kashitaxi.in/hi/best-time-to-visit-varanasi"
 
 ## त्वरित यात्रा योजना CTA
 > WhatsApp: +91 99354 74730 (संदेश: “Best Time + Month + Pax”) → सुझावित तारीख + भीड़ स्तर + होटल बुकिंग समय  
-- सूर्योदय नाव: [/hi/varanasi-sunrise-boat-ride-timings]
-- अस्सी घाट आरती: [/hi/assi-ghat-aarti-timings-2026]
-- परिवहन किराया: [/hi/varanasi-transport-price-guide-2026]
+- [सूर्योदय नाव](/hi/varanasi-sunrise-boat-ride-timings)
+- [अस्सी घाट आरती](/hi/assi-ghat-aarti-timings-2026)
+- [परिवहन किराया](/hi/varanasi-transport-price-guide-2026)
 
 **सबसे अच्छा समय: अक्टूबर से मार्च** (खासकर नवंबर)। इस दौरान मौसम सुखद, त्योहार जीवंत और घाटों पर घूमना आरामदायक। मगर भीड़ भी सबसे ज्यादा।
 
@@ -153,9 +153,9 @@ canonical: "https://www.kashitaxi.in/hi/best-time-to-visit-varanasi"
 अगला: Dev Deepawali 2026 guide (hindi) या कोई अन्य?
 
 ## अगला क्या करें?
-- अस्सी घाट आरती समय: [/hi/assi-ghat-aarti-timings-2026]
-- सूर्योदय नाव समय: [/hi/varanasi-sunrise-boat-ride-timings]
-- सुरक्षित महिला टैक्सी: [/hi/services/varanasi-safest-taxi-for-women]
-- अप्रैल की प्रैक्टिकल योजना: [/hi/varanasi-in-april]
-- सारनाथ विजिट प्लान: [/hi/sarnath-timing-visit-guide]
-- पहली बार आने वालों के लिए जगहों की लिस्ट: [/hi/tourist-spots-varanasi]
+- [अस्सी घाट आरती समय](/hi/assi-ghat-aarti-timings-2026)
+- [सूर्योदय नाव समय](/hi/varanasi-sunrise-boat-ride-timings)
+- [सुरक्षित महिला टैक्सी](/hi/services/varanasi-safest-taxi-for-women)
+- [अप्रैल की प्रैक्टिकल योजना](/hi/varanasi-in-april)
+- [सारनाथ विजिट प्लान](/hi/sarnath-timing-visit-guide)
+- [पहली बार आने वालों के लिए जगहों की लिस्ट](/hi/tourist-spots-varanasi)

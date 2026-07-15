@@ -22,10 +22,10 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 ## त्वरित बुकिंग CTA (Rates / Availability)
 > WhatsApp: https://wa.me/919935474730?text=Tempo%20Traveller%20Rates%20Vns%20Quote | Call: +91 99354 74730  
 > “Date + Pax + Local/Outstation” भेजें → Instant best price
-- 12 Seater Guide: [/hi/12-seater-tempo-traveller-varanasi]
-- 17 Seater Guide: [/hi/17-seater-tempo-traveller-varanasi]
-- Airport Transfer: [/hi/varanasi-airport-tempo-traveller]
-- Kashi Darshan 8hr Tour: [/hi/kashi-darshan-tempo-traveller]
+- [12 Seater Guide](/hi/12-seater-tempo-traveller-varanasi)
+- [17 Seater Guide](/hi/17-seater-tempo-traveller-varanasi)
+- [Airport Transfer](/hi/varanasi-airport-tempo-traveller)
+- [Kashi Darshan 8hr Tour](/hi/kashi-darshan-tempo-traveller)
 
 यात्रियों का पहला प्रश्न होता है: **“किराया कितना लगेगा?”** यह पेज उसी का पारदर्शी उत्तर है। नीचे दी गयी सूची सामान्य औसत 2026 बाजार दरें दर्शाती है (सीज़न / पीक तिथि पर थोड़ा अंतर संभव)।
 
@@ -121,7 +121,7 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 ## बुकिंग / सटीक कोट
 - कॉल: +91 99354 74730
 - WhatsApp: https://wa.me/919935474730?text=Tempo%20Traveller%20Rates%20Vns%20Quote
-- रेफर करें मुख्य परिचय पेज: [/hi/tempo-traveller-varanasi](/hi/tempo-traveller-varanasi)
+- [रेफर करें मुख्य परिचय पेज](/hi/tempo-traveller-varanasi)
 
 > लिखित कोट के बिना अग्रिम भुगतान न करें। असामान्यतः कम रेट = अक्सर अधूरी लागत।
 
@@ -133,9 +133,9 @@ canonical: "https://www.kashitaxi.in/hi/tempo-traveller-rates-varanasi"
 - Structured Data (Service / Offer Catalog) ऐड करने पर CTR सुधार संभावित
 
 ## Internal Link Cluster (SEO Navigation)
-- Master Rent Page: [/hi/tempo-traveller-varanasi]
-- Size Comparison: [/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi]
-- Safe Women Taxi: [/hi/services/varanasi-safest-taxi-for-women]
-- Transport Price Guide: [/hi/varanasi-transport-price-guide-2026]
+- [Master Rent Page](/hi/tempo-traveller-varanasi)
+- [Size Comparison](/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
+- [Safe Women Taxi](/hi/services/varanasi-safest-taxi-for-women)
+- [Transport Price Guide](/hi/varanasi-transport-price-guide-2026)
 
 

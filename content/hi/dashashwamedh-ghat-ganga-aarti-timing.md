@@ -121,10 +121,10 @@ canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-ganga-aarti-timing"
 **समय भिन्न क्यों?** सूर्यास्त परिवर्तित + भीड़ प्रबंधन बफ़र।  
 
 ## क्रॉस लिंक
-- शाम नाव राइड लॉजिस्टिक्स: [/hi/evening-boat-ride-varanasi-ganga-aarti]
-- सूर्योदय अनुभव: [/hi/sunrise-boat-ride-ganges]
-- सुबह लागत: [/hi/morning-boat-ride-varanasi-price]
-- घाट 10 गाइड: [/hi/guide-to-10-most-important-ghats-of-varanasi]
+- [शाम नाव राइड लॉजिस्टिक्स](/hi/evening-boat-ride-varanasi-ganga-aarti)
+- [सूर्योदय अनुभव](/hi/sunrise-boat-ride-ganges)
+- [सुबह लागत](/hi/morning-boat-ride-varanasi-price)
+- [घाट 10 गाइड](/hi/guide-to-10-most-important-ghats-of-varanasi)
 
 {{CTA:BOAT_AARTI:hi}}
 

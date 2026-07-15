@@ -142,10 +142,10 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-photography-guide-2026"
 > “DD Photo + Gear + Desired Shot” भेजें – क्यूरेटेड लोकेशन स्लॉट (सीमित)।
 
 ## Internal Links
-- मुख्य गाइड: [/hi/dev-deepawali-2026-varanasi-ultimate-guide]
-- व्यू स्पॉट: [/hi/dev-deepawali-best-viewing-spots-varanasi]
-- नाव कीमत: [/hi/dev-deepawali-boat-ride-pricing-guide-2026]
-- भीड़ सुरक्षा: [/hi/dev-deepawali-crowd-survival-guide-varanasi]
+- [मुख्य गाइड](/hi/dev-deepawali-2026-varanasi-ultimate-guide)
+- [व्यू स्पॉट](/hi/dev-deepawali-best-viewing-spots-varanasi)
+- [नाव कीमत](/hi/dev-deepawali-boat-ride-pricing-guide-2026)
+- [भीड़ सुरक्षा](/hi/dev-deepawali-crowd-survival-guide-varanasi)
 
 ---
 अतिरिक्त प्रो-एडिटिंग LUT / प्रीसेट चाहिये तो लिखें।

@@ -39,7 +39,7 @@ If you need a broader package, these may help:
 - Duration: 8 hours (standard) or extend up to 12 hours (full‑day) as per preference. The classic package is 8hr/80km and covers the main highlights
 - Typical Timing: Choose your start time. Many begin around 9 AM and conclude by 5 PM, or extend into the evening for Ganga Aarti. Prefer dawn? Catch Subah‑e‑Banaras at Assi Ghat—we can start at 5 AM
 - Vehicle: 12‑seater Tempo Traveller (or 17‑seater for larger groups). Clean, AC, comfortable. PA system/music available; licensed English/Hindi guide can be arranged on request
-- Pricing: ₹5,500 for the 8hr/80km package (12‑seater). Includes vehicle, driver, and fuel. Need extra hours/km or a longer day? Ask for the extended 12hr/120km full‑day option. 17‑seater pricing available on request. See complete prices: [/en/tempo-traveller-rates-varanasi](/en/tempo-traveller-rates-varanasi)
+- Pricing: ₹5,500 for the 8hr/80km package (12‑seater). Includes vehicle, driver, and fuel. Need extra hours/km or a longer day? Ask for the extended 12hr/120km full‑day option. 17‑seater pricing available on request. See [complete prices](/en/tempo-traveller-rates-varanasi).
 - Pickup/Drop: Anywhere within Varanasi city—hotel, railway station, Airbnb—tell us and we’ll be there
 
 ## Kashi Darshan Itinerary & Key Sights (Customizable)
@@ -79,7 +79,7 @@ Additional on‑day costs (as applicable):
 - Entry tickets: e.g., Sarnath Museum ₹25 (Indians), ₹300 (foreigners); Ramnagar Fort museum ₹50
 - Parking fees: nominal ₹50–₹100 at spots like Sarnath/BHU (driver handles; usually included unless unusually high)
 
-We believe in transparent pricing—no surprises. See full 2026 price list: [/en/tempo-traveller-rates-varanasi](/en/tempo-traveller-rates-varanasi)
+[We believe in transparent pricing—no surprises. See full 2026 price list](/en/tempo-traveller-rates-varanasi)
 
 ## FAQs
 

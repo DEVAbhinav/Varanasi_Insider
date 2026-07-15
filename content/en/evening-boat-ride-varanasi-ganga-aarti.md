@@ -9,7 +9,7 @@ lang: en-IN
 metaTitle: "Evening Boat Ride Varanasi 2026 — Ganga Aarti Prices ₹250–₹10,000 | Book Now"
 metaDescription: "Book an evening Ganga Aarti boat ride in Varanasi 2026. Shared from ₹250/pp, private rowboat ₹1,500+. Best boarding times, viewpoints & instant booking."
 description: "Evening boat ride Varanasi for Ganga Aarti: 2026 capacity classes, dynamic fare bands, best lens choices & booking workflow."
-keywords: "evening boat ride varanasi, ganga aarti boat ride, varanasi boat ride price, dashashwamedh ghat aarti, ganga aarti from boat, varanasi night boat ride"
+keywords: "evening boat ride varanasi, ganga aarti boat ride, varanasi boat ride price, dashashwamedh ghat aarti, ganga aarti from boat, varanasi night boat ride, varanasi boat ride with aarti price, varanasi boat ride with aarti timings, varanasi boat ride with aarti ticket price, ganga aarti boat ride in varanasi, ganga aarti boat booking varanasi, varanasi ganga aarti boat booking price"
 tags:
   - varanasi
   - boat ride
@@ -28,6 +28,12 @@ faqSchema:
     answer: "Shared wooden rowboats: ₹250–₹500 pp; private 4–6 seat rowboat: ₹1,500–₹3,000; motorboat (≤15 pax): ₹4,000–₹6,000; luxury bajra: ₹10,000+. Festival surcharges can raise base fares 2–4×."
   - question: "Which boat type is best for photography?"
     answer: "A low freeboard private rowboat gives stable, eye‑level perspective with minimal vibration. Motorboats vibrate more; bajra offers elevation but more lateral drift."
+  - question: "What is the Varanasi boat ride with Aarti ticket price?"
+    answer: "A shared seat on a Ganga Aarti boat is ₹250–₹500 per person; a private rowboat is ₹1,500–₹3,000; a motorboat is ₹4,000–₹6,000; and a luxury bajra starts at ₹10,000. Festival dates (Dev Deepawali, Kartik Purnima) raise these bands 2–4×."
+  - question: "What are the Varanasi boat ride with Aarti timings?"
+    answer: "Board 40–50 minutes before the Ganga Aarti starts: roughly 5:55–6:05 PM in winter (Oct–Mar) and 6:25–6:35 PM in summer (Apr–Jun). The Aarti itself runs 45–60 minutes at Dashashwamedh Ghat."
+  - question: "How do I book a Ganga Aarti boat in Varanasi?"
+    answer: "WhatsApp us at +91 99354 74730 with your date and headcount for a fixed seat/boat price and boarding ghat confirmed in writing, or walk up to Dashashwamedh/Assi Ghat and negotiate directly — expect to pay more at peak times and after the lamps are lit."
 ---
 
 # Evening Boat Ride Varanasi: Watch Ganga Aarti from the Water (Differentiated 2026 Planning Guide)
@@ -103,6 +109,12 @@ Private rowboat (lowest vibration) + small gimbal.
 Generally no (restricted airspace, enforcement increasing). Skip unless licensed.
 ### 8.4 Do fares change mid‑ceremony?
 Late arrivals sometimes accept inflated last‑minute shared fares—avoid boarding after lamps ignite.
+### 8.5 Varanasi boat ride with Aarti ticket price?
+Shared seat ₹250–₹500 pp, private rowboat ₹1,500–₹3,000, motorboat ₹4,000–₹6,000, luxury bajra ₹10,000+ (festival dates 2–4× higher). Prices shift with season and demand — [confirm today's fixed rate on WhatsApp](https://wa.me/919935474730?text=Ganga%20Aarti%20boat%20price%20today) before you arrive.
+### 8.6 Varanasi boat ride with Aarti timings?
+Board 40–50 minutes before the Aarti starts — winter ~5:55–6:05 PM, summer ~6:25–6:35 PM; the ceremony runs 45–60 minutes.
+### 8.7 How to book a Ganga Aarti boat?
+WhatsApp [+91 99354 74730](https://wa.me/919935474730?text=Ganga%20Aarti%20boat%20booking) with date and headcount for a fixed price and boat number, or negotiate directly at the ghat before boarding.
 
 {{CTA:BOAT_AARTI:en}}
 

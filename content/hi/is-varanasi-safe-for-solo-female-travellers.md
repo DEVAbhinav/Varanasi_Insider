@@ -112,10 +112,10 @@ canonical: "https://www.kashitaxi.in/hi/is-varanasi-safe-for-solo-female-travell
 **बोट सोलो सुबह सुरक्षित?** Oct–Mar हाँ; ऑफ-सीज़न धुंध में समूह बेहतर।  
 
 ## क्रॉस लिंक
-- आरती टाइमिंग: [/hi/dashashwamedh-ghat-ganga-aarti-timing]
-- शाम नाव राइड: [/hi/evening-boat-ride-varanasi-ganga-aarti]
-- सूर्योदय नाव: [/hi/sunrise-boat-ride-ganges]
-- 10 प्रमुख घाट: [/hi/guide-to-10-most-important-ghats-of-varanasi]
+- [आरती टाइमिंग](/hi/dashashwamedh-ghat-ganga-aarti-timing)
+- [शाम नाव राइड](/hi/evening-boat-ride-varanasi-ganga-aarti)
+- [सूर्योदय नाव](/hi/sunrise-boat-ride-ganges)
+- [10 प्रमुख घाट](/hi/guide-to-10-most-important-ghats-of-varanasi)
 
 ## CTA – व्यक्तिगत सुरक्षा परामर्श
 > WhatsApp: +91 99354 74730  

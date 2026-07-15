@@ -90,7 +90,7 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-boat-ride-pricing-guide-20
 | गंगा आरती लैंप | बर्स्ट मोड, 1/160 |
 | नाव सिल्हूट | -0.3 EV, वाइड 24mm |
 
-पूरी सेटिंग्स: [/hi/dev-deepawali-photography-guide-2026]
+[पूरी सेटिंग्स](/hi/dev-deepawali-photography-guide-2026)
 
 ## अक्सर पूछे सवाल (संक्षिप्त) (dev deepawali boat booking queries)
 **क्या ₹200 सच?** हाँ पर सफलता ~30% + देर + कम गुणवत्ता।  
@@ -106,10 +106,10 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-boat-ride-pricing-guide-20
 > “DD Boat + Pax + Date” भेजें – लाइव स्लॉट + विकल्प (स्टैण्डर्ड / प्रीमियम / निजी)।
 
 ## Internal Links
-- मुख्य गाइड: [/hi/dev-deepawali-2026-varanasi-ultimate-guide]
-- व्यू स्पॉट: [/hi/dev-deepawali-best-viewing-spots-varanasi]
-- भीड़ सर्वाइवल: [/hi/dev-deepawali-crowd-survival-guide-varanasi]
-- फ़ोटो टिप्स: [/hi/dev-deepawali-photography-guide-2026]
+- [मुख्य गाइड](/hi/dev-deepawali-2026-varanasi-ultimate-guide)
+- [व्यू स्पॉट](/hi/dev-deepawali-best-viewing-spots-varanasi)
+- [भीड़ सर्वाइवल](/hi/dev-deepawali-crowd-survival-guide-varanasi)
+- [फ़ोटो टिप्स](/hi/dev-deepawali-photography-guide-2026)
 
 ---
 और किस उपखंड का गहरा संस्करण चाहिए? लिखें।

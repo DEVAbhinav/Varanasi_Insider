@@ -9,7 +9,7 @@ canonical: "https://www.kashitaxi.in/en/boat-ride-varanasi"
 metaTitle: "Boat Ride in Varanasi 2026: Types, Prices & Booking | Hand vs Motor vs Bajra"
 metaDescription: "The complete Varanasi boat ride guide: hand rowboat, motorboat, luxury bajra & private charter compared on price, capacity & best use. Fixed fares from ₹80/seat. Book on WhatsApp."
 description: "One hub comparing every Varanasi boat ride option — shared rowboat, private rowboat, motorboat, luxury bajra and private charter — with 2026 fixed price bands, capacity, and a booking script."
-keywords: "boat ride in varanasi, varanasi boat ride, boat ride varanasi price, boat ride in varanasi price, ganga boat ride varanasi, varanasi boat booking, hand boat varanasi, motor boat varanasi, bajra boat varanasi, private boat varanasi, boat ride in banaras"
+keywords: "boat ride in varanasi, varanasi boat ride, boat ride varanasi price, boat ride in varanasi price, ganga boat ride varanasi, varanasi boat booking, hand boat varanasi, motor boat varanasi, bajra boat varanasi, private boat varanasi, boat ride in banaras, government boat ride in varanasi, varanasi boat ride price"
 tags:
   - varanasi
   - boat ride
@@ -32,6 +32,8 @@ faqSchema:
     answer: "Sunrise (5:00–6:30 AM depending on season) for calm water and morning rituals, or the evening Ganga Aarti slot (board by 5:30 PM winter / 6:00 PM summer). Avoid midday harsh sun."
   - question: "Are Varanasi boat rides safe?"
     answer: "Yes, when you use a licensed boatman with life jackets and avoid overloaded boats. Insist on a life jacket for every passenger, avoid boarding after the aarti lamps are lit (last-minute crowding), and never overload a small rowboat beyond 6 people."
+  - question: "Is there a government boat ride in Varanasi?"
+    answer: "There's no single state-run ferry service — rowboats and motorboats on the Ganga are operated by registered private boatmen and boatmen associations, regulated and rate-carded by the Varanasi Nagar Nigam / UP Tourism, with fixed ghat-side rate boards for shared seats. The closest thing to a 'government boat' is the UP Tourism/Jal Vikas Nigam cruise boat (Alaknanda-type) used for larger group and sightseeing cruises. WhatsApp us at +91 99354 74730 and we'll tell you which option (private boat or the government cruise) fits your group and budget."
 quickFacts:
   - label: "Shared Rowboat"
     value: "₹80–₹500/person"

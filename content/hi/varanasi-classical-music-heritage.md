@@ -104,9 +104,9 @@ canonical: "https://www.kashitaxi.in/hi/varanasi-classical-music-heritage"
 - एक लघु लेसन बुक करें (तबला/वोकल) – श्रोता दक्षता बढ़े।
 
 ## क्रॉस लिंक
-- वाद्य बाज़ार गाइड: [/hi/varanasi-instrument-market-guide]
-- गंगा महोत्सव: [/hi/ganga-mahotsav-2026-classical-festival-varanasi]
-- देव दीपावली गाइड: [/hi/dev-deepawali-2026-varanasi-ultimate-guide]
+- [वाद्य बाज़ार गाइड](/hi/varanasi-instrument-market-guide)
+- [गंगा महोत्सव](/hi/ganga-mahotsav-2026-classical-festival-varanasi)
+- [देव दीपावली गाइड](/hi/dev-deepawali-2026-varanasi-ultimate-guide)
 
 ## CTA – लाइव संगीत / शास्त्रीय रूट सलाह
 > WhatsApp: +91 99354 74730  

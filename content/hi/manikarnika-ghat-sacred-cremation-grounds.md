@@ -86,10 +86,10 @@ canonical: "https://www.kashitaxi.in/hi/manikarnika-ghat-sacred-cremation-ground
 **अत्यधिक भावनात्मक लगे तो?** निकालें / नाव दूरी लें – संवेदनशील आत्म-देखभाल।  
 
 ## क्रॉस लिंक
-- 10 घाट संक्षिप्त: [/hi/guide-to-10-most-important-ghats-of-varanasi]
-- सूर्योदय नाव परिप्रेक्ष्य: [/hi/sunrise-boat-ride-ganges]
-- सुबह कीमत / नेगो: [/hi/morning-boat-ride-varanasi-price]
-- भीड़ प्रबंधन (त्यौहार): [/hi/dev-deepawali-crowd-survival-guide-varanasi]
+- [10 घाट संक्षिप्त](/hi/guide-to-10-most-important-ghats-of-varanasi)
+- [सूर्योदय नाव परिप्रेक्ष्य](/hi/sunrise-boat-ride-ganges)
+- [सुबह कीमत / नेगो](/hi/morning-boat-ride-varanasi-price)
+- [भीड़ प्रबंधन (त्यौहार)](/hi/dev-deepawali-crowd-survival-guide-varanasi)
 
 ## CTA – सम्मानित भ्रमण मार्गदर्शन
 > WhatsApp: +91 99354 74730  

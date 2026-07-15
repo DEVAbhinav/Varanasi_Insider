@@ -112,9 +112,9 @@ canonical: "https://www.kashitaxi.in/hi/varanasi-instrument-market-guide"
 सुबह ख़रीद → शाम गंगा महोत्सव श्रोता immersion।
 
 ## क्रॉस लिंक
-- संगीत विरासत: [/hi/varanasi-classical-music-heritage]
-- गंगा महोत्सव: [/hi/ganga-mahotsav-2026-classical-festival-varanasi]
-- देव दीपावली: [/hi/dev-deepawali-2026-varanasi-ultimate-guide]
+- [संगीत विरासत](/hi/varanasi-classical-music-heritage)
+- [गंगा महोत्सव](/hi/ganga-mahotsav-2026-classical-festival-varanasi)
+- [देव दीपावली](/hi/dev-deepawali-2026-varanasi-ultimate-guide)
 
 ## CTA – वाद्य चयन / सत्यापन
 > WhatsApp: +91 99354 74730  

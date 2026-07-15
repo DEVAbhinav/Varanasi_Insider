@@ -102,9 +102,9 @@ canonical: "https://www.kashitaxi.in/hi/kashi-vishwanath-shivaratri-crowd-surviv
 **रात अकेले?** समूह बेहतर; यदि सोलो तो सुरक्षित हॉस्टल वापसी योजना।  
 
 ## क्रॉस लिंक
-- महिला सुरक्षा: [/hi/is-varanasi-safe-for-solo-female-travellers]
-- आरती टाइमिंग: [/hi/dashashwamedh-ghat-ganga-aarti-timing]
-- शाम नाव लॉजिस्टिक्स: [/hi/evening-boat-ride-varanasi-ganga-aarti]
+- [महिला सुरक्षा](/hi/is-varanasi-safe-for-solo-female-travellers)
+- [आरती टाइमिंग](/hi/dashashwamedh-ghat-ganga-aarti-timing)
+- [शाम नाव लॉजिस्टिक्स](/hi/evening-boat-ride-varanasi-ganga-aarti)
 
 ## CTA – कस्टम शिवरात्रि प्लान
 > WhatsApp: +91 99354 74730  

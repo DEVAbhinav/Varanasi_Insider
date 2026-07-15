@@ -25,10 +25,10 @@ canonical: "https://www.kashitaxi.in/hi/9-vs-12-vs-17-seater-tempo-traveller-var
 ## त्वरित बुकिंग CTA (Size Decision Help)
 > WhatsApp: https://wa.me/919935474730?text=9vs12vs17%20Hindi | Call: +91 99354 74730  
 > “Size Help + Date + Pax + Local/Outstation” → सुझाव + दो विकल्प रेट
-- Master Tempo Guide: [/hi/tempo-traveller-varanasi]
-- Rate Sheet: [/hi/tempo-traveller-rates-varanasi]
-- 12 Seater Details: [/hi/12-seater-tempo-traveller-varanasi]
-- 17 Seater Details: [/hi/17-seater-tempo-traveller-varanasi]
+- [Master Tempo Guide](/hi/tempo-traveller-varanasi)
+- [Rate Sheet](/hi/tempo-traveller-rates-varanasi)
+- [12 Seater Details](/hi/12-seater-tempo-traveller-varanasi)
+- [17 Seater Details](/hi/17-seater-tempo-traveller-varanasi)
 
 सबसे आम कन्फ्यूज़न: 9, 12 या 17 सीटर में से कौन सा? गलत चुनाव = "काश बड़ा लिया होता" या पैसा बर्बाद। यह प्रैक्टिकल गाइड है सैकड़ों यात्राओं के अनुभव से।
 
@@ -94,9 +94,9 @@ canonical: "https://www.kashitaxi.in/hi/9-vs-12-vs-17-seater-tempo-traveller-var
 - दो दिन + Ayodhya + Prayagraj stretch ⇒ 17 comfort ROI
 
 ## Internal Links (Cluster Navigation)
-- Airport Transfer: [/hi/varanasi-airport-tempo-traveller]
-- Kashi Darshan Tour: [/hi/kashi-darshan-tempo-traveller]
-- Safety Taxi (Women): [/hi/services/varanasi-safest-taxi-for-women]
+- [Airport Transfer](/hi/varanasi-airport-tempo-traveller)
+- [Kashi Darshan Tour](/hi/kashi-darshan-tempo-traveller)
+- [Safety Taxi (Women)](/hi/services/varanasi-safest-taxi-for-women)
 
 ---
 अगला: Best time to visit Varanasi (hindi में missing). अगर चाहें तो बतायें।

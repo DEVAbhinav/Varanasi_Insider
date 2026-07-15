@@ -61,7 +61,7 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-gui
 | होटल | 750–2,500 | ~80% | मध्यम बजट |
 | घाट मोलभाव | 200–1,500 | 30–60% | अनुभवी / हिंदी धाराप्रवाह |
 
-> विस्तृत विश्लेषण: [/hi/dev-deepawali-boat-ride-pricing-guide-2026]
+> [विस्तृत विश्लेषण](/hi/dev-deepawali-boat-ride-pricing-guide-2026)
 
 ## श्रेष्ठ व्यू स्थान (सूची)
 1. **अस्सी घाट** – नियंत्रित भीड़, कैफ़े पास।  
@@ -70,7 +70,7 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-gui
 4. **विपरीत तट (रमनगर / डोमरी)** – 6 km लाइट पैनोरमा।  
 5. **हेरिटेज रूफटॉप** – आराम + सुरक्षित परिवार।  
 
-पूरा विश्लेषण: [/hi/dev-deepawali-best-viewing-spots-varanasi]
+[पूरा विश्लेषण](/hi/dev-deepawali-best-viewing-spots-varanasi)
 
 ## ट्रांसपोर्ट रणनीति
 - 2–3 PM में होटल → पैदल/ई-रिक्शा से निकास ज़ोन के पास उतरें
@@ -85,7 +85,7 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-gui
 | पीक (6–7:30) | स्थान न बदलें, धक्का विपरीत न जाएँ |
 | निकास | 8:15–8:45 PM स्ट्रैटेजिक वॉक, साइड लेन |
 
-पूर्ण सर्वाइवल: [/hi/dev-deepawali-crowd-survival-guide-varanasi]
+[पूर्ण सर्वाइवल](/hi/dev-deepawali-crowd-survival-guide-varanasi)
 
 ## फ़ोटोग्राफ़ी त्वरित सेटिंग्स
 | चरण | ISO | अपर्चर | शटर |
@@ -94,7 +94,7 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-gui
 | दीप प्रज्वलन | 800–1600 | f/2.8–4 | 1/60–1/125 |
 | ब्लू आवर | 1600–3200 | f/2.8 | 1/30–2s (ट्राइपॉड) |
 
-विस्तार: [/hi/dev-deepawali-photography-guide-2026]
+[विस्तार](/hi/dev-deepawali-photography-guide-2026)
 
 ## आवास बुकिंग टाइमलाइन
 | अग्रिम | क्या लॉक करें |
@@ -124,10 +124,10 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-gui
 **भीड़ से निकलना?** साइड घाट मार्ग + 30–40m विलंबित प्रस्थान।
 
 ## Internal Links (Cluster)
-- नाव मूल्य गाइड: [/hi/dev-deepawali-boat-ride-pricing-guide-2026]
-- व्यूइंग स्पॉट्स: [/hi/dev-deepawali-best-viewing-spots-varanasi]
-- सुरक्षा सर्वाइवल: [/hi/dev-deepawali-crowd-survival-guide-varanasi]
-- फ़ोटो गाइड: [/hi/dev-deepawali-photography-guide-2026]
+- [नाव मूल्य गाइड](/hi/dev-deepawali-boat-ride-pricing-guide-2026)
+- [व्यूइंग स्पॉट्स](/hi/dev-deepawali-best-viewing-spots-varanasi)
+- [सुरक्षा सर्वाइवल](/hi/dev-deepawali-crowd-survival-guide-varanasi)
+- [फ़ोटो गाइड](/hi/dev-deepawali-photography-guide-2026)
 - गंगा महोत्सव: (लिंक उपलब्ध होने पर)
 
 ---

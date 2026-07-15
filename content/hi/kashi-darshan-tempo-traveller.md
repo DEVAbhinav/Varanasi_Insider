@@ -23,9 +23,9 @@ canonical: "https://www.kashitaxi.in/hi/kashi-darshan-tempo-traveller"
 ## त्वरित बुकिंग CTA
 > WhatsApp: https://wa.me/919935474730?text=Kashi%20Darshan%20Tempo%20Hindi | Call: +91 99354 74730  
 > “Kashi Darshan + Date + Pax + 12/17” लिखें → itinerary + रेट reply
-- 12 Seater: [/hi/12-seater-tempo-traveller-varanasi]
-- 17 Seater: [/hi/17-seater-tempo-traveller-varanasi]
-- Comparison: [/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi]
+- [12 Seater](/hi/12-seater-tempo-traveller-varanasi)
+- [17 Seater](/hi/17-seater-tempo-traveller-varanasi)
+- [Comparison](/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
 
 > 8 घंटे / 80 किमी बेस | ₹5,500 (12 सीटर) | AC | लोकल ड्राइवर | कस्टम रूट
 
@@ -36,7 +36,7 @@ canonical: "https://www.kashitaxi.in/hi/kashi-darshan-tempo-traveller"
 - वाहन: 12 सीटर (मध्यम समूह) / 17 सीटर (बड़े समूह) – साफ, AC
 - रेट: ₹5,500 (8hr/80km, 12 सीटर) – अतिरिक्त घंटे / किमी पूर्व सहमति पर
 - Pickup: होटल / स्टेशन / Airbnb जहाँ बतायें
-- पूरा रेट देखें: [/hi/tempo-traveller-rates-varanasi](/hi/tempo-traveller-rates-varanasi)
+- [पूरा रेट देखें](/hi/tempo-traveller-rates-varanasi)
 
 ## वाहन फ़ोटो
 ![Tempo Front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "काशी दर्शन वाहन")
@@ -110,10 +110,10 @@ canonical: "https://www.kashitaxi.in/hi/kashi-darshan-tempo-traveller"
 - दो लगातार डे टूर होने पर ड्राइवर रोटेशन हो सकता (पूर्व सूचना)
 
 ## स्थानीय SEO Internal Links
-- मास्टर Tempo Guide: [/hi/tempo-traveller-varanasi]
-- Rate Sheet: [/hi/tempo-traveller-rates-varanasi]
-- Airport Transfer: [/hi/varanasi-airport-tempo-traveller]
-- Women Safety Taxi: [/hi/services/varanasi-safest-taxi-for-women]
+- [मास्टर Tempo Guide](/hi/tempo-traveller-varanasi)
+- [Rate Sheet](/hi/tempo-traveller-rates-varanasi)
+- [Airport Transfer](/hi/varanasi-airport-tempo-traveller)
+- [Women Safety Taxi](/hi/services/varanasi-safest-taxi-for-women)
 
 ---
 अगला पेज सुझाना हो तो लिखें।

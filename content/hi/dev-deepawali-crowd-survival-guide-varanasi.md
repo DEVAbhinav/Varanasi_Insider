@@ -123,10 +123,10 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-crowd-survival-guide-varan
 > “DD Safety + Pax + Child/Elder” → कस्टम लोकेशन + निकास मार्ग PDF।
 
 ## Internal Links
-- मुख्य गाइड: [/hi/dev-deepawali-2026-varanasi-ultimate-guide]
-- व्यू स्पॉट: [/hi/dev-deepawali-best-viewing-spots-varanasi]
-- नाव कीमत: [/hi/dev-deepawali-boat-ride-pricing-guide-2026]
-- फोटो गाइड: [/hi/dev-deepawali-photography-guide-2026]
+- [मुख्य गाइड](/hi/dev-deepawali-2026-varanasi-ultimate-guide)
+- [व्यू स्पॉट](/hi/dev-deepawali-best-viewing-spots-varanasi)
+- [नाव कीमत](/hi/dev-deepawali-boat-ride-pricing-guide-2026)
+- [फोटो गाइड](/hi/dev-deepawali-photography-guide-2026)
 
 ---
 अतिरिक्त विस्तृत (मिनट-बाई-मिनट) प्लान चाहिए तो लिखें।

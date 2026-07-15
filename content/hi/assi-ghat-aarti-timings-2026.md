@@ -182,8 +182,8 @@ Subahebanaras की साइट / शाम 8 बजे के लोकल �
 - यात्रा मौसम रणनीति: [वाराणसी घूमने का सर्वश्रेष्ठ समय](/hi/best-time-to-visit-varanasi)
 - स्थानीय ट्रांसपोर्ट लागत: [परिवहन मूल्य गाइड 2026](/hi/varanasi-transport-price-guide-2026)
 - दशाश्वमेध गंगा आरती (शाम भव्य अनुभव): /hi/dashashwamedh-ghat-ganga-aarti-timing (यदि उपलब्ध)
-- पहली बार बनारस में क्या देखें: [/hi/tourist-spots-varanasi]
-- सारनाथ का शांत आधा-दिन प्लान: [/hi/sarnath-complete-guide]
+- [पहली बार बनारस में क्या देखें](/hi/tourist-spots-varanasi)
+- [सारनाथ का शांत आधा-दिन प्लान](/hi/sarnath-complete-guide)
 
 📲 अभी संदेश भेजें: “Assi Aarti + Boat” → WhatsApp +91 94503 01573 (तेज़ जवाब / सीट पुष्टि)
 

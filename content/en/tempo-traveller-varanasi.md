@@ -68,7 +68,7 @@ Planning group travel in Varanasi? Our Tempo Traveller services offer the perfec
 
 Enjoy 24/7 availability, transparent pricing, and on‑time service for every journey.
 
-See the full 2026 price list: [/en/tempo-traveller-rates-varanasi](/en/tempo-traveller-rates-varanasi).
+See the [full 2026 price list](/en/tempo-traveller-rates-varanasi).
 
 ## Vehicle Photos
 
@@ -128,17 +128,17 @@ Hit the “Get a Free Quote” button or WhatsApp/Call us. We’ll respond withi
 
 ## Tempo Traveller Services at a Glance
 
-- Local Sightseeing (Kashi Darshan): 8-hour city tour covering Kashi Vishwanath, key ghats, and Sarnath. See details: [/en/kashi-darshan-tempo-traveller](/en/kashi-darshan-tempo-traveller)
+- Local Sightseeing (Kashi Darshan): 8-hour city tour covering Kashi Vishwanath, key ghats, and Sarnath. See [details](/en/kashi-darshan-tempo-traveller).
 - Outstation Day Trips: Popular spiritual circuits with curated routes and timings:
-  - Ayodhya day trip: [/en/varanasi-to-ayodhya-tempo-traveller](/en/varanasi-to-ayodhya-tempo-traveller)
-  - Prayagraj day trip: [/en/varanasi-to-prayagraj-tempo-traveller](/en/varanasi-to-prayagraj-tempo-traveller)
-  - Bodh Gaya day trip: [/en/varanasi-to-bodhgaya-tempo-traveller](/en/varanasi-to-bodhgaya-tempo-traveller)
-- Airport & Station Transfers: Hassle-free group transfers for VNS Airport, Varanasi Junction, and DDU. We monitor flights and assist with luggage. Learn more: [/en/varanasi-airport-tempo-traveller](/en/varanasi-airport-tempo-traveller)
-- Weddings & Events: Guest shuttles and venue runs; decorated coaches available on request. Details: [/en/tempo-traveller-wedding-varanasi](/en/tempo-traveller-wedding-varanasi)
+  - [Ayodhya day trip](/en/varanasi-to-ayodhya-tempo-traveller)
+  - [Prayagraj day trip](/en/varanasi-to-prayagraj-tempo-traveller)
+  - [Bodh Gaya day trip](/en/varanasi-to-bodhgaya-tempo-traveller)
+- Airport & Station Transfers: Hassle-free group transfers for VNS Airport, Varanasi Junction, and DDU. We monitor flights and assist with luggage. [Learn more](/en/varanasi-airport-tempo-traveller).
+- Weddings & Events: Guest shuttles and venue runs; decorated coaches available on request. [Details](/en/tempo-traveller-wedding-varanasi).
 - Vehicle-Specific Rentals: Choose exactly what you need:
-  - 12-Seater: [/en/12-seater-tempo-traveller-varanasi](/en/12-seater-tempo-traveller-varanasi)
-  - 17-Seater: [/en/17-seater-tempo-traveller-varanasi](/en/17-seater-tempo-traveller-varanasi)
-  - Luxury & Maharaja (incl. Urbania): [/en/luxury-maharaja-tempo-traveller-varanasi](/en/luxury-maharaja-tempo-traveller-varanasi)
+  - [12-Seater](/en/12-seater-tempo-traveller-varanasi)
+  - [17-Seater](/en/17-seater-tempo-traveller-varanasi)
+  - [Luxury & Maharaja (incl. Urbania)](/en/luxury-maharaja-tempo-traveller-varanasi)
 
 ## Why Choose Varanasi Taxi for Tempo Travellers in Varanasi
 

@@ -87,10 +87,10 @@ canonical: "https://www.kashitaxi.in/hi/evening-boat-ride-varanasi-ganga-aarti"
 **दीप शुरू बाद लेट बोर्ड?** उच्च कोट / अवरोधित दृश्य – टालें।  
 
 ## 9. क्रॉस लिंक
-- आरती टाइमिंग / भीड़: [/hi/dashashwamedh-ghat-ganga-aarti-timing]
-- सूर्योदय अनुभव: [/hi/sunrise-boat-ride-ganges]
-- सुबह कीमत: [/hi/morning-boat-ride-varanasi-price]
-- देव दीपावली प्रीमियम: [/hi/dev-deepawali-boat-ride-pricing-guide-2026]
+- [आरती टाइमिंग / भीड़](/hi/dashashwamedh-ghat-ganga-aarti-timing)
+- [सूर्योदय अनुभव](/hi/sunrise-boat-ride-ganges)
+- [सुबह कीमत](/hi/morning-boat-ride-varanasi-price)
+- [देव दीपावली प्रीमियम](/hi/dev-deepawali-boat-ride-pricing-guide-2026)
 
 {{CTA:BOAT_AARTI:hi}}
 

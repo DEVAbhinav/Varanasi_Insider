@@ -76,10 +76,10 @@ canonical: "https://www.kashitaxi.in/hi/scindia-ghat-submerged-temple"
 **सुरक्षा?** काई पर फिसलन; किनारा सतर्क।  
 
 ## क्रॉस लिंक
-- 10 प्रमुख घाट अवलोकन: [/hi/guide-to-10-most-important-ghats-of-varanasi]
-- मणिकर्णिका सम्मान गाइड: [/hi/manikarnika-ghat-sacred-cremation-grounds]
-- सूर्योदय नाव अनुभव: [/hi/sunrise-boat-ride-ganges]
-- आरती टाइमिंग / भीड़: [/hi/dashashwamedh-ghat-ganga-aarti-timing]
+- [10 प्रमुख घाट अवलोकन](/hi/guide-to-10-most-important-ghats-of-varanasi)
+- [मणिकर्णिका सम्मान गाइड](/hi/manikarnika-ghat-sacred-cremation-grounds)
+- [सूर्योदय नाव अनुभव](/hi/sunrise-boat-ride-ganges)
+- [आरती टाइमिंग / भीड़](/hi/dashashwamedh-ghat-ganga-aarti-timing)
 
 ## CTA – फ़ोटो कोण / रूट सलाह
 > WhatsApp: +91 99354 74730  

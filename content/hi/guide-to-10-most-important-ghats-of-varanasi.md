@@ -79,10 +79,10 @@ Subah-e-Banaras योग + मंत्र + संगीत = सुबह ज
 - **सुरक्षा:** पर्स ज़िप; रात देर अकेले संकरी गलियाँ टालें।
 
 ## क्रॉस लिंक
-- सूर्योदय नाव: [/hi/sunrise-boat-ride-ganges]
-- सुबह कीमत / नेगो: [/hi/morning-boat-ride-varanasi-price]
-- मणिकर्णिका गाइड: [/hi/manikarnika-ghat-sacred-cremation-grounds]
-- देव दीपावली मुख्य गाइड: [/hi/dev-deepawali-2026-varanasi-ultimate-guide]
+- [सूर्योदय नाव](/hi/sunrise-boat-ride-ganges)
+- [सुबह कीमत / नेगो](/hi/morning-boat-ride-varanasi-price)
+- [मणिकर्णिका गाइड](/hi/manikarnika-ghat-sacred-cremation-grounds)
+- [देव दीपावली मुख्य गाइड](/hi/dev-deepawali-2026-varanasi-ultimate-guide)
 
 ## FAQ
 **कौन सा मुख्य घाट?** दशाश्वमेध – केंद्रीय आरती व तीर्थ प्रवाह।  

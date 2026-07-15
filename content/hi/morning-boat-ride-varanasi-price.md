@@ -93,9 +93,9 @@ canonical: "https://www.kashitaxi.in/hi/morning-boat-ride-varanasi-price"
 **डिपॉज़िट वैध कब?** उच्च मांग दिन / बड़े समूह; रसीद लें.  
 
 ## 10. क्रॉस लिंक
-- अनुभव / प्रकाश / फोटो: [/hi/sunrise-boat-ride-ganges]
-- 10 प्रमुख घाट संग्रह: [/hi/guide-to-10-most-important-ghats-of-varanasi]
-- देव दीपावली विशेष प्रीमियम: [/hi/dev-deepawali-boat-ride-pricing-guide-2026]
+- [अनुभव / प्रकाश / फोटो](/hi/sunrise-boat-ride-ganges)
+- [10 प्रमुख घाट संग्रह](/hi/guide-to-10-most-important-ghats-of-varanasi)
+- [देव दीपावली विशेष प्रीमियम](/hi/dev-deepawali-boat-ride-pricing-guide-2026)
 
 ## CTA – मूल्य सत्यापन / नेगो सहायता
 > WhatsApp: +91 99354 74730  

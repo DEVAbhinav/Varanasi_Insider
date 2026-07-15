@@ -32,9 +32,9 @@ auditNote: "Manually created Hindi localized version."
 ## त्वरित बुकिंग CTA (Tempo / Airport / Yatra)
 > Call: +91 99354 74730 | WhatsApp Direct Quote: https://wa.me/919935474730?text=Tempo%20Traveller%20Varanasi%20Quote  
 > “Tempo Date + Pax + Local/Outstation” लिखकर भेजें – 2 मिनट में रेट
-- रेट शीट: [/hi/tempo-traveller-rates-varanasi](/hi/tempo-traveller-rates-varanasi)
-- महिला सुरक्षा हेतु: [/hi/services/varanasi-safest-taxi-for-women](/hi/services/varanasi-safest-taxi-for-women)
-- एयरपोर्ट ग्रुप पिकअप: [/hi/varanasi-airport-tempo-traveller](/hi/varanasi-airport-tempo-traveller)
+- [रेट शीट](/hi/tempo-traveller-rates-varanasi)
+- [महिला सुरक्षा हेतु](/hi/services/varanasi-safest-taxi-for-women)
+- [एयरपोर्ट ग्रुप पिकअप](/hi/varanasi-airport-tempo-traveller)
 
 यदि आपका परिवार, श्रद्धालु समूह, विवाह अतिथि या तीर्थयात्रा दल वाराणसी आ रहा है तो एक साफ, AC, सुरक्षित **Tempo Traveller** सबसे किफायती और व्यवस्थित विकल्प है। अलग–अलग 3–4 कार बुक करने के बजाय एक वाहन में सभी साथ – कम समन्वय, साझा अनुभव और प्रति व्यक्ति कम लागत।
 
@@ -136,13 +136,13 @@ auditNote: "Manually created Hindi localized version."
 
 ---
 ## SEO Internal Links (Cluster Navigation)
-- मुख्य रेट लिस्ट: [/hi/tempo-traveller-rates-varanasi](/hi/tempo-traveller-rates-varanasi)
-- 12 Seater विवरण: [/hi/12-seater-tempo-traveller-varanasi](/hi/12-seater-tempo-traveller-varanasi)
-- 17 Seater विवरण: [/hi/17-seater-tempo-traveller-varanasi](/hi/17-seater-tempo-traveller-varanasi)
-- साइज़ तुलना गाइड: [/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi](/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
-- काशी दर्शन पैकेज: [/hi/kashi-darshan-tempo-traveller](/hi/kashi-darshan-tempo-traveller)
-- एयरपोर्ट ट्रांसफर: [/hi/varanasi-airport-tempo-traveller](/hi/varanasi-airport-tempo-traveller)
-- अयोध्या 12 सीटर: [/hi/varanasi-to-ayodhya-12-seater-tempo-traveller](/hi/varanasi-to-ayodhya-12-seater-tempo-traveller)
-- सुरक्षा / महिला टैक्सी: [/hi/services/varanasi-safest-taxi-for-women](/hi/services/varanasi-safest-taxi-for-women)
+- [मुख्य रेट लिस्ट](/hi/tempo-traveller-rates-varanasi)
+- [12 Seater विवरण](/hi/12-seater-tempo-traveller-varanasi)
+- [17 Seater विवरण](/hi/17-seater-tempo-traveller-varanasi)
+- [साइज़ तुलना गाइड](/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
+- [काशी दर्शन पैकेज](/hi/kashi-darshan-tempo-traveller)
+- [एयरपोर्ट ट्रांसफर](/hi/varanasi-airport-tempo-traveller)
+- [अयोध्या 12 सीटर](/hi/varanasi-to-ayodhya-12-seater-tempo-traveller)
+- [सुरक्षा / महिला टैक्सी](/hi/services/varanasi-safest-taxi-for-women)
 
 ---

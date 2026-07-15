@@ -98,10 +98,10 @@ canonical: "https://www.kashitaxi.in/hi/dev-deepawali-best-viewing-spots-varanas
 > “DDP Spot + Pax + Family / Photo” भेजें – अनुकूल लोकेशन + नाव / रूफटॉप सुझाव।
 
 ## Internal Links
-- मुख्य गाइड: [/hi/dev-deepawali-2026-varanasi-ultimate-guide]
-- नाव मूल्य: [/hi/dev-deepawali-boat-ride-pricing-guide-2026]
-- भीड़ सुरक्षा: [/hi/dev-deepawali-crowd-survival-guide-varanasi]
-- फोटो गाइड: [/hi/dev-deepawali-photography-guide-2026]
+- [मुख्य गाइड](/hi/dev-deepawali-2026-varanasi-ultimate-guide)
+- [नाव मूल्य](/hi/dev-deepawali-boat-ride-pricing-guide-2026)
+- [भीड़ सुरक्षा](/hi/dev-deepawali-crowd-survival-guide-varanasi)
+- [फोटो गाइड](/hi/dev-deepawali-photography-guide-2026)
 
 ## FAQ (viewer intent)
 **Best place watch Dev Deepawali (भीड़ कम)?** चेत सिंह ऊपरी लेयर या विपरीत तट sand stretch।  

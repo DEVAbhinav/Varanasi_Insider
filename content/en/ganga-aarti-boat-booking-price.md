@@ -34,4 +34,6 @@ seoNote: "Consolidated into evening boat ride guide to reduce duplication; keep 
 - **Varanasi ganga aarti booking** and **ganga aarti booking varanasi**: WhatsApp [+91 99354 74730](https://wa.me/919935474730?text=Ganga%20Aarti%20boat%20booking) for live seat hold; **varanasi ganga aarti boat booking price** starts at ₹250 shared.
 - **Ganga aarti varanasi booking** confirmation: dispatch shares boat number + boarding ghat within 5 minutes.
 - **Varanasi ganga aarti booking price** for VIP front-row: ₹600–800 pp; **ganga aarti vip ticket price varanasi** for private rowboat ₹1,500–3,000.
+- **Varanasi Ganga Aarti boat Booking price** and **Ganga Aarti boat booking Varanasi**: same fixed fare bands above — no extra "booking fee," just the seat/boat price [confirmed on WhatsApp](https://wa.me/919935474730?text=Ganga%20Aarti%20boat%20booking%20price).
+- **Ganga Aarti boat ride in Varanasi**: full boarding times, seating classes and photography tips are on the [evening boat ride hub](/en/evening-boat-ride-varanasi-ganga-aarti).
 

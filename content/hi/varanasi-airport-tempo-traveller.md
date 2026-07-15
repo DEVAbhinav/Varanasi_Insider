@@ -35,10 +35,10 @@ canonical: "https://www.kashitaxi.in/hi/varanasi-airport-tempo-traveller"
 ## त्वरित बुकिंग CTA (Airport Group)
 > WhatsApp: https://wa.me/919935474730?text=Airport%20Tempo%20Traveller%20VNS | Call: +91 99354 74730  
 > “Airport + Date + Pax + Hotel Area” भेजें → तुरंत पुष्टि
-- 12 Seater Guide: [/hi/12-seater-tempo-traveller-varanasi]
-- 17 Seater Guide: [/hi/17-seater-tempo-traveller-varanasi]
-- Rate Sheet: [/hi/tempo-traveller-rates-varanasi]
-- Local Sightseeing: [/hi/kashi-darshan-tempo-traveller]
+- [12 Seater Guide](/hi/12-seater-tempo-traveller-varanasi)
+- [17 Seater Guide](/hi/17-seater-tempo-traveller-varanasi)
+- [Rate Sheet](/hi/tempo-traveller-rates-varanasi)
+- [Local Sightseeing](/hi/kashi-darshan-tempo-traveller)
 
 ग्रुप / परिवार आ रहा है? 2–3 अलग टैक्सी लेने की जगह एक **Tempo Traveller** – सब साथ, कम झंझट, समान लागत।
 
@@ -95,12 +95,12 @@ canonical: "https://www.kashitaxi.in/hi/varanasi-airport-tempo-traveller"
 - यदि आउटस्टेशन भी चाहिए: पहले आगमन लॉक करें → बाद में रिटर्न / डे ट्रिप प्लान
 - शादी / इवेंट बैच पिकअप: साझा Google Sheet टेम्पलेट उपलब्ध
 
-> विस्तृत मल्टी डे / पैकेज रेट: [/hi/tempo-traveller-rates-varanasi](/hi/tempo-traveller-rates-varanasi)
+> [विस्तृत मल्टी डे / पैकेज रेट](/hi/tempo-traveller-rates-varanasi)
 
 ## Internal SEO Links
-- Master Tempo Page: [/hi/tempo-traveller-varanasi]
-- Women Safety Cab: [/hi/services/varanasi-safest-taxi-for-women]
-- Transport Price Guide: [/hi/varanasi-transport-price-guide-2026]
+- [Master Tempo Page](/hi/tempo-traveller-varanasi)
+- [Women Safety Cab](/hi/services/varanasi-safest-taxi-for-women)
+- [Transport Price Guide](/hi/varanasi-transport-price-guide-2026)
 
 ---
 साधारण भाषा रखी गयी – यदि विस्तार (अंग्रेज़ी जैसा लम्बा) चाहिए तो बतायें। अगला कौन सा पेज?

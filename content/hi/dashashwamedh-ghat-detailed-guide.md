@@ -92,10 +92,10 @@ canonical: "https://www.kashitaxi.in/hi/dashashwamedh-ghat-detailed-guide"
 **पोस्ट-आरती तुरंत नाव?** भीड़ जाम; 10–12m प्रतीक्षा फिर बोर्डिंग स्मूथ।  
 
 ## क्रॉस लिंक
-- आरती टाइमिंग / भीड़ कर्व: [/hi/dashashwamedh-ghat-ganga-aarti-timing]
-- शाम नाव लॉजिस्टिक्स: [/hi/evening-boat-ride-varanasi-ganga-aarti]
-- 10 प्रमुख घाट अवलोकन: [/hi/guide-to-10-most-important-ghats-of-varanasi]
-- सूर्योदय नाव अनुभव: [/hi/sunrise-boat-ride-ganges]
+- [आरती टाइमिंग / भीड़ कर्व](/hi/dashashwamedh-ghat-ganga-aarti-timing)
+- [शाम नाव लॉजिस्टिक्स](/hi/evening-boat-ride-varanasi-ganga-aarti)
+- [10 प्रमुख घाट अवलोकन](/hi/guide-to-10-most-important-ghats-of-varanasi)
+- [सूर्योदय नाव अनुभव](/hi/sunrise-boat-ride-ganges)
 
 ## CTA – पोज़िशन / रूट मैप सहायता
 > WhatsApp: +91 99354 74730  

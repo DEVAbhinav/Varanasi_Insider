@@ -24,9 +24,9 @@ canonical: "https://www.kashitaxi.in/hi/12-seater-tempo-traveller-varanasi"
 ## त्वरित बुकिंग CTA
 > WhatsApp: https://wa.me/919935474730?text=12-seater%20Hindi | Call: +91 99354 74730  
 > संदेश लिखें: “12 Seater + Date + Local/Outstation” → 2 मिनट में quote
-- Rates Master: [/hi/tempo-traveller-rates-varanasi]
-- Airport Transfer: [/hi/varanasi-airport-tempo-traveller]
-- Kashi Darshan Tour: [/hi/kashi-darshan-tempo-traveller]
+- [Rates Master](/hi/tempo-traveller-rates-varanasi)
+- [Airport Transfer](/hi/varanasi-airport-tempo-traveller)
+- [Kashi Darshan Tour](/hi/kashi-darshan-tempo-traveller)
 
 8–12 यात्रियों का समूह? यह आकार 9 सीटर से अधिक आराम और 17 सीटर से अधिक किफ़ायती संतुलन देता है।
 
@@ -70,7 +70,7 @@ canonical: "https://www.kashitaxi.in/hi/12-seater-tempo-traveller-varanasi"
 - **अयोध्या (Same Day)** – 5AM स्टार्ट; जन्मभूमि + हनुमान गढ़ी
 - **बोधगया (Day / Night)** – ओवरनाइट अधिक आरामदायक
 
-अलग पेज: [/hi/varanasi-airport-tempo-traveller](/hi/varanasi-airport-tempo-traveller) | [/hi/kashi-darshan-tempo-traveller](/hi/kashi-darshan-tempo-traveller)
+अलग पेज: [Airport Transfer](/hi/varanasi-airport-tempo-traveller) | [Kashi Darshan Tour](/hi/kashi-darshan-tempo-traveller)
 
 ## बुकिंग प्रक्रिया
 1. तिथि + Pax + उपयोग (लोकल / आउटस्टेशन) साझा
@@ -87,9 +87,9 @@ canonical: "https://www.kashitaxi.in/hi/12-seater-tempo-traveller-varanasi"
 **क्या बुक आख़िरी समय?** पीक (Dev Deepawali / सावन) पर नहीं – पहले से करें।
 
 ## Internal Links (SEO Cluster)
-- 17 Seater Option: [/hi/17-seater-tempo-traveller-varanasi]
-- Size Comparison: [/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi]
-- Master Tempo Guide: [/hi/tempo-traveller-varanasi]
-- Safety (Women): [/hi/services/varanasi-safest-taxi-for-women]
+- [17 Seater Option](/hi/17-seater-tempo-traveller-varanasi)
+- [Size Comparison](/hi/9-vs-12-vs-17-seater-tempo-traveller-varanasi)
+- [Master Tempo Guide](/hi/tempo-traveller-varanasi)
+- [Safety (Women)](/hi/services/varanasi-safest-taxi-for-women)
 
 ---

@@ -141,10 +141,10 @@ canonical: "https://www.kashitaxi.in/hi/ganga-mahotsav-2026-classical-festival-v
 > WhatsApp: +91 99354 74730 | “GM Pass + Days + VIP/General” लिखें – टिकट सहायता / ट्रांसफर / Dev Deepawali कॉम्बो।
 
 ## Internal Links (Cluster)
-- Dev Deepawali अल्टीमेट: [/hi/dev-deepawali-2026-varanasi-ultimate-guide]
-- भीड़ सुरक्षा: [/hi/dev-deepawali-crowd-survival-guide-varanasi]
-- फ़ोटो (दीपावली): [/hi/dev-deepawali-photography-guide-2026]
-- नाव राइड: [/hi/dev-deepawali-boat-ride-pricing-guide-2026]
+- [Dev Deepawali अल्टीमेट](/hi/dev-deepawali-2026-varanasi-ultimate-guide)
+- [भीड़ सुरक्षा](/hi/dev-deepawali-crowd-survival-guide-varanasi)
+- [फ़ोटो (दीपावली)](/hi/dev-deepawali-photography-guide-2026)
+- [नाव राइड](/hi/dev-deepawali-boat-ride-pricing-guide-2026)
 
 ---
 अधिक विस्तृत कलाकार लाइनअप अपडेट चाहिए तो बतायें – पोस्ट करते समय just-in-time जोड़ेंगे।
