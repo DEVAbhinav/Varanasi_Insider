@@ -124,24 +124,42 @@ export default function EnquiryForm({ product, offer, estimate, addons = [], met
         />
       </div>
 
-      <div className="mt-4 flex flex-col gap-2 sm:flex-row">
-        <Button type="submit" size="lg" variant="brand" className="flex-1" disabled={loading}>
+      <div className="mt-4 space-y-2">
+        <Button type="submit" size="lg" variant="brand" className="h-12 w-full text-base font-semibold" disabled={loading}>
           {loading ? 'Sending…' : `${product?.ctaVerb || 'Enquire'} now`}
         </Button>
-        <Button
-          type="button"
-          variant="outline"
-          size="lg"
-          className="border-cyan-500 text-cyan-700 hover:bg-cyan-50 hover:text-cyan-800"
-          asChild
-        >
-          <a
-            href={getCallTelHref()}
-            onClick={() => trackCommerce(COMMERCE_EVENTS.CLICK_CALL, { product_slug: meta.slug })}
+        <div className="grid grid-cols-2 gap-2">
+          <Button
+            type="button"
+            variant="outline"
+            size="lg"
+            className="w-full border-emerald-500 text-emerald-700 hover:bg-emerald-50 hover:text-emerald-800"
+            asChild
           >
-            Call {CONTACT.callNumberDisplay.replace('+91 ', '')}
-          </a>
-        </Button>
+            <a
+              href={getWhatsAppUrl(waText)}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => trackCommerce(COMMERCE_EVENTS.CLICK_WHATSAPP, { product_slug: meta.slug })}
+            >
+              WhatsApp
+            </a>
+          </Button>
+          <Button
+            type="button"
+            variant="outline"
+            size="lg"
+            className="w-full border-cyan-500 text-cyan-700 hover:bg-cyan-50 hover:text-cyan-800"
+            asChild
+          >
+            <a
+              href={getCallTelHref()}
+              onClick={() => trackCommerce(COMMERCE_EVENTS.CLICK_CALL, { product_slug: meta.slug })}
+            >
+              Call {CONTACT.callNumberDisplay.replace('+91 ', '')}
+            </a>
+          </Button>
+        </div>
       </div>
     </form>
   );

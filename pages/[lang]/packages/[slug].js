@@ -51,7 +51,8 @@ export default function PackagePage({ pkgData, commerce = null, contentHtml, jso
 
       <NavBar />
 
-      {/* Sticky mobile CTA bar */}
+      {/* Sticky mobile CTA bar (hidden on commerce pages — buy-box + floating icons cover it) */}
+      {!commerce && (
       <div className="fixed inset-x-0 bottom-0 z-40 border-t bg-background/85 backdrop-blur md:hidden">
         <div className="mx-auto max-w-6xl px-4 py-3 flex gap-2">
           <Button asChild className="flex-1">
@@ -62,8 +63,10 @@ export default function PackagePage({ pkgData, commerce = null, contentHtml, jso
           </Button>
         </div>
       </div>
+      )}
 
-      {/* Floating desktop CTA dock */}
+      {/* Floating desktop CTA dock (hidden on commerce pages) */}
+      {!commerce && (
       <div className="hidden md:block fixed right-6 bottom-6 z-40">
         <div className="flex flex-col gap-2">
           <Button size="lg" asChild>
@@ -74,8 +77,9 @@ export default function PackagePage({ pkgData, commerce = null, contentHtml, jso
           </Button>
         </div>
       </div>
+      )}
 
-      <main className="min-h-screen pb-24 md:pb-0">
+      <main className={`min-h-screen ${commerce ? "" : "pb-24"} md:pb-0`}>
         {/* Hero */}
         <section className="relative">
           {heroImage && (
