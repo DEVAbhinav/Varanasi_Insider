@@ -9,6 +9,7 @@ import { Button } from '@/components/ui/button';
 import { CONTACT, getCallTelHref, getWhatsAppUrl } from '@/lib/contact';
 import { buildOrderPayload, buildOrderAnalytics } from '@/lib/orderPayload';
 import { trackCommerce, COMMERCE_EVENTS } from '@/lib/analyticsEvents';
+import { formatINR } from '@/lib/pricing';
 
 export default function EnquiryForm({ product, offer, estimate, addons = [], meta = {} }) {
   const initialFormData = { name: '', phone: '', email: '', date: '', pickup: '', notes: '' };
@@ -36,9 +37,21 @@ export default function EnquiryForm({ product, offer, estimate, addons = [], met
     return handleSubmit(e);
   };
 
-  const waText = `Hi, I'm interested in ${product?.productName || 'a package'}${
-    offer?.name ? ` (${offer.name})` : ''
-  }${addons.length ? ` + ${addons.map((a) => a.label).join(', ')}` : ''}.`;
+  // Prefill the WhatsApp message with the same details we send in the email lead,
+  // so the customer's first message already names product, plan, dates and price.
+  const waText = (() => {
+    const lines = [
+      `Hi, I'm interested in ${product?.productName || 'a package'}${offer?.name ? ` — ${offer.name}` : ''}.`,
+      formData.name ? `Name: ${formData.name}` : null,
+      estimate?.quantity ? `${product?.selector === 'days' ? 'Days' : 'Travellers'}: ${estimate.quantity}` : null,
+      formData.date ? `Date: ${formData.date}` : null,
+      formData.pickup ? `Pickup: ${formData.pickup}` : null,
+      addons.length ? `Add-ons: ${addons.map((a) => a.label).join(', ')}` : null,
+      estimate?.total ? `Estimated: ${formatINR(estimate.total)}${estimate.priceType === 'from' ? ' (from)' : ''}` : null,
+      formData.notes ? `Notes: ${formData.notes}` : null,
+    ].filter(Boolean);
+    return lines.join('\n');
+  })();
 
   if (success) {
     return (

@@ -119,7 +119,7 @@ export default function PackagePage({ pkgData, commerce = null, contentHtml, jso
                   <a aria-label="Call now" href={getCallTelHref(phone)}>Call {phone}</a>
                 </Button>
                 <Button variant="outline" asChild size="lg">
-                  <a aria-label="View plans" href="#tiers">View Plans</a>
+                  <a aria-label="View plans" href={commerce ? "#book" : "#tiers"}>View Plans</a>
                 </Button>
               </div>
             </motion.div>

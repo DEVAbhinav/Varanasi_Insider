@@ -10,7 +10,7 @@ export default function PriceAnchor({ price, unit, priceType = 'from', tone = 'd
   if (!Number.isFinite(n) || n <= 0) return null;
 
   const light = tone === 'light';
-  const subCls = light ? 'text-white/80' : 'text-muted-foreground';
+  const subCls = light ? 'text-white/90' : 'text-muted-foreground';
   const numCls = light ? 'text-white' : 'text-cyan-700';
 
   return (

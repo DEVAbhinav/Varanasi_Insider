@@ -8,7 +8,7 @@ export default function BadgeRow({ badges = [], tone = 'default', className = ''
   if (!badges?.length) return null;
   const light = tone === 'light';
   const chipCls = light
-    ? 'border border-white/25 bg-white/15 text-white backdrop-blur-sm'
+    ? 'border border-white/50 bg-white/25 text-white font-semibold backdrop-blur-sm'
     : 'border border-cyan-100 bg-cyan-50 text-cyan-800';
   return (
     <div className={`flex flex-wrap gap-2 ${className}`}>

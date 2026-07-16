@@ -79,10 +79,10 @@ export default function CommerceSection({ product, meta = {} }) {
       <div className="grid gap-8 lg:grid-cols-[1.4fr_1fr]">
         {/* Left: offer detail */}
         <div className="space-y-6">
-          <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-sky-500 via-cyan-500 to-teal-500 p-6 text-white shadow-sm md:p-7">
+          <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-sky-600 via-cyan-600 to-teal-600 p-6 text-white shadow-sm md:p-7">
             <PolkaOverlay />
             <div className="relative z-10">
-              <span className="text-xs font-semibold uppercase tracking-wide text-white/85">
+              <span className="text-xs font-semibold uppercase tracking-wide text-white/90">
                 {product.typeLabel}
               </span>
               <h2 className="mt-1 text-2xl font-bold tracking-tight md:text-3xl">
@@ -144,7 +144,7 @@ export default function CommerceSection({ product, meta = {} }) {
         {/* Right: sticky configurator + enquiry */}
         <div className="lg:sticky lg:top-24 lg:self-start">
           <div className="overflow-hidden rounded-2xl border border-cyan-100 bg-white shadow-sm">
-            <div className="relative overflow-hidden bg-gradient-to-r from-sky-500 via-cyan-500 to-teal-500 px-5 py-3 text-white">
+            <div className="relative overflow-hidden bg-gradient-to-r from-sky-600 via-cyan-600 to-teal-600 px-5 py-3 text-white">
               <PolkaOverlay opacity={0.18} />
               <p className="relative z-10 text-sm font-semibold">Build your booking</p>
             </div>
