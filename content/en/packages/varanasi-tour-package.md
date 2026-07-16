@@ -44,11 +44,11 @@ commerce:
         - "Breakfast"
         - "Private AC vehicle"
         - "Sunrise + evening boat rides"
-        - "Guide service"
       priceExcludes:
         - "Lunch & dinner"
         - "Temple donations"
         - "Personal expenses"
+        - "Guide service (optional add-on)"
       priceAssumptions: "Per person, 2-3 star hotel, shared vehicle basis"
       priceUpdated: "2026-07-15"
     - name: "3-Day Complete Temple & City (per person)"
@@ -61,12 +61,12 @@ commerce:
         - "Breakfast + 1 dinner"
         - "Private AC vehicle"
         - "All boat rides"
-        - "Professional guide"
         - "Sarnath full circuit"
       priceExcludes:
         - "Lunch"
         - "Temple donations"
         - "Personal expenses"
+        - "Guide service (optional add-on)"
       priceAssumptions: "Per person, 3-star hotel"
       priceUpdated: "2026-07-15"
     - name: "4-Day Extended (per person)"
@@ -79,12 +79,12 @@ commerce:
         - "Breakfast + dinner"
         - "Private AC vehicle"
         - "All boat rides"
-        - "Professional guide"
         - "Sarnath + Ramnagar Fort"
       priceExcludes:
         - "Lunch"
         - "Temple donations"
         - "Personal expenses"
+        - "Guide service (optional add-on)"
       priceAssumptions: "Per person, varies by accommodation tier"
       priceUpdated: "2026-07-15"
   inclusions:
@@ -95,25 +95,25 @@ commerce:
     - "Evening Ganga Aarti at Dashashwamedh"
     - "Sunrise Ganges boat ride"
     - "Sarnath Buddhist circuit (3-4 day plans)"
-    - "Professional local guide"
   exclusions:
     - "Lunch & dinner (unless stated)"
     - "Temple donations & VIP darshan passes"
     - "Personal expenses & shopping"
     - "Air / train fare"
+    - "Guide service (available as add-on)"
   itinerary:
     - label: "Day 1"
       title: "Arrival, ghats & evening aarti"
-      detail: "Airport or railway-station pickup in a private AC car and check-in to your hotel near the ghats. In the evening we take you to the riverfront for a shared boat ride along the lamp-lit ghats, timed to reach Dashashwamedh Ghat for the grand Ganga Aarti. Free evening to explore the old-city lanes and Banarasi street food."
+      detail: "Airport or railway-station pickup in a private AC car and check-in to your hotel near the ghats. In the evening we take you to the riverfront for a boat ride along the lamp-lit ghats, timed to reach Dashashwamedh Ghat for the grand Ganga Aarti. Free evening to explore the old-city lanes and Banarasi street food."
     - label: "Day 2"
       title: "Sunrise boat ride & Kashi darshan"
-      detail: "Early-morning sunrise boat ride from Assi Ghat as the city wakes and pandits perform Subah-e-Banaras. Then darshan at Kashi Vishwanath, Annapurna Devi and Kal Bhairav temples with your guide, followed by a walk through the silk-weaving and old-city bazaar area. Optional Subah-e-Banaras cultural program at Assi Ghat."
+      detail: "Early-morning sunrise boat ride from Assi Ghat as the city wakes and pandits perform Subah-e-Banaras. Then darshan at Kashi Vishwanath, Annapurna Devi and Kal Bhairav temples, followed by a walk through the silk-weaving and old-city bazaar area. Add a local guide for the temple stories and history."
     - label: "Day 3"
       title: "Sarnath & extended sightseeing"
       detail: "Half-day at Sarnath — Dhamek Stupa, the archaeological museum (with the Ashoka lion capital) and the Buddhist temples where Buddha gave his first sermon. Back in the city, visit Sankat Mochan Hanuman temple and the BHU campus with New Vishwanath temple. Departure, or extend into the 4-day plan."
     - label: "Day 4 (optional)"
       title: "Ramnagar Fort, heritage walk & shopping"
-      detail: "Cross the Ganga to Ramnagar Fort and its vintage museum, then a guided heritage walk through Varanasi's oldest lanes and ghats. Finish with a curated stop for Banarasi silk sarees and brassware before your drop-off — with honest, no-pressure shops we trust."
+      detail: "Cross the Ganga to Ramnagar Fort and its vintage museum, then a heritage walk through Varanasi's oldest lanes and ghats. Finish with a curated stop for Banarasi silk sarees and brassware before your drop-off — with honest, no-pressure shops we trust."
   addons:
     - id: "ramnagar-fort"
       label: "Ramnagar Fort & Museum"
@@ -125,16 +125,11 @@ commerce:
       price: "1200"
       productType: "activity"
       note: "A local guide walks you through Varanasi's hidden lanes, temples and akharas you'd never find alone — the best way to feel the real Kashi."
-    - id: "ganges-cruise"
-      label: "Luxury Ganges cruise + cultural program"
-      price: "2500"
-      productType: "boat"
-      note: "A larger, comfortable boat with seating and a live music/cultural program — ideal for families or a relaxed aarti view away from the crowd."
-    - id: "shopping-tour"
-      label: "Silk & brassware shopping tour"
-      price: "800"
+    - id: "guide-service"
+      label: "Professional local guide (full day)"
+      price: "2000"
       productType: "activity"
-      note: "Skip the tourist markups — we take you to trusted Banarasi silk weavers and brassware workshops for genuine pieces at fair prices."
+      note: "A knowledgeable Kashi guide for temples, ghats and Sarnath — explains the rituals, history and hidden stories you'd otherwise miss. Not included in the base package."
   requirements:
     - "Carry a government photo ID for hotel check-in and temple queues."
     - "Evening Ganga Aarti runs 18:00 in winter, 19:00 in summer."
@@ -428,9 +423,8 @@ This comprehensive **3-day Varanasi tour** includes complete **temple tour** and
 |----------|----------|-------------|
 | Ramnagar Fort & Museum | 2–3 hrs | ₹1,500 |
 | Heritage walk through old city lanes | 3 hrs | ₹1,200 |
-| Local markets shopping tour (silk, brassware) | 2–3 hrs | ₹800 |
+| Professional local guide (full day) | Full day | ₹2,000 |
 | Additional temples (Bharat Mata, New Vishwanath at BHU) | 2 hrs | ₹1,000 |
-| Luxury Ganges cruise with cultural program | 2 hrs | ₹2,500 |
 | Cooking class (Banarasi cuisine) | 3 hrs | ₹1,800 |
 
 **Total 4-Day Varanasi Tour Package**: ₹25,000–₹38,000 per person (varies by accommodation tier)

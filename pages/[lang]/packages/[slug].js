@@ -455,9 +455,15 @@ export async function getStaticProps({ params }) {
           }
         : {}),
     };
-    const graph = Array.isArray(jsonLdData["@graph"])
+    let graph = Array.isArray(jsonLdData["@graph"])
       ? jsonLdData["@graph"]
       : [offerCatalog];
+    // The sanitizer dedupes singleton @types. When the commerce product is itself
+    // a "Product", drop the standalone rating-only Product so the bookable node
+    // (which already carries aggregateRating + offers) is the one that survives.
+    if ((commerceProduct["@type"] || "Product") === "Product") {
+      graph = graph.filter((n) => !(n && n["@type"] === "Product"));
+    }
     jsonLdData = { "@context": "https://schema.org", "@graph": [...graph, commerceProduct] };
   }
   const sanitizedJsonLdData = sanitizeJsonLdData(jsonLdData);
