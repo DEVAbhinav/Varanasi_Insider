@@ -80,18 +80,12 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-11-26",
+          "validFrom": "2026-07-16",
           "itemOffered": {
             "@type": "Product",
             "name": "Sedan Airport Transfer",
             "description": "AC Sedan with professional driver",
-            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "INR",
-              "price": "0",
-              "availability": "https://schema.org/InStock"
-            }
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png"
           }
         },
         {
@@ -107,18 +101,12 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-11-26",
+          "validFrom": "2026-07-16",
           "itemOffered": {
             "@type": "Product",
             "name": "Ertiga Airport Transfer",
             "description": "7-seater Ertiga with professional driver",
-            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png",
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "INR",
-              "price": "0",
-              "availability": "https://schema.org/InStock"
-            }
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png"
           }
         },
         {
@@ -134,18 +122,12 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-11-26",
+          "validFrom": "2026-07-16",
           "itemOffered": {
             "@type": "Product",
             "name": "Innova Airport Transfer",
             "description": "Spacious AC Innova with professional driver",
-            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png",
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "INR",
-              "price": "0",
-              "availability": "https://schema.org/InStock"
-            }
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png"
           }
         },
         {
@@ -161,18 +143,12 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-11-26",
+          "validFrom": "2026-07-16",
           "itemOffered": {
             "@type": "Product",
             "name": "Tempo Traveller Airport Transfer",
             "description": "17-seater Tempo Traveller with professional driver",
-            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg",
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "INR",
-              "price": "0",
-              "availability": "https://schema.org/InStock"
-            }
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg"
           }
         },
         {
@@ -188,7 +164,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-11-26"
+          "validFrom": "2026-07-16"
         },
         {
           "@type": "Offer",
@@ -203,7 +179,7 @@
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-11-26"
+          "validFrom": "2026-07-16"
         },
         {
           "@type": "Offer",
@@ -218,7 +194,7 @@
             "unitText": "additional charge"
           },
           "availability": "https://schema.org/InStock",
-          "validFrom": "2026-11-26"
+          "validFrom": "2026-07-16"
         }
       ]
     },
@@ -231,7 +207,7 @@
         "@id": "https://www.kashitaxi.in/#org"
       },
       "category": "Airport Transfer",
-      "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
+      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",

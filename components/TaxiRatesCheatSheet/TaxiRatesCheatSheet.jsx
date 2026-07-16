@@ -186,7 +186,7 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                 <div className={`mt-6 md:mt-8 text-center ${isCompact ? 'max-w-xl' : 'max-w-2xl'} mx-auto`}>
                     {/* Fine print */}
                     <p className="text-xs text-gray-500 mb-4">
-                        * Night charges apply after 10 PM (₹250-300) • Toll & parking at actuals for outstation •
+                        * Airport night charge: +₹300 (10 PM–5 AM) • Toll & parking at actuals for outstation •
                         <a href={`/${lang}/varanasi-transport-price-guide-2026`} className="text-cyan-600 hover:underline ml-1">
                             View full price guide →
                         </a>

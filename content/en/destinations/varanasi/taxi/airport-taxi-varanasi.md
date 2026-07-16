@@ -157,12 +157,12 @@ For business travelers and international tourists, we offer **meet-and-greet ser
 
 | Destination | Distance | Approx. Time | Sedan Fare | Innova Fare |
 |---|---|---|---|---|
-| Assi Ghat | 18 km | 35-40 min | ₹899 | ₹1,500 |
-| Dashashwamedh Ghat | 16 km | 32-35 min | ₹899 | ₹1,500 |
-| Maidagin/City Center | 14 km | 30-32 min | ₹899 | ₹1,500 |
-| BHU Campus | 15 km | 32-35 min | ₹899 | ₹1,500 |
-| Railway Station | 10 km | 25-28 min | ₹899 | ₹1,500 |
-| Ramnagar Fort | 25 km | 45-50 min | ₹999 | ₹1,600 |
+| Assi Ghat | ~26 km | 50-80 min | ₹899 | ₹1,500 |
+| Dashashwamedh Ghat | ~24 km | 45-75 min | ₹899 | ₹1,500 |
+| Maidagin/City Center | ~25 km | 45-75 min | ₹899 | ₹1,500 |
+| BHU Campus | ~30 km | 50-80 min | ₹899 | ₹1,500 |
+| Railway Station | ~22 km | 40-70 min | ₹899 | ₹1,500 |
+| Ramnagar Fort | ~36 km | 55-65 min | Confirm quote | Confirm quote |
 
 ## Why Travelers Prefer Pre-Planned Transfers Over Street Taxis
 
