@@ -100,17 +100,33 @@
       "offers": [
         {
           "@type": "Offer",
-          "name": "Prepaid Sedan (Airport → Ghats/City)",
+          "name": "Fixed-fare Sedan (Airport → Ghats/City)",
           "priceCurrency": "INR",
-          "price": 850,
+          "price": 899,
           "priceValidUntil": "2026-12-31",
           "availability": "https://schema.org/InStock"
         },
         {
           "@type": "Offer",
-          "name": "Prepaid SUV (Airport → Ghats/City)",
+          "name": "Fixed-fare Ertiga (Airport → Ghats/City)",
           "priceCurrency": "INR",
-          "price": 1100,
+          "price": 1299,
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Fixed-fare Innova (Airport → Ghats/City)",
+          "priceCurrency": "INR",
+          "price": 1500,
+          "priceValidUntil": "2026-12-31",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "name": "Fixed-fare Tempo Traveller 17-seater (Airport → Ghats/City)",
+          "priceCurrency": "INR",
+          "price": 2500,
           "priceValidUntil": "2026-12-31",
           "availability": "https://schema.org/InStock"
         }

@@ -1,5 +1,5 @@
 ---
-title: "Varanasi Airport Taxi 2026: Fares from ₹850, 25 km to the Ghats"
+title: "Varanasi Airport Taxi 2026: Fares from ₹899, 25 km to the Ghats"
 slug: "varanasi-airport-taxi-guide"
 date: "2026-07-05"
 lastUpdated: "2026-07-05"
@@ -8,7 +8,7 @@ author: "Kamal Nayan Singh"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/varanasi-airport-taxi-guide"
 
-description: "Varanasi airport (VNS) is ≈25 km (45–90 min) from the ghats. Compare 2026 prepaid taxi fares from ₹850 with Uber/Ola, find pickup zones & avoid scams."
+description: "Varanasi airport (VNS) is ≈25 km (45–90 min) from the ghats. Compare 2026 fixed taxi fares from ₹899 (sedan) with Uber/Ola, find pickup zones & avoid scams."
 tags:
   - airport taxi
   - varanasi
@@ -44,7 +44,7 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
 | **How far is the airport?** | **≈ 25 km** to the ghats (22–25 km by route) |
 | **How long does it take?** | **45–90 min** depending on traffic |
 | **Cheapest option** | Uber/Ola off‑peak — **₹620–₹700** |
-| **Fixed, hassle‑free option** | Prepaid sedan — **₹850–₹1,000** |
+| **Fixed, hassle‑free option** | Fixed-fare sedan — **₹899** |
 | **Safest for solo & female travellers** | Pre‑booked **Pink Taxi** |
 
 ---
@@ -55,8 +55,8 @@ After check‑in, plan a [sunrise boat ride](/en/varanasi-sunrise-boat-ride-timi
 
 | Service | Destination (Ghats Area) | Fare (Jul 2026) |
 | :-- | :-- | :-- |
-| **Prepaid Taxi – Sedan** | Zone B (Cantt./Ghats) | **₹850 – ₹1,000** |
-| **Prepaid Taxi – SUV** | Zone B (Cantt./Ghats) | **₹1,100 – ₹1,300** |
+| **Fixed-fare Taxi – Sedan** | Zone B (Cantt./Ghats) | **₹899** |
+| **Fixed-fare Taxi – Ertiga/Innova** | Zone B (Cantt./Ghats) | **₹1,299 – ₹1,500** |
 | **Uber Go (Off‑peak)** | Ghats | **₹640 – ₹700** |
 | **Ola Micro (Off‑peak)** | Ghats | **₹620 – ₹680** |
 | **Auto‑rickshaw (negotiated)** | Walk outside airport | **₹500 – ₹600** |

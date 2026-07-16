@@ -72,11 +72,11 @@
           "name": "Airport to City Center Sedan",
           "description": "Airport to City Center/Ghats transfer in AC Sedan",
           "priceCurrency": "INR",
-          "price": 600,
+          "price": 899,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": 600,
+            "price": 899,
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
@@ -96,23 +96,77 @@
         },
         {
           "@type": "Offer",
-          "name": "Airport to City Center SUV",
-          "description": "Airport to City Center/Ghats transfer in AC SUV",
+          "name": "Airport to City Center Ertiga",
+          "description": "Airport to City Center/Ghats transfer in 7-seater Ertiga",
           "priceCurrency": "INR",
-          "price": 800,
+          "price": 1299,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": 800,
+            "price": 1299,
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
           "validFrom": "2026-11-26",
           "itemOffered": {
             "@type": "Product",
-            "name": "SUV Airport Transfer",
-            "description": "Spacious AC SUV with professional driver",
-            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
+            "name": "Ertiga Airport Transfer",
+            "description": "7-seater Ertiga with professional driver",
+            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "0",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Airport to City Center Innova",
+          "description": "Airport to City Center/Ghats transfer in AC Innova",
+          "priceCurrency": "INR",
+          "price": 1500,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 1500,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-11-26",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Innova Airport Transfer",
+            "description": "Spacious AC Innova with professional driver",
+            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "0",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Airport to City Center Tempo Traveller",
+          "description": "Airport to City Center/Ghats transfer in 17-seater Tempo Traveller",
+          "priceCurrency": "INR",
+          "price": 2500,
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceCurrency": "INR",
+            "price": 2500,
+            "unitText": "per trip"
+          },
+          "availability": "https://schema.org/InStock",
+          "validFrom": "2026-11-26",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Tempo Traveller Airport Transfer",
+            "description": "17-seater Tempo Traveller with professional driver",
+            "image": "https://www.kashitaxi.inhttps://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg",
             "offers": {
               "@type": "Offer",
               "priceCurrency": "INR",
@@ -126,11 +180,11 @@
           "name": "Airport to Assi Ghat Sedan",
           "description": "Airport to Assi Ghat transfer in AC Sedan",
           "priceCurrency": "INR",
-          "price": 750,
+          "price": 899,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": 750,
+            "price": 899,
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
@@ -141,11 +195,11 @@
           "name": "Airport to Dashashwamedh Ghat Sedan",
           "description": "Airport to Dashashwamedh Ghat transfer in AC Sedan",
           "priceCurrency": "INR",
-          "price": 700,
+          "price": 899,
           "priceSpecification": {
             "@type": "UnitPriceSpecification",
             "priceCurrency": "INR",
-            "price": 700,
+            "price": 899,
             "unitText": "per trip"
           },
           "availability": "https://schema.org/InStock",
@@ -172,7 +226,7 @@
       "@type": "Product",
       "@id": "https://www.kashitaxi.in/en/city/varanasi/taxi/airport-taxi-varanasi/#product",
       "name": "Varanasi Airport Taxi - Book Cab from LBS Airport",
-      "description": "Book Varanasi Airport taxi from Lal Bahadur Shastri International Airport (VNS/LBS). Sedan ₹600, SUV ₹800, Innova ₹900. Fixed fares, 24/7 service, meet & greet available.",
+      "description": "Book Varanasi Airport taxi from Lal Bahadur Shastri International Airport (VNS/LBS). Sedan ₹899, Ertiga ₹1,299, Innova ₹1,500, Tempo ₹2,500. Fixed fares, 24/7 service, meet & greet available.",
       "brand": {
         "@id": "https://www.kashitaxi.in/#org"
       },
@@ -181,9 +235,9 @@
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "lowPrice": "600",
-        "highPrice": "1200",
-        "offerCount": "4",
+        "lowPrice": "899",
+        "highPrice": "2500",
+        "offerCount": "6",
         "availability": "https://schema.org/InStock",
         "priceValidUntil": "2026-12-31"
       },

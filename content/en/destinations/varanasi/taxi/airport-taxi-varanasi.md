@@ -54,7 +54,7 @@ faqSchema:
       Free cancellation up to 2 hours. 50% charge if cancelled between 30 min to
       2 hours.
 offers:
-  - price: '600'
+  - price: '899'
     priceCurrency: INR
     name: Airport to City Sedan
 provider:
@@ -95,11 +95,11 @@ Arriving at Lal Bahadur Shastri International Airport (LBS/VNS) in Varanasi? Thi
 
 Unlike street taxis with unpredictable rates, the airport cluster uses transparent fixed-fare positioning. Use these ranges as an overview, then confirm on the booking or pricing page:
 
-- **Airport to City Center/Ghats:** Starting from ₹600 (Sedan), ₹800 (SUV)
-- **Airport to Assi Ghat:** ₹750 (Sedan), ₹950 (SUV)
-- **Airport to Dashashwamedh Ghat:** ₹700 (Sedan), ₹900 (SUV)
-- **Airport to BHU Area:** ₹650 (Sedan), ₹850 (SUV) — [see Varanasi airport to BHU taxi fare details](#)
-- **Airport to Railway Station:** ₹500 (Sedan), ₹700 (SUV)
+- **Airport to City Center/Ghats:** Sedan ₹899, Ertiga ₹1,299, Innova ₹1,500, Tempo Traveller (17-seater) ₹2,500
+- **Airport to Assi Ghat:** ₹899 (Sedan), ₹1,500 (Innova)
+- **Airport to Dashashwamedh Ghat:** ₹899 (Sedan), ₹1,500 (Innova)
+- **Airport to BHU Area:** ₹899 (Sedan), ₹1,500 (Innova) — [see Varanasi airport to BHU taxi fare details](#)
+- **Airport to Railway Station:** ₹899 (Sedan), ₹1,500 (Innova)
 
 All fares include GST, and we don't charge for waiting time during the first 15 minutes.
 
@@ -126,19 +126,19 @@ For business travelers and international tourists, we offer **meet-and-greet ser
 - Comfortable for 1-3 passengers
 - AC with charging ports
 - Perfect for solo travelers and couples
-- Starting fare: ₹600
+- Fixed fare: ₹899
 
-### Comfort Plus Airport SUV (Creta/Seltos)
+### Comfort Plus Airport SUV — Ertiga / Innova
 - Spacious for families and small groups
 - Extra luggage space
 - Premium comfort features
-- Starting fare: ₹800
+- Ertiga (7-seater) ₹1,299 · Innova (6/7-seater) ₹1,500
 
-### Airport Group Transfer: Tempo Traveller (12-14 seater)
+### Airport Group Transfer: Tempo Traveller (17 seater)
 - Available for airport pickups
 - Extra luggage compartment
 - Perfect for family vacations
-- Starting fare: ₹2000
+- Fixed fare: ₹2,500
 
 ## What Most Airport Transfer Quotes Include
 
@@ -155,14 +155,14 @@ For business travelers and international tourists, we offer **meet-and-greet ser
 ![Varanasi Tourist Map](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi tourist map-flat-lanscape.jpeg)
 *Varanasi Tourist Map - Airport transfer routes to major destinations*
 
-| Destination | Distance | Approx. Time | Sedan Fare | SUV Fare |
+| Destination | Distance | Approx. Time | Sedan Fare | Innova Fare |
 |---|---|---|---|---|
-| Assi Ghat | 18 km | 35-40 min | ₹750 | ₹950 |
-| Dashashwamedh Ghat | 16 km | 32-35 min | ₹700 | ₹900 |
-| Maidagin/City Center | 14 km | 30-32 min | ₹600 | ₹800 |
-| BHU Campus | 15 km | 32-35 min | ₹650 | ₹850 |
-| Railway Station | 10 km | 25-28 min | ₹500 | ₹700 |
-| Ramnagar Fort | 25 km | 45-50 min | ₹1000 | ₹1300 |
+| Assi Ghat | 18 km | 35-40 min | ₹899 | ₹1,500 |
+| Dashashwamedh Ghat | 16 km | 32-35 min | ₹899 | ₹1,500 |
+| Maidagin/City Center | 14 km | 30-32 min | ₹899 | ₹1,500 |
+| BHU Campus | 15 km | 32-35 min | ₹899 | ₹1,500 |
+| Railway Station | 10 km | 25-28 min | ₹899 | ₹1,500 |
+| Ramnagar Fort | 25 km | 45-50 min | ₹999 | ₹1,600 |
 
 ## Why Travelers Prefer Pre-Planned Transfers Over Street Taxis
 

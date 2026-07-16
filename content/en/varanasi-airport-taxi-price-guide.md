@@ -1,12 +1,12 @@
 ---
-title: "Varanasi Airport Taxi Fare 2026: Fixed-Price Cabs from ₹700 (Dec Update)"
+title: "Varanasi Airport Taxi Fare 2026: Fixed-Price Cabs from ₹899 (Dec Update)"
 slug: "varanasi-airport-taxi-price-guide"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
-metaTitle: "Varanasi Airport Taxi Price Guide 2026: Fixed Cabs from ₹700 | No Surge"
+metaTitle: "Varanasi Airport Taxi Price Guide 2026: Fixed Cabs from ₹899 | No Surge"
 metaDescription: "Varanasi airport taxi fare: sedan ₹899, Ertiga ₹1,299, Innova ₹1,500, tempo ₹2,500. Fixed-price, no surge. 25 km to city in 40 min. WhatsApp booking with flight tracking."
 description: "Updated Dec 2026 Varanasi airport taxi fares to Assi, Dashashwamedh, BHU, and Sarnath with live tables, pickup point map, refund policies, and booking links."
 keywords:
@@ -39,9 +39,8 @@ faqSchema:
       on delays or gate changes.
   - q: "What is the late-night surcharge policy?"
     a: >-
-      Sedans add ₹150 after 9 PM, SUVs add ₹200, and Innova Crysta quotes
-      cap at ₹1,699 all-inclusive. Tempo Travellers include night allowance
-      upfront.
+      Sedans add ₹150 after 9 PM and SUVs add ₹200. Tempo Travellers
+      include night allowance upfront.
   - q: "Can I get a refund if my flight is delayed or cancelled?"
     a: >-
       Cancel at least three hours before landing for a full refund. After
@@ -116,7 +115,6 @@ Updated: Dec 2026 · 25–30 km · 40–45 min drive
     </tbody>
   </table>
   <p class="note">Rates include toll + airport entry. Pickup point: Arrivals Gate 3 beside Costa Coffee counter.</p>
-  <p class="note">*Flash fare valid for weekday sedan drops confirmed within 2 hours of pickup, capped at 15-minute standby, and paused on festival blackout dates.</p>
   <p>
     <a class="cta-button" href="https://wa.me/919935474730?text=Need%20a%20Varanasi%20airport%20pickup%20today&source=website&medium=guides&utm_source=website&utm_medium=guide&utm_campaign=airport-taxi" rel="nofollow noopener" target="_blank">WhatsApp one-tap booking</a>
   </p>
@@ -128,20 +126,18 @@ Share your landing time, flight number, passengers, and luggage count on WhatsAp
 Answer Box
 | Distance | Time | Fixed Fares (₹) | Areas | Notes |
 |---|---|---|---|---|
-| 27–28 km | 40–45 min | Sedan 700–950 (Flash 890*) · SUV 1,050–1,300 | Assi, Dashashwamedh, Godowlia | Includes 20 min wait; night +₹150 |
-| 32 km | 45–55 min | Innova 1,250–1,550 | BHU, Sarnath, Lanka | Night inclusive ₹1,699 |
-| 35–38 km | 55–65 min | Tempo 2,000–2,300 | Narad Ghat, Ramnagar | 60 min free wait for flight delays |
-
-*Flash fare = weekday sedan booking confirmed within 2 hours of pickup, with 15-minute standby and no festival blackout conflicts.
+| 27–28 km | 40–45 min | Sedan 899 · Ertiga 1,299 | Assi, Dashashwamedh, Godowlia | Includes 20 min wait; night +₹150 |
+| 32 km | 45–55 min | Innova 1,500 | BHU, Sarnath, Lanka | Night buffer +₹200 |
+| 35–38 km | 55–65 min | Tempo (17-seater) 2,500 | Narad Ghat, Ramnagar | 60 min free wait for flight delays |
 
 Top Locality Fares (Nov 2026)
 | Locality | Distance | Sedan (₹) | Innova (₹) | Tempo (₹) | Travel Notes |
 |---|---|---|---|---|---|
-| Assi Ghat | 27–28 km | 700–900 (Flash 890*) | 1,250 | 2,050 | Drop near Pizzeria lane; narrow entry, expect last 200 m walk |
-| Dashashwamedh | 25 km | 750–950 (Flash 890*) | 1,300 | 2,100 | Use Godowlia barricade; porter add-on ₹150 |
-| BHU Gate | 30 km | 800–950 (Flash 890*) | 1,350 | 2,150 | Smoothest road; minimal traffic late night |
-| Sarnath | 32 km | 850–1,050 (Flash 890*) | 1,400 | 2,200 | Expressway route; add ₹100 guide wait if touring |
-| Ramnagar Fort | 36 km | 950–1,100 (Flash 890*) | 1,550 | 2,300 | Bridge toll included; buffer 10 extra minutes |
+| Assi Ghat | 27–28 km | 899 | 1,500 | 2,500 | Drop near Pizzeria lane; narrow entry, expect last 200 m walk |
+| Dashashwamedh | 25 km | 899 | 1,500 | 2,500 | Use Godowlia barricade; porter add-on ₹150 |
+| BHU Gate | 30 km | 899 | 1,500 | 2,500 | Smoothest road; minimal traffic late night |
+| Sarnath | 32 km | 899 | 1,500 | 2,500 | Expressway route; add ₹100 guide wait if touring |
+| Ramnagar Fort | 36 km | 999 | 1,600 | 2,600 | Bridge toll included; buffer 10 extra minutes |
 
 ---
 
@@ -151,9 +147,10 @@ Top Locality Fares (Nov 2026)
 
 Varanasi’s Lal Bahadur Shastri International Airport (VNS) sits 25–32 km from the riverfront, with transfers averaging **40–45 minutes**. Pre-booking keeps fares locked, arranges meet-and-greet signage, and protects you from tout upsells.
 
-- **Sedans (Swift Dzire, Amaze):** ₹700–₹950 standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
-- **SUVs (Ertiga, Innova):** ₹1,050–₹1,550 depending on seating; ideal for luggage-heavy arrivals.
-- **Tempo Travellers:** ₹2,000–₹2,300 for 12-seaters, driver allowance inclusive.
+- **Sedans (Swift Dzire, Amaze):** ₹899 fixed, all-inclusive city drop.
+- **Ertiga (7-seater):** ₹1,299; ideal for small groups with extra luggage.
+- **Innova:** ₹1,500; comfortable 6/7-seater for families.
+- **Tempo Travellers (17-seater):** ₹2,500, driver allowance inclusive.
 - **Full-Day Packages:** 8-hour/80 km sedans from ₹1,900; 12-hour/200 km builds start at ₹2,350.
 
 ![Typical sedan used for airport transfers](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png "Sedan commonly used for airport pick-ups and drops")
@@ -163,16 +160,13 @@ Varanasi’s Lal Bahadur Shastri International Airport (VNS) sits 25–32 km fro
 | Vehicle Type | Typical Airport Drop Price* | Notes |
 | :--- | :--- | :--- |
 | Indica / WagonR (Hatchback) | ₹700–₹850 | Economical 4-seat car. |
-| Swift Dzire / Honda Amaze (Sedan) | ₹700–₹950 (Flash ₹890*) | Comfortable sedan for 4 passengers; flash fare requires 2-hour call-in. |
-| Etios / Hyundai Xcent (Sedan) | ₹800–₹1,050 | Slightly larger sedans with better boot space. |
-| Ertiga / Mobilio (6-seater) | ₹1,050–₹1,250 | Mini-SUV; suitable for small groups. |
-| Innova / Tavera / Xylo (SUV) | ₹1,150–₹1,400 | 6–7 seat SUVs; comfortable for families. |
-| Innova Crysta (Premium SUV) | ₹1,250–₹1,550 | Spacious and newer model. |
-| Tempo Traveller (12–17 seater) | ₹2,000–₹2,300 | For larger groups or pilgrims. |
+| Swift Dzire / Honda Amaze (Sedan) | ₹899 | Comfortable sedan for 4 passengers; fixed all-inclusive fare. |
+| Ertiga (7-seater) | ₹1,299 | Mini-SUV; suitable for small groups with extra luggage. |
+| Innova (6/7-seater SUV) | ₹1,500 | Comfortable for families. |
+| Innova Crysta (Premium SUV) | ₹1,600–₹1,800 | Spacious and newer model. |
+| Tempo Traveller (17-seater) | ₹2,500 | For larger groups or pilgrims. |
 
 *\*Prices are approximate for a one-way transfer from VNS airport to the city and may vary during peak season. Most operators include taxes and 20–30 km of travel; additional kilometres cost ₹15–₹22/km for sedans and SUVs.*
-
-*Flash fare applies to weekday sedan drops confirmed within 2 hours of pickup, with 15-minute standby and blackout dates covering Dev Deepawali, Maha Shivaratri, Buddha Purnima, and other notified festivals.
 
 ---
 
@@ -222,7 +216,7 @@ Varanasi airport to Assi Ghat spans 27–28 km and takes 40–45 minutes in mode
 Drivers hold placards near **Gate 3 inside the arrivals hall**, opposite the Costa Coffee stall. Share your flight number so the team tracks any terminal changes.
 
 ### 3. What is the late-night surcharge policy?
-Sedans add a flat ₹150 after 9 PM, SUVs add ₹200, and Innova Crysta night fares cap at ₹1,699 all-inclusive. Tempo Travellers already factor night allowance in the base quote.
+Sedans add a flat ₹150 after 9 PM and SUVs add ₹200. Tempo Travellers already factor night allowance in the base quote.
 
 ### 4. Can I get a refund if my flight is delayed or cancelled?
 Cancellations 3 hours before landing get a full refund. After dispatch, 50% covers driver time; delays under 90 minutes simply roll forward to the next slot at no extra cost.
@@ -238,7 +232,7 @@ Yes. Pre-booked operators give you driver ID, vehicle number, and live tracking.
 
 ## Summary
 
-Booking a taxi from Varanasi airport is straightforward. A standard sedan now averages **₹700–₹950** to reach Assi or Dashashwamedh within 45 minutes, with a **Flash ₹890** option when you call within two hours on weekdays. Innova Crysta upgrades hover around **₹1,250–₹1,550**, and Tempo Travellers land near **₹2,100**. Share your flight details, screenshot the confirmation, and reconfirm the night or delay policy before you board.
+Booking a taxi from Varanasi airport is straightforward. A standard sedan is a fixed **₹899** to reach Assi or Dashashwamedh within 45 minutes. An Ertiga is **₹1,299**, an Innova **₹1,500**, and a 17-seater Tempo Traveller **₹2,500**. Share your flight details, screenshot the confirmation, and reconfirm the night or delay policy before you board.
 
 ## Going Beyond the City? Airport to Outstation Fares
 
