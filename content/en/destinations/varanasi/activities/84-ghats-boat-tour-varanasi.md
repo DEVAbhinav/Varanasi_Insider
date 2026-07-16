@@ -18,6 +18,12 @@ keywords:
   - "boat ride varanasi"
   - "varanasi ghat tour by boat"
   - "ramnagar fort boat ride varanasi"
+  - "assi ghat to namo ghat boat ride"
+  - "assi ghat to namo ghat boat ride price"
+  - "assi ghat to namo ghat boat ride timings"
+  - "assi ghat to namo ghat boat ride ticket price"
+  - "assi ghat to namo ghat boat ride fare"
+  - "assi ghat to namo ghat boat ride cost"
 tags:
   - activities
   - boat rides
@@ -49,6 +55,12 @@ faqSchema:
     answer: "Sunrise (5:00–6:30 AM) for photography and morning rituals. Book 3–5 days ahead in peak season (Oct–Mar). Weekdays are cheaper with fewer tourists. Monsoon (Jul–Sep) requires same-week flexibility due to water levels."
   - question: "Is Manikarnika Ghat scary on the boat tour?"
     answer: "It's solemn, not scary. You're witnessing cremation rituals performed with deep respect — death in Varanasi is sacred, not morbid. Best observed quietly from the boat while the guide explains the philosophy of life-death-rebirth."
+  - question: "What are the timings for an Assi Ghat to Namo Ghat boat ride?"
+    answer: "The full Assi Ghat to Namo Ghat sweep runs 2.5–4 hours one-way, covering the entire riverfront from the southern end (Assi) to the northern end near Rajghat (Namo Ghat). Best departure windows are sunrise (5:00–6:30 AM) or sunset (4:30–5:30 PM winter). Because it's a one-way point-to-point route rather than a loop, confirm your return transport (taxi pickup at Namo Ghat) when booking."
+  - question: "What is the Assi Ghat to Namo Ghat boat ride price / fare / cost?"
+    answer: "A private motorboat covering the full Assi Ghat to Namo Ghat stretch costs ₹4,500–₹7,000 depending on group size and season (this is a longer point-to-point route than the standard 84-ghats loop, so it runs 15–20% above the usual ₹3,500–₹5,000 extended tour). Split across 8–10 people it works out to ₹450–₹700 per person. Shared group departures (when available) run ₹350–₹500 per person. Festival dates (Dev Deepawali, Kartik Purnima) push fares 2–4× higher."
+  - question: "What is the Assi Ghat to Namo Ghat boat ride ticket price for a shared seat?"
+    answer: "A shared seat on a group motorboat covering Assi to Namo Ghat costs ₹350–₹500 per person when a shared departure is running (mainly festival season and weekends). On quieter days, private boats are the only option, so WhatsApp us ahead of time to check shared availability or lock a private group rate."
 quickFacts:
   - label: "Route"
     value: "84 main ghats (of 88)"
@@ -184,6 +196,15 @@ According to Hindu cosmology:
 - **Optional:** Disembark, tour fort (2 hours), return by taxi
 - **Boat stop duration:** 15–30 min (if you choose to disembark)
 
+### Namo Ghat (Furthest Endpoint — Assi to Namo Ghat Sweep)
+
+**Namo Ghat**
+- **Significance:** The newest ghat in Varanasi, built under the Namami Gange river-cleaning project; sits near Rajghat, at the far northern end of the ghat chain — the opposite endpoint from Assi Ghat
+- **Why boaters ask about it:** An **Assi Ghat to Namo Ghat boat ride** is the longest possible one-way stretch on the Varanasi riverfront, covering the entire span of ghats end to end
+- **What you'll see:** Wide, open ghat with amphitheatre-style seating, far fewer crowds than the central ghats, good river views back toward the old city skyline
+- **Boat stop duration:** 10–15 min if you disembark; most boats simply turn around here or arrange a taxi pickup
+- **Access:** Because Namo Ghat is a one-way point-to-point trip rather than a loop, plan your return by road — WhatsApp us and we'll arrange a taxi to meet your boat at Namo Ghat
+
 ---
 
 ## Boat Tour Types & Logistics
@@ -227,6 +248,16 @@ For your **varanasi ghat tour by boat**, choose from these options based on time
 **Pricing:** ₹2,500–3,500
 **Timing:** Depart 5:00 PM, capture golden hour on multiple ghats, end at Dashashwamedh aarti lighting
 **Includes:** Guide who knows photo angles, waits at scenic spots for optimal light (10–15 min per ghat)
+
+### Tour Option 5: Assi Ghat to Namo Ghat Full Sweep (One-Way, 2.5–4 Hours)
+
+**Route:** Assi Ghat → all major ghats → Namo Ghat (Rajghat area, northern endpoint) — no return loop
+**Best for:** Travelers who want to cover the entire riverfront in one continuous ride rather than a there-and-back loop
+**Boat type:** Private motorboat (recommended for a long one-way trip); shared departures run only in peak/festival season
+**Assi Ghat to Namo Ghat boat ride price:** ₹4,500–7,000 private (₹450–700/person split across 8–10 people); ₹350–500/person on shared departures when available
+**Assi Ghat to Namo Ghat boat ride timings:** Best at sunrise (5:00–6:30 AM) for calm water and light traffic, or sunset (4:30–5:30 PM winter) for golden-hour views; avoid mid-day heat and monsoon afternoons
+**Fare/cost note:** This route costs 15–20% more than the standard loop tours above because it's point-to-point (the boat and boatman must return empty or you arrange a one-way charter)
+**Return:** Book a taxi pickup at Namo Ghat in advance — WhatsApp +91 94503 01573 with your date and headcount and we'll coordinate the boat + return taxi together
 
 ---
 
@@ -414,6 +445,24 @@ For your **varanasi ghat tour by boat**, choose from these options based on time
 **Best approach:** Observe quietly from boat, listen to guide's explanation, reflect on the philosophy (life-death-rebirth cycle central to Hinduism).
 
 **Not recommended for:** Very young children, those extremely squeamish about death, people with PTSD/trauma sensitivities.
+
+### "What are the timings for an Assi Ghat to Namo Ghat boat ride?"
+
+**Range:** 2.5–4 hours one-way, covering the full riverfront from Assi Ghat (south) to Namo Ghat near Rajghat (north).
+
+**Best windows:**
+- **Sunrise:** 5:00–6:30 AM — calm water, cooler light, least crowded
+- **Sunset:** 4:30–5:30 PM winter — golden-hour views along the whole ghat line
+
+Since it's a one-way trip, not a loop, plan your return transport (taxi pickup at Namo Ghat) before you book.
+
+### "What is the Assi Ghat to Namo Ghat boat ride price / fare / cost?"
+
+**Private motorboat:** ₹4,500–7,000 total (₹450–700 per person split across 8–10 people) — this runs 15–20% above the standard loop tours since it's a one-way point-to-point charter rather than a round trip.
+
+**Shared departure:** ₹350–500 per person, but only running during peak/festival season — WhatsApp us to check current shared availability.
+
+**Ticket price for a shared seat:** Same ₹350–500/person band when a group departure is scheduled; on quiet days you'll need a private boat.
 
 ### "How long is a typical ghat tour?"
 

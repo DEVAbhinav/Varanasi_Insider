@@ -9,7 +9,7 @@ lang: en-IN
 metaTitle: "Varanasi Boat Ride Price 2026: Shared ₹80, Private ₹1,800+ | Book"
 metaDescription: "Updated 2026 boat ride prices in Varanasi. Book online: shared seats ₹80–₹150, private rowboats ₹1,800+, motorboats ₹3,500+. Sunrise timings, 84-ghat routes & instant booking."
 description: "Updated Nov 2026 boat ride prices in Varanasi covering shared seats, private rowboats, motorboats, luxury bajras, negotiation tactics, and booking scripts."
-keywords: "morning boat ride varanasi price, varanasi boat ride price, boat ride in varanasi price, varanasi boat ride cost, sunrise boat ride varanasi, varanasi sunrise boat ride cost, ganga boat ride price, private boat ride varanasi price, shared boat varanasi price, boat ride in varanasi, varanasi boat booking, boating time in varanasi, best time for boat ride in varanasi, assi ghat to dashashwamedh ghat by boat"
+keywords: "morning boat ride varanasi price, varanasi boat ride price, boat ride in varanasi price, varanasi boat ride cost, sunrise boat ride varanasi, varanasi sunrise boat ride cost, ganga boat ride price, private boat ride varanasi price, shared boat varanasi price, boat ride in varanasi, varanasi boat booking, boating time in varanasi, best time for boat ride in varanasi, assi ghat to dashashwamedh ghat by boat, assi ghat boat ride price, assi ghat boat ride timings, assi ghat boat ride booking"
 tags:
   - varanasi
   - boat ride
@@ -22,6 +22,7 @@ relatedPosts:
   - ganga-aarti-timing-varanasi-2026
   - varanasi-scams-to-avoid-2026
   - where-to-stay-in-varanasi
+  - 84-ghats-boat-tour-varanasi
 faqSchema:
   - question: "How much does a boat ride cost in Varanasi in 2026?"
     answer: "Shared sunrise boat seats cost ₹80–₹150 per person. A private rowboat (4–6 seats) is ₹1,800–₹3,000. Motorboats for groups up to 15 cost ₹3,500–₹6,000. Luxury bajra boats start at ₹10,000+. Festival periods (Dev Deepawali, Kartik Purnima) can push fares 2–4× higher."
@@ -150,6 +151,8 @@ WhatsApp **+91 94503 01573** with date, headcount, and preferred ghat. You’ll 
 Board 30–45 min pre‑sunrise (winter earlier due to fog). Detailed month-by-month boarding windows now centralized on the Sunrise Timings page.
 
 ## 9. Frequently Asked (Extended)
+**What is the Assi Ghat boat ride price and timing?** Shared sunrise boats from Assi Ghat cost ₹80–₹100 per person — board 30 minutes before sunrise. A private rowboat from Assi to Dashashwamedh and back runs ₹1,800–₹2,500 for a 1.5-hour trip covering all major ghats including Manikarnika. Want the full riverfront instead of just Assi–Dashashwamedh? See our [Assi Ghat to Namo Ghat full-sweep route](/en/city/varanasi/activities/84-ghats-boat-tour-varanasi) with pricing and timings for the longer one-way trip.  
+**How do I book an Assi Ghat boat ride?** WhatsApp our boat desk at [+91-9935474730](https://wa.me/919935474730) the evening before with your date, headcount and preferred time — we'll lock a fixed price and boatman name so there's no haggling at the ghat. Walk-up booking works too; just arrive 30–45 minutes before sunrise for the best boat selection.  
 **Why did a second boatman ask for more mid‑ride?** Likely a commission split dispute—insist on original agreed fare.  
 **UPI or cash?** Cash remains default; verify network signal at ghat early mornings.  
 **Is a bajra overkill for 4 people?** Yes; cost per seat inefficient unless you want elevation + comfort specifically.  
@@ -157,4 +160,4 @@ Board 30–45 min pre‑sunrise (winter earlier due to fog). Detailed month-by-m
 **Do kids count as full fare on shared seats?** Union counters bill children above five as adults; private charters often waive charges for under-tens.  
 
 ## 10. Cross Links
-Need timing precision? Open Sunrise Timings. Want evening alignment & on‑water positioning? See Evening Boat Ride guide.
+Need timing precision? Open Sunrise Timings. Want evening alignment & on‑water positioning? See Evening Boat Ride guide. Planning the full Assi Ghat to Namo Ghat stretch? See the [84 ghats boat tour guide](/en/city/varanasi/activities/84-ghats-boat-tour-varanasi) for that route's price and timings.
