@@ -539,11 +539,10 @@ const nextConfig = {
         destination: '/en',
         permanent: false,
       },
-      {
-        source: '/hi/safety-and-security-in-varanasi-guide-for-solo-travellar',
-        destination: '/en/safety-and-security-in-varanasi-guide-for-solo-travellar',
-        permanent: false, // Temporary until Hindi translation
-      },
+      // NOTE: /hi/safety-and-security-in-varanasi-guide-for-solo-travellar used to
+      // redirect to the English page "until Hindi translation". The Hindi page now
+      // exists (content/hi/…solo-travellar.md), so the redirect was removed to serve
+      // the real Hindi content instead of bouncing users to English.
       {
         source: '/hi/vegetarian-cafes-near-assi-ghat',
         destination: '/en',

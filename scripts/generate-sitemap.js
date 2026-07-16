@@ -21,6 +21,46 @@ function normalizeAbsoluteUrl(url) {
   return `${BASE_URL}${normalizedPath}`.replace(/\/+$/, '');
 }
 
+// Compile Next.js redirect `source` patterns into anchored RegExps so the
+// sitemap never lists a URL that immediately 301s. Google reports such URLs as
+// "Page with redirect" and drops them from the index, so advertising them in the
+// sitemap is self-defeating.
+function compileRedirectMatchers(redirects) {
+  const matchers = [];
+  for (const r of redirects || []) {
+    if (!r || typeof r.source !== 'string') continue;
+    try {
+      const re = r.source
+        // Escape regex specials, but keep ( ) | so :param(a|b) groups survive.
+        .replace(/[.+?^${}[\]\\]/g, ch => '\\' + ch)
+        .replace(/:(\w+)\(([^)]+)\)/g, '(?:$2)') // :param(a|b) -> (?:a|b)
+        .replace(/:(\w+)[*+]/g, '.*')            // :param* / :param+ -> .*
+        .replace(/:(\w+)\?/g, '[^/]*')           // :param? -> optional segment
+        .replace(/:(\w+)/g, '[^/]+');            // :param -> single segment
+      matchers.push(new RegExp('^' + re + '$'));
+    } catch {
+      /* skip malformed source pattern */
+    }
+  }
+  return matchers;
+}
+
+async function loadRedirectMatchers() {
+  try {
+    const cfg = require('../next.config.js');
+    if (cfg && typeof cfg.redirects === 'function') {
+      return compileRedirectMatchers(await cfg.redirects());
+    }
+  } catch (e) {
+    console.warn('Sitemap: could not load redirects for filtering —', e.message);
+  }
+  return [];
+}
+
+function pathnameOfLoc(loc) {
+  return loc.replace(/^https?:\/\/[^/]+/, '') || '/';
+}
+
 function shouldEmitCanonicalizedEntry(loc, fm = {}) {
   // Never emit pages that are explicitly noindex or draft.
   if (fm?.noindex === true || fm?.draft === true) return false;
@@ -130,10 +170,15 @@ function collectContentUrls() {
   return urls;
 }
 
-function generateSitemap() {
+async function generateSitemap() {
   const urlEntries = new Map();
   const contentUrls = collectContentUrls();
-  
+  const redirectMatchers = await loadRedirectMatchers();
+  const isRedirectingLoc = (loc) => {
+    const p = pathnameOfLoc(loc);
+    return redirectMatchers.some(rx => rx.test(p));
+  };
+
   const add = (loc, priority = '0.8', changefreq = 'weekly', meta = {}) => {
     urlEntries.set(loc, { priority, changefreq, ...meta });
   };
@@ -228,6 +273,22 @@ function generateSitemap() {
     { lang: 'hi-IN', url: `${BASE_URL}/hi/` }
   ]});
 
+  // Drop any URL that immediately 301s (redirect source) so we never advertise a
+  // redirecting URL to crawlers, and scrub redirecting hreflang alternates.
+  let removedRedirecting = 0;
+  for (const loc of Array.from(urlEntries.keys())) {
+    if (isRedirectingLoc(loc)) {
+      urlEntries.delete(loc);
+      removedRedirecting++;
+    }
+  }
+  for (const meta of urlEntries.values()) {
+    if (Array.isArray(meta.hreflang) && meta.hreflang.length) {
+      meta.hreflang = meta.hreflang.filter(alt => !isRedirectingLoc(alt.url));
+      if (meta.hreflang.length <= 1) meta.hreflang = [];
+    }
+  }
+
   // Build XML with hreflang support
   const nowIso = new Date().toISOString();
   const sorted = Array.from(urlEntries.keys()).sort();
@@ -263,8 +324,14 @@ function generateSitemap() {
   });
 
   console.log('Sitemap regenerated with hreflang tags. URLs:', sorted.length);
+  if (removedRedirecting) {
+    console.log(`Excluded ${removedRedirecting} redirecting URL(s) from sitemap.`);
+  }
   console.log('Sitemap outputs:');
   SITEMAP_OUTPUT_PATHS.forEach((p) => console.log('-', p));
 }
 
-generateSitemap();
+generateSitemap().catch((e) => {
+  console.error('Sitemap generation failed:', e);
+  process.exit(1);
+});
