@@ -35,7 +35,7 @@ commerce:
     - "Fixed, transparent pricing"
     - "No advance to book"
     - "Women & family friendly"
-  startingPrice: "1500"
+  startingPrice: "3499"
   startingPriceUnit: "per boat"
   duration: "1 – 1.5 hr"
   passengerRange: "1-6"
@@ -43,7 +43,7 @@ commerce:
   selector: "members"
   offers:
     - name: "Private morning boat tour (up to 6)"
-      price: "1500"
+      price: "3499"
       priceCurrency: "INR"
       priceUnit: "per boat"
       priceType: "from"
@@ -59,7 +59,7 @@ commerce:
       priceAssumptions: "Whole boat, up to 6 people, morning/sunrise slot (approx. 5:30–7:00 AM)"
       priceUpdated: "2026-07-16"
     - name: "Private evening Ganga Aarti boat (up to 6)"
-      price: "2200"
+      price: "3499"
       priceCurrency: "INR"
       priceUnit: "per boat"
       priceType: "from"
@@ -134,8 +134,8 @@ commerce:
 
 > **TL;DR — Varanasi private boat rides:**
 >
-> - **Private morning boat tour (up to 6)** → from ₹1,500 per boat
-> - **Private evening Ganga Aarti boat (up to 6)** → from ₹2,200 per boat
+> - **Private morning boat tour (up to 6)** → ₹3,499 per boat
+> - **Private evening Ganga Aarti boat (up to 6)** → ₹3,499 per boat
 > - **Best time** → sunrise (5:30–7:00 AM) or the evening Ganga Aarti
 > - **Your boat only** → no strangers, your family's own pace
 > - **Included** → life jackets, vetted boatman, flexible timing
