@@ -57,7 +57,8 @@ faqSchema:
       Chhath Puja celebration spots. Namo Ghat is newest and less crowded.
   - q: How much does airport to ghat taxi cost during Chhath Puja?
     a: >-
-      Airport to ghat fare is ₹899-1,200 for sedan, ₹1,800 for Innova. Book in
+      Airport to ghat fares start at ₹899 for a sedan, ₹1,299 for an Ertiga,
+      ₹1,500 for an Innova, and ₹2,500 for a 17-seater Tempo Traveller. Book in
       advance as surge pricing applies during Chhath week.
   - q: Are roads closed during Chhath Puja in Varanasi?
     a: >-
@@ -89,7 +90,7 @@ relatedPosts:
 > | **Sandhya Arghya** (sunset) | Fri, October 30 |
 > | **Usha Arghya** (sunrise) | Sat, October 31 |
 > | **Best ghats** | Chhath Ghat, Assi Ghat, Namo Ghat |
-> | **Airport → Ghat taxi** | Sedan ₹899 · Innova ₹1,200 |
+> | **Airport → Ghat taxi** | Sedan ₹899 · Ertiga ₹1,299 · Innova ₹1,500 · 17-seater Tempo ₹2,500 |
 > | **Station pickup** | ₹400–600 |
 > | **Road closures** | Oct 30, 3 PM → Oct 31, noon |
 > | **Book now** | [WhatsApp](https://wa.me/919935474730?text=Chhath%20Puja%20taxi%20booking) · 📞 9935474730 |
@@ -256,8 +257,9 @@ This is the section most people are here for. Straight numbers, no hidden charge
 | Vehicle | Airport → Ghat | Airport → Hotel (Cantt area) | Airport → Namo Ghat |
 |---|---|---|---|
 | **Sedan** (Swift Dzire / Etios) | ₹899 | ₹800 | ₹750 |
-| **SUV** (Innova / Ertiga) | ₹1,200 | ₹1,100 | ₹1,000 |
-| **Tempo Traveller** (12-seater) | ₹1,800 | ₹1,700 | ₹1,600 |
+| **Ertiga** (7-seater) | ₹1,299 | ₹1,100 | ₹1,000 |
+| **Innova** (6/7-seater) | ₹1,500 | ₹1,100 | ₹1,000 |
+| **Tempo Traveller** (17-seater) | ₹2,500 | ₹1,700 | ₹1,600 |
 
 > These are **fixed rates for pre-booked rides** during Chhath week. Walk-in rates at the airport counter or app-based cabs will charge ₹1,800-2,500 for a sedan during Oct 28-31.
 

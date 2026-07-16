@@ -37,10 +37,10 @@ const fadeUp = {
 const KASHITAXI_RATES = [
   { vehicle: "Indica", airport: 850, p8: 1500, p12: 2000, perKm: 10, notes: "Min 250 km/day outstation; driver night ₹300 after 9 pm" },
   { vehicle: "Indigo", airport: 750, p8: 1400, p12: 1700, perKm: 8.5, notes: "Small sedan; 250 km minimum" },
-  { vehicle: "Swift Dzire", airport: 900, p8: 1800, p12: 2200, perKm: 11, notes: "Popular 4‑seater" },
+  { vehicle: "Swift Dzire", airport: 899, p8: 1800, p12: 2200, perKm: 11, notes: "Popular 4‑seater" },
   { vehicle: "Honda Amaze", airport: 1000, p8: 2000, p12: 2500, perKm: 12, notes: "Roomier sedan" },
-  { vehicle: "Ertiga (7‑seater)", airport: 1150, p8: 2000, p12: 2800, perKm: 14, notes: "Small groups; 250 km min" },
-  { vehicle: "Toyota Innova", airport: 1250, p8: 2500, p12: 3000, perKm: 15, notes: "6/7‑seater SUV" },
+  { vehicle: "Ertiga (7‑seater)", airport: 1299, p8: 2000, p12: 2800, perKm: 14, notes: "Small groups; 250 km min" },
+  { vehicle: "Toyota Innova", airport: 1500, p8: 2500, p12: 3000, perKm: 15, notes: "6/7‑seater SUV" },
   { vehicle: "Toyota Crysta", airport: 1500, p8: 2800, p12: 3500, perKm: 17, notes: "Premium SUV" },
   { vehicle: "Honda City", airport: 1800, p8: 3000, p12: 4000, perKm: 18, notes: "Premium sedan" },
   { vehicle: "Tempo Traveller (10–17)", airport: 2500, p8: 5500, p12: 6500, perKm: 25, notes: "Ideal for large families" },

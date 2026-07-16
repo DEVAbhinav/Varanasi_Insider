@@ -24,8 +24,9 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
             highlight: true,
             rates: [
                 { vehicle: 'Sedan', price: '₹899', note: 'Dzire/Etios' },
-                { vehicle: 'Innova', price: '₹1,200', note: '6-seater' },
-                { vehicle: 'Tempo', price: '₹1,800', note: '12-seater' },
+                { vehicle: 'Ertiga', price: '₹1,299', note: '7-seater' },
+                { vehicle: 'Innova', price: '₹1,500', note: '6-seater' },
+                { vehicle: 'Tempo', price: '₹2,500', note: '17-seater' },
             ],
         },
         {
@@ -159,7 +160,7 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                                         <div className="flex items-center gap-2">
                                             <span className={`px-2 py-0.5 rounded text-[10px] font-medium ${rate.vehicle === 'Sedan'
                                                 ? 'bg-blue-50 text-blue-700'
-                                                : rate.vehicle === 'Innova'
+                                                : rate.vehicle === 'Ertiga' || rate.vehicle === 'Innova'
                                                     ? 'bg-purple-50 text-purple-700'
                                                     : 'bg-orange-50 text-orange-700'
                                                 }`}>

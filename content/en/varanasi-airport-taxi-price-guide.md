@@ -7,7 +7,7 @@ author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 metaTitle: "Varanasi Airport Taxi Price Guide 2026: Fixed Cabs from ₹700 | No Surge"
-metaDescription: "Varanasi airport taxi fare: sedan ₹700, Innova ₹1,250, tempo ₹2,100. Fixed-price, no surge. 25 km to city in 40 min. Night cap ₹1,699. WhatsApp booking with flight tracking."
+metaDescription: "Varanasi airport taxi fare: sedan ₹899, Ertiga ₹1,299, Innova ₹1,500, tempo ₹2,500. Fixed-price, no surge. 25 km to city in 40 min. WhatsApp booking with flight tracking."
 description: "Updated Dec 2026 Varanasi airport taxi fares to Assi, Dashashwamedh, BHU, and Sarnath with live tables, pickup point map, refund policies, and booking links."
 keywords:
   - "varanasi airport taxi fare today"
@@ -63,9 +63,10 @@ Updated: Dec 2026 · 25–30 km · 40–45 min drive
 
 > **TL;DR — Varanasi airport taxi fares (Dec 2026):**
 >
-> - **Sedan** → from ₹700 (Flash ₹890 when you confirm within 2 hours)
-> - **Innova Crysta** → ₹1,250–₹1,550
-> - **Tempo Traveller** → around ₹2,100
+> - **Sedan** → ₹899
+> - **Ertiga (7-seater)** → ₹1,299
+> - **Innova** → ₹1,500
+> - **Tempo Traveller (17-seater)** → ₹2,500
 > - **Night surcharge** → capped at ₹150–₹200
 >
 > Book via WhatsApp before take-off, meet your driver at Gate 3 Arrivals, and keep the refund clause handy if flights slip beyond 90 minutes.
@@ -94,22 +95,22 @@ Updated: Dec 2026 · 25–30 km · 40–45 min drive
     <tbody>
       <tr>
         <td>Sedan (Dzire/Etios)</td>
-        <td>₹700 – ₹950 (Flash ₹890*)</td>
+        <td>₹899</td>
         <td>+₹150 after 9 PM</td>
       </tr>
       <tr>
-        <td>Mini SUV (Ertiga)</td>
-        <td>₹1,050 – ₹1,250</td>
+        <td>Ertiga (7-seater)</td>
+        <td>₹1,299</td>
         <td>+₹200 night buffer</td>
       </tr>
       <tr>
-        <td>Innova Crysta</td>
-        <td>₹1,250 – ₹1,550</td>
-        <td>Flat ₹1,699 (night included)</td>
+        <td>Innova</td>
+        <td>₹1,500</td>
+        <td>+₹200 night buffer</td>
       </tr>
       <tr>
-        <td>Tempo Traveller (12-seater)</td>
-        <td>₹2,000 – ₹2,300</td>
+        <td>Tempo Traveller (17-seater)</td>
+        <td>₹2,500</td>
         <td>Driver allowance already included</td>
       </tr>
     </tbody>

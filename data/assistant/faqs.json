@@ -51,8 +51,8 @@
             "category": "pricing",
             "question_hi": "एयरपोर्ट से घाट तक कितना चार्ज?",
             "question_en": "What's the fare from airport to ghats?",
-            "answer_hi": "एयरपोर्ट से घाट तक:\n• Sedan: ₹600-₹800\n• Innova: ₹1,000-₹1,200\n• Tempo (12-seater): ₹2,500\n• Night charge (10PM-5AM): +₹150-300",
-            "answer_en": "Airport to ghats:\n• Sedan: ₹600-₹800\n• Innova: ₹1,000-₹1,200\n• Tempo (12-seater): ₹2,500\n• Night charge (10PM-5AM): +₹150-300",
+            "answer_hi": "एयरपोर्ट से घाट तक:\n• Sedan: ₹899\n• Ertiga: ₹1,299\n• Innova: ₹1,500\n• Tempo (17-seater): ₹2,500\n• Night charge (10PM-5AM): +₹150-300",
+            "answer_en": "Airport to ghats:\n• Sedan: ₹899\n• Ertiga: ₹1,299\n• Innova: ₹1,500\n• Tempo (17-seater): ₹2,500\n• Night charge (10PM-5AM): +₹150-300",
             "keywords": [
                 "airport",
                 "ghat",
@@ -68,8 +68,8 @@
             "category": "pricing",
             "question_hi": "टेम्पो ट्रैवलर का रेट क्या है?",
             "question_en": "What are tempo traveller rates?",
-            "answer_hi": "Tempo Traveller Rates:\n• 12-seater: Airport ₹2,500 | Local Day ₹5,500\n• 17-seater: Airport ₹3,000 | Local Day ₹6,500\n• Outstation: ₹25-27/km (min 250km/day)",
-            "answer_en": "Tempo Traveller Rates:\n• 12-seater: Airport ₹2,500 | Local Day ₹5,500\n• 17-seater: Airport ₹3,000 | Local Day ₹6,500\n• Outstation: ₹25-27/km (min 250km/day)",
+            "answer_hi": "Tempo Traveller Rates:\n• 12-seater: Airport ₹2,500 | Local Day ₹5,500\n• 17-seater: Airport ₹2,500 | Local Day ₹6,500\n• Outstation: ₹25-27/km (min 250km/day)",
+            "answer_en": "Tempo Traveller Rates:\n• 12-seater: Airport ₹2,500 | Local Day ₹5,500\n• 17-seater: Airport ₹2,500 | Local Day ₹6,500\n• Outstation: ₹25-27/km (min 250km/day)",
             "keywords": [
                 "tempo",
                 "rate",

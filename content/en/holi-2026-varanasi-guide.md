@@ -50,7 +50,7 @@ faqSchema:
       be your safe pickup point.
   - q: How much does a taxi cost during Holi in Varanasi?
     a: >-
-      Airport pickup ₹899-1,200. Full-day city tour ₹2,500-3,500. Most vehicles
+      Airport pickup ₹899-2,500 by vehicle. Full-day city tour ₹2,500-3,500. Most vehicles
       need post-Holi cleaning charge of ₹200-300 extra.
 relatedPosts:
   - ganga-aarti-timing-varanasi-2026
