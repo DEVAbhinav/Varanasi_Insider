@@ -38,9 +38,9 @@ faq:
   - question: "How far is Varanasi airport to Kashi Vishwanath temple and what is the taxi fare?"
     answer: "Varanasi airport (LBS International, VNS) to Kashi Vishwanath Temple is 25 km. Taxi fare is ₹750–₹950 for a sedan and ₹1,250–₹1,500 for an Innova Crysta (2026 fixed rates). Travel time is 45–55 minutes. Drivers drop at Godowlia/Dasaswamedh Road — 5–8 min walk to the temple entrance — as the corridor is vehicle-free."
   - question: "What is the taxi fare from Varanasi airport to Varanasi railway station?"
-    answer: "Varanasi airport to Varanasi Junction (Cantt) is 22 km with a fixed sedan fare of ₹690–₹750 and Innova ₹1,200–₹1,400. For Banaras City Station (BCY/Manduadih), the distance is 21 km and fare is ₹700–₹900 sedan. Both include tolls, airport entry, and a 30-minute flight delay buffer."
+    answer: "Varanasi airport to Varanasi Junction (Cantt) is 22 km with a fixed sedan fare of ₹890–₹750 and Innova ₹1,200–₹1,400. For Banaras City Station (BCY/Manduadih), the distance is 21 km and fare is ₹700–₹900 sedan. Both include tolls, airport entry, and a 30-minute flight delay buffer."
   - question: "Do fares stay fixed during Dev Deepawali or other peak days?"
-    answer: "Yes. Festival blackout dates only pause the Flash ₹690 sedan but the published fare grid remains unchanged and every confirmation carries a Surge Shield note to block last-minute markups."
+    answer: "Yes. Festival blackout dates only pause the Flash ₹890 sedan but the published fare grid remains unchanged and every confirmation carries a Surge Shield note to block last-minute markups."
   - question: "What if my flight is delayed beyond the 30-minute buffer?"
     answer: "Flights under 90-minute delay are absorbed for free. Beyond that we either keep the same driver at ₹100 per 15-minute standby or re-dispatch a new cab at no extra booking fee."
   - question: "Can I split payment or pay digitally?"
@@ -55,12 +55,12 @@ faq:
 
 # Varanasi Airport to City Cab (2026 Fixed Fares)
 
-> **TL;DR:** Book your taxi from Varanasi airport to city at fixed rates—₹700–₹950 sedan (Flash ₹690 weekday window), ₹1,050–₹1,550 SUVs, and ₹2,000–₹2,300 tempo Travellers. _Check varanasi airport to city taxi fare live rates below._ Every booking includes meet-and-greet at Gate 3, baggage assist, 30-minute flight delay buffer, and **surge protection even on Dev Deepawali, Mahashivratri, and New Year crowds.**
+> **TL;DR:** Book your taxi from Varanasi airport to city at fixed rates—₹700–₹950 sedan (Flash ₹890 weekday window), ₹1,050–₹1,550 SUVs, and ₹2,000–₹2,300 tempo Travellers. _Check varanasi airport to city taxi fare live rates below._ Every booking includes meet-and-greet at Gate 3, baggage assist, 30-minute flight delay buffer, and **surge protection even on Dev Deepawali, Mahashivratri, and New Year crowds.**
 
 ### 2026 Snapshot at a Glance
 
 - **Coverage:** Assi, Dashashwamedh, BHU, Lanka, Cantonment, Sigra, NaMo Ghat, Sarnath, Ramnagar, and all station drops.
-- **Fares:** Sedan ₹700–₹950 (Flash ₹690); Innova ₹1,250–₹1,550; Tempo Traveller ₹2,000–₹2,300.
+- **Fares:** Sedan ₹700–₹950 (Flash ₹890); Innova ₹1,250–₹1,550; Tempo Traveller ₹2,000–₹2,300.
 - **Night Policy:** Flat +₹150 (sedan) / +₹200 (SUV) / already included for tempo; never more than published grid.
 - **Contact:** WhatsApp/Call **+91 94503 01573** with flight screenshot for instant confirmation.
 - **Reference:** Cross-check fares with the [Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide) whenever you need the wider city transport matrix.
@@ -78,7 +78,7 @@ faq:
     <tbody>
       <tr>
         <td>Sedan (Dzire/Etios)</td>
-        <td>₹700 – ₹950 (Flash ₹690*)</td>
+        <td>₹700 – ₹950 (Flash ₹890*)</td>
         <td>+₹150 after 21:00</td>
       </tr>
       <tr>
@@ -142,7 +142,7 @@ Two stations serve Varanasi city; fares and distances differ:
 
 | Station | Distance | Travel Time | Sedan Fare | Innova Fare |
 |---|---|---|---|---|
-| Varanasi Junction (Cantt / DDU) | 22 km | 35–45 min | ₹690 Flash / ₹750 std | ₹1,200–₹1,400 |
+| Varanasi Junction (Cantt / DDU) | 22 km | 35–45 min | ₹890 Flash / ₹750 std | ₹1,200–₹1,400 |
 | Banaras City Station (BCY) / Manduadih | 21 km | 35–45 min | ₹700–₹900 | ₹1,200–₹1,400 |
 
 **Which station should I book a drop to?**  
@@ -164,7 +164,7 @@ Drivers track your flight and time the drop to reach the station with at least 4
 | Assi Ghat / Bhelupura cafés | 26–27 km | ₹700–₹950 | [Airport → Assi Ghat](/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi) |
 | Dashashwamedh / Godowlia (Ganga Aarti) | 24–25 km | ₹750–₹950 | [Airport → Dashashwamedh](/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-taxi) |
 | Sarnath Buddhist circuit | 32 km | ₹850–₹1,050 | [Airport → Sarnath](/en/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi) |
-| Varanasi Junction (Cantt Station) | 22 km | ₹690 Flash / ₹750 std | [Airport → Cantt Station](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) |
+| Varanasi Junction (Cantt Station) | 22 km | ₹890 Flash / ₹750 std | [Airport → Cantt Station](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) |
 | Banaras City Station (BCY) / Old City | 21 km | ₹700–₹900 | [Airport → City Station](/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-taxi) |
 | Kashi Vishwanath Corridor & temples | 25 km | ₹750–₹950 | [Airport → Kashi Vishwanath](/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi) |
 | BHU / Lanka hostels | 20 km | ₹800–₹950 | [Airport → BHU/Lanka guide](/en/varanasi-airport-taxi-price-guide) |
@@ -228,7 +228,7 @@ Need a quote faster than email? Tap the WhatsApp button below, share your arriva
 ## Surge-Protection FAQ
 
 **Q1. Do fares stay fixed during Dev Deepawali or other peak days?**  
-Yes. Festival blackout dates only pause the Flash ₹690 sedan but our standard fare grid stays unchanged. Quotes issued on WhatsApp include a “Surge Shield” line so drivers cannot add extras on arrival.
+Yes. Festival blackout dates only pause the Flash ₹890 sedan but our standard fare grid stays unchanged. Quotes issued on WhatsApp include a “Surge Shield” line so drivers cannot add extras on arrival.
 
 **Q2. What if my flight is delayed beyond the 30-minute buffer?**  
 We automatically track your flight. Delays under 90 minutes are free. After 90 minutes we either (a) keep the same driver at ₹100/15-minute standby or (b) re-dispatch the next available car with zero rebooking fee.

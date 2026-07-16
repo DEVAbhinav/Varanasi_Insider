@@ -136,7 +136,7 @@
                     "airport_day": {
                         "min": 700,
                         "max": 950,
-                        "flash_rate": 690
+                        "flash_rate": 890
                     },
                     "airport_night_surcharge": 150,
                     "local_8hr_80km": {

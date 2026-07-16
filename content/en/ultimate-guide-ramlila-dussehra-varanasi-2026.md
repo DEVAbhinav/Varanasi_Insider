@@ -3,7 +3,7 @@ lang: en
 title: Ramlila Dussehra Varanasi 2026 - Book Airport Taxi Guide
 description: >-
   Ramlila Dussehra 2026 Varanasi dates, schedule, venues. Book airport taxi for
-  ₹690. Festival crowds, parking, viewing spots explained. 99354 74730.
+  ₹890. Festival crowds, parking, viewing spots explained. 99354 74730.
 date: 2026-07-15
 tags:
   - ramlila varanasi 2026
@@ -133,7 +133,7 @@ relatedPosts:
 ## Book Your Festival Taxi Now
 
 🎭 Ramlila Event Dates: Oct 2-12, 2026
-🚕 Airport to Event Venue Taxi: ₹690
+🚕 Airport to Event Venue Taxi: ₹890
 ⏰ Peak travel time: 4-6 PM
 
 [**BOOK RAMLILA TAXI**](https://wa.me/919935474730?text=Book%20Ramlila%20Taxi)

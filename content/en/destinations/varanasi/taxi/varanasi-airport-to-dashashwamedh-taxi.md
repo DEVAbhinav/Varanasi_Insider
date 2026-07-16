@@ -1,13 +1,13 @@
 ---
-title: "Airport to Dashashwamedh Taxi ₹690 | 40-min | Book Now"
+title: "Airport to Dashashwamedh Taxi ₹890 | 40-min | Book Now"
 slug: "varanasi-airport-to-dashashwamedh-taxi"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "VNS Airport to Dashashwamedh Ghat Taxi ₹690–950 | 25 km"
-metaDescription: "Airport to Dashashwamedh: 25 km, usually 40–55 min. Sedan ₹800–950 (flash ₹690 on eligible bookings). Aim to arrive 45–60 min before Ganga Aarti."
-description: "Varanasi Airport to Dashashwamedh Ghat taxi ₹690 (Flash offer 2 hours). 25km, 40-55 min. Book instant or call 99354 74730. Catch 6:30 PM Ganga Aarti."
+metaTitle: "VNS Airport to Dashashwamedh Ghat Taxi ₹890–950 | 25 km"
+metaDescription: "Airport to Dashashwamedh: 25 km, usually 40–55 min. Sedan ₹800–950 (flash ₹890 on eligible bookings). Aim to arrive 45–60 min before Ganga Aarti."
+description: "Varanasi Airport to Dashashwamedh Ghat taxi ₹890 (Flash offer 2 hours). 25km, 40-55 min. Book instant or call 99354 74730. Catch 6:30 PM Ganga Aarti."
 location:
   name: "Dashashwamedh Ghat"
   address: "Dashashwamedh Ghat Rd, Varanasi, Uttar Pradesh 221001"
@@ -30,20 +30,20 @@ faqSchema:
   - question: "How long does it take to reach Dashashwamedh Ghat from VNS by taxi?"
     answer: "Most trips finish in 40–55 minutes; plan an extra 15 minutes between 5–8 PM as Ganga Aarti rehearsals tighten barricades."
   - question: "What is the taxi fare from Varanasi Airport to Dashashwamedh Ghat?"
-    answer: "Pre-booked sedans cost ₹800–950, mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,100 for a single drop with luggage handling. Flash offer ₹690 available."
+    answer: "Pre-booked sedans cost ₹800–950, mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,100 for a single drop with luggage handling. Flash offer ₹890 available."
   - question: "Can Ola or Uber drop at Dashashwamedh during Ganga Aarti?"
     answer: "App cabs operate until the Godowlia barricade but often cancel during evening surges; pre-arranged taxis have staging slots with marshals."
   - question: "What time should I leave the airport to catch the Ganga Aarti?"
     answer: "For the 6:30–7:00 PM Ganga Aarti, target a 4:45–5:00 PM airport departure to clear city traffic, collect your hotel keys, and reach viewing ghats 45 minutes early."
 ---
 
-# Varanasi Airport to Dashashwamedh Ghat Taxi | ₹690 Flash Offer
+# Varanasi Airport to Dashashwamedh Ghat Taxi | ₹890 Flash Offer
 
 **Book Instant Now** | Call: [9450301573](tel:+919935474730) | WhatsApp: [wa.me/919935474730](https://wa.me/919935474730?text=Hi,%20I%20need%20taxi%20from%20airport%20to%20Dashashwamedh.%20What's%20my%20best%20time?)
 
-**Quick Facts:** 25 km • 40-55 minutes • ₹690-950 • 4.8★ Verified
+**Quick Facts:** 25 km • 40-55 minutes • ₹890-950 • 4.8★ Verified
 
-[**BOOK NOW - ₹690**](https://wa.me/919935474730?text=Hi,%20I%20need%20taxi%20from%20airport%20to%20Dashashwamedh.%20What's%20my%20best%20time?)
+[**BOOK NOW - ₹890**](https://wa.me/919935474730?text=Hi,%20I%20need%20taxi%20from%20airport%20to%20Dashashwamedh.%20What's%20my%20best%20time?)
 
 **Perfect for:** Catching 6:30 PM Ganga Aarti | Business travelers | First-time visitors
 
@@ -58,7 +58,7 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Dashashwamedh%20Ghat)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby for Godowlia barricade).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby for Godowlia barricade).
 
 ## Best Varanasi Airport to Dashashwamedh Ghat route
 Exit the airport toward Ring Road, glide past the Harhua flyover, and follow Lahartara crossing to the Godowlia junction. Traffic marshals queue vehicles at the barricade and allow pre-booked cabs toward the Dashashwamedh slip road. When Lahartara is choked, reroute through Sigra and Luxa to merge near Godowlia. Evening Ganga Aarti rehearsals from 5 PM onward slow the last kilometre—flag the driver to detour via Maidagin if police divert traffic.
@@ -76,7 +76,7 @@ Exit the airport toward Ring Road, glide past the Harhua flyover, and follow Lah
 - **Same-evening hotel check-in?** Leave luggage with the driver; porters ferry it after the ceremony so you don’t waste the time-critical window.
 
 ## Varanasi Airport to Dashashwamedh Ghat taxi fare
-- Economy sedan: **₹800–950** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹800–950** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,150–1,350** covering luggage and barricade facilitation.
 - Tempo Traveller (12-seater): **₹2,100** inclusive of driver night allowance.
 - Night arrivals post 9 PM: add **₹150** unless prepaid.

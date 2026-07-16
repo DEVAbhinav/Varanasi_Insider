@@ -27,7 +27,7 @@ faqSchema:
   - question: "How long does a taxi take from VNS to Tulsi Ghat?"
     answer: "Allow 40–55 minutes; evening Ramleela rehearsals at Nagwa can add 10 minutes to the last kilometre."
   - question: "What is the taxi fare from Varanasi Airport to Tulsi Ghat?"
-    answer: "Sedans cost ₹800–900 standard (Flash ₹690 within 2 hours), mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,100 with driver allowance."
+    answer: "Sedans cost ₹800–900 standard (Flash ₹890 within 2 hours), mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,100 with driver allowance."
   - question: "Can Ola or Uber drop at Tulsi Ghat?"
     answer: "App drivers reach Nagwa crossing but often avoid the ghat lane; pre-booked taxis coordinate with stage marshals for safe entry."
   - question: "When should I depart the airport for Tulsi Ghat Ramleela?"
@@ -48,13 +48,13 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Tulsi%20Ghat)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Tulsi theatre lane).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Tulsi theatre lane).
 
 ## Best Varanasi Airport to Tulsi Ghat route
 Drive Ring Road toward the Harhua flyover, continue past the BHU Gate signal, and turn toward Nagwa. This lane bypasses the Godowlia choke and brings you straight to the Tulsi theatre plaza. When Nagwa is jammed during Ramleela rehearsals, drivers switch to the Assi bypass and approach from the southern embankment, adding about six minutes but keeping vehicles moving.
 
 ## Varanasi Airport to Tulsi Ghat taxi fare
-- Economy sedan: **₹800–900** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹800–900** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,150–1,350** with space for costumes and sound equipment.
 - Tempo Traveller (12-seater): **₹2,100** covering driver allowance and lane marshals, ideal for performers.
 - Night buffer: **₹150** post 9 PM, typically waived for prepaid rehearsals.
@@ -81,7 +81,7 @@ Allocate an extra 10 minutes between 5–8 PM when performances attract crowds a
 They operate to Nagwa but cancel frequently once lane barricades appear. Reserved taxis have marshals who guide cars to the stage entry.
 
 ### What is the most economical transfer?
-Changing two autos along the ghats takes over 80 minutes. A ₹690 flash sedan provides the quickest, receipt-backed transfer with AC comfort.
+Changing two autos along the ghats takes over 80 minutes. A ₹890 flash sedan provides the quickest, receipt-backed transfer with AC comfort.
 
 ### When should I leave to make the Ramleela on time?
 Target a 5 PM departure for a 7 PM show. That gives room to check in, freshen up, and secure front-row seating 30 minutes before the play. Discover more ghat routes in our [Varanasi ghats guide](/en/guide-to-10-most-important-ghats-of-varanasi).

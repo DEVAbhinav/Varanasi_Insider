@@ -27,7 +27,7 @@ faqSchema:
   - question: "How long does a taxi take from VNS to Raj Ghat?"
     answer: "Expect 50–65 minutes; daytime traffic near Sarnath Road or Adi Keshav bridge can add 10 minutes."
   - question: "What is the taxi fare from VNS to Raj Ghat?"
-    answer: "Sedans cost ₹850–1,000 standard (Flash ₹690 within 2 hours), mid SUVs ₹1,200–1,400, and tempo Travellers ₹2,200 with driver allowance."
+    answer: "Sedans cost ₹850–1,000 standard (Flash ₹890 within 2 hours), mid SUVs ₹1,200–1,400, and tempo Travellers ₹2,200 with driver allowance."
   - question: "Do app cabs reach Raj Ghat?"
     answer: "App cabs operate but often decline the Adi Keshav lane; reserved taxis coordinate permits and park near the bridgehead."
   - question: "What time should I leave the airport for sunrise at Raj Ghat?"
@@ -48,13 +48,13 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Raj%20Ghat)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Adi Keshav bridgehead).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Adi Keshav bridgehead).
 
 ## Best Varanasi Airport to Raj Ghat route
 Exit via Ring Road, merge onto Sarnath Road, and continue toward the Adi Keshav bridge. The lane beside the ancient temple brings you directly to Raj Ghat without entering congested Godowlia. During daytime tourist rush, drivers detour via the Ring Road–Varuna bridge loop and approach from the northern embankment, adding roughly eight minutes but keeping you inside broad roads.
 
 ## Varanasi Airport to Raj Ghat taxi fare
-- Economy sedan: **₹850–1,000** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹850–1,000** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,200–1,400** suited for families carrying offerings for Adi Keshav.
 - Tempo Traveller (12-seater): **₹2,200** including driver allowance and bridge parking slips.
 - Night buffer: **₹180** after 9 PM; often waived for prepaid yatras.
@@ -81,7 +81,7 @@ Allow 60–70 minutes on Kartik Purnima or Varuna snan days when devotees slow t
 They operate but often cancel at the Adi Keshav lane. Reserved taxis secure parking slips and wait through temple queues. 
 
 ### What is the most economical ride?
-Multiple auto changes exceed 90 minutes and lack luggage space. A ₹690 flash sedan keeps the trip under an hour with GST receipts.
+Multiple auto changes exceed 90 minutes and lack luggage space. A ₹890 flash sedan keeps the trip under an hour with GST receipts.
 
 ### When should I leave the airport for sunrise darshan?
 Depart by 4:30 AM to reach by 5:30 AM, giving time for a quick dip and temple darshan prior to sunrise. Dive into more ghat planning inside our [Varanasi ghats guide](/en/guide-to-10-most-important-ghats-of-varanasi).

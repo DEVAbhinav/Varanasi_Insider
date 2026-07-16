@@ -1,13 +1,13 @@
 ---
-title: "VNS Airport to NaMo Ghat Taxi ₹690 | Light Show Drop, 35min Route"
+title: "VNS Airport to NaMo Ghat Taxi ₹890 | Light Show Drop, 35min Route"
 slug: "varanasi-airport-to-namo-ghat-taxi"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "VNS Airport to NaMo Ghat Taxi from ₹690 | 24 km, 35–50 min"
-metaDescription: "Airport to NaMo Ghat (Khidkiya): 24 km, usually 35–50 min. Taxi from ₹690 (flash on eligible bookings). Best timing tips for the evening light show."
-description: "NaMo Ghat taxi from airport ₹690 | 24km, 35-45 min to light show & promenade. Instant booking or call 99354 74730. Perfect for evening events."
+metaTitle: "VNS Airport to NaMo Ghat Taxi from ₹890 | 24 km, 35–50 min"
+metaDescription: "Airport to NaMo Ghat (Khidkiya): 24 km, usually 35–50 min. Taxi from ₹890 (flash on eligible bookings). Best timing tips for the evening light show."
+description: "NaMo Ghat taxi from airport ₹890 | 24km, 35-45 min to light show & promenade. Instant booking or call 99354 74730. Perfect for evening events."
 keywords:
   - "varanasi airport to namo ghat distance"
   - "namo ghat taxi fare"
@@ -31,7 +31,7 @@ faqSchema:
   - question: "How long does a taxi take from VNS to NaMo Ghat?"
     answer: "Allow 35–50 minutes; evening fountain shows increase traffic around the promenade and may add 10 minutes."
   - question: "What is the taxi fare from VNS to NaMo Ghat?"
-    answer: "Sedans cost ₹780–900 standard (Flash ₹690 within 2 hours), mid SUVs ₹1,120–1,320, and tempo Travellers ₹2,080 with driver allowance."
+    answer: "Sedans cost ₹780–900 standard (Flash ₹890 within 2 hours), mid SUVs ₹1,120–1,320, and tempo Travellers ₹2,080 with driver allowance."
   - question: "Can Ola or Uber drop at the NaMo Ghat promenade?"
     answer: "Apps reach the Ravidas Gate but often avoid the restricted promenade bays; pre-booked taxis have passes to enter the parking apron."
   - question: "When should I depart the airport for the evening light show?"
@@ -41,7 +41,7 @@ location:
   address: "Namo Ghat, Varanasi, Uttar Pradesh 221001"
 ---
 
-# VNS Airport to NaMo Ghat Taxi ₹690 | Light Show Drop, 35min Route
+# VNS Airport to NaMo Ghat Taxi ₹890 | Light Show Drop, 35min Route
 
 **The distance from Varanasi Airport (VNS) to NaMo Ghat (Khidkiya) is 24 km via Ring Road, Ravidas Gate, and the NaMo promenade road, and the drive typically takes 35–50 minutes in normal traffic.**
 
@@ -49,14 +49,14 @@ location:
 
 **35 Minutes to Light Show** | Fastest ghat route
 
-[**Reserve Your Taxi - ₹690**](https://wa.me/919935474730?text=Airport%20to%20NaMo%20Ghat)
+[**Reserve Your Taxi - ₹890**](https://wa.me/919935474730?text=Airport%20to%20NaMo%20Ghat)
 ↓
 WhatsApp booking: [wa.me/919935474730](https://wa.me/919935474730?text=Airport%20to%20NaMo%20Ghat)
 
 **Why choose us:**
 ✓ 4.7★ rated by 64+ travelers
 ✓ Live tracking included
-✓ ₹690 flash (2-hour booking window)
+✓ ₹890 flash (2-hour booking window)
 ✓ Platform drop at main gate
 
 | Key fact | Detail |
@@ -70,7 +70,7 @@ WhatsApp booking: [wa.me/919935474730](https://wa.me/919935474730?text=Airport%2
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20NaMo%20Ghat)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at NaMo promenade parking).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at NaMo promenade parking).
 
 ## Best Varanasi Airport to NaMo Ghat route
 Merge onto Ring Road toward the Harhua flyover, continue to the Ravidas Gate signal, and join the NaMo ghat approach road. This bypass keeps you on smooth carriageways and ends directly at the promenade parking apron. When the light show crowds swell, drivers divert via the Sigra flyover and approach from the southern embankment, adding around six minutes but guaranteeing a parking bay.
@@ -95,7 +95,7 @@ NaMo (Khidkiya) promenade doubles as the jetty for **Tent City Varanasi** catama
 - Morning returns include a **6:30 AM NaMo sunrise slot**—perfect for drone-style photography before heading back to the airport/ghats.
 
 ## Varanasi Airport to NaMo Ghat taxi fare
-- Economy sedan: **₹780–900** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹780–900** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,120–1,320** ideal for families carrying stroller or picnic kits.
 - Tempo Traveller (12-seater): **₹2,080** including driver allowance and reserved parking slot, suited for tour groups.
 - Night buffer: **₹150** after 9 PM; waived for prepaid light-show packages.
@@ -122,7 +122,7 @@ Plan on 45–55 minutes between 5–8 PM when the light show attracts extra visi
 They reach Ravidas Gate but often refuse the final parking apron. Pre-booked taxis carry entry passes and wait until the show ends.
 
 ### What is the cheapest transfer?
-Two auto rides and a walk take more than an hour. A ₹690 flash sedan gets you to the promenade quickly with AC comfort and receipts.
+Two auto rides and a walk take more than an hour. A ₹890 flash sedan gets you to the promenade quickly with AC comfort and receipts.
 
 ### When should I depart to catch the fountain show?
 Leave the airport by 5 PM for the 7 PM show so you can clear security and secure seats 30 minutes early. Explore more ghat options in our [Varanasi ghats guide](/en/guide-to-10-most-important-ghats-of-varanasi).

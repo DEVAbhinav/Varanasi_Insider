@@ -51,13 +51,13 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Ramnagar%20Fort)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, museum gate drop).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, museum gate drop).
 
 ## Best Varanasi Airport to Ramnagar Fort route
 Exit the airport on Ring Road toward NH31, continue past the Babatpur toll, and follow the signage for Ramnagar bridge. Cross the Ganga and turn right to reach the fort entrance plaza. During evening office hours, the bridge narrows to a single moving lane—drivers then detour via the new Balua ghat link road, adding roughly eight minutes but avoiding gridlock.
 
 ## Varanasi Airport to Ramnagar Fort taxi fare
-- Economy sedan: **₹950–1,050** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹950–1,050** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,350–1,550** accounting for larger groups and museum parking.
 - Tempo Traveller: **₹2,250** with driver allowance and tolls bundled, ideal for heritage tours.
 - Night buffer post 9 PM: **₹200**, usually waived for prepaid invoices.

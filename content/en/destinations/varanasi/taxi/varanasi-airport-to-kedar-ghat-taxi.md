@@ -27,7 +27,7 @@ faqSchema:
   - question: "How long does a taxi take from VNS to Kedar Ghat?"
     answer: "Most sedans complete the trip in 40–55 minutes; add a 10-minute buffer during evening aarti hours when Harishchandra lane tightens."
   - question: "What is the taxi fare from Varanasi Airport to Kedar Ghat?"
-    answer: "Sedans cost ₹800–900 standard (Flash ₹690 within 2 hours), mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,100 with driver allowance."
+    answer: "Sedans cost ₹800–900 standard (Flash ₹890 within 2 hours), mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,100 with driver allowance."
   - question: "Can Ola or Uber drop close to Kedar Ghat?"
     answer: "Apps run till Harishchandra crossing but often cancel at peak time; pre-booked taxis hold ghat permits and wait through barricades."
   - question: "What time should I leave the airport for Kedar Ghat aarti?"
@@ -48,13 +48,13 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Kedar%20Ghat)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Harishchandra barricade).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Harishchandra barricade).
 
 ## Best Varanasi Airport to Kedar Ghat route
 Follow Ring Road east toward the Harhua flyover, continue straight to Lahartara crossing, and cut through Harishchandra lane to reach the riverfront. This path keeps you clear of the Cantt crowd and delivers a direct approach to the ghat steps. During evening rituals, police may seal Harishchandra; drivers then loop via Luxa and Sonarpura to rejoin at Kedar chowk, adding roughly seven minutes but maintaining access.
 
 ## Varanasi Airport to Kedar Ghat taxi fare
-- Economy sedan: **₹800–900** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹800–900** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,150–1,350** with extra boot space for puja kits and instrument cases.
 - Tempo Traveller (12-seater): **₹2,100** including driver allowance and narrow-lane escort.
 - Night buffer: **₹150** for sedans after 9 PM; typically waived with prepaid slips.
@@ -81,7 +81,7 @@ Leave a 10–15 minute cushion between 5–8 PM; marshals reroute cars through S
 They reach Harishchandra crossing but often cancel once barricades go up. Reserved taxis hold entry slips and wait until you are safely at your homestay.
 
 ### What is the cheapest transfer option?
-Shared autos require multiple interchanges and force a long walk with luggage. A ₹690 flash sedan remains the fastest door-to-ghat choice with GST invoices.
+Shared autos require multiple interchanges and force a long walk with luggage. A ₹890 flash sedan remains the fastest door-to-ghat choice with GST invoices.
 
 ### When should I depart to catch Kedar Ghat aarti?
 Plan a 5 PM departure for the 7 PM aarti. That gives you time to check in, freshen up, and secure a balcony view 30 minutes before the lamps are lit. Explore more ghat tips in our [10 important ghats guide](/en/guide-to-10-most-important-ghats-of-varanasi).

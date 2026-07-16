@@ -65,7 +65,7 @@ Varanasi's narrow lanes and chaotic traffic require skilled navigation. We provi
 - **Vehicle Options**: Comfortable, climate-controlled cars suitable for Banaras' intense heat and humidity
 
 **Current Pricing (November 2026)**:
-- Sedan to city ghat area: ₹700–₹950 (Flash rate ₹690 for weekday bookings within 2 hours)
+- Sedan to city ghat area: ₹700–₹950 (Flash rate ₹890 for weekday bookings within 2 hours)
 - SUV (Innova Crysta): ₹1,250–₹1,550 for airport transfer
 - Tempo Traveller (12-seater): ₹2,000–₹2,300 for group pilgrims
 - Full-day sedan rental: ₹1,800–₹2,200 (8–12 hours, 80–200 km)

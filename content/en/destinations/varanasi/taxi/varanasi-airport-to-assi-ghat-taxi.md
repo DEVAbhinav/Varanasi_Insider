@@ -51,13 +51,13 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Assi%20Ghat)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby for Assi plaza).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby for Assi plaza).
 
 ## Best Varanasi Airport to Assi Ghat route
 Follow Ring Road eastbound, cross the Harhua flyover, and continue toward the BHU Gate signal. Turn right through the BHU–Lanka stretch, which feeds directly into the Assi Ghat circle. If BHU traffic is gridlocked, detour via Nagwa bypass to rejoin the southern ghat road. Morning commuters after 8 AM and evening café crowds after 7 PM can extend the last kilometre by 10 minutes.
 
 ## Varanasi Airport to Assi Ghat taxi fare
-- Economy sedan: **₹800–900** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹800–900** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,150–1,350**, helpful for bulk luggage or film crews.
 - Tempo Traveller: **₹2,100** with allowance included, popular for yoga groups.
 - Night buffer: **₹150** after 9 PM; waived on prepaid slips.

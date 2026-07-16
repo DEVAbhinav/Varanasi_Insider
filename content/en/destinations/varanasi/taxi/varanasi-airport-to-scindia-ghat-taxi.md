@@ -27,7 +27,7 @@ faqSchema:
   - question: "How long does it take to reach Scindia Ghat from VNS by taxi?"
     answer: "Plan for 45–60 minutes; fog or lane closures near Manikarnika can add 10 minutes to the final stretch."
   - question: "What is the taxi fare from Varanasi Airport to Scindia Ghat?"
-    answer: "Sedans cost ₹820–950 standard (Flash ₹690 within 2 hours), mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,150 including driver allowance."
+    answer: "Sedans cost ₹820–950 standard (Flash ₹890 within 2 hours), mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,150 including driver allowance."
   - question: "Can Ola or Uber drop near Scindia Ghat?"
     answer: "App cabs generally stop at Maidagin and avoid the narrow Scindia lane; pre-booked taxis coordinate volunteers to escort you to the ghat."
   - question: "When is the best time to leave the airport to see the submerged temple?"
@@ -48,13 +48,13 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Scindia%20Ghat)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Maidagin barricade).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Maidagin barricade).
 
 ## Best Varanasi Airport to Scindia Ghat route
 Take Ring Road toward Lahartara, swing past Cantt station, and cut through Lahurabir to Maidagin. From Maidagin crossing, drivers guide you through the slim Scindia lane, staging near the Jalasen temple viewpoint. When Manikarnika processions spill into Maidagin, cabs detour via Rajmandir lane and approach from Panchganga, adding around eight minutes but keeping you within a short walk of the ghat.
 
 ## Varanasi Airport to Scindia Ghat taxi fare
-- Economy sedan: **₹820–950** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹820–950** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,150–1,350** with boot space for photography gear and tripods.
 - Tempo Traveller (12-seater): **₹2,150** inclusive of driver allowance and narrow-lane marshals.
 - Night buffer: **₹150** after 9 PM; waived for prepaid vouchers.
@@ -81,7 +81,7 @@ Add 10 minutes between December and February; drivers crawl through the ghat lan
 They operate to Maidagin but seldom take the last lane. Reserved taxis carry ghat permits and wait until you board your homestay boat.
 
 ### What is the cheapest transfer for dawn photos?
-Shared vehicles require multiple changes and delay sunrise shots. A ₹690 flash sedan ensures you reach before the first light hits the submerged temple.
+Shared vehicles require multiple changes and delay sunrise shots. A ₹890 flash sedan ensures you reach before the first light hits the submerged temple.
 
 ### When should I depart the airport for sunrise views?
 Catch a pre-4:30 AM departure so you arrive by 5:15 AM, allowing 30 minutes to set up along the ghats before the sun surfaces. Review more ghat intel in our [10 best ghats guide](/en/guide-to-10-most-important-ghats-of-varanasi).

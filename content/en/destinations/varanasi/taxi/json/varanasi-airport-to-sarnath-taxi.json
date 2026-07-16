@@ -4,7 +4,7 @@
   "name": "Varanasi Airport to Sarnath Taxi",
   "serviceType": "Airport transfer",
   "url": "https://www.kashitaxi.in/en/varanasi-airport-to-sarnath-taxi",
-  "description": "32 km Varanasi airport transfer to Sarnath with 50–60 minute drive time, Buddhist circuit support, and flash ₹690 sedan drop.",
+  "description": "32 km Varanasi airport transfer to Sarnath with 50–60 minute drive time, Buddhist circuit support, and flash ₹890 sedan drop.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://www.kashitaxi.in/#org",
@@ -36,7 +36,7 @@
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "INR",
-    "lowPrice": 690,
+    "lowPrice": 890,
     "highPrice": 2200,
     "offerCount": 3,
     "offers": [
@@ -44,14 +44,14 @@
         "@type": "Offer",
         "name": "Flash Weekday Sedan Drop",
         "priceCurrency": "INR",
-        "price": 690,
+        "price": 890,
         "availability": "https://schema.org/InStock",
         "availabilityEnds": "2026-12-31",
         "eligibleRegion": {
           "@type": "Place",
           "name": "Sarnath"
         },
-        "description": "₹690 sedan drop when confirmed within 2 hours of pickup; weekday, 15-minute standby, ASI gate drop."
+        "description": "₹890 sedan drop when confirmed within 2 hours of pickup; weekday, 15-minute standby, ASI gate drop."
       },
       {
         "@type": "Offer",

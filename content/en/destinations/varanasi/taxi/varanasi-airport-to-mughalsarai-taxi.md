@@ -39,7 +39,7 @@ faqSchema:
 | Best route | Varanasi Airport → GT Road toward Mughalsarai/DDU Junction |
 | Typical fare | Hatchback ₹1,005–₹1,300 · Sedan ₹1,100–₹1,500 · Mid SUV ₹1,300–1,500 · Innova ₹2,000–₹2,300 |
 
-> **Flash Offer:** ₹690 sedan drop when you confirm within 2 hours of pickup (weekday, non-festival, 15-minute standby, direct platform forecourt). *Suspended on Dev Deepawali, Chhath, Kumbh specials, and notified festival blocks.*
+> **Flash Offer:** ₹890 sedan drop when you confirm within 2 hours of pickup (weekday, non-festival, 15-minute standby, direct platform forecourt). *Suspended on Dev Deepawali, Chhath, Kumbh specials, and notified festival blocks.*
 
 ## Book your Varanasi Airport to Mughalsarai taxi
 - Call dispatch: **[99354 74730](tel:+919935474730)**

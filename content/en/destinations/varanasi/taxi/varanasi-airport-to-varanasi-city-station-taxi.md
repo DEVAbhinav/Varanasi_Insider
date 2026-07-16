@@ -1,13 +1,13 @@
 ---
-title: "Airport to Varanasi City Station (BCY) ₹690 | 21km, Ghat-Side Drop"
+title: "Airport to Varanasi City Station (BCY) ₹890 | 21km, Ghat-Side Drop"
 slug: "varanasi-airport-to-varanasi-city-station-taxi"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "VNS Airport to Varanasi City Station: 21km, ₹690 [2026]"
-metaDescription: "Varanasi Airport to City Station (BCY) = 21km, 35 min. Fixed ₹690 taxi. Best for ghat-side hotels. No surge. Book: 99354 74730"
-description: "Perfect for ghat-side stays! Airport to Varanasi City Station taxi at ₹690. 21km, 35-45min via old city route. Platform drop included. Call 99354 74730."
+metaTitle: "VNS Airport to Varanasi City Station: 21km, ₹890 [2026]"
+metaDescription: "Varanasi Airport to City Station (BCY) = 21km, 35 min. Fixed ₹890 taxi. Best for ghat-side hotels. No surge. Book: 99354 74730"
+description: "Perfect for ghat-side stays! Airport to Varanasi City Station taxi at ₹890. 21km, 35-45min via old city route. Platform drop included. Call 99354 74730."
 keywords:
   - "varanasi airport to varanasi city station distance"
   - "vns to bcy taxi fare"
@@ -27,13 +27,13 @@ faqSchema:
   - question: "How long does a taxi take from VNS to Varanasi City Station?"
     answer: "Most sedans reach in 35–45 minutes; add a 10-minute buffer during afternoon mandi hours when Chaukhamba lanes tighten."
   - question: "What is the taxi fare from VNS to Varanasi City Station?"
-    answer: "Sedans cost ₹700–900 standard (Flash ₹690 within 2 hours), mid SUVs ₹1,050–1,250, and tempo Travellers ₹2,050 with driver allowance."
+    answer: "Sedans cost ₹700–900 standard (Flash ₹890 within 2 hours), mid SUVs ₹1,050–1,250, and tempo Travellers ₹2,050 with driver allowance."
   - question: "Where is the drop point at Varanasi City Station?"
     answer: "Pre-booked taxis halt at the BCY main gate beside Platform 1; notify dispatch if you need the rear ghat-side entry for faster boarding."
   - question: "Is Ola or Uber reliable for BCY station?"
     answer: "App cabs operate but frequently decline old-city lanes; a reserved taxi holds permits and guides through the narrow drop lane."
 ---
-# Airport to Varanasi City Station (BCY) ₹690 | 21km, Ghat-Side Drop
+# Airport to Varanasi City Station (BCY) ₹890 | 21km, Ghat-Side Drop
 
 **The distance from Varanasi Airport (VNS) to Varanasi City Station (BCY) is 21 km via Ring Road and Chaukhamba Road, and the drive typically takes 35–45 minutes in normal traffic.**
 
@@ -48,7 +48,7 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Varanasi%20City%20Station)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at BCY gate).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at BCY gate).
 
 ## Best Varanasi Airport to Varanasi City Station route
 Follow Ring Road toward Lahartara, proceed straight into Sigra, and turn onto Chaukhamba Road for a direct entry into the station lane. This path skirts the narrowest Godowlia stretch while keeping you close to the ghats. When Chaukhamba is gridlocked, drivers detour via Maidagin and Rajmandir Lane, adding roughly seven minutes but maintaining access.
@@ -58,7 +58,7 @@ Follow Ring Road toward Lahartara, proceed straight into Sigra, and turn onto Ch
 - **400–600 m to the ghats:** BCY’s Platform 1 exit opens almost directly into Chaukhamba, giving you a 5–7 minute rickshaw hop to Dashashwamedh, Manikarnika, or Kashi Vishwanath Corridor.
 - **Battery-cart lane:** City station maintains a dedicated battery-cart queue that ferries seniors straight to the ghats without needing to cross Godowlia barricades.
 - **Boat jetty access:** If you’re boarding sunrise boats from Rajendra Prasad/Dashashwamedh, BCY keeps luggage transfers minimal versus a 3 km auto ride from Cantt.
-- **Old-city permits included:** We preload BCY gate passes + ghat liaison contacts, so your ₹690 flash drop includes the same support you’d otherwise hustle for at Cantonment.
+- **Old-city permits included:** We preload BCY gate passes + ghat liaison contacts, so your ₹890 flash drop includes the same support you’d otherwise hustle for at Cantonment.
 
 ## BCY-to-ghat connector table (tap for guides)
 
@@ -72,7 +72,7 @@ Follow Ring Road toward Lahartara, proceed straight into Sigra, and turn onto Ch
 Share the ghat you’re targeting while booking so dispatch can lock the right BCY exit and porter.
 
 ## Varanasi Airport to Varanasi City Station taxi fare
-- Economy sedan: **₹700–900** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹700–900** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,050–1,250** with luggage racks for pilgrims carrying trunks.
 - Tempo Traveller (12-seater): **₹2,050** including driver allowance and lane access escort.
 - Night buffer after 9 PM: **₹150** for sedans, ₹200 for SUVs.
@@ -94,7 +94,7 @@ It is a 21 km commute that usually takes 35–45 minutes, slightly longer during
 Add 10–15 minutes when religious processions pass through Chaukhamba; dispatch monitors barricade updates and re-routes accordingly.
 
 ### What is the cheapest transfer option?
-Changing autos through Lahartara and Maidagin takes over an hour and stresses luggage. A ₹690 flash sedan keeps the run under 45 minutes with receipts.
+Changing autos through Lahartara and Maidagin takes over an hour and stresses luggage. A ₹890 flash sedan keeps the run under 45 minutes with receipts.
 
 ### Are Ola/Uber dependable for BCY?
 They operate but often refuse old-city entries. Reserved taxis coordinate with local volunteers to keep the lane clear for drop-offs.

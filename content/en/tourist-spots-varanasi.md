@@ -7,8 +7,8 @@ author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 metaTitle: "Varanasi Tourist Spots - Taxi Packages & Routes 2026"
-metaDescription: "Varanasi tourist spots guide with taxi rates. Dashashwamedh, Sarnath, Kashi Vishwanath - book airport transfer packages. From ₹690."
-description: "Varanasi tourist spots guide with taxi rates. Dashashwamedh, Sarnath, Kashi Vishwanath - book airport transfer packages. From ₹690."
+metaDescription: "Varanasi tourist spots guide with taxi rates. Dashashwamedh, Sarnath, Kashi Vishwanath - book airport transfer packages. From ₹890."
+description: "Varanasi tourist spots guide with taxi rates. Dashashwamedh, Sarnath, Kashi Vishwanath - book airport transfer packages. From ₹890."
 keywords:
   - "tourist spots in varanasi"
   - "banaras tourist spots"
@@ -71,12 +71,12 @@ faqSchema:
 **Quick Tour Packages with Taxi Included:**
 
 ## 1. Dashashwamedh Ghat + Ganga Aarti
-📍 25km from airport | ₹690 taxi + boat ₹150 = ₹840 total
+📍 25km from airport | ₹890 taxi + boat ₹150 = ₹1040 total
 ⏱️ 40 min drive | 📅 6:30 PM ceremony
 [**BOOK THIS PACKAGE**](https://wa.me/919935474730?text=Book%20Dashashwamedh%20Taxi%20Package)
 
 ## 2. Sarnath Buddhist Circuit
-📍 32km from airport | ₹690 taxi + ₹20 museum = ₹710 total
+📍 32km from airport | ₹890 taxi + ₹20 museum = ₹910 total
 ⏱️ 50 min drive | 🏛️ Dhamek Stupa + 4 temples
 [**BOOK THIS PACKAGE**](https://wa.me/919935474730?text=Book%20Sarnath%20Taxi%20Package)
 
@@ -86,7 +86,7 @@ faqSchema:
 [**BOOK THIS PACKAGE**](https://wa.me/919935474730?text=Book%20Kashi%20Vishwanath%20Taxi)
 
 ## 4. NaMo Ghat Light Show
-📍 24km from airport | ₹690 taxi
+📍 24km from airport | ₹890 taxi
 ⏱️ 35 min drive | ⛲ 7:00 PM show
 [**BOOK THIS PACKAGE**](https://wa.me/919935474730?text=Book%20NaMo%20Ghat%20Taxi)
 

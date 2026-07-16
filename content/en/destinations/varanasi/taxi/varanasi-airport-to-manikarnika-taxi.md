@@ -51,13 +51,13 @@ location:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Manikarnika%20Ghat)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Maidagin barricade).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Maidagin barricade).
 
 ## Best Varanasi Airport to Manikarnika Ghat route
 Follow Ring Road toward Lahartara, then continue through Godowlia to Maidagin. From Maidagin crossing, the taxi accesses the Manikarnika lane up to the police barricade. When Godowlia is sealed for processions, drivers detour via Luxa and Chaukhamba Road to enter from the northern bank. Expect a short walk (150–200 metres) through the narrow lane to reach the cremation platforms.
 
 ## Varanasi Airport to Manikarnika Ghat taxi fare
-- Economy sedan: **₹850–950** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹850–950** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,200–1,400** covering luggage and escort coordination.
 - Tempo Traveller: **₹2,150** including driver allowance; ideal for family rites.
 - Night buffer: **₹150** after 9 PM; pre-arranged bookings waive it.

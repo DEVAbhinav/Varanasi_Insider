@@ -4,7 +4,7 @@
   "name": "Varanasi Airport to NaMo Ghat Taxi",
   "serviceType": "Airport transfer",
   "url": "https://www.kashitaxi.in/en/varanasi-airport-to-namo-ghat-taxi",
-  "description": "24 km Varanasi airport transfer to NaMo Ghat with 35–50 minute drive time, promenade access, and flash ₹690 sedan drop.",
+  "description": "24 km Varanasi airport transfer to NaMo Ghat with 35–50 minute drive time, promenade access, and flash ₹890 sedan drop.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://www.kashitaxi.in/#org",
@@ -36,7 +36,7 @@
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "INR",
-    "lowPrice": 690,
+    "lowPrice": 890,
     "highPrice": 2080,
     "offerCount": 3,
     "offers": [
@@ -44,14 +44,14 @@
         "@type": "Offer",
         "name": "Flash Weekday Sedan Drop",
         "priceCurrency": "INR",
-        "price": 690,
+        "price": 890,
         "availability": "https://schema.org/InStock",
         "availabilityEnds": "2026-12-31",
         "eligibleRegion": {
           "@type": "Place",
           "name": "NaMo Ghat"
         },
-        "description": "₹690 sedan drop when confirmed within 2 hours of pickup; weekday, 15-minute standby at NaMo promenade parking."
+        "description": "₹890 sedan drop when confirmed within 2 hours of pickup; weekday, 15-minute standby at NaMo promenade parking."
       },
       {
         "@type": "Offer",

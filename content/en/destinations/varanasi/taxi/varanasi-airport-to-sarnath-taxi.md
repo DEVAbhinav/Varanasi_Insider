@@ -1,13 +1,13 @@
 ---
-title: "Airport to Sarnath Taxi ₹690 | Dhamek Stupa | 50-min Route"
+title: "Airport to Sarnath Taxi ₹890 | Dhamek Stupa | 50-min Route"
 slug: "varanasi-airport-to-sarnath-taxi"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Airport to Sarnath Taxi ₹690 | Dhamek Stupa | 50-min Route"
-metaDescription: "Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist circuit tours available. Book now 99354 74730."
-description: "Varanasi Airport to Sarnath taxi ₹690 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist circuit tours available. Book now 99354 74730."
+metaTitle: "Airport to Sarnath Taxi ₹890 | Dhamek Stupa | 50-min Route"
+metaDescription: "Varanasi Airport to Sarnath taxi ₹890 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist circuit tours available. Book now 99354 74730."
+description: "Varanasi Airport to Sarnath taxi ₹890 Flash / ₹850 standard. 32km, 50-60 min to Dhamek Stupa. Buddhist circuit tours available. Book now 99354 74730."
 keywords:
   - "varanasi airport to sarnath distance"
   - "varanasi airport to sarnath taxi fare"
@@ -33,7 +33,7 @@ faqSchema:
   - question: "How long does a taxi take from VNS to Sarnath?"
     answer: "Plan for 50–60 minutes; add 10 minutes during school hours (8–10 AM) when Lahurabir and Maldahiya crossings slow the run."
   - question: "What is the taxi fare from Varanasi Airport to Sarnath?"
-    answer: "Flash rate ₹690 (book within 2 hours). Standard sedans cost ₹850–950, mid SUVs ₹1,200–1,400."
+    answer: "Flash rate ₹890 (book within 2 hours). Standard sedans cost ₹850–950, mid SUVs ₹1,200–1,400."
   - question: "Is Ola or Uber reliable for the Sarnath leg?"
     answer: "Ola/Uber cover the route but frequently switch to higher category fares; pre-booking locks a flat rate and museum-friendly arrival slots."
   - question: "What are the visiting hours for Dhamek Stupa after landing?"
@@ -43,25 +43,25 @@ location:
   address: "Sarnath, Varanasi, Uttar Pradesh 221007"
 ---
 
-# Airport to Sarnath Taxi ₹690 | Dhamek Stupa | 50-min Route
+# Airport to Sarnath Taxi ₹890 | Dhamek Stupa | 50-min Route
 
 **The distance from Varanasi Airport (VNS) to Sarnath is 32 km via Ring Road and Sarnath Road, and the drive typically takes 50–60 minutes in normal traffic.**
 
-**→ [BOOK SARNATH TAXI NOW](https://wa.me/919935474730?text=Airport%20pickup%20for%20Sarnath)** | Flash: ₹690 | Call: [9450301573](tel:+919935474730)
+**→ [BOOK SARNATH TAXI NOW](https://wa.me/919935474730?text=Airport%20pickup%20for%20Sarnath)** | Flash: ₹890 | Call: [9450301573](tel:+919935474730)
 
 | Key fact | Detail |
 | --- | --- |
 | Distance | 32 km |
 | Time | 50–60 minutes |
 | Best route | Ring Road → Lahurabir → Sarnath Road |
-| Typical fare | Flash ₹690 · Sedan ₹850–950 · SUV ₹1,200–1,400 |
+| Typical fare | Flash ₹890 · Sedan ₹850–950 · SUV ₹1,200–1,400 |
 
 ## Book your Varanasi Airport to Sarnath transfer
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Sarnath)**
 
 ## Varanasi Airport to Sarnath taxi fare
-- **FLASH RATE: ₹690** (Book within 2 hours of pickup)
+- **FLASH RATE: ₹890** (Book within 2 hours of pickup)
 - **Standard Rate: ₹850–950** (Regular booking)
 - **Mid SUV: ₹1,200–1,400** (Monastery offerings/luggage)
 - Tempo Traveller (12-seater): **₹2,200** including driver allowance and parking receipts.

@@ -120,13 +120,13 @@ Once logged, you get:
 
 | Decision factor | **Kashi Taxi Dispatch** | **Airport Prepaid Booth** | **Ola/Uber Apps** |
 | --- | --- | --- | --- |
-| **Headline fare** | ₹690–₹1,380 fixed in writing before wheels-down | Printed slip (₹750–₹1,050) but varies by queue | Dynamic surge ₹650–₹1,400 | 
+| **Headline fare** | ₹890–₹1,380 fixed in writing before wheels-down | Printed slip (₹750–₹1,050) but varies by queue | Dynamic surge ₹650–₹1,400 | 
 | **Wait time** | Driver staged at Gate 3 with 15-min standby | 20–35 min queue (longer on Dev Deepawali) | 10–25 min; drivers often cancel long trips |
 | **Corridor / ghat access** | Pre-filed manifests + e-rickshaw handoff | Only drops till cantonment/bus stand | Many drivers refuse barricade zones |
 | **Support & reroute** | 24x7 ops desk reroutes via Ring Road or Assi lane | Limited to booth duty manager | In-app chat; no local barricade intel |
 | **Flight delay protection** | Auto hold + backup driver | Slip expires; must repay | Driver may leave; surge resets |
 
-Result: searchers scanning the SERP instantly see why the ₹690 flash fare is the safer bet versus prepaid or app cabs.
+Result: searchers scanning the SERP instantly see why the ₹890 flash fare is the safer bet versus prepaid or app cabs.
 
 ---
 

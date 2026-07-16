@@ -27,7 +27,7 @@ faqSchema:
   - question: "How long does a taxi take from VNS to Panchganga Ghat?"
     answer: "Most transfers finish in 45–60 minutes; expect an extra 10 minutes during evening satsangs when lanes narrow."
   - question: "What is the taxi fare from VNS to Panchganga Ghat?"
-    answer: "Sedans cost ₹820–950 standard (Flash ₹690 within 2 hours), mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,150 with driver allowance."
+    answer: "Sedans cost ₹820–950 standard (Flash ₹890 within 2 hours), mid SUVs ₹1,150–1,350, and tempo Travellers ₹2,150 with driver allowance."
   - question: "Do app cabs serve Panchganga Ghat?"
     answer: "App cabs typically stop at Maidagin; pre-booked taxis carry lane permits and wait until rituals conclude."
   - question: "When should I depart the airport for morning Panchganga snan?"
@@ -48,13 +48,13 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Panchganga%20Ghat)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Panchganga lane barricade).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Panchganga lane barricade).
 
 ## Best Varanasi Airport to Panchganga Ghat route
 Leave the airport via Ring Road, cut through Lahurabir to Maidagin, and enter the Panchganga lane near the Alamgir mosque. This direct route shortens walking time to the five-river confluence site. When Maidagin clogs during satsangs, drivers reroute via Rajmandir lane and approach from Trilochan crossing, adding about eight minutes but keeping your luggage secure in the vehicle.
 
 ## Varanasi Airport to Panchganga Ghat taxi fare
-- Economy sedan: **₹820–950** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹820–950** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,150–1,350** with compartments for ritual kalash and offerings.
 - Tempo Traveller (12-seater): **₹2,150** including driver allowance and volunteer escorts for group snans.
 - Night buffer: **₹150** after 9 PM; waived for prepaid pilgrim groups.
@@ -81,7 +81,7 @@ Allow 60–70 minutes; crowds swell around the confluence rituals and slow the l
 They usually stop at Maidagin to avoid lane traffic. Pre-booked taxis hold ghat permits and wait through rituals until you are ready to depart.
 
 ### What is the cheapest transfer for dawn snan?
-Multiple shared rides extend the journey beyond 90 minutes. A ₹690 flash sedan gets you to the steps before sunrise with AC comfort and GST receipts.
+Multiple shared rides extend the journey beyond 90 minutes. A ₹890 flash sedan gets you to the steps before sunrise with AC comfort and GST receipts.
 
 ### When should I leave the airport for the morning dip?
 Catch a 4:30 AM departure to reach by 5:30 AM, giving time to arrange pandit services before first light. Browse more ghat routes in our [top ghats guide](/en/guide-to-10-most-important-ghats-of-varanasi).

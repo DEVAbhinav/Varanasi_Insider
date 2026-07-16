@@ -7,7 +7,7 @@ lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "VNS Airport to DDU Junction Taxi ₹900+ | 35 km"
-metaDescription: "Varanasi Airport to DDU Junction (Mughalsarai): 35 km, typically 50–65 min. Sedan from ₹900, flash ₹690 on eligible bookings. Platform 1 forecourt drop."
+metaDescription: "Varanasi Airport to DDU Junction (Mughalsarai): 35 km, typically 50–65 min. Sedan from ₹900, flash ₹890 on eligible bookings. Platform 1 forecourt drop."
 description: "Plan your Varanasi Airport (VNS) to DDU Junction/Mughalsarai transfer with verified distance, travel time, taxi fares, best route, and drop procedures for 2026."
 keywords:
   - "varanasi airport to ddu junction distance"
@@ -28,7 +28,7 @@ faqSchema:
   - question: "How long does a taxi take from VNS to DDU Junction?"
     answer: "Plan 50–65 minutes in regular traffic; evening freight congestion on the bridge can add 10 minutes."
   - question: "What is the taxi fare from VNS to DDU Junction?"
-    answer: "Sedans cost ₹900–1,050 standard (Flash ₹690 within 2 hours), mid SUVs ₹1,300–1,500, and tempo Travellers ₹2,250 with driver allowance and tolls."
+    answer: "Sedans cost ₹900–1,050 standard (Flash ₹890 within 2 hours), mid SUVs ₹1,300–1,500, and tempo Travellers ₹2,250 with driver allowance and tolls."
   - question: "Where will the driver drop us at Mughalsarai station?"
     answer: "Pre-booked taxis stop at the Platform 1 forecourt; inform dispatch if you need Platform 8/9 entry so they secure the rear gate pass."
   - question: "Is Ola or Uber reliable for DDU Junction runs?"
@@ -49,13 +49,13 @@ faqSchema:
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20DDU%20Junction)**
 
-> **Flash Offer:** ₹690 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, direct platform forecourt).
+> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, direct platform forecourt).
 
 ## Best Varanasi Airport to DDU Junction route
 Head east on Ring Road, join NH31 toward the Ramnagar bridge, and continue straight to cross the Ganga into Mughalsarai. This highway run keeps speeds high and bypasses city bottlenecks. If the bridge reports heavy freight queues, drivers detour via the Balua crossing, adding around eight minutes but maintaining movement toward the station.
 
 ## Varanasi Airport to DDU Junction taxi fare
-- Economy sedan: **₹900–1,050** standard; **Flash ₹690** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan: **₹900–1,050** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,300–1,500** including tolls and larger boot for trunks.
 - Tempo Traveller (12-seater): **₹2,250** covering driver allowance, tolls, and station entry slip.
 - Night buffer: **₹200** for sedans, **₹250** for SUVs after 9 PM.
@@ -77,7 +77,7 @@ It is a 35 km highway run that takes 50–65 minutes depending on bridge traffic
 Allow 60–70 minutes when heavy freight trains crowd the bridge; dispatch checks live updates and may choose the Balua detour.
 
 ### What is the cheapest way to reach DDU Junction?
-Trains or buses require multiple transfers and exceed 90 minutes. A ₹690 flash sedan keeps the trip under an hour with AC comfort and receipts.
+Trains or buses require multiple transfers and exceed 90 minutes. A ₹890 flash sedan keeps the trip under an hour with AC comfort and receipts.
 
 ### Are Ola/Uber reliable for Mughalsarai?
 They work but often refuse late-night returns. Pre-booked taxis guarantee a confirmed vehicle for both legs with transparent pricing.

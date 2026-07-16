@@ -23,7 +23,7 @@ phone: "9935474730"
 
 # वाराणसी एयरपोर्ट ट्रांसफर डायरेक्टरी
 
-> **संक्षिप्त सारांश:** सभी VNS एयरपोर्ट टैक्सी रूट एक जगह। ₹690 से शुरू निश्चित किराया। मंदिर, घाट, रेलवे स्टेशन और आउटस्टेशन शहर शामिल। हर बुकिंग में फ्लाइट ट्रैकिंग शामिल।
+> **संक्षिप्त सारांश:** सभी VNS एयरपोर्ट टैक्सी रूट एक जगह। ₹890 से शुरू निश्चित किराया। मंदिर, घाट, रेलवे स्टेशन और आउटस्टेशन शहर शामिल। हर बुकिंग में फ्लाइट ट्रैकिंग शामिल।
 
 वाराणसी एयरपोर्ट (लाल बहादुर शास्त्री अंतर्राष्ट्रीय हवाई अड्डा) ट्रांसफर की सबसे व्यापक डायरेक्टरी में आपका स्वागत है। चाहे आप काशी विश्वनाथ मंदिर जा रहे हों, ट्रेन पकड़नी हो, या आउटस्टेशन यात्रा करनी हो—नीचे अपना रूट खोजें।
 
@@ -35,17 +35,17 @@ phone: "9935474730"
 
 | गंतव्य | दूरी | समय | किराया | गाइड |
 |--------|------|------|--------|------|
-| **काशी विश्वनाथ मंदिर** | 25 km | 40-55 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi) |
-| **दशाश्वमेध घाट** | 25 km | 40-55 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-taxi) |
+| **काशी विश्वनाथ मंदिर** | 25 km | 40-55 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi) |
+| **दशाश्वमेध घाट** | 25 km | 40-55 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-taxi) |
 | **अस्सी घाट** | 27 km | 40-60 मिनट | ₹800 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi) |
-| **मणिकर्णिका घाट** | 26 km | 45-60 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-manikarnika-taxi) |
-| **सारनाथ (बौद्ध स्थल)** | 32 km | 50-60 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi) |
-| **नमो घाट** | 24 km | 35-45 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-namo-ghat-taxi) |
-| **केदार घाट** | 26 km | 45-60 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-taxi) |
-| **तुलसी घाट** | 27 km | 45-60 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi) |
-| **पंचगंगा घाट** | 26 km | 45-55 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-taxi) |
-| **सिंधिया घाट** | 26 km | 45-55 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-taxi) |
-| **राज घाट** | 24 km | 40-50 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-raj-ghat-taxi) |
+| **मणिकर्णिका घाट** | 26 km | 45-60 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-manikarnika-taxi) |
+| **सारनाथ (बौद्ध स्थल)** | 32 km | 50-60 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi) |
+| **नमो घाट** | 24 km | 35-45 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-namo-ghat-taxi) |
+| **केदार घाट** | 26 km | 45-60 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-taxi) |
+| **तुलसी घाट** | 27 km | 45-60 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi) |
+| **पंचगंगा घाट** | 26 km | 45-55 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-taxi) |
+| **सिंधिया घाट** | 26 km | 45-55 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-taxi) |
+| **राज घाट** | 24 km | 40-50 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-raj-ghat-taxi) |
 | **रामनगर किला** | 35 km | 50-70 मिनट | ₹850 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-taxi) |
 
 ---
@@ -56,9 +56,9 @@ phone: "9935474730"
 
 | स्टेशन | दूरी | समय | किराया | गाइड |
 |--------|------|------|--------|------|
-| **वाराणसी जंक्शन (कैंट/BSB)** | 22 km | 35-50 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) |
-| **वाराणसी सिटी स्टेशन (BCY)** | 21 km | 35-45 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-taxi) |
-| **बनारस रेलवे स्टेशन** | 27 km | 45-60 मिनट | ₹690 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi) |
+| **वाराणसी जंक्शन (कैंट/BSB)** | 22 km | 35-50 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi) |
+| **वाराणसी सिटी स्टेशन (BCY)** | 21 km | 35-45 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-taxi) |
+| **बनारस रेलवे स्टेशन** | 27 km | 45-60 मिनट | ₹890 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi) |
 | **DDU जंक्शन (मुगलसराय)** | 35 km | 50-65 मिनट | ₹1,005 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi) |
 | **मुगलसराय** | 35 km | 50-65 मिनट | ₹1,200 | [रूट देखें →](/hi/city/varanasi/taxi/varanasi-airport-to-mughalsarai-taxi) |
 
