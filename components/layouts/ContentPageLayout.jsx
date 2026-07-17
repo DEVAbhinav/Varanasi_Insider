@@ -28,6 +28,7 @@ import StickyContactBar from '@/components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '@/components/BookingWidget/SidebarBookingWidget';
 import ContentEnhancements from '@/components/ArticleSection/ContentEnhancements';
 import CTASection from '@/components/CTA/CTASection';
+import RelatedLinks from '@/components/SEO/RelatedLinks';
 import { CONTACT } from '@/lib/contact';
 
 export default function ContentPageLayout({
@@ -47,6 +48,7 @@ export default function ContentPageLayout({
   hideSidebar = false,
 }) {
   const resolvedPhone = phone || CONTACT.callNumberRaw;
+  const relatedLang = /^\/hi(\/|$)/.test(pageUrl || '') ? 'hi' : 'en';
 
   return (
     <>
@@ -89,6 +91,9 @@ export default function ContentPageLayout({
 
         {/* FAQ Accordion (auto-skips if body already has FAQ) */}
         <ContentEnhancements.Bottom html={contentHtml} faqSchema={faqSchema} />
+
+        {/* Contextual internal links (build-generated, GSC-driven) */}
+        {pageUrl && <RelatedLinks path={pageUrl} lang={relatedLang} />}
 
         {/* CTA Section */}
         {cta !== null && (

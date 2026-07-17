@@ -431,6 +431,104 @@ function buildCrossSell(nodes) {
 }
 
 // ---------------------------------------------------------------------------
+// per-page RelatedLinks (contextual, SEO-jump oriented)
+//   Lever A — money funnel  (config cross-sell): info page -> the sale
+//   Lever B — rank-rescue    (position 8-20, high impressions): pass equity to
+//             page-2 URLs from relevant pages to push them onto page 1
+//   Lever C — topical cluster (same destination+category siblings)
+//   Lever D — parent hub      (category directory / owner) when discoverable
+// All anchors are keyword-rich (GSC query first). Never self / cross-language.
+// ---------------------------------------------------------------------------
+const STOP_TOKENS = new Set(['varanasi', 'the', 'to', 'in', 'of', 'a', 'and', 'for', 'guide', '2026', '2027', 'kashi', 'banaras']);
+
+function tokensOf(node) {
+  return new Set(
+    String(node.slug)
+      .toLowerCase()
+      .split(/[^a-z0-9]+/)
+      .filter((t) => t.length > 2 && !STOP_TOKENS.has(t))
+  );
+}
+
+function shareToken(aTokens, b) {
+  for (const t of tokensOf(b)) if (aTokens.has(t)) return true;
+  return false;
+}
+
+function buildRelated(nodes, crossSell) {
+  const byPath = new Map(nodes.map((n) => [n.path, n]));
+  // Rank-rescue pool per language: real page-2 opportunities with demand.
+  const rescuePool = { en: [], hi: [] };
+  for (const n of nodes) {
+    if (n.noindex || isExcluded(n.path)) continue;
+    if (n.position != null && n.position >= 8 && n.position <= 20 && n.impressions >= 120) {
+      (rescuePool[n.lang] || (rescuePool[n.lang] = [])).push(n);
+    }
+  }
+  for (const l of Object.keys(rescuePool)) rescuePool[l].sort((a, b) => b.impressions - a.impressions);
+
+  const MAX = 6;
+  const related = {};
+  for (const s of nodes) {
+    if (s.noindex || isExcluded(s.path)) continue;
+    const lang = s.lang;
+    const used = new Set([s.path, s.canonical].filter(Boolean));
+    const sTokens = tokensOf(s);
+    const picks = [];
+
+    const push = (node, reason) => {
+      if (!node || node.noindex || used.has(node.path) || isExcluded(node.path)) return;
+      picks.push({ href: node.path, label: anchorFor(node), reason });
+      used.add(node.path);
+    };
+
+    // A — money funnel (max 2). Skip if the page itself is the money page.
+    if (!s.commercial) {
+      const funnel = (crossSell[lang] && crossSell[lang][s.category]) || [];
+      let added = 0;
+      for (const f of funnel) {
+        if (added >= 2) break;
+        const node = byPath.get(f.href);
+        if (node && !used.has(node.path)) { push(node, 'book'); added++; }
+      }
+    }
+
+    // B — rank-rescue (max 2): relevant page-2 pages get an equity boost.
+    let rescued = 0;
+    for (const r of rescuePool[lang] || []) {
+      if (rescued >= 2) break;
+      if (r.path === s.path) continue;
+      const relevant = (r.destination && r.destination === s.destination) || r.category === s.category || shareToken(sTokens, r);
+      if (relevant && !used.has(r.path)) { push(r, 'rescue'); rescued++; }
+    }
+
+    // C — topical cluster siblings, ranked by score, to fill up to MAX.
+    const siblings = nodes
+      .filter((n) => n.lang === lang && !n.noindex && !isExcluded(n.path) && !used.has(n.path) && n.path !== s.path)
+      .filter((n) => (s.destination ? n.destination === s.destination && n.category === s.category : n.category === s.category))
+      .sort((a, b) => b.score - a.score);
+    for (const n of siblings) {
+      if (picks.length >= MAX) break;
+      push(n, 'related');
+    }
+
+    // C2 — if still short, widen to same-category across destinations.
+    if (picks.length < MAX) {
+      const wide = nodes
+        .filter((n) => n.lang === lang && !n.noindex && !isExcluded(n.path) && !used.has(n.path) && n.category === s.category && n.path !== s.path)
+        .sort((a, b) => b.score - a.score);
+      for (const n of wide) {
+        if (picks.length >= MAX) break;
+        push(n, 'related');
+      }
+    }
+
+    if (picks.length >= 3) related[s.path] = picks.slice(0, MAX);
+  }
+  return related;
+}
+
+// ---------------------------------------------------------------------------
 // main
 // ---------------------------------------------------------------------------
 function main() {
@@ -444,6 +542,7 @@ function main() {
 
   const footer = buildFooter(nodes);
   const crossSell = buildCrossSell(nodes);
+  const related = buildRelated(nodes, crossSell);
 
   // compact node index for RelatedLinks (drop heavy internals)
   const index = {};
@@ -469,6 +568,7 @@ function main() {
     totalNodes: nodes.length,
     footer,
     crossSell,
+    related,
     index,
   };
 
@@ -480,6 +580,7 @@ function main() {
   const enLinkCount = enGroups.reduce((s, g) => s + g.links.length, 0);
   console.log(`link-graph: ${nodes.length} nodes | GSC ${gsc.date || 'none'} matched ${gsc.matched} pages`);
   console.log(`link-graph: EN footer ${enGroups.length} groups / ${enLinkCount} links · HI ${footer.hi?.length || 0} groups`);
+  console.log(`link-graph: related-links generated for ${Object.keys(related).length} pages`);
   // warn on dead pins
   const byPath = new Set(nodes.map((n) => n.path));
   for (const g of FOOTER_GROUPS) {
