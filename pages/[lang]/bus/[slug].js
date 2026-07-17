@@ -6,13 +6,18 @@ import HeadForBlogs from '../../../components/SEO/HeadForBlogs';
 import ArticleSection from '../../../components/ArticleSection/ArticleSection';
 import ContentEnhancements from '../../../components/ArticleSection/ContentEnhancements';
 import { CONTACT } from '@/lib/contact';
+import { relatedHrefsFor } from '../../../components/SEO/RelatedLinks';
 
 export default function BusPilgrimagePage({ postData, relatedBusPages, jsonLdData, pageLang, pageSlug, alternateLanguages = [] }) {
+  const relatedLinkHrefs = relatedHrefsFor(`/${pageLang}/bus/${pageSlug}`);
   const relatedGrid = relatedBusPages?.length > 1 ? (
     <section className="container mx-auto px-4 pb-16">
       <h2 className="text-2xl font-semibold mb-4">Related Pilgrimage Routes</h2>
       <div className="grid gap-4 md:grid-cols-3">
-        {relatedBusPages.filter(p => p.slug !== pageSlug).slice(0, 6).map(p => (
+        {relatedBusPages
+          .filter(p => p.slug !== pageSlug)
+          .filter(p => !relatedLinkHrefs.has(`/${p.lang}/bus/${p.slug}`))
+          .slice(0, 6).map(p => (
           <a key={p.slug} href={`/${p.lang}/bus/${p.slug}`} className="block rounded-xl border p-4 hover:shadow-sm transition bg-white/60 dark:bg-zinc-900/50">
             <h3 className="font-medium text-lg leading-snug mb-1">{p.title}</h3>
             <p className="text-sm text-muted-foreground line-clamp-3">{p.excerpt || p.seoDescription || ''}</p>

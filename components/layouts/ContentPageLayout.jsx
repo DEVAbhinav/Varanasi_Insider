@@ -95,7 +95,10 @@ export default function ContentPageLayout({
         {/* Contextual internal links (build-generated, GSC-driven) */}
         {pageUrl && <RelatedLinks path={pageUrl} lang={relatedLang} />}
 
-        {/* CTA Section */}
+        {/* Editorial "Read Next" discovery grid, etc. */}
+        {afterMain}
+
+        {/* CTA Section — closing conversion prompt */}
         {cta !== null && (
           <CTASection
             phone={resolvedPhone}
@@ -104,8 +107,6 @@ export default function ContentPageLayout({
             variant={cta?.variant || 'default'}
           />
         )}
-
-        {afterMain}
       </main>
 
       <Footer allPosts={allPosts} />

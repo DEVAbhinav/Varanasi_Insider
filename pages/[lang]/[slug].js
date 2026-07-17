@@ -4,6 +4,7 @@ import ArticleSection from '../../components/ArticleSection/ArticleSection';
 import ContentEnhancements from '../../components/ArticleSection/ContentEnhancements';
 import HeadForBlogs from '../../components/SEO/HeadForBlogs';
 import RelatedPostsGrid from '../../components/RelatedPosts/RelatedPostsGrid';
+import { relatedHrefsFor } from '../../components/SEO/RelatedLinks';
 import ItineraryTimeline from '../../components/DestinationPage/ItineraryTimeline';
 import MapWidget from '../../components/Map/MapWidget';
 import dynamic from 'next/dynamic';
@@ -191,6 +192,14 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
 
   const fullHtml = (postData?.contentHtmlBefore ?? postData?.contentHtml ?? '') + (postData?.contentHtmlAfter ?? '');
 
+  // Drop any "Read Next" cards already surfaced by the contextual RelatedLinks
+  // block above, so the same page never appears twice at the bottom.
+  const relatedLinkHrefs = relatedHrefsFor(`/${pageLang}/${pageSlug}`);
+  const dedupedRelatedPosts = (relatedPosts || []).filter((post) => {
+    const href = (post.routePath || `/${post.lang || pageLang}/${post.slug}`).replace(/\/+$/, '');
+    return !relatedLinkHrefs.has(href || '/');
+  });
+
   return (
     <ContentPageLayout
       head={<HeadForBlogs postData={postData} pageLang={pageLang} pageSlug={pageSlug} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />}
@@ -200,7 +209,7 @@ export default function Post({ postData, relatedPosts, jsonLdData, allPosts, pag
       contentHtml={fullHtml}
       faqSchema={postData?.faqSchema}
       allPosts={allPosts}
-      afterMain={<RelatedPostsGrid items={relatedPosts} lang={pageLang} />}
+      afterMain={<RelatedPostsGrid items={dedupedRelatedPosts} lang={pageLang} />}
     >
       {/* Part 1: First Two Paragraphs */}
       {part1?.trim() && (

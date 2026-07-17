@@ -22,6 +22,17 @@ const HEADINGS = {
 };
 
 /**
+ * Returns the set of normalized hrefs RelatedLinks will render for a path.
+ * Used by other bottom-of-page blocks (e.g. RelatedPostsGrid) to avoid
+ * showing the same destination twice.
+ */
+export function relatedHrefsFor(path) {
+  const key = normalize(path);
+  const items = (linkGraph.related && linkGraph.related[key]) || [];
+  return new Set(items.map((i) => normalize(i.href)));
+}
+
+/**
  * RelatedLinks — per-page contextual internal links, computed at build time by
  * scripts/generate-link-graph.js. Funnels informational traffic to money pages,
  * passes equity to page-2 URLs (rank-rescue), and builds topical clusters.
