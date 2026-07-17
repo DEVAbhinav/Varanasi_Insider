@@ -5,7 +5,6 @@ import { useRef, useState } from 'react';
 import NavBar from '../components/NavBar/NavBar';
 import StickyContactBar from '../components/ServicePage/StickyContactBar';
 import Footer from '../components/Footer/Footer';
-import SeoFooterLinks from '../components/SeoFooterLinks/SeoFooterLinks';
 import GoogleReviews from '../components/GoogleReviews/GoogleReviews';
 import JsonLd from '../components/JsonLd/JsonLd';
 import getHomeSchema from '../components/JsonLd/homepageSchema';
@@ -735,8 +734,6 @@ export default function HomePage({ allPosts }) {
 
       {/* CTA Section - Dynamically Loaded */}
       <CTASectionHome />
-
-      <SeoFooterLinks />
       <Footer allPosts={allPosts} />
       <StickyContactBar phone={CONTACT.callNumberRaw} />
     </>

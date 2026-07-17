@@ -1,58 +1,91 @@
 .footerWrapper {
-  @apply bg-gray-800 text-gray-400 pt-16 pb-8;
+  @apply bg-gray-800 text-gray-400 pt-14 pb-8;
 }
 .footerContainer {
-  @apply container mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl;
+  @apply container mx-auto px-6 grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,2.4fr)] gap-10 max-w-6xl;
+}
+
+/* Brand / contact column */
+.brandCol {
+  @apply space-y-2;
 }
 .footerTitle {
   @apply text-xl font-bold text-white;
 }
 .footerSubtitle {
-  @apply text-sm text-gray-500 mt-1;
+  @apply text-sm text-gray-500;
 }
-.linksTitle {
-  @apply text-base font-semibold text-white mb-4 tracking-wider uppercase;
+.address {
+  @apply text-sm text-gray-500 leading-snug;
+}
+.rating {
+  @apply text-sm text-yellow-400 font-medium mt-2;
+}
+.needTaxi {
+  @apply text-sm text-gray-300 font-semibold mt-3;
+}
+.contactRow {
+  @apply flex flex-wrap gap-3 mt-2;
+}
+.callBtn {
+  @apply inline-flex items-center rounded-md bg-yellow-400 text-gray-900 font-semibold text-sm px-4 py-2 hover:bg-yellow-300 transition-colors;
+}
+.waBtn {
+  @apply inline-flex items-center rounded-md border border-green-500 text-green-400 font-semibold text-sm px-4 py-2 hover:bg-green-500 hover:text-gray-900 transition-colors;
+}
+.socialRow {
+  @apply flex flex-wrap gap-4 mt-4 text-sm;
+}
+.socialRow a {
+  @apply text-gray-400 hover:text-yellow-400 transition-colors;
+}
+
+/* Categorized link groups */
+.groupsGrid {
+  @apply grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-x-6 gap-y-4;
+}
+.group {
+  @apply border-b border-gray-700 md:border-none pb-2 md:pb-0;
+}
+.groupTitle {
+  @apply text-sm font-semibold text-white tracking-wide uppercase mb-2 cursor-pointer list-none flex items-center justify-between;
+}
+.groupTitle::-webkit-details-marker {
+  display: none;
+}
+.groupTitle::after {
+  content: '+';
+  @apply text-gray-500 md:hidden;
+}
+.group[open] .groupTitle::after {
+  content: '−';
+}
+.linkList {
+  @apply space-y-1.5;
+}
+.linkList li {
+  @apply text-sm leading-snug;
 }
 .footerLink {
-  @apply block mt-2 hover:text-yellow-400 transition-colors;
+  @apply block text-gray-400 hover:text-yellow-400 transition-colors;
 }
+
+/* On desktop groups are always expanded; disable the accordion toggle. */
+@media (min-width: 768px) {
+  .groupTitle {
+    @apply cursor-default pointer-events-none;
+  }
+  .group > .linkList {
+    display: block !important;
+  }
+}
+
 .copyright {
   @apply text-center text-gray-500 mt-12 pt-8 border-t border-gray-700 text-sm;
 }
-
 .credit {
   @apply text-center text-gray-600 mt-2 text-xs;
 }
-
 .credit a {
   @apply text-gray-500 hover:text-yellow-400 transition-colors;
-}
-
-/* All Posts section styling */
-.allPostsSection {
-  @apply md:col-span-1;
-}
-
-.allPostsGrid {
-  @apply grid grid-cols-1 gap-6;
-}
-
-.langColumn {
-  @apply space-y-2;
-}
-
-.langHeader {
-  @apply text-sm font-semibold text-yellow-400 uppercase tracking-wider;
-}
-
-.allPostsList {
-  @apply space-y-1;
-}
-
-.allPostsList li {
-  @apply text-sm;
-}
-
-.viewAll {
-  @apply text-sm text-yellow-400 hover:text-yellow-300 font-medium mt-3 inline-block;
 }
