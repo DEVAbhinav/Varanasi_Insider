@@ -9,9 +9,9 @@ canonical: "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992841/kashitaxi/varanasi-to-gaya-route-map.jpg"
 image: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992841/kashitaxi/varanasi-to-gaya-route-map.jpg"
 
-metaTitle: "Varanasi to Gaya Taxi ₹2,850-6,500 | Door-to-Door Service vs Train/Bus"
-metaDescription: "Varanasi to Gaya taxi ₹2,850-6,500 (sedan to Tempo). Compare taxi vs train vs bus. Door-to-door service, no luggage hassle, flexible timing. Book now."
-description: "Varanasi to Gaya taxi ₹2,850-6,500 (sedan to Tempo). Compare taxi vs train vs bus. Door-to-door service, no luggage hassle, flexible timing. Book now."
+metaTitle: "Varanasi to Gaya Taxi ₹2,850 | Bodhgaya, Pind Daan & 260 km Cab"
+metaDescription: "Varanasi to Gaya taxi from ₹2,850 (sedan) — 260 km, 5.5 hrs door-to-door. Bodhgaya & Pind Daan stops, no luggage hassle, fixed fares. Book now ☎ 99354 74730."
+description: "Varanasi to Gaya taxi from ₹2,850 (sedan) — 260 km, 5.5 hrs door-to-door. Bodhgaya & Pind Daan stops, no luggage hassle, fixed fares. Book now ☎ 99354 74730."
 destination: "varanasi"
 category: "taxi"
 serviceCategory: "Outstation Taxi"
@@ -165,6 +165,8 @@ Here's what you're doing:
 - **Prayagraj (optional):** Another 120 km from Gaya
 
 You need reliable transport between stops. This isn't a leisure holiday where delays are fine. You're on a pilgrimage schedule. You've booked temples. You've planned darshan timings. You need to be *there* reliably.
+
+Most Gaya travellers from Varanasi are here for the **Vishnupad Temple and Pind Daan rituals** — if that's you, see our dedicated [Gaya Pind Daan service from Varanasi](/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi) with verified Gayawal pandas. Travelling with older parents? Our [senior-citizen Varanasi tour package](/en/senior-citizen-varanasi-tour-package) adds wheelchair-friendly cabs, unhurried darshan timing and door-to-temple assistance.
 
 **That's where we fit in.**
 

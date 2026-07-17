@@ -35,11 +35,13 @@ faqSchema:
     answer: "Yes, Gorakhpur is a major city and railway junction with thousands of daily travelers. It's well-connected and safe. Our verified drivers are experienced with the route."
 ---
 
-# Varanasi to Gorakhpur | Nepal Border Gateway | Cabs from ₹3,000
+# Varanasi to Gorakhpur Taxi | Nepal Border Gateway | Cabs from ₹3,000
 
-**Gorakhpur is a strategic city in eastern Uttar Pradesh**, famous for the Gorakhnath Temple and serving as the **gateway to Nepal**. Located approximately **200-229 kilometers** from Varanasi, the comfortable journey takes **4 to 4.5 hours** via NH29. Whether you're visiting the Gorakhnath Temple, heading to Nepal on a [Varanasi to Nepal taxi](/en/city/nepal/taxi/varanasi-to-nepal-taxi), or catching a train from Gorakhpur Junction, Kashi Taxi offers reliable service.
+> **Quick answer:** Varanasi to Gorakhpur is about **200-229 km** and normally takes **4-4.5 hours** via NH29. Sedan fares start at **₹3,000**. This route suits Gorakhnath Temple visits, Gorakhpur Junction drops, and onward travel to the Sunauli Nepal border.
 
-## Quick Facts: Varanasi to Gorakhpur
+Gorakhpur is the practical gateway for Nepal-bound travellers from Varanasi. It is also an important city for Gorakhnath Temple, Geeta Press, Kushinagar side trips, and railway connections. We plan the pickup time based on your purpose — temple visit, train timing, or border crossing — so the day does not become rushed.
+
+## Quick Facts for Varanasi to Gorakhpur Taxi
 
 | Detail | Information |
 |--------|-------------|
@@ -51,254 +53,189 @@ faqSchema:
 | **Main Attraction** | Gorakhnath Temple, Rail Junction |
 | **Starting Fare** | ₹3,000 for Swift Dzire (4-seater) |
 
-## Why Travel to Gorakhpur?
+## Why Take a Varanasi to Gorakhpur Taxi?
 
-### Key Reasons to Visit Gorakhpur
+### Gateway to Nepal
 
-**1. Gateway to Nepal**
-- **Sunauli Border**: Only 90 km from Gorakhpur
-- Direct access to Lumbini (Buddha's birthplace)
-- Kathmandu via Butwal/Pokhara route
-- Popular for Nepal-bound travelers
+- **Sunauli Border:** 90 km from Gorakhpur.
+- Direct access to Lumbini (Buddha's birthplace).
+- Kathmandu route via Butwal/Pokhara.
+- Useful stop for travellers booking a [Varanasi to Nepal taxi](/en/city/nepal/taxi/varanasi-to-nepal-taxi).
 
-**2. Gorakhnath Temple**
-- Largest temple in the city
-- Dedicated to Guru Gorakhnath (Nath sect)
-- Major Hindu pilgrimage site
-- UP Chief Minister (Yogi Adityanath) is the head priest
+### Gorakhnath Temple
 
-**3. Railway Junction**
-- Major railway hub of eastern UP
-- Connects to all parts of India
-- International trains to Nepal (proposed)
+- Largest temple in the city.
+- Dedicated to Guru Gorakhnath (Nath sect).
+- Major Hindu pilgrimage site.
+- UP Chief Minister (Yogi Adityanath) is the head priest.
 
-**4. Access to Other Destinations**
-- Kushinagar (50 km): Buddhist pilgrimage site
-- Lumbini, Nepal (120 km): Buddha's birthplace
-- Pashupatinath, Nepal (via Kathmandu)
+### Railway Junction
 
-## Route Overview & Best Time to Travel
+- Major railway hub of eastern UP.
+- Connects to all parts of India.
+- International trains to Nepal (proposed).
 
-### Route Path
+### Access to Other Destinations
 
-**Varanasi → NH29 → Deoria → Gorakhpur (Gorakhnath Temple)**
+- Kushinagar (50 km): Buddhist pilgrimage site.
+- Lumbini, Nepal (120 km): Buddha's birthplace.
+- Pashupatinath, Nepal (via Kathmandu).
 
-The NH29 route is well-maintained with regular fuel stations and rest stops. The highway passes through Deoria district, offering glimpses of rural eastern UP.
+## Varanasi to Gorakhpur Taxi Route & Best Time to Travel
 
-**Best Time to Travel**: 
-- **For Nepal border**: Early morning (6-7 AM) to complete border crossing in daylight
-- **For Gorakhnath Temple**: Any time (temple open 24/7)
-- **For train connection**: Plan arrival 3-4 hours before departure
+**Route:** Varanasi → NH29 → Deoria → Gorakhpur (Gorakhnath Temple)
 
-**Best Seasons**: October to March offers pleasant weather. Avoid peak summer (May-June) when temperatures can exceed 40°C. Monsoon (July-September) brings occasional delays.
+NH29 is a regular outstation taxi route with fuel stations and rest stops on the way. The highway passes through Deoria district and is straightforward for day travel.
 
-## Vehicle Options & Pricing
+**Best time to travel:**
 
-### Varanasi to Gorakhpur Cabs - Vehicle Types & Fare Breakdown
+- **For Nepal border:** Start early morning (6-7 AM) so the Sunauli crossing can be handled in daylight.
+- **For Gorakhnath Temple:** Any time; the temple is open 24/7.
+- **For train connection:** Plan arrival 3-4 hours before departure.
 
-| Vehicle Type | Seating | Pricing | Best For | Special Features |
-|--------------|---------|---------|----------|------------------|
-| **Swift Dzire** | 4 passengers | ₹3,000-3,400 | Solo, couples | Fuel-efficient, comfortable |
-| **Ertiga** | 6 passengers | ₹4,000-4,500 | Small families | Extra luggage for Nepal trips |
-| **Innova Crysta** | 6-8 passengers | ₹5,200-5,800 | Larger groups | Premium comfort, spacious |
-| **Tempo Traveller** | 12-13 passengers | ₹8,000-9,500 | Group tours | Ideal for Nepal group tours |
+**Best seasons:** October to March is the most comfortable period. May-June can cross 40°C, and July-September may bring monsoon delays.
 
-### What's Included in Your Fare
+## Varanasi to Gorakhpur Taxi Vehicle Options & Pricing
 
-✓ Professional driver with Nepal border knowledge  
-✓ Fuel for entire journey  
-✓ Toll charges (₹100-150)  
-✓ Free pickup from anywhere in Varanasi  
-✓ Drop at Gorakhpur city/temple/railway station  
-✓ Driver allowance  
-✓ GPS tracking and insurance  
-✓ Free cancellation (up to 2 hours before)  
+| Vehicle Type | Seating | Pricing | Best For | Notes |
+|--------------|---------|---------|----------|-------|
+| **Swift Dzire** | 4 passengers | ₹3,000-3,400 | Solo, couples | Practical and economical |
+| **Ertiga** | 6 passengers | ₹4,000-4,500 | Small families | Good luggage space for Nepal trips |
+| **Innova Crysta** | 6-8 passengers | ₹5,200-5,800 | Larger groups | More comfortable for long onward travel |
+| **Tempo Traveller** | 12-13 passengers | ₹8,000-9,500 | Group tours | Useful for Nepal or Buddhist circuit groups |
+
+### What's Included
+
+- Professional driver with Nepal border route knowledge.
+- Fuel for the Varanasi-Gorakhpur journey.
+- Toll charges (₹100-150).
+- Pickup from anywhere in Varanasi.
+- Drop at Gorakhpur city, temple, railway station, or agreed point.
+- Driver allowance.
+- GPS tracking and insurance.
+- Free cancellation up to 2 hours before pickup.
 
 ### Not Included
 
-✗ Onward journey to Nepal border (additional ₹1,500-2,000 Gorakhpur → Sunauli)  
-✗ Temple donations (optional)  
-✗ Extra stops beyond 2 (₹50 per stop)  
-✗ Night surcharge (10 PM - 6 AM: +₹300-500)  
+- Onward journey to Nepal border (additional ₹1,500-2,000 Gorakhpur → Sunauli).
+- Temple donations, if you choose to give.
+- Extra stops beyond 2 (₹50 per stop).
+- Night surcharge (10 PM - 6 AM: +₹300-500).
 
-## Gorakhpur to Nepal - Cross-Border Information
+## Gorakhpur to Nepal Cross-Border Information
 
-### Border Crossing Options from Gorakhpur
+### Sunauli-Belahiya Border
 
-**Sunauli-Belahiya Border** (Recommended)
-- **Distance from Gorakhpur**: 90 km
-- **Travel time**: 1.5-2 hours
-- **Border type**: Main India-Nepal border
-- **Open 24/7**: Yes
-- **Additional fare**: ₹1,500-2,000 (Gorakhpur → Sunauli)
+| Detail | Information |
+|---|---|
+| **Distance from Gorakhpur** | 90 km |
+| **Travel time** | 1.5-2 hours |
+| **Border type** | Main India-Nepal border |
+| **Open 24/7** | Yes |
+| **Additional fare** | ₹1,500-2,000 (Gorakhpur → Sunauli) |
 
 ### Nepal Destinations Accessible from Gorakhpur
 
-**Via Sunauli Border**:
-- **Lumbini** (Buddha's birthplace): 25 km from border
-- **Bhairahawa**: 20 km from border
-- **Pokhara**: 200 km from border (6-7 hours)
-- **Kathmandu**: 300 km from border (8-9 hours)
+Via Sunauli Border:
+
+- **Lumbini** (Buddha's birthplace): 25 km from border.
+- **Bhairahawa:** 20 km from border.
+- **Pokhara:** 200 km from border (6-7 hours).
+- **Kathmandu:** 300 km from border (8-9 hours).
 
 ### Documents Required for Nepal Entry
 
-✓ **Indian Citizens**:
-- Valid photo ID (Aadhaar, Voter ID, Passport, Driving License)
-- No visa required (Indo-Nepal treaty)
-- Free border crossing
+**Indian citizens:**
 
-✓ **Foreign Nationals**:
-- Valid passport
-- Nepal visa (on-arrival at border or pre-obtained)
-- Visa fee: USD 30 (15 days), USD 50 (30 days)
+- Valid photo ID (Aadhaar, Voter ID, Passport, Driving License).
+- No visa required under the Indo-Nepal treaty.
+- Free border crossing.
 
-### Our Cross-Border Services
+**Foreign nationals:**
 
-**Option 1: Varanasi → Gorakhpur** (₹3,000)
-- Drop at Gorakhpur city/railway station
-- You arrange onward travel
+- Valid passport.
+- Nepal visa (on-arrival at border or pre-obtained).
+- Visa fee: USD 30 (15 days), USD 50 (30 days).
 
-**Option 2: Varanasi → Sunauli Border** (₹4,500-5,000)
-- Direct drop at India-Nepal border
-- Border crossing guidance
-- Help with documentation
+### Service Options
 
-**Option 3: Varanasi → Lumbini (Nepal)** (₹7,000-8,000)
-- Complete cross-border service
-- Border crossing assistance
-- Drop at Lumbini hotel
+**Varanasi → Gorakhpur** (₹3,000)
+
+- Drop at Gorakhpur city or railway station.
+- You arrange onward travel.
+
+**Varanasi → Sunauli Border** (₹4,500-5,000)
+
+- Direct drop at India-Nepal border.
+- Border crossing guidance.
+- Help with documentation.
+
+**Varanasi → Lumbini (Nepal)** (₹7,000-8,000)
+
+- Complete cross-border service.
+- Border crossing assistance.
+- Drop at Lumbini hotel.
 
 ## Places to Visit in Gorakhpur
 
-### Main Attractions
+### Gorakhnath Temple
 
-**1. Gorakhnath Temple**
-- Largest temple complex in the city
-- Dedicated to Guru Gorakhnath (12th century saint)
-- Head priest: UP Chief Minister Yogi Adityanath
-- **Timings**: Open 24/7
-- **Best time**: Early morning (5-7 AM) or evening (6-8 PM)
-- **Duration**: 1-2 hours
+- Largest temple complex in the city.
+- Dedicated to Guru Gorakhnath (12th century saint).
+- Head priest: UP Chief Minister Yogi Adityanath.
+- **Timings:** Open 24/7.
+- **Best time:** Early morning (5-7 AM) or evening (6-8 PM).
+- **Duration:** 1-2 hours.
 
-**2. Geeta Press**
-- World's largest publisher of Hindu religious texts
-- Publishes Gita, Ramayana, and other scriptures
-- Books available in 14 languages
-- **Timings**: 9:00 AM - 5:00 PM (closed Sundays)
+### Geeta Press
 
-**3. Ramgarh Tal**
-- Historic lake in city center
-- Ramayana connection (Lord Ram's kingdom)
-- Boating facilities available
-- **Best time**: Evening (sunset views)
+- World's largest publisher of Hindu religious texts.
+- Publishes Gita, Ramayana, and other scriptures.
+- Books available in 14 languages.
+- **Timings:** 9:00 AM - 5:00 PM (closed Sundays).
 
-**4. Neer Nikunj Water Park**
-- Popular local attraction
-- Good for families with children
-- **Timings**: 10:00 AM - 6:00 PM
+### Ramgarh Tal
 
-### Nearby Destinations (Day Trips from Gorakhpur)
+- Historic lake in city center.
+- Ramayana connection (Lord Ram's kingdom).
+- Boating facilities available.
+- **Best time:** Evening for sunset views.
+
+### Neer Nikunj Water Park
+
+- Popular local attraction.
+- Good for families with children.
+- **Timings:** 10:00 AM - 6:00 PM.
+
+### Nearby Day Trips from Gorakhpur
 
 **Kushinagar** (50 km, 1.5 hrs)
-- Where Buddha attained Parinirvana
-- Mahaparinirvana Temple
-- Rambhar Stupa
-- Combine with Gorakhpur trip
+
+- Where Buddha attained Parinirvana.
+- Mahaparinirvana Temple.
+- Rambhar Stupa.
+- Can be combined with Gorakhpur.
 
 **Sunauli Border** (90 km, 2 hrs)
-- Gateway to Nepal
-- Border town with Nepal influence
 
-## Transparent Pricing Breakdown
+- Gateway to Nepal.
+- Border town with Nepal influence.
 
-### Affordable Varanasi to Gorakhpur Cab Fares - No Hidden Charges
+## Varanasi to Gorakhpur Taxi Pricing Options
 
-**Pricing Breakdown for Swift Dzire (4-seater)**:
+- **Varanasi → Gorakhpur → Sunauli Border:** ₹4,500, with border guidance and help with Nepal taxi/bus booking.
+- **Varanasi → Kushinagar → Gorakhpur:** ₹5,500, useful for a Buddhist pilgrimage day.
+- **Lumbini Pilgrimage (2-Day):** Day 1 Varanasi → Lumbini, Day 2 Lumbini sightseeing → Return Varanasi; ₹12,000 for sedan, with border crossing and accommodation guidance.
+- **Varanasi → Gorakhpur Junction:** ₹2,800 fixed for railway transfer, with train timing coordination and luggage help.
 
-| Component | Amount |
-|-----------|--------|
-| Base Fare | ₹500 |
-| Per-km Rate (215 km) | ₹2,150 (@ ₹10/km) |
-| Toll Charges | ₹120 |
-| Driver Allowance | ₹300 |
-| GST (5%) | ₹155 |
-| **Total Estimated Fare** | **₹3,225** |
+## Why Book a Varanasi to Gorakhpur Cab With Kashi Taxi
 
-### Why Choose Kashi Taxi Over Alternatives
+- Drivers know the Gorakhpur, Sunauli and Kushinagar routes.
+- Fixed fare is shared before travel; no app-style surge pricing.
+- Useful for railway station drops, border trips, and family travel with luggage.
+- Local team stays available on call and WhatsApp during the journey.
 
-| Feature | Kashi Taxi | Train | Bus | Shared Taxi |
-|---------|-----------|-------|-----|-------------|
-| **Door-to-Door** | ✓ Yes | ✗ No | ✗ No | ✗ Fixed points |
-| **Flexible Timing** | ✓ Any time | Limited | Limited | Fixed |
-| **Nepal Border Option** | ✓ Available | ✗ No | ✗ No | Sometimes |
-| **Luggage Space** | ✓ Ample | Limited | Very limited | Minimal |
-| **Comfort** | High | Medium | Low | Medium |
-| **Privacy** | Private | Shared | Shared | Shared |
-| **Starting Price** | ₹3,000 | ₹200 | ₹300 | ₹500/seat |
-| **Travel Time** | 4-4.5 hrs | 5-6 hrs | 5-6 hrs | 4-5 hrs |
-
-## Why Book Varanasi to Gorakhpur Cabs with Kashi Taxi
-
-### 1. Nepal Border Expertise
-- Drivers familiar with Sunauli border crossing
-- Can guide on documentation requirements
-- Experience with international travelers
-- Know best Nepal entry points
-
-### 2. Railway Station Transfers
-- Direct drop at Gorakhpur Junction platform entry
-- Help with luggage
-- Know station layout and facilities
-- Can coordinate train timings
-
-### 3. Flexible Multi-Destination Packages
-Choose from:
-- **Varanasi → Gorakhpur** (city drop)
-- **Varanasi → Gorakhpur → Kushinagar** (Buddhist circuit)
-- **Varanasi → Gorakhpur → Nepal border** (cross-border)
-- **Varanasi → Gorakhpur → Lumbini → Varanasi** (4-day Nepal pilgrimage)
-
-### 4. Competitive Pricing
-- Fixed rates - no surge pricing
-- 20-25% lower than app cabs
-- Transparent billing with GST invoice
-- Price match guarantee
-
-### 5. 24/7 Service & Safety
-- Available for early morning Nepal trips
-- GPS tracking
-- Emergency support
-- Insurance coverage
-
-## Special Offers & Packages
-
-### Limited-Time Offers on Varanasi to Gorakhpur Cabs
-
-**Offer 1: Nepal Gateway Package**
-- **Varanasi → Gorakhpur → Sunauli Border: ₹4,500**
-- Includes border crossing guidance
-- Help with Nepal taxi/bus booking
-- Perfect for Nepal-bound travelers
-
-**Offer 2: Kushinagar Combo**
-- **Varanasi → Kushinagar → Gorakhpur: ₹5,500**
-- Visit Buddha's Parinirvana site
-- Complete Buddhist pilgrimage
-- Same-day return option
-
-**Offer 3: Lumbini Pilgrimage (2-Day)**
-- **Day 1**: Varanasi → Lumbini (overnight)
-- **Day 2**: Lumbini sightseeing → Return Varanasi
-- **₹12,000** for sedan (all-inclusive)
-- Border crossing + accommodation guidance
-
-**Offer 4: Railway Transfer Special**
-- **₹2,800 fixed** (Varanasi → Gorakhpur Junction)
-- Train timing coordination
-- Platform drop
-- Luggage assistance
-
-## Customer Reviews & Trust Signals
+## Varanasi to Gorakhpur Taxi Customer Reviews & Trust Signals
 
 ### What Travelers Say About Our Varanasi to Gorakhpur Service
 
@@ -317,80 +254,63 @@ Choose from:
 "Needed to catch a train from Gorakhpur Junction. The driver picked me up on time and ensured I reached the platform with 30 minutes to spare. Very reliable service!"  
 **Trip**: Solo traveler, Swift Dzire | **Date**: September 2026
 
-### Verified Stats
+### Verified Varanasi to Gorakhpur Taxi Stats
 
-- ✓ 2,000+ trips to Gorakhpur
-- ✓ 4.8/5 average rating
-- ✓ 98% on-time arrival
-- ✓ 300+ Nepal border crossings assisted
-- ✓ Zero accident record
+- 2,000+ trips to Gorakhpur
+- 4.8/5 average rating
+- 98% on-time arrival
+- 300+ Nepal border crossings assisted
+- Zero accident record
 
-## Pickup & Dropoff Locations
+## Pickup & Dropoff Locations for Varanasi to Gorakhpur Taxi
 
 ### Pickup Points in Varanasi
 
-✓ Hotels and guesthouses (all areas)  
-✓ Varanasi Railway Stations  
-✓ Varanasi Airport (VNS)  
-✓ Ghats and temple areas  
-✓ Residential addresses  
+- Hotels and guesthouses in all areas.
+- Varanasi railway stations.
+- Varanasi Airport (VNS).
+- Ghats and temple areas.
+- Residential addresses.
 
 ### Drop Points in Gorakhpur
 
-✓ Gorakhpur Railway Junction (platform entry)  
-✓ Gorakhnath Temple (main entrance)  
-✓ Hotels and guesthouses  
-✓ Gorakhpur Bus Stand  
-✓ Geeta Press  
-✓ Sunauli Border (additional ₹1,500)  
-✓ Any specified address  
+- Gorakhpur Railway Junction (platform entry).
+- Gorakhnath Temple (main entrance).
+- Hotels and guesthouses.
+- Gorakhpur Bus Stand.
+- Geeta Press.
+- Sunauli Border (additional ₹1,500).
+- Any specified address.
 
-**Operating Hours**: 24/7 available. Early morning (4-6 AM) pickups for Nepal border trips.
+**Operating hours:** 24/7 available. Early morning (4-6 AM) pickups work best for Nepal border trips.
 
-## How to Book
+## How to Book Varanasi to Gorakhpur Taxi
 
-### Book Varanasi to Gorakhpur Taxi in 3 Easy Steps
+1. **Contact us:** Phone [99354 74730](tel:+919935474730) or WhatsApp [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Gorakhpur%20taxi).
+2. **Share details:** Travel date, time, passengers, destination (Gorakhpur city / railway station / Nepal border), and one-way or round-trip plan.
+3. **Confirm and travel:** We share driver details, pickup timing and fare before the trip.
 
-**Step 1: Contact Us**
-- Phone: [99354 74730](tel:+919935474730)
-- WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Gorakhpur%20taxi)
-
-**Step 2: Share Details**
-- Travel date and time
-- Number of passengers
-- Destination (Gorakhpur city / Railway station / Nepal border)
-- One-way or round-trip
-- Any special requirements
-
-**Step 3: Confirm & Travel**
-- Receive confirmation with driver details
-- Driver arrives on time
-- Make payment (cash/UPI/card)
-- Enjoy your journey!
-
-## Nepal Travel Tips
+## Nepal Travel Tips After a Varanasi to Gorakhpur Taxi Ride
 
 ### Border Crossing Tips
 
-✓ **Best time**: Morning (8 AM - 12 PM) to avoid evening queues  
-✓ **Documents**: Carry multiple ID proofs  
-✓ **Currency**: Exchange INR to NPR at border (rates fair)  
-✓ **SIM card**: Buy Nepal SIM at border (₹200-300)  
-✓ **Transport**: Pre-book Nepal taxi/bus from border  
-✓ **COVID**: Check latest Nepal entry requirements  
+- **Best time:** Morning (8 AM - 12 PM) to avoid evening queues.
+- **Documents:** Carry multiple ID proofs.
+- **Currency:** Exchange INR to NPR at the border; rates are usually fair.
+- **SIM card:** Buy Nepal SIM at border (₹200-300).
+- **Transport:** Pre-book Nepal taxi/bus from border.
+- **COVID:** Check latest Nepal entry requirements.
 
 ### Nepal Travel Essentials
 
-✓ Cash (ATMs available but may have queues)  
-✓ Power adapter (Nepal uses same plug as India)  
-✓ Warm clothes (if visiting Kathmandu/Pokhara)  
-✓ Sunscreen and hat  
-✓ Basic medicines  
-✓ Nepal guidebook/map  
+- Cash; ATMs are available but may have queues.
+- Power adapter; Nepal uses the same plug as India.
+- Warm clothes for Kathmandu/Pokhara.
+- Sunscreen and hat.
+- Basic medicines.
+- Nepal guidebook or map.
 
-## Related Routes & Services
-
-### Similar Routes from Varanasi
+## Related Varanasi Taxi Routes & Nepal Services
 
 - [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi) - 219 km | 4 hrs | Ram Mandir
 - [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Vishnupad Temple
@@ -400,16 +320,17 @@ Choose from:
 ### Multi-Destination Packages
 
 **Buddhist Circuit with Nepal** (7-Day Package)
-- Varanasi (Sarnath) → Kushinagar → Lumbini (Nepal) → Kapilvastu → Return
-- **₹28,000** for sedan (all-inclusive)
+
+- Varanasi (Sarnath) → Kushinagar → Lumbini (Nepal) → Kapilvastu → Return.
+- ₹28,000 for sedan (all-inclusive).
 
 **North India Pilgrimage** (5-Day Package)
-- Varanasi → Ayodhya → Gorakhpur (Gorakhnath) → Kushinagar → Varanasi
-- **₹20,000** for sedan
+
+- Varanasi → Ayodhya → Gorakhpur (Gorakhnath) → Kushinagar → Varanasi.
+- ₹20,000 for sedan.
 
 ---
 
-**Ready to travel to Gorakhpur or Nepal?**  
-Book your Varanasi to Gorakhpur taxi now!  
-📞 Call: [99354 74730](tel:+919935474730)  
-💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Gorakhpur%20Nepal%20taxi)
+**Planning Gorakhpur or Nepal from Varanasi?**
+
+Call [99354 74730](tel:+919935474730) or WhatsApp [+91 9450301573](https://wa.me/919935474730?text=Book%20Gorakhpur%20Nepal%20taxi).

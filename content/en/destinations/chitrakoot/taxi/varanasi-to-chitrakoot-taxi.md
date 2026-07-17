@@ -35,11 +35,13 @@ faqSchema:
     answer: "Yes, with an early morning departure (6-7 AM), you can reach Chitrakoot by 10 AM, complete Kamadgiri Parikrama (5 km, 1.5-2 hours), visit other temples, and return to Varanasi by evening."
 ---
 
-# Varanasi to Chitrakoot | Sacred Pilgrimage | Cabs from ₹3,500
+# Varanasi to Chitrakoot Taxi | Ram Darshan | Cabs from ₹3,500
 
-**Chitrakoot is one of the most sacred Ramayana pilgrimage sites** where Lord Rama, Sita, and Lakshman spent 11 years and 6 months of their 14-year exile. Located approximately **245-262 kilometers** from Varanasi, the serene journey takes **3.5 to 4 hours** via NH19 & NH731A. This spiritual destination offers peace, natural beauty, and deep connection to the Ramayana epic.
+> **Quick answer:** Varanasi to Chitrakoot is about **245-262 km** and usually takes **3.5-4 hours** by taxi via NH19 and NH731A. Sedan fares start from **₹3,500-3,900**. Start early if you want Kamadgiri Parikrama and same-day return.
 
-## Quick Facts: Varanasi to Chitrakoot
+Chitrakoot is closely linked with the Ramayana. Lord Rama, Sita, and Lakshman are believed to have spent 11 years and 6 months of their exile here. The trip is not difficult, but temple timing and walking time matter, especially for elderly passengers.
+
+## Quick Facts: Varanasi to Chitrakoot Taxi
 
 | Detail | Information |
 |--------|-------------|
@@ -51,42 +53,33 @@ faqSchema:
 | **Main Attraction** | Kamadgiri Mountain Parikrama |
 | **Starting Fare** | ₹3,500 for Swift Dzire (4-seater) |
 
-## Chitrakoot - The Ramayana Connection
+## Chitrakoot Ramayana Guide for Varanasi to Chitrakoot Taxi Pilgrims
 
-### Religious & Historical Significance
+**Why Chitrakoot is sacred:**
 
-**Why Chitrakoot is Sacred**:
-- **Ram's Exile**: Lord Rama spent 11.5 years here during his 14-year vanvas
-- **Kamadgiri**: Sacred hill where Ram built his hermitage
-- **Janki Kund**: Where Sita bathed
-- **Sphatik Shila**: Where Ram-Sita meditated
-- **Hanuman Dhara**: Where Hanuman cooled his burning heart
+- **Ram's Exile:** Lord Rama spent 11.5 years here during his 14-year vanvas
+- **Kamadgiri:** Sacred hill where Ram built his hermitage
+- **Janki Kund:** Where Sita bathed
+- **Sphatik Shila:** Where Ram-Sita meditated
+- **Hanuman Dhara:** Where Hanuman cooled his burning heart
 
-**Spiritual Importance**:
-- Mentioned in Ramayana and other ancient texts
-- One of the most peaceful pilgrimage sites
-- Popular for meditation and spiritual retreats
-- Less crowded than Ayodhya, more serene atmosphere
+Chitrakoot is quieter than many big pilgrimage towns. It is good for families, senior citizens, and devotees who want darshan without rushing.
 
-## Route Overview & Best Time to Travel
+## Varanasi to Chitrakoot Cab Route & Best Time to Travel
 
-### Route Path
+**Route:** Varanasi → NH19 → Mirzapur → NH731A → Chitrakoot (Kamadgiri)
 
-**Varanasi → NH19 → Mirzapur → NH731A → Chitrakoot (Kamadgiri)**
+As you get closer to Chitrakoot, the route passes near the Vindhya hills.
 
-The route passes through scenic areas with views of Vindhya hills as you approach Chitrakoot.
+- **For Parikrama:** Leave Varanasi around 6 AM so you can walk in cooler weather.
+- **Peak seasons:** Diwali, Ram Navami (March-April), Kartik Purnima (October-November).
+- **Best months:** October to March, around 15-30°C.
+- **Summer:** April-June can be hot.
+- **Monsoon:** July-Sep brings greenery but occasional delays.
 
-**Best Time to Travel**: 
-- **For Parikrama**: Early morning departure (6 AM) to complete parikrama in cool weather
-- **Peak seasons**: Diwali, Ram Navami (March-April), Kartik Purnima (October-November)
-- **Best months**: October to March (pleasant weather, 15-30°C)
-- **Avoid**: Peak summer (April-June) can be hot; monsoon (July-Sep) brings beautiful greenery but occasional delays
+**Kamadgiri Parikrama timing:** Early morning (6-8 AM) or evening (4-6 PM). The 5 km parikrama usually takes 1.5-2 hours.
 
-**Kamadgiri Parikrama Timing**: Best started early morning (6-8 AM) or evening (4-6 PM). Takes 1.5-2 hours to complete the 5 km circumambulation.
-
-## Vehicle Options & Pricing
-
-### Varanasi to Chitrakoot Cabs - Vehicle Types & Fare Breakdown
+## Varanasi to Chitrakoot Taxi Fare & Vehicle Options
 
 | Vehicle Type | Seating | Pricing | Best For | Special Features |
 |--------------|---------|---------|----------|------------------|
@@ -95,207 +88,133 @@ The route passes through scenic areas with views of Vindhya hills as you approac
 | **Innova Crysta** | 6-8 passengers | ₹5,800-6,500 | Large families | Premium comfort |
 | **Tempo Traveller** | 12-13 passengers | ₹9,000-11,000 | Community pilgrimages | Group-friendly |
 
-### What's Included in Your Fare
+**Included in the fare:**
 
-✓ Professional driver with Chitrakoot route knowledge  
-✓ Fuel for entire journey  
-✓ Toll charges (₹100-150)  
-✓ Free pickup from anywhere in Varanasi  
-✓ Drop at Kamadgiri or hotel in Chitrakoot  
-✓ Driver allowance  
-✓ GPS tracking and insurance  
-✓ Free cancellation (up to 2 hours before)  
-✓ Waiting time at temples (reasonable stops)  
+- Professional driver with Chitrakoot route knowledge
+- Fuel for the journey
+- Toll charges (₹100-150)
+- Pickup from anywhere in Varanasi
+- Drop at Kamadgiri or hotel in Chitrakoot
+- Driver allowance
+- GPS tracking and insurance
+- Free cancellation up to 2 hours before travel
+- Reasonable waiting time at temples
 
-### Not Included
+**Not included:**
 
-✗ Temple donations and offerings (optional)  
-✗ Parikrama guide fees (₹200-500, optional)  
-✗ Extra stops beyond 2 (₹50 per stop)  
-✗ Peak season charges (Diwali/Ram Navami: +₹300-500)  
+- Temple donations and offerings (optional)
+- Parikrama guide fees (₹200-500, optional)
+- Extra stops beyond 2 (₹50 per stop)
+- Peak season charges (Diwali/Ram Navami: +₹300-500)
 
-## Places to Visit in Chitrakoot
+## Places to Visit in Chitrakoot on a Varanasi to Chitrakoot Taxi Trip
 
-### Must-Visit Sacred Sites
+### 1. Kamadgiri Temple and Parikrama
 
-**1. Kamadgiri Temple & Parikrama**
-- **Most sacred**: Central to Chitrakoot pilgrimage
-- **Parikrama distance**: 5 km circumambulation
-- **Time required**: 1.5-2 hours (walking)
-- **Best time**: Early morning (6-8 AM) or evening (4-6 PM)
-- **Significance**: Where Ram built his hut
-- **Temples along route**: Multiple small temples and samadhis
-- **Dress code**: Traditional, modest clothing recommended
+- **Most sacred:** Central to Chitrakoot pilgrimage
+- **Parikrama distance:** 5 km circumambulation
+- **Time required:** 1.5-2 hours walking
+- **Best time:** Early morning (6-8 AM) or evening (4-6 PM)
+- **Significance:** Where Ram built his hut
+- **Temples along route:** Multiple small temples and samadhis
+- **Dress code:** Traditional, modest clothing recommended
 
-**2. Ramghat (Main Bathing Ghat)**
+### 2. Ramghat
+
 - Sacred bathing ghat on Mandakini River
 - Morning and evening aarti (6 AM & 6 PM)
 - Boat rides available (₹50-100)
-- Beautiful sunrise/sunset views
-- **Best time**: Early morning for peaceful atmosphere
+- Good sunrise/sunset views
+- **Best time:** Early morning for a calmer visit
 
-**3. Janki Kund**
+### 3. Janki Kund
+
 - Where Sita used to bathe
-- Natural spring with crystal-clear water
+- Natural spring with clear water
 - About 4 km from main market
-- Peaceful, less crowded
-- **Best time**: Morning
+- Peaceful and less crowded
+- **Best time:** Morning
 
-**4. Sati Anusuya Ashram**
+### 4. Sati Anusuya Ashram
+
 - 16 km from Chitrakoot main area
-- Associated with sage Atri and his wife Anusuya
-- Beautiful forest setting
-- Atri-Anusuya temple
-- **Time required**: Half-day trip
+- Associated with sage Atri and Anusuya
+- Forest setting with Atri-Anusuya temple
+- **Time required:** Half-day trip
 
-**5. Hanuman Dhara**
+### 5. Hanuman Dhara
+
 - About 6 km from Kamadgiri
 - 300+ steps climb
 - Natural spring flows over Hanuman idol
 - Panoramic view of Chitrakoot
-- **Best time**: Early morning or late afternoon
-- **Duration**: 1-2 hours
+- **Best time:** Early morning or late afternoon
+- **Duration:** 1-2 hours
 
-**6. Sphatik Shila**
+### 6. Sphatik Shila
+
 - White crystal stone where Ram-Sita sat
 - Footprints believed to be of Sita
 - On banks of Mandakini River
-- **Duration**: 30 minutes
+- **Duration:** 30 minutes
 
-**7. Bharat Milap Temple**
+### 7. Bharat Milap Temple
+
 - Where Bharat met Rama during exile
 - Important Ramayana site
 - Simple temple with historical significance
-- **Duration**: 30 minutes
+- **Duration:** 30 minutes
 
-**8. Gupt Godavari**
+### 8. Gupt Godavari
+
 - Hidden caves about 18 km from main area
 - Narrow passage with knee-deep water
 - Believed to be secret passage used by Pandavas
-- Beautiful natural formation
-- **Best for**: Adventure lovers
-- **Entry fee**: ₹10
-- **Duration**: 1-2 hours
+- Natural cave formation
+- **Best for:** Adventure lovers
+- **Entry fee:** ₹10
+- **Duration:** 1-2 hours
 
-## Suggested Itineraries
+## Suggested Varanasi to Chitrakoot Taxi Itineraries
 
-### One-Day Chitrakoot Darshan (Same-Day Return)
+### One-Day Chitrakoot Darshan
 
-**6:00 AM**: Depart from Varanasi  
-**9:30 AM**: Arrive Chitrakoot, freshen up  
-**10:00 AM - 12:00 PM**: Kamadgiri Parikrama (5 km)  
-**12:00 PM - 1:00 PM**: Lunch break  
-**1:00 PM - 2:00 PM**: Ramghat darshan & boat ride  
-**2:00 PM - 3:00 PM**: Sphatik Shila & Janki Kund  
-**3:00 PM - 4:30 PM**: Hanuman Dhara (with climb)  
-**4:30 PM**: Depart for Varanasi  
-**8:00 PM**: Arrive Varanasi  
+- **6:00 AM:** Depart from Varanasi
+- **9:30 AM:** Arrive Chitrakoot, freshen up
+- **10:00 AM - 12:00 PM:** Kamadgiri Parikrama (5 km)
+- **12:00 PM - 1:00 PM:** Lunch break
+- **1:00 PM - 2:00 PM:** Ramghat darshan and boat ride
+- **2:00 PM - 3:00 PM:** Sphatik Shila and Janki Kund
+- **3:00 PM - 4:30 PM:** Hanuman Dhara
+- **4:30 PM:** Depart for Varanasi
+- **8:00 PM:** Arrive Varanasi
 
 ### Two-Day Chitrakoot Complete Tour
 
-**Day 1**:
-- Morning: Varanasi → Chitrakoot (check-in hotel)
+**Day 1**
+
+- Morning: Varanasi → Chitrakoot, hotel check-in
 - Afternoon: Kamadgiri Parikrama
 - Evening: Ramghat aarti
 - Night: Stay in Chitrakoot
 
-**Day 2**:
+**Day 2**
+
 - Morning: Hanuman Dhara, Janki Kund
 - Midday: Sati Anusuya Ashram OR Gupt Godavari
 - Afternoon: Depart for Varanasi
 - Evening: Arrive Varanasi
 
-## Transparent Pricing Breakdown
+## Varanasi to Chitrakoot Cab Round-Trip & Pilgrimage Pricing
 
-### Varanasi to Chitrakoot Cab Fares - No Hidden Charges
+These are regular route options:
 
-**Pricing Breakdown for Swift Dzire (4-seater)**:
-
-| Component | Amount |
-|-----------|--------|
-| Base Fare | ₹550 |
-| Per-km Rate (250 km) | ₹2,500 (@ ₹10/km) |
-| Toll Charges | ₹130 |
-| Driver Allowance | ₹350 |
-| GST (5%) | ₹175 |
-| **Total Estimated Fare** | **₹3,705** |
-
-### Why Choose Kashi Taxi for Chitrakoot Pilgrimage
-
-| Feature | Kashi Taxi | Train | Bus | Shared Taxi |
-|---------|-----------|-------|-----|-------------|
-| **Door-to-Door** | ✓ Yes | ✗ No | ✗ No | ✗ Limited |
-| **Kamadgiri Drop** | ✓ Direct | ✗ Station | ✗ Stand | ✗ Fixed |
-| **Flexible Timing** | ✓ Any time | 1-2 trains | Limited | Fixed |
-| **Parikrama Support** | ✓ Yes | ✗ No | ✗ No | ✗ No |
-| **Luggage Space** | ✓ Ample | Limited | Very limited | Minimal |
-| **Comfort** | High | Medium | Low | Medium |
-| **Starting Price** | ₹3,500 | ₹250 | ₹350 | ₹500/seat |
-| **Travel Time** | 3.5-4 hrs | 5-6 hrs | 5-6 hrs | 4-5 hrs |
-
-## Why Book Varanasi to Chitrakoot Cabs with Kashi Taxi
-
-### 1. Ramayana Pilgrimage Expertise
-- Drivers familiar with all Ramayana sites
-- Knowledge of Kamadgiri Parikrama route
-- Can explain significance of each location
-- Respectful of pilgrimage customs
-- Understand puja and darshan protocols
-
-### 2. Parikrama Package Available
-- **Complete Parikrama support**:
-  - Drop at starting point (main temple gate)
-  - Pickup after completion (1.5-2 hours later)
-  - Water and refreshments in vehicle
-  - Medical assistance if needed
-
-### 3. Multi-Day Pilgrimage Options
-Choose from:
-- **Same-day round trip**: Early morning start, evening return
-- **2-day package**: Overnight stay with morning aarti
-- **3-day spiritual retreat**: Complete Chitrakoot + nearby ashrams
-- **Ramayana circuit**: Chitrakoot + Ayodhya + Prayagraj combo
-
-### 4. Peaceful Journey
-- Quiet, respectful drivers
-- Spiritual music on request (bhajans)
-- No unnecessary stops
-- Meditation-friendly environment
-
-### 5. Senior Citizen Friendly
-- Patient drivers for elderly passengers
-- Help with walking/climbing
-- Regular rest stops
-- Can arrange wheelchair at major sites (on request)
-
-## Special Offers & Packages
-
-### Limited-Time Offers on Varanasi to Chitrakoot Cabs
-
-**Offer 1: Kamadgiri Parikrama Special**
-- **Round-trip at ₹6,500** (sedan)
-- Includes waiting time during parikrama
-- Temple guide coordination (optional)
-- Early morning (6 AM) departure
-- Same-day return by 8 PM
-
-**Offer 2: Two-Day Spiritual Retreat**
-- **Day 1**: Varanasi → Chitrakoot (evening aarti at Ramghat)
-- **Day 2**: Morning parikrama → All temples → Return Varanasi
-- **₹9,500** for sedan (includes driver overnight)
-- Hotel booking assistance
-
-**Offer 3: Ramayana Circuit (3-Day)**
-- **Day 1**: Varanasi → Chitrakoot (overnight)
-- **Day 2**: Chitrakoot → Prayagraj (Sangam, overnight)
-- **Day 3**: Prayagraj → Ayodhya (Ram Mandir) → Varanasi
-- **₹17,000** for sedan (all-inclusive)
-
-**Offer 4: Group Pilgrimage Discount**
-- Tempo Traveller for 10+ pilgrims
-- **₹750 per person** (round trip)
-- Perfect for community groups
-- Flexible itinerary
+- **Kamadgiri Parikrama round trip:** ₹6,500 for sedan, includes waiting time during parikrama, optional guide coordination, 6 AM departure, same-day return by 8 PM.
+- **Two-Day Spiritual Retreat:** ₹9,500 for sedan, Day 1 Varanasi → Chitrakoot with evening aarti at Ramghat, Day 2 morning parikrama, all temples, and return.
+- **Ramayana Circuit (3-Day):** ₹17,000 for sedan, Chitrakoot → Prayagraj → Ayodhya → Varanasi.
+- **Group pilgrimage:** Tempo Traveller for 10+ pilgrims, ₹750 per person round trip.
+- **4-Day Complete Ramayana Trail:** Ayodhya → Chitrakoot → Prayagraj → Varanasi, ₹22,000 for sedan (all-inclusive).
+- **Ram Exile Journey (2-Day):** Varanasi → Chitrakoot overnight at ashram, morning parikrama, Sati Anusuya, return Varanasi, ₹10,500 for sedan.
 
 ## Customer Reviews & Trust Signals
 
@@ -318,116 +237,70 @@ Choose from:
 
 ### Verified Stats
 
-- ✓ 1,200+ Chitrakoot pilgrimages
-- ✓ 4.9/5 average rating
-- ✓ 98% on-time departure
-- ✓ Zero complaints
-- ✓ Trusted by ashrams and spiritual groups
+- 1,200+ Chitrakoot pilgrimages
+- 4.9/5 average rating
+- 98% on-time departure
+- Zero complaints
+- Trusted by ashrams and spiritual groups
 
-## Pickup & Dropoff Locations
+## Varanasi to Chitrakoot Taxi Pickup and Drop Points
 
-### Pickup Points in Varanasi
+**Pickup in Varanasi:**
 
-✓ Hotels and guesthouses  
-✓ Ghats and temples  
-✓ Railway stations  
-✓ Airport (VNS)  
-✓ Residential addresses  
-✓ Ashrams and dharamshalas  
+- Hotels and guesthouses
+- Ghats and temples
+- Railway stations
+- Airport (VNS)
+- Residential addresses
+- Ashrams and dharamshalas
 
-### Drop Points in Chitrakoot
+**Drop in Chitrakoot:**
 
-✓ Kamadgiri Temple (main entrance)  
-✓ Ramghat area  
-✓ Hotels and guesthouses  
-✓ Chitrakoot Dham Railway Station  
-✓ Any temple or ashram  
+- Kamadgiri Temple main entrance
+- Ramghat area
+- Hotels and guesthouses
+- Chitrakoot Dham Railway Station
+- Any temple or ashram
 
-**Operating Hours**: 24/7 available. Early morning (5-6 AM) pickups recommended for parikrama.
+**Operating Hours:** 24/7 available. Early morning (5-6 AM) pickups are best for parikrama.
 
-## Chitrakoot Travel Tips
+## Varanasi to Chitrakoot Taxi Travel Tips
 
-### For Kamadgiri Parikrama
+- **Start early:** 6-8 AM is best for Kamadgiri Parikrama.
+- **Footwear:** Wear comfortable walking shoes; you may need to remove them at certain points.
+- **Clothing:** Modest, traditional clothing is better for temples.
+- **Carry:** Water bottle, small bag for offerings, sunscreen, cap, light jacket in winter, camera where allowed, basic medicines, and cash.
+- **Duration:** Keep 2 hours minimum for the 5 km parikrama with temple stops.
+- **Direction:** Walk clockwise.
+- **Offerings:** Flowers and coconuts are available at stalls.
+- **Food:** Simple vegetarian meals are common; sattvic food is easiest to find.
+- **Accommodation:** Dharamshalas (₹200-500), hotels (₹800-2000).
+- **Cash:** ATMs can be limited; carry ₹2,000-3,000.
+- **Mobile:** Network can be patchy in remote areas.
 
-✓ **Start early**: 6-8 AM is best (less crowded, cooler)  
-✓ **Footwear**: Comfortable walking shoes (remove at certain points)  
-✓ **Clothing**: Modest, traditional (dhoti-kurta for men, saree/salwar for women)  
-✓ **Carry**: Water bottle, small bag for offerings  
-✓ **Duration**: Allow 2 hours minimum (5 km, with temple stops)  
-✓ **Direction**: Clockwise circumambulation  
-✓ **Offerings**: Flowers, coconuts available at stalls  
-✓ **Respect**: Maintain silence, no photography at certain temples  
+## Why Book Your Varanasi to Chitrakoot Taxi with Kashi Taxi
 
-### General Chitrakoot Tips
+- Drivers know the Kamadgiri drop point, pickup points, and temple sequence.
+- We plan extra time for elderly passengers and families.
+- Same-day and overnight options are available with clear fare discussion.
+- We can add Prayagraj or Ayodhya if you want a longer Ramayana route.
 
-✓ **Best season**: October-March (15-28°C)  
-✓ **Monsoon**: July-September brings lush greenery  
-✓ **Summer**: Extremely hot (35-45°C), avoid April-June  
-✓ **Food**: Simple vegetarian meals, sattvic food recommended  
-✓ **Accommodation**: Dharamshalas (₹200-500), hotels (₹800-2000)  
-✓ **ATM**: Limited, carry sufficient cash  
-✓ **Mobile**: Network can be patchy in remote areas  
-✓ **Health**: Carry basic medicines, stay hydrated  
+## How to Book Varanasi to Chitrakoot Taxi
 
-### What to Bring
+1. Call [99354 74730](tel:+919935474730) or WhatsApp [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Chitrakoot%20taxi).
+2. Share travel date, passengers, one-way/round-trip plan, parikrama timing, overnight stay, and any elderly or medical needs.
+3. Confirm the fare and driver details before travel. Payment can be cash, UPI, or card.
 
-✓ Comfortable walking shoes  
-✓ Traditional clothing for temples  
-✓ Water bottle  
-✓ Small bag for prasad  
-✓ Sunscreen and cap  
-✓ Light jacket (winter mornings)  
-✓ Camera (for allowed areas)  
-✓ Basic medicines  
-✓ Cash (₹2,000-3,000 recommended)  
-
-## How to Book
-
-### Book Varanasi to Chitrakoot Taxi in 3 Easy Steps
-
-**Step 1: Contact Us**
-- Phone: [99354 74730](tel:+919935474730)
-- WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Chitrakoot%20taxi)
-
-**Step 2: Share Details**
-- Travel date and time
-- Number of passengers
-- One-way or round-trip
-- Parikrama timing preference
-- Overnight stay (yes/no)
-- Any special requirements (elderly, medical)
-
-**Step 3: Confirm & Travel**
-- Receive confirmation with driver details
-- Driver arrives on time
-- Make payment (cash/UPI/card)
-- Begin your spiritual journey!
-
-## Related Routes & Services
-
-### Similar Ramayana Pilgrimage Routes
+## Related Varanasi to Chitrakoot Taxi Routes and Services
 
 - [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi) - 219 km | 4 hrs | Ram Janmabhoomi
 - [Varanasi to Prayagraj](/en/varanasi-to-prayagraj-taxi) - 120 km | 2.5 hrs | Triveni Sangam
 - Varanasi to Nashik - 1,050 km | Multi-day | Panchavati (Ram's exile)
 - [Varanasi to Vindhyachal Taxi](/en/varanasi-to-vindhyachal-taxi) - 65 km | 1.5-2 hrs | Vindhyavasini Shakti Peeth
 
-### Complete Ramayana Circuit Packages
-
-**4-Day Complete Ramayana Trail**
-- Ayodhya (Birth) → Chitrakoot (Exile) → Prayagraj (Ashwamedha) → Varanasi
-- **₹22,000** for sedan (all-inclusive)
-
-**Ram Exile Journey** (2-Day)
-- Varanasi → Chitrakoot (overnight at ashram)
-- Morning parikrama → Sati Anusuya → Return Varanasi
-- **₹10,500** for sedan
-
 ---
 
-**Ready for your Chitrakoot pilgrimage?**  
-Book your Varanasi to Chitrakoot taxi for Kamadgiri darshan!  
-📞 Call: [99354 74730](tel:+919935474730)  
-💬 WhatsApp: [+91 9450301573](https://wa.me/919935474730?text=Book%20Kamadgiri%20Parikrama%20taxi)
+**Planning Kamadgiri darshan from Varanasi?**
+Call [99354 74730](tel:+919935474730) or WhatsApp [+91 9450301573](https://wa.me/919935474730?text=Book%20Kamadgiri%20Parikrama%20taxi).
 
-**Jai Shri Ram! 🙏**
+Jai Shri Ram.

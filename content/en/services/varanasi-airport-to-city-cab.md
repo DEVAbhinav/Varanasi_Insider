@@ -4,9 +4,9 @@ lang: "en"
 title: "Varanasi Airport to City Cab (2026 Fixed Fares)"
 subtitle: "Airport-to-city cabs with transparent pricing, surge-proof booking, and driver meet & greet for every VNS arrival."
 description: "Book a Varanasi airport to city cab with 2026 fixed fares, live price grid, WhatsApp CTA, surge-protection FAQ, and quick links to every major arrival route including Assi, Dashashwamedh, Sarnath, and Cantt stations."
-keywords: ["airport to city cab varanasi","varanasi airport to city cab","taxi from varanasi airport to city","varanasi airport to kashi vishwanath temple","varanasi airport to kashi vishwanath temple taxi fare","varanasi airport to kashi vishwanath temple distance","varanasi airport to kashi temple distance","varanasi airport to kashi distance","varanasi airport to varanasi railway station taxi fare","airport to assi ghat taxi","vns airport cab fixed fare","dashashwamedh airport taxi","varanasi airport to city distance"]
-metaTitle: "Varanasi Airport to Kashi Vishwanath & City Cab | 2026 Fares"
-metaDescription: "Varanasi airport to Kashi Vishwanath temple: 25 km, taxi fare ₹750–₹950. Fixed 2026 fares to all city zones — Dashashwamedh, railway station, Assi Ghat, Sarnath. Book on WhatsApp."
+keywords: ["airport to city cab varanasi","varanasi airport to city cab","taxi from varanasi airport to city","varanasi airport taxi fixed fare","varanasi airport to varanasi railway station taxi fare","airport to assi ghat taxi","vns airport cab fixed fare","dashashwamedh airport taxi","varanasi airport to city distance","varanasi airport to cantt station taxi"]
+metaTitle: "Varanasi Airport to City Cab 2026: Fixed Fares, All Ghats & Stations"
+metaDescription: "Varanasi airport to city cab at fixed 2026 fares — sedan from ₹700, no surge. Drops to Assi, Dashashwamedh, Cantt & City station, BHU and Sarnath. Book on WhatsApp."
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 phone: "9935474730"
@@ -62,7 +62,7 @@ faq:
 - **Coverage:** Assi, Dashashwamedh, BHU, Lanka, Cantonment, Sigra, NaMo Ghat, Sarnath, Ramnagar, and all station drops.
 - **Fares:** Sedan ₹700–₹950 (Flash ₹890); Innova ₹1,250–₹1,550; Tempo Traveller ₹2,000–₹2,300.
 - **Night Policy:** Flat +₹150 (sedan) / +₹200 (SUV) / already included for tempo; never more than published grid.
-- **Contact:** WhatsApp/Call **+91 94503 01573** with flight screenshot for instant confirmation.
+- **Contact:** WhatsApp/Call **+91 99354 74730** with flight screenshot for instant confirmation.
 - **Reference:** Cross-check fares with the [Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide) whenever you need the wider city transport matrix.
 
 <div class="price-snapshot" aria-label="Varanasi airport to city cab live price grid">
@@ -222,7 +222,7 @@ Need a quote faster than email? Tap the WhatsApp button below, share your arriva
 <div class="inline-cta" role="region" aria-label="Book airport to city cab">
   <h3>Skip surge & queues — pre-book now</h3>
   <p>Send your flight details. We lock today’s fare, assign a vetted driver, and SMS the plate 12 hours before touchdown.</p>
-    <a class="btn-primary" href="https://wa.me/919935474730?text=Need%20airport%20to%20city%20cab%20in%20Varanasi&source=website&medium=services&utm_source=website&utm_medium=service&utm_campaign=airport-to-city" rel="nofollow noopener" target="_blank">WhatsApp booking team (+91 94503 01573)</a>
+    <a class="btn-primary" href="https://wa.me/919935474730?text=Need%20airport%20to%20city%20cab%20in%20Varanasi&source=website&medium=services&utm_source=website&utm_medium=service&utm_campaign=airport-to-city" rel="nofollow noopener" target="_blank">WhatsApp booking team (+91 99354 74730)</a>
 </div>
 
 ## Surge-Protection FAQ
