@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
+const { execSync } = require('child_process');
 
 // Generate sitemap with secret filename only
 const SITEMAP_OUTPUT_PATHS = [
@@ -99,6 +100,26 @@ function safeReadFrontmatter(absPath) {
   } catch { return {}; }
 }
 
+// Deterministic <lastmod> fallback for pages without a frontmatter date.
+// Uses the file's last git commit date (the real content-change signal),
+// which is stable across builds — unlike a wall-clock timestamp, which would
+// churn every build and falsely tell crawlers every page changed. Returns null
+// when git history is unavailable so the caller can omit <lastmod> entirely
+// rather than emit a misleading date.
+const _gitDateCache = new Map();
+function gitLastModifiedIso(absPath) {
+  if (_gitDateCache.has(absPath)) return _gitDateCache.get(absPath);
+  let iso = null;
+  try {
+    const out = execSync(`git log -1 --format=%cI -- "${absPath}"`, {
+      stdio: ['ignore', 'pipe', 'ignore'],
+    }).toString().trim();
+    if (out) iso = new Date(out).toISOString();
+  } catch { /* git unavailable or file untracked */ }
+  _gitDateCache.set(absPath, iso);
+  return iso;
+}
+
 function collectContentUrls() {
   const urls = [];
   if (!fs.existsSync(CONTENT_PATH)) return urls;
@@ -117,7 +138,7 @@ function collectContentUrls() {
       const abs = path.join(langRoot, file);
       const fm = safeReadFrontmatter(abs);
       const slug = fm.slug || file.replace(/\.md$/, '');
-      const lastmod = fm.lastUpdated || fm.date;
+      const lastmod = fm.lastUpdated || fm.date || gitLastModifiedIso(abs);
       const loc = `${BASE_URL}/${lang}/${slug}`;
       if (!shouldEmitCanonicalizedEntry(loc, fm)) return;
       urls.push({ loc, priority: '0.8', changefreq: 'weekly', lang, slug, type: 'root', lastmod });
@@ -131,7 +152,7 @@ function collectContentUrls() {
         const abs = path.join(secDir, file);
         const fm = safeReadFrontmatter(abs);
         const slug = fm.slug || file.replace(/\.md$/, '');
-        const lastmod = fm.lastUpdated || fm.date;
+        const lastmod = fm.lastUpdated || fm.date || gitLastModifiedIso(abs);
         const routeBase = routeBaseMap[folder] || folder;
         const loc = `${BASE_URL}/${lang}/${routeBase}/${slug}`;
         if (!shouldEmitCanonicalizedEntry(loc, fm)) return;
@@ -156,7 +177,7 @@ function collectContentUrls() {
             const abs = path.join(categoryDir, file);
             const fm = safeReadFrontmatter(abs);
             const slug = fm.slug || file.replace(/\.md$/, '');
-            const lastmod = fm.lastUpdated || fm.date;
+            const lastmod = fm.lastUpdated || fm.date || gitLastModifiedIso(abs);
             // Map to /lang/city/destination/category/slug (e.g., /en/city/varanasi/tour-packages/same-day-tour)
             const loc = `${BASE_URL}/${lang}/city/${destination}/${category}/${slug}`;
             if (!shouldEmitCanonicalizedEntry(loc, fm)) return;
@@ -290,21 +311,25 @@ async function generateSitemap() {
   }
 
   // Build XML with hreflang support
-  const nowIso = new Date().toISOString();
   const sorted = Array.from(urlEntries.keys()).sort();
   const body = sorted.map(loc => {
     const { priority, changefreq, hreflang, lastmod } = urlEntries.get(loc);
-    
-    // Cap lastmod to today — future dates look broken to crawlers
-    let finalLastmod = nowIso;
+
+    // Resolve <lastmod> from a real date only. If none is known we OMIT the tag
+    // rather than emit the build time — a build-time lastmod churns every deploy
+    // and falsely signals to crawlers that every page changed. Future dates are
+    // capped to now, since they look broken to crawlers.
+    let finalLastmod = null;
     if (lastmod) {
       const d = new Date(lastmod);
       if (!isNaN(d.getTime())) {
-        finalLastmod = d.getTime() > Date.now() ? nowIso : d.toISOString();
+        finalLastmod = d.getTime() > Date.now() ? new Date().toISOString() : d.toISOString();
       }
     }
 
-    let urlBlock = `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${finalLastmod}</lastmod>\n    <priority>${priority}</priority>\n    <changefreq>${changefreq}</changefreq>`;
+    let urlBlock = `  <url>\n    <loc>${loc}</loc>`;
+    if (finalLastmod) urlBlock += `\n    <lastmod>${finalLastmod}</lastmod>`;
+    urlBlock += `\n    <priority>${priority}</priority>\n    <changefreq>${changefreq}</changefreq>`;
     
     // Add hreflang links if available
     if (hreflang && hreflang.length > 0) {

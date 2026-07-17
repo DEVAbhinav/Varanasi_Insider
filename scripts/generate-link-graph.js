@@ -562,7 +562,6 @@ function main() {
   }
 
   const out = {
-    generatedAt: new Date().toISOString(),
     gscDate: gsc.date,
     gscMatched: gsc.matched,
     totalNodes: nodes.length,
