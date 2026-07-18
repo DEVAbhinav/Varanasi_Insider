@@ -97,6 +97,13 @@
               "priceCurrency": "INR",
               "price": "900",
               "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "581",
+              "bestRating": "5",
+              "worstRating": "1"
             }
           }
         },
@@ -124,6 +131,13 @@
               "priceCurrency": "INR",
               "price": "1200",
               "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "368",
+              "bestRating": "5",
+              "worstRating": "1"
             }
           }
         },

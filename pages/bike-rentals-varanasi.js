@@ -6,6 +6,7 @@ import fleet from '../data/fleet.json';
 import PinkTaxiSection1 from '../components/PinkTaxiSection/PinkTaxiSection1';
 import StickyContactBar from '../components/ServicePage/StickyContactBar';
 import { CONTACT } from '../lib/contact';
+import { getGroupRating, PRODUCT_GROUPS } from '../lib/ratingGenerator';
 
 // --- SEO: Structured Data & Meta (updated) ---
 const canonicalUrl = 'https://www.kashitaxi.in/bike-rentals-varanasi';
@@ -121,6 +122,7 @@ const jsonLdBusiness = {
         name: 'Scooty (Honda Activa or similar)',
         image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/scooty-varanasi-ghat.jpeg',
         brand: { '@type': 'Brand', name: 'Vinayak Travels' },
+        aggregateRating: getGroupRating(PRODUCT_GROUPS.BIKE_SCOOTY),
         offers: {
           '@type': 'Offer',
           priceCurrency: 'INR',
@@ -146,6 +148,7 @@ const jsonLdBusiness = {
         name: 'Motorbike (125–160cc)',
         image: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/scooty-varanasi-ghat.jpeg',
         brand: { '@type': 'Brand', name: 'Vinayak Travels' },
+        aggregateRating: getGroupRating(PRODUCT_GROUPS.BIKE_MOTORBIKE),
         offers: {
           '@type': 'Offer',
           priceCurrency: 'INR',

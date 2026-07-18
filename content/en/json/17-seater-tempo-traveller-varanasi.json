@@ -67,7 +67,14 @@
           }
         ]
       },
-      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png"
+      "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "429",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
     },
     {
       "@type": "FAQPage",

@@ -85,7 +85,14 @@
             "@type": "Product",
             "name": "Sedan Airport Transfer",
             "description": "AC Sedan with professional driver",
-            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png"
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "581",
+              "bestRating": "5",
+              "worstRating": "1"
+            }
           }
         },
         {
@@ -106,7 +113,14 @@
             "@type": "Product",
             "name": "Ertiga Airport Transfer",
             "description": "7-seater Ertiga with professional driver",
-            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png"
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "368",
+              "bestRating": "5",
+              "worstRating": "1"
+            }
           }
         },
         {
@@ -127,7 +141,14 @@
             "@type": "Product",
             "name": "Innova Airport Transfer",
             "description": "Spacious AC Innova with professional driver",
-            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png"
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/xuv.png",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "222",
+              "bestRating": "5",
+              "worstRating": "1"
+            }
           }
         },
         {
@@ -148,7 +169,14 @@
             "@type": "Product",
             "name": "Tempo Traveller Airport Transfer",
             "description": "17-seater Tempo Traveller with professional driver",
-            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg"
+            "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "429",
+              "bestRating": "5",
+              "worstRating": "1"
+            }
           }
         },
         {

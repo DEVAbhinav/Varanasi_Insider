@@ -105,6 +105,13 @@
               "priceCurrency": "INR",
               "price": "2850",
               "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "581",
+              "bestRating": "5",
+              "worstRating": "1"
             }
           }
         },
@@ -136,6 +143,13 @@
               "priceCurrency": "INR",
               "price": "4200",
               "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "368",
+              "bestRating": "5",
+              "worstRating": "1"
             }
           }
         },
@@ -167,6 +181,13 @@
               "priceCurrency": "INR",
               "price": "6500",
               "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "222",
+              "bestRating": "5",
+              "worstRating": "1"
             }
           }
         },
@@ -198,6 +219,13 @@
               "priceCurrency": "INR",
               "price": "22000",
               "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "383",
+              "bestRating": "5",
+              "worstRating": "1"
             }
           }
         }

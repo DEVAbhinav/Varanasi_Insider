@@ -99,6 +99,13 @@
               "priceCurrency": "INR",
               "price": "0",
               "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "630",
+              "bestRating": "5",
+              "worstRating": "1"
             }
           }
         },
