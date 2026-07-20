@@ -105,7 +105,7 @@ Coming from Varanasi? Most pilgrims take a [same-day taxi from Varanasi to Vindh
 | Guest House | B R Palace Vindhyachal | ~50 m | Extremely close, AC & cooler rooms, small hall |
 | Budget Lodge | Local unnamed lodges (cluster) | 50–200 m | Walk-in basis, variable cleanliness |
 
-**Indicative Price Bands (2026) — dharamshala price per day:**
+**Vindhyachal Dharamshala Price Per Day — Indicative Bands:**
 - Non-AC Dharamshala rooms: ₹400–₹800 per day
 - AC Small Rooms: ₹900–₹1,600 per day
 - Family / 4-Bed Rooms: ₹1,200–₹2,200 per day

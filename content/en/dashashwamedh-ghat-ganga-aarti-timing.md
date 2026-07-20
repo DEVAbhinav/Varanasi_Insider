@@ -261,8 +261,8 @@ Soft channeling starts ~45 minutes prior; tighter cordons form 25–30 minutes b
 ### 9.3 Can I fly a drone during the Ganga Aarti?
 Generally **no**. The core Aarti zone is treated as a restricted low‑altitude area; festival windows (Dev Deepawali, Kartik Purnima) see explicit drone bans. Seek DGCA permission + local police clearance—casual flights risk confiscation.
 
-### 9.4 Do I need a ticket to watch the Aarti?
-Steps are free. Paid elements: front chairs (₹200–₹350) & any reserved viewing gallery during festivals. Boats have separate fares.
+### 9.4 Do I need a ticket to watch the Aarti? Is there a VIP ticket price?
+Steps are free and there is no official Dashashwamedh Ghat Aarti VIP ticket price. The only paid elements are front chairs (₹200–₹350) and, on festival nights like Dev Deepawali, a reserved viewing gallery. Boats have separate fares — ignore touts selling overpriced "VIP passes". For a genuinely comfortable, front-facing aarti darshan, skip the "VIP" pitch and book our [evening boat ride with Ganga Aarti](/en/evening-boat-ride-varanasi-ganga-aarti) — you glide past the 84 ghats and watch the aarti seated from the river.
 
 ### 9.5 Why are timings online sometimes different by 15 minutes?
 Seasonal sunset shifts + buffer. Organizers keep a nominal start time; effective lamp ignition can vary ±5–10 mins, especially in winter or festival crowd control adjustments.

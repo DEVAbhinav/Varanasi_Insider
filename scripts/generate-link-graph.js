@@ -286,6 +286,80 @@ function splitCsvLine(line) {
   return out;
 }
 
+// Only strongly-matched query locations may supply a public anchor label.
+// Weak partial matches ("tokens (1/2)") are cross-topic accidents (e.g. a
+// Triveni-Sangam page catching "kasi tamil sangam") and must never surface.
+const STRONG_ANCHOR_MATCH = new Set([
+  'title', 'slug', 'slug (all terms)', 'body', 'all terms on page', 'meta/keywords',
+]);
+
+// A usable anchor needs ≥2 real word tokens (letters, ≥2 chars). This rejects
+// junk fare fragments like "taxi 690" where the only word is a generic term.
+function anchorWordTokens(q) {
+  return String(q || '')
+    .split(/[^\p{L}\p{N}]+/u)
+    .filter((t) => /\p{L}/u.test(t) && t.length >= 2);
+}
+
+// Ultra-generic travel tokens present on almost every page. A query built only
+// from these ("kashi taxi", "varanasi cab", "best taxi service") is a brand /
+// home-page term, not a descriptor of any single route or product page, so it
+// must never become a specific page's visible anchor.
+const GENERIC_ANCHOR_TOKENS = new Set([
+  'varanasi', 'kashi', 'kasi', 'banaras', 'benaras', 'vns',
+  'taxi', 'cab', 'car', 'service', 'travel', 'trip', 'tour', 'ride',
+  'price', 'fare', 'cost', 'charge', 'rate', 'rent',
+  'best', 'cheap', 'cheapest', 'top', 'good', 'near', 'me', 'my',
+  'online', 'booking', 'book', 'hire', 'hai', 'city', 'guide',
+  // Hindi equivalents (city names + generic travel/commerce words)
+  'वाराणसी', 'काशी', 'बनारस', 'टैक्सी', 'कैब', 'कार', 'सेवा',
+  'किराया', 'भाड़ा', 'कीमत', 'दाम', 'बुकिंग', 'बुक', 'सस्ता', 'सस्ती',
+]);
+
+// Light stem + synonym so query tokens line up with slug/title tokens.
+const ANCHOR_SYN = {
+  rentals: 'rental', renting: 'rental', scooter: 'scooty', scooters: 'scooty',
+  bikes: 'bike', travellers: 'traveller', travelers: 'traveller', traveler: 'traveller',
+  packages: 'package', tours: 'tour', temples: 'temple', ghats: 'ghat',
+  timings: 'timing', times: 'time', fares: 'fare', prices: 'price', cabs: 'cab',
+};
+function anchorTokenSet(text) {
+  return new Set(
+    String(text || '')
+      .toLowerCase()
+      .split(/[^\p{L}\p{N}]+/u)
+      .filter((t) => /\p{L}/u.test(t))
+      .map((t) => (t.length > 4 && t.endsWith('s') && !t.endsWith('ss') ? t.slice(0, -1) : t))
+      .map((t) => ANCHOR_SYN[t] || t)
+  );
+}
+
+// Root-cause guard for mislabeled links: a GSC query may label a page ONLY if at
+// least one of its DISTINCTIVE tokens (not in GENERIC_ANCHOR_TOKENS) also appears
+// in that page's slug or title. This rejects two failure modes:
+//   1. cross-topic mis-maps — "cheapest bike rent in varanasi" landing on an
+//      airport→railway taxi page (no "bike"/"scooty" in its slug/title);
+//   2. pure brand/generic queries — "kashi taxi", "varanasi taxi" — which have no
+//      distinctive token and belong to the home/brand, not a single route page.
+// Rejected pages keep their own real title as the label.
+function anchorDescribesPage(query, node) {
+  if (!node) return false;
+  const q = anchorTokenSet(query);
+  const distinctive = [...q].filter((t) => !GENERIC_ANCHOR_TOKENS.has(t));
+  if (!distinctive.length) return false;
+  const pageToks = new Set([...anchorTokenSet(node.slug), ...anchorTokenSet(node.title)]);
+  return distinctive.some((t) => pageToks.has(t));
+}
+
+// Anchors are a SALES asset: only sales-intent, well-matched, multi-word
+// queries qualify. Info/time/distance and "other" queries never become a
+// label — pages still appear, but fall back to their own real title.
+function anchorEligible(r) {
+  if ((r.intent || '').trim() !== 'sales') return false;
+  if (!STRONG_ANCHOR_MATCH.has((r.match_where || '').trim())) return false;
+  return anchorWordTokens(r.query).length >= 2;
+}
+
 function joinGsc(nodes) {
   const map = latestKeywordMap();
   const byPath = new Map(nodes.map((n) => [n.path, n]));
@@ -304,7 +378,11 @@ function joinGsc(nodes) {
     if (pos != null) a.minPos = a.minPos == null ? pos : Math.min(a.minPos, pos);
     const it = (r.intent || 'other').trim();
     a.intents[it] = (a.intents[it] || 0) + clicks + impr * 0.001;
-    if (clicks > a.best.clicks) a.best = { q: r.query, clicks };
+    // Anchor label = best (highest-click) SALES query that actually DESCRIBES
+    // this page; info/junk/brand-generic/cross-topic queries are excluded.
+    if (clicks > a.best.clicks && anchorEligible(r) && anchorDescribesPage(r.query, byPath.get(p))) {
+      a.best = { q: r.query, clicks };
+    }
   }
   let matched = 0;
   for (const [p, a] of agg) {

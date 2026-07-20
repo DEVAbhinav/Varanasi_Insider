@@ -22,7 +22,6 @@ keywords:
   - "dress code in kashi vishwanath temple"
   - "is jeans allowed in kashi vishwanath temple"
   - "kashi me ganga aarti time"
-  - "varanasi railway station to kashi vishwanath temple auto fare"
 tags:
   - sightseeing
   - temples

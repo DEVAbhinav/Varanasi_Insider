@@ -107,6 +107,8 @@ In essence, this mini‑coach gives you bus‑like capacity with the agility of 
 
 - What is the 17 seater Tempo Traveller price in Varanasi?
   - Airport transfer ₹3,000; Local 8hr/80km ₹6,000; Outstation ₹27/km (min. 250 km/day); Driver allowance ₹600/night. Tolls, parking, state taxes extra as per actuals.
+- What does a Tempo Traveller 17 seater in Varanasi price at for outstation trips?
+  - A Tempo Traveller 17 seater in Varanasi is priced from ₹27/km on outstation runs (250 km/day minimum) with a ₹600/night driver allowance, while local Kashi Darshan is a flat ₹6,000 (8hr/80km) and an airport drop is ₹3,000. Tolls, parking and state permits are billed as per actuals.
 - How many seats are there in a 17 seater Tempo Traveller?
   - Up to 17 passenger seats (plus driver) in a 2×1 layout; ideal comfort at 15–16 pax.
 - Is AC included in the 17 seater hire?

@@ -451,6 +451,10 @@ I'll keep this short — you'll see for yourself once you use the service:
 
 Varanasi Junction (BSB) is 5–7 km from the main ghat area (Dashashwamedh, Assi). That's 20–30 minutes by car depending on traffic. In early morning or late night, it can be as fast as 15 minutes.
 
+### What is the Varanasi railway station to Kashi Vishwanath Temple auto fare?
+
+A shared auto from Varanasi Junction (Cantt) towards Godowlia is quoted at roughly ₹30–50 per seat and a reserved single auto at about ₹150–250 — but treat these as a starting quote only. Autos often come in low initially, then the final price swings with availability, time of day and festival crowds, and there is no fixed accountability if something goes wrong. For families and solo travellers especially, we strongly recommend pre-booking a cab through a reputed travel agency you trust rather than negotiating an auto at the exit. Our fixed-fare AC sedan for the same 4.5 km station-to-temple drop is ₹800–1,000 (Innova/Ertiga ₹1,200–1,400) — one honest rate, driver waiting with a name board, luggage handled and no haggling. Both autos and taxis stop at the Godowlia barricade, so the last ~200 m to the corridor gate is on foot either way. **To lock a fixed fare, call [+91 99354 74730](tel:+919935474730) or [book on WhatsApp](https://wa.me/919935474730?text=Station%20to%20Kashi%20Vishwanath%20Temple%20taxi).**
+
 ### Can I get Ola or Uber at Varanasi station?
 
 Technically, yes. Practically, it's unreliable. Ola and Uber have limited fleet in Varanasi. During peak hours or at night, wait times are 15–40 minutes and drivers frequently cancel. At Manduadih and City Station, app cabs are effectively non-existent.

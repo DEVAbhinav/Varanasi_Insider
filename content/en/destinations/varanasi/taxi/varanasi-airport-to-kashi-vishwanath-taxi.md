@@ -59,7 +59,7 @@ faqSchema:
   - question: "How long does a taxi take from Varanasi Airport to Kashi Vishwanath?"
     answer: "Expect a 40–55 minute ride; add a 15-minute buffer in the evening when the Ganga corridor security tightens before Ganga Aarti."
   - question: "What is the taxi fare from Varanasi Airport to Kashi Vishwanath Temple?"
-    answer: "Pre-booked sedans cost ₹800–900, mid SUVs ₹1,100–1,300, and tempo Travellers ₹2,100 with driver allowance included."
+    answer: "Pre-booked sedans are a fixed ₹890, mid SUVs ₹1,100–1,300, and tempo Travellers ₹2,100 with driver allowance included."
   - question: "Is Ola or Uber reliable for the Kashi Vishwanath airport drop?"
     answer: "Ola and Uber run from the airport but surge pricing is common at dawn and after 8 PM; a reserved taxi guarantees corridor access and flat fares."
   - question: "Can taxis drop close to Kashi Vishwanath Corridor at night?"
@@ -71,7 +71,7 @@ faqSchema:
   - question: "What is the distance between Kashi and other key spots (Sarnath, Vindhyachal, Bodh Gaya, Triveni Sangam)?"
     answer: "Kashi vishwanath temple to sarnath distance is ~10 km, kashi to vindhyachal distance is ~70 km, kashi to buddh gaya distance is ~245 km, and kashi to triveni sangam distance (Prayagraj) is ~125 km. Pre-book multi-stop sedans on WhatsApp for fixed fares."
   - question: "Is Uber cheaper than a pre-booked taxi for varanasi airport to kashi vishwanath temple uber price?"
-    answer: "Uber lists varanasi airport to kashi vishwanath temple uber price around ₹950–1,400 with surge; our pre-booked sedan stays fixed at ₹800 (Flash ₹890) with corridor access — usually cheaper, always more predictable."
+    answer: "Uber lists varanasi airport to kashi vishwanath temple uber price around ₹950–1,400 with surge; our pre-booked sedan stays a fixed ₹890 with corridor access — usually cheaper, always more predictable."
 location:
   name: "Kashi Vishwanath Temple"
   address: "Varanasi, Uttar Pradesh 221001"
@@ -88,13 +88,13 @@ location:
 | Distance | 25–26 km |
 | Time | 40–55 minutes |
 | Best route | Ring Road → Lahartara → Godowlia → Corridor gate |
-| Typical fare | Sedan ₹800–900 · SUV ₹1,100–1,300 |
+| Typical fare | Sedan ₹890 fixed · SUV ₹1,100–1,300 |
 
 ## Book your Varanasi Airport to Kashi Vishwanath transfer
 - Call dispatch: **[99354 74730](tel:+919935474730)**
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Kashi%20Vishwanath)**
 
-> **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby, corridor-ready).
+> **Fixed Fare:** ₹890 sedan drop — one honest all-inclusive rate (weekday, non-festival, 15-minute standby, corridor-ready). No surge, no "starts low then extra".
 
 ## Best Varanasi Airport to Kashi Vishwanath Temple route
 Take the airport exit toward Ring Road, merge onto the Harhua flyover, and continue straight to Lahartara. From Lahartara, follow the Godowlia corridor approach; security marshals allow pre-booked taxis to the barricade behind the Kashi Vishwanath Corridor entrance. If Lahartara is closed during VIP movement, detour via Nadesar and Sigra to rejoin at Godowlia. Evenings before Ganga Aarti can add 10–12 minutes, so plan buffers accordingly.
@@ -119,19 +119,21 @@ Need a slot-by-slot playbook? Use our [Kashi Vishwanath darshan timing guide](/e
 ## Varanasi Airport to Kashi Vishwanath Temple taxi fare
 
 Looking for the exact taxi fare from Varanasi airport to Kashi Vishwanath temple? Here are the current rates:
-- Economy sedan (Dzire/Amaze): **₹800–900** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
+- Economy sedan (Dzire/Amaze): **₹890 fixed** — one honest all-inclusive rate, no surge, no "starts low then charges extra here and there".
 - Mid SUV (Ertiga/Innova): **₹1,100–1,300** including luggage handling and corridor access permit.
 - Tempo Traveller (12-seater): **₹2,100** with driver allowance covered; ideal for family yatras.
 - Night buffer: add **₹150** for rides after 9 PM, waived on prepaid slips.
 
-*Flash fare excludes Dev Deepawali, Maha Shivaratri, and other peak festival blocks and applies to direct Kashi Vishwanath corridor drops within city limits.
+*The ₹890 sedan fare is fixed and applies to direct Kashi Vishwanath corridor drops within city limits; only Dev Deepawali, Maha Shivaratri and other peak festival blocks are quoted separately.
 
 ### Uber price vs Kashi Taxi fixed fare
+
+The typical **Varanasi airport to Kashi Vishwanath temple Uber price** runs ₹950–₹1,400 and surges at dawn and after 8 PM, while our pre-booked sedan holds a fixed ₹890 with corridor-ready clearance.
 
 | Option | Typical fare | Notes |
 |--------|-------------|-------|
 | Uber / Ola (app) | ₹950–1,400 | Surge at dawn & after 8 PM; no corridor access |
-| Kashi Taxi sedan (pre-booked) | ₹800 (Flash ₹890) | Fixed, no surge, corridor-ready, driver waits 15 min |
+| Kashi Taxi sedan (pre-booked) | ₹890 fixed | One rate, no surge, no hidden extras, corridor-ready, driver waits 15 min |
 
 For a single airport-to-temple drop the pre-booked sedan is usually cheaper than the surging Uber price and never changes after you book. Prefer a full trip? See the whole [taxi service in Varanasi](/en/city/varanasi/taxi/taxi-service-varanasi).
 
@@ -155,7 +157,7 @@ Sedans cover the run in 40–55 minutes; plan 15 extra minutes within two hours 
 App cabs operate but frequently surge at dawn and post-8 PM; drivers also hesitate at the corridor barricade. Pre-booked taxis keep fixed pricing and have corridor escort clearance.
 
 ### What is the cheapest option to reach the temple?
-Shared autos to Godowlia are cheaper but do not enter the corridor and add luggage hassles. A pre-booked sedan at ₹800 remains the most efficient door-to-gate option with receipt support.
+Shared autos to Godowlia are cheaper but do not enter the corridor and add luggage hassles. A pre-booked sedan at a fixed ₹890 remains the most efficient door-to-gate option with receipt support.
 
 ### Can taxis drop close to the temple late at night?
 Yes, reserved taxis can reach the corridor control point until 10 PM. After that, security guides passengers on foot or via battery carts for the last stretch.
