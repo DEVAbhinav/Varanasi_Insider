@@ -108,7 +108,7 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Taxi in Varanasi | Varanasi Taxi Service & Airport Cab</title>
+        <title>Taxi in Varanasi | Taxi Service in Varanasi & Airport Cab</title>
         <meta
           name="description"
           content="Taxi & cab service in Varanasi — airport pickup from ₹700, sightseeing, outstation & pilgrimage trips. Fixed fares, verified drivers, instant WhatsApp booking."
@@ -119,7 +119,7 @@ export default function HomePage({ allPosts }) {
         <link rel="canonical" href="https://www.kashitaxi.in/" />
 
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Taxi in Varanasi | Varanasi Taxi Service & Airport Cab" />
+        <meta property="og:title" content="Taxi in Varanasi | Taxi Service in Varanasi & Airport Cab" />
         <meta property="og:description" content="Airport pickup, local sightseeing, group pilgrimage packages, Delhi-origin sacred circuits, Ayodhya darshan, Vindhyachal and Prayagraj trips from one trusted Varanasi team." />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/" />
@@ -239,7 +239,7 @@ export default function HomePage({ allPosts }) {
                 Taxi in Varanasi – Airport Cab, Local Tours & Outstation
               </h1>
               <h2 className="text-sm md:text-lg font-medium text-white/95 mb-2 drop-shadow-md">
-                Airport Pickup, Kashi Darshan, Delhi-Origin Group Tours, Ayodhya, Prayagraj & Vindhyachal
+                Taxi Service in Varanasi — Airport Pickup, Kashi Darshan, Group Tours, Ayodhya, Prayagraj & Vindhyachal
               </h2>
               <p className="text-xs md:text-sm font-light text-white/80 drop-shadow-lg italic">
                 "You handle the darshan. We handle the route, timing and driver."
@@ -271,7 +271,7 @@ export default function HomePage({ allPosts }) {
             {/* Cab Service Relevance Line */}
             <div className="mt-6 text-center">
               <p className="text-[11px] md:text-xs text-white/70 font-medium tracking-wide">
-                Need only a cab? Our <span className="text-white">Varanasi taxi service</span> is live 24×7. Need darshan planning too? Start with a <span className="text-white">city tour or pilgrimage package</span>.
+                Need only a cab? Our <span className="text-white">taxi service in Varanasi</span> is live 24×7. Need darshan planning too? Start with a <span className="text-white">city tour or pilgrimage package</span>.
               </p>
             </div>
           </div>

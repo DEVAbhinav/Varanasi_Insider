@@ -230,43 +230,56 @@ const getHomeSchema = (site) => ({
       mainEntity: [
         {
           '@type': 'Question',
-          name: 'Are tolls/parking included?',
+          name: 'How much does a taxi cost in Varanasi?',
           acceptedAnswer: {
             '@type': 'Answer',
             text:
-              'We state inclusions up-front. Airport parking (first 15 min) is included for pickups; longer waits are billed at actuals.',
+              'Taxi rates in Varanasi start from ₹12/km for sedans and ₹18/km for SUVs. Airport pickup costs ₹800-950 (fixed), local full-day tours from ₹2,500, and tempo traveller hire from ₹4,500/day. We offer transparent pricing with no hidden charges.',
           },
         },
         {
           '@type': 'Question',
-          name: 'Do you operate late nights/early mornings?',
+          name: 'Which is the best taxi service in Varanasi?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Yes—24×7. Night charges (if any) are shared in the quote before you confirm.',
+            text:
+              'Kashi Taxi (operated by Vinayak Travels) is rated among the best taxi services in Varanasi with a 4.8★ Google rating from 312 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.',
           },
         },
         {
           '@type': 'Question',
-          name: 'Can I do Ayodhya as a day trip?',
+          name: 'Is Ola/Uber available in Varanasi?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Possible but tight. We recommend 2 days/1 night for unhurried darshan and evening aarti.',
+            text:
+              'Ola and Uber have limited availability in Varanasi, especially in old city areas near ghats. Local taxi services like ours provide better coverage, fixed rates, and drivers familiar with narrow ghat lanes and temple routes where app-based cabs often refuse trips.',
           },
         },
         {
           '@type': 'Question',
-          name: 'Can you pick from the ghats?',
+          name: 'Can I book a taxi from Varanasi airport?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Cars can’t reach many ghats. We coordinate the nearest pickup point and help with directions.',
+            text:
+              'Yes! We provide prepaid Varanasi airport taxi with meet-and-greet service. Our driver waits at arrivals with a name board. Fixed fare: ₹800 (sedan) to ₹950 (SUV) for city center. Flight tracking included – no waiting charges for delayed flights.',
           },
         },
         {
           '@type': 'Question',
-          name: 'Do drivers speak English?',
+          name: 'Do you provide taxi for outstation from Varanasi?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Most are Hindi + basic English; full English-speaking drivers available on request.',
+            text:
+              'Yes, we offer outstation taxi from Varanasi to Prayagraj (₹3,500), Ayodhya (₹5,500), Bodhgaya (₹5,000), Vindhyachal (₹4,000), and all major pilgrimage destinations. One-way and roundtrip options available with driver allowance included.',
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'How to book taxi in Varanasi online?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text:
+              `Book a taxi in Varanasi online through our website booking form, WhatsApp (${CONTACT.whatsappNumberDisplay}), or call (${CONTACT.callNumberDisplay}). Share your pickup location, date/time, and trip type. Get instant quote and confirmation. No advance payment required for most bookings.`,
           },
         },
       ],

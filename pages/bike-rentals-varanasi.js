@@ -3,7 +3,6 @@ import Image from 'next/image';
 import NavBar from '../components/NavBar/NavBar';
 import Footer from '../components/Footer/Footer';
 import fleet from '../data/fleet.json';
-import PinkTaxiSection1 from '../components/PinkTaxiSection/PinkTaxiSection1';
 import StickyContactBar from '../components/ServicePage/StickyContactBar';
 import { CONTACT } from '../lib/contact';
 import { getGroupRating, PRODUCT_GROUPS } from '../lib/ratingGenerator';
@@ -330,7 +329,6 @@ export default function BikeRentalsPage({ allPosts }) {
             </a>
           </div>
         </section>
-        <PinkTaxiSection1 />
 
 
         {/* How It Works (Manual Flow) */}
@@ -553,7 +551,7 @@ export default function BikeRentalsPage({ allPosts }) {
               <li><strong>Local Advice</strong>: Navigate carefully during monsoons—watch for slippery ghats. Park near designated spots for Aartis. Night rides in alleys? Opt for well-lit main roads.</li>
             </ul>
             <p className="mt-4">
-              User experiences highlight: "Properly maintained bikes made my trip safe and enjoyable." We also offer a women-only Pink Taxi service for added security in other travel needs.
+              User experiences highlight: "Properly maintained bikes made my trip safe and enjoyable."
             </p>
 
             <h2 className="mt-12 text-3xl font-bold text-gray-800">Must-Visit Places in Varanasi by Bike from Varanasi Taxi</h2>
