@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Lucknow Cab | Corporate Travel | ₹4,500 | Kashi Taxi"
+title: "Varanasi to Lucknow Cab | Corporate Travel | ₹5,883 | Kashi Taxi"
 slug: "varanasi-to-lucknow-taxi"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Lucknow Cab | Corporate Travel | ₹4,500 | Kashi Taxi"
-metaDescription: "Book Varanasi to Lucknow cabs from ₹4,500. 320 km in 5.5-6 hours. Capital city travel, business, sightseeing. 24/7 service."
-description: "Book Varanasi to Lucknow cabs from ₹4,500. 320 km journey in 5.5-6 hours via NH19 & NH27. UP capital, Bara Imambara, business travel. Verified drivers, 24/7 service."
+metaTitle: "Varanasi to Lucknow Cab | Corporate Travel | ₹5,883 | Kashi Taxi"
+metaDescription: "Book Varanasi to Lucknow cabs from ₹5,883. 300-316 km in 5-6 hours. Capital city travel, business, sightseeing. 24/7 service."
+description: "Book Varanasi to Lucknow cabs from ₹5,883. 300-316 km journey in 5-6 hours via NH19 & NH27. UP capital, Bara Imambara, business travel. Verified drivers, 24/7 service."
 keywords:
   - "varanasi to lucknow taxi"
   - "varanasi lucknow cab fare"
@@ -25,18 +25,18 @@ relatedPosts:
   - varanasi-to-prayagraj-taxi
 faqSchema:
   - question: "How much does a taxi cost from Varanasi to Lucknow?"
-    answer: "Taxi fares from Varanasi to Lucknow start from ₹4,500 for a sedan. Prices vary: Swift Dzire ₹4,500-5,000, Ertiga ₹5,800-6,500, Innova ₹7,500-8,500. Corporate invoices available on request."
+    answer: "Taxi fares from Varanasi to Lucknow start from ₹5,883 for a sedan. Prices vary: Swift Dzire ₹5,883, Ertiga ₹8,162, Innova ₹9,086. Corporate invoices available on request."
   - question: "What is the distance from Varanasi to Lucknow?"
-    answer: "The distance from Varanasi to Lucknow is approximately 320-360 km depending on the route. The journey typically takes 5.5 to 7 hours via NH19 & NH27."
+    answer: "The distance from Varanasi to Lucknow is approximately 300-316 km depending on the route. The journey typically takes 5-6 hours via NH19 & NH27."
   - question: "Is Lucknow taxi booking available for corporate travel?"
     answer: "Yes, we offer dedicated corporate travel services with GST invoices, bulk booking discounts, and premium vehicles. Ideal for business meetings and official trips."
   - question: "Can I book airport transfer in Lucknow?"
     answer: "Yes, we provide direct drop-off at Lucknow Chaudhary Charan Singh International Airport. Pickup from the airport for return journey is also available."
 ---
 
-# Varanasi to Lucknow Taxi | UP Capital Cabs from ₹4,500
+# Varanasi to Lucknow Taxi | UP Capital Cabs from ₹5,883
 
-> **Quick answer:** Varanasi to Lucknow is a 320-360 km drive taking 5.5-7 hours by NH19 and NH27. Sedan fares start from ₹4,500. Good for business trips, family visits, airport drops, shopping, and Lucknow sightseeing.
+> **Quick answer:** Varanasi to Lucknow is a 300-316 km drive taking 5-6 hours by NH19 and NH27. Sedan fares start from ₹5,883. Good for business trips, family visits, airport drops, shopping, and Lucknow sightseeing.
 
 Lucknow is the main capital-city run from Varanasi: government offices, Gomti Nagar business areas, old-city monuments, Hazratganj shopping, and airport drops. We keep the plan simple — fixed fare, direct pickup, and a driver who knows where to drop you without wasting time inside city traffic.
 
@@ -44,28 +44,28 @@ Lucknow is the main capital-city run from Varanasi: government offices, Gomti Na
 
 | Detail | Information |
 |--------|-------------|
-| **Journey Distance** | 320-360 km (depending on route) |
-| **Travel Time** | 5.5-7 hours (via NH19 & NH27 - fastest) |
-| **Best Route** | Via NH19 & NH27 (fastest, 5.5-6 hours) |
+| **Journey Distance** | 300-316 km (depending on route) |
+| **Travel Time** | 5-6 hours (via NH19 & NH27 - fastest) |
+| **Best Route** | Via NH19 & NH27 (fastest, 5-6 hours) |
 | **Road Condition** | Excellent - National highways, some 4-lane |
 | **Key Attractions** | Bara Imambara, Rumi Darwaza, Gomti Riverfront |
 | **Best For** | Business travel, cultural tourism, shopping |
-| **Starting Fare** | ₹4,500 for Swift Dzire (4-seater) |
+| **Starting Fare** | ₹5,883 for Swift Dzire (4-seater) |
 
 ## Varanasi to Lucknow Route, Distance & Best Time to Travel
 
 ### Varanasi to Lucknow Route Options
 
 **Route 1 (Recommended - Fastest): Via NH19 + NH27**
-- Distance: 320 km
-- Time: 5.5-6 hours
+- Distance: 300-316 km
+- Time: 5-6 hours
 - Road condition: Excellent (4-lane in sections)
 - Tolls: 3-4 plazas
 - Best for: Quick business trips, same-day meetings
 
 **Route 2 (Alternate): Via NH19 + Prayagraj + NH27**
-- Distance: 360 km
-- Time: 6.5-7 hours
+- Distance: 300-316 km
+- Time: 6-7 hours
 - Best for: Leisure travel with stops
 
 **Route Path (Route 1):**  
@@ -83,10 +83,10 @@ Lucknow is the main capital-city run from Varanasi: government offices, Gomti Na
 
 | Vehicle Type | Seating | Pricing | Best For | Special Features |
 |--------------|---------|---------|----------|------------------|
-| **Swift Dzire** | 4 passengers | ₹4,500-5,000 | Business travelers, couples | Fuel-efficient, comfortable |
-| **Ertiga** | 6 passengers | ₹5,800-6,500 | Small families, groups | Extra luggage, spacious |
-| **Innova Crysta** | 6-8 passengers | ₹7,500-8,500 | Corporate groups, large families | Premium comfort, professional |
-| **Tempo Traveller** | 12-13 passengers | ₹12,000-14,000 | Corporate teams, group tours | Meeting-ready seating |
+| **Swift Dzire** | 4 passengers | ₹5,883 | Business travelers, couples | Fuel-efficient, comfortable |
+| **Ertiga** | 6 passengers | ₹8,162 | Small families, groups | Extra luggage, spacious |
+| **Innova Crysta** | 6-8 passengers | ₹10,318 | Corporate groups, large families | Premium comfort, professional |
+| **Tempo Traveller** | 12-13 passengers | ₹14,476 | Corporate teams, group tours | Meeting-ready seating |
 
 ### Included in Your Fare
 

@@ -9,9 +9,9 @@ canonical: "https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992841/kashitaxi/varanasi-to-gaya-route-map.jpg"
 image: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992841/kashitaxi/varanasi-to-gaya-route-map.jpg"
 
-metaTitle: "Varanasi to Gaya Taxi ₹2,850 | Bodhgaya, Pind Daan & 260 km Cab"
-metaDescription: "Varanasi to Gaya taxi from ₹2,850 (sedan) — 260 km, 5.5 hrs door-to-door. Bodhgaya & Pind Daan stops, no luggage hassle, fixed fares. Book now ☎ 99354 74730."
-description: "Varanasi to Gaya taxi from ₹2,850 (sedan) — 260 km, 5.5 hrs door-to-door. Bodhgaya & Pind Daan stops, no luggage hassle, fixed fares. Book now ☎ 99354 74730."
+metaTitle: "Varanasi to Gaya Taxi ₹4,813 | Bodhgaya, Pind Daan & 250-255 km Cab"
+metaDescription: "Varanasi to Gaya taxi from ₹4,813 (sedan) — 250-255 km, 5-6 hr door-to-door. Bodhgaya & Pind Daan stops, no luggage hassle, fixed fares. Book now ☎ 99354 74730."
+description: "Varanasi to Gaya taxi from ₹4,813 (sedan) — 250-255 km, 5-6 hr door-to-door. Bodhgaya & Pind Daan stops, no luggage hassle, fixed fares. Book now ☎ 99354 74730."
 destination: "varanasi"
 category: "taxi"
 serviceCategory: "Outstation Taxi"
@@ -46,20 +46,20 @@ ctaTitle: "Book Your Varanasi to Gaya Taxi"
 ctaSubtitle: "Door-to-door service, transparent pricing, no station hassle"
 offers:
   - name: "Sedan Taxi - Varanasi to Gaya"
-    description: "Budget 4-seater sedan (Dzire/Xcent) for 260 km journey"
-    price: "2850"
+    description: "Budget 4-seater sedan (Dzire/Xcent) for 250-255 km journey"
+    price: "4813"
     priceCurrency: "INR"
   - name: "SUV Taxi - Varanasi to Gaya"
     description: "Spacious 6-7 seater SUV (Ertiga/Xylo) for families"
-    price: "4200"
+    price: "6678"
     priceCurrency: "INR"
   - name: "Innova Crysta - Varanasi to Gaya"
     description: "Premium 7-seater with reclining seats for maximum comfort"
-    price: "6500"
+    price: "8442"
     priceCurrency: "INR"
   - name: "Tempo Traveller - Varanasi to Gaya"
-    description: "12-17 seater for large groups, per-person cost ₹1,833+"
-    price: "22000"
+    description: "12-17 seater for large groups, per-person cost ₹987+"
+    price: "11844"
     priceCurrency: "INR"
 aggregateRating:
   ratingValue: "4.8"
@@ -77,15 +77,15 @@ faqSchema:
   - question: "Can we take breaks in between?"
     answer: "Yes. Tell driver where to stop. Highway dhabas are reliable. Stops add 30-60 minutes to total time."
   - question: "What if AC doesn't work?"
-    answer: "Refuse vehicle. Immediate replacement sent or full refund. Non-negotiable for a 5-hour journey."
+    answer: "Refuse vehicle. Immediate replacement sent or full refund. Non-negotiable for a 5-6 hr journey."
   - question: "Is luggage space guaranteed?"
     answer: "Yes. Confirm luggage count at booking. If luggage exceeds capacity, upgrade to larger vehicle."
   - question: "Can we book for 8+ people?"
-    answer: "Yes, Tempo Traveller (12-17 seater). Quote will be for full vehicle at ₹22,000-26,000 total."
+    answer: "Yes, Tempo Traveller (12-17 seater). Quote will be for full vehicle at ₹11,844 total."
   - question: "What's included in the fare?"
     answer: "Driver, fuel, AC, tolls (₹350-450), insurance, vehicle maintenance. NOT included: meals, optional parking, driver tip."
   - question: "How long does Varanasi to Gaya take by taxi?"
-    answer: "260 km distance takes 5 hours 40 minutes via NH-19 and NH-120. With one rest stop, expect 6-6.5 hours total travel time."
+    answer: "250-255 km distance takes 5-6 hr via NH-19. With one rest stop or peak traffic, expect 6+ hr total travel time."
 ---
 
 # Door-to-Door vs. Station Struggle: Varanasi to Gaya Taxi Service
@@ -94,10 +94,10 @@ faqSchema:
 *Skip the station chaos—direct taxi service from Varanasi to Gaya for pilgrims*
 
 > **Route Snapshot: Varanasi to Gaya**
-> - **Distance:** 260 km via NH-19 & NH-120
-> - **Travel Time:** 5 hours 40 minutes (direct)
-> - **Price Range:** ₹2,850–₹6,500 (Sedan to Innova Crysta)
-> - **Tempo Traveller:** ₹1,833/person for 12+ people
+> - **Distance:** 250-255 km via NH-19
+> - **Travel Time:** 5-6 hr (direct)
+> - **Price Range:** ₹4,813–₹8,442 (Dzire to Innova Crysta)
+> - **Tempo Traveller:** ₹987/person for 12+ people
 > - **Key Benefit:** Door-to-door service, no station transfers
 
 ## Gaya vs Bodhgaya: Choose the Right Destination First
@@ -116,7 +116,7 @@ This guide covers the broader **Varanasi to Gaya taxi service** route. If your t
 ---
 
 ![Varanasi to Gaya Route Map](https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992841/kashitaxi/varanasi-to-gaya-route-map.jpg)
-*260 km journey via NH-19 and NH-120 – door-to-door pilgrimage transport.*
+*250-255 km journey via NH-19 – door-to-door pilgrimage transport.*
 
 ## You Could Book a Train. Or You Could Skip the Station Struggle.
 
@@ -139,13 +139,13 @@ You have three options:
 
 ## What If You Just Didn't Have to Deal With That?
 
-At Kashi Taxi, we handle the 260 km journey from Varanasi to Gaya the way DIY travelers actually need: **One taxi. One driver. Picked up where you are. Dropped exactly where you want to be.**
+At Kashi Taxi, we handle the 250-255 km journey from Varanasi to Gaya the way DIY travelers actually need: **One taxi. One driver. Picked up where you are. Dropped exactly where you want to be.**
 
 No station scrambles. No shared-ride waiting. No "is this the right price?" negotiations.
 
-You book. We pick you up from Varanasi (airport, railway station, hotel). We drive you 5-6 hours on maintained highways. We drop you at your Gaya hotel or temple gate. Done.
+You book. We pick you up from Varanasi (airport, railway station, hotel). We drive you 5-6 hr on maintained highways. We drop you at your Gaya hotel or temple gate. Done.
 
-**Cost?** ₹2,850-6,500 depending on vehicle type. Transparent. No surge pricing. No hidden fees.
+**Cost?** ₹4,813-8,442 depending on vehicle type. Transparent. No surge pricing. No hidden fees.
 
 **Flexibility?** You control timing. Breakfast stop? Done. Bathroom break? Done. Want to leave at 2 AM because it's cooler? Let's go.
 
@@ -161,7 +161,7 @@ If you're reading this, you're planning a Varanasi → Gaya → Prayagraj pilgri
 
 Here's what you're doing:
 - **Varanasi:** Arriving via airport or train (usually the entry point)
-- **Gaya:** 260 km away, 5-6 hours by road
+- **Gaya:** 250-255 km away, 5-6 hr by road
 - **Prayagraj (optional):** Another 120 km from Gaya
 
 You need reliable transport between stops. This isn't a leisure holiday where delays are fine. You're on a pilgrimage schedule. You've booked temples. You've planned darshan timings. You need to be *there* reliably.
@@ -178,10 +178,10 @@ Most Gaya travellers from Varanasi are here for the **Vishnupad Temple and Pind 
 
 | Metric | Train | Taxi |
 |--------|-------|------|
-| **Base Ticket Cost** | ₹300-600 | ₹2,850-4,114 (shared cost) |
+| **Base Ticket Cost** | ₹300-600 | ₹4,813-6,678 (shared cost) |
 | **Luggage Fees** | Included | Included |
 | **Seat Comfort** | Basic | AC, reclining |
-| **Total Travel Time** | 4.5-6 hours | 5-6 hours |
+| **Total Travel Time** | 4.5-6 hours | 5-6 hr |
 | **Wait Time at Station** | 30+ mins before departure | 0 (pickup at hotel) |
 | **Hidden Costs** | Local transport from Gaya station, meals | Tolls included |
 | **Arrival Method** | Drop at Gaya Station (15 km from temples) | Drop at hotel/temple gate |
@@ -190,9 +190,9 @@ Most Gaya travellers from Varanasi are here for the **Vishnupad Temple and Pind 
 ### The Real Cost Comparison
 
 - **Train:** ₹600 + ₹400 (final-mile auto) + ₹200 (meal on platform) + 45 minutes stress = **₹1,200 + time waste**
-- **Taxi:** ₹2,850-4,114 (transparent, all-in) + 0 stress = **₹2,850-4,114, everything included**
+- **Taxi:** ₹4,813-6,678 (transparent, all-in) + 0 stress = **₹4,813-6,678, everything included**
 
-**The trade-off:** Train saves ₹1,500-2,000 on paper. But you lose 45 minutes of your itinerary fighting the station-to-temple scramble. That 45 minutes might be the difference between catching temple darshan and arriving too late.
+**The trade-off:** Train saves ₹3,600-5,500 on paper. But you lose 45 minutes of your itinerary fighting the station-to-temple scramble. That 45 minutes might be the difference between catching temple darshan and arriving too late.
 
 ### Why Buses Are Even Worse
 
@@ -231,11 +231,11 @@ What you actually get:
 
 | Trip Type | Price | Notes |
 |-----------|-------|-------|
-| One-way | ₹2,850-3,500 | Direct to Gaya city |
-| Round-trip | ₹5,200-6,200 | 15-20% savings |
+| One-way | ₹4,813 | Direct to Gaya city |
+| Round-trip | ₹6,602 | 15-20% savings |
 | To Bodhgaya | +₹500-800 | Additional 25 km |
 
-**Travel Time:** 5 hours 40 minutes
+**Travel Time:** 5-6 hr
 
 > **First-Person Insight:** We recommend Sedan if you're traveling alone or as a couple. It's genuinely comfortable for 2-4 people, and the price-to-comfort ratio is excellent.
 
@@ -262,15 +262,15 @@ What you actually get:
 
 | Trip Type | Price | Notes |
 |-----------|-------|-------|
-| One-way | ₹4,500-5,500 | Standard route |
-| Round-trip | ₹8,500-9,500 | Best value |
+| One-way | ₹6,678 | Standard route |
+| Round-trip | ₹8,316 | Best value |
 | To Bodhgaya | +₹600-900 | Additional distance |
 
-**Travel Time:** 5 hours 40 minutes
+**Travel Time:** 5-6 hr
 
 > **First-Person Insight:** This is what we recommend for most families. Three people get their own seat + window. Luggage doesn't sit on anyone's lap. Your 68-year-old mother doesn't feel squeezed.
 
-**Cost-Benefit:** For ₹1,500-2,000 more than a Sedan, you get dramatically more comfort. Worth it for a 5-6 hour journey.
+**Cost-Benefit:** For ₹1,500-2,000 more than a Sedan, you get dramatically more comfort. Worth it for a 5-6 hr journey.
 
 ---
 
@@ -297,13 +297,13 @@ What you actually get:
 
 | Trip Type | Price | Notes |
 |-----------|-------|-------|
-| One-way | ₹6,500-8,000 | Premium comfort |
-| Round-trip | ₹12,000-14,500 | Best for multi-day |
+| One-way | ₹8,442 | Premium comfort |
+| Round-trip | ₹10,836 | Best for multi-day |
 | To Bodhgaya | +₹800-1,000 | Full comfort to temple |
 
-**Travel Time:** 5 hours 40 minutes
+**Travel Time:** 5-6 hr
 
-> **First-Person Insight:** Book Innova Crysta if someone has mobility issues (bad back, arthritis) or if you value arriving relaxed. The reclining seat is life-changing for a 5+ hour journey. Your father can recline and arrive refreshed instead of stiff.
+> **First-Person Insight:** Book Innova Crysta if someone has mobility issues (bad back, arthritis) or if you value arriving relaxed. The reclining seat is life-changing for a 5-6 hr journey. Your father can recline and arrive refreshed instead of stiff.
 
 ---
 
@@ -327,13 +327,13 @@ What you actually get:
 
 | Group Size | Total Vehicle Cost | Per Person |
 |------------|-------------------|------------|
-| 12 people | ₹22,000-26,000 | ₹1,833-2,167 |
-| 15 people | ₹22,000-26,000 | ₹1,467-1,733 |
-| 17 people | ₹22,000-26,000 | ₹1,294-1,529 |
+| 12 people | ₹11,844 | ₹987 |
+| 15 people | ₹12,852 | ₹857 |
+| 17 people | ₹12,852 | ₹756 |
 
-**Travel Time:** 5 hours 40 minutes
+**Travel Time:** 5-6 hr
 
-> **First-Person Insight:** If you're organizing a group pilgrimage, Tempo Traveller is the only logical choice. Per-person cost (₹1,833) rivals train fares, but you get door-to-door service + comfort.
+> **First-Person Insight:** If you're organizing a group pilgrimage, Tempo Traveller is the only logical choice. Per-person cost (₹987) rivals train fares, but you get door-to-door service + comfort.
 
 ---
 
@@ -343,10 +343,10 @@ What you actually get:
 
 | Vehicle Type | Base Fare | Distance | Per-KM Extra | What's Included |
 |--------------|-----------|----------|--------------|-----------------|
-| **Sedan** | ₹2,850 | 260 km | ₹12/km | Driver, fuel, AC, tolls, insurance |
-| **SUV/MPV** | ₹4,200 | 260 km | ₹15/km | Driver, fuel, AC, tolls, insurance |
-| **Innova Crysta** | ₹6,500 | 260 km | ₹18/km | Driver, fuel, AC, tolls, insurance |
-| **Tempo Traveller** | ₹22,000 | 260 km | ₹20/km | Driver, fuel, AC, tolls, insurance |
+| **Sedan** | ₹4,813 | 250-255 km | ₹12/km | Driver, fuel, AC, tolls, insurance |
+| **SUV/MPV** | ₹6,678 | 250-255 km | ₹15/km | Driver, fuel, AC, tolls, insurance |
+| **Innova Crysta** | ₹8,442 | 250-255 km | ₹18/km | Driver, fuel, AC, tolls, insurance |
+| **Tempo Traveller** | ₹11,844 | 250-255 km | ₹20/km | Driver, fuel, AC, tolls, insurance |
 
 ### What's Included in Fare:
 - ✅ Driver salary (8-10 hours)
@@ -360,23 +360,23 @@ What you actually get:
 - ❌ Meal breaks (your choice of dhabas)
 - ❌ Parking charges (if overnight at hotel)
 - ❌ Driver tip (suggested: ₹200-400)
-- ❌ Extra km beyond 260 (if Bodhgaya: +25 km)
+- ❌ Extra km beyond 250-255 (if Bodhgaya: +25 km)
 
 ### Varanasi to Bodhgaya (Alternate Destination)
 
 | Vehicle | Gaya City | Bodhgaya (+25 km) |
 |---------|-----------|-------------------|
-| Sedan | ₹2,850 | ₹3,350 |
-| SUV | ₹4,200 | ₹4,800 |
-| Innova Crysta | ₹6,500 | ₹7,300 |
+| Sedan | ₹4,813 | ₹3,350 |
+| SUV | ₹6,678 | ₹4,800 |
+| Innova Crysta | ₹8,442 | ₹7,300 |
 
 ### Round-Trip Discounts
 
 | Vehicle | 2x One-Way | Round-Trip | You Save |
 |---------|-----------|-----------|----------|
-| Sedan | ₹5,700 | ₹4,800-5,100 | ₹600-900 |
-| SUV | ₹8,400 | ₹7,200-7,700 | ₹700-1,200 |
-| Innova Crysta | ₹13,000 | ₹11,000-11,700 | ₹1,300-2,000 |
+| Sedan | ₹9,626 | ₹6,602 | ₹3,024 |
+| SUV | ₹13,356 | ₹8,316 | ₹5,040 |
+| Innova Crysta | ₹16,884 | ₹10,836 | ₹6,048 |
 
 ---
 
@@ -400,24 +400,24 @@ What you actually get:
 - **Hassle Factor:** Moderate-High
 
 ### Option C: Sedan Taxi (Smart Way)
-- Sedan taxi: ₹2,850
+- Sedan taxi: ₹4,813
 - Meals at rest stop: ₹400
 - Driver tip: ₹300
-- **Total Cost:** ₹3,550
-- **Total Time:** 5 hours 40 minutes (direct)
+- **Total Cost:** ₹5,513
+- **Total Time:** 5-6 hr (direct)
 - **Comfort:** Private, AC, control timing
 - **Hassle Factor:** Low
 
 ### Option D: SUV (Recommended Way)
-- SUV taxi: ₹4,200
+- SUV taxi: ₹6,678
 - Meals: ₹400
 - Driver tip: ₹300
-- **Total Cost:** ₹4,900
-- **Total Time:** 5 hours 40 minutes
+- **Total Cost:** ₹7,378
+- **Total Time:** 5-6 hr
 - **Comfort:** Private, spacious, everyone has own seat
 - **Hassle Factor:** Minimal
 
-> **The Real Value:** Train is ₹50 cheaper than SUV taxi. But you're trading 45 minutes of station struggle, your elderly parents' comfort, and arrival composure. **Is 45 minutes of peace worth ₹50?**
+> **The Real Value:** Train is ₹3,778 cheaper than SUV taxi. But you're trading 45 minutes of station struggle, your elderly parents' comfort, and arrival composure. **Is 45 minutes of peace worth ₹3,778?**
 
 ---
 
@@ -427,9 +427,9 @@ What you actually get:
 
 | Metric | Details |
 |--------|---------|
-| **Distance** | 260 km |
-| **Driving Time** | 5 hours 40 minutes |
-| **Highway** | NH-19 and NH-120 |
+| **Distance** | 250-255 km |
+| **Driving Time** | 5-6 hr |
+| **Highway** | NH-19 |
 | **Road Condition** | 95% paved, smooth |
 | **Traffic** | Moderate (light early mornings) |
 
@@ -439,9 +439,9 @@ What you actually get:
 |------|------------------------|------|------------|
 | **Mohania** | 60 km (1 hour) | 15 min break | Clean dhaba, bathrooms, chai |
 | **Dobhi/Hilsa** | 150 km (2.5 hours) | 30 min meal | Multiple restaurants, fuel |
-| **Wazirganj** | 190 km (3.5 hours) | 15 min | Final rest stop before Gaya |
+| **Wazirganj** | 190 km (4 hr) | 15 min | Final rest stop before Gaya |
 
-**Total break time:** 60 minutes. You'll still arrive in 6.5-7 hours total.
+**Total break time:** 60 minutes. You'll still arrive in 6+ hr total.
 
 ### Best Time to Travel
 
@@ -467,7 +467,7 @@ Here's what happens:
 - You rebook emergency, pay ₹3,500
 - Or vehicle has broken AC
 
-**Our pricing (₹2,850-4,200)** guarantees: we don't cancel, vehicle is clean, driver is vetted, AC works.
+**Our pricing (₹4,813-6,678)** guarantees: we don't cancel, vehicle is clean, driver is vetted, AC works.
 
 ### On Driver Tipping
 
@@ -479,7 +479,7 @@ Plan to tip ₹200-400 depending on service quality. This isn't hidden—it's st
 
 AC in Indian taxis provides 20-22°C temperature. Don't expect arctic-level cold.
 
-If AC isn't working at pickup, **refuse the vehicle and ask for replacement.** Non-negotiable for a 5-hour journey.
+If AC isn't working at pickup, **refuse the vehicle and ask for replacement.** Non-negotiable for a 5-6 hr journey.
 
 ### On Luggage
 
@@ -489,12 +489,12 @@ If AC isn't working at pickup, **refuse the vehicle and ask for replacement.** N
 
 ### On Arrival Time
 
-We quote "5 hours 40 minutes" for Varanasi to Gaya.
+We quote "5-6 hr" for Varanasi to Gaya.
 
 **Real-world arrival times:**
-- Optimistic (low traffic, no stops): 5 hours 15 minutes
-- Normal (traffic, 1 stop): 5 hours 50 minutes
-- Heavy traffic (festival season): 6 hours 30 minutes
+- Optimistic (low traffic, no stops): 5 hr
+- Normal (traffic, 1 stop): 5-6 hr
+- Heavy traffic (festival season): 6+ hr
 
 **Plan accordingly.** If you need to arrive by 2 PM for temple, book a 7 AM pickup.
 
@@ -506,7 +506,7 @@ We quote "5 hours 40 minutes" for Varanasi to Gaya.
 
 Most taxi apps lure you with ₹1,500 fares, then add "service fee," "parking charge," "tolls extra."
 
-We quote all-in: ₹2,850-4,200. That's it. No surprises.
+We quote all-in: ₹4,813-6,678. That's it. No surprises.
 
 ### Vetted Drivers
 
@@ -555,17 +555,17 @@ Regular maintenance. Vehicles replaced every 150,000 km or 5 years. Clean interi
 
 ### Story 1: The Elderly Parent Relief
 
-> *"I took my 76-year-old mother to Gaya. She gets motion sickness on buses. The taxi seemed expensive (₹4,200 vs. ₹600 train), but my mother arrived relaxed, not traumatized. She even napped in the car. That peace of mind was worth ₹3,600. I'd never take a train with her again."*
+> *"I took my 76-year-old mother to Gaya. She gets motion sickness on buses. The taxi seemed expensive (₹4,813 vs. ₹600 train), but my mother arrived relaxed, not traumatized. She even napped in the car. That peace of mind was worth ₹4,213. I'd never take a train with her again."*
 > — Rajesh, 52, Bangalore
 
 ### Story 2: The Budget Traveler Win
 
-> *"I planned to take a bus (₹1,200). But I booked a Sedan taxi (₹2,850) with two other solo travelers to split costs. We each paid ₹1,400. For ₹200 more than a bus, I got AC, no strangers next to me, flexibility to eat when hungry. Best ₹200 I ever spent."*
+> *"I planned to take a bus (₹1,200). But I booked a Sedan taxi (₹4,813) with two other solo travelers to split costs. We each paid ₹1,604. For ₹404 more than a bus, I got AC, no strangers next to me, flexibility to eat when hungry. Best ₹404 I ever spent."*
 > — Priya, 28, Solo Traveler
 
 ### Story 3: The Group Logistics Win
 
-> *"Our temple organized a pilgrimage for 14 people. The Tempo cost ₹26,000 total = ₹1,857 per person. Train would've been ₹800 per person, but coordinating 14 people at Gaya station would be insane. We spent ₹900 more per person and saved sanity."*
+> *"Our temple organized a pilgrimage for 14 people. The Tempo cost ₹12,852 total = ₹918 per person. Train would've been ₹800 per person, but coordinating 14 people at Gaya station would be insane. We spent ₹118 more per person and saved sanity."*
 > — Amit, Temple Group Organizer
 
 ---
@@ -584,10 +584,10 @@ Regular maintenance. Vehicles replaced every 150,000 km or 5 years. Clean interi
 
 | Vehicle | Price | Book Now |
 |---------|-------|----------|
-| **Sedan** | ₹2,850 | [Book Sedan](https://wa.me/919935474730?text=Book%20Sedan%20Varanasi%20to%20Gaya) |
-| **SUV** | ₹4,200 | [Book SUV](https://wa.me/919935474730?text=Book%20SUV%20Varanasi%20to%20Gaya) |
-| **Innova Crysta** | ₹6,500 | [Book Innova](https://wa.me/919935474730?text=Book%20Innova%20Varanasi%20to%20Gaya) |
-| **Tempo Traveller** | ₹1,833/person | [Book Tempo](https://wa.me/919935474730?text=Book%20Tempo%20Traveller%20Varanasi%20to%20Gaya) |
+| **Sedan** | ₹4,813 | [Book Sedan](https://wa.me/919935474730?text=Book%20Sedan%20Varanasi%20to%20Gaya) |
+| **SUV** | ₹6,678 | [Book SUV](https://wa.me/919935474730?text=Book%20SUV%20Varanasi%20to%20Gaya) |
+| **Innova Crysta** | ₹8,442 | [Book Innova](https://wa.me/919935474730?text=Book%20Innova%20Varanasi%20to%20Gaya) |
+| **Tempo Traveller** | ₹987/person | [Book Tempo](https://wa.me/919935474730?text=Book%20Tempo%20Traveller%20Varanasi%20to%20Gaya) |
 
 ---
 

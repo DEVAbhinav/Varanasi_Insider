@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Patna Cab | Bihar Capital | ₹3,500 | Kashi Taxi"
+title: "Varanasi to Patna Cab | Bihar Capital | ₹5,081 | Kashi Taxi"
 slug: "varanasi-to-patna-taxi"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Patna Cab | Bihar Capital | ₹3,500 | Kashi Taxi"
-metaDescription: "Book Varanasi to Patna cabs from ₹3,500. 240 km in 3.5-4 hours. Buddhist circuit gateway. Museums, ghats, verified drivers."
-description: "Book Varanasi to Patna cabs from ₹3,500. 240 km journey in 3.5-4 hours via NH19. Bihar capital, Patna Museum, Mahavir Mandir, Buddhist circuit. 24/7 service."
+metaTitle: "Varanasi to Patna Cab | Bihar Capital | ₹5,081 | Kashi Taxi"
+metaDescription: "Book Varanasi to Patna cabs from ₹5,081. 255-278 km in 5.5-6.5 hr. Buddhist circuit gateway. Museums, ghats, verified drivers."
+description: "Book Varanasi to Patna cabs from ₹5,081. 255-278 km journey in 5.5-6.5 hr via NH19. Bihar capital, Patna Museum, Mahavir Mandir, Buddhist circuit. 24/7 service."
 keywords:
   - "varanasi to patna taxi"
   - "varanasi patna cab fare"
@@ -25,18 +25,18 @@ relatedPosts:
   - varanasi-to-bodhgaya-taxi
 faqSchema:
   - question: "How much does a taxi cost from Varanasi to Patna?"
-    answer: "Taxi fares from Varanasi to Patna start from ₹3,500 for a sedan. Prices vary: Swift Dzire ₹3,500-3,900, Ertiga ₹4,500-5,000, Innova ₹5,800-6,500. All fares include fuel, tolls, and driver charges."
+    answer: "Taxi fares from Varanasi to Patna start from ₹5,081 for a sedan. Prices vary: Swift Dzire ₹5,081, Ertiga ₹7,049, Innova Crysta ₹8,911. All fares include fuel, tolls, and driver charges."
   - question: "What is the distance from Varanasi to Patna?"
-    answer: "The distance from Varanasi to Patna is approximately 240 km via NH19. The journey typically takes 3.5 to 4 hours on well-maintained national highway."
+    answer: "The distance from Varanasi to Patna is approximately 255-278 km via NH19. The journey typically takes 5.5-6.5 hr on well-maintained national highway."
   - question: "Is Patna worth visiting from Varanasi?"
     answer: "Yes! Patna is the ancient city of Pataliputra with rich Buddhist heritage. Visit Patna Museum, Golghar, Mahavir Mandir, and use it as gateway to Nalanda, Rajgir, and Bodhgaya."
   - question: "Can I combine Patna with Buddhist circuit?"
     answer: "Absolutely! Patna is the perfect base for Buddhist circuit. From Patna, you can visit Nalanda (90 km), Rajgir (100 km), and Bodhgaya (110 km). We offer multi-day Buddhist circuit packages."
 ---
 
-# Varanasi to Patna Taxi | Bihar Capital Cabs from ₹3,500
+# Varanasi to Patna Taxi | Bihar Capital Cabs from ₹5,081
 
-> **Quick answer:** Varanasi to Patna is about 240 km by NH19 and usually takes 3.5-4 hours. Sedan fares start from ₹3,500. It is a useful route for Patna city work, family visits, Mahavir Mandir, and Buddhist circuit planning.
+> **Quick answer:** Varanasi to Patna is about 255-278 km by NH19 and usually takes 5.5-6.5 hr. Sedan fares start from ₹5,081. It is a useful route for Patna city work, family visits, Mahavir Mandir, and Buddhist circuit planning.
 
 Patna is not just a pass-through city. Many travellers use it for government work, hospital or university visits, Patna Sahib, Mahavir Mandir, and onward plans to Nalanda, Rajgir, Bodhgaya, or Vaishali. A private cab works well when you need a direct pickup from Varanasi and a fixed drop inside Patna.
 
@@ -44,13 +44,13 @@ Patna is not just a pass-through city. Many travellers use it for government wor
 
 | Detail | Information |
 |--------|-------------|
-| **Journey Distance** | 240 km (by road) |
-| **Travel Time** | 3.5-4 hours (typical) |
+| **Journey Distance** | 255-278 km (by road) |
+| **Travel Time** | 5.5-6.5 hr (typical) |
 | **Best Route** | Via NH19 (fastest and well-maintained) |
 | **Road Condition** | Excellent - National highway |
 | **Historical Name** | Ancient Pataliputra (Mauryan capital) |
 | **Main Attractions** | Patna Museum, Golghar, Mahavir Mandir |
-| **Starting Fare** | ₹3,500 for Swift Dzire (4-seater) |
+| **Starting Fare** | ₹5,081 for Swift Dzire (4-seater) |
 
 ## Varanasi to Patna Route, Distance & Best Time to Travel
 
@@ -72,10 +72,10 @@ The route follows the Ganges River for most of the journey, with regular fuel an
 
 | Vehicle Type | Seating | Pricing | Best For | Special Features |
 |--------------|---------|---------|----------|------------------|
-| **Swift Dzire** | 4 passengers | ₹3,500-3,900 | Solo, couples | Fuel-efficient, comfortable |
-| **Ertiga** | 6 passengers | ₹4,500-5,000 | Small families | Spacious, luggage room |
-| **Innova Crysta** | 6-8 passengers | ₹5,800-6,500 | Large families | Premium comfort |
-| **Tempo Traveller** | 12-13 passengers | ₹9,500-11,000 | Group tours | Buddhist circuit groups |
+| **Swift Dzire** | 4 passengers | ₹5,081 | Solo, couples | Fuel-efficient, comfortable |
+| **Ertiga** | 6 passengers | ₹7,049 | Small families | Spacious, luggage room |
+| **Innova Crysta** | 6-8 passengers | ₹8,911 | Large families | Premium comfort |
+| **Tempo Traveller** | 12-13 passengers | ₹12,502 | Group tours | Buddhist circuit groups |
 
 ### Included in Your Fare
 
@@ -190,14 +190,14 @@ Popular eating areas include Bansi Vihar, Kaveri Restaurant, and Tandoor Hut. Fo
 ### One-Day Patna Tour (Same-Day Return)
 
 **6:00 AM:** Depart from Varanasi  
-**9:30 AM:** Arrive Patna, freshen up  
-**10:00 AM - 12:30 PM:** Patna Museum  
-**12:30 PM - 1:30 PM:** Lunch (Patna's famous litti chokha)  
-**1:30 PM - 2:30 PM:** Golghar  
-**2:30 PM - 4:00 PM:** Mahavir Mandir darshan  
-**4:00 PM - 5:00 PM:** Gandhi Ghat boat ride  
-**5:00 PM:** Depart for Varanasi  
-**8:30 PM:** Arrive Varanasi
+**12:00 PM:** Arrive Patna, freshen up  
+**12:30 PM - 1:30 PM:** Patna Museum  
+**1:30 PM - 2:00 PM:** Lunch (Patna's famous litti chokha)  
+**2:00 PM - 3:00 PM:** Golghar  
+**3:00 PM - 4:00 PM:** Mahavir Mandir darshan  
+**4:00 PM - 4:30 PM:** Gandhi Ghat boat ride  
+**4:30 PM:** Depart for Varanasi  
+**10:30 PM:** Arrive Varanasi
 
 ### Two-Day Patna + Nalanda Tour
 
@@ -209,7 +209,7 @@ Popular eating areas include Bansi Vihar, Kaveri Restaurant, and Tandoor Hut. Fo
 **Day 2:**
 - Morning: Patna → Nalanda (2 hours)
 - Midday: Nalanda University ruins tour
-- Afternoon: Nalanda → Varanasi (3.5 hours)
+- Afternoon: Nalanda → Varanasi (5.5-6.5 hours)
 - Evening: Arrive Varanasi
 
 **₹9,500** for sedan
