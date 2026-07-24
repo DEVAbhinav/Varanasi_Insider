@@ -205,3 +205,168 @@ h2.sub-heading {
     width: 100%;
   }
 }
+
+/* =========================================================================
+   Fare-card hero widget  (top of every route fare page)
+   Premium, conversion-first: route + live "from" fare + one-tap Book/Call.
+   Injected as raw HTML from lib/ctaBlocks.js (buildRouteHeroBlock).
+   ========================================================================= */
+.fare-hero {
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 0 0 2rem;
+  background: #ffffff;
+  border: 1px solid #e6eef2;
+  box-shadow: 0 18px 44px -16px rgba(8, 47, 73, 0.30), 0 2px 6px rgba(8, 47, 73, 0.05);
+  font-family: var(--font-source-sans), "Inter", "Helvetica Neue", sans-serif;
+}
+.fare-hero__head {
+  position: relative;
+  padding: 1.4rem 1.5rem 1.5rem;
+  background:
+    radial-gradient(120% 150% at 100% 0%, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0) 55%),
+    linear-gradient(135deg, #0b6b83 0%, #0891b2 52%, #06b6d4 100%);
+  color: #ffffff;
+}
+.fare-hero__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.fare-hero__title {
+  margin: 0;
+  font-family: var(--font-source-sans), "Inter", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.15;
+  font-weight: 800;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+.fare-hero__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.76rem;
+  font-weight: 700;
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  padding: 0.32rem 0.7rem;
+  border-radius: 9999px;
+  white-space: nowrap;
+}
+.fare-hero__meta {
+  margin-top: 0.6rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.94);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 0.5rem;
+  align-items: center;
+}
+.fare-hero__meta .dot { opacity: 0.5; }
+
+.fare-hero__body { padding: 1.2rem 1.5rem 1.45rem; }
+
+.fare-hero__prices { display: flex; gap: 0.7rem; flex-wrap: wrap; }
+.fare-hero__price {
+  flex: 1 1 150px;
+  position: relative;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 0.8rem 0.95rem;
+}
+.fare-hero__price.is-primary {
+  background: linear-gradient(180deg, #ecfeff, #f7feff);
+  border: 1.5px solid #22d3ee;
+  box-shadow: 0 8px 18px -10px rgba(6, 182, 212, 0.65);
+}
+.fare-hero__price-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 800;
+  color: #0e7490;
+}
+.fare-hero__price-value { display: flex; align-items: baseline; gap: 0.3rem; margin-top: 0.18rem; }
+.fare-hero__price-value .from { font-size: 0.74rem; font-weight: 700; color: #64748b; }
+.fare-hero__price-value .amt { font-size: 1.7rem; font-weight: 800; color: #0f172a; line-height: 1; letter-spacing: -0.5px; }
+.fare-hero__price-note { font-size: 0.72rem; color: #64748b; margin-top: 0.28rem; }
+.fare-hero__tag {
+  position: absolute;
+  top: -0.62rem;
+  right: 0.7rem;
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #0891b2;
+  padding: 0.18rem 0.5rem;
+  border-radius: 9999px;
+  box-shadow: 0 3px 8px -2px rgba(8, 145, 178, 0.6);
+}
+
+.fare-hero__more { margin: 0.9rem 0 0; font-size: 0.83rem; color: #475569; line-height: 1.5; }
+.fare-hero__more b { color: #0f172a; font-weight: 700; }
+
+.fare-hero__actions { display: flex; flex-direction: column; gap: 0.6rem; margin-top: 1.15rem; }
+.fare-hero__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  width: 100%;
+  padding: 0.95rem 1.25rem;
+  border-radius: 13px;
+  font-size: 1.02rem;
+  font-weight: 800;
+  line-height: 1;
+  white-space: nowrap;
+  text-decoration: none !important;
+  transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.12s ease, border-color 0.12s ease;
+}
+.fare-hero__btn svg { flex: 0 0 auto; }
+.fare-hero__btn--wa {
+  color: #ffffff !important;
+  background: linear-gradient(180deg, #22c55e, #16a34a);
+  box-shadow: 0 12px 24px -10px rgba(22, 163, 74, 0.75), inset 0 1px 0 rgba(255, 255, 255, 0.28);
+}
+.fare-hero__btn--wa:hover {
+  transform: translateY(-1px);
+  background: linear-gradient(180deg, #26cf68, #15a144);
+  box-shadow: 0 16px 28px -10px rgba(22, 163, 74, 0.85), inset 0 1px 0 rgba(255, 255, 255, 0.28);
+}
+.fare-hero__btn--wa:active { transform: translateY(0); }
+.fare-hero__btn--call {
+  color: #0e7490 !important;
+  background: #ffffff;
+  border: 1.5px solid #cbd5e1;
+  box-shadow: 0 2px 6px rgba(8, 47, 73, 0.06);
+}
+.fare-hero__btn--call:hover { border-color: #0891b2; background: #f0fdff; transform: translateY(-1px); }
+
+.fare-hero__trust {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 1rem;
+  margin-top: 1.1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eef2f6;
+  font-size: 0.8rem;
+  color: #475569;
+  font-weight: 600;
+}
+.fare-hero__trust span { display: inline-flex; align-items: center; gap: 0.32rem; white-space: nowrap; }
+.fare-hero__trust svg { color: #16a34a; flex: 0 0 auto; }
+
+@media (min-width: 600px) {
+  .fare-hero__actions { flex-direction: row; align-items: stretch; }
+  .fare-hero__btn--wa { flex: 3 1 0; }
+  .fare-hero__btn--call { flex: 2 1 0; }
+  .fare-hero__title { font-size: 1.65rem; }
+}

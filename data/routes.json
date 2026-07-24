@@ -1,0 +1,870 @@
+{
+  "_meta": {
+    "note": "Route data for Varanasi outstation fare-card pages. distanceKm = numeric used by pricing engine (one-way). distanceKmDisplay = human range for the page. Fares are NOT stored; lib/routePricing.js computes them from data/vehicles.json. stateTax is 'as applicable' (never a computed rupee figure).",
+    "source": "files/ROUTE-DATA-collected.md (exec research 2026-07-24)",
+    "directionsNote": "servesInbound / offersOneWay are provisional defaults (true) pending owner confirmation.",
+    "minBillKm": "minBillKm bars (owner 2026-07-24, x=one-way km): x<=40 ->100; 40<x<=160 ->200; x>160 ->250. Round-trip is DEFAULT trip type; round-trip billable = max(2*dist, minBillKm); one-way billable = max(dist, minBillKm/2).",
+    "tripDefault": "round-trip",
+    "enrichment": "tollDetail/stateTaxDetail/travelerAngle/departureTip are {en,hi} objects from the 2026-07-24 route research; stops/highway overridden where research gave named landmarks. proofPoint intentionally omitted (needs real owner-supplied trip data). distanceKm (pricing) unchanged.",
+    "hubs": "hubs.{pickup,see} are per-destination-city proper-noun arrays used by the generator to differentiate outbound vs inbound fare cards (Varanasi-pickup+destination-arrival vs destination-pickup+Varanasi-arrival). Framing text is localised in scripts/generate-fare-cards.js."
+  },
+  "origin": {
+    "city": "Varanasi",
+    "aliases": [
+      "Varanasi",
+      "Banaras",
+      "Kashi"
+    ]
+  },
+  "routes": [
+    {
+      "id": "prayagraj",
+      "name": "Prayagraj",
+      "aliases": [
+        "Allahabad",
+        "Prayag",
+        "Sangam",
+        "Teerthraj"
+      ],
+      "distanceKm": 125,
+      "distanceKmDisplay": "120-125 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "2.5-3 hr",
+      "driveTimePeak": "3+ hr (Kumbh/festival)",
+      "highway": "NH-19 via Mohansarai - Gopiganj - Handia - Andawa",
+      "tollsNote": "multiple plazas, ~Rs 210 for a car",
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "5-7 am",
+      "whyVisit": "Kumbh/Sangam snan, Allahabad Fort, Anand Bhavan, weekend family outings",
+      "stops": [
+        "Highway dhabas near Mohansarai/Gopiganj",
+        "Ganga bridge approach (photo)",
+        "Triveni Sangam & Allahabad Fort in-city"
+      ],
+      "chokepoints": [
+        "Railway crossings + last 20-30 km into Prayagraj",
+        "Sangam/Civil Lines in festival/Kumbh"
+      ],
+      "wave": 1,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 200,
+      "tollDetail": {
+        "en": "Typical car toll is about ₹230 one-way at the Lalanagar plaza on the Varanasi–Prayagraj highway — already covered in your fixed fare.",
+        "hi": "वाराणसी–प्रयागराज हाईवे पर लालानगर प्लाज़ा पर कार का टोल लगभग ₹230 वन-वे है — यह आपके फिक्स्ड किराए में शामिल है।"
+      },
+      "travelerAngle": {
+        "en": "Most travellers go for a Triveni Sangam snan — demand peaks during Magh Mela (Jan–Feb) and Kumbh, when the goal is to reach Sangam around sunrise and return before the afternoon rush. Off-season, families come for Anand Bhavan, Allahabad Fort and a Sangam boat ride.",
+        "hi": "ज़्यादातर यात्री त्रिवेणी संगम स्नान के लिए जाते हैं — माघ मेला (जन–फ़र) व कुंभ में माँग चरम पर, तब लक्ष्य होता है सूर्योदय तक संगम पहुँचना और दोपहर की भीड़ से पहले लौटना। बाकी समय परिवार आनंद भवन, किला व संगम नौका सैर के लिए आते हैं।"
+      },
+      "departureTip": {
+        "en": "For a sunrise snan, leave Varanasi roughly 3–3.5 hours before Prayagraj sunrise (about 2:30–3:00 am when sunrise is near 6:00), allowing for traffic and parking.",
+        "hi": "सूर्योदय स्नान के लिए प्रयागराज सूर्योदय से लगभग 3–3.5 घंटे पहले वाराणसी से निकलें (सूर्योदय ~6:00 हो तो ~2:30–3:00 बजे), ताकि ट्रैफ़िक व पार्किंग का समय रहे।"
+      },
+      "hubs": {
+        "pickup": [
+          "Prayagraj Junction",
+          "Prayagraj Airport (Bamrauli)",
+          "Civil Lines hotels"
+        ],
+        "see": [
+          "Triveni Sangam",
+          "Anand Bhavan",
+          "Allahabad Fort"
+        ]
+      }
+    },
+    {
+      "id": "gaya",
+      "name": "Gaya",
+      "aliases": [
+        "Gayapuri"
+      ],
+      "distanceKm": 252,
+      "distanceKmDisplay": "250-255 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "5-6 hr",
+      "driveTimePeak": "6+ hr",
+      "highway": "NH-19 -> Daffi -> Mohania -> Sasaram -> Aurangabad -> Dobhi (NH-19 + NH-120/22)",
+      "tollsNote": "4-5 plazas, ~Rs 600-750 sedan incl. Bihar tax",
+      "stateTaxApplicable": true,
+      "crossesState": "Bihar (entry/green tax)",
+      "bestDeparture": "5-7 am",
+      "whyVisit": "Pind-daan at Vishnupad Temple + access to Bodh Gaya (Mahabodhi, Buddhist circuit)",
+      "stops": [
+        "Sarnath (10 km, first stop)",
+        "Dehri-on-Sone (SH-87 riverbank)",
+        "Bodh Gaya (~13 km, Mahabodhi)"
+      ],
+      "chokepoints": [
+        "Toll/truck traffic at Mohania, Sasaram, Aurangabad",
+        "Gaya Jn/Vishnupad in Pitru-paksha"
+      ],
+      "wave": 1,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "tollDetail": {
+        "en": "Cars cross 4–5 plazas (Daffi, Mohania, Sasaram, Aurangabad/Sherghati, Dobhi) for about ₹400–500 in tolls one-way.",
+        "hi": "कारें 4–5 प्लाज़ा (डाफी, मोहनिया, सासाराम, औरंगाबाद/शेरघाटी, डोभी) पार करती हैं — वन-वे टोल लगभग ₹400–500।"
+      },
+      "stateTaxDetail": {
+        "en": "Bihar entry + green tax for a private car is about ₹200–250 one-way at the UP–Bihar border, so total toll + tax runs ~₹600–750.",
+        "hi": "प्राइवेट कार के लिए बिहार एंट्री + ग्रीन टैक्स UP–बिहार सीमा पर लगभग ₹200–250 वन-वे, यानी कुल टोल + टैक्स ~₹600–750।"
+      },
+      "travelerAngle": {
+        "en": "The main reason is pind-daan at the Vishnupad Temple, which spikes sharply during Pitru Paksha; Gaya also doubles as the gateway to Bodh Gaya. At 5.5–6 hours each way, a same-day return needs a 4–5 am start, while most families prefer an overnight halt to combine rituals with a Bodh Gaya visit.",
+        "hi": "मुख्य कारण विष्णुपद मंदिर में पिंड-दान है, जो पितृ पक्ष में तेज़ी से बढ़ता है; गया बोधगया का प्रवेश-द्वार भी है। एक तरफ़ 5.5–6 घंटे होने से, उसी दिन लौटने के लिए 4–5 बजे निकलना पड़ता है, जबकि ज़्यादातर परिवार रात रुककर बोधगया भी जोड़ लेते हैं।"
+      },
+      "hubs": {
+        "pickup": [
+          "Gaya Junction",
+          "Gaya International Airport",
+          "temple-side hotels"
+        ],
+        "see": [
+          "Vishnupad Temple",
+          "Bodh Gaya (Mahabodhi)"
+        ]
+      }
+    },
+    {
+      "id": "ayodhya",
+      "name": "Ayodhya",
+      "aliases": [
+        "Ayodhya Dham",
+        "Ram Janmabhoomi"
+      ],
+      "distanceKm": 200,
+      "distanceKmDisplay": "~200 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "4-5 hr",
+      "driveTimePeak": "5-6 hr",
+      "highway": "NH-31/NH-56 via Jaunpur & Sultanpur (or NH-28/731/330)",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "5-7 am",
+      "whyVisit": "Ram Mandir & Ram Janmabhoomi, Hanuman Garhi, Saryu ghats",
+      "stops": [
+        "Baati Chokha (Varanasi, litti chokha)",
+        "Jaunpur Highway Treat",
+        "Sultanpur Dhaba",
+        "Ayodhya Bhojanalaya"
+      ],
+      "chokepoints": [
+        "Jaunpur & Sultanpur town stretches",
+        "Ram Janmabhoomi/Hanuman Garhi in Ram Navami/Diwali"
+      ],
+      "wave": 1,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "tollDetail": {
+        "en": "Two common routings: via NH-31 (Hauj ₹125 + Bainti Khurd ₹125 + Bharatkhund ₹40 ≈ ₹290) or the older NH-28 (Amora Moiddinpur ₹110 + Amdi ₹100 ≈ ₹210) — a car toll of roughly ₹210–290 one-way, included in your fare.",
+        "hi": "दो सामान्य मार्ग: NH-31 से (हौज़ ₹125 + बैंती खुर्द ₹125 + भरतकुंड ₹40 ≈ ₹290) या पुराना NH-28 (अमोरा मोइद्दीनपुर ₹110 + आमदी ₹100 ≈ ₹210) — कार का टोल ~₹210–290 वन-वे, किराए में शामिल।"
+      },
+      "travelerAngle": {
+        "en": "This is an ultra-high-intent Ram Mandir darshan trip, layered with Ram Navami and Diwali Deepotsav peaks. For an ordinary darshan a 4–5 am start lands you late morning with time for parking and queues; on festival days add 1–2 hours and pre-book your darshan/aarti slot.",
+        "hi": "यह बेहद ऊँची-इच्छा वाली राम मंदिर दर्शन यात्रा है, राम नवमी व दिवाली दीपोत्सव पर चरम पर। सामान्य दर्शन के लिए 4–5 बजे निकलने पर देर सुबह पहुँचते हैं; त्योहारों पर 1–2 घंटे और जोड़ें व दर्शन/आरती स्लॉट पहले से बुक करें।"
+      },
+      "hubs": {
+        "pickup": [
+          "Ayodhya Dham Junction",
+          "Maharishi Valmiki International Airport",
+          "Ram Path hotels"
+        ],
+        "see": [
+          "Ram Mandir (Ram Janmabhoomi)",
+          "Hanuman Garhi",
+          "Saryu ghats"
+        ]
+      }
+    },
+    {
+      "id": "lucknow",
+      "name": "Lucknow",
+      "aliases": [
+        "Awadh capital"
+      ],
+      "distanceKm": 308,
+      "distanceKmDisplay": "300-316 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "5-6 hr",
+      "driveTimePeak": "6-7 hr",
+      "highway": "Purvanchal Expressway via Azamgarh/Sultanpur",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "5-6 am",
+      "whyVisit": "Airport/rail connectivity, medical/education, state-capital business",
+      "stops": [
+        "Purvanchal Expwy dhabas & fuel",
+        "Azamgarh/Sultanpur bypass field views"
+      ],
+      "chokepoints": [
+        "Expressway toll ramps at peak",
+        "Lucknow entry (Amausi/Shaheed Path/Charbagh) office hours"
+      ],
+      "wave": 1,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "tollDetail": {
+        "en": "Most of the journey runs on the Purvanchal Expressway; a car pays roughly ₹400–650 in tolls one-way depending on where you join it (the full 340-km length is about ₹675).",
+        "hi": "ज़्यादातर सफ़र पूर्वांचल एक्सप्रेसवे पर होता है; कार जहाँ से चढ़े उसके अनुसार वन-वे टोल ~₹400–650 (पूरी 340 किमी लंबाई ~₹675)।"
+      },
+      "travelerAngle": {
+        "en": "Common reasons are catching a flight or train from Lucknow, and medical visits to SGPGI/Medanta with family and luggage. The Purvanchal Expressway makes this a fast, smooth ride, and one-way airport drops are popular.",
+        "hi": "आम कारण — लखनऊ से फ़्लाइट/ट्रेन पकड़ना, और परिवार व सामान के साथ SGPGI/मेदांता में इलाज। पूर्वांचल एक्सप्रेसवे इसे तेज़ व आरामदायक बनाता है, और वन-वे एयरपोर्ट ड्रॉप लोकप्रिय हैं।"
+      },
+      "hubs": {
+        "pickup": [
+          "Lucknow Charbagh Junction",
+          "Chaudhary Charan Singh International Airport",
+          "Gomti Nagar hotels"
+        ],
+        "see": [
+          "Hazratganj",
+          "SGPGI / Medanta (medical)",
+          "Bara Imambara"
+        ]
+      }
+    },
+    {
+      "id": "delhi",
+      "name": "Delhi",
+      "aliases": [
+        "Dilli",
+        "NCR",
+        "national capital"
+      ],
+      "distanceKm": 859,
+      "distanceKmDisplay": "~859 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "12.5-13 hr",
+      "driveTimePeak": "14+ hr",
+      "highway": "NH-19/GT Road + onward national highways",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "night or very early am",
+      "whyVisit": "Long-distance business, flights ex-Delhi, tourism (Old Delhi, India Gate)",
+      "stops": [
+        "GT Road dhabas near Kanpur / Etawah",
+        "Agra / Yamuna Expressway entry (food & fuel)",
+        "Bridge viewpoints (GT Rd / Yamuna)"
+      ],
+      "chokepoints": [
+        "Kanpur-Agra-Delhi corridor",
+        "NCR ring roads & entry at peak"
+      ],
+      "wave": 1,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "tollDetail": {
+        "en": "The classic GT Road → Kanpur → Agra → Yamuna Expressway route has ~11 car plazas totalling about ₹1,500 one-way; a newer all-expressway routing is quicker but tolls run higher (~₹2,200). Either way, tolls are already covered in your fixed fare.",
+        "hi": "क्लासिक GT रोड → कानपुर → आगरा → यमुना एक्सप्रेसवे मार्ग में ~11 प्लाज़ा, कुल वन-वे ~₹1,500; नया पूरा-एक्सप्रेसवे मार्ग तेज़ पर टोल ज़्यादा (~₹2,200)। दोनों में टोल आपके फिक्स्ड किराए में शामिल।"
+      },
+      "travelerAngle": {
+        "en": "People choose the ~13-hour road run over train or flight when they have heavy luggage, want true door-to-door service, travel at odd hours, or bring pets or elderly passengers who dislike station/airport chaos. A frequent pattern is a one-way drive to catch a Delhi flight.",
+        "hi": "लोग ट्रेन/फ़्लाइट के बजाय ~13 घंटे की सड़क यात्रा तब चुनते हैं जब भारी सामान हो, घर-से-घर सेवा चाहिए, विषम समय पर चलना हो, या पालतू/बुज़ुर्ग साथ हों जिन्हें स्टेशन/एयरपोर्ट की भीड़ पसंद नहीं। आम पैटर्न — दिल्ली फ़्लाइट पकड़ने के लिए वन-वे ड्राइव।"
+      },
+      "departureTip": {
+        "en": "For a journey this long we plan mandatory rest breaks, and a two-driver option is available on request for added safety.",
+        "hi": "इतनी लंबी यात्रा के लिए हम अनिवार्य विश्राम-विराम रखते हैं, और अतिरिक्त सुरक्षा हेतु माँगने पर दो-ड्राइवर विकल्प उपलब्ध है।"
+      },
+      "hubs": {
+        "pickup": [
+          "New Delhi Railway Station",
+          "Anand Vihar Terminal",
+          "IGI Airport (T1/T2/T3)"
+        ],
+        "see": [
+          "your Delhi address (true door-to-door)"
+        ]
+      }
+    },
+    {
+      "id": "mughalsarai",
+      "name": "Mughalsarai",
+      "aliases": [
+        "DDU",
+        "Pt. Deen Dayal Upadhyaya Jn",
+        "Deen Dayal Upadhyaya Nagar"
+      ],
+      "distanceKm": 18,
+      "distanceKmDisplay": "17-18 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "40-50 min",
+      "driveTimePeak": "1-1.25 hr",
+      "highway": "GT Road / NH-19",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "off-peak; 7-9 pm or 4-6 am",
+      "whyVisit": "DDU junction - long-distance trains to all metros, major Purvanchal hub",
+      "stops": [
+        "GT Road eateries"
+      ],
+      "chokepoints": [
+        "City exit from Varanasi + DDU station approach",
+        "rail-crossing slowdowns"
+      ],
+      "wave": 1,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 100,
+      "tollDetail": {
+        "en": "This short city-belt hop is effectively toll-free for a private car (only station parking/entry fees apply).",
+        "hi": "यह छोटा शहरी सफ़र प्राइवेट कार के लिए व्यावहारिक रूप से टोल-मुक्त है (केवल स्टेशन पार्किंग/प्रवेश शुल्क)।"
+      },
+      "travelerAngle": {
+        "en": "DDU (Mughalsarai) Junction is a major Purvanchal rail hub with long-distance trains to every metro, so most rides are timed station transfers tracked against your train timing.",
+        "hi": "डीडीयू (मुगलसराय) जंक्शन एक बड़ा पूर्वांचल रेल हब है जहाँ से हर महानगर की लंबी-दूरी ट्रेनें चलती हैं, इसलिए ज़्यादातर राइड आपकी ट्रेन समय के अनुसार तय स्टेशन ट्रांसफ़र होती हैं।"
+      },
+      "hubs": {
+        "pickup": [
+          "DDU (Mughalsarai) Junction"
+        ],
+        "see": [
+          "Kashi Vishwanath Dham",
+          "Sarnath"
+        ]
+      }
+    },
+    {
+      "id": "azamgarh",
+      "name": "Azamgarh",
+      "aliases": [
+        "A'zamgarh"
+      ],
+      "distanceKm": 103,
+      "distanceKmDisplay": "~103 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "~2 hr",
+      "driveTimePeak": "2.5-3 hr",
+      "highway": "NH-31 & NH-233B via Sarnath - Pindra - Atraulia",
+      "tollsNote": "one-way toll on NH-31 (varies)",
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "6-8 am",
+      "whyVisit": "Students/patients for colleges & hospitals, family/hometown visits",
+      "stops": [
+        "NH-31 dhabas/tea stalls",
+        "countryside near Atraulia (NH-233B)"
+      ],
+      "chokepoints": [
+        "NH-31 four-lane works patches",
+        "Azamgarh city office/market hours"
+      ],
+      "wave": 1,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 200,
+      "tollDetail": {
+        "en": "Expect at least the Hauj Fee Plaza on NH-31 (~₹125 for a car), plus any local gate depending on the exact route.",
+        "hi": "NH-31 पर कम-से-कम हौज़ फ़ी प्लाज़ा (कार ~₹125), और मार्ग अनुसार कोई स्थानीय गेट।"
+      },
+      "travelerAngle": {
+        "en": "Demand is students and patients heading to Azamgarh's colleges and hospitals, plus family and hometown visits.",
+        "hi": "माँग — आज़मगढ़ के कॉलेज व अस्पताल जाने वाले छात्र-मरीज़, और परिवार/गृहनगर की यात्राएँ।"
+      },
+      "hubs": {
+        "pickup": [
+          "Azamgarh railway station",
+          "Azamgarh bus stand"
+        ],
+        "see": [
+          "local colleges & hospitals",
+          "city market"
+        ]
+      }
+    },
+    {
+      "id": "ballia",
+      "name": "Ballia",
+      "aliases": [
+        "Balia"
+      ],
+      "distanceKm": 143,
+      "distanceKmDisplay": "140-145 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "2-2.5 hr",
+      "driveTimePeak": "3+ hr",
+      "highway": "regional highways via Ghazipur - local SHs",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "6-7 am",
+      "whyVisit": "Hometown/village travel, Ganga-belt visits, small-city business",
+      "stops": [
+        "Ghazipur highway dhabas",
+        "Ganga / Ghagra bridge riverside viewpoints near Ballia"
+      ],
+      "chokepoints": [
+        "Narrow SHs & town sections",
+        "monsoon low-lying stretches"
+      ],
+      "wave": 1,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 200,
+      "tollDetail": {
+        "en": "Cars pay about ₹285 one-way (Kaithi ~₹165 + Kyampur ~₹120); a Purvanchal Expressway variant adds a Kasimabad/Mohammadabad plaza (~₹70) for ~₹355.",
+        "hi": "कारें वन-वे लगभग ₹285 चुकाती हैं (कैथी ~₹165 + क्यामपुर ~₹120); पूर्वांचल एक्सप्रेसवे वाला मार्ग एक कासिमाबाद/मोहम्मदाबाद प्लाज़ा (~₹70) जोड़कर ~₹355।"
+      },
+      "travelerAngle": {
+        "en": "Mostly hometown and village travel, Ganga-belt visits and small-city business. The Ganga and Ghagra bridge approaches near Ballia make good riverside viewpoints.",
+        "hi": "अधिकतर गृहनगर व गाँव की यात्रा, गंगा-पट्टी दर्शन व छोटे-शहर का काम। बलिया के पास गंगा व घाघरा पुल के रास्ते अच्छे नदी-किनारे व्यू देते हैं।"
+      },
+      "hubs": {
+        "pickup": [
+          "Ballia Junction"
+        ],
+        "see": [
+          "Ganga / Ghagra riverfront"
+        ]
+      }
+    },
+    {
+      "id": "vindhyachal",
+      "name": "Vindhyachal",
+      "aliases": [
+        "Vindhyavasini Dham",
+        "Mirzapur Vindhyachal"
+      ],
+      "distanceKm": 70,
+      "distanceKmDisplay": "~70 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "1.5-2 hr",
+      "driveTimePeak": "2-2.5 hr (Navratri)",
+      "highway": "R1: Chunar - Mirzapur (NH-31/135); R2: Ramnagar - Kachhwa (NH-19)",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "5-8 am",
+      "whyVisit": "Maa Vindhyavasini darshan, Navratri yatra, Mirzapur hill & Ganga views",
+      "stops": [
+        "Chunar Fort view & riverside (Chunar Fort Rd)",
+        "Mirzapur Ganga ghats",
+        "Vindhyachal temple hill"
+      ],
+      "chokepoints": [
+        "Chunar-Mirzapur town traffic",
+        "Vindhyachal crowding in Navratri/fairs"
+      ],
+      "wave": 1,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 200,
+      "tollDetail": {
+        "en": "This short hop has little or no NHAI toll for a car (well under ₹100).",
+        "hi": "यह छोटा सफ़र कार के लिए लगभग बिना टोल का है (₹100 से काफ़ी कम)।"
+      },
+      "travelerAngle": {
+        "en": "The trip is for Maa Vindhyavasini darshan, which spikes hard during Navratri; early-morning or late-evening departures beat the temple queues and traffic diversions. Many pair it with Chunar Fort and the Mirzapur Ganga ghats.",
+        "hi": "यात्रा माँ विंध्यवासिनी दर्शन के लिए, जो नवरात्रि में तेज़ी से बढ़ती है; सुबह जल्दी या देर शाम निकलने पर मंदिर की लाइन व ट्रैफ़िक डायवर्ज़न से बचाव। कई लोग इसे चुनार किला व मिर्ज़ापुर गंगा घाट के साथ जोड़ते हैं।"
+      },
+      "hubs": {
+        "pickup": [
+          "Vindhyachal station",
+          "Mirzapur Junction"
+        ],
+        "see": [
+          "Vindhyavasini Temple",
+          "Ashtabhuja Temple",
+          "Kali Khoh"
+        ]
+      }
+    },
+    {
+      "id": "jaunpur",
+      "name": "Jaunpur",
+      "aliases": [
+        "Shahganj side"
+      ],
+      "distanceKm": 50,
+      "distanceKmDisplay": "~50 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "~1.5 hr",
+      "driveTimePeak": "2+ hr",
+      "highway": "Ring Rd -> Babatpur airport rd -> NH-31",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "3-5 pm events / 6-8 am business",
+      "whyVisit": "Colleges/exams, weddings & functions, NH-31 corridor towns",
+      "stops": [
+        "Shahi (Munim Khan) Bridge over the Gomti — historic landmark",
+        "Atala Masjid, Jaunpur",
+        "City eateries near the clock tower"
+      ],
+      "chokepoints": [
+        "NH-31 construction patches",
+        "Jaunpur city at event/market times"
+      ],
+      "wave": 2,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 200,
+      "tollDetail": {
+        "en": "A single plaza — the Hauj Fee Plaza on NH-31 — at about ₹125 for a car one-way.",
+        "hi": "एक ही प्लाज़ा — NH-31 पर हौज़ फ़ी प्लाज़ा — कार के लिए ~₹125 वन-वे।"
+      },
+      "travelerAngle": {
+        "en": "Trips are for colleges and exams, weddings and functions, and NH-31 corridor towns. Jaunpur's historic Shahi (Munim Khan) Bridge over the Gomti and the Atala Masjid are worth a quick stop.",
+        "hi": "यात्राएँ कॉलेज-परीक्षा, शादी-समारोह व NH-31 कॉरिडोर के कस्बों के लिए। गोमती पर जौनपुर का ऐतिहासिक शाही (मुनीम खान) पुल व अटाला मस्जिद एक छोटे ठहराव लायक हैं।"
+      },
+      "hubs": {
+        "pickup": [
+          "Jaunpur Junction",
+          "Jaunpur City station"
+        ],
+        "see": [
+          "Shahi (Munim Khan) Bridge",
+          "Atala Masjid"
+        ]
+      }
+    },
+    {
+      "id": "ghazipur",
+      "name": "Ghazipur",
+      "aliases": [
+        "G'zpur"
+      ],
+      "distanceKm": 78,
+      "distanceKmDisplay": "75-80 km",
+      "distanceFromAirportKm": 82,
+      "driveTimeNormal": "1-2.5 hr",
+      "driveTimePeak": "2-3 hr",
+      "highway": "NH-31 corridor",
+      "tollsNote": "couple of tolls on NH-31",
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "6-9 am",
+      "whyVisit": "Hometown travel, Ganga-side temples, onward Ballia/Gorakhpur belt",
+      "stops": [
+        "NH-31 highway dhabas near Kaithi",
+        "Ghazipur Ganga-side ghats & temples"
+      ],
+      "chokepoints": [
+        "NH-31 junctions & Ghazipur town",
+        "monsoon low-lying sections"
+      ],
+      "wave": 2,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 200,
+      "tollDetail": {
+        "en": "One or two NH-31 plazas (Kaithi, sometimes Kyampur) totalling roughly ₹120–165 for a car.",
+        "hi": "NH-31 पर एक-दो प्लाज़ा (कैथी, कभी क्यामपुर) मिलाकर कार के लिए ~₹120–165।"
+      },
+      "travelerAngle": {
+        "en": "Mostly hometown travel, Ganga-side temple visits and onward trips into the Ballia/Gorakhpur belt.",
+        "hi": "अधिकतर गृहनगर यात्रा, गंगा-किनारे मंदिर दर्शन व आगे बलिया/गोरखपुर पट्टी की यात्राएँ।"
+      },
+      "hubs": {
+        "pickup": [
+          "Ghazipur City station",
+          "Ghazipur Ghat station"
+        ],
+        "see": [
+          "Ganga-side ghats & temples"
+        ]
+      }
+    },
+    {
+      "id": "gorakhpur",
+      "name": "Gorakhpur",
+      "aliases": [
+        "GKP"
+      ],
+      "distanceKm": 275,
+      "distanceKmDisplay": "270-280 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "5-5.5 hr",
+      "driveTimePeak": "6+ hr",
+      "highway": "NH-29 via Ghazipur & Deoria",
+      "tollsNote": "1 toll gate",
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "6:00-6:30 am",
+      "whyVisit": "Gorakhnath Temple, Geeta Press, onward Buddhist circuit (Kushinagar, Lumbini)",
+      "stops": [
+        "Tea / breakfast near Kaithi plaza",
+        "Deoria dhabas (NH-29)",
+        "Gorakhnath Temple & Geeta Press area"
+      ],
+      "chokepoints": [
+        "Small-town stretches NH-29",
+        "Gorakhpur approaches peak/festival"
+      ],
+      "wave": 2,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "tollDetail": {
+        "en": "Cars pay about ₹350–380 one-way across the Kaithi (~₹150–165), Kyampur (~₹120) and Bhitaha (~₹80) plazas.",
+        "hi": "कारें कैथी (~₹150–165), क्यामपुर (~₹120) व भिटहा (~₹80) प्लाज़ा पर वन-वे लगभग ₹350–380 चुकाती हैं।"
+      },
+      "travelerAngle": {
+        "en": "The pull is the Gorakhnath Temple and Geeta Press, plus onward Buddhist-circuit travel to Kushinagar and Lumbini.",
+        "hi": "आकर्षण गोरखनाथ मंदिर व गीता प्रेस है, साथ ही कुशीनगर व लुंबिनी की बौद्ध-सर्किट यात्रा।"
+      },
+      "hubs": {
+        "pickup": [
+          "Gorakhpur Junction",
+          "Gorakhpur Airport"
+        ],
+        "see": [
+          "Gorakhnath Temple",
+          "Geeta Press"
+        ]
+      }
+    },
+    {
+      "id": "bodhgaya",
+      "name": "Bodhgaya",
+      "aliases": [
+        "Bodh Gaya"
+      ],
+      "distanceKm": 262,
+      "distanceKmDisplay": "260-265 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "~6 hr",
+      "driveTimePeak": "6.5-7+ hr",
+      "highway": "NH-19/NH-120 (Gaya route) then Gaya -> Bodhgaya ~13 km",
+      "tollsNote": "4-5 tolls ~Rs 600-750 incl. Bihar entry",
+      "stateTaxApplicable": true,
+      "crossesState": "Bihar (entry tax)",
+      "bestDeparture": "5-7 am",
+      "whyVisit": "Mahabodhi Temple, Bodhi Tree, Great Buddha statue, international monasteries",
+      "stops": [
+        "Sarnath",
+        "Dehri-on-Sone",
+        "Aurangabad",
+        "Mahabodhi complex & Bodhi Tree"
+      ],
+      "chokepoints": [
+        "Bodh Gaya town/temple approaches in Buddhist observances, winter peak"
+      ],
+      "wave": 2,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "tollDetail": {
+        "en": "The NH-19 plazas (Daffi, Mohania, Sasaram, Aurangabad, Dobhi) add up to about ₹400–500 in car tolls one-way.",
+        "hi": "NH-19 के प्लाज़ा (डाफी, मोहनिया, सासाराम, औरंगाबाद, डोभी) मिलाकर कार का वन-वे टोल लगभग ₹400–500।"
+      },
+      "stateTaxDetail": {
+        "en": "Bihar entry + green tax for a car is ~₹200–250 at the border, taking total toll + tax to roughly ₹600–750 one-way.",
+        "hi": "कार के लिए बिहार एंट्री + ग्रीन टैक्स सीमा पर ~₹200–250, यानी कुल टोल + टैक्स ~₹600–750 वन-वे।"
+      },
+      "travelerAngle": {
+        "en": "Bodh Gaya draws Buddhist pilgrims and foreign tourists to the Mahabodhi Temple, Bodhi Tree and international monasteries, peaking in the cool winter (Dec–Feb). Overseas visitors especially value an English-speaking driver, a clean car and a fixed, predictable price.",
+        "hi": "बोधगया महाबोधि मंदिर, बोधि वृक्ष व अंतरराष्ट्रीय मठों के लिए बौद्ध तीर्थयात्रियों व विदेशी पर्यटकों को खींचता है, सर्दियों (दिस–फ़र) में चरम पर। विदेशी यात्री अंग्रेज़ी बोलने वाले ड्राइवर, साफ़ गाड़ी व तय किराए को ख़ास महत्व देते हैं।"
+      },
+      "hubs": {
+        "pickup": [
+          "Gaya Junction (nearest rail)",
+          "Gaya International Airport",
+          "monastery-side hotels"
+        ],
+        "see": [
+          "Mahabodhi Temple",
+          "Bodhi Tree",
+          "international monasteries"
+        ]
+      }
+    },
+    {
+      "id": "patna",
+      "name": "Patna",
+      "aliases": [
+        "Pataliputra"
+      ],
+      "distanceKm": 266,
+      "distanceKmDisplay": "255-278 km (route-dependent)",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "5.5-6.5 hr",
+      "driveTimePeak": "7+ hr",
+      "highway": "GT Rd/NH-922/NH-30/NH-139 via Buxar",
+      "tollsNote": null,
+      "stateTaxApplicable": true,
+      "crossesState": "Bihar (entry tax at bridge/border)",
+      "bestDeparture": "5-7 am",
+      "whyVisit": "Capital-city visits, Gaya/Bodhgaya+Patna circuits, work/exams/medical",
+      "stops": [
+        "GT Road dhabas via Buxar / Ara",
+        "Koilwar bridge over the Sone (photo stop)"
+      ],
+      "chokepoints": [
+        "Bridge approaches near Ara/Koilwar",
+        "Patna entries (Danapur, Gandhi Maidan) rush hr"
+      ],
+      "wave": 2,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "tollDetail": {
+        "en": "Cars cross the Bihar NH plazas (Mohania, Sasaram, Aurangabad belt) for about ₹400–500 in tolls one-way.",
+        "hi": "कारें बिहार के NH प्लाज़ा (मोहनिया, सासाराम, औरंगाबाद पट्टी) पार करती हैं — वन-वे टोल ~₹400–500।"
+      },
+      "stateTaxDetail": {
+        "en": "Bihar entry + green tax for a car is ~₹200–250 at the border, so total toll + tax is roughly ₹600–750 one-way.",
+        "hi": "कार के लिए बिहार एंट्री + ग्रीन टैक्स सीमा पर ~₹200–250, यानी कुल टोल + टैक्स ~₹600–750 वन-वे।"
+      },
+      "travelerAngle": {
+        "en": "Trips are mostly capital-city visits — work, exams, medical — and Gaya/Bodhgaya + Patna circuits. The Koilwar bridge over the Sone is a natural photo and break point.",
+        "hi": "यात्राएँ अधिकतर राजधानी के काम — नौकरी, परीक्षा, इलाज — और गया/बोधगया + पटना सर्किट के लिए। सोन नदी पर कोइलवर पुल स्वाभाविक फ़ोटो व विराम स्थल है।"
+      },
+      "hubs": {
+        "pickup": [
+          "Patna Junction",
+          "Jay Prakash Narayan Airport"
+        ],
+        "see": [
+          "Mahavir Mandir",
+          "Takht Sri Patna Sahib"
+        ]
+      }
+    },
+    {
+      "id": "kushinagar",
+      "name": "Kushinagar",
+      "aliases": [
+        "Kushinagar"
+      ],
+      "distanceKm": 330,
+      "distanceKmDisplay": "325-335 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "6-7 hr",
+      "driveTimePeak": "7+ hr",
+      "highway": "NH-29 to Gorakhpur then ~53 km regional",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "5-6 am",
+      "whyVisit": "Buddhist pilgrimage (Mahaparinirvana Temple, Ramabhar Stupa, monasteries)",
+      "stops": [
+        "Gorakhpur mid-way"
+      ],
+      "chokepoints": [
+        "Gorakhpur approaches",
+        "peak pilgrim season"
+      ],
+      "wave": 3,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "tollDetail": {
+        "en": "Roughly ₹350–500 in car tolls one-way — the Varanasi–Gorakhpur plazas (Kaithi, Kyampur, Bhitaha) plus smaller or no tolls on the Gorakhpur–Kushinagar leg.",
+        "hi": "कार का वन-वे टोल ~₹350–500 — वाराणसी–गोरखपुर प्लाज़ा (कैथी, क्यामपुर, भिटहा) और गोरखपुर–कुशीनगर खंड पर छोटे या शून्य टोल।"
+      },
+      "travelerAngle": {
+        "en": "A Buddhist-circuit trip (Mahaparinirvana Temple, Ramabhar Stupa, monasteries), often combined with Sarnath and Lumbini; foreign pilgrims value a clean vehicle, language support and a fixed itinerary.",
+        "hi": "बौद्ध-सर्किट यात्रा (महापरिनिर्वाण मंदिर, रामाभार स्तूप, मठ), अक्सर सारनाथ व लुंबिनी के साथ; विदेशी तीर्थयात्री साफ़ गाड़ी, भाषा-सहायता व तय कार्यक्रम को महत्व देते हैं।"
+      },
+      "hubs": {
+        "pickup": [
+          "Kushinagar Airport",
+          "Gorakhpur Junction (nearest rail)"
+        ],
+        "see": [
+          "Mahaparinirvana Temple",
+          "Ramabhar Stupa"
+        ]
+      }
+    },
+    {
+      "id": "singrauli",
+      "name": "Singrauli",
+      "aliases": [
+        "Singrauli"
+      ],
+      "distanceKm": 194,
+      "distanceKmDisplay": "~194 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "~5.5 hr",
+      "driveTimePeak": "6+ hr",
+      "highway": "via Mirzapur – Robertsganj – Renukoot (regional highways)",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": "MP (entry permit, commercial)",
+      "bestDeparture": "early am",
+      "whyVisit": "Mining/power-sector work trips",
+      "stops": [
+        "Mirzapur town (tea / food)",
+        "Robertsganj highway eateries",
+        "Renukoot / Rihand belt viewpoints"
+      ],
+      "chokepoints": [
+        "Mining-area truck traffic near Singrauli",
+        "patchy road quality"
+      ],
+      "wave": 3,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "tollDetail": {
+        "en": "This corridor is largely non-expressway, so car tolls are modest — roughly ₹400 across the route at typical national-highway rates.",
+        "hi": "यह कॉरिडोर अधिकतर ग़ैर-एक्सप्रेसवे है, इसलिए कार का टोल कम — सामान्य राष्ट्रीय-राजमार्ग दरों पर पूरे मार्ग में लगभग ₹400।"
+      },
+      "stateTaxDetail": {
+        "en": "There is no separate MP entry tax for a private car — border checkposts mainly tax commercial/goods vehicles.",
+        "hi": "प्राइवेट कार के लिए कोई अलग MP एंट्री टैक्स नहीं — सीमा चेकपोस्ट मुख्यतः कमर्शियल/माल वाहनों पर टैक्स लेते हैं।"
+      },
+      "travelerAngle": {
+        "en": "Demand is mostly mining and power-sector work travel; the route runs via Mirzapur, Robertsganj and Renukoot.",
+        "hi": "माँग अधिकतर माइनिंग व पावर-सेक्टर के काम की यात्रा; मार्ग मिर्ज़ापुर, रॉबर्ट्सगंज व रेणुकूट से होकर।"
+      },
+      "hubs": {
+        "pickup": [
+          "Singrauli railway station",
+          "NCL / NTPC townships"
+        ],
+        "see": [
+          "Rihand Dam",
+          "mining & power townships"
+        ]
+      }
+    },
+    {
+      "id": "sarnath",
+      "name": "Sarnath",
+      "aliases": [
+        "Dhamek Stupa",
+        "Deer Park",
+        "Buddhist site"
+      ],
+      "distanceKm": 12,
+      "distanceKmDisplay": "~10-12 km",
+      "distanceFromAirportKm": 30,
+      "driveTimeNormal": "30-40 min",
+      "driveTimePeak": "45-60 min",
+      "highway": "Ring Road / Ashapur route",
+      "tollsNote": null,
+      "stateTaxApplicable": false,
+      "crossesState": null,
+      "bestDeparture": "morning (site opens ~9 am)",
+      "whyVisit": "Where Buddha gave his first sermon; Dhamek Stupa, Ashoka Pillar, museum, Deer Park",
+      "stops": [
+        "Dhamek Stupa",
+        "Sarnath Archaeological Museum",
+        "Thai/Tibetan temples"
+      ],
+      "chokepoints": [
+        "Ashapur crossing",
+        "Sarnath approach on weekends"
+      ],
+      "minBillKm": 100,
+      "wave": 1,
+      "servesInbound": false,
+      "offersOneWay": true,
+      "localTrip": true
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "gscDate": "2026-07-20",
   "gscMatched": 195,
-  "totalNodes": 555,
+  "totalNodes": 619,
   "footer": {
     "en": [
       {
@@ -169,8 +169,8 @@
             "label": "Kanpur to Varanasi Taxi"
           },
           {
-            "href": "/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi",
-            "label": "Ayodhya to Varanasi Taxi"
+            "href": "/en/city/varanasi/taxi/taxi-service-in-sigra-varanasi",
+            "label": "Reliable Taxi Service in Sigra, Varanasi (Near…"
           }
         ]
       },
@@ -389,12 +389,12 @@
             "label": "काशी गया प्रयाग पिंड दान टूर"
           },
           {
-            "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-            "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026"
-          },
-          {
             "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
             "label": "वाराणसी से गया टूर पैकेज"
+          },
+          {
+            "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
+            "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026"
           }
         ]
       },
@@ -6330,8 +6330,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -6362,8 +6362,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -7029,13 +7029,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
+        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       }
     ],
@@ -7162,8 +7162,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -7706,8 +7706,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -7930,8 +7930,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -8282,8 +8282,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -8954,8 +8954,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
+        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       }
     ],
@@ -9434,8 +9434,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -9466,8 +9466,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -9530,8 +9530,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -9781,13 +9781,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/packages/shradh-pind-daan-package-varanasi",
+        "label": "श्राद्ध व पिंडदान पैकेज वाराणसी 2026",
         "reason": "related"
       }
     ],
@@ -9808,11 +9808,6 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
-        "reason": "related"
-      },
-      {
         "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
         "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
@@ -9820,6 +9815,11 @@
       {
         "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
         "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/packages/shradh-pind-daan-package-varanasi",
+        "label": "श्राद्ध व पिंडदान पैकेज वाराणसी 2026",
         "reason": "related"
       }
     ],
@@ -9845,13 +9845,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
+        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       }
     ],
@@ -9877,13 +9877,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
+        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       }
     ],
@@ -9909,13 +9909,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
+        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       }
     ],
@@ -10010,8 +10010,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -10042,8 +10042,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -10394,8 +10394,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -12183,6 +12183,262 @@
         "reason": "related"
       }
     ],
+    "/en/city/varanasi/taxi/ayodhya-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/azamgarh-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/ballia-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/bodhgaya-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/delhi-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/gaya-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/ghazipur-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/gorakhpur-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
     "/en/city/varanasi/taxi/how-to-reach-tent-city-varanasi": [
       {
         "href": "/en/packages/varanasi-tour-package",
@@ -12247,7 +12503,103 @@
         "reason": "related"
       }
     ],
+    "/en/city/varanasi/taxi/jaunpur-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
     "/en/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/kushinagar-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/lucknow-to-varanasi-taxi-fare": [
       {
         "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
         "label": "Varanasi to Gaya Taxi Service",
@@ -12343,6 +12695,38 @@
         "reason": "related"
       }
     ],
+    "/en/city/varanasi/taxi/mughalsarai-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
     "/en/city/varanasi/taxi/one-way-taxi-varanasi": [
       {
         "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
@@ -12375,7 +12759,103 @@
         "reason": "related"
       }
     ],
+    "/en/city/varanasi/taxi/patna-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/prayagraj-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
     "/en/city/varanasi/taxi/shivala-ghat-taxi-service": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/singrauli-to-varanasi-taxi-fare": [
       {
         "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
         "label": "Varanasi to Gaya Taxi Service",
@@ -13623,6 +14103,198 @@
         "reason": "related"
       }
     ],
+    "/en/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-azamgarh-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-ballia-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-bodhgaya-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-delhi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
     "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service": [
       {
         "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
@@ -13632,6 +14304,262 @@
       {
         "href": "/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi",
         "label": "Varanasi to Kushinagar Taxi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-ghazipur-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-gorakhpur-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-kushinagar-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-lucknow-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-mughalsarai-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-patna-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-prayagraj-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
         "reason": "rescue"
       },
       {
@@ -13684,6 +14612,102 @@
       {
         "href": "/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi",
         "label": "Varanasi Airport to Varanasi Railway Station Taxi…",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-singrauli-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/varanasi-to-vindhyachal-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/city/varanasi/taxi/vindhyachal-to-varanasi-taxi-fare": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "label": "Taxi Service in Varanasi",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+        "label": "Cab from Varanasi to Vindhyachal",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+        "label": "Varanasi Airport to Kashi Vishwanath Temple Taxi…",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi",
+        "label": "Sarnath Temple Varanasi Ticket Price",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi",
+        "label": "Airport Taxi in Varanasi",
         "reason": "related"
       }
     ],
@@ -14066,8 +15090,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
-        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
+        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
+        "label": "वाराणसी से गया टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -15330,6 +16354,262 @@
         "reason": "related"
       }
     ],
+    "/hi/city/varanasi/taxi/ayodhya-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/azamgarh-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/ballia-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/bodhgaya-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/delhi-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/gaya-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/ghazipur-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/gorakhpur-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
     "/hi/city/varanasi/taxi/how-to-reach-tent-city-varanasi": [
       {
         "href": "/hi/17-seater-tempo-traveller-varanasi",
@@ -15394,6 +16674,38 @@
         "reason": "related"
       }
     ],
+    "/hi/city/varanasi/taxi/jaunpur-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
     "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service": [
       {
         "href": "/hi/varanasi-to-prayagraj-taxi",
@@ -15423,6 +16735,70 @@
       {
         "href": "/hi/city/varanasi/taxi/taxi-service-in-sigra-varanasi",
         "label": "सिगरा, वाराणसी में विश्वसनीय टैक्सी सेवा (शास्त्री…",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/kushinagar-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/lucknow-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
         "reason": "related"
       }
     ],
@@ -15490,6 +16866,38 @@
         "reason": "related"
       }
     ],
+    "/hi/city/varanasi/taxi/mughalsarai-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
     "/hi/city/varanasi/taxi/one-way-taxi-varanasi": [
       {
         "href": "/hi/varanasi-to-prayagraj-taxi",
@@ -15522,7 +16930,103 @@
         "reason": "related"
       }
     ],
+    "/hi/city/varanasi/taxi/patna-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/prayagraj-to-varanasi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
     "/hi/city/varanasi/taxi/shivala-ghat-taxi-service": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/singrauli-to-varanasi-taxi-fare": [
       {
         "href": "/hi/varanasi-to-prayagraj-taxi",
         "label": "वाराणसी से प्रयागराज दूरी 2026",
@@ -16770,6 +18274,198 @@
         "reason": "related"
       }
     ],
+    "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-azamgarh-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-ballia-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-bodhgaya-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-delhi-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-gaya-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
     "/hi/city/varanasi/taxi/varanasi-to-gaya-taxi-service": [
       {
         "href": "/hi/varanasi-to-prayagraj-taxi",
@@ -16802,7 +18498,359 @@
         "reason": "related"
       }
     ],
+    "/hi/city/varanasi/taxi/varanasi-to-ghazipur-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-gorakhpur-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-kushinagar-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-lucknow-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-mughalsarai-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-patna-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-prayagraj-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
     "/hi/city/varanasi/taxi/varanasi-to-sarnath-taxi": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-singrauli-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/varanasi-to-vindhyachal-taxi-fare": [
+      {
+        "href": "/hi/varanasi-to-prayagraj-taxi",
+        "label": "वाराणसी से प्रयागराज दूरी 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi",
+        "label": "वाराणसी में 84 घाट नाव टूर",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi",
+        "label": "वाराणसी एयरपोर्ट से तुलसी घाट",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
+        "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "reason": "related"
+      }
+    ],
+    "/hi/city/varanasi/taxi/vindhyachal-to-varanasi-taxi-fare": [
       {
         "href": "/hi/varanasi-to-prayagraj-taxi",
         "label": "वाराणसी से प्रयागराज दूरी 2026",
@@ -17390,7 +19438,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 1,
-      "score": 135
+      "score": 134
     },
     "/en/17-seater-tempo-traveller-varanasi": {
       "lang": "en",
@@ -17438,7 +19486,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 61,
-      "score": 308
+      "score": 307
     },
     "/en/assi-ghat-aarti-timings-2026": {
       "lang": "en",
@@ -17582,7 +19630,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 38
+      "score": 37
     },
     "/en/boat-ride-varanasi": {
       "lang": "en",
@@ -17882,7 +19930,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 16,
-      "score": 103
+      "score": 102
     },
     "/en/is-varanasi-worth-visiting": {
       "lang": "en",
@@ -18038,7 +20086,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 6,
-      "score": 55
+      "score": 54
     },
     "/en/lucknow-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -18110,7 +20158,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 1,
-      "score": 35
+      "score": 34
     },
     "/en/morning-boat-ride-varanasi-price": {
       "lang": "en",
@@ -18254,7 +20302,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/en/ram-rajya-finale-ramnagar-ramlila-oct-7": {
       "lang": "en",
@@ -18338,7 +20386,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 104,
-      "score": 501
+      "score": 500
     },
     "/en/sawan-kashi-vishwanath-crowd-survival-sugam-darshan-2026": {
       "lang": "en",
@@ -18494,7 +20542,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 64
+      "score": 63
     },
     "/en/tempo-traveller-vs-multiple-cars-varanasi": {
       "lang": "en",
@@ -18506,7 +20554,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 64
+      "score": 63
     },
     "/en/tempo-traveller-wedding-varanasi": {
       "lang": "en",
@@ -18566,7 +20614,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 4,
-      "score": 45
+      "score": 44
     },
     "/en/trikon-parikrama-vindhyachal-complete-guide": {
       "lang": "en",
@@ -18578,7 +20626,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 7,
-      "score": 61
+      "score": 60
     },
     "/en/ultimate-guide-ramlila-dussehra-varanasi-2026": {
       "lang": "en",
@@ -18710,7 +20758,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 4,
-      "score": 51
+      "score": 50
     },
     "/en/varanasi-in-february-2026": {
       "lang": "en",
@@ -18782,7 +20830,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 7,
-      "score": 67
+      "score": 66
     },
     "/en/varanasi-scams-to-avoid-2026": {
       "lang": "en",
@@ -19070,7 +21118,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 90
+      "score": 89
     },
     "/en/varanasi-to-vindhyachal-itinerary": {
       "lang": "en",
@@ -19286,7 +21334,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 2,
-      "score": 55
+      "score": 54
     },
     "/en/bus/kashi-rameshwaram-twin-jyotirlinga-yatra": {
       "lang": "en",
@@ -19466,7 +21514,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 34
+      "score": 33
     },
     "/en/services/kashi-vishwanath-rudrabhishek-puja-booking": {
       "lang": "en",
@@ -19502,7 +21550,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 6,
-      "score": 57
+      "score": 56
     },
     "/en/services/kashi-vishwanath-vip-darshan-booking": {
       "lang": "en",
@@ -19526,7 +21574,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 2,
-      "score": 79
+      "score": 78
     },
     "/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi": {
       "lang": "en",
@@ -19610,7 +21658,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 12,
-      "score": 185
+      "score": 184
     },
     "/en/services/dev-deepawali-taxi-booking-varanasi": {
       "lang": "en",
@@ -20006,7 +22054,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 70
+      "score": 69
     },
     "/hi/kashi-vishwanath-shivaratri-crowd-survival-guide": {
       "lang": "hi",
@@ -21170,7 +23218,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 89
+      "score": 88
     },
     "/hi/services/guest-house-hotels-near-assi-ghat-varanasi": {
       "lang": "hi",
@@ -21362,7 +23410,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 4,
-      "score": 147
+      "score": 146
     },
     "/en/city/ayodhya/tour-packages/ayodhya-2-day-tour": {
       "lang": "en",
@@ -21710,7 +23758,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 35
+      "score": 34
     },
     "/en/city/varanasi/events/banaras-lit-fest-2026-taxi-booking": {
       "lang": "en",
@@ -21722,7 +23770,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 2,
-      "score": 94
+      "score": 93
     },
     "/en/city/varanasi/events/banaras-lit-fest-2026-venue-guide-hotels-logistics": {
       "lang": "en",
@@ -21830,7 +23878,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 3,
-      "score": 43
+      "score": 42
     },
     "/en/city/varanasi/events/siberian-birds-winter-events-varanasi": {
       "lang": "en",
@@ -21854,7 +23902,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 2,
-      "score": 33
+      "score": 32
     },
     "/en/city/varanasi/food/varanasi-street-food-guide": {
       "lang": "en",
@@ -21902,7 +23950,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 8,
-      "score": 110
+      "score": 109
     },
     "/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026": {
       "lang": "en",
@@ -21926,7 +23974,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 7,
-      "score": 140
+      "score": 139
     },
     "/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package": {
       "lang": "en",
@@ -21988,6 +24036,102 @@
       "clicks": 1,
       "score": 74
     },
+    "/en/city/varanasi/taxi/ayodhya-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Ayodhya to Varanasi Taxi & Cab Fare 2026 | ~200 km, 4-5 hr | Kashi Taxi",
+      "anchor": "Ayodhya to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/azamgarh-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Azamgarh to Varanasi Taxi & Cab Fare 2026 | ~103 km, ~2 hr | Kashi Taxi",
+      "anchor": "Azamgarh to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/ballia-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Ballia to Varanasi Taxi & Cab Fare 2026 | 140-145 km, 2-2.5 hr | Kashi Taxi",
+      "anchor": "Ballia to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/bodhgaya-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Bodhgaya to Varanasi Taxi & Cab Fare 2026 | 260-265 km, ~6 hr | Kashi Taxi",
+      "anchor": "Bodhgaya to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/delhi-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Delhi to Varanasi Taxi & Cab Fare 2026 | ~859 km, 12.5-13 hr | Kashi Taxi",
+      "anchor": "Delhi to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/gaya-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Gaya to Varanasi Taxi & Cab Fare 2026 | 250-255 km, 5-6 hr | Kashi Taxi",
+      "anchor": "Gaya to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/ghazipur-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Ghazipur to Varanasi Taxi & Cab Fare 2026 | 75-80 km, 1-2.5 hr | Kashi Taxi",
+      "anchor": "Ghazipur to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/gorakhpur-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Gorakhpur to Varanasi Taxi & Cab Fare 2026 | 270-280 km, 5-5.5 hr | Kashi Taxi",
+      "anchor": "Gorakhpur to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/en/city/varanasi/taxi/how-to-reach-tent-city-varanasi": {
       "lang": "en",
       "title": "How to Reach Tent City Varanasi 2026: Airport-to-Boat Step-by-Step Guide",
@@ -22012,6 +24156,18 @@
       "clicks": 1,
       "score": 75
     },
+    "/en/city/varanasi/taxi/jaunpur-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Jaunpur to Varanasi Taxi & Cab Fare 2026 | ~50 km, ~1.5 hr | Kashi Taxi",
+      "anchor": "Jaunpur to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/en/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service": {
       "lang": "en",
       "title": "Kedar Ghat & Harishchandra Ghat Taxi Service (Pilgrims & Seekers)",
@@ -22023,6 +24179,30 @@
       "intent": "info",
       "clicks": 1,
       "score": 78
+    },
+    "/en/city/varanasi/taxi/kushinagar-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Kushinagar to Varanasi Taxi & Cab Fare 2026 | 325-335 km, 6-7 hr | Kashi Taxi",
+      "anchor": "Kushinagar to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/lucknow-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Lucknow to Varanasi Taxi & Cab Fare 2026 | 300-316 km, 5-6 hr | Kashi Taxi",
+      "anchor": "Lucknow to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
     },
     "/en/city/varanasi/taxi/luxury-cab-for-tent-city-varanasi": {
       "lang": "en",
@@ -22048,6 +24228,18 @@
       "clicks": 1,
       "score": 46
     },
+    "/en/city/varanasi/taxi/mughalsarai-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Mughalsarai to Varanasi Taxi & Cab Fare 2026 | 17-18 km, 40-50 min | Kashi Taxi",
+      "anchor": "Mughalsarai to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/en/city/varanasi/taxi/one-way-taxi-varanasi": {
       "lang": "en",
       "title": "One-Way Taxi & Round-Trip Cab Service in Varanasi | Kashi Taxi",
@@ -22060,6 +24252,30 @@
       "clicks": 1,
       "score": 134
     },
+    "/en/city/varanasi/taxi/patna-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Patna to Varanasi Taxi & Cab Fare 2026 | 255-278 km (route-dependent), 5.5-6.5 hr | Kashi Taxi",
+      "anchor": "Patna to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/prayagraj-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Prayagraj to Varanasi Taxi & Cab Fare 2026 | 120-125 km, 2.5-3 hr | Kashi Taxi",
+      "anchor": "Prayagraj to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/en/city/varanasi/taxi/shivala-ghat-taxi-service": {
       "lang": "en",
       "title": "Taxi Service near Shivala Ghat (Hotel Hub & Quiet Retreat)",
@@ -22071,6 +24287,18 @@
       "intent": "info",
       "clicks": 1,
       "score": 75
+    },
+    "/en/city/varanasi/taxi/singrauli-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Singrauli to Varanasi Taxi & Cab Fare 2026 | ~194 km, ~5.5 hr | Kashi Taxi",
+      "anchor": "Singrauli to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
     },
     "/en/city/varanasi/taxi/staying-at-taj-ganges-need-taxi": {
       "lang": "en",
@@ -22528,6 +24756,78 @@
       "clicks": 2,
       "score": 143
     },
+    "/en/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Ayodhya Taxi & Cab Fare 2026 | ~200 km, 4-5 hr | Kashi Taxi",
+      "anchor": "Varanasi to Ayodhya Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-azamgarh-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Azamgarh Taxi & Cab Fare 2026 | ~103 km, ~2 hr | Kashi Taxi",
+      "anchor": "Varanasi to Azamgarh Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-ballia-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Ballia Taxi & Cab Fare 2026 | 140-145 km, 2-2.5 hr | Kashi Taxi",
+      "anchor": "Varanasi to Ballia Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-bodhgaya-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Bodhgaya Taxi & Cab Fare 2026 | 260-265 km, ~6 hr | Kashi Taxi",
+      "anchor": "Varanasi to Bodhgaya Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-delhi-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Delhi Taxi & Cab Fare 2026 | ~859 km, 12.5-13 hr | Kashi Taxi",
+      "anchor": "Varanasi to Delhi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Gaya Taxi & Cab Fare 2026 | 250-255 km, 5-6 hr | Kashi Taxi",
+      "anchor": "Varanasi to Gaya Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service": {
       "lang": "en",
       "title": "Varanasi to Gaya Taxi Service: Door-to-Door vs Station Struggle (2026)",
@@ -22540,6 +24840,102 @@
       "clicks": 1,
       "score": 167
     },
+    "/en/city/varanasi/taxi/varanasi-to-ghazipur-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Ghazipur Taxi & Cab Fare 2026 | 75-80 km, 1-2.5 hr | Kashi Taxi",
+      "anchor": "Varanasi to Ghazipur Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-gorakhpur-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Gorakhpur Taxi & Cab Fare 2026 | 270-280 km, 5-5.5 hr | Kashi Taxi",
+      "anchor": "Varanasi to Gorakhpur Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Jaunpur Taxi & Cab Fare 2026 | ~50 km, ~1.5 hr | Kashi Taxi",
+      "anchor": "Varanasi to Jaunpur Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-kushinagar-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Kushinagar Taxi & Cab Fare 2026 | 325-335 km, 6-7 hr | Kashi Taxi",
+      "anchor": "Varanasi to Kushinagar Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-lucknow-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Lucknow Taxi & Cab Fare 2026 | 300-316 km, 5-6 hr | Kashi Taxi",
+      "anchor": "Varanasi to Lucknow Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-mughalsarai-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Mughalsarai Taxi & Cab Fare 2026 | 17-18 km, 40-50 min | Kashi Taxi",
+      "anchor": "Varanasi to Mughalsarai Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-patna-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Patna Taxi & Cab Fare 2026 | 255-278 km (route-dependent), 5.5-6.5 hr | Kashi Taxi",
+      "anchor": "Varanasi to Patna Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-prayagraj-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Prayagraj Taxi & Cab Fare 2026 | 120-125 km, 2.5-3 hr | Kashi Taxi",
+      "anchor": "Varanasi to Prayagraj Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/en/city/varanasi/taxi/varanasi-to-sarnath-taxi": {
       "lang": "en",
       "title": "Varanasi to Sarnath Taxi | Distance, Cost & Best Service Guide 2026 | Kashi Taxi",
@@ -22551,6 +24947,42 @@
       "intent": "info",
       "clicks": 42,
       "score": 263
+    },
+    "/en/city/varanasi/taxi/varanasi-to-singrauli-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Singrauli Taxi & Cab Fare 2026 | ~194 km, ~5.5 hr | Kashi Taxi",
+      "anchor": "Varanasi to Singrauli Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/varanasi-to-vindhyachal-taxi-fare": {
+      "lang": "en",
+      "title": "Varanasi to Vindhyachal Taxi & Cab Fare 2026 | ~70 km, 1.5-2 hr | Kashi Taxi",
+      "anchor": "Varanasi to Vindhyachal Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/en/city/varanasi/taxi/vindhyachal-to-varanasi-taxi-fare": {
+      "lang": "en",
+      "title": "Vindhyachal to Varanasi Taxi & Cab Fare 2026 | ~70 km, 1.5-2 hr | Kashi Taxi",
+      "anchor": "Vindhyachal to Varanasi Taxi & Cab Fare 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
     },
     "/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi": {
       "lang": "en",
@@ -22610,7 +25042,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 67
+      "score": 66
     },
     "/en/city/varanasi/tour-packages/varanasi-2-day-tour": {
       "lang": "en",
@@ -22622,7 +25054,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 67
+      "score": 66
     },
     "/en/city/varanasi/tour-packages/varanasi-3-day-tour": {
       "lang": "en",
@@ -22634,7 +25066,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 67
+      "score": 66
     },
     "/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly": {
       "lang": "en",
@@ -23018,7 +25450,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 2,
-      "score": 97
+      "score": 96
     },
     "/hi/city/varanasi/activities/sunrise-yoga-varanasi-2026": {
       "lang": "hi",
@@ -23162,7 +25594,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 3,
-      "score": 54
+      "score": 53
     },
     "/hi/city/varanasi/sightseeing/varanasi-local-sightseeing-package": {
       "lang": "hi",
@@ -23224,6 +25656,102 @@
       "clicks": 0,
       "score": 70
     },
+    "/hi/city/varanasi/taxi/ayodhya-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Ayodhya से वाराणसी टैक्सी व कैब किराया 2026 | ~200 km, 4-5 hr | Kashi Taxi",
+      "anchor": "Ayodhya से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/azamgarh-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Azamgarh से वाराणसी टैक्सी व कैब किराया 2026 | ~103 km, ~2 hr | Kashi Taxi",
+      "anchor": "Azamgarh से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/ballia-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Ballia से वाराणसी टैक्सी व कैब किराया 2026 | 140-145 km, 2-2.5 hr | Kashi Taxi",
+      "anchor": "Ballia से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/bodhgaya-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Bodhgaya से वाराणसी टैक्सी व कैब किराया 2026 | 260-265 km, ~6 hr | Kashi Taxi",
+      "anchor": "Bodhgaya से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/delhi-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Delhi से वाराणसी टैक्सी व कैब किराया 2026 | ~859 km, 12.5-13 hr | Kashi Taxi",
+      "anchor": "Delhi से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/gaya-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Gaya से वाराणसी टैक्सी व कैब किराया 2026 | 250-255 km, 5-6 hr | Kashi Taxi",
+      "anchor": "Gaya से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/ghazipur-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Ghazipur से वाराणसी टैक्सी व कैब किराया 2026 | 75-80 km, 1-2.5 hr | Kashi Taxi",
+      "anchor": "Ghazipur से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/gorakhpur-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Gorakhpur से वाराणसी टैक्सी व कैब किराया 2026 | 270-280 km, 5-5.5 hr | Kashi Taxi",
+      "anchor": "Gorakhpur से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/hi/city/varanasi/taxi/how-to-reach-tent-city-varanasi": {
       "lang": "hi",
       "title": "टेंट सिटी वाराणसी कैसे पहुँचें 2026: एयरपोर्ट से बोट तक स्टेप-बाय-स्टेप गाइड",
@@ -23248,6 +25776,18 @@
       "clicks": 0,
       "score": 70
     },
+    "/hi/city/varanasi/taxi/jaunpur-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Jaunpur से वाराणसी टैक्सी व कैब किराया 2026 | ~50 km, ~1.5 hr | Kashi Taxi",
+      "anchor": "Jaunpur से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service": {
       "lang": "hi",
       "title": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा (तीर्थयात्री और साधक)",
@@ -23259,6 +25799,30 @@
       "intent": "other",
       "clicks": 1,
       "score": 74
+    },
+    "/hi/city/varanasi/taxi/kushinagar-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Kushinagar से वाराणसी टैक्सी व कैब किराया 2026 | 325-335 km, 6-7 hr | Kashi Taxi",
+      "anchor": "Kushinagar से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/lucknow-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Lucknow से वाराणसी टैक्सी व कैब किराया 2026 | 300-316 km, 5-6 hr | Kashi Taxi",
+      "anchor": "Lucknow से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
     },
     "/hi/city/varanasi/taxi/luxury-cab-for-tent-city-varanasi": {
       "lang": "hi",
@@ -23284,6 +25848,18 @@
       "clicks": 0,
       "score": 30
     },
+    "/hi/city/varanasi/taxi/mughalsarai-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Mughalsarai से वाराणसी टैक्सी व कैब किराया 2026 | 17-18 km, 40-50 min | Kashi Taxi",
+      "anchor": "Mughalsarai से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/hi/city/varanasi/taxi/one-way-taxi-varanasi": {
       "lang": "hi",
       "title": "वाराणसी में One-Way Taxi और Round-Trip Cab Service | Kashi Taxi",
@@ -23296,10 +25872,46 @@
       "clicks": 0,
       "score": 70
     },
+    "/hi/city/varanasi/taxi/patna-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Patna से वाराणसी टैक्सी व कैब किराया 2026 | 255-278 km (route-dependent), 5.5-6.5 hr | Kashi Taxi",
+      "anchor": "Patna से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/prayagraj-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Prayagraj से वाराणसी टैक्सी व कैब किराया 2026 | 120-125 km, 2.5-3 hr | Kashi Taxi",
+      "anchor": "Prayagraj से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/hi/city/varanasi/taxi/shivala-ghat-taxi-service": {
       "lang": "hi",
       "title": "शिवाला घाट टैक्सी सेवा (होटल हब और शांत ठहराव)",
       "anchor": "शिवाला घाट टैक्सी सेवा (होटल हब और शांत ठहराव)",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/singrauli-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Singrauli से वाराणसी टैक्सी व कैब किराया 2026 | ~194 km, ~5.5 hr | Kashi Taxi",
+      "anchor": "Singrauli से वाराणसी टैक्सी व कैब किराया 2026",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": "varanasi",
@@ -23702,7 +26314,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 0,
-      "score": 151
+      "score": 150
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-taxi": {
       "lang": "hi",
@@ -23764,10 +26376,178 @@
       "clicks": 0,
       "score": 66
     },
+    "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026 | ~200 km, 4-5 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-azamgarh-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Azamgarh टैक्सी व कैब किराया 2026 | ~103 km, ~2 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Azamgarh टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-ballia-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Ballia टैक्सी व कैब किराया 2026 | 140-145 km, 2-2.5 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Ballia टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-bodhgaya-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Bodhgaya टैक्सी व कैब किराया 2026 | 260-265 km, ~6 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Bodhgaya टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-delhi-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Delhi टैक्सी व कैब किराया 2026 | ~859 km, 12.5-13 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Delhi टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-gaya-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Gaya टैक्सी व कैब किराया 2026 | 250-255 km, 5-6 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Gaya टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
     "/hi/city/varanasi/taxi/varanasi-to-gaya-taxi-service": {
       "lang": "hi",
       "title": "वाराणसी से गया टैक्सी सेवा: डोर-टू-डोर बनाम स्टेशन की झंझट (2026)",
       "anchor": "वाराणसी से गया टैक्सी सेवा",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-ghazipur-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Ghazipur टैक्सी व कैब किराया 2026 | 75-80 km, 1-2.5 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Ghazipur टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-gorakhpur-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Gorakhpur टैक्सी व कैब किराया 2026 | 270-280 km, 5-5.5 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Gorakhpur टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026 | ~50 km, ~1.5 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-kushinagar-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Kushinagar टैक्सी व कैब किराया 2026 | 325-335 km, 6-7 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Kushinagar टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-lucknow-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Lucknow टैक्सी व कैब किराया 2026 | 300-316 km, 5-6 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Lucknow टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-mughalsarai-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Mughalsarai टैक्सी व कैब किराया 2026 | 17-18 km, 40-50 min | Kashi Taxi",
+      "anchor": "वाराणसी से Mughalsarai टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-patna-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Patna टैक्सी व कैब किराया 2026 | 255-278 km (route-dependent), 5.5-6.5 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Patna टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-prayagraj-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Prayagraj टैक्सी व कैब किराया 2026 | 120-125 km, 2.5-3 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Prayagraj टैक्सी व कैब किराया 2026",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": "varanasi",
@@ -23787,6 +26567,42 @@
       "intent": "other",
       "clicks": 1,
       "score": 69
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-singrauli-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Singrauli टैक्सी व कैब किराया 2026 | ~194 km, ~5.5 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Singrauli टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/varanasi-to-vindhyachal-taxi-fare": {
+      "lang": "hi",
+      "title": "वाराणसी से Vindhyachal टैक्सी व कैब किराया 2026 | ~70 km, 1.5-2 hr | Kashi Taxi",
+      "anchor": "वाराणसी से Vindhyachal टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
+    },
+    "/hi/city/varanasi/taxi/vindhyachal-to-varanasi-taxi-fare": {
+      "lang": "hi",
+      "title": "Vindhyachal से वाराणसी टैक्सी व कैब किराया 2026 | ~70 km, 1.5-2 hr | Kashi Taxi",
+      "anchor": "Vindhyachal से वाराणसी टैक्सी व कैब किराया 2026",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": "varanasi",
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "score": 70
     },
     "/hi/city/varanasi/taxi/wedding-tempo-traveller-varanasi": {
       "lang": "hi",
