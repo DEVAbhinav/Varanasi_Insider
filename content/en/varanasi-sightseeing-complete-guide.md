@@ -600,7 +600,7 @@ Unlike any other temple in India, **Bharat Mata Temple** is dedicated to Mother 
 
 **Best Time to Visit**: 11:00 AM - 4:00 PM. The fort looks stunning during the Dussehra festival when the famous **Ramnagar Ramlila** (month-long theatrical performance of the Ramayana) takes place.
 
-> Festival guides: **[Ultimate Guide Ramlila Dussehra Varanasi 2026](/en/ultimate-guide-ramlila-dussehra-varanasi-2026)**, **[Ramnagar Ramlila Moving Stages Guide](/en/ramnagar-ramlila-moving-stages-guide)**, **[Ram Rajya Finale Ramnagar Ramlila](/en/ram-rajya-finale-ramnagar-ramlila-oct-7)**, **[Dussehra Ravana Dahan Varanasi](/en/dussehra-ravana-dahan-varanasi-oct-2)**, and **[Bharat Milap Nati Imli](/en/bharat-milap-nati-imli-oct-3)** for festival-specific transport.
+> Festival guides: **[Ultimate Guide Ramlila Dussehra Varanasi 2026](/en/ultimate-guide-ramlila-dussehra-varanasi-2026)**, **[Ramnagar Ramlila Moving Stages Guide](/en/ramnagar-ramlila-moving-stages-guide)**, **[Ram Rajya Finale Ramnagar Ramlila](/en/ram-rajya-finale-ramnagar-ramlila)**, **[Dussehra Ravana Dahan Varanasi](/en/dussehra-ravana-dahan-varanasi)**, and **[Bharat Milap Nati Imli](/en/bharat-milap-nati-imli)** for festival-specific transport.
 > **Specialized Itineraries:** Traveling with a group? Check our **[Varanasi with Friends Guide](/en/varanasi-with-friends-plan)**. Bringing elderly parents? See our **[Family Tour Itinerary](/en/family-tour-varanasi-3-days-parents)**.
 
 ---

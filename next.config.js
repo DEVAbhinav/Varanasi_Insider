@@ -249,6 +249,21 @@ const nextConfig = {
       },
       // Duplicate Consolidations (2026-02-23)
       {
+        source: '/en/dussehra-ravana-dahan-varanasi-oct-2',
+        destination: '/en/dussehra-ravana-dahan-varanasi',
+        permanent: true,
+      },
+      {
+        source: '/en/bharat-milap-nati-imli-oct-3',
+        destination: '/en/bharat-milap-nati-imli',
+        permanent: true,
+      },
+      {
+        source: '/en/ram-rajya-finale-ramnagar-ramlila-oct-7',
+        destination: '/en/ram-rajya-finale-ramnagar-ramlila',
+        permanent: true,
+      },
+      {
         source: '/en/taxi-service-varanasi',
         destination: '/en/city/varanasi/taxi/taxi-service-varanasi',
         permanent: true,

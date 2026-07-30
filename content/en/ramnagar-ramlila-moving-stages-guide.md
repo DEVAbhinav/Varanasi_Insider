@@ -26,8 +26,8 @@ tags:
 keywords: ["Ramnagar Ramlila moving stages","UNESCO Ramlila performance locations","moving stage concept Varanasi","Ramnagar Ramlila venue guide","Ramlila episode locations 2026","Varanasi Ramayana performance","Ramnagar Ramlila transport","moving stages navigation","UNESCO heritage Ramlila guide","Ramlila location map Ramnagar","Ramnagar Ramlila venues schedule","moving stages concept guide","Ramlila performance locations map","UNESCO heritage moving stages","Ramnagar Ramlila location guide"]
 relatedPosts:
   - ultimate-guide-ramlila-dussehra-varanasi-2026
-  - bharat-milap-nati-imli-oct-3
-  - dussehra-ravana-dahan-varanasi-oct-2
+  - bharat-milap-nati-imli
+  - dussehra-ravana-dahan-varanasi
   - tempo-traveller-group-booking-dussehra
   - book-taxi-varanasi-ramlila-dussehra
 ---
@@ -59,10 +59,10 @@ This 200-year-old tradition creates an immersive experience where the boundary b
 
 | Location | Represents | Key Episodes | Performance Dates 2026 | Significance |
 |----------|------------|--------------|------------------------|--------------|
-| **Ramnagar Fort Courtyard** | Ayodhya Palace | Rama's coronation, royal scenes | Oct 7 (Final), Sep 6 (Opening) | Main royal venue |
-| **Nati Imli Area** | Royal meeting ground | [Bharat Milap (reunion)](/en/bharat-milap-nati-imli-oct-3) | **Oct 3** | Most grandiose episode |
+| **Ramnagar Fort Courtyard** | Ayodhya Palace | Rama's coronation, royal scenes | Oct 25 (Final), Sep 25 (Opening) | Main royal venue |
+| **Nati Imli Area** | Royal meeting ground | [Bharat Milap (reunion)](/en/bharat-milap-nati-imli) | **Oct 21** | Most grandiose episode |
 | **Durga Temple Grounds** | Chitrakoot (forest exile) | Exile scenes, hermitage life | Sep 15-20 | Forest hermitage |
-| **Lanka Area (Southern Ramnagar)** | Ravana's Kingdom | War scenes, Lanka Dahan | Sep 25 - Oct 2 | Battle sequences |
+| **Lanka Area (Southern Ramnagar)** | Ravana's Kingdom | War scenes, Lanka Dahan | Oct 10 - Oct 20 | Battle sequences |
 | **Ashok Vatika Gardens** | Sita's captivity | Hanuman meets Sita | Sep 28-30 | Garden scenes |
 
 ### Secondary Ramlila Locations
@@ -184,9 +184,9 @@ Ramnagar town is roughly **2 km x 1.5 km** with performance locations spread acr
 
 ---
 
-## Episode Schedule & Location Guide (Sept 6 - Oct 7, 2026)
+## Episode Schedule & Location Guide (Sept 25 - Oct 25, 2026)
 
-### Week 1 (Sep 6-12): Foundation Episodes
+### Week 1 (Sep 25-Oct 1): Foundation Episodes
 - **Fort Courtyard:** Opening ceremonies, royal court scenes
 - **Palace areas:** Rama's early life, marriage preparations
 
@@ -198,13 +198,13 @@ Ramnagar town is roughly **2 km x 1.5 km** with performance locations spread acr
 - **Garden areas:** Ashok Vatika scenes
 - **Lanka areas:** Ravana's court, war preparations
 
-### Week 4 (Sep 27 - Oct 3): War & Victory
+### Week 4 (Oct 16 - Oct 22): War & Victory
 - **Battle grounds:** War sequences across multiple locations
-- **Oct 2:** Ravana Vadh (final battle)
-- **Oct 3:** **Bharat Milap at Nati Imli** (most popular episode)
+- **Oct 20:** Ravana Vadh (final battle)
+- **Oct 21:** **Bharat Milap at Nati Imli** (most popular episode)
 
 ### Week 5 (Oct 4-7): Resolution
-- **Oct 7:** Ram Rajya at Fort (grand finale)
+- **Oct 25:** Ram Rajya at Fort (grand finale)
 
 ---
 
@@ -269,7 +269,7 @@ A: Common problem for first-time visitors. Our drivers prevent this by confirmin
 A: Typically 1-2 km total per evening, spread over 3-4 hours. Most is manageable, but having transport backup for longer distances helps elderly or families with children.
 
 **Q: Can I follow the entire Ramlila cycle?**  
-A: Yes, but it requires 31 days of commitment. Most visitors focus on key episodes like Bharat Milap (Oct 3) or the finale (Oct 7). We can arrange multi-day packages.
+A: Yes, but it requires 31 days of commitment. Most visitors focus on key episodes like Bharat Milap (Oct 21) or the finale (Oct 25). We can arrange multi-day packages.
 
 **Q: Is the moving stage concept difficult to understand?**  
 A: Initially yes, but once you experience it, it becomes magical. The journey between locations is part of the spiritual experience - you're literally following the gods on their journey.
@@ -279,7 +279,7 @@ A: Initially yes, but once you experience it, it becomes magical. The journey be
 ## Related Ramlila Resources
 
 - [Ultimate Guide to Ramlila & Dussehra Varanasi 2026](/en/ultimate-guide-ramlila-dussehra-varanasi-2026)
-- [Bharat Milap at Nati Imli Guide](/en/bharat-milap-nati-imli-oct-3)
+- [Bharat Milap at Nati Imli Guide](/en/bharat-milap-nati-imli)
 - [Tempo Traveller for Festival Groups](/en/tempo-traveller-group-booking-dussehra)
 - [Complete Festival Transport Booking](/en/book-taxi-varanasi-ramlila-dussehra)
 

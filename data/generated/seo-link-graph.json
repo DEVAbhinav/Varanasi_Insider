@@ -1,6 +1,6 @@
 {
   "gscDate": "2026-07-20",
-  "gscMatched": 195,
+  "gscMatched": 193,
   "totalNodes": 619,
   "footer": {
     "en": [
@@ -169,8 +169,8 @@
             "label": "Kanpur to Varanasi Taxi"
           },
           {
-            "href": "/en/city/varanasi/taxi/taxi-service-in-sigra-varanasi",
-            "label": "Reliable Taxi Service in Sigra, Varanasi (Near…"
+            "href": "/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi",
+            "label": "Ayodhya to Varanasi Taxi"
           }
         ]
       },
@@ -385,16 +385,16 @@
             "label": "वाराणसी सेम-डे टूर पैकेज"
           },
           {
+            "href": "/hi/banaras-tour-package",
+            "label": "बनारस टूर पैकेज"
+          },
+          {
             "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
             "label": "काशी गया प्रयाग पिंड दान टूर"
           },
           {
-            "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-            "label": "वाराणसी से गया टूर पैकेज"
-          },
-          {
-            "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
-            "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026"
+            "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
+            "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026"
           }
         ]
       },
@@ -1151,7 +1151,7 @@
         "reason": "related"
       }
     ],
-    "/en/bharat-milap-nati-imli-oct-3": [
+    "/en/bharat-milap-nati-imli": [
       {
         "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
         "label": "Taxi Service in Varanasi",
@@ -1471,7 +1471,7 @@
         "reason": "related"
       }
     ],
-    "/en/dussehra-ravana-dahan-varanasi-oct-2": [
+    "/en/dussehra-ravana-dahan-varanasi": [
       {
         "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
         "label": "Taxi Service in Varanasi",
@@ -2687,7 +2687,7 @@
         "reason": "related"
       }
     ],
-    "/en/ram-rajya-finale-ramnagar-ramlila-oct-7": [
+    "/en/ram-rajya-finale-ramnagar-ramlila": [
       {
         "href": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
         "label": "Taxi Service in Varanasi",
@@ -6325,13 +6325,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -6362,8 +6362,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
+        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
         "reason": "related"
       }
     ],
@@ -7029,13 +7029,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
-        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
+        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
         "reason": "related"
       }
     ],
@@ -7056,18 +7056,18 @@
         "reason": "related"
       },
       {
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
         "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
-        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/kasi-tour-package",
+        "label": "काशी टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -7157,13 +7157,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -7701,13 +7701,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -7925,13 +7925,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -8277,13 +8277,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -8949,13 +8949,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
-        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -9429,13 +9429,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -9461,13 +9461,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -9488,13 +9488,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-vindhyachal",
-        "label": "विंध्याचल में कहां ठहरें",
+        "href": "/hi/where-to-stay-in-varanasi",
+        "label": "वाराणसी में कहाँ ठहरें",
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-varanasi",
-        "label": "वाराणसी में कहाँ ठहरें",
+        "href": "/hi/where-to-stay-in-vindhyachal",
+        "label": "विंध्याचल में कहां ठहरें",
         "reason": "related"
       },
       {
@@ -9525,13 +9525,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -9776,18 +9776,18 @@
         "reason": "related"
       },
       {
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
         "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/packages/shradh-pind-daan-package-varanasi",
-        "label": "श्राद्ध व पिंडदान पैकेज वाराणसी 2026",
+        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
+        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
         "reason": "related"
       }
     ],
@@ -9803,23 +9803,23 @@
         "reason": "related"
       },
       {
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
         "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
+        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
-        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/packages/shradh-pind-daan-package-varanasi",
-        "label": "श्राद्ध व पिंडदान पैकेज वाराणसी 2026",
+        "href": "/hi/kasi-tour-package",
+        "label": "काशी टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -9840,18 +9840,18 @@
         "reason": "related"
       },
       {
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
         "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
-        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
+        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
         "reason": "related"
       }
     ],
@@ -9872,18 +9872,18 @@
         "reason": "related"
       },
       {
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
         "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
-        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
+        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
         "reason": "related"
       }
     ],
@@ -9904,18 +9904,18 @@
         "reason": "related"
       },
       {
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
         "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/packages/lolark-shashti-darshan-package-varanasi",
-        "label": "लोलार्क षष्ठी दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/kashi-vishwanath-darshan-ganga-aarti-package",
+        "label": "काशी विश्वनाथ दर्शन + गंगा आरती पैकेज 2026",
         "reason": "related"
       }
     ],
@@ -9931,13 +9931,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-vindhyachal",
-        "label": "विंध्याचल में कहां ठहरें",
+        "href": "/hi/where-to-stay-in-varanasi",
+        "label": "वाराणसी में कहाँ ठहरें",
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-varanasi",
-        "label": "वाराणसी में कहाँ ठहरें",
+        "href": "/hi/where-to-stay-in-vindhyachal",
+        "label": "विंध्याचल में कहां ठहरें",
         "reason": "related"
       },
       {
@@ -9958,13 +9958,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-vindhyachal",
-        "label": "विंध्याचल में कहां ठहरें",
+        "href": "/hi/where-to-stay-in-varanasi",
+        "label": "वाराणसी में कहाँ ठहरें",
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-varanasi",
-        "label": "वाराणसी में कहाँ ठहरें",
+        "href": "/hi/where-to-stay-in-vindhyachal",
+        "label": "विंध्याचल में कहां ठहरें",
         "reason": "related"
       },
       {
@@ -10005,13 +10005,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -10037,13 +10037,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -10054,13 +10054,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-vindhyachal",
-        "label": "विंध्याचल में कहां ठहरें",
+        "href": "/hi/where-to-stay-in-varanasi",
+        "label": "वाराणसी में कहाँ ठहरें",
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-varanasi",
-        "label": "वाराणसी में कहाँ ठहरें",
+        "href": "/hi/where-to-stay-in-vindhyachal",
+        "label": "विंध्याचल में कहां ठहरें",
         "reason": "related"
       },
       {
@@ -10096,13 +10096,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-vindhyachal",
-        "label": "विंध्याचल में कहां ठहरें",
+        "href": "/hi/where-to-stay-in-varanasi",
+        "label": "वाराणसी में कहाँ ठहरें",
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-varanasi",
-        "label": "वाराणसी में कहाँ ठहरें",
+        "href": "/hi/where-to-stay-in-vindhyachal",
+        "label": "विंध्याचल में कहां ठहरें",
         "reason": "related"
       },
       {
@@ -10123,13 +10123,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-vindhyachal",
-        "label": "विंध्याचल में कहां ठहरें",
+        "href": "/hi/where-to-stay-in-varanasi",
+        "label": "वाराणसी में कहाँ ठहरें",
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-varanasi",
-        "label": "वाराणसी में कहाँ ठहरें",
+        "href": "/hi/where-to-stay-in-vindhyachal",
+        "label": "विंध्याचल में कहां ठहरें",
         "reason": "related"
       },
       {
@@ -10155,13 +10155,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-vindhyachal",
-        "label": "विंध्याचल में कहां ठहरें",
+        "href": "/hi/where-to-stay-in-varanasi",
+        "label": "वाराणसी में कहाँ ठहरें",
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-varanasi",
-        "label": "वाराणसी में कहाँ ठहरें",
+        "href": "/hi/where-to-stay-in-vindhyachal",
+        "label": "विंध्याचल में कहां ठहरें",
         "reason": "related"
       },
       {
@@ -10389,13 +10389,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -10411,13 +10411,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-vindhyachal",
-        "label": "विंध्याचल में कहां ठहरें",
+        "href": "/hi/where-to-stay-in-varanasi",
+        "label": "वाराणसी में कहाँ ठहरें",
         "reason": "related"
       },
       {
-        "href": "/hi/where-to-stay-in-varanasi",
-        "label": "वाराणसी में कहाँ ठहरें",
+        "href": "/hi/where-to-stay-in-vindhyachal",
+        "label": "विंध्याचल में कहां ठहरें",
         "reason": "related"
       },
       {
@@ -10458,8 +10458,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -15085,13 +15085,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
-        "label": "काशी गया प्रयाग पिंड दान टूर",
+        "href": "/hi/banaras-tour-package",
+        "label": "बनारस टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-bodh-gaya-tour-package",
-        "label": "वाराणसी से गया टूर पैकेज",
+        "href": "/hi/kashi-gaya-prayag-pind-daan-tour",
+        "label": "काशी गया प्रयाग पिंड दान टूर",
         "reason": "related"
       }
     ],
@@ -15762,8 +15762,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम 4.0 (दिसंबर 2026)",
+        "href": "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
+        "label": "कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026",
         "reason": "related"
       }
     ],
@@ -15789,13 +15789,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम 4.0 (दिसंबर 2026)",
+        "href": "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
+        "label": "कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/events/mahindra-kabira-festival-2026-varanasi",
-        "label": "महिंद्रा कबीर उत्सव 2026 वाराणसी",
+        "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
+        "label": "काशी तमिल संगमम 4.0 (दिसंबर 2026)",
         "reason": "related"
       }
     ],
@@ -15821,13 +15821,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम 4.0 (दिसंबर 2026)",
+        "href": "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
+        "label": "कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/events/mahindra-kabira-festival-2026-varanasi",
-        "label": "महिंद्रा कबीर उत्सव 2026 वाराणसी",
+        "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
+        "label": "काशी तमिल संगमम 4.0 (दिसंबर 2026)",
         "reason": "related"
       }
     ],
@@ -16013,13 +16013,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/events/mahindra-kabira-festival-2026-varanasi",
-        "label": "महिंद्रा कबीर उत्सव 2026 वाराणसी",
+        "href": "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
+        "label": "कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
-        "label": "कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026",
+        "href": "/hi/city/varanasi/events/mahindra-kabira-festival-2026-varanasi",
+        "label": "महिंद्रा कबीर उत्सव 2026 वाराणसी",
         "reason": "related"
       }
     ],
@@ -16045,13 +16045,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम 4.0 (दिसंबर 2026)",
+        "href": "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
+        "label": "कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
-        "label": "कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026",
+        "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
+        "label": "काशी तमिल संगमम 4.0 (दिसंबर 2026)",
         "reason": "related"
       }
     ],
@@ -16072,6 +16072,11 @@
         "reason": "rescue"
       },
       {
+        "href": "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
+        "label": "कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026",
+        "reason": "related"
+      },
+      {
         "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
         "label": "काशी तमिल संगमम 4.0 (दिसंबर 2026)",
         "reason": "related"
@@ -16079,11 +16084,6 @@
       {
         "href": "/hi/city/varanasi/events/mahindra-kabira-festival-2026-varanasi",
         "label": "महिंद्रा कबीर उत्सव 2026 वाराणसी",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026",
-        "label": "कार्तिक पूर्णिमा गंगा स्नान वाराणसी 2026",
         "reason": "related"
       }
     ],
@@ -19450,7 +19450,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 6,
-      "score": 155
+      "score": 154
     },
     "/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi": {
       "lang": "en",
@@ -19474,7 +19474,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/ashoka-pillar-sarnath-guide": {
       "lang": "en",
@@ -19498,7 +19498,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 87,
-      "score": 486
+      "score": 485
     },
     "/en/assi-ghat-evening-aarti-time": {
       "lang": "en",
@@ -19522,7 +19522,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 61,
-      "score": 315
+      "score": 314
     },
     "/en/assi-ghat-timings": {
       "lang": "en",
@@ -19546,7 +19546,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 4,
-      "score": 102
+      "score": 101
     },
     "/en/ayodhya-varanasi-prayagraj-group-tour-package": {
       "lang": "en",
@@ -19618,19 +19618,19 @@
       "commercial": false,
       "intent": "info",
       "clicks": 7,
-      "score": 59
+      "score": 58
     },
-    "/en/bharat-milap-nati-imli-oct-3": {
+    "/en/bharat-milap-nati-imli": {
       "lang": "en",
-      "title": "Bharat Milap Nati Imli 3 Oct 2026: Timings, Route & Crowd Hacks",
-      "anchor": "Bharat Milap Nati Imli 3 Oct 2026",
+      "title": "Bharat Milap Nati Imli 21 October 2026: Timings, Route & Crowd Hacks",
+      "anchor": "Bharat Milap Nati Imli 21 October 2026",
       "category": "guide",
       "productType": "guide",
       "destination": null,
       "commercial": false,
-      "intent": "other",
-      "clicks": 1,
-      "score": 37
+      "intent": null,
+      "clicks": 0,
+      "score": 29
     },
     "/en/boat-ride-varanasi": {
       "lang": "en",
@@ -19654,7 +19654,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/book-taxi-varanasi-ramlila-dussehra": {
       "lang": "en",
@@ -19666,7 +19666,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/buddhist-circuit-tour-tempo-traveller-varanasi": {
       "lang": "en",
@@ -19678,7 +19678,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/contact": {
       "lang": "en",
@@ -19690,7 +19690,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/corporate-group-tempo-traveller-varanasi": {
       "lang": "en",
@@ -19702,7 +19702,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/dashashwamedh-ghat-ganga-aarti-timing": {
       "lang": "en",
@@ -19726,7 +19726,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/dev-deepawali-best-viewing-spots-varanasi": {
       "lang": "en",
@@ -19738,7 +19738,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/dev-deepawali-boat-ride-pricing-guide-2026": {
       "lang": "en",
@@ -19750,7 +19750,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 4,
-      "score": 93
+      "score": 92
     },
     "/en/dev-deepawali-crowd-survival-guide-varanasi": {
       "lang": "en",
@@ -19762,7 +19762,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/dev-deepawali-photography-guide-2026": {
       "lang": "en",
@@ -19774,19 +19774,19 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
-    "/en/dussehra-ravana-dahan-varanasi-oct-2": {
+    "/en/dussehra-ravana-dahan-varanasi": {
       "lang": "en",
-      "title": "Dussehra Ravana Dahan Varanasi October 2, 2026: Complete Festival Guide & Transport Booking",
-      "anchor": "Dussehra Ravana Dahan Varanasi October 2, 2026",
+      "title": "Dussehra Ravana Dahan Varanasi October 20, 2026: Complete Festival Guide & Transport Booking",
+      "anchor": "Dussehra Ravana Dahan Varanasi October 20, 2026",
       "category": "guide",
       "productType": "guide",
       "destination": null,
       "commercial": false,
-      "intent": "other",
-      "clicks": 1,
-      "score": 42
+      "intent": null,
+      "clicks": 0,
+      "score": 30
     },
     "/en/evening-boat-ride-varanasi-ganga-aarti": {
       "lang": "en",
@@ -19858,7 +19858,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/guide-to-ghats-of-varanasi": {
       "lang": "en",
@@ -19906,7 +19906,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 25
+      "score": 24
     },
     "/en/how-to-reach-varanasi": {
       "lang": "en",
@@ -19918,7 +19918,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 31
+      "score": 30
     },
     "/en/is-varanasi-safe-for-solo-female-travellers": {
       "lang": "en",
@@ -19942,7 +19942,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/jagannath-rath-yatra-varanasi-2026": {
       "lang": "en",
@@ -19990,7 +19990,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/kashi-gaya-prayag-pind-daan-tour": {
       "lang": "en",
@@ -20002,7 +20002,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/kashi-vishwanath-darshan-ganga-aarti-package": {
       "lang": "en",
@@ -20026,7 +20026,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/kashi-vishwanath-sparsh-darshan-night-aarti-guide": {
       "lang": "en",
@@ -20050,7 +20050,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/kasi-tour-package": {
       "lang": "en",
@@ -20074,7 +20074,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 31
+      "score": 30
     },
     "/en/lolark-shashti-lolark-kund-varanasi-guide": {
       "lang": "en",
@@ -20098,7 +20098,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/luxury-maharaja-tempo-traveller-varanasi": {
       "lang": "en",
@@ -20110,7 +20110,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/maha-shivaratri-2026-varanasi-guide": {
       "lang": "en",
@@ -20122,7 +20122,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/makar-sankranti-2026-varanasi-kite-festival-guide": {
       "lang": "en",
@@ -20134,7 +20134,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/manikarnika-ghat-sacred-cremation-grounds": {
       "lang": "en",
@@ -20194,7 +20194,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/navratri-in-vindhyachal-practical-guide": {
       "lang": "en",
@@ -20242,7 +20242,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/pilgrimage-yatra-tours-tempo-traveller-varanasi": {
       "lang": "en",
@@ -20254,7 +20254,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/pisach-mochan-kund-narayan-nag-bali-varanasi": {
       "lang": "en",
@@ -20266,7 +20266,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit": {
       "lang": "en",
@@ -20290,7 +20290,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/private-boat-hire-varanasi": {
       "lang": "en",
@@ -20304,17 +20304,17 @@
       "clicks": 1,
       "score": 73
     },
-    "/en/ram-rajya-finale-ramnagar-ramlila-oct-7": {
+    "/en/ram-rajya-finale-ramnagar-ramlila": {
       "lang": "en",
-      "title": "Ram Rajya Finale October 7, 2026: Ramnagar Ramlila UNESCO Coronation Ceremony Guide",
-      "anchor": "Ram Rajya Finale October 7, 2026",
+      "title": "Ram Rajya Finale October 25, 2026: Ramnagar Ramlila UNESCO Coronation Ceremony Guide",
+      "anchor": "Ram Rajya Finale October 25, 2026",
       "category": "guide",
       "productType": "guide",
       "destination": null,
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/ramnagar-ramlila-moving-stages-guide": {
       "lang": "en",
@@ -20326,7 +20326,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/safety-and-security-in-varanasi-guide-for-solo-travellar": {
       "lang": "en",
@@ -20398,7 +20398,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/sawan-somwar-kashi-vishwanath-darshan-guide-2026": {
       "lang": "en",
@@ -20410,7 +20410,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/senior-citizen-varanasi-tour-package": {
       "lang": "en",
@@ -20434,7 +20434,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/shivaratri-cultural-deep-dive-varanasi": {
       "lang": "en",
@@ -20446,7 +20446,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/shradh-tarpan-tulsi-ghat-varanasi-guide": {
       "lang": "en",
@@ -20458,7 +20458,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/sunrise-boat-ride-ganges": {
       "lang": "en",
@@ -20482,7 +20482,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/tempo-traveller-group-booking-dussehra": {
       "lang": "en",
@@ -20494,7 +20494,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/tempo-traveller-rates-varanasi": {
       "lang": "en",
@@ -20518,7 +20518,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/tempo-traveller-varanasi": {
       "lang": "en",
@@ -20530,7 +20530,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/tempo-traveller-vs-mini-bus-varanasi": {
       "lang": "en",
@@ -20566,7 +20566,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/tour-package-from-varanasi": {
       "lang": "en",
@@ -20674,7 +20674,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-classical-music-heritage": {
       "lang": "en",
@@ -20686,7 +20686,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/varanasi-day-tour-cab-charges": {
       "lang": "en",
@@ -20698,7 +20698,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-family-homestay-4bhk-sigra": {
       "lang": "en",
@@ -20722,7 +20722,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 25
+      "score": 24
     },
     "/en/varanasi-group-tour-package": {
       "lang": "en",
@@ -20818,7 +20818,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2026": {
       "lang": "en",
@@ -20842,7 +20842,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 25
+      "score": 24
     },
     "/en/varanasi-sightseeing-complete-guide": {
       "lang": "en",
@@ -20890,7 +20890,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-ayodhya-12-seater-tempo-traveller": {
       "lang": "en",
@@ -20902,7 +20902,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-ayodhya-day-trip-tempo-traveller": {
       "lang": "en",
@@ -20914,7 +20914,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-ayodhya-taxi": {
       "lang": "en",
@@ -20926,7 +20926,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 18,
-      "score": 207
+      "score": 206
     },
     "/en/varanasi-to-ayodhya-tempo-traveller": {
       "lang": "en",
@@ -20962,7 +20962,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-chitrakoot-tempo-traveller": {
       "lang": "en",
@@ -20974,7 +20974,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-gaya-bodh-gaya-tour-package": {
       "lang": "en",
@@ -20986,7 +20986,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-gaya-tempo-traveller": {
       "lang": "en",
@@ -20998,7 +20998,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-kushinagar-tempo-traveller": {
       "lang": "en",
@@ -21010,7 +21010,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-lucknow-tempo-traveller": {
       "lang": "en",
@@ -21022,7 +21022,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-naimisharanya-tempo-traveller": {
       "lang": "en",
@@ -21034,7 +21034,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 1,
-      "score": 94
+      "score": 93
     },
     "/en/varanasi-to-prayagraj-kumbh-tempo-traveller": {
       "lang": "en",
@@ -21046,7 +21046,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-prayagraj-taxi": {
       "lang": "en",
@@ -21082,7 +21082,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-ram-mandir-tempo-traveller": {
       "lang": "en",
@@ -21094,7 +21094,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-to-sarnath-tempo-traveller": {
       "lang": "en",
@@ -21130,7 +21130,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/varanasi-to-vindhyachal-taxi": {
       "lang": "en",
@@ -21142,7 +21142,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 116,
-      "score": 734
+      "score": 733
     },
     "/en/varanasi-to-vindhyachal-tempo-traveller": {
       "lang": "en",
@@ -21154,7 +21154,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-tour-package-for-families": {
       "lang": "en",
@@ -21214,7 +21214,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/varanasi-weather-guide": {
       "lang": "en",
@@ -21226,7 +21226,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 3,
-      "score": 44
+      "score": 43
     },
     "/en/varanasi-with-friends-plan": {
       "lang": "en",
@@ -21238,7 +21238,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/what-to-wear-in-varanasi": {
       "lang": "en",
@@ -21274,7 +21274,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/packages/sawan-darshan-package-varanasi": {
       "lang": "en",
@@ -21286,7 +21286,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/packages/shradh-pind-daan-package-varanasi": {
       "lang": "en",
@@ -21298,7 +21298,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/packages/varanasi-boat-ride-booking": {
       "lang": "en",
@@ -21358,7 +21358,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 4,
-      "score": 88
+      "score": 87
     },
     "/en/services/ayodhya-ram-mandir-darshan-package-from-varanasi": {
       "lang": "en",
@@ -21394,7 +21394,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 8,
-      "score": 156
+      "score": 155
     },
     "/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package": {
       "lang": "en",
@@ -21622,7 +21622,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/services/varanasi-prayagraj-tour-package": {
       "lang": "en",
@@ -21682,7 +21682,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/12-seater-tempo-traveller-varanasi": {
       "lang": "hi",
@@ -21730,7 +21730,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/ashoka-pillar-sarnath-guide": {
       "lang": "hi",
@@ -21742,7 +21742,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 31
+      "score": 30
     },
     "/hi/assi-ghat-aarti-timings-2026": {
       "lang": "hi",
@@ -21766,7 +21766,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 2,
-      "score": 74
+      "score": 73
     },
     "/hi/banaras-tour-package": {
       "lang": "hi",
@@ -21814,7 +21814,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/dashashwamedh-ghat-detailed-guide": {
       "lang": "hi",
@@ -21850,7 +21850,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/dev-deepawali-2026-varanasi-ultimate-guide": {
       "lang": "hi",
@@ -22042,7 +22042,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/kashi-vishwanath-darshan-ganga-aarti-package": {
       "lang": "hi",
@@ -22078,7 +22078,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/kasi-tour-package": {
       "lang": "hi",
@@ -22102,7 +22102,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/lucknow-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -22162,7 +22162,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/outstation-cabs-from-varanasi": {
       "lang": "hi",
@@ -22174,7 +22174,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/pisach-mochan-kund-narayan-nag-bali-varanasi": {
       "lang": "hi",
@@ -22186,7 +22186,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/safety-and-security-in-varanasi-guide-for-solo-travellar": {
       "lang": "hi",
@@ -22258,7 +22258,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/sawan-somwar-kashi-vishwanath-darshan-guide-2026": {
       "lang": "hi",
@@ -22270,7 +22270,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 34
+      "score": 33
     },
     "/hi/scindia-ghat-submerged-temple": {
       "lang": "hi",
@@ -22306,7 +22306,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/sunrise-boat-ride-ganges": {
       "lang": "hi",
@@ -22354,7 +22354,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/tempo-traveller-vs-multiple-cars-varanasi": {
       "lang": "hi",
@@ -22366,7 +22366,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/tour-package-from-varanasi": {
       "lang": "hi",
@@ -22414,7 +22414,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 14,
-      "score": 95
+      "score": 94
     },
     "/hi/trikon-parikrama-vindhyachal-complete-guide": {
       "lang": "hi",
@@ -22426,7 +22426,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/varanasi-airport-taxi-guide": {
       "lang": "hi",
@@ -22450,7 +22450,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-airport-tempo-traveller": {
       "lang": "hi",
@@ -22510,7 +22510,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/varanasi-group-tour-package": {
       "lang": "hi",
@@ -22546,7 +22546,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/varanasi-in-february-2026": {
       "lang": "hi",
@@ -22558,7 +22558,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/varanasi-in-monsoon-july-september-2026": {
       "lang": "hi",
@@ -22570,7 +22570,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/varanasi-in-november-2026-insider-guide": {
       "lang": "hi",
@@ -22582,7 +22582,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/varanasi-in-october-2026": {
       "lang": "hi",
@@ -22630,7 +22630,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/varanasi-sightseeing-complete-guide": {
       "lang": "hi",
@@ -22654,7 +22654,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-sunrise-time": {
       "lang": "hi",
@@ -22666,7 +22666,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 26,
-      "score": 334
+      "score": 333
     },
     "/hi/varanasi-to-allahabad-tempo-traveller": {
       "lang": "hi",
@@ -22678,7 +22678,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-ayodhya-12-seater-tempo-traveller": {
       "lang": "hi",
@@ -22690,7 +22690,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-ayodhya-day-trip-tempo-traveller": {
       "lang": "hi",
@@ -22702,7 +22702,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 90
+      "score": 89
     },
     "/hi/varanasi-to-ayodhya-taxi": {
       "lang": "hi",
@@ -22726,7 +22726,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-bodhgaya-taxi-cost": {
       "lang": "hi",
@@ -22738,7 +22738,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-bodhgaya-tempo-traveller": {
       "lang": "hi",
@@ -22750,7 +22750,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-chitrakoot-tempo-traveller": {
       "lang": "hi",
@@ -22762,7 +22762,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-gaya-bodh-gaya-tour-package": {
       "lang": "hi",
@@ -22774,7 +22774,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-gaya-tempo-traveller": {
       "lang": "hi",
@@ -22810,7 +22810,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-naimisharanya-tempo-traveller": {
       "lang": "hi",
@@ -22822,7 +22822,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-prayagraj-kumbh-tempo-traveller": {
       "lang": "hi",
@@ -22834,7 +22834,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-prayagraj-taxi": {
       "lang": "hi",
@@ -22858,7 +22858,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-ram-janmabhoomi-tempo-traveller": {
       "lang": "hi",
@@ -22870,7 +22870,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-ram-mandir-tempo-traveller": {
       "lang": "hi",
@@ -22882,7 +22882,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-sarnath-tempo-traveller": {
       "lang": "hi",
@@ -22894,7 +22894,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-triveni-sangam-tempo-traveller": {
       "lang": "hi",
@@ -22906,7 +22906,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-to-vindhyachal-itinerary": {
       "lang": "hi",
@@ -22930,7 +22930,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 28,
-      "score": 243
+      "score": 242
     },
     "/hi/varanasi-to-vindhyachal-tempo-traveller": {
       "lang": "hi",
@@ -22942,7 +22942,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-tour-package-for-families": {
       "lang": "hi",
@@ -23002,7 +23002,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/varanasi-travel-agent": {
       "lang": "hi",
@@ -23074,7 +23074,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/packages/lolark-shashti-darshan-package-varanasi": {
       "lang": "hi",
@@ -23086,7 +23086,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/packages/sawan-darshan-package-varanasi": {
       "lang": "hi",
@@ -23098,7 +23098,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/hi/packages/shradh-pind-daan-package-varanasi": {
       "lang": "hi",
@@ -23110,7 +23110,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/bus/kashi-prayagraj-ayodhya-south": {
       "lang": "hi",
@@ -23122,7 +23122,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/bus/kashi-rameshwaram-twin-jyotirlinga-yatra": {
       "lang": "hi",
@@ -23134,7 +23134,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/bus/kashi-yatra-south-india-bus-package": {
       "lang": "hi",
@@ -23146,7 +23146,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/services/ayodhya-ram-mandir-darshan-package-from-varanasi": {
       "lang": "hi",
@@ -23386,7 +23386,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 11,
-      "score": 175
+      "score": 174
     },
     "/en/city/allahabad/taxi/varanasi-to-allahabad-taxi": {
       "lang": "en",
@@ -23422,7 +23422,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi": {
       "lang": "en",
@@ -23446,7 +23446,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/delhi/taxi/varanasi-to-delhi-taxi": {
       "lang": "en",
@@ -23458,7 +23458,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/deoghar/taxi/varanasi-to-deoghar-taxi": {
       "lang": "en",
@@ -23494,7 +23494,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi": {
       "lang": "en",
@@ -23518,7 +23518,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi": {
       "lang": "en",
@@ -23554,7 +23554,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 8,
-      "score": 169
+      "score": 168
     },
     "/en/city/khajuraho/taxi/varanasi-to-khajuraho-taxi": {
       "lang": "en",
@@ -23566,7 +23566,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/kolkata/taxi/varanasi-to-kolkata-taxi": {
       "lang": "en",
@@ -23578,7 +23578,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi": {
       "lang": "en",
@@ -23602,7 +23602,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/lucknow/taxi/varanasi-to-lucknow-taxi": {
       "lang": "en",
@@ -23614,7 +23614,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi": {
       "lang": "en",
@@ -23662,7 +23662,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi": {
       "lang": "en",
@@ -23686,7 +23686,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking": {
       "lang": "en",
@@ -23698,7 +23698,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi": {
       "lang": "en",
@@ -23734,7 +23734,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 57,
-      "score": 458
+      "score": 457
     },
     "/en/city/varanasi/activities/sunrise-yoga-varanasi-2026": {
       "lang": "en",
@@ -23782,7 +23782,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/events/chhath-puja-2026-varanasi-guide": {
       "lang": "en",
@@ -23842,7 +23842,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking": {
       "lang": "en",
@@ -23854,7 +23854,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/events/makar-sankranti-ganga-snan-varanasi-2026": {
       "lang": "en",
@@ -23890,7 +23890,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/city/varanasi/food/malaiyo-varanasi-guide": {
       "lang": "en",
@@ -23926,7 +23926,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2026": {
       "lang": "en",
@@ -23938,7 +23938,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/city/varanasi/sightseeing/dashashwamedh-ghat-boat-ride-ganga-aarti-guide": {
       "lang": "en",
@@ -23986,7 +23986,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 6,
-      "score": 152
+      "score": 151
     },
     "/en/city/varanasi/taxi/24-7-taxi-varanasi": {
       "lang": "en",
@@ -24010,7 +24010,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 1,
-      "score": 77
+      "score": 76
     },
     "/en/city/varanasi/taxi/airport-taxi-varanasi": {
       "lang": "en",
@@ -24022,7 +24022,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi": {
       "lang": "en",
@@ -24142,7 +24142,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/en/city/varanasi/taxi/varanasi-airport-transfer-directory": {
       "lang": "en",
@@ -24178,7 +24178,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 1,
-      "score": 78
+      "score": 77
     },
     "/en/city/varanasi/taxi/kushinagar-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -24214,7 +24214,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/manikarnika-ghat-cremation-guide": {
       "lang": "en",
@@ -24310,7 +24310,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service": {
       "lang": "en",
@@ -24322,7 +24322,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/taxi-for-tent-city-varanasi": {
       "lang": "en",
@@ -24334,7 +24334,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/taxi-near-bhu": {
       "lang": "en",
@@ -24346,7 +24346,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/taxi-rates-varanasi": {
       "lang": "en",
@@ -24358,7 +24358,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/taxi-service-in-sigra-varanasi": {
       "lang": "en",
@@ -24370,7 +24370,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 4,
-      "score": 147
+      "score": 146
     },
     "/en/city/varanasi/taxi/taxi-service-varanasi-cantt-station": {
       "lang": "en",
@@ -24382,7 +24382,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 1,
-      "score": 91
+      "score": 90
     },
     "/en/city/varanasi/taxi/taxi-service-varanasi": {
       "lang": "en",
@@ -24406,7 +24406,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 3,
-      "score": 84
+      "score": 83
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-ballia-taxi": {
       "lang": "en",
@@ -24418,7 +24418,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi": {
       "lang": "en",
@@ -24454,7 +24454,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-deoria-taxi": {
       "lang": "en",
@@ -24466,7 +24466,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-ghazipur-taxi": {
       "lang": "en",
@@ -24478,7 +24478,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 12,
-      "score": 130
+      "score": 129
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-gorakhpur-taxi": {
       "lang": "en",
@@ -24502,7 +24502,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-jaunpur-taxi": {
       "lang": "en",
@@ -24514,7 +24514,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi": {
       "lang": "en",
@@ -24526,7 +24526,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 34,
-      "score": 286
+      "score": 285
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-taxi": {
       "lang": "en",
@@ -24538,7 +24538,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 5,
-      "score": 96
+      "score": 95
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-taxi": {
       "lang": "en",
@@ -24562,7 +24562,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 2,
-      "score": 107
+      "score": 106
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi": {
       "lang": "en",
@@ -24586,7 +24586,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-taxi": {
       "lang": "en",
@@ -24610,7 +24610,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-patna-taxi": {
       "lang": "en",
@@ -24622,7 +24622,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-taxi": {
       "lang": "en",
@@ -24646,7 +24646,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-taxi": {
       "lang": "en",
@@ -24658,7 +24658,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi": {
       "lang": "en",
@@ -24670,7 +24670,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-taxi": {
       "lang": "en",
@@ -24682,7 +24682,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi": {
       "lang": "en",
@@ -24742,7 +24742,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-railway-station-taxi-service": {
       "lang": "en",
@@ -24994,7 +24994,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour": {
       "lang": "en",
@@ -25078,7 +25078,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/travel-guide/varanasi-in-january-2026": {
       "lang": "en",
@@ -25462,7 +25462,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 0,
-      "score": 230
+      "score": 229
     },
     "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026": {
       "lang": "hi",
@@ -25486,7 +25486,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/city/varanasi/events/mahindra-kabira-festival-2026-varanasi": {
       "lang": "hi",
@@ -25498,7 +25498,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/city/varanasi/events/mahindra-kabira-sunrise-music": {
       "lang": "hi",
@@ -25570,7 +25570,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/city/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2026": {
       "lang": "hi",
@@ -25618,7 +25618,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/airport-taxi-service-varanasi": {
       "lang": "hi",
@@ -25642,7 +25642,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/airport-to-taj-gateway-varanasi": {
       "lang": "hi",
@@ -25654,7 +25654,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/ayodhya-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -25762,7 +25762,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/city/varanasi/taxi/varanasi-airport-transfer-directory": {
       "lang": "hi",
@@ -25774,7 +25774,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/jaunpur-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -25834,7 +25834,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/manikarnika-ghat-cremation-guide": {
       "lang": "hi",
@@ -25846,7 +25846,7 @@
       "commercial": false,
       "intent": null,
       "clicks": 0,
-      "score": 30
+      "score": 29
     },
     "/hi/city/varanasi/taxi/mughalsarai-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -25870,7 +25870,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/patna-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -25906,7 +25906,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/singrauli-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -25930,7 +25930,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service": {
       "lang": "hi",
@@ -25954,7 +25954,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/taxi-near-bhu": {
       "lang": "hi",
@@ -25966,7 +25966,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/taxi-rates-varanasi": {
       "lang": "hi",
@@ -25978,7 +25978,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/taxi-service-in-sigra-varanasi": {
       "lang": "hi",
@@ -26002,7 +26002,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/taxi-service-varanasi": {
       "lang": "hi",
@@ -26014,7 +26014,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi": {
       "lang": "hi",
@@ -26026,7 +26026,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-ballia-taxi": {
       "lang": "hi",
@@ -26038,7 +26038,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi": {
       "lang": "hi",
@@ -26062,7 +26062,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi": {
       "lang": "hi",
@@ -26086,7 +26086,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-ghazipur-taxi": {
       "lang": "hi",
@@ -26098,7 +26098,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-gorakhpur-taxi": {
       "lang": "hi",
@@ -26110,7 +26110,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-jalalpur-taxi": {
       "lang": "hi",
@@ -26122,7 +26122,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-jaunpur-taxi": {
       "lang": "hi",
@@ -26134,7 +26134,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi": {
       "lang": "hi",
@@ -26146,7 +26146,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-taxi": {
       "lang": "hi",
@@ -26158,7 +26158,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-manikarnika-taxi": {
       "lang": "hi",
@@ -26170,7 +26170,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-mau-taxi": {
       "lang": "hi",
@@ -26182,7 +26182,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi": {
       "lang": "hi",
@@ -26194,7 +26194,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-mughalsarai-taxi": {
       "lang": "hi",
@@ -26206,7 +26206,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-namo-ghat-taxi": {
       "lang": "hi",
@@ -26218,7 +26218,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-taxi": {
       "lang": "hi",
@@ -26230,7 +26230,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-patna-taxi": {
       "lang": "hi",
@@ -26242,7 +26242,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-prayagraj-taxi": {
       "lang": "hi",
@@ -26254,7 +26254,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-raj-ghat-taxi": {
       "lang": "hi",
@@ -26266,7 +26266,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-taxi": {
       "lang": "hi",
@@ -26278,7 +26278,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi": {
       "lang": "hi",
@@ -26290,7 +26290,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-taxi": {
       "lang": "hi",
@@ -26302,7 +26302,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi": {
       "lang": "hi",
@@ -26326,7 +26326,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi": {
       "lang": "hi",
@@ -26350,7 +26350,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-city-tour-cab": {
       "lang": "hi",
@@ -26362,7 +26362,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-railway-station-taxi-service": {
       "lang": "hi",
@@ -26458,7 +26458,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-to-ghazipur-taxi-fare": {
       "lang": "hi",
@@ -26614,7 +26614,7 @@
       "commercial": true,
       "intent": null,
       "clicks": 0,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour": {
       "lang": "hi",

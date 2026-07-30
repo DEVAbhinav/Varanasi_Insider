@@ -388,7 +388,7 @@ A: Book 2-3 months in advance. Prices increase 300-500% during festival week. La
 
 ### Varanasi Festival Calendar
 - **[Ultimate Ramlila & Dussehra Guide 2026](/en/ultimate-guide-ramlila-dussehra-varanasi-2026)** - October festival season
-- **[Ram Rajya Finale Guide](/en/ram-rajya-finale-ramnagar-ramlila-oct-7)** - Grand conclusion of Ramlila
+- **[Ram Rajya Finale Guide](/en/ram-rajya-finale-ramnagar-ramlila)** - Grand conclusion of Ramlila
 
 ### Transport & Practical Guides
 - **[Complete Festival Transport Hub](/en/book-taxi-varanasi-ramlila-dussehra)** - All Varanasi festival bookings

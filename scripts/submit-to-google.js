@@ -12,8 +12,8 @@ const path = require('path');
 
 // Festival page URLs that were just added
 const NEW_FESTIVAL_PAGES = [
-  'https://www.kashitaxi.in/en/dussehra-ravana-dahan-varanasi-oct-2',
-  'https://www.kashitaxi.in/en/bharat-milap-nati-imli-oct-3',
+  'https://www.kashitaxi.in/en/dussehra-ravana-dahan-varanasi',
+  'https://www.kashitaxi.in/en/bharat-milap-nati-imli',
   'https://www.kashitaxi.in/en/ramnagar-ramlila-moving-stages-guide',
   'https://www.kashitaxi.in/en/tempo-traveller-group-booking-dussehra',
   'https://www.kashitaxi.in/en/book-taxi-varanasi-ramlila-dussehra',

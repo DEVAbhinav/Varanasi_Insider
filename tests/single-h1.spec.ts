@@ -26,7 +26,7 @@ const PAGES: Array<{ label: string; path: string }> = [
   { label: 'previously missing H1 (where to stay)', path: '/en/where-to-stay-in-varanasi' },
   { label: 'previously missing H1 (homestay)', path: '/en/varanasi-family-homestay-4bhk-sigra' },
   { label: 'previously double H1 (outstation cabs)', path: '/en/outstation-cabs-from-varanasi' },
-  { label: 'previously double H1 (dussehra)', path: '/en/dussehra-ravana-dahan-varanasi-oct-2' },
+  { label: 'previously double H1 (dussehra)', path: '/en/dussehra-ravana-dahan-varanasi' },
 ];
 
 test.describe('Exactly one <h1> per page', () => {

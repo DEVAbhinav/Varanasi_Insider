@@ -376,7 +376,7 @@ A: Have 2-3 location options planned. If your first choice is overwhelmed, move 
 
 ### Varanasi Festival Calendar
 - **[Ultimate Ramlila & Dussehra Guide 2026](/en/ultimate-guide-ramlila-dussehra-varanasi-2026)** - October festival season
-- **[Ram Rajya Finale Guide](/en/ram-rajya-finale-ramnagar-ramlila-oct-7)** - Ramlila conclusion
+- **[Ram Rajya Finale Guide](/en/ram-rajya-finale-ramnagar-ramlila)** - Ramlila conclusion
 
 ---
 

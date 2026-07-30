@@ -19,8 +19,8 @@ tags:
 keywords: ["Tempo Traveller Dussehra 2026","group travel Varanasi festivals","family transport Dussehra","12 seater Tempo Traveller booking","17 seater group transport","Varanasi festival vehicle rental","Tempo Traveller family booking","group taxi Dussehra Varanasi","festival transport groups","Dussehra family vehicle"]
 relatedPosts:
   - ultimate-guide-ramlila-dussehra-varanasi-2026
-  - dussehra-ravana-dahan-varanasi-oct-2
-  - bharat-milap-nati-imli-oct-3
+  - dussehra-ravana-dahan-varanasi
+  - bharat-milap-nati-imli
   - ramnagar-ramlila-moving-stages-guide
   - book-taxi-varanasi-ramlila-dussehra
 ---
@@ -128,14 +128,14 @@ relatedPosts:
 
 ## Dussehra Group Transport Packages
 
-### Festival Day Packages (Oct 2-3, 2026)
+### Festival Day Packages (Oct 20-21, 2026)
 
 | Package | Duration | Inclusions | 12-Seater Rate |
 |---------|----------|------------|----------------|
 | **Ravana Dahan Special** | 4 hours | Hotel → Best viewing venue → Return after event | ₹3,500 |
 | **Full Dussehra Experience** | 6 hours | Multiple venues, Ravana Dahan, dinner stop | ₹4,500 |
-| **Bharat Milap Package** | 4 hours | Transport to Nati Imli for Oct 3 episode | ₹3,500 |
-| **2-Day Festival Package** | 2 days | Both Dussehra (Oct 2) & Bharat Milap (Oct 3) | ₹6,500 |
+| **Bharat Milap Package** | 4 hours | Transport to Nati Imli for Oct 21 episode | ₹3,500 |
+| **2-Day Festival Package** | 2 days | Both Dussehra (Oct 20) & Bharat Milap (Oct 21) | ₹6,500 |
 
 ### Multi-Day Options
 - **3-Day Ramlila Circuit:** Experience key episodes across multiple days
@@ -149,7 +149,7 @@ relatedPosts:
 ### 1. Quick Quote Process
 **WhatsApp us with:**
 - Number of people in your group
-- Dates needed (Oct 2, 3, or both)
+- Dates needed (Oct 20, 21, or both)
 - Pickup location in Varanasi
 - Any special requirements (elderly passengers, extra luggage, etc.)
 
@@ -264,7 +264,7 @@ relatedPosts:
 ## FAQ: Tempo Traveller Group Booking
 
 **Q: How far in advance should I book for Dussehra?**  
-A: At least 48-72 hours for guaranteed availability. Festival dates (Oct 2-3) are high demand, so earlier booking ensures you get your preferred vehicle size.
+A: At least 48-72 hours for guaranteed availability. Festival dates (Oct 20-21) are high demand, so earlier booking ensures you get your preferred vehicle size.
 
 **Q: Can we make stops for food/shopping during the trip?**  
 A: Yes, within the booked duration. Popular stops include prasad shopping, traditional sweets, or dinner after festival events. Driver can suggest good places.
