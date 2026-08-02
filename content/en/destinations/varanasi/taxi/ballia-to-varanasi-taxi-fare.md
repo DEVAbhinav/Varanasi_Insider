@@ -146,12 +146,9 @@ relatedPosts:
 
 Arriving in Kashi from Ballia? Here are the car-wise **Ballia to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Ballia, a name-board at the station/airport, and a fixed price agreed before you travel. 
 
-> 🚕 **Fare snapshot:** Ballia to Varanasi by AC Swift Dzire is **₹2,731 one-way** and **₹3,747 round-trip**, covering **140-145 km** in about **2-2.5 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why People Travel Ballia → Varanasi
 
 Mostly hometown and village travel, Ganga-belt visits and small-city business. The Ganga and Ghagra bridge approaches near Ballia make good riverside viewpoints.
-
 
 ## Quick Facts: Ballia to Varanasi Distance, Time & Fare
 
@@ -182,7 +179,6 @@ Here is the complete **Ballia to Varanasi fare card** by vehicle. Every fare is 
 | **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹7,293 | ₹8,866 |
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹8,294 | ₹10,010 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹9,295 | ₹10,582 |
-
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
 

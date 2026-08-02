@@ -141,14 +141,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Jaunpur**? Here are the car-wise **Varanasi to Jaunpur taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for colleges/exams, weddings & functions, nh-31 corridor towns.
 
-> 🚕 **Fare snapshot:** Varanasi to Jaunpur by AC Swift Dzire is **₹1,855 one-way** and **₹2,510 round-trip**, covering **~50 km** in about **~1.5 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Jaunpur taxi service page](/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why Travellers Book Varanasi to Jaunpur
 
 Trips are for colleges and exams, weddings and functions, and NH-31 corridor towns. Jaunpur's historic Shahi (Munim Khan) Bridge over the Gomti and the Atala Masjid are worth a quick stop.
-
 
 ## Quick Facts: Varanasi to Jaunpur Fare, Time & Route
 
@@ -180,8 +175,9 @@ Here is the complete **Varanasi to Jaunpur fare card** by vehicle. Every fare is
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹5,650 | ₹6,700 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹6,350 | ₹7,100 |
 
-
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Jaunpur taxi service page](/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Varanasi to Jaunpur
 

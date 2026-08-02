@@ -147,12 +147,9 @@ relatedPosts:
 
 Arriving in Kashi from Vindhyachal? Here are the car-wise **Vindhyachal to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Vindhyachal, a name-board at the station/airport, and a fixed price agreed before you travel. 
 
-> 🚕 **Fare snapshot:** Vindhyachal to Varanasi by AC Swift Dzire is **₹1,877 one-way** and **₹2,554 round-trip**, covering **~70 km** in about **1.5-2 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why People Travel Vindhyachal → Varanasi
 
 The trip is for Maa Vindhyavasini darshan, which spikes hard during Navratri; early-morning or late-evening departures beat the temple queues and traffic diversions. Many pair it with Chunar Fort and the Mirzapur Ganga ghats.
-
 
 ## Quick Facts: Vindhyachal to Varanasi Distance, Time & Fare
 
@@ -183,7 +180,6 @@ Here is the complete **Vindhyachal to Varanasi fare card** by vehicle. Every far
 | **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹5,010 | ₹6,020 |
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹5,710 | ₹6,820 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹6,410 | ₹7,220 |
-
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
 

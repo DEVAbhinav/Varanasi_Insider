@@ -143,14 +143,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Gorakhpur**? Here are the car-wise **Varanasi to Gorakhpur taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for gorakhnath temple, geeta press, onward buddhist circuit (kushinagar, lumbini).
 
-> 🚕 **Fare snapshot:** Varanasi to Gorakhpur by AC Swift Dzire is **₹5,253 one-way** and **₹7,205 round-trip**, covering **270-280 km** in about **5-5.5 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Gorakhpur taxi service page](/en/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why Travellers Book Varanasi to Gorakhpur
 
 The pull is the Gorakhnath Temple and Geeta Press, plus onward Buddhist-circuit travel to Kushinagar and Lumbini.
-
 
 ## Quick Facts: Varanasi to Gorakhpur Fare, Time & Route
 
@@ -182,8 +177,9 @@ Here is the complete **Varanasi to Gorakhpur fare card** by vehicle. Every fare 
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹15,950 | ₹19,250 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹17,875 | ₹20,350 |
 
-
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Gorakhpur taxi service page](/en/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Varanasi to Gorakhpur
 

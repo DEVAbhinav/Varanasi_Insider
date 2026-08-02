@@ -143,14 +143,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Bodhgaya**? Here are the car-wise **Varanasi to Bodhgaya taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for mahabodhi temple, bodhi tree, great buddha statue, international monasteries.
 
-> 🚕 **Fare snapshot:** Varanasi to Bodhgaya by AC Swift Dzire is **₹5,004 one-way** and **₹6,864 round-trip**, covering **260-265 km** in about **~6 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Bodhgaya taxi service page](/en/varanasi-to-bodhgaya-taxi-cost)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why Travellers Book Varanasi to Bodhgaya
 
 Bodh Gaya draws Buddhist pilgrims and foreign tourists to the Mahabodhi Temple, Bodhi Tree and international monasteries, peaking in the cool winter (Dec–Feb). Overseas visitors especially value an English-speaking driver, a clean car and a fixed, predictable price.
-
 
 ## Quick Facts: Varanasi to Bodhgaya Fare, Time & Route
 
@@ -185,6 +180,8 @@ Here is the complete **Varanasi to Bodhgaya fare card** by vehicle. Every fare i
 > ⚠️ **Bihar tax:** Bihar entry + green tax for a car is ~₹200–250 at the border, taking total toll + tax to roughly ₹600–750 one-way.
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Bodhgaya taxi service page](/en/varanasi-to-bodhgaya-taxi-cost)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Varanasi to Bodhgaya
 

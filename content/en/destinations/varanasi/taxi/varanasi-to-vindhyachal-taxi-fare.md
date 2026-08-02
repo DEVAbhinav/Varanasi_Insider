@@ -142,14 +142,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Vindhyachal**? Here are the car-wise **Varanasi to Vindhyachal taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for maa vindhyavasini darshan, navratri yatra, mirzapur hill & ganga views.
 
-> 🚕 **Fare snapshot:** Varanasi to Vindhyachal by AC Swift Dzire is **₹1,877 one-way** and **₹2,554 round-trip**, covering **~70 km** in about **1.5-2 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Vindhyachal taxi service page](/en/varanasi-to-vindhyachal-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why Travellers Book Varanasi to Vindhyachal
 
 The trip is for Maa Vindhyavasini darshan, which spikes hard during Navratri; early-morning or late-evening departures beat the temple queues and traffic diversions. Many pair it with Chunar Fort and the Mirzapur Ganga ghats.
-
 
 ## Quick Facts: Varanasi to Vindhyachal Fare, Time & Route
 
@@ -181,8 +176,9 @@ Here is the complete **Varanasi to Vindhyachal fare card** by vehicle. Every far
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹5,710 | ₹6,820 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹6,410 | ₹7,220 |
 
-
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Vindhyachal taxi service page](/en/varanasi-to-vindhyachal-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Varanasi to Vindhyachal
 

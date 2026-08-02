@@ -147,12 +147,9 @@ relatedPosts:
 
 Arriving in Kashi from Kushinagar? Here are the car-wise **Kushinagar to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Kushinagar, a name-board at the station/airport, and a fixed price agreed before you travel. 
 
-> 🚕 **Fare snapshot:** Kushinagar to Varanasi by AC Swift Dzire is **₹6,303 one-way** and **₹8,646 round-trip**, covering **325-335 km** in about **6-7 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why People Travel Kushinagar → Varanasi
 
 A Buddhist-circuit trip (Mahaparinirvana Temple, Ramabhar Stupa, monasteries), often combined with Sarnath and Lumbini; foreign pilgrims value a clean vehicle, language support and a fixed itinerary.
-
 
 ## Quick Facts: Kushinagar to Varanasi Distance, Time & Fare
 
@@ -183,7 +180,6 @@ Here is the complete **Kushinagar to Varanasi fare card** by vehicle. Every fare
 | **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹16,830 | ₹20,460 |
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹19,140 | ₹23,100 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹21,450 | ₹24,420 |
-
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
 

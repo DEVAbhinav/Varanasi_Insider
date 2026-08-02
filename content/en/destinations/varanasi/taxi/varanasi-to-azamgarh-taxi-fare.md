@@ -142,12 +142,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Azamgarh**? Here are the car-wise **Varanasi to Azamgarh taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for students/patients for colleges & hospitals, family/hometown visits.
 
-> 🚕 **Fare snapshot:** Varanasi to Azamgarh by AC Swift Dzire is **₹1,967 one-way** and **₹2,699 round-trip**, covering **~103 km** in about **~2 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why Travellers Book Varanasi to Azamgarh
 
 Demand is students and patients heading to Azamgarh's colleges and hospitals, plus family and hometown visits.
-
 
 ## Quick Facts: Varanasi to Azamgarh Distance, Time & Fare
 
@@ -178,7 +175,6 @@ Here is the complete **Varanasi to Azamgarh fare card** by vehicle. Every fare i
 | **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹5,253 | ₹6,386 |
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹5,974 | ₹7,210 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹6,695 | ₹7,622 |
-
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
 

@@ -149,12 +149,9 @@ relatedPosts:
 
 Arriving in Kashi from Mughalsarai? Here are the car-wise **Mughalsarai to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Mughalsarai, a name-board at the station/airport, and a fixed price agreed before you travel. 
 
-> 🚕 **Fare snapshot:** Mughalsarai to Varanasi by AC Swift Dzire is **₹920 one-way** and **₹1,240 round-trip**, covering **17-18 km** in about **40-50 min**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why People Travel Mughalsarai → Varanasi
 
 DDU (Mughalsarai) Junction is a major Purvanchal rail hub with long-distance trains to every metro, so most rides are timed station transfers tracked against your train timing.
-
 
 ## Quick Facts: Mughalsarai to Varanasi Distance, Time & Fare
 
@@ -185,7 +182,6 @@ Here is the complete **Mughalsarai to Varanasi fare card** by vehicle. Every far
 | **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹2,454 | ₹2,908 |
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹2,804 | ₹3,308 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹3,154 | ₹3,508 |
-
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
 

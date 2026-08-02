@@ -148,14 +148,9 @@ relatedPosts:
 
 Arriving in Kashi from Ayodhya? Here are the car-wise **Ayodhya to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Ayodhya, a name-board at the station/airport, and a fixed price agreed before you travel. 
 
-> 🚕 **Fare snapshot:** Ayodhya to Varanasi by AC Swift Dzire is **₹3,820 one-way** and **₹5,240 round-trip**, covering **~200 km** in about **4-5 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Ayodhya to Varanasi taxi service page](/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why People Travel Ayodhya → Varanasi
 
 This is an ultra-high-intent Ram Mandir darshan trip, layered with Ram Navami and Diwali Deepotsav peaks. For an ordinary darshan a 4–5 am start lands you late morning with time for parking and queues; on festival days add 1–2 hours and pre-book your darshan/aarti slot.
-
 
 ## Quick Facts: Ayodhya to Varanasi Fare, Time & Route
 
@@ -187,8 +182,9 @@ Here is the complete **Ayodhya to Varanasi fare card** by vehicle. Every fare is
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹11,600 | ₹14,000 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹13,000 | ₹14,800 |
 
-
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Ayodhya to Varanasi taxi service page](/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Ayodhya to Varanasi
 

@@ -352,7 +352,7 @@ function relatedSlugs(route, dir, allRoutes) {
     .map((r) => `varanasi-to-${r.id}-taxi-fare`);
   const out = [];
   if (canReverse) out.push(reverse);
-  out.push(...siblings, 'taxi-service-varanasi', 'taxi-rates-varanasi');
+  out.push(...siblings, 'taxi-rates-varanasi');
   return Array.from(new Set(out));
 }
 
@@ -658,10 +658,6 @@ function buildBodyEn(route, dir, ctx) {
     '',
     intro,
     '',
-    `> 🚕 **Fare snapshot:** ${routeTitle} by AC Swift Dzire is **${L(dzOw)} one-way** and **${L(dzRt)} round-trip**, covering **${route.distanceKmDisplay}** in about **${route.driveTimeNormal}**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).`,
-    '',
-    incNote,
-    incNote ? '' : null,
     angleSection,
     angleSection ? '' : null,
     `## Quick Facts: ${routeTitle}${incUrl ? ' Fare, Time & Route' : ' Distance, Time & Fare'}`,
@@ -680,6 +676,8 @@ function buildBodyEn(route, dir, ctx) {
     stateTaxLine ? '' : null,
     `*One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated ${new Date().getFullYear()}.*`,
     '',
+    incNote,
+    incNote ? '' : null,
     `## Choose Your Vehicle for ${routeTitle}`,
     '',
     `Not sure which car fits? Here is what each option costs on this route and who it suits best.`,
@@ -816,10 +814,6 @@ function buildBodyHi(route, dir, ctx) {
     '',
     intro,
     '',
-    `> 🚕 **किराया झलक:** ${routeTitleHi} AC Swift Dzire में **${L(dzOw)} वन-वे** और **${L(dzRt)} राउंड-ट्रिप**, ${route.distanceKmDisplay} लगभग ${route.driveTimeNormal} में। ईंधन, टोल व ड्राइवर शामिल। [WhatsApp पर फिक्स्ड किराया पाएं](https://wa.me/919935474730)।`,
-    '',
-    incNote,
-    incNote ? '' : null,
     angleSection,
     angleSection ? '' : null,
     `## क्विक फैक्ट्स: ${routeTitleHi}${incUrl ? ' किराया, समय व रूट' : ' दूरी, समय व किराया'}`,
@@ -838,6 +832,8 @@ function buildBodyHi(route, dir, ctx) {
     stateTaxLine ? '' : null,
     `*वन-वे किराया आपकी तय की गई दूरी पर लगता है; राउंड-ट्रिप में वापसी शामिल है। रात रुकने पर ₹400–₹500/रात ड्राइवर भत्ता जुड़ता है। किराया ${new Date().getFullYear()} में अपडेटेड।*`,
     '',
+    incNote,
+    incNote ? '' : null,
     `## ${routeTitleHi} के लिए अपनी गाड़ी चुनें`,
     '',
     `किस गाड़ी में जाएं, तय नहीं? नीचे इस रूट पर हर विकल्प का किराया और किसके लिए सही है, देखें।`,

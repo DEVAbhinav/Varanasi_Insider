@@ -142,12 +142,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Ghazipur**? Here are the car-wise **Varanasi to Ghazipur taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for hometown travel, ganga-side temples, onward ballia/gorakhpur belt.
 
-> 🚕 **Fare snapshot:** Varanasi to Ghazipur by AC Swift Dzire is **₹1,886 one-way** and **₹2,572 round-trip**, covering **75-80 km** in about **1-2.5 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why Travellers Book Varanasi to Ghazipur
 
 Mostly hometown travel, Ganga-side temple visits and onward trips into the Ballia/Gorakhpur belt.
-
 
 ## Quick Facts: Varanasi to Ghazipur Distance, Time & Fare
 
@@ -178,7 +175,6 @@ Here is the complete **Varanasi to Ghazipur fare card** by vehicle. Every fare i
 | **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹5,034 | ₹6,068 |
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹5,734 | ₹6,868 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹6,434 | ₹7,268 |
-
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
 

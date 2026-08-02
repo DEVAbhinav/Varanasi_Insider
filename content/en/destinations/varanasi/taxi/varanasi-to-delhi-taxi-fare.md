@@ -143,10 +143,6 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Delhi**? Here are the car-wise **Varanasi to Delhi taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for long-distance business, flights ex-delhi, tourism (old delhi, india gate).
 
-> 🚕 **Fare snapshot:** Varanasi to Delhi by AC Swift Dzire is **₹16,407 one-way** and **₹22,506 round-trip**, covering **~859 km** in about **12.5-13 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Delhi taxi service page](/en/city/delhi/taxi/varanasi-to-delhi-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why Travellers Book Varanasi to Delhi
 
 People choose the ~13-hour road run over train or flight when they have heavy luggage, want true door-to-door service, travel at odd hours, or bring pets or elderly passengers who dislike station/airport chaos. A frequent pattern is a one-way drive to catch a Delhi flight.
@@ -183,8 +179,9 @@ Here is the complete **Varanasi to Delhi fare card** by vehicle. Every fare is f
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹49,822 | ₹60,130 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹55,835 | ₹63,566 |
 
-
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Delhi taxi service page](/en/city/delhi/taxi/varanasi-to-delhi-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Varanasi to Delhi
 

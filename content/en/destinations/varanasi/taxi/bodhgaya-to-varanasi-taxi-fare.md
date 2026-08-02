@@ -147,12 +147,9 @@ relatedPosts:
 
 Arriving in Kashi from Bodhgaya? Here are the car-wise **Bodhgaya to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Bodhgaya, a name-board at the station/airport, and a fixed price agreed before you travel. 
 
-> 🚕 **Fare snapshot:** Bodhgaya to Varanasi by AC Swift Dzire is **₹5,004 one-way** and **₹6,864 round-trip**, covering **260-265 km** in about **~6 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why People Travel Bodhgaya → Varanasi
 
 Bodh Gaya draws Buddhist pilgrims and foreign tourists to the Mahabodhi Temple, Bodhi Tree and international monasteries, peaking in the cool winter (Dec–Feb). Overseas visitors especially value an English-speaking driver, a clean car and a fixed, predictable price.
-
 
 ## Quick Facts: Bodhgaya to Varanasi Distance, Time & Fare
 

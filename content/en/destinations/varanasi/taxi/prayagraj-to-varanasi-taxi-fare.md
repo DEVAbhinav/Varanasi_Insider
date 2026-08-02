@@ -147,10 +147,6 @@ relatedPosts:
 
 Arriving in Kashi from Prayagraj? Here are the car-wise **Prayagraj to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Prayagraj, a name-board at the station/airport, and a fixed price agreed before you travel. 
 
-> 🚕 **Fare snapshot:** Prayagraj to Varanasi by AC Swift Dzire is **₹2,388 one-way** and **₹3,275 round-trip**, covering **120-125 km** in about **2.5-3 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Prayagraj to Varanasi taxi service page](/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why People Travel Prayagraj → Varanasi
 
 Most travellers go for a Triveni Sangam snan — demand peaks during Magh Mela (Jan–Feb) and Kumbh, when the goal is to reach Sangam around sunrise and return before the afternoon rush. Off-season, families come for Anand Bhavan, Allahabad Fort and a Sangam boat ride.
@@ -187,8 +183,9 @@ Here is the complete **Prayagraj to Varanasi fare card** by vehicle. Every fare 
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹7,250 | ₹8,750 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹8,125 | ₹9,250 |
 
-
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Prayagraj to Varanasi taxi service page](/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Prayagraj to Varanasi
 

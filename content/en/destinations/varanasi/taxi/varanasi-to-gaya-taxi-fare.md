@@ -143,14 +143,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Gaya**? Here are the car-wise **Varanasi to Gaya taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for pind-daan at vishnupad temple + access to bodh gaya (mahabodhi, buddhist circuit).
 
-> 🚕 **Fare snapshot:** Varanasi to Gaya by AC Swift Dzire is **₹4,813 one-way** and **₹6,602 round-trip**, covering **250-255 km** in about **5-6 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Gaya taxi service page](/en/city/gaya/taxi/varanasi-to-gaya-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why Travellers Book Varanasi to Gaya
 
 The main reason is pind-daan at the Vishnupad Temple, which spikes sharply during Pitru Paksha; Gaya also doubles as the gateway to Bodh Gaya. At 5.5–6 hours each way, a same-day return needs a 4–5 am start, while most families prefer an overnight halt to combine rituals with a Bodh Gaya visit.
-
 
 ## Quick Facts: Varanasi to Gaya Fare, Time & Route
 
@@ -185,6 +180,8 @@ Here is the complete **Varanasi to Gaya fare card** by vehicle. Every fare is fi
 > ⚠️ **Bihar tax:** Bihar entry + green tax for a private car is about ₹200–250 one-way at the UP–Bihar border, so total toll + tax runs ~₹600–750.
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Gaya taxi service page](/en/city/gaya/taxi/varanasi-to-gaya-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Varanasi to Gaya
 

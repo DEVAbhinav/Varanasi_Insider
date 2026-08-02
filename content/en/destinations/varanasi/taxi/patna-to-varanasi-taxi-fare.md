@@ -148,12 +148,9 @@ relatedPosts:
 
 Arriving in Kashi from Patna? Here are the car-wise **Patna to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Patna, a name-board at the station/airport, and a fixed price agreed before you travel. 
 
-> 🚕 **Fare snapshot:** Patna to Varanasi by AC Swift Dzire is **₹5,081 one-way** and **₹6,969 round-trip**, covering **255-278 km (route-dependent)** in about **5.5-6.5 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why People Travel Patna → Varanasi
 
 Trips are mostly capital-city visits — work, exams, medical — and Gaya/Bodhgaya + Patna circuits. The Koilwar bridge over the Sone is a natural photo and break point.
-
 
 ## Quick Facts: Patna to Varanasi Distance, Time & Fare
 

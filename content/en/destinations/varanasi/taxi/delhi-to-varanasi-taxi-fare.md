@@ -146,8 +146,6 @@ relatedPosts:
 
 Arriving in Kashi from Delhi? Here are the car-wise **Delhi to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Delhi, a name-board at the station/airport, and a fixed price agreed before you travel. 
 
-> 🚕 **Fare snapshot:** Delhi to Varanasi by AC Swift Dzire is **₹16,407 one-way** and **₹22,506 round-trip**, covering **~859 km** in about **12.5-13 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why People Travel Delhi → Varanasi
 
 People choose the ~13-hour road run over train or flight when they have heavy luggage, want true door-to-door service, travel at odd hours, or bring pets or elderly passengers who dislike station/airport chaos. A frequent pattern is a one-way drive to catch a Delhi flight.
@@ -183,7 +181,6 @@ Here is the complete **Delhi to Varanasi fare card** by vehicle. Every fare is f
 | **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹43,809 | ₹53,258 |
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹49,822 | ₹60,130 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹55,835 | ₹63,566 |
-
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
 

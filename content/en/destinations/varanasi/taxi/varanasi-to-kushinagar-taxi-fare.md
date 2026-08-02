@@ -143,14 +143,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Kushinagar**? Here are the car-wise **Varanasi to Kushinagar taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for buddhist pilgrimage (mahaparinirvana temple, ramabhar stupa, monasteries).
 
-> 🚕 **Fare snapshot:** Varanasi to Kushinagar by AC Swift Dzire is **₹6,303 one-way** and **₹8,646 round-trip**, covering **325-335 km** in about **6-7 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Kushinagar taxi service page](/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why Travellers Book Varanasi to Kushinagar
 
 A Buddhist-circuit trip (Mahaparinirvana Temple, Ramabhar Stupa, monasteries), often combined with Sarnath and Lumbini; foreign pilgrims value a clean vehicle, language support and a fixed itinerary.
-
 
 ## Quick Facts: Varanasi to Kushinagar Fare, Time & Route
 
@@ -182,8 +177,9 @@ Here is the complete **Varanasi to Kushinagar fare card** by vehicle. Every fare
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹19,140 | ₹23,100 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹21,450 | ₹24,420 |
 
-
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Kushinagar taxi service page](/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Varanasi to Kushinagar
 

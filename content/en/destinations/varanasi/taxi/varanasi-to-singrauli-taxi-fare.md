@@ -144,12 +144,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Singrauli**? Here are the car-wise **Varanasi to Singrauli taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for mining/power-sector work trips.
 
-> 🚕 **Fare snapshot:** Varanasi to Singrauli by AC Swift Dzire is **₹3,705 one-way** and **₹5,083 round-trip**, covering **~194 km** in about **~5.5 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
 ## Why Travellers Book Varanasi to Singrauli
 
 Demand is mostly mining and power-sector work travel; the route runs via Mirzapur, Robertsganj and Renukoot.
-
 
 ## Quick Facts: Varanasi to Singrauli Distance, Time & Fare
 
@@ -180,7 +177,6 @@ Here is the complete **Varanasi to Singrauli fare card** by vehicle. Every fare 
 | **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹9,894 | ₹12,028 |
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹11,252 | ₹13,580 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹12,610 | ₹14,356 |
-
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
 

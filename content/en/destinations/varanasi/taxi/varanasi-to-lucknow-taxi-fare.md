@@ -142,14 +142,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Lucknow**? Here are the car-wise **Varanasi to Lucknow taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for airport/rail connectivity, medical/education, state-capital business.
 
-> 🚕 **Fare snapshot:** Varanasi to Lucknow by AC Swift Dzire is **₹5,883 one-way** and **₹8,070 round-trip**, covering **300-316 km** in about **5-6 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Lucknow taxi service page](/en/city/lucknow/taxi/varanasi-to-lucknow-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why Travellers Book Varanasi to Lucknow
 
 Common reasons are catching a flight or train from Lucknow, and medical visits to SGPGI/Medanta with family and luggage. The Purvanchal Expressway makes this a fast, smooth ride, and one-way airport drops are popular.
-
 
 ## Quick Facts: Varanasi to Lucknow Fare, Time & Route
 
@@ -181,8 +176,9 @@ Here is the complete **Varanasi to Lucknow fare card** by vehicle. Every fare is
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹17,864 | ₹21,560 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹20,020 | ₹22,792 |
 
-
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Lucknow taxi service page](/en/city/lucknow/taxi/varanasi-to-lucknow-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Varanasi to Lucknow
 

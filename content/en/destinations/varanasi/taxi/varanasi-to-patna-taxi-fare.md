@@ -145,14 +145,9 @@ relatedPosts:
 
 Planning a trip from **Varanasi to Patna**? Here are the car-wise **Varanasi to Patna taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. Most travellers make this trip for capital-city visits, gaya/bodhgaya+patna circuits, work/exams/medical.
 
-> 🚕 **Fare snapshot:** Varanasi to Patna by AC Swift Dzire is **₹5,081 one-way** and **₹6,969 round-trip**, covering **255-278 km (route-dependent)** in about **5.5-6.5 hr**. Fuel, tolls and driver included. [Get your fixed fare on WhatsApp](https://wa.me/919935474730).
-
-> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Patna taxi service page](/en/city/patna/taxi/varanasi-to-patna-taxi)**. This page is the **car-wise fare and rate card** for the same route.
-
 ## Why Travellers Book Varanasi to Patna
 
 Trips are mostly capital-city visits — work, exams, medical — and Gaya/Bodhgaya + Patna circuits. The Koilwar bridge over the Sone is a natural photo and break point.
-
 
 ## Quick Facts: Varanasi to Patna Fare, Time & Route
 
@@ -187,6 +182,8 @@ Here is the complete **Varanasi to Patna fare card** by vehicle. Every fare is f
 > ⚠️ **Bihar tax:** Bihar entry + green tax for a car is ~₹200–250 at the border, so total toll + tax is roughly ₹600–750 one-way.
 
 *One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+> 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Varanasi to Patna taxi service page](/en/city/patna/taxi/varanasi-to-patna-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
 ## Choose Your Vehicle for Varanasi to Patna
 
