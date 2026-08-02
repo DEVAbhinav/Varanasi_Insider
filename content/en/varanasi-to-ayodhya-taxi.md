@@ -97,11 +97,12 @@ Most Varanasi taxi drivers take this route — it's the fastest and avoids Jaunp
 | **Ertiga / 6-seater** | 6 pax | ₹5,300 | ₹6,600 | Families with luggage |
 | **Innova** | 7 pax | ₹5,900 | ₹7,400 | Larger families, elder comfort |
 | **Innova Crysta** | 7 pax | ₹6,700 | ₹8,600 | Premium comfort on the highway |
-| **12-seater Tempo** | 12 pax | ₹9,400 | ₹10,800 | Groups, joint family |
-| **17-seater Tempo** | 17 pax | ₹10,200 | ₹12,400 | Large groups, wedding parties |
+| **12-seater Tempo** | 12 pax | ₹9,400 | ₹14,500 | Groups, joint family |
+| **17-seater Tempo** | 17 pax | ₹10,200 | ₹15,500 | Large groups, wedding parties |
 
 **What's included:** Toll (₹215), fuel, driver meals, pickup/drop.  
-**What's extra:** Parking at Ram Mandir (₹100–₹150), night halt charges if overnight (₹300 driver stay), state tax where applicable.
+**What's extra:** Parking at Ram Mandir (₹100–₹150), night halt charges if overnight (₹300 driver stay), state tax where applicable.  
+*Tempo Traveller same-day return fares are all-inclusive — parking and state tax are already covered.*
 
 {{CTA:ROUTE_CAB_AYODHYA:en}}
 

@@ -188,7 +188,7 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 | **Ertiga** | 6 passengers | ₹5,300 | ₹6,600 | Families with kids | 3-row seating, extra luggage space |
 | **Innova** | 6-7 passengers | ₹5,900 | ₹7,400 | Large families, elderly | Superior comfort, smooth suspension |
 | **Innova Crysta** | 6-7 passengers | ₹6,700 | ₹8,600 | Premium comfort seekers | Push-back seats, excellent legroom |
-| **Tempo Traveller 12-Seater** | 12 passengers | ₹9,400 | ₹10,800 | Group pilgrimages | Entertainment system, overhead luggage |
+| **Tempo Traveller 12-Seater** | 12 passengers | ₹9,400 | ₹14,500 | Group pilgrimages | Entertainment system, overhead luggage |
 
 ### What's included in your fare
 
@@ -264,14 +264,14 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 
 | Component | Amount |
 |-----------|--------|
-| Base Fare | ₹500 |
-| Per-km Rate (150 km) | ₹1,800 (@ ₹12/km) |
-| Toll Charges | ₹100 |
-| Driver Allowance (one-way) | ₹400 |
-| GST (5%) | ₹140 |
-| **Total Estimated One-Way Fare** | **₹2,940 ≈ ₹3,820** (includes buffer) |
+| Distance billed | 200 km |
+| Per-km rate (AC Swift Dzire) | ₹18/km |
+| Running cost (200 km × ₹18) | ₹3,600 |
+| Toll charges | ₹220 |
+| Fuel + driver allowance | Included |
+| **Total One-Way Fare** | **₹3,820** |
 
-**Round-trip pricing**: ₹6,500 (save ₹700 vs 2x one-way)
+**Round-trip pricing**: ₹5,240 (save ₹2,400 vs 2× one-way)
 
 ### Cost comparison: Vande Bharat vs taxi
 
@@ -285,7 +285,7 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 | **Taxi (Dzire)** | ₹3,820 | ₹0 (door-to-door) | **₹3,820** | 4-5 hours |
 
 **Value Analysis**:
-- Taxi costs **₹888 per person** (₹3,820 ÷ 4) - comparable to Vande Bharat Chair Car
+- Taxi costs **₹955 per person** (₹3,820 ÷ 4) - comparable to Vande Bharat Chair Car
 - **Privacy**: Private vehicle vs crowded train
 - **Flexibility**: Leave after Ram Mandir darshan anytime, not bound by train schedule
 - **Comfort**: Dedicated AC, luggage in trunk (not overhead), music control
