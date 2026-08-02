@@ -8,16 +8,15 @@ lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg"
 metaTitle: "Varanasi to Ayodhya Taxi Fare ₹3,820 | Book Ram Mandir Cab"
 metaDescription: "Varanasi to Ayodhya taxi fare from ₹3,820 one-way and ₹5,240 same-day return in an AC sedan — fuel, tolls and driver included, fixed before you book. 200 km, 4-5 hrs, drop 800 m from Ram Mandir."
-description: "The Varanasi to Ayodhya taxi booking page: fixed car-wise fares, what is included, same-day Ram Mandir return timing, and route distance and drive time."
+description: "The Varanasi to Ayodhya taxi booking page: fixed car-wise fares, what is included, same-day Ram Mandir return timing and how to book."
 keywords:
   - "varanasi to ayodhya taxi"
   - "varanasi to ayodhya taxi fare"
   - "varanasi to ayodhya cab price"
   - "banaras se ayodhya taxi kiraya"
   - "varanasi to ayodhya taxi booking"
-  - "varanasi to ayodhya distance"
-  - "kashi to ayodhya distance by road fare"
-  - "banaras se ayodhya ki duri"
+  - "varanasi ayodhya tour package"
+  - "ayodhya ram mandir darshan taxi"
   - "varanasi to ayodhya train vs taxi"
 tags:
   - varanasi
@@ -33,8 +32,8 @@ relatedPosts:
 faqSchema:
   - question: "How much is taxi fare from Varanasi to Ayodhya?"
     answer: "The Varanasi to Ayodhya taxi fare is ₹3,820 one way and ₹5,240 same-day return in an AC Swift Dzire sedan. Ertiga is ₹5,300 one way, Innova ₹5,900 and Innova Crysta ₹6,700. Every fare includes fuel, the Jaunpur toll and the driver, and is fixed in writing before you book. Parking near Ram Mandir (₹100-150) is extra."
-  - question: "What is the distance from Varanasi to Ayodhya by road?"
-    answer: "The road distance from Varanasi to Ayodhya is about 200 km via NH-31 (Jaunpur bypass) and 219 km via NH-31 through Jaunpur city. The journey usually takes 4 to 5 hours depending on traffic and city congestion near Ayodhya. After the 4-lane widening of NH-31, drive time has improved to 3.5-4 hours in off-peak conditions."
+  - question: "How do I book a Varanasi to Ayodhya taxi?"
+    answer: "Send your travel date, pickup address and group size on WhatsApp or call +91 99354 74730. We confirm the car, the driver and a fixed all-inclusive fare in writing before you pay anything. No advance is needed to hold a booking for same-week travel, and you pay the driver at the end of the trip."
   - question: "Is train or taxi better from Varanasi to Ayodhya?"
     answer: "Train is cheaper (from ₹150 for Sealdah-Lucknow Express), but takes 4-5 hours and drops you at Ayodhya Junction, 5 km from Ram Mandir. Taxi picks you up from hotel, takes the fastest route and drops you 800 metres from Ram Mandir security gate — saving 1-2 hours of auto/rickshaw transfers."
   - question: "Can I visit Ram Mandir and return to Varanasi the same day?"
@@ -56,9 +55,9 @@ faqSchema:
 >
 > Travelling as a group? See our [Ayodhya tempo traveller price list](/en/varanasi-to-ayodhya-tempo-traveller).
 
-**Also searched as:** Banaras se Ayodhya ki duri • वाराणसी से अयोध्या की दूरी • बनारस से अयोध्या कितने किलोमीटर है • Kashi to Ayodhya distance
+**Also searched as:** Banaras se Ayodhya taxi kiraya • वाराणसी से अयोध्या टैक्सी बुकिंग • अयोध्या राम मंदिर दर्शन टैक्सी • Kashi to Ayodhya cab booking
 
-## Quick Distance & Fare Snapshot
+## Quick Fare & Route Snapshot
 
 | Detail | Information |
 |---|---|
@@ -113,7 +112,7 @@ Planning Ayodhya with Prayagraj in one trip? See the [Kashi–Prayag–Ayodhya p
 
 | Factor | Train | Taxi |
 |---|---|---|
-| **Cost** | ₹150–₹600 (sleeper to AC) | ₹3,820 (can split 4 ways = ₹955/head) |
+| **Cost** | ₹150–₹600 (sleeper to AC) | ₹3,820 fixed for the whole car |
 | **Travel time** | 4–5 hrs (often delayed) | 4–5 hrs (door to door) |
 | **Pickup** | You go to station | Picks you up from hotel/airport |
 | **Drop point** | Ayodhya Junction (5 km from Ram Mandir) | 800 m from Ram Mandir gate |
@@ -181,23 +180,23 @@ Yes — it's the most popular same-day trip from Kashi. Here's the optimised pla
 
 **Tip:** If your group includes elders or you want a relaxed pace, consider an overnight stay in Ayodhya. We can arrange pickup the next morning.
 
-## Kashi to Ayodhya by Road: Distance Variants
+## Kashi to Ayodhya Taxi: Fares by Pickup Point
 
-People search different versions of this route — here are the actual distances:
+Your fare does not change based on where in Varanasi we collect you — the same fixed ₹3,820 applies whether you are at a ghat, a hotel, the airport or Sarnath:
 
-**Banaras se Ayodhya ki duri** (distance from Banaras to Ayodhya) is approximately **200 km** via NH-31 bypass. बनारस से अयोध्या की दूरी लगभग 200 किलोमीटर है और सफर में 4 से 5 घंटे लगते हैं। बनारस से अयोध्या का किराया (taxi fare) सेडान में ₹3,820 एक तरफ और ₹5,240 सेम-डे रिटर्न है — इसमें पेट्रोल, टोल और ड्राइवर शामिल हैं।
+| Pickup point | Sedan one-way | Same-day return | Pickup charge |
+|---|---:|---:|---|
+| Varanasi (Cantonment / Junction) | ₹3,820 | ₹5,240 | Included |
+| Varanasi (Lanka / BHU area) | ₹3,820 | ₹5,240 | Included |
+| Varanasi Airport (VNS) | ₹3,820 | ₹5,240 | Included |
+| Varanasi (Assi Ghat) | ₹3,820 | ₹5,240 | Included |
+| Sarnath | ₹3,820 | ₹5,240 | Included |
 
-| From | To | Distance | Drive time |
-|---|---|---:|---|
-| Varanasi (Lanka/BHU area) | Ayodhya (Ram Mandir) | 205 km | 4.5 hrs |
-| Varanasi (Cantonment/Junction) | Ayodhya (Ram Mandir) | 200 km | 4 hrs |
-| Varanasi Airport (VNS) | Ayodhya (Ram Mandir) | 195 km | 4 hrs |
-| Varanasi (Assi Ghat) | Ayodhya (Ram Mandir) | 210 km | 4.5 hrs |
-| Sarnath | Ayodhya (Ram Mandir) | 208 km | 4.5 hrs |
+**बनारस से अयोध्या का किराया** सेडान में ₹3,820 एक तरफ और ₹5,240 सेम-डे रिटर्न है — इसमें पेट्रोल, टोल और ड्राइवर शामिल हैं, और वाराणसी में कहीं से भी पिकअप मुफ़्त है।
 
-All distances via NH-31 Jaunpur bypass route. Add 15-20 km if going through Jaunpur city.
+All fares are for the NH-31 Jaunpur bypass route and include the ₹215 toll.
 
-Now that you know the distance, the next question is usually the fare — send us your date and group size and we will confirm a fixed figure in writing:
+Tell us your travel date and group size and we will confirm your fixed fare in writing:
 
 {{CTA:ROUTE_CAB_AYODHYA:en}}
 
@@ -268,5 +267,5 @@ Ayodhya pilgrims almost always spend a night in Varanasi. Book the whole trip wi
 - [Ayodhya 2-Day Tour Package from Varanasi](/en/city/ayodhya/tour-packages/ayodhya-2-day-tour)
 - [Varanasi-Ayodhya-Prayagraj Pilgrimage Taxi](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi)
 - [Tour Packages from Varanasi](/en/tour-package-from-varanasi)
-- [Varanasi to Prayagraj Distance & Taxi Fare](/en/varanasi-to-prayagraj-taxi)
+- [Varanasi to Prayagraj Taxi Fare & Booking](/en/varanasi-to-prayagraj-taxi)
 - [Ayodhya travel & taxi services](https://bharat-tourism.com/city/ayodhya) — complete Ayodhya destination hub

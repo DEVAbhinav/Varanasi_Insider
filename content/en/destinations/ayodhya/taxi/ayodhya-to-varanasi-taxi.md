@@ -34,7 +34,7 @@ faqSchema:
   - question: "Can I combine Ram Janmabhoomi darshan with Kashi Vishwanath same day?"
     answer: "Yes! With early morning departure (6-7 AM) from Ayodhya after Ram Mandir darshan, you reach Varanasi by 10-11 AM for Kashi Vishwanath temple visit and evening Ganga Aarti. This completes the Divine Quad Circuit in one day."
   - question: "Should I take Vande Bharat or taxi from Ayodhya to Varanasi?"
-    answer: "Vande Bharat Express (2h 30m, ₹500-₹2,800) is faster but less flexible. Taxi (4-5h, ₹3,820) offers door-to-door service, luggage convenience, stops for photos/food, and costs less for families (₹955/person for 4 vs ₹500-700 train ticket). Groups of 3+ should choose taxi."
+    answer: "Vande Bharat Express (2h 30m, ₹500-₹2,800) is faster but less flexible. Taxi (4-5h, ₹3,820) offers door-to-door service, luggage convenience, stops for photos/food, and works out cheaper for a family of four once station transfers and porter fees are counted. Groups of 3+ should choose taxi."
   - question: "What is boarding station confusion in Ayodhya?"
     answer: "80% of travelers don't know Ayodhya has 2 stations: Ayodhya Dham (new, 2 km from Ram Mandir, faster) and Ayodhya Cantt (old, 15 km from temple, adds 30 min travel time). Taxi avoids this confusion with direct temple pickup."
 ---
@@ -285,7 +285,7 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 | **Taxi (Dzire)** | ₹3,820 | ₹0 (door-to-door) | **₹3,820** | 4-5 hours |
 
 **Value Analysis**:
-- Taxi costs **₹955 per person** (₹3,820 ÷ 4) - comparable to Vande Bharat Chair Car
+- **One fixed fare** of ₹3,820 for the whole car - no per-head ticketing
 - **Privacy**: Private vehicle vs crowded train
 - **Flexibility**: Leave after Ram Mandir darshan anytime, not bound by train schedule
 - **Comfort**: Dedicated AC, luggage in trunk (not overhead), music control
