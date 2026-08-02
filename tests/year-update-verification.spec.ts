@@ -35,7 +35,7 @@ const CRITICAL_PAGES = [
   { url: '/en/about', name: 'About' },
   { url: '/en/contact', name: 'Contact' },
   { url: '/en/services', name: 'Services' },
-  { url: '/en/packages', name: 'Packages' },
+  { url: '/en/packages/varanasi-tour-package', name: 'Varanasi Tour Package' },
   { url: '/en/sarnath-complete-guide', name: 'Sarnath Guide' },
   { url: '/en/tempo-traveller-varanasi', name: 'Tempo Traveller' },
   { url: '/en/varanasi-travel-agent', name: 'Travel Agent' },

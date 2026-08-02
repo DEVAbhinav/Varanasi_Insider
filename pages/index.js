@@ -10,14 +10,24 @@ import JsonLd from '../components/JsonLd/JsonLd';
 import getHomeSchema from '../components/JsonLd/homepageSchema';
 import HreflangTags from '../components/SEO/HreflangTags';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
+import PackageGateway from '../components/PackageGateway/PackageGateway';
 import { getAllPostsMeta } from '../lib/posts';
-import { CONTACT, getCallTelHref } from '@/lib/contact';
+import { CONTACT, getCallTelHref, getWhatsAppUrl } from '@/lib/contact';
+import { Phone } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { logClick } from '@/lib/logClick';
 import {
   OUTSTATION_FAQ_EMPHASIS,
   OUTSTATION_FAQ_LEAD,
   OUTSTATION_FAQ_TAIL,
   outstationRouteList,
 } from '../lib/outstationFares';
+import {
+  AIRPORT_CITY_SEDAN_FARE,
+  airportTaxiFaqAnswer,
+  taxiCostFaqAnswer,
+} from '../lib/taxiRates';
+import { formatINR } from '../lib/pricing';
 
 // Lightweight skeleton for section placeholders
 function SectionSkeleton({ title = 'Loading…' }) {
@@ -117,7 +127,7 @@ export default function HomePage({ allPosts }) {
         <title>Taxi in Varanasi | Taxi Service in Varanasi & Airport Cab</title>
         <meta
           name="description"
-          content="Taxi & cab service in Varanasi — airport pickup from ₹700, sightseeing, outstation & pilgrimage trips. Fixed fares, verified drivers, instant WhatsApp booking."
+          content={`Taxi & cab service in Varanasi — airport pickup from ${formatINR(AIRPORT_CITY_SEDAN_FARE)}, sightseeing, outstation and pilgrimage trips. Confirm fares and book on WhatsApp.`}
         />
         <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi group tour package, kashi group tour, ayodhya varanasi prayagraj group tour, varanasi tour package from delhi, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
         <meta name="author" content="Kashi Taxi" />
@@ -239,13 +249,13 @@ export default function HomePage({ allPosts }) {
             {/* Main Title */}
             <div className="text-center mb-4">
               <div className="inline-block mb-2 px-4 py-1.5 bg-white/20 backdrop-blur-md rounded-full text-[10px] md:text-xs font-bold border border-white/30 uppercase tracking-widest text-white/90">
-                Taxi in Varanasi + Pilgrimage Packages
+                Local Taxi • Airport • Outstation
               </div>
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-extrabold mb-3 drop-shadow-2xl tracking-tight leading-tight">
                 Taxi in Varanasi – Airport Cab, Local Tours & Outstation
               </h1>
               <h2 className="text-sm md:text-lg font-medium text-white/95 mb-2 drop-shadow-md">
-                Taxi Service in Varanasi — Airport Pickup, Kashi Darshan, Group Tours, Ayodhya, Prayagraj & Vindhyachal
+                Taxi Service in Varanasi — Airport, Station, Local & Outstation Booking
               </h2>
               <p className="text-xs md:text-sm font-light text-white/80 drop-shadow-lg italic">
                 "You handle the darshan. We handle the route, timing and driver."
@@ -255,31 +265,54 @@ export default function HomePage({ allPosts }) {
             {/* Functional Booking Widget */}
             <HeroBookingWidget />
 
-            <div className="mt-5 flex flex-wrap items-center justify-center gap-2">
-              {[
-                { href: '/en/varanasi-tour-package-for-families', label: 'Family Package' },
-                { href: '/en/kashi-vishwanath-darshan-ganga-aarti-package', label: 'Darshan + Aarti' },
-                { href: '/en/varanasi-tour-package-with-hotel', label: 'Hotel + Cab' },
-                { href: '/en/senior-citizen-varanasi-tour-package', label: 'Senior Comfort' },
-                { href: '/en/packages', label: 'All Packages' },
-                { href: '/en/varanasi-group-tour-package', label: 'Group Tours 6-40+' },
-              ].map((link) => (
-                <a
-                  key={link.href}
-                  href={link.href}
-                  className="rounded-full border border-white/35 bg-white/15 px-4 py-2 text-xs font-semibold text-white backdrop-blur-md transition hover:bg-white/25"
-                >
-                  {link.label}
-                </a>
-              ))}
+            <div className="mt-5 flex flex-wrap items-center justify-center gap-3">
+              <a
+                id="home_hero_call"
+                href={getCallTelHref()}
+                onClick={() => logClick('CALL')}
+                data-cta-id="home_hero_call"
+                data-cta-location="home_hero"
+                data-page-type="generic_taxi_owner"
+                data-intent-cluster="generic_taxi"
+                data-service-type="taxi"
+                className="rounded-xl bg-white px-5 py-3 text-sm font-bold text-cyan-800 shadow-lg transition hover:bg-cyan-50"
+              >
+                Call for Taxi
+              </a>
+              <a
+                id="home_hero_whatsapp"
+                href={getWhatsAppUrl('Hi, I need a taxi quote in Varanasi. Pickup: __, Destination: __, Date/time: __, Passengers: __.')}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => logClick('WHATSAPP')}
+                data-cta-id="home_hero_whatsapp"
+                data-cta-location="home_hero"
+                data-page-type="generic_taxi_owner"
+                data-intent-cluster="generic_taxi"
+                data-service-type="taxi"
+                className="rounded-xl bg-emerald-500 px-5 py-3 text-sm font-bold text-white shadow-lg transition hover:bg-emerald-600"
+              >
+                WhatsApp Fare Quote
+              </a>
             </div>
 
-            {/* Cab Service Relevance Line */}
-            <div className="mt-6 text-center">
-              <p className="text-[11px] md:text-xs text-white/70 font-medium tracking-wide">
-                Need only a cab? Our <span className="text-white">taxi service in Varanasi</span> is live 24×7. Need darshan planning too? Start with a <span className="text-white">city tour or pilgrimage package</span>.
-              </p>
-            </div>
+            {/* Single compact helper line — readable on the hero image */}
+            <p className="mt-4 mb-2 text-center text-xs font-medium text-white md:text-sm">
+              Booking a cab only? <a href="/en/city/varanasi/taxi" className="font-semibold underline underline-offset-2">See routes &amp; fares</a>
+              <span className="mx-2 text-white/50">|</span>
+              Need hotel too?{' '}
+              <a
+                href="/en/packages/varanasi-tour-package"
+                data-cta-id="home_hero_package_choice"
+                data-cta-location="home_hero"
+                data-page-type="generic_taxi_owner"
+                data-intent-cluster="tour_package"
+                data-service-type="package"
+                className="font-semibold underline underline-offset-2"
+              >
+                See tour packages
+              </a>
+            </p>
           </div>
         </div>
 
@@ -305,17 +338,21 @@ export default function HomePage({ allPosts }) {
       {/* Driver Spotlight - ultra-compact horizontal strip */}
       <section className="bg-gradient-to-r from-cyan-50/70 via-white to-teal-50/70 border-y border-cyan-100/70 py-3 md:py-6 mt-4 md:mt-6">
         <div className="container mx-auto px-4 max-w-6xl overflow-visible">
-          <div className="flex items-center justify-between gap-3 mb-1.5">
-            <div className="flex items-center gap-2">
-              <span className="h-6 w-6 rounded-full bg-cyan-100 text-cyan-700 text-xs font-semibold grid place-items-center">✨</span>
-              <div>
-                <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Serving Kashi since 1998 • 4.8★ on Google</p>
-                <h2 className="text-base font-semibold text-gray-900 leading-snug">Local drivers who know every ghat, gali & shortcut</h2>
+          <div className="mb-4 flex flex-row items-center justify-between gap-3">
+            <div className="flex min-w-0 items-center gap-3">
+              <span className="grid h-10 w-10 shrink-0 place-items-center rounded-2xl bg-gradient-to-br from-cyan-500 to-teal-500 text-sm font-bold text-white shadow-sm">4.8★</span>
+              <div className="min-w-0">
+                <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Serving Kashi since 1998</p>
+                <h2 className="text-sm font-semibold leading-snug text-slate-900 md:text-lg">Local drivers who know every ghat, gali &amp; shortcut</h2>
               </div>
             </div>
-            <div className="flex items-center gap-2 text-[11px] text-gray-500">
-              <a href={getCallTelHref()} className="inline-flex items-center gap-1 text-cyan-700 font-semibold">Talk to us</a>
-            </div>
+            <Button asChild variant="outline" size="sm" className="shrink-0 border-cyan-200 text-cyan-800 hover:bg-cyan-50">
+              <a href={getCallTelHref()}>
+                <Phone className="mr-1.5 h-4 w-4" aria-hidden="true" />
+                <span className="hidden sm:inline">Call {CONTACT.callNumberDisplay.replace('+91 ', '')}</span>
+                <span className="sm:hidden">Call</span>
+              </a>
+            </Button>
           </div>
           <div
             className="flex gap-4 overflow-x-auto overflow-y-visible pb-2 md:pb-6 snap-x snap-mandatory [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden justify-start md:justify-center scroll-smooth"
@@ -370,166 +407,7 @@ export default function HomePage({ allPosts }) {
         </div>
       </section>
 
-      {/* Popular Packages Section - Light Aqua Background */}
-      <section className="relative py-16 bg-gradient-to-b from-cyan-50 via-white to-teal-50 overflow-hidden">
-        {/* Subtle Dot Pattern */}
-        <div className="absolute inset-0 opacity-[0.08]">
-          <div className="absolute inset-0" style={{
-            backgroundImage: `
-              radial-gradient(circle at 15% 25%, rgba(6,182,212,0.4) 2px, transparent 2px),
-              radial-gradient(circle at 45% 15%, rgba(20,184,166,0.3) 1.5px, transparent 1.5px),
-              radial-gradient(circle at 75% 35%, rgba(6,182,212,0.35) 2.5px, transparent 2.5px),
-              radial-gradient(circle at 25% 65%, rgba(20,184,166,0.4) 2px, transparent 2px),
-              radial-gradient(circle at 85% 75%, rgba(6,182,212,0.3) 1.8px, transparent 1.8px)
-            `,
-            backgroundSize: '800px 800px',
-          }}></div>
-        </div>
-
-        <div className="container mx-auto px-4 relative z-10">
-          <div className="text-center mb-12">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Popular Varanasi Packages That Match the Real Need
-            </h2>
-            <p className="text-gray-600 text-lg">
-              Start with the booking page that matches the actual buying question: family trip, hotel-inclusive stay, temple plus Aarti planning, or elder-friendly Kashi pacing.
-            </p>
-          </div>
-
-          <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-8 max-w-7xl mx-auto">
-            {/* Family package card */}
-            <a
-              href="/en/varanasi-tour-package-for-families"
-              className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
-            >
-              <div className="relative h-48">
-                <Image
-                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Ganga-boat-birds-ghats-morning-l.jpg"
-                  alt="Varanasi family package"
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  className="object-cover group-hover:scale-110 transition-transform duration-500"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Family Package</h3>
-                </div>
-              </div>
-              <div className="p-6">
-                <p className="text-gray-600 mb-4 text-sm">
-                  The main owner page for parents, kids and grandparents who need hotel, cab, darshan planning and a calm 2N/3D Kashi flow.
-                </p>
-                <div className="flex items-center justify-between">
-                  <span className="text-teal-600 font-bold text-lg">2N/3D best fit</span>
-                  <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    Open Family Package →
-                  </span>
-                </div>
-              </div>
-            </a>
-
-            {/* Hotel package card */}
-            <a
-              href="/en/varanasi-tour-package-with-hotel"
-              className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
-            >
-              <div className="relative h-48">
-                <Image
-                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png"
-                  alt="Varanasi package with hotel"
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  className="object-cover group-hover:scale-110 transition-transform duration-500"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Hotel + Cab Package</h3>
-                </div>
-              </div>
-              <div className="p-6">
-                <p className="text-gray-600 mb-4 text-sm">
-                  Stay-belt-first planning for travelers deciding between Assi, Cantt, near-ghat and temple-access locations with local cab support.
-                </p>
-                <div className="flex items-center justify-between">
-                  <span className="text-teal-600 font-bold text-lg">Stay + cab planning</span>
-                  <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    Compare Stay Options →
-                  </span>
-                </div>
-              </div>
-            </a>
-
-            {/* Darshan package card */}
-            <a
-              href="/en/kashi-vishwanath-darshan-ganga-aarti-package"
-              className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
-            >
-              <div className="relative h-48">
-                <Image
-                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
-                  alt="Kashi Vishwanath darshan and Ganga Aarti package"
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  className="object-cover group-hover:scale-110 transition-transform duration-500"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Darshan + Ganga Aarti</h3>
-                </div>
-              </div>
-              <div className="p-6">
-                <p className="text-gray-600 mb-4 text-sm">
-                  The commercial owner for Kashi Vishwanath darshan, official-safe Sugam guidance, boat options and same-day temple plus Aarti planning.
-                </p>
-                <div className="flex items-center justify-between">
-                  <span className="text-teal-600 font-bold text-lg">Temple-first plan</span>
-                  <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    Open Darshan Package →
-                  </span>
-                </div>
-              </div>
-            </a>
-
-            {/* Senior package card */}
-            <a
-              href="/en/senior-citizen-varanasi-tour-package"
-              className="group bg-white rounded-2xl shadow-lg border border-cyan-100 overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
-            >
-              <div className="relative h-48">
-                <Image
-                  src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg"
-                  alt="Senior citizen Varanasi package"
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  className="object-cover group-hover:scale-110 transition-transform duration-500"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                <div className="absolute bottom-4 left-4 right-4">
-                  <h3 className="text-white font-bold text-xl drop-shadow-lg">Senior Comfort Package</h3>
-                </div>
-              </div>
-              <div className="p-6">
-                <p className="text-gray-600 mb-4 text-sm">
-                  Low-walking, hotel-access-first Kashi planning for elders who need rest windows, easier movement and less crowd punishment.
-                </p>
-                <div className="flex items-center justify-between">
-                  <span className="text-teal-600 font-bold text-lg">Low-walking flow</span>
-                  <span className="text-sm text-cyan-600 group-hover:translate-x-2 transition-transform">
-                    See Elder Package →
-                  </span>
-                </div>
-              </div>
-            </a>
-          </div>
-        </div>
-
-        {/* Wave Separator - Popular Packages to Rates (white) */}
-        <div className="absolute bottom-0 left-0 right-0 -mb-1">
-          <svg viewBox="0 0 1200 120" preserveAspectRatio="none" className="w-full h-16 md:h-24">
-            <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V120H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="#ecfeff"></path>
-          </svg>
-        </div>
-      </section>
+      <PackageGateway />
 
       {/* Taxi Rates Cheat Sheet - Scannable Pricing Block */}
       <TaxiRatesCheatSheet variant="full" showCTA={true} />
@@ -681,7 +559,7 @@ export default function HomePage({ allPosts }) {
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">
-                <p>Taxi rates in Varanasi start from <strong>₹12/km for sedans</strong> and <strong>₹18/km for SUVs</strong>. Airport pickup costs ₹800-950 (fixed), local full-day tours from ₹2,500, and tempo traveller hire from ₹4,500/day. We offer transparent pricing with no hidden charges.</p>
+                <p>{taxiCostFaqAnswer()}</p>
               </div>
             </details>
 
@@ -711,7 +589,7 @@ export default function HomePage({ allPosts }) {
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">
-                <p>Yes! We provide <strong>prepaid Varanasi airport taxi</strong> with meet-and-greet service. Our driver waits at arrivals with a name board. Fixed fare: ₹800 (sedan) to ₹950 (SUV) for city center. Flight tracking included – no waiting charges for delayed flights.</p>
+                <p>{airportTaxiFaqAnswer()}</p>
               </div>
             </details>
 

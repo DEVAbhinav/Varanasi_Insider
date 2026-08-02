@@ -176,12 +176,24 @@ function collectContentUrls() {
           files.forEach(file => {
             const abs = path.join(categoryDir, file);
             const fm = safeReadFrontmatter(abs);
-            const slug = fm.slug || file.replace(/\.md$/, '');
+            const isIndex = file.toLowerCase() === 'index.md';
+            const slug = isIndex ? category : (fm.slug || file.replace(/\.md$/, ''));
             const lastmod = fm.lastUpdated || fm.date || gitLastModifiedIso(abs);
             // Map to /lang/city/destination/category/slug (e.g., /en/city/varanasi/tour-packages/same-day-tour)
-            const loc = `${BASE_URL}/${lang}/city/${destination}/${category}/${slug}`;
+            const categoryBase = `${BASE_URL}/${lang}/city/${destination}/${category}`;
+            const loc = isIndex ? categoryBase : `${categoryBase}/${slug}`;
             if (!shouldEmitCanonicalizedEntry(loc, fm)) return;
-            urls.push({ loc, priority: '0.8', changefreq: 'weekly', lang, slug, destination, category, type: 'destination', lastmod });
+            urls.push({
+              loc,
+              priority: '0.8',
+              changefreq: 'weekly',
+              lang,
+              slug,
+              destination,
+              category,
+              type: isIndex ? 'destination-index' : 'destination',
+              lastmod,
+            });
           });
         });
       });

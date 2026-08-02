@@ -36,13 +36,19 @@ export default function PackagePage({ pkgData, commerce = null, contentHtml, jso
   const [imgSrc, setImgSrc] = useState(heroImage && heroImage.trim() ? heroImage : "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png");
 
   // Build visible breadcrumb in-page (HeadForBlogs will also get JSON-LD)
+  const packageOwnerUrl = "https://www.kashitaxi.in/en/packages/varanasi-tour-package";
   const crumbs = breadcrumbs?.length
     ? breadcrumbs
-    : [
-      { name: "Home", item: "https://www.kashitaxi.in/" },
-      { name: "Packages", item: "https://www.kashitaxi.in/en/packages/" },
-      { name: title || "Package", item: `https://www.kashitaxi.in/en/packages/${pageSlug}` },
-    ];
+    : pageSlug === "varanasi-tour-package"
+      ? [
+        { name: "Home", item: "https://www.kashitaxi.in/" },
+        { name: "Varanasi Tour Package", item: packageOwnerUrl },
+      ]
+      : [
+        { name: "Home", item: "https://www.kashitaxi.in/" },
+        { name: "Varanasi Tour Packages", item: packageOwnerUrl },
+        { name: title || "Package", item: `https://www.kashitaxi.in/en/packages/${pageSlug}` },
+      ];
 
   return (
     <>
@@ -93,12 +99,14 @@ export default function PackagePage({ pkgData, commerce = null, contentHtml, jso
               <h1 className="text-3xl md:text-5xl font-semibold tracking-tight leading-tight">{title}</h1>
               {subtitle && <p className="mt-3 text-muted-foreground md:text-lg max-w-3xl">{subtitle}</p>}
 
-              {/* Trust pills */}
-              <div className="mt-4 flex flex-wrap items-center gap-2 text-sm">
-                <Badge variant="secondary" className="rounded-full px-3 py-1"><ShieldCheck className="mr-1 h-4 w-4" /> Commercial-permit fleet</Badge>
-                <Badge variant="outline" className="rounded-full px-3 py-1"><Sparkles className="mr-1 h-4 w-4" /> Transparent pricing</Badge>
-                <Badge variant="outline" className="rounded-full px-3 py-1"><BadgeCheck className="mr-1 h-4 w-4" /> Vetted guides & boats</Badge>
-              </div>
+              {/* Trust pills — hidden on commerce pages, where the buy-box already shows badges */}
+              {!commerce && (
+                <div className="mt-4 flex flex-wrap items-center gap-2 text-sm">
+                  <Badge variant="secondary" className="rounded-full px-3 py-1"><ShieldCheck className="mr-1 h-4 w-4" /> Commercial-permit fleet</Badge>
+                  <Badge variant="outline" className="rounded-full px-3 py-1"><Sparkles className="mr-1 h-4 w-4" /> Transparent pricing</Badge>
+                  <Badge variant="outline" className="rounded-full px-3 py-1"><BadgeCheck className="mr-1 h-4 w-4" /> Vetted guides & boats</Badge>
+                </div>
+              )}
 
               {/* Breadcrumbs */}
               <div className="mt-3 flex flex-wrap items-center gap-2 text-xs md:text-sm">
@@ -132,7 +140,10 @@ export default function PackagePage({ pkgData, commerce = null, contentHtml, jso
         {/* Quick highlights row */}
         <section className="bg-muted/30 py-4">
           <div className="mx-auto max-w-6xl px-4 grid gap-3 md:grid-cols-4">
-            {[{ label: "Private Boats (not shared)", icon: Ship }, { label: "Instant WhatsApp Quote", icon: Phone }, { label: "Transparent Pricing", icon: IndianRupee }, { label: "Live Coordination", icon: CheckCircle2 }].map((h, i) => (
+            {(commerce?.productType === "tour_package"
+              ? [{ label: "Hotel & Cab Planned Together", icon: CheckCircle2 }, { label: "Instant WhatsApp Quote", icon: Phone }, { label: "2 / 3 / 4 Day Options", icon: Clock }, { label: "Live Coordination", icon: Sparkles }]
+              : [{ label: "Private Boats (not shared)", icon: Ship }, { label: "Instant WhatsApp Quote", icon: Phone }, { label: "Transparent Pricing", icon: IndianRupee }, { label: "Live Coordination", icon: CheckCircle2 }]
+            ).map((h, i) => (
               <div key={i} className="flex items-center gap-2 text-sm md:text-base"><h.icon className="h-4 w-4" /><span>{h.label}</span></div>
             ))}
           </div>

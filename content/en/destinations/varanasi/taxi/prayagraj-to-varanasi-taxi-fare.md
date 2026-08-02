@@ -2,7 +2,7 @@
 title: 'Prayagraj to Varanasi Taxi & Cab Fare 2026 | 120-125 km, 2.5-3 hr | Kashi Taxi'
 slug: prayagraj-to-varanasi-taxi-fare
 date: '2026-07-24'
-lastUpdated: '2026-07-24'
+lastUpdated: '2026-08-02'
 author: Kamal Nayan Singh
 lang: en
 metaTitle: 'Prayagraj to Varanasi Taxi Fare from ₹2,388 | 120-125 km'
@@ -61,8 +61,8 @@ faqSchema:
       round-trip.
   - question: What is the Prayagraj to Varanasi distance and travel time?
     answer: >-
-      Prayagraj to Varanasi is about 120-125 km, with a typical drive time of
-      2.5-3 hr (up to 3+ hr (Kumbh/festival) at peak).
+      Prayagraj to Varanasi is about 120-125 km. Plan on 2.5-3 hr in normal
+      traffic, or up to 3+ hr (Kumbh/festival) when the road is busy.
   - question: Do you provide AC cars for Prayagraj to Varanasi?
     answer: >-
       Yes, the entire fleet is air-conditioned — Dzire, Ertiga, Innova, Innova
@@ -137,28 +137,26 @@ relatedPosts:
   - varanasi-to-prayagraj-taxi-fare
   - varanasi-to-gaya-taxi-fare
   - varanasi-to-ayodhya-taxi-fare
-  - taxi-service-varanasi
   - taxi-rates-varanasi
 ---
 
 {{CTA:ROUTE_HERO_PRAYAGRAJ_IN:en}}
 
-# Prayagraj to Varanasi Taxi & Cab Fare 2026: ₹2,388+ (Dzire → Tempo Traveller)
+# Prayagraj to Varanasi Taxi & Cab Fare 2026: from ₹2,388
 
-Arriving in Kashi from Prayagraj? Here are the car-wise **Prayagraj to Varanasi taxi and cab fares** for every vehicle, with door-step pickup in Prayagraj, a name-board at the station/airport, and a fixed price agreed before you travel. 
+Coming into Kashi from **Prayagraj**? These are the fixed **Prayagraj to Varanasi taxi fares** by car, with pickup from your hotel, station or airport in Prayagraj, a name-board wait if your train or flight is late, and the price locked before you start.
 
-## Why People Travel Prayagraj → Varanasi
+## Why people travel Prayagraj → Varanasi
 
 Most travellers go for a Triveni Sangam snan — demand peaks during Magh Mela (Jan–Feb) and Kumbh, when the goal is to reach Sangam around sunrise and return before the afternoon rush. Off-season, families come for Anand Bhavan, Allahabad Fort and a Sangam boat ride.
 
-**Planning tip:** For a sunrise snan, leave Varanasi roughly 3–3.5 hours before Prayagraj sunrise (about 2:30–3:00 am when sunrise is near 6:00), allowing for traffic and parking.
 
-## Quick Facts: Prayagraj to Varanasi Fare, Time & Route
+## Quick facts: distance, time and fare
 
 | Detail | Information |
 |--------|-------------|
 | **Distance** | 120-125 km (one-way) |
-| **Drive Time** | 2.5-3 hr \| 3+ hr (Kumbh/festival) at peak |
+| **Drive Time** | 2.5-3 hr \| 3+ hr (Kumbh/festival) |
 | **Route / Highway** | NH-19 via Mohansarai - Gopiganj - Handia - Andawa |
 | **Best Departure** | 5-7 am |
 | **Tolls** | Typical car toll is about ₹230 one-way at the Lalanagar plaza on the Varanasi–Prayagraj highway — already covered in your fixed fare. |
@@ -168,9 +166,9 @@ Most travellers go for a Triveni Sangam snan — demand peaks during Magh Mela (
 
 {{CTA:ROUTE_CAB_PRAYAGRAJ:en}}
 
-## Prayagraj to Varanasi Taxi & Cab Fare — Full Rate Card
+## Full rate card — Prayagraj to Varanasi
 
-Here is the complete **Prayagraj to Varanasi fare card** by vehicle. Every fare is fixed and includes fuel, tolls and the driver — nothing added on the road.
+Every fare below is **fixed** and includes fuel, driver and the highway toll estimate — nothing is added on the road. Pick the car that fits your group; then message us with the date to lock the quote.
 
 | Vehicle | Seats | Best for | One-way | Round-trip |
 |---|---|---|---|---|
@@ -183,96 +181,57 @@ Here is the complete **Prayagraj to Varanasi fare card** by vehicle. Every fare 
 | **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹7,250 | ₹8,750 |
 | **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹8,125 | ₹9,250 |
 
-*One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
+
+*One-way covers the leg you travel; round-trip includes the return. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
 
 > 💡 **Just want to book?** For door-to-door booking, driver details and trip stories, see our main **[Prayagraj to Varanasi taxi service page](/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi)**. This page is the **car-wise fare and rate card** for the same route.
 
-## Choose Your Vehicle for Prayagraj to Varanasi
+## Which car should you book?
 
-Not sure which car fits? Here is what each option costs on this route and who it suits best.
+| Group | Best pick | Why |
+|---|---|---|
+| 1–3 travellers, light bags | **Swift Dzire** (from ₹2,388 one-way) | Lowest fixed fare on this route |
+| 4–6 with luggage | **Ertiga** (from ₹3,313 one-way) | Extra seats without jumping to SUV prices |
+| 5–7 on a longer drive | **Innova / Crysta** (from ₹3,688 one-way) | More comfort once the road is 4+ hours |
+| 8–12 / pilgrimage group | **Tempo Traveller 12** (from ₹5,875 one-way) | Keep the whole group in one vehicle |
+| 13+ travellers | **Tempo 17/26** or **Urbania** | Large families, corporate or temple groups |
 
-### Prayagraj to Varanasi in a Swift Dzire — 4-seater (Couples & small families; most economical AC sedan)
+Full prices sit in the rate card above — use this table only to match a car to your group.
 
-- **Fare on this route:** ₹2,388 one-way · ₹3,275 round-trip
-- **Capacity:** 4 passengers · 2 bags · AC
-- **Who should pick this:** Couples & small families; most economical AC sedan
+## One-way vs round-trip
 
-### Prayagraj to Varanasi in a Maruti Ertiga — 6-seater (Families of 5-6 with luggage; comfortable mid SUV)
+- **One-way** (from ₹2,388 in a Dzire) — best when you do not need the car back, for example a station/airport drop or a stay in Varanasi.
+- **Round-trip** (from ₹3,275) — best for a same-day visit, or when you want the same driver waiting for the return leg.
 
-- **Fare on this route:** ₹3,313 one-way · ₹4,125 round-trip
-- **Capacity:** 6 passengers · 3 bags · AC
-- **Who should pick this:** Families of 5-6 with luggage; comfortable mid SUV
+Genuine **one-way drops** are available on this route — you are not forced to pay for an empty return.
 
-### Prayagraj to Varanasi in a Toyota Innova — 7-seater (Larger families & long outstation trips; proven reliability)
-
-- **Fare on this route:** ₹3,688 one-way · ₹4,625 round-trip
-- **Capacity:** 7 passengers · 4 bags · AC
-- **Who should pick this:** Larger families & long outstation trips; proven reliability
-
-### Prayagraj to Varanasi in a Toyota Innova Crysta — 7-seater (Premium comfort for family or business travel)
-
-- **Fare on this route:** ₹4,188 one-way · ₹5,375 round-trip
-- **Capacity:** 7 passengers · 4 bags · AC
-- **Who should pick this:** Premium comfort for family or business travel
-
-### Prayagraj to Varanasi in a Tempo Traveller (12 Seater) — 12-seater (Group tours & pilgrimages up to 12 passengers)
-
-- **Fare on this route:** ₹5,875 one-way · ₹6,750 round-trip
-- **Capacity:** 12 passengers · 12 bags · AC
-- **Who should pick this:** Group tours & pilgrimages up to 12 passengers
-
-### Prayagraj to Varanasi in a Tempo Traveller (17 Seater) — 17-seater (Larger groups & extended family pilgrimages)
-
-- **Fare on this route:** ₹6,375 one-way · ₹7,750 round-trip
-- **Capacity:** 17 passengers · 17 bags · AC
-- **Who should pick this:** Larger groups & extended family pilgrimages
-
-### Prayagraj to Varanasi in a Tempo Traveller (26 Seater) — 26-seater (Large tour groups & corporate/temple trips)
-
-- **Fare on this route:** ₹7,250 one-way · ₹8,750 round-trip
-- **Capacity:** 26 passengers · 26 bags · AC
-- **Who should pick this:** Large tour groups & corporate/temple trips
-
-### Prayagraj to Varanasi in a Force Urbania — 13-seater (Luxury group travel with premium reclining seats)
-
-- **Fare on this route:** ₹8,125 one-way · ₹9,250 round-trip
-- **Capacity:** 13 passengers · 13 bags · AC
-- **Who should pick this:** Luxury group travel with premium reclining seats
-
-## One-Way vs Round-Trip: Which Is Cheaper for Prayagraj to Varanasi?
-
-- **One-way** (from ₹2,388 in a Dzire) is best when you don't need the car to bring you back — e.g. a drop for a flight, train or a stay in Prayagraj.
-- **Round-trip** (from ₹3,275) is best for a same-day visit or when you want the same car and driver waiting for your return.
-
-We offer genuine **Prayagraj to Varanasi one-way drops** — you are not forced to pay for an empty return leg.
-
-## What's Included in Your Prayagraj to Varanasi Fare (and What's Extra)
+## What is included (and what is extra)
 
 **Included in your fixed fare:**
 - Fuel and driver charges
 - Highway toll estimate
-- AC throughout the journey
+- AC for the full journey
 - GST invoice on request
 
-**Charged extra (only if you use them):**
-- Parking & entry tickets at attractions
+**Charged only if you use them:**
+- Parking and entry tickets at attractions
 - Overnight driver allowance (₹400–₹500/night)
 - Extra sightseeing stops beyond the agreed route
 
-## Prayagraj to Varanasi Route: Roads, Stops & Landmarks
+## Route, stops and landmarks
 
-The usual route is **NH-19 via Mohansarai - Gopiganj - Handia - Andawa**.
+The usual highway is **NH-19 via Mohansarai - Gopiganj - Handia - Andawa**.
 
-**Good places to stop on the Prayagraj to Varanasi route:**
+**Useful stops along the way:**
 - Highway dhabas near Mohansarai/Gopiganj
 - Ganga bridge approach (photo)
 - Triveni Sangam & Allahabad Fort in-city
 
-## Pickup & Arrival: Prayagraj to Varanasi
+## On the road into Varanasi
 
-We pick you up from any address in Prayagraj — home, hotel, railway station or airport. For station and airport pickups the driver waits with a **name-board**, and if your train or flight is delayed there is **no extra waiting charge**. You reach Varanasi in about 2.5-3 hr.
+Door-to-door drive time is about **2.5-3 hr**, rising to 3+ hr (Kumbh/festival). Station and airport pickups include a name-board wait — if your train or flight is delayed, there is no extra waiting charge.
 
-**Slow stretches on the way in:**
+**Slow stretches to expect:**
 - Railway crossings + last 20-30 km into Prayagraj
 - Sangam/Civil Lines in festival/Kumbh
 
@@ -288,7 +247,7 @@ In Varanasi we drop you right at what you came for:
 - Dashashwamedh Ghat (Ganga Aarti)
 - Sarnath
 
-## Prayagraj to Varanasi by Kashi Taxi vs Ola / Uber vs Hotel Desk
+## Kashi Taxi vs Ola / Uber vs hotel desk
 
 | | Kashi Taxi (fixed) | Ola / Uber | Hotel travel desk |
 |---|---|---|---|
@@ -296,15 +255,15 @@ In Varanasi we drop you right at what you came for:
 | Outstation availability | ✅ Confirmed car & driver | ⚠️ Often no cars | ✅ But costly |
 | Tolls & fuel | ✅ Included | ❌ Added at end | ⚠️ Sometimes hidden |
 | Local route knowledge | ✅ Local drivers | ⚠️ Varies | ✅ |
-| Typical Prayagraj round-trip (Dzire) | **₹3,275** | Varies + surge | 30-50% more |
+| Typical Prayagraj round-trip (Dzire) | **₹3,275** | Varies + surge | 30–50% more |
 
-## Why Book Prayagraj to Varanasi With Kashi Taxi
+## Why book with Kashi Taxi
 
 - Serving Varanasi travellers since **1998** (Vinayak Travels)
-- Verified, English/Hindi-speaking local drivers
+- Verified local drivers (Hindi and English)
 - Fixed fare confirmed on WhatsApp before you pay
 - Live location sharing for your family
-- Clean, sanitised AC fleet from Dzire to 26-seater Tempo
+- Clean AC fleet from Dzire to 26-seater Tempo
 
 ## What Travellers Say About Prayagraj to Varanasi
 
@@ -322,19 +281,19 @@ Rated **4.9/5** by 88 verified travellers on this route.
 > "Reached Varanasi from Prayagraj in a Swift Dzire. Driver was waiting at the station with a name-board even though our train was late — no extra charge. Clean car, fixed fare, hassle-free."  
 > — **Farhan Q.**, May 2026
 
-## Book Your Prayagraj to Varanasi Cab in 3 Steps
+## Book in 3 steps
 
-1. **Message us** on WhatsApp with your date, pickup point, passengers and preferred vehicle.
+1. **Message us** on WhatsApp with your date, pickup point, passenger count and preferred vehicle.
 2. **Get a fixed fare** back in minutes — no meter, no surge.
-3. **Travel worry-free** — your driver arrives on time and the price never changes.
+3. **Travel** — your driver arrives on time and the price does not change.
 
 ## About Prayagraj
 
-Kumbh/Sangam snan, Allahabad Fort, Anand Bhavan, weekend family outings.
+If you are starting in Prayagraj, most people head to Varanasi for Kashi Vishwanath, the ghats and Sarnath — after time spent around Kumbh/Sangam snan, Allahabad Fort, Anand Bhavan, and weekend family outings. Share your pickup point in Prayagraj and we will quote a fixed drop into the city.
 
 {{CTA:ROUTE_CAB_PRAYAGRAJ:en}}
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### How much is the Prayagraj to Varanasi taxi / cab fare?
 
@@ -354,7 +313,7 @@ For 5-6 people an Ertiga (6-seat) or Innova (7-seat) is ideal — comfortable wi
 
 ### What is the Prayagraj to Varanasi distance and travel time?
 
-Prayagraj to Varanasi is about 120-125 km, with a typical drive time of 2.5-3 hr (up to 3+ hr (Kumbh/festival) at peak).
+Prayagraj to Varanasi is about 120-125 km. Plan on 2.5-3 hr in normal traffic, or up to 3+ hr (Kumbh/festival) when the road is busy.
 
 ### Do you provide AC cars for Prayagraj to Varanasi?
 

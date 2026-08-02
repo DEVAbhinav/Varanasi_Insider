@@ -12,7 +12,7 @@ import { test, expect } from '@playwright/test';
 // broken (missing H1 / multiple H1 authoring cases).
 const PAGES: Array<{ label: string; path: string }> = [
   // Templates with a hero <h1> + markdown body (body H1 demoted to H2)
-  { label: 'destination (taxi route)', path: '/en/city/varanasi/taxi/taxi-service-varanasi' },
+  { label: 'destination (taxi route)', path: '/en/city/varanasi/taxi/24-7-taxi-varanasi' },
   { label: 'destination (outstation)', path: '/en/city/agra/taxi/varanasi-to-agra-taxi' },
   { label: 'category directory', path: '/en/city/varanasi/taxi/varanasi-airport-transfer-directory' },
   { label: 'service page', path: '/en/services/varanasi-safest-taxi-for-women' },

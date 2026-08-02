@@ -527,4 +527,4 @@ Regular maintenance, clean interior और working AC इस route पर बु
 - [Varanasi Gaya Prayagraj Tour Package](/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly)
 - [Varanasi to Bodhgaya Tempo Traveller](/en/varanasi-to-bodhgaya-tempo-traveller)
 - [Pilgrimage Tours from Varanasi](/en/pilgrimage-yatra-tours-tempo-traveller-varanasi)
-- [Taxi Service Varanasi](/en/city/varanasi/taxi/taxi-service-varanasi)
+- [वाराणसी टैक्सी सर्विस](/hi/city/varanasi/taxi/taxi-service-varanasi)

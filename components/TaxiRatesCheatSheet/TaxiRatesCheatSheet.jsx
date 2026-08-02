@@ -3,6 +3,8 @@ import { useRouter } from 'next/router';
 import TrustBadge from '../TrustBadge/TrustBadge';
 import { Plane, Clock, Car, Users, Phone, MessageCircle } from 'lucide-react';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
+import { TAXI_RATE_CARDS } from '@/lib/taxiRates';
+import { formatINR } from '@/lib/pricing';
 
 /**
  * TaxiRatesCheatSheet - A visually scannable pricing block for Kashitaxi
@@ -15,55 +17,8 @@ import { CONTACT, getCallTelHref } from '@/lib/contact';
 export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }) {
     const router = useRouter();
     const lang = router.query.lang || 'en';
-    const rateCards = [
-        {
-            id: 'airport',
-            icon: Plane,
-            title: 'Airport → City',
-            subtitle: '25-30 km • 40-50 min',
-            highlight: true,
-            rates: [
-                { vehicle: 'Sedan', price: '₹899', note: 'Dzire/Etios' },
-                { vehicle: 'Ertiga', price: '₹1,299', note: '7-seater' },
-                { vehicle: 'Innova', price: '₹1,500', note: '6-seater' },
-                { vehicle: 'Tempo', price: '₹2,500', note: '17-seater' },
-            ],
-        },
-        {
-            id: 'half-day',
-            icon: Clock,
-            title: 'Half-Day Tour',
-            subtitle: '4 hours • 40 km',
-            rates: [
-                { vehicle: 'Sedan', price: '₹1,100', note: '' },
-                { vehicle: 'Innova', price: '₹1,600', note: '' },
-                { vehicle: 'Tempo', price: '₹2,200', note: '' },
-            ],
-        },
-        {
-            id: 'full-day',
-            icon: Car,
-            title: 'Full-Day Tour',
-            subtitle: '8 hours • 80 km',
-            popular: true,
-            rates: [
-                { vehicle: 'Sedan', price: '₹2,499', note: '' },
-                { vehicle: 'Innova', price: '₹3,200', note: '' },
-                { vehicle: 'Tempo', price: '₹4,250', note: '' },
-            ],
-        },
-        {
-            id: 'extended',
-            icon: Users,
-            title: 'Extended Package',
-            subtitle: '12 hours • 120 km',
-            rates: [
-                { vehicle: 'Sedan', price: '₹3,200', note: '' },
-                { vehicle: 'Innova', price: '₹4,500', note: '' },
-                { vehicle: 'Tempo', price: '₹5,500', note: '' },
-            ],
-        },
-    ];
+    const icons = { airport: Plane, 'half-day': Clock, 'full-day': Car, extended: Users };
+    const rateCards = TAXI_RATE_CARDS.map((card) => ({ ...card, icon: icons[card.id] }));
 
     const isCompact = variant === 'compact';
 
@@ -92,7 +47,7 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                 <div className={`text-center ${isCompact ? 'mb-6' : 'mb-8 md:mb-10'}`}>
                     <div className="inline-flex items-center gap-2 mb-3 px-4 py-1.5 bg-cyan-100/60 backdrop-blur-sm rounded-full border border-cyan-200/50">
                         <span className="text-xs font-semibold uppercase tracking-wider text-cyan-700">
-                            2026 Rates • All-Inclusive
+                            Indicative 2026 Rates
                         </span>
                     </div>
                     <h2
@@ -103,7 +58,7 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                         Varanasi Taxi Rates – 2026 Cheat Sheet
                     </h2>
                     <p className="mt-2 text-gray-600 text-sm md:text-base max-w-2xl mx-auto">
-                        Transparent, research-backed pricing with no hidden charges • GST 5% included
+                        Starting examples; confirm the complete route and vehicle quote before booking
                     </p>
                 </div>
 
@@ -173,7 +128,7 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                                             )}
                                         </div>
                                         <span className="font-bold text-gray-900 text-sm md:text-base">
-                                            {rate.price}
+                                            {formatINR(rate.amount)}
                                         </span>
                                     </div>
                                 ))}
@@ -186,7 +141,7 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                 <div className={`mt-6 md:mt-8 text-center ${isCompact ? 'max-w-xl' : 'max-w-2xl'} mx-auto`}>
                     {/* Fine print */}
                     <p className="text-xs text-gray-500 mb-4">
-                        * Airport night charge: +₹300 (10 PM–5 AM) • Toll & parking at actuals for outstation •
+                        * Final quote confirms pickup time, included kilometres, toll or parking assumptions, and access restrictions •
                         <a href={`/${lang}/varanasi-transport-price-guide-2026`} className="text-cyan-600 hover:underline ml-1">
                             View full price guide →
                         </a>

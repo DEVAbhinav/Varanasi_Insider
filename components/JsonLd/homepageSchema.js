@@ -3,6 +3,7 @@
 import { CONTACT } from '@/lib/contact';
 import { BUSINESS } from '../../config/business';
 import { outstationFaqAnswer } from '../../lib/outstationFares';
+import { airportTaxiFaqAnswer, taxiCostFaqAnswer } from '../../lib/taxiRates';
 
 const getHomeSchema = (site) => ({
   '@context': 'https://schema.org',
@@ -234,8 +235,7 @@ const getHomeSchema = (site) => ({
           name: 'How much does a taxi cost in Varanasi?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text:
-              'Taxi rates in Varanasi start from ₹12/km for sedans and ₹18/km for SUVs. Airport pickup costs ₹800-950 (fixed), local full-day tours from ₹2,500, and tempo traveller hire from ₹4,500/day. We offer transparent pricing with no hidden charges.',
+            text: taxiCostFaqAnswer(),
           },
         },
         {
@@ -261,8 +261,7 @@ const getHomeSchema = (site) => ({
           name: 'Can I book a taxi from Varanasi airport?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text:
-              'Yes! We provide prepaid Varanasi airport taxi with meet-and-greet service. Our driver waits at arrivals with a name board. Fixed fare: ₹800 (sedan) to ₹950 (SUV) for city center. Flight tracking included – no waiting charges for delayed flights.',
+            text: airportTaxiFaqAnswer(),
           },
         },
         {

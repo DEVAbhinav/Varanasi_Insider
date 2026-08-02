@@ -174,7 +174,7 @@ test.describe('Sightseeing trio cross-links', () => {
 test.describe('Batch relatedPosts — sample taxi pages', () => {
   const TAXI_SAMPLES = [
     'destinations/varanasi/taxi/airport-taxi-varanasi.md',
-    'destinations/varanasi/taxi/taxi-service-varanasi.md',
+    'destinations/varanasi/taxi/24-7-taxi-varanasi.md',
     'destinations/varanasi/taxi/one-way-taxi-varanasi.md',
   ];
 

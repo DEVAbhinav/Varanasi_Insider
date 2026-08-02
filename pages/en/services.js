@@ -1,113 +1,191 @@
 import Link from 'next/link';
 import CategoryPageLayout from '../../components/CategoryPage/CategoryPageLayout';
-import { getSortedPostsData } from '../../lib/posts';
-import { listByCategory, getBreadcrumbConfig } from '../../lib/categories';
+import { getBreadcrumbConfig } from '../../lib/categories';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
 
+const CURATED_SERVICES = [
+  {
+    slug: 'taxi-service-varanasi',
+    href: '/',
+    title: 'Taxi Service in Varanasi',
+    description: 'General taxi booking for airport, station, local and outstation travel.',
+    icon: '🚕',
+    ctaText: 'Book a taxi',
+  },
+  {
+    slug: 'taxi-route-directory',
+    href: '/en/city/varanasi/taxi',
+    title: 'Taxi Routes & Fare Guides',
+    description: 'Browse focused airport, station, local, one-way and outstation route pages.',
+    icon: '🗺️',
+    ctaText: 'Browse taxi routes',
+  },
+  {
+    slug: 'airport-taxi',
+    href: '/en/varanasi-airport-taxi-guide',
+    title: 'Varanasi Airport Taxi',
+    description: 'Plan a Babatpur airport pickup or drop with the correct meeting point.',
+    icon: '✈️',
+    ctaText: 'Plan airport pickup',
+  },
+  {
+    slug: 'outstation-cabs',
+    href: '/en/outstation-cabs-from-varanasi',
+    title: 'Outstation Cabs from Varanasi',
+    description: 'Compare route-specific one-way and round-trip taxi options.',
+    icon: '🛣️',
+    ctaText: 'View outstation routes',
+  },
+  {
+    slug: 'local-sightseeing',
+    href: '/en/services/varanasi-full-day-city-tour-winter-2026',
+    title: 'Local Sightseeing by Car',
+    description: 'Vehicle-only local sightseeing for temples, ghats, BHU and Sarnath.',
+    icon: '🛕',
+    ctaText: 'View local sightseeing',
+  },
+  {
+    slug: 'tempo-traveller',
+    href: '/en/tempo-traveller-varanasi',
+    title: 'Tempo Traveller & Group Vehicles',
+    description: 'Choose a suitable group vehicle when one car is not enough.',
+    icon: '🚌',
+    ctaText: 'Choose a group vehicle',
+  },
+  {
+    slug: 'bike-rental',
+    href: '/bike-rentals-varanasi',
+    title: 'Bike & Scooty Rental',
+    description: 'Self-drive two-wheeler rental for independent local movement.',
+    icon: '🛵',
+    ctaText: 'View rentals',
+  },
+  {
+    slug: 'boat-rides',
+    href: '/en/morning-boat-ride-varanasi-price',
+    title: 'Varanasi Boat Rides',
+    description: 'Morning and evening boat options with route and timing guidance.',
+    icon: '⛵',
+    ctaText: 'View boat rides',
+  },
+  {
+    slug: 'hotel-booking',
+    href: '/en/services/hotel-booking-in-varanasi',
+    title: 'Hotel & Stay Support',
+    description: 'Start here when accommodation is the main requirement.',
+    icon: '🏨',
+    ctaText: 'View stay support',
+  },
+  {
+    slug: 'tour-packages',
+    href: '/en/packages/varanasi-tour-package',
+    title: 'Tour & Pilgrimage Packages',
+    description: 'Use packages for hotels, darshan planning, guides and multi-day itineraries.',
+    icon: '🧭',
+    ctaText: 'Browse packages',
+  },
+];
+
 export async function getStaticProps() {
-  const allEnPosts = getSortedPostsData('en');
-  const services = listByCategory(allEnPosts, 'services');
   const cfg = getBreadcrumbConfig();
+  const canonicalUrl = `${cfg.baseUrl}/en/services`;
   const jsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
       {
         '@type': 'CollectionPage',
-        '@id': `${cfg.baseUrl}/en/services/`,
-        name: 'Taxi, Group Travel & Pilgrimage Services in Varanasi',
-        description: 'Curated list of taxi services, airport transfers, group transport, tempo travellers, and pilgrimage-planning support in Varanasi.',
-        url: `${cfg.baseUrl}/en/services/`,
+        '@id': `${canonicalUrl}#page`,
+        name: 'Varanasi Travel Services Directory',
+        description: 'Curated taxi, vehicle, boat, stay and tour-planning services for Varanasi.',
+        url: canonicalUrl,
         isPartOf: { '@id': `${cfg.baseUrl}#website` },
-        breadcrumb: { '@id': `${cfg.baseUrl}/en/services/#breadcrumbs` },
-        about: services.map(p => ({ '@type': 'Thing', name: p.title || p.slug, url: `${cfg.baseUrl}${p.routePath || `/en/${p.slug}`}` })),
-        publisher: { '@type': 'Organization', '@id': `${cfg.baseUrl}#organization` }
+        breadcrumb: { '@id': `${canonicalUrl}#breadcrumbs` },
+        about: CURATED_SERVICES.map((service) => ({
+          '@type': 'Thing',
+          name: service.title,
+          url: `${cfg.baseUrl}${service.href}`,
+        })),
+        publisher: { '@type': 'Organization', '@id': `${cfg.baseUrl}#organization` },
       },
       {
         '@type': 'BreadcrumbList',
-        '@id': `${cfg.baseUrl}/en/services/#breadcrumbs`,
+        '@id': `${canonicalUrl}#breadcrumbs`,
         itemListElement: [
           { '@type': 'ListItem', position: 1, name: 'Home', item: `${cfg.baseUrl}/` },
-          { '@type': 'ListItem', position: 2, name: 'Services', item: `${cfg.baseUrl}/en/services/` }
-        ]
-      }
-    ]
+          { '@type': 'ListItem', position: 2, name: 'Services', item: canonicalUrl },
+        ],
+      },
+    ],
   };
 
-  // Add icons and CTA text to services
-  const servicesWithIcons = services.map(service => ({
-    ...service,
-    icon: '🚕',
-    ctaText: 'View Service Details'
-  }));
-
-  return { props: { services: servicesWithIcons, jsonLd } };
+  return { props: { services: CURATED_SERVICES, jsonLd, canonicalUrl } };
 }
 
-export default function ServicesPage({ services, jsonLd }) {
+export default function ServicesPage({ services, jsonLd, canonicalUrl }) {
   return (
     <CategoryPageLayout
-      title="Explore Our Full Range of Varanasi Taxi, Group Travel & Pilgrimage Services"
-      metaTitle="Varanasi Taxi Service Directory | Cabs, Group Transport & Pilgrimage Support"
-      metaDescription="Browse airport transfers, local sightseeing cabs, tempo travellers, group transport and pilgrimage planning services in Varanasi. Compare rates and book 24/7."
-      heroTitle="Varanasi Taxi & Group Travel Directory"
-      heroSubtitle="Browse cabs, tempo travellers, airport transfers, and pilgrimage-planning support from one Kashi travel desk"
-      heroBadge="🚕 SERVICE DIRECTORY"
+      title="Choose the Right Varanasi Travel Service"
+      metaTitle="Varanasi Travel Services | Taxi, Vehicles, Boats & Stays"
+      metaDescription="Choose taxi-only booking, airport transfer, outstation cab, group vehicle, boat, stay support or a complete Varanasi tour package."
+      heroTitle="Varanasi Travel Services Directory"
+      heroSubtitle="Start with transport when you know the route; choose a package when you need hotels, darshan or itinerary planning"
+      heroBadge="SERVICE CHOOSER"
       items={services}
       jsonLd={jsonLd}
+      canonicalUrl={canonicalUrl}
+      pageLang="en"
     >
-      {/* Custom Content Section */}
-      <div className="max-w-4xl mx-auto bg-white rounded-2xl shadow-lg p-8 md:p-10 border border-cyan-100 mb-12">
-        <h2 className="text-2xl md:text-3xl font-bold mb-6 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-          Complete Varanasi Travel Desk – Airport, Local & Outstation
-        </h2>
-
-        <div className="space-y-5 text-gray-700 leading-relaxed">
-          <p>
-            From first hello to final drop, our dispatcher stays on WhatsApp{' '}
-            <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href={CONTACT.whatsappUrl} target="_blank" rel="noopener noreferrer">{CONTACT.whatsappNumberDisplay}</a>
-            {' '}and phone{' '}
-            <a className="text-cyan-600 hover:text-teal-600 font-semibold underline transition-colors" href={getCallTelHref()}>{CONTACT.callNumberDisplay}</a>
-            . We arrange airport taxis, Pink Taxi (women-only) rides,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-day-tour-cab-charges">local sightseeing cabs</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-tour-package-for-families">family-ready Varanasi packages</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-tour-package-with-hotel">hotel + cab packages</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/kashi-vishwanath-darshan-ganga-aarti-package">Kashi Vishwanath + Ganga Aarti planning</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-group-tour-package">Varanasi group tour packages</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/ayodhya-varanasi-prayagraj-group-tour-package">Ayodhya / Prayagraj pilgrim circuits</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package">Golden Triangle packages</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/services/kashi-vishwanath-vip-darshan-booking">Kashi Vishwanath VIP darshan</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/services/varanasi-dormitory-budget-homestay-booking">stay booking from ₹500/night</Link>,{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-to-gaya-bodh-gaya-tour-package">Bodh Gaya spiritual tours</Link>, staff transport shuttles and 12–26 seater tempo travellers.
+      <div className="mx-auto mb-12 grid max-w-5xl gap-6 md:grid-cols-2">
+        <div className="rounded-2xl border border-cyan-200 bg-white p-7 shadow-lg">
+          <h2 className="text-2xl font-bold text-slate-900">I Only Need Transport</h2>
+          <p className="mt-3 text-slate-700">
+            Use this path when you know the pickup, destination, date and passenger count.
           </p>
-
-          <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 rounded-r-lg">
-            <p className="text-sm">
-              <strong className="text-cyan-700">💰 Transparent Pricing:</strong> Every service listing includes transparent fare grids, kilometre limits and add-ons (parking, tolls, night allowance) so you know exactly what you pay.
-            </p>
+          <div className="mt-5 flex flex-wrap gap-3">
+            <Link
+              href="/"
+              data-cta-id="services_taxi_choice"
+              data-cta-location="services_intent_chooser"
+              data-intent-cluster="generic_taxi"
+              className="rounded-xl bg-cyan-600 px-5 py-3 font-semibold text-white hover:bg-cyan-700"
+            >
+              Book Taxi Only
+            </Link>
+            <Link
+              href="/en/city/varanasi/taxi"
+              className="rounded-xl border border-cyan-300 px-5 py-3 font-semibold text-cyan-800 hover:bg-cyan-50"
+            >
+              Browse Taxi Routes
+            </Link>
           </div>
-
-          <p>
-            Combine multiple services into one itinerary, request English-speaking drivers or certified guides, and sync private boats or hotel pickups across family groups. If the buying decision starts outside Varanasi, begin with{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-tour-package-from-delhi">Varanasi Tour Package from Delhi</Link>
-            {' '}before narrowing the transport layer. If the main question is where to stay, begin with{' '}
-            <Link className="text-cyan-600 hover:text-teal-600 font-semibold underline" href="/en/varanasi-tour-package-with-hotel">Varanasi Tour Package with Hotel</Link>.
-          </p>
-
-          <div className="bg-teal-50 border-l-4 border-teal-500 p-4 rounded-r-lg">
-            <p className="text-sm">
-              <strong className="text-teal-700">🎉 Festival Planning:</strong> Planning during peak festivals? Start with our{' '}
-              <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/dashashwamedh-ghat-ganga-aarti-timing">Ganga Aarti guide</Link>
-              {' '}or{' '}
-              <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/dev-deepawali-2026-varanasi-ultimate-guide">Dev Deepawali plan</Link>
-              {' '}and we will layer the logistics—cabs, boats, darshan assistance and hotel coordination—into a single confirmation thread. If temple plus Aarti is the actual buying question, use{' '}
-              <Link className="text-teal-600 hover:text-teal-700 font-semibold underline" href="/en/kashi-vishwanath-darshan-ganga-aarti-package">the dedicated darshan package page</Link>.
-            </p>
-          </div>
-
-          <p>
-            One team, one payment trail, zero surprises.
-          </p>
         </div>
+
+        <div className="rounded-2xl border border-amber-200 bg-white p-7 shadow-lg">
+          <h2 className="text-2xl font-bold text-slate-900">I Need Trip Planning</h2>
+          <p className="mt-3 text-slate-700">
+            Use packages when hotels, darshan timing, guides or a multi-day itinerary are part of the decision.
+          </p>
+          <Link
+            href="/en/packages/varanasi-tour-package"
+            data-cta-id="services_package_choice"
+            data-cta-location="services_intent_chooser"
+            data-intent-cluster="tour_package"
+            className="mt-5 inline-flex rounded-xl bg-amber-500 px-5 py-3 font-semibold text-slate-950 hover:bg-amber-400"
+          >
+            Browse Tour Packages
+          </Link>
+        </div>
+      </div>
+
+      <div className="mx-auto max-w-4xl rounded-2xl border border-cyan-100 bg-white p-8 shadow-lg">
+        <h2 className="text-2xl font-bold text-slate-900">Need Help Choosing?</h2>
+        <p className="mt-3 text-slate-700">
+          Tell us whether you need only a vehicle or a complete trip plan. We will send you to the correct quotation flow rather than mixing taxi and package pricing.
+        </p>
+        <p className="mt-4 text-slate-700">
+          WhatsApp <a className="font-semibold text-cyan-700 underline" href={CONTACT.whatsappUrl}>{CONTACT.whatsappNumberDisplay}</a>
+          {' '}or call <a className="font-semibold text-cyan-700 underline" href={getCallTelHref()}>{CONTACT.callNumberDisplay}</a>.
+        </p>
       </div>
     </CategoryPageLayout>
   );

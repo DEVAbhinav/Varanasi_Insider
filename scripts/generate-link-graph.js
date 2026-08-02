@@ -8,9 +8,9 @@
  * Pipeline:
  *   1. Crawl content/**  (markdown, routing replicated from the sitemap) and
  *      pages/**  (static JSX/TS routes) → one node per live URL.
- *   2. Auto-select the NEWEST data/gsc/<date>/keyword-page-map.csv and join it:
- *      per page → total clicks, total impressions, best (min) position, dominant
- *      intent, and the best (highest-click) query as a natural anchor.
+ *   2. Auto-select the newest data/gsc/<date>/Pages.csv and join real page-level
+ *      clicks, impressions and average position. The inferred keyword map may
+ *      suggest anchor wording, but never supplies performance or rank-rescue data.
  *   3. Classify each node: destination, category, productType, intent.
  *   4. Score priority (curated pin > gsc clicks > commercial productType > recency).
  *   5. Apply the curated overlay in config/seoDirectory.js to build per-language
@@ -30,6 +30,7 @@ const PAGES_PATH = path.join(ROOT, 'pages');
 const GSC_ROOT = path.join(ROOT, 'data', 'gsc');
 const OUT_DIR = path.join(ROOT, 'data', 'generated');
 const OUT_FILE = path.join(OUT_DIR, 'seo-link-graph.json');
+const CANONICAL_ORIGIN = 'https://www.kashitaxi.in';
 
 const {
   FOOTER_GROUPS,
@@ -67,6 +68,16 @@ function normPath(p) {
   let s = p.replace(/^https?:\/\/[^/]+/, '');
   s = s.replace(/\/+$/, '');
   return s || '/';
+}
+
+function gscUrlPriority(rawUrl) {
+  if (!rawUrl) return -1;
+  if (rawUrl.startsWith('/')) return 1;
+  try {
+    return new URL(rawUrl).origin === CANONICAL_ORIGIN ? 2 : 0;
+  } catch {
+    return -1;
+  }
 }
 
 function isExcluded(p) {
@@ -120,8 +131,20 @@ function collectContentNodes() {
         for (const file of fs.readdirSync(catDir).filter((f) => f.endsWith('.md'))) {
           const abs = path.join(catDir, file);
           const fm = safeFrontmatter(abs);
-          const slug = fm.slug || file.replace(/\.md$/, '');
-          nodes.push(makeNode({ lang, slug, fm, urlPath: `/${lang}/city/${dest}/${cat}/${slug}`, kind: 'destination', destination: dest, destCategory: cat }));
+          const isIndex = file.toLowerCase() === 'index.md';
+          const slug = isIndex ? `${dest}-${cat}-directory` : (fm.slug || file.replace(/\.md$/, ''));
+          const urlPath = isIndex
+            ? `/${lang}/city/${dest}/${cat}`
+            : `/${lang}/city/${dest}/${cat}/${slug}`;
+          nodes.push(makeNode({
+            lang,
+            slug,
+            fm,
+            urlPath,
+            kind: isIndex ? 'category-index' : 'destination',
+            destination: dest,
+            destCategory: cat,
+          }));
         }
       }
     }
@@ -152,7 +175,19 @@ function collectStaticPageNodes(contentPaths) {
   const seen = new Set(contentPaths);
   for (const route of collectPageRoutes(PAGES_PATH)) {
     const p = normPath(route);
-    if (p === '/' || seen.has(p)) continue;
+    if (seen.has(p)) continue;
+    if (p === '/') {
+      nodes.push(makeNode({
+        lang: 'en',
+        slug: 'kashi-taxi',
+        fm: { title: 'Taxi Service in Varanasi' },
+        urlPath: '/',
+        kind: 'page',
+        langNeutral: false,
+      }));
+      seen.add(p);
+      continue;
+    }
     // language of a bare page route: /en/... or /hi/... else language-neutral (en)
     const m = p.match(/^\/(en|hi)\//);
     const lang = m ? m[1] : 'en';
@@ -246,14 +281,21 @@ function makeNode({ lang, slug, fm, urlPath, kind, folder, destination, destCate
 // ---------------------------------------------------------------------------
 // 2. GSC join
 // ---------------------------------------------------------------------------
-function latestKeywordMap() {
+function latestGscReport() {
   if (!fs.existsSync(GSC_ROOT)) return null;
   const dated = fs.readdirSync(GSC_ROOT)
     .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d))
-    .filter((d) => fs.existsSync(path.join(GSC_ROOT, d, 'keyword-page-map.csv')))
+    .filter((d) => fs.existsSync(path.join(GSC_ROOT, d, 'Pages.csv')))
     .sort();
   if (!dated.length) return null;
-  return { date: dated[dated.length - 1], file: path.join(GSC_ROOT, dated[dated.length - 1], 'keyword-page-map.csv') };
+  const date = dated[dated.length - 1];
+  const reportDir = path.join(GSC_ROOT, date);
+  const mapFile = path.join(reportDir, 'keyword-page-map.csv');
+  return {
+    date,
+    pagesFile: path.join(reportDir, 'Pages.csv'),
+    mapFile: fs.existsSync(mapFile) ? mapFile : null,
+  };
 }
 
 function parseCsv(text) {
@@ -361,41 +403,62 @@ function anchorEligible(r) {
 }
 
 function joinGsc(nodes) {
-  const map = latestKeywordMap();
+  const report = latestGscReport();
   const byPath = new Map(nodes.map((n) => [n.path, n]));
-  if (!map) return { date: null, matched: 0 };
-  const rows = parseCsv(fs.readFileSync(map.file, 'utf-8'));
-  const agg = new Map(); // path -> {clicks, impr, minPos, intents{}, best:{q,clicks}}
-  for (const r of rows) {
-    const p = normPath(r.mapped_page);
+  if (!report) return { date: null, matched: 0, anchorMatched: 0 };
+
+  let matched = 0;
+  const pageRows = parseCsv(fs.readFileSync(report.pagesFile, 'utf-8'));
+  const metricsByPath = new Map();
+  for (const r of pageRows) {
+    const rawPage = r['Top pages'] || r.page || r.Page;
+    const p = normPath(rawPage);
     if (!p) continue;
-    const clicks = parseFloat(r.clicks) || 0;
-    const impr = parseFloat(r.impressions) || 0;
-    const pos = parseFloat(r.position) || null;
-    let a = agg.get(p);
-    if (!a) { a = { clicks: 0, impr: 0, minPos: null, intents: {}, best: { q: null, clicks: -1 } }; agg.set(p, a); }
-    a.clicks += clicks; a.impr += impr;
-    if (pos != null) a.minPos = a.minPos == null ? pos : Math.min(a.minPos, pos);
-    const it = (r.intent || 'other').trim();
-    a.intents[it] = (a.intents[it] || 0) + clicks + impr * 0.001;
-    // Anchor label = best (highest-click) SALES query that actually DESCRIBES
-    // this page; info/junk/brand-generic/cross-topic queries are excluded.
-    if (clicks > a.best.clicks && anchorEligible(r) && anchorDescribesPage(r.query, byPath.get(p))) {
-      a.best = { q: r.query, clicks };
+    const priority = gscUrlPriority(rawPage);
+    const existing = metricsByPath.get(p);
+    if (existing && existing.priority >= priority) continue;
+    const position = parseFloat(r.Position || r.position);
+    metricsByPath.set(p, {
+      clicks: Math.round(parseFloat(r.Clicks || r.clicks) || 0),
+      impressions: Math.round(parseFloat(r.Impressions || r.impressions) || 0),
+      position: Number.isFinite(position) ? Math.round(position * 10) / 10 : null,
+      priority,
+    });
+  }
+  for (const node of nodes) {
+    const metrics = metricsByPath.get(node.path);
+    if (!metrics) continue;
+    node.clicks = metrics.clicks;
+    node.impressions = metrics.impressions;
+    node.position = metrics.position;
+    matched++;
+  }
+  if (metricsByPath.has('/') && byPath.has('/') && byPath.get('/').impressions === 0) {
+    throw new Error('Homepage GSC metrics failed to join from Pages.csv');
+  }
+
+  let anchorMatched = 0;
+  if (report.mapFile) {
+    const bestByPath = new Map();
+    const mapRows = parseCsv(fs.readFileSync(report.mapFile, 'utf-8'));
+    for (const r of mapRows) {
+      const p = normPath(r.inferred_page || r.mapped_page);
+      const node = byPath.get(p);
+      if (!node || r.mapping_type === 'unmatched' || r.confidence === 'low') continue;
+      const clicks = parseFloat(r.clicks) || 0;
+      const explicitOwner = r.mapping_type === 'explicit_owner';
+      if (!anchorEligible(r) || (!explicitOwner && !anchorDescribesPage(r.query, node))) continue;
+      const current = bestByPath.get(p);
+      if (!current || clicks > current.clicks) {
+        bestByPath.set(p, { query: r.query, clicks });
+      }
+    }
+    for (const [p, best] of bestByPath) {
+      byPath.get(p).gscAnchor = titleCase(best.query);
+      anchorMatched++;
     }
   }
-  let matched = 0;
-  for (const [p, a] of agg) {
-    const n = byPath.get(p);
-    if (!n) continue;
-    matched++;
-    n.clicks = Math.round(a.clicks);
-    n.impressions = Math.round(a.impr);
-    n.position = a.minPos != null ? Math.round(a.minPos * 10) / 10 : null;
-    n.intent = Object.entries(a.intents).sort((x, y) => y[1] - x[1])[0]?.[0] || null;
-    if (a.best.q) n.gscAnchor = titleCase(a.best.q);
-  }
-  return { date: map.date, matched };
+  return { date: report.date, matched, anchorMatched };
 }
 
 // ---------------------------------------------------------------------------
@@ -406,7 +469,6 @@ function scoreNode(n) {
   score += Math.min(n.clicks, 500) * 4;           // proven demand dominates
   score += Math.min(n.impressions, 10000) * 0.02; // latent demand
   if (n.commercial) score += 40;                   // money pages
-  if (n.intent === 'sales') score += 60;
   if (n.position != null && n.position <= 20 && n.position >= 8) score += 15; // page-2 boost target
   if (n.lastmod) {
     const days = (Date.now() - new Date(n.lastmod).getTime()) / 86400000;
@@ -635,6 +697,8 @@ function main() {
       commercial: n.commercial,
       intent: n.intent,
       clicks: n.clicks,
+      impressions: n.impressions,
+      position: n.position,
       score: n.score,
     };
   }
@@ -642,6 +706,7 @@ function main() {
   const out = {
     gscDate: gsc.date,
     gscMatched: gsc.matched,
+    gscAnchorMatched: gsc.anchorMatched,
     totalNodes: nodes.length,
     footer,
     crossSell,
@@ -655,7 +720,7 @@ function main() {
   // validate pins resolved
   const enGroups = footer.en || [];
   const enLinkCount = enGroups.reduce((s, g) => s + g.links.length, 0);
-  console.log(`link-graph: ${nodes.length} nodes | GSC ${gsc.date || 'none'} matched ${gsc.matched} pages`);
+  console.log(`link-graph: ${nodes.length} nodes | GSC ${gsc.date || 'none'} matched ${gsc.matched} pages / ${gsc.anchorMatched} anchors`);
   console.log(`link-graph: EN footer ${enGroups.length} groups / ${enLinkCount} links · HI ${footer.hi?.length || 0} groups`);
   console.log(`link-graph: related-links generated for ${Object.keys(related).length} pages`);
   // warn on dead pins

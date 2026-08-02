@@ -4,8 +4,9 @@ keyword_page_map.py — bidirectional keyword <-> page mapper for kashitaxi.in.
 
 Indexes EVERY page on the site (markdown in content/<lang>/** AND JSX/TS route
 pages in pages/**), replicating the live URL routing from lib/posts.js so no page
-is missed. Then supports easy string-search lookups in both directions plus a
-sales-focused GSC report.
+is missed. The output is an inferred content-targeting map, not GSC query/page
+attribution. Explicit intent owners prevent broad queries from drifting to
+specialist pages.
 
 Routing replicated from lib/posts.js resolveRoutePathFromFilePath():
   content/<lang>/<slug>.md                                  -> /<lang>/<slug>
@@ -35,6 +36,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import json
 import re
 import sys
 from dataclasses import dataclass, field
@@ -44,6 +46,7 @@ from typing import Dict, List, Optional, Tuple
 REPO = Path(__file__).resolve().parent.parent
 CONTENT_DIR = REPO / "content"
 PAGES_DIR = REPO / "pages"
+OWNER_CONFIG = REPO / "config" / "keywordOwners.json"
 
 SERVICES_LIKE = {"services", "landing", "guides"}
 DESTINATION_CATEGORY_ROUTES = {
@@ -196,8 +199,13 @@ def index_markdown() -> List[Page]:
             if not url:
                 continue
             title = _extract_fm_field(fm, "metaTitle") or _extract_fm_field(fm, "title")
+            targeting_meta = " ".join(filter(None, [
+                title,
+                _extract_fm_field(fm, "metaDescription"),
+                _extract_fm_field(fm, "description"),
+            ]))
             p = Page(url=url, source=md, kind="md", title=title,
-                     meta_text=fm, body_text=body)
+                     meta_text=targeting_meta, body_text=body)
             p.finalize()
             pages.append(p)
     return pages
@@ -253,6 +261,54 @@ class Match:
     overlap: int
 
 
+@dataclass
+class OwnerRule:
+    id: str
+    lang: str
+    owner: str
+    patterns: List[re.Pattern]
+
+
+@dataclass
+class Mapping:
+    page: Optional[Page]
+    match: Optional[Match]
+    mapping_type: str
+    owner_rule: str
+    confidence: str
+    competitors: List[Match]
+
+
+def load_owner_rules() -> List[OwnerRule]:
+    if not OWNER_CONFIG.exists():
+        return []
+    with OWNER_CONFIG.open(encoding="utf-8") as fh:
+        raw = json.load(fh)
+    rules = []
+    for item in raw.get("rules", []):
+        rules.append(OwnerRule(
+            id=item["id"],
+            lang=item["lang"],
+            owner=item["owner"],
+            patterns=[re.compile(pattern, re.IGNORECASE) for pattern in item.get("patterns", [])],
+        ))
+    return rules
+
+
+OWNER_RULES = load_owner_rules()
+
+
+def resolve_owner(query: str, pages: List[Page]) -> Tuple[Optional[Page], str]:
+    normalized = normalize(query)
+    for rule in OWNER_RULES:
+        if not any(pattern.search(normalized) for pattern in rule.patterns):
+            continue
+        page = next((candidate for candidate in pages if candidate.url == rule.owner), None)
+        if page:
+            return page, rule.id
+    return None, ""
+
+
 def match_keyword(query: str, pages: List[Page], top: int = 5) -> List[Match]:
     q_norm = normalize(query)
     q_tokens = {t for t in stem_set(query) if t not in _STOP}
@@ -292,6 +348,41 @@ def match_keyword(query: str, pages: List[Page], top: int = 5) -> List[Match]:
         matches.append(Match(pg, score, where, overlap))
     matches.sort(key=lambda m: (-m.score, m.page.url))
     return matches[:top]
+
+
+def infer_mapping(query: str, pages: List[Page]) -> Mapping:
+    matches = match_keyword(query, pages, top=4)
+    owner, rule_id = resolve_owner(query, pages)
+    if owner:
+        owner_match = next((match for match in matches if match.page.url == owner.url), None)
+        return Mapping(
+            page=owner,
+            match=owner_match,
+            mapping_type="explicit_owner",
+            owner_rule=rule_id,
+            confidence="high",
+            competitors=[match for match in matches if match.page.url != owner.url][:3],
+        )
+    if not matches:
+        return Mapping(None, None, "unmatched", "", "none", [])
+
+    best = matches[0]
+    runner_up = matches[1] if len(matches) > 1 else None
+    gap = best.score - runner_up.score if runner_up else best.score
+    if best.score >= 1500 and gap >= 400:
+        confidence = "high"
+    elif best.score >= 900 and gap >= 150:
+        confidence = "medium"
+    else:
+        confidence = "low"
+    return Mapping(
+        page=best.page,
+        match=best,
+        mapping_type="inferred_content_match",
+        owner_rule="",
+        confidence=confidence,
+        competitors=matches[1:4],
+    )
 
 
 # ---- CSV loading ----------------------------------------------------------
@@ -335,8 +426,12 @@ def load_queries(csv_path: Path) -> List[Query]:
 # ---- commands -------------------------------------------------------------
 def cmd_keyword(args):
     pages = build_index()
+    mapping = infer_mapping(args.query, pages)
     matches = match_keyword(args.query, pages, top=args.top)
     print(f"\nQuery: {args.query!r}   intent={classify_intent(args.query).upper()}")
+    if mapping.page:
+        print(f"  owner: {mapping.page.url} ({mapping.mapping_type}, "
+              f"confidence={mapping.confidence}{', rule=' + mapping.owner_rule if mapping.owner_rule else ''})")
     if not matches:
         print("  (no page matched)")
         return
@@ -368,9 +463,9 @@ def cmd_page(args):
             continue
         mapped = []
         for q in queries:
-            best = match_keyword(q.query, pages, top=1)
-            if best and best[0].page.url == pg.url:
-                mapped.append((q, best[0]))
+            mapping = infer_mapping(q.query, pages)
+            if mapping.page and mapping.page.url == pg.url:
+                mapped.append((q, mapping.match))
         mapped.sort(key=lambda x: (-x[0].impressions))
         sales = [m for m in mapped if m[0].intent == "sales"]
         info = [m for m in mapped if m[0].intent != "sales"]
@@ -387,9 +482,11 @@ def cmd_map(args):
     queries = load_queries(Path(args.queries))
     rows = []
     for q in queries:
-        best = match_keyword(q.query, pages, top=1)
-        page_url = best[0].page.url if best else ""
-        where = best[0].where if best else "UNMATCHED"
+        mapping = infer_mapping(q.query, pages)
+        page_url = mapping.page.url if mapping.page else ""
+        where = mapping.match.where if mapping.match else (
+            "explicit owner" if mapping.mapping_type == "explicit_owner" else "UNMATCHED"
+        )
         rows.append({
             "query": q.query,
             "intent": q.intent,
@@ -397,8 +494,12 @@ def cmd_map(args):
             "impressions": q.impressions,
             "ctr": q.ctr,
             "position": q.position,
-            "mapped_page": page_url,
+            "inferred_page": page_url,
+            "mapping_type": mapping.mapping_type,
+            "owner_rule": mapping.owner_rule,
+            "confidence": mapping.confidence,
             "match_where": where,
+            "competing_pages": " | ".join(match.page.url for match in mapping.competitors),
         })
     # sort: sales first, then by impressions
     rank = {"sales": 0, "info": 1, "other": 2}
@@ -408,24 +509,63 @@ def cmd_map(args):
         out = Path(args.out)
         out.parent.mkdir(parents=True, exist_ok=True)
         with out.open("w", newline="", encoding="utf-8") as fh:
-            w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
+            w = csv.DictWriter(
+                fh,
+                fieldnames=list(rows[0].keys()),
+                lineterminator="\n",
+            )
             w.writeheader()
             w.writerows(rows)
         print(f"Wrote {len(rows)} mapped rows -> {out}")
 
     sales_rows = [r for r in rows if r["intent"] == "sales"]
-    unmatched = [r for r in rows if not r["mapped_page"]]
+    unmatched = [r for r in rows if not r["inferred_page"]]
+    ambiguous = [r for r in rows if r["confidence"] == "low"]
     print(f"\nPages indexed: {len(pages)} | queries: {len(queries)} | "
-          f"sales-intent: {len(sales_rows)} | unmatched: {len(unmatched)}")
+          f"sales-intent: {len(sales_rows)} | unmatched: {len(unmatched)} | "
+          f"low-confidence: {len(ambiguous)}")
     print("\nTOP SALES-INTENT QUERIES (by impressions):")
     print(f"  {'impr':>6} {'clk':>4} {'pos':>5} {'ctr':>6}  query -> page")
     for r in sales_rows[:args.top]:
         print(f"  {r['impressions']:6d} {r['clicks']:4d} {r['position']:5.1f} "
-              f"{r['ctr']:>6}  {r['query']}  ->  {r['mapped_page'] or '(none)'}")
+              f"{r['ctr']:>6}  {r['query']}  ->  {r['inferred_page'] or '(none)'} "
+              f"[{r['mapping_type']}, {r['confidence']}]")
     if unmatched:
         print("\nUNMATCHED queries (no page owns them — content gap):")
         for r in unmatched[:args.top]:
             print(f"  {r['impressions']:6d} impr  {r['intent']:5}  {r['query']}")
+
+
+def cmd_self_test(_args):
+    pages = build_index()
+    cases = {
+        "taxi service in varanasi": "/",
+        "varanasi taxi": "/",
+        "kashi taxi service": "/",
+        "cab booking": "/",
+        "night taxi service varanasi": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+        "one way taxi varanasi": "/en/city/varanasi/taxi/one-way-taxi-varanasi",
+        "varanasi tour package": "/en/packages/varanasi-tour-package",
+        "kashi tour packages": "/en/packages/varanasi-tour-package",
+        "tour package in varanasi": "/en/packages/varanasi-tour-package",
+    }
+    failures = []
+    for query, expected in cases.items():
+        mapping = infer_mapping(query, pages)
+        actual = mapping.page.url if mapping.page else None
+        if actual != expected or mapping.mapping_type != "explicit_owner":
+            failures.append(
+                f"{query!r}: expected explicit owner {expected}, got {actual} ({mapping.mapping_type})"
+            )
+    informational = infer_mapping("varanasi airport to kashi temple distance", pages)
+    if informational.mapping_type == "explicit_owner":
+        failures.append("airport distance query was incorrectly forced through an owner rule")
+    if failures:
+        print("SELF-TEST FAILED")
+        for failure in failures:
+            print(f"  - {failure}")
+        raise SystemExit(1)
+    print(f"SELF-TEST PASSED: {len(cases) + 1}/{len(cases) + 1} ownership checks")
 
 
 def cmd_pages(args):
@@ -457,6 +597,9 @@ def main():
     m.add_argument("--out", help="write mapping CSV here")
     m.add_argument("--top", type=int, default=30)
     m.set_defaults(func=cmd_map)
+
+    st = sub.add_parser("self-test", help="validate explicit query ownership rules")
+    st.set_defaults(func=cmd_self_test)
 
     pg = sub.add_parser("pages", help="list every discovered page + URL")
     pg.set_defaults(func=cmd_pages)

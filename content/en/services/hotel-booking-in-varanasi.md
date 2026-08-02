@@ -399,7 +399,7 @@ We aim for value and comfort, not "lowest price at any cost."
 ## Build Your Varanasi Trip in One Booking
 
 Along with hotel booking, we can coordinate:
-- [Varanasi taxi service](/en/city/varanasi/taxi/taxi-service-varanasi)
+- [Taxi service in Varanasi](/)
 - [Airport pickup/drop](/en/varanasi-airport-taxi-price-guide)
 - Railway station pickup/drop
 - [Ganga Aarti planning](/en/dashashwamedh-ghat-ganga-aarti-timing)

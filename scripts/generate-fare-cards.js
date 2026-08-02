@@ -152,30 +152,68 @@ function fareTable(route, lang) {
   return `${head}\n${body}`;
 }
 
-function vehicleCards(route, lang, routeTitle) {
+// Compact "which car?" guide — does NOT restate every fare (the rate card already
+// owns prices). Long H3-per-vehicle blocks were keyword-stuffed and unreadable.
+function vehicleGuide(route, lang) {
   const min = route.minBillKm;
-  return orderedVehicles()
-    .map((v) => {
-      const ow = fareOf(v.id, route.distanceKm, 'one-way', min);
-      const rt = fareOf(v.id, route.distanceKm, 'round-trip', min);
-      if (lang === 'hi') {
-        return [
-          `### ${routeTitle} — ${v.name} (${v.seats} सीटर, ${first(v.idealFor)})`,
-          '',
-          `- **इस रूट पर किराया:** वन-वे ${formatINR(ow)} · राउंड-ट्रिप ${formatINR(rt)}`,
-          `- **क्षमता:** ${v.seats} यात्री · ${v.bags} बैग · ${v.ac ? 'AC' : 'नॉन-AC'}`,
-          `- **किसके लिए सही:** ${v.idealFor}`,
-        ].join('\n');
-      }
-      return [
-        `### ${routeTitle} in a ${v.name} — ${v.seats}-seater (${first(v.idealFor)})`,
-        '',
-        `- **Fare on this route:** ${formatINR(ow)} one-way · ${formatINR(rt)} round-trip`,
-        `- **Capacity:** ${v.seats} passengers · ${v.bags} bags · ${v.ac ? 'AC' : 'non-AC'}`,
-        `- **Who should pick this:** ${v.idealFor}`,
-      ].join('\n');
-    })
-    .join('\n\n');
+  const price = (id) => formatINR(fareOf(id, route.distanceKm, 'one-way', min));
+  if (lang === 'hi') {
+    return [
+      '| समूह | सबसे अच्छा विकल्प | क्यों |',
+      '|---|---|---|',
+      `| 1–3 यात्री, हल्का सामान | **Swift Dzire** (वन-वे ${price('dzire')} से) | इस रूट पर सबसे कम फिक्स्ड किराया |`,
+      `| 4–6 यात्री + बैग | **Ertiga** (वन-वे ${price('ertiga')} से) | SUV किराए से पहले अतिरिक्त सीटें |`,
+      `| 5–7 यात्री, लंबी सड़क | **Innova / Crysta** (वन-वे ${price('innova')} से) | 4+ घंटे की यात्रा में ज़्यादा आराम |`,
+      `| 8–12 यात्री / तीर्थ समूह | **Tempo Traveller 12** (वन-वे ${price('tempo-12')} से) | एक ही गाड़ी में पूरा समूह |`,
+      `| 13+ यात्री | **Tempo 17/26** या **Urbania** | बड़े परिवार, कॉर्पोरेट या मंदिर यात्रा |`,
+      '',
+      'पूरा किराया ऊपर के रेट कार्ड में है — यहाँ सिर्फ़ यह तय करें कि कौन सी गाड़ी आपके समूह पर फिट बैठती है।',
+    ].join('\n');
+  }
+  return [
+    '| Group | Best pick | Why |',
+    '|---|---|---|',
+    `| 1–3 travellers, light bags | **Swift Dzire** (from ${price('dzire')} one-way) | Lowest fixed fare on this route |`,
+    `| 4–6 with luggage | **Ertiga** (from ${price('ertiga')} one-way) | Extra seats without jumping to SUV prices |`,
+    `| 5–7 on a longer drive | **Innova / Crysta** (from ${price('innova')} one-way) | More comfort once the road is 4+ hours |`,
+    `| 8–12 / pilgrimage group | **Tempo Traveller 12** (from ${price('tempo-12')} one-way) | Keep the whole group in one vehicle |`,
+    `| 13+ travellers | **Tempo 17/26** or **Urbania** | Large families, corporate or temple groups |`,
+    '',
+    'Full prices sit in the rate card above — use this table only to match a car to your group.',
+  ].join('\n');
+}
+
+// Format a comma-list field into natural prose without lowercasing proper nouns.
+function formatListProse(raw) {
+  const parts = String(raw || '')
+    .split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
+  if (!parts.length) return '';
+  if (parts.length === 1) return parts[0];
+  if (parts.length === 2) return `${parts[0]} and ${parts[1]}`;
+  return `${parts.slice(0, -1).join(', ')}, and ${parts[parts.length - 1]}`;
+}
+
+// Peak drive-time line that does not double-up phrases like "3+ hr (Kumbh) at peak".
+function peakDrivePhrase(route, lang) {
+  const peak = route.driveTimePeak;
+  if (!peak) return '';
+  if (lang === 'hi') return `, पीक/त्योहार पर ${peak} तक`;
+  if (/\(|festival|kumbh|peak|diwali|mela/i.test(peak)) {
+    return `, rising to ${peak}`;
+  }
+  return `, rising to ${peak} during peak or festival days`;
+}
+
+function peakDriveTableCell(route, lang) {
+  const peak = route.driveTimePeak;
+  if (!peak) return route.driveTimeNormal;
+  if (lang === 'hi') return `${route.driveTimeNormal} \\| पीक ${peak}`;
+  if (/\(|festival|kumbh|peak|diwali|mela/i.test(peak)) {
+    return `${route.driveTimeNormal} \\| ${peak}`;
+  }
+  return `${route.driveTimeNormal} \\| ${peak} at peak`;
 }
 
 function listBlock(items) {
@@ -249,7 +287,7 @@ function buildFaqs(route, dir, lang) {
       { question: `क्या ${A} किराए में टोल शामिल है?`, answer: 'हाँ, हमारे कोटेशन में हाईवे टोल का अनुमान शामिल रहता है। ' + (loc(route.tollDetail, 'hi') ? loc(route.tollDetail, 'hi') + ' ' : '') + (loc(route.stateTaxDetail, 'hi') || (route.stateTaxApplicable ? `${route.crossesState || 'राज्य'} का स्टेट/एंट्री टैक्स लागू होने पर अलग से जुड़ता है।` : 'इस रूट पर कोई अलग स्टेट टैक्स नहीं है।')) },
       { question: `${A} किराया फिक्स्ड है या मीटर से?`, answer: 'बुकिंग से पहले पूरा फिक्स्ड किराया लिखित में दिया जाता है — कोई मीटर नहीं, कोई सर्ज नहीं, कोई मोलभाव नहीं।' },
       { question: `${A} के लिए 5 लोगों के परिवार को कौन सी गाड़ी लेनी चाहिए?`, answer: `5-6 लोगों के लिए Ertiga (6 सीट) या Innova (7 सीट) सबसे अच्छी है — सामान के साथ आरामदायक। इस रूट पर Innova राउंड-ट्रिप ${inRt} से।` },
-      { question: `${A} की दूरी और समय कितना है?`, answer: `${A} की दूरी लगभग ${route.distanceKmDisplay} है, यात्रा समय ${route.driveTimeNormal}${route.driveTimePeak ? ` (पीक ${route.driveTimePeak})` : ''}।` },
+      { question: `${A} की दूरी और समय कितना है?`, answer: `${A} की दूरी लगभग ${route.distanceKmDisplay} है। सामान्य यात्रा समय ${route.driveTimeNormal} है${route.driveTimePeak ? `; व्यस्त दिनों में ${route.driveTimePeak} तक लग सकता है` : ''}।` },
       { question: `क्या ${A} के लिए AC गाड़ी मिलती है?`, answer: 'हाँ, हमारा पूरा बेड़ा AC है — Dzire, Ertiga, Innova, Innova Crysta, 12/17/26-सीटर Tempo Traveller और Force Urbania।' },
     ];
     if (route.offersOneWay) faqs.push({ question: `क्या ${A} वन-वे ड्रॉप मिलता है?`, answer: `हाँ, ${A} वन-वे ड्रॉप उपलब्ध है (Dzire ${dzOw} से)। वापसी की गाड़ी न लेने पर वन-वे किफ़ायती रहता है।` });
@@ -266,7 +304,7 @@ function buildFaqs(route, dir, lang) {
     { question: `Is toll included in the ${A} fare?`, answer: 'Yes — our quote includes an estimate for highway tolls. ' + (loc(route.tollDetail, 'en') ? loc(route.tollDetail, 'en') + ' ' : '') + (loc(route.stateTaxDetail, 'en') || (route.stateTaxApplicable ? `${route.crossesState || 'State'}/entry tax is charged extra as applicable on this route.` : 'There is no separate state tax on this route.')) },
     { question: `Is the ${A} fare fixed or metered?`, answer: 'You get the full fixed fare in writing before you book — no meter, no surge pricing and no negotiation on the road.' },
     { question: `Which car is best for a family of 5 on the ${A} trip?`, answer: `For 5-6 people an Ertiga (6-seat) or Innova (7-seat) is ideal — comfortable with luggage. On this route an Innova is from ${inRt} round-trip.` },
-    { question: `What is the ${A} distance and travel time?`, answer: `${A} is about ${route.distanceKmDisplay}, with a typical drive time of ${route.driveTimeNormal}${route.driveTimePeak ? ` (up to ${route.driveTimePeak} at peak)` : ''}.` },
+    { question: `What is the ${A} distance and travel time?`, answer: `${A} is about ${route.distanceKmDisplay}. Plan on ${route.driveTimeNormal} in normal traffic${route.driveTimePeak ? `, or up to ${route.driveTimePeak} when the road is busy` : ''}.` },
     { question: `Do you provide AC cars for ${A}?`, answer: 'Yes, the entire fleet is air-conditioned — Dzire, Ertiga, Innova, Innova Crysta, 12/17/26-seater Tempo Travellers and the Force Urbania.' },
   ];
   if (route.offersOneWay) faqs.push({ question: `Do you offer ${A} one-way drops?`, answer: `Yes, a ${A} one-way drop is available (Dzire from ${dzOw}). One-way is the cheaper option when you don't need the car to return.` });
@@ -533,6 +571,8 @@ function buildPage(route, dir, lang, allRoutes) {  const name = route.name;
 
   // -------- Frontmatter --------
   const today = new Date().toISOString().slice(0, 10);
+  // Prefer an existing publish date when regenerating so force-refresh does not
+  // rewrite history; lastUpdated always moves to today.
   // Richer local-SEO signal: areaServed as schema.org Place objects (origin +
   // destination) with a PostalAddress, instead of bare strings.
   const destRegion = /bihar/i.test(route.crossesState || '')
@@ -595,7 +635,7 @@ function buildPage(route, dir, lang, allRoutes) {  const name = route.name;
     ? buildBodyHi(route, dir, { routeTitleHi, name, dzOw, dzRt, cheapestOw, ctaKey, heroKey, stateTaxLine, faqs, incUrl: incHi, reviews, aggregateRating })
     : buildBodyEn(route, dir, { routeTitle, name, dzOw, dzRt, cheapestOw, ctaKey, heroKey, stateTaxLine, faqs, incUrl: incEn, reviews, aggregateRating });
 
-  return { slug, content: matter.stringify(`\n${body}\n`, data) };
+  return { slug, data, body, content: matter.stringify(`\n${body}\n`, data) };
 }
 
 function buildBodyEn(route, dir, ctx) {
@@ -610,7 +650,7 @@ function buildBodyEn(route, dir, ctx) {
     '| Detail | Information |',
     '|--------|-------------|',
     `| **Distance** | ${route.distanceKmDisplay} (one-way) |`,
-    `| **Drive Time** | ${route.driveTimeNormal}${route.driveTimePeak ? ` \\| ${route.driveTimePeak} at peak` : ''} |`,
+    `| **Drive Time** | ${peakDriveTableCell(route, 'en')} |`,
     `| **Route / Highway** | ${route.highway || 'Main highway route'} |`,
     `| **Best Departure** | ${route.bestDeparture || 'Early morning'} |`,
     `| **Tolls** | ${loc(route.tollDetail, 'en') || route.tollsNote || 'Included in your fixed fare estimate'} |`,
@@ -621,102 +661,118 @@ function buildBodyEn(route, dir, ctx) {
 
   const stops = cleanArr(route.stops);
   const chokes = cleanArr(route.chokepoints);
+  const whyList = formatListProse(route.whyVisit);
 
   const angle = loc(route.travelerAngle, 'en');
   const depTip = loc(route.departureTip, 'en');
+  // Departure tips in routes.json are written from Varanasi — only show outbound.
   const angleSection = angle
     ? [
-      outbound ? `## Why Travellers Book ${routeTitle}` : `## Why People Travel ${name} → Varanasi`,
+      outbound ? `## Why travellers book this route` : `## Why people travel ${name} → Varanasi`,
       '',
       angle,
-      depTip ? `\n**Planning tip:** ${depTip}` : '',
+      (depTip && outbound) ? `\n**Planning tip:** ${depTip}` : '',
     ].join('\n')
     : '';
 
   const intro = outbound
-    ? `Planning a trip from **Varanasi to ${name}**? Here are the car-wise **${routeTitle} taxi and cab fares** — from the economical AC Swift Dzire to a 26-seater Tempo Traveller — with distance, drive time, the best route and one-tap booking. ${route.whyVisit ? `Most travellers make this trip for ${route.whyVisit.toLowerCase()}.` : ''}`
-    : `Arriving in Kashi from ${name}? Here are the car-wise **${routeTitle} taxi and cab fares** for every vehicle, with door-step pickup in ${name}, a name-board at the station/airport, and a fixed price agreed before you travel. ${route.whyVisit ? `` : ''}`;
+    ? `Need a fixed **${routeTitle} taxi fare** before you travel? Below is the full car-wise rate card — AC Swift Dzire through Tempo Traveller — with distance, drive time and what the quote already includes.${whyList ? ` Most people make this trip for ${whyList}.` : ''}`
+    : `Coming into Kashi from **${name}**? These are the fixed **${routeTitle} taxi fares** by car, with pickup from your hotel, station or airport in ${name}, a name-board wait if your train or flight is late, and the price locked before you start.`;
+
+  const stayCityOneWay = outbound ? name : 'Varanasi';
+  const extras = [
+    'Parking and entry tickets at attractions',
+    'Overnight driver allowance (₹400–₹500/night)',
+    'Extra sightseeing stops beyond the agreed route',
+  ];
+  if (route.stateTaxApplicable) {
+    extras.unshift(`${first(route.crossesState) || 'State'} entry/green tax (as applicable)`);
+  }
 
   const arrivalOrTiming = outbound
     ? [
-      `## Best Time to Leave Varanasi for ${name}`,
+      `## Best time to leave Varanasi for ${name}`,
       '',
-      `The ideal departure is **${route.bestDeparture || 'early morning'}** to stay ahead of traffic. Typical drive time is ${route.driveTimeNormal}${route.driveTimePeak ? `, rising to ${route.driveTimePeak} during peak/festival days` : ''}.`,
+      `Leave around **${route.bestDeparture || 'early morning'}** to stay ahead of traffic. Typical drive time is ${route.driveTimeNormal}${peakDrivePhrase(route, 'en')}.`,
       chokes.length ? `\n**Watch these slow stretches:**\n${listBlock(chokes)}` : '',
     ].join('\n')
     : [
-      `## Pickup & Arrival: ${name} to Varanasi`,
+      `## On the road into Varanasi`,
       '',
-      `We pick you up from any address in ${name} — home, hotel, railway station or airport. For station and airport pickups the driver waits with a **name-board**, and if your train or flight is delayed there is **no extra waiting charge**. You reach Varanasi in about ${route.driveTimeNormal}.`,
-      chokes.length ? `\n**Slow stretches on the way in:**\n${listBlock(chokes)}` : '',
+      `Door-to-door drive time is about **${route.driveTimeNormal}**${peakDrivePhrase(route, 'en')}. Station and airport pickups include a name-board wait — if your train or flight is delayed, there is no extra waiting charge.`,
+      chokes.length ? `\n**Slow stretches to expect:**\n${listBlock(chokes)}` : '',
     ].join('\n');
+
+  const aboutBlock = whyList
+    ? [
+      `## About ${name}`,
+      '',
+      outbound
+        ? `${name} is a common day or overnight trip from Varanasi. Travellers usually come for ${whyList}. Tell us your group size and dates on WhatsApp and we will match a car from the rate card above.`
+        : `If you are starting in ${name}, most people head to Varanasi for Kashi Vishwanath, the ghats and Sarnath — after time spent around ${whyList}. Share your pickup point in ${name} and we will quote a fixed drop into the city.`,
+    ].join('\n')
+    : '';
 
   return [
     `{{CTA:${heroKey}:en}}`,
     '',
-    `# ${routeTitle} Taxi & Cab Fare 2026: ${L(cheapestOw)}+ (Dzire → Tempo Traveller)`,
+    `# ${routeTitle} Taxi & Cab Fare 2026: from ${L(cheapestOw)}`,
     '',
     intro,
     '',
     angleSection,
     angleSection ? '' : null,
-    `## Quick Facts: ${routeTitle}${incUrl ? ' Fare, Time & Route' : ' Distance, Time & Fare'}`,
+    `## Quick facts: distance, time and fare`,
     '',
     quickFacts,
     '',
     `{{CTA:${ctaKey}:en}}`,
     '',
-    `## ${routeTitle} Taxi & Cab Fare — Full Rate Card`,
+    `## Full rate card — ${routeTitle}`,
     '',
-    `Here is the complete **${routeTitle} fare card** by vehicle. Every fare is fixed and includes fuel, tolls and the driver${route.stateTaxApplicable ? '' : ' — nothing added on the road'}.`,
+    `Every fare below is **fixed** and includes fuel, driver and the highway toll estimate${route.stateTaxApplicable ? '' : ' — nothing is added on the road'}. Pick the car that fits your group; then message us with the date to lock the quote.`,
     '',
     fareTable(route, 'en'),
     '',
     stateTaxLine,
     stateTaxLine ? '' : null,
-    `*One-way is billed for the distance you travel; round-trip includes the return leg. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated ${new Date().getFullYear()}.*`,
+    `*One-way covers the leg you travel; round-trip includes the return. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated ${new Date().getFullYear()}.*`,
     '',
     incNote,
     incNote ? '' : null,
-    `## Choose Your Vehicle for ${routeTitle}`,
+    `## Which car should you book?`,
     '',
-    `Not sure which car fits? Here is what each option costs on this route and who it suits best.`,
+    vehicleGuide(route, 'en'),
     '',
-    vehicleCards(route, 'en', routeTitle),
+    `## One-way vs round-trip`,
     '',
-    `## One-Way vs Round-Trip: Which Is Cheaper for ${routeTitle}?`,
+    `- **One-way** (from ${L(dzOw)} in a Dzire) — best when you do not need the car back, for example a station/airport drop or a stay in ${stayCityOneWay}.`,
+    `- **Round-trip** (from ${L(dzRt)}) — best for a same-day visit, or when you want the same driver waiting for the return leg.`,
+    route.offersOneWay ? `\nGenuine **one-way drops** are available on this route — you are not forced to pay for an empty return.` : '',
     '',
-    `- **One-way** (from ${L(dzOw)} in a Dzire) is best when you don't need the car to bring you back — e.g. a drop for a flight, train or a stay in ${name}.`,
-    `- **Round-trip** (from ${L(dzRt)}) is best for a same-day visit or when you want the same car and driver waiting for your return.`,
-    route.offersOneWay ? `\nWe offer genuine **${routeTitle} one-way drops** — you are not forced to pay for an empty return leg.` : '',
-    '',
-    `## What's Included in Your ${routeTitle} Fare (and What's Extra)`,
+    `## What is included (and what is extra)`,
     '',
     '**Included in your fixed fare:**',
     listBlock([
       'Fuel and driver charges',
       'Highway toll estimate',
-      'AC throughout the journey',
+      'AC for the full journey',
       'GST invoice on request',
     ]),
     '',
-    '**Charged extra (only if you use them):**',
-    listBlock([
-      route.stateTaxApplicable ? `${first(route.crossesState) || 'State'} entry/green tax (as applicable)` : 'Parking & entry tickets at attractions',
-      'Overnight driver allowance (₹400–₹500/night)',
-      'Extra sightseeing stops beyond the agreed route',
-    ]),
+    '**Charged only if you use them:**',
+    listBlock(extras),
     '',
-    `## ${routeTitle} Route: Roads, Stops & Landmarks`,
+    `## Route, stops and landmarks`,
     '',
-    route.highway ? `The usual route is **${route.highway}**.` : '',
-    stops.length ? `\n**Good places to stop on the ${routeTitle} route:**\n${listBlock(stops)}` : '',
+    route.highway ? `The usual highway is **${route.highway}**.` : '',
+    stops.length ? `\n**Useful stops along the way:**\n${listBlock(stops)}` : '',
     '',
     arrivalOrTiming,
     '',
     buildDirectionBlock(route, dir, 'en', routeTitle),
     '',
-    `## ${routeTitle} by Kashi Taxi vs Ola / Uber vs Hotel Desk`,
+    `## Kashi Taxi vs Ola / Uber vs hotel desk`,
     '',
     '| | Kashi Taxi (fixed) | Ola / Uber | Hotel travel desk |',
     '|---|---|---|---|',
@@ -724,31 +780,31 @@ function buildBodyEn(route, dir, ctx) {
     '| Outstation availability | ✅ Confirmed car & driver | ⚠️ Often no cars | ✅ But costly |',
     '| Tolls & fuel | ✅ Included | ❌ Added at end | ⚠️ Sometimes hidden |',
     '| Local route knowledge | ✅ Local drivers | ⚠️ Varies | ✅ |',
-    `| Typical ${name} round-trip (Dzire) | **${L(dzRt)}** | Varies + surge | 30-50% more |`,
+    `| Typical ${name} round-trip (Dzire) | **${L(dzRt)}** | Varies + surge | 30–50% more |`,
     '',
-    `## Why Book ${routeTitle} With Kashi Taxi`,
+    `## Why book with Kashi Taxi`,
     '',
     listBlock([
       'Serving Varanasi travellers since **1998** (Vinayak Travels)',
-      'Verified, English/Hindi-speaking local drivers',
+      'Verified local drivers (Hindi and English)',
       'Fixed fare confirmed on WhatsApp before you pay',
       'Live location sharing for your family',
-      'Clean, sanitised AC fleet from Dzire to 26-seater Tempo',
+      'Clean AC fleet from Dzire to 26-seater Tempo',
     ]),
     '',
     reviewsSection(reviews, aggregateRating, routeTitle, 'en'),
     '',
-    `## Book Your ${routeTitle} Cab in 3 Steps`,
+    `## Book in 3 steps`,
     '',
-    '1. **Message us** on WhatsApp with your date, pickup point, passengers and preferred vehicle.',
+    '1. **Message us** on WhatsApp with your date, pickup point, passenger count and preferred vehicle.',
     '2. **Get a fixed fare** back in minutes — no meter, no surge.',
-    '3. **Travel worry-free** — your driver arrives on time and the price never changes.',
+    '3. **Travel** — your driver arrives on time and the price does not change.',
     '',
-    route.whyVisit ? `## About ${name}\n\n${cap(route.whyVisit)}.` : '',
-    '',
+    aboutBlock,
+    aboutBlock ? '' : null,
     `{{CTA:${ctaKey}:en}}`,
     '',
-    '## Frequently Asked Questions',
+    '## Frequently asked questions',
     '',
     faqs.map((f) => `### ${f.question}\n\n${f.answer}`).join('\n\n'),
   ].filter((x) => x != null).join('\n');
@@ -766,7 +822,7 @@ function buildBodyHi(route, dir, ctx) {
     '| विवरण | जानकारी |',
     '|--------|-------------|',
     `| **दूरी** | ${route.distanceKmDisplay} (वन-वे) |`,
-    `| **यात्रा समय** | ${route.driveTimeNormal}${route.driveTimePeak ? ` \\| पीक ${route.driveTimePeak}` : ''} |`,
+    `| **यात्रा समय** | ${peakDriveTableCell(route, 'hi')} |`,
     `| **रूट / हाईवे** | ${route.highway || 'मुख्य हाईवे मार्ग'} |`,
     `| **सबसे अच्छा प्रस्थान समय** | ${route.bestDeparture || 'सुबह जल्दी'} |`,
     `| **टोल** | ${loc(route.tollDetail, 'hi') || route.tollsNote || 'फिक्स्ड किराए में शामिल'} |`,
@@ -777,76 +833,95 @@ function buildBodyHi(route, dir, ctx) {
 
   const stops = cleanArr(route.stops);
   const chokes = cleanArr(route.chokepoints);
+  const whyList = formatListProse(route.whyVisit);
 
   const angle = loc(route.travelerAngle, 'hi');
   const depTip = loc(route.departureTip, 'hi');
   const angleSection = angle
     ? [
-      outbound ? `## ${routeTitleHi} क्यों बुक करते हैं यात्री` : `## लोग ${name} → वाराणसी क्यों आते हैं`,
+      outbound ? `## यात्री यह रूट क्यों बुक करते हैं` : `## लोग ${name} → वाराणसी क्यों आते हैं`,
       '',
       angle,
-      depTip ? `\n**प्लानिंग टिप:** ${depTip}` : '',
+      (depTip && outbound) ? `\n**प्लानिंग टिप:** ${depTip}` : '',
     ].join('\n')
     : '';
 
   const intro = outbound
-    ? `**${routeTitleHi}** की यात्रा प्लान कर रहे हैं? यहाँ हर गाड़ी का **${routeTitleHi} टैक्सी व कैब किराया** है — किफ़ायती AC Swift Dzire से 26-सीटर Tempo Traveller तक — दूरी, समय, सबसे अच्छा रूट और एक-टैप बुकिंग के साथ।`
-    : `${name} से काशी आ रहे हैं? यहाँ हर गाड़ी का **${routeTitleHi} टैक्सी व कैब किराया** है, ${name} में घर तक पिकअप, स्टेशन/एयरपोर्ट पर नाम की तख्ती और यात्रा से पहले तय फिक्स्ड किराया।`;
+    ? `**${routeTitleHi}** का फिक्स्ड टैक्सी किराया जानना है? नीचे पूरा कार-वाइज़ रेट कार्ड है — AC Swift Dzire से Tempo Traveller तक — दूरी, समय और कोटेशन में क्या शामिल है, सब साफ़।${whyList ? ` ज़्यादातर यात्री ${whyList} के लिए यह यात्रा करते हैं।` : ''}`
+    : `**${name}** से काशी आ रहे हैं? यहाँ **${routeTitleHi}** का फिक्स्ड टैक्सी किराया गाड़ी के हिसाब से है — ${name} में होटल/स्टेशन/एयरपोर्ट पिकअप, ट्रेन-फ्लाइट लेट होने पर नाम की तख्ती के साथ इंतज़ार, और शुरू होने से पहले लॉक कीमत।`;
+
+  const stayCityOneWay = outbound ? name : 'वाराणसी';
+  const extras = [
+    'पार्किंग व प्रवेश टिकट',
+    'रात रुकने पर ड्राइवर भत्ता (₹400–₹500/रात)',
+    'तय रूट से अतिरिक्त घुमाई',
+  ];
+  if (route.stateTaxApplicable) {
+    extras.unshift(`${first(route.crossesState) || 'स्टेट'} एंट्री/ग्रीन टैक्स (लागू होने पर)`);
+  }
 
   const arrivalOrTiming = outbound
     ? [
       `## वाराणसी से ${name} जाने का सबसे अच्छा समय`,
       '',
-      `सबसे अच्छा प्रस्थान समय **${route.bestDeparture || 'सुबह जल्दी'}** है ताकि ट्रैफ़िक से बचा जा सके। सामान्य यात्रा समय ${route.driveTimeNormal}${route.driveTimePeak ? `, पीक/त्योहार पर ${route.driveTimePeak} तक` : ''}।`,
+      `ट्रैफ़िक से बचने के लिए **${route.bestDeparture || 'सुबह जल्दी'}** निकलें। सामान्य यात्रा समय ${route.driveTimeNormal}${peakDrivePhrase(route, 'hi')}।`,
       chokes.length ? `\n**इन जगहों पर धीमी रफ़्तार:**\n${listBlock(chokes)}` : '',
     ].join('\n')
     : [
-      `## पिकअप व आगमन: ${name} से वाराणसी`,
+      `## वाराणसी की ओर सड़क पर`,
       '',
-      `हम ${name} में किसी भी पते से पिकअप करते हैं — घर, होटल, रेलवे स्टेशन या एयरपोर्ट। स्टेशन/एयरपोर्ट पिकअप पर ड्राइवर **नाम की तख्ती** के साथ इंतज़ार करता है, और ट्रेन/फ्लाइट लेट होने पर **कोई अतिरिक्त शुल्क नहीं**। आप लगभग ${route.driveTimeNormal} में वाराणसी पहुँचते हैं।`,
+      `डोर-टू-डोर लगभग **${route.driveTimeNormal}** लगता है${peakDrivePhrase(route, 'hi')}। स्टेशन/एयरपोर्ट पिकअप पर नाम की तख्ती शामिल है — ट्रेन या फ्लाइट लेट होने पर अतिरिक्त वेटिंग चार्ज नहीं।`,
       chokes.length ? `\n**रास्ते में धीमी जगहें:**\n${listBlock(chokes)}` : '',
     ].join('\n');
+
+  const aboutBlock = whyList
+    ? [
+      `## ${name} के बारे में`,
+      '',
+      outbound
+        ? `${name} वाराणसी से एक दिन या रात भर की आम यात्रा है। यात्री आमतौर पर ${whyList} के लिए आते हैं। WhatsApp पर समूह और तारीख बताएं — ऊपर के रेट कार्ड से गाड़ी मैच कर देंगे।`
+        : `अगर आप ${name} से शुरू कर रहे हैं, तो ज़्यादातर लोग काशी विश्वनाथ, घाट और सारनाथ के लिए वाराणसी आते हैं — ${whyList} के आसपास समय बिताने के बाद। ${name} में पिकअप पॉइंट बताएं, फिक्स्ड ड्रॉप कोट मिलेगा।`,
+    ].join('\n')
+    : '';
 
   return [
     `{{CTA:${heroKey}:hi}}`,
     '',
-    `# ${routeTitleHi} टैक्सी व कैब किराया 2026: ${L(cheapestOw)}+ (Dzire → Tempo Traveller)`,
+    `# ${routeTitleHi} टैक्सी व कैब किराया 2026: ${L(cheapestOw)} से`,
     '',
     intro,
     '',
     angleSection,
     angleSection ? '' : null,
-    `## क्विक फैक्ट्स: ${routeTitleHi}${incUrl ? ' किराया, समय व रूट' : ' दूरी, समय व किराया'}`,
+    `## क्विक फैक्ट्स: दूरी, समय व किराया`,
     '',
     quickFacts,
     '',
     `{{CTA:${ctaKey}:hi}}`,
     '',
-    `## ${routeTitleHi} टैक्सी व कैब किराया — पूरा रेट कार्ड`,
+    `## पूरा रेट कार्ड — ${routeTitleHi}`,
     '',
-    `नीचे हर गाड़ी के हिसाब से पूरा **${routeTitleHi} फेयर कार्ड** है। हर किराया फिक्स्ड है और इसमें ईंधन, टोल व ड्राइवर शामिल हैं।`,
+    `नीचे हर किराया **फिक्स्ड** है — ईंधन, ड्राइवर और हाईवे टोल अनुमान शामिल${route.stateTaxApplicable ? '' : '; सड़क पर कुछ नहीं जुड़ता'}। समूह के हिसाब से गाड़ी चुनें, फिर तारीख भेजकर कोट लॉक करें।`,
     '',
     fareTable(route, 'hi'),
     '',
     stateTaxLine,
     stateTaxLine ? '' : null,
-    `*वन-वे किराया आपकी तय की गई दूरी पर लगता है; राउंड-ट्रिप में वापसी शामिल है। रात रुकने पर ₹400–₹500/रात ड्राइवर भत्ता जुड़ता है। किराया ${new Date().getFullYear()} में अपडेटेड।*`,
+    `*वन-वे आपकी तय दूरी पर लगता है; राउंड-ट्रिप में वापसी शामिल है। रात रुकने पर ₹400–₹500/रात ड्राइवर भत्ता। किराया ${new Date().getFullYear()} में अपडेटेड।*`,
     '',
     incNote,
     incNote ? '' : null,
-    `## ${routeTitleHi} के लिए अपनी गाड़ी चुनें`,
+    `## कौन सी गाड़ी लें?`,
     '',
-    `किस गाड़ी में जाएं, तय नहीं? नीचे इस रूट पर हर विकल्प का किराया और किसके लिए सही है, देखें।`,
+    vehicleGuide(route, 'hi'),
     '',
-    vehicleCards(route, 'hi', routeTitleHi),
+    `## वन-वे बनाम राउंड-ट्रिप`,
     '',
-    `## वन-वे बनाम राउंड-ट्रिप: ${routeTitleHi} के लिए क्या सस्ता?`,
+    `- **वन-वे** (Dzire में ${L(dzOw)} से) — जब गाड़ी वापस नहीं चाहिए, जैसे स्टेशन/एयरपोर्ट ड्रॉप या ${stayCityOneWay} में रुकना।`,
+    `- **राउंड-ट्रिप** (${L(dzRt)} से) — उसी दिन लौटना हो, या वही ड्राइवर वापसी के लिए चाहिए।`,
+    route.offersOneWay ? `\nइस रूट पर असली **वन-वे ड्रॉप** मिलता है — खाली वापसी का किराया देने की मजबूरी नहीं।` : '',
     '',
-    `- **वन-वे** (Dzire में ${L(dzOw)} से) तब सही जब गाड़ी को वापस नहीं लाना — जैसे फ्लाइट/ट्रेन ड्रॉप या ${name} में रुकना हो।`,
-    `- **राउंड-ट्रिप** (${L(dzRt)} से) तब सही जब उसी दिन दर्शन कर लौटना हो या वही गाड़ी-ड्राइवर वापसी के लिए चाहिए।`,
-    route.offersOneWay ? `\nहम असली **${routeTitleHi} वन-वे ड्रॉप** देते हैं — खाली वापसी का किराया देने की मजबूरी नहीं।` : '',
-    '',
-    `## ${routeTitleHi} किराए में क्या शामिल है (और क्या अलग से)`,
+    `## किराए में क्या शामिल है (और क्या अलग)`,
     '',
     '**फिक्स्ड किराए में शामिल:**',
     listBlock([
@@ -856,23 +931,19 @@ function buildBodyHi(route, dir, ctx) {
       'माँगने पर GST बिल',
     ]),
     '',
-    '**अलग से (केवल उपयोग करने पर):**',
-    listBlock([
-      route.stateTaxApplicable ? `${first(route.crossesState) || 'स्टेट'} एंट्री/ग्रीन टैक्स (लागू होने पर)` : 'पार्किंग व प्रवेश टिकट',
-      'रात रुकने पर ड्राइवर भत्ता (₹400–₹500/रात)',
-      'तय रूट से अतिरिक्त घुमाई',
-    ]),
+    '**केवल उपयोग पर अलग से:**',
+    listBlock(extras),
     '',
-    `## ${routeTitleHi} रूट: सड़कें, ठहराव व लैंडमार्क`,
+    `## रूट, ठहराव व लैंडमार्क`,
     '',
-    route.highway ? `सामान्य रूट है **${route.highway}**।` : '',
-    stops.length ? `\n**${routeTitleHi} रूट पर रुकने की अच्छी जगहें:**\n${listBlock(stops)}` : '',
+    route.highway ? `सामान्य हाईवे **${route.highway}** है।` : '',
+    stops.length ? `\n**रास्ते में उपयोगी ठहराव:**\n${listBlock(stops)}` : '',
     '',
     arrivalOrTiming,
     '',
     buildDirectionBlock(route, dir, 'hi', routeTitleHi),
     '',
-    `## ${routeTitleHi}: Kashi Taxi बनाम Ola / Uber बनाम होटल डेस्क`,
+    `## Kashi Taxi बनाम Ola / Uber बनाम होटल डेस्क`,
     '',
     '| | Kashi Taxi (फिक्स्ड) | Ola / Uber | होटल ट्रैवल डेस्क |',
     '|---|---|---|---|',
@@ -880,28 +951,28 @@ function buildBodyHi(route, dir, ctx) {
     '| आउटस्टेशन उपलब्धता | ✅ पक्की गाड़ी-ड्राइवर | ⚠️ अक्सर गाड़ी नहीं | ✅ पर महँगा |',
     '| टोल व ईंधन | ✅ शामिल | ❌ अंत में जुड़ता | ⚠️ कभी छुपा |',
     '| लोकल रूट जानकारी | ✅ लोकल ड्राइवर | ⚠️ अलग-अलग | ✅ |',
-    `| ${name} राउंड-ट्रिप (Dzire) | **${L(dzRt)}** | सर्ज के साथ बदलता | 30-50% ज़्यादा |`,
+    `| ${name} राउंड-ट्रिप (Dzire) | **${L(dzRt)}** | सर्ज के साथ बदलता | 30–50% ज़्यादा |`,
     '',
-    `## ${routeTitleHi} के लिए Kashi Taxi क्यों`,
+    `## Kashi Taxi क्यों`,
     '',
     listBlock([
       '**1998** से वाराणसी यात्रियों की सेवा (Vinayak Travels)',
-      'वेरिफाइड, हिंदी/अंग्रेज़ी बोलने वाले लोकल ड्राइवर',
+      'वेरिफाइड लोकल ड्राइवर (हिंदी व अंग्रेज़ी)',
       'भुगतान से पहले WhatsApp पर फिक्स्ड किराया',
       'परिवार के लिए लाइव लोकेशन',
-      'साफ़-सुथरा AC बेड़ा — Dzire से 26-सीटर Tempo तक',
+      'साफ़ AC बेड़ा — Dzire से 26-सीटर Tempo तक',
     ]),
     '',
     reviewsSection(reviews, aggregateRating, routeTitleHi, 'hi'),
     '',
-    `## 3 आसान चरणों में ${routeTitleHi} कैब बुक करें`,
+    `## 3 चरणों में बुक करें`,
     '',
     '1. **WhatsApp पर** तारीख, पिकअप, यात्री संख्या व गाड़ी बताएं।',
-    '2. कुछ ही मिनट में **फिक्स्ड किराया** पाएं — कोई मीटर नहीं, कोई सर्ज नहीं।',
-    '3. **बेफ़िक्र यात्रा** — ड्राइवर समय पर, किराया कभी नहीं बदलता।',
+    '2. कुछ ही मिनट में **फिक्स्ड किराया** पाएं — मीटर नहीं, सर्ज नहीं।',
+    '3. **यात्रा** — ड्राइवर समय पर, किराया नहीं बदलता।',
     '',
-    route.whyVisit ? `## ${name} के बारे में\n\n${cap(route.whyVisit)}।` : '',
-    '',
+    aboutBlock,
+    aboutBlock ? '' : null,
     `{{CTA:${ctaKey}:hi}}`,
     '',
     '## अक्सर पूछे जाने वाले सवाल',
@@ -948,7 +1019,8 @@ function main() {
     for (const dir of dirs) {
       if (dir === 'in' && !route.servesInbound) continue;
       for (const lang of args.langs) {
-        const { slug, content } = buildPage(route, dir, lang, allRoutes);
+        const built = buildPage(route, dir, lang, allRoutes);
+        const { slug } = built;
         const dirPath = path.join(ROOT, 'content', lang, 'destinations', 'varanasi', 'taxi');
         const filePath = path.join(dirPath, `${slug}.md`);
         const exists = fs.existsSync(filePath);
@@ -957,6 +1029,14 @@ function main() {
           skipped += 1;
           continue;
         }
+        // Keep the original publish date on force-regenerate; only lastUpdated moves.
+        if (exists) {
+          try {
+            const prev = matter(fs.readFileSync(filePath, 'utf8')).data || {};
+            if (prev.date) built.data.date = prev.date;
+          } catch (_) { /* ignore parse errors; write fresh */ }
+        }
+        const content = matter.stringify(`\n${built.body}\n`, built.data);
         if (args.dry) {
           console.log(`  would write: ${lang}/${slug}.md  (${content.length} bytes)`);
           written += 1;

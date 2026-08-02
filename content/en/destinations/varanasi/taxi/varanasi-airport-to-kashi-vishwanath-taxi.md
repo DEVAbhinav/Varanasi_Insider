@@ -135,7 +135,7 @@ The typical **Varanasi airport to Kashi Vishwanath temple Uber price** runs ₹9
 | Uber / Ola (app) | ₹950–1,400 | Surge at dawn & after 8 PM; no corridor access |
 | Kashi Taxi sedan (pre-booked) | ₹890 fixed | One rate, no surge, no hidden extras, corridor-ready, driver waits 15 min |
 
-For a single airport-to-temple drop the pre-booked sedan is usually cheaper than the surging Uber price and never changes after you book. Prefer a full trip? See the whole [taxi service in Varanasi](/en/city/varanasi/taxi/taxi-service-varanasi).
+For a single airport-to-temple drop the pre-booked sedan is usually cheaper than the surging Uber price and never changes after you book. Prefer a full trip? See the whole [taxi service in Varanasi](/).
 
 For multi-stop temple circuits, see the [airport taxi fares 2026](/en/varanasi-airport-taxi-price-guide) matrix.
 
@@ -177,4 +177,3 @@ Turn your airport pickup into a complete Varanasi experience — booked with one
 - 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — reserve a front-row boat for the Dashashwamedh Aarti.
 - 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — riverside and budget stays near the ghats.
 - 🚕 **[Varanasi tour & sightseeing packages](/en/tour-package-from-varanasi)** — Kashi Vishwanath, Sarnath and the ghats.
-

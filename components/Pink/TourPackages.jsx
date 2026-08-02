@@ -20,7 +20,7 @@ export default function TourPackages() {
               <p className="font-semibold text-gray-600">{pkg.duration}</p>
               <p className="text-sm text-gray-500 my-2">{pkg.highlights}</p>
               <p className="text-lg font-bold text-gray-800">From {pkg.price}</p>
-              <Link href="/en/packages" className="mt-4 inline-block text-pink-500 font-bold hover:underline">
+              <Link href="/en/packages/varanasi-tour-package" className="mt-4 inline-block text-pink-500 font-bold hover:underline">
                 View Details
               </Link>
             </div>

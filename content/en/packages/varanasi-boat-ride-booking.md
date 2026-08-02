@@ -22,7 +22,7 @@ breadcrumbs:
   - name: "Home"
     item: "/en"
   - name: "Packages"
-    item: "/en/packages"
+    item: "/en/packages/varanasi-tour-package"
   - name: "Varanasi Boat Ride Booking"
     item: "/en/packages/varanasi-boat-ride-booking"
 commerce:

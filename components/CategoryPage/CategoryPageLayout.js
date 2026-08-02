@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import NavBar from '../NavBar/NavBar';
 import Footer from '../Footer/Footer';
+import HreflangTags from '../SEO/HreflangTags';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
 
 export default function CategoryPageLayout({ 
@@ -13,6 +14,9 @@ export default function CategoryPageLayout({
   heroBadge,
   items, 
   jsonLd,
+  canonicalUrl,
+  pageLang = 'en',
+  hreflangAlternates = [],
   children // For custom content sections
 }) {
   return (
@@ -20,6 +24,14 @@ export default function CategoryPageLayout({
       <Head>
         <title>{metaTitle || title}</title>
         <meta name="description" content={metaDescription} />
+        {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
+        {canonicalUrl && (
+          <HreflangTags
+            pageLang={pageLang}
+            canonical={canonicalUrl}
+            alternates={hreflangAlternates}
+          />
+        )}
         {jsonLd && (
           <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
         )}

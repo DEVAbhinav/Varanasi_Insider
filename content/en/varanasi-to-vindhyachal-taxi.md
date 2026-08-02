@@ -179,7 +179,7 @@ Hiring a taxi remains the most convenient way to complete darshan without scramb
 
 Most pilgrims who book the Vindhyachal route also add a Ganga experience in Varanasi. Bundle these on the same WhatsApp booking and travel with one trusted operator:
 
-- 🚕 **[Full-day Varanasi taxi & sightseeing packages](/en/packages)** — pair your Vindhyachal darshan with the ghats, Kashi Vishwanath and Sarnath.
+- 🚕 **[Varanasi tour packages](/en/packages/varanasi-tour-package)** — pair your Vindhyachal darshan with the ghats, Kashi Vishwanath and Sarnath.
 - 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** — the highlight of any Kashi trip.
 - 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — reserve a front-row boat for the Dashashwamedh Aarti.
 - 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — riverside and budget stays near the ghats.

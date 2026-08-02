@@ -84,7 +84,7 @@ export default function EnquiryForm({ product, offer, estimate, addons = [], met
     <form onSubmit={onSubmit} className="rounded-2xl border border-cyan-100 bg-white p-5 shadow-sm">
       <h3 className="text-base font-semibold text-slate-900">Get a quote / book</h3>
       <p className="mt-0.5 text-xs text-slate-500">
-        No advance needed. We confirm availability by call/WhatsApp.
+        We confirm availability and booking terms by call/WhatsApp.
       </p>
 
       {error && (

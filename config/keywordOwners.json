@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "id": "en-night-taxi",
+      "lang": "en",
+      "owner": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+      "patterns": [
+        "\\b(24 7|24x7|24 hour|night|late night|early morning|pre dawn)\\b.*\\b(taxi|cab)\\b",
+        "\\b(taxi|cab)\\b.*\\b(24 7|24x7|24 hour|night|late night|early morning|pre dawn)\\b"
+      ]
+    },
+    {
+      "id": "en-one-way-taxi",
+      "lang": "en",
+      "owner": "/en/city/varanasi/taxi/one-way-taxi-varanasi",
+      "patterns": [
+        "\\b(one way|round trip|return trip)\\b.*\\b(taxi|cab)\\b",
+        "\\b(taxi|cab)\\b.*\\b(one way|round trip|return trip)\\b"
+      ]
+    },
+    {
+      "id": "en-generic-taxi",
+      "lang": "en",
+      "owner": "/",
+      "patterns": [
+        "^(best |reliable |affordable |cheap |top )?(varanasi|kashi|kasi|banaras|benaras) (taxi|cab)( service| services| booking| hire)?$",
+        "^(best |reliable |affordable |cheap |top )?(taxi|cab)( service| services| booking| hire)?( in)? (varanasi|kashi|kasi|banaras|benaras)$",
+        "^(taxi|cab) booking$"
+      ]
+    },
+    {
+      "id": "en-generic-varanasi-package",
+      "lang": "en",
+      "owner": "/en/packages/varanasi-tour-package",
+      "patterns": [
+        "^(varanasi|kashi|kasi|banaras|benaras) tour package(s)?( 2026)?$",
+        "^tour package(s)? (in|for) (varanasi|kashi|kasi|banaras|benaras)( 2026)?$"
+      ]
+    }
+  ]
+}

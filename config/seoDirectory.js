@@ -2,12 +2,12 @@
  * config/seoDirectory.js — CURATED OVERLAY for the automated internal-link system.
  *
  * This file is the ONLY hand-maintained input. Everything else (page discovery,
- * GSC click/impression/position join, intent classification, anchor generation,
+ * GSC page-performance join, intent classification, anchor generation,
  * priority scoring) is produced automatically at build time by
  * `scripts/generate-link-graph.js`, exactly like the sitemap.
  *
  * Decisions encoded here are evidence-based (see files/seo-footer-plan.md §H,
- * derived from data/gsc keyword-page-map.csv exports):
+ * derived from real page-level GSC exports plus explicit intent ownership:
  *   - `/bike-rentals-varanasi` is the #1 sales earner → top billing.
  *   - Traffic is mostly informational → guide pages funnel to money pages.
  *   - Pin ONE canonical owner per broad intent; siblings surface via backfill.
@@ -49,9 +49,11 @@ const FOOTER_GROUPS = [
     id: 'taxi-services',
     title: 'Taxi Services in Varanasi',
     pins: [
-      { path: '/en/city/varanasi/taxi/24-7-taxi-varanasi', label: 'Taxi Service in Varanasi (24×7)' },
+      { path: '/', label: 'Taxi Service in Varanasi' },
+      { path: '/en/city/varanasi/taxi', label: 'Browse Taxi Routes & Fare Guides' },
       { path: '/en/varanasi-airport-taxi-guide', label: 'Varanasi Airport Taxi (from ₹899)' },
-      { path: '/pink-taxi-varanasi', label: 'Pink Taxi Varanasi' },
+      { path: '/en/city/varanasi/taxi/24-7-taxi-varanasi', label: 'Night & Early-Morning Taxi' },
+      { path: '/en/city/varanasi/taxi/one-way-taxi-varanasi', label: 'One-Way Outstation Taxi' },
     ],
     fill: { category: 'taxi', max: 8 },
   },
@@ -144,23 +146,23 @@ const CROSS_SELL_BY_CATEGORY = {
   ],
   events: [
     '/en/packages/varanasi-tour-package',
-    '/en/city/varanasi/taxi/24-7-taxi-varanasi',
+    '/',
     '/en/varanasi-airport-taxi-guide',
   ],
   guide: [
-    '/en/city/varanasi/taxi/24-7-taxi-varanasi',
+    '/',
     '/en/packages/varanasi-tour-package',
     '/en/varanasi-airport-taxi-guide',
   ],
   'tour-packages': [
     '/en/packages/varanasi-tour-package',
     '/en/packages/varanasi-boat-ride-booking',
-    '/en/city/varanasi/taxi/24-7-taxi-varanasi',
+    '/',
   ],
   taxi: [
-    '/en/packages/varanasi-tour-package',
+    '/',
     '/en/17-seater-tempo-traveller-varanasi',
-    '/en/packages/varanasi-boat-ride-booking',
+    '/en/packages/varanasi-tour-package',
   ],
 };
 

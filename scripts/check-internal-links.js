@@ -46,8 +46,17 @@ function buildValidRoutesFromContent() {
       const relativePath = path.relative(langDir, file);
       const slug = path.basename(file, '.md').toLowerCase();
       
-      // Skip index files for direct slug routes
-      if (slug === 'index') continue;
+      // index.md backs the directory hub route (e.g. destinations/varanasi/taxi/index.md
+      // serves /en/city/varanasi/taxi), so register that instead of a slug route.
+      if (slug === 'index') {
+        const dirPath = path.dirname(relativePath);
+        if (dirPath !== '.') {
+          const routePath = dirPath.replace(/^destinations\//, 'city/').replace(/\\/g, '/');
+          validRoutes.add(`/${lang}/${routePath}`);
+          validRoutes.add(`/${lang}/${dirPath.replace(/\\/g, '/')}`);
+        }
+        continue;
+      }
       
       // Determine route based on folder structure
       const dirPath = path.dirname(relativePath);
@@ -73,7 +82,7 @@ function buildValidRoutesFromContent() {
     '/en/about', '/hi/about',
     '/en/contact', '/hi/contact',
     '/en/services', '/hi/services',
-    '/en/packages', '/hi/packages',
+    '/hi/packages',
     '/pink-taxi-varanasi',
     '/bike-rentals-varanasi',
     '/banaras-tour-package',

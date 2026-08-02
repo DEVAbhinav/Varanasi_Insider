@@ -22,7 +22,7 @@ function loadConfig() {
     categories: {
       guides: { label: 'Travel Guides', path: '/en/', enabled: true },
       services: { label: 'Services', path: '/en/services/', enabled: false },
-      packages: { label: 'Packages', path: '/en/packages/', enabled: false }
+      packages: { label: 'Varanasi Tour Packages', path: '/en/packages/varanasi-tour-package', enabled: false }
     }
   };
   try {

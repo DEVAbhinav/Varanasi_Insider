@@ -6,6 +6,7 @@ import ItineraryTimeline from '@/components/DestinationPage/ItineraryTimeline';
 import HreflangTags from '@/components/SEO/HreflangTags';
 import MapWidget from '@/components/Map/MapWidget';
 import { CONTACT, getCallTelHref, getWhatsAppUrl } from '@/lib/contact';
+import { logClick } from '@/lib/logClick';
 
 const DEFAULT_SITE_BASE = 'https://www.kashitaxi.in';
 const DEFAULT_PHONE = CONTACT.callNumberRaw;
@@ -178,6 +179,7 @@ export default function DestinationContentPage({ entry, category, allPosts, page
   }
 
   const pageCategory = category || entry.category;
+  const isTaxiPage = pageCategory === 'taxi';
   const siteBase = entry.siteBase || DEFAULT_SITE_BASE;
   const langForPage = entry.lang || pageLang || 'en';
   const slugPath = `/city/${entry.destination}/${pageCategory}/${entry.slug}`;
@@ -195,6 +197,8 @@ export default function DestinationContentPage({ entry, category, allPosts, page
   const phoneNumber = entry.phone || DEFAULT_PHONE;
   const headerEyebrow = entry.eyebrow || CATEGORY_TITLE_MAP[pageCategory] || 'Destination Insight';
   const breadcrumbs = Array.isArray(entry.breadcrumbs) ? entry.breadcrumbs : [];
+  const taxiCtaId = String(entry.slug || 'taxi').replace(/[^a-z0-9]+/gi, '_').toLowerCase();
+  const taxiWhatsAppText = `Hi, I need a quote for ${entry.title || 'this taxi route'}. Date/time: __, Pickup: __, Destination: __, Passengers: __, Luggage: __.`;
 
   // Only render standalone breadcrumb JSON-LD if the main jsonLd graph doesn't already contain one.
   const mainGraphHasBreadcrumbs = entry.jsonLd?.['@graph']?.some(
@@ -277,6 +281,36 @@ export default function DestinationContentPage({ entry, category, allPosts, page
             {description}
           </p>
         )}
+        {isTaxiPage && (
+          <div className="mt-5 flex flex-wrap justify-center gap-3 lg:justify-start">
+            <a
+              href={getCallTelHref(phoneNumber)}
+              onClick={() => logClick('CALL')}
+              data-cta-id={`${taxiCtaId}_hero_call`}
+              data-cta-location="taxi_page_header"
+              data-page-type="taxi_specialist"
+              data-intent-cluster={entry.slug || 'taxi'}
+              data-service-type="taxi"
+              className="rounded-xl bg-slate-900 px-5 py-3 text-sm font-semibold text-white transition hover:bg-slate-800"
+            >
+              Call for Availability
+            </a>
+            <a
+              href={getWhatsAppUrl(taxiWhatsAppText)}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => logClick('WHATSAPP')}
+              data-cta-id={`${taxiCtaId}_hero_whatsapp`}
+              data-cta-location="taxi_page_header"
+              data-page-type="taxi_specialist"
+              data-intent-cluster={entry.slug || 'taxi'}
+              data-service-type="taxi"
+              className="rounded-xl bg-emerald-600 px-5 py-3 text-sm font-semibold text-white transition hover:bg-emerald-700"
+            >
+              WhatsApp Route Quote
+            </a>
+          </div>
+        )}
         {breadcrumbs.length > 0 && (
           <nav
             className="mt-4 flex flex-wrap items-center justify-center gap-1 text-xs text-gray-500 sm:text-sm lg:justify-start"
@@ -309,7 +343,13 @@ export default function DestinationContentPage({ entry, category, allPosts, page
       pageUrl={localizedPath}
       contentHtml={fullHtml}
       faqSchema={entry?.faqSchema}
-      cta={{ title: entry.ctaTitle || 'Need help finalising your itinerary?', subtitle: entry.ctaSubtitle || 'Our concierge desk can match the right fleet, timing, and guide support for your group.', variant: entry.ctaVariant || 'default' }}
+      cta={{
+        title: entry.ctaTitle || (isTaxiPage ? 'Request a quote for this taxi route' : 'Need help finalising your itinerary?'),
+        subtitle: entry.ctaSubtitle || (isTaxiPage
+          ? 'Share the pickup, destination, date, passengers and luggage so we can confirm the vehicle and fare.'
+          : 'Our concierge desk can match the right fleet, timing, and guide support for your group.'),
+        variant: entry.ctaVariant || 'default',
+      }}
       allPosts={allPosts}
     >
       {contentHtmlBefore && contentHtmlBefore.trim() && (

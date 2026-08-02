@@ -265,7 +265,12 @@ const nextConfig = {
       },
       {
         source: '/en/taxi-service-varanasi',
-        destination: '/en/city/varanasi/taxi/taxi-service-varanasi',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/en/city/varanasi/taxi/taxi-service-varanasi',
+        destination: '/',
         permanent: true,
       },
       {
@@ -462,7 +467,12 @@ const nextConfig = {
       },
       {
         source: '/packages',
-        destination: '/en/packages',
+        destination: '/en/packages/varanasi-tour-package',
+        permanent: true,
+      },
+      {
+        source: '/en/packages',
+        destination: '/en/packages/varanasi-tour-package',
         permanent: true,
       },
 
@@ -865,8 +875,10 @@ const nextConfig = {
       // Bodh Gaya: service page (532 imp) → taxi-cost article (17,415 imp); content merged, higher prices kept
       { source: '/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi', destination: '/en/varanasi-to-bodhgaya-taxi-cost', permanent: true },
 
-      // Lucknow: fare article (1,176 imp) → service page (2,041 imp); winner already has all content at ₹5,200
+      // Lucknow: legacy top-level fare article → service page (winner); car-wise rate card lives at
+      // /{lang}/city/varanasi/taxi/lucknow-to-varanasi-taxi-fare (generator-owned, aligned with lib/routePricing).
       { source: '/en/lucknow-to-varanasi-taxi-fare', destination: '/en/city/lucknow/taxi/lucknow-to-varanasi-taxi', permanent: true },
+      { source: '/hi/lucknow-to-varanasi-taxi-fare', destination: '/hi/city/lucknow/taxi/lucknow-to-varanasi-taxi', permanent: true },
 
       // Flat URLs → final canonical (skip 2-hop chain through buildDestinationRootRedirects + cannibalization 301)
       { source: '/en/varanasi-to-allahabad-taxi', destination: '/en/city/prayagraj/taxi/varanasi-to-prayagraj-taxi', permanent: true },

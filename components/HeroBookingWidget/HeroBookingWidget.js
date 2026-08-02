@@ -122,6 +122,11 @@ export default function HeroBookingWidget() {
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => gtag.event({ action: 'whatsapp_redirect', category: 'Conversion', label: 'Hero Widget Success' })}
+                data-cta-id="home_quote_success_whatsapp"
+                data-cta-location="home_quote_success"
+                data-page-type="generic_taxi_owner"
+                data-intent-cluster="generic_taxi"
+                data-service-type="taxi"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-green-500 hover:bg-green-600 text-white font-semibold rounded-lg transition-all shadow-lg"
               >
                 💬 Chat on WhatsApp
@@ -264,6 +269,11 @@ export default function HeroBookingWidget() {
 
             <button 
               type="submit"
+              data-cta-id="home_quote_continue"
+              data-cta-location="home_booking_widget"
+              data-page-type="generic_taxi_owner"
+              data-intent-cluster="generic_taxi"
+              data-service-type="taxi"
               className="relative w-full py-3 px-6 bg-gradient-to-r from-cyan-500 via-teal-500 to-cyan-600 text-white font-semibold text-sm md:text-base rounded-lg shadow-[0_8px_30px_rgba(6,182,212,0.35)] hover:shadow-[0_10px_35px_rgba(6,182,212,0.45)] hover:scale-[1.01] transition-all duration-300 flex items-center justify-center gap-2 overflow-hidden group"
             >
               <div className="absolute inset-0 bg-gradient-to-r from-white/0 via-white/20 to-white/0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700"></div>
@@ -376,6 +386,11 @@ export default function HeroBookingWidget() {
               <button 
                 type="submit"
                 disabled={loading}
+                data-cta-id="home_quote_submit"
+                data-cta-location="home_booking_widget"
+                data-page-type="generic_taxi_owner"
+                data-intent-cluster="generic_taxi"
+                data-service-type="taxi"
                 className="relative flex-1 py-3 px-6 bg-gradient-to-r from-cyan-500 via-teal-500 to-cyan-600 text-white font-semibold text-sm md:text-base rounded-lg shadow-[0_8px_30px_rgba(6,182,212,0.35)] hover:shadow-[0_10px_35px_rgba(6,182,212,0.45)] hover:scale-[1.01] transition-all duration-300 flex items-center justify-center gap-2 overflow-hidden group disabled:opacity-50 disabled:cursor-not-allowed"
               >
                 <div className="absolute inset-0 bg-gradient-to-r from-white/0 via-white/20 to-white/0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700"></div>
@@ -395,7 +410,15 @@ export default function HeroBookingWidget() {
             </div>
 
             <p className="text-xs text-center text-gray-600 mt-3">
-              Or call directly: <a href={getCallTelHref()} className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors">{CONTACT.callNumberDisplay.replace('+91 ', '')}</a>
+              Or call directly: <a
+                href={getCallTelHref()}
+                data-cta-id="home_quote_direct_call"
+                data-cta-location="home_booking_widget"
+                data-page-type="generic_taxi_owner"
+                data-intent-cluster="generic_taxi"
+                data-service-type="taxi"
+                className="text-cyan-600 font-bold hover:text-cyan-700 transition-colors"
+              >{CONTACT.callNumberDisplay.replace('+91 ', '')}</a>
             </p>
           </form>
         )}

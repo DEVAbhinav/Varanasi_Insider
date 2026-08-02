@@ -48,7 +48,6 @@ const taxiPages = [
   'content/en/destinations/varanasi/taxi/manikarnika-ghat-cremation-guide.md',
   'content/en/destinations/varanasi/taxi/kedar-harishchandra-ghat-taxi-service.md',
   'content/en/destinations/varanasi/taxi/airport-taxi-service-varanasi.md',
-  'content/en/destinations/varanasi/taxi/taxi-service-varanasi.md',
 ];
 
 // Standalone taxi pages needing RP

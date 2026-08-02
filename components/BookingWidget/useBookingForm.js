@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import * as gtag from '../../lib/gtag';
 import { CONTACT } from '@/lib/contact';
 
@@ -22,16 +22,24 @@ export function useBookingForm({
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
   const [whatsappLink, setWhatsappLink] = useState('');
+  const startedRef = useRef(false);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
 
     setFormData((current) => {
-      if (!current[name] && value) {
+      if (!startedRef.current && !current[name] && value) {
+        startedRef.current = true;
         gtag.event({
           action: 'form_start',
           category: 'Form',
           label: widgetLabel,
+        });
+        gtag.event({
+          action: 'quote_started',
+          category: 'Conversion',
+          label: widgetLabel,
+          cta_id: `${widgetLabel.toLowerCase().replace(/[^a-z0-9]+/g, '_')}_form`,
         });
       }
 
@@ -51,15 +59,32 @@ export function useBookingForm({
     setLoading(true);
     setError('');
     setSuccess(false);
+    gtag.event({
+      action: 'quote_submitted',
+      category: 'Conversion',
+      label: widgetLabel,
+    });
 
     if (!formData.name || !formData.phone) {
       setError(missingContactMessage);
+      gtag.event({
+        action: 'quote_error',
+        category: 'Conversion',
+        label: widgetLabel,
+        error_type: 'missing_contact',
+      });
       setLoading(false);
       return false;
     }
 
     if (!isValidIndianPhone(formData.phone)) {
       setError(invalidPhoneMessage);
+      gtag.event({
+        action: 'quote_error',
+        category: 'Conversion',
+        label: widgetLabel,
+        error_type: 'invalid_phone',
+      });
       setLoading(false);
       return false;
     }
@@ -84,7 +109,14 @@ export function useBookingForm({
           category: 'Form',
           label: widgetLabel,
           value: 1,
-          ...buildAnalytics(formData, context),
+          ...(buildAnalytics?.(formData, context) || {}),
+        });
+        gtag.event({
+          action: 'quote_success',
+          category: 'Conversion',
+          label: widgetLabel,
+          value: 1,
+          ...(buildAnalytics?.(formData, context) || {}),
         });
 
         if (resetOnSuccess) {
@@ -95,12 +127,25 @@ export function useBookingForm({
       }
 
       setError(data.error || submitErrorMessage);
+      gtag.event({
+        action: 'quote_error',
+        category: 'Conversion',
+        label: widgetLabel,
+        error_type: 'server_error',
+        response_status: response.status,
+      });
       return false;
     } catch (err) {
       if (onNetworkError) {
         onNetworkError(err);
       }
       setError(networkErrorMessage);
+      gtag.event({
+        action: 'quote_error',
+        category: 'Conversion',
+        label: widgetLabel,
+        error_type: 'network_error',
+      });
       return false;
     } finally {
       setLoading(false);

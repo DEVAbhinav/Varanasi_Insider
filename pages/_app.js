@@ -91,6 +91,11 @@ function MyApp({ Component, pageProps }) {
       const elementClass = target.className || 'no-class';
       const destination = target.href || 'n/a';
       const tagName = target.tagName.toLowerCase();
+      const ctaId = target.dataset.ctaId || elementId;
+      const ctaLocation = target.dataset.ctaLocation || 'unspecified';
+      const pageType = target.dataset.pageType || 'unspecified';
+      const intentCluster = target.dataset.intentCluster || 'unspecified';
+      const serviceType = target.dataset.serviceType || 'unspecified';
 
       gtag.event({
         action: 'click',
@@ -101,6 +106,11 @@ function MyApp({ Component, pageProps }) {
         element_class: typeof elementClass === 'string' ? elementClass.slice(0, 50) : 'n/a',
         destination_url: destination,
         page_location: window.location.href,
+        cta_id: ctaId,
+        cta_location: ctaLocation,
+        page_type: pageType,
+        intent_cluster: intentCluster,
+        service_type: serviceType,
       });
 
       // High-signal conversion events: WhatsApp / phone-call intent.
@@ -114,6 +124,11 @@ function MyApp({ Component, pageProps }) {
           element_text: elementText,
           destination_url: href,
           page_location: window.location.href,
+          cta_id: ctaId,
+          cta_location: ctaLocation,
+          page_type: pageType,
+          intent_cluster: intentCluster,
+          service_type: serviceType,
         });
       } else if (href.startsWith('tel:')) {
         gtag.event({
@@ -123,6 +138,11 @@ function MyApp({ Component, pageProps }) {
           element_text: elementText,
           destination_url: href,
           page_location: window.location.href,
+          cta_id: ctaId,
+          cta_location: ctaLocation,
+          page_type: pageType,
+          intent_cluster: intentCluster,
+          service_type: serviceType,
         });
       }
     };
