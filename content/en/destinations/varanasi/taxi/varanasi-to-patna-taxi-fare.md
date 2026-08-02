@@ -61,10 +61,12 @@ faqSchema:
       For 5-6 people an Ertiga (6-seat) or Innova (7-seat) is ideal —
       comfortable with luggage. On this route an Innova is from ₹9,842
       round-trip.
-  - question: What is the Varanasi to Patna distance and travel time?
+  - question: Is the Varanasi to Patna fare per car or per person?
     answer: >-
-      Varanasi to Patna is about 255-278 km (route-dependent). Plan on 5.5-6.5
-      hr in normal traffic, or up to 7+ hr when the road is busy.
+      Per car. The fare covers the whole vehicle — fuel, tolls and the driver —
+      however many of you travel, up to the seat limit. A Dzire seats 4, an
+      Ertiga 6 and an Innova 7, so a family sharing one car pays once, not per
+      head.
   - question: Do you provide AC cars for Varanasi to Patna?
     answer: >-
       Yes, the entire fleet is air-conditioned — Dzire, Ertiga, Innova, Innova
@@ -311,9 +313,9 @@ You get the full fixed fare in writing before you book — no meter, no surge pr
 
 For 5-6 people an Ertiga (6-seat) or Innova (7-seat) is ideal — comfortable with luggage. On this route an Innova is from ₹9,842 round-trip.
 
-### What is the Varanasi to Patna distance and travel time?
+### Is the Varanasi to Patna fare per car or per person?
 
-Varanasi to Patna is about 255-278 km (route-dependent). Plan on 5.5-6.5 hr in normal traffic, or up to 7+ hr when the road is busy.
+Per car. The fare covers the whole vehicle — fuel, tolls and the driver — however many of you travel, up to the seat limit. A Dzire seats 4, an Ertiga 6 and an Innova 7, so a family sharing one car pays once, not per head.
 
 ### Do you provide AC cars for Varanasi to Patna?
 

@@ -59,10 +59,12 @@ faqSchema:
       For 5-6 people an Ertiga (6-seat) or Innova (7-seat) is ideal —
       comfortable with luggage. On this route an Innova is from ₹4,625
       round-trip.
-  - question: What is the Varanasi to Prayagraj distance and travel time?
+  - question: Is the Varanasi to Prayagraj fare per car or per person?
     answer: >-
-      Varanasi to Prayagraj is about 120-125 km. Plan on 2.5-3 hr in normal
-      traffic, or up to 3+ hr (Kumbh/festival) when the road is busy.
+      Per car. The fare covers the whole vehicle — fuel, tolls and the driver —
+      however many of you travel, up to the seat limit. A Dzire seats 4, an
+      Ertiga 6 and an Innova 7, so a family sharing one car pays once, not per
+      head.
   - question: Do you provide AC cars for Varanasi to Prayagraj?
     answer: >-
       Yes, the entire fleet is air-conditioned — Dzire, Ertiga, Innova, Innova
@@ -310,9 +312,9 @@ You get the full fixed fare in writing before you book — no meter, no surge pr
 
 For 5-6 people an Ertiga (6-seat) or Innova (7-seat) is ideal — comfortable with luggage. On this route an Innova is from ₹4,625 round-trip.
 
-### What is the Varanasi to Prayagraj distance and travel time?
+### Is the Varanasi to Prayagraj fare per car or per person?
 
-Varanasi to Prayagraj is about 120-125 km. Plan on 2.5-3 hr in normal traffic, or up to 3+ hr (Kumbh/festival) when the road is busy.
+Per car. The fare covers the whole vehicle — fuel, tolls and the driver — however many of you travel, up to the seat limit. A Dzire seats 4, an Ertiga 6 and an Innova 7, so a family sharing one car pays once, not per head.
 
 ### Do you provide AC cars for Varanasi to Prayagraj?
 
