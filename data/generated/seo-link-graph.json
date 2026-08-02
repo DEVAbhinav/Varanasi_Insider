@@ -40,7 +40,7 @@
           },
           {
             "href": "/en/varanasi-to-ayodhya-taxi",
-            "label": "Varanasi to Ayodhya Taxi ₹4,990"
+            "label": "Varanasi to Ayodhya Taxi Fare ₹3,820"
           },
           {
             "href": "/en/city/agra/taxi/varanasi-to-agra-taxi",
@@ -298,7 +298,7 @@
           },
           {
             "href": "/hi/varanasi-to-ayodhya-taxi",
-            "label": "वाराणसी से अयोध्या दूरी 2026"
+            "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820"
           },
           {
             "href": "/hi/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi",
@@ -377,12 +377,12 @@
             "label": "वाराणसी सेम-डे टूर पैकेज"
           },
           {
-            "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-            "label": "गया में पिंडदान 2026"
-          },
-          {
             "href": "/hi/packages/sawan-darshan-package-varanasi",
             "label": "सावन दर्शन पैकेज वाराणसी 2026"
+          },
+          {
+            "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+            "label": "गया में पिंडदान 2026"
           },
           {
             "href": "/hi/ayodhya-varanasi-prayagraj-group-tour-package",
@@ -431,12 +431,12 @@
             "label": "वाराणसी से खजुराहो टैक्सी"
           },
           {
-            "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-            "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…"
+            "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+            "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)"
           },
           {
-            "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-            "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा"
+            "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+            "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…"
           }
         ]
       },
@@ -4763,7 +4763,7 @@
       },
       {
         "href": "/en/varanasi-to-ayodhya-taxi",
-        "label": "Varanasi to Ayodhya Taxi ₹4,990",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -6306,7 +6306,7 @@
     "/hi/ayodhya-varanasi-prayagraj-group-tour-package": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -6320,13 +6320,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -6347,13 +6347,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -7019,13 +7019,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -7046,13 +7046,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -7147,13 +7147,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -7207,7 +7207,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -7367,7 +7367,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -7691,13 +7691,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -7915,13 +7915,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -8071,7 +8071,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -8103,7 +8103,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -8199,7 +8199,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -8267,13 +8267,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -8706,7 +8706,7 @@
     "/hi/varanasi-to-ayodhya-12-seater-tempo-traveller": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -8738,7 +8738,7 @@
     "/hi/varanasi-to-ayodhya-day-trip-tempo-traveller": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -8802,7 +8802,7 @@
     "/hi/varanasi-to-ayodhya-tempo-traveller": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -8839,7 +8839,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -8939,13 +8939,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -9127,7 +9127,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -9351,7 +9351,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -9419,13 +9419,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -9451,13 +9451,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -9515,13 +9515,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -9766,13 +9766,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -9830,13 +9830,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -9858,7 +9858,7 @@
     "/hi/bus/kashi-prayagraj-ayodhya-south": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -9879,13 +9879,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -9907,7 +9907,7 @@
     "/hi/services/ayodhya-ram-mandir-darshan-package-from-varanasi": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -9916,13 +9916,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -10003,7 +10003,7 @@
     "/hi/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -10017,13 +10017,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -10035,7 +10035,7 @@
     "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -10049,13 +10049,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -10387,7 +10387,7 @@
     "/hi/services/varanasi-ayodhya-tour-package": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -10401,13 +10401,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -10465,13 +10465,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -10488,7 +10488,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -14992,7 +14992,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15024,7 +15024,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15056,7 +15056,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15083,7 +15083,7 @@
     "/hi/city/ayodhya/tour-packages/ayodhya-2-day-tour": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15097,13 +15097,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/packages/sawan-darshan-package-varanasi",
+        "label": "सावन दर्शन पैकेज वाराणसी 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/packages/sawan-darshan-package-varanasi",
-        "label": "सावन दर्शन पैकेज वाराणसी 2026",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -15120,7 +15120,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15152,7 +15152,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15184,7 +15184,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15216,7 +15216,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15248,7 +15248,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15280,7 +15280,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15312,7 +15312,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15344,7 +15344,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15376,7 +15376,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15408,7 +15408,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15440,7 +15440,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15472,7 +15472,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15504,7 +15504,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15536,7 +15536,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15568,7 +15568,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15600,7 +15600,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15632,7 +15632,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15664,7 +15664,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15696,7 +15696,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15728,7 +15728,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15792,7 +15792,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15824,7 +15824,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -15856,7 +15856,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16286,7 +16286,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16300,13 +16300,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16318,12 +16318,17 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
         "href": "/hi/city/varanasi/taxi/varanasi-airport-to-gorakhpur-taxi",
         "label": "वाराणसी एयरपोर्ट से गोरखपुर दूरी, समय और टैक्सी…",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
@@ -16334,11 +16339,6 @@
       {
         "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
         "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/city/varanasi/taxi/taxi-service-in-sigra-varanasi",
-        "label": "सिगरा, वाराणसी में विश्वसनीय टैक्सी सेवा (शास्त्री…",
         "reason": "related"
       }
     ],
@@ -16350,7 +16350,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16364,13 +16364,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16382,7 +16382,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16396,13 +16396,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16414,7 +16414,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16428,13 +16428,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16446,7 +16446,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16460,13 +16460,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16478,7 +16478,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16492,13 +16492,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16510,7 +16510,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16524,13 +16524,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16542,7 +16542,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16556,13 +16556,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16574,7 +16574,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16588,13 +16588,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16606,7 +16606,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16620,13 +16620,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16638,7 +16638,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16652,13 +16652,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16675,7 +16675,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16689,8 +16689,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       }
     ],
@@ -16702,7 +16702,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16716,13 +16716,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16734,7 +16734,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16748,13 +16748,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16766,7 +16766,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16780,13 +16780,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taxi-service-in-sigra-varanasi",
-        "label": "सिगरा, वाराणसी में विश्वसनीय टैक्सी सेवा (शास्त्री…",
+        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
+        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
         "reason": "related"
       }
     ],
@@ -16798,7 +16798,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16812,13 +16812,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16830,7 +16830,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16844,13 +16844,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16862,7 +16862,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16876,13 +16876,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16899,7 +16899,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16913,8 +16913,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       }
     ],
@@ -16926,7 +16926,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16940,13 +16940,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16958,7 +16958,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -16972,13 +16972,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -16990,7 +16990,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17004,13 +17004,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17022,7 +17022,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17036,13 +17036,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17054,7 +17054,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17068,13 +17068,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17086,7 +17086,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17100,13 +17100,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17118,7 +17118,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17132,13 +17132,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17150,7 +17150,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17164,13 +17164,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taxi-service-in-sigra-varanasi",
-        "label": "सिगरा, वाराणसी में विश्वसनीय टैक्सी सेवा (शास्त्री…",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17182,7 +17182,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17196,13 +17196,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17214,7 +17214,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17228,13 +17228,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17246,7 +17246,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17260,13 +17260,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17278,7 +17278,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17292,13 +17292,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17310,7 +17310,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17324,13 +17324,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17342,7 +17342,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17356,13 +17356,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17374,7 +17374,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17388,13 +17388,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17406,7 +17406,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17420,13 +17420,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17438,7 +17438,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17452,13 +17452,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17470,7 +17470,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17484,13 +17484,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17502,7 +17502,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17534,7 +17534,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17548,13 +17548,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17566,7 +17566,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17580,13 +17580,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17598,12 +17598,17 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
         "href": "/hi/city/varanasi/taxi/airport-taxi-service-varanasi",
         "label": "प्रीपेड एयरपोर्ट टैक्सी वाराणसी",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
@@ -17614,11 +17619,6 @@
       {
         "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
         "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/city/varanasi/taxi/taxi-service-in-sigra-varanasi",
-        "label": "सिगरा, वाराणसी में विश्वसनीय टैक्सी सेवा (शास्त्री…",
         "reason": "related"
       }
     ],
@@ -17630,7 +17630,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17644,13 +17644,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17662,7 +17662,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17676,13 +17676,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17694,7 +17694,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17708,13 +17708,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17726,7 +17726,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17740,13 +17740,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17758,7 +17758,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17772,13 +17772,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17790,7 +17790,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17804,13 +17804,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17822,7 +17822,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17836,13 +17836,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17854,7 +17854,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17868,13 +17868,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17886,7 +17886,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17900,13 +17900,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17918,7 +17918,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17932,13 +17932,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17950,7 +17950,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17964,13 +17964,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -17982,7 +17982,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -17996,13 +17996,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18014,7 +18014,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18028,13 +18028,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18046,7 +18046,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18060,13 +18060,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18078,7 +18078,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18092,13 +18092,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18110,7 +18110,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18124,20 +18124,20 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
     "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi": [
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18156,13 +18156,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18174,7 +18174,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18188,13 +18188,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18206,7 +18206,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18220,13 +18220,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18238,7 +18238,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18252,13 +18252,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18270,7 +18270,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18284,13 +18284,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18302,7 +18302,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18316,13 +18316,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18334,7 +18334,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18348,13 +18348,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18366,7 +18366,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18380,13 +18380,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18398,7 +18398,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18412,13 +18412,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18430,7 +18430,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18444,13 +18444,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18462,7 +18462,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18476,13 +18476,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18494,7 +18494,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18508,13 +18508,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18526,7 +18526,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18540,13 +18540,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18558,7 +18558,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18572,13 +18572,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18590,7 +18590,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18604,13 +18604,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18622,7 +18622,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18636,13 +18636,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18654,7 +18654,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18668,13 +18668,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18686,7 +18686,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18700,13 +18700,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18718,7 +18718,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18732,13 +18732,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18750,7 +18750,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18764,13 +18764,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18782,7 +18782,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18796,13 +18796,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18814,7 +18814,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18828,13 +18828,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18846,7 +18846,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18860,13 +18860,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18878,7 +18878,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18892,13 +18892,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18910,7 +18910,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18924,13 +18924,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18942,7 +18942,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -18956,13 +18956,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
-        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
+        "href": "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi",
+        "label": "वाराणसी एयरपोर्ट से DDU जंक्शन (मुगलसराय)",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service",
-        "label": "ताज गंगेस वाराणसी प्रीमियम टैक्सी सेवा",
+        "href": "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service",
+        "label": "केदार घाट और हरिश्चंद्र घाट टैक्सी सेवा…",
         "reason": "related"
       }
     ],
@@ -18974,7 +18974,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -19006,7 +19006,7 @@
       },
       {
         "href": "/hi/varanasi-to-ayodhya-taxi",
-        "label": "वाराणसी से अयोध्या दूरी 2026",
+        "label": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
         "reason": "rescue"
       },
       {
@@ -19958,7 +19958,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 2,
-      "score": 33
+      "score": 32
     },
     "/en/how-to-reach-varanasi": {
       "lang": "en",
@@ -20246,7 +20246,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 49
+      "score": 48
     },
     "/en/navratri-in-vindhyachal-practical-guide": {
       "lang": "en",
@@ -20270,7 +20270,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 1,
-      "score": 34
+      "score": 33
     },
     "/en/nirjala-ekadashi-varanasi-2026": {
       "lang": "en",
@@ -20498,7 +20498,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 34
+      "score": 33
     },
     "/en/shradh-tarpan-tulsi-ghat-varanasi-guide": {
       "lang": "en",
@@ -20522,7 +20522,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/en/tempo-traveller-booking-guide-varanasi": {
       "lang": "en",
@@ -20858,7 +20858,7 @@
       "commercial": false,
       "intent": "info",
       "clicks": 4,
-      "score": 49
+      "score": 48
     },
     "/en/varanasi-instrument-market-guide": {
       "lang": "en",
@@ -20970,15 +20970,15 @@
     },
     "/en/varanasi-to-ayodhya-taxi": {
       "lang": "en",
-      "title": "Varanasi to Ayodhya Taxi ₹4,990 | 200 km, 4–5 hr, Ram Mandir Cab",
-      "anchor": "Varanasi to Ayodhya Taxi ₹4,990",
+      "title": "Varanasi to Ayodhya Taxi Fare ₹3,820 | Book Ram Mandir Cab",
+      "anchor": "Varanasi to Ayodhya Taxi Fare ₹3,820",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": null,
       "commercial": true,
       "intent": "info",
       "clicks": 18,
-      "score": 225
+      "score": 229
     },
     "/en/varanasi-to-ayodhya-tempo-traveller": {
       "lang": "en",
@@ -20990,7 +20990,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 5,
-      "score": 147
+      "score": 146
     },
     "/en/varanasi-to-bodhgaya-taxi-cost": {
       "lang": "en",
@@ -21266,7 +21266,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 34
+      "score": 33
     },
     "/en/varanasi-weather-guide": {
       "lang": "en",
@@ -21398,7 +21398,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 34
+      "score": 33
     },
     "/en/bus/kashi-yatra-south-india-bus-package": {
       "lang": "en",
@@ -21674,7 +21674,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 34
+      "score": 33
     },
     "/en/services/varanasi-prayagraj-tour-package": {
       "lang": "en",
@@ -22322,7 +22322,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 34
+      "score": 33
     },
     "/hi/scindia-ghat-submerged-temple": {
       "lang": "hi",
@@ -22442,7 +22442,7 @@
       "commercial": false,
       "intent": "other",
       "clicks": 1,
-      "score": 32
+      "score": 31
     },
     "/hi/travel-from-varanasi-to-vindhyachal-guide": {
       "lang": "hi",
@@ -22758,8 +22758,8 @@
     },
     "/hi/varanasi-to-ayodhya-taxi": {
       "lang": "hi",
-      "title": "वाराणसी से अयोध्या दूरी 2026: टैक्सी किराया, समय और यात्रा विकल्प",
-      "anchor": "वाराणसी से अयोध्या दूरी 2026",
+      "title": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820 | राम मंदिर कैब बुकिंग",
+      "anchor": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": null,
@@ -23234,7 +23234,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 2,
-      "score": 78
+      "score": 77
     },
     "/hi/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package": {
       "lang": "hi",
@@ -23454,7 +23454,7 @@
     },
     "/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi": {
       "lang": "en",
-      "title": "Ayodhya to Varanasi Taxi | Ram to Shiva Journey | ₹3,550 | Kashi Taxi",
+      "title": "Ayodhya to Varanasi Taxi | Ram to Shiva Journey | ₹3,820 | Kashi Taxi",
       "anchor": "Ayodhya to Varanasi Taxi",
       "category": "taxi",
       "productType": "route_taxi",
@@ -23666,7 +23666,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi": {
       "lang": "en",
@@ -23762,7 +23762,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/en/city/varanasi/activities/84-ghats-boat-tour-varanasi": {
       "lang": "en",
@@ -23834,7 +23834,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 1,
-      "score": 134
+      "score": 133
     },
     "/en/city/varanasi/events/chhath-puja-2026-varanasi-guide": {
       "lang": "en",
@@ -24038,7 +24038,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 11,
-      "score": 173
+      "score": 172
     },
     "/en/city/varanasi/taxi/24-7-taxi-varanasi": {
       "lang": "en",
@@ -24098,7 +24098,7 @@
       "commercial": true,
       "intent": "sales",
       "clicks": 3,
-      "score": 146
+      "score": 145
     },
     "/en/city/varanasi/taxi/azamgarh-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -24446,7 +24446,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 7,
-      "score": 106
+      "score": 105
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi": {
       "lang": "en",
@@ -24458,7 +24458,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 2,
-      "score": 79
+      "score": 78
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-ballia-taxi": {
       "lang": "en",
@@ -24722,7 +24722,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-taxi": {
       "lang": "en",
@@ -24746,7 +24746,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 2,
-      "score": 78
+      "score": 77
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-taxi": {
       "lang": "en",
@@ -24782,7 +24782,7 @@
       "commercial": true,
       "intent": "info",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/en/city/varanasi/taxi/varanasi-city-tour-cab": {
       "lang": "en",
@@ -25170,7 +25170,7 @@
     },
     "/hi/city/ayodhya/taxi/ayodhya-to-varanasi-taxi": {
       "lang": "hi",
-      "title": "अयोध्या से वाराणसी टैक्सी | राम जन्मभूमि से काशी | ₹3,550 से | काशी टैक्सी",
+      "title": "अयोध्या से वाराणसी टैक्सी | राम जन्मभूमि से काशी | ₹3,820 से | काशी टैक्सी",
       "anchor": "अयोध्या से वाराणसी टैक्सी",
       "category": "taxi",
       "productType": "route_taxi",
@@ -25682,7 +25682,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 2,
-      "score": 78
+      "score": 77
     },
     "/hi/city/varanasi/taxi/airport-taxi-varanasi": {
       "lang": "hi",
@@ -25850,7 +25850,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/hi/city/varanasi/taxi/kushinagar-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -25994,7 +25994,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/hi/city/varanasi/taxi/taxi-for-tent-city-varanasi": {
       "lang": "hi",
@@ -26042,7 +26042,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/hi/city/varanasi/taxi/taxi-service-varanasi-cantt-station": {
       "lang": "hi",
@@ -26702,7 +26702,7 @@
       "commercial": true,
       "intent": "other",
       "clicks": 1,
-      "score": 74
+      "score": 73
     },
     "/hi/city/varanasi/tour-packages/same-day-varanasi-tour": {
       "lang": "hi",

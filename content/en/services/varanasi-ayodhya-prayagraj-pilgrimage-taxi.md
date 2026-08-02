@@ -90,8 +90,8 @@ For a single direct route, see [Varanasi to Prayagraj](/en/varanasi-to-prayagraj
 - Avoid midday heat (11:00–15:00) for ghat activities
 
 **Varanasi to Prayagraj Taxi Options**:
-- **Same-Day Return**: Varanasi → Prayagraj → Varanasi (8–9 hrs total; ₹5,500 Sedan / ₹7,500 Innova)
-- **Overnight Stay**: Drop Prayagraj hotel, return pickup next day (₹3,500 one-way + ₹3,800 return)
+- **Same-Day Return**: Varanasi → Prayagraj → Varanasi (8–9 hrs total; ₹3,275 Sedan / ₹4,625 Innova)
+- **Overnight Stay**: Drop Prayagraj hotel, return pickup next day (₹2,388 each way)
 
 ### 3. Ayodhya – Ram Janmabhoomi & Ram Mandir Darshan
 
@@ -111,7 +111,7 @@ For a single direct route, see [Varanasi to Prayagraj](/en/varanasi-to-prayagraj
 - Evening: Hanuman Garhi + Saryu Aarti combined visit
 
 **Varanasi to Ayodhya Taxi Circuit Options**:
-- **Varanasi → Ayodhya → Varanasi (Same Day)**: 10–12 hrs; ₹7,800 Sedan / ₹10,500 Innova
+- **Varanasi → Ayodhya → Varanasi (Same Day)**: 10–12 hrs; ₹5,240 Sedan / ₹7,400 Innova
 - **Via Prayagraj Circuit (2 Days)**: Varanasi → Prayagraj (overnight) → Ayodhya → Varanasi (₹14,500–₹18,000 full package)
 
 ## Varanasi Bodh Gaya Tour by Car: Extended Buddhist Pilgrimage Circuit
@@ -192,9 +192,9 @@ For a single direct route, see [Varanasi to Prayagraj](/en/varanasi-to-prayagraj
 
 | Route | Distance | Sedan One-Way | Innova One-Way | Same-Day Return |
 |-------|----------|---------------|----------------|-----------------|
-| Varanasi ↔ Prayagraj | 125 km | ₹3,500 | ₹4,800 | ₹5,500 / ₹7,500 |
-| Varanasi ↔ Ayodhya | 210 km | ₹5,200 | ₹7,000 | ₹7,800 / ₹10,500 |
-| Varanasi ↔ Bodh Gaya | 250 km | ₹6,500 | ₹8,500 | ₹9,500 / ₹12,500 |
+| Varanasi ↔ Prayagraj | 125 km | ₹2,388 | ₹3,688 | ₹3,275 / ₹4,625 |
+| Varanasi ↔ Ayodhya | 200 km | ₹3,820 | ₹5,900 | ₹5,240 / ₹7,400 |
+| Varanasi ↔ Bodh Gaya | 262 km | ₹5,004 | ₹7,729 | ₹6,864 / ₹9,694 |
 | Prayagraj ↔ Ayodhya | 165 km | ₹4,200 | ₹5,800 | ₹6,500 / ₹8,800 |
 
 > Tempo Traveller (12-seat) available for group yatra; add 40% to Innova rate.
@@ -222,11 +222,11 @@ For a single direct route, see [Varanasi to Prayagraj](/en/varanasi-to-prayagraj
 
 Our specialized **pilgrimage taxi service** connects Varanasi (Kashi Vishwanath), Prayagraj (Triveni Sangam), Ayodhya (Ram Janmabhoomi), and Bodh Gaya with spiritually-aware drivers who understand darshan timing, temple protocols, and ritual requirements. Unlike generic tourist taxis, our vehicles maintain sanctity protocols (vegetarian-only, no-smoking), and drivers facilitate prayer time, prasad collection, and ritual bathing coordination.
 
-**Best for**: Devotees, families on yatra circuits, pilgrims seeking Moksha darshan at Kashi, Sangam bath at Prayagraj, or Ram Mandir visit in Ayodhya. Fixed fares (₹3,500–₹32,000 depending on circuit) with no hidden charges.
+**Best for**: Devotees, families on yatra circuits, pilgrims seeking Moksha darshan at Kashi, Sangam bath at Prayagraj, or Ram Mandir visit in Ayodhya. Fixed fares (₹2,388–₹32,000 depending on circuit) with no hidden charges.
 
 **Popular Circuits**: 
-- Varanasi to Prayagraj same-day (₹5,500 Sedan)
-- Varanasi to Ayodhya same-day (₹7,800 Sedan)
+- Varanasi to Prayagraj same-day (₹3,275 Sedan)
+- Varanasi to Ayodhya same-day (₹5,240 Sedan)
 - 3-Day Kashi-Prayag-Ayodhya Triangle (₹15,500 Sedan)
 - 4-Day Grand Circuit with Bodh Gaya & Gaya (₹24,500 Sedan)
 

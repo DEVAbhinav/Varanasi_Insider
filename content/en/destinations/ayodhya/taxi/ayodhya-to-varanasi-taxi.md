@@ -1,13 +1,13 @@
 ---
-title: "Ayodhya to Varanasi Taxi | Ram to Shiva Journey | ₹3,550 | Kashi Taxi"
+title: "Ayodhya to Varanasi Taxi | Ram to Shiva Journey | ₹3,820 | Kashi Taxi"
 slug: "ayodhya-to-varanasi-taxi"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Ayodhya to Varanasi Taxi | Ram Janmabhoomi to Kashi | ₹3,550"
-metaDescription: "Ayodhya to Varanasi taxi ₹3,550. Ram Mandir to Kashi 4-5 hrs. Door-to-door pickup. Book Now ☎ 99354 74730. Divine Quad Circuit same-day."
-description: "Ayodhya to Varanasi taxi from ₹3,550. 150-220 km in 4-5 hours via NH330. Ram Janmabhoomi to Kashi Vishwanath pilgrimage. Professional drivers."
+metaTitle: "Ayodhya to Varanasi Taxi | Ram Janmabhoomi to Kashi | ₹3,820"
+metaDescription: "Ayodhya to Varanasi taxi ₹3,820. Ram Mandir to Kashi 4-5 hrs. Door-to-door pickup. Book Now ☎ 99354 74730. Divine Quad Circuit same-day."
+description: "Ayodhya to Varanasi taxi from ₹3,820. 150-220 km in 4-5 hours via NH330. Ram Janmabhoomi to Kashi Vishwanath pilgrimage. Professional drivers."
 keywords:
   - "ayodhya to varanasi taxi"
   - "ayodhya to varanasi cab"
@@ -28,20 +28,20 @@ relatedPosts:
   - kashi-darshan-tempo-traveller
 faqSchema:
   - question: "How much does a taxi cost from Ayodhya to Varanasi?"
-    answer: "Taxi fares from Ayodhya to Varanasi start from ₹3,550 for a 4-seater sedan (Swift Dzire). Prices vary: Ertiga ₹4,510-5,000, Innova ₹5,500-6,000. Includes fuel, tolls, and driver charges."
+    answer: "Taxi fares from Ayodhya to Varanasi start from ₹3,820 for a 4-seater sedan (Swift Dzire). Prices vary: Ertiga ₹5,300, Innova ₹5,900. Includes fuel, tolls, and driver charges."
   - question: "What is the distance from Ayodhya to Varanasi?"
     answer: "The distance from Ayodhya to Varanasi is 150-220 km depending on route and starting point. From Ayodhya Dham station (near Ram Mandir) it is 150 km taking 3-3.5 hours. From Ayodhya Cantt station (older) it is 165 km taking 3.5-4 hours via NH330."
   - question: "Can I combine Ram Janmabhoomi darshan with Kashi Vishwanath same day?"
     answer: "Yes! With early morning departure (6-7 AM) from Ayodhya after Ram Mandir darshan, you reach Varanasi by 10-11 AM for Kashi Vishwanath temple visit and evening Ganga Aarti. This completes the Divine Quad Circuit in one day."
   - question: "Should I take Vande Bharat or taxi from Ayodhya to Varanasi?"
-    answer: "Vande Bharat Express (2h 30m, ₹500-₹2,800) is faster but less flexible. Taxi (4-5h, ₹3,550) offers door-to-door service, luggage convenience, stops for photos/food, and costs less for families (₹890/person for 4 vs ₹500-700 train ticket). Groups of 3+ should choose taxi."
+    answer: "Vande Bharat Express (2h 30m, ₹500-₹2,800) is faster but less flexible. Taxi (4-5h, ₹3,820) offers door-to-door service, luggage convenience, stops for photos/food, and costs less for families (₹955/person for 4 vs ₹500-700 train ticket). Groups of 3+ should choose taxi."
   - question: "What is boarding station confusion in Ayodhya?"
     answer: "80% of travelers don't know Ayodhya has 2 stations: Ayodhya Dham (new, 2 km from Ram Mandir, faster) and Ayodhya Cantt (old, 15 km from temple, adds 30 min travel time). Taxi avoids this confusion with direct temple pickup."
 ---
 
-# Ayodhya to Varanasi Taxi from ₹3,550 | Complete Divine Quad Circuit
+# Ayodhya to Varanasi Taxi from ₹3,820 | Complete Divine Quad Circuit
 
-**Quick answer:** Ayodhya to Varanasi taxi starts from **₹3,550** for a Swift Dzire. The drive is **150-220 kilometers** depending on pickup point and usually takes **3 to 4.5 hours** via NH330. It is a useful door-to-door option after Ram Mandir darshan, especially for families with luggage.
+**Quick answer:** Ayodhya to Varanasi taxi starts from **₹3,820** for a Swift Dzire. The drive is **150-220 kilometers** depending on pickup point and usually takes **3 to 4.5 hours** via NH330. It is a useful door-to-door option after Ram Mandir darshan, especially for families with luggage.
 
 ## Quick Facts: Ayodhya to Varanasi Taxi Route
 
@@ -52,7 +52,7 @@ faqSchema:
 | **Best Route** | Via NH330 (Ayodhya → Jaunpur → Varanasi) |
 | **Road Condition** | Good - recently upgraded state highway |
 | **Train Options** | Vande Bharat Express 2h 30m, Saryu Express 3h 35m, 40+ daily trains |
-| **Starting Taxi Fare** | ₹3,550 for Swift Dzire (4-seater) |
+| **Starting Taxi Fare** | ₹3,820 for Swift Dzire (4-seater) |
 | **Peak Season** | Ram Navami (March/April), Diwali (Oct/Nov) |
 
 ![Ayodhya to Varanasi taxi page infographics - Divine Quad Circuit Map, Station Confusion Comparison, Vande Bharat vs Taxi Calculator](/images/infographics/ayodhya-varanasi-complete-guide.png "Ayodhya to Varanasi Complete Guide: Divine Quad Circuit, Station Selection, and Vande Bharat vs Taxi Cost Comparison")
@@ -80,7 +80,7 @@ Many visitors mix up Ayodhya Dham station (near Ram Mandir) and Ayodhya Cantt st
 |---------------|-------------|------|----------|-----------|----------------|
 | **Vande Bharat Express** | 2h 30m | ₹500-₹2,800 | Time-conscious, comfortable travel | Fixed schedule (1 train/day), luggage hassle, station transfers | 30% of queries |
 | **Saryu Express** | 3h 35m | ₹335-₹505 | Budget pilgrims | Crowded, limited luggage space | 25% of queries |
-| **Direct Cab** | 4-5 hours | ₹3,550-₹4,510 | Flexible groups, scenic stops, elderly | Slightly slower than Vande Bharat | 20% of queries |
+| **Direct Cab** | 4-5 hours | ₹3,820-₹5,300 | Flexible groups, scenic stops, elderly | Slightly slower than Vande Bharat | 20% of queries |
 | **Regular Buses** | 5-6.5 hours | ₹342-₹699 | Ultra-budget travelers | Uncomfortable, multiple stops | 15% of queries |
 | **Multiple Trains Daily** | 3-6 hours | ₹145-₹505 | All types | Station confusion, schedule dependency | 40+ trains daily |
 
@@ -90,13 +90,13 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 
 | Factor | Vande Bharat | Taxi (4 People) |
 |--------|--------------|-----------------|
-| **Base Ticket Cost** | ₹2,000-11,200 (4 people) | ₹3,550 (total) |
+| **Base Ticket Cost** | ₹2,000-11,200 (4 people) | ₹3,820 (total) |
 | **Ram Mandir to Ayodhya Dham Station** | ₹200 auto/cab (15-20 min) | ₹0 (pickup from temple) |
 | **Varanasi Station to Hotel/Ghats** | ₹300 auto/cab (30 min) | ₹0 (drop at ghat/hotel) |
 | **Luggage Handling** | ₹100-200 porter fees | ₹0 (driver assists) |
 | **Time Lost in Transfers** | 50 minutes minimum | 0 minutes |
 | **Flexibility** | Fixed 1 train/day schedule | Any time departure |
-| **Total Real Cost** | ₹2,600-12,100 | ₹3,550 |
+| **Total Real Cost** | ₹2,600-12,100 | ₹3,820 |
 | **Total Real Time** | 3h 50m (with transfers) | 4-5 hours |
 
 ![Vande Bharat vs Taxi family decision calculator showing cost breakdown for solo, 2 people, and 3+ people groups](/images/infographics/ayodhya-varanasi-vande-bharat-taxi-calculator.png "Ayodhya to Varanasi: Vande Bharat vs Taxi Family Decision Calculator - Solo, Couples, and Groups")
@@ -184,11 +184,11 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 
 | Vehicle Type | Seating | One-Way Fare | Round-Trip | Best For | Special Features |
 |--------------|---------|--------------|------------|----------|------------------|
-| **Swift Dzire** | 4 passengers | ₹3,550-₹3,800 | ₹6,500 | Couples, solo + friend | AC, fuel-efficient, comfortable |
-| **Ertiga** | 6 passengers | ₹4,510-₹5,000 | ₹8,500 | Families with kids | 3-row seating, extra luggage space |
-| **Innova** | 6-7 passengers | ₹5,500-₹6,000 | ₹10,500 | Large families, elderly | Superior comfort, smooth suspension |
-| **Innova Crysta** | 6-7 passengers | ₹6,500-₹7,000 | ₹12,000 | Premium comfort seekers | Push-back seats, excellent legroom |
-| **Tempo Traveller 12-Seater** | 12 passengers | ₹10,500-₹12,000 | ₹20,000 | Group pilgrimages | Entertainment system, overhead luggage |
+| **Swift Dzire** | 4 passengers | ₹3,820 | ₹5,240 | Couples, solo + friend | AC, fuel-efficient, comfortable |
+| **Ertiga** | 6 passengers | ₹5,300 | ₹6,600 | Families with kids | 3-row seating, extra luggage space |
+| **Innova** | 6-7 passengers | ₹5,900 | ₹7,400 | Large families, elderly | Superior comfort, smooth suspension |
+| **Innova Crysta** | 6-7 passengers | ₹6,700 | ₹8,600 | Premium comfort seekers | Push-back seats, excellent legroom |
+| **Tempo Traveller 12-Seater** | 12 passengers | ₹9,400 | ₹10,800 | Group pilgrimages | Entertainment system, overhead luggage |
 
 ### What's included in your fare
 
@@ -269,7 +269,7 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 | Toll Charges | ₹100 |
 | Driver Allowance (one-way) | ₹400 |
 | GST (5%) | ₹140 |
-| **Total Estimated One-Way Fare** | **₹2,940 ≈ ₹3,550** (includes buffer) |
+| **Total Estimated One-Way Fare** | **₹2,940 ≈ ₹3,820** (includes buffer) |
 
 **Round-trip pricing**: ₹6,500 (save ₹700 vs 2x one-way)
 
@@ -282,10 +282,10 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 | **Vande Bharat (Chair Car)** | 4 × ₹500 = ₹2,000 | Temple-to-station ₹200 + Station-to-hotel ₹300 + Luggage ₹150 = ₹650 | **₹2,650** | 3h 50m |
 | **Vande Bharat (Executive)** | 4 × ₹2,800 = ₹11,200 | Same ₹650 | **₹11,850** | 3h 50m |
 | **Saryu Express** | 4 × ₹335 = ₹1,340 | Same ₹650 | **₹1,990** | 4h 55m |
-| **Taxi (Dzire)** | ₹3,550 | ₹0 (door-to-door) | **₹3,550** | 4-5 hours |
+| **Taxi (Dzire)** | ₹3,820 | ₹0 (door-to-door) | **₹3,820** | 4-5 hours |
 
 **Value Analysis**:
-- Taxi costs **₹888 per person** (₹3,550 ÷ 4) - comparable to Vande Bharat Chair Car
+- Taxi costs **₹888 per person** (₹3,820 ÷ 4) - comparable to Vande Bharat Chair Car
 - **Privacy**: Private vehicle vs crowded train
 - **Flexibility**: Leave after Ram Mandir darshan anytime, not bound by train schedule
 - **Comfort**: Dedicated AC, luggage in trunk (not overhead), music control

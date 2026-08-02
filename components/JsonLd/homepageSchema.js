@@ -2,6 +2,7 @@
 // Returns JSON-LD for the homepage (WebSite + LocalBusiness + TaxiService + FAQPage)
 import { CONTACT } from '@/lib/contact';
 import { BUSINESS } from '../../config/business';
+import { outstationFaqAnswer } from '../../lib/outstationFares';
 
 const getHomeSchema = (site) => ({
   '@context': 'https://schema.org',
@@ -269,8 +270,7 @@ const getHomeSchema = (site) => ({
           name: 'Do you provide taxi for outstation from Varanasi?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text:
-              'Yes, we offer outstation taxi from Varanasi to Prayagraj (₹3,500), Ayodhya (₹5,500), Bodhgaya (₹5,000), Vindhyachal (₹4,000), and all major pilgrimage destinations. One-way and roundtrip options available with driver allowance included.',
+            text: outstationFaqAnswer(),
           },
         },
         {

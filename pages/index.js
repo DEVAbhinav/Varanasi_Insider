@@ -12,6 +12,12 @@ import HreflangTags from '../components/SEO/HreflangTags';
 import HeroBookingWidget from '../components/HeroBookingWidget/HeroBookingWidget';
 import { getAllPostsMeta } from '../lib/posts';
 import { CONTACT, getCallTelHref } from '@/lib/contact';
+import {
+  OUTSTATION_FAQ_EMPHASIS,
+  OUTSTATION_FAQ_LEAD,
+  OUTSTATION_FAQ_TAIL,
+  outstationRouteList,
+} from '../lib/outstationFares';
 
 // Lightweight skeleton for section placeholders
 function SectionSkeleton({ title = 'Loading…' }) {
@@ -715,7 +721,7 @@ export default function HomePage({ allPosts }) {
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">
-                <p>Yes, we offer <strong>outstation taxi from Varanasi</strong> to Prayagraj (₹3,500), Ayodhya (₹5,500), Bodhgaya (₹5,000), Vindhyachal (₹4,000), and all major pilgrimage destinations. One-way and roundtrip options available with driver allowance included.</p>
+                <p>{OUTSTATION_FAQ_LEAD}<strong>{OUTSTATION_FAQ_EMPHASIS}</strong> to {outstationRouteList()}{OUTSTATION_FAQ_TAIL}</p>
               </div>
             </details>
 

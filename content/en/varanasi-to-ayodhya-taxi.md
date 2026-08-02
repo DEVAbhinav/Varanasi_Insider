@@ -1,40 +1,40 @@
 ---
-title: "Varanasi to Ayodhya Taxi ₹4,990 | 200 km, 4–5 hr, Ram Mandir Cab"
+title: "Varanasi to Ayodhya Taxi Fare ₹3,820 | Book Ram Mandir Cab"
 slug: "varanasi-to-ayodhya-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-03-07"
+lastUpdated: "2026-08-02"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg"
-metaTitle: "Varanasi to Ayodhya Taxi ₹4,990 | 200 km, Ram Mandir Cab"
-metaDescription: "Varanasi to Ayodhya distance is 200 km via NH-31 (4-5 hrs). Taxi fare from ₹4,990 one-way, ₹6,500 same-day return. Complete route map, toll, Ram Mandir drop point & train vs cab comparison."
-description: "The general Varanasi to Ayodhya planning page for route distance, taxi fare, train-vs-cab comparison, same-day return logic and Ram Mandir travel timing."
+metaTitle: "Varanasi to Ayodhya Taxi Fare ₹3,820 | Book Ram Mandir Cab"
+metaDescription: "Varanasi to Ayodhya taxi fare from ₹3,820 one-way and ₹5,240 same-day return in an AC sedan — fuel, tolls and driver included, fixed before you book. 200 km, 4-5 hrs, drop 800 m from Ram Mandir."
+description: "The Varanasi to Ayodhya taxi booking page: fixed car-wise fares, what is included, same-day Ram Mandir return timing, and route distance and drive time."
 keywords:
-  - "varanasi to ayodhya distance"
-  - "varanasi to ayodhya taxi fare 2026"
+  - "varanasi to ayodhya taxi"
+  - "varanasi to ayodhya taxi fare"
   - "varanasi to ayodhya cab price"
-  - "varanasi to ayodhya travel options"
-  - "varanasi to ayodhya train vs taxi"
+  - "banaras se ayodhya taxi kiraya"
+  - "varanasi to ayodhya taxi booking"
+  - "varanasi to ayodhya distance"
   - "kashi to ayodhya distance by road fare"
   - "banaras se ayodhya ki duri"
-  - "banaras to ayodhya distance"
-  - "varanasi se ayodhya kitne kilometre"
+  - "varanasi to ayodhya train vs taxi"
 tags:
   - varanasi
   - ayodhya
-  - route guide
   - taxi fare
-  - distance and time
+  - taxi booking
+  - route guide
 relatedPosts:
   - varanasi-to-ayodhya-tempo-traveller
-  - varanasi-to-ayodhya-taxi
+  - ayodhya-varanasi-prayagraj-group-tour-package
   - tour-package-from-varanasi
   - where-to-stay-in-varanasi
 faqSchema:
+  - question: "How much is taxi fare from Varanasi to Ayodhya?"
+    answer: "The Varanasi to Ayodhya taxi fare is ₹3,820 one way and ₹5,240 same-day return in an AC Swift Dzire sedan. Ertiga is ₹5,300 one way, Innova ₹5,900 and Innova Crysta ₹6,700. Every fare includes fuel, the Jaunpur toll and the driver, and is fixed in writing before you book. Parking near Ram Mandir (₹100-150) is extra."
   - question: "What is the distance from Varanasi to Ayodhya by road?"
     answer: "The road distance from Varanasi to Ayodhya is about 200 km via NH-31 (Jaunpur bypass) and 219 km via NH-31 through Jaunpur city. The journey usually takes 4 to 5 hours depending on traffic and city congestion near Ayodhya. After the 4-lane widening of NH-31, drive time has improved to 3.5-4 hours in off-peak conditions."
-  - question: "How much is taxi fare from Varanasi to Ayodhya?"
-    answer: "For 2026, sedan (Swift Dzire/Etios) fare is ₹4,990 one way. Ertiga costs ₹4,500-₹5,000. Innova Crysta is ₹6,000-₹6,500. Same-day return starts at ₹6,500 for sedan. These include toll (₹215 at Jaunpur plaza), fuel and driver. Excludes parking near Ram Mandir (₹100-150)."
   - question: "Is train or taxi better from Varanasi to Ayodhya?"
     answer: "Train is cheaper (from ₹150 for Sealdah-Lucknow Express), but takes 4-5 hours and drops you at Ayodhya Junction, 5 km from Ram Mandir. Taxi picks you up from hotel, takes the fastest route and drops you 800 metres from Ram Mandir security gate — saving 1-2 hours of auto/rickshaw transfers."
   - question: "Can I visit Ram Mandir and return to Varanasi the same day?"
@@ -45,13 +45,13 @@ faqSchema:
     answer: "Taxis drop at the designated parking area near Naya Ghat parking or Lata Mangeshkar Chowk, approximately 800 metres walking distance from the Ram Mandir security check-in point. Shuttle e-rickshaws (₹10/person) run from this parking."
 ---
 
-# Varanasi to Ayodhya Distance, Taxi Fare & Travel Options
+# Varanasi to Ayodhya Taxi Fare & Booking
 
 > **TL;DR — Varanasi to Ayodhya by taxi:**
 >
+> - **Sedan fare** → ₹3,820 one way · same-day return ₹5,240
+> - **Included** → fuel, Jaunpur toll (₹215), driver — fixed before you book
 > - **Distance** → 200 km via NH-31 (Jaunpur bypass), 4–5 hours
-> - **Sedan fare** → ₹4,990 one way · same-day return from ₹6,500
-> - **Tolls** → one plaza, ₹215 at Jaunpur
 > - **Drop point** → 800 m from the Ram Mandir security gate (faster than train + auto)
 >
 > Travelling as a group? See our [Ayodhya tempo traveller price list](/en/varanasi-to-ayodhya-tempo-traveller).
@@ -68,8 +68,8 @@ faqSchema:
 | **Route** | Varanasi → Babatpur → Jaunpur bypass → Sultanpur → Faizabad → Ayodhya |
 | **Toll plazas** | 1 (Jaunpur toll plaza — ₹215 car, ₹345 SUV) |
 | **Fuel cost estimate** | ₹1,400–₹1,600 (one way, petrol car) |
-| **Taxi fare (sedan one-way)** | ₹4,990 |
-| **Taxi fare (same-day return)** | ₹6,500+ |
+| **Taxi fare (sedan one-way)** | ₹3,820 |
+| **Taxi fare (same-day return)** | ₹5,240 |
 
 ## Varanasi to Ayodhya Route: Turn-by-Turn Landmarks
 
@@ -93,23 +93,26 @@ Most Varanasi taxi drivers take this route — it's the fastest and avoids Jaunp
 
 | Vehicle | Capacity | One-way fare | Same-day return | Best for |
 |---|:---:|---:|---:|---|
-| **Sedan (Dzire/Etios)** | 4 pax | ₹4,990 | ₹6,500–₹7,000 | Couples, solo, small families |
-| **Ertiga / 6-seater** | 6 pax | ₹4,500–₹5,000 | ₹7,500–₹8,500 | Families with luggage |
-| **Innova Crysta** | 6-7 pax | ₹6,000–₹6,500 | ₹9,000–₹10,000 | Larger families, elder comfort |
-| **12-seater Tempo** | 10-12 pax | ₹8,500–₹9,500 | ₹14,500 | Groups, joint family |
-| **17-seater Tempo** | 15-17 pax | ₹10,000–₹11,000 | ₹16,500 | Large groups, wedding parties |
+| **Sedan (Dzire/Etios)** | 4 pax | ₹3,820 | ₹5,240 | Couples, solo, small families |
+| **Ertiga / 6-seater** | 6 pax | ₹5,300 | ₹6,600 | Families with luggage |
+| **Innova** | 7 pax | ₹5,900 | ₹7,400 | Larger families, elder comfort |
+| **Innova Crysta** | 7 pax | ₹6,700 | ₹8,600 | Premium comfort on the highway |
+| **12-seater Tempo** | 12 pax | ₹9,400 | ₹10,800 | Groups, joint family |
+| **17-seater Tempo** | 17 pax | ₹10,200 | ₹12,400 | Large groups, wedding parties |
 
 **What's included:** Toll (₹215), fuel, driver meals, pickup/drop.  
-**What's extra:** Parking at Ram Mandir (₹100–₹150), night halt charges if overnight (₹300 driver stay).
+**What's extra:** Parking at Ram Mandir (₹100–₹150), night halt charges if overnight (₹300 driver stay), state tax where applicable.
+
+{{CTA:ROUTE_CAB_AYODHYA:en}}
 
 For exact group pricing, use the [Ayodhya tempo traveller fare page](/en/varanasi-to-ayodhya-tempo-traveller).  
-For live booking, use the [direct Varanasi to Ayodhya taxi page](/en/varanasi-to-ayodhya-taxi).
+Planning Ayodhya with Prayagraj in one trip? See the [Kashi–Prayag–Ayodhya pilgrimage circuit](/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi).
 
 ## Train vs Taxi: Honest Comparison
 
 | Factor | Train | Taxi |
 |---|---|---|
-| **Cost** | ₹150–₹600 (sleeper to AC) | ₹4,990+ (can split 4 ways = ₹1,250/head) |
+| **Cost** | ₹150–₹600 (sleeper to AC) | ₹3,820 (can split 4 ways = ₹955/head) |
 | **Travel time** | 4–5 hrs (often delayed) | 4–5 hrs (door to door) |
 | **Pickup** | You go to station | Picks you up from hotel/airport |
 | **Drop point** | Ayodhya Junction (5 km from Ram Mandir) | 800 m from Ram Mandir gate |
@@ -181,7 +184,7 @@ Yes — it's the most popular same-day trip from Kashi. Here's the optimised pla
 
 People search different versions of this route — here are the actual distances:
 
-**Banaras se Ayodhya ki duri** (distance from Banaras to Ayodhya) is approximately **200 km** via NH-31 bypass. बनारस से अयोध्या की दूरी लगभग 200 किलोमीटर है और सफर में 4 से 5 घंटे लगते हैं। बनारस से अयोध्या का किराया (taxi fare) सेडान में ₹4,990 से शुरू होता है।
+**Banaras se Ayodhya ki duri** (distance from Banaras to Ayodhya) is approximately **200 km** via NH-31 bypass. बनारस से अयोध्या की दूरी लगभग 200 किलोमीटर है और सफर में 4 से 5 घंटे लगते हैं। बनारस से अयोध्या का किराया (taxi fare) सेडान में ₹3,820 एक तरफ और ₹5,240 सेम-डे रिटर्न है — इसमें पेट्रोल, टोल और ड्राइवर शामिल हैं।
 
 | From | To | Distance | Drive time |
 |---|---|---:|---|
@@ -192,6 +195,10 @@ People search different versions of this route — here are the actual distances
 | Sarnath | Ayodhya (Ram Mandir) | 208 km | 4.5 hrs |
 
 All distances via NH-31 Jaunpur bypass route. Add 15-20 km if going through Jaunpur city.
+
+Now that you know the distance, the next question is usually the fare — send us your date and group size and we will confirm a fixed figure in writing:
+
+{{CTA:ROUTE_CAB_AYODHYA:en}}
 
 ## Best Time for the Varanasi-Ayodhya Trip
 
