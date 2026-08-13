@@ -2,12 +2,12 @@
 title: "Varanasi to Ayodhya Taxi Fare ₹3,820 | Book Ram Mandir Cab"
 slug: "varanasi-to-ayodhya-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-08-02"
+lastUpdated: "2026-08-11"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg"
 metaTitle: "Varanasi to Ayodhya Taxi Fare ₹3,820 | Book Ram Mandir Cab"
-metaDescription: "Varanasi to Ayodhya taxi fare from ₹3,820 one-way and ₹5,240 same-day return in an AC sedan — fuel, tolls and driver included, fixed before you book. 200 km, 4-5 hrs, drop 800 m from Ram Mandir."
+metaDescription: "Varanasi to Ayodhya taxi fare ₹3,820 one-way / ₹5,240 same-day return (sedan). Fuel, toll, driver fixed. WhatsApp +91 99354 74730."
 description: "The Varanasi to Ayodhya taxi booking page: fixed car-wise fares, what is included, same-day Ram Mandir return timing and how to book."
 keywords:
   - "varanasi to ayodhya taxi"

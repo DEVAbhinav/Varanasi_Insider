@@ -2,7 +2,7 @@
 title: "Varanasi Sightseeing Cab: 8hr Ghats & Temples Tour from ₹1,800"
 slug: "varanasi-day-tour-cab-charges"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-08-11"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png"
@@ -26,11 +26,24 @@ relatedPosts:
   - varanasi-transport-price-guide-2026
   - varanasi-airport-taxi-price-guide
   - ganga-aarti-boat-booking-price
+faqSchema:
+  - question: "How much is a Varanasi day tour cab?"
+    answer: "Sedan 8 hours / 80 km packages start around ₹1,800. Innova is about ₹2,500 for the same window. 12-hour city packages are higher. Confirm inclusions (fuel, driver, parking) in writing before pickup."
+  - question: "What is covered in the day tour cab charges?"
+    answer: "Standard packages cover the vehicle, driver and fuel within the hour/km limit. Parking at temples, boat tickets and guide fees are usually extra unless quoted all-in."
+  - question: "Can one cab cover Kashi Vishwanath, ghats and Sarnath in a day?"
+    answer: "Yes on an 8–12 hour plan if you start early. Sarnath needs a dedicated block; don't leave it for dusk if the museum matters."
+  - question: "How do I book a Varanasi sightseeing cab?"
+    answer: "WhatsApp +91 99354 74730 with date, hotel area, headcount and whether you want Sarnath. We send a fixed package fare and pickup time."
+  - question: "Is a 4-hour half-day cab enough?"
+    answer: "Only for a tight ghats + corridor loop. Full city + Sarnath needs 8 hours minimum."
 ---
 
 # Varanasi Day Tour Cab Charges 2026: Prices & Itineraries
 
-Exploring Varanasi's rich tapestry of temples, ghats, and historical sites is best done with the convenience of a private cab. This guide details the typical full-day tour packages to help you plan your sightseeing itinerary.
+{{CTA:CITY_TOUR:en}}
+
+Private cab for temples, ghats and Sarnath — fixed 8-hour and 12-hour packages below.
 
 > **Book Your Varanasi City Tour!**  
 > Get a reliable cab and experienced driver for your full-day tour.  

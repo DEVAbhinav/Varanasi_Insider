@@ -1,176 +1,140 @@
 ---
-title: "Varanasi Transport Price Guide 2026: Fare Cheatsheet & Scam Shields"
+title: "Varanasi Transport Price Guide 2026 | Taxi, Auto & Boat Fare Hub"
 slug: "varanasi-transport-price-guide-2026"
 date: "2026-07-15"
+lastUpdated: "2026-08-11"
 author: "Kamal Nayan Singh"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
-metaTitle: "Varanasi Transport Prices 2026 – Auto, E-Rickshaw, Taxi & Boat Fares"
-metaDescription: "Download the 2026 Varanasi transport cheatsheet: auto, e-rickshaw, taxi, boat fares, night surcharge scripts, and WhatsApp templates to shut down overcharging."
-description: "2026 Varanasi transport cheatsheet covering auto, e-rickshaw, taxi, boat fares, night surcharge scripts, and WhatsApp templates to stop overcharging."
-tags: ["varanasi airport taxi price","ganga aarti boat booking price","varanasi pink taxi for women"]
+metaTitle: "Varanasi Transport Price Guide 2026 | Fare Hub & Book Links"
+metaDescription: "Varanasi transport price guide 2026 — hub for airport, day tour, boat and outstation cab fare bands with deep links. Fixed quotes +91 99354 74730."
+description: "2026 Varanasi transport price guide hub — snapshot fares for airport, local day tour, boats and popular outstation cabs, with links to full booking pages."
+tags: ["varanasi transport price guide","varanasi taxi fare list","varanasi cab price 2026"]
 keywords:
   - "varanasi transport price guide"
+  - "varanasi taxi fare list"
+  - "varanasi cab price 2026"
+  - "varanasi transport fares"
+  - "varanasi taxi price guide 2026"
   - "varanasi auto fare 2026"
   - "varanasi e rickshaw price"
-  - "varanasi taxi fare list"
-  - "varanasi boat ride cost"
-  - "bike taxi varanasi"
   - "7+1 seating taxi varanasi"
-  - "avoid transport scams varanasi"
+relatedPosts:
+  - varanasi-airport-taxi-price-guide
+  - varanasi-day-tour-cab-charges
+  - morning-boat-ride-varanasi-price
+  - varanasi-to-ayodhya-taxi
+  - varanasi-to-prayagraj-taxi
+  - tempo-traveller-varanasi
+faqSchema:
+  - question: "What is the taxi fare in Varanasi in 2026?"
+    answer: "Airport sedan drops start at about ₹899. Local 8-hour day tour sedan is about ₹1,800–₹2,000 (see day-tour page for full grid). Outstation examples: Prayagraj from ₹2,500 one-way, Ayodhya from ₹3,820 one-way, Bodhgaya from about ₹5,004. Always lock a fixed WhatsApp quote."
+  - question: "How much is Varanasi airport taxi?"
+    answer: "Fixed-price city drops: sedan about ₹899, Ertiga about ₹1,299, Innova about ₹1,500, 12-seater tempo about ₹2,500. Night charge about ₹300 from 10 PM–5 AM may apply."
+  - question: "How much is a Varanasi day tour cab?"
+    answer: "On the day-tour page, sedan 8 hr / ~80 km is about ₹1,800–₹2,000; 12 hr packages about ₹2,200–₹2,500. Innova and tempo cost more. This hub only summarises — book from the day-tour page for the full grid."
+  - question: "How much is a Ganga boat ride in Varanasi?"
+    answer: "Shared sunrise seats are roughly ₹80–₹150 per person. Private sunrise rowboat is about ₹1,800–₹2,400. Evening aarti boats and 84-ghat long tours cost more — see the dedicated boat price pages."
+  - question: "How do I avoid transport overcharging in Varanasi?"
+    answer: "Pre-book fixed fares on WhatsApp (+91 99354 74730), ignore unsolicited airport touts, and don’t accept open-ended ‘meter later’ for outstation. Screenshot the agreed fare before you sit in the car."
+  - question: "What is the best way to book a cab in Varanasi?"
+    answer: "For airport, local sightseeing and outstation pilgrim routes, WhatsApp Kashi Taxi with date, pickup and vehicle size. You get vehicle type and all-in fare in writing before dispatch."
 ---
 
-# Varanasi Transport Price Guide 2026: Auto, Rickshaw & Taxi Fares
+# Varanasi Transport Price Guide 2026
 
-> **Need a ride right now?**  
-> Book online at **[www.kashitaxi.in](https://www.kashitaxi.in)** or call **94503 01573** (24×7 WhatsApp).
+This is the **hub page** — short fare bands so you can compare options, then jump to the dedicated booking page for full tables, inclusions and FAQs. We keep deep detail on child pages so this guide does not cannibalise airport, day-tour or route pages.
 
----
+> **TL;DR — snapshot only:**
+>
+> - **Airport sedan** → from ₹899 → full guide linked below
+> - **Day tour sedan (8 hr / ~80 km)** → from ₹1,800–₹2,000
+> - **Sunrise boat shared** → ₹80–₹150 / person
+> - **Ayodhya one-way sedan** → ₹3,820 · **Prayagraj** → from ₹2,500
+>
+> WhatsApp fixed quote: **[+91 99354 74730](https://wa.me/919935474730)**
 
-## Why This Guide Matters
+## 1. Airport taxi (snapshot → full page)
 
-Varanasi’s airport is about 25–32 km from the city’s ghats and temples. The drive usually takes 40–45 minutes depending on traffic
-. Pre‑booking a taxi ensures a safe ride and a fixed fare. Small sedans like the Swift Dzire or Indica typically charge ₹750–₹950 for a one‑way transfer
-. Larger vehicles such as Ertiga or Innova cost more because they seat 6–7 passengers and carry extra luggage
-. For travellers arriving late at night or planning a full‑day tour, packages with 8 hours/80 km or 12 hours/200 km are available
+| Vehicle | City drop | Night 10 PM–5 AM |
+|---|---:|---:|
+| Sedan (Dzire/Etios) — 4-seater | ₹899 | +₹300 |
+| Ertiga — 7-seater ("7+1" seating) | ₹1,299 | +₹300 |
+| Innova — 6/7-seater | ₹1,500 | +₹300 |
+| Tempo 12-seater | ₹2,500 | +₹300 |
 
----
+Need the exact "7+1" (7 passengers + driver) layout for a mid-size group? Ertiga is that vehicle across every service on this page — airport, day tour or outstation.
 
-## [1 · Varanasi Airport Taxi Price (2026 Update)](/en/varanasi-airport-taxi-price-guide)
+**Book / full ghat-wise table:** [Varanasi airport taxi price guide](/en/varanasi-airport-taxi-price-guide) · [Airport taxi service](/en/city/varanasi/taxi/airport-taxi-service-varanasi).
 
-![Verified airport sedan lined up at Varanasi arrivals](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/seden.png "Varanasi Airport Taxi")
+{{CTA:CITY_TOUR:en}}
 
-| Vehicle | Pre‑paid Stand | Uber/Ola (off‑peak) | Notes |
-|---------|---------------|---------------------|-------|
-| Sedan (Dzire/Etios) | ₹850 – ₹1,000 | ₹620 – ₹700 | Fixed coupons at arrivals hall; no surge. |
-| SUV (Innova/Ertiga) | ₹1,100 – ₹1,300 | ₹880 – ₹1,050 | Ideal for 4‑6 pax + large luggage. |
-| Auto‑rickshaw\* | ₹500 – ₹600 (negotiate) | – | Cheapest, ~45 min, no AC. |
+## 2. Day tour / local sightseeing (snapshot → full page)
 
-\*Autos wait outside Gate 4 to avoid the ₹120 entry toll. Late‑night driver allowance (₹300 after 21:00) may apply.
+Aligned with the day-tour rate card (not a second competing price list):
 
-**Quick‑book tip:** Skip the queue—**[www.kashitaxi.in](https://www.kashitaxi.in)** guarantees a sedan at **₹899 all‑inclusive**. For phone bookings, call **94503 01573**.
+| Package | Sedan band | Notes |
+|---|---:|---|
+| 8 hr / ~80 km | ₹1,800–₹2,000 | Main city temples + ghats |
+| 12 hr / ~200 km | ₹2,200–₹2,500 | Room for Sarnath |
+| Innova 8 hr | ~₹2,500 | Families |
+| Tempo 12-seater 8–12 hr | ₹4,500–₹6,500 | Groups |
 
----
+**Book / full vehicle grid:** [Day tour cab charges](/en/varanasi-day-tour-cab-charges) · [Local sightseeing package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package).
 
-## [2 · Varanasi Pink Taxi for Women – Safety‑First Rides](/pink-taxi-varanasi)
+## 3. Boat rides (snapshot → full pages)
 
-![Pink Taxi woman driver greeting passenger in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg "Varanasi Pink Taxi for Women")
+| Type | Typical fare |
+|---|---|
+| Shared sunrise seat | ₹80–₹150 / person |
+| Private sunrise rowboat | ₹1,800–₹2,400 |
+| Private motorboat | ₹3,500–₹4,500+ |
+| 84 ghats long tour | ₹3,000–₹8,000 private |
+| Evening aarti boat | shared from ~₹250; private higher |
 
-*Launching December 2026 (pilot slots already live on our portal).*
+**Book:** [Morning boat price](/en/morning-boat-ride-varanasi-price) · [84 ghats boat tour](/en/city/varanasi/activities/84-ghats-boat-tour-varanasi) · [Ganga aarti boat booking](/en/ganga-aarti-boat-booking-price).
 
-| Time Band   | Base 4 km | After 4 km | Night Surcharge |
-| ----------- | ----------- | ----------- | --------------- |
-| 06:00‑22:00 | ₹200 | ₹14/km | – |
-| 22:00‑06:00 | – | ₹16/km | +₹100 |
+## 4. Popular outstation fares (snapshot → route pages)
 
-Reserve a verified woman driver through the upcoming Safe City app **or** pre‑book on **www.kashitaxi.in → Pink Taxi** section (limited fleets). For support, call **94503 01573**.
+| Route | Sedan one-way (from) | Same-day return (from) | Full page |
+|---|---:|---:|---|
+| **Prayagraj / Sangam** | ₹2,500 | ₹4,500 | [Prayagraj taxi](/en/varanasi-to-prayagraj-taxi) |
+| **Ayodhya / Ram Mandir** | ₹3,820 | ₹5,240 | [Ayodhya taxi](/en/varanasi-to-ayodhya-taxi) |
+| **Bodhgaya** | ₹5,004 | ~₹10,000–₹12,000 pkg | [Bodhgaya taxi cost](/en/varanasi-to-bodhgaya-taxi-cost) |
+| **Sarnath** | ₹1,200 | ₹2,000 | [Sarnath taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) |
+| **Nepal border (Sunauli)** | ₹3,000 | — | [Nepal taxi](/en/city/nepal/taxi/varanasi-to-nepal-taxi) |
+| **Kathmandu** | ₹8,500 | — | [Kathmandu taxi](/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi) |
 
----
+Route pages own the deep FAQs, inclusions and vehicle-wise quotes. This hub only helps you pick the right link.
 
-## [3 · Outstation: Lucknow → Varanasi Taxi Fare](/en/lucknow-to-varanasi-taxi-fare)
+## 5. Tempo traveller hire (snapshot → hub)
 
-| Provider | Car | One‑Way Fare | Time | Distance |
-|----------|-----|--------------|------|----------|
-| Uber Intercity | Uber Go | ₹5,283 | ~7 h | 392 km |
-|  | Sedan | **₹4,211** | ~7 h | 392 km |
-|  | XL/SUV | ₹6,955 | ~7 h | 392 km |
-| VTS Cabs | Sedan | ~₹3,900\* | ~7 h | 335 km (E‑way) |
+| Service | 12-seater | 17-seater |
+|---|---:|---:|
+| Airport | ₹2,500 | ₹3,000 |
+| Local 8 hr | ₹5,500 | ₹6,500 |
+| Ayodhya same-day | ₹14,500 | ₹16,500 |
 
-\*Excludes ₹840 expressway toll.  
-**Flat‑fare deal:** Sedan at **₹4,299** all‑in when you reserve via **www.kashitaxi.in → Outstation** at least 48 h in advance.
+**Book:** [Tempo traveller Varanasi](/en/tempo-traveller-varanasi) · [Tempo rates](/en/tempo-traveller-rates-varanasi).
 
----
+## 6. Auto / e-rickshaw reality check
 
-## [4 · Ganga Aarti Boat Booking Price (Dashashwamedh Ghat)](/en/ganga-aarti-boat-booking-price)
+Short ghat hops are fine on shared auto or e-rickshaw if you know the area. For airport, outstation, night arrivals, elders, or luggage — **fixed taxi wins**. Don’t use open bargaining for highway trips.
 
-![Bajra boat decorated for Dev Deepawali bookings](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-bajra.jpeg "Bajra boat for Ganga Aarti")
+## How to book without the runaround
 
-| Boat | Capacity | Inclusions | Rate (till Nov 2026) |
-|------|----------|------------|----------------------|
-| Private motor boat | 1‑6 | 84 ghats cruise + front‑row parking | **₹3,999** |
-| Lighting motor boat | 1‑10 | LED canopy, photo stops | ₹4,999 |
-| Bajra barge | 1‑30 | Sofa seating, refreshments | ₹11,999 |
+1. WhatsApp **[+91 99354 74730](https://wa.me/919935474730)**
+2. Send: date · pickup · drop or package · pax · bags
+3. Get **fixed fare in writing**
+4. Driver details before pickup
 
-**Shared boat** budget: ₹150‑₹300 pp.  
-Secure your slot: **[www.kashitaxi.in/boat](https://www.kashitaxi.in/boat)** or WhatsApp **94503 01573**.
+{{CTA:SCAM_SHIELD:en}}
 
----
+## Deep booking pages (use these to rank/book)
 
-## [5 · Varanasi Day Tour Cab Charges (12 h / 120 km)](/en/varanasi-day-tour-cab-charges)
-
-![A Tempo Traveller for day tours in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Tempo Traveller for Varanasi Day Tour")
-
-| Vehicle | Package | Extra km | Night Fee (>22:00) |
-|---------|---------|----------|--------------------|
-| Hatchback | ₹1,800 | ₹11 | ₹250 |
-| Sedan | ₹2,000 | ₹11.5 | ₹250 |
-| Innova | ₹3,050 | ₹19 | ₹250 |
-| Tempo Traveller (12‑seat) | ₹4,250 | ₹29 | ₹300 |
-
-GST 5 % & parking extra.  
-**Instant quote & pay:** **www.kashitaxi.in → City Tours**.
-
----
-
-## [6 · Assi Ghat ↔ Airport Distance & Fare](/en/assi-ghat-to-airport-taxi)
-
-* **Distance:** 28 km  
-* **Time:** 50‑60 min normal, up to 90 min peak  
-* **Typical Fare:**  
-  * Uber/Ola Go ~ ₹650  
-  * Pre‑paid sedan ~ ₹900  
-  * Auto ~ ₹550  
-
-Lock a fixed **₹749** sedan on **www.kashitaxi.in** (promo code **ASSI23**).
-
----
-
-## [7 · Varanasi → Bodhgaya Taxi Cost](/en/varanasi-to-bodhgaya-taxi-cost)
-
-| Car | One‑Way (Gozo) | Round‑Trip | Distance | Duration |
-|-----|---------------|------------|----------|----------|
-| Hatchback | ₹3,958 | ₹11.75/km | 260 km | ~6 h 15 m |
-| Sedan | **₹5,175** | ₹12.5/km | 260 km | ~6 h 15 m |
-| Tempo Traveller | ₹9,853 | ₹20/km | 260 km | ~7 h |
-
-State‑entry tax to Bihar (₹340) may apply.  
-Book direct: **www.kashitaxi.in → Buddhist Circuit** or ring **94503 01573**.
-
----
-
-## Quick Reference Cheat‑Sheet
-
-| Keyword | 2026 Answer |
-|---------|-------------|
-| varanasi airport taxi price | ₹620–₹1,300 (app vs. pre‑paid, car type) |
-| varanasi pink taxi for women | Launch Dec 2026; ~₹14/km day, ₹16/km night |
-| lucknow to varanasi taxi fare | ₹4,200–₹7,000 |
-| ganga aarti boat booking price | Shared ₹200 pp; Private from ₹3,999 |
-| varanasi day tour cab charges | ₹1,800–₹4,250 |
-| assi ghat to airport distance | 28 km; ~₹650 app taxi |
-| varanasi to bodhgaya taxi cost | ₹3,958–₹9,853 one‑way |
-
----
-
-## Final Tips Before You Book
-
-1. **Screenshot your quote**—fares can auto‑update.  
-2. **Carry small notes**; some kiosks are cash‑only.  
-3. **Check yellow plates** + itemised receipt for outstations.  
-4. **Share live location** (Uber/Ola safety or WhatsApp).  
-5. Save our number **94503 01573** in case of any en‑route issues.
-
-Safe travels—and if you need wheels at any hour, remember **www.kashitaxi.in** is just one click or call away!
-
----
-
-### Internal Links
-
-*   **Airport Taxi** → [Airport‑to‑City Transfer Guide](/en/varanasi-airport-taxi-price-guide)
-*   **Ganga Aarti Boat** → [Ganga Aarti Boat Booking Price Guide](/en/ganga-aarti-boat-booking-price)
-*   **Pink Taxi** → [Pink Taxi landing page](https://www.kashitaxi.in/pink-taxi-varanasi)
-*   **Lucknow → Varanasi Taxi** → [Lucknow to Varanasi Taxi Fare Guide](/en/lucknow-to-varanasi-taxi-fare)
-*   **Varanasi Day Tour** → [Varanasi Day Tour Cab Charges Guide](/en/varanasi-day-tour-cab-charges)
-*   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-taxi)
-*   **Assi Ghat ↔ Airport** → [Assi Ghat to Airport Distance Guide](/en/assi-ghat-to-airport-taxi)
-*   **Varanasi → Bodhgaya** → [Varanasi to Bodhgaya Taxi Cost Guide](/en/varanasi-to-bodhgaya-taxi-cost)
-*   **Group Tours** → [Varanasi Group Tour Package](/en/varanasi-group-tour-package)
+- [Airport taxi price guide](/en/varanasi-airport-taxi-price-guide)
+- [Day tour cab charges](/en/varanasi-day-tour-cab-charges)
+- [Ayodhya taxi](/en/varanasi-to-ayodhya-taxi)
+- [Prayagraj taxi](/en/varanasi-to-prayagraj-taxi)
+- [Bodhgaya taxi](/en/varanasi-to-bodhgaya-taxi-cost)
+- [Morning boat prices](/en/morning-boat-ride-varanasi-price)
+- [Tempo traveller rates](/en/tempo-traveller-rates-varanasi)

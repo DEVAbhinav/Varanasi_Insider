@@ -1,16 +1,16 @@
 ---
-title: "Kashi Vishwanath Darshan for Senior Citizens & Wheelchair Access | Assistance & Booking"
+title: "Kashi Vishwanath Senior & Wheelchair Darshan ₹500 | Book"
 slug: "kashi-vishwanath-darshan-senior-citizen-wheelchair"
 lang: en-IN
 date: "2026-07-04"
-lastUpdated: "2026-07-04"
+lastUpdated: "2026-08-11"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg"
 author: "Kamal Nayan Singh"
 subtitle: "Comfortable, low-walking darshan help for elderly parents and wheelchair users at Kashi Vishwanath — door-to-gate cabs, assistance and honest advice on the least tiring route, so your loved ones darshan with dignity."
 description: "Kashi Vishwanath darshan help for senior citizens and wheelchair users. We arrange door-to-gate cabs, an escort and honest advice on the least tiring darshan route so elderly pilgrims can visit comfortably. Verify official facilities on shrikashivishwanath.org."
-metaTitle: "Kashi Vishwanath Darshan for Seniors & Wheelchair 2026 | Assistance"
-metaDescription: "Comfortable Kashi Vishwanath darshan for senior citizens & wheelchair users — door-to-gate cab, escort, least-tiring route advice. Honest local help on WhatsApp. Verify official facilities on shrikashivishwanath.org."
+metaTitle: "Kashi Vishwanath Senior & Wheelchair Darshan ₹500 | Book"
+metaDescription: "Book Kashi Vishwanath senior citizen & wheelchair darshan help from ₹500 escort / ₹1,200 door-to-gate cab. Low-walking plan, honest limits. WhatsApp +91 99354 74730."
 keywords:
   - "kashi vishwanath darshan for senior citizens"
   - "kashi vishwanath wheelchair access"
@@ -60,7 +60,7 @@ relatedPosts:
 
 # Kashi Vishwanath Darshan for Senior Citizens & Wheelchair Users
 
-**Last updated:** July 4, 2026
+**Last updated:** August 11, 2026
 
 Taking **elderly parents** or a **wheelchair user** for darshan at Kashi Vishwanath? We make it as **comfortable and low-walking as possible** — a cab right up to the nearest gate, an escort to assist your family, and honest advice on the least tiring route and timing. Your loved ones darshan with dignity, and you don't have to worry about the logistics.
 
@@ -69,6 +69,8 @@ Taking **elderly parents** or a **wheelchair user** for darshan at Kashi Vishwan
 > **Important & honest:** we assist with the journey, cab and escort. Wheelchair facilities and any special access inside the temple are managed by the official administration — please verify current facilities on **shrikashivishwanath.org** or with temple staff. We never promise "guaranteed entry."
 
 ---
+
+{{CTA:DARSHAN:en}}
 
 ## Assisted Senior Darshan — Indicative Costs
 

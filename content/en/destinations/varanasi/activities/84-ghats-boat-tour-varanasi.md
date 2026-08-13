@@ -1,12 +1,12 @@
 ---
-title: "84 Ghats Boat Tour in Varanasi: Complete 2026 Guide & Pricing"
+title: "84 Ghats Boat Tour Varanasi Price from ₹3,000 | Book"
 slug: "84-ghats-boat-tour-varanasi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-08-11"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "84 Ghats Boat Tour Varanasi 2026: 3–4 Hr Route, Timing & Price"
-metaDescription: "Complete 2026 guide to the 84 ghats boat tour in Varanasi: what 84 means, major ghats on the route, tour types, real pricing, group booking tips, safety, and photography advice."
+metaTitle: "84 Ghats Boat Tour Price ₹3,000+ | Book Varanasi Boat 2026"
+metaDescription: "Book the 84 ghats boat tour in Varanasi from ₹3,000 private or ₹200–₹400 shared. 2.5–4 hr routes, sunrise slots, Assi–Namo prices. Fixed fare on WhatsApp +91 99354 74730."
 description: "84 ghats boat tour guide for Varanasi with route knowledge, pricing, booking strategy, photography windows, safety protocols, and itinerary combinations."
 keywords:
   - "84 ghats boat tour varanasi"
@@ -76,22 +76,34 @@ quickFacts:
     value: "Oct–Mar peak"
 ---
 
-# 84 Ghats Boat Tour in Varanasi
+# 84 Ghats Boat Tour Price & Booking
 
-## Why "84 Ghats" Matters
+> **TL;DR — price first:**
+>
+> - **Private rowboat (2.5 hr)** → ₹3,000–₹5,000
+> - **Private motorboat** → ₹4,000–₹8,000
+> - **Shared seat** → ₹200–₹400 per person
+> - **Assi → Namo full sweep** → ₹4,500–₹7,000 private motorboat
+>
+> Short sunrise loop only? See [morning boat ride prices](/en/morning-boat-ride-varanasi-price).
 
-When you search "84 ghats boat tour varanasi," "boat riding in varanasi," or "varanasi boat trip," you're not looking for just the aarti ceremony. You want **exploration**—to understand the breadth of Varanasi's spiritual landscape, to see how each ghat tells a different story, to witness the full spectrum of Hindu devotion on the Ganges.
+{{CTA:BOAT_AARTI:en}}
 
-A ganga river in varanasi boat ride covers all 84 sacred ghats (ganga ghat in varanasi), each with unique spiritual significance.
+## Why People Book the 84 Ghats Tour
 
-The "84 ghats" concept is foundational to Varanasi's spiritual identity. The number 84 itself isn't arbitrary—it comes from Hindu cosmology: 12 zodiacs × 7 chakras (or atmosphere layers) = 84 sacred points of cosmic alignment. Legend says that bathing at all 84 ghats in sequence grants moksha (liberation).
+You want more than a 20-minute aarti float. This run is for the full riverfront — major ghats, Manikarnika from the water, and time to actually look. Traditional pilgrim lore talks of 84 main ghats (of about 88 named ones); operators use “84 ghats” as the long-route label.
 
-This guide covers:
-1. **Why there are 84 (and not 88 or 76)**
-2. **What makes each ghat unique**
-3. **How to experience them via boat tour**
-4. **Realistic logistics and pricing**
-5. **Best times to book group tours**
+## 84 Ghats Boat Tour Price List
+
+| Tour type | Duration | Typical fare |
+|---|---|---|
+| Shared group seat | ~2–2.5 hr | ₹200–₹400 / person |
+| Private rowboat (4–6) | ~2.5 hr | ₹3,000–₹5,000 |
+| Private motorboat (≤15) | ~2.5–3 hr | ₹4,000–₹8,000 |
+| Assi → Namo one-way sweep | 2.5–4 hr | ₹4,500–₹7,000 motorboat |
+| Festival (Dev Deepawali etc.) | same | 2–4× — book early |
+
+**Book:** WhatsApp +91 99354 74730 with date, headcount, sunrise vs sunset, and whether you need taxi pickup at the end ghat.
 
 ---
 
@@ -257,7 +269,7 @@ For your **varanasi ghat tour by boat**, choose from these options based on time
 **Assi Ghat to Namo Ghat boat ride price:** ₹4,500–7,000 private (₹450–700/person split across 8–10 people); ₹350–500/person on shared departures when available
 **Assi Ghat to Namo Ghat boat ride timings:** Best at sunrise (5:00–6:30 AM) for calm water and light traffic, or sunset (4:30–5:30 PM winter) for golden-hour views; avoid mid-day heat and monsoon afternoons
 **Fare/cost note:** This route costs 15–20% more than the standard loop tours above because it's point-to-point (the boat and boatman must return empty or you arrange a one-way charter)
-**Return:** Book a taxi pickup at Namo Ghat in advance — WhatsApp +91 94503 01573 with your date and headcount and we'll coordinate the boat + return taxi together
+**Return:** Book a taxi pickup at Namo Ghat in advance — WhatsApp +91 99354 74730 with your date and headcount and we'll coordinate the boat + return taxi together
 
 ---
 
@@ -288,7 +300,7 @@ For your **varanasi ghat tour by boat**, choose from these options based on time
 
 **Step 1:** Calculate headcount (include children; ask if special needs require accommodations)
 
-**Step 2:** Message WhatsApp +91 94503 01573:
+**Step 2:** Message WhatsApp +91 99354 74730:
 > "Extended ghat tour, [date], [headcount], [time preference], [budget], [special requests]"
 
 **Example:** "84 ghats tour, Dec 15, 10 people, sunset departure 5:00 PM, ₹400/person budget, one elderly person with mobility concerns"
@@ -488,7 +500,7 @@ Since it's a one-way trip, not a loop, plan your return transport (taxi pickup a
 
 ### Ready for a Ghat Tour?
 
-**Quick booking:** WhatsApp +91 94503 01573
+**Quick booking:** WhatsApp +91 99354 74730
 **Message with:** Date, headcount, time preference, budget, special requests
 
 **Example:** "84 ghats extended tour, Dec 20, 6 people, sunset 5 PM departure, ₹400/person budget, one person with mobility concern"

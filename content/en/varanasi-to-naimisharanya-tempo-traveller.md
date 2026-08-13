@@ -1,16 +1,16 @@
 ---
 lang: en
-title: "Varanasi to Naimisharanya Tempo Traveller | 1N/2D Chakra Yatra"
-metaTitle: "Varanasi to Naimisharanya Tempo Traveller: 1N/2D Yatra ₹21,500"
-metaDescription: "Varanasi–Naimisharanya tempo traveller for the 1N/2D Chakra Yatra: 12-seater all-inclusive ₹21,500–₹22,500. Chakratirth, Lalita Devi, Sukadeva Peeth & Vyasa Gaddi. WhatsApp to reserve."
+title: "Varanasi to Naimisharanya Tempo Traveller ₹21,500 | Hire"
+metaTitle: "Varanasi to Naimisharanya Tempo Traveller ₹21,500 | Hire"
+metaDescription: "Varanasi to Naimisharanya tempo traveller 1N/2D from ₹21,500–₹22,500 all-in (12-seater). Book on WhatsApp +91 99354 74730."
 description: "Plan Chakratirth, Lalita Devi, and Sukadeva Peeth with 1N Tempo Traveller support, priest coordination, and ₹22k transparent costing—reserve your sacred circuit now."
 slug: varanasi-to-naimisharanya-tempo-traveller
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-08-11
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 tags: [naimisharanya, varanasi to naimisharanya, tempo traveller, chakratirth, lalita devi, pilgrimage]
-keywords: ["varanasi to naimisharanya tempo traveller","naimisharanya from varanasi distance","chakratirth naimisharanya yatra","lalita devi temple naimisharanya","varanasi to naimisharanya itinerary","naimisharanya pilgrimage tempo traveller","naimisharanya tour from varanasi"]
+keywords: ["varanasi to naimisharanya tempo traveller","varanasi to naimisharanya tempo traveller price","naimisharanya yatra from varanasi","chakratirth naimisharanya tempo","naimisharanya tour package from varanasi","naimisharanya pilgrimage tempo traveller"]
 relatedPosts:
   - tempo-traveller-varanasi
   - tempo-traveller-rates-varanasi
@@ -18,8 +18,10 @@ relatedPosts:
   - pilgrimage-yatra-tours-tempo-traveller-varanasi
   - varanasi-to-ayodhya-tempo-traveller
 faqSchema:
-  - question: "What is the distance from Varanasi to Naimisharanya?"
-    answer: "Approx 390–410 km one way (route via Lucknow / Sitapur variants). Typical Tempo Traveller run time 8–9.5 hours including two stops."
+  - question: "How much is Varanasi to Naimisharanya tempo traveller fare?"
+    answer: "A 12-seater 1N/2D package is about ₹21,500–₹22,500 all-in (km billing ~800–840 km, driver night allowance, toll/parking). 17-seater is higher. Confirm the written quote before departure."
+  - question: "How do I book the Naimisharanya tempo?"
+    answer: "WhatsApp +91 99354 74730 with dates, headcount, 12 vs 17 seater and whether elders need slower pacing. We lock vehicle and fixed package fare in writing."
   - question: "Is a same-day Varanasi to Naimisharanya trip realistic?"
     answer: "Not recommended. Total 780–820 km would stretch 16–18 hours. A 1N/2D plan yields proper time at Chakratirth, Lalita Devi and parikrama points."
   - question: "Key sacred sites in Naimisharanya?"
@@ -30,7 +32,12 @@ faqSchema:
     answer: "For a 12 seater: ~800–840 km billing @ ₹24/km (₹19,200–₹20,200) + driver night allowance ₹600 + toll/parking ₹1,200–₹1,600. Approx ₹21,500–₹22,500 all inclusive (non-luxury)."
 ---
 
-# Varanasi to Naimisharanya Tempo Traveller – Pilgrimage Circuit & 2 Day Plan (2026)
+# Varanasi to Naimisharanya Tempo Traveller Fare & 1N/2D Booking
+
+> **TL;DR:** 12-seater 1N/2D about **₹21,500–₹22,500** all-in. Same-day is not realistic (~16–18 hr road). Leave ~4:45 AM Day 1.
+
+{{CTA:CITY_TOUR:en}}
+
 
 ## Naimisharanya Tempo Traveller & Pilgrimage Visuals
 
@@ -39,11 +46,20 @@ faqSchema:
 | ![Varanasi to Naimisharanya tempo traveller fleet pre dawn start](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg "Fleet staging before departure for Naimisharanya from Varanasi") | ![Tempo traveller interior comfort naimisharanya itinerary](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Spacious aisle helps on 8–9 hour outbound drive") | ![Luxury tempo traveller seating for naimisharanya pilgrims](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_traveller_lux_seat_side.jpeg "Luxury seating option – comfort for elders on long spiritual circuits") |
 
 
-Undertaking a **Varanasi to Naimisharanya Tempo Traveller** journey connects two profound spiritual geographies—Kashi’s moksha vibration and Naimisharanya’s timeless sanctity where sages compiled and narrated Purāṇic wisdom. Having coordinated long‑range pilgrim circuits, I strongly advise a **1 Night / 2 Day format** for depth rather than a fatiguing day dash.
+Book the **1N/2D** format — same-day is a slog. Chakratirth, Lalita Devi and Sukadeva Peeth need afternoon + next-morning time, not a photo stop.
 
-> Core Insight: Naimisharanya rewards unhurried circumambulation around **Chakratirth** and reflective pauses at **Lalita Devi** & **Sukadeva Peeth**. Build breathing space.
+## Fare Snapshot (12-seater, 2026)
 
-## Varanasi to Naimisharanya Distance & Route Options (2026)
+| Item | Approx |
+|---|---:|
+| Km billing (~800–840 km @ ₹24/km) | ₹19,200–₹20,200 |
+| Driver night allowance | ₹600 |
+| Toll / parking | ₹1,200–₹1,600 |
+| **Package total** | **₹21,500–₹22,500** |
+
+17-seater and luxury variants quoted on request.
+
+## Route Options (for the driver plan)
 | Route Variant | Approx One‑Way Km | Notes |
 | --- | --- | --- |
 | Via Jaunpur – Lucknow – Sitapur | 400–410 | Fastest mix of 4‑lane + expressway; food halt near Lucknow |

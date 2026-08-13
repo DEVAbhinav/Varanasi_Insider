@@ -1,11 +1,11 @@
 ---
 lang: en
-title: "Senior Citizen Varanasi Tour Package 2026 | Low-Walking Kashi Plan for Elders"
-metaTitle: "Senior Citizen Varanasi Tour Package | Elder-Friendly Kashi Darshan with Hotel & Cab"
-metaDescription: "Book a senior citizen Varanasi tour package with low-walking darshan planning, hotel-first comfort, pickup, rest breaks and elder-friendly pacing."
+title: "Senior Citizen Varanasi Tour Package | Elder Cab Booking"
+metaTitle: "Senior Citizen Varanasi Tour Package | Elder Cab Booking"
+metaDescription: "Book senior citizen Varanasi tour package: low-walking darshan, hotel-first drops, rest breaks, private cab. 2N/3D pacing for parents. WhatsApp +91 99354 74730."
 description: "Elder-friendly Varanasi package with low-walking darshan planning, hotel-access-first comfort, rest-aware temple and ghat scheduling."
 date: 2026-03-07
-lastUpdated: 2026-03-07
+lastUpdated: 2026-08-11
 author: "Kashi Taxi Team"
 slug: senior-citizen-varanasi-tour-package
 category: packages
@@ -39,23 +39,37 @@ faqSchema:
     answer: "For most elders, 2 nights and 3 days works better than a rushed overnight trip because it allows proper rest between temple and ghat movements."
   - question: "Why trust Kashi Taxi for elder-friendly Kashi planning?"
     answer: "Because we design around real movement friction: lane access, hotel lift needs, queue tolerance, return pickup pressure, meal timing and rest windows."
+  - question: "How much does a senior citizen Varanasi tour package cost?"
+    answer: "Cab-led elder plans usually start from a private sedan day rate around ₹1,800–₹2,500 plus hotel if you want us to arrange stay. Multi-day packages are quoted per family size, walking limits and whether boat or Sarnath is included. WhatsApp for a written quote."
+  - question: "How do I book the senior citizen package?"
+    answer: "WhatsApp +91 99354 74730 with parent ages, walking comfort, hotel area preference, dates and whether you need wheelchair-aware drops. We reply with a paced plan and fixed transport quote."
 ---
 
-# Senior Citizen Varanasi Tour Package 2026 | Low-Walking Kashi Plan for Elders
+# Senior Citizen Varanasi Tour Package | Elder Cab & Hotel Plan
 
 > **TL;DR**
 > - **Elder-friendly Kashi travel** with lower walking pressure and better rest planning.
+> - **Cab-led plans** usually start around a private sedan day rate of **₹1,800–₹2,500** (hotel stay quoted separately if you want us to arrange it).
 > - Built for families booking for parents or grandparents who need **hotel-first comfort, easier movement and slower pacing**.
-> - We plan for **practical access and calmer flow**, while being honest about where exact public-space accessibility still varies.
+> - Default shape: **2 nights / 3 days** — not a rushed overnight.
 > - Banaras wisdom: devotion grows with patience, but knee pain grows faster, so the itinerary should know the difference.
+
+{{CTA:CITY_TOUR:en}}
 
 Many elder travelers do not need a bigger package. They need a **smarter** one.
 
-I've coordinated trips where a 78-year-old father finished Kashi Vishwanath darshan, a boat ride, and Sarnath in two calm days — and told his son it was the best trip of his life. The difference wasn't luxury. It was pacing, lane access planning, and knowing which temple has wheelchair-width corridors and which has 47 steps with no rail.
+The real question is not “can parents visit Varanasi?” — it is how to do Kashi without turning devotion into strain. This package is built around that.
 
-The useful question is not "can parents visit Varanasi?" The real question is:
+## Indicative package cost (transport-led)
 
-"How do we make Kashi possible without turning devotion into physical strain?"
+| Piece | Typical band |
+|---|---:|
+| Private sedan day (elder pacing) | ₹1,800–₹2,500 |
+| Innova / easier egress vehicle | higher — quoted on request |
+| Multi-day cab + driver (2N/3D) | family-size quote on WhatsApp |
+| Hotel (if we arrange) | separate, area-first shortlist |
+
+WhatsApp **[+91 99354 74730](https://wa.me/919935474730)** with parent ages, walking comfort, hotel area, dates and wheelchair needs for a written plan + fixed transport quote.
 
 ## Who This Package Is For
 

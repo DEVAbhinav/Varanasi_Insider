@@ -1,12 +1,12 @@
 ---
-title: "Varanasi to Kathmandu Taxi | Nepal Cross-Border | ₹8,500 | Kashi Taxi"
+title: "Varanasi to Kathmandu Taxi Fare from ₹8,500 | Book Cab"
 slug: "varanasi-to-kathmandu-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-08-11"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Kathmandu Taxi ₹8,500 | 560 km via Sunauli Border"
-metaDescription: "Book Varanasi to Kathmandu taxi from ₹8,500. 560 km via Sunauli border in 9-12 hours. International cross-border service, visa assistance, Nepal entry guidance."
+metaTitle: "Varanasi to Kathmandu Taxi Fare ₹8,500 | Book Nepal Cab"
+metaDescription: "Varanasi to Kathmandu taxi fare from about ₹8,500+. Multi-day road cab with border stops. Fixed quote on WhatsApp +91 99354 74730."
 description: "Book Varanasi to Kathmandu taxi from ₹8,500. 560 km journey via Gorakhpur and Sunauli border (9-12 hours). International cross-border taxi service with Nepal entry guidance, visa assistance, verified drivers."
 keywords:
   - "varanasi to kathmandu taxi"
@@ -35,24 +35,26 @@ faqSchema:
     answer: "Border crossing takes 1-3 hours depending on queue. Peak times (morning 8-11 AM) can be longer. Indians have faster processing. We recommend starting early from Varanasi."
 ---
 
-# Varanasi to Kathmandu Taxi | Nepal Capital | International Cross-Border | ₹8,500
+# Varanasi to Kathmandu Taxi Fare & Booking
 
-> **Quick answer:** Varanasi to Kathmandu by taxi is an India-Nepal road trip via Gorakhpur and Sunauli-Belahiya border. The route is about **560 km** and takes **9-12 hours** including border formalities. Sedan fares start from **₹8,500**.
+> **TL;DR — book the Kathmandu cab:**\n>\n> - **Sedan from** → ₹8,500\n> - **Door to door** → typically 9–12 hours including border\n> - **Route** → Gorakhpur → Sunauli → Belahiya → Kathmandu\n> - **Indians** → no Nepal visa; carry government photo ID\n>\n> Wider Nepal options: [Varanasi to Nepal taxi fares](/en/city/nepal/taxi/varanasi-to-nepal-taxi).
 
 This is a long but useful route for travellers who want a direct door-to-door connection from Varanasi to Kathmandu, especially families, pilgrims and groups with luggage. The India side is mostly highway; the Nepal side has mountain roads, traffic near Kathmandu, and slower driving after Butwal.
 
-## Quick Facts for Varanasi to Kathmandu Taxi
+## Booking Snapshot
 
 | Detail | Information |
 |--------|-------------|
-| **Journey Distance** | 560 km (India-Nepal route) |
-| **Travel Time** | 9-12 hours (including border crossing) |
-| **Best Route** | Via Gorakhpur → Sunauli Border → Kathmandu |
-| **Border Crossing** | Sunauli (India) - Belahiya (Nepal) |
-| **Road Condition** | Good in India, mixed in Nepal |
-| **Border Time** | 1-3 hours (immigration + customs) |
-| **Documents** | Passport/Voter ID for Indians, Passport+Visa for foreigners |
-| **Starting Fare** | ₹8,500 for Swift Dzire |
+| Detail | Info |
+|--------|------|
+| **Sedan fare from** | ₹8,500 |
+| **Typical door-to-door** | 9–12 hours (border included) |
+| **Route** | Gorakhpur → Sunauli → Kathmandu |
+| **Border** | Sunauli (India) – Belahiya (Nepal) |
+| **IDs** | Indians: passport / voter ID / Aadhaar · Foreigners: passport + visa |
+| **Book** | WhatsApp +91 99354 74730 |
+
+{{CTA:CITY_TOUR:en}}
 
 ## India-Nepal Border Crossing for Varanasi to Kathmandu Taxi
 
@@ -347,7 +349,7 @@ For trekkers and long-stay travellers:
 
 ## How to Book Varanasi to Kathmandu Taxi
 
-1. **Contact us:** Phone [99354 74730](tel:+919935474730) or WhatsApp [+91 9450301573](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Kathmandu%20taxi).
+1. **Contact us:** Phone [99354 74730](tel:+919935474730) or WhatsApp [+91 99354 74730](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Kathmandu%20taxi).
 2. **Share details:** Travel dates, passengers, nationality, vehicle preference, one-way or round-trip, and trekking plans if any.
 3. **Confirm and travel:** We share driver details, border guidance, advance payment details (30%) and live tracking.
 
@@ -370,4 +372,4 @@ For trekkers and long-stay travellers:
 
 **Planning a Kathmandu trip from Varanasi?**
 
-Call [99354 74730](tel:+919935474730) or WhatsApp [+91 9450301573](https://wa.me/919935474730?text=Book%20Kathmandu%20trip).
+Call [99354 74730](tel:+919935474730) or WhatsApp [+91 99354 74730](https://wa.me/919935474730?text=Book%20Kathmandu%20trip).

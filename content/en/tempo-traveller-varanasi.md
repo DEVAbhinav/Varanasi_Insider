@@ -1,13 +1,14 @@
 ---
 lang: en
-title: "Tempo Traveller in Varanasi: Rates, Fleet & Booking [2026]"
+title: "Tempo Traveller Varanasi Hire from ₹2,500 | 9–26 Seater Rates"
 description: "Hire a Tempo Traveller in Varanasi (9–26 seater). Kashi Darshan from ₹5,500, airport transfer ₹2,500, outstation ₹24–27/km. Clean AC fleet with pushback seats. 2026 rates."
 date: 2026-07-15
+lastUpdated: 2026-08-11
 tags: [tempo traveller, varanasi, tempo traveller hire, tempo traveller booking, tempo traveller rates, kashi darshan, airport transfer, 12 seater, 17 seater]
 showRatesCheatSheet: true
 slug: tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/tempo-traveller-varanasi
-metaTitle: "Tempo Traveller in Varanasi ₹2,500+ | 9-26 Seater Hire 2026 Rates"
+metaTitle: "Tempo Traveller Varanasi Hire ₹2,500+ | 12 & 17 Seater Rates"
 metaDescription: "Hire tempo traveller in Varanasi from ₹2,500 (airport) ₹5,500 (local 8hr). 9, 12, 17, 20 & 26 seater AC fleet. Kashi darshan, Ayodhya day trip, weddings. 2026 fixed rates."
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 relatedPosts:
@@ -33,7 +34,9 @@ faqSchema:
     answer: "Yes. We handle wedding guest transportation between venues, sangeet/mehndi shuttles, baraat routes. Multi-day bookings available. Decorated tempo travellers on request. Fixed daily rate — no per-trip surprises."
 ---
 
-# Tempo Traveller on Rent in Varanasi – 2026 Rates & Fleet Guide
+# Tempo Traveller Hire in Varanasi — 2026 Rates
+
+{{CTA:CITY_TOUR:en}}
 
 > **At a Glance: Tempo Traveller Rates in Varanasi (2026)**
 >
@@ -64,12 +67,6 @@ faqSchema:
 
 Full 2026 price breakdown: [Tempo Traveller Rates Varanasi](/en/tempo-traveller-rates-varanasi).
 
-Planning group travel in Varanasi? Our Tempo Traveller services offer the perfect blend of space, comfort, and convenience. Whether you’re organizing a family trip, a pilgrimage tour, or an airport pickup for a large group, Kashi Taxi has you covered with clean, well‑maintained vehicles and experienced drivers.
-
-Enjoy 24/7 availability, transparent pricing, and on‑time service for every journey.
-
-See the [full 2026 price list](/en/tempo-traveller-rates-varanasi).
-
 ## Vehicle Photos
 
 ![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller fleet — representative image")
@@ -77,12 +74,6 @@ See the [full 2026 price list](/en/tempo-traveller-rates-varanasi).
 ![Tempo Traveller — side profile](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Side profile — space for luggage and groups")
 
 ![Tempo Traveller — interiors](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Clean, AC interiors with pushback seats")
-
-### Tempo Traveller Hire in Varanasi: Why Choose Us
-
-We provide 9 to 17‑seater AC Tempo Travellers equipped with pushback seats, ample legroom, and luggage carriers—ideal for groups of all sizes.
-
-Our vehicles are sanitized and safety‑checked, and our drivers are courteous, licensed professionals who know the local routes well. Traveling as a group in one vehicle not only keeps everyone together, but also lowers your per‑head cost compared to multiple cars. Plus, you’ll avoid the hassle of coordinating multiple taxis—just one comfortable mini‑bus for your entire group!
 
 ### Outstation Tempo Traveller from Varanasi (Ayodhya, Prayagraj, Bodh Gaya)
 
@@ -112,10 +103,6 @@ Know exactly what you need? We offer focused pages for each vehicle type:
 
 Beyond the popular routes, we specialize in bespoke yatra itineraries. Want to do Kashi–Prayagraj–Ayodhya in one trip, or visit Vindhyachal, Chitrakoot, Naimisharanya? We will tailor a package with a Tempo Traveller and driver well‑versed in these pilgrimages. (Our “Pilgrimage & Yatra Tours by Tempo Traveller” page highlights these packages.)
 
-### Book Tempo Traveller in Varanasi – Get a Free Quote
-
-Hit the “Get a Free Quote” button or WhatsApp/Call us. We’ll respond within minutes with a transparent price quote (no hidden fees—tolls, parking, etc., clearly stated). With Kashi Taxi, you’ll experience group travel made easy—one vehicle, one affordable fare, and countless memories together! 🚐💨
-
 ## Tempo Traveller Fleet in Varanasi: Clean, Modern, Ready
 
 - 9 & 12 Seater: Best for families and small groups
@@ -123,8 +110,6 @@ Hit the “Get a Free Quote” button or WhatsApp/Call us. We’ll respond withi
 - 26 Seater: Mini-bus comfort for big gatherings
 - Luxury & Maharaja (1x1): Premium recliner seating
 - Force Urbania: Premium, quiet, spacious interiors
-
-> High-quality photos of actual vehicles build trust. We avoid stock images.
 
 ## Tempo Traveller Services at a Glance
 
@@ -154,10 +139,6 @@ Fixed packages for common tours and clear per‑km rates for customs. What we qu
 ### 24/7 Customer Support
 Phone, WhatsApp, and email support before and during the trip for complete peace of mind.
 
-## Expert Recommendation for Group Travel in Varanasi
-
-Multiple small vehicles fragment the experience and waste time. A single Tempo Traveller keeps everyone together, turning transit into shared moments between darshans.
-
 > **Planning a trip with friends?** Check out our dedicated guide: **[Varanasi with Friends: Itinerary & Tips](/en/varanasi-with-friends-plan)**
 > **Traveling with family?** See our **[Elderly-Friendly Family Itinerary](/en/family-tour-varanasi-3-days-parents)**.
 > **Fixed-price group tour?** View our **[Varanasi Group Tour Package](/en/varanasi-group-tour-package)**.
@@ -177,3 +158,5 @@ Use our quick form or contact us directly.
 - Website: https://www.kashitaxi.in/
 
 > Prefer specifics? See the full [Rates Guide](/en/tempo-traveller-rates-varanasi) or plan a [Kashi Darshan tour](/en/kashi-darshan-tempo-traveller).
+
+{{CTA:CITY_TOUR:en}}

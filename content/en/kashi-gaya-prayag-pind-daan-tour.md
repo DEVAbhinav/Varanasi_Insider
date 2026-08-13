@@ -1,11 +1,13 @@
 ---
 lang: en
-title: "Kashi Gaya Prayag Pind Daan Tour: Tempo Traveller Itinerary & Ritual Guide (2026)"
+title: "Kashi Gaya Prayag Pind Daan Tour Package from ₹31,000 | Book"
 description: "Kashi Gaya Prayag Pind Daan tour by Tempo Traveller – sequencing of rituals, 3D/2N & 4D options, pind daan procedure in Gaya & Prayagraj, items list, costs, tips."
 slug: kashi-gaya-prayag-pind-daan-tour
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-08-11
+metaTitle: "Kashi Gaya Prayag Pind Daan Tour ₹31,000+ | Tempo Package"
+metaDescription: "Book Kashi–Gaya–Prayag pind daan tour by tempo from ₹31,000–₹37,000 (12-seater). 3D/2N or 4D plans, fixed quote. WhatsApp +91 99354 74730."
 tags: [pind daan, gaya, prayagraj, kashi, varanasi, tempo traveller, pilgrimage, ritual sequencing, triveni sangam]
 keywords: ["kashi gaya prayag pind daan tour","kashi gaya prayagraj pind daan itinerary","pind daan tour from varanasi","gaya pind daan with prayag sangam","kashi prayag gaya ritual sequence","tempo traveller pind daan tour varanasi","kashi gaya prayag package"]
 relatedPosts:
@@ -25,10 +27,16 @@ faqSchema:
   - question: "Is a medical certificate required for Pind Daan?"
     answer: "No. Key requirement is presence of karta (male or female depending family custom). Carry IDs, gothra details, ancestor names/list."
   - question: "Best Tempo Traveller size for 8 elders + luggage + ritual items?"
-    answer: "12 seater (room for vessels & cloth bags). If 12–14 family members + priests accompanying, upgrade to 17 seater for aisle movement."  
+    answer: "12 seater (room for vessels & cloth bags). If 12–14 family members + priests accompanying, upgrade to 17 seater for aisle movement."
+  - question: "How much does the Kashi Gaya Prayag pind daan tour cost?"
+    answer: "Transport-only 12-seater packages for the circuit commonly land around ₹31,000–₹37,000 including driver, tolls and basic night allowances. Priest dakshina, ritual materials, hotels and boats are separate unless you ask for a full package quote."
+  - question: "How do I book the pind daan tour from Varanasi?"
+    answer: "WhatsApp +91 99354 74730 with family size, preferred dates (avoid guessing Pitru Paksha peaks without a buffer), 3D vs 4D, and whether you need Gaya panda coordination help. We confirm vehicle and fixed transport fare in writing."
 ---
 
-# Kashi Gaya Prayag Pind Daan Tour – Structured Ritual & Travel Plan (2026)
+# Kashi Gaya Prayag Pind Daan Tour Package & Booking
+
+{{CTA:SHRADH:en}}
 
 > **Tour Snapshot: Pind Daan Circuit**
 > - **Ideal Duration:** 4 Days / 3 Nights (Relaxed) or 3 Days / 2 Nights (Fast).
@@ -36,9 +44,7 @@ faqSchema:
 > - **Est. Cost (12 Seater):** ₹31,000–₹37,000 (Transport + Driver + Tolls).
 > - **Pro Tip:** Pre-book Gaya priest (Panda) for your specific language to avoid last-minute mismatches.
 
-Undertaking the **Kashi Gaya Prayag Pind Daan tour** is one of the most meaningful multi‑city spiritual circuits you can plan from Varanasi. I’ve facilitated numerous family groups performing ancestral rites (shraddha / pind daan / tarpan) and have refined a practical, fatigue‑aware approach—especially when elders are part of the yatra.
-
-> Core Principle: Preserve ritual sanctity by giving each site its appropriate morning energy window (cooler, calmer, focused).
+Transport + pacing for families doing shraddha / pind daan / tarpan with elders. Morning windows at each city matter more than packing every temple on the map.
 
 ## Why Combine Kashi, Gaya & Prayag (Sequence Logic)
 | Site | Spiritual Focus | Key Ritual Window | Why This Order Works |
