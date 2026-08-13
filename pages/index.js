@@ -79,7 +79,7 @@ export default function HomePage({ allPosts }) {
     },
     {
       name: 'First impression of Kashi',
-      years: 'Trusted since 1998',
+      years: 'Trusted since 1982',
       route: 'A friendly face at arrivals – your Varanasi adventure begins right here',
       img: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo%20Traveller%20Mishra%20ji%20with%20germal%20tourist.jpg',
     },
@@ -297,9 +297,9 @@ export default function HomePage({ allPosts }) {
             </div>
 
             {/* Single compact helper line — readable on the hero image */}
-            <p className="mt-4 mb-2 text-center text-xs font-medium text-white md:text-sm">
-              Booking a cab only? <a href="/en/city/varanasi/taxi" className="font-semibold underline underline-offset-2">See routes &amp; fares</a>
-              <span className="mx-2 text-white/50">|</span>
+            <p className="mt-4 mb-2 mx-auto w-fit max-w-full rounded-full bg-black/35 px-4 py-2 text-center text-xs font-semibold text-white shadow-md backdrop-blur-sm md:text-sm">
+              Booking a cab only? <a href="/en/city/varanasi/taxi" className="font-bold underline underline-offset-2">See routes &amp; fares</a>
+              <span className="mx-2 text-white/70">|</span>
               Need hotel too?{' '}
               <a
                 href="/en/packages/varanasi-tour-package"
@@ -308,7 +308,7 @@ export default function HomePage({ allPosts }) {
                 data-page-type="generic_taxi_owner"
                 data-intent-cluster="tour_package"
                 data-service-type="package"
-                className="font-semibold underline underline-offset-2"
+                className="font-bold underline underline-offset-2"
               >
                 See tour packages
               </a>
@@ -342,7 +342,7 @@ export default function HomePage({ allPosts }) {
             <div className="flex min-w-0 items-center gap-3">
               <span className="grid h-10 w-10 shrink-0 place-items-center rounded-2xl bg-gradient-to-br from-cyan-500 to-teal-500 text-sm font-bold text-white shadow-sm">4.8★</span>
               <div className="min-w-0">
-                <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Serving Kashi since 1998</p>
+                <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Serving Kashi since 1982</p>
                 <h2 className="text-sm font-semibold leading-snug text-slate-900 md:text-lg">Local drivers who know every ghat, gali &amp; shortcut</h2>
               </div>
             </div>
@@ -569,7 +569,7 @@ export default function HomePage({ allPosts }) {
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">
-                <p>Kashi Taxi (operated by Vinayak Travels) is rated among the <strong>best taxi services in Varanasi</strong> with a 4.8★ Google rating from 312 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.</p>
+                <p>Kashi Taxi (operated by Vinayak Travels) is rated among the <strong>best taxi services in Varanasi</strong> with a 4.8★ Google rating from 191 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.</p>
               </div>
             </details>
 

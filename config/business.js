@@ -19,12 +19,12 @@ const LEGAL_NAME_FULL = 'Vinayak Travels Tour';
 const OPERATED_BY = `${BRAND_NAME}, operated by ${LEGAL_NAME}`;
 
 // Founding
-const FOUNDING_YEAR = 1998;
+const FOUNDING_YEAR = 1982;
 const FOUNDING_DATE = String(FOUNDING_YEAR);
 const yearsInService = () => new Date().getFullYear() - FOUNDING_YEAR;
 
 // Contact
-const EMAIL = 'taxiinvaranasiii@gmail.com';
+const EMAIL = 'sudhir.vinayaktravels@gmail.com';
 
 // Registered address (Sigra, Varanasi)
 const ADDRESS = Object.freeze({
@@ -37,16 +37,16 @@ const ADDRESS = Object.freeze({
 
 const ADDRESS_DISPLAY = 'L 10/125, Shastri Nagar (near IP Mall), Sigra, Varanasi – 221010';
 
-// Coordinates (Sigra)
+// Coordinates (matches the Google Business Profile map pin)
 const GEO = Object.freeze({
-  latitude: 25.3176,
-  longitude: 82.9739,
+  latitude: 25.315282,
+  longitude: 82.989593,
 });
 
 // Reviews / rating (Google Business Profile)
 const RATING = 4.8;
-const REVIEW_COUNT = 312;
-const PLACE_ID = 'ChIJFf691_wt44kREP5WvW4bBtI';
+const REVIEW_COUNT = 191;
+const PLACE_ID = 'ChIJFf7XW_wtjjkRL_xW7xSLBtI';
 const MAPS_URL = 'https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA';
 
 const LOGO_URL = 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg';

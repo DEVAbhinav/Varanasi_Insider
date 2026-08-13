@@ -63,7 +63,7 @@ faqSchema:
 
 यह page केवल generic content नहीं है। यह उसी operating model पर बना है जो हमारी दूसरी service pages में भी दिखता है:
 
-- **1998 से यात्रियों की सेवा** करने वाला local setup
+- **1982 से यात्रियों की सेवा** करने वाला local setup
 - **24x7 phone और WhatsApp support**
 - **police-verified drivers और commercial-permit vehicles**
 - **booking से पहले written fare और inclusion confirmation**

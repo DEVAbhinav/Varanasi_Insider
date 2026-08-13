@@ -56,7 +56,7 @@ faqSchema:
 
 इस तरह का circuit marketing line से नहीं, operations से चलता है। हमारी practical trust layer यह है:
 
-- **1998 से यात्रियों की सेवा**
+- **1982 से यात्रियों की सेवा**
 - **24x7 WhatsApp और phone support**
 - **police-verified drivers और commercial-permit vehicles**
 - **booking से पहले written quote**

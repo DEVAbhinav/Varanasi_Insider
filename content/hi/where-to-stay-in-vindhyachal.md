@@ -317,7 +317,7 @@ faqSchema:
 स्थानीय अनुभव और विश्वसनीय आवास व्यवस्था के लिए:
 
 📞 **WhatsApp:** +91 94503 01573  
-📧 **Email:** taxiinvaranasiii@gmail.com
+📧 **Email:** sudhir.vinayaktravels@gmail.com
 
 **सेवाओं में शामिल:**
 - सत्यापित होटल/धर्मशाला बुकिंग

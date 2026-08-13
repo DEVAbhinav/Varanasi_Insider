@@ -49,7 +49,7 @@ areaServed:
   - Varanasi
 aggregateRating:
   ratingValue: '4.8'
-  reviewCount: '312'
+  reviewCount: '191'
 relatedPosts:
   - varanasi-airport-taxi-price-guide
   - outstation-cabs-from-varanasi
@@ -59,7 +59,7 @@ relatedPosts:
 
 ## आपकी भरोसेमंद वाराणसी टैक्सी सेवा पार्टनर
 
-यह **Kashi Taxi (Vinayak Travels द्वारा संचालित) की वाराणसी टैक्सी सर्विस और किराये** की गाइड है—एयरपोर्ट ट्रांसफर, काशी दर्शन टूर, one-way trip, outstation route और tempo traveller, सब कुछ **पारदर्शी fixed pricing** के साथ। 1998 से family-run Varanasi taxi service, **4.8★ और 312 Google reviews** के साथ। सफर के लिए तैयार हैं? [हमारे होमपेज से तुरंत बुक करें](/) या नीचे दिए किराये और route links से अपनी यात्रा प्लान करें।
+यह **Kashi Taxi (Vinayak Travels द्वारा संचालित) की वाराणसी टैक्सी सर्विस और किराये** की गाइड है—एयरपोर्ट ट्रांसफर, काशी दर्शन टूर, one-way trip, outstation route और tempo traveller, सब कुछ **पारदर्शी fixed pricing** के साथ। 1982 से family-run Varanasi taxi service, **4.8★ और 191 Google reviews** के साथ। सफर के लिए तैयार हैं? [हमारे होमपेज से तुरंत बुक करें](/) या नीचे दिए किराये और route links से अपनी यात्रा प्लान करें।
 
 ## वाराणसी में Kashi Taxi क्यों चुनें?
 
@@ -175,11 +175,11 @@ Registered office: **L 10/125, Shastri Nagar (IP Mall के पास), Sigra, 
 
 ## भरोसे के नंबर और हमारे यात्रियों की राय (Google Reviews)
 
-- 4.8★ average rating और 312 public Google reviews
-- 1998 से family-run Varanasi taxi service
+- 4.8★ average rating और 191 public Google reviews
+- 1982 से family-run Varanasi taxi service
 - airport, Kashi Darshan, one-way और outstation trips के लिए transparent fixed pricing
 
-**4.8★ और 312 Google reviews** — [Google पर पढ़ें](https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA)।
+**4.8★ और 191 Google reviews** — [Google पर पढ़ें](https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA)।
 
 > ⭐⭐⭐⭐⭐ "ड्राइवर राजन बहुत अच्छे थे और उन्होंने बेहतरीन service दी—local roads की अच्छी जानकारी, soft-spoken और humble। Overall excellent service." — Sampath Kumar
 

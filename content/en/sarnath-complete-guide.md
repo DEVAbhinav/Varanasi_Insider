@@ -178,7 +178,7 @@ The upper section remains **unfinished brick work**, creating an interesting con
 📱 **WhatsApp "SARNATH PILGRIMAGE"**: **+91 94503 01573**  
 📞 **Call for Buddhist Circuit Quote**: **+91 99354 74730**
 
-**27+ Years Serving International Buddhist Pilgrims** | **4.8★ Rated** | **Japanese, Thai, Tibetan Client References Available**
+**44+ Years Serving International Buddhist Pilgrims** | **4.8★ Rated** | **Japanese, Thai, Tibetan Client References Available**
 
 > Complete guide: **[Buddhist Circuit Tour from Varanasi](/en/buddhist-circuit-tour-tempo-traveller-varanasi)**
 
@@ -752,7 +752,7 @@ The uncomfortable part is not the distance; it is the auto haggle from Lanka or 
 
 > **Book Now**: **[Varanasi to Sarnath Transport](/en/varanasi-to-sarnath-tempo-traveller)** | **[Buddhist Circuit Tours](/en/buddhist-circuit-tour-tempo-traveller-varanasi)**
 
-**27+ years serving Buddhist pilgrims** | **4.8★ Google Rating** | **Police-verified drivers** | **No hidden charges**
+**44+ years serving Buddhist pilgrims** | **4.8★ Google Rating** | **Police-verified drivers** | **No hidden charges**
 
 ---
 
@@ -1079,7 +1079,7 @@ Minimum 2 hours for quick visit covering Dhamek Stupa and museum. Recommended 3-
 ⏰ **Available**: 24/7 for bookings & inquiries
 
 **Why Choose Kashi Taxi for Sarnath Visit:**
-- ✅ **27+ Years Experience** serving Buddhist pilgrims and tourists
+- ✅ **44+ Years Experience** serving Buddhist pilgrims and tourists
 - ✅ **4.8★ Google Rating** (312 verified reviews)
 - ✅ **Knowledgeable Drivers** familiar with Sarnath timings and routes
 - ✅ **Transparent Pricing** - No hidden charges
@@ -1136,7 +1136,7 @@ Experience where Buddha's revolutionary teachings began their journey across Asi
 
 ## 🎯 Ready to Experience Buddha's Sacred Sarnath?
 
-**Don't let transportation stress diminish your spiritual journey.** Over 27 years, we've helped thousands of Buddhist pilgrims from Japan, Thailand, Sri Lanka, Tibet, and worldwide experience Sarnath's profound peace and historical significance.
+**Don't let transportation stress diminish your spiritual journey.** Over 44 years, we've helped thousands of Buddhist pilgrims from Japan, Thailand, Sri Lanka, Tibet, and worldwide experience Sarnath's profound peace and historical significance.
 
 ### **Choose Your Sarnath Experience:**
 
@@ -1167,7 +1167,7 @@ Experience where Buddha's revolutionary teachings began their journey across Asi
 ✅ **Multilingual Support**: Japanese, Thai, Tibetan client references available  
 ✅ **Safety First**: Police-verified drivers, GPS tracking, 24/7 support  
 ✅ **Transparent Pricing**: No hidden charges, all-inclusive rates  
-✅ **27+ Years Legacy**: Serving since 1998, 4.8★ Google rating, 312 reviews  
+✅ **44+ Years Legacy**: Serving since 1982, 4.8★ Google rating, 191 reviews  
 ✅ **Circuit Expertise**: Bodh Gaya routes, Kushinagar timing, Nepal border assistance
 
 ### **Special Services for Buddhist Pilgrims:**

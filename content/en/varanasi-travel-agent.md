@@ -9,7 +9,7 @@ lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg"
 metaTitle: "Varanasi Travel Agent | Tour Operators in Varanasi | Kashi Taxi"
 metaDescription: "Use Kashi Taxi as your trusted Varanasi travel agent for verified drivers, booking support, airport transfers, local sightseeing, outstation cabs, and custom tour packages."
-description: "Kashi Taxi is a trusted Varanasi travel agent and tour operator since 1998, offering verified drivers, booking support, airport transfers, local sightseeing, outstation cabs, and custom tour packages."
+description: "Kashi Taxi is a trusted Varanasi travel agent and tour operator since 1982, offering verified drivers, booking support, airport transfers, local sightseeing, outstation cabs, and custom tour packages."
 keywords:
   - "varanasi travel agent"
   - "tour operators in varanasi"
@@ -47,7 +47,7 @@ relatedPosts:
   - contact
 faqSchema:
   - question: "Are you a licensed Varanasi travel agent?"
-    answer: "Yes, Kashi Taxi operates as Vinayak Travels Tour (Regd.), a licensed travel agency in Varanasi since 1998. We are a GSTIN-registered business with verified vehicles and police-verified drivers. Our office is located at Shastri Nagar, Sigra, Varanasi."
+    answer: "Yes, Kashi Taxi operates as Vinayak Travels Tour (Regd.), a licensed travel agency in Varanasi since 1982. We are a GSTIN-registered business with verified vehicles and police-verified drivers. Our office is located at Shastri Nagar, Sigra, Varanasi."
   - question: "What services do your tour operators in Varanasi provide?"
     answer: "As tour operators in Varanasi, we provide comprehensive services including airport transfers (₹800-2,500), local sightseeing tours, tempo traveller hire (12-17 seaters), outstation cabs to Ayodhya, Prayagraj, Bodhgaya, custom multi-day tour packages, Pink Taxi for women travelers, and self-drive scooter/bike rentals."
   - question: "How do I book a tour and travels in Varanasi with Kashi Taxi?"
@@ -69,7 +69,7 @@ canonical: "https://www.kashitaxi.in/en/varanasi-travel-agent"
 
 ![Kashi Taxi vehicle — tour operators in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Kashi Taxi tempo traveller - trusted tour operators in Varanasi")
 
-> **TL;DR:** At Kashi Taxi, we're your local **Varanasi travel agent**, specialist **tour operators in Varanasi**, and trusted **tour and travels in Varanasi** partner since 1998. We run verified vehicles, licensed drivers and hand-crafted packages so you can focus on the experience — not logistics. Book with confidence: transparent pricing, 24×7 support, and GSTIN-registered operations.
+> **TL;DR:** At Kashi Taxi, we're your local **Varanasi travel agent**, specialist **tour operators in Varanasi**, and trusted **tour and travels in Varanasi** partner since 1982. We run verified vehicles, licensed drivers and hand-crafted packages so you can focus on the experience — not logistics. Book with confidence: transparent pricing, 24×7 support, and GSTIN-registered operations.
 
 At Kashi Taxi, we're your local **Varanasi travel agent**, specialist **tour operators in Varanasi**, and trusted **tour and travels in Varanasi** partner. We run verified vehicles, licensed drivers and hand-crafted packages so you can focus on the experience — not logistics.
 
@@ -89,7 +89,7 @@ Whether you need a late-night airport transfer, a women-only Pink Taxi, or a ful
 For specific service types (airport pickup, outstation cabs, group vehicles), see the dedicated pages linked above.
 
 <div class="trust-strip" style="background: linear-gradient(135deg, #06b6d4 0%, #14b8a6 100%); color: white; padding: 16px; border-radius: 12px; text-align: center; margin: 24px 0; font-weight: 600;">
-  GSTIN: Verified ✓ | Police-Verified Drivers ✓ | 24×7 Support ✓ | 27+ Years in Business
+  GSTIN: Verified ✓ | Police-Verified Drivers ✓ | 24×7 Support ✓ | 44+ Years in Business
 </div>
 
 <div class="cta-hero" style="background: linear-gradient(135deg, #0ea5e9 0%, #06b6d4 100%); color: white; padding: 32px; border-radius: 16px; text-align: center; margin: 32px 0;">
@@ -107,9 +107,9 @@ For specific service types (airport pickup, outstation cabs, group vehicles), se
 
 ![Pink Taxi for women travelers](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg "Pink Taxi service - safest option for women travelers in Varanasi")
 
-### **Licensed Varanasi Travel Agent Since 1998**
+### **Licensed Varanasi Travel Agent Since 1982**
 
-Operating as **Vinayak Travels Tour (Regd.)**, Kashi Taxi has served 25,000+ travelers over 27 years. What started as a single Ambassador in 1998 has grown into a comprehensive tour and travels operation covering 30+ cities across Uttar Pradesh and Bihar.
+Operating as **Vinayak Travels Tour (Regd.)**, Kashi Taxi has served 25,000+ travelers over 44 years. What started as a single Ambassador in 1982 has grown into a comprehensive tour and travels operation covering 30+ cities across Uttar Pradesh and Bihar.
 
 **Why Travelers Trust Us:**
 
@@ -308,9 +308,9 @@ Starting from ₹25,000 (sedan) | ₹32,000 (SUV)
 
 - **Business Name:** Vinayak Travels Tour (Regd.)
 - **GSTIN:** *[Verification pending display on website — Available on request]*
-- **Registration Year:** 1998
+- **Registration Year:** 1982
 - **Office Address:** L 10/125, Shastri Nagar (near IP Mall), Sigra/Chetganj, Varanasi – 221 002, Uttar Pradesh, India
-- **Google Business Profile:** 4.8/5 rating (312 reviews)
+- **Google Business Profile:** 4.8/5 rating (191 reviews)
 
 ### **Tour Operator Vehicle Safety Standards in Varanasi**
 
@@ -450,7 +450,7 @@ We respond within 1 business hour with:
 
 ### Are you a licensed Varanasi travel agent?
 
-Yes, Kashi Taxi operates as **Vinayak Travels Tour (Regd.)**, a licensed travel agency in Varanasi since 1998. We are a GSTIN-registered business with verified vehicles and police-verified drivers. Our office is located at Shastri Nagar, Sigra, Varanasi.
+Yes, Kashi Taxi operates as **Vinayak Travels Tour (Regd.)**, a licensed travel agency in Varanasi since 1982. We are a GSTIN-registered business with verified vehicles and police-verified drivers. Our office is located at Shastri Nagar, Sigra, Varanasi.
 
 ### What services do your tour operators in Varanasi provide?
 
@@ -546,7 +546,7 @@ Customizable itineraries available.
     <p style="font-size: 16px;"><strong>Hours:</strong> 6:00 AM - 10:00 PM daily | Phone support 24×7</p>
   </div>
   
-  <p style="margin-top: 24px; font-size: 14px; opacity: 0.85;">Serving travelers since 1998 | GSTIN-registered | Police-verified drivers | 4.8★ rated on Google</p>
+  <p style="margin-top: 24px; font-size: 14px; opacity: 0.85;">Serving travelers since 1982 | GSTIN-registered | Police-verified drivers | 4.8★ rated on Google</p>
 </div>
 
 ---

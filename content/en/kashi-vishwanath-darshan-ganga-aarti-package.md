@@ -232,7 +232,7 @@ We usually advise against same-day temple plus evening Aarti if:
 
 ## Why Trust Kashi Taxi for This Package
 
-- **serving travelers since 1998**
+- **serving travelers since 1982**
 - **local dispatch team on WhatsApp and phone**
 - **police-verified drivers and commercial-permit vehicles**
 - **written confirmations before travel**

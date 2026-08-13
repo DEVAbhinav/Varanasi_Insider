@@ -69,7 +69,7 @@ That commercial decision is what this guide helps you sort out.
 
 Delhi-origin trips go wrong when people book transport before fixing the route. We handle the package layer first and keep the logistics honest:
 
-- **serving travelers since 1998** through the same local operating setup used across Kashi Taxi pages
+- **serving travelers since 1982** through the same local operating setup used across Kashi Taxi pages
 - **24x7 support by phone and WhatsApp**
 - **verified drivers and commercial-permit vehicles**
 - **written fare and inclusion confirmations before booking**

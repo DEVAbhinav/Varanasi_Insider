@@ -351,7 +351,7 @@ We've answered the **10 most common questions** from Taj Ganges guests. Read on.
 
 **Emergency Contact:** +91-9935474730  
 **WhatsApp:** +91-9935474730  
-**Email:** taxiinvaranasiii@gmail.com  
+**Email:** sudhir.vinayaktravels@gmail.com  
 
 ### Documents You'll Need:
 - Valid passport (always carry)
@@ -379,7 +379,7 @@ We'll handle all the logistical stress. You focus on the spiritual experience.
 
 **Contact Us:**
 - **WhatsApp:** +91-9935474730
-- **Email:** taxiinvaranasiii@gmail.com
+- **Email:** sudhir.vinayaktravels@gmail.com
 - **Call:** +91-9935474730
 
 ## Related Guides for Taj Ganges Guests

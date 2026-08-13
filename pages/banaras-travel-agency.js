@@ -26,7 +26,7 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
           'Banaras travel agency for spiritual journeys, airport transfers, tempo traveller hire, and custom pilgrimage packages with local guides and 24/7 support.',
         slogan: 'Your trusted Banaras travel partner',
         telephone: CONTACT.callNumberE164,
-        email: 'taxiinvaranasiii@gmail.com',
+        email: 'sudhir.vinayaktravels@gmail.com',
         address: {
           '@type': 'PostalAddress',
           streetAddress: 'Vinayak Travels, Varanasi',

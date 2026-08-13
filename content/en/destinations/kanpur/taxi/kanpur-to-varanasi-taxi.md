@@ -331,7 +331,7 @@ Total: 300 km | 8-9 hours (including 2-3h Prayagraj stopover) | Only 7 km longer
 
 **Call/WhatsApp**: [+91 99354 74730](https://wa.me/919935474730?text=Kanpur%20to%20Varanasi%20taxi%20booking)  
 **Alternate**: [+91 99354 74730](tel:+919935474730)  
-**Email**: taxiinvaranasiii@gmail.com  
+**Email**: sudhir.vinayaktravels@gmail.com  
 **Website**: [www.kashitaxi.in](https://www.kashitaxi.in/booking)
 
 ### Special Packages

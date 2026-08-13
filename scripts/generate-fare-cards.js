@@ -785,7 +785,7 @@ function buildBodyEn(route, dir, ctx) {
     `## Why book with Kashi Taxi`,
     '',
     listBlock([
-      'Serving Varanasi travellers since **1998** (Vinayak Travels)',
+      'Serving Varanasi travellers since **1982** (Vinayak Travels)',
       'Verified local drivers (Hindi and English)',
       'Fixed fare confirmed on WhatsApp before you pay',
       'Live location sharing for your family',
@@ -956,7 +956,7 @@ function buildBodyHi(route, dir, ctx) {
     `## Kashi Taxi क्यों`,
     '',
     listBlock([
-      '**1998** से वाराणसी यात्रियों की सेवा (Vinayak Travels)',
+      '**1982** से वाराणसी यात्रियों की सेवा (Vinayak Travels)',
       'वेरिफाइड लोकल ड्राइवर (हिंदी व अंग्रेज़ी)',
       'भुगतान से पहले WhatsApp पर फिक्स्ड किराया',
       'परिवार के लिए लाइव लोकेशन',

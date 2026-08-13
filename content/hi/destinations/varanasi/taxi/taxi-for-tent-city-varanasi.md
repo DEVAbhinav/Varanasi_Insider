@@ -262,7 +262,7 @@ Tent City Varanasi भारत के सबसे प्रीमियम lux
 📞 **कॉल करें:** [99354 74730](tel:+919935474730)  
 📱 **WhatsApp:** [wa.me/919935474730](https://wa.me/919935474730?text=Book%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city)  
 🌐 **ऑनलाइन बुकिंग:** [kashitaxi.in](https://kashitaxi.in)  
-📧 **ईमेल:** [taxiinvaranasiii@gmail.com](mailto:taxiinvaranasiii@gmail.com)
+📧 **ईमेल:** [sudhir.vinayaktravels@gmail.com](mailto:sudhir.vinayaktravels@gmail.com)
 
 **आज ही प्री-बुक करें। बेफिक्र पहुँचें। टेंट सिटी का आनंद लें।**
 

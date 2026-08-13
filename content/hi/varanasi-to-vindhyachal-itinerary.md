@@ -217,7 +217,7 @@ faqSchema:
 विश्वसनीय परिवहन सेवा के लिए जो मंदिर मार्गों से परिचित है:
 
 📞 **WhatsApp:** +91 94503 01573  
-📧 **Email:** taxiinvaranasiii@gmail.com
+📧 **Email:** sudhir.vinayaktravels@gmail.com
 
 **बुकिंग में शामिल:**
 - अनुभवी ड्राइवर (मंदिर मार्गों से परिचित)

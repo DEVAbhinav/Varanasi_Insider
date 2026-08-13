@@ -96,7 +96,7 @@ Families do not need "more options." They need fewer avoidable mistakes.
 
 Our local operating model is built around:
 
-- **serving travelers since 1998**
+- **serving travelers since 1982**
 - **24x7 WhatsApp and phone support**
 - **police-verified drivers and commercial-permit vehicles**
 - **written confirmations before arrival**

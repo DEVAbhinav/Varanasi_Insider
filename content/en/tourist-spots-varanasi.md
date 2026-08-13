@@ -910,7 +910,7 @@ Dress modestly with covered shoulders and legs (avoid shorts, tank tops, reveali
 - Customizable itineraries based on your interests
 - Hotel booking assistance available
 
-### 📞 Contact Kashi Taxi - Trusted Since 1998
+### 📞 Contact Kashi Taxi - Trusted Since 1982
 
 📱 **WhatsApp** (Quick Response): **+91 94503 01573**  
 📞 **Call Now**: **+91 99354 74730**  
@@ -918,8 +918,8 @@ Dress modestly with covered shoulders and legs (avoid shorts, tank tops, reveali
 ⏰ **Available**: 24/7 for bookings & inquiries
 
 **Why Choose Us:**
-- ✅ 27+ years serving Varanasi tourists
-- ✅ 4.8★ Google rating (312 reviews)
+- ✅ 44+ years serving Varanasi tourists
+- ✅ 4.8★ Google rating (191 reviews)
 - ✅ GSTIN-registered, police-verified drivers
 - ✅ All-inclusive transparent pricing
 - ✅ Women-friendly Pink Taxi service
@@ -951,7 +951,7 @@ Experience the timeless magic of Banaras at your own pace, respecting local cust
 
 ## 🎯 Ready to Explore Varanasi Tourist Spots?
 
-**Start your spiritual journey with Kashi Taxi - Varanasi's most trusted transport service since 1998.**
+**Start your spiritual journey with Kashi Taxi - Varanasi's most trusted transport service since 1982.**
 
 ### Quick Booking Options:
 
@@ -987,7 +987,7 @@ Experience the timeless magic of Banaras at your own pace, respecting local cust
 ### Why 5,000+ Tourists Choose Kashi Taxi:
 
 ⭐ **4.8/5 Google Rating** (312 verified reviews)  
-🏆 **27+ Years Experience** (since 1998)  
+🏆 **44+ Years Experience** (since 1982)  
 ✅ **GSTIN Registered** & police-verified drivers  
 💯 **Transparent Pricing** - no hidden charges  
 🛡️ **Safe & Reliable** - well-maintained AC vehicles

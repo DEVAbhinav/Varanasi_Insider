@@ -248,7 +248,7 @@ The focus here is **choosing the right stay-area first** and building your itine
 
 ## Why Trust Kashi Taxi for a Hotel-Inclusive Package
 
-- **serving travelers since 1998**
+- **serving travelers since 1982**
 - **WhatsApp-first written confirmation**
 - **local hotel belt knowledge, not just OTA listings**
 - **police-verified drivers and commercial-permit vehicles**

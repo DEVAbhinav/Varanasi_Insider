@@ -21,16 +21,16 @@
       "priceRange": "₹₹",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Shastri Nagar (near IP Mall), Sigra/Chetganj",
+        "streetAddress": "L 10/125, Shastri Nagar (near IP Mall), Sigra",
         "addressLocality": "Varanasi",
         "addressRegion": "UP",
-        "postalCode": "221002",
+        "postalCode": "221010",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "25.3105",
-        "longitude": "82.9874"
+        "latitude": "25.315282",
+        "longitude": "82.989593"
       },
       "hasMap": "https://www.google.com/maps/search/?api=1&query=8X8Q%2B4R",
       "openingHoursSpecification": [

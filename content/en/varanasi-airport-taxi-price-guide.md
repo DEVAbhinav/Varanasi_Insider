@@ -8,7 +8,7 @@ lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 metaTitle: "Varanasi Airport Taxi Fare 2026: Fixed Cabs from ₹899"
 metaDescription: "Varanasi airport taxi fare: sedan ₹899, Ertiga ₹1,299, Innova ₹1,500, tempo ₹2,500. Fixed-price, no surge. 25 km to city in 40 min. WhatsApp booking with flight tracking."
-description: "Current 2026 Varanasi airport taxi fares to Assi, Dashashwamedh, BHU, and Sarnath with fare tables, pickup point details, refund policies, and booking links."
+description: "Current 2026 Varanasi airport taxi fares to Assi, Dashashwamedh, BHU, and Sarnath with fare tables, pickup point details, flight tracking, and WhatsApp booking."
 keywords:
   - "varanasi airport taxi fare today"
   - "varanasi airport taxi price"
@@ -37,7 +37,7 @@ faqSchema:
   - question: "Is there a night charge from Varanasi airport?"
     answer: "Yes — about ₹300 between 10 PM and 5 AM on top of the fixed city fare. Confirm it in the WhatsApp quote before you fly."
   - question: "What if my flight is delayed?"
-    answer: "We track the flight when you share the number. Delays under about 90 minutes usually roll free. Cancel at least three hours before landing for a full refund if plans change."
+    answer: "Share your flight number on WhatsApp and we track it. Delays under about 90 minutes usually roll free with the same driver. Longer slips are reconfirmed before dispatch."
   - question: "Is prepaid airport taxi cheaper than pre-booked?"
     answer: "Prepaid counters inside the terminal avoid touts but often price above a pre-booked fixed sedan. Compare the counter board with your WhatsApp quote before you pay."
 aggregateRating:
@@ -57,7 +57,7 @@ Updated: July 2026 · 25–30 km · 40–45 min drive
 > - **Tempo Traveller (17-seater)** → ₹2,500
 > - **Night charge** → +₹300 from 10 PM to 5 AM
 >
-> Book via WhatsApp before take-off, meet your driver at Gate 3 Arrivals, and keep the refund clause handy if flights slip beyond 90 minutes.
+> Book on WhatsApp before take-off, meet your driver at Gate 3 Arrivals, and share your flight number so delays are tracked automatically.
 
 | What you need | Best page |
 |---|---|
@@ -66,7 +66,7 @@ Updated: July 2026 · 25–30 km · 40–45 min drive
 | Every airport destination page in one place | [Airport Transfer Directory](/en/city/varanasi/taxi/varanasi-airport-transfer-directory) |
 | Locality fare bands and price comparisons | **This page** |
 
-**One-tap booking (WhatsApp):** https://wa.me/919935474730?text=Need%20a%20Varanasi%20airport%20pickup%20today
+**One-tap booking:** [Book on WhatsApp](https://wa.me/919935474730?text=Need%20a%20Varanasi%20airport%20pickup%20today)
 
 {{CTA:CITY_TOUR:en}}
 
@@ -187,14 +187,14 @@ If you plan to explore the city immediately after arrival, consider a full-day r
 
 ---
 
-## Refund & Delay Policy Snapshot
+## Delay & Waiting Snapshot
 
-- **Free reschedule:** Flights delayed under 90 minutes can shift to the next available slot at no fee.
-- **Refund window:** Cancel at least 3 hours before landing for 100% refund; 50% retained for last-minute cancellations after driver dispatch.
+- **Flight tracking:** Share your flight number so the control room tracks delay and alerts the driver.
+- **Short delay buffer:** Slips under about 90 minutes usually keep the same car at no extra fee.
 - **Waiting charges:** After 30 minutes free wait, sedans bill ₹150/hour and SUVs ₹200/hour in 15-minute blocks.
-- **Night arrival buffer:** Share flight number so the control room tracks delay and alerts the driver automatically.
+- **Night arrivals:** Confirm the ₹300 night charge (10 PM–5 AM) in the WhatsApp quote before you fly.
 
-Keep a screenshot of the confirmation WhatsApp that lists fare, vehicle type, driver name, and refund clause; it helps in quick dispute resolution.
+Keep a screenshot of the confirmation WhatsApp that lists fare, vehicle type, and driver name.
 
 ---
 
@@ -209,8 +209,8 @@ Drivers hold placards near **Gate 3 inside the arrivals hall**, opposite the Cos
 ### 3. What is the late-night surcharge policy?
 A ₹300 night charge applies from 10 PM to 5 AM. Confirm any additional waiting time or an out-of-zone drop before booking.
 
-### 4. Can I get a refund if my flight is delayed or cancelled?
-Cancellations 3 hours before landing get a full refund. After dispatch, 50% covers driver time; delays under 90 minutes simply roll forward to the next slot at no extra cost.
+### 4. What happens if my flight is delayed?
+Share the flight number when you book. Delays under about 90 minutes usually roll free with the same driver. Longer delays are reconfirmed on WhatsApp before dispatch.
 
 ### 5. Is it safe to hire a taxi at night from Varanasi airport?
 Yes. Pre-booked operators give you driver ID, vehicle number, and live tracking. If you arrive without a booking, use the prepaid counter inside the terminal to avoid touts outside.
@@ -223,7 +223,7 @@ Yes. Pre-booked operators give you driver ID, vehicle number, and live tracking.
 
 ## Summary
 
-Booking a taxi from Varanasi airport is straightforward. A standard sedan is a fixed **₹899** to reach Assi or Dashashwamedh within 45 minutes. An Ertiga is **₹1,299**, an Innova **₹1,500**, and a 17-seater Tempo Traveller **₹2,500**. Share your flight details, screenshot the confirmation, and reconfirm the night or delay policy before you board.
+Booking a taxi from Varanasi airport is straightforward. A standard sedan is a fixed **₹899** to reach Assi or Dashashwamedh within 45 minutes. An Ertiga is **₹1,299**, an Innova **₹1,500**, and a 17-seater Tempo Traveller **₹2,500**. Share your flight details, screenshot the confirmation, and reconfirm night charge if you land after 10 PM.
 
 ## Going Beyond the City? Airport to Outstation Fares
 

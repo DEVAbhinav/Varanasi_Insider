@@ -167,7 +167,7 @@ Official reference:
 
 ## Kashi Taxi पर भरोसा क्यों करें
 
-- **1998 से सेवा**
+- **1982 से सेवा**
 - **local dispatch support**
 - **written confirmations**
 - **official vs rumor का साफ फर्क**

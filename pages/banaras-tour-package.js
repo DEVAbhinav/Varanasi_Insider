@@ -26,7 +26,7 @@ export default function BanarasTourPackagePage({ contentHtml }) {
           'Banaras tour packages with expert guides. 3-7 day spiritual journeys, transparent pricing, ghatside stays, airport transfers, and 24/7 support.',
         slogan: 'Authentic Banaras tours with local experts',
         telephone: CONTACT.callNumberE164,
-        email: 'taxiinvaranasiii@gmail.com',
+        email: 'sudhir.vinayaktravels@gmail.com',
         address: {
           '@type': 'PostalAddress',
           streetAddress: 'Vinayak Travels, Varanasi',

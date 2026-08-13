@@ -68,7 +68,7 @@ I've managed group pilgrimages where the eldest member was 87 and the youngest w
 
 This guide is based on the same operating model used across our airport, city-tour, and pilgrimage services:
 
-- **serving travelers since 1998** through the Vinayak Travels / Kashi Taxi operating setup
+- **serving travelers since 1982** through the Vinayak Travels / Kashi Taxi operating setup
 - **24x7 phone and WhatsApp coordination** for organizers before and during the trip
 - **police-verified drivers and commercial-permit vehicles**
 - **written confirmations** with fare and inclusion details before dispatch

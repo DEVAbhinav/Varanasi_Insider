@@ -26,7 +26,7 @@ export default function KasiTourPackagePage({ contentHtml }) {
           'Kasi tour package specialist: Kashi darshan, airport transfers, tempo traveller hire, multi-city spiritual circuits with local guides and 24/7 support.',
         slogan: 'Authentic Kasi darshan with trusted local guides',
         telephone: CONTACT.callNumberE164,
-        email: 'taxiinvaranasiii@gmail.com',
+        email: 'sudhir.vinayaktravels@gmail.com',
         address: {
           '@type': 'PostalAddress',
           streetAddress: 'Vinayak Travels, Varanasi',

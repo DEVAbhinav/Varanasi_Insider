@@ -456,7 +456,7 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 
 **Call/WhatsApp**: [+91 99354 74730](https://wa.me/919935474730?text=Ayodhya%20to%20Varanasi%20taxi%20booking)  
 **Alternate**: [+91 99354 74730](tel:+919935474730)  
-**Email**: taxiinvaranasiii@gmail.com  
+**Email**: sudhir.vinayaktravels@gmail.com  
 **Website**: [www.kashitaxi.in](https://www.kashitaxi.in/booking)
 
 ### Booking Process (3 Simple Steps)

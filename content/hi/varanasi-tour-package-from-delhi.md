@@ -57,7 +57,7 @@ faqSchema:
 
 दिल्ली-origin trip की असली मुश्किल local cab नहीं, सही package logic है। इसलिए हमारा focus यह रहता है:
 
-- **1998 से यात्रियों की सेवा**
+- **1982 से यात्रियों की सेवा**
 - **24x7 support via phone और WhatsApp**
 - **verified drivers और commercial-permit vehicles**
 - **booking से पहले written fare और inclusion confirmation**

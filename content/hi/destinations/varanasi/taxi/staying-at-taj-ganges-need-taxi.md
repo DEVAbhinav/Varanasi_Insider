@@ -261,7 +261,7 @@ aggregateRating:
 
 **आपातकालीन संपर्क:** +91-9935474730  
 **WhatsApp:** +91-9935474730  
-**ईमेल:** taxiinvaranasiii@gmail.com  
+**ईमेल:** sudhir.vinayaktravels@gmail.com  
 
 ### आपको जिन दस्तावेज़ों की आवश्यकता होगी:
 - वैध पासपोर्ट (हमेशा साथ रखें)
@@ -283,7 +283,7 @@ aggregateRating:
 
 **हमसे संपर्क करें:**
 - **WhatsApp:** +91-9935474730
-- **ईमेल:** taxiinvaranasiii@gmail.com
+- **ईमेल:** sudhir.vinayaktravels@gmail.com
 - **कॉल:** +91-9935474730
 
 ## ताज गंगेस अतिथियों के लिए संबंधित गाइड

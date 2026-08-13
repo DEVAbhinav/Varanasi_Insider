@@ -63,7 +63,7 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                 </div>
 
                 {/* Rate Cards Grid */}
-                <div className={`grid gap-4 md:gap-6 max-w-5xl mx-auto ${isCompact
+                <div className={`grid gap-x-4 gap-y-5 md:gap-6 max-w-5xl mx-auto ${isCompact
                     ? 'grid-cols-2 lg:grid-cols-4'
                     : 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-4'
                     }`}>
@@ -79,15 +79,15 @@ export default function TaxiRatesCheatSheet({ variant = 'full', showCTA = true }
                         >
                             {/* Popular badge */}
                             {card.popular && (
-                                <div className="absolute -top-3 left-1/2 -translate-x-1/2">
-                                    <span className="px-3 py-1 bg-gradient-to-r from-teal-500 to-cyan-500 text-white text-[10px] font-bold uppercase tracking-wider rounded-full shadow-md">
+                                <div className="absolute -top-2.5 left-1/2 -translate-x-1/2 z-10 w-max max-w-[95%]">
+                                    <span className="block whitespace-nowrap px-2.5 py-1 bg-gradient-to-r from-teal-500 to-cyan-500 text-white text-[9px] md:text-[10px] leading-none font-bold uppercase tracking-wide rounded-full shadow-md">
                                         Most Popular
                                     </span>
                                 </div>
                             )}
 
                             {/* Card Header */}
-                            <div className={`p-4 ${isCompact ? 'pb-3' : 'pb-4'} border-b border-gray-100`}>
+                            <div className={`p-4 ${card.popular ? 'pt-5' : ''} ${isCompact ? 'pb-3' : 'pb-4'} border-b border-gray-100`}>
                                 <div className="flex items-center gap-2 mb-1">
                                     <span className={`inline-flex items-center justify-center w-8 h-8 rounded-full ${card.highlight
                                         ? 'bg-cyan-100 text-cyan-600'

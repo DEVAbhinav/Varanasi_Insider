@@ -1,0 +1,605 @@
+.journey {
+  --ink: #f4ece2;
+  --muted: rgba(244, 236, 226, 0.62);
+  position: relative;
+  background: #0a0508;
+  color: var(--ink);
+  overflow: clip;
+}
+
+/* ---------------------------------------------------------------- intro */
+
+.journeyIntro {
+  position: relative;
+  z-index: 2;
+  max-width: 62rem;
+  margin: 0 auto;
+  padding: clamp(6rem, 14vh, 10rem) 1.5rem clamp(4rem, 9vh, 7rem);
+  text-align: center;
+  background:
+    radial-gradient(120% 90% at 50% 0%, rgba(214, 138, 62, 0.16), transparent 62%),
+    linear-gradient(180deg, #100710 0%, #0a0508 100%);
+}
+
+.preTitle {
+  margin: 0 0 1.4rem;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  color: rgba(246, 191, 122, 0.85);
+}
+
+.journeyIntro h2 {
+  margin: 0;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: clamp(2.4rem, 6.4vw, 4.6rem);
+  font-weight: 500;
+  line-height: 1.06;
+  letter-spacing: -0.022em;
+  color: #fdf6ec;
+}
+
+.journeyIntro h2 em {
+  font-style: italic;
+  background: linear-gradient(96deg, #ffd98d 0%, #f2a057 46%, #e5703f 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.introCopy {
+  margin: 1.6rem auto 0;
+  max-width: 34rem;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  font-size: clamp(1rem, 1.7vw, 1.12rem);
+  line-height: 1.75;
+  color: var(--muted);
+}
+
+.introLine {
+  margin: 2.8rem auto 0;
+  width: 1px;
+  height: 4.5rem;
+  background: linear-gradient(180deg, transparent, rgba(246, 191, 122, 0.55));
+  overflow: hidden;
+}
+
+.introLine span {
+  display: block;
+  width: 100%;
+  height: 40%;
+  background: #ffd08a;
+  animation: railFall 2.6s cubic-bezier(0.65, 0, 0.35, 1) infinite;
+}
+
+@keyframes railFall {
+  0% { transform: translateY(-110%); }
+  100% { transform: translateY(260%); }
+}
+
+/* ---------------------------------------------------------------- stage */
+
+.story {
+  position: relative;
+}
+
+.stage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100svh;
+  overflow: hidden;
+  z-index: 1;
+  background: #0a0508;
+}
+
+.stageFixed {
+  position: fixed;
+  top: 0;
+}
+
+.stageAfter {
+  top: auto;
+  bottom: 0;
+}
+
+.journeyCanvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.stageWash {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(46% 34% at 0% 100%, rgba(8, 4, 7, 0.62), transparent 72%),
+    radial-gradient(38% 26% at 100% 100%, rgba(8, 4, 7, 0.5), transparent 72%),
+    radial-gradient(34% 24% at 0% 0%, rgba(8, 4, 7, 0.5), transparent 74%),
+    radial-gradient(34% 24% at 100% 0%, rgba(8, 4, 7, 0.46), transparent 74%),
+    linear-gradient(180deg, rgba(10, 5, 8, 0.24) 0%, transparent 14%, transparent 74%, rgba(10, 5, 8, 0.28) 100%),
+    linear-gradient(90deg, rgba(10, 5, 8, 0.14) 0%, transparent 16%, transparent 84%, rgba(10, 5, 8, 0.14) 100%);
+}
+
+.stageWash::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: 0.1;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* ------------------------------------------------------------ stage HUD */
+
+.stageHeader {
+  position: absolute;
+  top: clamp(1.1rem, 3.4vh, 2.4rem);
+  left: clamp(1.1rem, 3.4vw, 2.6rem);
+  right: clamp(1.1rem, 3.4vw, 2.6rem);
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  pointer-events: none;
+}
+
+.liveLocation {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.42rem 0.9rem;
+  border: 1px solid rgba(255, 226, 178, 0.24);
+  border-radius: 999px;
+  background: rgba(14, 7, 10, 0.44);
+  backdrop-filter: blur(9px);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.19em;
+  text-transform: uppercase;
+  color: #ffe6bd;
+}
+
+.clock {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.34rem;
+  font-size: clamp(1.1rem, 2.4vw, 1.5rem);
+  font-weight: 300;
+  letter-spacing: 0.08em;
+  color: rgba(255, 236, 208, 0.92);
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.6);
+}
+
+.clock small {
+  font-size: 0.56rem;
+  letter-spacing: 0.24em;
+  color: rgba(255, 226, 178, 0.55);
+}
+
+.sceneCount {
+  position: absolute;
+  right: clamp(1.1rem, 3.4vw, 2.6rem);
+  bottom: clamp(1.2rem, 4vh, 2.6rem);
+  z-index: 3;
+  display: flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  font-family: var(--font-lora), Georgia, serif;
+  color: rgba(255, 235, 205, 0.5);
+  pointer-events: none;
+}
+
+.sceneCount strong {
+  font-size: clamp(1.9rem, 4.4vw, 2.9rem);
+  font-weight: 500;
+  color: #ffe0a6;
+}
+
+.sceneCount span {
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+}
+
+/* --------------------------------------------------------- progress rail */
+
+.progressRail {
+  position: absolute;
+  left: clamp(1.1rem, 3.4vw, 2.6rem);
+  bottom: clamp(1.2rem, 4vh, 2.6rem);
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.progressRail button {
+  display: grid;
+  grid-template-columns: 1.6rem 2.6rem auto;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 0.18rem 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  color: rgba(255, 235, 205, 0.42);
+  transition: color 0.35s ease;
+}
+
+.progressRail button:hover,
+.progressRail button:focus-visible {
+  color: rgba(255, 235, 205, 0.9);
+}
+
+.progressNumber {
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+}
+
+.progressTrack {
+  display: block;
+  height: 1px;
+  width: 100%;
+  background: rgba(255, 235, 205, 0.22);
+  overflow: hidden;
+}
+
+.progressTrack i {
+  display: block;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(90deg, #ffd08a, #ef8a4b);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.7s cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+.progressPlace {
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  opacity: 0.55;
+  transition: opacity 0.35s ease;
+}
+
+.activeProgress {
+  color: #ffe6bd !important;
+}
+
+.activeProgress .progressTrack i {
+  transform: scaleX(1);
+}
+
+.activeProgress .progressPlace {
+  opacity: 1;
+}
+
+/* ------------------------------------------------------------- chapters */
+
+.chapters {
+  position: relative;
+  z-index: 2;
+}
+
+.chapter {
+  /* Taller than the viewport so each chapter opens on a clean, unobstructed
+     view of the scene; the card only arrives once you have had a moment to
+     look, and clears again before the next scene takes over. */
+  min-height: 178svh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 clamp(1.2rem, 6vw, 6.5rem);
+  pointer-events: none;
+}
+
+.chapterRight {
+  justify-content: flex-end;
+}
+
+.storyCard {
+  position: relative;
+  pointer-events: auto;
+  width: min(30rem, 100%);
+  padding: clamp(1.6rem, 3.2vw, 2.5rem);
+  border-radius: 2px;
+  border: 1px solid rgba(255, 226, 178, 0.16);
+  background:
+    linear-gradient(155deg, rgba(24, 12, 14, 0.9) 0%, rgba(12, 6, 9, 0.86) 100%);
+  backdrop-filter: blur(16px) saturate(1.15);
+  box-shadow: 0 34px 90px -34px rgba(0, 0, 0, 0.95);
+  opacity: 0.24;
+  transform: translateY(34px);
+  transition: opacity 0.85s cubic-bezier(0.22, 1, 0.36, 1), transform 0.85s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.storyCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 100%;
+  background: linear-gradient(180deg, var(--accent), transparent 78%);
+}
+
+.activeCard {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.cardTop {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-bottom: 1.4rem;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+}
+
+.cardNumber {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  color: var(--accent);
+}
+
+.cardRule {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, rgba(255, 226, 178, 0.34), transparent);
+}
+
+.cardTime {
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  color: rgba(244, 236, 226, 0.5);
+}
+
+.chapterEyebrow {
+  margin: 0 0 0.55rem;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: rgba(244, 236, 226, 0.44);
+}
+
+.storyCard h3 {
+  margin: 0 0 1rem;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: clamp(1.7rem, 3.6vw, 2.4rem);
+  font-weight: 500;
+  line-height: 1.14;
+  letter-spacing: -0.018em;
+  color: #fdf6ec;
+}
+
+.chapterCopy {
+  margin: 0 0 1.6rem;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  font-size: clamp(0.94rem, 1.5vw, 1.02rem);
+  line-height: 1.78;
+  color: rgba(244, 236, 226, 0.74);
+}
+
+.senses {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.senses span {
+  padding: 0.34rem 0.8rem;
+  border: 1px solid rgba(255, 226, 178, 0.18);
+  border-radius: 999px;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  color: rgba(255, 226, 178, 0.78);
+  background: rgba(255, 226, 178, 0.05);
+}
+
+/* --------------------------------------------------------------- finale */
+
+.finale {
+  position: relative;
+  z-index: 2;
+  padding: clamp(6rem, 16vh, 11rem) 1.5rem clamp(5rem, 12vh, 8rem);
+  text-align: center;
+  background:
+    radial-gradient(90% 70% at 50% 24%, rgba(226, 141, 60, 0.2), transparent 66%),
+    linear-gradient(180deg, #0a0508 0%, #17090c 52%, #0a0508 100%);
+  overflow: hidden;
+}
+
+.finaleRings {
+  position: absolute;
+  top: clamp(3rem, 9vh, 6rem);
+  left: 50%;
+  translate: -50% 0;
+  width: min(30rem, 84vw);
+  aspect-ratio: 1;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+}
+
+.finaleRings span {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 196, 122, 0.2);
+  inset: 0;
+  animation: ringPulse 7s ease-in-out infinite;
+}
+
+.finaleRings span:nth-child(2) { inset: 16%; animation-delay: 1.1s; }
+.finaleRings span:nth-child(3) { inset: 32%; animation-delay: 2.2s; }
+
+.finaleRings i {
+  font-style: normal;
+  font-size: clamp(2.4rem, 6vw, 3.6rem);
+  color: rgba(255, 202, 132, 0.3);
+}
+
+@keyframes ringPulse {
+  0%, 100% { opacity: 0.25; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.045); }
+}
+
+.finaleContent {
+  position: relative;
+  z-index: 2;
+  max-width: 44rem;
+  margin: 0 auto;
+}
+
+.finaleTime {
+  margin: 0 0 1.3rem;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: rgba(246, 191, 122, 0.8);
+}
+
+.finale h2 {
+  margin: 0;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: clamp(2.1rem, 5.4vw, 3.7rem);
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.022em;
+  color: #fdf6ec;
+}
+
+.finale h2 em {
+  font-style: italic;
+  background: linear-gradient(96deg, #ffd98d, #ef8a4b);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.finaleCopy {
+  margin: 1.5rem auto 2.4rem;
+  max-width: 34rem;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  font-size: clamp(0.96rem, 1.6vw, 1.08rem);
+  line-height: 1.8;
+  color: rgba(244, 236, 226, 0.7);
+}
+
+.planButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 1rem 2rem;
+  border-radius: 999px;
+  font-family: var(--font-source-sans), system-ui, sans-serif;
+  font-size: 0.94rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: #240f06;
+  background: linear-gradient(96deg, #ffd98d 0%, #f2a057 52%, #e5703f 100%);
+  box-shadow: 0 18px 46px -16px rgba(242, 160, 87, 0.6);
+  text-decoration: none;
+  transition: transform 0.28s ease, box-shadow 0.28s ease;
+}
+
+.planButton:hover,
+.planButton:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 24px 58px -16px rgba(242, 160, 87, 0.75);
+}
+
+.finaleHindi {
+  position: relative;
+  z-index: 2;
+  margin: clamp(3rem, 8vh, 5rem) 0 0;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: clamp(0.9rem, 2vw, 1.15rem);
+  letter-spacing: 0.42em;
+  color: rgba(255, 202, 132, 0.42);
+}
+
+/* --------------------------------------------------- D3 animation hooks */
+
+.aStar, .aCloud, .aSun, .aMist, .aWater, .aBoat, .aBird, .aPetal,
+.aBell, .aRay, .aLantern, .aDust, .aSteam, .aFlag, .aLeaf, .aSmoke {
+  will-change: transform, opacity;
+}
+
+/* ---------------------------------------------------------- adaptations */
+
+@media (max-width: 900px) {
+  .chapter {
+    min-height: 168svh;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 0 1.1rem 14svh;
+  }
+
+  .chapterRight {
+    justify-content: center;
+  }
+
+  .storyCard {
+    width: 100%;
+  }
+
+  .progressRail {
+    flex-direction: row;
+    left: 1.1rem;
+    right: 1.1rem;
+    bottom: 1rem;
+    gap: 0.4rem;
+  }
+
+  .progressRail button {
+    grid-template-columns: 1fr;
+    gap: 0.3rem;
+    flex: 1;
+  }
+
+  .progressNumber,
+  .progressPlace {
+    display: none;
+  }
+
+  .sceneCount {
+    bottom: 2.4rem;
+    font-size: 0.7rem;
+  }
+
+  .sceneCount strong {
+    font-size: 1.5rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .introLine span,
+  .finaleRings span {
+    animation: none;
+  }
+
+  .storyCard {
+    transition: opacity 0.2s linear;
+    transform: none;
+  }
+}

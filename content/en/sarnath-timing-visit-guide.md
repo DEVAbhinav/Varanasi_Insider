@@ -699,7 +699,7 @@ Operational tips:
 📱 **WhatsApp "SARNATH TIMING"**: **+91 99354 74730**  
 📞 **Call for Custom Timing**: **+91 99354 74730**
 
-**27+ Years Experience** | **4.8★ Google Rating** | **Timing Specialists**
+**44+ Years Experience** | **4.8★ Google Rating** | **Timing Specialists**
 
 > **Related Guides:**
 > - [Sarnath Complete Guide](/en/sarnath-complete-guide)

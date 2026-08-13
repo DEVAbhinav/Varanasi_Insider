@@ -244,7 +244,7 @@ const getHomeSchema = (site) => ({
           acceptedAnswer: {
             '@type': 'Answer',
             text:
-              'Kashi Taxi (operated by Vinayak Travels) is rated among the best taxi services in Varanasi with a 4.8★ Google rating from 312 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.',
+              'Kashi Taxi (operated by Vinayak Travels) is rated among the best taxi services in Varanasi with a 4.8★ Google rating from 191 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.',
           },
         },
         {

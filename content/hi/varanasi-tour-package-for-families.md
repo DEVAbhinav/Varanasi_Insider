@@ -76,7 +76,7 @@ faqSchema:
 
 ## Kashi Taxi पर भरोसा क्यों करें
 
-- **1998 से सेवा**
+- **1982 से सेवा**
 - **24x7 WhatsApp और फोन support**
 - **police-verified drivers**
 - **written confirmation**

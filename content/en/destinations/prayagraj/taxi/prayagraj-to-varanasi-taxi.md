@@ -352,7 +352,7 @@ Even with **30+ daily trains**, timing can feel tight if Sangam bathing runs lat
 
 **Call/WhatsApp**: [+91 99354 74730](https://wa.me/919935474730?text=Prayagraj%20to%20Varanasi%20same-day%20circuit%20taxi)  
 **Alternate**: [+91 99354 74730](tel:+919935474730)  
-**Email**: taxiinvaranasiii@gmail.com  
+**Email**: sudhir.vinayaktravels@gmail.com  
 **Website**: [www.kashitaxi.in](https://www.kashitaxi.in/booking)
 
 ### Special Same-Day Circuit Package

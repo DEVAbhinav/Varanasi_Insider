@@ -263,7 +263,7 @@ In Varanasi we drop you right at what you came for:
 
 ## Why book with Kashi Taxi
 
-- Serving Varanasi travellers since **1998** (Vinayak Travels)
+- Serving Varanasi travellers since **1982** (Vinayak Travels)
 - Verified local drivers (Hindi and English)
 - Fixed fare confirmed on WhatsApp before you pay
 - Live location sharing for your family

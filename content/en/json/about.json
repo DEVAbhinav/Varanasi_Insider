@@ -10,7 +10,7 @@
         "@type": "Person",
         "name": "Sudhir Pandey"
       },
-      "foundingDate": "1998",
+      "foundingDate": "1982",
       "url": "https://www.kashitaxi.in/",
       "logo": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg",
       "image": "https://www.kashitaxi.in/images/posts/about-banarasi-kashitaxi.jpg",
@@ -19,16 +19,16 @@
       "email": "sudhir.vinayaktravels@gmail.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "L 10/125, Shastri Nagar (near IP Mall), Sigra/Chetganj",
+        "streetAddress": "L 10/125, Shastri Nagar (near IP Mall), Sigra",
         "addressLocality": "Varanasi",
         "addressRegion": "UP",
-        "postalCode": "221002",
+        "postalCode": "221010",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "25.3105",
-        "longitude": "82.9874"
+        "latitude": "25.315282",
+        "longitude": "82.989593"
       },
       "areaServed": [
         "Varanasi",

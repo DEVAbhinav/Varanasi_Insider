@@ -192,7 +192,7 @@ Arrival का romance अलग चीज है। सुबह 6 बजे ba
 
 ## Kashi Taxi पर भरोसा क्यों करें
 
-- **1998 से local सेवा**
+- **1982 से local सेवा**
 - **written WhatsApp confirmation**
 - **hotel belt की practical understanding**
 - **police-verified drivers**

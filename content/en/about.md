@@ -3,20 +3,20 @@ title: "About Kashi Taxi: Trusted Varanasi Taxis (2026)"
 slug: "about"
 date: "2026-07-15"
 author: "Utkarsh Pandey"
-description: "Meet Kashi Taxi, a family-run Varanasi taxi service (operated by Vinayak Travels) since 1998. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
+description: "Meet Kashi Taxi, a family-run Varanasi taxi service (operated by Vinayak Travels) since 1982. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/aboutUs.svg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/about"
 tags: ["about us", "our story", "Varanasi taxi", "Vinayak Travels Tour", "safe taxi Varanasi"]
-metaTitle: "About Us | Kashi Taxi | Trusted Varanasi Taxi Service Since 1998"
+metaTitle: "About Us | Kashi Taxi | Trusted Varanasi Taxi Service Since 1982"
 metaDescription: "Discover the story of Kashi Taxi, a family-run Varanasi taxi service operated by Vinayak Travels. Reliable airport transfers, Pink Taxis for women, and custom tours."
 ---
 
 # नमस्ते! I’m Utkarsh Pandey—Here’s Our Story 🚖✨
 
-> **TL;DR:** Kashi Taxi (operated by Vinayak Travels) is a family-run Varanasi taxi network that has grown from one Ambassador in 1998 to GPS-tracked airport shuttles, Pink Taxis, and curated Buddhist circuits. Expect transparent fares, locally trained chauffeurs, and a 24x7 helpline anchored by the Pandey family. Scroll for services, values, and booking contacts.
+> **TL;DR:** Kashi Taxi (operated by Vinayak Travels) is a family-run Varanasi taxi network that has grown from one Ambassador in 1982 to GPS-tracked airport shuttles, Pink Taxis, and curated Buddhist circuits. Expect transparent fares, locally trained chauffeurs, and a 24x7 helpline anchored by the Pandey family. Scroll for services, values, and booking contacts.
 
-I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into a lifeline for pilgrims landing at Varanasi Junction. What began as a modest **Vinayak Travels Tour** counter in 1998 is now **Kashi Taxi**: a family-run fleet serving travellers across Uttar Pradesh and Bihar, with special focus on women‑only Pink Taxis and curated Buddhist Circuit tours.
+I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into a lifeline for pilgrims landing at Varanasi Junction. What began as a modest **Vinayak Travels Tour** counter in 1982 is now **Kashi Taxi**: a family-run fleet serving travellers across Uttar Pradesh and Bihar, with special focus on women‑only Pink Taxis and curated Buddhist Circuit tours.
 
 ![Women-driven Pink Taxi in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/lady-taxi.jpeg "Women-driven Pink Taxi in Varanasi")
 
@@ -71,7 +71,7 @@ I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into
 
 ## Milestones That Matter
 
-* **1998** – Vinayak Travels Tour founded with one Ambassador.  
+* **1982** – Vinayak Travels Tour founded with one Ambassador.  
 * **2010** – First online airport‑pickup booking via SMS!  
 * **2018** – Fleet expands; self‑drive scooter rentals launch.  
 * **2023** – Pink Taxi service for women travellers inaugurated on Holi.  
@@ -81,7 +81,7 @@ I grew up watching my father **Sudhir Pandey** turn a single Ambassador car into
 
 ## Praise from Our Guests
 
-- ⭐ **4.8/5** rating from 312 Google reviews ([see them on Google](https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA))
+- ⭐ **4.8/5** rating from 191 Google reviews ([see them on Google](https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA))
 - Hundreds of pilgrims, families and solo women travellers served every season across Varanasi and nearby circuits.
 
 ---

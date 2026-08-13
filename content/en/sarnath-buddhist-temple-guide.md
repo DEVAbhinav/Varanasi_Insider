@@ -765,7 +765,7 @@ For devotees wanting to stay close to **Sarnath temples** for multi-day spiritua
 📱 **WhatsApp "SARNATH TEMPLES"**: **+91 94503 01573**  
 📞 **Call**: **+91 99354 74730**
 
-**27+ Years Serving Buddhist Pilgrims** | **4.8★ Google Rating** | **Multilingual Drivers** | **No Hidden Charges**
+**44+ Years Serving Buddhist Pilgrims** | **4.8★ Google Rating** | **Multilingual Drivers** | **No Hidden Charges**
 
 > **Related Guides:**
 > - [Sarnath Complete Guide](/en/sarnath-complete-guide)

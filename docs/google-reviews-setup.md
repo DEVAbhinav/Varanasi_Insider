@@ -69,9 +69,9 @@ This implementation provides dynamic Google Business reviews for the Travel Agen
 ## Business Information
 
 - **Business Name**: Vinayak Travels
-- **Place ID**: `ChIJFf691_wt44kREP5WvW4bBtI`
+- **Place ID**: `ChIJFf7XW_wtjjkRL_xW7xSLBtI`
 - **Google Maps**: https://maps.app.goo.gl/gbmqXgHE8Nzq5NrbA
-- **Coordinates**: 25.287133678944816, 82.94264689837131
+- **Coordinates**: 25.315282, 82.989593
 
 ## Cost Considerations
 

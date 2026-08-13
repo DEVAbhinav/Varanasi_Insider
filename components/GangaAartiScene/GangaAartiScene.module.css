@@ -1,0 +1,413 @@
+.scene {
+  position: relative;
+  width: 100%;
+  height: 100svh;
+  min-height: 680px;
+  overflow: hidden;
+  color: #fff8e8;
+  background: #050715;
+  isolation: isolate;
+}
+
+.canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  cursor: crosshair;
+  touch-action: manipulation;
+}
+
+.grain {
+  position: absolute;
+  inset: -50%;
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.075;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.55'/%3E%3C/svg%3E");
+  animation: grainShift 0.25s steps(2) infinite;
+}
+
+.topBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 4;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: max(24px, env(safe-area-inset-top)) clamp(22px, 5vw, 80px) 20px;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 11px;
+  color: #fff8e8;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.65);
+}
+
+.brandMark {
+  display: grid;
+  width: 39px;
+  height: 39px;
+  place-items: center;
+  border: 1px solid rgba(255, 218, 151, 0.55);
+  border-radius: 50%;
+  color: #ffd27f;
+  font-size: 22px;
+  line-height: 1;
+  background: rgba(25, 8, 25, 0.35);
+  box-shadow: inset 0 0 18px rgba(255, 128, 49, 0.1), 0 4px 22px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(9px);
+}
+
+.motionButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 42px;
+  padding: 0 16px;
+  border: 1px solid rgba(255, 233, 192, 0.28);
+  border-radius: 999px;
+  color: rgba(255, 248, 232, 0.88);
+  background: rgba(10, 7, 24, 0.35);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(14px);
+  font: 600 11px/1 var(--font-source-sans), sans-serif;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  transition: border-color 180ms ease, background 180ms ease, transform 180ms ease;
+  cursor: pointer;
+}
+
+.motionButton:hover {
+  border-color: rgba(255, 208, 118, 0.62);
+  background: rgba(51, 18, 31, 0.52);
+  transform: translateY(-1px);
+}
+
+.motionButton:focus-visible,
+.brand:focus-visible {
+  outline: 2px solid #ffd176;
+  outline-offset: 4px;
+}
+
+.motionIcon {
+  display: grid;
+  width: 20px;
+  height: 20px;
+  place-items: center;
+  color: #ffd176;
+  font-size: 9px;
+}
+
+.copy {
+  position: absolute;
+  z-index: 3;
+  left: clamp(24px, 7vw, 116px);
+  bottom: clamp(76px, 10vh, 116px);
+  width: min(590px, calc(100vw - 48px));
+  pointer-events: none;
+  text-shadow: 0 3px 28px rgba(3, 2, 12, 0.88);
+}
+
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 19px;
+  color: #f5cc91;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+}
+
+.eyebrow span {
+  display: block;
+  width: 42px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #f3b85d);
+}
+
+.copy h1 {
+  max-width: 620px;
+  margin: 0;
+  color: #fff9ee;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: clamp(44px, 5.1vw, 82px);
+  font-weight: 400;
+  letter-spacing: -0.045em;
+  line-height: 0.98;
+}
+
+.copy h1 em {
+  color: #f4c57c;
+  font-weight: 400;
+}
+
+.intro {
+  max-width: 490px;
+  margin: 24px 0 0;
+  color: rgba(255, 244, 222, 0.74);
+  font-family: var(--font-source-sans), sans-serif;
+  font-size: clamp(14px, 1.3vw, 17px);
+  font-weight: 400;
+  line-height: 1.65;
+  letter-spacing: 0.015em;
+}
+
+.ceremonyMeta {
+  display: flex;
+  gap: clamp(22px, 3vw, 48px);
+  margin-top: 30px;
+}
+
+.ceremonyMeta div {
+  display: grid;
+  gap: 2px;
+}
+
+.ceremonyMeta strong {
+  color: #f6ce91;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.ceremonyMeta span {
+  color: rgba(255, 244, 222, 0.46);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.riverPrompt {
+  position: absolute;
+  z-index: 4;
+  right: clamp(22px, 5vw, 80px);
+  bottom: clamp(28px, 6vh, 64px);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: rgba(255, 239, 209, 0.66);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  text-shadow: 0 2px 12px #000;
+  pointer-events: none;
+}
+
+.promptDot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #ffb143;
+  box-shadow: 0 0 0 5px rgba(255, 177, 67, 0.12), 0 0 20px #f37932;
+  animation: promptPulse 2s ease-in-out infinite;
+}
+
+.scrollCue {
+  position: absolute;
+  z-index: 4;
+  left: 50%;
+  bottom: 21px;
+  display: grid;
+  justify-items: center;
+  gap: 9px;
+  width: 90px;
+  transform: translateX(-50%);
+}
+
+.scrollCue small {
+  color: rgba(255, 244, 222, 0.52);
+  font-size: 7px;
+  font-weight: 700;
+  letter-spacing: 0.23em;
+  text-transform: uppercase;
+}
+
+.scrollCue span {
+  display: block;
+  width: 1px;
+  height: 38px;
+  overflow: hidden;
+  background: linear-gradient(#ffd084, rgba(255, 208, 132, 0));
+  animation: scrollFall 2.3s ease-in-out infinite;
+}
+
+.star,
+.priestFigure,
+.aartiLamp,
+.ceremonyFlame,
+.smoke,
+.ripple,
+.reflection,
+.diya,
+.diyaFlame,
+.ember {
+  will-change: transform, opacity;
+}
+
+.skyLayer,
+.glowLayer,
+.platformLayer,
+.priestsLayer,
+.riverLayer,
+.reflectionsLayer,
+.diyaLayer,
+.foregroundLayer,
+.embersLayer,
+.flameAura,
+.flameBody {
+  pointer-events: none;
+}
+
+.cityLayer,
+.stepsLayer {
+  filter: saturate(0.94);
+}
+
+.crowdLayer {
+  filter: saturate(0.86);
+}
+
+.glowLayer {
+  mix-blend-mode: screen;
+  opacity: 0.9;
+}
+
+.smoke {
+  mix-blend-mode: screen;
+}
+
+.offeredDiya {
+  filter: drop-shadow(0 0 14px rgba(255, 160, 55, 0.9));
+}
+
+.filmWash {
+  mix-blend-mode: color-dodge;
+}
+
+@keyframes grainShift {
+  0% { transform: translate(0, 0); }
+  25% { transform: translate(3%, -2%); }
+  50% { transform: translate(-2%, 3%); }
+  75% { transform: translate(2%, 2%); }
+  100% { transform: translate(-3%, -3%); }
+}
+
+@keyframes promptPulse {
+  0%, 100% { opacity: 0.45; transform: scale(0.8); }
+  50% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes scrollFall {
+  0% { transform: scaleY(0); transform-origin: top; opacity: 0; }
+  35% { opacity: 1; }
+  100% { transform: scaleY(1); transform-origin: top; opacity: 0; }
+}
+
+@media (max-width: 760px) {
+  .scene {
+    min-height: 640px;
+  }
+
+  .canvas {
+    width: 145%;
+    max-width: none;
+    left: -22%;
+  }
+
+  .topBar {
+    padding-inline: 18px;
+  }
+
+  .brand {
+    gap: 8px;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+  }
+
+  .brandMark {
+    width: 34px;
+    height: 34px;
+    font-size: 18px;
+  }
+
+  .motionButton {
+    min-height: 38px;
+    padding: 0 12px;
+    font-size: 9px;
+  }
+
+  .copy {
+    left: 22px;
+    bottom: 78px;
+    width: calc(100vw - 44px);
+  }
+
+  .copy h1 {
+    font-size: clamp(42px, 13vw, 64px);
+  }
+
+  .intro {
+    max-width: 390px;
+    margin-top: 18px;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+
+  .ceremonyMeta {
+    gap: 23px;
+    margin-top: 20px;
+  }
+
+  .riverPrompt {
+    right: 18px;
+    bottom: 22px;
+    font-size: 8px;
+  }
+
+  .scrollCue {
+    display: none;
+  }
+}
+
+@media (max-height: 720px) and (min-width: 761px) {
+  .copy {
+    bottom: 52px;
+  }
+
+  .copy h1 {
+    font-size: clamp(42px, 4.6vw, 68px);
+  }
+
+  .intro {
+    margin-top: 17px;
+  }
+
+  .ceremonyMeta {
+    margin-top: 18px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .grain,
+  .promptDot,
+  .scrollCue span {
+    animation: none;
+  }
+
+  .motionButton {
+    transition: none;
+  }
+}

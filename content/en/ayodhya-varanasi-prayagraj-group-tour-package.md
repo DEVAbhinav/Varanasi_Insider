@@ -84,7 +84,7 @@ All intercity legs are on national highways. The same vehicle and driver cover t
 
 This package works only when operations are tighter than the marketing copy. Our trust layer is simple and practical:
 
-- **serving travelers since 1998** through the same local operating setup used across the site
+- **serving travelers since 1982** through the same local operating setup used across the site
 - **24x7 WhatsApp and phone support** for the trip leader
 - **police-verified drivers and commercial-permit vehicles**
 - **written fare and inclusion confirmation** before the group locks the booking

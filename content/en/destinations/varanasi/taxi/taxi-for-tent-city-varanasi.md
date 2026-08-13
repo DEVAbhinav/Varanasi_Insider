@@ -262,7 +262,7 @@ Your Tent City stay costs ₹20,000–₹50,000+ per night. The last thing you n
 📞 **Call:** [99354 74730](tel:+919935474730)  
 📱 **WhatsApp:** [wa.me/919935474730](https://wa.me/919935474730?text=Book%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city)  
 🌐 **Book Online:** [kashitaxi.in](https://kashitaxi.in)  
-📧 **Email:** [taxiinvaranasiii@gmail.com](mailto:taxiinvaranasiii@gmail.com)
+📧 **Email:** [sudhir.vinayaktravels@gmail.com](mailto:sudhir.vinayaktravels@gmail.com)
 
 **Pre-book today. Arrive worry-free. Enjoy Tent City.**
 

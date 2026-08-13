@@ -902,7 +902,7 @@ The **monastery ruins** at Sarnath represent 1,500+ years of continuous Buddhist
 📱 **WhatsApp "SARNATH TOUR"**: **+91 94503 01573**  
 📞 **Call for Custom Itinerary**: **+91 99354 74730**
 
-**27+ Years Experience** | **4.8★ Google Rating** | **Buddhist Site Specialists**
+**44+ Years Experience** | **4.8★ Google Rating** | **Buddhist Site Specialists**
 
 > **Related Attraction Guides:**
 > - [Sarnath Complete Guide](/en/sarnath-complete-guide)

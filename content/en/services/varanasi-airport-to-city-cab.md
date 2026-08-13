@@ -189,7 +189,7 @@ Use these links for detailed turn-by-turn routes, ghat barricade intel, and back
 
 ## Proof of Trust & Safety
 
-- **Experience since 1998:** Family-run Kashi Taxi dispatches 150+ monthly airport-to-city cabs with <1% reassignments.
+- **Experience since 1982:** Family-run Kashi Taxi dispatches 150+ monthly airport-to-city cabs with <1% reassignments.
 - **Police-verified drivers:** IDs and permits are kept in our records and shared on WhatsApp before pickup to reduce tout risk.
 - **Dual-language support:** Hindi + English dispatch desk, plus Tamil/Bengali-speaking drivers on request for pilgrimage charters.
 - **Live compliance log:** Night rides share GPS link + SOS contact; copies stored for 30 days in case guests need proof for insurance.

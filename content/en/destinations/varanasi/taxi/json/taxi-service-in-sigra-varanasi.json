@@ -90,7 +90,7 @@
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.7",
-      "reviewCount": "312",
+      "reviewCount": "191",
       "bestRating": "5",
       "worstRating": "1"
     }

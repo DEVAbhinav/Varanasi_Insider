@@ -515,6 +515,6 @@ Your Tent City transfer needs clean timing more than big claims: the right vehic
 📞 **Call:** [99354 74730](tel:+919935474730)  
 📱 **WhatsApp:** [wa.me/919935474730](https://wa.me/919935474730?text=Luxury%20Tent%20City%20transfer&utm_source=website&utm_medium=cta&utm_campaign=tent-city)  
 🌐 **Website:** [kashitaxi.in](https://kashitaxi.in)  
-📧 **Email:** [taxiinvaranasiii@gmail.com](mailto:taxiinvaranasiii@gmail.com)
+📧 **Email:** [sudhir.vinayaktravels@gmail.com](mailto:sudhir.vinayaktravels@gmail.com)
 
 **Pre-book your Innova Crysta for a coordinated Tent City arrival.**

@@ -52,13 +52,18 @@ faqSchema:
 > - **Cab-led plans** usually start around a private sedan day rate of **₹1,800–₹2,500** (hotel stay quoted separately if you want us to arrange it).
 > - Built for families booking for parents or grandparents who need **hotel-first comfort, easier movement and slower pacing**.
 > - Default shape: **2 nights / 3 days** — not a rushed overnight.
+> - We plan for **practical access and calmer flow**, and stay honest about where temple lanes still mean steps or short walks.
 > - Banaras wisdom: devotion grows with patience, but knee pain grows faster, so the itinerary should know the difference.
 
 {{CTA:CITY_TOUR:en}}
 
 Many elder travelers do not need a bigger package. They need a **smarter** one.
 
-The real question is not “can parents visit Varanasi?” — it is how to do Kashi without turning devotion into strain. This package is built around that.
+I've coordinated trips where a 78-year-old father finished Kashi Vishwanath darshan, a boat ride, and Sarnath in two calm days — and told his son it was the best trip of his life. The difference wasn't luxury. It was pacing, lane access planning, and knowing which temple has wheelchair-width corridors and which has 47 steps with no rail.
+
+The useful question is not "can parents visit Varanasi?" The real question is:
+
+"How do we make Kashi possible without turning devotion into physical strain?"
 
 ## Indicative package cost (transport-led)
 
@@ -217,7 +222,7 @@ One rushed night often creates more stress than one extra night costs.
 
 ## Why Trust Kashi Taxi for Elder Planning
 
-- **serving travelers since 1998**
+- **serving travelers since 1982**
 - **written confirmations and practical trip notes**
 - **police-verified drivers and commercial-permit vehicles**
 - **real on-ground knowledge of where elders usually struggle**
@@ -253,3 +258,4 @@ Need Sarnath: yes/no
 - Need Varanasi-only family package: [Varanasi Tour Package for Families](/en/varanasi-tour-package-for-families)
 - Need hotel-led planning: [Varanasi Tour Package with Hotel](/en/varanasi-tour-package-with-hotel)
 - Need temple + Aarti guide: [Kashi Vishwanath Darshan + Ganga Aarti Package](/en/kashi-vishwanath-darshan-ganga-aarti-package)
+{{CTA:CITY_TOUR:en}}

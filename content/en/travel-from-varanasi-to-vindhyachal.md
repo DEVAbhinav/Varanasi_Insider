@@ -133,7 +133,7 @@ This comparison is most useful when you're still deciding between taxi, train, b
 For hassle-free transport arrangements with experienced drivers familiar with temple locations and optimal timing:
 
 📞 **WhatsApp:** +91 94503 01573  
-📧 **Email:** taxiinvaranasiii@gmail.com
+📧 **Email:** sudhir.vinayaktravels@gmail.com
 
 *All vehicles come with commercial permits, experienced drivers, and transparent pricing.*
 

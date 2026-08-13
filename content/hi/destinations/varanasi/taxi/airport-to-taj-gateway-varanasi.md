@@ -168,7 +168,7 @@ aggregateRating:
 **बुकिंग से पहले प्रश्न?**
 
 - **WhatsApp:** +91-9935474730
-- **Email:** taxiinvaranasiii@gmail.com
+- **Email:** sudhir.vinayaktravels@gmail.com
 - **कॉल:** +91-9935474730
 
 हम आपके वाराणसी आगमन को सुचारू और तनाव-मुक्त बनाने के लिए 24/7 यहां हैं।

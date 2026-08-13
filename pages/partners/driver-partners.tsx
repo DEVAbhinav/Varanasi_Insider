@@ -69,7 +69,7 @@ export default function DriverPartnersPage() {
                   Submit your photo via WhatsApp
                 </a>
                 <a
-                  href="mailto:taxiinvaranasiii@gmail.com?subject=Driver%20profile%20update"
+                  href="mailto:sudhir.vinayaktravels@gmail.com?subject=Driver%20profile%20update"
                   className="inline-flex items-center gap-2 rounded-full border border-white/30 px-4 py-2 text-white hover:bg-white/10 transition"
                 >
                   Email ops for updates
@@ -170,7 +170,7 @@ export default function DriverPartnersPage() {
                 WhatsApp ops now
               </a>
               <a
-                href="mailto:taxiinvaranasiii@gmail.com?subject=Driver%20profile%20update"
+                href="mailto:sudhir.vinayaktravels@gmail.com?subject=Driver%20profile%20update"
                 className="inline-flex items-center gap-2 rounded-full border border-slate-900/40 px-4 py-2 text-slate-900 font-semibold hover:bg-white/40 transition"
               >
                 Email your details

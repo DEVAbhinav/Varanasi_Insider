@@ -170,7 +170,7 @@ Room अच्छा होना काफी नहीं। approach road, li
 
 ## Kashi Taxi पर भरोसा क्यों करें
 
-- **1998 से सेवा**
+- **1982 से सेवा**
 - **written confirmations**
 - **police-verified drivers**
 - **lane access और elder pain points की local understanding**

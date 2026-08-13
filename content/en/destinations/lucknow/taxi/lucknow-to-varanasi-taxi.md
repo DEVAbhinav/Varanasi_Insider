@@ -278,7 +278,7 @@ For solo budget travel, train is usually cheapest. For families with luggage, el
 
 **Call/WhatsApp:** [+91 99354 74730](https://wa.me/919935474730?text=Lucknow%20to%20Varanasi%20taxi%20-%20Need%20quote)  
 **Alternate:** [+91 99354 74730](tel:+919935474730)  
-**Email:** taxiinvaranasiii@gmail.com  
+**Email:** sudhir.vinayaktravels@gmail.com  
 **Website:** [www.kashitaxi.in](https://www.kashitaxi.in)
 
 ## Related Lucknow to Varanasi Taxi Searches
