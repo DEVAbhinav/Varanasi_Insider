@@ -2,7 +2,7 @@
   "gscDate": "2026-07-30",
   "gscMatched": 559,
   "gscAnchorMatched": 19,
-  "totalNodes": 619,
+  "totalNodes": 620,
   "footer": {
     "en": [
       {
@@ -41,7 +41,7 @@
           },
           {
             "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-            "label": "Varanasi to Kathmandu Taxi"
+            "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500"
           },
           {
             "href": "/en/varanasi-to-ayodhya-taxi",
@@ -117,7 +117,7 @@
           },
           {
             "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-            "label": "Kashi Gaya Prayag Pind Daan Tour"
+            "label": "Kashi Gaya Prayag Pind Daan Tour Package from…"
           },
           {
             "href": "/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
@@ -167,7 +167,7 @@
           },
           {
             "href": "/en/varanasi-to-bodhgaya-taxi-cost",
-            "label": "Varanasi to Bodh Gaya Distance & Taxi Fare 2026"
+            "label": "Varanasi to Bodhgaya Taxi Fare from ₹5,004"
           },
           {
             "href": "/en/city/varanasi/taxi/taxi-service-varanasi-cantt-station",
@@ -197,11 +197,11 @@
           },
           {
             "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-            "label": "Varanasi to Naimisharanya Tempo Traveller"
+            "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500"
           },
           {
             "href": "/en/tempo-traveller-varanasi",
-            "label": "Tempo Traveller in Varanasi"
+            "label": "Tempo Traveller Varanasi Hire from ₹2,500"
           },
           {
             "href": "/en/12-seater-tempo-traveller-varanasi",
@@ -303,7 +303,7 @@
           },
           {
             "href": "/hi/varanasi-day-tour-cab-charges",
-            "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…"
+            "label": "वाराणसी डे टूर कैब किराया ₹1,800 से"
           },
           {
             "href": "/hi/varanasi-to-ayodhya-taxi",
@@ -552,7 +552,7 @@
         },
         {
           "href": "/en/morning-boat-ride-varanasi-price",
-          "label": "Morning Boat Ride Varanasi"
+          "label": "Morning Boat Ride Varanasi Price from ₹80"
         },
         {
           "href": "/en/services/varanasi-full-day-city-tour-winter-2026",
@@ -622,7 +622,7 @@
         },
         {
           "href": "/en/17-seater-tempo-traveller-varanasi",
-          "label": "17‑Seater Tempo Traveller in Varanasi"
+          "label": "17 Seater Tempo Traveller Varanasi Hire"
         },
         {
           "href": "/en/packages/varanasi-tour-package",
@@ -661,12 +661,12 @@
     "/en/12-seater-tempo-traveller-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -693,12 +693,12 @@
     "/en/17-seater-tempo-traveller-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -725,12 +725,12 @@
     "/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -927,7 +927,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -937,12 +937,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -959,7 +959,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -1045,7 +1045,7 @@
     "/en/banaras-tour-package": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -1205,12 +1205,12 @@
     "/en/bodhgaya-rajgir-nalanda-tempo-traveller-tour": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -1225,7 +1225,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -1247,7 +1247,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -1257,24 +1257,24 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
     "/en/buddhist-circuit-tour-tempo-traveller-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -1289,7 +1289,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -1301,12 +1301,12 @@
     "/en/corporate-group-tempo-traveller-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -1557,12 +1557,12 @@
     "/en/force-urbania-hire-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -1990,7 +1990,7 @@
     "/en/kashi-darshan-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -2010,7 +2010,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -2064,7 +2064,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -2150,7 +2150,7 @@
     "/en/kasi-tour-package": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -2256,7 +2256,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -2266,24 +2266,24 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
     "/en/luxury-maharaja-tempo-traveller-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -2399,7 +2399,7 @@
       },
       {
         "href": "/en/city/varanasi/activities/84-ghats-boat-tour-varanasi",
-        "label": "84 Ghats Boat Tour in Varanasi",
+        "label": "84 Ghats Boat Tour Varanasi Price from ₹3,000",
         "reason": "related"
       }
     ],
@@ -2544,7 +2544,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -2554,19 +2554,19 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
     "/en/pilgrimage-yatra-tours-tempo-traveller-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -2586,7 +2586,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -2635,7 +2635,7 @@
       },
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -2650,7 +2650,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -2982,7 +2982,7 @@
     "/en/senior-citizen-varanasi-tour-package": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -3071,14 +3071,14 @@
       },
       {
         "href": "/en/city/varanasi/activities/84-ghats-boat-tour-varanasi",
-        "label": "84 Ghats Boat Tour in Varanasi",
+        "label": "84 Ghats Boat Tour Varanasi Price from ₹3,000",
         "reason": "related"
       }
     ],
     "/en/tempo-traveller-booking-guide-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -3098,7 +3098,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -3110,7 +3110,7 @@
     "/en/tempo-traveller-group-booking-dussehra": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -3130,7 +3130,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -3142,12 +3142,12 @@
     "/en/tempo-traveller-rates-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -3174,12 +3174,12 @@
     "/en/tempo-traveller-safety-features-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -3206,7 +3206,7 @@
     "/en/tempo-traveller-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -3238,12 +3238,12 @@
     "/en/tempo-traveller-vs-mini-bus-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -3270,12 +3270,12 @@
     "/en/tempo-traveller-vs-multiple-cars-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -3302,12 +3302,12 @@
     "/en/tempo-traveller-wedding-varanasi": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -3339,7 +3339,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -3504,7 +3504,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -3514,12 +3514,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -3536,7 +3536,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -3546,19 +3546,19 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
     "/en/varanasi-airport-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -3578,7 +3578,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -3632,7 +3632,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -3642,12 +3642,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -3686,7 +3686,7 @@
     "/en/varanasi-group-tour-package": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -4070,12 +4070,12 @@
     "/en/varanasi-to-allahabad-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -4102,7 +4102,7 @@
     "/en/varanasi-to-ayodhya-12-seater-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -4122,7 +4122,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -4134,7 +4134,7 @@
     "/en/varanasi-to-ayodhya-day-trip-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -4154,7 +4154,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -4176,7 +4176,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -4186,7 +4186,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
@@ -4198,7 +4198,7 @@
     "/en/varanasi-to-ayodhya-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -4213,7 +4213,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -4240,7 +4240,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -4250,24 +4250,24 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
     "/en/varanasi-to-bodhgaya-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -4294,12 +4294,12 @@
     "/en/varanasi-to-chitrakoot-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -4331,7 +4331,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -4363,7 +4363,7 @@
       },
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -4378,7 +4378,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -4390,12 +4390,12 @@
     "/en/varanasi-to-kushinagar-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -4422,7 +4422,7 @@
     "/en/varanasi-to-lucknow-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -4442,7 +4442,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -4454,7 +4454,7 @@
     "/en/varanasi-to-naimisharanya-tempo-traveller": [
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -4491,7 +4491,7 @@
       },
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -4506,7 +4506,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -4528,7 +4528,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -4538,7 +4538,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
@@ -4555,7 +4555,7 @@
       },
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -4570,7 +4570,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -4582,12 +4582,12 @@
     "/en/varanasi-to-ram-janmabhoomi-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -4614,12 +4614,12 @@
     "/en/varanasi-to-ram-mandir-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -4646,12 +4646,12 @@
     "/en/varanasi-to-sarnath-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -4678,12 +4678,12 @@
     "/en/varanasi-to-triveni-sangam-tempo-traveller": [
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "rescue"
       },
       {
@@ -4752,22 +4752,22 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
-        "reason": "related"
-      },
-      {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
         "href": "/en/varanasi-to-ayodhya-taxi",
         "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
+        "reason": "related"
+      },
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
         "reason": "related"
       }
     ],
@@ -4779,7 +4779,7 @@
       },
       {
         "href": "/en/varanasi-to-naimisharanya-tempo-traveller",
-        "label": "Varanasi to Naimisharanya Tempo Traveller",
+        "label": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
         "reason": "rescue"
       },
       {
@@ -4794,7 +4794,7 @@
       },
       {
         "href": "/en/tempo-traveller-varanasi",
-        "label": "Tempo Traveller in Varanasi",
+        "label": "Tempo Traveller Varanasi Hire from ₹2,500",
         "reason": "related"
       },
       {
@@ -4806,7 +4806,7 @@
     "/en/varanasi-tour-package-for-families": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -4843,7 +4843,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -4875,7 +4875,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -5104,7 +5104,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -5136,7 +5136,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -5158,7 +5158,7 @@
     "/en/packages/shradh-pind-daan-package-varanasi": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -5222,7 +5222,7 @@
     "/en/packages/varanasi-tour-package": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -5271,7 +5271,7 @@
     "/en/bus/kashi-yatra-south-india-bus-package": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -5313,7 +5313,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -5409,7 +5409,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -5441,7 +5441,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -5857,7 +5857,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -5867,12 +5867,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -5889,7 +5889,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -5899,12 +5899,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -5921,7 +5921,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -6004,6 +6004,38 @@
         "reason": "related"
       }
     ],
+    "/en/services/varanasi-government-approved-guide": [
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
+        "reason": "book"
+      },
+      {
+        "href": "/en/packages/varanasi-tour-package",
+        "label": "Varanasi Tour Package 2026",
+        "reason": "book"
+      },
+      {
+        "href": "/en/varanasi-weather-guide",
+        "label": "Varanasi Weather Guide",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/kashi-vs-varanasi-vs-banaras",
+        "label": "Kashi vs Varanasi vs Banaras",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/jagannath-rath-yatra-varanasi-2026",
+        "label": "Jagannath Rath Yatra in Varanasi, 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/en/sarnath-timing-visit-guide",
+        "label": "Sarnath Temple Timing 2026",
+        "reason": "related"
+      }
+    ],
     "/en/services/varanasi-prayagraj-tour-package": [
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
@@ -6017,7 +6049,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -6049,7 +6081,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -6059,12 +6091,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -6113,7 +6145,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -6123,12 +6155,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -7233,7 +7265,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -7398,7 +7430,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -8097,7 +8129,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -8134,7 +8166,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -8796,7 +8828,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -8865,7 +8897,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -9153,7 +9185,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -9377,7 +9409,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -10497,7 +10529,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -10529,7 +10561,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10539,12 +10571,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10561,7 +10593,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10571,7 +10603,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
@@ -10593,7 +10625,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10603,12 +10635,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10625,7 +10657,7 @@
       },
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "related"
       },
       {
@@ -10657,7 +10689,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10667,12 +10699,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10689,7 +10721,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10699,12 +10731,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10721,7 +10753,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10731,12 +10763,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10753,7 +10785,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10763,12 +10795,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10790,7 +10822,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10800,7 +10832,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       }
     ],
@@ -10822,7 +10854,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10832,7 +10864,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       }
     ],
@@ -10849,7 +10881,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10859,12 +10891,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10881,7 +10913,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10891,12 +10923,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10913,7 +10945,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10923,12 +10955,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10945,7 +10977,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10955,12 +10987,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -10977,7 +11009,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -10986,13 +11018,13 @@
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       },
       {
-        "href": "/en/varanasi-to-ayodhya-taxi",
-        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
         "reason": "related"
       }
     ],
@@ -11009,7 +11041,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -11019,12 +11051,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -11041,7 +11073,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -11051,12 +11083,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -11073,7 +11105,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -11083,12 +11115,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -11110,7 +11142,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -11120,7 +11152,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       }
     ],
@@ -11142,7 +11174,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -11152,7 +11184,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       }
     ],
@@ -11169,7 +11201,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -11179,12 +11211,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -11201,7 +11233,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -11211,12 +11243,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -11238,17 +11270,17 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
-        "reason": "related"
-      },
-      {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
         "href": "/en/varanasi-to-ayodhya-taxi",
         "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
+        "reason": "related"
+      },
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
         "reason": "related"
       }
     ],
@@ -11265,7 +11297,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -11275,12 +11307,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -11393,7 +11425,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -11403,12 +11435,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -11467,7 +11499,7 @@
       },
       {
         "href": "/en/city/varanasi/activities/84-ghats-boat-tour-varanasi",
-        "label": "84 Ghats Boat Tour in Varanasi",
+        "label": "84 Ghats Boat Tour Varanasi Price from ₹3,000",
         "reason": "related"
       },
       {
@@ -11499,7 +11531,7 @@
       },
       {
         "href": "/en/city/varanasi/activities/84-ghats-boat-tour-varanasi",
-        "label": "84 Ghats Boat Tour in Varanasi",
+        "label": "84 Ghats Boat Tour Varanasi Price from ₹3,000",
         "reason": "related"
       },
       {
@@ -15001,7 +15033,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15033,7 +15065,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15065,7 +15097,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15129,7 +15161,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15161,7 +15193,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15193,7 +15225,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15225,7 +15257,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15262,7 +15294,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15294,7 +15326,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15321,7 +15353,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15353,7 +15385,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15385,7 +15417,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15417,7 +15449,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15449,7 +15481,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15481,7 +15513,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15513,7 +15545,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15545,7 +15577,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15582,7 +15614,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15614,7 +15646,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15641,7 +15673,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15673,7 +15705,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15705,7 +15737,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15737,7 +15769,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -15865,7 +15897,7 @@
       },
       {
         "href": "/hi/varanasi-day-tour-cab-charges",
-        "label": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+        "label": "वाराणसी डे टूर कैब किराया ₹1,800 से",
         "reason": "related"
       },
       {
@@ -19209,7 +19241,7 @@
     "/banaras-tour-package": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -19379,7 +19411,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -19389,7 +19421,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
@@ -19401,7 +19433,7 @@
     "/kasi-tour-package": [
       {
         "href": "/en/kashi-gaya-prayag-pind-daan-tour",
-        "label": "Kashi Gaya Prayag Pind Daan Tour",
+        "label": "Kashi Gaya Prayag Pind Daan Tour Package from…",
         "reason": "rescue"
       },
       {
@@ -19475,7 +19507,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -19485,12 +19517,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ],
@@ -19507,7 +19539,7 @@
       },
       {
         "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
-        "label": "Varanasi to Nepal Taxi 2026",
+        "label": "Varanasi to Nepal Taxi Fare from ₹3,000",
         "reason": "related"
       },
       {
@@ -19517,12 +19549,12 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
         "reason": "related"
       },
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/en/varanasi-to-ayodhya-taxi",
+        "label": "Varanasi to Ayodhya Taxi Fare ₹3,820",
         "reason": "related"
       }
     ]
@@ -19544,7 +19576,7 @@
     },
     "/en/17-seater-tempo-traveller-varanasi": {
       "lang": "en",
-      "title": "17‑Seater Tempo Traveller in Varanasi – Group Cab from ₹27/km (2026 Rates)",
+      "title": "17 Seater Tempo Traveller Varanasi Hire | Rates from ₹3,000",
       "anchor": "Tempo Traveller 17 Seater in Varanasi Price",
       "category": "vehicle",
       "productType": "vehicle",
@@ -19554,7 +19586,7 @@
       "clicks": 14,
       "impressions": 350,
       "position": 7,
-      "score": 132
+      "score": 133
     },
     "/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi": {
       "lang": "en",
@@ -20188,8 +20220,8 @@
     },
     "/en/kashi-gaya-prayag-pind-daan-tour": {
       "lang": "en",
-      "title": "Kashi Gaya Prayag Pind Daan Tour: Tempo Traveller Itinerary & Ritual Guide (2026)",
-      "anchor": "Kashi Gaya Prayag Pind Daan Tour",
+      "title": "Kashi Gaya Prayag Pind Daan Tour Package from ₹31,000 | Book",
+      "anchor": "Kashi Gaya Prayag Pind Daan Tour Package from…",
       "category": "tour-packages",
       "productType": "tour_package",
       "destination": null,
@@ -20384,7 +20416,7 @@
     },
     "/en/morning-boat-ride-varanasi-price": {
       "lang": "en",
-      "title": "Morning Boat Ride Varanasi: Sunrise Ghat Views from ₹80-1800",
+      "title": "Morning Boat Ride Varanasi Price from ₹80 | Book Sunrise Boat",
       "anchor": "Assi Ghat Boat Ride Price",
       "category": "activities",
       "productType": "boat",
@@ -20394,7 +20426,7 @@
       "clicks": 54,
       "impressions": 3136,
       "position": 6,
-      "score": 348
+      "score": 349
     },
     "/en/motor-boat-varanasi": {
       "lang": "en",
@@ -20804,8 +20836,8 @@
     },
     "/en/tempo-traveller-varanasi": {
       "lang": "en",
-      "title": "Tempo Traveller in Varanasi: Rates, Fleet & Booking [2026]",
-      "anchor": "Tempo Traveller in Varanasi",
+      "title": "Tempo Traveller Varanasi Hire from ₹2,500 | 9–26 Seater Rates",
+      "anchor": "Tempo Traveller Varanasi Hire from ₹2,500",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -20814,7 +20846,7 @@
       "clicks": 7,
       "impressions": 399,
       "position": 9.1,
-      "score": 120
+      "score": 121
     },
     "/en/tempo-traveller-vs-mini-bus-varanasi": {
       "lang": "en",
@@ -20958,7 +20990,7 @@
     },
     "/en/varanasi-airport-taxi-price-guide": {
       "lang": "en",
-      "title": "Varanasi Airport Taxi Fare 2026: Fixed-Price Cabs from ₹899",
+      "title": "Varanasi Airport Taxi Fare 2026: Fixed Cabs from ₹899",
       "anchor": "Varanasi Airport Taxi Price",
       "category": "taxi",
       "productType": "route_taxi",
@@ -21010,7 +21042,7 @@
       "clicks": 4,
       "impressions": 423,
       "position": 9.1,
-      "score": 108
+      "score": 109
     },
     "/en/varanasi-family-homestay-4bhk-sigra": {
       "lang": "en",
@@ -21094,7 +21126,7 @@
       "clicks": 4,
       "impressions": 474,
       "position": 6,
-      "score": 55
+      "score": 54
     },
     "/en/varanasi-in-monsoon-july-september-2026": {
       "lang": "en",
@@ -21276,7 +21308,7 @@
       "clicks": 15,
       "impressions": 6486,
       "position": 7.7,
-      "score": 259
+      "score": 260
     },
     "/en/varanasi-to-ayodhya-tempo-traveller": {
       "lang": "en",
@@ -21294,8 +21326,8 @@
     },
     "/en/varanasi-to-bodhgaya-taxi-cost": {
       "lang": "en",
-      "title": "Varanasi to Bodh Gaya Distance & Taxi Fare 2026: Same-Day Trip Guide",
-      "anchor": "Varanasi to Bodh Gaya Distance & Taxi Fare 2026",
+      "title": "Varanasi to Bodhgaya Taxi Fare from ₹5,004 | Book Cab",
+      "anchor": "Varanasi to Bodhgaya Taxi Fare from ₹5,004",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": null,
@@ -21304,7 +21336,7 @@
       "clicks": 10,
       "impressions": 3916,
       "position": 6.2,
-      "score": 187
+      "score": 188
     },
     "/en/varanasi-to-bodhgaya-tempo-traveller": {
       "lang": "en",
@@ -21392,8 +21424,8 @@
     },
     "/en/varanasi-to-naimisharanya-tempo-traveller": {
       "lang": "en",
-      "title": "Varanasi to Naimisharanya Tempo Traveller | 1N/2D Chakra Yatra",
-      "anchor": "Varanasi to Naimisharanya Tempo Traveller",
+      "title": "Varanasi to Naimisharanya Tempo Traveller ₹21,500 | Hire",
+      "anchor": "Varanasi to Naimisharanya Tempo Traveller ₹21,500",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -21402,7 +21434,7 @@
       "clicks": 6,
       "impressions": 1696,
       "position": 8.9,
-      "score": 142
+      "score": 143
     },
     "/en/varanasi-to-prayagraj-kumbh-tempo-traveller": {
       "lang": "en",
@@ -21588,7 +21620,7 @@
     },
     "/en/varanasi-transport-price-guide-2026": {
       "lang": "en",
-      "title": "Varanasi Transport Price Guide 2026: Fare Cheatsheet & Scam Shields",
+      "title": "Varanasi Transport Price Guide 2026 | Taxi, Auto & Boat Fare Hub",
       "anchor": "Varanasi Transport Price Guide 2026",
       "category": "guide",
       "productType": "guide",
@@ -21598,7 +21630,7 @@
       "clicks": 56,
       "impressions": 3250,
       "position": 4.8,
-      "score": 318
+      "score": 319
     },
     "/en/varanasi-travel-agent": {
       "lang": "en",
@@ -21738,7 +21770,7 @@
       "clicks": 3,
       "impressions": 544,
       "position": 10.3,
-      "score": 108
+      "score": 107
     },
     "/en/bus/kashi-prayagraj-ayodhya-south": {
       "lang": "en",
@@ -21952,8 +21984,8 @@
     },
     "/en/services/kashi-vishwanath-darshan-senior-citizen-wheelchair": {
       "lang": "en",
-      "title": "Kashi Vishwanath Darshan for Senior Citizens & Wheelchair Access | Assistance & Booking",
-      "anchor": "Kashi Vishwanath Darshan for Senior Citizens &…",
+      "title": "Kashi Vishwanath Senior & Wheelchair Darshan ₹500 | Book",
+      "anchor": "Kashi Vishwanath Senior & Wheelchair Darshan ₹500",
       "category": "guide",
       "productType": "guide",
       "destination": null,
@@ -21962,7 +21994,7 @@
       "clicks": 23,
       "impressions": 684,
       "position": 6.7,
-      "score": 134
+      "score": 136
     },
     "/en/services/kashi-vishwanath-rudrabhishek-puja-booking": {
       "lang": "en",
@@ -22089,6 +22121,20 @@
       "impressions": 291,
       "position": 10.4,
       "score": 82
+    },
+    "/en/services/varanasi-government-approved-guide": {
+      "lang": "en",
+      "title": "Varanasi Government Approved Guide 2026 | Hire Licensed Local Guide ₹2,000/Day",
+      "anchor": "Varanasi Government Approved Guide 2026",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
     },
     "/en/services/varanasi-prayagraj-tour-package": {
       "lang": "en",
@@ -23086,8 +23132,8 @@
     },
     "/hi/varanasi-day-tour-cab-charges": {
       "lang": "hi",
-      "title": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के दर्शनीय स्थलों के पैकेज",
-      "anchor": "वाराणसी डे टूर कैब शुल्‍क (2026) - पूरे दिन के…",
+      "title": "वाराणसी डे टूर कैब किराया ₹1,800 से | लोकल साइटसीइंग बुकिंग",
+      "anchor": "वाराणसी डे टूर कैब किराया ₹1,800 से",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": null,
@@ -23096,7 +23142,7 @@
       "clicks": 30,
       "impressions": 6494,
       "position": 6,
-      "score": 318
+      "score": 320
     },
     "/hi/varanasi-family-homestay-4bhk-sigra": {
       "lang": "hi",
@@ -23352,7 +23398,7 @@
     },
     "/hi/varanasi-to-ayodhya-taxi": {
       "lang": "hi",
-      "title": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820 | राम मंदिर कैब बुकिंग",
+      "title": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820 | राम मंदिर कैब",
       "anchor": "वाराणसी से अयोध्या टैक्सी किराया ₹3,820",
       "category": "taxi",
       "productType": "route_taxi",
@@ -23506,8 +23552,8 @@
     },
     "/hi/varanasi-to-prayagraj-taxi": {
       "lang": "hi",
-      "title": "वाराणसी से प्रयागराज दूरी 2026: 120 किमी, टैक्सी किराया और समय",
-      "anchor": "वाराणसी से प्रयागराज दूरी 2026",
+      "title": "वाराणसी से प्रयागराज टैक्सी किराया ₹2,500 | संगम कैब बुकिंग",
+      "anchor": "वाराणसी से प्रयागराज टैक्सी किराया ₹2,500",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": null,
@@ -23516,7 +23562,7 @@
       "clicks": 0,
       "impressions": 803,
       "position": 7.9,
-      "score": 85
+      "score": 86
     },
     "/hi/varanasi-to-prayagraj-tempo-traveller": {
       "lang": "hi",
@@ -24244,7 +24290,7 @@
       "clicks": 0,
       "impressions": 9,
       "position": 6.9,
-      "score": 69
+      "score": 68
     },
     "/en/city/gaya/taxi/gaya-to-varanasi-taxi": {
       "lang": "en",
@@ -24332,8 +24378,8 @@
     },
     "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi": {
       "lang": "en",
-      "title": "Varanasi to Kathmandu Taxi | Nepal Cross-Border | ₹8,500 | Kashi Taxi",
-      "anchor": "Varanasi to Kathmandu Taxi",
+      "title": "Varanasi to Kathmandu Taxi Fare from ₹8,500 | Book Cab",
+      "anchor": "Varanasi to Kathmandu Taxi Fare from ₹8,500",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": "kathmandu",
@@ -24342,7 +24388,7 @@
       "clicks": 34,
       "impressions": 3493,
       "position": 7.9,
-      "score": 275
+      "score": 276
     },
     "/en/city/khajuraho/taxi/varanasi-to-khajuraho-taxi": {
       "lang": "en",
@@ -24444,8 +24490,8 @@
     },
     "/en/city/nepal/taxi/varanasi-to-nepal-taxi": {
       "lang": "en",
-      "title": "Varanasi to Nepal Taxi 2026: Fare, Border Route & Travel Time",
-      "anchor": "Varanasi to Nepal Taxi 2026",
+      "title": "Varanasi to Nepal Taxi Fare from ₹3,000 | Lumbini & Kathmandu",
+      "anchor": "Varanasi to Nepal Taxi Fare from ₹3,000",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": "nepal",
@@ -24454,7 +24500,7 @@
       "clicks": 39,
       "impressions": 7688,
       "position": 5.6,
-      "score": 379
+      "score": 380
     },
     "/en/city/patna/taxi/varanasi-to-patna-taxi": {
       "lang": "en",
@@ -24482,7 +24528,7 @@
       "clicks": 0,
       "impressions": 124,
       "position": 6.1,
-      "score": 32
+      "score": 31
     },
     "/en/city/prayagraj/events/safe-taxi-magh-mela-seniors-families": {
       "lang": "en",
@@ -24528,8 +24574,8 @@
     },
     "/en/city/varanasi/activities/84-ghats-boat-tour-varanasi": {
       "lang": "en",
-      "title": "84 Ghats Boat Tour in Varanasi: Complete 2026 Guide & Pricing",
-      "anchor": "84 Ghats Boat Tour in Varanasi",
+      "title": "84 Ghats Boat Tour Varanasi Price from ₹3,000 | Book",
+      "anchor": "84 Ghats Boat Tour Varanasi Price from ₹3,000",
       "category": "activities",
       "productType": "boat",
       "destination": "varanasi",
@@ -24538,7 +24584,7 @@
       "clicks": 16,
       "impressions": 1703,
       "position": 7,
-      "score": 167
+      "score": 168
     },
     "/en/city/varanasi/activities/ganga-aarti-timing-varanasi-2026": {
       "lang": "en",
@@ -24846,7 +24892,7 @@
       "clicks": 50,
       "impressions": 1817,
       "position": 5.9,
-      "score": 301
+      "score": 306
     },
     "/en/city/varanasi/taxi/24-7-taxi-varanasi": {
       "lang": "en",
@@ -26372,7 +26418,7 @@
       "clicks": 0,
       "impressions": 9,
       "position": 7.9,
-      "score": 69
+      "score": 68
     },
     "/hi/city/kushinagar/taxi/varanasi-to-kushinagar-taxi": {
       "lang": "hi",
@@ -27842,7 +27888,7 @@
       "clicks": 0,
       "impressions": 44,
       "position": 15.7,
-      "score": 86
+      "score": 85
     },
     "/hi/city/varanasi/taxi/varanasi-to-prayagraj-taxi-fare": {
       "lang": "hi",
