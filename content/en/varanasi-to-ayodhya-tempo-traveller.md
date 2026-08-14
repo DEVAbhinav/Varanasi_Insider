@@ -1,11 +1,11 @@
 ---
 lang: en
-title: "Varanasi to Ayodhya Tempo Traveller Price List 2026 | 12 & 17 Seater Fare"
-metaTitle: "Varanasi to Ayodhya Tempo Traveller Price List 2026 | 12, 17 Seater"
-metaDescription: "Check Varanasi to Ayodhya tempo traveller price list for 2026. 12 seater from ₹14,500 and 17 seater from ₹15,500 for Ram Mandir day trips with tolls, parking and driver included."
+title: "Varanasi to Ayodhya Tempo Traveller Price List 2026"
+metaTitle: "Varanasi to Ayodhya Tempo Traveller Price List 2026"
+metaDescription: "Varanasi to Ayodhya Tempo Traveller price list: 12 seater from ₹14,500 and 17 seater from ₹15,500, including driver, fuel, tolls and parking."
 description: "The dedicated Kashi Taxi fare page for Varanasi to Ayodhya tempo traveller booking. Compare 12 and 17 seater prices, inclusions, itinerary timing and group-fit details."
 date: 2026-07-15
-lastUpdated: 2026-03-07
+lastUpdated: 2026-08-14
 tags:
   - ayodhya
   - varanasi to ayodhya tempo traveller
@@ -44,9 +44,11 @@ faqSchema:
     answer: "Yes. With a 5:00 AM departure from Varanasi, most groups can cover Ram Mandir, Hanuman Garhi, Kanak Bhavan and a food break in the same day, then return by late evening."
 ---
 
-# Varanasi to Ayodhya Tempo Traveller Price List 2026 | 12 & 17 Seater Fare
+# Varanasi to Ayodhya Tempo Traveller Price List 2026
 
 > **TL;DR:** Varanasi to Ayodhya tempo traveller same-day round trip starts from **₹14,500 for a 12 seater** and **₹15,500 for a 17 seater**, with driver, fuel, tolls, parking and taxes included.
+
+The road distance is about **220 km each way** and most groups should allow **4–5 hours per side**. A 5:00 AM pickup gives the best chance of completing Ram Mandir and Hanuman Garhi darshan before returning to Varanasi the same day.
 
 If your group is planning Ram Mandir darshan from Varanasi and you need the **group-vehicle price first**, this is the right page. It is built for families, senior pilgrims, temple committees, and friend groups who want one vehicle, one fare, and one clear Ayodhya schedule.
 

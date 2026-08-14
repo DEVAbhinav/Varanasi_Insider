@@ -1,12 +1,13 @@
 ---
 slug: "varanasi-airport-to-city-cab"
 lang: "en"
-title: "Varanasi Airport to City Cab (2026 Fixed Fares)"
+canonical: "https://www.kashitaxi.in/en/services/varanasi-airport-to-city-cab"
+title: "Varanasi Airport to City Cab Fare 2026"
 subtitle: "Airport-to-city cabs with transparent pricing, surge-proof booking, and driver meet & greet for every VNS arrival."
 description: "Book a Varanasi airport to city cab with 2026 fixed fares, live price grid, WhatsApp CTA, surge-protection FAQ, and quick links to every major arrival route including Assi, Dashashwamedh, Sarnath, and Cantt stations."
 keywords: ["airport to city cab varanasi","varanasi airport to city cab","taxi from varanasi airport to city","varanasi airport taxi fixed fare","varanasi airport to varanasi railway station taxi fare","airport to assi ghat taxi","vns airport cab fixed fare","dashashwamedh airport taxi","varanasi airport to city distance","varanasi airport to cantt station taxi"]
-metaTitle: "Varanasi Airport to City Cab 2026: Fixed Fares, All Ghats & Stations"
-metaDescription: "Varanasi airport to city cab at fixed 2026 fares — sedan from ₹700, no surge. Drops to Assi, Dashashwamedh, Cantt & City station, BHU and Sarnath. Book on WhatsApp."
+metaTitle: "Varanasi Airport to City Cab Fare 2026 | From ₹700"
+metaDescription: "Varanasi airport to city taxi fares start at ₹700 for a sedan. Compare fixed cab rates to Assi, Dashashwamedh, Cantt, BHU and Sarnath."
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/airport-taxi-600x400.jpeg"
 phone: "9935474730"
@@ -15,7 +16,7 @@ serviceCategory: "Airport Transfer"
 structuredData: true
 published: true
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-08-14"
 areaServed: ["Varanasi", "Assi Ghat", "Dashashwamedh Ghat", "Sarnath", "BHU", "Cantonment"]
 provider:
   name: "Kashi Taxi"
@@ -38,9 +39,9 @@ faq:
   - question: "How far is Varanasi airport to Kashi Vishwanath temple and what is the taxi fare?"
     answer: "Varanasi airport (LBS International, VNS) to Kashi Vishwanath Temple is 25 km. Taxi fare is ₹750–₹950 for a sedan and ₹1,250–₹1,500 for an Innova Crysta (2026 fixed rates). Travel time is 45–55 minutes. Drivers drop at Godowlia/Dasaswamedh Road — 5–8 min walk to the temple entrance — as the corridor is vehicle-free."
   - question: "What is the taxi fare from Varanasi airport to Varanasi railway station?"
-    answer: "Varanasi airport to Varanasi Junction (Cantt) is 22 km with a fixed sedan fare of ₹890–₹750 and Innova ₹1,200–₹1,400. For Banaras City Station (BCY/Manduadih), the distance is 21 km and fare is ₹700–₹900 sedan. Both include tolls, airport entry, and a 30-minute flight delay buffer."
+    answer: "Varanasi airport to Varanasi Junction (Cantt) is 22 km with a sedan fare of ₹750–₹890 and Innova fare of ₹1,200–₹1,400. For Banaras City Station (BCY/Manduadih), the distance is 21 km and the sedan fare is ₹700–₹900. Both include tolls, airport entry, and a 30-minute flight delay buffer."
   - question: "Do fares stay fixed during Dev Deepawali or other peak days?"
-    answer: "Yes. Festival blackout dates only pause the Flash ₹890 sedan but the published fare grid remains unchanged and every confirmation carries a Surge Shield note to block last-minute markups."
+    answer: "Yes. The published fare grid remains unchanged on festival dates, and every WhatsApp confirmation states the agreed fare to prevent last-minute markups."
   - question: "What if my flight is delayed beyond the 30-minute buffer?"
     answer: "Flights under 90-minute delay are absorbed for free. Beyond that we either keep the same driver at ₹100 per 15-minute standby or re-dispatch a new cab at no extra booking fee."
   - question: "Can I split payment or pay digitally?"
@@ -53,14 +54,14 @@ faq:
     answer: "Yes. Assi Ghat drops remain ₹700–₹950 for sedans and Dashashwamedh ₹750–₹950 with the final 200 metres on foot; drivers arrange barricade passes and Pink Taxi/porter handoffs when needed."
 ---
 
-# Varanasi Airport to City Cab (2026 Fixed Fares)
+# Varanasi Airport to City Cab Fare 2026
 
-> **TL;DR:** Book your taxi from Varanasi airport to city at fixed rates—₹700–₹950 sedan (Flash ₹890 weekday window), ₹1,050–₹1,550 SUVs, and ₹2,000–₹2,300 tempo Travellers. _Check varanasi airport to city taxi fare live rates below._ Every booking includes meet-and-greet at Gate 3, baggage assist, 30-minute flight delay buffer, and **surge protection even on Dev Deepawali, Mahashivratri, and New Year crowds.**
+> **TL;DR:** A Varanasi airport-to-city taxi costs **₹700–₹950 for a sedan**, **₹1,050–₹1,550 for an SUV or Innova**, and **₹2,000–₹2,300 for a 12-seater Tempo Traveller**. The fare includes tolls, airport entry, meet-and-greet and a 30-minute flight-delay buffer.
 
 ### 2026 Snapshot at a Glance
 
 - **Coverage:** Assi, Dashashwamedh, BHU, Lanka, Cantonment, Sigra, NaMo Ghat, Sarnath, Ramnagar, and all station drops.
-- **Fares:** Sedan ₹700–₹950 (Flash ₹890); Innova ₹1,250–₹1,550; Tempo Traveller ₹2,000–₹2,300.
+- **Fares:** Sedan ₹700–₹950; Innova ₹1,250–₹1,550; Tempo Traveller ₹2,000–₹2,300.
 - **Night Policy:** Flat +₹150 (sedan) / +₹200 (SUV) / already included for tempo; never more than published grid.
 - **Contact:** WhatsApp/Call **+91 99354 74730** with flight screenshot for instant confirmation.
 - **Reference:** Cross-check fares with the [Airport Taxi Price Guide](/en/varanasi-airport-taxi-price-guide) whenever you need the wider city transport matrix.
@@ -78,7 +79,7 @@ faq:
     <tbody>
       <tr>
         <td>Sedan (Dzire/Etios)</td>
-        <td>₹700 – ₹950 (Flash ₹890*)</td>
+        <td>₹700 – ₹950</td>
         <td>+₹150 after 21:00</td>
       </tr>
       <tr>
@@ -99,7 +100,6 @@ faq:
     </tbody>
   </table>
   <p class="note">Rates include tolls + airport entry. Pickup point: Arrivals Gate 3 beside Costa Coffee counter.</p>
-  <p class="note">*Flash fare valid for weekday sedan drops confirmed within 2 hours of pickup, capped at 15-minute standby, paused on festival blackout dates.</p>
   <p>
     <a class="cta-button" href="https://wa.me/919935474730?text=Lock%20Varanasi%20airport%20to%20city%20cab%20fare&source=website&medium=services&utm_source=website&utm_medium=service&utm_campaign=airport-to-city" rel="nofollow noopener" target="_blank">WhatsApp to lock today’s fare</a>
   </p>
@@ -142,7 +142,7 @@ Two stations serve Varanasi city; fares and distances differ:
 
 | Station | Distance | Travel Time | Sedan Fare | Innova Fare |
 |---|---|---|---|---|
-| Varanasi Junction (Cantt / DDU) | 22 km | 35–45 min | ₹890 Flash / ₹750 std | ₹1,200–₹1,400 |
+| Varanasi Junction (Cantt) | 22 km | 35–45 min | ₹750–₹890 | ₹1,200–₹1,400 |
 | Banaras City Station (BCY) / Manduadih | 21 km | 35–45 min | ₹700–₹900 | ₹1,200–₹1,400 |
 
 **Which station should I book a drop to?**  
@@ -228,7 +228,7 @@ Need a quote faster than email? Tap the WhatsApp button below, share your arriva
 ## Surge-Protection FAQ
 
 **Q1. Do fares stay fixed during Dev Deepawali or other peak days?**  
-Yes. Festival blackout dates only pause the Flash ₹890 sedan but our standard fare grid stays unchanged. Quotes issued on WhatsApp include a “Surge Shield” line so drivers cannot add extras on arrival.
+Yes. The published fare grid stays unchanged. Quotes issued on WhatsApp include the agreed fare so drivers cannot add extras on arrival.
 
 **Q2. What if my flight is delayed beyond the 30-minute buffer?**  
 We automatically track your flight. Delays under 90 minutes are free. After 90 minutes we either (a) keep the same driver at ₹100/15-minute standby or (b) re-dispatch the next available car with zero rebooking fee.

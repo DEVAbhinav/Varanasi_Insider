@@ -1,13 +1,14 @@
 ---
 lang: en
-title: "Varanasi to Chitrakoot Tempo Traveller | 2-Day Ramghat Circuit"
-metaTitle: "Varanasi to Chitrakoot Tempo Traveller: 1N/2D Ramghat Yatra ₹16,500"
-metaDescription: "Varanasi–Chitrakoot tempo traveller for the 1N/2D Ramghat circuit: 12-seater all-inclusive ₹16,500–₹18,500. Kamadgiri Parikrama, Hanuman Dhara, Gupt Godavari & Ramghat aarti. WhatsApp to reserve."
-description: "Cover Kamadgiri Parikrama, Hanuman Dhara, and Ramghat aarti with 1N Traveller support, driver rotation, and ₹18k transparent pricing—WhatsApp to reserve."
+title: "Varanasi to Chitrakoot Tempo Traveller Price 2026"
+metaTitle: "Varanasi to Chitrakoot Tempo Traveller Price 2026"
+metaDescription: "Varanasi to Chitrakoot Tempo Traveller costs ₹16,500–₹18,500 for a 12-seater 1N/2D trip. See distance, inclusions and the 2-day itinerary."
+description: "Compare the 2026 Varanasi to Chitrakoot Tempo Traveller price, 270 km route, 1N/2D itinerary and vehicle options for a comfortable pilgrimage."
 slug: varanasi-to-chitrakoot-tempo-traveller
+canonical: https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-08-14
 tags: [chitrakoot, varanasi to chitrakoot, tempo traveller, pilgrimage, kamadgiri parikrama, ramghat]
 keywords: ["varanasi to chitrakoot tempo traveller","chitrakoot from varanasi tempo traveller","varanasi to chitrakoot itinerary","kamadgiri parikrama tempo traveller","chitrakoot tour 2 day from varanasi","varanasi to chitrakoot distance","hanuman dhara chitrakoot yatra"]
 relatedPosts:
@@ -30,13 +31,15 @@ faqSchema:
 featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 ---
 
-# Varanasi to Chitrakoot Tempo Traveller – 2 Day Pilgrimage Itinerary & Package (2026)
+# Varanasi to Chitrakoot Tempo Traveller Price & 2-Day Trip (2026)
 
 > **Quick Trip Facts**
 > - **Distance:** ~270 km (6–7 hours) via Prayagraj.
 > - **Recommended Duration:** 2 Days / 1 Night (Same-day is too exhausting).
 > - **Key Stops:** Kamadgiri Parikrama, Ramghat Aarti, Hanuman Dhara, Gupt Godavari.
 > - **Est. Fare (12 Seater):** ₹16,500–₹18,500 (All-inclusive for 2 days).
+
+A **12-seater Tempo Traveller from Varanasi to Chitrakoot costs about ₹16,500–₹18,500** for the recommended 1-night/2-day trip. Chitrakoot is roughly **270–285 km from Varanasi** and takes **6–7 hours each way**, so a same-day return is possible but not recommended.
 
 ## Varanasi to Chitrakoot Tempo Traveller Trip Photos
 
