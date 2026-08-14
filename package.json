@@ -8,14 +8,14 @@
     "dev:api": "cd api && func start --port 7071",
     "dev:mcp": "node mcp-server/index.mjs",
     "dev:full": "./dev-start.sh",
-    "build": "next build",
+    "build": "next build && cp -R .next/static .next/standalone/.next/ && cp -R public .next/standalone/ && find .next/standalone -name '*.nft.json' -type f -delete",
     "postbuild": "npm run generate-sitemap",
     "start": "next start",
     "start:mcp": "node mcp-server/index.mjs",
     "lint": "next lint",
     "generate-sitemap": "node scripts/generate-sitemap.js",
     "update:breadcrumbs": "node scripts/update-jsonld-breadcrumbs.js",
-    "prebuild": "npm run generate-link-graph",
+    "prebuild": "npm run generate-link-graph && npm run generate-sitemap",
     "generate-link-graph": "node scripts/generate-link-graph.js"
   },
   "dependencies": {

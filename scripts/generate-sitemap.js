@@ -78,7 +78,8 @@ function getPageRoutes(dir, baseRoute = '') {
   const routes = [];
   for (const entry of entries) {
     if (entry.isDirectory()) {
-      if (['api'].includes(entry.name) || entry.name.startsWith('_') || entry.name.startsWith('[')) continue;
+      // `tools` holds internal, noindex staff utilities — never advertise them.
+      if (['api', 'tools'].includes(entry.name) || entry.name.startsWith('_') || entry.name.startsWith('[')) continue;
       routes.push(...getPageRoutes(path.join(dir, entry.name), path.join(baseRoute, entry.name)));
     } else if (/(\.(js|jsx|ts|tsx))$/i.test(entry.name) && !entry.name.startsWith('_') && !entry.name.startsWith('[')) {
       // Skip backup or draft files (e.g., index.backup.js) so they don't leak into sitemap

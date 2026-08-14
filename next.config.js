@@ -197,6 +197,11 @@ function dedupeRedirects(redirects) {
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Azure Static Web Apps limits hybrid Next.js deployments to 250 MiB.
+  // Standalone output traces only production runtime dependencies instead of
+  // shipping the full development dependency tree.
+  output: 'standalone',
+
   // Force no trailing slashes to prevent duplicate content
   trailingSlash: false,
 

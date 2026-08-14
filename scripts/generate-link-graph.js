@@ -156,7 +156,8 @@ function collectPageRoutes(dir, base = '') {
   const routes = [];
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     if (entry.isDirectory()) {
-      if (entry.name === 'api' || entry.name.startsWith('_') || entry.name.startsWith('[')) continue;
+      // Internal tools are deliberately excluded from public SEO navigation.
+      if (['api', 'tools'].includes(entry.name) || entry.name.startsWith('_') || entry.name.startsWith('[')) continue;
       routes.push(...collectPageRoutes(path.join(dir, entry.name), path.join(base, entry.name)));
     } else if (/\.(js|jsx|ts|tsx)$/i.test(entry.name) && !entry.name.startsWith('_') && !entry.name.startsWith('[')) {
       if (entry.name.includes('.backup.') || entry.name.endsWith('.d.ts')) continue;
