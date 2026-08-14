@@ -74,20 +74,11 @@ export default function ContentPageLayout({
             {/* Sidebar booking widget */}
             {!hideSidebar && (
               <aside className="lg:col-span-4">
-                <div className="hidden lg:block">
-                  <SidebarBookingWidget pageTitle={pageTitle} pageUrl={pageUrl} />
-                </div>
+                <SidebarBookingWidget pageTitle={pageTitle} pageUrl={pageUrl} />
               </aside>
             )}
           </div>
         </div>
-
-        {/* Mobile: Fixed bottom booking widget */}
-        {!hideSidebar && (
-          <div className="lg:hidden">
-            <SidebarBookingWidget pageTitle={pageTitle} pageUrl={pageUrl} />
-          </div>
-        )}
 
         {/* FAQ Accordion (auto-skips if body already has FAQ) */}
         <ContentEnhancements.Bottom html={contentHtml} faqSchema={faqSchema} />

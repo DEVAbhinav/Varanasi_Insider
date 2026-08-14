@@ -18,7 +18,7 @@ import FaqAccordion from './FaqAccordion';
 
 function useEnhancementData(html) {
   const headings = extractHeadings(html || '');
-  const bodyHasFaq = /<h[23][^>]*>.*?(?:FAQ|Frequently Asked)/i.test(html || '');
+  const bodyHasFaq = /<h[23][^>]*>.*?(?:FAQs?|Frequently Asked|अक्सर पूछे|सामान्य सवाल|आम सवाल)/i.test(html || '');
   return { headings, bodyHasFaq };
 }
 

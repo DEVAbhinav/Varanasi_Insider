@@ -5,6 +5,7 @@ date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Naval Kishore"
 lang: en-IN
+canonical: "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2026"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/assi-aarti-evening-P.jpeg"
 metaTitle: "Assi Ghat Evening Aarti – Current Sandhya Timing & Crowd Tips"
 metaDescription: "Evening Sandhya Aarti at Assi Ghat: today’s timing, best arrival buffer, what to carry, and taxi/boat options."

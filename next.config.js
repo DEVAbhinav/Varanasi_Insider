@@ -290,7 +290,17 @@ const nextConfig = {
       },
       {
         source: '/en/assi-ghat-aarti-time',
-        destination: '/en/assi-ghat-evening-aarti-time',
+        destination: '/en/assi-ghat-aarti-timings-2026',
+        permanent: true,
+      },
+      {
+        source: '/en/assi-ghat-morning-aarti-time',
+        destination: '/en/assi-ghat-aarti-timings-2026',
+        permanent: true,
+      },
+      {
+        source: '/en/assi-ghat-evening-aarti-time',
+        destination: '/en/assi-ghat-aarti-timings-2026',
         permanent: true,
       },
       {

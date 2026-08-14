@@ -5,6 +5,7 @@ date: "2026-07-15"
 lastUpdated: "2026-03-07"
 author: "Naval Kishore"
 lang: en-IN
+canonical: "https://www.kashitaxi.in/en/assi-ghat-aarti-timings-2026"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-sunrise.jpeg"
 metaTitle: "Assi Ghat Morning Aarti – Subah-e-Banaras Timings & Tips"
 metaDescription: "Plan Subah-e-Banaras at Assi Ghat: live morning aarti timings, arrival tips, yoga add-ons, and taxi pickups."
