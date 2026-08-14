@@ -8,7 +8,7 @@
     "dev:api": "cd api && func start --port 7071",
     "dev:mcp": "node mcp-server/index.mjs",
     "dev:full": "./dev-start.sh",
-    "build": "next build && cp -R .next/static .next/standalone/.next/ && mkdir -p .next/standalone/public && rsync -a --exclude='images/sales-visuals/' public/ .next/standalone/public/ && find .next/standalone -name '*.nft.json' -type f -delete",
+    "build": "next build && cp -R .next/static .next/standalone/.next/ && mkdir -p .next/standalone/public && rsync -a --exclude='images/sales-visuals/' public/ .next/standalone/public/ && rm -rf .next/standalone/public/images/sales-visuals && find .next/standalone -name '*.nft.json' -type f -delete",
     "postbuild": "npm run generate-sitemap",
     "start": "next start",
     "start:mcp": "node mcp-server/index.mjs",
