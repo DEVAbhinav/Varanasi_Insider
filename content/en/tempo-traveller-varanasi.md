@@ -51,6 +51,13 @@ faqSchema:
 
 ## Tempo Traveller Hire: Quick Fare Table
 
+<figure class="sales-section-visual" data-sales-visual="en-tempo-traveller-varanasi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697629/kashitaxi/sales-visuals/en-tempo-traveller-varanasi-1.webp" alt="Tempo Traveller Hire: Quick Fare Table — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Tempo Traveller Hire: Quick Fare Table. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Route / Service | 12-Seater | 17-Seater | Per-head (12 pax) |
 |---|---:|---:|---:|
 | Airport/Station pickup | ₹2,500 | ₹3,000 | ₹208 |
@@ -68,6 +75,13 @@ faqSchema:
 Full 2026 price breakdown: [Tempo Traveller Rates Varanasi](/en/tempo-traveller-rates-varanasi).
 
 ## Vehicle Photos
+
+<figure class="sales-section-visual" data-sales-visual="en-tempo-traveller-varanasi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697630/kashitaxi/sales-visuals/en-tempo-traveller-varanasi-2.webp" alt="Vehicle Photos — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Vehicle Photos. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 ![Tempo Traveller — outside front](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg "Tempo Traveller fleet — representative image")
 

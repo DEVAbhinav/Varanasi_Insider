@@ -97,6 +97,13 @@ location:
 > **Fixed Fare:** ₹890 sedan drop — one honest all-inclusive rate (weekday, non-festival, 15-minute standby, corridor-ready). No surge, no "starts low then extra".
 
 ## Best Varanasi Airport to Kashi Vishwanath Temple route
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-kashi-vishwanath-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697600/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-kashi-vishwanath-taxi-1.webp" alt="Best Varanasi Airport to Kashi Vishwanath Temple route — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Best Varanasi Airport to Kashi Vishwanath Temple route. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 Take the airport exit toward Ring Road, merge onto the Harhua flyover, and continue straight to Lahartara. From Lahartara, follow the Godowlia corridor approach; security marshals allow pre-booked taxis to the barricade behind the Kashi Vishwanath Corridor entrance. If Lahartara is closed during VIP movement, detour via Nadesar and Sigra to rejoin at Godowlia. Evenings before Ganga Aarti can add 10–12 minutes, so plan buffers accordingly.
 
 ## Kashi Vishwanath Corridor entry logistics (Godowlia → Kashi Vishwanath Dham)
@@ -117,6 +124,13 @@ Take the airport exit toward Ring Road, merge onto the Harhua flyover, and conti
 Need a slot-by-slot playbook? Use our [Kashi Vishwanath darshan timing guide](/en/kashi-vishwanath-shivaratri-crowd-survival-guide) for queue durations, corridor maps, and pooja add-ons before you travel.
 
 ## Varanasi Airport to Kashi Vishwanath Temple taxi fare
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-kashi-vishwanath-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697601/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-kashi-vishwanath-taxi-2.webp" alt="Varanasi Airport to Kashi Vishwanath Temple taxi fare — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi Airport to Kashi Vishwanath Temple taxi fare. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 Looking for the exact taxi fare from Varanasi airport to Kashi Vishwanath temple? Here are the current rates:
 - Economy sedan (Dzire/Amaze): **₹890 fixed** — one honest all-inclusive rate, no surge, no "starts low then charges extra here and there".

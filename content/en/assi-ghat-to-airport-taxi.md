@@ -55,6 +55,13 @@ Planning your travel between Assi Ghat and Lal Bahadur Shastri International Air
 
 ## Varanasi Airport to Assi Ghat Distance
 
+<figure class="sales-section-visual" data-sales-visual="en-assi-ghat-to-airport-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697668/kashitaxi/sales-visuals/en-assi-ghat-to-airport-taxi-1.webp" alt="Varanasi Airport to Assi Ghat Distance — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi Airport to Assi Ghat Distance. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 **The distance from Varanasi Airport (VNS) to Assi Ghat is 27–28 km via BHU–Lanka–Ring Road, and the drive typically takes 40–60 minutes outside peak hours.** During major festivals like Dev Deepawali or Maha Shivaratri, allow 90 minutes to account for processions and barricades near the ghats.
 
 > **Book Your Airport Transfer!**  
@@ -87,6 +94,13 @@ For a guaranteed fixed fare and a reliable vehicle, booking in advance with a tr
 ---
 
 ## Important Tips for Your Airport Transfer
+
+<figure class="sales-section-visual" data-sales-visual="en-assi-ghat-to-airport-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697672/kashitaxi/sales-visuals/en-assi-ghat-to-airport-taxi-2.webp" alt="Important Tips for Your Airport Transfer — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Important Tips for Your Airport Transfer. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 1.  **Leave Early:** If you are traveling during a major festival or have a flight to catch, it's crucial to leave Assi Ghat at least 2-3 hours before your required check-in time to account for unexpected delays.
 2.  **Confirm Your Fare:** Whether booking online or directly, always confirm the final fare to avoid any confusion later.

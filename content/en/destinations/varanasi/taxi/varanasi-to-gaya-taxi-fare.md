@@ -151,6 +151,13 @@ The main reason is pind-daan at the Vishnupad Temple, which spikes sharply durin
 
 ## Quick facts: distance, time and fare
 
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-to-gaya-taxi-fare-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697682/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-to-gaya-taxi-fare-1.webp" alt="Quick facts: distance, time and fare — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Quick facts: distance, time and fare. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Detail | Information |
 |--------|-------------|
 | **Distance** | 250-255 km (one-way) |
@@ -219,6 +226,13 @@ Genuine **one-way drops** are available on this route — you are not forced to 
 - Extra sightseeing stops beyond the agreed route
 
 ## Route, stops and landmarks
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-to-gaya-taxi-fare-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697683/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-to-gaya-taxi-fare-2.webp" alt="Route, stops and landmarks — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Route, stops and landmarks. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 The usual highway is **NH-19 -> Daffi -> Mohania -> Sasaram -> Aurangabad -> Dobhi (NH-19 + NH-120/22)**.
 

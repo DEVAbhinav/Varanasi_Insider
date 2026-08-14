@@ -125,6 +125,13 @@ faqSchema:
 
 ## ट्रेन vs टैक्सी (संगम यात्रा)
 
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-prayagraj-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697634/kashitaxi/sales-visuals/hi-varanasi-to-prayagraj-taxi-2.webp" alt="ट्रेन vs टैक्सी (संगम यात्रा) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>ट्रेन vs टैक्सी (संगम यात्रा). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | बात | ट्रेन | टैक्सी |
 |---|---|---|
 | **किराया** | सीट ~₹120–₹350 | पूरी गाड़ी ₹2,500 से |
@@ -136,6 +143,13 @@ faqSchema:
 **सीधा नियम:** अकेले बजट → ट्रेन। दो या ज़्यादा + स्नान → टैक्सी आसान।
 
 ## वाराणसी पिकअप पॉइंट (एक ही किराया बैंड)
+
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-prayagraj-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697633/kashitaxi/sales-visuals/hi-varanasi-to-prayagraj-taxi-1.webp" alt="वाराणसी पिकअप पॉइंट (एक ही किराया बैंड) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>वाराणसी पिकअप पॉइंट (एक ही किराया बैंड). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 | पिकअप | सेडान एक तरफा | सेम-डे रिटर्न |
 |---|---:|---:|

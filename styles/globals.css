@@ -370,3 +370,44 @@ h2.sub-heading {
   .fare-hero__btn--call { flex: 2 1 0; }
   .fare-hero__title { font-size: 1.65rem; }
 }
+/* Shareable, section-specific sales visuals. The embedded footer preserves
+   Kashi Taxi attribution when an image is downloaded or republished. */
+.sales-section-visual {
+  margin: 1.75rem 0 2.25rem;
+  overflow: hidden;
+  border: 1px solid rgb(214 202 180);
+  border-radius: 1rem;
+  background: #f7f1e6;
+  box-shadow: 0 12px 30px rgb(51 43 33 / 10%);
+}
+
+.sales-section-visual a {
+  display: block;
+  border: 0 !important;
+}
+
+.sales-section-visual img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.sales-section-visual figcaption {
+  margin: 0;
+  padding: 0.8rem 1rem;
+  color: #475569;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.sales-section-visual figcaption strong {
+  color: #17423e;
+  white-space: nowrap;
+}
+
+.sales-visual-gallery {
+  margin: 2rem auto;
+}

@@ -88,6 +88,13 @@ Ertiga / Innova: expect roughly 30–60% above sedan. Final quote is locked on W
 
 ## Four Major Varanasi to Nepal Taxi Border Routes
 
+<figure class="sales-section-visual" data-sales-visual="en-city-nepal-taxi-varanasi-to-nepal-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697609/kashitaxi/sales-visuals/en-city-nepal-taxi-varanasi-to-nepal-taxi-2.webp" alt="Four Major Varanasi to Nepal Taxi Border Routes — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Four Major Varanasi to Nepal Taxi Border Routes. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 ### Route 1: Sunauli-Belahiya Border (Most Popular)
 
 **Varanasi → Gorakhpur → Sunauli (India) → Belahiya (Nepal)**
@@ -180,6 +187,13 @@ Ertiga / Innova: expect roughly 30–60% above sedan. Final quote is locked on W
 **Not recommended:** Too far from Varanasi and rarely used by tourists.
 
 ## Varanasi to Nepal Destinations: Detailed Routes & Fares
+
+<figure class="sales-section-visual" data-sales-visual="en-city-nepal-taxi-varanasi-to-nepal-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697608/kashitaxi/sales-visuals/en-city-nepal-taxi-varanasi-to-nepal-taxi-1.webp" alt="Varanasi to Nepal Destinations: Detailed Routes &amp; Fares — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi to Nepal Destinations: Detailed Routes &amp; Fares. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 ### 1. Varanasi to Kathmandu Taxi Route
 

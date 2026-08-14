@@ -65,6 +65,13 @@ relatedPosts:
 
 ## Vehicle Overview: 17‑Seater (Mega Tempo)
 
+<figure class="sales-section-visual" data-sales-visual="en-17-seater-tempo-traveller-varanasi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697624/kashitaxi/sales-visuals/en-17-seater-tempo-traveller-varanasi-1.webp" alt="Vehicle Overview: 17‑Seater (Mega Tempo) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Vehicle Overview: 17‑Seater (Mega Tempo). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 The 17‑seater is a stretched Traveller with an extra row—more seats without compromising comfort.
 
 - Capacity: 17 passengers + 1 driver (some units are 16+driver). About 5 rows in 2×1 layout plus a front beside‑driver seat. Ideal comfort at 15–16 pax, yet comfortable for 17 adults too
@@ -78,6 +85,13 @@ The 17‑seater is a stretched Traveller with an extra row—more seats without 
 In essence, this mini‑coach gives you bus‑like capacity with the agility of a Traveller. Perfect for pilgrim groups, school/college tours, and family functions where everyone travels together.
 
 ## Ideal Scenarios for a 17‑Seater
+
+<figure class="sales-section-visual" data-sales-visual="en-17-seater-tempo-traveller-varanasi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697626/kashitaxi/sales-visuals/en-17-seater-tempo-traveller-varanasi-2.webp" alt="Ideal Scenarios for a 17‑Seater — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Ideal Scenarios for a 17‑Seater. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 - Big Fat Indian Weddings: Shuttle 15–17 guests between hotel and venues, or do airport/railway pickups in one go. Simple decorations possible on request
 - Pilgrimage Tours: Kashi–Prayagraj–Ayodhya circuits and beyond, with space for ritual kits and prasad

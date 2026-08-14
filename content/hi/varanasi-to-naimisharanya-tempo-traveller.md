@@ -34,6 +34,13 @@ relatedPosts:
 > **मुख्य सलाह:** 4:45 AM प्रस्थान करें ताकि दोपहर तक ललिता देवी, शाम को चक्रतीर्थ आरती आराम से कर सकें।
 
 ## दूरी और रूट विकल्प
+
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-naimisharanya-tempo-traveller-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697640/kashitaxi/sales-visuals/hi-varanasi-to-naimisharanya-tempo-traveller-1.webp" alt="दूरी और रूट विकल्प — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>दूरी और रूट विकल्प. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 | रूट | दूरी (एक तरफ़) | टिप्पणी |
 | --- | --- | --- |
 | वाराणसी → जौनपुर → लखनऊ → सीतापुर | 400–410 किमी | तेज़, 4-लेन + एक्सप्रेसवे |
@@ -101,6 +108,13 @@ relatedPosts:
 - ड्राइवर के साथ हॉल्ट पहले से तय करें।
 
 ## बुकिंग विवरण
+
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-naimisharanya-tempo-traveller-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697641/kashitaxi/sales-visuals/hi-varanasi-to-naimisharanya-tempo-traveller-2.webp" alt="बुकिंग विवरण — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>बुकिंग विवरण. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 - कॉल: +91 99354 74730
 - व्हाट्सऐप: https://wa.me/919935474730?text=Naimisharanya%20Tempo%20Traveller%20Plan
 - संदेश में तिथि, यात्री, विशेष पूजा अनुरोध लिखें; पारदर्शी कोट साझा होगा।

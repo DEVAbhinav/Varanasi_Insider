@@ -38,6 +38,13 @@ I've personally driven this triangle hundreds of times. The route order matters 
 
 ## Route Order First: Kashi → Prayagraj → Ayodhya Distance by Road
 
+<figure class="sales-section-visual" data-sales-visual="en-services-varanasi-ayodhya-prayagraj-pilgrimage-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697611/kashitaxi/sales-visuals/en-services-varanasi-ayodhya-prayagraj-pilgrimage-taxi-2.webp" alt="Route Order First: Kashi → Prayagraj → Ayodhya Distance by Road — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Route Order First: Kashi → Prayagraj → Ayodhya Distance by Road. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 If the traveler is not yet shopping for a full package and is first trying to understand the **route sequence**, answer that before everything else.
 
 | Route leg | Distance | Typical drive time | Why this order works |
@@ -189,6 +196,13 @@ For a single direct route, see [Varanasi to Prayagraj](/en/varanasi-to-prayagraj
 > All packages: Driver stay allowance included; fuel, tolls, parking covered; your hotel/food separate.
 
 ## Innova Crysta for Outstation from Varanasi: Fixed Fare Chart (One-Way & Round-Trip)
+
+<figure class="sales-section-visual" data-sales-visual="en-services-varanasi-ayodhya-prayagraj-pilgrimage-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697610/kashitaxi/sales-visuals/en-services-varanasi-ayodhya-prayagraj-pilgrimage-taxi-1.webp" alt="Innova Crysta for Outstation from Varanasi: Fixed Fare Chart (One-Way &amp; Round-Trip) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Innova Crysta for Outstation from Varanasi: Fixed Fare Chart (One-Way &amp; Round-Trip). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 | Route | Distance | Sedan One-Way | Innova One-Way | Same-Day Return |
 |-------|----------|---------------|----------------|-----------------|

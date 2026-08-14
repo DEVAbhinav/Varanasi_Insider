@@ -74,6 +74,13 @@ Taking **elderly parents** or a **wheelchair user** for darshan at Kashi Vishwan
 
 ## Assisted Senior Darshan — Indicative Costs
 
+<figure class="sales-section-visual" data-sales-visual="en-services-kashi-vishwanath-darshan-senior-citizen-wheelchair-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697644/kashitaxi/sales-visuals/en-services-kashi-vishwanath-darshan-senior-citizen-wheelchair-1.webp" alt="Assisted Senior Darshan — Indicative Costs — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Assisted Senior Darshan — Indicative Costs. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Help | From | Notes |
 |---|---|---|
 | **Assistance & escort** | **₹500 / person** | Our coordination; official fees separate |
@@ -85,6 +92,13 @@ Taking **elderly parents** or a **wheelchair user** for darshan at Kashi Vishwan
 ---
 
 ## How We Make Darshan Comfortable for Elders
+
+<figure class="sales-section-visual" data-sales-visual="en-services-kashi-vishwanath-darshan-senior-citizen-wheelchair-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697645/kashitaxi/sales-visuals/en-services-kashi-vishwanath-darshan-senior-citizen-wheelchair-2.webp" alt="How We Make Darshan Comfortable for Elders — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>How We Make Darshan Comfortable for Elders. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 - **Cab to the nearest gate** — minimal walking from car to temple.
 - **Escort assistance** — someone to help your parents through the visit.

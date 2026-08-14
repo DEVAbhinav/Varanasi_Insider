@@ -244,6 +244,13 @@ If families want to stay longer, Day 6 options include:
 
 ## What's Included (Full Transparency)
 
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-tour-packages-varanasi-gaya-prayagraj-tour-package-elderly-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697700/kashitaxi/sales-visuals/en-city-varanasi-tour-packages-varanasi-gaya-prayagraj-tour-package-elderly-1.webp" alt="What&#39;s Included (Full Transparency) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>What&#39;s Included (Full Transparency). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 ### Transportation
 - ✅ Private Tempo Traveller AC vehicle with reclining seats
 - ✅ Dedicated driver (same person, entire circuit)
@@ -278,6 +285,13 @@ If families want to stay longer, Day 6 options include:
 ---
 
 ## What's NOT Included
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-tour-packages-varanasi-gaya-prayagraj-tour-package-elderly-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697701/kashitaxi/sales-visuals/en-city-varanasi-tour-packages-varanasi-gaya-prayagraj-tour-package-elderly-2.webp" alt="What&#39;s NOT Included — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>What&#39;s NOT Included. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 - ❌ Flights or trains to/from Varanasi
 - ❌ Personal shopping, souvenirs

@@ -61,6 +61,13 @@ location:
 - WhatsApp confirmation: **[wa.me/919935474730](https://wa.me/919935474730?text=Airport%20pickup%20for%20Sarnath)**
 
 ## Varanasi Airport to Sarnath taxi fare
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-sarnath-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697681/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-sarnath-taxi-2.webp" alt="Varanasi Airport to Sarnath taxi fare — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi Airport to Sarnath taxi fare. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 - **FLASH RATE: ₹890** (Book within 2 hours of pickup)
 - **Standard Rate: ₹850–950** (Regular booking)
 - **Mid SUV: ₹1,200–1,400** (Monastery offerings/luggage)
@@ -70,6 +77,13 @@ location:
 *Flash fare not available on Buddhist festival dates (Buddha Purnima, Asadha), and applies only to direct ASI museum/Sarnath hotel drops.
 
 ## Best Varanasi Airport to Sarnath route
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-sarnath-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697680/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-sarnath-taxi-1.webp" alt="Best Varanasi Airport to Sarnath route — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Best Varanasi Airport to Sarnath route. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 Head east on Ring Road, pass the Harhua flyover, then swing toward Lahurabir crossing to join Sarnath Road. This arterial leads straight to the ASI ticket counter and Dhamek Stupa complex. If Lahurabir clogs during school hours, detour via Cantt station and Manduadih to merge back near Varanasi City station. Expect a brief slowdown near Chowka Ghat where pilgrims board buses.
 
 ## Dhamek Stupa & Sarnath museum timings

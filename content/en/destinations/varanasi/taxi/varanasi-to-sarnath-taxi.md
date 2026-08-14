@@ -153,6 +153,13 @@ Hotel desks often quote ₹3,500–₹4,500 for the same return run we do from �
 
 ## Route Details: What You'll See on the Varanasi to Sarnath Road
 
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-to-sarnath-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697621/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-to-sarnath-taxi-2.webp" alt="Route Details: What You&#39;ll See on the Varanasi to Sarnath Road — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Route Details: What You&#39;ll See on the Varanasi to Sarnath Road. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 Sarnath is a short drive from the city. Exact distance/time depends on where you start:
 
 - **From Cantt / Sigra / Nadesar:** typically **10–12 km** in **25–35 minutes**.
@@ -264,6 +271,13 @@ Most taxis approach via main city roads toward **Sarnath Road**; during school h
 - **Note:** May not get ideal guide; timing less flexible
 
 ## Cost Comparison: Hotel vs. Direct Booking for Sarnath Trip
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-to-sarnath-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697620/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-to-sarnath-taxi-1.webp" alt="Cost Comparison: Hotel vs. Direct Booking for Sarnath Trip — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Cost Comparison: Hotel vs. Direct Booking for Sarnath Trip. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 | Service | Hotel Quotes | Kashi Taxi | Savings |
 |---------|--------------|-----------|---------|

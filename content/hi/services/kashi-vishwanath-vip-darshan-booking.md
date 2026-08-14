@@ -145,6 +145,13 @@ relatedPosts:
 
 ## लोकप्रिय संयोजन: दर्शन + नाव + गंगा आरती (सबसे अधिक बुक)
 
+<figure class="sales-section-visual" data-sales-visual="hi-services-kashi-vishwanath-vip-darshan-booking-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697622/kashitaxi/sales-visuals/hi-services-kashi-vishwanath-vip-darshan-booking-1.webp" alt="लोकप्रिय संयोजन: दर्शन + नाव + गंगा आरती (सबसे अधिक बुक) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>लोकप्रिय संयोजन: दर्शन + नाव + गंगा आरती (सबसे अधिक बुक). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 एक दिन में काशी अनुभव का सबसे सहज तरीका:
 
 1. **सुबह जल्दी:** होटल से कैब पिकअप → गंगा पर [सूर्योदय नाव यात्रा](/hi/morning-boat-ride-varanasi-price)
@@ -169,6 +176,13 @@ relatedPosts:
 ---
 
 ## काशी विश्वनाथ दर्शन बुकिंग कैसे करें (2 मिनट)
+
+<figure class="sales-section-visual" data-sales-visual="hi-services-kashi-vishwanath-vip-darshan-booking-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697623/kashitaxi/sales-visuals/hi-services-kashi-vishwanath-vip-darshan-booking-2.webp" alt="काशी विश्वनाथ दर्शन बुकिंग कैसे करें (2 मिनट) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>काशी विश्वनाथ दर्शन बुकिंग कैसे करें (2 मिनट). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 1. **WhatsApp** पर अपनी यात्रा तिथियाँ, लोगों की संख्या और चाहा गया दर्शन/आरती भेजें।
 2. हम **मौजूदा आधिकारिक दर + हमारा निश्चित सहायता शुल्क** और साफ़ योजना बताते हैं।

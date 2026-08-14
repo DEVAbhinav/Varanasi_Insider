@@ -47,6 +47,13 @@ Generic taxi listings say "verified drivers." We go further: layered, auditable 
 
 ## Late Night Safe Cab Varanasi: Airport & Station Pickup Protocols
 
+<figure class="sales-section-visual" data-sales-visual="en-services-varanasi-safest-taxi-for-women-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697686/kashitaxi/sales-visuals/en-services-varanasi-safest-taxi-for-women-1.webp" alt="Late Night Safe Cab Varanasi: Airport &amp; Station Pickup Protocols — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Late Night Safe Cab Varanasi: Airport &amp; Station Pickup Protocols. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Arrival Window | Protocol | Add-Ons |
 |----------------|----------|---------|
 | 20:00–22:30 | Standard monitored pickup | Live tracking link |
@@ -83,6 +90,13 @@ Generic taxi listings say "verified drivers." We go further: layered, auditable 
 | Post-Ride Safety Debrief (optional) | Yes |
 
 ## Is Uber Safe for Women in Varanasi? Comparison with Dedicated Safety Services
+
+<figure class="sales-section-visual" data-sales-visual="en-services-varanasi-safest-taxi-for-women-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697687/kashitaxi/sales-visuals/en-services-varanasi-safest-taxi-for-women-2.webp" alt="Is Uber Safe for Women in Varanasi? Comparison with Dedicated Safety Services — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Is Uber Safe for Women in Varanasi? Comparison with Dedicated Safety Services. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 | Dimension | This Service | Typical Aggregator |
 |-----------|-------------|--------------------|

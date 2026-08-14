@@ -52,6 +52,13 @@ faqSchema:
 
 ## वाराणसी एयरपोर्ट से नमो घाट का बेस्ट रूट
 
+<figure class="sales-section-visual" data-sales-visual="hi-city-varanasi-taxi-varanasi-airport-to-namo-ghat-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697694/kashitaxi/sales-visuals/hi-city-varanasi-taxi-varanasi-airport-to-namo-ghat-taxi-1.webp" alt="वाराणसी एयरपोर्ट से नमो घाट का बेस्ट रूट — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>वाराणसी एयरपोर्ट से नमो घाट का बेस्ट रूट. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 रिंग रोड से हरहुआ फ्लाईओवर की ओर बढ़ें, फिर **रविदास गेट** सिग्नल तक जाएँ और **नमो घाट एप्रोच रोड** लें। यह बाईपास आपको अच्छी सड़कों पर रखता है और सीधे प्रोमेनेड पार्किंग एप्रन पर समाप्त होता है।
 
 - जब लाइट शो की भीड़ बढ़ती है, तो ड्राइवर **सिगरा फ्लाईओवर** से डायवर्ट होकर दक्षिणी तटबंध से आते हैं, जिससे लगभग छह मिनट बढ़ते हैं लेकिन पार्किंग की गारंटी रहती है।
@@ -69,6 +76,13 @@ faqSchema:
 असी या दशाश्वमेध को उसी शाम कवर करने वाले पैकेज के लिए [वाराणसी एयरपोर्ट टैक्सी किराया गाइड](/en/varanasi-airport-taxi-price-guide) देखें।
 
 ## VNS पर पिकअप और नमो घाट पर ड्रॉप
+
+<figure class="sales-section-visual" data-sales-visual="hi-city-varanasi-taxi-varanasi-airport-to-namo-ghat-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697695/kashitaxi/sales-visuals/hi-city-varanasi-taxi-varanasi-airport-to-namo-ghat-taxi-2.webp" alt="VNS पर पिकअप और नमो घाट पर ड्रॉप — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>VNS पर पिकअप और नमो घाट पर ड्रॉप. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 - ड्राइवर इनसाइड अराइवल **गेट 3** पर मिलता है, सामान में मदद करता है और लाइव ट्रैकिंग लिंक शेयर करता है।
 - घाट पर, गाड़ियाँ **नमो प्रोमेनेड पार्किंग बे** में खड़ी होती हैं; ड्राइवर आपको वॉकवे एक्सेस के लिए सुरक्षा गेट तक ले जाता है।

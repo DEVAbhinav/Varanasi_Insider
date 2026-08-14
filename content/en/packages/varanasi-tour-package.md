@@ -138,6 +138,13 @@ commerce:
 
 ## Who This Package Is For
 
+<figure class="sales-section-visual" data-sales-visual="en-packages-varanasi-tour-package-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697698/kashitaxi/sales-visuals/en-packages-varanasi-tour-package-1.webp" alt="Who This Package Is For — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Who This Package Is For. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 Choose this page if you are planning a short Kashi trip and want one team to handle stay, transport and sightseeing timing. It works well for:
 
 - first-time visitors who want the main temples, Ganga Aarti and a boat ride without juggling separate bookings
@@ -148,6 +155,13 @@ Choose this page if you are planning a short Kashi trip and want one team to han
 If you only need a car from one place to another, book a [taxi in Varanasi](/) instead. Taxi quotes stay separate from hotel-and-itinerary package pricing.
 
 ## Pick the Package That Matches Your Trip
+
+<figure class="sales-section-visual" data-sales-visual="en-packages-varanasi-tour-package-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697699/kashitaxi/sales-visuals/en-packages-varanasi-tour-package-2.webp" alt="Pick the Package That Matches Your Trip — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Pick the Package That Matches Your Trip. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 | What you need | Best place to start |
 |---|---|

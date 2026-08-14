@@ -114,6 +114,13 @@ Bring a change of clothes, towel and a plastic bag for wet clothes. Small notes 
 
 ## Sangam Boat & On-Ground Costs (Not in Cab Fare)
 
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-prayagraj-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697619/kashitaxi/sales-visuals/en-varanasi-to-prayagraj-taxi-2.webp" alt="Sangam Boat &amp; On-Ground Costs (Not in Cab Fare) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Sangam Boat &amp; On-Ground Costs (Not in Cab Fare). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Item | Typical cost |
 |---|---|
 | Shared boat | ₹50–₹100 per person |
@@ -137,6 +144,13 @@ Your driver can point you to the usual boat steps. Puja is optional — take it 
 **Rule of thumb:** solo backpacker → train. Two or more with snan bags → taxi wins on hassle.
 
 ## Pickup Points in Varanasi (Same Fixed Fare Band)
+
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-prayagraj-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697618/kashitaxi/sales-visuals/en-varanasi-to-prayagraj-taxi-1.webp" alt="Pickup Points in Varanasi (Same Fixed Fare Band) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Pickup Points in Varanasi (Same Fixed Fare Band). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 | Pickup | Sedan one-way | Same-day return |
 |---|---:|---:|

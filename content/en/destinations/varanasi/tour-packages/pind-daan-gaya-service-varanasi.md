@@ -136,6 +136,13 @@ When someone is emotionally vulnerable—performing a ritual for a deceased pare
 
 ## The Four Categories of Pind Daan Scams
 
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-tour-packages-pind-daan-gaya-service-varanasi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697612/kashitaxi/sales-visuals/en-city-varanasi-tour-packages-pind-daan-gaya-service-varanasi-1.webp" alt="The Four Categories of Pind Daan Scams — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>The Four Categories of Pind Daan Scams. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 ### Scam #1: The "Online Pind Daan" Phantom Ritual
 
 **How it works:** A website says "We'll perform pind daan for your ancestors on your behalf in Gaya. Just send ₹15,000-25,000. We'll record it and send you a video."
@@ -556,6 +563,13 @@ NRIs are prime targets because:
 ---
 
 ## How to Book: Step-By-Step
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-tour-packages-pind-daan-gaya-service-varanasi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697613/kashitaxi/sales-visuals/en-city-varanasi-tour-packages-pind-daan-gaya-service-varanasi-2.webp" alt="How to Book: Step-By-Step — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>How to Book: Step-By-Step. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 ### Step 1: Inquiry (2-3 weeks before)
 Fill out inquiry form with:

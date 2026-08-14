@@ -132,6 +132,13 @@ aggregateRating:
 
 ## मार्ग विवरण: वाराणसी से सारनाथ सड़क पर आप क्या देखेंगे
 
+<figure class="sales-section-visual" data-sales-visual="hi-city-varanasi-taxi-varanasi-to-sarnath-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697689/kashitaxi/sales-visuals/hi-city-varanasi-taxi-varanasi-to-sarnath-taxi-2.webp" alt="मार्ग विवरण: वाराणसी से सारनाथ सड़क पर आप क्या देखेंगे — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>मार्ग विवरण: वाराणसी से सारनाथ सड़क पर आप क्या देखेंगे. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 सारनाथ वाराणसी शहर से एक छोटा सा ड्राइव है। दूरी/समय आपके पिकअप पर निर्भर रहता है:
 
 - **कैंट / सिगरा / नदेसर से:** आमतौर पर **10–12 किमी** और **25–35 मिनट**.
@@ -243,6 +250,13 @@ aggregateRating:
 - **नोट:** आदर्श गाइड नहीं मिल सकता; समय कम लचीला
 
 ## लागत तुलना: सारनाथ यात्रा के लिए होटल बनाम सीधी बुकिंग
+
+<figure class="sales-section-visual" data-sales-visual="hi-city-varanasi-taxi-varanasi-to-sarnath-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697688/kashitaxi/sales-visuals/hi-city-varanasi-taxi-varanasi-to-sarnath-taxi-1.webp" alt="लागत तुलना: सारनाथ यात्रा के लिए होटल बनाम सीधी बुकिंग — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>लागत तुलना: सारनाथ यात्रा के लिए होटल बनाम सीधी बुकिंग. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 | सेवा | होटल कोट | Kashi Taxi | बचत |
 |---------|--------------|-----------|---------|

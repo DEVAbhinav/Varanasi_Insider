@@ -49,6 +49,13 @@ faqSchema:
 
 ## Best route from Varanasi Airport to DDU Junction
 
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-mughalsarai-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697672/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-mughalsarai-taxi-1.webp" alt="Best route from Varanasi Airport to DDU Junction — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Best route from Varanasi Airport to DDU Junction. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 From the airport, taxis normally:
 
 1. Exit onto the city road network and connect with **GT Road**.
@@ -72,6 +79,13 @@ If GT Road reports heavy traffic or evening freight congestion near Chandauli, d
 **Safety reminders:** stay belted because GT Road trucks drift lanes, avoid roadside tea stalls after 10 PM, and keep luggage inside the cabin when crossing crowded market patches near Chandauli. The ₹1,005 hatchback fare includes a vetted yellow-plate driver who has already done the police log at the Mughalsarai entry outpost.
 
 ## Varanasi Airport to Mughalsarai taxi fare (2026)
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-mughalsarai-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697673/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-mughalsarai-taxi-2.webp" alt="Varanasi Airport to Mughalsarai taxi fare (2026) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi Airport to Mughalsarai taxi fare (2026). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 - **Hatchback:** ₹1,005–₹1,300, popular with solo travellers and couples.
 - **Sedan:** ₹1,100–₹1,500, ideal for 3–4 passengers with bags.

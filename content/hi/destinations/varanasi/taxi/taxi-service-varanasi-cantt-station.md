@@ -40,6 +40,13 @@ faqSchema:
 
 ## कैंट स्टेशन से दूरी और समय
 
+<figure class="sales-section-visual" data-sales-visual="hi-city-varanasi-taxi-taxi-service-varanasi-cantt-station-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697691/kashitaxi/sales-visuals/hi-city-varanasi-taxi-taxi-service-varanasi-cantt-station-2.webp" alt="कैंट स्टेशन से दूरी और समय — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>कैंट स्टेशन से दूरी और समय. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | डेस्टिनेशन | अनुमानित दूरी | ट्रैवल टाइम (पीक) | ट्रैवल टाइम (सुबह जल्दी) |
 | --- | --- | --- | --- |
 | काशी विश्वनाथ (गोडौलिया) | 4.5 किमी | 35–50 मिनट | 15 मिनट |
@@ -51,6 +58,13 @@ faqSchema:
 *ट्रेन अराइवल के समय स्टेशन परिसर से निकलने में ही 10–15 मिनट लग सकते हैं—समय का बफ़र रखें।*
 
 ## स्टेशन पिकअप कैसे काम करता है
+
+<figure class="sales-section-visual" data-sales-visual="hi-city-varanasi-taxi-taxi-service-varanasi-cantt-station-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697690/kashitaxi/sales-visuals/hi-city-varanasi-taxi-taxi-service-varanasi-cantt-station-1.webp" alt="स्टेशन पिकअप कैसे काम करता है — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>स्टेशन पिकअप कैसे काम करता है. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 - **पहले से बुक करें:** व्हाट्सएप/कॉल पर **PNR या ट्रेन नंबर** भेजें, डिस्पैच लाइव स्टेटस ट्रैक करेगा।
 - **ड्राइवर डिटेल पहले:** आगमन से ~30 मिनट पहले ड्राइवर नाम, फोन, कार नंबर, रंग मिल जाएगा।
 - **मीटिंग पॉइंट:** कैंट साइड सर्कुलेटिंग एरिया/"पराओ" लेन पर गाइड करते हैं; बुज़ुर्ग यात्रियों के लिए प्लेटफ़ॉर्म 8 गेट भी उपलब्ध।

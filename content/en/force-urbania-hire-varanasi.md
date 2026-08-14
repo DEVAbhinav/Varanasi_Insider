@@ -39,6 +39,13 @@ This **force urbania hire varanasi** guide clarifies upgrade value for comfort�
 > Quick Filter: If your group contains ≥40% senior pilgrims OR you need brand-consistent arrival visuals (corporate / donor delegation) → shortlist Urbania.
 
 ## Urbania vs Standard Tempo Traveller – Snapshot
+
+<figure class="sales-section-visual" data-sales-visual="en-force-urbania-hire-varanasi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697649/kashitaxi/sales-visuals/en-force-urbania-hire-varanasi-2.webp" alt="Urbania vs Standard Tempo Traveller – Snapshot — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Urbania vs Standard Tempo Traveller – Snapshot. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 | Dimension | Standard Tempo Traveller | Urbania (Premium) | Practical Impact |
 | --- | --- | --- | --- |
 | Seating Ergonomics | Basic recline / mixed foam | Enhanced recline, lumbar contour | Reduced leg & back fatigue on 7D circuits |
@@ -86,6 +93,13 @@ This **force urbania hire varanasi** guide clarifies upgrade value for comfort�
 > Visual comparison clarifies uplift delta during decision stage for procurement teams.
 
 ## Cost Logic (Per Head Framing)
+
+<figure class="sales-section-visual" data-sales-visual="en-force-urbania-hire-varanasi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697648/kashitaxi/sales-visuals/en-force-urbania-hire-varanasi-1.webp" alt="Cost Logic (Per Head Framing) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Cost Logic (Per Head Framing). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 If upgrading adds ₹9–11/km over a 1,000 km circuit (₹9,000–11,000 total), divided across 10 passengers → ₹900–1,100 per head for materially higher comfort & brand polish.
 
 ## Booking Notes

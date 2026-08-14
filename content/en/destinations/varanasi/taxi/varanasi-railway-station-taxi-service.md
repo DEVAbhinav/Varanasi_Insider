@@ -67,6 +67,13 @@ Varanasi has **3 railway stations**. Most tourists only know about Varanasi Junc
 
 ## TL;DR — Quick Fare Comparison (All 3 Stations)
 
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-railway-station-taxi-service-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697627/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-railway-station-taxi-service-1.webp" alt="TL;DR — Quick Fare Comparison (All 3 Stations) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>TL;DR — Quick Fare Comparison (All 3 Stations). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Route | Sedan (Dzire/Etios) | SUV (Innova/Ertiga) | Tempo Traveller |
 |---|---|---|---|
 | **Varanasi Junction (BSB) → Ghats area** | ₹800–1,000 | ₹1,200–1,400 | ₹1,800–2,200 |
@@ -233,6 +240,13 @@ This is exactly why pre-booking matters at City Station more than anywhere else.
 ---
 
 ## Complete Fare Table — All Stations, All Vehicle Types
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-railway-station-taxi-service-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697628/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-railway-station-taxi-service-2.webp" alt="Complete Fare Table — All Stations, All Vehicle Types — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Complete Fare Table — All Stations, All Vehicle Types. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 For group bookings and families, here's the full breakdown by vehicle type:
 

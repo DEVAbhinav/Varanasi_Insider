@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image';
+import SalesSectionVisuals from '../components/SalesSectionVisuals/SalesSectionVisuals';
 import NavBar from '../components/NavBar/NavBar';
 import Footer from '../components/Footer/Footer';
 import fleet from '../data/fleet.json';
@@ -488,6 +489,8 @@ export default function BikeRentalsPage({ allPosts }) {
             <p className="mt-4">
               <strong>Our Recommendation:</strong> Choose a scooty for exploring Varanasi's old city, temples, and ghats. Opt for a bike if you're planning trips to Sarnath, Chunar Fort, or nearby waterfalls. Both come with helmets and full insurance coverage.
             </p>
+
+            <SalesSectionVisuals route="/bike-rentals-varanasi" className="mt-10" />
 
             <h2 className="mt-12 text-3xl font-bold text-gray-800">Pricing: Affordable Options for Daily and Monthly Rentals in 2026</h2>
             <p className="mt-6">

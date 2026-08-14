@@ -298,6 +298,13 @@ Starting from ₹25,000 (sedan) | ₹32,000 (SUV)
 
 ## Trust & Safety: Why Kashi Taxi is the Best Tour Operator in Varanasi
 
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-travel-agent-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697677/kashitaxi/sales-visuals/en-varanasi-travel-agent-2.webp" alt="Trust &amp; Safety: Why Kashi Taxi is the Best Tour Operator in Varanasi — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Trust &amp; Safety: Why Kashi Taxi is the Best Tour Operator in Varanasi. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 ![Tempo Traveller interior](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg "Comfortable tempo traveller interior - verified tour operators")
 
 ![Tempo Traveller comfortable seats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_tavelar_inside_seat_potrait.jpeg "Tempo Traveller plush seating - long-distance comfort")
@@ -373,6 +380,13 @@ We respond within 1 business hour with:
 ---
 
 ## Varanasi Tour Operator Pricing: Transparent Fare Policy
+
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-travel-agent-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697676/kashitaxi/sales-visuals/en-varanasi-travel-agent-1.webp" alt="Varanasi Tour Operator Pricing: Transparent Fare Policy — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi Tour Operator Pricing: Transparent Fare Policy. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 ![Varanasi taxi service](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-kashi-vishwanath-l.jpeg "Varanasi taxi at Kashi Vishwanath Temple - transparent pricing")
 

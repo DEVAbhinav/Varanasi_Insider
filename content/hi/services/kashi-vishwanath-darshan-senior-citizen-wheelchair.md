@@ -72,6 +72,13 @@ relatedPosts:
 
 ## सहायता सहित वरिष्ठ दर्शन — सांकेतिक लागत
 
+<figure class="sales-section-visual" data-sales-visual="hi-services-kashi-vishwanath-darshan-senior-citizen-wheelchair-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697702/kashitaxi/sales-visuals/hi-services-kashi-vishwanath-darshan-senior-citizen-wheelchair-1.webp" alt="सहायता सहित वरिष्ठ दर्शन — सांकेतिक लागत — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>सहायता सहित वरिष्ठ दर्शन — सांकेतिक लागत. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | सहायता | से | नोट्स |
 |---|---|---|
 | **सहायता और एस्कॉर्ट** | **₹500 / व्यक्ति** | हमारा समन्वय; आधिकारिक शुल्क अलग |
@@ -83,6 +90,13 @@ relatedPosts:
 ---
 
 ## हम बुजुर्गों के लिए दर्शन कैसे आरामदायक बनाते हैं
+
+<figure class="sales-section-visual" data-sales-visual="hi-services-kashi-vishwanath-darshan-senior-citizen-wheelchair-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697703/kashitaxi/sales-visuals/hi-services-kashi-vishwanath-darshan-senior-citizen-wheelchair-2.webp" alt="हम बुजुर्गों के लिए दर्शन कैसे आरामदायक बनाते हैं — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>हम बुजुर्गों के लिए दर्शन कैसे आरामदायक बनाते हैं. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 - **नज़दीकी गेट तक कैब** — कार से मंदिर तक न्यूनतम पैदल चलना।
 - **एस्कॉर्ट सहायता** — यात्रा के दौरान आपके माता-पिता की मदद के लिए व्यक्ति।

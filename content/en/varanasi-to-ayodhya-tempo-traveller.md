@@ -74,6 +74,13 @@ These are the latest confirmed fares for a Varanasi to Ayodhya tempo traveller �
 
 ## What Is Included In The Fare
 
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-ayodhya-tempo-traveller-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697614/kashitaxi/sales-visuals/en-varanasi-to-ayodhya-tempo-traveller-1.webp" alt="What Is Included In The Fare — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>What Is Included In The Fare. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 Your quoted Ayodhya tempo traveller fare includes:
 
 - private AC Tempo Traveller for the full trip
@@ -108,6 +115,13 @@ You may prefer a different guide if:
 For those cases, use [Varanasi to Ayodhya distance, taxi fare and travel options](/en/varanasi-to-ayodhya-taxi).
 
 ## Ayodhya Day Trip Timing From Varanasi
+
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-ayodhya-tempo-traveller-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697615/kashitaxi/sales-visuals/en-varanasi-to-ayodhya-tempo-traveller-2.webp" alt="Ayodhya Day Trip Timing From Varanasi — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Ayodhya Day Trip Timing From Varanasi. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 Most groups prefer a same-day darshan plan like this:
 

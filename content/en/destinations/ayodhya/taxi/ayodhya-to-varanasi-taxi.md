@@ -45,6 +45,13 @@ faqSchema:
 
 ## Quick Facts: Ayodhya to Varanasi Taxi Route
 
+<figure class="sales-section-visual" data-sales-visual="en-city-ayodhya-taxi-ayodhya-to-varanasi-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697697/kashitaxi/sales-visuals/en-city-ayodhya-taxi-ayodhya-to-varanasi-taxi-2.webp" alt="Quick Facts: Ayodhya to Varanasi Taxi Route — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Quick Facts: Ayodhya to Varanasi Taxi Route. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Detail | Information |
 |--------|-------------|
 | **Journey Distance** | 150 km (from Ayodhya Dham station) / 165 km (from Ayodhya Cantt) |
@@ -179,6 +186,13 @@ Vande Bharat Express is **30% faster** (**2h 30m** vs **4h** taxi), but station 
 - **Monsoon (July-September)**: Only 10-15% travel; flooding risk minimal on NH330
 
 ## Ayodhya to Varanasi Taxi Fare and Vehicle Options
+
+<figure class="sales-section-visual" data-sales-visual="en-city-ayodhya-taxi-ayodhya-to-varanasi-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697696/kashitaxi/sales-visuals/en-city-ayodhya-taxi-ayodhya-to-varanasi-taxi-1.webp" alt="Ayodhya to Varanasi Taxi Fare and Vehicle Options — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Ayodhya to Varanasi Taxi Fare and Vehicle Options. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 ### Ayodhya to Varanasi Cabs - Vehicle Types & Fare Breakdown
 

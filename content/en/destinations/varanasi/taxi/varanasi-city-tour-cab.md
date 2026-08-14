@@ -160,6 +160,13 @@ Experience Varanasi's spiritual soul:
 
 ## Custom Varanasi Tour Cab - Build Your Own Itinerary
 
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-city-tour-cab-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697662/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-city-tour-cab-2.webp" alt="Custom Varanasi Tour Cab - Build Your Own Itinerary — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Custom Varanasi Tour Cab - Build Your Own Itinerary. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 Not interested in preset itineraries? **Design your own tour with our drivers:**
 
 Choose from:
@@ -175,6 +182,13 @@ Choose from:
 - Full-day (8 hrs): ₹2500 (Sedan), ₹3500 (SUV)
 
 ## What's Included in Every Varanasi City Tour Cab Package
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-city-tour-cab-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697660/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-city-tour-cab-1.webp" alt="What&#39;s Included in Every Varanasi City Tour Cab Package — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>What&#39;s Included in Every Varanasi City Tour Cab Package. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 - Professional driver (English/Hindi speaking)
 - Air-conditioned vehicle

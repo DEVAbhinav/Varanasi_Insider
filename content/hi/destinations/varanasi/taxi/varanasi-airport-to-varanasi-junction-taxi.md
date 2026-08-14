@@ -58,6 +58,13 @@ faqSchema:
 
 ## बेस्ट रूट कौन-सा है?
 
+<figure class="sales-section-visual" data-sales-visual="hi-city-varanasi-taxi-varanasi-airport-to-varanasi-junction-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697651/kashitaxi/sales-visuals/hi-city-varanasi-taxi-varanasi-airport-to-varanasi-junction-taxi-1.webp" alt="बेस्ट रूट कौन-सा है? — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>बेस्ट रूट कौन-सा है?. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 आमतौर पर ड्राइवर **रिंग रोड → हरहुआ → कैंट रोड** वाला रूट लेते हैं। इसका फायदा यह है कि पुराने शहर की बेकार भीड़ से बचा जा सकता है।
 
 अगर कैंट साइड पर जाम बढ़ा हुआ हो, तो कभी-कभी **मलदहिया / लहुराबीर साइड** से एप्रोच लिया जाता है। अनुभवी ड्राइवर ट्रेन टाइम और ट्रैफिक के हिसाब से रूट बदलते हैं।
@@ -91,6 +98,13 @@ faqSchema:
 कुछ ऑफ-पीक स्लॉट में फ्लैश फेयर ₹890 दिख सकती है, लेकिन इसे हमेशा निश्चित दर की तरह न मानें। त्योहार, बड़ी ट्रेन मूवमेंट या ब्लैकआउट डेट्स में यह लागू नहीं रहती।
 
 ## पिकअप कहाँ होता है?
+
+<figure class="sales-section-visual" data-sales-visual="hi-city-varanasi-taxi-varanasi-airport-to-varanasi-junction-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697657/kashitaxi/sales-visuals/hi-city-varanasi-taxi-varanasi-airport-to-varanasi-junction-taxi-2.webp" alt="पिकअप कहाँ होता है? — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>पिकअप कहाँ होता है?. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 आमतौर पर ड्राइवर **अराइवल गेट 3** के पास रिसीव करता है। अगर आपने पहले से बुकिंग की है, तो ड्राइवर या डिस्पैच आपको कॉल/व्हाट्सऐप पर गाड़ी नंबर और मिलन बिंदु भेज सकता है।
 

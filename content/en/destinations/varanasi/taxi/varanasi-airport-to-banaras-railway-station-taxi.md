@@ -71,9 +71,23 @@ faqSchema:
 > **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Manduadih porch).
 
 ## Best Varanasi Airport to Manduadih (BSBS) route
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-banaras-railway-station-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697667/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-banaras-railway-station-taxi-2.webp" alt="Best Varanasi Airport to Manduadih (BSBS) route — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Best Varanasi Airport to Manduadih (BSBS) route. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 Take Ring Road east toward Lahartara, pass the BHU Trauma Centre intersection, and turn onto Manduadih Road for a direct run to the station. This avoids the old Cantt choke points and keeps you on smoother tarmac. If Lahartara is blocked, drivers loop via Sarnath and Nadesar before cutting through Sigra to rejoin at Manduadih crossing.
 
 ## Varanasi Airport to Banaras Railway Station taxi fare
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-banaras-railway-station-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697667/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-banaras-railway-station-taxi-1.webp" alt="Varanasi Airport to Banaras Railway Station taxi fare — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi Airport to Banaras Railway Station taxi fare. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 - Economy sedan: **₹750–950** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).
 - Mid SUV: **₹1,150–1,350** with ample boot space for trolley bags and bedding kits.
 - Tempo Traveller (12-seater): **₹2,150** including driver allowance and porch entry slip.

@@ -52,6 +52,13 @@ If you're 10–12 travelers, choose the 12‑seater. At 13–14, consider the 17
 
 ## When to Choose 12‑Seater vs SUV vs 17‑Seater
 
+<figure class="sales-section-visual" data-sales-visual="en-12-seater-tempo-traveller-varanasi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697665/kashitaxi/sales-visuals/en-12-seater-tempo-traveller-varanasi-2.webp" alt="When to Choose 12‑Seater vs SUV vs 17‑Seater — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>When to Choose 12‑Seater vs SUV vs 17‑Seater. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Vehicle | Best For | Capacity | Local 8hr Rate | Outstation Rate |
 | --- | --- | --- | --- | --- |
 | **7‑Seater SUV** | 4–6 people, premium comfort | 6+1 | ₹3,500 | ₹16/km |
@@ -61,6 +68,13 @@ If you're 10–12 travelers, choose the 12‑seater. At 13–14, consider the 17
 > **Tip:** For 10‑12 passengers, the 12‑seater offers more personal space than the 17‑seater at lower cost. For 6–8 passengers, consider if you need luggage space (choose 12‑seater) or premium comfort (choose SUV).
 
 ## 12 Seater Tempo Traveller Price in Varanasi (2026)
+
+<figure class="sales-section-visual" data-sales-visual="en-12-seater-tempo-traveller-varanasi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697665/kashitaxi/sales-visuals/en-12-seater-tempo-traveller-varanasi-1.webp" alt="12 Seater Tempo Traveller Price in Varanasi (2026) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>12 Seater Tempo Traveller Price in Varanasi (2026). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 Updated fares for 12 seater tempo traveller hire in Varanasi. For complete details, see the full [Tempo Traveller Rates in Varanasi](/en/tempo-traveller-rates-varanasi).
 

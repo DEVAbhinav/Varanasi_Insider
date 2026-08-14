@@ -35,6 +35,13 @@ faqSchema:
 
 ## हमारे टूर विकल्प
 
+<figure class="sales-section-visual" data-sales-visual="kasi-tour-package-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697684/kashitaxi/sales-visuals/kasi-tour-package-1.webp" alt="हमारे टूर विकल्प — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>हमारे टूर विकल्प. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | पैकेज | अवधि | किसके लिए |
 |-------|------|-----------|
 | [काशी सेम-डे टूर](/hi/city/varanasi/tour-packages/same-day-varanasi-tour) | 1 दिन | ट्रांज़िट/लेओवर |
@@ -55,6 +62,13 @@ faqSchema:
 संकरी गलियों में पार्किंग, मंदिर की भीड़, नाव वालों से मोलभाव — अकेले यह सब थका देता है। पैकेज में स्थानीय ड्राइवर-गाइड यह सब संभाल लेते हैं, और आप दर्शन पर ध्यान दे पाते हैं।
 
 ## आरामदायक यात्रा की प्लानिंग
+
+<figure class="sales-section-visual" data-sales-visual="kasi-tour-package-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697685/kashitaxi/sales-visuals/kasi-tour-package-2.webp" alt="आरामदायक यात्रा की प्लानिंग — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>आरामदायक यात्रा की प्लानिंग. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 - **बुज़ुर्गों के लिए:** धीमी गति, VIP दर्शन, घाट पर सहारा।
 - **तीर्थ सर्किट:** अयोध्या, प्रयागराज, गया जोड़ने का विकल्प।

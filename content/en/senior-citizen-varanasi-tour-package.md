@@ -98,6 +98,13 @@ Better fits:
 
 ## What Makes an Elder-Friendly Varanasi Package Different
 
+<figure class="sales-section-visual" data-sales-visual="en-senior-citizen-varanasi-tour-package-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697616/kashitaxi/sales-visuals/en-senior-citizen-varanasi-tour-package-1.webp" alt="What Makes an Elder-Friendly Varanasi Package Different — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>What Makes an Elder-Friendly Varanasi Package Different. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 The right package is not just "the normal plan, but slower." It needs a different logic:
 
 - hotel with easier entry and recovery
@@ -123,6 +130,13 @@ And just as important, it needs the humility to skip things that sound good onli
 - **3N/4D** is the right call when fatigue, sugar levels, joint pain or heat sensitivity are real planning constraints
 
 ## Suggested 2N/3D Low-Walking Flow
+
+<figure class="sales-section-visual" data-sales-visual="en-senior-citizen-varanasi-tour-package-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697617/kashitaxi/sales-visuals/en-senior-citizen-varanasi-tour-package-2.webp" alt="Suggested 2N/3D Low-Walking Flow — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Suggested 2N/3D Low-Walking Flow. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 ### Day 1
 

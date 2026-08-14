@@ -110,6 +110,13 @@ This is a long but useful route for travellers who want a direct door-to-door co
 
 ## Varanasi to Kathmandu Taxi Route Overview
 
+<figure class="sales-section-visual" data-sales-visual="en-city-kathmandu-taxi-varanasi-to-kathmandu-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697604/kashitaxi/sales-visuals/en-city-kathmandu-taxi-varanasi-to-kathmandu-taxi-1.webp" alt="Varanasi to Kathmandu Taxi Route Overview — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi to Kathmandu Taxi Route Overview. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 **Route:** Varanasi → NH29 → Gorakhpur → Maharajganj → Sunauli Border → Belahiya → Butwal → Mugling → Kathmandu
 
 **Route breakdown:**
@@ -348,6 +355,13 @@ For trekkers and long-stay travellers:
 - Sunscreen for high altitude.
 
 ## How to Book Varanasi to Kathmandu Taxi
+
+<figure class="sales-section-visual" data-sales-visual="en-city-kathmandu-taxi-varanasi-to-kathmandu-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697605/kashitaxi/sales-visuals/en-city-kathmandu-taxi-varanasi-to-kathmandu-taxi-2.webp" alt="How to Book Varanasi to Kathmandu Taxi — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>How to Book Varanasi to Kathmandu Taxi. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 1. **Contact us:** Phone [99354 74730](tel:+919935474730) or WhatsApp [+91 99354 74730](https://wa.me/919935474730?text=Book%20Varanasi%20to%20Kathmandu%20taxi).
 2. **Share details:** Travel dates, passengers, nationality, vehicle preference, one-way or round-trip, and trekking plans if any.

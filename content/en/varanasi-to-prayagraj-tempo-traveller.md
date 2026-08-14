@@ -52,6 +52,13 @@ If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare in
 
 ## Quick Route Snapshot
 
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-prayagraj-tempo-traveller-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697647/kashitaxi/sales-visuals/en-varanasi-to-prayagraj-tempo-traveller-2.webp" alt="Quick Route Snapshot — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Quick Route Snapshot. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Detail | Information |
 |---|---|
 | **Road distance** | About 121 km |
@@ -69,6 +76,13 @@ If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare in
 These are the latest confirmed fares for a Varanasi to Prayagraj tempo traveller — the full breakdown is above.
 
 ## What Is Included In The Fare
+
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-prayagraj-tempo-traveller-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697646/kashitaxi/sales-visuals/en-varanasi-to-prayagraj-tempo-traveller-1.webp" alt="What Is Included In The Fare — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>What Is Included In The Fare. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 Your quoted Prayagraj tempo traveller fare includes:
 

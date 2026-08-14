@@ -53,6 +53,13 @@ aggregateRating:
 
 ## वाराणसी से विंध्याचल: दूरी, मार्ग और यात्रा के विकल्प
 
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-vindhyachal-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697591/kashitaxi/sales-visuals/hi-varanasi-to-vindhyachal-taxi-1.webp" alt="वाराणसी से विंध्याचल: दूरी, मार्ग और यात्रा के विकल्प — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>वाराणसी से विंध्याचल: दूरी, मार्ग और यात्रा के विकल्प. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 ![विंध्याचल मंदिर परिसर (प्रतिनिधि)](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg "विंध्याचल/मिर्जापुर क्षेत्र - शांत घाट और मंदिर क्षेत्र")
 
 **वाराणसी से विंध्याचल की दूरी** लगभग 65-70 किमी है, जो इसे एक दिन की यात्रा के लिए एक आदर्श गंतव्य बनाती है। यात्रा में आमतौर पर लगभग 1.5 से 2 घंटे लगते हैं।
@@ -90,6 +97,13 @@ aggregateRating:
 ---
 
 ## वाराणसी से विंध्याचल टैक्सी किराया और टूर पैकेज
+
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-vindhyachal-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697592/kashitaxi/sales-visuals/hi-varanasi-to-vindhyachal-taxi-2.webp" alt="वाराणसी से विंध्याचल टैक्सी किराया और टूर पैकेज — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>वाराणसी से विंध्याचल टैक्सी किराया और टूर पैकेज. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 इस यात्रा के लिए टैक्सी किराए पर लेना पसंदीदा तरीका है।
 

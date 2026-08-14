@@ -76,6 +76,13 @@ The daily aartis inside Kashi Vishwanath are the emotional heart of a Kashi visi
 
 ## The Five Daily Aartis (Indicative Timings)
 
+<figure class="sales-section-visual" data-sales-visual="en-services-kashi-vishwanath-aarti-timings-booking-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697692/kashitaxi/sales-visuals/en-services-kashi-vishwanath-aarti-timings-booking-1.webp" alt="The Five Daily Aartis (Indicative Timings) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>The Five Daily Aartis (Indicative Timings). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Aarti | Indicative time | Notes |
 |---|---|---|
 | **Mangala Aarti** | ~3:00–4:00 AM | The famous pre-dawn aarti; limited paid pass, sells out |
@@ -122,6 +129,13 @@ The daily aartis inside Kashi Vishwanath are the emotional heart of a Kashi visi
 ---
 
 ## How to Book Kashi Vishwanath Aarti Assistance (2 Minutes)
+
+<figure class="sales-section-visual" data-sales-visual="en-services-kashi-vishwanath-aarti-timings-booking-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697693/kashitaxi/sales-visuals/en-services-kashi-vishwanath-aarti-timings-booking-2.webp" alt="How to Book Kashi Vishwanath Aarti Assistance (2 Minutes) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>How to Book Kashi Vishwanath Aarti Assistance (2 Minutes). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 1. **WhatsApp us** the aarti you want, your date and number of people.
 2. We share the **current official rate**, our assistance charge, and a clear plan.

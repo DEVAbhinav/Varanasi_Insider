@@ -64,6 +64,13 @@ relatedPosts:
 - वेळानुसार itinerary बदलने की स्वतंत्रता (परिक्रमा सुबह या शाम)।
 
 ## दूरी, रूट और समय
+
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-chitrakoot-tempo-traveller-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697674/kashitaxi/sales-visuals/hi-varanasi-to-chitrakoot-tempo-traveller-1.webp" alt="दूरी, रूट और समय — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>दूरी, रूट और समय. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 | खंड | अनुमानित दूरी | नोट |
 | --- | --- | --- |
 | वाराणसी → प्रयागराज (NH19) | 120 किमी | 2.5 घंटे, हैंडिया के पास नाश्ता |
@@ -100,6 +107,13 @@ relatedPosts:
 > यदि दिन 1 में देर हो जाए तो कामदगिरि परिक्रमा को दिन 2 सुबह शिफ्ट करें।
 
 ## दर्शनीय स्थलों का संक्षिप्त मार्गदर्शन
+
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-chitrakoot-tempo-traveller-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697675/kashitaxi/sales-visuals/hi-varanasi-to-chitrakoot-tempo-traveller-2.webp" alt="दर्शनीय स्थलों का संक्षिप्त मार्गदर्शन — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>दर्शनीय स्थलों का संक्षिप्त मार्गदर्शन. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 - **कामदगिरि परिक्रमा:** लगभग 5 किमी वृत्त, संभव हो तो नंगे पाँव चलें। प्लास्टिक से बचें।
 - **रामघाट की आरती:** शाम को दीप जलाकर आरती, सुबह का शांत वातावरण भी अनुभवी।
 - **हनुमान धारा:** ऊँचाई पर स्थित मंदिर, सीढ़ियाँ मध्यम कठिन। वरिष्ठों के लिए वाहन में रखी अतिरिक्त छड़ी उपयोगी।

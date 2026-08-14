@@ -10,6 +10,7 @@ import FareEstimator from '../components/Pink/FareEstimator';
 import TourPackages from '../components/Pink/TourPackages';
 import SafetyBlock from '../components/Pink/SafetyBlock';
 import SeoCopy from '../components/Pink/SeoCopy';
+import SalesSectionVisuals from '../components/SalesSectionVisuals/SalesSectionVisuals';
 
 export default function PinkPage() {
   return (
@@ -27,6 +28,9 @@ export default function PinkPage() {
         <TourPackages />
   <SeoCopy />
         <SafetyBlock />
+        <div className="container mx-auto max-w-5xl px-4 py-10">
+          <SalesSectionVisuals route="/pink-taxi-varanasi" />
+        </div>
         {/* Placeholder for other sections */}
       </main>
       <Footer />

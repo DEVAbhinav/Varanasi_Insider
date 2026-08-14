@@ -79,6 +79,13 @@ We confirm the vehicle, fare and practical meeting point before the booking is f
 
 ## Late-Night Airport and Station Pickup
 
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-24-7-taxi-varanasi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697641/kashitaxi/sales-visuals/en-city-varanasi-taxi-24-7-taxi-varanasi-1.webp" alt="Late-Night Airport and Station Pickup — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Late-Night Airport and Station Pickup. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 Airport and railway pickups need more than a city name. Share the terminal or station, arrival number and hotel location. If a car cannot reach the final ghat-side property, we will agree on the nearest practical drop point before confirmation.
 
 - [Varanasi airport taxi guide](/en/varanasi-airport-taxi-guide)
@@ -86,6 +93,13 @@ Airport and railway pickups need more than a city name. Share the terminal or st
 - [Airport transfer route directory](/en/city/varanasi/taxi/varanasi-airport-transfer-directory)
 
 ## Fare and Availability
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-24-7-taxi-varanasi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697642/kashitaxi/sales-visuals/en-city-varanasi-taxi-24-7-taxi-varanasi-2.webp" alt="Fare and Availability — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Fare and Availability. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 There is no universal night fare that applies to every route. The final quote depends on the pickup, destination, vehicle and timing. We do not add a separate blanket night surcharge on this page; the complete amount is shared before you confirm.
 

@@ -72,6 +72,13 @@ faqSchema:
 
 ## Varanasi to Ayodhya Route: Turn-by-Turn Landmarks
 
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-ayodhya-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697602/kashitaxi/sales-visuals/en-varanasi-to-ayodhya-taxi-1.webp" alt="Varanasi to Ayodhya Route: Turn-by-Turn Landmarks — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi to Ayodhya Route: Turn-by-Turn Landmarks. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 Most Varanasi taxi drivers take this route — it's the fastest and avoids Jaunpur city traffic:
 
 | Km from Varanasi | Landmark | Notes |
@@ -134,6 +141,13 @@ Planning Ayodhya with Prayagraj in one trip? See the [Kashi–Prayag–Ayodhya p
 **Note:** These run from Varanasi Junction. If you're near the airport, a taxi to the station itself takes 30–45 min.
 
 ## Ram Mandir: What to Expect When You Arrive
+
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-ayodhya-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697603/kashitaxi/sales-visuals/en-varanasi-to-ayodhya-taxi-2.webp" alt="Ram Mandir: What to Expect When You Arrive — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Ram Mandir: What to Expect When You Arrive. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 ### Queue Times (based on recent visitor reports)
 

@@ -70,6 +70,13 @@ I've run this exact 3-city circuit for temple committees, corporate CSR teams, a
 
 ## The 3-City Route at a Glance
 
+<figure class="sales-section-visual" data-sales-visual="en-ayodhya-varanasi-prayagraj-group-tour-package-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697678/kashitaxi/sales-visuals/en-ayodhya-varanasi-prayagraj-group-tour-package-1.webp" alt="The 3-City Route at a Glance — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>The 3-City Route at a Glance. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Leg | Distance | Drive Time | Spiritual Focus |
 | --- | --- | --- | --- |
 | Varanasi → Prayagraj | 122 km (NH-19) | 2 hr 20 min | Kashi Vishwanath + Ganga Aarti |
@@ -246,6 +253,13 @@ Possible add-ons:
 - extra rest day in Varanasi or Ayodhya
 
 ## Vehicle Logic for This Circuit
+
+<figure class="sales-section-visual" data-sales-visual="en-ayodhya-varanasi-prayagraj-group-tour-package-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697679/kashitaxi/sales-visuals/en-ayodhya-varanasi-prayagraj-group-tour-package-2.webp" alt="Vehicle Logic for This Circuit — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Vehicle Logic for This Circuit. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 This package should not be sold as “tempo traveller only.” The stronger message is:
 

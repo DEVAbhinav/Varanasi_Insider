@@ -118,6 +118,13 @@ The name **Vindhyachal Mandir** is commonly used to refer to the Maa Vindhyavasi
 
 ## Varanasi to Vindhyachal: Distance, Route & Travel Options
 
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-vindhyachal-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697596/kashitaxi/sales-visuals/en-varanasi-to-vindhyachal-taxi-2.webp" alt="Varanasi to Vindhyachal: Distance, Route &amp; Travel Options — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi to Vindhyachal: Distance, Route &amp; Travel Options. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 ![Devotees walking into Maa Vindhyavasini temple corridor](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg "Vindhyachal/Mirzapur region – tranquil ghats and temple areas")
 
 The **Varanasi to Vindhyachal distance** is approximately 65-70 km, making it an ideal destination for a day trip. The journey usually takes about 1.5 to 2 hours.
@@ -157,6 +164,13 @@ Maa Vindhyavasini is a powerful embodiment of Shakti. A visit here is believed t
 ---
 
 ## Varanasi to Vindhyachal Taxi Fare & Tour Packages
+
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-vindhyachal-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697594/kashitaxi/sales-visuals/en-varanasi-to-vindhyachal-taxi-1.webp" alt="Varanasi to Vindhyachal Taxi Fare &amp; Tour Packages — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi to Vindhyachal Taxi Fare &amp; Tour Packages. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 Hiring a taxi remains the most convenient way to complete darshan without scrambling for last-mile autos. All fares below were reconfirmed Nov 2026 with Vinayak Travels.
 

@@ -35,6 +35,13 @@ lastUpdated: "2026-07-15"
 
 ## Full Day Taxi for Varanasi Sightseeing Price: Winter 2026 Tour Packages (8–10 Hours)
 
+<figure class="sales-section-visual" data-sales-visual="en-services-varanasi-full-day-city-tour-winter-2026-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697663/kashitaxi/sales-visuals/en-services-varanasi-full-day-city-tour-winter-2026-1.webp" alt="Full Day Taxi for Varanasi Sightseeing Price: Winter 2026 Tour Packages (8–10 Hours) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Full Day Taxi for Varanasi Sightseeing Price: Winter 2026 Tour Packages (8–10 Hours). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 ### Classic Varanasi Sightseeing Package by Car
 
 **Duration**: 8 hours | **Vehicle**: Sedan (up to 4 pax) | **Price**: ₹2,200
@@ -183,6 +190,13 @@ We design route + quote accordingly.
 - **Malaiyyo**: Seasonal (Dec–Jan); driver coordinates fresh batch
 
 ## How to Book Full-Day Varanasi Sightseeing Tour: Simple 5-Step Process
+
+<figure class="sales-section-visual" data-sales-visual="en-services-varanasi-full-day-city-tour-winter-2026-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697664/kashitaxi/sales-visuals/en-services-varanasi-full-day-city-tour-winter-2026-2.webp" alt="How to Book Full-Day Varanasi Sightseeing Tour: Simple 5-Step Process — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>How to Book Full-Day Varanasi Sightseeing Tour: Simple 5-Step Process. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 1. **Select Package or Request Custom**: Share group size, interests, must-see sites
 2. **Choose Vehicle**: Sedan (1–4 pax) / Innova (5–6 pax) / Tempo Traveller (7–12 pax)

@@ -50,6 +50,13 @@ Book the **1N/2D** format — same-day is a slog. Chakratirth, Lalita Devi and S
 
 ## Fare Snapshot (12-seater, 2026)
 
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-naimisharanya-tempo-traveller-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697636/kashitaxi/sales-visuals/en-varanasi-to-naimisharanya-tempo-traveller-2.webp" alt="Fare Snapshot (12-seater, 2026) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Fare Snapshot (12-seater, 2026). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 | Item | Approx |
 |---|---:|
 | Km billing (~800–840 km @ ₹24/km) | ₹19,200–₹20,200 |
@@ -60,6 +67,13 @@ Book the **1N/2D** format — same-day is a slog. Chakratirth, Lalita Devi and S
 17-seater and luxury variants quoted on request.
 
 ## Route Options (for the driver plan)
+
+<figure class="sales-section-visual" data-sales-visual="en-varanasi-to-naimisharanya-tempo-traveller-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697635/kashitaxi/sales-visuals/en-varanasi-to-naimisharanya-tempo-traveller-1.webp" alt="Route Options (for the driver plan) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Route Options (for the driver plan). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 | Route Variant | Approx One‑Way Km | Notes |
 | --- | --- | --- |
 | Via Jaunpur – Lucknow – Sitapur | 400–410 | Fastest mix of 4‑lane + expressway; food halt near Lucknow |

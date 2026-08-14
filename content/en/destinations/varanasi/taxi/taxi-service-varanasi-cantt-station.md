@@ -70,6 +70,13 @@ Varanasi Junction (Cantt) is crowded at all hours—autos, touts, and porters ev
 *The station complex itself can take 10–15 minutes to exit during train rush—plan buffer time.*
 
 ## How our station pickup works
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-taxi-service-varanasi-cantt-station-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697637/kashitaxi/sales-visuals/en-city-varanasi-taxi-taxi-service-varanasi-cantt-station-1.webp" alt="How our station pickup works — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>How our station pickup works. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 - **Book in advance:** Share your **PNR or train number** via WhatsApp/call so dispatch tracks live status.
 - **Driver details ahead of time:** Receive driver name, phone, car number, and color **30 minutes before arrival**.
 - **The meeting point:** We guide you to the circulating area/"Parao" lane on the Cantt side; if needed, we use the Platform 8 gate for elderly passengers.
@@ -86,6 +93,13 @@ Varanasi Junction (Cantt) is crowded at all hours—autos, touts, and porters ev
 - **Luggage help:** Porter support arranged on request; driver assists at the cab lane.
 
 ## Sample Cantt station fares (fixed, sedan)
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-taxi-service-varanasi-cantt-station-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697639/kashitaxi/sales-visuals/en-city-varanasi-taxi-taxi-service-varanasi-cantt-station-2.webp" alt="Sample Cantt station fares (fixed, sedan) — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Sample Cantt station fares (fixed, sedan). A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 | Route | Est. time | Fare |
 | --- | --- | --- |

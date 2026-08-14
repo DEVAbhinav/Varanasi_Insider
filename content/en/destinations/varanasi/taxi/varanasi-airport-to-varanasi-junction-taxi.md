@@ -58,6 +58,13 @@ The **varanasi airport to railway station distance** — or phrased the other wa
 > **Flash Offer:** ₹890 sedan drop when you call within 2 hours of pickup (weekday, non-festival, 15-minute standby at Cantt parao lane).
 
 ## Best Varanasi Airport to Varanasi Junction route
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-varanasi-junction-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697597/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-varanasi-junction-taxi-1.webp" alt="Best Varanasi Airport to Varanasi Junction route — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Best Varanasi Airport to Varanasi Junction route. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 Exit VNS onto Ring Road, cruise past the Harhua flyover, and merge toward Sarnath crossing before turning onto Cantt Road. This route keeps you on wider corridors and bypasses old-city congestion. When Cantt Road is choked by arrivals, drivers detour via Maldahiya to reach the station from the Lahurabir side. Factor a brief slowdown at the entrance security gate when multiple trains arrive together.
 
 ## Catching your train? Buffer times explained
@@ -79,6 +86,13 @@ Varanasi Junction’s station code is **BSB**, and it handles high-frequency dep
 If your inbound flight lands later than the “safe” window, call dispatch while still airborne so the control room can suggest alternate trains or arrange bedroll delivery in case you miss the connection.
 
 ## Varanasi Airport to Varanasi Junction taxi fare
+
+<figure class="sales-section-visual" data-sales-visual="en-city-varanasi-taxi-varanasi-airport-to-varanasi-junction-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697599/kashitaxi/sales-visuals/en-city-varanasi-taxi-varanasi-airport-to-varanasi-junction-taxi-2.webp" alt="Varanasi Airport to Varanasi Junction taxi fare — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>Varanasi Airport to Varanasi Junction taxi fare. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 The Varanasi airport to Varanasi railway station taxi fare is fixed and transparent:
 - Economy sedan: **₹700–900** standard; **Flash ₹890** when you confirm within 2 hours (weekday, sedan-only, 15-minute standby).

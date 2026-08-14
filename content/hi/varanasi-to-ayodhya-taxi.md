@@ -55,6 +55,13 @@ faqSchema:
 
 ## वाराणसी से अयोध्या टैक्सी: रूट, समय और यात्रा विकल्प
 
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-ayodhya-taxi-1">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697606/kashitaxi/sales-visuals/hi-varanasi-to-ayodhya-taxi-1.webp" alt="वाराणसी से अयोध्या टैक्सी: रूट, समय और यात्रा विकल्प — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>वाराणसी से अयोध्या टैक्सी: रूट, समय और यात्रा विकल्प. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
+
 ![अयोध्या रोड ट्रिप के लिए वाराणसी से निकलने वाली प्राइवेट टैक्सी](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTaxi1.jpg "काशी → अयोध्या मार्ग के लिए आरामदायक सड़क स्थानान्तरण")
 
 **वाराणसी से अयोध्या टैक्सी बुकिंग** के लिए किराया, गाड़ी के विकल्प और यात्रा का पूरा विवरण नीचे दिया गया है।
@@ -144,6 +151,13 @@ faqSchema:
 {{CTA:ROUTE_CAB_AYODHYA:hi}}
 
 ## राम मंदिर दर्शन कतार समय 2026
+
+<figure class="sales-section-visual" data-sales-visual="hi-varanasi-to-ayodhya-taxi-2">
+  <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">
+    <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1786697607/kashitaxi/sales-visuals/hi-varanasi-to-ayodhya-taxi-2.webp" alt="राम मंदिर दर्शन कतार समय 2026 — visual field guide by Kashi Taxi" loading="lazy" width="1200" height="892" />
+  </a>
+  <figcaption>राम मंदिर दर्शन कतार समय 2026. A section-specific planning graphic prepared by Kashi Taxi using the details on this page. <strong>Kashi Taxi · kashitaxi.in</strong></figcaption>
+</figure>
 
 | दिन | अपेक्षित कतार | सबसे अच्छा समय |
 |---|---|---|
