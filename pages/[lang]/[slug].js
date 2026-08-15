@@ -300,10 +300,10 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const { getAllPostPaths } = await import('../../lib/posts');
-  const paths = getAllPostPaths();
   return {
-    paths,
-    fallback: false,
+    // Articles are generated on their first request. Pre-rendering every guide
+    // duplicates the full article HTML and page data in the server bundle.
+    paths: [],
+    fallback: 'blocking',
   };
 }
