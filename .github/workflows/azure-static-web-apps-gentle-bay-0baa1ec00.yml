@@ -51,10 +51,13 @@ jobs:
       - name: Optimize Azure artifact
         run: |
           rm -rf .next/cache .next/standalone
+          rm -rf public/images/sales-visuals
           find .next -name "*.map" -type f -delete
           find .next -name "*.nft.json" -type f -delete
           echo "Azure artifact size:"
           du -sh .next
+          echo "Public asset size:"
+          du -sh public
       
       - name: Deploy to Azure
         id: builddeploy
