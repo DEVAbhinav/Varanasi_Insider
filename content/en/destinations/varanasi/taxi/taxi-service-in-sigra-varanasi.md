@@ -5,10 +5,8 @@ date: '2026-07-15'
 lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: 'Sigra Taxi Service Varanasi: 10–15 min | From ₹800'
-metaDescription: >-
-  Book a Sigra cab near IP Mall/Rath Yatra: 10–15 min pickup, verified drivers,
-  fixed fares on confirmed bookings. Airport drops from ₹800.
+metaTitle: "Taxi Service in Sigra Varanasi | 24/7 Local & Outstation Cabs"
+metaDescription: "Top taxi service in Sigra Varanasi. Fast 10-minute pickup at IP Mall & Sigra Stadium. Local sightseeing & outstation cabs from ₹499. Call 99354 74730."
 description: >-
   Local Sigra taxi service with office in Shastri Nagar. 10–15 minute pickups
   near IP Mall, Rath Yatra, Mahmoorganj. No surge pricing, fixed fares, verified

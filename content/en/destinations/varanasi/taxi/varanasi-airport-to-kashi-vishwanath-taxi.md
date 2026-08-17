@@ -5,8 +5,8 @@ date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Kashi Vishwanath Taxi from VNS Airport ₹890 | 25 km, 40 min"
-metaDescription: "Varanasi Airport to Kashi Vishwanath taxi at a fixed ₹890 (sedan) — 25 km, 40-min corridor drop, driver waits 15 min. No surge. Book on WhatsApp: 99354 74730."
+metaTitle: "Airport to Kashi Vishwanath Distance & Taxi Fare (₹899)"
+metaDescription: "Varanasi Airport to Kashi Vishwanath Mandir is 24 km (45 min). Book direct AC taxi from ₹899 with Gate 4 drop guidance & no hidden fees. Call 99354 74730."
 description: "Book pre-arranged Varanasi Airport to Kashi Vishwanath taxi at ₹890 flash rate with corridor parking access. 25km, 40min drop. Driver waits 15min. Call 99354 74730."
 keywords:
   - "varanasi airport to kashi vishwanath distance"
@@ -190,4 +190,5 @@ Turn your airport pickup into a complete Varanasi experience — booked with one
 - 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** on the Ganges.
 - 🪔 **[Ganga Aarti boat booking & price](/en/ganga-aarti-boat-booking-price)** — reserve a front-row boat for the Dashashwamedh Aarti.
 - 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — riverside and budget stays near the ghats.
-- 🚕 **[Varanasi tour & sightseeing packages](/en/tour-package-from-varanasi)** — Kashi Vishwanath, Sarnath and the ghats.
+- 🚕 **[Varanasi tour packages](/en/packages/varanasi-tour-package)** — complete 2/3/4-day itineraries covering Kashi Vishwanath, Sarnath and the ghats.
+- 🛕 **[Same Day Varanasi Tour](/en/city/varanasi/tour-packages/same-day-varanasi-tour)** — 8-hour sightseeing cab package for ₹2,499.

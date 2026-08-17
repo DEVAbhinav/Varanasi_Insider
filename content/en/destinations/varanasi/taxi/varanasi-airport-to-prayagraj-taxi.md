@@ -5,8 +5,8 @@ date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Prayagraj Taxi ₹3,499 | 2.5hr Highway Trip, Sangam Drop"
-metaDescription: "Book VNS to Prayagraj (Allahabad) cab from ₹3,499. 120km via NH-19, 2-3 hrs. Sangam/Civil Lines drop, Maha Kumbh 2026 transfers, toll breakup included."
+metaTitle: "Varanasi Airport to Prayagraj Taxi ₹2,388 — Sangam Drop AC Cab"
+metaDescription: "Book Varanasi Airport to Prayagraj (Allahabad) cab from ₹2,388. Triveni Sangam, Civil Lines & Railway station drop. 2.5 hrs smooth highway ride. Call 99354 74730."
 description: "Pre-book VNS Airport to Prayagraj cab from ₹3,499. 118 km via NH-19, Sangam and Civil Lines drop, Maha Kumbh 2026-ready convoy."
 keywords:
   - "varanasi airport to prayagraj distance"

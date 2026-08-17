@@ -7,11 +7,8 @@ date: '2026-07-24'
 lastUpdated: '2026-08-02'
 author: Kamal Nayan Singh
 lang: hi
-metaTitle: 'Prayagraj से वाराणसी टैक्सी किराया ₹2,388 से | 120-125 km'
-metaDescription: >-
-  Prayagraj से वाराणसी टैक्सी व कैब किराया: AC Dzire ₹2,388 वन-वे, ₹3,275
-  राउंड-ट्रिप से। 120-125 km, 2.5-3 hr। फिक्स्ड किराया, टोल शामिल, Innova व
-  Tempo भी। WhatsApp पर बुक करें।
+metaTitle: "प्रयागराज से वाराणसी टैक्सी किराया ₹2,388 | संगम से काशी कैब"
+metaDescription: "प्रयागराज से वाराणसी टैक्सी का फिक्स किराया ₹2,388 से। 2.5 घंटे में वाराणसी घाट/होटल ड्रॉप। बिना किसी छुपे शुल्क के सुरक्षित सफर। कॉल: 99354 74730."
 description: >-
   Prayagraj से वाराणसी टैक्सी/कैब किराया — Dzire से Tempo Traveller तक हर गाड़ी
   का रेट, दूरी, समय, टोल और WhatsApp पर फिक्स्ड बुकिंग।
@@ -21,15 +18,11 @@ location:
 featuredImage: >-
   https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg
 keywords:
-  - prayagraj to varanasi taxi fare
-  - prayagraj to varanasi cab fare
-  - prayagraj to varanasi taxi price
-  - prayagraj to varanasi taxi charges
-  - prayagraj to varanasi car rental price
-  - prayagraj to varanasi innova fare
-  - prayagraj to varanasi tempo traveller fare
-  - prayagraj to varanasi one way taxi fare
-  - prayagraj to varanasi taxi rate per km
+  - प्रयागराज से वाराणसी टैक्सी किराया
+  - प्रयागराज से वाराणसी कैब रेट
+  - संगम से वाराणसी टैक्सी
+  - प्रयागराज जंक्शन से काशी टैक्सी
+  - prayagraj to varanasi taxi fare hindi
 tags:
   - taxi
   - cab

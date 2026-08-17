@@ -1,8 +1,8 @@
 ---
 lang: en
 title: "Kashi Vishwanath Darshan + Ganga Aarti Package 2026 | Temple, Boat & Official-Safe Planning"
-metaTitle: "Kashi Vishwanath Darshan Package | Ganga Aarti, Boat, Pickup & Sugam Guidance"
-metaDescription: "Book a Kashi Vishwanath darshan and Ganga Aarti package with pickup, local movement, boat options, and official-safe planning for regular, Shravan, and high-crowd periods."
+metaTitle: "Kashi Vishwanath Darshan & Ganga Aarti Package | VIP Boat Tour"
+metaDescription: "Combined Kashi Vishwanath VIP darshan and Dashashwamedh Ganga Aarti boat seat package. Doorstep hotel pickup & local guide escort: 99354 74730."
 description: "Book a Kashi Vishwanath darshan plus Ganga Aarti package with official-safe wording, Sugam guidance context and practical same-day planning."
 date: 2026-03-07
 lastUpdated: 2026-03-07

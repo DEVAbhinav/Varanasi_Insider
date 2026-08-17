@@ -1,8 +1,8 @@
 ---
 lang: en
 title: "Senior Citizen Varanasi Tour Package | Elder Cab Booking"
-metaTitle: "Senior Citizen Varanasi Tour Package | Elder Cab Booking"
-metaDescription: "Book senior citizen Varanasi tour package: low-walking darshan, hotel-first drops, rest breaks, private cab. 2N/3D pacing for parents. WhatsApp +91 99354 74730."
+metaTitle: "Senior Citizen Varanasi Tour Package | Low-Walking Kashi Darshan"
+metaDescription: "Specially designed Kashi tour for elderly parents. Low-walking itineraries, wheelchair & battery car assistance, Gate 4 priority darshan: 99354 74730."
 description: "Elder-friendly Varanasi package with low-walking darshan planning, hotel-access-first comfort, rest-aware temple and ghat scheduling."
 date: 2026-03-07
 lastUpdated: 2026-08-11

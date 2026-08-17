@@ -5,10 +5,8 @@ date: '2026-07-15'
 lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: Airport to Taj Gateway Varanasi | Complete Transfer Guide | Kashi Taxi
-metaDescription: >-
-  Complete guide to airport transfers from Varanasi Airport (VNS) to Taj Gateway
-  Hotel. Book reliable taxi service with pricing, distance & tips.
+metaTitle: "Varanasi Airport to Taj Gateway / Ganges Taxi | Premium Cab ₹899"
+metaDescription: "Executive taxi from Varanasi Airport to Taj Gateway / Taj Ganges Nadesar from ₹899. 30 min direct transfer, flight tracking & premium fleet. Book: 99354 74730."
 description: >-
   Everything you need to know about airport transfers from Varanasi Airport
   (VNS) to Taj Gateway Hotel. Distance, pricing, routes, and booking options for

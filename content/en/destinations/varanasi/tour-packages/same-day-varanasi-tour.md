@@ -7,8 +7,8 @@ author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/same-day-varanasi-tour"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/v1766992833/kashitaxi/same-day-tour-hero.jpg"
-metaTitle: "Same Day Varanasi Tour Package | 8-10 Hour Guided Kashi Darshan"
-metaDescription: "8–10 hour escorted darshan covering Kashi Vishwanath, Sarnath, iconic ghats, curated street food and the Dashashwamedh Ganga Aarti."
+metaTitle: "Same Day Varanasi Tour Package | 8-Hr City Sightseeing ₹2,499"
+metaDescription: "Cover Kashi Vishwanath, Annapurna, Sankat Mochan, BHU, Sarnath & Ganga Aarti in 8 hours. Private AC cab with driver starting ₹2,499. Call 99354 74730."
 description: "Experience the best of Varanasi in one day. Visit Kashi Vishwanath, Sarnath, and Ganga Aarti with our same-day tour package. Private cab and guide included."
 location:
   name: "Varanasi"

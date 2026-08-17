@@ -5,11 +5,8 @@ date: '2026-07-24'
 lastUpdated: '2026-08-02'
 author: Kamal Nayan Singh
 lang: hi
-metaTitle: 'Ayodhya से वाराणसी टैक्सी किराया ₹3,820 से | ~200 km'
-metaDescription: >-
-  Ayodhya से वाराणसी टैक्सी व कैब किराया: AC Dzire ₹3,820 वन-वे, ₹5,240
-  राउंड-ट्रिप से। ~200 km, 4-5 hr। फिक्स्ड किराया, टोल शामिल, Innova व Tempo भी।
-  WhatsApp पर बुक करें।
+metaTitle: "अयोध्या से वाराणसी टैक्सी किराया ₹3,820 | वन-वे व राउंड ट्रिप"
+metaDescription: "अयोध्या राम मंदिर से वाराणसी टैक्सी का सही किराया 2026। सेडान ₹3,820, अर्टिगा व इनोवा उपलब्ध। 3.5 घंटे में आरामदायक यात्रा। अभी कॉल करें: 99354 74730."
 description: >-
   Ayodhya से वाराणसी टैक्सी/कैब किराया — Dzire से Tempo Traveller तक हर गाड़ी का
   रेट, दूरी, समय, टोल और WhatsApp पर फिक्स्ड बुकिंग।
@@ -19,15 +16,11 @@ location:
 featuredImage: >-
   https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg
 keywords:
-  - ayodhya to varanasi taxi fare
-  - ayodhya to varanasi cab fare
-  - ayodhya to varanasi taxi price
-  - ayodhya to varanasi taxi charges
-  - ayodhya to varanasi car rental price
-  - ayodhya to varanasi innova fare
-  - ayodhya to varanasi tempo traveller fare
-  - ayodhya to varanasi one way taxi fare
-  - ayodhya to varanasi taxi rate per km
+  - अयोध्या से वाराणसी टैक्सी किराया
+  - अयोध्या वाराणसी कैब रेट
+  - अयोध्या से वाराणसी टैक्सी बुकिंग
+  - अयोध्या राम मंदिर से काशी विश्वनाथ टैक्सी
+  - ayodhya to varanasi taxi fare in hindi
 tags:
   - taxi
   - cab

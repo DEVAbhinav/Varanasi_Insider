@@ -9,8 +9,8 @@ heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitax
 author: "Kamal Nayan Singh"
 subtitle: "A fixed-price Varanasi to Ayodhya Ram Mandir darshan trip — comfortable cab, hotel and Ram Janmabhoomi + Hanumangarhi darshan help, with transparent per-person pricing and honest local coordination."
 description: "Book an Ayodhya Ram Mandir darshan package from Varanasi. Fixed per-person price with comfortable cab, hotel and Ram Janmabhoomi + Hanumangarhi + Saryu Aarti darshan help. Transparent pricing, honest local team on WhatsApp."
-metaTitle: "Ayodhya Ram Mandir Package from Varanasi 2026 | From ₹5,499/pp"
-metaDescription: "Ayodhya Ram Mandir darshan package from Varanasi — fixed per-person price, comfortable cab, hotel & Ram Janmabhoomi + Hanumangarhi + Saryu Aarti. Transparent pricing, honest local help on WhatsApp."
+metaTitle: "Ayodhya Ram Mandir Tour Package from Varanasi | Same Day from ₹3,820"
+metaDescription: "Book same-day or 2-day Ayodhya Ram Mandir tour from Varanasi (3.5 hrs). AC Dzire/Ertiga, Hanumangarhi, Saryu Aarti & VIP darshan assistance: 99354 74730."
 keywords:
   - "ayodhya ram mandir package from varanasi"
   - "varanasi to ayodhya ram mandir darshan"

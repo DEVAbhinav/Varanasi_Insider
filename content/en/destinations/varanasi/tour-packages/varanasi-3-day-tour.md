@@ -7,8 +7,8 @@ author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/varanasi-3-day-tour"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg"
-metaTitle: "3 Day Varanasi Tour Package | Complete Kashi Cultural Immersion"
-metaDescription: "Slow-paced 3-day Kashi immersion with twin boat rides, complete temple loop, Sarnath deep dive, Ramnagar Fort, silk ateliers, cultural performances and premium concierge support."
+metaTitle: "Varanasi 3 Day Tour Package | 2N/3D Complete Kashi Itinerary"
+metaDescription: "Unrushed 3-day Varanasi tour. Includes morning boat ride, Ramnagar Fort, Sarnath, silk weaving tour, and temple VIP darshan. Custom family quote: 99354 74730."
 description: "Complete 3-day Varanasi tour package. Slow-paced immersion with twin boat rides, 10+ temple circuit, Sarnath, Ramnagar Fort, silk weaving ateliers, classical music, and premium concierge support."
 location:
   name: "Varanasi"

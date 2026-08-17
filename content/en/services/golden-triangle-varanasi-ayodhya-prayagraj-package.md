@@ -9,8 +9,8 @@ heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitax
 author: "Kamal Nayan Singh"
 subtitle: "The 3-night / 4-day spiritual Golden Triangle — Kashi Vishwanath in Varanasi, Ram Mandir in Ayodhya, and Triveni Sangam in Prayagraj — with private cab, transfers, tolls, and driver all included. Transparent per-person pricing by group size."
 description: "Book the Varanasi–Ayodhya–Prayagraj Golden Triangle tour package (3N/4D) from ₹8,499 per person. Private AC cab, all transfers, tolls, parking, fuel, permits and driver included. Transparent tiered pricing, day-by-day itinerary, Hindi support."
-metaTitle: "Golden Triangle Varanasi Ayodhya Prayagraj Package 2026 | 3N/4D from ₹8,499"
-metaDescription: "Varanasi–Ayodhya–Prayagraj Golden Triangle tour (3N/4D) from ₹8,499/person. Private AC cab, all transfers, tolls, fuel, driver included. Transparent tiered prices, clear itinerary, book on WhatsApp."
+metaTitle: "Varanasi Ayodhya Prayagraj Tour Package (3N/4D) from ₹8,499"
+metaDescription: "Spiritual Golden Triangle tour: Kashi Vishwanath, Triveni Sangam Prayagraj & Ayodhya Ram Mandir. 3N/4D private AC cab, hotels & VIP darshan: 99354 74730."
 keywords:
   - "golden triangle varanasi ayodhya prayagraj package"
   - "varanasi ayodhya prayagraj tour package"

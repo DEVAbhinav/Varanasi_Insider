@@ -9,8 +9,8 @@ heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitax
 author: "Kamal Nayan Singh"
 subtitle: "Kashi + Ram Janmabhoomi in one smooth trip — Kashi Vishwanath darshan, Ganga Aarti and a sunrise boat ride in Varanasi, then Ram Mandir, Hanuman Garhi and Saryu Aarti in Ayodhya, by private AC cab with transparent per-person pricing."
 description: "Book a Varanasi–Ayodhya tour package (2N/3D) from ₹5,499 per person. Kashi Vishwanath darshan, Ganga Aarti and Ram Mandir Ayodhya by private AC cab. All transfers, tolls, fuel, permits and driver included. Hindi support."
-metaTitle: "Varanasi Ayodhya Tour Package 2026 | 2N/3D from ₹5,499, Kashi + Ram Mandir"
-metaDescription: "Varanasi–Ayodhya tour package (2N/3D) from ₹5,499/person. Kashi Vishwanath darshan, Ganga Aarti, sunrise boat + Ram Mandir, Hanuman Garhi, Saryu Aarti. Private AC cab, transparent tiered prices, book on WhatsApp."
+metaTitle: "Varanasi Ayodhya Tour Package | 2N/3D Kashi & Ram Mandir ₹5,499"
+metaDescription: "Complete 2N/3D Varanasi–Ayodhya tour. Covers Kashi Vishwanath, Ganga Aarti, sunrise boat ride, Ram Janmabhoomi & Saryu Aarti. Private AC cab: 99354 74730."
 keywords:
   - "varanasi ayodhya tour package"
   - "varanasi to ayodhya package"

@@ -1,8 +1,8 @@
 ---
 lang: en
 title: "Varanasi Group Tour Package 2026 | 6 to 40+ Pilgrims, Families & Temple Groups"
-metaTitle: "Varanasi Group Tour Package | 6-40+ Pilgrims, Families & Groups"
-metaDescription: "Book Varanasi group tour packages for 6 to 40+ people. One-day Kashi darshan, 3-day stays, Ayodhya-Prayagraj circuits, tempo traveller, mini bus, hotel and meal plans."
+metaTitle: "Varanasi Group Tour Package | 6 to 40+ Pilgrims Tempo & Bus"
+metaDescription: "Organized group tour packages for 6 to 40+ pilgrims in Varanasi. Luxury Tempo Travellers, mini-buses, group hotel bookings & meal arrangements: 99354 74730."
 description: "The main Kashi Taxi group-tour page for pilgrim groups, families, temple committees, and mixed-age yatras visiting Varanasi with optional Ayodhya and Prayagraj extensions."
 date: 2026-07-15
 lastUpdated: 2026-03-07

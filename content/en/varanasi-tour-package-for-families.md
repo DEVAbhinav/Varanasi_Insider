@@ -1,8 +1,8 @@
 ---
 lang: en
 title: "Varanasi Tour Package for Families 2026 | Safe, Comfortable Kashi Trip with Hotel & Cab"
-metaTitle: "Varanasi Tour Package for Families | Hotel, Cab, Darshan & Ganga Aarti"
-metaDescription: "Book a Varanasi tour package for families with hotel, airport pickup, Kashi Vishwanath planning, Ganga Aarti, Assi, Sarnath and calm pacing for parents, kids and elders."
+metaTitle: "Varanasi Tour Package for Families | Kid & Elder-Friendly Kashi Tour"
+metaDescription: "Comfortable Varanasi family tour package with private AC cab, boutique ghat hotel, relaxed darshan timings, boat ride & Sarnath excursion: 99354 74730."
 description: "Complete Varanasi family package — hotel, local cab, darshan planning, Ganga Aarti and comfortable pacing in one booking."
 date: 2026-03-07
 lastUpdated: 2026-03-07

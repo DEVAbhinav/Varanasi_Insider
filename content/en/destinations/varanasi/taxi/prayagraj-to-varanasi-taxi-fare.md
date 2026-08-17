@@ -332,3 +332,13 @@ Message +91 99354 74730 on WhatsApp with your date, number of passengers and pre
 ### Where do you pick up in Prayagraj?
 
 We pick up from any address you give — home, hotel, railway station or airport. If your train or flight is delayed, the driver waits with a name-board at no extra charge.
+
+
+---
+
+## Want to Explore More? Book a Complete Pilgrimage Package
+
+If you're traveling across multiple cities, consider booking our complete multi-city tour packages. We handle the transport, hotel stays, and VIP darshan arrangements.
+
+- 🚙 **[Golden Triangle Tour (3N/4D)](/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package)** — Varanasi, Ayodhya, and Prayagraj complete pilgrimage package.
+- 🚙 **[Divya Dham 4-City Tour (4N/5D)](/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package)** — Varanasi, Prayagraj, Ayodhya & Bodh Gaya from ₹12,999.

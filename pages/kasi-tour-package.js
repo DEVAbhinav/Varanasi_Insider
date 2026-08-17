@@ -146,28 +146,28 @@ export default function KasiTourPackagePage({ contentHtml }) {
   const seoHead = (
     <>
       <Head>
-        <title>Kasi Tour Package 2026 | Kashi Darshan Spiritual Tours | Kashi Taxi</title>
+        <title>Kasi Tour Package 2026 | Authentic Kashi Darshan from ₹8,500</title>
         <meta
           name="description"
-          content="Book authentic Kasi tour packages with expert guides. Spiritual journeys to Kashi (Varanasi) with transparent pricing, airport transfers, and 24/7 support."
+          content="Book authentic Kasi (Varanasi) tour packages with trusted local guides. Complete temple darshan, Ganga Aarti, VIP priest access & airport transfers: 99354 74730."
         />
         <meta
           name="keywords"
           content="kasi tour package, kashi tour package, varanasi tour package, kashi darshan, banaras pilgrimage, kashi taxi"
         />
-        <meta property="og:title" content="Kasi Tour Package 2026 | Kashi Darshan Spiritual Tours | Kashi Taxi" />
+        <meta property="og:title" content="Kasi Tour Package 2026 | Authentic Kashi Darshan from ₹8,500" />
         <meta
           property="og:description"
-          content="Book authentic Kasi tour packages with expert guides. Spiritual journeys to Kashi (Varanasi) with transparent pricing, airport transfers, and 24/7 support."
+          content="Book authentic Kasi (Varanasi) tour packages with trusted local guides. Complete temple darshan, Ganga Aarti, VIP priest access & airport transfers: 99354 74730."
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.kashitaxi.in/kasi-tour-package" />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Kasi Tour Package 2026 | Kashi Darshan Spiritual Tours | Kashi Taxi" />
+        <meta name="twitter:title" content="Kasi Tour Package 2026 | Authentic Kashi Darshan from ₹8,500" />
         <meta
           name="twitter:description"
-          content="Book authentic Kasi tour packages with expert guides. Spiritual journeys to Kashi (Varanasi) with transparent pricing, airport transfers, and 24/7 support."
+          content="Book authentic Kasi (Varanasi) tour packages with trusted local guides. Complete temple darshan, Ganga Aarti, VIP priest access & airport transfers: 99354 74730."
         />
         <meta name="twitter:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <link rel="canonical" href="https://www.kashitaxi.in/kasi-tour-package" />

@@ -7,8 +7,8 @@ author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Sighseeing1.png"
 showRatesCheatSheet: true
-metaTitle: "Varanasi Day Tour Cab: ₹1,800 for 8hr | Full Price List 2026"
-metaDescription: "Varanasi cab 8hr = ₹1,800 sedan, ₹2,500 Innova. Covers: Kashi Vishwanath, Sarnath, 5 ghats, Ganga Aarti. No hidden charges. Book: 99354 74730"
+metaTitle: "Varanasi Day Tour Cab Charges 2026 | 8-Hr Package from ₹1,800"
+metaDescription: "Varanasi local sightseeing cab charges: 8hr/80km Sedan ₹1,800, Innova ₹2,500. Covers Kashi Vishwanath, Sarnath & Ganga Aarti. Zero surge: 99354 74730."
 description: "2026 Varanasi day tour cab price grid, temple queue hacks, sunrise-to-aarti VIP routing, and WhatsApp script to lock your driver before surge pricing hits."
 keywords:
   - "varanasi day tour cab charges"

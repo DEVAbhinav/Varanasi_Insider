@@ -5,8 +5,8 @@ date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "VNS Airport to Dashashwamedh Ghat Taxi ₹890–950 | 25 km"
-metaDescription: "Airport to Dashashwamedh: 25 km, usually 40–55 min. Sedan ₹800–950 (flash ₹890 on eligible bookings). Aim to arrive 45–60 min before Ganga Aarti."
+metaTitle: "Varanasi Airport to Dashashwamedh Ghat Taxi ₹899 | AC Cab"
+metaDescription: "Book Varanasi Airport to Dashashwamedh Ghat & Godowlia taxi from ₹899. Ganga Aarti drop-off, luggage assistance & 24/7 AC cabs. Call +91 99354 74730."
 description: "Varanasi Airport to Dashashwamedh Ghat taxi ₹890 (Flash offer 2 hours). 25km, 40-55 min. Book instant or call 99354 74730. Catch 6:30 PM Ganga Aarti."
 location:
   name: "Dashashwamedh Ghat"

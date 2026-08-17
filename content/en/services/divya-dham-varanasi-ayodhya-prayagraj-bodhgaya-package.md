@@ -9,8 +9,8 @@ heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitax
 author: "Kamal Nayan Singh"
 subtitle: "The 4-city Divya Dham circuit — Kashi Vishwanath (Varanasi), Ram Mandir (Ayodhya), Triveni Sangam (Prayagraj) and the Mahabodhi Temple (Bodh Gaya) — in one private-cab journey with transfers, tolls, and driver included. Transparent per-person pricing."
 description: "Book the Varanasi–Ayodhya–Prayagraj–Bodh Gaya Divya Dham 4-city tour package from ₹12,000 per person. Private AC cab, transfers, tolls, fuel, permits and driver included. Transparent tiered pricing, day-by-day itinerary, Hindi support."
-metaTitle: "Divya Dham 4-City Tour: Varanasi Ayodhya Prayagraj Bodhgaya 2026 | from ₹12,000"
-metaDescription: "Varanasi–Ayodhya–Prayagraj–Bodh Gaya 4-city Divya Dham package from ₹12,000/person. Private AC cab, transfers, tolls, fuel, driver included. Transparent tiered prices, clear itinerary, book on WhatsApp."
+metaTitle: "4-City Tour: Varanasi, Prayagraj, Ayodhya & Bodh Gaya from ₹12,999"
+metaDescription: "Complete Divya Dham 4-city pilgrimage tour (5 Days). Covers Kashi, Sangam, Ram Janmabhoomi & Mahabodhi Temple. AC transport, hotels & guide: 99354 74730."
 keywords:
   - "varanasi ayodhya prayagraj bodhgaya tour package"
   - "divya dham yatra package"

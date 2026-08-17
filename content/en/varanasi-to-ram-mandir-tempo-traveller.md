@@ -28,6 +28,8 @@ faqSchema:
     answer: "We guide you through the official Shri Ram Janmabhoomi Teerth Kshetra portal to block Sugam Darshan slots. Our Ayodhya coordinator helps seniors and differently abled pilgrims navigate security and frisking lanes."
   - question: "Is a same-day return comfortable for elders?"
     answer: "Yes when you build in rest halts every 90 minutes, carry light snacks, and use the Traveller's push-back seats. Families with 70+ elders often add a short afternoon nap window in the vehicle before departure."
+metaTitle: "Varanasi to Ayodhya Ram Mandir Tempo Traveller from ₹14,500"
+metaDescription: "Book Varanasi to Ayodhya Ram Mandir 12/17/26 seater Tempo Traveller charter from ₹14,500. Same-day & 2-day family packages with verified drivers: 99354 74730."
 ---
 
 # Varanasi to Ram Mandir Tempo Traveller Package (2026)

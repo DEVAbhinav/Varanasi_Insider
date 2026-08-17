@@ -9,6 +9,8 @@ canonical: https://www.kashitaxi.in/en/kashi-darshan-tempo-traveller
 relatedPosts:
   - tempo-traveller-rates-varanasi
   - tempo-traveller-varanasi
+metaTitle: "Kashi Darshan Tempo Traveller Hire | 8-Hr City Tour ₹5,500"
+metaDescription: "Book 12-26 seater luxury Tempo Traveller for Kashi Darshan (8hr/80km from ₹5,500). Cover Kashi Vishwanath, Sarnath, BHU & Ghat Aarti. Call 99354 74730."
 ---
 
 # Kashi Darshan Local Sightseeing by Tempo Traveller

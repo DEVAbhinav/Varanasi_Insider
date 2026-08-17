@@ -5,8 +5,8 @@ date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi Airport to Gorakhpur: Distance, Time, Taxi Fare (2026)"
-metaDescription: "Plan your 211–225 km taxi from Varanasi Airport to Gorakhpur: 4–5 hour drive via NH-31, fare bands by cab type, and list of key pilgrimage and city attractions."
+metaTitle: "Varanasi Airport to Gorakhpur Taxi from ₹3,500 — 4 Hr AC Cab"
+metaDescription: "Direct taxi from Varanasi Airport (VNS) to Gorakhpur & Gorakhnath Temple. 211 km, 4-5 hrs via NH-31. Sedan, Innova & group cabs. Book: 99354 74730."
 description: "Airport transfer guide from Varanasi Airport (VNS) to Gorakhpur with distance, travel time, taxi fares, and stop ideas around Gorakhnath Temple and Ramgarh Tal."
 keywords:
   - "varanasi airport to gorakhpur distance"

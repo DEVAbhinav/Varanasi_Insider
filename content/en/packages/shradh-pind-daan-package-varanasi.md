@@ -2,6 +2,8 @@
 slug: "shradh-pind-daan-package-varanasi"
 lang: "en"
 title: "Shradh & Pind Daan Package Varanasi 2026 | Half-Day, 1-Day & 3-Day Kashi–Gaya with Purohit"
+metaTitle: "Varanasi Shradh & Pind Daan Package | Manikarnika & Ganga Rituals"
+metaDescription: "Authentic Pitru Paksha Shradh & Pind Daan rituals package at Varanasi ghats. Vedic priests, complete puja samagri & respectful guidance: 99354 74730."
 subtitle: "Purohit-led Shradh, Tarpan and Pind Daan packages in Varanasi with samagri, flood-safe transport and transparent dakshina — from half-day rites to a 3-day Kashi–Gaya circuit."
 description: "Book a Shradh & Pind Daan package in Varanasi for Pitru Paksha 2026 (Sep 26–Oct 10). Half-day, 1-day and 3-day Kashi–Gaya options with verified purohit, samagri and cab. From ₹11,000."
 keywords: ["shradh package varanasi","pind daan package varanasi","pitru paksha package varanasi 2026","shradh with purohit varanasi","tarpan package varanasi","kashi gaya pind daan package","varanasi pind daan cost","shradh 1 day package","narayan nag bali package","varshik shradh package varanasi"]

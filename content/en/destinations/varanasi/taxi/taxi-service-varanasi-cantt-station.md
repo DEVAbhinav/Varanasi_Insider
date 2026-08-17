@@ -5,10 +5,8 @@ date: '2026-07-15'
 lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: 'Varanasi Cantt Station Taxi: 24/7 | PNR tracking | ₹450'
-metaDescription: >-
-  Varanasi Junction (Cantt) taxi: 24/7 pickup with PNR tracking, driver details
-  before arrival, guided meeting point. From ₹450.
+metaTitle: "Varanasi Cantt Station Taxi Service | 24/7 Cabs from ₹400"
+metaDescription: "Instant taxi pickup at Varanasi Cantt Junction (BSB). Fast transfers to Godowlia, Assi Ghat & Airport from ₹400. Verified drivers. Call +91 99354 74730."
 description: >-
   Beat the crowd at Varanasi Junction (Cantt). Pre-book a cab with PNR sharing,
   driver details before arrival, and guided meeting point at the circulating
@@ -132,6 +130,15 @@ We include 45 minutes of complimentary waiting from actual arrival. We track PNR
 
 ### Is late-night pickup at Cantt safe?
 Cars are GPS-tracked, drivers are verified, and dispatch stays on-call; share the live link for solo travel.
+
+## Just Arrived? Book Your Whole Kashi Trip in One Message
+
+Turn your station pickup into a complete Varanasi experience — booked with one trusted operator:
+
+- 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** on the Ganges.
+- 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — riverside and budget stays near the ghats.
+- 🚕 **[Varanasi tour packages](/en/packages/varanasi-tour-package)** — complete 2/3/4-day itineraries covering Kashi Vishwanath, Sarnath and the ghats.
+- 🛕 **[Same Day Varanasi Tour](/en/city/varanasi/tour-packages/same-day-varanasi-tour)** — 8-hour sightseeing cab package for ₹2,499.
 
 ---
 

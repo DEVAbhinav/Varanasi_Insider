@@ -5,8 +5,8 @@ date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "VNS→Assi Ghat Taxi ₹800 | Subah-e-Banaras, BHU, Café Access"
-metaDescription: "27km VNS to Assi Ghat in 40-60min. ₹800 sedan via BHU-Lanka. Pre-dawn pickup for Subah-e-Banaras (5:15 AM). Book: wa.me/919935474730"
+metaTitle: "Varanasi Airport to Assi Ghat Taxi ₹899 — 24/7 AC Pickup"
+metaDescription: "Just landed at Varanasi Airport? Direct taxi to Assi Ghat from ₹899. 45 min smooth transfer, experienced local drivers, fixed fare. Call/WhatsApp: 99354 74730."
 description: "Catch morning aarti! Airport to Assi Ghat taxi at ₹800. 27km, 40-60min. Pre-dawn pickups for Subah-e-Banaras. Café culture access. Book: 99354 74730."
 keywords:
   - "varanasi airport to assi ghat distance"
@@ -91,3 +91,14 @@ To reach before the 5:15–5:30 AM start, schedule a 4:30 AM hotel departure or 
 
 ## Varanasi Airport to Assi Ghat safety and reliability
 All airport drivers carry verified IDs, share live GPS links, and provide printed invoices on request. Confirm fare and vehicle number via WhatsApp before boarding and share it with a family member. For pre-dawn Subah-e-Banaras drops, request a female-friendly driver pairing if travelling solo.
+
+---
+
+## Just Landed? Book Your Whole Kashi Trip in One Message
+
+Turn your airport pickup into a complete Varanasi experience — booked with one trusted operator:
+
+- 🛶 **[Sunrise / morning boat ride](/en/morning-boat-ride-varanasi-price)** and **[evening Ganga Aarti boat ride](/en/evening-boat-ride-varanasi-ganga-aarti)** on the Ganges.
+- 🏨 **[Hotel booking in Varanasi](/en/services/hotel-booking-in-varanasi)** — riverside and budget stays near the ghats.
+- 🚕 **[Varanasi tour packages](/en/packages/varanasi-tour-package)** — complete 2/3/4-day itineraries covering Kashi Vishwanath, Sarnath and the ghats.
+- 🛕 **[Same Day Varanasi Tour](/en/city/varanasi/tour-packages/same-day-varanasi-tour)** — 8-hour sightseeing cab package for ₹2,499.

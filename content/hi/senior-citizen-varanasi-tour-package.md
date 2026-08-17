@@ -1,8 +1,8 @@
 ---
 lang: hi
 title: "सीनियर सिटिजन वाराणसी टूर पैकेज 2026 | बुजुर्गों के लिए low-walking काशी यात्रा"
-metaTitle: "सीनियर सिटिजन वाराणसी पैकेज | elders-friendly काशी दर्शन"
-metaDescription: "सीनियर सिटिजन वाराणसी पैकेज बुक करें। low-walking darshan planning, hotel-first comfort, pickup, rest breaks और elder-friendly pacing के साथ।"
+metaTitle: "सीनियर सिटिजन वाराणसी टूर पैकेज | माता-पिता हेतु सुगम दर्शन"
+metaDescription: "बुजुर्गों व माता-पिता हेतु विशेष काशी यात्रा। व्हीलचेयर सपोर्ट, ई-रिक्शा सुविधा, कम पैदल चलना व गेट 4 से सीधा विश्वनाथ दर्शन: 99354 74730."
 description: "बुजुर्गों के लिए वाराणसी पैकेज — कम walking, आरामदायक hotel और practical दर्शन planning।"
 date: 2026-03-07
 lastUpdated: 2026-03-07

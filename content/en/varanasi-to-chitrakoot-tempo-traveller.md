@@ -1,8 +1,8 @@
 ---
 lang: en
 title: "Varanasi to Chitrakoot Tempo Traveller Price 2026"
-metaTitle: "Varanasi to Chitrakoot Tempo Traveller Price 2026"
-metaDescription: "Varanasi to Chitrakoot Tempo Traveller costs ₹16,500–₹18,500 for a 12-seater 1N/2D trip. See distance, inclusions and the 2-day itinerary."
+metaTitle: "Varanasi to Chitrakoot Tempo Traveller (12/17/26) from ₹16,500"
+metaDescription: "Hire 12, 17, 20 & 26 Seater Tempo Traveller from Varanasi to Chitrakoot (1N/2D). Pushback luxury seats, AC, experienced highway drivers. Best group rate: 99354 74730."
 description: "Compare the 2026 Varanasi to Chitrakoot Tempo Traveller price, 270 km route, 1N/2D itinerary and vehicle options for a comfortable pilgrimage."
 slug: varanasi-to-chitrakoot-tempo-traveller
 canonical: https://www.kashitaxi.in/en/varanasi-to-chitrakoot-tempo-traveller

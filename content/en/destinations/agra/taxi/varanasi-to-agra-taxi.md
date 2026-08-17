@@ -5,8 +5,8 @@ date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Agra Taxi | Taj Mahal Tour | ₹8,000 | Kashi Taxi"
-metaDescription: "Book Varanasi to Agra cabs from ₹8,000. 580 km in 8-9 hours. Taj Mahal tours, overnight packages. 24/7 safe travel."
+metaTitle: "Varanasi to Agra Taxi | Taj Mahal Express Cab from ₹8,000"
+metaDescription: "Travel Varanasi to Agra via Expressway comfortably in AC cabs (580 km, 8-9 hrs). Taj Mahal tour packages, one-way drops & family SUVs. Call 99354 74730."
 description: "Book Varanasi to Agra cabs from ₹8,000. 580-620 km journey in 8-9 hours. Visit Taj Mahal (7 Wonders), Agra Fort, Fatehpur Sikri. Overnight stay packages, verified drivers."
 keywords:
   - "varanasi to agra taxi"

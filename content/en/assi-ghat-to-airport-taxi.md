@@ -6,8 +6,8 @@ lastUpdated: "2026-07-15"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogbhugate.jpg"
-metaTitle: "Assi Ghat to Varanasi Airport Distance 2026: Fare, Time & Taxi"
-metaDescription: "Assi Ghat to Varanasi Airport distance is about 27-28 km. Check taxi fare, travel time and the easiest airport transfer options from Assi Ghat."
+metaTitle: "Assi Ghat to Varanasi Airport Taxi from ₹899 | 24/7 Pickup"
+metaDescription: "Heading to the airport from Assi Ghat? Book reliable AC cabs from ₹899. 45-min highway route via Lanka & Ring Road. Fixed rates, no hidden charges. Call 99354 74730."
 description: "Assi Ghat to Varanasi airport: ₹800-₹1400 taxi fares, 27-28 km distance, 40-60 min travel time, and booking tips for 2026."
 keywords:
   - "assi ghat to varanasi airport distance"
@@ -15,8 +15,6 @@ keywords:
   - "varanasi airport travel time"
   - "assi ghat airport transfer"
   - "kedar ghat to assi ghat distance"
-  - "varanasi airport to ghat distance"
-  - "varanasi airport to dashashwamedh ghat distance"
   - "varanasi airport to ganga ghat distance"
 tags:
   - assi ghat
@@ -53,7 +51,7 @@ Planning your travel between Assi Ghat and Lal Bahadur Shastri International Air
 
 ![Assi Ghat lanes warming up before the airport taxi pickup window](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-assi-ghat-sunrise.jpeg "Assi Ghat at sunrise")
 
-## Varanasi Airport to Assi Ghat Distance
+## Route & Travel Time to Airport
 
 <figure class="sales-section-visual" data-sales-visual="en-assi-ghat-to-airport-taxi-1">
   <a href="/booking" aria-label="Plan and book this trip with Kashi Taxi">

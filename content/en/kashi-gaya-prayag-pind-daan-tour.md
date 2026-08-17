@@ -6,8 +6,8 @@ slug: kashi-gaya-prayag-pind-daan-tour
 date: 2026-07-15
 author: "Kamal Nayan Singh"
 lastUpdated: 2026-08-11
-metaTitle: "Kashi Gaya Prayag Pind Daan Tour ₹31,000+ | Tempo Package"
-metaDescription: "Book Kashi–Gaya–Prayag pind daan tour by tempo from ₹31,000–₹37,000 (12-seater). 3D/2N or 4D plans, fixed quote. WhatsApp +91 99354 74730."
+metaTitle: "Kashi Gaya Prayag Pind Daan Tour Package | Complete Tirth Yatra"
+metaDescription: "Sacred 3-Tirth Pind Daan package covering Kashi, Gaya Vishnupad & Prayagraj Sangam. Transparent cab fares, priest arrangements & hotel stays: 99354 74730."
 tags: [pind daan, gaya, prayagraj, kashi, varanasi, tempo traveller, pilgrimage, ritual sequencing, triveni sangam]
 keywords: ["kashi gaya prayag pind daan tour","kashi gaya prayagraj pind daan itinerary","pind daan tour from varanasi","gaya pind daan with prayag sangam","kashi prayag gaya ritual sequence","tempo traveller pind daan tour varanasi","kashi gaya prayag package"]
 relatedPosts:

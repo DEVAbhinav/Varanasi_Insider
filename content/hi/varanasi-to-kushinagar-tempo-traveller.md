@@ -21,6 +21,8 @@ relatedPosts:
   - varanasi-to-bodhgaya-tempo-traveller
   - 9-vs-12-vs-17-seater-tempo-traveller-varanasi
   - tempo-traveller-rates-varanasi
+metaTitle: "वाराणसी से कुशीनगर टेम्पो ट्रैवलर | 12-26 सीटर ग्रुप टूर"
+metaDescription: "वाराणसी से कुशीनगर महापरिनिर्वाण मंदिर यात्रा हेतु लग्जरी टेम्पो ट्रैवलर (12-26 सीटर)। एसी, पुशबैक सीटें व पारदर्शी बिलिंग। बुक करें: 99354 74730."
 ---
 
 # वाराणसी से कुशीनगर Tempo Traveller (2026)

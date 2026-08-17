@@ -2,6 +2,8 @@
 slug: "sawan-darshan-package-varanasi"
 lang: "en"
 title: "Sawan Darshan Package Varanasi 2026 | 1-Day & 2-Day Kashi Vishwanath with Sugam Pass"
+metaTitle: "Sawan Kashi Vishwanath Darshan Package 2026 | Somwar VIP Pass"
+metaDescription: "Special Sawan month darshan package for Kashi Vishwanath temple. Beat the crowd with Sugam Darshan passes, early morning escort & AC transfer: 99354 74730."
 subtitle: "1-day and 2-day Sawan darshan packages for Kashi Vishwanath (Sawan Somwars 3, 10, 17, 24 Aug 2026) with a built-in Sugam Darshan pass, flood-safe transport, an inland sightseeing day and elder-friendly help."
 description: "Book a Sawan darshan package in Varanasi for 2026 (Somwars Aug 3, 10, 17, 24). 1-day & 2-day Kashi Vishwanath with built-in Sugam Darshan pass, cab, inland day (Sarnath, Ramnagar Fort, BHU). From ₹11,000."
 keywords: ["sawan darshan package varanasi","sawan somwar package 2026","kashi vishwanath sawan package","sawan 1 day package varanasi","sawan 2 day package varanasi","sawan package with sugam darshan","kashi vishwanath vip darshan package","sawan monday package kashi","sawan elderly darshan package","sawan inland sightseeing package"]

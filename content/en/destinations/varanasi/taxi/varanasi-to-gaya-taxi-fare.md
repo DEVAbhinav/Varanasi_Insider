@@ -341,3 +341,13 @@ Yes, a Varanasi to Gaya one-way drop is available (Dzire from ₹4,813). One-way
 ### How do I book a Varanasi to Gaya taxi?
 
 Message +91 99354 74730 on WhatsApp with your date, number of passengers and preferred vehicle — you get a fixed fare back instantly.
+
+
+---
+
+## Want to Explore More? Book a Complete Pilgrimage Package
+
+If you're traveling across multiple cities, consider booking our complete multi-city tour packages. We handle the transport, hotel stays, and VIP darshan arrangements.
+
+- 🚙 **[Golden Triangle Tour (3N/4D)](/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package)** — Varanasi, Ayodhya, and Prayagraj complete pilgrimage package.
+- 🚙 **[Divya Dham 4-City Tour (4N/5D)](/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package)** — Varanasi, Prayagraj, Ayodhya & Bodh Gaya from ₹12,999.

@@ -9,6 +9,8 @@ canonical: https://www.kashitaxi.in/en/luxury-maharaja-tempo-traveller-varanasi
 relatedPosts:
   - tempo-traveller-rates-varanasi
   - tempo-traveller-varanasi
+metaTitle: "Luxury Maharaja Tempo Traveller Varanasi | 1x1 Seats from ₹7,500"
+metaDescription: "Hire ultra-luxury Maharaja & Urbania Tempo Traveller in Varanasi with 1x1 recliner seats, AC & VIP comfort. Local 8hr tour & outstation yatras: 99354 74730."
 ---
 
 # Luxury Tempo Traveller in Varanasi (Maharaja & Urbania)

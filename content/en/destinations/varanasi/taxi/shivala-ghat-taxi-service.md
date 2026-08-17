@@ -5,10 +5,8 @@ date: '2026-07-15'
 lastUpdated: '2026-07-15'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: 'Shivala Ghat Taxi Service | Hotel Hub Drop, Quiet Area Specialist'
-metaDescription: >-
-  Book taxis to Shivala Ghat hotels. Accurate drop at Sonarpura Crossing, hotel
-  access check, quiet retreat transfers, fixed fares, respectful drivers.
+metaTitle: "Shivala Ghat Taxi Service Varanasi | Fast Pickup & Airport Cab"
+metaDescription: "Book taxi at Shivala Ghat, Varanasi. Fixed fare airport transfers (₹899), local sightseeing & outstation trips. 10-min pickup. Call 99354 74730."
 description: >-
   Taxi service for Shivala Ghat hotels and retreats with correct Sonarpura drop
   points, parking-aware routing, and quiet-area drivers.

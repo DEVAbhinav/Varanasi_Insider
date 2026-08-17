@@ -9,8 +9,8 @@ heroImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitax
 author: "Kamal Nayan Singh"
 subtitle: "Kashi + Triveni Sangam in one short trip — Kashi Vishwanath darshan, Ganga Aarti and a sunrise boat ride in Varanasi, then the sacred Sangam snan, Bade Hanuman and Anand Bhavan in Prayagraj, by private AC cab with transparent per-person pricing."
 description: "Book a Varanasi–Prayagraj tour package (1N/2D) from ₹3,499 per person. Kashi Vishwanath darshan, Ganga Aarti and Triveni Sangam snan by private AC cab. All transfers, tolls, fuel, permits and driver included. Hindi support."
-metaTitle: "Varanasi Prayagraj Tour Package 2026 | 1N/2D from ₹3,499, Kashi + Sangam"
-metaDescription: "Varanasi–Prayagraj tour package (1N/2D) from ₹3,499/person. Kashi Vishwanath darshan, Ganga Aarti, sunrise boat + Triveni Sangam snan, Bade Hanuman, Anand Bhavan. Private AC cab, tiered prices, book on WhatsApp."
+metaTitle: "Varanasi Prayagraj Tour Package | 1N/2D Kashi & Sangam ₹3,499"
+metaDescription: "1N/2D Varanasi–Prayagraj pilgrimage. Covers Kashi Vishwanath, Ganga Aarti, Triveni Sangam snan, Bade Hanuman & Anand Bhavan. AC cab from ₹3,499: 99354 74730."
 keywords:
   - "varanasi prayagraj tour package"
   - "varanasi to prayagraj package"

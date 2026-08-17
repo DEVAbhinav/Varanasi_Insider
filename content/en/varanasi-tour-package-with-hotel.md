@@ -1,8 +1,8 @@
 ---
 lang: en
 title: "Varanasi Tour Package with Hotel 2026 | Stay + Cab + Darshan Planning"
-metaTitle: "Varanasi Tour Package with Hotel | Stay Near Ghats, Assi, Cantt or Kashi Vishwanath"
-metaDescription: "Book a Varanasi tour package with hotel, local cab, airport pickup and darshan planning. Compare Assi, Cantt, near-ghat and Kashi Vishwanath stay options."
+metaTitle: "Varanasi Tour Package with Hotel | Ghat & Near-Temple Stays"
+metaDescription: "Book Varanasi tour packages with verified hotels near Ghats, Assi, Cantt or Kashi Vishwanath. Private AC cabs, airport pickup & darshan escort: 99354 74730."
 description: "Hotel-inclusive Varanasi package page for travelers who want the right stay area, local cab and practical temple-ghat planning in one package."
 date: 2026-03-07
 lastUpdated: 2026-03-07

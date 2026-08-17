@@ -154,28 +154,28 @@ export default function BanarasTourPackagePage({ contentHtml }) {
   const seoHead = (
     <>
       <Head>
-        <title>Banaras Tour Package 2026 | Budget to Premium Packages | Kashi Taxi</title>
+        <title>Banaras Tour Package 2026 | 3 to 5 Day Heritage Tour from ₹8,500</title>
         <meta
           name="description"
-          content="Best Banaras tour packages with expert guides. 3-7 day spiritual journeys with transparent pricing, accommodation near ghats, and 24/7 support."
+          content="Explore ancient Banaras with custom tour packages. Ghats, Kashi Vishwanath, Sarnath, silk shopping & boat rides. Clean AC cabs & verified hotels: 99354 74730."
         />
         <meta
           name="keywords"
           content="banaras tour package, varanasi tour package, kashi tour package, banaras pilgrimage, banaras travel agency"
         />
-        <meta property="og:title" content="Banaras Tour Package 2026 | Budget to Premium Packages | Kashi Taxi" />
+        <meta property="og:title" content="Banaras Tour Package 2026 | 3 to 5 Day Heritage Tour from ₹8,500" />
         <meta
           property="og:description"
-          content="Best Banaras tour packages with expert guides. 3-7 day spiritual journeys with transparent pricing, accommodation near ghats, and 24/7 support."
+          content="Explore ancient Banaras with custom tour packages. Ghats, Kashi Vishwanath, Sarnath, silk shopping & boat rides. Clean AC cabs & verified hotels: 99354 74730."
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.kashitaxi.in/banaras-tour-package" />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Banaras Tour Package 2026 | Budget to Premium Packages | Kashi Taxi" />
+        <meta name="twitter:title" content="Banaras Tour Package 2026 | 3 to 5 Day Heritage Tour from ₹8,500" />
         <meta
           name="twitter:description"
-          content="Best Banaras tour packages with expert guides. 3-7 day spiritual journeys with transparent pricing, accommodation near ghats, and 24/7 support."
+          content="Explore ancient Banaras with custom tour packages. Ghats, Kashi Vishwanath, Sarnath, silk shopping & boat rides. Clean AC cabs & verified hotels: 99354 74730."
         />
         <meta name="twitter:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <link rel="canonical" href="https://www.kashitaxi.in/banaras-tour-package" />

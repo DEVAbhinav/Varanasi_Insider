@@ -7,8 +7,8 @@ author: "Kashi Taxi Team"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/city/varanasi/tour-packages/varanasi-2-day-tour"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg"
-metaTitle: "Varanasi 2 Day Tour Package | Weekend Kashi Itinerary with Ganga Aarti"
-metaDescription: "Balanced two-day Kashi immersion with sunrise and sunset boat rides, Sarnath, BHU, curated food walks and concierge-managed darshan."
+metaTitle: "Varanasi 2 Day Tour Package | Weekend Kashi Itinerary from ₹7,080"
+metaDescription: "Best 2-day Varanasi weekend tour. Includes Kashi Vishwanath darshan, Ganga Aarti boat ride, Sarnath & local food walk. Private AC car & hotel: 99354 74730."
 description: "Balanced two-day Kashi immersion with sunrise and sunset boat rides, Sarnath, BHU, curated food walks and concierge-managed darshan."
 location:
   name: "Varanasi"

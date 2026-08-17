@@ -2,6 +2,8 @@
 slug: "varanasi-tour-package"
 lang: "en"
 title: "Varanasi Tour Package 2026 | 2, 3 & 4 Day Kashi Tour with Hotel, Cab & Darshan"
+metaTitle: "Varanasi Tour Package 2026 | 2, 3 & 4 Day Kashi Tour from ₹7,080"
+metaDescription: "Complete Varanasi tour packages with 2/3-star hotel, private AC cab, Kashi Vishwanath darshan, sunrise boat ride & Sarnath. Customizable: 99354 74730."
 subtitle: "Plan a 2, 3 or 4 day Varanasi trip with hotel, private cab, temple darshan, Ganga Aarti, boat rides and optional local experiences."
 description: "Book a Varanasi tour package for 2, 3 or 4 days with hotel, private cab, Kashi Vishwanath darshan, Ganga Aarti, boat rides and Sarnath. Get a clear starting estimate and a customised quote."
 keywords: ["Varanasi tour package","Varanasi tour packages 2026","tour package in Varanasi","Kashi tour package","Varanasi package with hotel","2 day Varanasi tour package","3 day Varanasi tour package","4 day Varanasi tour package","Varanasi temple tour package"]
