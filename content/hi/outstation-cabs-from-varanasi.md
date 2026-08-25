@@ -63,8 +63,8 @@ relatedPosts:
 - [वाराणसी से गोरखपुर टैक्सी](/hi/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi) — गोरखनाथ व नेपाल गेटवे, ~210 किमी, ₹3,000 से
 - [वाराणसी से कुशीनगर टैक्सी](/hi/city/kushinagar/taxi/varanasi-to-kushinagar-taxi) — बुद्ध महापरिनिर्वाण, ~245 किमी, ₹4,000 से
 - [वाराणसी से जौनपुर टैक्सी](/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi) — शर्की विरासत, ~60 किमी, ₹2,200 से
-- [वाराणसी से नेपाल टैक्सी](/hi/city/nepal/taxi/varanasi-to-nepal-taxi) — सुनौली, लुंबिनी, पोखरा, ₹3,000 से
-- [वाराणसी से काठमांडू टैक्सी](/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi) — पशुपतिनाथ, ~560 किमी, ₹8,500 से
+- [वाराणसी से नेपाल टैक्सी](/hi/city/nepal/taxi/varanasi-to-nepal-taxi) — सोनौली, लुंबिनी, पोखरा, ₹8,500 से
+- [वाराणसी से काठमांडू टैक्सी](/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi) — पशुपतिनाथ, ~560 किमी, ₹10,700 से
 - [वाराणसी से कोलकाता टैक्सी](/hi/city/kolkata/taxi/varanasi-to-kolkata-taxi) — सिटी ऑफ़ जॉय, ~678 किमी, ₹9,000 से
 
 ### वाराणसी आने वाले रूट (वापसी दिशा)

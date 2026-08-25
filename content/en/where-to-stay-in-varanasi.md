@@ -50,13 +50,15 @@ Deciding **where to stay in Varanasi** is the single choice that shapes your who
 
 - **First-time visitors and families:** stay **central (Sigra area)** — close to Cantt station, markets and hospitals, with the main ghats 2–3 km away and easy taxis in every direction.
 - **Ghat-first travellers who pack light:** stay near **Assi Ghat or Dashashwamedh** to walk to the aarti.
-- **Groups of 6–10:** book a **whole-flat homestay** instead of several hotel rooms — more space, a kitchen, and a lower cost per head. See our [private 4BHK family homestay in Sigra](/en/varanasi-family-homestay-4bhk-sigra).
-- **Want prices before you decide?** See transparent from-rates for [dormitory, budget, homestay & hotel stays](/en/services/varanasi-dormitory-budget-homestay-booking) (dormitory from ₹500/night) — we show prices instead of "call for charges."
+- **Groups of 6–10:** book a **whole-flat homestay** instead of several hotel rooms — more space, a kitchen, and a lower cost per head (~₹500/person). See our [private 4BHK family homestay in Sigra](/en/varanasi-family-homestay-4bhk-sigra) or [Dharamshala near Varanasi Railway Station](/en/services/dharamshala-near-varanasi-railway-station).
+- **Want prices before you decide?** See transparent from-rates for [dormitory, budget, homestay & hotel stays](/en/services/varanasi-dormitory-budget-homestay-booking) and [dharamshala near Kashi Vishwanath](/en/services/dharamshala-near-kashi-vishwanath-temple-varanasi) — we show prices instead of "call for charges."
 
 ## The main areas to stay in Varanasi
 
 ### Central Varanasi (Sigra / Shastri Nagar)
-The practical choice for most travellers. Sigra is well connected, close to **Varanasi Cantt Railway Station**, the airport road, big markets (including the IP Sigra Mall), and hospitals. The main ghats and Kashi Vishwanath are a short 2–3 km drive. Roads are wide enough for cars and auto-rickshaws, which matters a lot when you have luggage or elderly family members. This is where our own homestay is based.
+The practical choice for most travellers. Sigra is well connected, close to **Varanasi Cantt Railway Station**, the airport road, big markets (including the IP Sigra Mall), and hospitals. The main ghats and Kashi Vishwanath are a short 2–3 km drive. Roads are wide enough for cars and auto-rickshaws, which matters a lot when you have luggage or elderly family members. This is where our own [private 4BHK family homestay](/en/varanasi-family-homestay-4bhk-sigra) is based.
+
+![Shastri Nagar Sigra 4BHK Family Homestay Master Bedroom](https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423870/kashitaxi/homestay/shastri-nagar-master-bedroom-1.jpg "Our private 4BHK Family Homestay in Shastri Nagar, Sigra")
 
 ### The ghats (Assi, Dashashwamedh, Godowlia)
 Staying steps from the river is magical if walking to the [Ganga Aarti](/en/assi-ghat-aarti-timings-2026) at dawn and dusk is your priority. The trade-off: the lanes are narrow and busy, vehicles cannot reach most doorsteps, and dragging suitcases through crowded galis is tiring — a real issue for older parents and young children.

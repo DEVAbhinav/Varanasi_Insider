@@ -82,9 +82,25 @@ Most pilgrims want the same thing in Kashi: a **clean, cheap room within walking
 | **Dharamshala / dormitory bed** | **₹400** | Solo pilgrims, backpackers, budget groups | 3–10 min walk |
 | **Simple pilgrim room** | **₹900** | Couples, small families on a tight budget | 3–10 min walk |
 | **Budget guest house room** | **₹1,200** | Those wanting a private bathroom & a bit more comfort | 5–12 min walk |
+| **Private 4BHK Family Flat (Sleeps 10)** | **₹5,000 (~₹500/head)** | **Families & Groups (4 AC Rooms + Kitchen + Parking)** | **10 min cab / 500m to Cantt** |
 | **Comfort hotel (Godowlia/Assi)** | **₹2,500** | Families & elders who want car access | Short cab ride |
 
 *Starting prices; peak festival dates (Mahashivratri, Shravan Mondays, Dev Deepawali) run higher and sell out — book early. Exact rate confirmed on WhatsApp.*
+
+---
+
+## Traveling with Family (6–10 People)? Why Book 4 Dharamshala Rooms When a Whole 4BHK Luxury Flat is ₹500/Head?
+
+If you are a family, yatra group, or traveling with elderly parents and children, booking 3–4 separate dharamshala rooms costs ₹4,500–₹6,000/day. For just **₹5,000/day total flat rate (~₹500 per person per day)**, you can book our entire **private 4BHK apartment in Shastri Nagar, Sigra** (500m from Varanasi Cantt Station, 10 min to Kashi Vishwanath):
+
+- **4 Private AC Bedrooms** (Sleeps up to 10 guests)
+- **Full Modular Kitchen** (Cook satvik food, boil milk, and brew tea for elders)
+- **3 Modern Bathrooms with Western fittings** (Italian tiles, 24/7 hot water)
+- **Doorstep Car Access & Parking** (No dragging luggage through crowded temple alleys)
+
+![Private 4BHK Family Flat Master Bedroom Suite in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423870/kashitaxi/homestay/shastri-nagar-master-bedroom-1.jpg "Private 4BHK Family Flat Master Bedroom Suite in Varanasi")
+
+👉 **Read full details & photos:** [Dharamshala near Varanasi Railway Station & 4BHK Stay](/en/services/dharamshala-near-varanasi-railway-station) or [4BHK Private Homestay Sigra](/en/varanasi-family-homestay-4bhk-sigra).
 
 ---
 

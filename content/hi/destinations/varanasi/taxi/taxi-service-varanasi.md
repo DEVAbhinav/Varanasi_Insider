@@ -150,7 +150,7 @@ Round-the-clock [24/7 taxi service](/hi/city/varanasi/taxi/24-7-taxi-varanasi) �
 | वाराणसी → प्रयागराज | 121 km | ₹2,500 से | [Prayagraj taxi](/en/varanasi-to-prayagraj-taxi) |
 | वाराणसी → अयोध्या | 200 km | ₹3,500 से | [Ayodhya taxi](/en/varanasi-to-ayodhya-taxi) |
 | वाराणसी → बोध गया | 250 km | ₹5,000 से | [Bodh Gaya taxi](/en/varanasi-to-bodhgaya-taxi-cost) |
-| वाराणसी → नेपाल (Sunauli) | 290 km | ₹3,000 से | [Nepal taxi](/en/city/nepal/taxi/varanasi-to-nepal-taxi) |
+| वाराणसी → नेपाल (Sonauli) | 290 km | ₹8,500 से | [Nepal taxi](/en/city/nepal/taxi/varanasi-to-nepal-taxi) |
 
 ## क्या शामिल है और कौन-से extra charge लग सकते हैं
 

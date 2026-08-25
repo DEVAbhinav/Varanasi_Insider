@@ -44,3 +44,6 @@ api/local.settings.json
 # Docs and test results
 docs/
 test-results/
+.playwright-cli/
+output/
+public/images/sales-visuals/qa/

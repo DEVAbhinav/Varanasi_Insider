@@ -4,11 +4,22 @@
     {
       "@type": ["LodgingBusiness", "BedAndBreakfast"],
       "@id": "https://www.kashitaxi.in/hi/varanasi-family-homestay-4bhk-sigra#lodging",
-      "name": "4BHK Family Homestay Varanasi (Sigra)",
+      "name": "4BHK फैमिली होमस्टे वाराणसी (शास्त्री नगर, सिगरा)",
       "url": "https://www.kashitaxi.in/hi/varanasi-family-homestay-4bhk-sigra",
-      "description": "Private entire 4BHK apartment homestay in central Sigra, Varanasi. Sleeps up to 10 guests across 4 bedrooms with 3 bathrooms and a full kitchen. A 5-minute walk from Varanasi Cantt Railway Station, opposite IP Sigra Mall, and 2-3 km from Kashi Vishwanath temple and the main ghats. Ideal for families and groups.",
+      "description": "शास्त्री नगर, सिगरा, वाराणसी में 10 लोगों तक के लिए 4 एसी बेडरूम, 3 आधुनिक बाथरूम, पूरी मॉड्यूलर रसोई और प्राइवेट ग्रीन बालकनी वाला प्राइवेट 4BHK फैमिली होमस्टे। कैंट रेलवे स्टेशन (500 मीटर) व रुद्राक्ष कन्वेंशन सेंटर (800 मीटर) से पैदल दूरी और दशाश्वमेध घाट व काशी विश्वनाथ मंदिर से मात्र 2.8 किमी।",
       "image": [
-        "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423870/kashitaxi/homestay/shastri-nagar-master-bedroom-1.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423872/kashitaxi/homestay/shastri-nagar-bedroom-2.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423873/kashitaxi/homestay/shastri-nagar-bedroom-3.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423874/kashitaxi/homestay/shastri-nagar-family-bedroom-4.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423875/kashitaxi/homestay/shastri-nagar-bedroom-wardrobe-collage.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423876/kashitaxi/homestay/shastri-nagar-modular-kitchen.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423878/kashitaxi/homestay/shastri-nagar-dining-lobby-fridge.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423879/kashitaxi/homestay/shastri-nagar-green-balcony.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423880/kashitaxi/homestay/shastri-nagar-street-view.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423881/kashitaxi/homestay/shastri-nagar-designer-bathroom.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423882/kashitaxi/homestay/shastri-nagar-vanity-washbasin.jpg",
+        "https://res.cloudinary.com/dkntlqbwr/image/upload/f_auto,q_auto:good/v1787423883/kashitaxi/homestay/shastri-nagar-bathroom-montage.jpg"
       ],
       "telephone": "+91-99354-74730",
       "priceRange": "$$",
@@ -17,25 +28,36 @@
       "maximumAttendeeCapacity": 10,
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Shastri Nagar Colony, Sigra (opposite IP Sigra Mall)",
+        "streetAddress": "L 10/125, Shastri Nagar Colony, Sigra",
         "addressLocality": "Varanasi",
         "addressRegion": "Uttar Pradesh",
         "postalCode": "221010",
         "addressCountry": "IN"
       },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.315282",
+        "longitude": "82.989593"
+      },
       "areaServed": "Varanasi",
       "amenityFeature": [
         { "@type": "LocationFeatureSpecification", "name": "Entire private 4BHK flat", "value": true },
-        { "@type": "LocationFeatureSpecification", "name": "Full kitchen", "value": true },
-        { "@type": "LocationFeatureSpecification", "name": "3 bathrooms", "value": true },
-        { "@type": "LocationFeatureSpecification", "name": "Sleeps up to 10", "value": true },
-        { "@type": "LocationFeatureSpecification", "name": "Near Cantt Railway Station (500 m)", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Air conditioning in all rooms", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Full modular kitchen with induction & chimney", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Refrigerator & RO water purifier", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "3 modern bathrooms with 24/7 hot water geysers", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Private green balcony", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Sleeps up to 10 guests", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Near Varanasi Cantt Railway Station (500 m)", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Near Rudraksh International Convention Centre (800 m)", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Near Dashashwamedh Ghat & Kashi Vishwanath (2.8 km)", "value": true },
+        { "@type": "LocationFeatureSpecification", "name": "Free street parking & doorstep vehicle access", "value": true },
         { "@type": "LocationFeatureSpecification", "name": "Airport & station pickup on request", "value": true }
       ],
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",
-        "name": "Varanasi Taxi | Vinayak Travels Varanasi"
+        "name": "Kashi Taxi | Vinayak Travels"
       }
     },
     {

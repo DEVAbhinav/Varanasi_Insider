@@ -101,8 +101,8 @@ Aligned with the day-tour rate card (not a second competing price list):
 | **Ayodhya / Ram Mandir** | ₹3,820 | ₹5,240 | [Ayodhya taxi](/en/varanasi-to-ayodhya-taxi) |
 | **Bodhgaya** | ₹5,004 | ~₹10,000–₹12,000 pkg | [Bodhgaya taxi cost](/en/varanasi-to-bodhgaya-taxi-cost) |
 | **Sarnath** | ₹1,200 | ₹2,000 | [Sarnath taxi](/en/city/varanasi/taxi/varanasi-to-sarnath-taxi) |
-| **Nepal border (Sunauli)** | ₹3,000 | — | [Nepal taxi](/en/city/nepal/taxi/varanasi-to-nepal-taxi) |
-| **Kathmandu** | ₹8,500 | — | [Kathmandu taxi](/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi) |
+| **Nepal border (Sonauli)** | ₹8,500 | — | [Nepal taxi](/en/city/nepal/taxi/varanasi-to-nepal-taxi) |
+| **Kathmandu** | ₹10,700 | — | [Kathmandu taxi](/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi) |
 
 Route pages own the deep FAQs, inclusions and vehicle-wise quotes. This hub only helps you pick the right link.
 

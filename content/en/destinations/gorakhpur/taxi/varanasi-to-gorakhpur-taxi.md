@@ -164,13 +164,13 @@ Via Sunauli Border:
 - Drop at Gorakhpur city or railway station.
 - You arrange onward travel.
 
-**Varanasi → Sunauli Border** (₹4,500-5,000)
+**Varanasi → Sonauli Border** (₹8,500)
 
 - Direct drop at India-Nepal border.
 - Border crossing guidance.
 - Help with documentation.
 
-**Varanasi → Lumbini (Nepal)** (₹7,000-8,000)
+**Varanasi → Lumbini (Nepal)** (₹7,450 drop / ₹10,500 2-day)
 
 - Complete cross-border service.
 - Border crossing assistance.
@@ -223,9 +223,9 @@ Via Sunauli Border:
 
 ## Varanasi to Gorakhpur Taxi Pricing Options
 
-- **Varanasi → Gorakhpur → Sunauli Border:** ₹4,500, with border guidance and help with Nepal taxi/bus booking.
+- **Varanasi → Gorakhpur → Sonauli Border:** ₹8,500, with border guidance and help with Nepal taxi/bus booking.
 - **Varanasi → Kushinagar → Gorakhpur:** ₹5,500, useful for a Buddhist pilgrimage day.
-- **Lumbini Pilgrimage (2-Day):** Day 1 Varanasi → Lumbini, Day 2 Lumbini sightseeing → Return Varanasi; ₹12,000 for sedan, with border crossing and accommodation guidance.
+- **Lumbini Pilgrimage (2-Day):** Day 1 Varanasi → Lumbini, Day 2 Lumbini sightseeing → Return Varanasi; ₹10,500 for sedan, with border crossing and accommodation guidance.
 - **Varanasi → Gorakhpur Junction:** ₹5,253 fixed for railway transfer, with train timing coordination and luggage help.
 
 ## Why Book a Varanasi to Gorakhpur Cab With Kashi Taxi
