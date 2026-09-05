@@ -2,7 +2,7 @@
 title: "Kashi Vishwanath Temple & Ganga Aarti: Complete Spiritual Journey 2026"
 slug: "kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Kashi Vishwanath Temple Aarti + Ganga Aarti (2026) | Darshan, Timings, Itinerary"
@@ -427,7 +427,7 @@ First-time pilgrimage to Kashi Vishwanath is often deeply emotional. Visitors re
 
 ## Festival Spiritual Intensity (Peak Times)
 
-### Maha Shivaratri (March 2026: March 8)
+### Maha Shivaratri (February 2026: February 15)
 
 **Significance:** "Great night of Shiva"; celebrates Shiva's cosmic dance
 **Pilgrims:** 500,000–1 million devotees converge in Varanasi
@@ -436,10 +436,10 @@ First-time pilgrimage to Kashi Vishwanath is often deeply emotional. Visitors re
 **Best strategy:** Arrive a day early, do darshan morning-of (wait times slightly lower)
 **Hotel booking:** Reserve 2 months in advance (all hotels fully booked)
 
-### Kartik Purnima / Dev Deepawali (November 15 & 5)
+### Kartik Purnima / Dev Deepawali (November 24 & 5)
 
-**Kartik Purnima (Nov 15):** Sacred bathing day (pilgrims perform snan)
-**Dev Deepawali (Nov 5):** Festival of lamps (1M+ diyas light 84 ghats)
+**Kartik Purnima (Nov 24):** Sacred bathing day (pilgrims perform snan)
+**Dev Deepawali (Nov 24):** Festival of lamps (1M+ diyas light 84 ghats)
 **Temple experience:** Lighter crowding (people dispersed to ghats for celebrations)
 **Best for:** Spiritual seekers wanting temple + ghat integration
 

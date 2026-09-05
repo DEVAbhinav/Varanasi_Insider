@@ -14,7 +14,7 @@ metaDescription: "Read our privacy policy to understand how Varanasi Taxi collec
 
 > **TL;DR:** We collect booking details (name, contact, itinerary) and device analytics to confirm rides, send updates, and prevent fraud; data is shared only with drivers, payment processors, and legal authorities when required. Micro-tip: email sudhir.vinayaktravels@gmail.com if you want access, corrections, or deletion—we respond within statutory timelines.
 
-**Last Updated:** October 4, 2026
+**Last Updated:** September 3, 2026
 
 ## Introduction
 

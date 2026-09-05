@@ -27,8 +27,8 @@
           "height": 60
         }
       },
-      "datePublished": "2026-09-17",
-      "dateModified": "2026-09-17",
+      "datePublished": "2026-09-03",
+      "dateModified": "2026-09-03",
       "inLanguage": "hi-IN",
       "articleSection": "तीर्थयात्रा गाइड",
       "keywords": "वाराणसी से विंध्याचल नवरात्रि, विंध्यवासिनी देवी दर्शन, त्रिकोण परिक्रमा, नवरात्रि तीर्थयात्रा, विंध्याचल नवरात्रि गाइड, माता विंध्यवासिनी मंदिर",
@@ -37,8 +37,8 @@
           "@type": "Event",
           "name": "नवरात्रि",
           "description": "माता दुर्गा के नौ दिनों का पवित्र त्योहार",
-          "startDate": "2026-03-30",
-          "endDate": "2026-04-07",
+          "startDate": "2026-03-19",
+          "endDate": "2026-03-27",
           "eventStatus": "https://schema.org/EventScheduled",
           "performer": {
             "@type": "Organization",
@@ -132,8 +132,8 @@
       "@id": "https://www.kashitaxi.in/hi/navratri-pilgrimage-vindhyachal-from-varanasi-guide#navratrievent",
       "name": "विंध्याचल नवरात्रि 2026",
       "description": "विंध्याचल में नवरात्रि महोत्सव",
-      "startDate": "2026-03-30",
-      "endDate": "2026-04-07",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-27",
       "location": {
         "@type": "Place",
         "name": "विंध्यवासिनी देवी मंदिर",

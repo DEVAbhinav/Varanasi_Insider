@@ -2,7 +2,7 @@
 title: "Is Varanasi Safe? 2026 Solo Traveler Safety & Scam Guide"
 slug: "safety-and-security-in-varanasi-guide-for-solo-travellar"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Abhinav Pandey"
 description: "Our comprehensive safety guide for solo travellers in Varanasi. Learn about common scams, safe areas to stay, and essential safety contacts."
 metaTitle: "Varanasi Safety Guide [2026]: Emergency #s & Scams to Avoid"
@@ -104,19 +104,17 @@ This matrix provides an at-a-glance guide to help you align your travel plans wi
 | Nov | 84 / 59 | Moderate-High | Arguably the best month. Perfect weather coincides with the stunning Dev Deepawali festival. |
 | Dec | 74 / 51 | High | Cool, crisp, and clear. A festive atmosphere for Christmas and New Year's, but book well in advance. |
 
-### Kumbh Mela 2026: Surge-Pricing Warning for Varanasi Travellers
-It is critical to understand that the Maha Kumbh Mela in 2026 (Jan 14 - Feb 26) is taking place in Prayagraj (formerly Allahabad), **NOT** in Varanasi. However, Varanasi is the primary gateway city for millions of pilgrims traveling to the festival, which is only a few hours away by road or rail.   
-
-I cannot overstate the impact this will have. During this period, Varanasi will experience a massive spillover of pilgrims, leading to extreme demand for all resources. Expect hotels, guesthouses, and transport to be fully booked months, if not a year, in advance, with prices skyrocketing to unprecedented levels. If your travel plans do not involve attending the Kumbh Mela, I strongly advise you to avoid visiting Varanasi during these dates.   
+### Kumbh and Magh Mela travel warning
+Prayagraj Maha Kumbh ran from **13 January to 26 February 2025**, not 2026. The annual Magh Mela is a separate event. For a future mela, check the official calendar and traffic plan before assuming that old bathing dates, passes or surge warnings still apply.
 
 ### Dates for Dev Deepawali, Maha Shivratri & Holi on the Ghats
 Varanasi's festivals are a spectacle of devotion and colour. If you plan to visit during one, book everything far in advance and be prepared for immense crowds.
 
-| Festival | 2026 Date | 2026 Date | What to Expect on the Ghats |
-|----------|-----------|-----------|-----------------------------|
-| Maha Shivratri | February 26, 2026 | February 15, 2026 | The "Great Night of Shiva" is Varanasi's most important festival. Expect massive, fervent processions, all-night temple vigils, and an electric atmosphere of devotion. It is incredibly crowded. |
-| Holi | March 14, 2026 | March 4, 2026 | The festival of colours is celebrated with wild abandon. While exhilarating, it can be overwhelming. I particularly advise solo female travellers to be cautious, as the boisterous atmosphere can sometimes lead to unwanted attention.   |
-| Dev Deepawali | November 5, 2026 | TBD | Known as the "Diwali of the Gods," this is arguably Varanasi's most beautiful festival. The ghats are illuminated with millions of diyas (earthen lamps), creating a breathtaking river of light. It is visually spectacular but also one of the most crowded times of the year. |
+| Festival | 2026 Date | What to Expect on the Ghats |
+|----------|-----------|-----------------------------|
+| Maha Shivratri | February 15, 2026 | The "Great Night of Shiva" brings massive processions and all-night temple vigils. |
+| Holi | March 4, 2026 | The festival of colours can be exhilarating but overwhelming; solo travellers should use extra caution. |
+| Dev Deepawali | November 24, 2026 | Millions of diyas illuminate the ghats, with very heavy riverfront crowds. |
 
 ### Monsoon Safety: Flooded Ghats & Boat Bans
 Traveling during the monsoon (July-August) offers dramatic skies and fewer tourists, but it comes with significant logistical challenges. The Ganges River frequently swells and crosses the danger mark, completely submerging the lower steps of major ghats like Dashashwamedh, Assi, and Manikarnika.   

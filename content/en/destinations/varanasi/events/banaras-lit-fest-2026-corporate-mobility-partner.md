@@ -1,12 +1,12 @@
 ---
-title: "Corporate Mobility & Chauffeur Service for Banaras Lit Fest 2026 – Kashi Taxi"
+title: "Banaras Lit Fest 2026 Corporate Mobility Archive"
 slug: "banaras-lit-fest-2026-corporate-mobility-partner"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Corporate Mobility & Chauffeur Service for Banaras Lit Fest 2026 – Kashi Taxi Professional Partner"
-metaDescription: "BLF 2026 corporate mobility: Chauffeur service for delegates, VIP transfers, media fleets and sponsor logistics. Dedicated account manager and punctuality guarantees."
+metaTitle: "Banaras Lit Fest 2026 Corporate Mobility Archive"
+metaDescription: "Archived mobility information for Banaras Lit Fest 2026, held January 30–February 1. The event-specific partnership window has closed."
 description: "Professional corporate mobility partnership for Banaras Lit Fest 2026 – VIP speakers, media teams, publishers and sponsors supported by dedicated fleets, chauffeurs and real-time coordination."
 excerpt: "For BLF organizers, publishers, media and sponsors, Kashi Taxi offers structured corporate mobility – VIP chauffeurs, media fleets and publisher delegations managed from one coordination hub."
 keywords:
@@ -23,8 +23,8 @@ tags:
 template: destination
 
 eyebrow: "BLF 2026 Corporate"
-ctaTitle: "Discuss BLF 2026 Mobility Partnership"
-ctaSubtitle: "Share your delegate counts and dates for a custom corporate mobility plan."
+ctaTitle: "BLF 2026 Partnership Window Closed"
+ctaSubtitle: "Wait for the organiser's next official dates before requesting an event-specific plan."
 startDate: "2026-01-30"
 endDate: "2026-02-01"
 location:
@@ -36,6 +36,8 @@ organizer:
 ---
 
 # Corporate Mobility & Professional Chauffeur Service for Banaras Lit Fest 2026
+
+> **Archive notice:** Banaras Lit Fest 2026 was held **30 January–1 February 2026** and has ended. This is historical planning material, not an active partnership offer. Check the [official festival website](https://banaraslitfest.org/) for future dates.
 
 If you’re on the organizing side of Banaras Lit Fest 2026 – running the festival, representing a publishing house, coordinating media, or managing a sponsor delegation – individual taxi bookings are not enough. You need **coordinated mobility**: structured fleets, trained chauffeurs, real-time communication, and a single accountable partner.
 

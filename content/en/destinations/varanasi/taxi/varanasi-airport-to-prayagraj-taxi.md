@@ -2,12 +2,12 @@
 title: "Varanasi Airport to Prayagraj Taxi ₹3,499 | 2.5hr Highway Trip, Sangam Drop"
 slug: "varanasi-airport-to-prayagraj-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi Airport to Prayagraj Taxi ₹2,388 — Sangam Drop AC Cab"
 metaDescription: "Book Varanasi Airport to Prayagraj (Allahabad) cab from ₹2,388. Triveni Sangam, Civil Lines & Railway station drop. 2.5 hrs smooth highway ride. Call 99354 74730."
-description: "Pre-book VNS Airport to Prayagraj cab from ₹3,499. 118 km via NH-19, Sangam and Civil Lines drop, Maha Kumbh 2026-ready convoy."
+description: "Pre-book a VNS Airport to Prayagraj cab from ₹3,499. Travel 118–125 km via NH-19 for Sangam, Civil Lines and railway-station drops."
 keywords:
   - "varanasi airport to prayagraj distance"
   - "vns to allahabad taxi fare"
@@ -69,8 +69,8 @@ Start with a single number: **₹3,499** covers the first **118 km slab** in a s
 | --- | --- | --- | --- | --- |
 | **Sedan (Dzire/Etios)** | 118 km | ₹3,499 | ₹5,499 (240 km cap) | Best for 3 pax + 2 suitcases |
 | **Premium sedan** | 118 km | ₹3,999 | ₹5,999 | Adds airport meet & greet and snacks |
-| **SUV/Innova** | 118 km | ₹4,499 | ₹6,999 | Families, Maha Kumbh pilgrims with luggage |
-| **Tempo Traveller (12/17 seater)** | 140 km | ₹5,800 | ₹8,900 | Pilgrim groups, includes parking marshal |
+| **SUV/Innova** | 118 km | ₹4,499 | ₹6,999 | Families and groups with luggage |
+| **Tempo Traveller (12/17 seater)** | 140 km | ₹5,800 | ₹8,900 | Pilgrim and leisure groups |
 
 Extra km rates: **₹12/km (sedan)**, **₹16/km (SUV)**, **₹23/km (tempo)** once you cross the slab. Share your detours (e.g., **Bharadwaj Ashram**, **Akbar Fort**) in advance so we quote accurately.
 
@@ -83,28 +83,20 @@ Round-trip packages include driver night halt and Sangam parking, so you only pa
 | **Lanka/Handia toll plazas** | ₹190 | Included in sedan/SUV quote |
 | **Prayagraj municipal entry** | ₹50 | Applies when you cross into Civil Lines or Sangam parking |
 | **Airport parking** | ₹30–₹60 | Waived for pre-bookings confirmed 2 hours prior |
-| **Maha Kumbh 2026 traffic pass** | ₹100 | Only during Jan–Feb festival barricades; we procure it beforehand |
+| **Event traffic pass** | Not included | Only applicable if an authority creates a pass system; confirm against the current official notice |
 
 Seeing the breakup upfront reassures searchers comparing us against Ola/Goibibo-style estimates.
 
-## Maha Kumbh 2026 transfer plan (Jan–Feb 2026)
+## Festival travel status
 
-Maha Kumbh returns to Prayagraj from **13 January to 26 February 2026**, bringing 40–50 million pilgrims. Our airport transfers plug directly into the official traffic diversions:
+Prayagraj Maha Kumbh ran from **13 January to 26 February 2025**; there was no “Maha Kumbh 2026.” The earlier 2026 pass, parking-sticker and package claims on this page were incorrect and have been removed. See the [Government of India schedule](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2092233&lang=2&reg=48).
 
-- **Dedicated Sangam parking**: Drivers hold colour-coded stickers (Blue/Yellow) so we can enter Zone 3 without last-minute police cuts.
-- **Ardh Kumbh rush buffer**: Land no later than **4 hours** before your shahi snan slot; we add 45 minutes to every itinerary between **2–16 February**.
-- **E-rickshaw handoff**: At Jhusi or Arail parking we hand you to pre-booked battery carts that cover the final 1 km to Triveni Sangam bathing ghat.
-- **Emergency hotlines**: Dispatch runs a 24x7 WhatsApp group during Maha Kumbh for diversion updates, lost-and-found coordination, and medical assistance triggers.
+Magh Mela is an annual and separate event. For any future mela transfer:
 
-## Prayagraj Kumbh Mela transfer packages (2026)
-
-| Package | Ideal for | Inclusions | Rate |
-| --- | --- | --- | --- |
-| **Sedan Snan Express** | 2–3 pilgrims | ₹3,499 one-way, Sangam parking sticker, 30 min driver wait | ₹3,499 |
-| **SUV Seva Bundle** | Families with elders | 6-hour hold, e-rickshaw booking, warm blankets, prasad storage | ₹3,950 |
-| **Tempo Traveller Akhara Loop** | 10–12 devotees | Dual-driver roster, Arail parking marshal, on-board tea kit | ₹8,900 |
-
-Ask for the **“Maha Kumbh 2026 transfer”** tag while booking so the control room routes you through live police advisories instead of generic maps.
+- wait for the district administration to publish dates and traffic diversions;
+- confirm the authorised parking zone and final walking distance;
+- do not pay for a special pass unless it appears in an official notice; and
+- allow extra time on designated bathing days.
 
 ## Pickup & drop points in Prayagraj
 

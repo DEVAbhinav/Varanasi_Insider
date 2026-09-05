@@ -2,7 +2,7 @@
 title: "Varanasi to Jaipur Taxi | Pink City | ₹10,000 | Kashi Taxi"
 slug: "varanasi-to-jaipur-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Jaipur Taxi | Pink City Tour | ₹10,000 | Kashi Taxi"
@@ -275,17 +275,17 @@ These are factual package options:
 **Review 1: Gupta Family**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Amazing 3-day Jaipur trip! Driver was very knowledgeable about monuments. Amber Fort elephant ride was highlight for kids. Comfortable Innova for long journey. Highly recommend!"  
-**Trip**: Family of 6, Innova, 3-day | **Date**: November 2026
+**Trip**: Family of 6, Innova, 3-day | **Review date**: Not published
 
 **Review 2: Priya & Karan (Honeymooners)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Perfect honeymoon trip to Pink City! Romantic palaces, great shopping. Driver gave us privacy and waited patiently. Golden Triangle extension was worth it!"  
-**Trip**: Couple, Swift Dzire, 4-day | **Date**: October 2026
+**Trip**: Couple, Swift Dzire, 4-day | **Review date**: Not published
 
 **Review 3: Photography Club**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Booked for sunrise photography at Amber Fort. Driver understood our timing needs perfectly. Tempo Traveller was comfortable for 12 members with camera equipment!"  
-**Trip**: Group of 12, Tempo Traveller, 3-day | **Date**: September 2026
+**Trip**: Group of 12, Tempo Traveller, 3-day | **Review date**: Not published
 
 ### Verified Varanasi to Jaipur Taxi Stats
 

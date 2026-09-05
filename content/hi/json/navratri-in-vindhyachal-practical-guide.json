@@ -27,8 +27,8 @@
           "height": 60
         }
       },
-      "datePublished": "2026-09-17",
-      "dateModified": "2026-09-17",
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-09-03",
       "inLanguage": "hi-IN",
       "articleSection": "नवरात्रि गाइड",
       "keywords": "विंध्याचल नवरात्रि 2026, नवरात्रि में विंध्याचल, विंध्यवासिनी देवी नवरात्रि, नवरात्रि दर्शन समय, विंध्याचल नवरात्रि आरती, नवरात्रि विशेष पूजा",
@@ -37,9 +37,9 @@
           "@type": "Event",
           "name": "नवरात्रि",
           "description": "देवी दुर्गा के नौ दिनों का पवित्र त्योहार",
-          "startDate": "2026-03-30",
-          "endDate": "2026-04-07",
-          "eventStatus": "https://schema.org/EventScheduled",
+          "startDate": "2026-03-19",
+          "endDate": "2026-03-27",
+          "eventStatus": "https://schema.org/EventCompleted",
           "performer": {
             "@type": "Organization",
             "name": "Local Committee"
@@ -77,7 +77,7 @@
           "name": "विंध्याचल में नवरात्रि 2026 की तारीखें क्या हैं?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "2026 में चैत्र नवरात्रि 30 मार्च से 7 अप्रैल तक हैं और शारदीय नवरात्रि 22 सितंबर से 30 सितंबर तक हैं। विंध्याचल में दोनों नवरात्रि बहुत धूमधाम से मनाई जाती हैं।"
+            "text": "2026 में चैत्र नवरात्रि 19 मार्च से 27 मार्च तक हैं और शारदीय नवरात्रि 11 अक्टूबर से 19 अक्टूबर तक हैं। विंध्याचल में दोनों नवरात्रि बहुत धूमधाम से मनाई जाती हैं।"
           }
         },
         {
@@ -127,8 +127,8 @@
       "@id": "https://www.kashitaxi.in/hi/navratri-in-vindhyachal-practical-guide#navratri2026",
       "name": "विंध्याचल नवरात्रि महोत्सव 2026",
       "description": "विंध्याचल में नवरात्रि का भव्य आयोजन",
-      "startDate": "2026-03-30",
-      "endDate": "2026-04-07",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-27",
       "location": {
         "@type": "Place",
         "name": "विंध्यवासिनी देवी मंदिर परिसर",
@@ -143,15 +143,15 @@
         "@type": "Organization",
         "name": "विंध्यवासिनी देवी मंदिर ट्रस्ट"
       },
-      "eventStatus": "https://schema.org/EventScheduled",
+      "eventStatus": "https://schema.org/EventCompleted",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "subEvent": [
         {
           "@type": "Event",
           "name": "घटस्थापना",
-          "startDate": "2026-03-30",
+          "startDate": "2026-03-19",
           "description": "नवरात्रि का पहला दिन",
-          "eventStatus": "https://schema.org/EventScheduled",
+          "eventStatus": "https://schema.org/EventCompleted",
           "performer": {
             "@type": "Organization",
             "name": "Local Committee"
@@ -167,7 +167,7 @@
             "availability": "https://schema.org/InStock"
           },
           "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
-          "endDate": "2026-03-30T02:00:00+05:30",
+          "endDate": "2026-03-19T02:00:00+05:30",
           "location": {
             "@type": "Place",
             "name": "विंध्यवासिनी देवी मंदिर, विंध्याचल",
@@ -182,9 +182,9 @@
         {
           "@type": "Event",
           "name": "महाष्टमी",
-          "startDate": "2026-04-06",
+          "startDate": "2026-03-26",
           "description": "आठवें दिन का विशेष आयोजन",
-          "eventStatus": "https://schema.org/EventScheduled",
+          "eventStatus": "https://schema.org/EventCompleted",
           "performer": {
             "@type": "Organization",
             "name": "Local Committee"
@@ -200,7 +200,7 @@
             "availability": "https://schema.org/InStock"
           },
           "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
-          "endDate": "2026-04-06T02:00:00+05:30",
+          "endDate": "2026-03-26T02:00:00+05:30",
           "location": {
             "@type": "Place",
             "name": "विंध्यवासिनी देवी मंदिर, विंध्याचल",
@@ -215,9 +215,9 @@
         {
           "@type": "Event",
           "name": "महानवमी",
-          "startDate": "2026-04-07",
+          "startDate": "2026-03-27",
           "description": "नौवें दिन का समापन",
-          "eventStatus": "https://schema.org/EventScheduled",
+          "eventStatus": "https://schema.org/EventCompleted",
           "performer": {
             "@type": "Organization",
             "name": "Local Committee"
@@ -233,7 +233,7 @@
             "availability": "https://schema.org/InStock"
           },
           "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png",
-          "endDate": "2026-04-07T02:00:00+05:30",
+          "endDate": "2026-03-27T02:00:00+05:30",
           "location": {
             "@type": "Place",
             "name": "विंध्यवासिनी देवी मंदिर, विंध्याचल",
@@ -265,8 +265,8 @@
       "description": "विंध्याचल में नवरात्रि का दैनिक समय सारणी",
       "scheduleTimezone": "Asia/Kolkata",
       "repeatFrequency": "Daily",
-      "startDate": "2026-03-30",
-      "endDate": "2026-04-07",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-27",
       "byDay": [
         {
           "@type": "OpeningHoursSpecification",
@@ -281,8 +281,8 @@
           ],
           "opens": "04:00",
           "closes": "23:00",
-          "validFrom": "2026-03-30",
-          "validThrough": "2026-04-07"
+          "validFrom": "2026-03-19",
+          "validThrough": "2026-03-27"
         }
       ]
     },
@@ -346,9 +346,9 @@
         "@type": "Event",
         "name": "नवरात्रि",
         "description": "माता दुर्गा के नौ दिनों का पवित्र त्योहार",
-        "startDate": "2026-03-30",
-        "endDate": "2026-04-07",
-        "eventStatus": "https://schema.org/EventScheduled",
+        "startDate": "2026-03-19",
+        "endDate": "2026-03-27",
+        "eventStatus": "https://schema.org/EventCompleted",
         "performer": {
           "@type": "Organization",
           "name": "Local Committee"

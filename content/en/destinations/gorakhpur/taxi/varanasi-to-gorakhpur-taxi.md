@@ -2,7 +2,7 @@
 title: "Varanasi to Gorakhpur Taxi | Nepal Gateway | ₹5,253 | Kashi Taxi"
 slug: "varanasi-to-gorakhpur-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Gorakhpur Taxi | Nepal Gateway | ₹5,253 | Kashi Taxi"
@@ -242,17 +242,17 @@ Via Sunauli Border:
 **Review 1: Anjali Sharma (Nepal Trip)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Excellent service! The driver dropped us at Sunauli border and helped with all the Nepal entry formalities. Very experienced and knowledgeable. Highly recommend for Nepal-bound travelers!"  
-**Trip**: Family of 4, Ertiga | **Date**: November 2026
+**Trip**: Family of 4, Ertiga | **Review date**: Not published
 
 **Review 2: Ramesh Patel (Gorakhnath Temple)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Smooth journey to Gorakhpur. The driver knew the exact location of Gorakhnath Temple and dropped us right at the entrance. Very professional service. Fair pricing too!"  
-**Trip**: 2 passengers, Swift Dzire | **Date**: October 2026
+**Trip**: 2 passengers, Swift Dzire | **Review date**: Not published
 
 **Review 3: John Smith (Railway Transfer)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Needed to catch a train from Gorakhpur Junction. The driver picked me up on time and ensured I reached the platform with 30 minutes to spare. Very reliable service!"  
-**Trip**: Solo traveler, Swift Dzire | **Date**: September 2026
+**Trip**: Solo traveler, Swift Dzire | **Review date**: Not published
 
 ### Verified Varanasi to Gorakhpur Taxi Stats
 

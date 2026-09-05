@@ -2,7 +2,7 @@
 title: "Kashi Yatra Bus Package from South India (Chennai • Bengaluru • Hyderabad) – 6 to 7 Day Pilgrimage Guide"
 slug: "kashi-yatra-south-india-bus-package"
 date: "2026-07-15"
-lastModified: "2026-10-25"
+lastModified: "2026-09-03"
 excerpt: "6–7 day Kashi (Varanasi) Yatra bus pilgrimage from South India – itinerary, darshan timings, pricing tiers, inclusions, elder-friendly logistics, optional Prayagraj/Ayodhya add-ons."
 author: "Travel Agent Varanasi Pilgrimage Desk"
 category: "Pilgrimage"

@@ -2,8 +2,8 @@
 slug: "lolark-shashti-darshan-package-varanasi"
 lang: "en"
 title: "Lolark Shashti Darshan Package Varanasi 2026 | Half-Day Lolark Kund Assistance for Couples"
-subtitle: "A calm, guided Lolark Shashti (28 Aug 2026) service for couples — queue navigation, priest for the sankalp, flood-safe transport and a private waiting spot, with an optional Kashi Vishwanath darshan add-on."
-description: "Book a Lolark Shashti darshan package in Varanasi for 28 August 2026. Half-day Lolark Kund assistance for couples — priest, queue help, transport — plus optional Kashi Vishwanath darshan. From ₹11,000."
+subtitle: "A half-day Lolark Shashti service provisionally planned for 17 Sep 2026; confirm the temple's local observance before booking date-specific arrangements."
+description: "Plan Lolark Shashti assistance in Varanasi around the provisional 17 September 2026 date. Confirm the local observance before booking date-specific services."
 keywords: ["lolark shashti package","lolark kund darshan package","lolark shashti 2026 booking","fertility ritual package varanasi","childless couple varanasi package","lolark kund assistance","lolark shashti priest booking","lolark kund with kashi vishwanath","half day lolark package","lolark shashti darshan help"]
 phone: "9935474730"
 schemaType: "Service"
@@ -11,7 +11,7 @@ serviceCategory: "Ritual & Pilgrimage Packages"
 structuredData: true
 published: true
 date: "2026-07-14"
-lastUpdated: "2026-07-14"
+lastUpdated: "2026-09-03"
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg"
 aggregateRating:
   ratingValue: 4.8
@@ -37,7 +37,7 @@ faqSchema:
 
 > **TL;DR — Lolark Shashti package:**
 >
-> - **Date** → **28 August 2026** (Bhadrapada Shukla Shashti)
+> - **Provisional date** → **17 September 2026** (confirm the temple's local observance before paying)
 > - **Core service** → half-day Lolark Kund assistance: queue help + priest for sankalp + transport + private waiting spot
 > - **Add-on** → Kashi Vishwanath darshan (Sugam pass) or a short inland city tour
 > - **Pooja** → ₹5,000–₹11,999 · **Combined 1-day (pooja + hotel + cab)** → **from ₹11,000**

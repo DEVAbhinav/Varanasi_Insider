@@ -1,19 +1,19 @@
 ---
-title: "Lolark Shashti & Lolark Kund, Varanasi (Fertility Ritual Guide, 28 August 2026)"
+title: "Lolark Shashti & Lolark Kund, Varanasi (Fertility Ritual Guide, 17 September 2026)"
 slug: "lolark-shashti-lolark-kund-varanasi-guide"
 date: "2026-07-14"
-lastUpdated: "2026-07-14"
+lastUpdated: "2026-09-03"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/pink-sky-ghat-varanasi-l.jpeg"
-metaTitle: "Lolark Shashti 2026 Varanasi: Lolark Kund Fertility Ritual Guide (28 Aug)"
-metaDescription: "Lolark Shashti at Lolark Kund, Varanasi is on 28 August 2026. The holy dip, wet-clothes & fruit vow explained, plus crowd, timing & assistance help for couples. Book →"
+metaTitle: "Lolark Shashti 2026 Varanasi: Lolark Kund Fertility Ritual Guide (17 Sep)"
+metaDescription: "Lolark Shashti at Lolark Kund is provisionally expected on 17 September 2026. Confirm the local observance before travel."
 keywords: ["lolark shashti 2026","lolark kund varanasi","lolark shashti date 2026","lolark kund fertility","childless couples varanasi ritual","lolark shashti ritual","lolark kund near tulsi ghat","bhadrapada shukla shashti","fertility temple varanasi","lolark kund darshan"]
 tags: ["Lolark Shashti", "Lolark Kund", "Fertility Ritual", "Bhadrapada", "Varanasi Festivals", "Pilgrimage"]
 relatedPosts: ["lolark-shashti-darshan-package-varanasi", "shradh-tarpan-tulsi-ghat-varanasi-guide", "guide-to-ghats-of-varanasi", "dashashwamedh-ghat-ganga-aarti-timing", "best-time-to-visit-varanasi", "assi-ghat-aarti-timings-2026"]
 faqSchema:
   - question: "When is Lolark Shashti in 2026?"
-    answer: "Lolark Shashti falls on Bhadrapada Shukla Shashti, which is 28 August 2026. It also marks the closing day of the Sawan-linked worship season. The main ritual happens at dawn at Lolark Kund near Tulsi Ghat, and the crowd is heaviest in the early morning hours, so an early, guided arrival matters."
+    answer: "Lolark Shashti falls on Bhadrapada Shukla Shashti. Varanasi panchang calculations place the relevant tithi around September 16-17, 2026, with September 17 used here provisionally. Confirm the temple's local observance before travel."
   - question: "What is the Lolark Shashti ritual at Lolark Kund?"
     answer: "Couples hoping for a child take a holy dip in Lolark Kund at sunrise, leave their wet clothes behind in the tank, and offer a specific fruit or vegetable that they vow never to eat again for life. It is an act of faith and sacrifice; devotees attend as sincere participants and respectful observers, not spectators."
   - question: "Where is Lolark Kund and how deep is it?"
@@ -26,14 +26,14 @@ faqSchema:
     answer: "Yes. Many couples pair the dawn Lolark Kund ritual with a Kashi Vishwanath darshan (with a Sugam Darshan pass to skip long queues) and a short inland sightseeing loop. Our Lolark Shashti package offers a core half-day service plus an optional darshan and city add-on."
 ---
 
-# Lolark Shashti & Lolark Kund, Varanasi — Fertility Ritual Guide (28 August 2026)
+# Lolark Shashti & Lolark Kund, Varanasi — Fertility Ritual Guide (17 September 2026)
 
 ![Soft pink sky over the Varanasi ghats](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/pink-sky-ghat-varanasi-l.jpeg)
 *Lolark Kund lies in the calm southern stretch near Tulsi Ghat — best visited at first light.*
 
 > **TL;DR — Lolark Shashti 2026:**
 >
-> - **Date** → **28 August 2026** (Bhadrapada Shukla Shashti)
+> - **Provisional date** → **17 September 2026** (Bhadrapada Shukla Shashti; confirm locally)
 > - **Where** → Lolark Kund, a ~15 m stepwell near Tulsi Ghat, south Varanasi
 > - **Ritual** → dawn holy dip → leave wet clothes → offer a fruit/vegetable **vowed never to eat again**
 > - **Crowd** → tens of thousands; steep steps — arrive early, get queue help
@@ -77,8 +77,7 @@ When it's arranged this way, couples tell us the same thing afterwards: they fin
 
 ## When Is Lolark Shashti 2026?
 
-- **Date:** **28 August 2026** — Bhadrapada Shukla Shashti.
-- It also coincides with the **close of the Sawan-linked worship season** (Sawan 2026 runs Jul 30 – Aug 28).
+- **Provisional date:** **17 September 2026** — Bhadrapada Shukla Shashti. Panchang calculations span September 16–17 depending on the tithi convention, so confirm the temple's observance before travel.
 - The **main ritual is at dawn**; crowds peak in the early morning, so arriving early with guidance is key.
 
 ## The Ritual, Explained
@@ -141,7 +140,7 @@ A gentle post-ritual breakfast nearby: **Kachori Sabji** at *Shivshankar Kachori
 ## Frequently Asked Questions
 
 **When is Lolark Shashti in 2026?**
-Lolark Shashti falls on Bhadrapada Shukla Shashti — 28 August 2026. It also marks the close of the Sawan-linked worship season. The main ritual is at dawn at Lolark Kund near Tulsi Ghat, and crowds are heaviest early, so an early guided arrival matters.
+Lolark Shashti falls on Bhadrapada Shukla Shashti. Varanasi panchang calculations place the relevant tithi around **16–17 September 2026**, with **17 September** used here provisionally. Confirm the temple's local observance before travel. [Varanasi monthly panchang](https://www.bda.ai/_functions/panchangCalendarPage?city=varanasi&ym=2026-09)
 
 **What is the Lolark Shashti ritual at Lolark Kund?**
 Couples hoping for a child take a holy dip at sunrise, leave their wet clothes behind in the tank, and offer a specific fruit or vegetable that they vow never to eat again for life. Devotees attend as sincere participants and respectful observers.

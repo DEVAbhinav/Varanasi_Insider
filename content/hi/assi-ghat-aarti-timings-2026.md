@@ -31,7 +31,7 @@ auditNote: "SEO enhanced: meta fields, keyword headings, CTA blocks, internal li
 canonical: "https://www.kashitaxi.in/hi/assi-ghat-aarti-timings-2026"
 ---
 
-अद्यतन: दिसंबर 2026
+अद्यतन: 3 सितंबर 2026
 
 त्वरित उत्तर
 - आज (सुबह): 4:45–5:45 AM (मौसमी हल्का बदलाव)

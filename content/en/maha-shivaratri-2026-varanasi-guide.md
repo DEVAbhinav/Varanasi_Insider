@@ -2,7 +2,7 @@
 title: "Maha Shivaratri 2026 Varanasi: Feb 15 Shiv Baraat Playbook"
 slug: "maha-shivaratri-2026-varanasi-guide"
 date: "2026-07-15"
-lastModified: "2026-09-30"
+lastModified: "2026-09-03"
 excerpt: "Plan Maha Shivaratri 2026 (Feb 15) in Varanasi with the Shiv Baraat playbook: temple queues, darshan slots, akhada timings, and all-night crowd flow intel."
 author: "Travel Agent Varanasi Spiritual Team"
 tags: ["Maha Shivaratri", "Kashi Vishwanath", "Shiv Baraat", "Varanasi Festivals", "Lord Shiva", "Spiritual Tourism", "February 2026"]
@@ -23,6 +23,8 @@ relatedPosts: ["kashi-vishwanath-shivaratri-crowd-survival-guide", "shiv-baraat-
 ---
 
 # Maha Shivaratri 2026 Varanasi February 15: Kashi Vishwanath Festival Guide
+
+> **Archive notice:** Maha Shivaratri 2026 was observed on **Sunday, 15 February 2026** and has passed. This page is retained as a historical guide; verify a future year's date before booking. [Government of India 2026 holiday calendar](https://www.iirs.gov.in/holidaycalender)
 
 > **TL;DR:** Maha Shivaratri 2026 in Varanasi hits Sunday 15 February with over a million devotees, four to eight hour Kashi Vishwanath queues, and Shiv Baraat rolling 6 to 9 PM across the corridor; lock darshan for 14 February or aim 3 to 5 AM entry and pre-book accommodation inside Godowlia radius. Micro-tip: download the corridor's pedestrian diversion map offline so you can reroute when police shift barricades. Scroll for hour-by-hour timeline, temple tactics, and Baraat viewing grids.
 

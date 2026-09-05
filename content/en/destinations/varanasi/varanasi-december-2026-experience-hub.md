@@ -3,12 +3,12 @@ title: "Varanasi in December 2026: Festivals, Sunrise Rituals & Shopping"
 slug: "varanasi-december-2026-experience-hub"
 canonical: "/en/varanasi-in-december-2026"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Varanasi Insider Team"
 lang: en
 metaTitle: "Varanasi December 2026 Guide | Festivals, Sunrise Yoga, Malaiyo & Banarasi Silk"
-metaDescription: "Interactive December 2026 planner for Varanasi – explore Kashi Tamil Sangamam, Mahindra Kabira, sunrise yoga, malaiyo trails, and silk shopping with taxi-ready CTAs."
-description: "Tabbed hub covering every must-do Varanasi December 2026 experience – festivals, sunrise rituals, food walks, and shopping – plus travel logistics to stitch them together."
+metaDescription: "Interactive December 2026 Varanasi planner for Mahindra Kabira, sunrise yoga, malaiyo trails and silk shopping, with corrected festival dates."
+description: "December 2026 Varanasi experiences with verified Mahindra Kabira dates, sunrise rituals, food walks and shopping."
 keywords:
   - "Varanasi December 2026"
   - "Kashi Tamil Sangamam guide"
@@ -29,11 +29,11 @@ ctaSubtitle: "Reserve a full-day cab for sunrise rituals, festival venues, and s
 
 # December 2026 Experience Console – Plan Every Sunrise, Festival & Food Trail
 
-> **TL;DR:** December 2026 in Varanasi = Kashi Tamil Sangamam + Mahindra Kabira Festival + malaiyo season + sunrise yoga + Banarasi silk shopping. Weather: 12–26°C, crisp mornings, golden afternoons. Book a full-day cab to stitch sunrise rituals, festival venues, and shopping loops together. *Jump to the tab switchboard below to browse experiences by category.*
+> **TL;DR:** December 2026 in Varanasi includes Mahindra Kabira Festival on **4–6 December**, malaiyo season, sunrise yoga and Banarasi silk shopping. Kashi Tamil Sangamam 4.0 was held in 2025; no 2026 edition is confirmed.
 
 | Snapshot | Details |
 | --- | --- |
-| **Prime Window** | 2–31 December 2026 (Tamil Sangamam ➝ Kabira ➝ Christmas bustle) |
+| **Prime Window** | 4–31 December 2026 (Kabira ➝ winter experiences ➝ Christmas bustle) |
 | **Weather Band** | 12–26°C · crisp mornings · golden afternoons |
 | **Morning Stack** | Sunrise yoga, Kabira dawn raags, malaiyo tasting |
 | **Daytime Stack** | BHU cultural circuits, silk shopping, Sarnath runs |
@@ -131,14 +131,14 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
             <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg" alt="Kashi Tamil Sangamam cultural walks" loading="lazy" />
             <div class="december-card-body">
               <h4>Kashi Tamil Sangamam 4.0</h4>
-              <p>Dec 2–15 · BHU conclaves, heritage walks, Tamil workshops, intercultural exchanges.</p>
+              <p>2025 recap · KTS 4.0 was not a 2026 event; no new 2026 dates are confirmed.</p>
             </div>
           </a>
           <a class="december-card" href="/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi">
             <img src="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg" alt="Mahindra Kabira evening concert" loading="lazy" />
             <div class="december-card-body">
               <h4>Mahindra Kabira Festival</h4>
-              <p>Dec 19–21 · Delegate passes, boutique ghats, poetry walks, backstage volunteer info.</p>
+              <p>Dec 4–6 · Delegate passes, boutique ghats, poetry walks, backstage volunteer info.</p>
             </div>
           </a>
         </div>
@@ -212,9 +212,9 @@ Pair this hub with your stay calendar: tap a tab, skim curated cards, and dive i
 
 | Scenario | Pair These Pages | Taxi Move |
 | --- | --- | --- |
-| **Cultural Deep Dive (Dec 2–15)** | Sangamam + Silk Shopping | Book BHU ➝ Thatheri ➝ Assi loops via [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide). |
+| **Cultural Deep Dive** | Silk Shopping + BHU/heritage visits | Plan these as ordinary Varanasi experiences; no 2026 Sangamam schedule is confirmed. |
 | **Sunrise Power Week** | Sunrise Yoga + Kabira Dawn Sets + Malaiyo | Lock 4:45 AM pickups, cab waits near Assi, then drop at Godowlia for breakfast trail. |
-| **Weekend Festival Sprint (Dec 19–21)** | Kabira Festival + Silk + Malaiyo | Combo pass + daytime shopping taxi; add Ayodhya/Prayagraj runs post-festival. |
+| **Weekend Festival Sprint (Dec 4–6)** | Kabira Festival + Silk + Malaiyo | Combo pass + daytime shopping taxi; add Ayodhya/Prayagraj runs post-festival. |
 
 Draft your stay by stacking one pick from every tab, then message dispatch for a bundled driver brief.
 

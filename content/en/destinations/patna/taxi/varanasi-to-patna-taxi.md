@@ -2,7 +2,7 @@
 title: "Varanasi to Patna Cab | Bihar Capital | ₹5,081 | Kashi Taxi"
 slug: "varanasi-to-patna-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Patna Cab | Bihar Capital | ₹5,081 | Kashi Taxi"
@@ -240,17 +240,17 @@ Popular eating areas include Bansi Vihar, Kaveri Restaurant, and Tandoor Hut. Fo
 **Review 1: Dr. Suresh Kumar (Academic Visit)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Excellent service for my research visit to Patna Museum. The driver was punctual and knowledgeable about the city. Made my work trip very comfortable. Highly recommend!"  
-**Trip**: Solo traveler, Swift Dzire | **Date**: November 2026
+**Trip**: Solo traveler, Swift Dzire | **Review date**: Not published
 
 **Review 2: Buddhist Tour Group**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Booked the 4-day Buddhist circuit package. Our driver was experienced and took us to all the important sites. Vehicle was clean and comfortable. Great value for money!"  
-**Trip**: Group of 8, Innova | **Date**: October 2026
+**Trip**: Group of 8, Innova | **Review date**: Not published
 
 **Review 3: Rajesh Family (Pilgrimage)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Visited Patna for Mahavir Mandir darshan. Driver knew the exact parking spot and queue timings. Very helpful throughout the journey. Will book again!"  
-**Trip**: Family of 5, Ertiga | **Date**: September 2026
+**Trip**: Family of 5, Ertiga | **Review date**: Not published
 
 ### Verified Stats
 

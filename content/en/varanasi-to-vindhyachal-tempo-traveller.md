@@ -98,8 +98,6 @@ A visit to Maa Vindhyavasini, Kali Khoh, and Ashtabhuja completes the sacred tri
 
 ## Vindhyachal Tempo Traveller Devotee Feedback
 
-> *“Navratri rush looked intimidating but we breezed through VIP lane with your coordinator’s help. Traveller had extra stools for elders—lifesaver.”* — Tiwari family, October 2026
-
 > *“Women-only satsang group felt safe. Driver waited right outside with cold napkins and fruit bowls after parikrama.”* — Shakti Sangh, July 2026
 
 ## How to Book Your Varanasi to Vindhyachal Tempo Traveller

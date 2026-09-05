@@ -1,14 +1,14 @@
 ---
-title: "Mahindra Kabira Festival 2026, Varanasi: Dates, Tickets, Lineup & Travel Guide"
+title: "Mahindra Kabira Festival 2026, Varanasi: Verified Dates & Travel Guide"
 slug: "mahindra-kabira-festival-2026-varanasi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Mahindra Kabira Festival 2026, Varanasi: Dates, Tickets, Lineup & Travel Guide"
-metaDescription: "Heading to Varanasi for Mahindra Kabira Festival 2026 (Dec 19-21)? Get ticket prices, artist lineup, sunrise concert info, hotel zones and ghat travel logistics in one guide."
-description: "Three-day itinerary for Mahindra Kabira Festival 2026 in Varanasi – dates, ticket options, artist lineup, and travel planning tips for staying near the ghats."
-excerpt: "Experience the soul-stirring Mahindra Kabira Festival 2026 in Varanasi. Complete guide to tickets, lineup, venue (Guleria Kothi), and taxi services."
+metaTitle: "Mahindra Kabira Festival 2026 Varanasi | December 4–6"
+metaDescription: "Mahindra Kabira Festival 2026 runs December 4–6. Verify the official programme, passes and venues, then plan your Varanasi stay and transport."
+description: "Verified dates and cautious travel planning for Mahindra Kabira Festival 2026 in Varanasi."
+excerpt: "Mahindra Kabira Festival 2026 runs December 4–6. Check the official programme for passes, artists and venues."
 keywords:
   - "Mahindra Kabira Festival 2026"
   - "Kabir festival Varanasi"
@@ -24,15 +24,12 @@ template: destination
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "Music & Spirituality"
 ctaTitle: "Attending the Festival?"
-ctaSubtitle: "Secure your airport transfer to Guleria Kothi or Shivala Ghat in advance."
-startDate: "2026-12-19"
-endDate: "2026-12-21"
+ctaSubtitle: "Confirm the official venue first, then arrange your airport or hotel transfer."
+startDate: "2026-12-04"
+endDate: "2026-12-06"
 location:
-  name: "Guleria Kothi"
+  name: "Varanasi"
   address: "Varanasi, Uttar Pradesh"
-offers:
-  - price: "5000"
-    priceCurrency: "INR"
 organizer:
   name: "Mahindra Kabira Festival"
   url: "https://mahindrakabira.com"
@@ -40,24 +37,26 @@ organizer:
 
 # Mahindra Kabira Festival – A Celebration of the 15th-Century Mystic Poet
 
+> **Verified dates:** **4–6 December 2026**, as listed by [Mahindra Cultural Outreach](https://www.mahindra.com/about-us/cultural-outreach) and the [official festival website](https://mahindrakabira.com/). Check the official programme before buying passes; session times, artists and venues below must not be treated as final unless published there.
+
 **Festival Snapshot**
 
-- **Dates:** 19–21 December 2026 (Friday to Sunday)
-- **Venues:** Sunrise sets at Guleria Kothi, evening concerts at Shivala Ghat, curated walks across the old city
+- **Dates:** 4–6 December 2026 (Friday to Sunday)
+- **Venues:** Confirm each session on the official programme
 - **Ideal for:** Classical music lovers, poets, spiritual travelers, boutique festival fans
 - **Stay Nearby:** Godowlia/Luxa for quick ghat access or Cantonment for five-star comfort
 
 | Pass Type | Price (₹) | Inclusions |
 | --- | --- | --- |
-| Delegate (3 days) | 40,000 | All sessions, meals, curated walks, welcome kit |
-| Daily Pass | 5,000 – 8,000 | One full day of programming |
-| Volunteer (17-22 Dec) | Contribution-based | Training, backstage access, certificate |
+| Delegate / residential programme | See official site | Confirm inclusions and accommodation |
+| Daily access | See official site | Confirm the selected day's programme |
+| Volunteer | See official announcement | Dates and eligibility may change |
 
-> **Sunrise addict?** Dive into the detailed [Mahindra Kabira Sunrise Music guide](/en/city/varanasi/events/mahindra-kabira-sunrise-music) for lineup notes, seating hacks, and photography etiquette.
+> **Sunrise addict?** Check the [Mahindra Kabira Sunrise Music guide](/en/city/varanasi/events/mahindra-kabira-sunrise-music) for programme status, planning advice and photography etiquette.
 
-**Dates:** December 19-21, 2026
+**Dates:** December 4-6, 2026
 **Venue:** Guleria Kothi and Shivala Ghat, Varanasi
-**Festival Edition:** 9th Annual Edition
+**Programme:** Check the official site for the edition name and final schedule
 
 ### The Vision Behind the Festival
 
@@ -77,21 +76,11 @@ The **Mahindra Kabira Festival** celebrates the revolutionary philosophy of Kabi
 
 ### Festival Schedule Overview
 
-**December 19, 2026:** Evening Opening Ceremony (Ganga Aarti + Inaugural Address)
-
-**December 20, 2026:**
-
-**December 21, 2026:**
+The festival runs **4–6 December 2026**. Use the official programme for the day-by-day sequence rather than assuming a particular opening ceremony, concert or walk.
 
 ### Investment & Booking Information
 
-**Delegate Package:** ₹40,000 per person (inclusive of all festival events, meals, and materials)
-- Commences: December 19 at 7:00 PM
-- Concludes: December 21 at 10:00 PM
-
-**Daily Passes:** Available for individual days (₹5,000-₹8,000 per day).
-
-**Volunteer Opportunities:** Volunteers needed from December 17-22; opportunity to work alongside international teams.
+Passes, residential packages and volunteer opportunities should be booked only through the official festival channels. Prices and inclusions can change; this page no longer publishes an unverified rate card.
 
 ### Why Attend This Festival?
 
@@ -108,7 +97,7 @@ Unlike large commercial events, Kabira Festival maintains intimacy and depth. Yo
 **Pro Tips:**
 
 - Book early – the festival has limited capacity and sells out.
-- Arrive by December 17 if volunteering to attend training sessions.
+- Arrive by December 3 if volunteering to attend training sessions.
 - Carry warm clothes for pre-dawn music sessions.
 - The festival has limited commercial interruption – bring water and snacks.
 - Photography guidelines are strict during performances; respect artist privacy.

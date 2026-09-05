@@ -124,19 +124,19 @@ export default function HomePage({ allPosts }) {
   return (
     <>
       <Head>
-        <title>Taxi in Varanasi | Taxi Service in Varanasi & Airport Cab</title>
+        <title>Taxi in Varanasi | Best Cab Service & Car Rental in Varanasi – Kashi Taxi</title>
         <meta
           name="description"
-          content={`Taxi & cab service in Varanasi — airport pickup from ${formatINR(AIRPORT_CITY_SEDAN_FARE)}, sightseeing, outstation and pilgrimage trips. Confirm fares and book on WhatsApp.`}
+          content={`Book reliable taxi in Varanasi & 24×7 cab service. Affordable fares for airport pickup from ${formatINR(AIRPORT_CITY_SEDAN_FARE)}, local Kashi darshan, outstation cabs (Ayodhya, Prayagraj) & car rental with driver.`}
         />
-        <meta name="keywords" content="taxi in varanasi, varanasi taxi service, varanasi group tour package, kashi group tour, ayodhya varanasi prayagraj group tour, varanasi tour package from delhi, varanasi taxi, cab in varanasi, varanasi cab service, taxi service in varanasi, varanasi taxi booking, varanasi airport taxi, tempo traveller varanasi, varanasi local taxi, outstation taxi varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab" />
+        <meta name="keywords" content="taxi in varanasi, cab in varanasi, taxi service in varanasi, cab service in varanasi, varanasi taxi service, varanasi cab service, car rental in varanasi, cab booking varanasi, varanasi airport taxi, outstation cab varanasi, tempo traveller varanasi, varanasi to ayodhya taxi, varanasi to prayagraj cab, varanasi car rental with driver" />
         <meta name="author" content="Kashi Taxi" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.kashitaxi.in/" />
 
         {/* Open Graph Meta Tags */}
-        <meta property="og:title" content="Taxi in Varanasi | Taxi Service in Varanasi & Airport Cab" />
-        <meta property="og:description" content="Airport pickup, local sightseeing, group pilgrimage packages, Delhi-origin sacred circuits, Ayodhya darshan, Vindhyachal and Prayagraj trips from one trusted Varanasi team." />
+        <meta property="og:title" content="Taxi in Varanasi | Best Cab Service & Car Rental in Varanasi" />
+        <meta property="og:description" content="Book 24×7 taxi in Varanasi and outstation cab service. Fixed airport pickup from ₹899, local temple sightseeing, and tempo traveller hire with verified drivers." />
         <meta property="og:image" content="https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png" />
         <meta property="og:url" content="https://www.kashitaxi.in/" />
         <meta property="og:type" content="website" />
@@ -249,13 +249,13 @@ export default function HomePage({ allPosts }) {
             {/* Main Title */}
             <div className="text-center mb-4">
               <div className="inline-block mb-2 px-4 py-1.5 bg-white/20 backdrop-blur-md rounded-full text-[10px] md:text-xs font-bold border border-white/30 uppercase tracking-widest text-white/90">
-                Local Taxi • Airport • Outstation
+                Local Taxi & Cab • Airport Transfer • Outstation Car Rental
               </div>
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-extrabold mb-3 drop-shadow-2xl tracking-tight leading-tight">
-                Taxi in Varanasi – Airport Cab, Local Tours & Outstation
+                Taxi in Varanasi — 24×7 Cab Service, Airport Pickup & Outstation
               </h1>
               <h2 className="text-sm md:text-lg font-medium text-white/95 mb-2 drop-shadow-md">
-                Taxi Service in Varanasi — Airport, Station, Local & Outstation Booking
+                Reliable Varanasi Taxi & Cab Booking — Verified Drivers, AC Fleet & Fixed Fares
               </h2>
               <p className="text-xs md:text-sm font-light text-white/80 drop-shadow-lg italic">
                 "You handle the darshan. We handle the route, timing and driver."
@@ -298,7 +298,7 @@ export default function HomePage({ allPosts }) {
 
             {/* Single compact helper line — readable on the hero image */}
             <p className="mt-4 mb-2 mx-auto w-fit max-w-full rounded-full bg-black/35 px-4 py-2 text-center text-xs font-semibold text-white shadow-md backdrop-blur-sm md:text-sm">
-              Booking a cab only? <a href="/en/city/varanasi/taxi" className="font-bold underline underline-offset-2">See routes &amp; fares</a>
+              Booking a cab only? <a href="/en/city/varanasi/taxi" className="font-bold underline underline-offset-2">See routes & fares</a>
               <span className="mx-2 text-white/70">|</span>
               Need hotel too?{' '}
               <a
@@ -343,7 +343,7 @@ export default function HomePage({ allPosts }) {
               <span className="grid h-10 w-10 shrink-0 place-items-center rounded-2xl bg-gradient-to-br from-cyan-500 to-teal-500 text-sm font-bold text-white shadow-sm">4.8★</span>
               <div className="min-w-0">
                 <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-cyan-700">Serving Kashi since 1982</p>
-                <h2 className="text-sm font-semibold leading-snug text-slate-900 md:text-lg">Local drivers who know every ghat, gali &amp; shortcut</h2>
+                <h2 className="text-sm font-semibold leading-snug text-slate-900 md:text-lg">Local drivers who know every ghat, gali & shortcut</h2>
               </div>
             </div>
             <Button asChild variant="outline" size="sm" className="shrink-0 border-cyan-200 text-cyan-800 hover:bg-cyan-50">
@@ -431,10 +431,10 @@ export default function HomePage({ allPosts }) {
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Every Journey Deserves Care
+              Varanasi Taxi & Cab Booking Services — Local, Outstation & Airport Fleet
             </h2>
-            <p className="text-gray-600 text-lg">
-              Whether you’re 2 people or 20 – we have the perfect ride for your Varanasi adventure
+            <p className="text-gray-600 text-lg max-w-3xl mx-auto">
+              From private city cabs and airport taxis to outstation pilgrimage cars and tempo travellers — 24×7 booking with transparent fares
             </p>
           </div>
 
@@ -445,9 +445,9 @@ export default function HomePage({ allPosts }) {
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">✈️</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">Stress-Free Airport Welcome</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Varanasi Airport Taxi & Cab Transfer</h3>
               <p className="text-gray-600 text-sm mb-4">
-                Land tired, leave smiling. We track your flight and wait – no matter what time you arrive
+                Fixed-fare Babatpur airport pickup (from ₹899) and drop with real-time flight tracking and terminal meet-and-greet
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
                 See How It Works →
@@ -460,9 +460,9 @@ export default function HomePage({ allPosts }) {
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">🏛️</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">One-Day Kashi Sightseeing</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Local Sightseeing Cab & Full-Day Taxi</h3>
               <p className="text-gray-600 text-sm mb-4">
-                Local sightseeing by car for Kashi Vishwanath, ghats, Sarnath and evening aarti without juggling separate autos or guides
+                Full-day and half-day car rental for Kashi Vishwanath temple, 84 ghats, Sarnath, and evening Ganga Aarti darshan
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
                 Explore City Tour →
@@ -475,9 +475,9 @@ export default function HomePage({ allPosts }) {
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">🚐</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">Group Vehicles 8-40+</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Tempo Traveller & Group Cab Hire</h3>
               <p className="text-gray-600 text-sm mb-4">
-                Tempo travellers, mini buses and larger group movement options for yatras, family circuits and committee travel from one dispatch team
+                9 to 26 seater AC Tempo Travellers and Force Urbania for joint family yatras, wedding guests, and group pilgrimage circuits
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
                 View Group Fleet →
@@ -490,12 +490,12 @@ export default function HomePage({ allPosts }) {
               className="group bg-white rounded-2xl shadow-lg p-6 border border-cyan-100 hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
             >
               <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">🛣️</div>
-              <h3 className="text-xl font-bold text-gray-800 mb-2">Ayodhya + Prayagraj Group Circuit</h3>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Outstation Cab & Pilgrimage Taxi</h3>
               <p className="text-gray-600 text-sm mb-4">
-                Exact package path for Ram Mandir, Sangam and Kashi in one group itinerary with hotel, meals and darshan-friendly pacing
+                Comfortable intercity cab booking from Varanasi to Ayodhya Ram Mandir, Prayagraj Sangam, Bodhgaya, and Vindhyachal
               </p>
               <span className="text-cyan-600 font-semibold text-sm group-hover:translate-x-2 transition-transform inline-block">
-                See 3-City Package →
+                See Outstation Routes →
               </span>
             </a>
           </div>
@@ -542,20 +542,20 @@ export default function HomePage({ allPosts }) {
       {/* Bike Rentals Section - Dynamically Loaded */}
       <BikeRentalsSection />
 
-      {/* FAQ Section - Varanasi Taxi Service */}
+      {/* FAQ Section - Varanasi Taxi & Cab Service */}
       <section className="py-16 bg-gradient-to-b from-white to-cyan-50">
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="text-center mb-10">
             <h2 className="text-3xl md:text-4xl font-bold mb-3 bg-gradient-to-r from-cyan-600 to-teal-600 bg-clip-text text-transparent">
-              Varanasi Taxi Service – Frequently Asked Questions
+              Varanasi Taxi & Cab Service – Frequently Asked Questions
             </h2>
-            <p className="text-gray-600">Everything you need to know about booking a taxi in Varanasi</p>
+            <p className="text-gray-600">Everything you need to know about booking a taxi or cab in Varanasi</p>
           </div>
 
           <div className="space-y-4">
             <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
               <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
-                <span>How much does a taxi cost in Varanasi?</span>
+                <span>How much does a taxi or cab cost in Varanasi?</span>
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">
@@ -565,17 +565,27 @@ export default function HomePage({ allPosts }) {
 
             <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
               <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
-                <span>Which is the best taxi service in Varanasi?</span>
+                <span>Which is the best taxi & cab service in Varanasi?</span>
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">
-                <p>Kashi Taxi (operated by Vinayak Travels) is rated among the <strong>best taxi services in Varanasi</strong> with a 4.8★ Google rating from 191 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.</p>
+                <p>Kashi Taxi (operated by Vinayak Travels) is rated among the <strong>best taxi and cab services in Varanasi</strong> with a 4.8★ Google rating from 191 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.</p>
               </div>
             </details>
 
             <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
               <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
-                <span>Is Ola/Uber available in Varanasi?</span>
+                <span>What car rental options with driver are available in Varanasi?</span>
+                <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
+              </summary>
+              <div className="px-5 pb-5 text-gray-600">
+                <p>We offer a full fleet of chauffeur-driven AC rental cars in Varanasi: AC Sedans (Swift Dzire/Etios for 4 passengers), AC MUVs (Maruti Ertiga for 6 passengers), Premium SUVs (Toyota Innova Crysta for 7 passengers), and Group Tempo Travellers (9–26 seaters). All vehicles include verified local drivers familiar with temple routes and ghat access.</p>
+              </div>
+            </details>
+
+            <details className="group bg-white rounded-xl shadow-md border border-cyan-100 overflow-hidden">
+              <summary className="flex items-center justify-between p-5 cursor-pointer font-semibold text-gray-800 hover:bg-cyan-50/50">
+                <span>Is Ola/Uber available in Varanasi vs local cab booking?</span>
                 <span className="text-cyan-600 group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <div className="px-5 pb-5 text-gray-600">

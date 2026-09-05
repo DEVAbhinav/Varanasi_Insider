@@ -49,7 +49,7 @@ const FOOTER_GROUPS = [
     id: 'taxi-services',
     title: 'Taxi Services in Varanasi',
     pins: [
-      { path: '/', label: 'Taxi Service in Varanasi' },
+      { path: '/', label: 'Taxi & Cab Service in Varanasi' },
       { path: '/en/city/varanasi/taxi', label: 'Browse Taxi Routes & Fare Guides' },
       { path: '/en/varanasi-airport-taxi-guide', label: 'Varanasi Airport Taxi (from ₹899)' },
       { path: '/en/city/varanasi/taxi/24-7-taxi-varanasi', label: 'Night & Early-Morning Taxi' },
@@ -109,7 +109,7 @@ const FOOTER_GROUPS = [
       { path: '/en/assi-ghat-aarti-timings-2026', label: 'Assi Ghat Aarti Timings' },
       { path: '/en/sarnath-timing-visit-guide', label: 'Sarnath Timings & Visit Guide' },
       { path: '/en/varanasi-in-monsoon-july-september-2026', label: 'Varanasi in Monsoon' },
-      { path: '/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi', label: 'Kashi Tamil Sangamam 2026' },
+      { path: '/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi', label: 'Kashi Tamil Sangamam status' },
     ],
     fill: { category: 'guide', max: 9 },
   },

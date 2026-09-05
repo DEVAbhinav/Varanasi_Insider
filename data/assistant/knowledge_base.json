@@ -1099,35 +1099,9 @@
             "date_2026": "2026-11-24",
             "timing": "Kartik Purnima (15 days after Diwali)",
             "significance": "Diwali of the Gods, Lord Shiva victory over Tripurasura",
-            "scale": {
-                "ghats_illuminated": 84,
-                "lamps": "1.5+ million",
-                "visitors": "100,000+",
-                "decorated_boats": 200
-            },
-            "schedule": {
-                "lamp_preparation": "15:00",
-                "deepdan_muhurat": "17:15-19:50",
-                "mass_lighting": "18:00",
-                "grand_aarti": "18:30",
-                "peak_illumination": "19:00",
-                "fireworks": "19:30",
-                "boat_processions": "20:00-22:00"
-            },
+            "programme_status": "Date verified; local ceremony times, river restrictions and access plan pending",
             "boat_pricing": {
-                "online_packages": {
-                    "min": 3500,
-                    "max": 13000
-                },
-                "hotel_packages": {
-                    "min": 750,
-                    "max": 2500
-                },
-                "direct_negotiation": {
-                    "min": 200,
-                    "max": 1500,
-                    "success_rate": "30-60%"
-                }
+                "status": "Operator quotes and permitted access vary; verify price, boat licence, boarding point and cancellation terms in writing"
             },
             "transport_packages": {
                 "sedan_8hr": 3000,
@@ -1135,8 +1109,8 @@
                 "tempo_12_8hr": 6500,
                 "tempo_17_8hr": 7500
             },
-            "arrival_recommendation": "15:00-16:00",
-            "hotel_surge": "300-500%",
+            "arrival_recommendation": "Follow the current police and district access notice",
+            "hotel_surge": "Not verified",
             "book_advance_months": 3
         },
         "maha_shivaratri": {
@@ -1164,34 +1138,38 @@
             "hotel_surge": "200-300%"
         },
         "ganga_mahotsav": {
-            "timing": "5 days around Dev Deepawali",
-            "significance": "Classical music and dance festival"
+            "dates_2026": {
+                "start": "2026-11-20",
+                "end": "2026-11-23",
+                "status": "latest reported window; final programme pending"
+            },
+            "significance": "Cultural programme before Dev Deepawali"
         },
         "magh_mela_2026": {
             "dates": {
                 "start": "2026-01-03",
-                "end": "2026-02-16"
+                "end": "2026-02-15"
             },
             "location": "Triveni Sangam, Prayagraj",
-            "crowd_estimate": "100M+ pilgrims over duration",
+            "crowd_estimate": "Not verified",
             "key_snan_dates": {
                 "paush_purnima": {
                     "date": "2026-01-03",
-                    "crowd": "2-5 million",
-                    "best_departure": "02:30 AM from Varanasi",
+                    "crowd": "Not verified",
+                    "best_departure": "Confirm the current traffic plan before departure",
                     "significance": "First major bathing date"
                 },
                 "makar_sankranti": {
                     "date": "2026-01-14",
-                    "crowd": "10-20 million",
-                    "best_departure": "03:00-03:30 AM",
-                    "traffic_warning": "NH-19 gridlock after 6 AM",
+                    "crowd": "Not verified",
+                    "best_departure": "Confirm the current traffic plan before departure",
+                    "traffic_warning": "Event-day diversions may affect NH-19",
                     "book_advance_days": "10-14",
-                    "significance": "Shahi Snan (Royal Bath)"
+                    "significance": "Major bathing date"
                 },
                 "mauni_amavasya": {
                     "date": "2026-01-18",
-                    "best_departure": "04:00-06:00 AM window",
+                    "best_departure": "Confirm the current traffic plan before departure",
                     "significance": "Silent snan - devotees observe maun"
                 },
                 "basant_panchami": {
@@ -1218,19 +1196,20 @@
         },
         "ramlila_dussehra_2026": {
             "dates": {
-                "ravana_dahan": "2026-10-20",
-                "bharat_milap": "2026-10-21",
-                "ram_rajya_final": "2026-10-25"
+                "dussehra": "2026-10-20",
+                "bharat_milap_nati_imli": "2026-10-21 (expected; local time pending)",
+                "ramnagar_ram_rajya_final": null,
+                "ramnagar_official_listing": "September 2026; complete daily programme not published"
             },
-            "location": "Ramnagar (across Ganges)",
-            "type": "UNESCO heritage performance",
+            "location": "Ramnagar Ramlila is in Ramnagar; Nati Imli Bharat Milap is a separate observance in Varanasi city",
+            "type": "Ramlila tradition represented in UNESCO's intangible-heritage inscription",
             "bharat_milap_nati_imli": {
-                "crowd_estimate": "15,000-20,000",
-                "best_arrival": "5:30 PM (barricades lock at 5 PM)",
-                "performance_time": "6:00-8:00 PM",
-                "venue": "Nati Imli (Dwarf Tamarind area)",
-                "challenge": "GPS inaccurate, narrow ancient lanes",
-                "walkingDistance_from_drop": "300-500m"
+                "crowd_estimate": "Not verified",
+                "best_arrival": "Confirm the organiser and police notice",
+                "performance_time": "Pending local confirmation",
+                "venue": "Nati Imli, Varanasi city",
+                "challenge": "Event-day traffic controls may change access",
+                "walkingDistance_from_drop": "Depends on the police traffic plan"
             },
             "transport_packages": {
                 "sedan_4hr": 1500,
@@ -1241,14 +1220,9 @@
                 "tempo_17_4hr": 4000,
                 "mini_bus_26_4hr": 5500
             },
-            "features": {
-                "no_surge_pricing": true,
-                "strategic_drop_off": true,
-                "driver_monitors_timing": true,
-                "pre_planned_pickup_spot": true
-            },
-            "multi_day_discount": "15% for Oct 2+3 combined",
-            "booking_advance": "24-48 hours recommended"
+            "booking_requirements": "Confirm assigned vehicle, total price, cancellation terms, permitted drop point and pickup plan in writing",
+            "multi_day_discount": "Not confirmed",
+            "booking_advance": "Book early but verify the current event schedule first"
         }
     },
     "day_tour_packages": {

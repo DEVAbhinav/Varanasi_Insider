@@ -2,13 +2,13 @@
 title: "Mauni Amavasya Ganga Snan Varanasi 2026: Dates, Rituals & Complete Guide"
 slug: "mauni-amavasya-ganga-snan-varanasi-2026"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Varanasi Insider Team"
 excerpt: "Complete guide to Mauni Amavasya Ganga Snan in Varanasi 2026. Sacred silent bathing ritual, dates, best ghats, spiritual significance, taxi booking, and expert tips for the holiest new moon."
 lang: en
 metaTitle: "Mauni Amavasya Ganga Snan Varanasi 2026 | Silent Ritual Bath Guide"
-metaDescription: "Mauni Amavasya 2026 (Jan 29): Sacred silent bathing at Varanasi ghats. Complete guide to rituals, vows of silence, best ghats, taxi service. Moksha-granting holy dip during Magh Mela."
-description: "Mauni Amavasya 2026 (Jan 29): Sacred silent bathing at Varanasi ghats. Complete guide to rituals, vows of silence, best ghats, taxi service. Moksha-granting holy dip during Magh Mela."
+metaDescription: "Mauni Amavasya 2026 (Jan 18): Sacred silent bathing at Varanasi ghats. Complete guide to rituals, vows of silence, best ghats, taxi service. Moksha-granting holy dip during Magh Mela."
+description: "Mauni Amavasya 2026 (Jan 18): Sacred silent bathing at Varanasi ghats. Complete guide to rituals, vows of silence, best ghats, taxi service. Moksha-granting holy dip during Magh Mela."
 keywords:
   - "Mauni Amavasya Varanasi"
   - "Mauni Amavasya Ganga Snan 2026"
@@ -23,16 +23,13 @@ tags:
 template: destination
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 eyebrow: "Sacred Silent Bathing"
-ctaTitle: "Mauni Amavasya Snan Transport"
-ctaSubtitle: "Book reliable taxi service for pre-dawn ghat transfer during this most auspicious silent bathing festival."
-startDate: "2026-01-29"
-endDate: "2026-01-29"
+ctaTitle: "Mauni Amavasya 2026 Archive"
+ctaSubtitle: "The 2026 observance has passed. Wait for a verified future date before making event-specific bookings."
+startDate: "2026-01-18"
+endDate: "2026-01-18"
 location:
   name: "Varanasi Ghats & Triveni Sangam"
   address: "Varanasi, Uttar Pradesh"
-offers:
-  - price: "0"
-    priceCurrency: "INR"
 organizer:
   name: "Kashi Vishwanath Temple Trust"
   url: "https://www.kashivishwanath.org"
@@ -47,10 +44,10 @@ faqSchema:
       lifetimes and granting moksha.
   - q: "When is Mauni Amavasya 2026?"
     a: >-
-      Mauni Amavasya 2026 falls on Thursday, January 29, 2026. The
+      Mauni Amavasya 2026 falls on Sunday, January 18, 2026. The
       auspicious snan muhurat begins at 5:47 AM and continues till 8:24 AM
       (Brahma Muhurat 5:47-6:42 AM is most powerful). Observing silence from
-      previous night (8 PM Jan 28) till afternoon Jan 29 maximizes spiritual
+      previous night (8 PM Jan 17) till afternoon Jan 18 maximizes spiritual
       merit.
   - q: "Why do people maintain silence during Mauni Amavasya Snan?"
     a: >-
@@ -78,6 +75,8 @@ faqSchema:
 
 # Mauni Amavasya Ganga Snan Varanasi 2026 – The Most Powerful Silent Bath
 
+> **Archive notice:** Mauni Amavasya 2026 was observed on **Sunday, 18 January 2026**. The earlier 29 January date was incorrect. This page is retained as a historical ritual guide; its 2026 booking window has closed. [Akashvani official Magh Mela calendar](https://newsonair.gov.in/magh-mela-begins-at-prayagraj-sangam-with-paush-purnima-holy-bath/)
+
 ## What is Mauni Amavasya?
 
 Mauni Amavasya is the **most spiritually powerful new moon day** (*amavasya*) in the Hindu calendar, falling in the sacred month of Magh (January-February). What makes this day extraordinary is the practice of **maun vrat**—a complete vow of silence—observed by devotees before, during, and after their ritual bath in the Ganges.
@@ -88,7 +87,7 @@ In Varanasi, the spiritual capital of India, Mauni Amavasya transforms the ghats
 
 ### Mauni Amavasya 2026 Date & Timings
 
-**📅 Date:** Thursday, January 29, 2026
+**📅 Date:** Sunday, January 18, 2026
 
 **⏰ Auspicious Snan Muhurat:**
 - **Brahma Muhurat (Most Auspicious):** 5:47 AM – 6:42 AM
@@ -97,8 +96,8 @@ In Varanasi, the spiritual capital of India, Mauni Amavasya transforms the ghats
 
 **Silence Duration (Traditional):**
 - **Conservative:** From 4:00 AM – 12:00 PM (8 hours)
-- **Moderate:** From sunset Jan 28 – sunrise Jan 29 (12-14 hours)
-- **Traditional:** From sunset Jan 28 – sunset Jan 29 (24 hours)
+- **Moderate:** From sunset Jan 17 – sunrise Jan 18 (12-14 hours)
+- **Traditional:** From sunset Jan 17 – sunset Jan 18 (24 hours)
 - **Intensive:** 3 days of silence (advanced spiritual practice)
 
 **Best Time:** Arrive at ghat by 5:30 AM to bathe during Brahma Muhurat—the most spiritually charged hour when gods and enlightened beings are most active.
@@ -151,8 +150,8 @@ Mauni Amavasya is the **most important bathing day of the Magh Mela** at Triveni
 **Physical Preparation:**
 1. **Cleanse Diet:** Shift to sattvic (pure) vegetarian food
 2. **Reduce Talking:** Start practicing reduced speech 3 days before
-3. **Light Fasting:** Many fast on Jan 28, taking only fruits and milk
-4. **Early Sleep:** Sleep by 8-9 PM on Jan 28 to wake at 4 AM
+3. **Light Fasting:** Many fast on Jan 17, taking only fruits and milk
+4. **Early Sleep:** Sleep by 8-9 PM on Jan 17 to wake at 4 AM
 
 **Mental Preparation:**
 1. **Set Intention (Sankalp):** Write down why you're taking this sacred bath
@@ -160,7 +159,7 @@ Mauni Amavasya is the **most important bathing day of the Magh Mela** at Triveni
 3. **Prepare Communication Cards:** Create simple sign cards ("I'm observing maun vrat") for emergencies
 4. **Inform Family:** Explain your silence vow so they don't worry
 
-### The Night Before (January 28, Evening)
+### The Night Before (January 17, Evening)
 
 **Recommended Timeline:**
 
@@ -182,7 +181,7 @@ Mauni Amavasya is the **most important bathing day of the Magh Mela** at Triveni
 
 **10:00 PM** – Sleep
 
-### Pre-Dawn Snan Day (January 29)
+### Pre-Dawn Snan Day (January 18)
 
 **3:30 AM** – Wake Up
 - Silent morning routine
@@ -675,14 +674,14 @@ Many devout pilgrims consider bathing at **Triveni Sangam in Prayagraj** on Maun
 
 ### Traditional Mauni Amavasya Diet
 
-**Day Before (Jan 28):**
+**Day Before (Jan 17):**
 
 **Breakfast:** Normal sattvic meal
 **Lunch:** Khichdi (rice-lentil), vegetables, curd
 **Evening:** Fruit salad, milk
 **Night:** (Optional fasting begins after dinner)
 
-**Snan Day (Jan 29):**
+**Snan Day (Jan 18):**
 
 **Pre-Snan (3:30 AM):** Warm water/milk (if not fasting completely)
 
@@ -855,7 +854,7 @@ Make Mauni Amavasya 2026 a life-changing spiritual milestone with pre-booked tra
 
 ### Early Booking Benefits
 
-**Book Before January 10, 2026:**
+**For 2026, advance booking closed before the event:**
 - ✅ 15% discount on all packages
 - ✅ Guaranteed vehicle availability (high demand day!)
 - ✅ Driver briefing about maun vrat etiquette
@@ -880,7 +879,7 @@ Make Mauni Amavasya 2026 a life-changing spiritual milestone with pre-booked tra
 
 ---
 
-*Guide Last Updated: December 2026 | For real-time updates on Magh Mela 2026, ghat conditions, taxi availability, and weather advisories, visit [www.kashitaxi.in](https://www.kashitaxi.in) or contact our 24/7 support line.*
+*Guide Last Updated: September 3, 2026 | For real-time updates on Magh Mela 2026, ghat conditions, taxi availability, and weather advisories, visit [www.kashitaxi.in](https://www.kashitaxi.in) or contact our 24/7 support line.*
 
 **Pro Tip:** Print this guide or save offline before your silence begins. You won't be able to ask questions verbally!
 

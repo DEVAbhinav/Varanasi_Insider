@@ -22,7 +22,7 @@ relatedPosts:
 
 # Varanasi Classical Music Heritage: Gharanas, Legends & Living Traditions
 
-**Why this matters (Updated Oct 2026):** Ganga Mahotsav and Dev Deepawali spike interest, but most visitors miss the deeper thread – Varanasi as a 3,000‑year continuous laboratory of raga, rhythm and devotional expression.
+**Why this matters (Updated September 2026):** Ganga Mahotsav and Dev Deepawali spike interest, but most visitors miss the deeper thread – Varanasi as a 3,000‑year continuous laboratory of raga, rhythm and devotional expression.
 
 ## 1. Core Pillars of Varanasi's Musical Identity
 | Pillar | Essence | Distinction |

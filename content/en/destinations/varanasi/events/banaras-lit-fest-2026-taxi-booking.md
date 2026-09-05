@@ -1,14 +1,14 @@
 ---
-title: "Premium Taxi & Luxury Car Booking for Banaras Lit Fest 2026 – Kashi Taxi"
+title: "Banaras Lit Fest 2026 Transport Archive – Kashi Taxi"
 slug: "banaras-lit-fest-2026-taxi-booking"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Premium Taxi & Luxury Car Booking for Banaras Lit Fest 2026 – Kashi Taxi Official Service"
-metaDescription: "Book luxury Innova Crysta, Fortuner, premium sedan for Banaras Lit Fest (Jan 30-Feb 1, 2026) at Taj Ganges Varanasi. English-speaking drivers, punctual service, pristine vehicles. Reserve now."
-description: "Premium taxi and luxury car rental services for Banaras Literature Festival 2026 delegates, speakers, and attendees at Taj Ganges Varanasi."
-excerpt: "Book your premium transport for BLF 2026 with Kashi Taxi - punctual, pristine vehicles, English-speaking drivers for India's premier literary festival."
+metaTitle: "Banaras Lit Fest 2026 Transport Archive | January 30–February 1"
+metaDescription: "Archived transport information for Banaras Lit Fest 2026, held January 30–February 1. The event-specific booking window has closed."
+description: "Archived transport information for Banaras Literature Festival 2026."
+excerpt: "Banaras Lit Fest 2026 was held January 30–February 1. This transport page is archived."
 keywords:
   - "Banaras Lit Fest 2026 taxi booking"
   - "Luxury car rental Banaras Lit Fest"
@@ -24,22 +24,21 @@ tags:
 template: destination
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "Varanasi Literary Events"
-ctaTitle: "Reserve Your BLF 2026 Luxury Transport"
-ctaSubtitle: "Share your arrival details on WhatsApp for instant confirmation with English-speaking driver assignment."
+ctaTitle: "BLF 2026 Booking Closed"
+ctaSubtitle: "Wait for the organiser's next official dates before requesting event-specific transport."
 startDate: "2026-01-30"
 endDate: "2026-02-01"
 location:
   name: "Hotel Taj Ganges, Nadesar"
   address: "Nadesar Palace Grounds, Varanasi, Uttar Pradesh 221002"
-offers:
-  - price: "2800"
-    priceCurrency: "INR"
 organizer:
   name: "Kashi Taxi"
   url: "https://www.kashitaxi.in"
 ---
 
 # Premium Taxi & Luxury Car Rental for Banaras Lit Fest 2026 at Taj Ganges
+
+> **Archive notice:** Banaras Lit Fest 2026 was held **30 January–1 February 2026** and has ended. Event-specific offers and deadlines on this page are no longer active. Check the [official festival website](https://banaraslitfest.org/) for a future edition.
 
 I've been ferrying authors, publishers, and delegates to Varanasi's literary events for six years now, and let me tell you—the fourth edition of Banaras Lit Fest (January 30 – February 1, 2026) at Taj Ganges is when transportation really sets the tone for your entire experience. You're arriving to discuss Kabir's poetry or launch your latest manuscript, not wrestle with unmarked autos or negotiate fares at 6 AM outside the airport.
 
@@ -55,7 +54,7 @@ Kashi Taxi offers premium, professionally-managed taxi and luxury car rental spe
 | **Attendee profile** | Authors, scholars, media, publishers, cultural enthusiasts |
 | **Transport priority** | Punctuality, vehicle cleanliness, English communication |
 
-**Why delegates trust us:** We coordinated 240+ transfers for Mahindra Kabira Festival 2026, every driver is background-verified, and our corporate booking line responds within 90 seconds on WhatsApp. This isn't just a ride—it's your professional entry point to Varanasi's intellectual space.
+**Why delegates choose us:** We coordinate event transfers with pre-assigned drivers and written pickup details. Confirm the response time and vehicle assignment when booking.
 
 ## Why Premium Transportation Matters for BLF 2026 Delegates
 
@@ -269,7 +268,7 @@ Driver meets you at arrivals with name placard, assists luggage, confirms Taj Ga
 
 **Track record:**
 
-- 240+ transfers for Mahindra Kabira Festival 2026
+- Experience coordinating festival and conference transfers
 - 180+ bookings for Kashi Tamil Sangamam 2024
 - 4.8/5 average rating from literary/cultural event attendees
 
@@ -329,6 +328,4 @@ A: Yes—we have [corporate mobility solutions](/en/city/varanasi/events/banaras
 [CTA Button: WhatsApp +91 94503 01573 | "Lock My BLF Dates"]
 
 ---
-
-
 

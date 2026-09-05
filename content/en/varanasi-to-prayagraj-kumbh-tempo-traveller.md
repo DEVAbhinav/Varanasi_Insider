@@ -1,136 +1,68 @@
 ---
 lang: en
-title: "Varanasi to Prayagraj Kumbh Traveller | Mahakumbh 2026 Playbook"
-description: "Secure permitted Travellers, barricade passes, camp shuttles, and two-driver teams for Mauni Amavasya & more. Crowd calendars included—reserve before quotas close."
-date: 2026-07-15
-author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
-tags: [kumbh mela, prayagraj, tempo traveller, pilgrimage, snan]
-keywords:
-  - varanasi to prayagraj kumbh tempo traveller
-  - kumbh mela 2026 snan transport
-  - tempo traveller prayagraj kumbh package
-  - varanasi to kumbh mela shuttle
-  - mahakumbh logistics tempo traveller
 slug: varanasi-to-prayagraj-kumbh-tempo-traveller
+date: 2026-07-15
+lastUpdated: 2026-09-03
+author: "Kamal Nayan Singh"
+title: "Varanasi to Prayagraj Tempo Traveller | Maha Kumbh Status & Magh Mela Travel"
+description: "Maha Kumbh was held in Prayagraj in 2025, not 2026. Plan a normal group transfer or wait for an official Magh Mela calendar before booking festival transport."
+tags:
+  - Prayagraj
+  - Tempo Traveller
+  - Magh Mela
+  - Sangam
+  - Varanasi outstation
+keywords:
+  - varanasi to prayagraj tempo traveller
+  - prayagraj magh mela taxi
+  - varanasi to triveni sangam group transport
 relatedPosts:
-  - varanasi-to-prayagraj-tempo-traveller
+  - varanasi-to-prayagraj-taxi
   - varanasi-to-triveni-sangam-tempo-traveller
   - tempo-traveller-rates-varanasi
 faqSchema:
-  - question: "What is the fare for a Tempo Traveller during Kumbh snan days?"
-    answer: "Peak snan days (Makar Sankranti, Mauni Amavasya, Basant Panchami) start at ₹14,500 for a 12 seater and ₹16,000 for a 17 seater, inclusive of special permits, barricade passes, and driver allowance."
-  - question: "How early should we book for Mahakumbh 2026?"
-    answer: "Block your vehicle at least 60 days in advance for main snan dates. We close bookings once we hit our permitted vehicle quota."
-  - question: "Do you arrange akhara or camp transfers inside Prayagraj?"
-    answer: "Yes. We coordinate with camp organisers, arrange e-rickshaw/tractor shuttles from the vehicle holding area to your tent, and provide porters for luggage."
-  - question: "Is night halt in Prayagraj possible with the Tempo Traveller?"
-    answer: "Yes, but drivers need rest. We rotate two-driver teams and park in designated lots. Night security and heater arrangements provided." 
+  - question: "Was there a Maha Kumbh in Prayagraj in 2026?"
+    answer: "No. Prayagraj Maha Kumbh ran from January 13 to February 26, 2025. The annual Magh Mela is a different event."
+  - question: "Can I book a Varanasi to Prayagraj Tempo Traveller?"
+    answer: "Yes, ordinary group transfers remain available. Festival passes, parking zones and bathing-day routes can only be confirmed after the administration publishes the relevant event traffic plan."
 ---
 
-# Varanasi to Prayagraj Kumbh Tempo Traveller – Mahakumbh 2026 Edition
+# Varanasi to Prayagraj Tempo Traveller: corrected Kumbh status
 
-Mahakumbh 2026 (January–February) is expected to draw over 40 crore pilgrims. If you’re planning to travel from Kashi with your family, akhara, or international group, locking in a reliable **Tempo Traveller** with special permits is essential. Our operations desk has already mapped barricades, parking, and crowd forecasts based on the 2019 Kumbh learnings and current administration briefings.
+> **Correction notice, updated 3 September 2026:** Prayagraj did **not** hold a “Maha Kumbh 2026.” The Maha Kumbh ran from **13 January to 26 February 2025**. The dates and special-pass claims previously shown here were copied from the 2025 event and have been removed.
 
-> **Highlights:** Permit-ready Travellers · two-driver roster · portable toilets · camp coordination · live crowd alerts.
+**Primary source:** [Press Information Bureau — Maha Kumbh 2025 schedule](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2092233&lang=2&reg=48)
 
-| ![Shahi Snan procession approaching Triveni Sangam at dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg "Shahi Snan procession at Triveni Sangam") | ![Traveller convoy parked inside dedicated Kumbh sector at night](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Traveller convoy staged inside Kumbh sector") | ![Akhara camp tents lit up with pilgrim crowds in evening](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-boat-evening-p.jpeg "Akhara camp ambience during Mahakumbh") |
+## What can be booked now
+
+Kashi Taxi can provide an ordinary Varanasi–Prayagraj group transfer. A festival-specific quote is only possible after the Prayagraj administration publishes the applicable dates, diversions, parking zones and vehicle-pass rules.
+
+| Vehicle | Best for | Planning note |
 | --- | --- | --- |
+| 9-seater traveller | Small families | Confirm luggage before booking |
+| 12-seater traveller | Medium groups | Allow extra time for city traffic |
+| 17-seater traveller | Pilgrim groups | Large-vehicle access may be restricted near Sangam |
 
-## Mahakumbh 2026 Snan Calendar & Crowd Levels
+Request a current written quote with vehicle capacity, kilometre allowance, tolls, parking and driver allowance clearly itemised.
 
-| Date | Occasion | Crowd Intensity | Recommended Strategy |
-| --- | --- | --- | --- |
-| 13 Jan | Paush Purnima | Medium | Ideal for families wanting calmer dip. |
-| 14 Jan | Makar Sankranti (1st Shahi Snan) | Very High | Depart Varanasi night before, park at Sector 14, use shuttle boats. |
-| 29 Jan | Mauni Amavasya (2nd Shahi Snan) | Extreme | Two-driver system; book closest campsite; expect 18-hour duty. |
-| 3 Feb | Basant Panchami (3rd Shahi Snan) | Very High | Reach by midnight; timed entry pass required. |
-| 12 Feb | Magh Purnima | High | Good for NRIs; manageable with early arrival. |
-| 26 Feb | Maha Shivratri | Medium | Wrap up Kumbh journey with darshan + city tour. |
+## Maha Kumbh and Magh Mela are different
 
-## Varanasi to Prayagraj Mahakumbh 2-Day Tempo Traveller Itinerary
+Maha Kumbh 2025 was the large twelve-year gathering held in Prayagraj. Magh Mela is the annual winter fair at the Sangam. Do not reuse Maha Kumbh dates, crowd estimates, permits or “shahi snan” sales copy for a later Magh Mela.
 
-### Day 0 (Night Before Snan)
-- 7:00 PM: Tempo Traveller reports at Varanasi (packed dinner optional).
-- 7:30 PM: Departure via NH19; avoid Prayagraj city by using newly opened link road.
-- 11:30 PM: Reach allocated holding area (Sector 14/18). Coordinator collects wristbands, vehicle sticker.
-- 12:30 AM: Crew sets up reclining seats, distributes blankets, keeps hot beverages ready.
+For reference, the official 2026 Magh Mela bathing dates included Mauni Amavasya on **18 January**, Basant Panchami on **23 January**, Maghi Purnima on **1 February**, and Maha Shivaratri on **15 February**. That event has passed.
 
-![Travellers exiting Varanasi at night with barricade clearance passes](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_side_back_white.jpeg "Night departure with barricade passes displayed")
+**Source:** [Akashvani — Magh Mela 2026 calendar](https://newsonair.gov.in/magh-mela-begins-at-prayagraj-sangam-with-paush-purnima-holy-bath/)
 
-### Day 1 (Snan Day)
-- 3:30 AM: Board government shuttle/e-rickshaw to Sangam sector. Liaison escorts group.
-- 5:00 AM: Perform snan; priest meets at pre-decided spot.
-- 6:30 AM: Tea and satvik breakfast arranged at camp kitchen.
-- 9:00 AM: Visit akharas/ Spiritual discourses (if passes secured).
-- 1:00 PM: Rest at camp; Traveller available for short city runs once barricades ease.
-- 4:00 PM: Optional Sangam Aarti or Anand Bhavan visit (if roads reopen).
-- 7:00 PM: Night stay at camp or return toward Varanasi depending on crowd advisories.
+## Before booking a future festival transfer
 
-![Portable restroom and hydration station beside Traveller in Kumbh camp](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Portable restroom and hydration setup in camp")
+- Wait for the district administration's traffic and parking notification.
+- Do not pay for a “Green Route,” colour-coded sticker or special pass without an official document.
+- Confirm whether government shuttle services will operate from remote parking.
+- Get pickup time, final vehicle drop point and walking distance in writing.
+- Allow substantially more time on an officially designated bathing day.
 
-![Pilgrims warming up near camp kitchen after snan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/dashashwamedh-aarti-platforms-2025.jpg "Pilgrims regrouping at camp kitchen post snan")
+## Typical route
 
-### Day 2 (Post-Snan)
-- 5:00 AM: Depart Prayagraj before fresh barricades.
-- 9:30 AM: Breakfast near Handia.
-- 11:30 AM: Reach Varanasi; driver rests for 12 hours minimum before next duty.
+Varanasi to Prayagraj is normally reached by NH-19 through Handia. Actual journey time depends on the pickup point, city traffic, weather and any official diversions.
 
-## Mahakumbh Tempo Traveller Fleet & Pricing
-
-| Variant | Seating | Snan Day Package | Notes |
-| --- | --- | --- | --- |
-| 12 Seater Permit+ | 11+1 | ₹14,500 (single day) / ₹26,000 (2 day) | Includes snan permit, liaison, blankets, chemical toilet add-on |
-| 17 Seater Permit+ | 16+1 | ₹16,000 (single) / ₹29,000 (2 day) | Extra helper, luggage trailer, PA system |
-| Urbania Kumbh Edition | 13 | ₹24,000 (single) / ₹39,000 (2 day) | Recliners, pantry, backup generator, camp liaison |
-
-> Advance deposit 50% due to limited permit slots. Balance payable post-service.
-
-## EAAT Measures for Mahakumbh Tempo Traveller Operations
-
-- **Experience:** Operated 180+ pilgrim movements in 2019 Kumbh; applying same lessons with updated routes.
-- **Expertise:** Liaison team trained in UP Police barricade protocols, snan timing, and emergency evacuation routes.
-- **Authoritativeness:** Registered partner with Prayagraj Mela Authority for 2026; vehicle stickers pre-approved.
-- **Trust:** Real-time GPS feed, SOS button, medical kit (oxygen canister, glucose powder, thermal blankets).
-
-## Mahakumbh Tempo Traveller Inclusions
-
-- Special vehicle permit + windshield sticker
-- Liaison officer (ground staff) + helper
-- Portable toilet tent / privacy screen
-- Unlimited hot beverages (tea, coffee, kadha)
-- Snan kit (towels, gamchas, biodegradable soap)
-- Crowd alert WhatsApp broadcast for your group
-
-## Optional Mahakumbh Add-Ons & Extensions
-
-- **Camp Booking:** We block akhara/cottage tents (₹2,500–₹6,500 per person/night).
-- **Drone Photography (where allowed):** Licensed operators capture aerial snan moments.
-- **Katha Sessions:** Pre-book seats at renowned saints’ discourses.
-- **City Heritage Tour:** Add Anand Bhavan, Khusro Bagh once snan complete.
-
-## Important Guidelines for Mahakumbh Tempo Traveller Pilgrims
-
-- Carry government ID and colour-coded wristband always.
-- Use group rope or reflective bands to keep everyone together in early morning surge.
-- Drink only sealed water; we stock 20L cans + steel tumblers in Traveller.
-- Keep valuables minimal. We provide RFID-tagged pouches for phones/keys.
-- Fog season: Provide travel blankets and warm layers; we carry room heaters powered by inverter when stationary.
-
-## Mahakumbh 2019 Pilgrim Feedback (for reference)
-
-> *“Two-driver rotation meant we never worried about fatigue. Queue marshals respected the official permit card your team provided.”* — Juna Akhara sevadar
-
-> *“Portable toilet saved our senior women from long lines. Liaison handled every police checkpoint politely.”* — Joshi family group
-
-## Mahakumbh 2026 Tempo Traveller Booking Process
-
-1. Share preferred snan dates, pax count, camp choice via https://wa.me/919935474730?text=Kumbh%20Tempo%20Traveller.
-2. Receive permit availability, quote, camp options, and payment schedule.
-3. Pay 50% advance to lock permit. Provide passenger list and ID numbers for government submission.
-4. 10 days prior: We share final barricade map, liaison contacts, packing checklist.
-5. Day of travel: Operations desk monitors crowd alerts and reroutes if police change traffic plan.
-
-**Next Steps:** Pair this Kumbh plan with [Triveni Sangam ritual package](/en/varanasi-to-triveni-sangam-tempo-traveller) or set up post-Kumbh pilgrimages to [Chitrakoot](/en/varanasi-to-chitrakoot-tempo-traveller) for an extended Uttar Pradesh spiritual circuit.
-
-**Planning ahead?** See the [Magh Mela 2027 Prayagraj logistics guide](https://bharat-tourism.com/en/city/prayagraj/events/magh-mela-2027-prayagraj-logistics-guide) for accommodation, routes, and snan-date scheduling.
+For a regular transfer, share your group size, luggage, pickup address and exact Prayagraj drop point. For a future mela, also share the official bathing date once announced.

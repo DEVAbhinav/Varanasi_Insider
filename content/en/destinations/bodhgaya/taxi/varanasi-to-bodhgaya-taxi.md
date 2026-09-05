@@ -2,7 +2,7 @@
 title: "Varanasi to Bodhgaya Taxi | Buddhist Pilgrimage | ₹5,004 | Kashi Taxi"
 slug: "varanasi-to-bodhgaya-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Bodhgaya Distance: 260-265 km, ~6 hr | Taxi ₹5,004 [2026]"
@@ -178,17 +178,17 @@ These are regular trip options:
 **Review 1: Sarah Chen (International Tourist - USA)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Absolutely wonderful experience! The driver was very respectful of our meditation schedule. He took us to the Thai, Japanese, and Tibetan monasteries as requested. Very peaceful journey. Highly recommend for Buddhist pilgrims!"  
-**Trip**: 2 travelers, Swift Dzire | **Date**: November 2026
+**Trip**: 2 travelers, Swift Dzire | **Review date**: Not published
 
 **Review 2: Tenzin Dorje (Monk from Dharamsala)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Perfect service for our group of monks. The driver understood our needs and maintained a quiet, peaceful environment. Timely pickup and drop. Very good for dharma practice."  
-**Trip**: Group of 5 monks, Innova | **Date**: October 2026
+**Trip**: Group of 5 monks, Innova | **Review date**: Not published
 
 **Review 3: Akiko Tanaka (Buddhist Practitioner - Japan)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "The driver helped me find a good monastery for overnight stay. He was very patient and understanding. The journey was smooth and comfortable. Arigato!"  
-**Trip**: Solo traveler, Swift Dzire | **Date**: September 2026
+**Trip**: Solo traveler, Swift Dzire | **Review date**: Not published
 
 ### Verified Stats
 

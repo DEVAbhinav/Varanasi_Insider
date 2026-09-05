@@ -1,12 +1,12 @@
 ---
-title: "Banaras Lit Fest 2026 Venue Guide – Taj Ganges, Hotels & Logistics"
+title: "Banaras Lit Fest 2026 Venue & Logistics Archive"
 slug: "banaras-lit-fest-2026-venue-guide-hotels-logistics"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Banaras Lit Fest 2026 Complete Venue Guide – Taj Ganges, Hotels & Local Transport"
-metaDescription: "BLF 2026 venue guide: Taj Ganges Nadesar location, nearby hotels, airport transfer, ghat tours, local attractions. Plan your Varanasi Lit Fest itinerary with transport tips."
+metaTitle: "Banaras Lit Fest 2026 Venue & Logistics Archive"
+metaDescription: "Archived venue and logistics information for Banaras Lit Fest 2026, held January 30–February 1."
 description: "Full venue, hotel, and local logistics guide for Banaras Lit Fest 2026 at Taj Ganges – including airport access, nearby stays, ghats, and daily movement strategy."
 excerpt: "Planning your BLF 2026 trip? Use this Taj Ganges venue, hotel, and logistics guide to move through Varanasi with confidence."
 keywords:
@@ -24,8 +24,8 @@ tags:
 template: destination
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-early-morning.jpeg"
 eyebrow: "Banaras Lit Fest 2026"
-ctaTitle: "Arrange Your BLF 2026 Transport"
-ctaSubtitle: "Share your dates and hotel on WhatsApp for a custom Taj Ganges logistics plan."
+ctaTitle: "BLF 2026 Has Ended"
+ctaSubtitle: "Use new organiser dates before making event-specific travel plans."
 startDate: "2026-01-30"
 endDate: "2026-02-01"
 location:
@@ -37,6 +37,8 @@ organizer:
 ---
 
 # Banaras Lit Fest 2026 Complete Venue & Travel Guide – Taj Ganges Location, Hotels & Logistics
+
+> **Archive notice:** Banaras Lit Fest 2026 was held **30 January–1 February 2026** and has ended. Venue and programme details can change between editions; check the [official festival website](https://banaraslitfest.org/) before using this guide for a future trip.
 
 Planning your Banaras Lit Fest 2026 attendance (January 30 – February 1)? Beyond the intellectual calibre of speakers and the literary excellence on the program, your experience depends heavily on how smoothly you move through Varanasi.
 

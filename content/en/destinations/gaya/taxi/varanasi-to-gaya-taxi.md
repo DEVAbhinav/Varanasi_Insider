@@ -2,7 +2,7 @@
 title: "Varanasi to Gaya Cab | Vishnupad Temple Taxi | ₹4,813 | Kashi Taxi"
 slug: "varanasi-to-gaya-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Kamal Nayan Singh"
 lang: en
 metaTitle: "Varanasi to Gaya Cab | Vishnupad Temple Taxi | ₹4,813 | Kashi Taxi"
@@ -219,17 +219,17 @@ We handle this route regularly for families coming from Varanasi for Pind-daan a
 **Review 1: Rajiv Sharma (Pind-daan Ceremony)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Excellent service for our family Pind-daan ceremony. The driver knew all the locations and even helped coordinate with the panda. Very respectful and patient throughout the rituals. Highly recommended for religious trips."  
-**Trip**: Family of 4, Ertiga | **Date**: October 2026
+**Trip**: Family of 4, Ertiga | **Review date**: Not published
 
 **Review 2: Prakash Kumar (Solo Pilgrim)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Best taxi service I've used. Very affordable at ₹6,602 for the round trip. Driver was experienced and knew the route well. Reached Gaya in about 5-6 hr. Will book again!"  
-**Trip**: Solo traveler, Swift Dzire | **Date**: September 2026
+**Trip**: Solo traveler, Swift Dzire | **Review date**: Not published
 
 **Review 3: Meera Devi (Elderly Parents)**  
 ⭐⭐⭐⭐⭐ (5/5)  
 "Booked for my elderly parents' Pind-daan ceremony. The driver was very caring and helped them at every step. Made all necessary stops and waited patiently. Excellent service for senior citizens."  
-**Trip**: 2 elderly passengers, Sedan | **Date**: November 2026
+**Trip**: 2 elderly passengers, Sedan | **Review date**: Not published
 
 ### Verified Stats
 

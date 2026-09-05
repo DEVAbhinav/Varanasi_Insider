@@ -2,16 +2,15 @@
 title: "Mahindra Kabira Sunrise Music 2026: Morning Raag on the Ganges"
 slug: "mahindra-kabira-sunrise-music"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Mahindra Kabira Sunrise Music 2026 | Morning Raag on the Ganges"
-metaDescription: "Start your day with soul-stirring music at the Mahindra Kabira Festival 2026. Guide to sunrise sessions at Guleria Kothi and morning boat access."
+metaTitle: "Mahindra Kabira Sunrise Music 2026 | Programme Status"
+metaDescription: "Mahindra Kabira runs December 4–6, 2026. Verify the official sunrise-session date, time, venue and artists before planning."
 keywords:
   - "Morning Raag Varanasi"
   - "Mahindra Kabira sunrise music"
-  - "Hidayat Husain Khan sitar"
-  - "Guleria Kothi morning events"
+  - "Mahindra Kabira programme"
 tags:
   - events
   - music
@@ -19,16 +18,11 @@ tags:
 template: destination
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-sunrise-boat-p.jpeg"
 eyebrow: "Exclusive Experience"
-ctaTitle: "Need an Early Morning Ride?"
-ctaSubtitle: "Pre-book your taxi for a 5:30 AM drop at the ghats to catch the sunrise sessions."
-startDate: "2026-12-20"
-endDate: "2026-12-21"
+ctaTitle: "Planning a Sunrise Session?"
+ctaSubtitle: "Confirm the official session and venue before arranging an early transfer."
 location:
-  name: "Guleria Kothi"
-  address: "Varanasi Ghats"
-offers:
-  - price: "5000"
-    priceCurrency: "INR"
+  name: "Varanasi"
+  address: "Varanasi, Uttar Pradesh"
 organizer:
   name: "Mahindra Kabira Festival"
   url: "https://mahindrakabira.com"
@@ -36,18 +30,20 @@ organizer:
 
 # Mahindra Kabira Festival – Morning Music Sessions at Sunrise
 
+> **Date status:** Mahindra Kabira Festival is officially listed for **4–6 December 2026**. The exact sunrise-session days, time, venue and artists must be checked against the [official festival programme](https://mahindrakabira.com/); the earlier detailed lineup on this page was not confirmed.
+
 **Quick Facts**
 
-- **When:** 6:30 AM on 20 & 21 December 2026
-- **Where:** Guleria Kothi steps (boats moored on the Ganges)
+- **When:** During the 4–6 December festival; exact sessions pending
+- **Where:** Confirm on the official programme
 - **Entry:** Included with delegate or daily pass (limited stand-by seats for locals)
 - **Best For:** Classical music lovers, photographers, meditators craving quiet
 
-> Planning the full festival? Read the [complete Mahindra Kabira Festival guide](/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi) for tickets, lineup, and hotel zones.
+> Planning the full festival? Read the [Mahindra Kabira Festival guide](/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi) for verified dates and links to the official programme.
 
-**Dates:** December 20-21, 2026
-**Time:** 6:30 AM (approximately 45 minutes)
-**Venue:** Guleria Kothi, Varanasi Ghats
+**Festival dates:** December 4-6, 2026
+**Session time:** To be confirmed
+**Venue:** To be confirmed
 **Entry:** Festival delegate pass or daily pass
 
 ### The Experience of Raag at Sunrise
@@ -58,17 +54,9 @@ Imagine waking before dawn, wrapping yourself in a warm shawl, and making your w
 
 This is the essence of the Mahindra Kabira Festival's morning music sessions – a rare convergence of art, spirituality, and nature.
 
-### December 20 Morning Program
+### Sunrise programme
 
-**Featured Artists:**
-- **Swati Tiwari:** Renowned classical vocalist.
-- **Siddharth Chakravarti:** Tabla artist (percussion).
-- **Hidayat Husain Khan:** Master sitar player.
-
-The session features morning raags – musical forms specifically composed for dawn. These raags are believed to align with the body's natural awakening rhythms. Swati Tiwari's vocal performance will precede Hidayat Husain Khan's sitar masterclass.
-
-**Hidayat Husain Khan's Legacy:**
-Son of the legendary Ustad Vilayat Khan, Hidayat represents one of India's oldest musical dynasties. The Vilayat Khan lineage has shaped sitar tradition for generations. His appearance at the festival is significant – he rarely performs in small venues.
+The festival is known for morning music, but the 2026 artist order and session timetable should be taken only from the official programme. Do not plan around names or times copied from an earlier edition.
 
 ### What Makes December's Morning Ideal
 

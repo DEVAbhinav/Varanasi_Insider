@@ -1,14 +1,14 @@
 ---
-title: "Makar Sankranti 2026 Kite Festival Taxi Booking Hub – Varanasi"
+title: "Makar Sankranti 2026 Varanasi Transport Archive"
 slug: "makar-sankranti-2026-kite-festival-taxi-booking"
 date: "2026-07-15"
 lastUpdated: "2026-07-15"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Makar Sankranti 2026 Kite Festival Taxi Booking Hub – Varanasi"
-metaDescription: "Book trusted taxis for Varanasi's Makar Sankranti 2026 kite festival. Morning snan drop-offs, rooftop packages, pricing, FAQ, and WhatsApp-ready CTAs."
-description: "Dedicated destination page for Makar Sankranti 2026 featuring booking alerts, pricing tables, rooftop packages, drop-off zones, and FAQ for festival travelers."
-excerpt: "Plan your Makar Sankranti 2026 taxi in Varanasi with morning snan drop-offs, rooftop kite packages, and transparent fares."
+metaTitle: "Makar Sankranti 2026 Varanasi Transport Archive"
+metaDescription: "Archived travel information for Makar Sankranti 2026 in Varanasi. The January 14 event-specific booking window has closed."
+description: "Archived transport information for Makar Sankranti 2026 in Varanasi."
+excerpt: "Makar Sankranti 2026 was held January 14. This event transport page is archived."
 keywords:
   - "Makar Sankranti 2026 taxi booking"
   - "Varanasi kite festival taxi"
@@ -23,16 +23,13 @@ tags:
 template: destination
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-boat-eve-l.jpeg"
 eyebrow: "Varanasi Events"
-ctaTitle: "Reserve Your Kite Festival Ride"
-ctaSubtitle: "Share your hotel location on WhatsApp for instant confirmation and driver details."
+ctaTitle: "Makar Sankranti 2026 Booking Closed"
+ctaSubtitle: "Wait for a verified future date before requesting an event-specific ride."
 startDate: "2026-01-14"
 endDate: "2026-01-14"
 location:
   name: "Varanasi Ghats & Rooftops"
   address: "Varanasi, Uttar Pradesh"
-offers:
-  - price: "1200"
-    priceCurrency: "INR"
 organizer:
   name: "Kashi Taxi"
   url: "https://www.kashitaxi.in"
@@ -40,9 +37,11 @@ organizer:
 
 # Makar Sankranti 2026 Kite Festival Taxi Booking Hub for Varanasi
 
+> **Archive notice:** Makar Sankranti 2026 was observed on **Wednesday, 14 January 2026** and has passed. Event-specific offers and countdowns on this page are no longer active. [Government of India 2026 holiday calendar](https://www.iirs.gov.in/holidaycalender)
+
 I live barely 10 minutes from Dashashwamedh, so I’ve watched these Sankranti mornings turn from hushed conch shells to absolute gridlock in the time it takes for the sun to rise. If you want to glide in, soak the snan, and still make it to the rooftops before the sky becomes a patchwork of kites, you need your taxi locked now.
 
-> **Ultra-peak demand alert:** January 14, 2026 (Wednesday) – 4:00 AM to 10:00 PM. Book 3–5 days early to secure morning snan and rooftop kite slots.
+> **Historical peak period:** January 14, 2026 (Wednesday), approximately 4:00 AM to 10:00 PM. Do not use this as a future booking schedule.
 
 | Event Snapshot | Details |
 | --- | --- |

@@ -187,10 +187,10 @@ Our drivers earn a flat fare and never take shop commission — you go only wher
 
 ### December 2026 Silk Shopper Playbook
 
-- **Stack your mornings wisely:** Start with [Sunrise Yoga at Assi](/en/city/varanasi/activities/sunrise-yoga-varanasi-2026) or music at the [Mahindra Kabira Festival](/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi), then roll into shopping with an elevated mood.
+- **Stack your mornings wisely:** Start with [Sunrise Yoga at Assi](/en/city/varanasi/activities/sunrise-yoga-varanasi-2026) or, if listed in the official programme for your date, a morning [Mahindra Kabira Festival](/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi) session.
 - **Block a dedicated taxi:** Use the CTA to secure a full-day cab (airport pickup → hotel → Madhuban → Thatheri Bazar) via the [Varanasi Airport Transfer Guide](/en/city/varanasi/taxi/varanasi-airport-transfer-guide) so you can stash purchases safely between runs.
 - **Fuel the loop:** Slot a [Malaiyo tasting break](/en/city/varanasi/food/malaiyo-varanasi-guide) around noon to refresh sugar levels without derailing the budget.
-- **Leave buffer for tailoring & shipping:** Serious buyers should finish purchases by 22 December to allow minor fall adjustments before big events like [Kashi Tamil Sangamam](/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi).
+- **Leave buffer for tailoring & shipping:** Serious buyers should allow several days for finishing and dispatch. Kashi Tamil Sangamam 4.0 was held in 2025; check the [current Sangamam status](/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi) rather than planning around unannounced 2026 dates.
 
 ### Price Negotiation Guide
 
@@ -283,7 +283,7 @@ Our drivers earn a flat fare and never take shop commission — you go only wher
 
 **Full-Day Experience:**
 - **Early morning:** Madhuban wholesale browsing right after sunrise rituals (or [Sunrise Yoga](/en/city/varanasi/activities/sunrise-yoga-varanasi-2026)).
-- **Late morning:** Temple/cultural activity break (Subah-e-Banaras concerts or [Mahindra Kabira Festival](/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi)).
+- **Late morning:** Temple or cultural break; use only sessions listed in the current [Mahindra Kabira Festival](/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi) programme.
 - **Afternoon:** Thatheri Bazar authentic shopping + weaver home visits with your cab on standby for parcel drops.
 - **Evening:** Godowlia tourist market (if energy remains) followed by airport drop or riverfront dinner taxi run.
 

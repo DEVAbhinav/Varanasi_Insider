@@ -4,7 +4,7 @@ title: "Varanasi to Allahabad Tempo Traveller ₹8,500 | Sangam Day Trip"
 description: "Secure sunrise snan, Anand Bhavan heritage walk, and vetted priest support with our ₹8,500 Prayagraj charter. WhatsApp now for same-day confirmation."
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-09-03
 tags: [allahabad, prayagraj, tempo traveller, sangam darshan, heritage tour]
 keywords:
   - varanasi to allahabad tempo traveller
@@ -122,4 +122,4 @@ All quotes include fuel, tolls, Prayagraj bridge fee, Sangam parking, and driver
 Get a flat-rate quote with driver, fuel, and tolls included.
 [Book Your Ride Now!](/booking)
 
-**Related Reads:** [Prayagraj Tempo Traveller Guide](/en/varanasi-to-prayagraj-tempo-traveller) · [Triveni Sangam Ritual Focus](/en/varanasi-to-triveni-sangam-tempo-traveller) · [Kumbh 2026 Special](/en/varanasi-to-prayagraj-kumbh-tempo-traveller) · [Prayagraj destination guide](https://bharat-tourism.com/city/prayagraj)
+**Related Reads:** [Prayagraj Tempo Traveller Guide](/en/varanasi-to-prayagraj-tempo-traveller) · [Triveni Sangam Ritual Focus](/en/varanasi-to-triveni-sangam-tempo-traveller) · [Kumbh status and Magh Mela travel](/en/varanasi-to-prayagraj-kumbh-tempo-traveller) · [Prayagraj destination guide](https://bharat-tourism.com/city/prayagraj)

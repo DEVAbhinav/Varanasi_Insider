@@ -25,10 +25,10 @@ export default function CTASectionHome() {
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">
-            Book Varanasi Taxi Now – Best Rates Guaranteed
+            Book Varanasi Taxi & Cab Now – Best Rates Guaranteed
           </h2>
           <p className="text-xl md:text-2xl text-blue-50 mb-8 font-light">
-            24×7 cab service with professional drivers. Airport taxi, local tours & outstation trips available
+            24×7 cab service with professional drivers. Airport taxi, local temple tours and outstation trips available
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a

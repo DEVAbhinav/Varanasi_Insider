@@ -2,7 +2,7 @@
 title: "Photographer's Guide to Capturing Dev Deepawali 2026: Camera Settings, Best Spots & Pro Tips"
 slug: "dev-deepawali-photography-guide-2026"
 date: "2026-07-15"
-lastModified: "2026-09-30"
+lastModified: "2026-09-03"
 excerpt: "Complete photography guide for Dev Deepawali 2026. Camera settings, golden hour timing, best angles, and insider spots for capturing stunning lamp-lit images without crowds."
 author: "Travel Agent Varanasi Photography Team"
 tags: ["Dev Deepawali Photography", "Varanasi Photography", "Festival Photography", "Night Photography", "Camera Settings", "Photography Tips"]
@@ -270,7 +270,7 @@ People: Include crowd patterns as design elements
 
 ## 🌅 Timing Guide for Perfect Lighting
 
-### The Golden Hour Schedule (November 5, 2026)
+### The Golden Hour Schedule (November 24, 2026)
 ```
 ⏰ PHOTOGRAPHER'S TIMELINE:
 

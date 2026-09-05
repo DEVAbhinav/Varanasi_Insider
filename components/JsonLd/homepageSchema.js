@@ -94,38 +94,46 @@ const getHomeSchema = (site) => ({
       ],
       hasOfferCatalog: {
         '@type': 'OfferCatalog',
-        name: 'Varanasi Taxi & Tempo Traveller Services',
+        name: 'Varanasi Taxi, Cab & Car Rental Services',
         itemListElement: [
           {
             '@type': 'Offer',
             itemOffered: {
               '@type': 'Service',
-              name: 'Airport Transfer Service',
-              description: 'Varanasi Airport taxi pickup and drop service',
+              name: 'Taxi in Varanasi & Airport Transfer',
+              description: 'Varanasi Airport taxi pickup and drop service with flight tracking and 24×7 availability',
             },
           },
           {
             '@type': 'Offer',
             itemOffered: {
               '@type': 'Service',
-              name: 'Local Varanasi Tours',
-              description: 'Varanasi city tours, temple visits and Ganga Aarti trips',
+              name: 'Cab Service in Varanasi for Local Sightseeing',
+              description: 'Full-day and half-day Varanasi cab booking for Kashi Vishwanath temple, Ganga Aarti, and Sarnath tours',
             },
           },
           {
             '@type': 'Offer',
             itemOffered: {
               '@type': 'Service',
-              name: 'Tempo Traveller Hire',
-              description: 'Group travel with Tempo Traveller for pilgrimage tours',
+              name: 'Outstation Cab Booking from Varanasi',
+              description: 'Direct one-way and round-trip outstation taxi from Varanasi to Ayodhya, Prayagraj, Gaya, Bodhgaya, and Vindhyachal',
             },
           },
           {
             '@type': 'Offer',
             itemOffered: {
               '@type': 'Service',
-              name: 'Outstation Varanasi Travels',
-              description: 'Long-distance travel to Ayodhya, Prayagraj, Bodhgaya, Vindhyachal',
+              name: 'Car Rental in Varanasi with Driver',
+              description: 'Chauffeur-driven AC car hire including Swift Dzire, Maruti Ertiga, and Toyota Innova Crysta for personal and pilgrimage trips',
+            },
+          },
+          {
+            '@type': 'Offer',
+            itemOffered: {
+              '@type': 'Service',
+              name: 'Tempo Traveller & Group Cab Hire',
+              description: '9, 12, 17, 20, 26 seater luxury Tempo Traveller and Force Urbania rental for group yatras in Varanasi',
             },
           },
         ],
@@ -166,6 +174,9 @@ const getHomeSchema = (site) => ({
         maxValue: 25,
       },
       knowsAbout: [
+        'Taxi in Varanasi',
+        'Cab Service in Varanasi',
+        'Car Rental in Varanasi',
         'Varanasi Tourism',
         'Airport Transfer',
         'Local Transportation',
@@ -232,7 +243,7 @@ const getHomeSchema = (site) => ({
       mainEntity: [
         {
           '@type': 'Question',
-          name: 'How much does a taxi cost in Varanasi?',
+          name: 'How much does a taxi or cab cost in Varanasi?',
           acceptedAnswer: {
             '@type': 'Answer',
             text: taxiCostFaqAnswer(),
@@ -240,16 +251,25 @@ const getHomeSchema = (site) => ({
         },
         {
           '@type': 'Question',
-          name: 'Which is the best taxi service in Varanasi?',
+          name: 'Which is the best taxi & cab service in Varanasi?',
           acceptedAnswer: {
             '@type': 'Answer',
             text:
-              'Kashi Taxi (operated by Vinayak Travels) is rated among the best taxi services in Varanasi with a 4.8★ Google rating from 191 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.',
+              'Kashi Taxi (operated by Vinayak Travels) is rated among the best taxi and cab services in Varanasi with a 4.8★ Google rating from 191 reviews. We offer 24×7 cab booking, experienced local drivers, AC vehicles, and fixed-price packages for airport, local, and outstation trips.',
           },
         },
         {
           '@type': 'Question',
-          name: 'Is Ola/Uber available in Varanasi?',
+          name: 'What car rental options with driver are available in Varanasi?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text:
+              'We offer a full fleet of chauffeur-driven AC rental cars in Varanasi: AC Sedans (Swift Dzire/Etios for 4 passengers), AC MUVs (Maruti Ertiga for 6 passengers), Premium SUVs (Toyota Innova Crysta for 7 passengers), and Group Tempo Travellers (9–26 seaters). All vehicles include verified local drivers familiar with temple routes and ghat access.',
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'Is Ola/Uber available in Varanasi vs local cab booking?',
           acceptedAnswer: {
             '@type': 'Answer',
             text:

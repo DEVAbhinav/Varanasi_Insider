@@ -74,7 +74,7 @@ None of that has to be your experience. With the right pass, the right slot, and
 - **Sawan (Shravan) 2026, North India:** 30 July – 28 August.
 - **Sawan Somwars (Mondays):** **3, 10, 17, 24 August 2026** — the most auspicious and most crowded.
 - **Tuesdays** are traditionally dedicated to Goddess Parvati.
-- The season closes around **28 August**, which is also **Lolark Shashti** — see the [Lolark Shashti guide](/en/lolark-shashti-lolark-kund-varanasi-guide).
+- Lolark Shashti is a separate later observance, provisionally expected around **16–17 September 2026**; confirm the local date in the [Lolark Shashti guide](/en/lolark-shashti-lolark-kund-varanasi-guide).
 
 ## Jalabhishek & the Kanwariyas
 

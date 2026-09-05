@@ -7,7 +7,7 @@ author: "Varanasi Insider Team"
 excerpt: "Celebrate Makar Sankranti 2026 in Varanasi with sacred Ganga Snan, kite festival, and harvest celebrations. Complete guide to dates, rituals, best ghats, and taxi booking."
 lang: en
 metaTitle: "Makar Sankranti Varanasi 2026: Jan 14 Snan Timing & Ghats"
-metaDescription: "Makar Sankranti 2026 = Jan 14 (Wed). Holy snan 6:30-10 AM, kite flying 2-5 PM. Best ghats: Dashashwamedh, Assi. Book taxi now—23 days left!"
+metaDescription: "Makar Sankranti 2026 was held January 14. Archived guide to the Varanasi Ganga snan and kite-flying traditions."
 description: "Makar Sankranti 2026 (Jan 14): Sacred bathing, kite festival, til-gud prasad. Complete Varanasi guide with dates, rituals, best ghats, taxi services. Celebrate harvest festival spiritually."
 keywords:
   - "Makar Sankranti Varanasi"
@@ -23,16 +23,13 @@ tags:
 template: destination
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghats-overview.jpeg"
 eyebrow: "Harvest & Holy Bath Festival"
-ctaTitle: "Makar Sankranti Transport"
-ctaSubtitle: "Book early morning taxi for sacred bath and kite festival celebrations across Varanasi ghats."
+ctaTitle: "Makar Sankranti 2026 Archive"
+ctaSubtitle: "The event has passed; verify a future date before booking."
 startDate: "2026-01-14"
 endDate: "2026-01-14"
 location:
   name: "Varanasi Ghats & Citywide"
   address: "Varanasi, Uttar Pradesh"
-offers:
-  - price: "0"
-    priceCurrency: "INR"
 organizer:
   name: "Kashi Vishwanath Temple Trust"
   url: "https://www.kashivishwanath.org"
@@ -78,6 +75,8 @@ faqSchema:
 ---
 
 # Makar Sankranti Ganga Snan Varanasi 2026 – When Sky Meets Sacred Waters
+
+> **Archive notice:** Makar Sankranti 2026 was observed on **Wednesday, 14 January 2026**. This page is retained as a historical guide; its event-specific booking window has closed. [Government of India 2026 holiday calendar](https://www.iirs.gov.in/holidaycalender)
 
 ## What is Makar Sankranti?
 
@@ -969,7 +968,7 @@ Don't just witness Makar Sankranti—**immerse yourself** in India's most joyous
 
 ---
 
-*Last Updated: December 2026 | For real-time updates on Makar Sankranti 2026 weather, ghat conditions, taxi availability, and kite market prices, visit [www.kashitaxi.in](https://www.kashitaxi.in) or contact our helpline.*
+*Last updated: 3 September 2026. Reconfirm weather, ghat conditions, taxi availability and market prices before travel.*
 
 **Traveler's Note:** Makar Sankranti is when Varanasi sheds its "intensity" and shows its joyful soul. Even if you're not religious, the sight of a thousand colorful kites against the ancient ghats will stay with you forever. Don't miss it.
 

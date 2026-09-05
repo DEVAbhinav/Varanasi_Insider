@@ -9,8 +9,8 @@
       "description": "Complete practical guide for Navratri in Vindhyachal 2026. Get detailed darshan timings, festival schedule, special puja bookings, and essential tips for your spiritual journey to this powerful Shaktipeeth.",
       "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg",
       "inLanguage": "en-IN",
-      "datePublished": "2026-09-16",
-      "dateModified": "2026-09-16",
+      "datePublished": "2026-07-15",
+      "dateModified": "2026-09-03",
       "author": {
         "@type": "Person",
         "name": "Kamal Nayan Singh",
@@ -51,8 +51,8 @@
         {
           "@type": "Event",
           "name": "Sharad Navratri 2026",
-          "startDate": "2026-09-22",
-          "endDate": "2026-10-01",
+          "startDate": "2026-10-11",
+          "endDate": "2026-10-19",
           "eventStatus": "https://schema.org/EventScheduled",
           "performer": {
             "@type": "Organization",
@@ -84,8 +84,8 @@
         {
           "@type": "Event",
           "name": "Chaitra Navratri 2026",
-          "startDate": "2026-03-30",
-          "endDate": "2026-04-07",
+          "startDate": "2026-03-19",
+          "endDate": "2026-03-27",
           "eventStatus": "https://schema.org/EventScheduled",
           "performer": {
             "@type": "Organization",
@@ -121,8 +121,8 @@
       "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#sharadnavratri2026",
       "name": "Sharad Navratri 2026 at Vindhyachal",
       "description": "Nine-day festival celebrating Goddess Shakti with extended darshan timings and special rituals",
-      "startDate": "2026-09-22",
-      "endDate": "2026-10-01",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-19",
       "location": {
         "@type": "Place",
         "name": "Vindhyavasini Temple, Vindhyachal",
@@ -156,8 +156,8 @@
       "@id": "https://www.kashitaxi.in/navratri-in-vindhyachal-practical-guide#chaitranavratri2026",
       "name": "Chaitra Navratri 2026 at Vindhyachal",
       "description": "Spring Navratri celebration marking Hindu New Year with special ceremonies",
-      "startDate": "2026-03-30",
-      "endDate": "2026-04-07",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-27",
       "location": {
         "@type": "Place",
         "name": "Vindhyavasini Temple, Vindhyachal",
@@ -168,7 +168,7 @@
           "addressCountry": "India"
         }
       },
-      "eventStatus": "https://schema.org/EventScheduled",
+      "eventStatus": "https://schema.org/EventCompleted",
       "performer": {
         "@type": "Organization",
         "name": "Local Committee"
@@ -220,8 +220,8 @@
       ],
       "opens": "04:00",
       "closes": "03:00",
-      "validFrom": "2026-09-22",
-      "validThrough": "2026-10-01"
+      "validFrom": "2026-10-11",
+      "validThrough": "2026-10-19"
     },
     {
       "@type": "FAQPage",
@@ -240,7 +240,7 @@
           "name": "When is Sharad Navratri 2026 in Vindhyachal?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Sharad Navratri 2026 in Vindhyachal will be celebrated from September 22 to October 1, 2026, with Vijaya Dashami on October 1st. Each day has special significance and dedicated goddess worship."
+            "text": "Sharad Navratri 2026 in Vindhyachal will be celebrated from October 11 to October 19, 2026, with Vijaya Dashami on October 20th. Each day has special significance and dedicated goddess worship."
           }
         },
         {

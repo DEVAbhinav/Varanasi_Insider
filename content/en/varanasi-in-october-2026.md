@@ -2,7 +2,7 @@
 title: "Varanasi in October 2026: Weather, Navratri & Diwali Playbook"
 slug: "varanasi-in-october-2026"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-03"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/pink-sky-ghat-varanasi-l.jpeg"
@@ -39,6 +39,8 @@ faqSchema:
 
 # A Local's Guide to Visiting Varanasi in October (2026)
 
+> **Calendar correction:** Sharad Navratri is **11–19 October 2026**, Dussehra is 20 October, and Diwali is **8 November 2026**. [Incredible India](https://www.incredibleindia.gov.in/en/festivals-and-events/navratri) · [Government of India holiday calendar](https://www.iirs.gov.in/holidaycalender)
+
 As a local, I feel a special kind of excitement in the air when October arrives. The monsoon clouds have cleared, leaving behind a fresh, clean city and skies that are a brilliant blue. The **weather in Varanasi in October** is absolutely delightful—it's the official start of the pleasant season and the beginning of major festivities. The city sheds its humid monsoon cloak and drapes itself in a vibrant, celebratory spirit, building up to the grand spectacle of Diwali.
 
 If you want to see how this beautiful month compares to the rest of the year, do check out our comprehensive guide on the [Best Time to Visit Varanasi](/en/best-time-to-visit-varanasi).
@@ -60,9 +62,9 @@ October marks the perfect transition from the wet monsoon to the cool winter. Th
 
 October is all about festive energy. The entire city gets swept up in celebration, making it a vibrant time to visit.
 
-**Sharad Navratri (September 22 - October 2, 2026):** The nine nights of Navratri are celebrated with great devotion. While the dates start in late September, the festive mood spills into early October. You'll see special pujas and a spiritual fervor throughout the city. A major highlight is the world-renowned Ram Leela at Ramnagar, an epic theatrical retelling of the Ramayana that you shouldn't miss.
+**Sharad Navratri (October 11 - October 19, 2026):** The nine nights of Navratri are celebrated with great devotion. While the dates start in late September, the festive mood spills into early October. You'll see special pujas and a spiritual fervor throughout the city. A major highlight is the world-renowned Ram Leela at Ramnagar, an epic theatrical retelling of the Ramayana that you shouldn't miss.
 
-**The Lead-up to Diwali (Diwali is on October 20, 2026):** Throughout October, you can feel the excitement for Diwali building. Markets are buzzing, and the ghats start to get decorated. You get to witness the city preparing for its biggest festival of lights, which is a unique experience in itself.
+**The Lead-up to Diwali (Diwali is on November 8, 2026):** Throughout October, you can feel the excitement for Diwali building. Markets are buzzing, and the ghats start to get decorated. You get to witness the city preparing for its biggest festival of lights, which is a unique experience in itself.
 
 ![Ghats glowing with diyas during October evenings in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "Evening lights on the ghats")
 

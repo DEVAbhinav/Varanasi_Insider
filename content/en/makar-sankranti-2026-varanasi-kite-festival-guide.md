@@ -2,7 +2,7 @@
 title: "Makar Sankranti 2026 Varanasi: Holy Dips & Kite Wars Complete Guide (January 14)"
 slug: "makar-sankranti-2026-varanasi-kite-festival-guide"
 date: "2026-07-15"
-lastModified: "2026-09-30"
+lastModified: "2026-09-03"
 excerpt: "Complete guide to Makar Sankranti 2026 in Varanasi. Holy Ganga dips, massive kite festivals, traditional celebrations, and travel tips for January 14, 2026."
 author: "Travel Agent Varanasi Festival Team"
 tags: ["Makar Sankranti", "Kite Festival", "Ganga Snaan", "Varanasi Festivals", "Winter Festivals", "January 2026", "Holy Dips"]
@@ -16,6 +16,8 @@ relatedPosts: ["dev-deepawali-2026-varanasi-ultimate-guide", "maha-shivaratri-20
 ---
 
 # Makar Sankranti 2026 Varanasi: Holy Dips & Kite Wars Complete Guide (January 14)
+
+> **Archive notice:** Makar Sankranti 2026 was observed on **14 January 2026** and has passed. Treat all event-specific timings and booking advice below as historical.
 
 > **TL;DR:** Makar Sankranti 2026 in Varanasi lands on 14 January with dawn Ganga snaan, Surya puja, and rooftop kite wars from late morning; stake out ghats by 5:30 AM for holy dips, then shift to Dashashwamedh rooftops by noon for competitive flying. Micro-tip: pre-order glass-coated manjha and cotton gloves from Thatheri Bazaar a day earlier to avoid sold-out stalls.
 

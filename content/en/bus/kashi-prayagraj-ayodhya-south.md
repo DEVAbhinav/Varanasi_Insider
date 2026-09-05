@@ -2,7 +2,7 @@
 title: "Kashi • Prayagraj • Ayodhya 3-City Bus Pilgrimage (South India Departures) – 7–9 Day Multi-Circuit Yatra"
 slug: "kashi-prayagraj-ayodhya-south"
 date: "2026-07-15"
-lastModified: "2026-10-25"
+lastModified: "2026-09-03"
 excerpt: "Complete 3-city Kashi–Prayagraj–Ayodhya pilgrimage bus package from South India (Chennai • Bengaluru • Hyderabad): itineraries (7 & 9 day), travel-time matrix, darshan scheduling, pricing tiers, add‑ons, elder-friendly logistics." 
 author: "Travel Agent Varanasi Pilgrimage Desk"
 category: "Pilgrimage"

@@ -2,7 +2,7 @@
 title: "Maha Shivaratri Varanasi 2026: Bhang, Aghoris & Sacred Cultural Traditions Deep Dive"
 slug: "shivaratri-cultural-deep-dive-varanasi"
 date: "2026-07-15"
-lastModified: "2026-09-30"
+lastModified: "2026-09-03"
 excerpt: "Explore the deeper cultural traditions of Maha Shivaratri in Varanasi. Understanding bhang consumption, Aghori practices, and authentic spiritual customs beyond the surface celebrations."
 author: "Travel Agent Varanasi Cultural Research Team"
 tags: ["Maha Shivaratri Culture", "Bhang Tradition", "Aghori Sadhus", "Spiritual Practices", "Hindu Philosophy", "Cultural Anthropology", "Sacred Traditions"]
@@ -16,6 +16,8 @@ relatedPosts: ["maha-shivaratri-2026-varanasi-guide", "kashi-vishwanath-shivarat
 ---
 
 # Maha Shivaratri Varanasi 2026: Bhang, Aghoris & Sacred Cultural Traditions
+
+> **Archive notice:** Maha Shivaratri 2026 was observed on **15 February 2026** and has passed. This cultural article remains available as background, not as a current event schedule.
 
 *Last Updated: September 30, 2026*
 
