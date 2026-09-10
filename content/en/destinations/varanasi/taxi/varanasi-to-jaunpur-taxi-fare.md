@@ -2,12 +2,12 @@
 title: 'Varanasi to Jaunpur Taxi & Cab Fare 2026 | ~50 km, ~1.5 hr | Kashi Taxi'
 slug: varanasi-to-jaunpur-taxi-fare
 date: '2026-07-24'
-lastUpdated: '2026-08-02'
+lastUpdated: '2026-09-10'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: 'Varanasi to Jaunpur Taxi Fare from ₹1,855 | ~50 km'
+metaTitle: 'Varanasi to Jaunpur Taxi Fare from ₹2,215 | ~50 km'
 metaDescription: >-
-  Varanasi to Jaunpur taxi & cab fare: AC Dzire from ₹1,855 one-way, ₹2,510
+  Varanasi to Jaunpur taxi & cab fare: AC Dzire from ₹2,215 one-way, ₹2,990
   round-trip. ~50 km, ~1.5 hr. Fixed fare, tolls included, Innova & Tempo too.
   Book on WhatsApp.
 description: >-
@@ -40,9 +40,9 @@ template: destination
 faqSchema:
   - question: How much is the Varanasi to Jaunpur taxi / cab fare?
     answer: >-
-      The Varanasi to Jaunpur fare is about ₹1,855 one-way and ₹2,510 round-trip
-      in an AC Swift Dzire. An Innova is from ₹3,550 round-trip and a 12-seater
-      Tempo Traveller from ₹5,100 round-trip. The fare is fixed and already
+      The Varanasi to Jaunpur fare is about ₹2,215 one-way and ₹2,990 round-trip
+      in an AC Swift Dzire. An Innova is from ₹4,230 round-trip and a 12-seater
+      Tempo Traveller from ₹6,060 round-trip. The fare is fixed and already
       includes fuel, tolls and the driver.
   - question: Is toll included in the Varanasi to Jaunpur fare?
     answer: >-
@@ -56,7 +56,7 @@ faqSchema:
   - question: Which car is best for a family of 5 on the Varanasi to Jaunpur trip?
     answer: >-
       For 5-6 people an Ertiga (6-seat) or Innova (7-seat) is ideal —
-      comfortable with luggage. On this route an Innova is from ₹3,550
+      comfortable with luggage. On this route an Innova is from ₹4,230
       round-trip.
   - question: Is the Varanasi to Jaunpur fare per car or per person?
     answer: >-
@@ -70,20 +70,20 @@ faqSchema:
       Crysta, 12/17/26-seater Tempo Travellers and the Force Urbania.
   - question: Do you offer Varanasi to Jaunpur one-way drops?
     answer: >-
-      Yes, a Varanasi to Jaunpur one-way drop is available (Dzire from ₹1,855).
+      Yes, a Varanasi to Jaunpur one-way drop is available (Dzire from ₹2,215).
       One-way is the cheaper option when you don't need the car to return.
   - question: How do I book a Varanasi to Jaunpur taxi?
     answer: >-
       Message +91 99354 74730 on WhatsApp with your date, number of passengers
       and preferred vehicle — you get a fixed fare back instantly.
 offers:
-  - price: '1855'
+  - price: '2215'
     priceCurrency: INR
     name: Varanasi to Jaunpur — Dzire (one-way)
-  - price: '2510'
+  - price: '2990'
     priceCurrency: INR
     name: Varanasi to Jaunpur — Dzire (round-trip)
-  - price: '3550'
+  - price: '4230'
     priceCurrency: INR
     name: Varanasi to Jaunpur — Innova (round-trip)
 provider:
@@ -138,7 +138,7 @@ relatedPosts:
 
 {{CTA:ROUTE_HERO_JAUNPUR_OUT:en}}
 
-# Varanasi to Jaunpur Taxi & Cab Fare 2026: from ₹1,855
+# Varanasi to Jaunpur Taxi & Cab Fare 2026: from ₹2,215
 
 Need a fixed **Varanasi to Jaunpur taxi fare** before you travel? Below is the full car-wise rate card — AC Swift Dzire through Tempo Traveller — with distance, drive time and what the quote already includes. Most people make this trip for Colleges/exams, weddings & functions, and NH-31 corridor towns.
 
@@ -157,7 +157,7 @@ Trips are for colleges and exams, weddings and functions, and NH-31 corridor tow
 | **Best Departure** | 3-5 pm events / 6-8 am business |
 | **Tolls** | A single plaza — the Hauj Fee Plaza on NH-31 — at about ₹125 for a car one-way. |
 | **State Tax** | Not applicable |
-| **Cheapest AC option** | Swift Dzire from ₹1,855 one-way |
+| **Cheapest AC option** | Swift Dzire from ₹2,215 one-way |
 | **Luggage** | No restrictions (SUV/Tempo for bulky bags) |
 
 {{CTA:ROUTE_CAB_JAUNPUR:en}}
@@ -168,14 +168,14 @@ Every fare below is **fixed** and includes fuel, driver and the highway toll est
 
 | Vehicle | Seats | Best for | One-way | Round-trip |
 |---|---|---|---|---|
-| **Swift Dzire** | 4 | Couples & small families; most economical AC sedan | ₹1,855 | ₹2,510 |
-| **Maruti Ertiga** | 6 | Families of 5-6 with luggage; comfortable mid SUV | ₹2,575 | ₹3,150 |
-| **Toyota Innova** | 7 | Larger families & long outstation trips; proven reliability | ₹2,875 | ₹3,550 |
-| **Toyota Innova Crysta** | 7 | Premium comfort for family or business travel | ₹3,275 | ₹4,150 |
-| **Tempo Traveller (12 Seater)** | 12 | Group tours & pilgrimages up to 12 passengers | ₹4,550 | ₹5,100 |
-| **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹4,950 | ₹5,900 |
-| **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹5,650 | ₹6,700 |
-| **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹6,350 | ₹7,100 |
+| **Swift Dzire** | 4 | Couples & small families; most economical AC sedan | ₹2,215 | ₹2,990 |
+| **Maruti Ertiga** | 6 | Families of 5-6 with luggage; comfortable mid SUV | ₹3,075 | ₹3,750 |
+| **Toyota Innova** | 7 | Larger families & long outstation trips; proven reliability | ₹3,435 | ₹4,230 |
+| **Toyota Innova Crysta** | 7 | Premium comfort for family or business travel | ₹3,915 | ₹4,950 |
+| **Tempo Traveller (12 Seater)** | 12 | Group tours & pilgrimages up to 12 passengers | ₹5,430 | ₹6,060 |
+| **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹5,910 | ₹7,020 |
+| **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹6,750 | ₹7,980 |
+| **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹7,590 | ₹8,460 |
 
 
 *One-way covers the leg you travel; round-trip includes the return. Overnight halts add a driver allowance of ₹400–₹500/night. Fares updated 2026.*
@@ -186,18 +186,18 @@ Every fare below is **fixed** and includes fuel, driver and the highway toll est
 
 | Group | Best pick | Why |
 |---|---|---|
-| 1–3 travellers, light bags | **Swift Dzire** (from ₹1,855 one-way) | Lowest fixed fare on this route |
-| 4–6 with luggage | **Ertiga** (from ₹2,575 one-way) | Extra seats without jumping to SUV prices |
-| 5–7 on a longer drive | **Innova / Crysta** (from ₹2,875 one-way) | More comfort once the road is 4+ hours |
-| 8–12 / pilgrimage group | **Tempo Traveller 12** (from ₹4,550 one-way) | Keep the whole group in one vehicle |
+| 1–3 travellers, light bags | **Swift Dzire** (from ₹2,215 one-way) | Lowest fixed fare on this route |
+| 4–6 with luggage | **Ertiga** (from ₹3,075 one-way) | Extra seats without jumping to SUV prices |
+| 5–7 on a longer drive | **Innova / Crysta** (from ₹3,435 one-way) | More comfort once the road is 4+ hours |
+| 8–12 / pilgrimage group | **Tempo Traveller 12** (from ₹5,430 one-way) | Keep the whole group in one vehicle |
 | 13+ travellers | **Tempo 17/26** or **Urbania** | Large families, corporate or temple groups |
 
 Full prices sit in the rate card above — use this table only to match a car to your group.
 
 ## One-way vs round-trip
 
-- **One-way** (from ₹1,855 in a Dzire) — best when you do not need the car back, for example a station/airport drop or a stay in Jaunpur.
-- **Round-trip** (from ₹2,510) — best for a same-day visit, or when you want the same driver waiting for the return leg.
+- **One-way** (from ₹2,215 in a Dzire) — best when you do not need the car back, for example a station/airport drop or a stay in Jaunpur.
+- **Round-trip** (from ₹2,990) — best for a same-day visit, or when you want the same driver waiting for the return leg.
 
 Genuine **one-way drops** are available on this route — you are not forced to pay for an empty return.
 
@@ -252,7 +252,7 @@ In Jaunpur we drop you right at what you came for:
 | Outstation availability | ✅ Confirmed car & driver | ⚠️ Often no cars | ✅ But costly |
 | Tolls & fuel | ✅ Included | ❌ Added at end | ⚠️ Sometimes hidden |
 | Local route knowledge | ✅ Local drivers | ⚠️ Varies | ✅ |
-| Typical Jaunpur round-trip (Dzire) | **₹2,510** | Varies + surge | 30–50% more |
+| Typical Jaunpur round-trip (Dzire) | **₹2,990** | Varies + surge | 30–50% more |
 
 ## Why book with Kashi Taxi
 
@@ -294,7 +294,7 @@ Jaunpur is a common day or overnight trip from Varanasi. Travellers usually come
 
 ### How much is the Varanasi to Jaunpur taxi / cab fare?
 
-The Varanasi to Jaunpur fare is about ₹1,855 one-way and ₹2,510 round-trip in an AC Swift Dzire. An Innova is from ₹3,550 round-trip and a 12-seater Tempo Traveller from ₹5,100 round-trip. The fare is fixed and already includes fuel, tolls and the driver.
+The Varanasi to Jaunpur fare is about ₹2,215 one-way and ₹2,990 round-trip in an AC Swift Dzire. An Innova is from ₹4,230 round-trip and a 12-seater Tempo Traveller from ₹6,060 round-trip. The fare is fixed and already includes fuel, tolls and the driver.
 
 ### Is toll included in the Varanasi to Jaunpur fare?
 
@@ -306,7 +306,7 @@ You get the full fixed fare in writing before you book — no meter, no surge pr
 
 ### Which car is best for a family of 5 on the Varanasi to Jaunpur trip?
 
-For 5-6 people an Ertiga (6-seat) or Innova (7-seat) is ideal — comfortable with luggage. On this route an Innova is from ₹3,550 round-trip.
+For 5-6 people an Ertiga (6-seat) or Innova (7-seat) is ideal — comfortable with luggage. On this route an Innova is from ₹4,230 round-trip.
 
 ### Is the Varanasi to Jaunpur fare per car or per person?
 
@@ -318,7 +318,7 @@ Yes, the entire fleet is air-conditioned — Dzire, Ertiga, Innova, Innova Cryst
 
 ### Do you offer Varanasi to Jaunpur one-way drops?
 
-Yes, a Varanasi to Jaunpur one-way drop is available (Dzire from ₹1,855). One-way is the cheaper option when you don't need the car to return.
+Yes, a Varanasi to Jaunpur one-way drop is available (Dzire from ₹2,215). One-way is the cheaper option when you don't need the car to return.
 
 ### How do I book a Varanasi to Jaunpur taxi?
 

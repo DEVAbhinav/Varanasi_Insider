@@ -24,6 +24,7 @@ tags:
   - weather
   - travel planning
 relatedPosts:
+  - navratri-nava-durga-yatra-varanasi-guide
   - best-time-to-visit-varanasi
   - varanasi-transport-price-guide-2026
   - safety-and-security-in-varanasi-guide-for-solo-travellar
@@ -60,15 +61,17 @@ October marks the perfect transition from the wet monsoon to the cool winter. Th
 
 ## A Month of Festivals: Navratri and the Diwali Build-Up
 
-October is all about festive energy. The entire city gets swept up in celebration, making it a vibrant time to visit.
+October is all about festive energy. The entire city gets swept up in celebration, making it the most vibrant time of the year to visit.
 
-**Sharad Navratri (October 11 - October 19, 2026):** The nine nights of Navratri are celebrated with great devotion. While the dates start in late September, the festive mood spills into early October. You'll see special pujas and a spiritual fervor throughout the city. A major highlight is the world-renowned Ram Leela at Ramnagar, an epic theatrical retelling of the Ramayana that you shouldn't miss.
+**Sharad Navratri (11 October – 19 October 2026):** The nine nights of Navratri in Kashi are celebrated through the sacred **Kashi Nava Durga Yatra**, where pilgrims visit nine distinct ancient stone shrines across the city—from Maa Shailputri near Marhia Ghat to Maa Kushmanda at Durga Kund. During this period, traffic police enforce "No-Vehicle Zones" between Godowlia and Chowk, making a hybrid strategy of AC cabs for outer shrines and private riverboats or walking for old-city shrines essential. For the full temple directory, last-mile access, crowd avoidance hours, and vrat food, explore our comprehensive [Navratri in Varanasi 2026: Kashi Nava Durga Yatra Guide](/en/navratri-nava-durga-yatra-varanasi-guide).
 
-**The Lead-up to Diwali (Diwali is on November 8, 2026):** Throughout October, you can feel the excitement for Diwali building. Markets are buzzing, and the ghats start to get decorated. You get to witness the city preparing for its biggest festival of lights, which is a unique experience in itself.
+**Dussehra & Bharat Milap (20–21 October 2026):** Dussehra concludes the festival on 20 October with massive Ravana Dahan spectacles at Lanka, Sigra, and Ramnagar, followed immediately by the historic [Bharat Milap at Nati Imli](/en/bharat-milap-nati-imli) on 21 October. Pre-booking your festival transit through our [Varanasi Festival Taxi Service](/en/book-taxi-varanasi-ramlila-dussehra) is critical to avoid peak-hour surge pricing and post-event stranding.
+
+**The Lead-up to Diwali (Diwali is on 8 November 2026):** Throughout October, you can feel the excitement building. Markets are buzzing, and the ghats start to get decorated. You get to witness the city preparing for its biggest festival of lights, which is a unique experience in itself.
 
 ![Ghats glowing with diyas during October evenings in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "Evening lights on the ghats")
 
-> 📞 **Book your boat & taxi — WhatsApp +91 94503 01573**
+> 📞 **Book your festival taxi, hotel transfer & private boat — Call/WhatsApp [+91 99354 74730](https://wa.me/919935474730?text=I%20am%20visiting%20Varanasi%20in%20October%202026%20and%20need%20cab%2Fhotel%20assistance.)**
 
 ---
 
@@ -93,8 +96,9 @@ Specifically, the one held in Ramnagar is a UNESCO-recognized heritage event. It
 
 October marks the beginning of the tourist season, and prices reflect that.
 
-*   **Costs:** While not as high as in November or December, hotel and flight prices see a significant jump from the monsoon off-season rates.
-*   **Advice:** I recommend booking your travel and accommodation at least **2-3 months in advance** to get reasonable prices, especially if your visit coincides with the festival dates.
+*   **Costs:** While not as high as in November or December, hotel and flight prices see a significant jump from monsoon off-season rates.
+*   **Where to Stay:** If visiting during Navratri or Dussehra, avoid booking deep inside the Godowlia alleys where vehicles cannot enter with luggage. Instead, choose accessible stays near [Assi Ghat](/en/services/guest-house-hotels-near-assi-ghat-varanasi), Cantonment, or [Budget Hotels near Godowlia periphery](/en/services/budget-hotels-near-kashi-vishwanath-godowlia). Check our dedicated [Varanasi Hotel Booking Guide](/en/services/hotel-booking-in-varanasi) to secure vetted stays.
+*   **Transit Tip:** Book your airport/station arrival cab in advance via [Varanasi Taxi Service](/en/varanasi-taxi-service) to ensure on-time door-to-door transit without street negotiation.
 
 ---
 

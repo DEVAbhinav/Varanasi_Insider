@@ -2,12 +2,12 @@
 title: 'वाराणसी से Jaunpur टैक्सी व कैब किराया 2026 | ~50 km, ~1.5 hr | Kashi Taxi'
 slug: varanasi-to-jaunpur-taxi-fare
 date: '2026-07-24'
-lastUpdated: '2026-08-02'
+lastUpdated: '2026-09-10'
 author: Kamal Nayan Singh
 lang: hi
-metaTitle: 'वाराणसी से Jaunpur टैक्सी किराया ₹1,855 से | ~50 km'
+metaTitle: 'वाराणसी से Jaunpur टैक्सी किराया ₹2,215 से | ~50 km'
 metaDescription: >-
-  वाराणसी से Jaunpur टैक्सी व कैब किराया: AC Dzire ₹1,855 वन-वे, ₹2,510
+  वाराणसी से Jaunpur टैक्सी व कैब किराया: AC Dzire ₹2,215 वन-वे, ₹2,990
   राउंड-ट्रिप से। ~50 km, ~1.5 hr। फिक्स्ड किराया, टोल शामिल, Innova व Tempo भी।
   WhatsApp पर बुक करें।
 description: >-
@@ -39,9 +39,9 @@ template: destination
 faqSchema:
   - question: Varanasi to Jaunpur टैक्सी/कैब का किराया कितना है?
     answer: >-
-      AC Swift Dzire में Varanasi to Jaunpur का किराया लगभग ₹1,855 वन-वे और
-      ₹2,510 राउंड-ट्रिप है। Innova ₹3,550 राउंड-ट्रिप और 12-सीटर Tempo
-      Traveller ₹5,100 राउंड-ट्रिप से शुरू। किराया फिक्स्ड है — इसमें ईंधन, टोल
+      AC Swift Dzire में Varanasi to Jaunpur का किराया लगभग ₹2,215 वन-वे और
+      ₹2,990 राउंड-ट्रिप है। Innova ₹4,230 राउंड-ट्रिप और 12-सीटर Tempo
+      Traveller ₹6,060 राउंड-ट्रिप से शुरू। किराया फिक्स्ड है — इसमें ईंधन, टोल
       व ड्राइवर शामिल हैं।
   - question: क्या Varanasi to Jaunpur किराए में टोल शामिल है?
     answer: >-
@@ -55,7 +55,7 @@ faqSchema:
   - question: Varanasi to Jaunpur के लिए 5 लोगों के परिवार को कौन सी गाड़ी लेनी चाहिए?
     answer: >-
       5-6 लोगों के लिए Ertiga (6 सीट) या Innova (7 सीट) सबसे अच्छी है — सामान के
-      साथ आरामदायक। इस रूट पर Innova राउंड-ट्रिप ₹3,550 से।
+      साथ आरामदायक। इस रूट पर Innova राउंड-ट्रिप ₹4,230 से।
   - question: Varanasi to Jaunpur किराया प्रति गाड़ी है या प्रति व्यक्ति?
     answer: >-
       प्रति गाड़ी। किराए में पूरी गाड़ी शामिल है — ईंधन, टोल और ड्राइवर — सीट
@@ -68,20 +68,20 @@ faqSchema:
       12/17/26-सीटर Tempo Traveller और Force Urbania।
   - question: क्या Varanasi to Jaunpur वन-वे ड्रॉप मिलता है?
     answer: >-
-      हाँ, Varanasi to Jaunpur वन-वे ड्रॉप उपलब्ध है (Dzire ₹1,855 से)। वापसी की
+      हाँ, Varanasi to Jaunpur वन-वे ड्रॉप उपलब्ध है (Dzire ₹2,215 से)। वापसी की
       गाड़ी न लेने पर वन-वे किफ़ायती रहता है।
   - question: Varanasi to Jaunpur टैक्सी बुकिंग कैसे करें?
     answer: >-
       WhatsApp +91 99354 74730 पर तारीख, यात्रियों की संख्या और गाड़ी बताएं —
       तुरंत फिक्स्ड किराया मिलेगा।
 offers:
-  - price: '1855'
+  - price: '2215'
     priceCurrency: INR
     name: Varanasi to Jaunpur — Dzire (one-way)
-  - price: '2510'
+  - price: '2990'
     priceCurrency: INR
     name: Varanasi to Jaunpur — Dzire (round-trip)
-  - price: '3550'
+  - price: '4230'
     priceCurrency: INR
     name: Varanasi to Jaunpur — Innova (round-trip)
 provider:
@@ -135,7 +135,7 @@ relatedPosts:
 
 {{CTA:ROUTE_HERO_JAUNPUR_OUT:hi}}
 
-# वाराणसी से Jaunpur टैक्सी व कैब किराया 2026: ₹1,855 से
+# वाराणसी से Jaunpur टैक्सी व कैब किराया 2026: ₹2,215 से
 
 **वाराणसी से Jaunpur** का फिक्स्ड टैक्सी किराया जानना है? नीचे पूरा कार-वाइज़ रेट कार्ड है — AC Swift Dzire से Tempo Traveller तक — दूरी, समय और कोटेशन में क्या शामिल है, सब साफ़। ज़्यादातर यात्री Colleges/exams, weddings & functions, and NH-31 corridor towns के लिए यह यात्रा करते हैं।
 
@@ -154,7 +154,7 @@ relatedPosts:
 | **सबसे अच्छा प्रस्थान समय** | 3-5 pm events / 6-8 am business |
 | **टोल** | एक ही प्लाज़ा — NH-31 पर हौज़ फ़ी प्लाज़ा — कार के लिए ~₹125 वन-वे। |
 | **स्टेट टैक्स** | लागू नहीं |
-| **सबसे किफ़ायती AC विकल्प** | Swift Dzire ₹1,855 वन-वे से |
+| **सबसे किफ़ायती AC विकल्प** | Swift Dzire ₹2,215 वन-वे से |
 | **सामान** | कोई पाबंदी नहीं (ज़्यादा सामान के लिए SUV/Tempo) |
 
 {{CTA:ROUTE_CAB_JAUNPUR:hi}}
@@ -165,14 +165,14 @@ relatedPosts:
 
 | वाहन | सीटें | किसके लिए | वन-वे | राउंड-ट्रिप |
 |---|---|---|---|---|
-| **Swift Dzire** | 4 | Couples & small families; most economical AC sedan | ₹1,855 | ₹2,510 |
-| **Maruti Ertiga** | 6 | Families of 5-6 with luggage; comfortable mid SUV | ₹2,575 | ₹3,150 |
-| **Toyota Innova** | 7 | Larger families & long outstation trips; proven reliability | ₹2,875 | ₹3,550 |
-| **Toyota Innova Crysta** | 7 | Premium comfort for family or business travel | ₹3,275 | ₹4,150 |
-| **Tempo Traveller (12 Seater)** | 12 | Group tours & pilgrimages up to 12 passengers | ₹4,550 | ₹5,100 |
-| **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹4,950 | ₹5,900 |
-| **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹5,650 | ₹6,700 |
-| **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹6,350 | ₹7,100 |
+| **Swift Dzire** | 4 | Couples & small families; most economical AC sedan | ₹2,215 | ₹2,990 |
+| **Maruti Ertiga** | 6 | Families of 5-6 with luggage; comfortable mid SUV | ₹3,075 | ₹3,750 |
+| **Toyota Innova** | 7 | Larger families & long outstation trips; proven reliability | ₹3,435 | ₹4,230 |
+| **Toyota Innova Crysta** | 7 | Premium comfort for family or business travel | ₹3,915 | ₹4,950 |
+| **Tempo Traveller (12 Seater)** | 12 | Group tours & pilgrimages up to 12 passengers | ₹5,430 | ₹6,060 |
+| **Tempo Traveller (17 Seater)** | 17 | Larger groups & extended family pilgrimages | ₹5,910 | ₹7,020 |
+| **Tempo Traveller (26 Seater)** | 26 | Large tour groups & corporate/temple trips | ₹6,750 | ₹7,980 |
+| **Force Urbania** | 13 | Luxury group travel with premium reclining seats | ₹7,590 | ₹8,460 |
 
 
 *वन-वे आपकी तय दूरी पर लगता है; राउंड-ट्रिप में वापसी शामिल है। रात रुकने पर ₹400–₹500/रात ड्राइवर भत्ता। किराया 2026 में अपडेटेड।*
@@ -183,18 +183,18 @@ relatedPosts:
 
 | समूह | सबसे अच्छा विकल्प | क्यों |
 |---|---|---|
-| 1–3 यात्री, हल्का सामान | **Swift Dzire** (वन-वे ₹1,855 से) | इस रूट पर सबसे कम फिक्स्ड किराया |
-| 4–6 यात्री + बैग | **Ertiga** (वन-वे ₹2,575 से) | SUV किराए से पहले अतिरिक्त सीटें |
-| 5–7 यात्री, लंबी सड़क | **Innova / Crysta** (वन-वे ₹2,875 से) | 4+ घंटे की यात्रा में ज़्यादा आराम |
-| 8–12 यात्री / तीर्थ समूह | **Tempo Traveller 12** (वन-वे ₹4,550 से) | एक ही गाड़ी में पूरा समूह |
+| 1–3 यात्री, हल्का सामान | **Swift Dzire** (वन-वे ₹2,215 से) | इस रूट पर सबसे कम फिक्स्ड किराया |
+| 4–6 यात्री + बैग | **Ertiga** (वन-वे ₹3,075 से) | SUV किराए से पहले अतिरिक्त सीटें |
+| 5–7 यात्री, लंबी सड़क | **Innova / Crysta** (वन-वे ₹3,435 से) | 4+ घंटे की यात्रा में ज़्यादा आराम |
+| 8–12 यात्री / तीर्थ समूह | **Tempo Traveller 12** (वन-वे ₹5,430 से) | एक ही गाड़ी में पूरा समूह |
 | 13+ यात्री | **Tempo 17/26** या **Urbania** | बड़े परिवार, कॉर्पोरेट या मंदिर यात्रा |
 
 पूरा किराया ऊपर के रेट कार्ड में है — यहाँ सिर्फ़ यह तय करें कि कौन सी गाड़ी आपके समूह पर फिट बैठती है।
 
 ## वन-वे बनाम राउंड-ट्रिप
 
-- **वन-वे** (Dzire में ₹1,855 से) — जब गाड़ी वापस नहीं चाहिए, जैसे स्टेशन/एयरपोर्ट ड्रॉप या Jaunpur में रुकना।
-- **राउंड-ट्रिप** (₹2,510 से) — उसी दिन लौटना हो, या वही ड्राइवर वापसी के लिए चाहिए।
+- **वन-वे** (Dzire में ₹2,215 से) — जब गाड़ी वापस नहीं चाहिए, जैसे स्टेशन/एयरपोर्ट ड्रॉप या Jaunpur में रुकना।
+- **राउंड-ट्रिप** (₹2,990 से) — उसी दिन लौटना हो, या वही ड्राइवर वापसी के लिए चाहिए।
 
 इस रूट पर असली **वन-वे ड्रॉप** मिलता है — खाली वापसी का किराया देने की मजबूरी नहीं।
 
@@ -249,7 +249,7 @@ Jaunpur पहुँचकर हम आपको सीधे उन जगह�
 | आउटस्टेशन उपलब्धता | ✅ पक्की गाड़ी-ड्राइवर | ⚠️ अक्सर गाड़ी नहीं | ✅ पर महँगा |
 | टोल व ईंधन | ✅ शामिल | ❌ अंत में जुड़ता | ⚠️ कभी छुपा |
 | लोकल रूट जानकारी | ✅ लोकल ड्राइवर | ⚠️ अलग-अलग | ✅ |
-| Jaunpur राउंड-ट्रिप (Dzire) | **₹2,510** | सर्ज के साथ बदलता | 30–50% ज़्यादा |
+| Jaunpur राउंड-ट्रिप (Dzire) | **₹2,990** | सर्ज के साथ बदलता | 30–50% ज़्यादा |
 
 ## Kashi Taxi क्यों
 
@@ -291,7 +291,7 @@ Jaunpur वाराणसी से एक दिन या रात भर �
 
 ### Varanasi to Jaunpur टैक्सी/कैब का किराया कितना है?
 
-AC Swift Dzire में Varanasi to Jaunpur का किराया लगभग ₹1,855 वन-वे और ₹2,510 राउंड-ट्रिप है। Innova ₹3,550 राउंड-ट्रिप और 12-सीटर Tempo Traveller ₹5,100 राउंड-ट्रिप से शुरू। किराया फिक्स्ड है — इसमें ईंधन, टोल व ड्राइवर शामिल हैं।
+AC Swift Dzire में Varanasi to Jaunpur का किराया लगभग ₹2,215 वन-वे और ₹2,990 राउंड-ट्रिप है। Innova ₹4,230 राउंड-ट्रिप और 12-सीटर Tempo Traveller ₹6,060 राउंड-ट्रिप से शुरू। किराया फिक्स्ड है — इसमें ईंधन, टोल व ड्राइवर शामिल हैं।
 
 ### क्या Varanasi to Jaunpur किराए में टोल शामिल है?
 
@@ -303,7 +303,7 @@ AC Swift Dzire में Varanasi to Jaunpur का किराया लगभ
 
 ### Varanasi to Jaunpur के लिए 5 लोगों के परिवार को कौन सी गाड़ी लेनी चाहिए?
 
-5-6 लोगों के लिए Ertiga (6 सीट) या Innova (7 सीट) सबसे अच्छी है — सामान के साथ आरामदायक। इस रूट पर Innova राउंड-ट्रिप ₹3,550 से।
+5-6 लोगों के लिए Ertiga (6 सीट) या Innova (7 सीट) सबसे अच्छी है — सामान के साथ आरामदायक। इस रूट पर Innova राउंड-ट्रिप ₹4,230 से।
 
 ### Varanasi to Jaunpur किराया प्रति गाड़ी है या प्रति व्यक्ति?
 
@@ -315,7 +315,7 @@ AC Swift Dzire में Varanasi to Jaunpur का किराया लगभ
 
 ### क्या Varanasi to Jaunpur वन-वे ड्रॉप मिलता है?
 
-हाँ, Varanasi to Jaunpur वन-वे ड्रॉप उपलब्ध है (Dzire ₹1,855 से)। वापसी की गाड़ी न लेने पर वन-वे किफ़ायती रहता है।
+हाँ, Varanasi to Jaunpur वन-वे ड्रॉप उपलब्ध है (Dzire ₹2,215 से)। वापसी की गाड़ी न लेने पर वन-वे किफ़ायती रहता है।
 
 ### Varanasi to Jaunpur टैक्सी बुकिंग कैसे करें?
 

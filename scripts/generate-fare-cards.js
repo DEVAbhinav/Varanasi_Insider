@@ -78,7 +78,7 @@ function selfTest() {
   const cases = [
     ['sarnath', 'round-trip', 100, 1226],
     ['mughalsarai', 'round-trip', 100, 1240],
-    ['jaunpur', 'round-trip', 200, 2510],
+    ['jaunpur', 'round-trip', 240, 2990],
     ['vindhyachal', 'round-trip', 200, 2554],
     ['prayagraj', 'round-trip', 200, 3275],
     ['ayodhya', 'round-trip', 250, 5240],
@@ -86,7 +86,7 @@ function selfTest() {
     ['delhi', 'round-trip', 250, 22506],
     ['sarnath', 'one-way', 100, 913],
     ['mughalsarai', 'one-way', 100, 920],
-    ['jaunpur', 'one-way', 200, 1855],
+    ['jaunpur', 'one-way', 240, 2215],
     ['prayagraj', 'one-way', 200, 2388],
     ['gaya', 'one-way', 250, 4813],
     ['delhi', 'one-way', 250, 16407],

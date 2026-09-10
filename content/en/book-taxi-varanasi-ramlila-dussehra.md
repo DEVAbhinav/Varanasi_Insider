@@ -18,6 +18,7 @@ tags:
   - dussehra car rental
 keywords: ["book taxi Varanasi Dussehra","car rental Dussehra 2026","Innova booking Varanasi festivals","Tempo Traveller booking Dussehra","Varanasi festival transport","taxi booking Ramlila","car hire Dussehra Varanasi","festival vehicle booking","Varanasi transport booking","Dussehra taxi service"]
 relatedPosts:
+  - navratri-nava-durga-yatra-varanasi-guide
   - dussehra-ravana-dahan-varanasi
   - bharat-milap-nati-imli
   - tempo-traveller-group-booking-dussehra
@@ -80,6 +81,16 @@ During **Ramlila and Dussehra celebrations in Varanasi**:
 ---
 
 ## Festival Transport Packages
+
+### October 11th–19th - Shardiya Navratri (Kashi Nava Durga) Packages
+
+For pilgrims undertaking the sacred **Kashi Nava Durga Yatra**, we offer dedicated cabs for outer road-accessible shrines (Maa Shailputri, Maa Skandamata, Maa Kushmanda) combined with strategic drop points for old-city pedestrian shrines and riverboat transfers. Read our complete [Kashi Nava Durga Yatra Guide](/en/navratri-nava-durga-yatra-varanasi-guide) for temple-by-temple route logistics.
+
+| Package | Duration | Inclusions | Sedan Rate | SUV Rate | 12-Seater |
+|---------|----------|------------|------------|-----------|-----------|
+| **Outer Navratri Circuit** | 4 hours | Shailputri (Varuna) + Skandamata + Durga Kund | ₹1,299 | ₹1,799 | ₹2,500 |
+| **Full-Day Nava Durga Transit** | 8 hours | Full vehicle standby across all temple drop hubs | ₹2,499 | ₹3,499 | ₹3,800 |
+| **12-Hour Pre-Dawn to Aarti** | 12 hours | 04:30 AM early pickup to evening Ganga Aarti return | ₹3,200 | ₹4,500 | ₹5,200 |
 
 ### October 20th - Dussehra (Ravana Dahan) Packages
 

@@ -509,7 +509,7 @@
       "wave": 2,
       "servesInbound": true,
       "offersOneWay": true,
-      "minBillKm": 200,
+      "minBillKm": 240,
       "tollDetail": {
         "en": "A single plaza — the Hauj Fee Plaza on NH-31 — at about ₹125 for a car one-way.",
         "hi": "एक ही प्लाज़ा — NH-31 पर हौज़ फ़ी प्लाज़ा — कार के लिए ~₹125 वन-वे।"
@@ -865,6 +865,89 @@
       "servesInbound": false,
       "offersOneWay": true,
       "localTrip": true
+    },
+    {
+      "id": "kathmandu",
+      "name": "Kathmandu",
+      "aliases": [
+        "Kathmandu Nepal",
+        "Pashupatinath",
+        "Nepal"
+      ],
+      "distanceKm": 560,
+      "distanceKmDisplay": "~560 km",
+      "distanceFromAirportKm": null,
+      "driveTimeNormal": "9-12 hr",
+      "driveTimePeak": "12-14 hr",
+      "highway": "NH-29 via Gorakhpur & Sunauli border to Prithvi Highway",
+      "tollsNote": "India NH tolls + Nepal entry/permit",
+      "stateTaxApplicable": true,
+      "crossesState": "Nepal (international border at Sunauli / Belahiya)",
+      "bestDeparture": "5:00 am",
+      "whyVisit": "Pashupatinath darshan, Boudhanath, Swayambhunath, Himalayan tourism",
+      "stops": [
+        "Kaithi / Ghazipur highway dhabas",
+        "Gorakhpur bypass",
+        "Sunauli border / Belahiya immigration",
+        "Butwal / Mugling mountain stops"
+      ],
+      "chokepoints": [
+        "Sunauli border immigration & vehicle customs",
+        "Prithvi Highway mountain sections & Kathmandu entry"
+      ],
+      "wave": 2,
+      "servesInbound": true,
+      "offersOneWay": true,
+      "minBillKm": 250,
+      "minFare": {
+        "dzire": { "ow": 18990, "rt": 27990 },
+        "ertiga": { "ow": 24990, "rt": 34990 },
+        "innova": { "ow": 27990, "rt": 39990 },
+        "crysta": { "ow": 32990, "rt": 46990 },
+        "tempo-12": { "ow": 44990, "rt": 55990 },
+        "tempo-17": { "ow": 49990, "rt": 65990 },
+        "tempo-26": { "ow": 57990, "rt": 74990 },
+        "urbania": { "ow": 62990, "rt": 79990 }
+      },
+      "fixedFare": {
+        "dzire": { "ow": 18990, "rt": 27990 },
+        "ertiga": { "ow": 24990, "rt": 34990 },
+        "innova": { "ow": 27990, "rt": 39990 },
+        "crysta": { "ow": 32990, "rt": 46990 },
+        "tempo-12": { "ow": 44990, "rt": 55990 },
+        "tempo-17": { "ow": 49990, "rt": 65990 },
+        "tempo-26": { "ow": 57990, "rt": 74990 },
+        "urbania": { "ow": 62990, "rt": 79990 }
+      },
+      "tollDetail": {
+        "en": "Covers Indian NH toll plazas up to Sunauli border; Nepal road tolls (NPR 500-800) and vehicle customs/bhansar entry fees are settled at the border checkpost.",
+        "hi": "सुनौली बॉर्डर तक भारतीय राष्ट्रीय राजमार्ग टोल शामिल; नेपाल रोड टोल (NPR 500-800) व वाहन भंसार/परमिट शुल्क बॉर्डर चेकपोस्ट पर देय होते हैं।"
+      },
+      "stateTaxDetail": {
+        "en": "Cross-border vehicle permit (Bhansar) and driver entry pass are required at Belahiya checkpost. For Indian citizens, no visa is required (valid passport, voter ID or Aadhaar needed).",
+        "hi": "बेलहिया चेकपोस्ट पर गाड़ी का परमिट (भंसार) व ड्राइवर एंट्री पास आवश्यक है। भारतीय नागरिकों के लिए वीज़ा आवश्यक नहीं है (वैध पासपोर्ट, वोटर ID या आधार आवश्यक)।"
+      },
+      "travelerAngle": {
+        "en": "Direct cross-border road trip connecting Kashi Vishwanath with Pashupatinath Dham. Starting at 5:00 AM allows crossing the Sunauli border by midday and arriving in Kathmandu by evening.",
+        "hi": "काशी विश्वनाथ और पशुपतिनाथ धाम को जोड़ने वाली सीधी अंतरराष्ट्रीय सड़क यात्रा। सुबह 5:00 बजे प्रस्थान करने से दोपहर तक सुनौली बॉर्डर पार कर शाम तक काठमांडू पहुँचा जा सकता है।"
+      },
+      "departureTip": {
+        "en": "Depart Varanasi between 4:30 AM and 5:30 AM to beat Gorakhpur city traffic and complete Sunauli border immigration before the peak afternoon cargo movement.",
+        "hi": "गोरखपुर शहर के ट्रैफ़िक से बचने और दोपहर की मालवाहक गाड़ियों की भीड़ से पहले सुनौली बॉर्डर इमिग्रेशन पूरा करने के लिए वाराणसी से सुबह 4:30 से 5:30 बजे के बीच निकलें।"
+      },
+      "hubs": {
+        "pickup": [
+          "Varanasi Cantt / Manduadih",
+          "Babatpur Airport",
+          "Sigra / Godowlia hotels"
+        ],
+        "see": [
+          "Pashupatinath Temple",
+          "Boudhanath Stupa",
+          "Swayambhunath",
+          "Kathmandu Durbar Square"
+        ]
+      }
     }
   ]
 }

@@ -2,7 +2,7 @@
   "gscDate": "2026-07-30",
   "gscMatched": 559,
   "gscAnchorMatched": 19,
-  "totalNodes": 626,
+  "totalNodes": 628,
   "footer": {
     "en": [
       {
@@ -45,7 +45,7 @@
           },
           {
             "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-            "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700"
+            "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990"
           },
           {
             "href": "/en/varanasi-to-ayodhya-taxi",
@@ -318,12 +318,12 @@
             "label": "वाराणसी कैंट रेलवे स्टेशन टैक्सी सेवा - 24/7 पिकअप"
           },
           {
-            "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-            "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026"
-          },
-          {
             "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
             "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026"
+          },
+          {
+            "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+            "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026"
           }
         ]
       },
@@ -953,7 +953,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -1273,7 +1273,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -2282,7 +2282,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -2483,6 +2483,38 @@
         "reason": "related"
       }
     ],
+    "/en/navratri-nava-durga-yatra-varanasi-guide": [
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
+        "reason": "book"
+      },
+      {
+        "href": "/en/packages/varanasi-tour-package",
+        "label": "Varanasi Tour Package 2026",
+        "reason": "book"
+      },
+      {
+        "href": "/en/varanasi-weather-guide",
+        "label": "Varanasi Weather Guide",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/kashi-vs-varanasi-vs-banaras",
+        "label": "Kashi vs Varanasi vs Banaras",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/jagannath-rath-yatra-varanasi-2026",
+        "label": "Jagannath Rath Yatra in Varanasi, 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/en/sarnath-timing-visit-guide",
+        "label": "Sarnath Temple Timing 2026",
+        "reason": "related"
+      }
+    ],
     "/en/navratri-pilgrimage-vindhyachal-from-varanasi-guide": [
       {
         "href": "/",
@@ -2570,7 +2602,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -3530,7 +3562,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -3562,7 +3594,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -3658,7 +3690,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -4138,7 +4170,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -4266,7 +4298,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -4330,7 +4362,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -4618,7 +4650,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -4837,7 +4869,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -6011,7 +6043,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -6043,7 +6075,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -6235,7 +6267,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -6299,7 +6331,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -7423,8 +7455,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -7506,6 +7538,38 @@
       {
         "href": "/hi/travel-from-varanasi-to-vindhyachal",
         "label": "वाराणसी से विंध्याचल टैक्सी",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/sarnath-timing-visit-guide",
+        "label": "सारनाथ टाइमिंग 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/trikon-parikrama-vindhyachal-complete-guide",
+        "label": "विंध्याचल में त्रिकोण परिक्रमा",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/varanasi-in-monsoon-july-september-2026",
+        "label": "मानसून में वाराणसी",
+        "reason": "related"
+      }
+    ],
+    "/hi/navratri-nava-durga-yatra-varanasi-guide": [
+      {
+        "href": "/hi/varanasi-airport-taxi-guide",
+        "label": "वाराणसी एयरपोर्ट टैक्सी गाइड",
+        "reason": "book"
+      },
+      {
+        "href": "/hi/varanasi-sunrise-time",
+        "label": "वाराणसी में सूर्योदय का समय 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/city/varanasi/sightseeing/kashi-vishwanath-mandir-ganga-aarti-yatra-2026",
+        "label": "काशी विश्वनाथ मंदिर और गंगा आरती",
         "reason": "rescue"
       },
       {
@@ -8287,8 +8351,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -8410,13 +8474,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -9018,13 +9082,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -9087,8 +9151,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -9375,8 +9439,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -9599,8 +9663,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -10751,8 +10815,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -10779,7 +10843,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -10811,7 +10875,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -10843,7 +10907,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -10907,7 +10971,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -10939,7 +11003,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -10971,7 +11035,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11003,7 +11067,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11040,7 +11104,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       }
     ],
@@ -11072,7 +11136,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       }
     ],
@@ -11099,7 +11163,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11131,7 +11195,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11163,7 +11227,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11195,7 +11259,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11259,7 +11323,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11291,7 +11355,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11323,7 +11387,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11360,7 +11424,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       }
     ],
@@ -11392,7 +11456,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       }
     ],
@@ -11419,7 +11483,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11451,7 +11515,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11478,7 +11542,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11515,7 +11579,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -11643,7 +11707,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -15255,8 +15319,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15287,8 +15351,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15319,8 +15383,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15383,8 +15447,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15415,8 +15479,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15447,8 +15511,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15479,8 +15543,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15575,8 +15639,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15607,8 +15671,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15639,8 +15703,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15671,8 +15735,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15703,8 +15767,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15735,8 +15799,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15767,8 +15831,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15799,8 +15863,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15895,8 +15959,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15927,8 +15991,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15959,8 +16023,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -15991,8 +16055,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16119,8 +16183,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16524,13 +16588,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16556,13 +16620,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16588,13 +16652,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16620,13 +16684,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16652,13 +16716,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16684,13 +16748,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16716,13 +16780,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16748,13 +16812,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16780,13 +16844,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16812,13 +16876,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16844,13 +16908,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16876,13 +16940,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16913,8 +16977,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16940,13 +17004,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -16972,13 +17036,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17004,13 +17068,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17036,13 +17100,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17068,13 +17132,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17100,13 +17164,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17137,8 +17201,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17164,13 +17228,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17196,13 +17260,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17228,13 +17292,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17260,13 +17324,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17292,13 +17356,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17324,13 +17388,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17356,13 +17420,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17388,13 +17452,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17420,13 +17484,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17452,13 +17516,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17484,13 +17548,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17516,13 +17580,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17543,13 +17607,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
@@ -17580,13 +17644,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17612,13 +17676,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17644,13 +17708,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17676,13 +17740,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17708,13 +17772,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17740,13 +17804,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17772,13 +17836,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17804,13 +17868,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17836,13 +17900,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17868,13 +17932,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17900,13 +17964,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17932,13 +17996,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17964,13 +18028,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -17996,13 +18060,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18028,13 +18092,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18060,13 +18124,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18092,13 +18156,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18124,13 +18188,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18156,13 +18220,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18188,13 +18252,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18220,13 +18284,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18252,13 +18316,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18284,13 +18348,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18316,13 +18380,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18348,13 +18412,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18380,13 +18444,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18412,13 +18476,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18444,13 +18508,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18476,13 +18540,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18508,13 +18572,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18540,13 +18604,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18572,13 +18636,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18636,13 +18700,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18668,13 +18732,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18700,13 +18764,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18732,13 +18796,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18764,13 +18828,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18796,13 +18860,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18828,13 +18892,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18860,13 +18924,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18924,13 +18988,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18956,13 +19020,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -18988,13 +19052,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -19020,13 +19084,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -19052,13 +19116,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -19079,13 +19143,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
@@ -19116,13 +19180,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -19148,13 +19212,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -19180,13 +19244,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -19212,13 +19276,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
-        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-        "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026",
+        "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
+        "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026",
         "reason": "related"
       }
     ],
@@ -19629,7 +19693,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -19725,7 +19789,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -19757,7 +19821,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -19789,7 +19853,7 @@
       },
       {
         "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
         "reason": "related"
       },
       {
@@ -20741,6 +20805,20 @@
       "impressions": 497,
       "position": 5.8,
       "score": 44
+    },
+    "/en/navratri-nava-durga-yatra-varanasi-guide": {
+      "lang": "en",
+      "title": "Navratri in Varanasi 2026: Kashi Nava Durga Yatra, Temple Routes & Logistics Guide",
+      "anchor": "Navratri in Varanasi 2026",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
     },
     "/en/navratri-pilgrimage-vindhyachal-from-varanasi-guide": {
       "lang": "en",
@@ -23066,6 +23144,20 @@
       "position": 3.4,
       "score": 43
     },
+    "/hi/navratri-nava-durga-yatra-varanasi-guide": {
+      "lang": "hi",
+      "title": "वाराणसी में नवरात्रि 2026: काशी नवदुर्गा यात्रा, 9 मंदिर रूट और दर्शन गाइड",
+      "anchor": "वाराणसी में नवरात्रि 2026",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
+    },
     "/hi/navratri-pilgrimage-vindhyachal-from-varanasi-guide": {
       "lang": "hi",
       "title": "वाराणसी से विंध्याचल नवरात्रि तीर्थयात्रा: संपूर्ण गाइड 2026",
@@ -24114,7 +24206,7 @@
       "clicks": 28,
       "impressions": 2289,
       "position": 5.2,
-      "score": 160
+      "score": 159
     },
     "/hi/where-to-stay-in-varanasi": {
       "lang": "hi",
@@ -24678,7 +24770,7 @@
     },
     "/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi": {
       "lang": "en",
-      "title": "Varanasi to Jaunpur Taxi | Sharqi Heritage Cabs | ₹2,200 | Kashi Taxi",
+      "title": "Varanasi to Jaunpur Taxi | Sharqi Heritage Cabs | From ₹2,215 | Kashi Taxi",
       "anchor": "Varanasi to Jaunpur Taxi",
       "category": "taxi",
       "productType": "route_taxi",
@@ -24688,7 +24780,7 @@
       "clicks": 0,
       "impressions": 11,
       "position": 8.1,
-      "score": 83
+      "score": 85
     },
     "/en/city/kanpur/taxi/kanpur-to-varanasi-taxi": {
       "lang": "en",
@@ -24706,8 +24798,8 @@
     },
     "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi": {
       "lang": "en",
-      "title": "Varanasi to Kathmandu Taxi Fare from ₹10,700 | Book Cab",
-      "anchor": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+      "title": "Varanasi to Kathmandu Taxi Fare from ₹27,990 | Book Cab",
+      "anchor": "Varanasi to Kathmandu Taxi Fare from ₹27,990",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": "kathmandu",
@@ -24888,7 +24980,7 @@
     },
     "/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi": {
       "lang": "en",
-      "title": "Prayagraj to Varanasi Taxi | Sangam to Kashi | ₹2,500 | Same-Day Circuit",
+      "title": "Prayagraj to Varanasi Taxi | Sangam to Kashi | ₹2,388 | Same-Day Circuit",
       "anchor": "Prayagraj to Varanasi Taxi",
       "category": "taxi",
       "productType": "route_taxi",
@@ -25430,7 +25522,7 @@
       "clicks": 0,
       "impressions": 38,
       "position": 15.6,
-      "score": 84
+      "score": 86
     },
     "/en/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service": {
       "lang": "en",
@@ -26256,7 +26348,7 @@
       "clicks": 0,
       "impressions": 16,
       "position": 6,
-      "score": 69
+      "score": 70
     },
     "/en/city/varanasi/taxi/varanasi-to-kushinagar-taxi-fare": {
       "lang": "en",
@@ -26680,7 +26772,7 @@
     },
     "/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi": {
       "lang": "hi",
-      "title": "वाराणसी से जौनपुर टैक्सी | शर्की विरासत डे ट्रिप कैब | ₹2,200 से | काशी टैक्सी",
+      "title": "वाराणसी से जौनपुर टैक्सी | शर्की विरासत डे ट्रिप कैब | ₹2,215 से | काशी टैक्सी",
       "anchor": "वाराणसी से जौनपुर टैक्सी",
       "category": "taxi",
       "productType": "route_taxi",
@@ -26690,7 +26782,7 @@
       "clicks": 0,
       "impressions": 6,
       "position": 8.8,
-      "score": 83
+      "score": 85
     },
     "/hi/city/kanpur/taxi/kanpur-to-varanasi-taxi": {
       "lang": "hi",
@@ -26708,7 +26800,7 @@
     },
     "/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi": {
       "lang": "hi",
-      "title": "वाराणसी से काठमांडू टैक्सी | पशुपतिनाथ दर्शन कैब | ₹10,700 से | काशी टैक्सी",
+      "title": "वाराणसी से काठमांडू टैक्सी | पशुपतिनाथ दर्शन कैब | ₹27,990 से | काशी टैक्सी",
       "anchor": "वाराणसी से काठमांडू टैक्सी",
       "category": "taxi",
       "productType": "route_taxi",
@@ -26890,7 +26982,7 @@
     },
     "/hi/city/prayagraj/taxi/prayagraj-to-varanasi-taxi": {
       "lang": "hi",
-      "title": "प्रयागराज से वाराणसी टैक्सी | संगम से काशी | ₹2,500 से | काशी टैक्सी",
+      "title": "प्रयागराज से वाराणसी टैक्सी | संगम से काशी | ₹2,388 से | काशी टैक्सी",
       "anchor": "प्रयागराज से वाराणसी टैक्सी",
       "category": "taxi",
       "productType": "route_taxi",
@@ -26900,7 +26992,7 @@
       "clicks": 0,
       "impressions": 11,
       "position": 7.5,
-      "score": 68
+      "score": 70
     },
     "/hi/city/varanasi/activities/84-ghat-naav-tour-varanasi": {
       "lang": "hi",
@@ -27320,7 +27412,7 @@
       "clicks": 0,
       "impressions": 15,
       "position": 9.3,
-      "score": 84
+      "score": 85
     },
     "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service": {
       "lang": "hi",
@@ -28160,7 +28252,7 @@
       "clicks": 2,
       "impressions": 70,
       "position": 16.9,
-      "score": 93
+      "score": 94
     },
     "/hi/city/varanasi/taxi/varanasi-to-kushinagar-taxi-fare": {
       "lang": "hi",

@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Jaunpur Taxi | Sharqi Heritage Cabs | ₹2,200 | Kashi Taxi"
+title: "Varanasi to Jaunpur Taxi | Sharqi Heritage Cabs | From ₹2,215 | Kashi Taxi"
 slug: "varanasi-to-jaunpur-taxi"
 date: "2026-06-24"
-lastUpdated: "2026-06-24"
+lastUpdated: "2026-09-10"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Jaunpur Taxi ₹2,200 | 60km Day Trip [2026]"
-metaDescription: "Varanasi to Jaunpur = 60 km (1.5 hrs via NH731). Round-trip taxi ₹2,200 sedan. Atala Masjid, Shahi Bridge, Jama Masjid heritage day-trip. Book: 99354 74730"
-description: "Book Varanasi to Jaunpur taxi for ₹2,200 round trip. 60 km to the Sharqi-era heritage town - Atala Masjid, Shahi Bridge, and Jama Masjid - with verified drivers."
+metaTitle: "Varanasi to Jaunpur Taxi from ₹2,215 | 50-60km Day Trip [2026]"
+metaDescription: "Varanasi to Jaunpur taxi from ₹2,215 one-way (₹2,990 round-trip sedan). 50-60 km (1.5 hrs via NH731). Atala Masjid & Shahi Bridge heritage day-trip. Book: 99354 74730"
+description: "Book Varanasi to Jaunpur taxi from ₹2,215 one-way (₹2,990 round trip). 50-60 km to the Sharqi-era heritage town - Atala Masjid, Shahi Bridge, and Jama Masjid - with verified drivers."
 keywords:
   - "varanasi to jaunpur taxi"
   - "varanasi to jaunpur cab"
@@ -32,48 +32,48 @@ areaServed:
     name: "Varanasi"
 offers:
   - name: "Sedan round trip (with sightseeing wait)"
-    price: 2200
+    price: 2990
     priceCurrency: "INR"
     description: "4-seater sedan, Varanasi to Jaunpur and back with waiting time"
   - name: "Ertiga round trip"
-    price: 2900
+    price: 3750
     priceCurrency: "INR"
     description: "6-seater MUV for families"
   - name: "Innova Crysta round trip"
-    price: 3500
+    price: 4950
     priceCurrency: "INR"
     description: "6-7 seater premium SUV"
   - name: "Sedan one-way drop"
-    price: 1400
+    price: 2215
     priceCurrency: "INR"
     description: "One-way drop to Jaunpur"
 faqSchema:
   - question: "How much is a taxi from Varanasi to Jaunpur?"
-    answer: "A Varanasi to Jaunpur round-trip taxi with sightseeing time costs around ₹2,200 for a sedan, ₹2,900 for an Ertiga, and ₹3,500 for an Innova. A one-way drop is about ₹1,400. All fares include fuel, tolls, and driver allowance."
+    answer: "A Varanasi to Jaunpur round-trip taxi with sightseeing time costs ₹2,990 for a sedan (Swift Dzire), ₹3,750 for an Ertiga, and ₹4,950 for an Innova Crysta. A one-way drop starts from ₹2,215 for a sedan. All fares include fuel, tolls, and driver allowance."
   - question: "What is the distance from Varanasi to Jaunpur?"
-    answer: "Jaunpur is about 60 km from Varanasi via NH731. The drive takes around 1.5 hours, making it one of the easiest heritage day-trips from the city."
+    answer: "Jaunpur is about 50-60 km from Varanasi via NH731. The drive takes around 1.5 hours, making it one of the easiest heritage day-trips from the city."
   - question: "What is Jaunpur famous for?"
     answer: "Jaunpur was the capital of the Sharqi Sultanate (14th-15th century) and is known for its distinctive Indo-Islamic architecture - the Atala Masjid, Jama Masjid, Lal Darwaza Masjid, the Shahi Bridge over the Gomti, and Shahi Qila fort. It is also famous for its imarti sweets and perfume (itr)."
   - question: "Can I combine Jaunpur with Ayodhya?"
     answer: "Yes. Jaunpur sits on the Varanasi-Ayodhya road, so it is a natural en-route stop. Many pilgrims pause in Jaunpur for an hour on their way to Ayodhya; we can plan this as a single booking."
 ---
 
-# Varanasi to Jaunpur Taxi | Sharqi Heritage Day Trip | From ₹2,200
+# Varanasi to Jaunpur Taxi | Sharqi Heritage Day Trip | From ₹2,215
 
-> **TL;DR:** Varanasi to Jaunpur taxi is ~60 km (1.5 hrs via NH731). Round-trip sedan with sightseeing wait from ₹2,200. Perfect half-day Sharqi heritage outing.
+> **TL;DR:** Varanasi to Jaunpur taxi is ~50-60 km (1.5 hrs via NH731). Starting from ₹2,215 one-way or ₹2,990 round-trip sedan with sightseeing wait. Perfect half-day Sharqi heritage outing.
 
-**Jaunpur was the proud capital of the Sharqi Sultanate**, and its 600-year-old mosques, the elegant Shahi Bridge over the Gomti, and a riverside fort make it the most underrated heritage day-trip from Varanasi. At just **60 kilometers** and **1.5 hours** away, it is an easy escape into Indo-Islamic architecture without the crowds.
+**Jaunpur was the proud capital of the Sharqi Sultanate**, and its 600-year-old mosques, the elegant Shahi Bridge over the Gomti, and a riverside fort make it the most underrated heritage day-trip from Varanasi. At just **50-60 kilometers** and **1.5 hours** away, it is an easy escape into Indo-Islamic architecture without the crowds.
 
 ## Quick Facts: Varanasi to Jaunpur
 
 | Detail | Information |
 |--------|-------------|
-| **Distance** | ~60 km by road |
+| **Distance** | ~50-60 km by road |
 | **Travel Time** | ~1.5 hours each way |
 | **Best Route** | Varanasi → NH731 → Jaunpur |
 | **Road Condition** | Good highway, light traffic |
 | **Main Attractions** | Atala Masjid, Shahi Bridge, Jama Masjid, Shahi Qila |
-| **Starting Fare** | ₹2,200 round trip (sedan, with wait) |
+| **Starting Fare** | ₹2,215 one-way / ₹2,990 round trip (sedan, with wait) |
 | **Trip Type** | Half-day heritage trip |
 
 ## Where This Page Fits
@@ -102,10 +102,10 @@ faqSchema:
 
 | Vehicle | Seating | Round Trip (with wait) | One-Way Drop | Best For |
 |---------|---------|------------------------|--------------|----------|
-| **Swift Dzire (Sedan)** | 4 | ₹2,200 | ₹1,400 | Couples, small families |
-| **Ertiga** | 6 | ₹2,900 | ₹1,800 | Families |
-| **Innova Crysta** | 6-7 | ₹3,500 | ₹2,200 | Comfort, elders |
-| **Tempo Traveller** | 12-13 | ₹5,000 | ₹3,200 | Heritage group tours |
+| **Swift Dzire (Sedan)** | 4 | ₹2,990 | ₹2,215 | Couples, small families |
+| **Ertiga** | 6 | ₹3,750 | ₹3,075 | Families |
+| **Innova Crysta** | 6-7 | ₹4,950 | ₹3,915 | Comfort, elders |
+| **Tempo Traveller** | 12-13 | ₹6,060 | ₹5,430 | Heritage group tours |
 
 **Included:** fuel, tolls, driver allowance, GST, and waiting time while you explore the monuments.
 **Not included:** monument entry tips, meals, and shopping stops beyond the planned itinerary.

@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Kathmandu Taxi Fare from ₹10,700 | Book Cab"
+title: "Varanasi to Kathmandu Taxi Fare from ₹27,990 | Book Cab"
 slug: "varanasi-to-kathmandu-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-09-03"
+lastUpdated: "2026-09-10"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Kathmandu Taxi Fare ₹10,700 | Book Nepal Cab"
-metaDescription: "Varanasi to Kathmandu taxi fare from ₹10,700 one-way (₹15,500 3-day round trip). 560 km cross-border route via Sunauli. Fixed quote on WhatsApp +91 99354 74730."
-description: "Book Varanasi to Kathmandu taxi from ₹10,700. 560 km journey via Gorakhpur and Sunauli border (9-12 hours). International cross-border taxi service with Nepal entry guidance, visa assistance, verified drivers."
+metaTitle: "Varanasi to Kathmandu Taxi Fare from ₹27,990 | Book Nepal Cab"
+metaDescription: "Varanasi to Kathmandu taxi fare starts from ₹27,990 round trip (₹18,990 one-way base). 560 km cross-border route via Sunauli. Custom quote on WhatsApp +91 99354 74730."
+description: "Book Varanasi to Kathmandu taxi from ₹27,990 round trip (minimum base fare). 560 km journey via Gorakhpur and Sunauli border (9-12 hours). International cross-border taxi service with Nepal entry guidance, visa assistance, verified drivers."
 keywords:
   - "varanasi to kathmandu taxi"
   - "nepal taxi from varanasi"
@@ -26,7 +26,9 @@ relatedPosts:
   - varanasi-to-nepal-taxi
 faqSchema:
   - question: "How much does a taxi cost from Varanasi to Kathmandu?"
-    answer: "Taxi fares from Varanasi to Kathmandu start from ₹10,700 for a one-way sedan (Swift Dzire) or ₹15,500 for a 3-day round-trip tour. This 560 km international journey takes 9-12 hours via Sunauli border, including border crossing time (1-3 hours)."
+    answer: "A round-trip tour taxi from Varanasi to Kathmandu starts from a minimum base of ₹27,990 for an AC sedan (Swift Dzire, standard 3-day round trip), while a one-way drop starts from ₹18,990. This is a minimum floor fare covering standard travel and driver halts; any additional tour days, detours to Nagarkot/Bhaktapur/Pokhara, or extra distance scale transparently over this base."
+  - question: "Is the Varanasi to Kathmandu taxi fare a fixed flat rate?"
+    answer: "No, ₹27,990 is the minimum starting base fare for a standard 3-day round trip (and ₹18,990 for a direct one-way drop). It is not a locked flat fare: extended itineraries, extra tour days in Nepal, local sightseeing detours, or extra kilometers are billed transparently on actuals over this minimum floor."
   - question: "What documents needed for Varanasi to Kathmandu taxi?"
     answer: "For Indians: Valid passport, voter ID or Aadhaar (no visa needed). For foreigners: Valid passport + Nepal visa (available on arrival at border, $30-50 USD). Our drivers assist with border procedures."
   - question: "Is Nepal visa required from India?"
@@ -39,7 +41,8 @@ faqSchema:
 
 > **TL;DR — book the Kathmandu cab:**
 >
-> - **Sedan from** → ₹10,700 one-way / ₹15,500 3-day return
+> - **Sedan minimum base** → from ₹27,990 round-trip (3-day) / from ₹18,990 one-way drop
+> - **Pricing policy** → ₹27,990 is the minimum floor; extra days, extra km, or local detours scale transparently over this base
 > - **Door to door** → typically 9–12 hours including border
 > - **Route** → Gorakhpur → Sunauli → Belahiya → Kathmandu (560 km)
 > - **Indians** → no Nepal visa; carry government photo ID
@@ -52,13 +55,14 @@ This is a long but useful route for travellers who want a direct door-to-door co
 
 | Detail | Information |
 |--------|-------------|
-| **Sedan one-way drop** | ₹10,700 (Swift Dzire) |
-| **3-Day round-trip package** | ₹15,500 (Sedan) |
+| **Sedan round-trip base (min)** | From ₹27,990 (Swift Dzire, standard 3-day) |
+| **Sedan one-way drop base (min)** | From ₹18,990 (Swift Dzire) |
+| **Pricing rule** | Minimum base floor — extra days & extra km billed over this base |
 | **Typical door-to-door** | 9–12 hours (border included) |
 | **Route** | Gorakhpur → Sunauli → Kathmandu (~560 km) |
 | **Border** | Sunauli (India) – Belahiya (Nepal) |
 | **IDs** | Indians: passport / voter ID / Aadhaar · Foreigners: passport + visa |
-| **Book** | WhatsApp +91 99354 74730 |
+| **Book & custom quote** | WhatsApp +91 99354 74730 |
 
 {{CTA:CITY_TOUR:en}}
 
@@ -153,13 +157,16 @@ This is a long but useful route for travellers who want a direct door-to-door co
 
 ## Varanasi to Kathmandu Taxi Vehicle Options & Pricing
  
-| Vehicle Type | Seating | One-Way Drop | 3-Day Round-Trip | Best For |
-|--------------|---------|-------------|-------------------|----------|
-| **Swift Dzire** | 4 passengers | ₹10,700 | ₹15,500 | Couples, budget travellers |
-| **Maruti Ertiga** | 6 passengers | ₹14,800 | ₹19,500 | Families with extra luggage |
-| **Toyota Innova** | 7 passengers | ₹16,500 | ₹21,500 | Groups wanting extra space |
-| **Innova Crysta** | 6-7 passengers | ₹18,800 | ₹25,000 | Premium hill ride & comfort |
-| **Tempo Traveller** | 12-13 passengers | ₹26,300 | ₹31,200 | Trekking groups & large families |
+| Vehicle Type | Seating | Round-Trip (Min Base) | One-Way Drop (Min Base) | Best For |
+|--------------|---------|-----------------------|-------------------------|----------|
+| **Swift Dzire** | 4 passengers | From ₹27,990 | From ₹18,990 | Couples, budget travellers |
+| **Maruti Ertiga** | 6 passengers | From ₹34,990 | From ₹24,990 | Families with extra luggage |
+| **Toyota Innova** | 7 passengers | From ₹39,990 | From ₹27,990 | Groups wanting extra space |
+| **Innova Crysta** | 6-7 passengers | From ₹46,990 | From ₹32,990 | Premium hill ride & comfort |
+| **Tempo Traveller** | 12-13 passengers | From ₹55,990 | From ₹44,990 | Trekking groups & large families |
+
+> **Pricing Policy — Minimum Base Floor:**
+> The rates listed above are **minimum base fares** for standard door-to-door travel (direct one-way drop or standard 3-day round trip). They are not locked all-inclusive ceilings for unlimited days or distances. If your itinerary involves extra days in Nepal (e.g. 4, 5 or 7 days), local sightseeing detours (Nagarkot, Bhaktapur, Chandragiri, or Pokhara), or extra kilometers, charges scale transparently **over** this base floor at standard per-km and driver night allowance rates. We share an itemized written quote on WhatsApp before departure.
 
 ### What's Included
 
@@ -268,7 +275,7 @@ This is a long but useful route for travellers who want a direct door-to-door co
 - 12:00 PM: Depart for Varanasi.
 - 10:00 PM: Arrive Varanasi.
 
-**Fare:** ₹15,500 for sedan (3-day round-trip).
+**Fare:** From ₹27,990 for sedan (3-day round-trip minimum base).
 
 ### Five-Day Nepal Extended Tour from Varanasi
 
@@ -278,22 +285,22 @@ This is a long but useful route for travellers who want a direct door-to-door co
 - **Day 4:** Pokhara day trip (fly or drive, optional).
 - **Day 5:** Depart Kathmandu → Varanasi.
 
-**Fare:** ₹20,500 for sedan (5-day package).
+**Fare:** From ₹34,990 for sedan (5-day package over minimum base).
 
 ### One-Way Varanasi to Kathmandu Taxi Option
 
 For trekkers and long-stay travellers:
 
-- One-way Varanasi → Kathmandu: ₹10,700 (Swift Dzire).
+- One-way Varanasi → Kathmandu: From ₹18,990 (Swift Dzire minimum base).
 - Return by flight (1 hour, ₹4,000-8,000).
 - Best option if staying in Nepal 7+ days.
 
 ## Varanasi to Kathmandu Taxi Package Options
 
-- **Kathmandu Spiritual Tour (3-Day):** ₹15,500 for sedan round-trip, covering Pashupatinath, Boudhanath and Swayambhunath with border assistance.
-- **Nepal Heritage Circuit (5-Day):** ₹20,500 for sedan, covering Kathmandu, Bhaktapur, Patan and Nagarkot.
-- **One-Way Trekker Transfer:** ₹10,700 one-way to Kathmandu, with luggage space for longer stays.
-- **Trekking Group Transfer:** Tempo Traveller for 10-12 people, ₹31,200 for 3-day round-trip, with trekking gear accommodation.
+- **Kathmandu Spiritual Tour (3-Day):** From ₹27,990 minimum base for sedan round-trip, covering Pashupatinath, Boudhanath and Swayambhunath with border assistance.
+- **Nepal Heritage Circuit (5-Day):** From ₹34,990 for sedan, covering Kathmandu, Bhaktapur, Patan and Nagarkot.
+- **One-Way Trekker Transfer:** From ₹18,990 one-way to Kathmandu, with luggage space for longer stays.
+- **Trekking Group Transfer:** Tempo Traveller for 10-12 people, from ₹55,990 for 3-day round-trip, with trekking gear accommodation.
 
 ## Varanasi to Kathmandu Customer Reviews
 
@@ -387,7 +394,7 @@ For trekkers and long-stay travellers:
 **India-Nepal Spiritual Circuit** (7-Day)
 
 - Varanasi → Kathmandu → Lumbini (Buddha's birthplace) → Varanasi.
-- ₹28,000 for sedan.
+- From ₹42,990 for sedan (customized 7-day circuit).
 
 ---
 

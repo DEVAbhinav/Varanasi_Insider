@@ -29,7 +29,7 @@ relatedPosts:
   - varanasi-to-bodhgaya-taxi-cost
 faqSchema:
   - question: "How much is a taxi from Varanasi to Nepal?"
-    answer: "2026 sedan (Swift Dzire) fares match our standard outstation pricing model: Sonauli border ₹6,970 drop / ₹8,500 1-day return; Lumbini (390 km) ₹7,450 drop / ₹10,500 2-day return; Kathmandu (560 km) ₹10,700 drop / ₹15,500 3-day round-trip; Pokhara (580 km) ₹11,080 drop / ₹16,500 4-day round-trip; Chitwan (500 km) ₹9,550 drop / ₹14,000 3-day round-trip; Janakpur via Raxaul (600 km) ₹11,460 drop / ₹16,000 2-day round-trip. Ertiga and Innova Crysta quotes are locked in writing before departure."
+    answer: "2026 sedan (Swift Dzire) fares match our standard outstation pricing model: Sonauli border ₹6,970 drop / ₹8,500 1-day return; Lumbini (390 km) ₹7,450 drop / ₹10,500 2-day return; Kathmandu (560 km) ₹18,990 drop / ₹27,990 3-day round-trip minimum base; Pokhara (580 km) ₹11,080 drop / ₹16,500 4-day round-trip; Chitwan (500 km) ₹9,550 drop / ₹14,000 3-day round-trip; Janakpur via Raxaul (600 km) ₹11,460 drop / ₹16,000 2-day round-trip. Ertiga and Innova Crysta quotes are locked in writing before departure."
   - question: "How do I book a Varanasi to Nepal cab?"
     answer: "WhatsApp or call +91 99354 74730 with final drop (border only vs Lumbini / Kathmandu / Pokhara / Chitwan / Janakpur), date, headcount, luggage and ID type (Indian govt ID vs foreign passport). We confirm vehicle, fixed fare and border handling before dispatch."
   - question: "Do Indians need a visa for Nepal?"
@@ -48,7 +48,7 @@ faqSchema:
 >
 > - **Sonauli border** → ₹6,970 one-way / ₹8,500 1-day return
 > - **Lumbini** → ₹7,450 one-way / ₹10,500 2-day return
-> - **Kathmandu** → ₹10,700 one-way / ₹15,500 3-day return
+> - **Kathmandu** → from ₹18,990 one-way / ₹27,990 3-day return (minimum base)
 > - **Pokhara** → ₹11,080 one-way / ₹16,500 4-day return
 > - **Chitwan** → ₹9,550 one-way / ₹14,000 3-day return
 > - **Indians** → no visa; government photo ID is enough
@@ -64,7 +64,7 @@ faqSchema:
 | **Sonauli border** | 365 km | 5–6 hrs | ₹6,970 | ₹8,500 (1-day) |
 | **Lumbini** | 390 km | 6–7 hrs | ₹7,450 | ₹10,500 (2-day) |
 | **Chitwan** | 500 km | 10–11 hrs | ₹9,550 | ₹14,000 (3-day) |
-| **Kathmandu** | 560 km | 9–12 hrs | ₹10,700 | ₹15,500 (3-day) |
+| **Kathmandu** | 560 km | 9–12 hrs | From ₹18,990 | From ₹27,990 (3-day base) |
 | **Pokhara** | 580 km | 12–14 hrs | ₹11,080 | ₹16,500 (4-day) |
 | **Janakpur** (via Raxaul) | 600 km | 12–13 hrs | ₹11,460 | ₹16,000 (2-day) |
 | **Raxaul border** | 450 km | 8–9 hrs | ₹8,600 | ₹12,500 (2-day) |
@@ -119,7 +119,7 @@ Ertiga / Innova Crysta: expect roughly 30–60% above sedan. Final quote is lock
 **Fare from Varanasi:**
 
 - To Sonauli border: ₹6,970 (one-way) / ₹8,500 (1-day round-trip).
-- To Kathmandu: ₹10,700 (one-way) / ₹15,500 (3-day round-trip).
+- To Kathmandu: ₹18,990 (one-way) / ₹27,990 (round-trip tour).
 - To Pokhara: ₹11,080 (one-way) / ₹16,500 (4-day round-trip).
 - To Lumbini: ₹7,450 (one-way) / ₹10,500 (2-day round-trip).
 
@@ -203,11 +203,11 @@ Ertiga / Innova Crysta: expect roughly 30–60% above sedan. Final quote is lock
 
 **Distance:** 560 km total
 **Time:** 9-12 hours (including 1-3 hrs border crossing)
-**Fare:** ₹10,700 (sedan one-way)
+**Fare:** ₹18,990 (sedan one-way)
 
 **What to see:** Pashupatinath, Boudhanath, Swayambhunath, Durbar Square and Thamel.
 
-**Recommended package:** 3-day round-trip ₹15,500.
+**Recommended package:** Round-trip pilgrimage tour ₹27,990.
 
 [See detailed Kathmandu route guide →](/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi)
 
@@ -385,13 +385,13 @@ Ertiga / Innova Crysta: expect roughly 30–60% above sedan. Final quote is lock
 
 ## Varanasi to Nepal Taxi Vehicle Options & Pricing Summary
 
-| Vehicle Type | Seating | Sonauli Border (1-Day RT) | Varanasi to Kathmandu (3-Day RT) | Varanasi to Pokhara (4-Day RT) | Varanasi to Lumbini (2-Day RT) |
-|--------------|---------|---------------------------|---------------------------------|-------------------------------|--------------------------------|
-| **Swift Dzire** | 4 pax | ₹8,500 | ₹15,500 | ₹16,500 | ₹10,500 |
-| **Maruti Ertiga** | 6 pax | ₹12,000 | ₹19,500 | ₹20,500 | ₹13,500 |
-| **Toyota Innova** | 7 pax | ₹13,500 | ₹21,500 | ₹22,500 | ₹15,000 |
-| **Innova Crysta** | 6-7 pax | ₹15,500 | ₹25,000 | ₹26,000 | ₹17,000 |
-| **Tempo Traveller** | 12 pax | ₹19,500 | ₹31,000 | ₹33,000 | ₹21,500 |
+| Vehicle Type | Seating | Sonauli Border (1-Day RT) | Varanasi to Kathmandu (3-Day RT Base) | Varanasi to Pokhara (4-Day RT) | Varanasi to Lumbini (2-Day RT) |
+|--------------|---------|---------------------------|--------------------------------------|-------------------------------|--------------------------------|
+| **Swift Dzire** | 4 pax | ₹8,500 | From ₹27,990 | ₹16,500 | ₹10,500 |
+| **Maruti Ertiga** | 6 pax | ₹12,000 | From ₹34,990 | ₹20,500 | ₹13,500 |
+| **Toyota Innova** | 7 pax | ₹13,500 | From ₹39,990 | ₹22,500 | ₹15,000 |
+| **Innova Crysta** | 6-7 pax | ₹15,500 | From ₹46,990 | ₹26,000 | ₹17,000 |
+| **Tempo Traveller** | 12 pax | ₹19,500 | From ₹55,990 | ₹33,000 | ₹21,500 |
 
 ### What's Included
 

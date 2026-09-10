@@ -1,13 +1,13 @@
 ---
-title: "Prayagraj to Varanasi Taxi | Sangam to Kashi | ₹2,500 | Same-Day Circuit"
+title: "Prayagraj to Varanasi Taxi | Sangam to Kashi | ₹2,388 | Same-Day Circuit"
 slug: "prayagraj-to-varanasi-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-09-03"
+lastUpdated: "2026-09-10"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Prayagraj to Varanasi Taxi | Triveni Sangam to Kashi | ₹2,500"
-metaDescription: "Prayagraj (Allahabad) to Varanasi taxi ₹2,500. 100 km, 2-2.5 hrs. Sangam + Ganga Aarti same-day. Book ☎ 99354 74730."
-description: "Prayagraj to Varanasi taxi from ₹2,500. 100-124 km in 2-2.5 hours via NH19. Triveni Sangam to Ganga Aarti same-day. Professional drivers."
+metaTitle: "Prayagraj to Varanasi Taxi | Triveni Sangam to Kashi | ₹2,388"
+metaDescription: "Prayagraj (Allahabad) to Varanasi taxi from ₹2,388. 120-125 km, 2.5-3 hrs. Sangam + Ganga Aarti same-day. Book ☎ 99354 74730."
+description: "Prayagraj to Varanasi taxi from ₹2,388. 120-125 km in 2.5-3 hours via NH19. Triveni Sangam to Ganga Aarti same-day. Professional drivers."
 keywords:
   - "prayagraj to varanasi taxi"
   - "prayagraj to varanasi cab"
@@ -29,32 +29,32 @@ relatedPosts:
   - kashi-darshan-tempo-traveller
 faqSchema:
   - question: "How much does a taxi cost from Prayagraj to Varanasi?"
-    answer: "Taxi fares from Prayagraj to Varanasi start from ₹2,500 for a 4-seater sedan (Swift Dzire). Prices vary: Ertiga ₹3,200-3,500, Innova ₹4,000-4,500. Includes fuel, tolls, and driver charges."
+    answer: "Taxi fares from Prayagraj to Varanasi start from ₹2,388 for a 4-seater sedan (Swift Dzire). Prices vary: Ertiga ₹3,313, Innova ₹3,688, Innova Crysta ₹4,188, and round-trip sedan from ₹3,275. Includes fuel, tolls, and driver charges."
   - question: "What is the distance from Prayagraj to Varanasi?"
-    answer: "The distance from Prayagraj to Varanasi is approximately 100-124 km depending on starting point in Prayagraj. Via NH19 (fastest route) it is 100 km taking 2-2.5 hours. This is the SHORTEST pilgrimage route to Varanasi from any major city."
+    answer: "The distance from Prayagraj to Varanasi is approximately 100-125 km depending on starting point in Prayagraj. Via NH19 (fastest route) it is 120-125 km taking 2.5-3 hours. This is the shortest pilgrimage route to Varanasi from any major city."
   - question: "Can I do both Triveni Sangam and Ganga Aarti in one day?"
     answer: "YES! This is the MOST ASKED question for this route. With strategic timing: 7:00 AM Triveni Sangam holy dip → 10:30 AM depart Prayagraj → 1:00 PM arrive Varanasi → lunch → afternoon temple visits → 6:30 PM Dashashwamedh Ganga Aarti. Complete 2-city pilgrimage in 1 day!"
   - question: "Should I take train or taxi from Prayagraj to Varanasi?"
-    answer: "Prayagraj-Varanasi has hourly trains (199+ buses, 30+ trains daily) with fares as low as ₹85. However, for families/groups of 3-4 people, taxi costs ₹2,500 total (₹625/person) vs ₹340 for 4 train tickets. Taxi offers door-to-door convenience, luggage ease, and flexibility. Choose taxi for comfort, train for ultra-budget solo travel."
+    answer: "Prayagraj-Varanasi has hourly trains (199+ buses, 30+ trains daily) with fares as low as ₹85. However, for families/groups of 3-4 people, taxi costs ₹2,388 total (₹597/person) vs ₹340 for 4 train tickets. Taxi offers door-to-door convenience, luggage ease, and flexibility. Choose taxi for comfort, train for ultra-budget solo travel."
   - question: "What is the best route from Prayagraj to Varanasi?"
-    answer: "The fastest route is via NH19 (Prayagraj → Varanasi) which is 100 km taking 2-2.5 hours. Excellent 4-lane expressway conditions. Alternative route via Mirzapur is 124 km but scenic."
+    answer: "The fastest route is via NH19 (Prayagraj → Varanasi) which is 120-125 km taking 2.5-3 hours. Excellent 4-lane expressway conditions. Alternative route via Mirzapur is 124 km but scenic."
 ---
 
-# Prayagraj to Varanasi Taxi from ₹2,500 | Sangam to Kashi Same-Day
+# Prayagraj to Varanasi Taxi from ₹2,388 | Sangam to Kashi Same-Day
 
-**Quick answer:** Prayagraj to Varanasi taxi starts from **₹2,500** for a Swift Dzire. The route is **100-124 kilometers** and usually takes **2 to 2.5 hours** via NH19. It is a practical same-day plan for Triveni Sangam in the morning and Ganga Aarti in Varanasi in the evening.
+**Quick answer:** Prayagraj to Varanasi taxi starts from **₹2,388** for a Swift Dzire (round-trip from **₹3,275**). The route is **120-125 kilometers** and usually takes **2.5 to 3 hours** via NH19. It is a practical same-day plan for Triveni Sangam in the morning and Ganga Aarti in Varanasi in the evening.
 
 ## Quick Facts: Prayagraj to Varanasi Taxi Route
 
 | Detail | Information |
 |--------|-------------|
-| **Journey Distance** | 100 km (via NH19 - fastest) / 124 km (via Mirzapur - scenic) |
-| **Travel Time** | 2-2.5 hours (direct via NH19) |
+| **Journey Distance** | 120-125 km (via NH19 - fastest) / 124 km (via Mirzapur - scenic) |
+| **Travel Time** | 2.5-3 hours (direct via NH19) |
 | **Best Route** | Via NH19 (Prayagraj → Varanasi direct) |
 | **Road Condition** | Excellent - 4-lane expressway |
 | **Train Frequency** | **Every 1-3 hours** (30+ daily trains - HOURLY service) |
 | **Bus Services** | 199+ daily buses (highest bus frequency) |
-| **Starting Taxi Fare** | ₹2,500 for Swift Dzire (4-seater) |
+| **Starting Taxi Fare** | ₹2,388 for Swift Dzire (4-seater) |
 | **Same-Day Circuit** | **Feasible** - most popular use case |
 
 ## Prayagraj to Varanasi Same-Day Sangam to Ganga Aarti Plan
@@ -107,7 +107,7 @@ faqSchema:
 | **Train (Sleeper)** | 1h 45m-2h 25m | ₹340 (₹85×4) | Ultra-budget solo travelers | Fixed schedule | ⚠️ Overhead racks |
 | **Train (3AC)** | 1h 45m-2h 25m | ₹740 (₹185×4) | Budget families | Fixed schedule | ⚠️ Limited space |
 | **UPSRTC Bus** | 3-4 hours | ₹808 (₹202×4) | Budget travelers | ⚠️ Every 30 min | No luggage |
-| **Taxi (Dzire)** | 2-2.5 hours | ₹2,500 (total) | Families, groups | Any time | Trunk space |
+| **Taxi (Dzire)** | 2.5-3 hours | ₹2,388 (total) | Families, groups | Any time | Trunk space |
 
 ### Cost-Value Breakdown: Train vs Taxi
 
@@ -117,10 +117,10 @@ faqSchema:
 |--------|-------------|--------------|-----------------|----------------------|
 | **Train (Sleeper)** | 4 × ₹85 = ₹340 | Sangam-to-station ₹200 + Station-to-hotel ₹250 + Luggage ₹100 = ₹550 | **₹890** | 3h 15m |
 | **Train (3AC)** | 4 × ₹185 = ₹740 | Same ₹550 | **₹1,290** | 3h 15m |
-| **Taxi (Dzire)** | ₹2,500 | ₹0 (door-to-door) | **₹2,500** | 2-2.5 hours |
+| **Taxi (Dzire)** | ₹2,388 | ₹0 (door-to-door) | **₹2,388** | 2.5-3 hours |
 
 **Value Analysis**:
-- Taxi costs **₹625 per person** (₹2,500 ÷ 4) - only ₹403 more than Sleeper per person
+- Taxi costs **₹597 per person** (₹2,388 ÷ 4) - only ₹375 more than Sleeper per person
 - **Time saved**: 45-60 minutes (direct vs station transfers)
 - **Luggage convenience**: No overhead rack struggles, trunk space for bags
 - **Flexibility**: Leave after Sangam dip anytime, not bound by train schedule
@@ -188,16 +188,18 @@ Even with **30+ daily trains**, timing can feel tight if Sangam bathing runs lat
 
 | Vehicle Type | Seating | One-Way Fare | Round-Trip | Best For | Trunk Capacity |
 |--------------|---------|--------------|------------|----------|----------------|
-| **Swift Dzire** | 4 passengers | ₹2,500-₹2,700 | ₹4,500 | Couples, small families | 2-3 medium bags |
-| **Ertiga** | 6 passengers | ₹3,200-₹3,500 | ₹6,000 | Families with kids | 4 medium bags |
-| **Innova** | 6-7 passengers | ₹4,000-₹4,500 | ₹7,500 | Large families | 5-6 bags |
-| **Tempo Traveller 12-Seater** | 12 passengers | ₹7,500-₹8,500 | ₹14,000 | Group pilgrimages | Overhead luggage racks |
+| **Swift Dzire** | 4 passengers | ₹2,388 | ₹3,275 | Couples, small families | 2-3 medium bags |
+| **Ertiga** | 6 passengers | ₹3,313 | ₹4,125 | Families with kids | 4 medium bags |
+| **Innova** | 6-7 passengers | ₹3,688 | ₹4,625 | Large families | 5-6 bags |
+| **Innova Crysta** | 6-7 passengers | ₹4,188 | ₹5,375 | Premium family comfort | 5-6 bags |
+| **Tempo Traveller 12-Seater** | 12 passengers | ₹5,875 | ₹6,750 | Group pilgrimages | Overhead luggage racks |
+| **Tempo Traveller 17-Seater** | 17 passengers | ₹6,375 | ₹7,750 | Extended group pilgrimages | Ample rear luggage space |
 
 ### What's included in your fare
 
 - Professional driver with Prayagraj-Varanasi route expertise
 - Fuel for entire journey (included)
-- Toll charges (₹80-100)
+- Toll charges (included)
 - **Triveni Sangam pickup** (direct from ghat or hotel)
 - Drop at Dashashwamedh Ghat / Kashi Vishwanath / Your hotel
 - Driver allowance (no hidden costs)
@@ -210,7 +212,7 @@ Even with **30+ daily trains**, timing can feel tight if Sangam bathing runs lat
 - Triveni Sangam boat ride (₹100-500 per person)
 - Temple parking fees (₹50-100)
 - Extra stops beyond 2 (₹100 per additional stop)
-- Kumbh Mela period surcharge (+₹1,000-1,500 during Kumbh weeks)
+- State tax if applicable
 
 ## Major Stops on the Prayagraj to Varanasi Cab Route
 
@@ -230,7 +232,7 @@ Even with **30+ daily trains**, timing can feel tight if Sangam bathing runs lat
   - Crosses into Varanasi district
   - Dense traffic near ghats (last 15-20 minutes)
 
-**Note**: Due to short journey (2-2.5 hours), most travelers skip intermediate stops. However, driver can arrange:
+**Note**: Due to short journey (2.5-3 hours), most travelers skip intermediate stops. However, driver can arrange:
 - **Quick chai break** at Jaunpur bypass (10 minutes)
 - **Photo stop** at Ganga river scenic viewpoint (5 minutes)
 
@@ -242,14 +244,13 @@ Even with **30+ daily trains**, timing can feel tight if Sangam bathing runs lat
 
 | Component | Amount |
 |-----------|--------|
-| Base Fare | ₹400 |
-| Per-km Rate (100 km) | ₹1,200 (@ ₹12/km) |
-| Toll Charges | ₹80 |
-| Driver Allowance | ₹350 |
-| GST (5%) | ₹102 |
-| **Total Estimated Fare** | **₹2,132 ≈ ₹2,500** (includes buffer) |
+| Base Distance Rate (125 km @ ₹18/km) | ₹2,250 |
+| Estimated Highway Tolls (₹1.1/km × 125 km) | ₹138 |
+| Driver Allowance | Included |
+| Fuel & Night Surcharge | Included |
+| **Total One-Way Fixed Fare** | **₹2,388** |
 
-**Round-trip pricing**: ₹4,500 (save ₹500 vs 2x one-way)
+**Round-trip pricing**: ₹3,275 (billed on 250 km round-trip @ ₹12/km + ₹275 tolls)
 
 ## Sangam to Kashi Spiritual Circuit
 

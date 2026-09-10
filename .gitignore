@@ -42,7 +42,9 @@ next-env.d.ts
 api/local.settings.json
 
 # Docs and test results
-docs/
+docs/*
+!docs/scheduledTasks/
+!docs/navratri-nava-durga-varanasi-research-2026.md
 test-results/
 .playwright-cli/
 output/

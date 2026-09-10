@@ -131,6 +131,7 @@
 - **Bharat Milap Nati Imli Oct 21** - https://www.kashitaxi.in/en/bharat-milap-nati-imli
 - **Ram Rajya Finale Ramnagar Oct 25** - https://www.kashitaxi.in/en/ram-rajya-finale-ramnagar-ramlila
 - **Ramnagar Ramlila Moving Stages** - https://www.kashitaxi.in/en/ramnagar-ramlila-moving-stages-guide
+- **Navratri in Varanasi 2026 (Kashi Nava Durga)** - https://www.kashitaxi.in/en/navratri-nava-durga-yatra-varanasi-guide
 
 ### 🕉️ Vindhyachal (7)
 - **Travel from Varanasi to Vindhyachal** - https://www.kashitaxi.in/en/travel-from-varanasi-to-vindhyachal
@@ -265,6 +266,7 @@
 - **Dev Deepawali Photography** - https://www.kashitaxi.in/hi/dev-deepawali-photography-guide-2026
 - **Kashi Vishwanath Shivaratri** - https://www.kashitaxi.in/hi/kashi-vishwanath-shivaratri-crowd-survival-guide
 - **Ganga Mahotsav 2026** - https://www.kashitaxi.in/hi/ganga-mahotsav-2026-classical-festival-varanasi
+- **Navratri in Varanasi 2026 (काशी नवदुर्गा)** - https://www.kashitaxi.in/hi/navratri-nava-durga-yatra-varanasi-guide
 
 ### 🕉️ Vindhyachal (हिंदी) (5)
 - **वाराणसी से विंध्याचल की यात्रा** - https://www.kashitaxi.in/hi/travel-from-varanasi-to-vindhyachal
