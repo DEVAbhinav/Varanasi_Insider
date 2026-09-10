@@ -19303,11 +19303,6 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
-        "label": "वाराणसी सेम-डे टूर पैकेज",
-        "reason": "related"
-      },
-      {
         "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
         "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
@@ -19315,6 +19310,11 @@
       {
         "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
         "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
+        "label": "वाराणसी सेम-डे टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -19340,13 +19340,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
-        "label": "वाराणसी सेम-डे टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
+        "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
-        "label": "वाराणसी 2-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
+        "label": "वाराणसी सेम-डे टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -19367,11 +19367,6 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
-        "label": "वाराणसी सेम-डे टूर पैकेज",
-        "reason": "related"
-      },
-      {
         "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
         "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
@@ -19379,6 +19374,11 @@
       {
         "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
         "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
+        "label": "वाराणसी सेम-डे टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -19436,13 +19436,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
-        "label": "वाराणसी सेम-डे टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
+        "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
-        "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
+        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
+        "label": "वाराणसी सेम-डे टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -19468,13 +19468,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
-        "label": "वाराणसी सेम-डे टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
+        "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
-        "label": "वाराणसी 2-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
+        "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
         "reason": "related"
       }
     ],
@@ -19500,13 +19500,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
-        "label": "वाराणसी सेम-डे टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
+        "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
-        "label": "वाराणसी 2-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
+        "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
         "reason": "related"
       }
     ],
@@ -22456,7 +22456,7 @@
       "clicks": 6,
       "impressions": 871,
       "position": 6.1,
-      "score": 111
+      "score": 110
     },
     "/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi": {
       "lang": "en",
@@ -25032,7 +25032,7 @@
       "clicks": 3,
       "impressions": 171,
       "position": 7.2,
-      "score": 44
+      "score": 43
     },
     "/en/city/varanasi/events/banaras-lit-fest-2026-corporate-mobility-partner": {
       "lang": "en",
@@ -25354,7 +25354,7 @@
       "clicks": 3,
       "impressions": 321,
       "position": 36.6,
-      "score": 87
+      "score": 86
     },
     "/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi": {
       "lang": "en",
@@ -25634,7 +25634,7 @@
       "clicks": 0,
       "impressions": 41,
       "position": 7.9,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/prayagraj-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -25942,7 +25942,7 @@
       "clicks": 0,
       "impressions": 21,
       "position": 5.8,
-      "score": 69
+      "score": 68
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-manikarnika-taxi": {
       "lang": "en",
@@ -26740,7 +26740,7 @@
       "clicks": 0,
       "impressions": 6,
       "position": 7.7,
-      "score": 68
+      "score": 67
     },
     "/hi/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi": {
       "lang": "hi",
@@ -27328,7 +27328,7 @@
       "clicks": 0,
       "impressions": 41,
       "position": 15.1,
-      "score": 85
+      "score": 84
     },
     "/hi/city/varanasi/taxi/gaya-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -27846,7 +27846,7 @@
       "clicks": 0,
       "impressions": 21,
       "position": 6,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-manikarnika-taxi": {
       "lang": "hi",
@@ -28448,7 +28448,7 @@
       "clicks": 0,
       "impressions": 6,
       "position": 6.2,
-      "score": 68
+      "score": 67
     },
     "/hi/city/varanasi/tour-packages/varanasi-2-day-tour": {
       "lang": "hi",
