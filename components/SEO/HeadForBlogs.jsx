@@ -42,6 +42,9 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
 
   const ogImage = toAbsoluteUrl(postData.featuredImage) || 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png'
   const safeJsonLdData = jsonLdData ? sanitizeJsonLdData(jsonLdData) : null
+  // Keep noindex strictly opt-in. A string such as "false" must never remove a
+  // public page from search results because non-empty strings are truthy.
+  const robotsContent = postData.noindex === true ? 'noindex, follow' : 'index, follow'
 
   return (
     <Head>
@@ -49,7 +52,7 @@ export default function HeadForBlogs({ postData, pageLang = 'en', pageSlug, json
       {description && <meta name="description" content={description} />}
       {keywords && <meta name="keywords" content={keywords} />}
       <meta name="author" content={author} />
-      <meta name="robots" content={postData.noindex ? 'noindex, follow' : 'index, follow'} />
+      <meta name="robots" content={robotsContent} />
       <link rel="canonical" href={canonical} />
 
       <HreflangTags pageLang={langForPath} canonical={canonical} alternates={alternateLanguages} />

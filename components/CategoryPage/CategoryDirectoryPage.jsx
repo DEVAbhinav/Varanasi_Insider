@@ -6,7 +6,9 @@ import StickyContactBar from '@/components/ServicePage/StickyContactBar';
 import SidebarBookingWidget from '@/components/BookingWidget/SidebarBookingWidget';
 import ArticleSection from '@/components/ArticleSection/ArticleSection';
 import ClusterDirectory from '@/components/ClusterDirectory/ClusterDirectory';
-import { CONTACT } from '@/lib/contact';
+import { CONTACT, getCallTelHref, getWhatsAppUrl } from '@/lib/contact';
+import { logClick } from '@/lib/logClick';
+import { Phone, MessageSquare, Car } from 'lucide-react';
 
 const SITE_BASE = 'https://www.kashitaxi.in';
 const DEFAULT_PHONE = CONTACT.callNumberRaw;
@@ -69,7 +71,7 @@ export default function CategoryDirectoryPage({ entry, allPosts }) {
       <StickyContactBar phone={phoneNumber} />
 
       <main>
-        <header className="bg-slate-50 py-10">
+        <header className="bg-slate-50 py-10 border-b border-slate-200">
           <div className="container mx-auto px-4 text-center lg:text-left">
             {headerEyebrow && (
               <p className="text-sm font-semibold uppercase tracking-wide text-cyan-600">
@@ -83,6 +85,41 @@ export default function CategoryDirectoryPage({ entry, allPosts }) {
               <p className="mt-4 max-w-3xl text-base text-slate-600">
                 {description}
               </p>
+            )}
+
+            {/* High-Conversion Fast Actions for Taxi Directory */}
+            {entry.category === 'taxi' && (
+              <div className="mt-6 flex flex-wrap items-center justify-center gap-3 lg:justify-start">
+                <a
+                  href={getCallTelHref(phoneNumber)}
+                  onClick={() => logClick('CALL')}
+                  data-cta-id="taxi_directory_call"
+                  data-cta-location="category_header"
+                  className="inline-flex items-center gap-2 rounded-xl bg-slate-900 px-5 py-3 text-sm font-bold text-white shadow-md hover:bg-slate-800 transition"
+                >
+                  <Phone className="h-4 w-4 text-cyan-400" />
+                  Call for Taxi (24×7)
+                </a>
+                <a
+                  href={getWhatsAppUrl('Hi, I need a taxi quote in Varanasi. Pickup: __, Drop: __, Date: __.')}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() => logClick('WHATSAPP')}
+                  data-cta-id="taxi_directory_whatsapp"
+                  data-cta-location="category_header"
+                  className="inline-flex items-center gap-2 rounded-xl bg-emerald-600 px-5 py-3 text-sm font-bold text-white shadow-md hover:bg-emerald-700 transition"
+                >
+                  <MessageSquare className="h-4 w-4" />
+                  WhatsApp Route Quote
+                </a>
+                <a
+                  href="/varanasi-taxi-service"
+                  className="inline-flex items-center gap-2 rounded-xl border border-cyan-300 bg-cyan-50 px-5 py-3 text-sm font-bold text-cyan-900 hover:bg-cyan-100 transition shadow-sm"
+                >
+                  <Car className="h-4 w-4 text-cyan-700" />
+                  Varanasi Taxi Service (City Fleet) →
+                </a>
+              </div>
             )}
           </div>
         </header>

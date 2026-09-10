@@ -18,7 +18,7 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         '@type': ['LocalBusiness', 'TravelAgency'],
         '@id': `${site}/banaras-travel-agency/#org`,
         name: 'Banaras Travel Agency | Kashi Taxi',
-        alternateName: ['Varanasi Travel Agency', 'Banaras Tour Operator', 'Kashi Taxi Tours'],
+        alternateName: ['Banaras Tour Operator', 'Kashi Taxi Tours', 'Banaras Travel Desk'],
         url: `${site}/banaras-travel-agency`,
         logo: `https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg`,
         image: [`https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-hero.png`, `https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg`],
@@ -179,7 +179,7 @@ export default function BanarasTravelAgencyPage({ contentHtml }) {
         />
         <meta
           name="keywords"
-          content="banaras travel agency, varanasi travel agency, kashi taxi, varanasi tours, banaras tour packages, kashi darshan, varanasi airport transfer, tempo traveller varanasi"
+          content="banaras travel agency, banaras tour packages, kashi taxi, banaras tours, kashi darshan, varanasi airport transfer, tempo traveller banaras"
         />
         <meta property="og:title" content="Best Banaras Travel Agency | Expert Tours & Packages" />
         <meta

@@ -5,8 +5,8 @@ date: "2026-07-15"
 lastUpdated: "2026-08-02"
 author: "Varanasi Insider Team"
 lang: en
-metaTitle: "Varanasi Taxi Service | Local & Outstation Cabs from ₹12/km"
-metaDescription: "Top-rated taxi service in Varanasi. Local city tour, airport drop (₹899), Prayagraj & Ayodhya trips. Reliable AC cabs with instant booking: 99354 74730."
+metaTitle: "Varanasi Taxi Routes, Transfers & Fare Directory | Kashi Taxi"
+metaDescription: "Directory of Varanasi taxi routes, fixed fares, airport transfers (₹899), local ghat cabs and outstation trips. Compare route options or book instantly: 99354 74730."
 description: "Choose the correct taxi page for an airport or station pickup, local ride, one-way outstation drop, return journey, or night booking."
 eyebrow: "Taxi Route Directory"
 clusterTitle: "Find the Right Taxi Page"
@@ -31,7 +31,7 @@ tabs:
 
 # Varanasi Taxi Routes, Transfers & Fare Guides
 
-> **Quick answer:** Use this directory when you already know you need transport. Choose airport/station, local, outstation or night service, then open the focused route page. For a direct general booking, use the main [taxi service in Varanasi](/).
+> **Direct City Taxi Booking:** For immediate 24×7 cab booking, fixed airport pickups (₹899), or local sightseeing, use our official [Varanasi Taxi Service](/varanasi-taxi-service) brand page. Use this directory to browse specific intercity route guides, distances, and toll assumptions.
 
 ## Taxi Need or Tour Package?
 

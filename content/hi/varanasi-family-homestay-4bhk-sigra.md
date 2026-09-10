@@ -5,6 +5,7 @@ date: "2026-07-03"
 lastUpdated: "2026-08-23"
 author: "Varanasi Insider Team"
 lang: hi
+noindex: false
 metaTitle: "वाराणसी कैंट स्टेशन व रुद्राक्ष सेंटर के पास 4BHK होमस्टे | सिगरा"
 metaDescription: "शास्त्री नगर, सिगरा, वाराणसी में 4BHK फैमिली होमस्टे — कैंट स्टेशन से 500 मी, रुद्राक्ष कन्वेंशन सेंटर से 800 मी, दशाश्वमेध घाट से 2.8 किमी। 10 लोग, 4 एसी कमरे, मॉड्यूलर किचन, कार पार्किंग।"
 description: "सेंट्रल सिगरा (शास्त्री नगर), वाराणसी में परिवार और 10 लोगों तक के लिए पूरा 4BHK फ्लैट। कैंट रेलवे स्टेशन और रुद्राक्ष कन्वेंशन सेंटर से पैदल दूरी, दशाश्वमेध घाट व काशी विश्वनाथ 10 मिनट। मॉड्यूलर रसोई, बालकनी व पार्किंग।"
@@ -205,4 +206,3 @@ faqSchema:
   <div style="font-size:15px;opacity:0.95;margin-bottom:14px;">सेंट्रल सिगरा · कैंट स्टेशन से 5 मिनट पैदल · 10 लोग · 4 AC कमरे</div>
   <a href="https://wa.me/919935474730?text=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C%20%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%A8%E0%A4%97%E0%A4%B0%20%E0%A4%B8%E0%A4%BF%E0%A4%97%E0%A4%B0%E0%A4%BE%20%E0%A4%95%E0%A5%87%204BHK%20%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%89%E0%A4%AA%E0%A4%B2%E0%A4%AC%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BE%20%E0%A4%9A%E0%A5%87%E0%A4%95%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%88" style="display:block;text-align:center;background:#ffffff;color:#0369a1;font-weight:800;font-size:17px;padding:14px 18px;border-radius:9999px;text-decoration:none;">WhatsApp पर संदेश करें →</a>
 </div>
-

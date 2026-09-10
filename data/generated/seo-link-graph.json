@@ -2,7 +2,7 @@
   "gscDate": "2026-07-30",
   "gscMatched": 559,
   "gscAnchorMatched": 19,
-  "totalNodes": 622,
+  "totalNodes": 626,
   "footer": {
     "en": [
       {
@@ -19,6 +19,10 @@
         "id": "taxi-services",
         "title": "Taxi Services in Varanasi",
         "links": [
+          {
+            "href": "/varanasi-taxi-service",
+            "label": "Varanasi Taxi Service (24×7 City Cabs)"
+          },
           {
             "href": "/",
             "label": "Taxi & Cab Service in Varanasi"
@@ -116,6 +120,10 @@
             "label": "Banaras Tour Package"
           },
           {
+            "href": "/varanasi-travel-agency",
+            "label": "Varanasi Travel Agency Desk"
+          },
+          {
             "href": "/en/kashi-gaya-prayag-pind-daan-tour",
             "label": "Kashi Gaya Prayag Pind Daan Tour Package from…"
           },
@@ -126,10 +134,6 @@
           {
             "href": "/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly",
             "label": "Varanasi Gaya Tour Package"
-          },
-          {
-            "href": "/en/ayodhya-varanasi-prayagraj-group-tour-package",
-            "label": "Ayodhya Varanasi Prayagraj Group Tour Package 2026"
           }
         ]
       },
@@ -316,6 +320,10 @@
           {
             "href": "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare",
             "label": "वाराणसी से Ayodhya टैक्सी व कैब किराया 2026"
+          },
+          {
+            "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
+            "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026"
           }
         ]
       },
@@ -390,12 +398,12 @@
             "label": "दिव्य धाम यात्रा"
           },
           {
-            "href": "/hi/services/varanasi-ayodhya-tour-package",
-            "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से"
+            "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+            "label": "गोल्डन ट्रायंगल टूर"
           },
           {
-            "href": "/hi/services/varanasi-prayagraj-tour-package",
-            "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से"
+            "href": "/hi/services/varanasi-ayodhya-tour-package",
+            "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से"
           }
         ]
       },
@@ -420,24 +428,24 @@
             "label": "वाराणसी से नेपाल टैक्सी"
           },
           {
-            "href": "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare",
-            "label": "वाराणसी से Jaunpur टैक्सी व कैब किराया 2026"
+            "href": "/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
+            "label": "वाराणसी से काठमांडू टैक्सी"
           },
           {
             "href": "/hi/city/varanasi/taxi/varanasi-to-gaya-taxi-fare",
             "label": "वाराणसी से Gaya टैक्सी व कैब किराया 2026"
           },
           {
-            "href": "/hi/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
-            "label": "वाराणसी से काठमांडू टैक्सी"
-          },
-          {
             "href": "/hi/city/varanasi/taxi/azamgarh-to-varanasi-taxi-fare",
             "label": "Azamgarh से वाराणसी टैक्सी व कैब किराया 2026"
           },
           {
-            "href": "/hi/city/varanasi/taxi/varanasi-airport-to-namo-ghat-taxi",
-            "label": "नमो घाट टैक्सी VNS एयरपोर्ट से"
+            "href": "/hi/varanasi-to-bodhgaya-taxi-cost",
+            "label": "वाराणसी से बोधगया टैक्सी 2026"
+          },
+          {
+            "href": "/hi/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi",
+            "label": "मिर्जापुर/विंध्याचल टैक्सी VNS एयरपोर्ट से"
           }
         ]
       },
@@ -474,8 +482,8 @@
             "label": "वाराणसी से विंध्याचल Tempo Traveller"
           },
           {
-            "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-            "label": "Tempo Traveller बनाम कई कारें"
+            "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+            "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज"
           }
         ]
       },
@@ -497,7 +505,7 @@
           },
           {
             "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-            "label": "काशी तमिल संगमम: 2026 स्थिति"
+            "label": "काशी तमिल संगमम"
           },
           {
             "href": "/hi/varanasi-sunrise-time",
@@ -607,6 +615,10 @@
           "label": "Varanasi Tour Package 2026"
         },
         {
+          "href": "/varanasi-travel-agency",
+          "label": "Varanasi Travel Agency"
+        },
+        {
           "href": "/en/packages/varanasi-boat-ride-booking",
           "label": "Varanasi Private Boat Ride Booking 2026"
         },
@@ -616,6 +628,10 @@
         }
       ],
       "taxi": [
+        {
+          "href": "/varanasi-taxi-service",
+          "label": "Varanasi Taxi Service"
+        },
         {
           "href": "/",
           "label": "Taxi Service in Varanasi"
@@ -1631,7 +1647,7 @@
       },
       {
         "href": "/en/nag-nathaiya-festival-varanasi-2026",
-        "label": "Nag Nathaiya Festival 2026 (Lakkha Mela) Tulsi Ghat…",
+        "label": "Nag Nathaiya Festival 2026 at Tulsi Ghat",
         "reason": "related"
       }
     ],
@@ -3668,13 +3684,13 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       },
       {
@@ -4096,6 +4112,38 @@
       {
         "href": "/en/guide-to-10-most-important-ghats-of-varanasi",
         "label": "10 Most Important Varanasi Ghats",
+        "reason": "related"
+      }
+    ],
+    "/en/varanasi-taxi-service": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/varanasi-to-prayagraj-taxi",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
+        "label": "Varanasi to Nepal Taxi Fare from ₹8,500",
+        "reason": "related"
+      },
+      {
+        "href": "/en/varanasi-to-vindhyachal-taxi",
+        "label": "Varanasi to Vindhyachal Distance 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "reason": "related"
+      },
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
         "reason": "related"
       }
     ],
@@ -4921,17 +4969,49 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       }
     ],
     "/en/varanasi-transport-price-guide-2026": [
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
+        "reason": "book"
+      },
+      {
+        "href": "/en/packages/varanasi-tour-package",
+        "label": "Varanasi Tour Package 2026",
+        "reason": "book"
+      },
+      {
+        "href": "/en/varanasi-weather-guide",
+        "label": "Varanasi Weather Guide",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/kashi-vs-varanasi-vs-banaras",
+        "label": "Kashi vs Varanasi vs Banaras",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/jagannath-rath-yatra-varanasi-2026",
+        "label": "Jagannath Rath Yatra in Varanasi, 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/en/sarnath-timing-visit-guide",
+        "label": "Sarnath Temple Timing 2026",
+        "reason": "related"
+      }
+    ],
+    "/en/varanasi-travel-agency": [
       {
         "href": "/",
         "label": "Taxi Service in Varanasi",
@@ -5108,13 +5188,13 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       },
       {
@@ -5413,13 +5493,13 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       },
       {
@@ -5445,13 +5525,13 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       },
       {
@@ -5546,13 +5626,13 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       }
     ],
@@ -5578,13 +5658,13 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       }
     ],
@@ -5610,13 +5690,13 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       }
     ],
@@ -5642,13 +5722,13 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       }
     ],
@@ -5664,13 +5744,13 @@
         "reason": "rescue"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       },
       {
@@ -6186,13 +6266,13 @@
         "reason": "related"
       },
       {
-        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
-        "label": "Varanasi Stay Booking",
+        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
+        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
         "reason": "related"
       },
       {
-        "href": "/en/services/budget-hotels-near-kashi-vishwanath-godowlia",
-        "label": "Budget Hotels Near Kashi Vishwanath & Godowlia,…",
+        "href": "/en/services/varanasi-dormitory-budget-homestay-booking",
+        "label": "Varanasi Stay Booking",
         "reason": "related"
       }
     ],
@@ -6282,13 +6362,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -6314,13 +6394,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -6346,13 +6426,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -6447,8 +6527,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -6474,13 +6554,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-prayagraj-tour-package",
-        "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
+        "href": "/hi/services/varanasi-ayodhya-tour-package",
+        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
       }
     ],
@@ -7141,6 +7221,11 @@
         "reason": "related"
       },
       {
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
+        "reason": "related"
+      },
+      {
         "href": "/hi/services/varanasi-ayodhya-tour-package",
         "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
@@ -7148,11 +7233,6 @@
       {
         "href": "/hi/services/varanasi-prayagraj-tour-package",
         "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
-        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -7183,8 +7263,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -7274,13 +7354,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-prayagraj-tour-package",
-        "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
+        "href": "/hi/services/varanasi-ayodhya-tour-package",
+        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
       }
     ],
@@ -7818,13 +7898,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-prayagraj-tour-package",
-        "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
+        "href": "/hi/services/varanasi-ayodhya-tour-package",
+        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
       }
     ],
@@ -7909,6 +7989,11 @@
         "reason": "related"
       },
       {
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
         "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
@@ -7916,11 +8001,6 @@
       {
         "href": "/hi/varanasi-to-gaya-tempo-traveller",
         "label": "वाराणसी से गया Tempo Traveller",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
-        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       }
     ],
@@ -7946,13 +8026,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -7978,13 +8058,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -8010,13 +8090,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
-        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
+        "href": "/hi/varanasi-to-gaya-tempo-traveller",
+        "label": "वाराणसी से गया Tempo Traveller",
         "reason": "related"
       }
     ],
@@ -8047,8 +8127,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -8266,13 +8346,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -8426,13 +8506,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-prayagraj-tour-package",
-        "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
+        "href": "/hi/services/varanasi-ayodhya-tour-package",
+        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
       }
     ],
@@ -8842,13 +8922,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -8879,8 +8959,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       }
     ],
@@ -8911,8 +8991,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       }
     ],
@@ -8975,8 +9055,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       }
     ],
@@ -9034,13 +9114,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9061,6 +9141,11 @@
         "reason": "related"
       },
       {
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
         "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
@@ -9068,11 +9153,6 @@
       {
         "href": "/hi/varanasi-to-gaya-tempo-traveller",
         "label": "वाराणसी से गया Tempo Traveller",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
-        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       }
     ],
@@ -9098,13 +9178,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-prayagraj-tour-package",
-        "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
+        "href": "/hi/services/varanasi-ayodhya-tour-package",
+        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
       }
     ],
@@ -9130,13 +9210,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
-        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9162,13 +9242,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9221,6 +9301,11 @@
         "reason": "related"
       },
       {
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
         "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
@@ -9228,11 +9313,6 @@
       {
         "href": "/hi/varanasi-to-gaya-tempo-traveller",
         "label": "वाराणसी से गया Tempo Traveller",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
-        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       }
     ],
@@ -9258,13 +9338,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9322,13 +9402,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9354,13 +9434,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9391,8 +9471,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       }
     ],
@@ -9450,13 +9530,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9546,13 +9626,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-lucknow-tempo-traveller",
+        "label": "वाराणसी से लखनऊ Tempo Traveller पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9578,13 +9658,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-prayagraj-tour-package",
-        "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
+        "href": "/hi/services/varanasi-ayodhya-tour-package",
+        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
       }
     ],
@@ -9615,8 +9695,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -9669,6 +9749,11 @@
         "reason": "related"
       },
       {
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
+        "reason": "related"
+      },
+      {
         "href": "/hi/services/varanasi-ayodhya-tour-package",
         "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
@@ -9676,11 +9761,6 @@
       {
         "href": "/hi/services/varanasi-prayagraj-tour-package",
         "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
-        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -9935,8 +10015,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -9967,8 +10047,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -9994,13 +10074,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-prayagraj-tour-package",
-        "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
+        "href": "/hi/services/varanasi-ayodhya-tour-package",
+        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
       }
     ],
@@ -10031,8 +10111,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -10186,13 +10266,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-prayagraj-tour-package",
-        "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
+        "href": "/hi/services/varanasi-ayodhya-tour-package",
+        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
       }
     ],
@@ -10575,8 +10655,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-prayagraj-tour-package",
-        "label": "वाराणसी प्रयागराज टूर पैकेज (1रात/2दिन) ₹3,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -10634,13 +10714,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       },
       {
-        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
-        "label": "गोल्डन ट्रायंगल टूर",
+        "href": "/hi/services/varanasi-ayodhya-tour-package",
+        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
         "reason": "related"
       }
     ],
@@ -11467,12 +11547,12 @@
       },
       {
         "href": "/en/city/prayagraj/events/safe-taxi-magh-mela-seniors-families",
-        "label": "Safe Taxi Travel for Seniors & Families to Magh Mela",
+        "label": "Prayagraj Mela Travel for Seniors & Families",
         "reason": "related"
       },
       {
         "href": "/en/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking",
-        "label": "Book Your Taxi from Varanasi to Prayagraj for Magh…",
+        "label": "Varanasi to Prayagraj Magh Mela 2026 Taxi",
         "reason": "related"
       }
     ],
@@ -11489,12 +11569,12 @@
       },
       {
         "href": "/en/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking",
-        "label": "Book Your Taxi from Varanasi to Prayagraj for Magh…",
+        "label": "Varanasi to Prayagraj Magh Mela 2026 Taxi",
         "reason": "related"
       },
       {
         "href": "/en/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi",
-        "label": "Magh Mela 2026 Complete Travel Guide",
+        "label": "Prayagraj Magh Mela 2026",
         "reason": "related"
       },
       {
@@ -11521,12 +11601,12 @@
       },
       {
         "href": "/en/city/prayagraj/events/safe-taxi-magh-mela-seniors-families",
-        "label": "Safe Taxi Travel for Seniors & Families to Magh Mela",
+        "label": "Prayagraj Mela Travel for Seniors & Families",
         "reason": "related"
       },
       {
         "href": "/en/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi",
-        "label": "Magh Mela 2026 Complete Travel Guide",
+        "label": "Prayagraj Magh Mela 2026",
         "reason": "related"
       },
       {
@@ -12622,13 +12702,13 @@
     ],
     "/en/city/varanasi/taxi/how-to-reach-tent-city-varanasi": [
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/varanasi-taxi-service",
+        "label": "Varanasi Taxi Service",
         "reason": "book"
       },
       {
-        "href": "/en/17-seater-tempo-traveller-varanasi",
-        "label": "Tempo Traveller 17 Seater in Varanasi Price",
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
         "reason": "book"
       },
       {
@@ -12846,13 +12926,13 @@
     ],
     "/en/city/varanasi/taxi/manikarnika-ghat-cremation-guide": [
       {
-        "href": "/",
-        "label": "Taxi Service in Varanasi",
+        "href": "/varanasi-taxi-service",
+        "label": "Varanasi Taxi Service",
         "reason": "book"
       },
       {
-        "href": "/en/17-seater-tempo-traveller-varanasi",
-        "label": "Tempo Traveller 17 Seater in Varanasi Price",
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
         "reason": "book"
       },
       {
@@ -14963,8 +15043,8 @@
         "reason": "book"
       },
       {
-        "href": "/en/packages/varanasi-boat-ride-booking",
-        "label": "Varanasi Boat Booking",
+        "href": "/varanasi-travel-agency",
+        "label": "Varanasi Travel Agency",
         "reason": "book"
       },
       {
@@ -15271,8 +15351,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/services/varanasi-ayodhya-tour-package",
-        "label": "वाराणसी अयोध्या टूर पैकेज (2रात/3दिन) ₹5,499 से",
+        "href": "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package",
+        "label": "गोल्डन ट्रायंगल टूर",
         "reason": "related"
       }
     ],
@@ -15929,12 +16009,12 @@
       },
       {
         "href": "/hi/city/prayagraj/events/safe-taxi-magh-mela-seniors-families",
-        "label": "बुज़ुर्गों व परिवारों के लिए सुरक्षित माघ मेला…",
+        "label": "प्रयागराज मेला यात्रा",
         "reason": "related"
       },
       {
         "href": "/hi/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking",
-        "label": "वाराणसी से प्रयागराज माघ मेला 2026 टैक्सी बुकिंग",
+        "label": "वाराणसी से प्रयागराज माघ मेला 2026 टैक्सी",
         "reason": "related"
       },
       {
@@ -15944,7 +16024,7 @@
       },
       {
         "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम: 2026 स्थिति",
+        "label": "काशी तमिल संगमम",
         "reason": "related"
       }
     ],
@@ -15956,12 +16036,12 @@
       },
       {
         "href": "/hi/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking",
-        "label": "वाराणसी से प्रयागराज माघ मेला 2026 टैक्सी बुकिंग",
+        "label": "वाराणसी से प्रयागराज माघ मेला 2026 टैक्सी",
         "reason": "related"
       },
       {
         "href": "/hi/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi",
-        "label": "माघ मेला 2026 संपूर्ण यात्रा गाइड",
+        "label": "माघ मेला 2026 प्रयागराज",
         "reason": "related"
       },
       {
@@ -15971,7 +16051,7 @@
       },
       {
         "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम: 2026 स्थिति",
+        "label": "काशी तमिल संगमम",
         "reason": "related"
       },
       {
@@ -15993,12 +16073,12 @@
       },
       {
         "href": "/hi/city/prayagraj/events/safe-taxi-magh-mela-seniors-families",
-        "label": "बुज़ुर्गों व परिवारों के लिए सुरक्षित माघ मेला…",
+        "label": "प्रयागराज मेला यात्रा",
         "reason": "related"
       },
       {
         "href": "/hi/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi",
-        "label": "माघ मेला 2026 संपूर्ण यात्रा गाइड",
+        "label": "माघ मेला 2026 प्रयागराज",
         "reason": "related"
       },
       {
@@ -16008,7 +16088,7 @@
       },
       {
         "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम: 2026 स्थिति",
+        "label": "काशी तमिल संगमम",
         "reason": "related"
       }
     ],
@@ -16158,7 +16238,7 @@
       },
       {
         "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम: 2026 स्थिति",
+        "label": "काशी तमिल संगमम",
         "reason": "related"
       },
       {
@@ -16227,7 +16307,7 @@
       },
       {
         "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम: 2026 स्थिति",
+        "label": "काशी तमिल संगमम",
         "reason": "related"
       },
       {
@@ -16259,7 +16339,7 @@
       },
       {
         "href": "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi",
-        "label": "काशी तमिल संगमम: 2026 स्थिति",
+        "label": "काशी तमिल संगमम",
         "reason": "related"
       },
       {
@@ -19159,6 +19239,11 @@
         "reason": "related"
       },
       {
+        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
+        "label": "वाराणसी सेम-डे टूर पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
         "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
@@ -19166,11 +19251,6 @@
       {
         "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
         "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
-        "label": "वाराणसी सेम-डे टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -19186,23 +19266,23 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
-        "reason": "related"
-      },
-      {
         "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
         "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
-        "label": "वाराणसी 2-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
         "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
         "label": "वाराणसी सेम-डे टूर पैकेज",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
+        "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -19223,6 +19303,11 @@
         "reason": "related"
       },
       {
+        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
+        "label": "वाराणसी सेम-डे टूर पैकेज",
+        "reason": "related"
+      },
+      {
         "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
         "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
@@ -19230,11 +19315,6 @@
       {
         "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
         "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
-        "label": "वाराणसी सेम-डे टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -19250,13 +19330,13 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
@@ -19282,23 +19362,23 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
-        "reason": "related"
-      },
-      {
         "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
         "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
-        "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
         "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
         "label": "वाराणसी सेम-डे टूर पैकेज",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
+        "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
         "reason": "related"
       }
     ],
@@ -19314,23 +19394,23 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
-        "reason": "related"
-      },
-      {
         "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
         "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
-        "label": "वाराणसी 2-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
-        "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
+        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
+        "label": "वाराणसी सेम-डे टूर पैकेज",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
+        "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -19346,23 +19426,23 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
-        "reason": "related"
-      },
-      {
         "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
         "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
-        "label": "वाराणसी 2-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour",
-        "label": "अयोध्या-वाराणसी टूर पैकेज 3 दिन",
+        "href": "/hi/city/varanasi/tour-packages/same-day-varanasi-tour",
+        "label": "वाराणसी सेम-डे टूर पैकेज",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/city/varanasi/tour-packages/varanasi-2-day-tour",
+        "label": "वाराणसी 2-दिन टूर पैकेज",
         "reason": "related"
       }
     ],
@@ -19685,6 +19765,70 @@
         "label": "Taxi Service in Varanasi",
         "reason": "related"
       }
+    ],
+    "/varanasi-taxi-service": [
+      {
+        "href": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+        "label": "Varanasi to Gaya Taxi Service",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/varanasi-to-prayagraj-taxi",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/city/nepal/taxi/varanasi-to-nepal-taxi",
+        "label": "Varanasi to Nepal Taxi Fare from ₹8,500",
+        "reason": "related"
+      },
+      {
+        "href": "/en/varanasi-to-vindhyachal-taxi",
+        "label": "Varanasi to Vindhyachal Distance 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi",
+        "label": "Varanasi to Kathmandu Taxi Fare from ₹10,700",
+        "reason": "related"
+      },
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/varanasi-travel-agency": [
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
+        "reason": "book"
+      },
+      {
+        "href": "/en/packages/varanasi-tour-package",
+        "label": "Varanasi Tour Package 2026",
+        "reason": "book"
+      },
+      {
+        "href": "/en/varanasi-weather-guide",
+        "label": "Varanasi Weather Guide",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/kashi-vs-varanasi-vs-banaras",
+        "label": "Kashi vs Varanasi vs Banaras",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/jagannath-rath-yatra-varanasi-2026",
+        "label": "Jagannath Rath Yatra in Varanasi, 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/en/sarnath-timing-visit-guide",
+        "label": "Sarnath Temple Timing 2026",
+        "reason": "related"
+      }
     ]
   },
   "index": {
@@ -19714,7 +19858,7 @@
       "clicks": 14,
       "impressions": 350,
       "position": 7,
-      "score": 133
+      "score": 132
     },
     "/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi": {
       "lang": "en",
@@ -19728,11 +19872,11 @@
       "clicks": 2,
       "impressions": 212,
       "position": 8.3,
-      "score": 96
+      "score": 95
     },
     "/en/about": {
       "lang": "en",
-      "title": "About Kashi Taxi: Trusted Varanasi Taxis (2026)",
+      "title": "About Kashi Taxi: Family-Run Cab Network (Est. 1982)",
       "anchor": "About Kashi Taxi",
       "category": "company",
       "productType": "company",
@@ -19756,7 +19900,7 @@
       "clicks": 26,
       "impressions": 4964,
       "position": 6.9,
-      "score": 232
+      "score": 231
     },
     "/en/assi-ghat-aarti-timings-2026": {
       "lang": "en",
@@ -19770,7 +19914,7 @@
       "clicks": 124,
       "impressions": 11790,
       "position": 4.9,
-      "score": 726
+      "score": 725
     },
     "/en/assi-ghat-evening-aarti-time": {
       "lang": "en",
@@ -19784,7 +19928,7 @@
       "clicks": 0,
       "impressions": 280,
       "position": 18.7,
-      "score": 45
+      "score": 44
     },
     "/en/assi-ghat-morning-aarti-time": {
       "lang": "en",
@@ -19812,7 +19956,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 29
+      "score": 28
     },
     "/en/assi-ghat-to-airport-taxi": {
       "lang": "en",
@@ -19910,7 +20054,7 @@
       "clicks": 18,
       "impressions": 4356,
       "position": 4.1,
-      "score": 188
+      "score": 189
     },
     "/en/bharat-milap-nati-imli": {
       "lang": "en",
@@ -19924,7 +20068,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 29
+      "score": 30
     },
     "/en/boat-ride-varanasi": {
       "lang": "en",
@@ -19952,7 +20096,7 @@
       "clicks": 0,
       "impressions": 20,
       "position": 14.2,
-      "score": 84
+      "score": 83
     },
     "/en/book-taxi-varanasi-ramlila-dussehra": {
       "lang": "en",
@@ -19966,7 +20110,7 @@
       "clicks": 0,
       "impressions": 5,
       "position": 21.2,
-      "score": 69
+      "score": 70
     },
     "/en/buddhist-circuit-tour-tempo-traveller-varanasi": {
       "lang": "en",
@@ -19984,8 +20128,8 @@
     },
     "/en/contact": {
       "lang": "en",
-      "title": "Contact Kashi Taxi (24×7 Varanasi Taxi Service)",
-      "anchor": "Contact Kashi Taxi (24×7 Varanasi Taxi Service)",
+      "title": "Contact Kashi Taxi | 24×7 Helpline & Office Address",
+      "anchor": "Contact Kashi Taxi",
       "category": "company",
       "productType": "company",
       "destination": null,
@@ -19994,7 +20138,7 @@
       "clicks": 5,
       "impressions": 156,
       "position": 7.3,
-      "score": 52
+      "score": 51
     },
     "/en/corporate-group-tempo-traveller-varanasi": {
       "lang": "en",
@@ -20008,7 +20152,7 @@
       "clicks": 0,
       "impressions": 4,
       "position": 6.8,
-      "score": 69
+      "score": 68
     },
     "/en/dashashwamedh-ghat-ganga-aarti-timing": {
       "lang": "en",
@@ -20036,7 +20180,7 @@
       "clicks": 3,
       "impressions": 439,
       "position": 6.9,
-      "score": 49
+      "score": 51
     },
     "/en/dev-deepawali-best-viewing-spots-varanasi": {
       "lang": "en",
@@ -20050,7 +20194,7 @@
       "clicks": 1,
       "impressions": 75,
       "position": 4.8,
-      "score": 34
+      "score": 35
     },
     "/en/dev-deepawali-boat-ride-pricing-guide-2026": {
       "lang": "en",
@@ -20064,7 +20208,7 @@
       "clicks": 2,
       "impressions": 196,
       "position": 12.1,
-      "score": 96
+      "score": 97
     },
     "/en/dev-deepawali-crowd-survival-guide-varanasi": {
       "lang": "en",
@@ -20092,7 +20236,7 @@
       "clicks": 0,
       "impressions": 16,
       "position": 18.7,
-      "score": 44
+      "score": 43
     },
     "/en/dussehra-ravana-dahan-varanasi": {
       "lang": "en",
@@ -20106,7 +20250,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 29
+      "score": 30
     },
     "/en/evening-boat-ride-varanasi-ganga-aarti": {
       "lang": "en",
@@ -20120,7 +20264,7 @@
       "clicks": 6,
       "impressions": 418,
       "position": 8.8,
-      "score": 116
+      "score": 115
     },
     "/en/family-tour-varanasi-3-days-parents": {
       "lang": "en",
@@ -20162,12 +20306,12 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/ganga-mahotsav-2026-classical-festival-varanasi": {
       "lang": "en",
-      "title": "Ganga Mahotsav 2026 Varanasi: November 20-23 Programme Status",
-      "anchor": "Ganga Mahotsav 2026 November 20-23",
+      "title": "Ganga Mahotsav 2026 Varanasi: November 20–23 Planning Guide",
+      "anchor": "Ganga Mahotsav 2026 Varanasi",
       "category": "cultural festivals",
       "productType": "guide",
       "destination": null,
@@ -20190,7 +20334,7 @@
       "clicks": 24,
       "impressions": 4212,
       "position": 7.3,
-      "score": 209
+      "score": 208
     },
     "/en/guide-to-ghats-of-varanasi": {
       "lang": "en",
@@ -20204,7 +20348,7 @@
       "clicks": 2,
       "impressions": 427,
       "position": 7.3,
-      "score": 41
+      "score": 40
     },
     "/en/hand-boat-ride-varanasi": {
       "lang": "en",
@@ -20232,7 +20376,7 @@
       "clicks": 0,
       "impressions": 4,
       "position": 8,
-      "score": 40
+      "score": 45
     },
     "/en/how-many-days-in-varanasi": {
       "lang": "en",
@@ -20246,7 +20390,7 @@
       "clicks": 3,
       "impressions": 702,
       "position": 5.3,
-      "score": 50
+      "score": 49
     },
     "/en/how-to-reach-varanasi": {
       "lang": "en",
@@ -20316,7 +20460,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 24
+      "score": 23
     },
     "/en/kanwar-yatra-varanasi-2026-traffic-guide": {
       "lang": "en",
@@ -20330,7 +20474,7 @@
       "clicks": 15,
       "impressions": 1470,
       "position": 6.9,
-      "score": 115
+      "score": 114
     },
     "/en/kashi-darshan-tempo-traveller": {
       "lang": "en",
@@ -20344,7 +20488,7 @@
       "clicks": 1,
       "impressions": 49,
       "position": 6.6,
-      "score": 74
+      "score": 73
     },
     "/en/kashi-gaya-prayag-pind-daan-tour": {
       "lang": "en",
@@ -20400,7 +20544,7 @@
       "clicks": 6,
       "impressions": 765,
       "position": 8.6,
-      "score": 83
+      "score": 82
     },
     "/en/kashi-vs-varanasi-vs-banaras": {
       "lang": "en",
@@ -20414,7 +20558,7 @@
       "clicks": 2,
       "impressions": 1620,
       "position": 8.6,
-      "score": 84
+      "score": 83
     },
     "/en/kasi-tour-package": {
       "lang": "en",
@@ -20442,11 +20586,11 @@
       "clicks": 2,
       "impressions": 142,
       "position": 6.4,
-      "score": 36
+      "score": 35
     },
     "/en/lolark-shashti-lolark-kund-varanasi-guide": {
       "lang": "en",
-      "title": "Lolark Shashti & Lolark Kund, Varanasi (Provisional 17 September 2026 Guide)",
+      "title": "Lolark Shashti & Lolark Kund, Varanasi (Fertility Ritual Guide, 17 September 2026)",
       "anchor": "Lolark Shashti & Lolark Kund, Varanasi (Fertility…",
       "category": "guide",
       "productType": "guide",
@@ -20456,7 +20600,7 @@
       "clicks": 50,
       "impressions": 1634,
       "position": 3.1,
-      "score": 261
+      "score": 262
     },
     "/en/lucknow-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -20470,7 +20614,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/luxury-maharaja-tempo-traveller-varanasi": {
       "lang": "en",
@@ -20512,7 +20656,7 @@
       "clicks": 2,
       "impressions": 156,
       "position": 8,
-      "score": 55
+      "score": 54
     },
     "/en/manikarnika-ghat-sacred-cremation-grounds": {
       "lang": "en",
@@ -20568,12 +20712,12 @@
       "clicks": 0,
       "impressions": 11,
       "position": 43.6,
-      "score": 69
+      "score": 68
     },
     "/en/nag-nathaiya-festival-varanasi-2026": {
       "lang": "en",
       "title": "Nag Nathaiya Festival 2026 at Tulsi Ghat: Date Status & Travel Guide",
-      "anchor": "Nag Nathaiya Festival 2026 (Lakkha Mela) Tulsi Ghat…",
+      "anchor": "Nag Nathaiya Festival 2026 at Tulsi Ghat",
       "category": "cultural festivals",
       "productType": "guide",
       "destination": null,
@@ -20596,7 +20740,7 @@
       "clicks": 1,
       "impressions": 497,
       "position": 5.8,
-      "score": 43
+      "score": 44
     },
     "/en/navratri-pilgrimage-vindhyachal-from-varanasi-guide": {
       "lang": "en",
@@ -20610,7 +20754,7 @@
       "clicks": 7,
       "impressions": 1539,
       "position": 7.4,
-      "score": 87
+      "score": 89
     },
     "/en/nirjala-ekadashi-varanasi-2026": {
       "lang": "en",
@@ -20624,7 +20768,7 @@
       "clicks": 0,
       "impressions": 132,
       "position": 7.7,
-      "score": 28
+      "score": 27
     },
     "/en/outstation-cabs-from-varanasi": {
       "lang": "en",
@@ -20652,7 +20796,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 9.5,
-      "score": 84
+      "score": 83
     },
     "/en/pisach-mochan-kund-narayan-nag-bali-varanasi": {
       "lang": "en",
@@ -20694,7 +20838,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 3.7,
-      "score": 29
+      "score": 28
     },
     "/en/private-boat-hire-varanasi": {
       "lang": "en",
@@ -20708,12 +20852,12 @@
       "clicks": 2,
       "impressions": 61,
       "position": 13.6,
-      "score": 93
+      "score": 92
     },
     "/en/ram-rajya-finale-ramnagar-ramlila": {
       "lang": "en",
       "title": "Ramnagar Ramlila Ram Rajya Finale 2026: Date Status & Visitor Guide",
-      "anchor": "Ramnagar Ramlila Ram Rajya finale status",
+      "anchor": "Ramnagar Ramlila Ram Rajya Finale 2026",
       "category": "guide",
       "productType": "guide",
       "destination": null,
@@ -20722,12 +20866,12 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 29
+      "score": 30
     },
     "/en/ramnagar-ramlila-moving-stages-guide": {
       "lang": "en",
       "title": "Ramnagar Ramlila Moving Stages Guide 2026: Schedule Status & Navigation",
-      "anchor": "A Simple Map & Guide to Ramnagar Ramlila's 'Moving…",
+      "anchor": "Ramnagar Ramlila Moving Stages Guide 2026",
       "category": "guide",
       "productType": "guide",
       "destination": null,
@@ -20736,7 +20880,7 @@
       "clicks": 1,
       "impressions": 104,
       "position": 7,
-      "score": 35
+      "score": 36
     },
     "/en/safety-and-security-in-varanasi-guide-for-solo-travellar": {
       "lang": "en",
@@ -20750,7 +20894,7 @@
       "clicks": 22,
       "impressions": 3772,
       "position": 5,
-      "score": 192
+      "score": 193
     },
     "/en/sarnath-attractions-guide": {
       "lang": "en",
@@ -20764,7 +20908,7 @@
       "clicks": 12,
       "impressions": 2103,
       "position": 5.7,
-      "score": 119
+      "score": 118
     },
     "/en/sarnath-buddhist-temple-guide": {
       "lang": "en",
@@ -20778,7 +20922,7 @@
       "clicks": 12,
       "impressions": 1845,
       "position": 6.2,
-      "score": 114
+      "score": 113
     },
     "/en/sarnath-complete-guide": {
       "lang": "en",
@@ -20792,7 +20936,7 @@
       "clicks": 84,
       "impressions": 14233,
       "position": 5.4,
-      "score": 566
+      "score": 565
     },
     "/en/sarnath-timing-visit-guide": {
       "lang": "en",
@@ -20806,7 +20950,7 @@
       "clicks": 285,
       "impressions": 10635,
       "position": 3.5,
-      "score": 1370
+      "score": 1369
     },
     "/en/sawan-kashi-vishwanath-crowd-survival-sugam-darshan-2026": {
       "lang": "en",
@@ -20820,7 +20964,7 @@
       "clicks": 8,
       "impressions": 604,
       "position": 4.9,
-      "score": 73
+      "score": 72
     },
     "/en/sawan-somwar-kashi-vishwanath-darshan-guide-2026": {
       "lang": "en",
@@ -20834,7 +20978,7 @@
       "clicks": 17,
       "impressions": 1555,
       "position": 5.6,
-      "score": 128
+      "score": 127
     },
     "/en/senior-citizen-varanasi-tour-package": {
       "lang": "en",
@@ -20848,7 +20992,7 @@
       "clicks": 10,
       "impressions": 466,
       "position": 6.8,
-      "score": 119
+      "score": 118
     },
     "/en/shiv-baraat-viewing-guide-varanasi": {
       "lang": "en",
@@ -20862,7 +21006,7 @@
       "clicks": 1,
       "impressions": 196,
       "position": 5.8,
-      "score": 37
+      "score": 36
     },
     "/en/shivaratri-cultural-deep-dive-varanasi": {
       "lang": "en",
@@ -20890,7 +21034,7 @@
       "clicks": 1,
       "impressions": 55,
       "position": 5.6,
-      "score": 34
+      "score": 33
     },
     "/en/sunrise-boat-ride-ganges": {
       "lang": "en",
@@ -20904,7 +21048,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/tempo-traveller-booking-guide-varanasi": {
       "lang": "en",
@@ -20918,7 +21062,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/tempo-traveller-group-booking-dussehra": {
       "lang": "en",
@@ -20932,7 +21076,7 @@
       "clicks": 0,
       "impressions": 7,
       "position": 5.9,
-      "score": 69
+      "score": 70
     },
     "/en/tempo-traveller-rates-varanasi": {
       "lang": "en",
@@ -20960,7 +21104,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 5.5,
-      "score": 69
+      "score": 68
     },
     "/en/tempo-traveller-varanasi": {
       "lang": "en",
@@ -20988,7 +21132,7 @@
       "clicks": 1,
       "impressions": 111,
       "position": 7.4,
-      "score": 69
+      "score": 68
     },
     "/en/tempo-traveller-vs-multiple-cars-varanasi": {
       "lang": "en",
@@ -21002,7 +21146,7 @@
       "clicks": 0,
       "impressions": 69,
       "position": 5.9,
-      "score": 64
+      "score": 63
     },
     "/en/tempo-traveller-wedding-varanasi": {
       "lang": "en",
@@ -21016,7 +21160,7 @@
       "clicks": 0,
       "impressions": 19,
       "position": 6.1,
-      "score": 69
+      "score": 68
     },
     "/en/tour-package-from-varanasi": {
       "lang": "en",
@@ -21030,7 +21174,7 @@
       "clicks": 3,
       "impressions": 130,
       "position": 28.9,
-      "score": 79
+      "score": 78
     },
     "/en/tourist-spots-varanasi": {
       "lang": "en",
@@ -21044,7 +21188,7 @@
       "clicks": 3,
       "impressions": 1019,
       "position": 7.9,
-      "score": 56
+      "score": 62
     },
     "/en/travel-from-varanasi-to-vindhyachal-guide": {
       "lang": "en",
@@ -21072,7 +21216,7 @@
       "clicks": 9,
       "impressions": 1128,
       "position": 9.8,
-      "score": 98
+      "score": 97
     },
     "/en/trikon-parikrama-vindhyachal-complete-guide": {
       "lang": "en",
@@ -21091,7 +21235,7 @@
     "/en/ultimate-guide-ramlila-dussehra-varanasi-2026": {
       "lang": "en",
       "title": "Ramlila and Dussehra Varanasi 2026: Verified Dates & Planning Guide",
-      "anchor": "Ramlila and Dussehra Varanasi 2026 guide",
+      "anchor": "Ramlila and Dussehra Varanasi 2026",
       "category": "guide",
       "productType": "guide",
       "destination": null,
@@ -21100,7 +21244,7 @@
       "clicks": 7,
       "impressions": 861,
       "position": 6.4,
-      "score": 74
+      "score": 75
     },
     "/en/varanasi-airport-taxi-guide": {
       "lang": "en",
@@ -21114,7 +21258,7 @@
       "clicks": 8,
       "impressions": 1228,
       "position": 6.2,
-      "score": 125
+      "score": 124
     },
     "/en/varanasi-airport-taxi-price-guide": {
       "lang": "en",
@@ -21128,7 +21272,7 @@
       "clicks": 21,
       "impressions": 2175,
       "position": 6.8,
-      "score": 197
+      "score": 196
     },
     "/en/varanasi-airport-tempo-traveller": {
       "lang": "en",
@@ -21170,7 +21314,7 @@
       "clicks": 4,
       "impressions": 423,
       "position": 9.1,
-      "score": 109
+      "score": 108
     },
     "/en/varanasi-family-homestay-4bhk-sigra": {
       "lang": "en",
@@ -21184,7 +21328,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 70
+      "score": 69
     },
     "/en/varanasi-for-first-timers-guide": {
       "lang": "en",
@@ -21198,7 +21342,7 @@
       "clicks": 0,
       "impressions": 10,
       "position": 10.3,
-      "score": 39
+      "score": 38
     },
     "/en/varanasi-group-tour-package": {
       "lang": "en",
@@ -21212,7 +21356,7 @@
       "clicks": 5,
       "impressions": 163,
       "position": 11.7,
-      "score": 103
+      "score": 102
     },
     "/en/varanasi-in-april": {
       "lang": "en",
@@ -21226,7 +21370,7 @@
       "clicks": 1,
       "impressions": 186,
       "position": 7,
-      "score": 32
+      "score": 31
     },
     "/en/varanasi-in-december-2026": {
       "lang": "en",
@@ -21240,7 +21384,7 @@
       "clicks": 12,
       "impressions": 2645,
       "position": 5.8,
-      "score": 130
+      "score": 129
     },
     "/en/varanasi-in-february-2026": {
       "lang": "en",
@@ -21282,7 +21426,7 @@
       "clicks": 12,
       "impressions": 1249,
       "position": 5.5,
-      "score": 102
+      "score": 103
     },
     "/en/varanasi-in-october-2026": {
       "lang": "en",
@@ -21296,7 +21440,7 @@
       "clicks": 12,
       "impressions": 2272,
       "position": 6.4,
-      "score": 122
+      "score": 123
     },
     "/en/varanasi-instrument-market-guide": {
       "lang": "en",
@@ -21310,7 +21454,7 @@
       "clicks": 0,
       "impressions": 15,
       "position": 6.1,
-      "score": 29
+      "score": 28
     },
     "/en/varanasi-kite-wars-tourist-guide-makar-sankranti-2026": {
       "lang": "en",
@@ -21324,7 +21468,7 @@
       "clicks": 0,
       "impressions": 51,
       "position": 7,
-      "score": 30
+      "score": 29
     },
     "/en/varanasi-scams-to-avoid-2026": {
       "lang": "en",
@@ -21352,7 +21496,7 @@
       "clicks": 10,
       "impressions": 3354,
       "position": 7.7,
-      "score": 136
+      "score": 137
     },
     "/en/varanasi-summer-heatwave-travel-protocol-2026": {
       "lang": "en",
@@ -21366,7 +21510,7 @@
       "clicks": 2,
       "impressions": 182,
       "position": 8.3,
-      "score": 52
+      "score": 51
     },
     "/en/varanasi-sunrise-boat-ride-timings": {
       "lang": "en",
@@ -21382,6 +21526,20 @@
       "position": 8.5,
       "score": 87
     },
+    "/en/varanasi-taxi-service": {
+      "lang": "en",
+      "title": "Varanasi Taxi Service | Official 24×7 Cab Booking & Rates – Vinayak Travels",
+      "anchor": "Varanasi Taxi Service",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": null,
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 70
+    },
     "/en/varanasi-to-allahabad-tempo-traveller": {
       "lang": "en",
       "title": "Varanasi to Allahabad Tempo Traveller ₹8,500 | Sangam Day Trip",
@@ -21394,7 +21552,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 70
     },
     "/en/varanasi-to-ayodhya-12-seater-tempo-traveller": {
       "lang": "en",
@@ -21408,7 +21566,7 @@
       "clicks": 4,
       "impressions": 170,
       "position": 4.9,
-      "score": 88
+      "score": 87
     },
     "/en/varanasi-to-ayodhya-day-trip-tempo-traveller": {
       "lang": "en",
@@ -21422,7 +21580,7 @@
       "clicks": 1,
       "impressions": 152,
       "position": 34.8,
-      "score": 76
+      "score": 75
     },
     "/en/varanasi-to-ayodhya-taxi": {
       "lang": "en",
@@ -21464,7 +21622,7 @@
       "clicks": 10,
       "impressions": 3916,
       "position": 6.2,
-      "score": 188
+      "score": 187
     },
     "/en/varanasi-to-bodhgaya-tempo-traveller": {
       "lang": "en",
@@ -21506,7 +21664,7 @@
       "clicks": 0,
       "impressions": 15,
       "position": 8.6,
-      "score": 84
+      "score": 83
     },
     "/en/varanasi-to-gaya-tempo-traveller": {
       "lang": "en",
@@ -21548,7 +21706,7 @@
       "clicks": 6,
       "impressions": 153,
       "position": 8,
-      "score": 111
+      "score": 110
     },
     "/en/varanasi-to-naimisharanya-tempo-traveller": {
       "lang": "en",
@@ -21566,8 +21724,8 @@
     },
     "/en/varanasi-to-prayagraj-kumbh-tempo-traveller": {
       "lang": "en",
-      "title": "Varanasi to Prayagraj: Kumbh Status and Magh Travel Guide",
-      "anchor": "Varanasi to Prayagraj Kumbh status guide",
+      "title": "Varanasi to Prayagraj Tempo Traveller | Maha Kumbh Status & Magh Mela Travel",
+      "anchor": "Varanasi to Prayagraj Tempo Traveller",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -21576,7 +21734,7 @@
       "clicks": 0,
       "impressions": 16,
       "position": 9.4,
-      "score": 84
+      "score": 85
     },
     "/en/varanasi-to-prayagraj-taxi": {
       "lang": "en",
@@ -21604,7 +21762,7 @@
       "clicks": 3,
       "impressions": 131,
       "position": 7.2,
-      "score": 79
+      "score": 78
     },
     "/en/varanasi-to-ram-janmabhoomi-tempo-traveller": {
       "lang": "en",
@@ -21618,7 +21776,7 @@
       "clicks": 0,
       "impressions": 4,
       "position": 18.3,
-      "score": 84
+      "score": 83
     },
     "/en/varanasi-to-ram-mandir-tempo-traveller": {
       "lang": "en",
@@ -21632,7 +21790,7 @@
       "clicks": 0,
       "impressions": 20,
       "position": 14.6,
-      "score": 84
+      "score": 83
     },
     "/en/varanasi-to-sarnath-tempo-traveller": {
       "lang": "en",
@@ -21660,7 +21818,7 @@
       "clicks": 0,
       "impressions": 52,
       "position": 8.7,
-      "score": 85
+      "score": 84
     },
     "/en/varanasi-to-vindhyachal-itinerary": {
       "lang": "en",
@@ -21702,7 +21860,7 @@
       "clicks": 2,
       "impressions": 220,
       "position": 5.5,
-      "score": 81
+      "score": 80
     },
     "/en/varanasi-tour-package-for-families": {
       "lang": "en",
@@ -21758,7 +21916,21 @@
       "clicks": 56,
       "impressions": 3250,
       "position": 4.8,
-      "score": 319
+      "score": 318
+    },
+    "/en/varanasi-travel-agency": {
+      "lang": "en",
+      "title": "Best Travel Agency in Varanasi | Curated Tour Packages & Transparent Rates – Vinayak Travels",
+      "anchor": "Best Travel Agency in Varanasi",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
     },
     "/en/varanasi-travel-agent": {
       "lang": "en",
@@ -21772,7 +21944,7 @@
       "clicks": 3,
       "impressions": 460,
       "position": 8.5,
-      "score": 65
+      "score": 64
     },
     "/en/varanasi-weather-guide": {
       "lang": "en",
@@ -21828,7 +22000,7 @@
       "clicks": 1,
       "impressions": 33,
       "position": 7.9,
-      "score": 73
+      "score": 72
     },
     "/en/packages/lolark-shashti-darshan-package-varanasi": {
       "lang": "en",
@@ -21842,7 +22014,7 @@
       "clicks": 0,
       "impressions": 33,
       "position": 5.7,
-      "score": 69
+      "score": 70
     },
     "/en/packages/sawan-darshan-package-varanasi": {
       "lang": "en",
@@ -21870,7 +22042,7 @@
       "clicks": 0,
       "impressions": 110,
       "position": 8.1,
-      "score": 86
+      "score": 85
     },
     "/en/packages/varanasi-boat-ride-booking": {
       "lang": "en",
@@ -21884,7 +22056,7 @@
       "clicks": 0,
       "impressions": 68,
       "position": 22.9,
-      "score": 70
+      "score": 69
     },
     "/en/packages/varanasi-tour-package": {
       "lang": "en",
@@ -21912,7 +22084,7 @@
       "clicks": 1,
       "impressions": 245,
       "position": 18.2,
-      "score": 53
+      "score": 52
     },
     "/en/bus/kashi-rameshwaram-twin-jyotirlinga-yatra": {
       "lang": "en",
@@ -21926,7 +22098,7 @@
       "clicks": 3,
       "impressions": 262,
       "position": 10,
-      "score": 61
+      "score": 60
     },
     "/en/bus/kashi-yatra-south-india-bus-package": {
       "lang": "en",
@@ -21940,7 +22112,7 @@
       "clicks": 2,
       "impressions": 17,
       "position": 10.5,
-      "score": 92
+      "score": 91
     },
     "/en/services/ayodhya-ram-mandir-darshan-package-from-varanasi": {
       "lang": "en",
@@ -21954,7 +22126,7 @@
       "clicks": 1,
       "impressions": 76,
       "position": 40.6,
-      "score": 74
+      "score": 73
     },
     "/en/services/budget-hotels-near-kashi-vishwanath-godowlia": {
       "lang": "en",
@@ -21982,7 +22154,7 @@
       "clicks": 8,
       "impressions": 229,
       "position": 10.1,
-      "score": 120
+      "score": 119
     },
     "/en/services/dharamshala-near-varanasi-railway-station": {
       "lang": "en",
@@ -21996,7 +22168,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 70
+      "score": 69
     },
     "/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package": {
       "lang": "en",
@@ -22010,7 +22182,7 @@
       "clicks": 1,
       "impressions": 29,
       "position": 6.9,
-      "score": 73
+      "score": 72
     },
     "/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package": {
       "lang": "en",
@@ -22024,7 +22196,7 @@
       "clicks": 0,
       "impressions": 13,
       "position": 6.2,
-      "score": 69
+      "score": 68
     },
     "/en/services/group-accommodation-varanasi-large-groups": {
       "lang": "en",
@@ -22038,7 +22210,7 @@
       "clicks": 0,
       "impressions": 35,
       "position": 8.9,
-      "score": 84
+      "score": 83
     },
     "/en/services/guest-house-hotels-near-assi-ghat-varanasi": {
       "lang": "en",
@@ -22052,7 +22224,7 @@
       "clicks": 0,
       "impressions": 15,
       "position": 27.7,
-      "score": 69
+      "score": 68
     },
     "/en/services/hotel-booking-in-varanasi": {
       "lang": "en",
@@ -22066,7 +22238,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 4.7,
-      "score": 69
+      "score": 68
     },
     "/en/services/hotels-near-varanasi-airport": {
       "lang": "en",
@@ -22080,7 +22252,7 @@
       "clicks": 0,
       "impressions": 24,
       "position": 28.8,
-      "score": 69
+      "score": 68
     },
     "/en/services/hotels-near-varanasi-railway-station-cantt": {
       "lang": "en",
@@ -22094,7 +22266,7 @@
       "clicks": 0,
       "impressions": 133,
       "position": 13.2,
-      "score": 86
+      "score": 85
     },
     "/en/services/kashi-driver-partners": {
       "lang": "en",
@@ -22164,7 +22336,7 @@
       "clicks": 6,
       "impressions": 869,
       "position": 10.8,
-      "score": 85
+      "score": 84
     },
     "/en/services/kashi-vishwanath-temple-dress-code-rules": {
       "lang": "en",
@@ -22192,7 +22364,7 @@
       "clicks": 5,
       "impressions": 338,
       "position": 9.5,
-      "score": 70
+      "score": 69
     },
     "/en/services/varanasi-airport-to-city-cab": {
       "lang": "en",
@@ -22248,7 +22420,7 @@
       "clicks": 0,
       "impressions": 71,
       "position": 17.9,
-      "score": 85
+      "score": 84
     },
     "/en/services/varanasi-full-day-city-tour-winter-2026": {
       "lang": "en",
@@ -22262,7 +22434,7 @@
       "clicks": 8,
       "impressions": 291,
       "position": 10.4,
-      "score": 81
+      "score": 83
     },
     "/en/services/varanasi-government-approved-guide": {
       "lang": "en",
@@ -22276,7 +22448,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 30
+      "score": 29
     },
     "/en/services/varanasi-prayagraj-tour-package": {
       "lang": "en",
@@ -22318,7 +22490,7 @@
       "clicks": 32,
       "impressions": 2361,
       "position": 8.6,
-      "score": 259
+      "score": 258
     },
     "/en/services/dev-deepawali-taxi-booking-varanasi": {
       "lang": "en",
@@ -22346,7 +22518,7 @@
       "clicks": 1,
       "impressions": 126,
       "position": 7.4,
-      "score": 75
+      "score": 76
     },
     "/hi/12-seater-tempo-traveller-varanasi": {
       "lang": "hi",
@@ -22402,7 +22574,7 @@
       "clicks": 0,
       "impressions": 1,
       "position": 7,
-      "score": 29
+      "score": 28
     },
     "/hi/ashoka-pillar-sarnath-guide": {
       "lang": "hi",
@@ -22430,7 +22602,7 @@
       "clicks": 197,
       "impressions": 21759,
       "position": 7.1,
-      "score": 1017
+      "score": 1016
     },
     "/hi/ayodhya-varanasi-prayagraj-group-tour-package": {
       "lang": "hi",
@@ -22458,7 +22630,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 67
     },
     "/hi/banaras-travel-agency": {
       "lang": "hi",
@@ -22472,7 +22644,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 28
+      "score": 27
     },
     "/hi/best-time-to-visit-varanasi": {
       "lang": "hi",
@@ -22500,7 +22672,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 7.5,
-      "score": 29
+      "score": 28
     },
     "/hi/dashashwamedh-ghat-detailed-guide": {
       "lang": "hi",
@@ -22542,7 +22714,7 @@
       "clicks": 3,
       "impressions": 361,
       "position": 8.1,
-      "score": 63
+      "score": 62
     },
     "/hi/dev-deepawali-2026-varanasi-ultimate-guide": {
       "lang": "hi",
@@ -22640,7 +22812,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 28
+      "score": 27
     },
     "/hi/ganga-aarti-boat-booking-price": {
       "lang": "hi",
@@ -22659,7 +22831,7 @@
     "/hi/ganga-mahotsav-2026-classical-festival-varanasi": {
       "lang": "hi",
       "title": "गंगा महोत्सव 2026 वाराणसी: 20–23 नवंबर यात्रा गाइड",
-      "anchor": "गंगा महोत्सव 2026 वाराणसी (20–23 नवंबर)",
+      "anchor": "गंगा महोत्सव 2026 वाराणसी",
       "category": "guide",
       "productType": "guide",
       "destination": null,
@@ -22668,7 +22840,7 @@
       "clicks": 1,
       "impressions": 187,
       "position": 6,
-      "score": 8
+      "score": 37
     },
     "/hi/guide-to-10-most-important-ghats-of-varanasi": {
       "lang": "hi",
@@ -22696,7 +22868,7 @@
       "clicks": 0,
       "impressions": 32,
       "position": 9.2,
-      "score": 44
+      "score": 43
     },
     "/hi/how-many-days-in-varanasi": {
       "lang": "hi",
@@ -22710,7 +22882,7 @@
       "clicks": 0,
       "impressions": 750,
       "position": 6.7,
-      "score": 44
+      "score": 43
     },
     "/hi/how-to-reach-varanasi": {
       "lang": "hi",
@@ -22766,7 +22938,7 @@
       "clicks": 11,
       "impressions": 1354,
       "position": 7.6,
-      "score": 140
+      "score": 139
     },
     "/hi/kashi-vishwanath-darshan-ganga-aarti-package": {
       "lang": "hi",
@@ -22780,7 +22952,7 @@
       "clicks": 1,
       "impressions": 429,
       "position": 9.5,
-      "score": 92
+      "score": 91
     },
     "/hi/kashi-vishwanath-shivaratri-crowd-survival-guide": {
       "lang": "hi",
@@ -22822,11 +22994,11 @@
       "clicks": 0,
       "impressions": 1,
       "position": 5,
-      "score": 68
+      "score": 67
     },
     "/hi/lolark-shashti-lolark-kund-varanasi-guide": {
       "lang": "hi",
-      "title": "लोलार्क षष्ठी और लोलार्क कुंड, वाराणसी (संभावित 17 सितंबर 2026 गाइड)",
+      "title": "लोलार्क षष्ठी और लोलार्क कुंड, वाराणसी (संतान-प्राप्ति अनुष्ठान गाइड, 17 सितंबर 2026)",
       "anchor": "लोलार्क षष्ठी और लोलार्क कुंड, वाराणसी…",
       "category": "guide",
       "productType": "guide",
@@ -22836,7 +23008,7 @@
       "clicks": 19,
       "impressions": 508,
       "position": 2.9,
-      "score": 115
+      "score": 116
     },
     "/hi/lucknow-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -22878,7 +23050,7 @@
       "clicks": 9,
       "impressions": 517,
       "position": 7.5,
-      "score": 116
+      "score": 115
     },
     "/hi/navratri-in-vindhyachal-practical-guide": {
       "lang": "hi",
@@ -22892,7 +23064,7 @@
       "clicks": 1,
       "impressions": 440,
       "position": 3.4,
-      "score": 41
+      "score": 43
     },
     "/hi/navratri-pilgrimage-vindhyachal-from-varanasi-guide": {
       "lang": "hi",
@@ -22906,7 +23078,7 @@
       "clicks": 0,
       "impressions": 20,
       "position": 8.2,
-      "score": 44
+      "score": 45
     },
     "/hi/outstation-cabs-from-varanasi": {
       "lang": "hi",
@@ -22934,7 +23106,7 @@
       "clicks": 4,
       "impressions": 121,
       "position": 6.9,
-      "score": 47
+      "score": 46
     },
     "/hi/safety-and-security-in-varanasi-guide-for-solo-travellar": {
       "lang": "hi",
@@ -22948,7 +23120,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 28
+      "score": 27
     },
     "/hi/sarnath-attractions-guide": {
       "lang": "hi",
@@ -22962,7 +23134,7 @@
       "clicks": 0,
       "impressions": 54,
       "position": 7,
-      "score": 29
+      "score": 28
     },
     "/hi/sarnath-buddhist-temple-guide": {
       "lang": "hi",
@@ -22990,7 +23162,7 @@
       "clicks": 1,
       "impressions": 392,
       "position": 9.1,
-      "score": 52
+      "score": 51
     },
     "/hi/sarnath-timing-visit-guide": {
       "lang": "hi",
@@ -23004,7 +23176,7 @@
       "clicks": 100,
       "impressions": 7183,
       "position": 6.4,
-      "score": 569
+      "score": 568
     },
     "/hi/sawan-kashi-vishwanath-crowd-survival-sugam-darshan-2026": {
       "lang": "hi",
@@ -23074,7 +23246,7 @@
       "clicks": 2,
       "impressions": 64,
       "position": 6.1,
-      "score": 38
+      "score": 37
     },
     "/hi/sunrise-boat-ride-ganges": {
       "lang": "hi",
@@ -23144,7 +23316,7 @@
       "clicks": 0,
       "impressions": 1,
       "position": 8,
-      "score": 84
+      "score": 83
     },
     "/hi/tour-package-from-varanasi": {
       "lang": "hi",
@@ -23158,7 +23330,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 67
     },
     "/hi/tourist-spots-varanasi": {
       "lang": "hi",
@@ -23172,7 +23344,7 @@
       "clicks": 2,
       "impressions": 286,
       "position": 7.8,
-      "score": 39
+      "score": 38
     },
     "/hi/travel-from-varanasi-to-vindhyachal-guide": {
       "lang": "hi",
@@ -23186,7 +23358,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 28
+      "score": 27
     },
     "/hi/travel-from-varanasi-to-vindhyachal": {
       "lang": "hi",
@@ -23200,7 +23372,7 @@
       "clicks": 3,
       "impressions": 999,
       "position": 8.3,
-      "score": 76
+      "score": 75
     },
     "/hi/trikon-parikrama-vindhyachal-complete-guide": {
       "lang": "hi",
@@ -23214,7 +23386,7 @@
       "clicks": 54,
       "impressions": 1659,
       "position": 3.8,
-      "score": 278
+      "score": 277
     },
     "/hi/varanasi-airport-taxi-guide": {
       "lang": "hi",
@@ -23228,7 +23400,7 @@
       "clicks": 0,
       "impressions": 18,
       "position": 7.8,
-      "score": 69
+      "score": 68
     },
     "/hi/varanasi-airport-taxi-price-guide": {
       "lang": "hi",
@@ -23298,7 +23470,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 70
+      "score": 69
     },
     "/hi/varanasi-for-first-timers-guide": {
       "lang": "hi",
@@ -23340,7 +23512,7 @@
       "clicks": 0,
       "impressions": 40,
       "position": 7.4,
-      "score": 26
+      "score": 25
     },
     "/hi/varanasi-in-december-2026": {
       "lang": "hi",
@@ -23354,7 +23526,7 @@
       "clicks": 0,
       "impressions": 166,
       "position": 6.8,
-      "score": 32
+      "score": 31
     },
     "/hi/varanasi-in-february-2026": {
       "lang": "hi",
@@ -23368,7 +23540,7 @@
       "clicks": 0,
       "impressions": 277,
       "position": 4.4,
-      "score": 34
+      "score": 35
     },
     "/hi/varanasi-in-monsoon-july-september-2026": {
       "lang": "hi",
@@ -23396,7 +23568,7 @@
       "clicks": 2,
       "impressions": 220,
       "position": 4,
-      "score": 41
+      "score": 42
     },
     "/hi/varanasi-in-october-2026": {
       "lang": "hi",
@@ -23410,7 +23582,7 @@
       "clicks": 0,
       "impressions": 1,
       "position": 1,
-      "score": 29
+      "score": 30
     },
     "/hi/varanasi-instrument-market-guide": {
       "lang": "hi",
@@ -23452,7 +23624,7 @@
       "clicks": 0,
       "impressions": 10,
       "position": 9.2,
-      "score": 44
+      "score": 43
     },
     "/hi/varanasi-sightseeing-complete-guide": {
       "lang": "hi",
@@ -23466,7 +23638,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 28
+      "score": 27
     },
     "/hi/varanasi-sunrise-boat-ride-timings": {
       "lang": "hi",
@@ -23494,7 +23666,7 @@
       "clicks": 57,
       "impressions": 495749,
       "position": 9.5,
-      "score": 473
+      "score": 472
     },
     "/hi/varanasi-to-allahabad-tempo-traveller": {
       "lang": "hi",
@@ -23508,7 +23680,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/varanasi-to-ayodhya-12-seater-tempo-traveller": {
       "lang": "hi",
@@ -23522,7 +23694,7 @@
       "clicks": 1,
       "impressions": 61,
       "position": 7.1,
-      "score": 74
+      "score": 73
     },
     "/hi/varanasi-to-ayodhya-day-trip-tempo-traveller": {
       "lang": "hi",
@@ -23536,7 +23708,7 @@
       "clicks": 0,
       "impressions": 113,
       "position": 5.3,
-      "score": 71
+      "score": 70
     },
     "/hi/varanasi-to-ayodhya-taxi": {
       "lang": "hi",
@@ -23550,7 +23722,7 @@
       "clicks": 12,
       "impressions": 4109,
       "position": 8,
-      "score": 215
+      "score": 214
     },
     "/hi/varanasi-to-ayodhya-tempo-traveller": {
       "lang": "hi",
@@ -23564,7 +23736,7 @@
       "clicks": 0,
       "impressions": 12,
       "position": 4.3,
-      "score": 69
+      "score": 68
     },
     "/hi/varanasi-to-bodhgaya-taxi-cost": {
       "lang": "hi",
@@ -23592,7 +23764,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/varanasi-to-chitrakoot-tempo-traveller": {
       "lang": "hi",
@@ -23634,7 +23806,7 @@
       "clicks": 0,
       "impressions": 13,
       "position": 8.8,
-      "score": 84
+      "score": 83
     },
     "/hi/varanasi-to-kushinagar-tempo-traveller": {
       "lang": "hi",
@@ -23680,8 +23852,8 @@
     },
     "/hi/varanasi-to-prayagraj-kumbh-tempo-traveller": {
       "lang": "hi",
-      "title": "वाराणसी से प्रयागराज कुम्भ Tempo Traveller | स्नान तिथियाँ, शिविर और ट्रैफिक योजना",
-      "anchor": "वाराणसी से प्रयागराज कुम्भ Tempo Traveller",
+      "title": "वाराणसी से प्रयागराज Tempo Traveller | महाकुंभ स्थिति और माघ मेला यात्रा",
+      "anchor": "वाराणसी से प्रयागराज Tempo Traveller",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -23690,7 +23862,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 2,
-      "score": 69
+      "score": 70
     },
     "/hi/varanasi-to-prayagraj-taxi": {
       "lang": "hi",
@@ -23704,7 +23876,7 @@
       "clicks": 0,
       "impressions": 803,
       "position": 7.9,
-      "score": 86
+      "score": 85
     },
     "/hi/varanasi-to-prayagraj-tempo-traveller": {
       "lang": "hi",
@@ -23732,7 +23904,7 @@
       "clicks": 0,
       "impressions": 1,
       "position": 13,
-      "score": 84
+      "score": 83
     },
     "/hi/varanasi-to-ram-mandir-tempo-traveller": {
       "lang": "hi",
@@ -23746,7 +23918,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 8,
-      "score": 84
+      "score": 83
     },
     "/hi/varanasi-to-sarnath-tempo-traveller": {
       "lang": "hi",
@@ -23760,7 +23932,7 @@
       "clicks": 0,
       "impressions": 10,
       "position": 5.1,
-      "score": 69
+      "score": 68
     },
     "/hi/varanasi-to-triveni-sangam-tempo-traveller": {
       "lang": "hi",
@@ -23774,7 +23946,7 @@
       "clicks": 0,
       "impressions": 19,
       "position": 7.7,
-      "score": 69
+      "score": 68
     },
     "/hi/varanasi-to-vindhyachal-itinerary": {
       "lang": "hi",
@@ -23802,7 +23974,7 @@
       "clicks": 85,
       "impressions": 10186,
       "position": 5.7,
-      "score": 609
+      "score": 608
     },
     "/hi/varanasi-to-vindhyachal-tempo-traveller": {
       "lang": "hi",
@@ -23830,7 +24002,7 @@
       "clicks": 0,
       "impressions": 33,
       "position": 6.4,
-      "score": 65
+      "score": 64
     },
     "/hi/varanasi-tour-package-from-delhi": {
       "lang": "hi",
@@ -23844,7 +24016,7 @@
       "clicks": 0,
       "impressions": 34,
       "position": 7.1,
-      "score": 65
+      "score": 64
     },
     "/hi/varanasi-tour-package-with-hotel": {
       "lang": "hi",
@@ -23872,7 +24044,7 @@
       "clicks": 1,
       "impressions": 53,
       "position": 8.5,
-      "score": 85
+      "score": 90
     },
     "/hi/varanasi-transport-price-guide-2026": {
       "lang": "hi",
@@ -23886,7 +24058,7 @@
       "clicks": 1,
       "impressions": 6,
       "position": 5.5,
-      "score": 33
+      "score": 32
     },
     "/hi/varanasi-travel-agent": {
       "lang": "hi",
@@ -23900,7 +24072,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 28
+      "score": 27
     },
     "/hi/varanasi-weather-guide": {
       "lang": "hi",
@@ -23928,7 +24100,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 28
+      "score": 27
     },
     "/hi/what-to-wear-in-varanasi": {
       "lang": "hi",
@@ -23956,7 +24128,7 @@
       "clicks": 0,
       "impressions": 26,
       "position": 9.2,
-      "score": 84
+      "score": 83
     },
     "/hi/where-to-stay-in-vindhyachal": {
       "lang": "hi",
@@ -23984,7 +24156,7 @@
       "clicks": 1,
       "impressions": 121,
       "position": 4.9,
-      "score": 75
+      "score": 76
     },
     "/hi/packages/sawan-darshan-package-varanasi": {
       "lang": "hi",
@@ -23998,7 +24170,7 @@
       "clicks": 0,
       "impressions": 20,
       "position": 7.2,
-      "score": 69
+      "score": 68
     },
     "/hi/packages/shradh-pind-daan-package-varanasi": {
       "lang": "hi",
@@ -24026,7 +24198,7 @@
       "clicks": 3,
       "impressions": 419,
       "position": 6.7,
-      "score": 49
+      "score": 48
     },
     "/hi/bus/kashi-rameshwaram-twin-jyotirlinga-yatra": {
       "lang": "hi",
@@ -24040,7 +24212,7 @@
       "clicks": 0,
       "impressions": 9,
       "position": 8.4,
-      "score": 44
+      "score": 43
     },
     "/hi/bus/kashi-yatra-south-india-bus-package": {
       "lang": "hi",
@@ -24054,7 +24226,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/services/ayodhya-ram-mandir-darshan-package-from-varanasi": {
       "lang": "hi",
@@ -24068,7 +24240,7 @@
       "clicks": 0,
       "impressions": 20,
       "position": 7.1,
-      "score": 69
+      "score": 68
     },
     "/hi/services/budget-hotels-near-kashi-vishwanath-godowlia": {
       "lang": "hi",
@@ -24082,7 +24254,7 @@
       "clicks": 0,
       "impressions": 16,
       "position": 8.4,
-      "score": 84
+      "score": 83
     },
     "/hi/services/dharamshala-near-kashi-vishwanath-temple-varanasi": {
       "lang": "hi",
@@ -24096,7 +24268,7 @@
       "clicks": 11,
       "impressions": 877,
       "position": 7.8,
-      "score": 130
+      "score": 129
     },
     "/hi/services/dharamshala-near-varanasi-railway-station": {
       "lang": "hi",
@@ -24110,7 +24282,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 70
+      "score": 69
     },
     "/hi/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package": {
       "lang": "hi",
@@ -24124,7 +24296,7 @@
       "clicks": 0,
       "impressions": 27,
       "position": 9.4,
-      "score": 84
+      "score": 83
     },
     "/hi/services/golden-triangle-varanasi-ayodhya-prayagraj-package": {
       "lang": "hi",
@@ -24152,7 +24324,7 @@
       "clicks": 0,
       "impressions": 13,
       "position": 6.9,
-      "score": 69
+      "score": 68
     },
     "/hi/services/guest-house-hotels-near-assi-ghat-varanasi": {
       "lang": "hi",
@@ -24166,7 +24338,7 @@
       "clicks": 0,
       "impressions": 17,
       "position": 9,
-      "score": 84
+      "score": 83
     },
     "/hi/services/hotels-near-varanasi-airport": {
       "lang": "hi",
@@ -24194,7 +24366,7 @@
       "clicks": 0,
       "impressions": 13,
       "position": 8.7,
-      "score": 84
+      "score": 83
     },
     "/hi/services/kashi-vishwanath-aarti-timings-booking": {
       "lang": "hi",
@@ -24222,7 +24394,7 @@
       "clicks": 4,
       "impressions": 70,
       "position": 7.3,
-      "score": 46
+      "score": 45
     },
     "/hi/services/kashi-vishwanath-rudrabhishek-puja-booking": {
       "lang": "hi",
@@ -24236,7 +24408,7 @@
       "clicks": 2,
       "impressions": 86,
       "position": 8.2,
-      "score": 53
+      "score": 52
     },
     "/hi/services/kashi-vishwanath-sugam-darshan-price-booking": {
       "lang": "hi",
@@ -24250,7 +24422,7 @@
       "clicks": 2,
       "impressions": 229,
       "position": 9,
-      "score": 56
+      "score": 55
     },
     "/hi/services/kashi-vishwanath-temple-dress-code-rules": {
       "lang": "hi",
@@ -24292,7 +24464,7 @@
       "clicks": 0,
       "impressions": 21,
       "position": 8.2,
-      "score": 84
+      "score": 83
     },
     "/hi/services/varanasi-dormitory-budget-homestay-booking": {
       "lang": "hi",
@@ -24320,7 +24492,7 @@
       "clicks": 0,
       "impressions": 17,
       "position": 8.9,
-      "score": 84
+      "score": 83
     },
     "/hi/services/varanasi-safest-taxi-for-women": {
       "lang": "hi",
@@ -24348,7 +24520,7 @@
       "clicks": 0,
       "impressions": 290,
       "position": 7.7,
-      "score": 74
+      "score": 76
     },
     "/en/city/allahabad/taxi/varanasi-to-allahabad-taxi": {
       "lang": "en",
@@ -24362,7 +24534,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi": {
       "lang": "en",
@@ -24376,7 +24548,7 @@
       "clicks": 8,
       "impressions": 1045,
       "position": 9.3,
-      "score": 137
+      "score": 136
     },
     "/en/city/ayodhya/tour-packages/ayodhya-2-day-tour": {
       "lang": "en",
@@ -24404,7 +24576,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 70
     },
     "/en/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi": {
       "lang": "en",
@@ -24418,7 +24590,7 @@
       "clicks": 0,
       "impressions": 7,
       "position": 13.7,
-      "score": 84
+      "score": 85
     },
     "/en/city/delhi/taxi/varanasi-to-delhi-taxi": {
       "lang": "en",
@@ -24432,7 +24604,7 @@
       "clicks": 0,
       "impressions": 98,
       "position": 8.4,
-      "score": 86
+      "score": 87
     },
     "/en/city/deoghar/taxi/varanasi-to-deoghar-taxi": {
       "lang": "en",
@@ -24474,7 +24646,7 @@
       "clicks": 0,
       "impressions": 92,
       "position": 7.1,
-      "score": 70
+      "score": 72
     },
     "/en/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi": {
       "lang": "en",
@@ -24488,7 +24660,7 @@
       "clicks": 0,
       "impressions": 257,
       "position": 11.6,
-      "score": 89
+      "score": 90
     },
     "/en/city/jaipur/taxi/varanasi-to-jaipur-taxi": {
       "lang": "en",
@@ -24502,7 +24674,7 @@
       "clicks": 1,
       "impressions": 86,
       "position": 8.4,
-      "score": 89
+      "score": 90
     },
     "/en/city/jaunpur/taxi/varanasi-to-jaunpur-taxi": {
       "lang": "en",
@@ -24530,7 +24702,7 @@
       "clicks": 0,
       "impressions": 415,
       "position": 12.7,
-      "score": 92
+      "score": 91
     },
     "/en/city/kathmandu/taxi/varanasi-to-kathmandu-taxi": {
       "lang": "en",
@@ -24558,7 +24730,7 @@
       "clicks": 0,
       "impressions": 4,
       "position": 8,
-      "score": 84
+      "score": 85
     },
     "/en/city/kolkata/taxi/varanasi-to-kolkata-taxi": {
       "lang": "en",
@@ -24572,7 +24744,7 @@
       "clicks": 0,
       "impressions": 36,
       "position": 8.3,
-      "score": 84
+      "score": 85
     },
     "/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi": {
       "lang": "en",
@@ -24614,7 +24786,7 @@
       "clicks": 1,
       "impressions": 19,
       "position": 10.7,
-      "score": 88
+      "score": 89
     },
     "/en/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi": {
       "lang": "en",
@@ -24642,7 +24814,7 @@
       "clicks": 0,
       "impressions": 136,
       "position": 7.3,
-      "score": 71
+      "score": 70
     },
     "/en/city/nepal/taxi/varanasi-to-nepal-taxi": {
       "lang": "en",
@@ -24656,7 +24828,7 @@
       "clicks": 39,
       "impressions": 7688,
       "position": 5.6,
-      "score": 380
+      "score": 379
     },
     "/en/city/patna/taxi/varanasi-to-patna-taxi": {
       "lang": "en",
@@ -24670,12 +24842,12 @@
       "clicks": 0,
       "impressions": 142,
       "position": 5.5,
-      "score": 71
+      "score": 73
     },
     "/en/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi": {
       "lang": "en",
       "title": "Prayagraj Magh Mela 2026: Verified Dates & Travel Recap",
-      "anchor": "Magh Mela 2026 Complete Travel Guide",
+      "anchor": "Prayagraj Magh Mela 2026",
       "category": "events",
       "productType": "guide",
       "destination": "prayagraj",
@@ -24684,12 +24856,12 @@
       "clicks": 0,
       "impressions": 124,
       "position": 6.1,
-      "score": 31
+      "score": 32
     },
     "/en/city/prayagraj/events/safe-taxi-magh-mela-seniors-families": {
       "lang": "en",
-      "title": "Safe Taxi Travel for Seniors & Families to Magh Mela – Avoid Train Rush",
-      "anchor": "Safe Taxi Travel for Seniors & Families to Magh Mela",
+      "title": "Prayagraj Mela Travel for Seniors & Families: Safety Checklist",
+      "anchor": "Prayagraj Mela Travel for Seniors & Families",
       "category": "events",
       "productType": "route_taxi",
       "destination": "prayagraj",
@@ -24698,12 +24870,12 @@
       "clicks": 0,
       "impressions": 10,
       "position": 9.4,
-      "score": 84
+      "score": 85
     },
     "/en/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking": {
       "lang": "en",
       "title": "Varanasi to Prayagraj Magh Mela 2026 Taxi: Archive & Future Planning",
-      "anchor": "Book Your Taxi from Varanasi to Prayagraj for Magh…",
+      "anchor": "Varanasi to Prayagraj Magh Mela 2026 Taxi",
       "category": "events",
       "productType": "route_taxi",
       "destination": "prayagraj",
@@ -24712,7 +24884,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 23.7,
-      "score": 69
+      "score": 70
     },
     "/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi": {
       "lang": "en",
@@ -24726,7 +24898,7 @@
       "clicks": 4,
       "impressions": 1663,
       "position": 7.7,
-      "score": 118
+      "score": 119
     },
     "/en/city/varanasi/activities/84-ghats-boat-tour-varanasi": {
       "lang": "en",
@@ -24754,7 +24926,7 @@
       "clicks": 36,
       "impressions": 8849,
       "position": 8.6,
-      "score": 366
+      "score": 365
     },
     "/en/city/varanasi/activities/sunrise-yoga-varanasi-2026": {
       "lang": "en",
@@ -24772,8 +24944,8 @@
     },
     "/en/city/varanasi/events/banaras-lit-fest-2026-corporate-mobility-partner": {
       "lang": "en",
-      "title": "Corporate Mobility & Chauffeur Service for Banaras Lit Fest 2026 – Kashi Taxi",
-      "anchor": "Corporate Mobility & Chauffeur Service for Banaras…",
+      "title": "Banaras Lit Fest 2026 Corporate Mobility Archive",
+      "anchor": "Banaras Lit Fest 2026 Corporate Mobility Archive",
       "category": "events",
       "productType": "guide",
       "destination": "varanasi",
@@ -24782,12 +24954,12 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 29
+      "score": 28
     },
     "/en/city/varanasi/events/banaras-lit-fest-2026-taxi-booking": {
       "lang": "en",
-      "title": "Premium Taxi & Luxury Car Booking for Banaras Lit Fest 2026 – Kashi Taxi",
-      "anchor": "Premium Taxi & Luxury Car Booking for Banaras Lit…",
+      "title": "Banaras Lit Fest 2026 Transport Archive – Kashi Taxi",
+      "anchor": "Banaras Lit Fest 2026 Transport Archive",
       "category": "events",
       "productType": "route_taxi",
       "destination": "varanasi",
@@ -24796,12 +24968,12 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 70
     },
     "/en/city/varanasi/events/banaras-lit-fest-2026-venue-guide-hotels-logistics": {
       "lang": "en",
-      "title": "Banaras Lit Fest 2026 Venue Guide – Taj Ganges, Hotels & Logistics",
-      "anchor": "Banaras Lit Fest 2026 Venue Guide",
+      "title": "Banaras Lit Fest 2026 Venue & Logistics Archive",
+      "anchor": "Banaras Lit Fest 2026 Venue & Logistics Archive",
       "category": "events",
       "productType": "accommodation",
       "destination": "varanasi",
@@ -24824,7 +24996,7 @@
       "clicks": 0,
       "impressions": 47,
       "position": 6.3,
-      "score": 26
+      "score": 31
     },
     "/en/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026": {
       "lang": "en",
@@ -24838,11 +25010,11 @@
       "clicks": 81,
       "impressions": 7696,
       "position": 3.9,
-      "score": 507
+      "score": 508
     },
     "/en/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi": {
       "lang": "en",
-      "title": "Kashi Tamil Sangamam 4.0 (2025) Recap and 2026 Status",
+      "title": "Kashi Tamil Sangamam: 4.0 (2025) Recap and 2026 Status",
       "anchor": "Kasi Free Tour 2026 Tamil Nadu",
       "category": "events",
       "productType": "guide",
@@ -24852,7 +25024,7 @@
       "clicks": 389,
       "impressions": 5402,
       "position": 4.6,
-      "score": 1693
+      "score": 1694
     },
     "/en/city/varanasi/events/mahindra-kabira-festival-2026-varanasi": {
       "lang": "en",
@@ -24866,7 +25038,7 @@
       "clicks": 11,
       "impressions": 1863,
       "position": 3.7,
-      "score": 110
+      "score": 111
     },
     "/en/city/varanasi/events/mahindra-kabira-sunrise-music": {
       "lang": "en",
@@ -24880,12 +25052,12 @@
       "clicks": 0,
       "impressions": 9,
       "position": 13.7,
-      "score": 44
+      "score": 45
     },
     "/en/city/varanasi/events/makar-sankranti-2026-kite-festival-taxi-booking": {
       "lang": "en",
-      "title": "Makar Sankranti 2026 Kite Festival Taxi Booking Hub – Varanasi",
-      "anchor": "Makar Sankranti 2026 Kite Festival Taxi Booking Hub",
+      "title": "Makar Sankranti 2026 Varanasi Transport Archive",
+      "anchor": "Makar Sankranti 2026 Varanasi Transport Archive",
       "category": "events",
       "productType": "route_taxi",
       "destination": "varanasi",
@@ -24894,7 +25066,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/city/varanasi/events/makar-sankranti-ganga-snan-varanasi-2026": {
       "lang": "en",
@@ -24922,7 +25094,7 @@
       "clicks": 8,
       "impressions": 2158,
       "position": 6.4,
-      "score": 104
+      "score": 105
     },
     "/en/city/varanasi/events/siberian-birds-winter-events-varanasi": {
       "lang": "en",
@@ -24950,7 +25122,7 @@
       "clicks": 5,
       "impressions": 1428,
       "position": 6.6,
-      "score": 72
+      "score": 71
     },
     "/en/city/varanasi/food/varanasi-street-food-guide": {
       "lang": "en",
@@ -24964,7 +25136,7 @@
       "clicks": 38,
       "impressions": 3880,
       "position": 7.1,
-      "score": 255
+      "score": 254
     },
     "/en/city/varanasi/food/varanasi-winter-food-itinerary": {
       "lang": "en",
@@ -25020,7 +25192,7 @@
       "clicks": 6,
       "impressions": 1062,
       "position": 10,
-      "score": 89
+      "score": 90
     },
     "/en/city/varanasi/sightseeing/namo-ghat-varanasi": {
       "lang": "en",
@@ -25034,7 +25206,7 @@
       "clicks": 12,
       "impressions": 3163,
       "position": 6.8,
-      "score": 140
+      "score": 139
     },
     "/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package": {
       "lang": "en",
@@ -25048,12 +25220,12 @@
       "clicks": 50,
       "impressions": 1817,
       "position": 5.9,
-      "score": 306
+      "score": 305
     },
     "/en/city/varanasi/taxi/24-7-taxi-varanasi": {
       "lang": "en",
-      "title": "24/7 Taxi Service in Varanasi | Night Cab & Emergency Transport | Kashi Taxi",
-      "anchor": "24/7 Taxi Service in Varanasi",
+      "title": "24/7 Night Taxi in Varanasi | Late-Night & Pre-Dawn Cab Booking",
+      "anchor": "24/7 Night Taxi in Varanasi",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": "varanasi",
@@ -25062,7 +25234,7 @@
       "clicks": 8,
       "impressions": 321,
       "position": 7.3,
-      "score": 108
+      "score": 107
     },
     "/en/city/varanasi/taxi/airport-taxi-service-varanasi": {
       "lang": "en",
@@ -25076,7 +25248,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/city/varanasi/taxi/airport-taxi-varanasi": {
       "lang": "en",
@@ -25132,7 +25304,7 @@
       "clicks": 0,
       "impressions": 17,
       "position": 11.7,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/ballia-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -25146,7 +25318,7 @@
       "clicks": 0,
       "impressions": 19,
       "position": 10,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/bodhgaya-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -25174,7 +25346,7 @@
       "clicks": 0,
       "impressions": 22,
       "position": 17.3,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/gaya-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -25188,7 +25360,7 @@
       "clicks": 0,
       "impressions": 19,
       "position": 20.1,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/ghazipur-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -25202,7 +25374,7 @@
       "clicks": 0,
       "impressions": 16,
       "position": 10,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/gorakhpur-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -25216,7 +25388,7 @@
       "clicks": 0,
       "impressions": 40,
       "position": 7.5,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/how-to-reach-tent-city-varanasi": {
       "lang": "en",
@@ -25230,7 +25402,7 @@
       "clicks": 0,
       "impressions": 6,
       "position": 5,
-      "score": 29
+      "score": 28
     },
     "/en/city/varanasi/taxi": {
       "lang": "en",
@@ -25258,7 +25430,7 @@
       "clicks": 0,
       "impressions": 38,
       "position": 15.6,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service": {
       "lang": "en",
@@ -25272,7 +25444,7 @@
       "clicks": 6,
       "impressions": 1612,
       "position": 5.5,
-      "score": 125
+      "score": 124
     },
     "/en/city/varanasi/taxi/kushinagar-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -25300,7 +25472,7 @@
       "clicks": 0,
       "impressions": 17,
       "position": 9.1,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/luxury-cab-for-tent-city-varanasi": {
       "lang": "en",
@@ -25314,7 +25486,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 9,
-      "score": 84
+      "score": 83
     },
     "/en/city/varanasi/taxi/manikarnika-ghat-cremation-guide": {
       "lang": "en",
@@ -25328,7 +25500,7 @@
       "clicks": 4,
       "impressions": 2717,
       "position": 7.7,
-      "score": 99
+      "score": 98
     },
     "/en/city/varanasi/taxi/mughalsarai-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -25342,7 +25514,7 @@
       "clicks": 0,
       "impressions": 74,
       "position": 8.4,
-      "score": 86
+      "score": 85
     },
     "/en/city/varanasi/taxi/one-way-taxi-varanasi": {
       "lang": "en",
@@ -25398,7 +25570,7 @@
       "clicks": 2,
       "impressions": 620,
       "position": 5.9,
-      "score": 89
+      "score": 88
     },
     "/en/city/varanasi/taxi/singrauli-to-varanasi-taxi-fare": {
       "lang": "en",
@@ -25426,7 +25598,7 @@
       "clicks": 0,
       "impressions": 58,
       "position": 6.7,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/taj-ganges-varanasi-taxi-service": {
       "lang": "en",
@@ -25440,7 +25612,7 @@
       "clicks": 2,
       "impressions": 295,
       "position": 6.5,
-      "score": 83
+      "score": 82
     },
     "/en/city/varanasi/taxi/taxi-for-tent-city-varanasi": {
       "lang": "en",
@@ -25454,7 +25626,7 @@
       "clicks": 0,
       "impressions": 14,
       "position": 4.8,
-      "score": 69
+      "score": 68
     },
     "/en/city/varanasi/taxi/taxi-near-bhu": {
       "lang": "en",
@@ -25468,7 +25640,7 @@
       "clicks": 0,
       "impressions": 62,
       "position": 6.1,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/taxi-rates-varanasi": {
       "lang": "en",
@@ -25482,7 +25654,7 @@
       "clicks": 1,
       "impressions": 170,
       "position": 18.3,
-      "score": 91
+      "score": 90
     },
     "/en/city/varanasi/taxi/taxi-service-in-sigra-varanasi": {
       "lang": "en",
@@ -25496,7 +25668,7 @@
       "clicks": 3,
       "impressions": 2255,
       "position": 6.7,
-      "score": 126
+      "score": 125
     },
     "/en/city/varanasi/taxi/taxi-service-varanasi-cantt-station": {
       "lang": "en",
@@ -25510,7 +25682,7 @@
       "clicks": 14,
       "impressions": 1915,
       "position": 7.2,
-      "score": 163
+      "score": 162
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi": {
       "lang": "en",
@@ -25552,7 +25724,7 @@
       "clicks": 2,
       "impressions": 1109,
       "position": 7.1,
-      "score": 99
+      "score": 98
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-dashashwamedh-taxi": {
       "lang": "en",
@@ -25580,7 +25752,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-deoria-taxi": {
       "lang": "en",
@@ -25594,7 +25766,7 @@
       "clicks": 0,
       "impressions": 14,
       "position": 6.6,
-      "score": 69
+      "score": 68
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-ghazipur-taxi": {
       "lang": "en",
@@ -25608,7 +25780,7 @@
       "clicks": 0,
       "impressions": 151,
       "position": 8.6,
-      "score": 87
+      "score": 86
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-gorakhpur-taxi": {
       "lang": "en",
@@ -25622,7 +25794,7 @@
       "clicks": 0,
       "impressions": 97,
       "position": 9.9,
-      "score": 86
+      "score": 85
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-jalalpur-taxi": {
       "lang": "en",
@@ -25636,7 +25808,7 @@
       "clicks": 0,
       "impressions": 19,
       "position": 10.5,
-      "score": 84
+      "score": 83
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-jaunpur-taxi": {
       "lang": "en",
@@ -25664,7 +25836,7 @@
       "clicks": 23,
       "impressions": 4146,
       "position": 6.1,
-      "score": 244
+      "score": 243
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-taxi": {
       "lang": "en",
@@ -25692,7 +25864,7 @@
       "clicks": 2,
       "impressions": 906,
       "position": 7.1,
-      "score": 95
+      "score": 94
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-mau-taxi": {
       "lang": "en",
@@ -25734,7 +25906,7 @@
       "clicks": 2,
       "impressions": 210,
       "position": 7.1,
-      "score": 81
+      "score": 80
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-namo-ghat-taxi": {
       "lang": "en",
@@ -25748,7 +25920,7 @@
       "clicks": 0,
       "impressions": 846,
       "position": 8.1,
-      "score": 101
+      "score": 100
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-taxi": {
       "lang": "en",
@@ -25762,7 +25934,7 @@
       "clicks": 0,
       "impressions": 67,
       "position": 7,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-patna-taxi": {
       "lang": "en",
@@ -25776,7 +25948,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-prayagraj-taxi": {
       "lang": "en",
@@ -25790,7 +25962,7 @@
       "clicks": 0,
       "impressions": 9,
       "position": 13.4,
-      "score": 84
+      "score": 85
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-raj-ghat-taxi": {
       "lang": "en",
@@ -25804,7 +25976,7 @@
       "clicks": 0,
       "impressions": 202,
       "position": 6.5,
-      "score": 73
+      "score": 72
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-taxi": {
       "lang": "en",
@@ -25818,7 +25990,7 @@
       "clicks": 0,
       "impressions": 52,
       "position": 7.3,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi": {
       "lang": "en",
@@ -25846,7 +26018,7 @@
       "clicks": 0,
       "impressions": 54,
       "position": 14.8,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi": {
       "lang": "en",
@@ -25860,7 +26032,7 @@
       "clicks": 0,
       "impressions": 18,
       "position": 6.9,
-      "score": 69
+      "score": 68
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-taxi": {
       "lang": "en",
@@ -25888,7 +26060,7 @@
       "clicks": 17,
       "impressions": 2695,
       "position": 5.2,
-      "score": 191
+      "score": 190
     },
     "/en/city/varanasi/taxi/varanasi-airport-transfer-directory": {
       "lang": "en",
@@ -25902,7 +26074,7 @@
       "clicks": 0,
       "impressions": 166,
       "position": 16.9,
-      "score": 87
+      "score": 86
     },
     "/en/city/varanasi/taxi/varanasi-airport-transfer-guide": {
       "lang": "en",
@@ -25916,7 +26088,7 @@
       "clicks": 1,
       "impressions": 807,
       "position": 10.4,
-      "score": 104
+      "score": 103
     },
     "/en/city/varanasi/taxi/varanasi-city-tour-cab": {
       "lang": "en",
@@ -25944,7 +26116,7 @@
       "clicks": 8,
       "impressions": 1317,
       "position": 6.3,
-      "score": 124
+      "score": 123
     },
     "/en/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare": {
       "lang": "en",
@@ -25972,7 +26144,7 @@
       "clicks": 0,
       "impressions": 20,
       "position": 15.1,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/varanasi-to-ballia-taxi-fare": {
       "lang": "en",
@@ -26014,7 +26186,7 @@
       "clicks": 0,
       "impressions": 16,
       "position": 12.1,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-fare": {
       "lang": "en",
@@ -26056,7 +26228,7 @@
       "clicks": 0,
       "impressions": 39,
       "position": 8.3,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/varanasi-to-gorakhpur-taxi-fare": {
       "lang": "en",
@@ -26070,7 +26242,7 @@
       "clicks": 0,
       "impressions": 21,
       "position": 13.9,
-      "score": 85
+      "score": 84
     },
     "/en/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare": {
       "lang": "en",
@@ -26084,7 +26256,7 @@
       "clicks": 0,
       "impressions": 16,
       "position": 6,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-to-kushinagar-taxi-fare": {
       "lang": "en",
@@ -26098,7 +26270,7 @@
       "clicks": 0,
       "impressions": 24,
       "position": 5.6,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-to-lucknow-taxi-fare": {
       "lang": "en",
@@ -26112,7 +26284,7 @@
       "clicks": 3,
       "impressions": 34,
       "position": 30.3,
-      "score": 82
+      "score": 81
     },
     "/en/city/varanasi/taxi/varanasi-to-mughalsarai-taxi-fare": {
       "lang": "en",
@@ -26168,7 +26340,7 @@
       "clicks": 14,
       "impressions": 1910,
       "position": 6.2,
-      "score": 164
+      "score": 163
     },
     "/en/city/varanasi/taxi/varanasi-to-singrauli-taxi-fare": {
       "lang": "en",
@@ -26210,7 +26382,7 @@
       "clicks": 1,
       "impressions": 25,
       "position": 9.2,
-      "score": 89
+      "score": 88
     },
     "/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi": {
       "lang": "en",
@@ -26224,7 +26396,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/en/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour": {
       "lang": "en",
@@ -26238,7 +26410,7 @@
       "clicks": 0,
       "impressions": 621,
       "position": 9.7,
-      "score": 93
+      "score": 92
     },
     "/en/city/varanasi/tour-packages/ayodhya-varanasi-tour": {
       "lang": "en",
@@ -26252,7 +26424,7 @@
       "clicks": 3,
       "impressions": 1196,
       "position": 20.4,
-      "score": 65
+      "score": 64
     },
     "/en/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi": {
       "lang": "en",
@@ -26266,7 +26438,7 @@
       "clicks": 13,
       "impressions": 797,
       "position": 7.4,
-      "score": 138
+      "score": 137
     },
     "/en/city/varanasi/tour-packages/same-day-varanasi-tour": {
       "lang": "en",
@@ -26294,7 +26466,7 @@
       "clicks": 3,
       "impressions": 512,
       "position": 7.8,
-      "score": 88
+      "score": 87
     },
     "/en/city/varanasi/tour-packages/varanasi-3-day-tour": {
       "lang": "en",
@@ -26308,7 +26480,7 @@
       "clicks": 2,
       "impressions": 319,
       "position": 8.5,
-      "score": 95
+      "score": 94
     },
     "/en/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly": {
       "lang": "en",
@@ -26364,7 +26536,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 67
     },
     "/hi/city/ayodhya/taxi/ayodhya-to-varanasi-taxi": {
       "lang": "hi",
@@ -26392,7 +26564,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 67
     },
     "/hi/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi": {
       "lang": "hi",
@@ -26406,7 +26578,7 @@
       "clicks": 0,
       "impressions": 1,
       "position": 9,
-      "score": 83
+      "score": 82
     },
     "/hi/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi": {
       "lang": "hi",
@@ -26420,7 +26592,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 67
     },
     "/hi/city/delhi/taxi/varanasi-to-delhi-taxi": {
       "lang": "hi",
@@ -26504,7 +26676,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 67
     },
     "/hi/city/jaunpur/taxi/varanasi-to-jaunpur-taxi": {
       "lang": "hi",
@@ -26560,7 +26732,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 67
     },
     "/hi/city/kolkata/taxi/varanasi-to-kolkata-taxi": {
       "lang": "hi",
@@ -26588,7 +26760,7 @@
       "clicks": 0,
       "impressions": 1,
       "position": 11,
-      "score": 83
+      "score": 82
     },
     "/hi/city/lucknow/taxi/lucknow-to-varanasi-taxi": {
       "lang": "hi",
@@ -26602,7 +26774,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 4.3,
-      "score": 68
+      "score": 67
     },
     "/hi/city/lucknow/taxi/varanasi-to-lucknow-taxi": {
       "lang": "hi",
@@ -26616,7 +26788,7 @@
       "clicks": 0,
       "impressions": 5,
       "position": 5.2,
-      "score": 68
+      "score": 67
     },
     "/hi/city/mathura/taxi/varanasi-to-mathura-vrindavan-taxi": {
       "lang": "hi",
@@ -26644,7 +26816,7 @@
       "clicks": 0,
       "impressions": 104,
       "position": 7.7,
-      "score": 70
+      "score": 69
     },
     "/hi/city/nepal/taxi/varanasi-to-nepal-taxi": {
       "lang": "hi",
@@ -26672,12 +26844,12 @@
       "clicks": 0,
       "impressions": 5,
       "position": 8,
-      "score": 83
+      "score": 82
     },
     "/hi/city/prayagraj/events/magh-mela-2026-travel-guide-varanasi": {
       "lang": "hi",
       "title": "माघ मेला 2026 प्रयागराज: सत्यापित तिथियां और यात्रा रिकैप",
-      "anchor": "माघ मेला 2026 संपूर्ण यात्रा गाइड",
+      "anchor": "माघ मेला 2026 प्रयागराज",
       "category": "events",
       "productType": "guide",
       "destination": "prayagraj",
@@ -26686,12 +26858,12 @@
       "clicks": 0,
       "impressions": 15,
       "position": 8.6,
-      "score": 43
+      "score": 45
     },
     "/hi/city/prayagraj/events/safe-taxi-magh-mela-seniors-families": {
       "lang": "hi",
-      "title": "बुज़ुर्गों व परिवारों के लिए सुरक्षित माघ मेला टैक्सी – ट्रेन की भीड़ से बचें",
-      "anchor": "बुज़ुर्गों व परिवारों के लिए सुरक्षित माघ मेला…",
+      "title": "प्रयागराज मेला यात्रा: बुज़ुर्गों और परिवारों के लिए सुरक्षा सूची",
+      "anchor": "प्रयागराज मेला यात्रा",
       "category": "events",
       "productType": "route_taxi",
       "destination": "prayagraj",
@@ -26700,12 +26872,12 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 70
     },
     "/hi/city/prayagraj/events/varanasi-to-prayagraj-magh-mela-taxi-booking": {
       "lang": "hi",
       "title": "वाराणसी से प्रयागराज माघ मेला 2026 टैक्सी: आर्काइव और आगे की योजना",
-      "anchor": "वाराणसी से प्रयागराज माघ मेला 2026 टैक्सी बुकिंग",
+      "anchor": "वाराणसी से प्रयागराज माघ मेला 2026 टैक्सी",
       "category": "events",
       "productType": "route_taxi",
       "destination": "prayagraj",
@@ -26714,7 +26886,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 70
     },
     "/hi/city/prayagraj/taxi/prayagraj-to-varanasi-taxi": {
       "lang": "hi",
@@ -26756,7 +26928,7 @@
       "clicks": 73,
       "impressions": 12895,
       "position": 8,
-      "score": 530
+      "score": 537
     },
     "/hi/city/varanasi/activities/sunrise-yoga-varanasi-2026": {
       "lang": "hi",
@@ -26770,7 +26942,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 7.7,
-      "score": 29
+      "score": 28
     },
     "/hi/city/varanasi/events/kartik-purnima-ganga-snan-varanasi-2026": {
       "lang": "hi",
@@ -26784,12 +26956,12 @@
       "clicks": 1,
       "impressions": 352,
       "position": 7.4,
-      "score": 39
+      "score": 41
     },
     "/hi/city/varanasi/events/kashi-tamil-sangamam-2026-varanasi": {
       "lang": "hi",
-      "title": "काशी तमिल संगमम 4.0 (2025) रिकैप और 2026 स्थिति",
-      "anchor": "काशी तमिल संगमम: 2026 स्थिति",
+      "title": "काशी तमिल संगमम: 4.0 (2025) रिकैप और 2026 स्थिति",
+      "anchor": "काशी तमिल संगमम",
       "category": "events",
       "productType": "guide",
       "destination": "varanasi",
@@ -26798,7 +26970,7 @@
       "clicks": 1,
       "impressions": 22,
       "position": 4.2,
-      "score": 33
+      "score": 34
     },
     "/hi/city/varanasi/events/mahindra-kabira-festival-2026-varanasi": {
       "lang": "hi",
@@ -26812,7 +26984,7 @@
       "clicks": 1,
       "impressions": 2,
       "position": 7,
-      "score": 33
+      "score": 34
     },
     "/hi/city/varanasi/events/mahindra-kabira-sunrise-music": {
       "lang": "hi",
@@ -26826,7 +26998,7 @@
       "clicks": 0,
       "impressions": 1,
       "position": 5,
-      "score": 29
+      "score": 30
     },
     "/hi/city/varanasi/food/malaiyo-varanasi-guide": {
       "lang": "hi",
@@ -26854,7 +27026,7 @@
       "clicks": 0,
       "impressions": 4,
       "position": 10.5,
-      "score": 43
+      "score": 42
     },
     "/hi/city/varanasi/food/varanasi-winter-food-itinerary": {
       "lang": "hi",
@@ -26868,7 +27040,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 4,
-      "score": 28
+      "score": 27
     },
     "/hi/city/varanasi/shopping/banarasi-silk-saree-shopping-varanasi-2026": {
       "lang": "hi",
@@ -26882,7 +27054,7 @@
       "clicks": 0,
       "impressions": 1,
       "position": 7,
-      "score": 29
+      "score": 28
     },
     "/hi/city/varanasi/sightseeing/dashashwamedh-ghat-naav-ganga-aarti-guide": {
       "lang": "hi",
@@ -26910,7 +27082,7 @@
       "clicks": 7,
       "impressions": 1287,
       "position": 8.2,
-      "score": 97
+      "score": 98
     },
     "/hi/city/varanasi/sightseeing/namo-ghat-varanasi": {
       "lang": "hi",
@@ -26938,7 +27110,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 67
     },
     "/hi/city/varanasi/taxi/24-7-taxi-varanasi": {
       "lang": "hi",
@@ -26952,7 +27124,7 @@
       "clicks": 1,
       "impressions": 20,
       "position": 8.4,
-      "score": 88
+      "score": 87
     },
     "/hi/city/varanasi/taxi/airport-taxi-service-varanasi": {
       "lang": "hi",
@@ -26966,7 +27138,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 4,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/airport-taxi-varanasi": {
       "lang": "hi",
@@ -26980,7 +27152,7 @@
       "clicks": 0,
       "impressions": 5,
       "position": 9.4,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/airport-to-taj-gateway-varanasi": {
       "lang": "hi",
@@ -26994,7 +27166,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/ayodhya-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -27036,7 +27208,7 @@
       "clicks": 1,
       "impressions": 37,
       "position": 9.9,
-      "score": 89
+      "score": 88
     },
     "/hi/city/varanasi/taxi/bodhgaya-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -27092,7 +27264,7 @@
       "clicks": 0,
       "impressions": 24,
       "position": 8.3,
-      "score": 85
+      "score": 84
     },
     "/hi/city/varanasi/taxi/gorakhpur-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -27106,7 +27278,7 @@
       "clicks": 0,
       "impressions": 32,
       "position": 8.4,
-      "score": 85
+      "score": 84
     },
     "/hi/city/varanasi/taxi/how-to-reach-tent-city-varanasi": {
       "lang": "hi",
@@ -27120,7 +27292,7 @@
       "clicks": 0,
       "impressions": 4,
       "position": 10.5,
-      "score": 44
+      "score": 43
     },
     "/hi/city/varanasi/taxi": {
       "lang": "hi",
@@ -27134,7 +27306,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/jaunpur-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -27148,7 +27320,7 @@
       "clicks": 0,
       "impressions": 15,
       "position": 9.3,
-      "score": 85
+      "score": 84
     },
     "/hi/city/varanasi/taxi/kedar-harishchandra-ghat-taxi-service": {
       "lang": "hi",
@@ -27176,7 +27348,7 @@
       "clicks": 0,
       "impressions": 68,
       "position": 6.5,
-      "score": 71
+      "score": 70
     },
     "/hi/city/varanasi/taxi/lucknow-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -27190,7 +27362,7 @@
       "clicks": 1,
       "impressions": 23,
       "position": 5.8,
-      "score": 74
+      "score": 73
     },
     "/hi/city/varanasi/taxi/luxury-cab-for-tent-city-varanasi": {
       "lang": "hi",
@@ -27204,7 +27376,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/manikarnika-ghat-cremation-guide": {
       "lang": "hi",
@@ -27232,7 +27404,7 @@
       "clicks": 0,
       "impressions": 69,
       "position": 9.7,
-      "score": 86
+      "score": 85
     },
     "/hi/city/varanasi/taxi/one-way-taxi-varanasi": {
       "lang": "hi",
@@ -27246,7 +27418,7 @@
       "clicks": 0,
       "impressions": 6,
       "position": 7.8,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/patna-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -27260,7 +27432,7 @@
       "clicks": 0,
       "impressions": 16,
       "position": 6.8,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/prayagraj-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -27274,7 +27446,7 @@
       "clicks": 0,
       "impressions": 33,
       "position": 4.4,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/shivala-ghat-taxi-service": {
       "lang": "hi",
@@ -27288,7 +27460,7 @@
       "clicks": 1,
       "impressions": 70,
       "position": 6.9,
-      "score": 74
+      "score": 73
     },
     "/hi/city/varanasi/taxi/singrauli-to-varanasi-taxi-fare": {
       "lang": "hi",
@@ -27316,7 +27488,7 @@
       "clicks": 0,
       "impressions": 16,
       "position": 7.1,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/taj-ganges-varanasi-taxi-service": {
       "lang": "hi",
@@ -27330,7 +27502,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/taxi-for-tent-city-varanasi": {
       "lang": "hi",
@@ -27344,7 +27516,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/taxi-near-bhu": {
       "lang": "hi",
@@ -27358,7 +27530,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 9.7,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/taxi-rates-varanasi": {
       "lang": "hi",
@@ -27386,7 +27558,7 @@
       "clicks": 0,
       "impressions": 11,
       "position": 7.2,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/taxi-service-varanasi-cantt-station": {
       "lang": "hi",
@@ -27400,7 +27572,7 @@
       "clicks": 5,
       "impressions": 1652,
       "position": 6.6,
-      "score": 122
+      "score": 121
     },
     "/hi/city/varanasi/taxi/taxi-service-varanasi": {
       "lang": "hi",
@@ -27414,7 +27586,7 @@
       "clicks": 0,
       "impressions": 116,
       "position": 8.2,
-      "score": 86
+      "score": 85
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-assi-ghat-taxi": {
       "lang": "hi",
@@ -27442,7 +27614,7 @@
       "clicks": 0,
       "impressions": 5,
       "position": 7.8,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi": {
       "lang": "hi",
@@ -27470,7 +27642,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-ddu-junction-taxi": {
       "lang": "hi",
@@ -27484,7 +27656,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-deoria-taxi": {
       "lang": "hi",
@@ -27498,7 +27670,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 10,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-ghazipur-taxi": {
       "lang": "hi",
@@ -27512,7 +27684,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 2.5,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-gorakhpur-taxi": {
       "lang": "hi",
@@ -27526,7 +27698,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-jalalpur-taxi": {
       "lang": "hi",
@@ -27540,7 +27712,7 @@
       "clicks": 0,
       "impressions": 7,
       "position": 8.4,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-jaunpur-taxi": {
       "lang": "hi",
@@ -27554,7 +27726,7 @@
       "clicks": 0,
       "impressions": 4,
       "position": 8,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi": {
       "lang": "hi",
@@ -27568,7 +27740,7 @@
       "clicks": 0,
       "impressions": 6,
       "position": 9.8,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-kedar-ghat-taxi": {
       "lang": "hi",
@@ -27610,7 +27782,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 9,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-mirzapur-vindhyachal-taxi": {
       "lang": "hi",
@@ -27638,7 +27810,7 @@
       "clicks": 0,
       "impressions": 9,
       "position": 7.9,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-namo-ghat-taxi": {
       "lang": "hi",
@@ -27652,7 +27824,7 @@
       "clicks": 3,
       "impressions": 445,
       "position": 5.9,
-      "score": 90
+      "score": 89
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-panchganga-ghat-taxi": {
       "lang": "hi",
@@ -27666,7 +27838,7 @@
       "clicks": 0,
       "impressions": 4,
       "position": 6.5,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-patna-taxi": {
       "lang": "hi",
@@ -27708,7 +27880,7 @@
       "clicks": 0,
       "impressions": 5,
       "position": 5.4,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-ramnagar-fort-taxi": {
       "lang": "hi",
@@ -27722,7 +27894,7 @@
       "clicks": 0,
       "impressions": 7,
       "position": 8.4,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-sarnath-taxi": {
       "lang": "hi",
@@ -27736,7 +27908,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 8.5,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-scindia-ghat-taxi": {
       "lang": "hi",
@@ -27750,7 +27922,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 9.3,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-tulsi-ghat-taxi": {
       "lang": "hi",
@@ -27764,7 +27936,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 8.7,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-city-station-taxi": {
       "lang": "hi",
@@ -27778,7 +27950,7 @@
       "clicks": 0,
       "impressions": 8,
       "position": 9.5,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi": {
       "lang": "hi",
@@ -27806,7 +27978,7 @@
       "clicks": 0,
       "impressions": 5,
       "position": 9.4,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-transfer-guide": {
       "lang": "hi",
@@ -27834,7 +28006,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 5.7,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-railway-station-taxi-service": {
       "lang": "hi",
@@ -27848,7 +28020,7 @@
       "clicks": 0,
       "impressions": 25,
       "position": 7.8,
-      "score": 66
+      "score": 65
     },
     "/hi/city/varanasi/taxi/varanasi-to-ayodhya-taxi-fare": {
       "lang": "hi",
@@ -27862,7 +28034,7 @@
       "clicks": 2,
       "impressions": 69,
       "position": 10.5,
-      "score": 94
+      "score": 93
     },
     "/hi/city/varanasi/taxi/varanasi-to-azamgarh-taxi-fare": {
       "lang": "hi",
@@ -27876,7 +28048,7 @@
       "clicks": 0,
       "impressions": 67,
       "position": 16.3,
-      "score": 86
+      "score": 85
     },
     "/hi/city/varanasi/taxi/varanasi-to-ballia-taxi-fare": {
       "lang": "hi",
@@ -27890,7 +28062,7 @@
       "clicks": 1,
       "impressions": 39,
       "position": 8.7,
-      "score": 89
+      "score": 88
     },
     "/hi/city/varanasi/taxi/varanasi-to-bodhgaya-taxi-fare": {
       "lang": "hi",
@@ -27918,7 +28090,7 @@
       "clicks": 0,
       "impressions": 21,
       "position": 7.2,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-to-gaya-taxi-fare": {
       "lang": "hi",
@@ -27932,7 +28104,7 @@
       "clicks": 2,
       "impressions": 28,
       "position": 12.3,
-      "score": 93
+      "score": 92
     },
     "/hi/city/varanasi/taxi/varanasi-to-gaya-taxi-service": {
       "lang": "hi",
@@ -27946,7 +28118,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 6,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/taxi/varanasi-to-ghazipur-taxi-fare": {
       "lang": "hi",
@@ -27960,7 +28132,7 @@
       "clicks": 0,
       "impressions": 26,
       "position": 6.2,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-to-gorakhpur-taxi-fare": {
       "lang": "hi",
@@ -27974,7 +28146,7 @@
       "clicks": 0,
       "impressions": 34,
       "position": 21.9,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-to-jaunpur-taxi-fare": {
       "lang": "hi",
@@ -27988,7 +28160,7 @@
       "clicks": 2,
       "impressions": 70,
       "position": 16.9,
-      "score": 94
+      "score": 93
     },
     "/hi/city/varanasi/taxi/varanasi-to-kushinagar-taxi-fare": {
       "lang": "hi",
@@ -28058,7 +28230,7 @@
       "clicks": 1,
       "impressions": 26,
       "position": 9.3,
-      "score": 89
+      "score": 88
     },
     "/hi/city/varanasi/taxi/varanasi-to-sarnath-taxi": {
       "lang": "hi",
@@ -28086,7 +28258,7 @@
       "clicks": 0,
       "impressions": 26,
       "position": 7.9,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/varanasi-to-vindhyachal-taxi-fare": {
       "lang": "hi",
@@ -28114,7 +28286,7 @@
       "clicks": 0,
       "impressions": 25,
       "position": 7.5,
-      "score": 70
+      "score": 69
     },
     "/hi/city/varanasi/taxi/wedding-tempo-traveller-varanasi": {
       "lang": "hi",
@@ -28128,7 +28300,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 6,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour": {
       "lang": "hi",
@@ -28142,7 +28314,7 @@
       "clicks": 0,
       "impressions": 2,
       "position": 8,
-      "score": 83
+      "score": 82
     },
     "/hi/city/varanasi/tour-packages/ayodhya-varanasi-tour": {
       "lang": "hi",
@@ -28156,7 +28328,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 6.7,
-      "score": 68
+      "score": 67
     },
     "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi": {
       "lang": "hi",
@@ -28198,7 +28370,7 @@
       "clicks": 0,
       "impressions": 33,
       "position": 3,
-      "score": 69
+      "score": 68
     },
     "/hi/city/varanasi/tour-packages/varanasi-3-day-tour": {
       "lang": "hi",
@@ -28212,7 +28384,7 @@
       "clicks": 0,
       "impressions": 1,
       "position": 7,
-      "score": 68
+      "score": 67
     },
     "/hi/city/varanasi/tour-packages/varanasi-gaya-prayagraj-tour-package-elderly": {
       "lang": "hi",
@@ -28226,7 +28398,7 @@
       "clicks": 0,
       "impressions": 0,
       "position": null,
-      "score": 68
+      "score": 67
     },
     "/hi/city/varanasi/travel-guide/varanasi-in-january-2026": {
       "lang": "hi",
@@ -28240,7 +28412,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 6.3,
-      "score": 28
+      "score": 27
     },
     "/banaras-tour-package": {
       "lang": "en",
@@ -28395,6 +28567,34 @@
       "impressions": 0,
       "position": null,
       "score": 40
+    },
+    "/varanasi-taxi-service": {
+      "lang": "en",
+      "title": "Varanasi Taxi Service",
+      "anchor": "Varanasi Taxi Service",
+      "category": "taxi",
+      "productType": "route_taxi",
+      "destination": null,
+      "commercial": true,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 40
+    },
+    "/varanasi-travel-agency": {
+      "lang": "en",
+      "title": "Varanasi Travel Agency",
+      "anchor": "Varanasi Travel Agency",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 0
     }
   }
 }

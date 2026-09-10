@@ -270,12 +270,52 @@ const nextConfig = {
       },
       {
         source: '/en/taxi-service-varanasi',
-        destination: '/',
+        destination: '/varanasi-taxi-service',
         permanent: true,
       },
       {
         source: '/en/city/varanasi/taxi/taxi-service-varanasi',
-        destination: '/',
+        destination: '/varanasi-taxi-service',
+        permanent: true,
+      },
+      {
+        source: '/taxi-service-varanasi',
+        destination: '/varanasi-taxi-service',
+        permanent: true,
+      },
+      {
+        source: '/varanasi-taxi',
+        destination: '/varanasi-taxi-service',
+        permanent: true,
+      },
+      {
+        source: '/varanasi-taxi-services',
+        destination: '/varanasi-taxi-service',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-taxi-service',
+        destination: '/varanasi-taxi-service',
+        permanent: true,
+      },
+      {
+        source: '/en/varanasi-travel-agency',
+        destination: '/varanasi-travel-agency',
+        permanent: true,
+      },
+      {
+        source: '/travel-agency-varanasi',
+        destination: '/varanasi-travel-agency',
+        permanent: true,
+      },
+      {
+        source: '/travel-agency-in-varanasi',
+        destination: '/varanasi-travel-agency',
+        permanent: true,
+      },
+      {
+        source: '/varanasi-tour-and-travels',
+        destination: '/varanasi-travel-agency',
         permanent: true,
       },
       {

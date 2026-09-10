@@ -79,6 +79,7 @@ Whether you need a late-night airport transfer, a women-only Pink Taxi, or a ful
 
 | What you need | Best page |
 |---|---|
+| Official Varanasi Travel Agency & Packages | [Varanasi Travel Agency](/varanasi-travel-agency) |
 | Trusted Varanasi travel agent and tour operator | **This page** |
 | One-day local sightseeing package by car | [Varanasi Local Sightseeing Package](/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package) |
 | Multi-day Varanasi package | [Varanasi Tour Package](/en/packages/varanasi-tour-package) |

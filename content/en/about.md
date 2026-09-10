@@ -1,15 +1,15 @@
 ---
-title: "About Kashi Taxi: Trusted Varanasi Taxis (2026)"
+title: "About Kashi Taxi: Family-Run Cab Network (Est. 1982)"
 slug: "about"
 date: "2026-07-15"
 author: "Utkarsh Pandey"
-description: "Meet Kashi Taxi, a family-run Varanasi taxi service (operated by Vinayak Travels) since 1982. Airport pickups, Pink Taxis and custom tours. Learn our story and book with confidence."
+description: "Meet Kashi Taxi, operated by Vinayak Travels since 1982. Learn our story, local fleet heritage, Pink Taxi initiatives, and passenger safety commitments."
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/aboutUs.svg"
 lang: en-IN
 canonical: "https://www.kashitaxi.in/en/about"
-tags: ["about us", "our story", "Varanasi taxi", "Vinayak Travels Tour", "safe taxi Varanasi"]
-metaTitle: "About Us | Kashi Taxi | Trusted Varanasi Taxi Service Since 1982"
-metaDescription: "Discover the story of Kashi Taxi, a family-run Varanasi taxi service operated by Vinayak Travels. Reliable airport transfers, Pink Taxis for women, and custom tours."
+tags: ["about us", "our story", "Vinayak Travels Tour", "safe taxi Varanasi"]
+metaTitle: "About Kashi Taxi | Family-Run Chauffeur & Cab Network Since 1982"
+metaDescription: "Discover the story of Kashi Taxi, operated by Vinayak Travels since 1982. Reliable airport transfers, Pink Taxis for women, and custom tours across Varanasi."
 ---
 
 # नमस्ते! I’m Utkarsh Pandey—Here’s Our Story 🚖✨

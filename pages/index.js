@@ -298,6 +298,8 @@ export default function HomePage({ allPosts }) {
 
             {/* Single compact helper line — readable on the hero image */}
             <p className="mt-4 mb-2 mx-auto w-fit max-w-full rounded-full bg-black/35 px-4 py-2 text-center text-xs font-semibold text-white shadow-md backdrop-blur-sm md:text-sm">
+              City cabs? <a href="/varanasi-taxi-service" className="font-bold text-amber-300 underline underline-offset-2 hover:text-amber-200">Varanasi Taxi Service</a>
+              <span className="mx-2 text-white/70">|</span>
               Booking a cab only? <a href="/en/city/varanasi/taxi" className="font-bold underline underline-offset-2">See routes & fares</a>
               <span className="mx-2 text-white/70">|</span>
               Need hotel too?{' '}

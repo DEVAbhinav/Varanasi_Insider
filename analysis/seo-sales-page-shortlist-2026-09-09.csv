@@ -1,0 +1,15 @@
+url,path,clicks_7d,impressions_7d,ctr_7d,position_7d,clicks_28d,impressions_28d,ctr_28d,position_28d,priority,action,confidence
+https://www.kashitaxi.in/bike-rentals-varanasi,/bike-rentals-varanasi,129,3978,0.032,6.1,549,16933,0.032400000000000005,6.06,P1,Rank lift,High
+https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-taxi,/hi/varanasi-to-vindhyachal-taxi,24,3328,0.006999999999999999,5.5,184,24219,0.0076,5.72,P1,Consolidate Hindi cluster,High
+https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi,/en/city/varanasi/taxi/varanasi-airport-to-varanasi-junction-taxi,22,2869,0.008,5.2,65,10542,0.0062,5.83,P1,Intent repair + CTR,High
+https://www.kashitaxi.in/en/varanasi-to-vindhyachal-taxi,/en/varanasi-to-vindhyachal-taxi,28,2444,0.011000000000000001,5.9,103,16760,0.0060999999999999995,6.24,P1,Consolidate + retarget,High
+https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi,/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi,38,2332,0.016,4.3,68,12101,0.005600000000000001,5.28,P1,CTR + sales-intent focus,High
+https://www.kashitaxi.in/en/varanasi-to-ayodhya-taxi,/en/varanasi-to-ayodhya-taxi,5,1355,0.004,8.3,37,3817,0.0097,11.42,P1,Consolidate + sales-query rank,High
+https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi,/en/city/varanasi/taxi/varanasi-airport-to-banaras-railway-station-taxi,5,1253,0.004,6.8,13,5175,0.0025,7.18,P1,Intent cleanup,High
+https://www.kashitaxi.in/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service,/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service,0,797,0.0,8.8,2,2873,0.0007000000000000001,9.27,P1,Consolidate + retarget,High
+https://www.kashitaxi.in/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package,/en/city/varanasi/sightseeing/varanasi-local-sightseeing-package,23,537,0.043,5.5,73,2126,0.034300000000000004,6.34,P1,Rank lift,High
+https://www.kashitaxi.in/en/varanasi-to-ayodhya-tempo-traveller,/en/varanasi-to-ayodhya-tempo-traveller,7,136,0.051,5.2,25,592,0.042199999999999994,6.17,P1,Rank lift,High
+https://www.kashitaxi.in/en/city/nepal/taxi/varanasi-to-nepal-taxi,/en/city/nepal/taxi/varanasi-to-nepal-taxi,5,739,0.006999999999999999,3.5,29,3112,0.009300000000000001,4.93,P2,Intent repair,High
+https://www.kashitaxi.in/en/force-urbania-hire-varanasi,/en/force-urbania-hire-varanasi,2,495,0.004,2.4,10,1829,0.0055000000000000005,2.69,P2,Intent repair,High
+https://www.kashitaxi.in/en/varanasi-to-prayagraj-taxi,/en/varanasi-to-prayagraj-taxi,5,237,0.021,9.4,21,2515,0.0083,9.09,P2,Sales-query rank lift,Medium
+https://www.kashitaxi.in/en/senior-citizen-varanasi-tour-package,/en/senior-citizen-varanasi-tour-package,4,150,0.027000000000000003,7.0,25,555,0.045,7.41,P2,Rank lift,Medium

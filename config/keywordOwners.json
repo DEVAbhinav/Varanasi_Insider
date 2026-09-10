@@ -19,11 +19,30 @@
       ]
     },
     {
+      "id": "en-varanasi-taxi-brand",
+      "lang": "en",
+      "owner": "/varanasi-taxi-service",
+      "patterns": [
+        "^(best |reliable |affordable |cheap |top )?varanasi (taxi|cab)( service| services| booking| hire)?$",
+        "^varanasi (taxi|cab)$"
+      ]
+    },
+    {
+      "id": "en-varanasi-travel-agency",
+      "lang": "en",
+      "owner": "/varanasi-travel-agency",
+      "patterns": [
+        "^(best |top |trusted |licensed )?(varanasi )?travel agency( in varanasi)?( contact number| phone number)?$",
+        "^travel agency in mahmoorganj varanasi.*$",
+        "^varanasi travel agency$"
+      ]
+    },
+    {
       "id": "en-generic-taxi",
       "lang": "en",
       "owner": "/",
       "patterns": [
-        "^(best |reliable |affordable |cheap |top )?(varanasi|kashi|kasi|banaras|benaras) (taxi|cab)( service| services| booking| hire)?$",
+        "^(best |reliable |affordable |cheap |top )?(kashi|kasi|banaras|benaras) (taxi|cab)( service| services| booking| hire)?$",
         "^(best |reliable |affordable |cheap |top )?(taxi|cab)( service| services| booking| hire)?( in)? (varanasi|kashi|kasi|banaras|benaras)$",
         "^(taxi|cab) booking$"
       ]
@@ -35,6 +54,60 @@
       "patterns": [
         "^(varanasi|kashi|kasi|banaras|benaras) tour package(s)?( 2026)?$",
         "^tour package(s)? (in|for) (varanasi|kashi|kasi|banaras|benaras)( 2026)?$"
+      ]
+    },
+    {
+      "id": "en-varanasi-gaya-taxi",
+      "lang": "en",
+      "owner": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+      "patterns": [
+        "^varanasi to gaya (taxi|cab)( service| fare| price| booking| cost)?$",
+        "^(taxi|cab) (from )?varanasi to gaya( fare| price| booking| cost)?$"
+      ]
+    },
+    {
+      "id": "en-varanasi-ayodhya-three-day",
+      "lang": "en",
+      "owner": "/en/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+      "patterns": [
+        "^(varanasi ayodhya|ayodhya varanasi) (3 day|2n 3d) tour package$",
+        "^(varanasi ayodhya|ayodhya varanasi) tour package (3 day|2n 3d)$"
+      ]
+    },
+    {
+      "id": "en-manikarnika-overview",
+      "lang": "en",
+      "owner": "/en/manikarnika-ghat-sacred-cremation-grounds",
+      "patterns": [
+        "^manikarnika ghat$",
+        "^manikarnika ghat (history|meaning|rules|guide)$"
+      ]
+    },
+    {
+      "id": "en-manikarnika-taxi-access",
+      "lang": "en",
+      "owner": "/en/city/varanasi/taxi/manikarnika-ghat-cremation-guide",
+      "patterns": [
+        "^(how to reach|taxi to|cab to) manikarnika ghat$",
+        "^manikarnika ghat (taxi|cab|drop point|parking|access)$"
+      ]
+    },
+    {
+      "id": "en-sunrise-boat-time",
+      "lang": "en",
+      "owner": "/en/varanasi-sunrise-boat-ride-timings",
+      "patterns": [
+        "^(varanasi )?sunrise boat ride (time|timing|timings|schedule)$",
+        "^best time for (a )?sunrise boat ride (in )?varanasi$"
+      ]
+    },
+    {
+      "id": "en-sunrise-boat-price",
+      "lang": "en",
+      "owner": "/en/morning-boat-ride-varanasi-price",
+      "patterns": [
+        "^(varanasi )?(morning|sunrise) boat ride (price|cost|fare|booking)$",
+        "^boat ride (price|cost|fare) (in )?varanasi$"
       ]
     }
   ]

@@ -540,7 +540,8 @@ def cmd_self_test(_args):
     pages = build_index()
     cases = {
         "taxi service in varanasi": "/",
-        "varanasi taxi": "/",
+        "varanasi taxi": "/varanasi-taxi-service",
+        "varanasi taxi service": "/varanasi-taxi-service",
         "kashi taxi service": "/",
         "cab booking": "/",
         "night taxi service varanasi": "/en/city/varanasi/taxi/24-7-taxi-varanasi",

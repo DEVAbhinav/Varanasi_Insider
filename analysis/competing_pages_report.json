@@ -1,0 +1,1566 @@
+{
+  "tier1_high": [
+    {
+      "type": "markdown",
+      "file": "content/en/privacy-policy.md",
+      "route": "/en/privacy-policy",
+      "title": "Privacy Policy | Varanasi Taxi Varanasi",
+      "h1": "Privacy Policy",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi services",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "body(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/lucknow-to-varanasi-taxi-fare.md",
+      "route": "/en/lucknow-to-varanasi-taxi-fare",
+      "title": "Lucknow to Varanasi Taxi Fare 2026: Sedan & SUV [Guide]",
+      "h1": "Lucknow to Varanasi Taxi Fare Guide 2026",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "body(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/services/varanasi-safest-taxi-for-women.md",
+      "route": "/en/services/varanasi-safest-taxi-for-women",
+      "title": "Varanasi's Safest Taxi for Women: Verified Drivers, GPS Tracking, Pink Support",
+      "h1": "Safest Taxi Service in Varanasi for Solo Female Traveler: Our Security Promise",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "H1",
+            "keywords",
+            "body(2x)"
+          ]
+        },
+        {
+          "phrase": "taxi service varanasi",
+          "locations": [
+            "H2/H3",
+            "keywords",
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "keywords",
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "H2/H3",
+            "body(3x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/ayodhya/taxi/ayodhya-to-varanasi-taxi.md",
+      "route": "/en/city/ayodhya/taxi/ayodhya-to-varanasi-taxi",
+      "title": "Ayodhya to Varanasi Taxi ₹3,820 — Ram Mandir to Kashi Cab",
+      "h1": "Ayodhya to Varanasi Taxi from ₹3,820 | Complete Divine Quad Circuit",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(14x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab",
+          "locations": [
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/prayagraj/taxi/prayagraj-to-varanasi-taxi.md",
+      "route": "/en/city/prayagraj/taxi/prayagraj-to-varanasi-taxi",
+      "title": "Prayagraj to Varanasi Taxi | Triveni Sangam to Kashi | ₹2,500",
+      "h1": "Prayagraj to Varanasi Taxi from ₹2,500 | Sangam to Kashi Same-Day",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(9x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab",
+          "locations": [
+            "H2/H3",
+            "body(3x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/lucknow/taxi/lucknow-to-varanasi-taxi.md",
+      "route": "/en/city/lucknow/taxi/lucknow-to-varanasi-taxi",
+      "title": "Lucknow to Varanasi Taxi ₹5,883 — One-Way AC Cab via Expressway",
+      "h1": "Lucknow to Varanasi Taxi from ₹5,883 | Direct Cabs | Kashi Taxi",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(11x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/gaya/taxi/gaya-to-varanasi-taxi.md",
+      "route": "/en/city/gaya/taxi/gaya-to-varanasi-taxi",
+      "title": "Gaya to Varanasi Taxi ₹4,813 — Bodhgaya to Kashi Cab",
+      "h1": "Gaya to Varanasi Taxi from ₹4,813 | Pind Daan to Kashi Circuit",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(8x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab",
+          "locations": [
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/kanpur/taxi/kanpur-to-varanasi-taxi.md",
+      "route": "/en/city/kanpur/taxi/kanpur-to-varanasi-taxi",
+      "title": "Kanpur to Varanasi Taxi | Industrial Hub to Kashi | ₹5,500",
+      "h1": "Kanpur to Varanasi Taxi from ₹5,500 | Direct Cabs | Kashi Taxi",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(6x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab",
+          "locations": [
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/one-way-taxi-varanasi.md",
+      "route": "/en/city/varanasi/taxi/one-way-taxi-varanasi",
+      "title": "One-Way Taxi & Round-Trip Cab Service in Varanasi | Kashi Taxi",
+      "h1": "One-Way Taxi from Varanasi & Round-Trip Cab Service",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "cab service in varanasi",
+          "locations": [
+            "metaTitle"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/taxi-rates-varanasi.md",
+      "route": "/en/city/varanasi/taxi/taxi-rates-varanasi",
+      "title": "Varanasi Taxi Fares & Cab Rates | Transparent Pricing | Kashi Taxi",
+      "h1": "Varanasi Taxi Fares & Cab Rates | Transparent Pricing | Kashi Taxi",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "H2/H3",
+            "body(2x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(13x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/gaya-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/gaya-to-varanasi-taxi-fare",
+      "title": "Gaya to Varanasi Taxi Fare from ₹4,813 | 250-255 km",
+      "h1": "Gaya to Varanasi Taxi & Cab Fare 2026: from ₹4,813",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(5x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/bodhgaya-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/bodhgaya-to-varanasi-taxi-fare",
+      "title": "Bodhgaya to Varanasi Taxi Fare from ₹5,004 | 260-265 km",
+      "h1": "Bodhgaya to Varanasi Taxi & Cab Fare 2026: from ₹5,004",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/prayagraj-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/prayagraj-to-varanasi-taxi-fare",
+      "title": "Prayagraj to Varanasi Taxi Fare from ₹2,388 | 120-125 km",
+      "h1": "Prayagraj to Varanasi Taxi & Cab Fare 2026: from ₹2,388",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(5x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/ballia-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/ballia-to-varanasi-taxi-fare",
+      "title": "Ballia to Varanasi Taxi Fare from ₹2,731 | 140-145 km",
+      "h1": "Ballia to Varanasi Taxi & Cab Fare 2026: from ₹2,731",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/kushinagar-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/kushinagar-to-varanasi-taxi-fare",
+      "title": "Kushinagar to Varanasi Taxi Fare from ₹6,303 | 325-335 km",
+      "h1": "Kushinagar to Varanasi Taxi & Cab Fare 2026: from ₹6,303",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/gorakhpur-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/gorakhpur-to-varanasi-taxi-fare",
+      "title": "Gorakhpur to Varanasi Taxi Fare from ₹5,253 | 270-280 km",
+      "h1": "Gorakhpur to Varanasi Taxi & Cab Fare 2026: from ₹5,253",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/lucknow-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/lucknow-to-varanasi-taxi-fare",
+      "title": "Lucknow to Varanasi Taxi Fare from ₹5,883 | 300-316 km",
+      "h1": "Lucknow to Varanasi Taxi & Cab Fare 2026: from ₹5,883",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(5x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/singrauli-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/singrauli-to-varanasi-taxi-fare",
+      "title": "Singrauli to Varanasi Taxi Fare from ₹3,705 | ~194 km",
+      "h1": "Singrauli to Varanasi Taxi & Cab Fare 2026: from ₹3,705",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/patna-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/patna-to-varanasi-taxi-fare",
+      "title": "Patna to Varanasi Taxi Fare from ₹5,081 | 255-278 km (route-dependent)",
+      "h1": "Patna to Varanasi Taxi & Cab Fare 2026: from ₹5,081",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/azamgarh-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/azamgarh-to-varanasi-taxi-fare",
+      "title": "Azamgarh to Varanasi Taxi Fare from ₹1,967 | ~103 km",
+      "h1": "Azamgarh to Varanasi Taxi & Cab Fare 2026: from ₹1,967",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/index.md",
+      "route": "/en/city/varanasi/taxi",
+      "title": "Varanasi Taxi Routes, Transfers & Fare Directory | Kashi Taxi",
+      "h1": "Varanasi Taxi Routes, Transfers & Fare Guides",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "body(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/jaunpur-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/jaunpur-to-varanasi-taxi-fare",
+      "title": "Jaunpur to Varanasi Taxi Fare from ₹1,855 | ~50 km",
+      "h1": "Jaunpur to Varanasi Taxi & Cab Fare 2026: from ₹1,855",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/24-7-taxi-varanasi.md",
+      "route": "/en/city/varanasi/taxi/24-7-taxi-varanasi",
+      "title": "24/7 Night Taxi in Varanasi | Late-Night & Pre-Dawn Cab Booking",
+      "h1": "24/7 Night Taxi in Varanasi | Late-Night & Pre-Dawn Cab Booking",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/delhi-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/delhi-to-varanasi-taxi-fare",
+      "title": "Delhi to Varanasi Taxi Fare from ₹16,407 | ~859 km",
+      "h1": "Delhi to Varanasi Taxi & Cab Fare 2026: from ₹16,407",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/ghazipur-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/ghazipur-to-varanasi-taxi-fare",
+      "title": "Ghazipur to Varanasi Taxi Fare from ₹1,886 | 75-80 km",
+      "h1": "Ghazipur to Varanasi Taxi & Cab Fare 2026: from ₹1,886",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/shivala-ghat-taxi-service.md",
+      "route": "/en/city/varanasi/taxi/shivala-ghat-taxi-service",
+      "title": "Shivala Ghat Taxi Service Varanasi | Fast Pickup & Airport Cab",
+      "h1": "Taxi Service near Shivala Ghat (Hotel Hub & Quiet Retreat)",
+      "findings": [
+        {
+          "phrase": "taxi service varanasi",
+          "locations": [
+            "metaTitle"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/ayodhya-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/ayodhya-to-varanasi-taxi-fare",
+      "title": "Ayodhya to Varanasi Taxi Fare from ₹3,820 | ~200 km",
+      "h1": "Ayodhya to Varanasi Taxi & Cab Fare 2026: from ₹3,820",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(5x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/vindhyachal-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/vindhyachal-to-varanasi-taxi-fare",
+      "title": "Vindhyachal to Varanasi Taxi Fare from ₹1,877 | ~70 km",
+      "h1": "Vindhyachal to Varanasi Taxi & Cab Fare 2026: from ₹1,877",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/mughalsarai-to-varanasi-taxi-fare.md",
+      "route": "/en/city/varanasi/taxi/mughalsarai-to-varanasi-taxi-fare",
+      "title": "Mughalsarai to Varanasi Taxi Fare from ₹920 | 17-18 km",
+      "h1": "Mughalsarai to Varanasi Taxi & Cab Fare 2026: from ₹920",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "metaTitle",
+            "H1",
+            "H2/H3",
+            "body(4x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "jsx_page",
+      "file": "pages/varanasi-taxi-service.js",
+      "route": "/varanasi-taxi-service",
+      "title": "Varanasi Taxi Service™ | Official 24×7 Cab Booking & Rates – Vinayak Travels",
+      "h1": "Varanasi Taxi Service",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "title_tag",
+            "H1",
+            "code/jsx(23x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi services",
+          "locations": [
+            "code/jsx(2x)"
+          ]
+        },
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "code/jsx(2x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "title_tag",
+            "H1",
+            "code/jsx(34x)"
+          ]
+        },
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "code/jsx(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab service",
+          "locations": [
+            "code/jsx(2x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab",
+          "locations": [
+            "code/jsx(4x)"
+          ]
+        },
+        {
+          "phrase": "best taxi service in varanasi",
+          "locations": [
+            "code/jsx(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "jsx_page",
+      "file": "pages/index.js",
+      "route": "/",
+      "title": "Taxi in Varanasi | Best Cab Service & Car Rental in Varanasi – Kashi Taxi",
+      "h1": "Taxi in Varanasi — 24×7 Cab Service, Airport Pickup & Outstation",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "code/jsx(1x)"
+          ]
+        },
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "code/jsx(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "code/jsx(5x)"
+          ]
+        },
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "title_tag",
+            "H1",
+            "code/jsx(8x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab service",
+          "locations": [
+            "code/jsx(1x)"
+          ]
+        },
+        {
+          "phrase": "cab service in varanasi",
+          "locations": [
+            "code/jsx(2x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab",
+          "locations": [
+            "code/jsx(1x)"
+          ]
+        },
+        {
+          "phrase": "cab in varanasi",
+          "locations": [
+            "code/jsx(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "jsx_page",
+      "file": "pages/404.jsx",
+      "route": "/404x",
+      "title": "404 — Lost in Kashi | Varanasi Taxi",
+      "h1": "404 — Page Not Found",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "title_tag",
+            "code/jsx(1x)"
+          ]
+        }
+      ]
+    }
+  ],
+  "tier2_moderate": [
+    {
+      "type": "markdown",
+      "file": "content/en/tempo-traveller-wedding-varanasi.md",
+      "route": "/en/tempo-traveller-wedding-varanasi",
+      "title": "Tempo Traveller Wedding Varanasi: Guest Transport [2026]",
+      "h1": "Tempo Traveller for Wedding Transport in Varanasi",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/tempo-traveller-varanasi.md",
+      "route": "/en/tempo-traveller-varanasi",
+      "title": "Tempo Traveller Varanasi Hire ₹2,500+ | 12 & 17 Seater Rates",
+      "h1": "Tempo Traveller Hire in Varanasi — 2026 Rates",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/landing/dev-deepawali-taxi-booking-varanasi.md",
+      "route": "/en/services/dev-deepawali-taxi-booking-varanasi",
+      "title": "Guaranteed Taxi Booking for Dev Deepawali 2026: Fixed Fares, No Surges",
+      "h1": "Guaranteed Taxi Booking for Dev Deepawali 2026: Fixed Fares, No Surges",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "keywords"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi.md",
+      "route": "/en/services/varanasi-ayodhya-prayagraj-pilgrimage-taxi",
+      "title": "Varanasi to Ayodhya & Prayagraj Taxi: A Pilgrim's Travel Guide",
+      "h1": "Varanasi to Ayodhya & Prayagraj Taxi: A Pilgrim's Travel Guide",
+      "findings": [
+        {
+          "phrase": "taxi service varanasi",
+          "locations": [
+            "H2/H3",
+            "keywords",
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/services/varanasi-full-day-city-tour-winter-2026.md",
+      "route": "/en/services/varanasi-full-day-city-tour-winter-2026",
+      "title": "Varanasi Full Day Tour ₹2,200: Winter 2026-26 Package [Book]",
+      "h1": "Varanasi Full-Day City Tour by Car: Packages & Pricing for Winter 2026",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "H2/H3",
+            "keywords",
+            "body(2x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "keywords",
+            "body(2x)"
+          ]
+        },
+        {
+          "phrase": "cab service in varanasi",
+          "locations": [
+            "H2/H3",
+            "keywords",
+            "body(2x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab",
+          "locations": [
+            "H2/H3",
+            "keywords",
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "best cab service in varanasi",
+          "locations": [
+            "H2/H3",
+            "keywords",
+            "body(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/patna/taxi/varanasi-to-patna-taxi.md",
+      "route": "/en/city/patna/taxi/varanasi-to-patna-taxi",
+      "title": "Varanasi to Patna Cab | Bihar Capital | ₹5,081 | Kashi Taxi",
+      "h1": "Varanasi to Patna Taxi | Bihar Capital Cabs from ₹5,081",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(3x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/khajuraho/taxi/varanasi-to-khajuraho-taxi.md",
+      "route": "/en/city/khajuraho/taxi/varanasi-to-khajuraho-taxi",
+      "title": "Varanasi to Khajuraho Taxi | UNESCO Temples | ₹6,500 | Kashi Taxi",
+      "h1": "Varanasi to Khajuraho Taxi | UNESCO Temples | ₹6,500",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/agra/taxi/varanasi-to-agra-taxi.md",
+      "route": "/en/city/agra/taxi/varanasi-to-agra-taxi",
+      "title": "Varanasi to Agra Taxi | Taj Mahal Express Cab from ₹8,000",
+      "h1": "Varanasi to Agra Taxi | Taj Mahal Tour | ₹8,000",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/jaipur/taxi/varanasi-to-jaipur-taxi.md",
+      "route": "/en/city/jaipur/taxi/varanasi-to-jaipur-taxi",
+      "title": "Varanasi to Jaipur Taxi | Pink City Tour | ₹10,000 | Kashi Taxi",
+      "h1": "Varanasi to Jaipur Taxi | Pink City of Rajasthan | ₹10,000",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/gorakhpur/taxi/varanasi-to-gorakhpur-taxi.md",
+      "route": "/en/city/gorakhpur/taxi/varanasi-to-gorakhpur-taxi",
+      "title": "Varanasi to Gorakhpur Taxi | Nepal Gateway | ₹5,253 | Kashi Taxi",
+      "h1": "Varanasi to Gorakhpur Taxi | Nepal Border Gateway | Cabs from ₹5,253",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/lucknow/taxi/varanasi-to-lucknow-taxi.md",
+      "route": "/en/city/lucknow/taxi/varanasi-to-lucknow-taxi",
+      "title": "Varanasi to Lucknow Cab | Corporate Travel | ₹5,883 | Kashi Taxi",
+      "h1": "Varanasi to Lucknow Taxi | UP Capital Cabs from ₹5,883",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(3x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/bodhgaya/taxi/varanasi-to-bodhgaya-taxi.md",
+      "route": "/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi",
+      "title": "Varanasi to Bodhgaya Distance: 260-265 km, ~6 hr | Taxi ₹5,004 [2026]",
+      "h1": "Varanasi to Bodhgaya Taxi | Buddhist Pilgrimage | Starts from ₹5,004",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/delhi/taxi/varanasi-to-delhi-taxi.md",
+      "route": "/en/city/delhi/taxi/varanasi-to-delhi-taxi",
+      "title": "Varanasi to Delhi Taxi | National Capital | ₹16,407 | Kashi Taxi",
+      "h1": "Varanasi to Delhi Taxi | NCR Transfer | ₹16,407",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/gaya/taxi/varanasi-to-gaya-taxi.md",
+      "route": "/en/city/gaya/taxi/varanasi-to-gaya-taxi",
+      "title": "Varanasi to Gaya Cab | Vishnupad Temple Taxi | ₹4,813 | Kashi Taxi",
+      "h1": "Varanasi to Gaya Taxi | Vishnupad Temple Cabs from ₹4,813",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/taxi-near-bhu.md",
+      "route": "/en/city/varanasi/taxi/taxi-near-bhu",
+      "title": "Taxi Near BHU Varanasi | Quick Cab Pickup | Kashi Taxi",
+      "h1": "Taxi Near BHU Varanasi | Quick Cab Service",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/luxury-cab-for-tent-city-varanasi.md",
+      "route": "/en/city/varanasi/taxi/luxury-cab-for-tent-city-varanasi",
+      "title": "Luxury Cab for Tent City Varanasi | Niraan & Praveg Guest Transfers",
+      "h1": "Luxury Cab for Tent City Varanasi | Niraan & Praveg Transfers",
+      "findings": [
+        {
+          "phrase": "varanasi cab",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/wedding-tempo-traveller-varanasi.md",
+      "route": "/en/city/varanasi/taxi/wedding-tempo-traveller-varanasi",
+      "title": "Wedding Taxi & Tempo Traveller Rental in Varanasi | Group Travel | Kashi Taxi",
+      "h1": "Wedding Tempo Traveller in Varanasi & Group Cab Rental",
+      "findings": [
+        {
+          "phrase": "cab in varanasi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/hi/destinations/varanasi/taxi/24-7-taxi-varanasi.md",
+      "route": "/hi/city/varanasi/taxi/24-7-taxi-varanasi",
+      "title": "24/7 टैक्सी सेवा वाराणसी | लेट-नाइट एयरपोर्ट व इमरजेंसी कैब",
+      "h1": "वाराणसी 24/7 टैक्सी सेवा | नाइट कैब और इमरजेंसी ट्रांसपोर्ट",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi cab",
+          "locations": [
+            "H2/H3",
+            "body(1x)"
+          ]
+        }
+      ]
+    }
+  ],
+  "tier3_low": [
+    {
+      "type": "markdown",
+      "file": "content/en/what-to-wear-in-varanasi.md",
+      "route": "/en/what-to-wear-in-varanasi",
+      "title": "What to Wear in Varanasi 2026: Temple Dress Code Mistakes to Avoid",
+      "h1": "What to Wear in Varanasi: 2026 Local Dress Code Guide",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/tourist-spots-varanasi.md",
+      "route": "/en/tourist-spots-varanasi",
+      "title": "Varanasi Tourist Spots - Taxi Packages & Routes 2026",
+      "h1": "Varanasi's Best Tourist Spots + Taxi Bookings",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/varanasi-to-ayodhya-taxi.md",
+      "route": "/en/varanasi-to-ayodhya-taxi",
+      "title": "Varanasi to Ayodhya Taxi Fare ₹3,820 | Book Ram Mandir Cab",
+      "h1": "Varanasi to Ayodhya Taxi Fare & Booking",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/varanasi-sightseeing-complete-guide.md",
+      "route": "/en/varanasi-sightseeing-complete-guide",
+      "title": "Varanasi Sightseeing Guide [2026]: Top Attractions & Itineraries",
+      "h1": "Varanasi Sightseeing Guide 2026: Complete Travel Guide to Banaras Tourist Spots",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/varanasi-to-ayodhya-12-seater-tempo-traveller.md",
+      "route": "/en/varanasi-to-ayodhya-12-seater-tempo-traveller",
+      "title": "Varanasi to Ayodhya 12-Seater Traveller | Family Charter 2026",
+      "h1": "Varanasi to Ayodhya 12 Seater Tempo Traveller – Family Playbook",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/safety-and-security-in-varanasi-guide-for-solo-travellar.md",
+      "route": "/en/safety-and-security-in-varanasi-guide-for-solo-travellar",
+      "title": "Varanasi Safety Guide [2026]: Emergency #s & Scams to Avoid",
+      "h1": "Safety & Security in Varanasi: A First-Person Guide",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/varanasi-travel-agent.md",
+      "route": "/en/varanasi-travel-agent",
+      "title": "Varanasi Travel Agent | Tour Operators in Varanasi | Kashi Taxi",
+      "h1": "Varanasi Travel Agent: Trusted Tour Operators in Varanasi | Kashi Taxi",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/tour-package-from-varanasi.md",
+      "route": "/en/tour-package-from-varanasi",
+      "title": "Tour Packages from Varanasi | Ayodhya, Prayagraj, Group Circuits",
+      "h1": "Tour Packages from Varanasi: varanasi tour package & Multi-City Pilgrim Circuits",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/varanasi-to-lucknow-tempo-traveller.md",
+      "route": "/en/varanasi-to-lucknow-tempo-traveller",
+      "title": "Varanasi to Lucknow Tempo Traveller | Wi-Fi Corporate Shuttle",
+      "h1": "Varanasi to Lucknow Tempo Traveller Hire (2026)",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/varanasi-to-gaya-bodh-gaya-tour-package.md",
+      "route": "/en/varanasi-to-gaya-bodh-gaya-tour-package",
+      "title": "Varanasi to Gaya & Bodhgaya Tour Package | Pind Daan & Buddhist Tour",
+      "h1": "Varanasi to Bodh Gaya Taxi Fare 2026 – 255 km, 5–6 hrs, Sedan from ₹5,500",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/about.md",
+      "route": "/en/about",
+      "title": "About Kashi Taxi | Family-Run Chauffeur & Cab Network Since 1982",
+      "h1": "नमस्ते! I’m Utkarsh Pandey—Here’s Our Story 🚖✨",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "body(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/outstation-cabs-from-varanasi.md",
+      "route": "/en/outstation-cabs-from-varanasi",
+      "title": "Outstation Cabs Varanasi: Innova, Ertiga, Tempo [2026]",
+      "h1": "Outstation Cabs from Varanasi — Innova Crysta, Ertiga, SUVs & Tempo Traveller (6–12 Seater)",
+      "findings": [
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/packages/varanasi-tour-package.md",
+      "route": "/en/packages/varanasi-tour-package",
+      "title": "Varanasi Tour Package 2026 | 2, 3 & 4 Day Kashi Tour from ₹7,080",
+      "h1": "Varanasi Tour Package for 2, 3 or 4 Days",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "taxi in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/services/hotel-booking-in-varanasi.md",
+      "route": "/en/services/hotel-booking-in-varanasi",
+      "title": "Hotel Booking in Varanasi | Near Ghats, Kashi Vishwanath & Cantt | Kashi Taxi",
+      "h1": "Hotel Booking in Varanasi for Comfortable, Hassle-Free Stays",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/varanasi-to-gaya-taxi-service.md",
+      "route": "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service",
+      "title": "Varanasi to Gaya Taxi ₹4,813 | Bodhgaya, Pind Daan & 250-255 km Cab",
+      "h1": "Door-to-Door vs. Station Struggle: Varanasi to Gaya Taxi Service",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/varanasi-city-tour-cab.md",
+      "route": "/en/city/varanasi/taxi/varanasi-city-tour-cab",
+      "title": "Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Tour | Kashi Taxi",
+      "h1": "Varanasi City Tour Cab | Kashi Darshan Full Day & Half Day Sightseeing",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/airport-to-taj-gateway-varanasi.md",
+      "route": "/en/city/varanasi/taxi/airport-to-taj-gateway-varanasi",
+      "title": "Varanasi Airport to Taj Gateway / Ganges Taxi | Premium Cab ₹899",
+      "h1": "Airport to Taj Gateway Varanasi: Complete Transfer Guide",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/varanasi-airport-transfer-guide.md",
+      "route": "/en/city/varanasi/taxi/varanasi-airport-transfer-guide",
+      "title": "Varanasi Airport Transfer Guide 2026 | Routes, Logistics, Barricades & Arrival Ops",
+      "h1": "Varanasi Airport Transfer Guide 2026: Routes, Logistics & Booking Handoffs",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/en/destinations/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi.md",
+      "route": "/en/city/varanasi/taxi/varanasi-airport-to-kashi-vishwanath-taxi",
+      "title": "Airport to Kashi Vishwanath Distance & Taxi Fare (₹899)",
+      "h1": "VNS Airport to Kashi Vishwanath Temple ₹890 | Corridor Drop, 40min (2026)",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/hi/destinations/varanasi/taxi/one-way-taxi-varanasi.md",
+      "route": "/hi/city/varanasi/taxi/one-way-taxi-varanasi",
+      "title": "वाराणसी में One-Way Taxi और Round-Trip Cab Service | Kashi Taxi",
+      "h1": "वाराणसी वन-वे टैक्सी और Round-Trip Cab Service",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/hi/destinations/varanasi/taxi/taxi-rates-varanasi.md",
+      "route": "/hi/city/varanasi/taxi/taxi-rates-varanasi",
+      "title": "वाराणसी टैक्सी किराया और कैब रेट | पारदर्शी प्राइसिंग | Kashi Taxi",
+      "h1": "वाराणसी टैक्सी किराया और कैब रेट | पारदर्शी प्राइसिंग | Kashi Taxi",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(1x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/hi/destinations/varanasi/taxi/varanasi-city-tour-cab.md",
+      "route": "/hi/city/varanasi/taxi/varanasi-city-tour-cab",
+      "title": "वाराणसी सिटी टूर कैब | फुल डे और हाफ डे काशी दर्शन | Kashi Taxi",
+      "h1": "वाराणसी सिटी टूर कैब | फुल डे और हाफ डे काशी दर्शन",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "body(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "markdown",
+      "file": "content/hi/destinations/varanasi/taxi/taxi-service-varanasi.md",
+      "route": "/hi/city/varanasi/taxi/taxi-service-varanasi",
+      "title": "वाराणसी टैक्सी सर्विस | लोकल व आउटस्टेशन कैब ₹12/किमी से",
+      "h1": "वाराणसी टैक्सी सेवा: किराया, लोकप्रिय रूट और ऑनलाइन बुकिंग",
+      "findings": [
+        {
+          "phrase": "varanasi taxi service",
+          "locations": [
+            "body(2x)"
+          ]
+        },
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "body(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "jsx_page",
+      "file": "pages/bike-rentals-varanasi.js",
+      "route": "/bike-rentals-varanasi",
+      "title": "Bike & Scooty Rental in Varanasi from ₹449/day | Self-Drive",
+      "h1": "Bike & Scooty Rental in Varanasi",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "code/jsx(11x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "jsx_page",
+      "file": "pages/rates/outstation-taxi-varanasi.jsx",
+      "route": "/rates/outstation-taxi-varanasix",
+      "title": "Varanasi Outstation Taxi Rates, Deals & Online Booking Guide (2026)",
+      "h1": "",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "code/jsx(2x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "jsx_page",
+      "file": "pages/en/services.js",
+      "route": "/en/services",
+      "title": "",
+      "h1": "",
+      "findings": [
+        {
+          "phrase": "taxi service in varanasi",
+          "locations": [
+            "code/jsx(1x)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "jsx_page",
+      "file": "pages/[lang]/packages/[slug].js",
+      "route": "/[lang]/packages/[slug]",
+      "title": "",
+      "h1": "{title}",
+      "findings": [
+        {
+          "phrase": "varanasi taxi",
+          "locations": [
+            "code/jsx(2x)"
+          ]
+        }
+      ]
+    }
+  ]
+}

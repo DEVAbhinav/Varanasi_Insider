@@ -122,6 +122,23 @@ test.describe('P1 Verification — WhatsApp, Phone Validation, Security Headers'
     expect(robotsMeta).toContain('index');
   });
 
+  for (const path of [
+    '/en/varanasi-family-homestay-4bhk-sigra',
+    '/hi/varanasi-family-homestay-4bhk-sigra',
+  ]) {
+    test(`Homestay page is indexable: ${path}`, async ({ page }) => {
+      const response = await page.goto(`${BASE}${path}`);
+
+      expect(response?.status()).toBe(200);
+      expect(response?.headers()['x-robots-tag']).toBeUndefined();
+      await expect(page.locator('meta[name="robots"]')).toHaveAttribute('content', 'index, follow');
+      await expect(page.locator('link[rel="canonical"]')).toHaveAttribute(
+        'href',
+        `https://www.kashitaxi.in${path}`,
+      );
+    });
+  }
+
   // ─── Dynamic import / framer-motion not on critical path ─────
 
   test('MobileLeadPopup does not block initial page render', async ({ page }) => {

@@ -9,14 +9,13 @@ export default function BookingPage() {
   return (
     <>
       <Head>
-        <title>Book Varanasi Taxi Online | Airport Taxi & Tempo Traveller Booking 2026</title>
+        <title>Online Cab Booking & Instant Quote | Kashi Taxi</title>
         <meta 
           name="description" 
-          content={`Book Varanasi taxi & tempo traveller online. VNS Airport taxi, local Kashi darshan, outstation cabs to Ayodhya Prayagraj. AC vehicles, expert drivers. Instant booking ☎ ${CONTACT.callNumberDisplay.replace('+91 ', '')}`} 
+          content={`Book your Kashi taxi & tempo traveller online. Instant quote for airport pickup, city darshan & outstation trips. AC vehicles, expert drivers. ☎ ${CONTACT.callNumberDisplay}`} 
         />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.varanasiinsider.com/booking" />
-        <meta name="keywords" content="book varanasi taxi online, varanasi airport taxi booking, tempo traveller on rent varanasi, kashi taxi service, varanasi cab booking, outstation taxi from varanasi, book taxi varanasi to ayodhya, varanasi local taxi, kashi darshan taxi" />
+        <link rel="canonical" href="https://www.kashitaxi.in/booking" />
       </Head>
 
       <NavBar />
@@ -24,7 +23,7 @@ export default function BookingPage() {
 
       <div className="min-h-screen bg-gradient-to-b from-blue-50 via-cyan-50 to-blue-50">
         {/* Hero Section */}
-        <section className="relative bg-gradient-to-br from-blue-500 via-cyan-500 to-teal-400 text-white py-20 overflow-hidden">
+        <section className="relative bg-gradient-to-br from-blue-600 via-cyan-600 to-teal-500 text-white py-16 overflow-hidden">
           {/* Decorative Pattern */}
           <div className="absolute inset-0 opacity-10">
             <div className="absolute inset-0" style={{
@@ -35,31 +34,50 @@ export default function BookingPage() {
           
           {/* Content */}
           <div className="container mx-auto px-4 max-w-4xl text-center relative z-10">
-            <div className="inline-block mb-4 px-4 py-1 bg-white/20 backdrop-blur-sm rounded-full text-sm font-medium">
-              TRUSTED KASHI TAXI SERVICE
+            <div className="inline-block mb-3 px-4 py-1 bg-white/20 backdrop-blur-sm rounded-full text-xs font-semibold uppercase tracking-wider">
+              24×7 ONLINE DISPATCH DESK
             </div>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 drop-shadow-lg">
-              Book Varanasi Taxi & Tempo Traveller Online
+            <h1 className="text-3xl md:text-5xl font-extrabold mb-4 drop-shadow-lg">
+              Online Cab Booking & Instant Quote
             </h1>
-            <p className="text-xl md:text-2xl text-blue-50 mb-8 font-light max-w-2xl mx-auto">
-              Varanasi Airport Taxi • Kashi Darshan Tour • Tempo Traveller on Rent • Outstation Cabs
+            <p className="text-base md:text-lg text-blue-50 mb-6 font-light max-w-2xl mx-auto">
+              Reserve your vehicle in 60 seconds. Instant vehicle allocation, flight tracking, and verified chauffeurs.
             </p>
-            <div className="flex flex-wrap justify-center gap-3 text-sm md:text-base">
-              <div className="flex items-center gap-2 bg-white/15 backdrop-blur-md px-5 py-2.5 rounded-full border border-white/20 hover:bg-white/25 transition-all">
-                <span className="text-xl">✓</span>
+
+            {/* Quick Action Buttons */}
+            <div className="flex flex-wrap items-center justify-center gap-3 mb-6">
+              <a
+                href={`tel:${CONTACT.callNumberRaw}`}
+                className="rounded-xl bg-white px-5 py-2.5 text-xs md:text-sm font-bold text-slate-900 shadow-md hover:bg-blue-50 transition"
+              >
+                Call: {CONTACT.callNumberDisplay}
+              </a>
+              <a
+                href={`https://wa.me/${CONTACT.whatsappNumberInternational}?text=${encodeURIComponent('Hi, I want to book a taxi/tempo traveller. Date: __, Route: __, Passengers: __.')}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-xl bg-emerald-500 px-5 py-2.5 text-xs md:text-sm font-bold text-white shadow-md hover:bg-emerald-600 transition"
+              >
+                WhatsApp Quick Booking
+              </a>
+            </div>
+
+            <div className="flex flex-wrap justify-center gap-2 text-xs md:text-sm">
+              <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-md px-4 py-1.5 rounded-full border border-white/20">
+                <span>✓</span>
                 <span>Instant Confirmation</span>
               </div>
-              <div className="flex items-center gap-2 bg-white/15 backdrop-blur-md px-5 py-2.5 rounded-full border border-white/20 hover:bg-white/25 transition-all">
-                <span className="text-xl">✓</span>
-                <span>AC Vehicles</span>
+              <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-md px-4 py-1.5 rounded-full border border-white/20">
+                <span>✓</span>
+                <span>AC Clean Fleet</span>
               </div>
-              <div className="flex items-center gap-2 bg-white/15 backdrop-blur-md px-5 py-2.5 rounded-full border border-white/20 hover:bg-white/25 transition-all">
-                <span className="text-xl">✓</span>
-                <span>Expert Drivers</span>
+              <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-md px-4 py-1.5 rounded-full border border-white/20">
+                <span>✓</span>
+                <span>Verified Drivers</span>
               </div>
-              <div className="flex items-center gap-2 bg-white/15 backdrop-blur-md px-5 py-2.5 rounded-full border border-white/20 hover:bg-white/25 transition-all">
-                <span className="text-xl">✓</span>
-                <span>Fixed Rates</span>
+              <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-md px-4 py-1.5 rounded-full border border-white/20">
+                <span>✓</span>
+                <span>Fixed Transparent Rates</span>
               </div>
             </div>
           </div>

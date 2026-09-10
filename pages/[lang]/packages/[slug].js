@@ -53,7 +53,7 @@ export default function PackagePage({ pkgData, commerce = null, contentHtml, jso
   return (
     <>
       {/* Central SEO Head: pass slug with packages/ segment so canonical matches route */}
-      <HeadForBlogs postData={{ title, description: subtitle, featuredImage: heroImage }} pageLang={pageLang} pageSlug={`packages/${pageSlug}`} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
+      <HeadForBlogs postData={pkgData} pageLang={pageLang} pageSlug={`packages/${pageSlug}`} jsonLdData={jsonLdData} alternateLanguages={alternateLanguages} />
 
       <NavBar />
 

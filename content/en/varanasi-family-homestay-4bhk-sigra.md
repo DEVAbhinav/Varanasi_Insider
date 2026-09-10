@@ -5,6 +5,7 @@ date: "2026-07-03"
 lastUpdated: "2026-08-23"
 author: "Varanasi Insider Team"
 lang: en
+noindex: false
 metaTitle: "4BHK Homestay Near Varanasi Cantt Station & Rudraksh Centre | Sigra"
 metaDescription: "Private 4BHK family homestay in Shastri Nagar, Sigra — 500m to Varanasi Cantt Station, 800m to Rudraksh Convention Centre, 2.8km to Dashashwamedh Ghat. Sleeps 10, 4 AC rooms, modular kitchen, parking."
 description: "Entire 4BHK flat homestay in central Sigra (Shastri Nagar), Varanasi. Walking distance to Varanasi Cantt Railway Station and Rudraksh Convention Centre, 10 mins to Dashashwamedh Ghat & Kashi Vishwanath. Sleeps 10 with kitchen, balcony & parking."
@@ -203,5 +204,4 @@ Message us on **WhatsApp** with your travel dates and group size, or call **+91 
   <div style="font-size:15px;opacity:0.95;margin-bottom:14px;">Shastri Nagar, Sigra · 5-min walk to Cantt Station · 800m to Rudraksh · Sleeps 10</div>
   <a href="https://wa.me/919935474730?text=Hi%2C%20I%27d%20like%20to%20check%20availability%20for%20the%204BHK%20family%20homestay%20near%20Cantt%20Station%20and%20Rudraksh%20in%20Sigra%2C%20Varanasi" style="display:block;text-align:center;background:#ffffff;color:#0369a1;font-weight:800;font-size:17px;padding:14px 18px;border-radius:9999px;text-decoration:none;">Message on WhatsApp →</a>
 </div>
-
 

@@ -12,7 +12,7 @@ const getHomeSchema = (site) => ({
       '@type': 'WebSite',
       '@id': `${site}/#website`,
       url: `${site}/`,
-      name: 'Taxi in Varanasi | Varanasi Taxi Service - Kashi Taxi',
+      name: 'Kashi Taxi - Trusted Taxi & Cab Service in Varanasi',
       inLanguage: 'en',
       publisher: { '@id': `${site}/#org` },
       potentialAction: {
@@ -24,8 +24,8 @@ const getHomeSchema = (site) => ({
     {
       '@type': ['LocalBusiness', 'TaxiService', 'TouristInformationCenter'],
       '@id': `${site}/#org`,
-      name: 'Kashi Taxi | Varanasi Taxi Service (operated by Vinayak Travels)',
-      alternateName: ['Taxi in Varanasi', 'Varanasi Taxi Service', 'Varanasi Taxi', 'Cab in Varanasi', 'Varanasi Cab Service', 'Taxi Service in Varanasi', 'Varanasi Travels', 'Vinayak Travels Varanasi', 'Tempo Traveller Varanasi'],
+      name: 'Kashi Taxi (operated by Vinayak Travels)',
+      alternateName: ['Taxi in Varanasi', 'Kashi Cabs', 'Cab in Varanasi', 'Kashi Taxi Service', 'Varanasi Travels', 'Vinayak Travels Varanasi', 'Tempo Traveller Varanasi'],
       url: `${site}/`,
       logo: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/logo.jpeg',
       image: [

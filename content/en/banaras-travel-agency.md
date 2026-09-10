@@ -284,6 +284,7 @@ We are your **Banaras travel agency partner**, ensuring that your journey throug
 
 ## Explore More About Banaras With Kashi Taxi
 
+- [**Varanasi Travel Agency (Curated Tour Packages)**](/varanasi-travel-agency): All-inclusive Kashi darshan, Ayodhya, Prayagraj & Gaya packages
 - [**Complete Varanasi Sightseeing Guide 2026**](https://kashitaxi.in/en/varanasi-sightseeing-complete-guide): Ghats, temples, Sarnath, and hidden gems
 - [**15 Best Tourist Spots in Varanasi**](https://kashitaxi.in/en/tourist-spots-varanasi): Comprehensive list with travel tips
 - [**Kashi Darshan Tempo Traveller Packages**](https://kashitaxi.in/en/kashi-darshan-tempo-traveller): Group tours and multi-city options

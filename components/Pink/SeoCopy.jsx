@@ -12,8 +12,8 @@ export default function PinkSeoCopy() {
           or want a chauffeur to accompany you between temples, we stay on the call throughout the ride and share driver details before dispatch.
         </p>
         <p className="text-base leading-relaxed md:text-lg">
-          Pink Taxi covers Assi, Dashashwamedh, Godowlia, BHU, Sarnath, Cantt station, major hotels, women&apos;s hostels and outstation routes like <Link className="text-pink-600 underline" href="/en/varanasi-to-ayodhya">Varanasi to Ayodhya</Link>,
-          <Link className="text-pink-600 underline" href="/en/varanasi-to-prayagraj">Prayagraj</Link> and <Link className="text-pink-600 underline" href="/en/varanasi-to-gaya-bodh-gaya-tour-package">Bodh Gaya</Link>. Drivers carry emergency contact cards, spare dupattas and quick-dial shortcuts to Women Power-Line 1091 and UP 112.
+          Pink Taxi covers Assi, Dashashwamedh, Godowlia, BHU, Sarnath, Cantt station, major hotels, women&apos;s hostels and outstation routes like <Link className="text-pink-600 underline" href="/en/varanasi-to-ayodhya-taxi">Varanasi to Ayodhya</Link>,
+          <Link className="text-pink-600 underline" href="/en/varanasi-to-prayagraj-taxi">Prayagraj</Link> and <Link className="text-pink-600 underline" href="/en/varanasi-to-gaya-bodh-gaya-tour-package">Bodh Gaya</Link>. Drivers carry emergency contact cards, spare dupattas and quick-dial shortcuts to Women Power-Line 1091 and UP 112.
         </p>
         <p className="text-base leading-relaxed md:text-lg">
           To reserve your trusted cab, WhatsApp <a className="text-pink-600 underline" href={CONTACT.whatsappUrl} target="_blank" rel="noopener noreferrer">{CONTACT.whatsappNumberDisplay}</a>

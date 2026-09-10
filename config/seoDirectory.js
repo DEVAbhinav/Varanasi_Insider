@@ -49,13 +49,14 @@ const FOOTER_GROUPS = [
     id: 'taxi-services',
     title: 'Taxi Services in Varanasi',
     pins: [
+      { path: '/varanasi-taxi-service', label: 'Varanasi Taxi Service (24×7 City Cabs)' },
       { path: '/', label: 'Taxi & Cab Service in Varanasi' },
       { path: '/en/city/varanasi/taxi', label: 'Browse Taxi Routes & Fare Guides' },
       { path: '/en/varanasi-airport-taxi-guide', label: 'Varanasi Airport Taxi (from ₹899)' },
       { path: '/en/city/varanasi/taxi/24-7-taxi-varanasi', label: 'Night & Early-Morning Taxi' },
       { path: '/en/city/varanasi/taxi/one-way-taxi-varanasi', label: 'One-Way Outstation Taxi' },
     ],
-    fill: { category: 'taxi', max: 8 },
+    fill: { category: 'taxi', max: 9 },
   },
   {
     id: 'boat-aarti',
@@ -77,6 +78,7 @@ const FOOTER_GROUPS = [
       { path: '/en/varanasi-tour-package-with-hotel', label: 'Tour Package with Hotel' },
       { path: '/en/senior-citizen-varanasi-tour-package', label: 'Senior Citizen Package' },
       { path: '/banaras-tour-package', label: 'Banaras Tour Package' },
+      { path: '/varanasi-travel-agency', label: 'Varanasi Travel Agency Desk' },
     ],
     fill: { category: 'tour-packages', max: 9 },
   },
@@ -156,10 +158,12 @@ const CROSS_SELL_BY_CATEGORY = {
   ],
   'tour-packages': [
     '/en/packages/varanasi-tour-package',
+    '/varanasi-travel-agency',
     '/en/packages/varanasi-boat-ride-booking',
     '/',
   ],
   taxi: [
+    '/varanasi-taxi-service',
     '/',
     '/en/17-seater-tempo-traveller-varanasi',
     '/en/packages/varanasi-tour-package',
