@@ -45,6 +45,7 @@ api/local.settings.json
 docs/*
 !docs/scheduledTasks/
 !docs/navratri-nava-durga-varanasi-research-2026.md
+!docs/sorahia-mela-lakshmi-kund-varanasi-research-2026.md
 test-results/
 .playwright-cli/
 output/
