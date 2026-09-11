@@ -14,7 +14,7 @@ import {
 export default function HeroBookingWidget() {
   const router = useRouter();
   const [step, setStep] = useState(1); // Step 1: Trip details, Step 2: Contact info
-  const [tripType, setTripType] = useState('one-way'); // 'one-way' | 'round-trip'
+  const [tripType, setTripType] = useState('round-trip'); // 'round-trip' | 'one-way' (default: round-trip)
   const [selectedVehicleId, setSelectedVehicleId] = useState(null);
 
   // Autocomplete dropdown visibility states
@@ -23,10 +23,19 @@ export default function HeroBookingWidget() {
   const pickupRef = useRef(null);
   const destRef = useRef(null);
 
+  // Smart default date in local timezone (YYYY-MM-DD)
+  const getTodayDateString = () => {
+    const d = new Date();
+    const year = d.getFullYear();
+    const month = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    return `${year}-${month}-${day}`;
+  };
+
   const initialFormData = {
     pickup: '',
     destination: '',
-    date: '',
+    date: getTodayDateString(),
     passengers: '1',
     name: '',
     phone: '',
@@ -66,15 +75,16 @@ export default function HeroBookingWidget() {
     networkErrorMessage: `Network error. Please call us at ${CONTACT.callNumberDisplay.replace('+91 ', '')}`,
     onNetworkError: (err) => console.error('Booking error:', err),
     buildPayload: (data) => {
-      const activeVehicleObj =
-        VEHICLE_OPTIONS.find((v) => v.id === (selectedVehicleId || recommendVehicle(data.passengers))) ||
+      const payloadVehicleId = selectedVehicleId || recommendVehicle(data.passengers);
+      const vehicleObj =
+        VEHICLE_OPTIONS.find((v) => v.id === payloadVehicleId) ||
         VEHICLE_OPTIONS[0];
       const fareQuote = resolveFare({
         pickup: data.pickup,
         destination: data.destination,
         passengers: data.passengers,
         tripType,
-        vehicleId: selectedVehicleId || undefined,
+        vehicleId: payloadVehicleId,
       });
       const fareString = fareQuote?.canCompute ? `₹${fareQuote.fare.toLocaleString('en-IN')}` : null;
       const tripTypeLabel = fareQuote?.isOutstation
@@ -89,17 +99,17 @@ export default function HeroBookingWidget() {
         email: data.email,
         passengers: data.passengers,
         tripType: tripTypeLabel,
-        pickupLocation: data.pickup,
+        pickupLocation: data.pickup || 'Varanasi',
         destination: data.destination,
         pickupDate: data.date,
         estimatedFare: fareString,
-        vehicleType: activeVehicleObj.name,
-        message: `Booking Request: ${data.pickup} → ${data.destination} | Date: ${data.date} | Passengers: ${data.passengers}${fareString ? ` | Est. Fare: ${fareString} (${activeVehicleObj.name})` : ''}`,
+        vehicleType: vehicleObj.name,
+        message: `Booking Request: ${data.pickup || 'Varanasi'} → ${data.destination} | Date: ${data.date} | Passengers: ${data.passengers}${fareString ? ` | Est. Fare: ${fareString} (${vehicleObj.name})` : ''}`,
         source: 'Homepage Hero Pricing Widget',
       };
     },
     buildAnalytics: (data) => ({
-      trip_origin: data.pickup,
+      trip_origin: data.pickup || 'Varanasi',
       trip_destination: data.destination,
       travel_date: data.date,
       passenger_count: data.passengers,
@@ -107,87 +117,212 @@ export default function HeroBookingWidget() {
     }),
   });
 
-  // Pre-populate from URL query params (e.g. ?pickup=Airport&destination=Assi%20Ghat&trip=round-trip)
-  useEffect(() => {
-    if (!router.isReady) return;
-    const { pickup, destination, date, passengers, trip } = router.query;
-    if (pickup || destination || date || passengers) {
-      setFormData((prev) => ({
-        ...prev,
-        pickup: pickup ? String(pickup) : prev.pickup,
-        destination: destination ? String(destination) : prev.destination,
-        date: date ? String(date) : prev.date,
-        passengers: passengers ? String(passengers) : prev.passengers,
-      }));
-    }
-    if (trip === 'round-trip' || trip === 'one-way') {
-      setTripType(trip);
-    }
-  }, [router.isReady, router.query, setFormData]);
-
-  // Calculate live fare estimate
-  const currentVehicleId = selectedVehicleId || recommendVehicle(formData.passengers);
-  const activeVehicleObj = VEHICLE_OPTIONS.find((v) => v.id === currentVehicleId) || VEHICLE_OPTIONS[0];
+  // Active vehicle state & live fare estimate
+  const activeVehicleId = selectedVehicleId || recommendVehicle(formData.passengers);
+  const currentVehicleId = activeVehicleId;
+  const activeVehicleObj = VEHICLE_OPTIONS.find((v) => v.id === activeVehicleId) || VEHICLE_OPTIONS[0];
 
   const fareQuote = useMemo(() => {
-    if (!formData.pickup || !formData.destination) return null;
+    if (!formData.destination) return null;
     return resolveFare({
       pickup: formData.pickup,
       destination: formData.destination,
       passengers: formData.passengers,
       tripType,
-      vehicleId: currentVehicleId,
+      vehicleId: activeVehicleId,
     });
-  }, [formData.pickup, formData.destination, formData.passengers, tripType, currentVehicleId]);
+  }, [formData.pickup, formData.destination, formData.passengers, tripType, activeVehicleId]);
 
   // Autocomplete matching lists
   const pickupSuggestions = useMemo(() => searchPlaces(formData.pickup), [formData.pickup]);
   const destSuggestions = useMemo(() => searchPlaces(formData.destination), [formData.destination]);
 
-  // Shallow sync to URL query bar when places or trip type change
-  useEffect(() => {
-    if (!router.isReady) return;
-    if (formData.pickup || formData.destination) {
-      const query = { ...router.query };
-      let changed = false;
-      if (formData.pickup && query.pickup !== formData.pickup) {
-        query.pickup = formData.pickup;
-        changed = true;
-      }
-      if (formData.destination && query.destination !== formData.destination) {
-        query.destination = formData.destination;
-        changed = true;
-      }
-      if (formData.passengers && formData.passengers !== '1' && query.passengers !== formData.passengers) {
-        query.passengers = formData.passengers;
-        changed = true;
-      }
-      if (tripType !== 'one-way' && query.trip !== tripType) {
-        query.trip = tripType;
-        changed = true;
-      }
+  // Helper to extract and sanitize URL query params (supports aliases)
+  const extractUrlParams = (query) => {
+    if (!query) return null;
+    const pickupVal = query.pickup || query.from || query.origin || '';
+    const destVal = query.destination || query.to || query.dest || '';
+    const dateVal = query.date || '';
+    const paxRaw = query.passengers || query.pax || '';
+    const tripRaw = query.trip || query.type || '';
+    const vehicleRaw = query.vehicle || query.car || '';
 
-      if (changed) {
-        router.replace({ pathname: router.pathname, query }, undefined, { shallow: true });
-      }
+    const validPax = ['1', '2', '3', '4', '5-6', '7+'];
+    const sanitizedPax = validPax.includes(String(paxRaw)) ? String(paxRaw) : null;
+    const sanitizedTrip = tripRaw === 'one-way' || tripRaw === 'round-trip' ? tripRaw : null;
+    const sanitizedVehicle = VEHICLE_OPTIONS.some((v) => v.id === vehicleRaw) ? vehicleRaw : null;
+
+    return {
+      pickup: pickupVal ? String(pickupVal) : null,
+      destination: destVal ? String(destVal) : null,
+      date: dateVal ? String(dateVal) : null,
+      passengers: sanitizedPax,
+      trip: sanitizedTrip,
+      vehicle: sanitizedVehicle,
+    };
+  };
+
+  const isUserModified = useRef(false);
+  const hasHydratedFromUrl = useRef(false);
+  const [copied, setCopied] = useState(false);
+
+  // Pre-populate once from URL query params (supports aliases & browser searchParams)
+  useEffect(() => {
+    if (!router.isReady || hasHydratedFromUrl.current) return;
+    hasHydratedFromUrl.current = true;
+
+    let sourceQuery = router.query;
+    if ((!sourceQuery || Object.keys(sourceQuery).length === 0) && typeof window !== 'undefined' && window.location.search) {
+      const searchParams = new URLSearchParams(window.location.search);
+      sourceQuery = Object.fromEntries(searchParams.entries());
     }
-  }, [formData.pickup, formData.destination, formData.passengers, tripType, router]);
+
+    const parsed = extractUrlParams(sourceQuery);
+    if (!parsed) return;
+
+    if (parsed.pickup || parsed.destination || parsed.date || parsed.passengers) {
+      setFormData((prev) => ({
+        ...prev,
+        pickup: parsed.pickup !== null ? parsed.pickup : prev.pickup,
+        destination: parsed.destination !== null ? parsed.destination : prev.destination,
+        date: parsed.date !== null ? parsed.date : prev.date,
+        passengers: parsed.passengers !== null ? parsed.passengers : prev.passengers,
+      }));
+    }
+    if (parsed.trip) {
+      setTripType(parsed.trip);
+    }
+    if (parsed.vehicle) {
+      setSelectedVehicleId(parsed.vehicle);
+    }
+  }, [router.isReady, router.query, setFormData]);
+
+  // Browser Back/Forward (popstate) synchronization
+  useEffect(() => {
+    const handlePopState = () => {
+      if (typeof window === 'undefined') return;
+      const searchParams = new URLSearchParams(window.location.search);
+      const parsed = extractUrlParams(Object.fromEntries(searchParams.entries()));
+      if (!parsed) return;
+
+      isUserModified.current = false;
+      setFormData((prev) => ({
+        ...prev,
+        pickup: parsed.pickup !== null ? parsed.pickup : '',
+        destination: parsed.destination !== null ? parsed.destination : '',
+        date: parsed.date !== null ? parsed.date : getTodayDateString(),
+        passengers: parsed.passengers !== null ? parsed.passengers : '1',
+      }));
+      if (parsed.trip) setTripType(parsed.trip);
+      if (parsed.vehicle) setSelectedVehicleId(parsed.vehicle);
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, [setFormData]);
+
+  // Debounced shallow sync to URL query bar ONLY when user modifies inputs
+  useEffect(() => {
+    if (!router.isReady || !hasHydratedFromUrl.current || !isUserModified.current) return;
+
+    const timer = setTimeout(() => {
+      const currentQuery = router.query || {};
+      const nextQuery = {};
+
+      if (formData.pickup) nextQuery.pickup = formData.pickup;
+      if (formData.destination) nextQuery.destination = formData.destination;
+      if (formData.passengers && formData.passengers !== '1') nextQuery.passengers = formData.passengers;
+      if (tripType && tripType !== 'round-trip') nextQuery.trip = tripType;
+      if (selectedVehicleId) nextQuery.vehicle = selectedVehicleId;
+
+      const hasChanged =
+        (currentQuery.pickup || '') !== (nextQuery.pickup || '') ||
+        (currentQuery.destination || '') !== (nextQuery.destination || '') ||
+        (currentQuery.passengers || '1') !== (nextQuery.passengers || '1') ||
+        (currentQuery.trip || 'round-trip') !== (nextQuery.trip || 'round-trip') ||
+        (currentQuery.vehicle || '') !== (nextQuery.vehicle || '');
+
+      if (hasChanged) {
+        router.replace(
+          { pathname: router.pathname, query: nextQuery },
+          undefined,
+          { shallow: true }
+        );
+      }
+    }, 300);
+
+    return () => clearTimeout(timer);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [
+    formData.pickup,
+    formData.destination,
+    formData.passengers,
+    tripType,
+    selectedVehicleId,
+    router.isReady,
+    router.pathname,
+  ]);
+
+  // Helper to build canonical deep link URL
+  const buildCurrentDeepLink = () => {
+    const origin = typeof window !== 'undefined' ? window.location.origin : 'https://www.kashitaxi.in';
+    const path = router?.pathname || '/';
+    const params = new URLSearchParams();
+    if (formData.pickup) params.set('pickup', formData.pickup);
+    if (formData.destination) params.set('destination', formData.destination);
+    if (formData.passengers && formData.passengers !== '1') params.set('passengers', formData.passengers);
+    if (tripType && tripType !== 'round-trip') params.set('trip', tripType);
+    if (activeVehicleId) params.set('vehicle', activeVehicleId);
+
+    const queryString = params.toString();
+    return `${origin}${path}${queryString ? `?${queryString}` : ''}`;
+  };
+
+  // 1-Tap Copy Link to Clipboard
+  const handleCopyDeepLink = async () => {
+    const deepLink = buildCurrentDeepLink();
+    try {
+      if (navigator?.clipboard?.writeText) {
+        await navigator.clipboard.writeText(deepLink);
+      } else {
+        const textarea = document.createElement('textarea');
+        textarea.value = deepLink;
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+      }
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2500);
+
+      gtag.event({
+        action: 'copy_quote_link',
+        category: 'Engagement',
+        label: 'Hero Booking Widget',
+        trip_origin: formData.pickup || 'Varanasi',
+        trip_destination: formData.destination,
+      });
+    } catch (err) {
+      console.warn('Failed to copy link:', err);
+    }
+  };
 
   // 1-Tap Share Quote with Family on WhatsApp
   const handleShareQuoteWithFamily = () => {
-    const origin = typeof window !== 'undefined' ? window.location.origin : 'https://www.kashitaxi.in';
-    const deepLink = `${origin}/?pickup=${encodeURIComponent(formData.pickup)}&destination=${encodeURIComponent(formData.destination)}&passengers=${formData.passengers}&trip=${tripType}`;
+    const deepLink = buildCurrentDeepLink();
     const fareText = fareQuote?.canCompute ? `₹${fareQuote.fare.toLocaleString('en-IN')}` : 'Fair fixed quote';
     const tripText = tripType === 'round-trip' ? 'Round-trip' : 'One-way';
+    const pickupDisplay = formData.pickup || 'Varanasi';
+    const destDisplay = formData.destination || 'Destination';
 
-    const text = `🚕 *Kashi Taxi Quote for Our Trip*\nRoute: ${formData.pickup} → ${formData.destination}\nEstimated Fare: ${fareText} (${tripText} for ${activeVehicleObj.name})\n✓ All-inclusive: fuel, driver bhatta & highway tolls included.\n✓ Fixed rate, no surge, verified local chauffeur.\n\nCheck route details & book here:\n${deepLink}`;
+    const text = `🚕 *Kashi Taxi Quote for Our Trip*\nRoute: ${pickupDisplay} → ${destDisplay}\nEstimated Fare: ${fareText} (${tripText} for ${activeVehicleObj.name})\n✓ All-inclusive: fuel, driver bhatta & highway tolls included.\n✓ Fixed rate, no surge, verified local chauffeur.\n\nCheck route details & book here:\n${deepLink}`;
 
     gtag.event({
       action: 'share_quote_whatsapp',
       category: 'Engagement',
       label: 'Hero Booking Widget',
-      trip_origin: formData.pickup,
-      trip_destination: formData.destination,
+      trip_origin: pickupDisplay,
+      trip_destination: destDisplay,
     });
 
     window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank', 'noopener,noreferrer');
@@ -349,6 +484,7 @@ export default function HeroBookingWidget() {
                     name="pickup"
                     value={formData.pickup}
                     onChange={(e) => {
+                      isUserModified.current = true;
                       handleChange(e);
                       setPickupOpen(true);
                     }}
@@ -369,6 +505,7 @@ export default function HeroBookingWidget() {
                         key={place.id}
                         onMouseDown={(e) => {
                           e.preventDefault(); // Prevent input blur before click registers
+                          isUserModified.current = true;
                           setFormData((prev) => ({ ...prev, pickup: place.shortName }));
                           setPickupOpen(false);
                         }}
@@ -398,6 +535,7 @@ export default function HeroBookingWidget() {
                     name="destination"
                     value={formData.destination}
                     onChange={(e) => {
+                      isUserModified.current = true;
                       handleChange(e);
                       setDestOpen(true);
                     }}
@@ -418,6 +556,7 @@ export default function HeroBookingWidget() {
                         key={place.id}
                         onMouseDown={(e) => {
                           e.preventDefault();
+                          isUserModified.current = true;
                           setFormData((prev) => ({ ...prev, destination: place.shortName }));
                           setDestOpen(false);
                         }}
@@ -446,9 +585,12 @@ export default function HeroBookingWidget() {
                     type="date"
                     name="date"
                     value={formData.date}
-                    onChange={handleChange}
+                    onChange={(e) => {
+                      isUserModified.current = true;
+                      handleChange(e);
+                    }}
                     className="w-full pl-9 pr-3 py-2.5 rounded-lg border-2 border-gray-200 focus:border-cyan-500 focus:ring-2 focus:ring-cyan-100 text-gray-800 transition-all outline-none bg-white shadow-sm text-sm"
-                    min={new Date().toISOString().split('T')[0]}
+                    min={getTodayDateString()}
                     required
                   />
                 </div>
@@ -467,6 +609,7 @@ export default function HeroBookingWidget() {
                     name="passengers"
                     value={formData.passengers}
                     onChange={(e) => {
+                      isUserModified.current = true;
                       handleChange(e);
                       // Auto-update vehicle when passenger tier shifts unless explicitly customized
                       setSelectedVehicleId(recommendVehicle(e.target.value));
@@ -485,14 +628,14 @@ export default function HeroBookingWidget() {
             </div>
 
             {/* Real-Time Pricing Engine Output Box */}
-            {formData.pickup && formData.destination && (
+            {formData.destination && (
               <div className="my-3 rounded-xl border border-cyan-200 bg-gradient-to-br from-cyan-50/90 via-teal-50/70 to-blue-50/90 p-3.5 shadow-sm">
                 {fareQuote?.canCompute ? (
                   <div>
                     {/* Header Row: Fare + Trip Type Toggle */}
                     <div className="flex flex-wrap items-center justify-between gap-2 pb-2.5 border-b border-cyan-200/80">
                       <div>
-                        <div className="flex items-baseline gap-2">
+                        <div className="flex flex-wrap items-baseline gap-2">
                           <span className="text-[11px] font-bold uppercase tracking-wider text-cyan-900">
                             Estimated Rough Fare:
                           </span>
@@ -502,6 +645,11 @@ export default function HeroBookingWidget() {
                           <span className="text-xs font-semibold text-cyan-800">
                             ({activeVehicleObj.name})
                           </span>
+                          {fareQuote.isDefaultOrigin && (
+                            <span className="text-[10px] font-semibold text-cyan-800 bg-white/90 border border-cyan-300 px-2 py-0.5 rounded-full shadow-xs">
+                              Origin: Varanasi
+                            </span>
+                          )}
                         </div>
                         <p className="text-[11px] text-gray-600 mt-0.5">
                           {fareQuote.inclusions}
@@ -513,17 +661,23 @@ export default function HeroBookingWidget() {
                         <div className="flex items-center rounded-lg bg-white p-1 border border-cyan-200 shadow-sm text-xs font-semibold">
                           <button
                             type="button"
-                            onClick={() => setTripType('one-way')}
-                            className={`px-3 py-1 rounded-md transition-all ${tripType === 'one-way' ? 'bg-cyan-600 text-white shadow-sm' : 'text-gray-600 hover:text-gray-900'}`}
-                          >
-                            One-Way
-                          </button>
-                          <button
-                            type="button"
-                            onClick={() => setTripType('round-trip')}
+                            onClick={() => {
+                              isUserModified.current = true;
+                              setTripType('round-trip');
+                            }}
                             className={`px-3 py-1 rounded-md transition-all ${tripType === 'round-trip' ? 'bg-cyan-600 text-white shadow-sm' : 'text-gray-600 hover:text-gray-900'}`}
                           >
                             Round-Trip
+                          </button>
+                          <button
+                            type="button"
+                            onClick={() => {
+                              isUserModified.current = true;
+                              setTripType('one-way');
+                            }}
+                            className={`px-3 py-1 rounded-md transition-all ${tripType === 'one-way' ? 'bg-cyan-600 text-white shadow-sm' : 'text-gray-600 hover:text-gray-900'}`}
+                          >
+                            One-Way
                           </button>
                         </div>
                       )}
@@ -538,7 +692,10 @@ export default function HeroBookingWidget() {
                           <button
                             type="button"
                             key={v.id}
-                            onClick={() => setSelectedVehicleId(v.id)}
+                            onClick={() => {
+                              isUserModified.current = true;
+                              setSelectedVehicleId(v.id);
+                            }}
                             className={`px-2.5 py-1.5 rounded-lg border text-left transition-all ${isSelected ? 'border-cyan-600 bg-white shadow-md ring-1 ring-cyan-500' : 'border-gray-200/80 bg-white/70 hover:bg-white text-gray-700'}`}
                           >
                             <div className="text-[11px] font-bold text-gray-800 truncate">
@@ -555,7 +712,7 @@ export default function HeroBookingWidget() {
                       })}
                     </div>
 
-                    {/* Bottom Row: Share Quote with Family + Canonical Guide Link */}
+                    {/* Bottom Row: Share Quote with Family + Copy Link + Canonical Guide Link */}
                     <div className="mt-2.5 pt-2 border-t border-cyan-200/60 flex flex-wrap items-center justify-between gap-2 text-xs">
                       {fareQuote.canonicalUrl ? (
                         <Link
@@ -568,29 +725,50 @@ export default function HeroBookingWidget() {
                         <span className="text-gray-600">✓ Fixed rate • No surge pricing • Verified chauffeur</span>
                       )}
 
-                      {/* 1-Tap Share Quote with Family on WhatsApp */}
-                      <button
-                        type="button"
-                        onClick={handleShareQuoteWithFamily}
-                        className="inline-flex items-center gap-1 px-3 py-1 bg-emerald-100 hover:bg-emerald-200 text-emerald-800 font-semibold rounded-md transition-colors"
-                        title="Share this fare quote with your family on WhatsApp"
-                      >
-                        <span>📲 Share Fare with Family</span>
-                      </button>
+                      <div className="flex items-center gap-2">
+                        {/* 1-Tap Copy Link */}
+                        <button
+                          type="button"
+                          onClick={handleCopyDeepLink}
+                          className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-md text-xs font-semibold transition-all border ${copied ? 'bg-emerald-600 border-emerald-600 text-white shadow-xs' : 'bg-white border-gray-300 hover:bg-gray-50 text-gray-700'}`}
+                          title="Copy shareable link to this route quote"
+                        >
+                          <span>{copied ? '✓ Copied!' : '🔗 Copy Link'}</span>
+                        </button>
+
+                        {/* 1-Tap Share Quote with Family on WhatsApp */}
+                        <button
+                          type="button"
+                          onClick={handleShareQuoteWithFamily}
+                          className="inline-flex items-center gap-1 px-3 py-1 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold rounded-md transition-colors shadow-xs"
+                          title="Share this fare quote with your family on WhatsApp"
+                        >
+                          <span>📲 WhatsApp Share</span>
+                        </button>
+                      </div>
                     </div>
                   </div>
                 ) : (
-                  <div className="flex items-center justify-between gap-2 text-xs text-gray-700">
+                  <div className="flex flex-wrap items-center justify-between gap-2 text-xs text-gray-700">
                     <p>
                       <strong>Custom Route:</strong> Our team will confirm exact door-to-door fares via WhatsApp or Call with zero surge.
                     </p>
-                    <button
-                      type="button"
-                      onClick={handleShareQuoteWithFamily}
-                      className="shrink-0 px-2.5 py-1 bg-white border border-gray-200 hover:bg-gray-50 rounded font-medium text-gray-700"
-                    >
-                      📲 Share Route
-                    </button>
+                    <div className="flex items-center gap-1.5 shrink-0">
+                      <button
+                        type="button"
+                        onClick={handleCopyDeepLink}
+                        className={`px-2 py-1 rounded text-xs font-medium border ${copied ? 'bg-emerald-600 border-emerald-600 text-white' : 'bg-white border-gray-200 hover:bg-gray-50 text-gray-700'}`}
+                      >
+                        {copied ? '✓ Copied!' : '🔗 Copy'}
+                      </button>
+                      <button
+                        type="button"
+                        onClick={handleShareQuoteWithFamily}
+                        className="px-2.5 py-1 bg-emerald-600 hover:bg-emerald-700 text-white rounded font-medium text-xs"
+                      >
+                        📲 Share
+                      </button>
+                    </div>
                   </div>
                 )}
               </div>
