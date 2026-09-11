@@ -1,16 +1,16 @@
 ---
-title: "Varanasi to Sarnath Taxi Fare from ₹1,200 | Book Cab"
+title: "Varanasi to Sarnath Taxi Fare from ₹913 | Book Cab"
 slug: varanasi-to-sarnath-taxi
 date: '2026-07-15'
-lastUpdated: '2026-08-11'
+lastUpdated: '2026-09-11'
 author: Kamal Nayan Singh
 lang: en
-metaTitle: 'Varanasi to Sarnath Taxi Fare ₹1,200 | Return from ₹2,000'
+metaTitle: 'Varanasi to Sarnath Taxi Fare ₹913 | Return from ₹1,226'
 metaDescription: >-
-  Book Varanasi to Sarnath taxi from ₹1,200 one-way or ₹2,000–₹2,500 return with waiting.
-  AC sedan, monument-gate drop, fixed fare. Skip hotel markups. WhatsApp +91 99354 74730.
+  Book Varanasi to Sarnath taxi from ₹913 one-way or ₹1,226 return with waiting.
+  AC sedan, Ertiga from ₹1,268, Crysta from ₹1,618. Monument-gate drop, fixed fare. WhatsApp +91 99354 74730.
 description: >-
-  Varanasi to Sarnath taxi booking — fixed one-way, return and full-day fares, auto vs cab comparison, and how to book.
+  Varanasi to Sarnath taxi booking — fixed one-way and return fares from ₹913, vehicle-wise pricing, auto vs cab comparison, and how to book.
 location:
   name: Sarnath
   address: 'Sarnath, Varanasi, Uttar Pradesh 221007'
@@ -33,8 +33,8 @@ template: destination
 faqSchema:
   - question: How much is taxi fare from Varanasi to Sarnath?
     answer: >-
-      One-way AC sedan is ₹1,200–₹1,500. Return with 3–4 hours waiting is ₹2,000–₹2,500.
-      Full-day Sarnath experience is about ₹2,500–₹3,000. Hotel desks often quote ₹3,500–₹4,500 for the same run.
+      One-way AC sedan is ₹913. Return with 3–4 hours waiting is ₹1,226.
+      Ertiga is ₹1,268 one-way / ₹1,536 return, and Innova Crysta is ₹1,618 / ₹2,036. Hotel desks often quote ₹3,500–₹4,500 for the same run.
   - question: How do I book a Varanasi to Sarnath cab?
     answer: >-
       WhatsApp or call +91 99354 74730 with pickup hotel, time and one-way vs return.
@@ -56,15 +56,15 @@ faqSchema:
       Yes. Sarnath sits on the north side of the city and works as a stop toward Lucknow/Delhi routes
       or as a morning add-on before a Bodhgaya run. Tell us the full plan when you book.
 offers:
-  - price: '1200'
+  - price: '913'
     priceCurrency: INR
-    name: One-Way Varanasi to Sarnath Taxi
-  - price: '2000'
+    name: One-Way Varanasi to Sarnath Sedan
+  - price: '1226'
     priceCurrency: INR
-    name: Return Trip with Waiting
-  - price: '2500'
+    name: Return Trip with Waiting (Sedan)
+  - price: '2036'
     priceCurrency: INR
-    name: Full-Day Sarnath Experience
+    name: Return Trip with Waiting (Innova Crysta)
 provider:
   name: Kashi Taxi
   telephone: +91-9935474730
@@ -87,9 +87,9 @@ relatedPosts:
 
 > **TL;DR — book the cab, not a distance essay:**
 >
-> - **One-way sedan** → ₹1,200–₹1,500
-> - **Return + waiting** → ₹2,000–₹2,500
-> - **Full day** → ₹2,500–₹3,000
+> - **One-way sedan** → ₹913
+> - **Return + waiting** → ₹1,226 (Dzire) · ₹1,536 (Ertiga) · ₹2,036 (Crysta)
+> - **Tempo Traveller** → ₹2,236 one-way · ₹2,472 return (12-Seater)
 > - **Drive** → about 30–45 minutes from most city hotels
 >
 > Hotel desk quotes of ₹3,500+ for the same trip are common. Direct booking is cheaper.
@@ -98,15 +98,16 @@ relatedPosts:
 
 ## Varanasi to Sarnath Taxi Fare
 
-| Package | What you get | Fare |
-|---|---|---:|
-| **One-way** | Hotel → Sarnath gate drop | ₹1,200–₹1,500 |
-| **Return (3–4 hr wait)** | Half-day pilgrimage | ₹2,000–₹2,500 |
-| **Full day (7–8 hr)** | Slow visit + optional guide | ₹2,500–₹3,000 |
-| **With English guide** | Site walk + museum | add ~₹500–₹800 |
-| **Sarnath + Bodhgaya combo (2-day)** | Transport + overnight plan | ₹5,500–₹7,000 |
+| Vehicle | Seating | One-Way Drop | Return Trip (with waiting) | Best For |
+|---|:---:|---:|---:|---|
+| **Sedan (Dzire)** | 4 pax | ₹913 | ₹1,226 | Couples & small families |
+| **Ertiga** | 6 pax | ₹1,268 | ₹1,536 | Families with extra bags |
+| **Innova** | 7 pax | ₹1,418 | ₹1,736 | Family highway comfort |
+| **Innova Crysta** | 7 pax | ₹1,618 | ₹2,036 | Premium AC comfort |
+| **12-Seater Tempo** | 12 pax | ₹2,236 | ₹2,472 | Buddhist sangha & groups |
+| **17-Seater Tempo** | 17 pax | ₹2,436 | ₹2,872 | Larger pilgrim groups |
 
-These package bands are the same numbers used in the page schema offers (₹1,200 one-way · ₹2,000 return · ₹2,500 full-day).
+These vehicle fares are powered by our official route pricing engine (Sedan ₹913 one-way · ₹1,226 return with waiting).
 
 {{CTA:SARNATH_CAB:en}}
 
@@ -130,7 +131,7 @@ Many travellers first search **Varanasi to Sarnath auto fare** before booking a 
 |---|---:|---:|---|---|
 | Shared auto (tempo) | ₹30–₹50 / seat | not offered | 50–70 min | crowded, no wait |
 | Reserved auto | ₹300–₹450 | ₹600–₹800 | 45–60 min | open air, no AC |
-| **AC taxi (sedan)** | **₹1,200–₹1,500** | **₹2,000–₹2,500** | **30–45 min** | private, gate drop |
+| **AC taxi (sedan)** | **₹913** | **₹1,226** | **30–45 min** | private, gate drop |
 
 Solo backpacker → shared auto one-way is fine. Couple, family, heat, elders or luggage → taxi. Return packages include waiting so you are not stranded at the monument gate.
 
@@ -141,15 +142,15 @@ Solo backpacker → shared auto one-way is fine. Couple, family, heat, elders or
 3. Get fixed fare + driver name + vehicle before pickup
 4. Same-morning bookings usually work if you message before 8 AM
 
-Hotel desks often quote ₹3,500–₹4,500 for the same return run we do from ₹2,000–₹2,500.
+Hotel desks often quote ₹3,500–₹4,500 for the same return run we do from ₹1,226.
 
 ## Hotel quote vs direct
 
 | Service | Typical hotel quote | Direct (this page) | Savings |
 |---|---:|---:|---|
-| One-way | ₹2,000–₹2,500 | ₹1,200–₹1,500 | ~40–50% |
-| Return + wait | ₹3,500–₹4,000 | ₹2,000–₹2,500 | ~40–50% |
-| Full day | ₹5,500–₹6,500 | ₹2,500–₹3,000 | ~50%+ |
+| One-way (Sedan) | ₹2,000–₹2,500 | ₹913 | ~55–65% |
+| Return + wait (Sedan) | ₹3,500–₹4,000 | ₹1,226 | ~65–70% |
+| Return + wait (Crysta) | ₹5,500–₹6,500 | ₹2,036 | ~63–69% |
 
 ## Route Details: What You'll See on the Varanasi to Sarnath Road
 
@@ -281,15 +282,15 @@ Most taxis approach via main city roads toward **Sarnath Road**; during school h
 
 | Service | Hotel Quotes | Kashi Taxi | Savings |
 |---------|--------------|-----------|---------|
-| One-way taxi | ₹2,000-2,500 | ₹1,200 | 40-50% |
-| Return + waiting | ₹3,500-4,000 | ₹2,000 | 43-49% |
-| Full-day (w/ guide) | ₹5,500-6,500 | ₹2,500 | 55-62% |
-| Sarnath + lunch | ₹6,000-7,000 | ₹3,000 | 57% |
+| One-way taxi (Dzire) | ₹2,000-2,500 | ₹913 | 55-65% |
+| Return + waiting (Dzire) | ₹3,500-4,000 | ₹1,226 | 65-70% |
+| Return + waiting (Crysta) | ₹5,500-6,500 | ₹2,036 | 63-69% |
+| Return (12-Seater Tempo) | ₹6,000-7,000 | ₹2,472 | 59-65% |
 
-**Real Example:** Round-trip + 4-hour visit:
+**Real Example:** Round-trip + 4-hour visit (Dzire):
 - Hotel charges: ₹4,000
-- We charge: ₹2,000
-- **You save: ₹2,000 (50%)**
+- We charge: ₹1,226
+- **You save: ₹2,774 (69%)**
 
 ## Insider Tips for Your Sarnath Visit
 

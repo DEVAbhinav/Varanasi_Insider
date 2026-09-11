@@ -2,10 +2,10 @@
 lang: en
 title: "Varanasi to Ayodhya Tempo Traveller Price List 2026"
 metaTitle: "Varanasi to Ayodhya Tempo Traveller Price List 2026"
-metaDescription: "Varanasi to Ayodhya Tempo Traveller price list: 12 seater from ₹14,500 and 17 seater from ₹15,500, including driver, fuel, tolls and parking."
-description: "The dedicated Kashi Taxi fare page for Varanasi to Ayodhya tempo traveller booking. Compare 12 and 17 seater prices, inclusions, itinerary timing and group-fit details."
+metaDescription: "Varanasi to Ayodhya Tempo Traveller price list: 12 seater from ₹9,400 one-way (round-trip ₹10,800) and 17 seater from ₹10,200 (round-trip ₹12,400), including driver, fuel, and highway tolls."
+description: "The dedicated Kashi Taxi fare page for Varanasi to Ayodhya tempo traveller booking. Compare 12, 17, and 26 seater prices, inclusions, itinerary timing and group-fit details."
 date: 2026-07-15
-lastUpdated: 2026-08-14
+lastUpdated: 2026-09-11
 tags:
   - ayodhya
   - varanasi to ayodhya tempo traveller
@@ -35,20 +35,20 @@ relatedPosts:
   - varanasi-to-ayodhya-taxi
 faqSchema:
   - question: "What is the Varanasi to Ayodhya tempo traveller price list?"
-    answer: "For a same-day round trip from Varanasi, our 12 seater tempo traveller starts from ₹14,500 and the 17 seater starts from ₹15,500. These fares include vehicle, driver, fuel, tolls, parking and state taxes."
+    answer: "For Varanasi to Ayodhya, our 12 seater tempo traveller starts from ₹9,400 one-way and ₹10,800 for same-day round trip. The 17 seater starts from ₹10,200 one-way and ₹12,400 round trip, while the 26 seater is ₹11,600 / ₹14,000. These fares include vehicle, driver, fuel, and highway tolls."
   - question: "Which seater is best for Ayodhya Ram Mandir groups?"
     answer: "A 12 seater is best for 8-11 pilgrims who want more space, while a 17 seater works better for 12-16 passengers or larger family groups. We help match the seat size to your luggage, elderly passengers and trip pace."
   - question: "Is the fare all-inclusive?"
-    answer: "Yes. The quoted same-day fare includes the vehicle, experienced driver, fuel, tolls, parking and state taxes. Meals, special darshan fees and overtime beyond the agreed plan are extra."
+    answer: "Yes. The quoted fare includes the vehicle, experienced driver, fuel, and highway tolls. Meals, special darshan fees and overtime beyond the agreed plan are extra."
   - question: "Can we do Ram Mandir darshan and return the same day?"
     answer: "Yes. With a 5:00 AM departure from Varanasi, most groups can cover Ram Mandir, Hanuman Garhi, Kanak Bhavan and a food break in the same day, then return by late evening."
 ---
 
 # Varanasi to Ayodhya Tempo Traveller Price List 2026
 
-> **TL;DR:** Varanasi to Ayodhya tempo traveller same-day round trip starts from **₹14,500 for a 12 seater** and **₹15,500 for a 17 seater**, with driver, fuel, tolls, parking and taxes included.
+> **TL;DR:** Varanasi to Ayodhya tempo traveller starts from **₹9,400 one-way (₹10,800 same-day round trip) for a 12 seater** and **₹10,200 one-way (₹12,400 round trip) for a 17 seater**, with driver, fuel, and highway tolls included.
 
-The road distance is about **220 km each way** and most groups should allow **4–5 hours per side**. A 5:00 AM pickup gives the best chance of completing Ram Mandir and Hanuman Garhi darshan before returning to Varanasi the same day.
+The road distance is about **200 km each way** and most groups should allow **4–5 hours per side**. A 5:00 AM pickup gives the best chance of completing Ram Mandir and Hanuman Garhi darshan before returning to Varanasi the same day.
 
 If your group is planning Ram Mandir darshan from Varanasi and you need the **group-vehicle price first**, this is the right page. It is built for families, senior pilgrims, temple committees, and friend groups who want one vehicle, one fare, and one clear Ayodhya schedule.
 
@@ -67,12 +67,14 @@ If your group needs **hotel-inclusive pilgrimage planning** instead of just vehi
 
 ## Varanasi to Ayodhya Tempo Traveller Price List
 
-| Vehicle | Best for | Same-day round trip fare | Approx per-head cost | Notes |
-|---|---|---:|---:|---|
-| **12 Seater Tempo Traveller** | 8-11 pilgrims | **₹14,500** | about ₹1,210 at full occupancy | Better comfort for family groups and elders |
-| **17 Seater Tempo Traveller** | 12-16 pilgrims | **₹15,500** | about ₹912 at full occupancy | Best for larger yatra groups and temple committees |
+| Vehicle | Seating | One-Way Drop | Same-Day Round Trip | Approx per-head (RT) | Notes |
+|---|:---:|---:|---:|---:|---|
+| **12 Seater Tempo Traveller** | 8–11 pilgrims | **₹9,400** | **₹10,800** | about ₹900 at full occupancy | Better comfort for family groups and elders |
+| **17 Seater Tempo Traveller** | 12–16 pilgrims | **₹10,200** | **₹12,400** | about ₹730 at full occupancy | Best for larger yatra groups and temple committees |
+| **26 Seater Tempo Traveller** | 20–25 pilgrims | **₹11,600** | **₹14,000** | about ₹560 at full occupancy | Large group pilgrimage and wedding tours |
+| **Force Urbania (Luxury)** | 10–13 pilgrims | **₹13,000** | **₹14,800** | about ₹1,138 at full occupancy | Premium luxury van with plush recliner seats |
 
-These are the latest confirmed fares for a Varanasi to Ayodhya tempo traveller — the full breakdown is above.
+These are the latest confirmed fares for a Varanasi to Ayodhya tempo traveller — powered by our official route pricing engine.
 
 ## What Is Included In The Fare
 
@@ -176,19 +178,19 @@ For that use case, go to [Varanasi to Ayodhya route and taxi fare guide](/en/var
 
 ### What is the fare for Varanasi to Ayodhya Tempo Traveller?
 
-The current same-day group fare starts from **₹14,500 for a 12 seater** and **₹15,500 for a 17 seater**, inclusive of driver, fuel, tolls, parking and taxes.
+The current fare starts from **₹9,400 one-way (₹10,800 same-day round trip) for a 12 seater** and **₹10,200 one-way (₹12,400 round trip) for a 17 seater**, inclusive of vehicle, driver, fuel, and highway tolls.
 
 ### Is this the Varanasi to Ayodhya traveller price for a full round trip?
 
-Yes. The quoted fare is for the full same-day round trip from Varanasi to Ayodhya and back, based on the agreed itinerary.
+Yes. Round-trip fares (₹10,800 for 12-seater / ₹12,400 for 17-seater) cover the complete same-day round trip from Varanasi to Ayodhya and back, based on the agreed itinerary. One-way drops are also available at ₹9,400 (12-seater) and ₹10,200 (17-seater).
 
 ### Which seater should I book?
 
-Book the 12 seater when you want more comfort for 8-11 pilgrims. Book the 17 seater when you need to move a larger group economically in one vehicle.
+Book the 12 seater when you want more comfort for 8-11 pilgrims. Book the 17 seater when you need to move a larger group economically in one vehicle. For 20+ pilgrims, the 26 seater (₹14,000 round trip) offers the lowest per-head cost.
 
 ### Can you arrange a direct tempo traveller drop to Ayodhya?
 
-Yes, but one-way or overnight plans should be quoted separately because the same-day price list on this page is optimized for round-trip darshan travel.
+Yes. Direct one-way drops are available at fixed pricing engine rates: ₹9,400 for a 12 seater, ₹10,200 for a 17 seater, and ₹11,600 for a 26 seater.
 
 ## Book Your Ayodhya Tempo Traveller
 
