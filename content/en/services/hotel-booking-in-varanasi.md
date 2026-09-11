@@ -226,6 +226,20 @@ Best for Buddhist-circuit or quieter trips.
 **Things to know**
 - Longer daily movement if Kashi Vishwanath + Ganga Aarti is primary
 
+### E) Sigra, Rathyatra & Kamachha Belt (Best for Festivals & Kund Melas)
+Best for visiting inland festivals and avoiding old-city gridlock.
+
+**Best for**
+- Pilgrims attending [Sorahia Mela at Lakshmi Kund](/en/sorahia-mela-lakshmi-kund-varanasi-guide) (16-day Mahalakshmi Vrat & Jitiya Vrat)
+- Travelers wanting broad-road taxi access right to hotel gates without walking through pedestrian barricades
+- Joint family groups booking Tempo Travellers or multiple family rooms
+- Quick 5-to-10 minute e-rickshaw connectivity to Gurubagh, Luxa, and Godowlia
+
+**Pros**
+- Excellent mid-range family hotels, dining, and shopping
+- Vehicles drop directly at the hotel porch; no luggage-dragging through alleys
+- Direct cab route to both Banaras Railway Station (BSBS) and Cantt Station (BSB)
+
 ### Primary recommendation for most families
 
 For many families, the best experience is not the closest lane to the ghat; it is a comfortable hotel with easy pickup/drop plus planned visits to the ghats and temple.
@@ -233,6 +247,7 @@ For many families, the best experience is not the closest lane to the ghat; it i
 For this reason, we usually prioritize:
 - Assi or nearby calm zones (culture + comfort)
 - Cantt area (easy access + family convenience)
+- Sigra / Rathyatra (festival access + wide-road cab convenience)
 - Selected ghat-side options where access and comfort are manageable
 
 ---

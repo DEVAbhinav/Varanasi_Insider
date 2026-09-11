@@ -172,6 +172,8 @@ Also be honest about summer: May–June is brutally hot, often **40°C+**, and n
 ## Major Festivals & Events in Varanasi
 
 * **Dev Deepawali (November, \~15 days after Diwali):** Millions of diyas (earthen lamps) light up every ghat—an unforgettable spectacle that requires **booking months in advance**.
+* **Sorahia Mela & Jitiya Vrat (September–October):** An authentic 16-day festival at historic Lakshmi Kund where hundreds of thousands of devotees observe the Mahalakshmi Vrat and pre-dawn Jivitputrika snan. Read our ground guide to [Sorahia Mela at Lakshmi Kund](/en/sorahia-mela-lakshmi-kund-varanasi-guide).
+* **Shardiya Navratri & Nava Durga Yatra (October):** Nine days of sacred temple parikrama across Kashi's nine guardian stone shrines. Read our [Kashi Nava Durga Yatra Guide](/en/navratri-nava-durga-yatra-varanasi-guide).
 * **Mahashivratri (February–March):** Lord Shiva’s night is celebrated with grand processions, a large congregation of sadhus, and intense devotion, drawing huge crowds.
 * **Ganga Mahotsav (November):** A cultural programme associated with music and dance; the latest reported 2026 window is 20–23 November, before Dev Deepawali on 24 November. Confirm the final programme locally.
 

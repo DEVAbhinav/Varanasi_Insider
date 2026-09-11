@@ -2,7 +2,7 @@
   "gscDate": "2026-07-30",
   "gscMatched": 559,
   "gscAnchorMatched": 19,
-  "totalNodes": 628,
+  "totalNodes": 630,
   "footer": {
     "en": [
       {
@@ -965,7 +965,7 @@
     "/en/ayodhya-varanasi-prayagraj-group-tour-package": [
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -1258,7 +1258,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -2267,7 +2267,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -2587,7 +2587,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -2678,7 +2678,7 @@
     "/en/prayagraj-ayodhya-chitrakoot-tempo-traveller-circuit": [
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -3088,6 +3088,38 @@
       {
         "href": "/en/manikarnika-ghat-sacred-cremation-grounds",
         "label": "Manikarnika Ghat Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/sorahia-mela-lakshmi-kund-varanasi-guide": [
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
+        "reason": "book"
+      },
+      {
+        "href": "/en/packages/varanasi-tour-package",
+        "label": "Varanasi Tour Package 2026",
+        "reason": "book"
+      },
+      {
+        "href": "/en/varanasi-weather-guide",
+        "label": "Varanasi Weather Guide",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/kashi-vs-varanasi-vs-banaras",
+        "label": "Kashi vs Varanasi vs Banaras",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/jagannath-rath-yatra-varanasi-2026",
+        "label": "Jagannath Rath Yatra in Varanasi, 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/en/sarnath-timing-visit-guide",
+        "label": "Sarnath Temple Timing 2026",
         "reason": "related"
       }
     ],
@@ -3547,7 +3579,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -3579,7 +3611,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -3675,7 +3707,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -4155,7 +4187,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -4283,7 +4315,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -4347,7 +4379,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -4598,7 +4630,7 @@
     "/en/varanasi-to-prayagraj-kumbh-tempo-traveller": [
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -4662,7 +4694,7 @@
     "/en/varanasi-to-prayagraj-tempo-traveller": [
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -5398,7 +5430,7 @@
     "/en/bus/kashi-prayagraj-ayodhya-south": [
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -5575,7 +5607,7 @@
     "/en/services/divya-dham-varanasi-ayodhya-prayagraj-bodhgaya-package": [
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -5607,7 +5639,7 @@
     "/en/services/golden-triangle-varanasi-ayodhya-prayagraj-package": [
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -6028,7 +6060,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -6060,7 +6092,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -6215,7 +6247,7 @@
     "/en/services/varanasi-prayagraj-tour-package": [
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -6252,7 +6284,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -6316,7 +6348,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -8001,6 +8033,38 @@
       {
         "href": "/hi/guide-to-10-most-important-ghats-of-varanasi",
         "label": "वाराणसी के 10 प्रमुख घाट",
+        "reason": "related"
+      }
+    ],
+    "/hi/sorahia-mela-lakshmi-kund-varanasi-guide": [
+      {
+        "href": "/hi/varanasi-airport-taxi-guide",
+        "label": "वाराणसी एयरपोर्ट टैक्सी गाइड",
+        "reason": "book"
+      },
+      {
+        "href": "/hi/varanasi-sunrise-time",
+        "label": "वाराणसी में सूर्योदय का समय 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/travel-from-varanasi-to-vindhyachal",
+        "label": "वाराणसी से विंध्याचल टैक्सी",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/sarnath-timing-visit-guide",
+        "label": "सारनाथ टाइमिंग 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/trikon-parikrama-vindhyachal-complete-guide",
+        "label": "विंध्याचल में त्रिकोण परिक्रमा",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/varanasi-in-monsoon-july-september-2026",
+        "label": "मानसून में वाराणसी",
         "reason": "related"
       }
     ],
@@ -10828,7 +10892,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -10892,7 +10956,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -10956,7 +11020,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -10988,7 +11052,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11020,7 +11084,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11052,7 +11116,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11084,7 +11148,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11116,7 +11180,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11148,7 +11212,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11180,7 +11244,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11212,7 +11276,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11244,7 +11308,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11276,7 +11340,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11308,7 +11372,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11340,7 +11404,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11372,7 +11436,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11404,7 +11468,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11436,7 +11500,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11468,7 +11532,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11500,7 +11564,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11532,7 +11596,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11564,7 +11628,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11628,7 +11692,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11660,7 +11724,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -11692,7 +11756,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -14628,7 +14692,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -19330,13 +19394,13 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -19394,13 +19458,13 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -19426,13 +19490,13 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -19458,13 +19522,13 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -19490,13 +19554,13 @@
         "reason": "rescue"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
-        "label": "गया में पिंडदान 2026",
+        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
+        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
         "reason": "related"
       },
       {
-        "href": "/hi/city/varanasi/tour-packages/ayodhya-varanasi-3-day-tour",
-        "label": "अयोध्या-वाराणसी 3-दिन टूर पैकेज",
+        "href": "/hi/city/varanasi/tour-packages/pind-daan-gaya-service-varanasi",
+        "label": "गया में पिंडदान 2026",
         "reason": "related"
       },
       {
@@ -19678,7 +19742,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -19774,7 +19838,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -19806,7 +19870,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -19838,7 +19902,7 @@
       },
       {
         "href": "/en/varanasi-to-prayagraj-taxi",
-        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+        "label": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
         "reason": "rescue"
       },
       {
@@ -20034,7 +20098,7 @@
       "clicks": 3,
       "impressions": 822,
       "position": 7.4,
-      "score": 97
+      "score": 96
     },
     "/en/ayodhya-varanasi-prayagraj-group-tour-package": {
       "lang": "en",
@@ -20384,7 +20448,7 @@
       "clicks": 28,
       "impressions": 772,
       "position": 5.5,
-      "score": 156
+      "score": 155
     },
     "/en/guide-to-10-most-important-ghats-of-varanasi": {
       "lang": "en",
@@ -20748,7 +20812,7 @@
       "clicks": 1,
       "impressions": 25,
       "position": 7,
-      "score": 33
+      "score": 32
     },
     "/en/morning-boat-ride-varanasi-price": {
       "lang": "en",
@@ -21113,6 +21177,20 @@
       "impressions": 55,
       "position": 5.6,
       "score": 33
+    },
+    "/en/sorahia-mela-lakshmi-kund-varanasi-guide": {
+      "lang": "en",
+      "title": "Sorahia Mela Varanasi 2026: Lakshmi Kund Mahalakshmi Vrat, Jitiya Snan & Ground Logistics",
+      "anchor": "Sorahia Mela Varanasi 2026",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
     },
     "/en/sunrise-boat-ride-ganges": {
       "lang": "en",
@@ -21816,8 +21894,8 @@
     },
     "/en/varanasi-to-prayagraj-taxi": {
       "lang": "en",
-      "title": "Varanasi to Prayagraj Taxi Fare from ₹2,500 | Book Sangam Cab",
-      "anchor": "Varanasi to Prayagraj Taxi Fare from ₹2,500",
+      "title": "Varanasi to Prayagraj Taxi Fare from ₹2,388 | Book Sangam Cab",
+      "anchor": "Varanasi to Prayagraj Taxi Fare from ₹2,388",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": null,
@@ -21826,7 +21904,7 @@
       "clicks": 3,
       "impressions": 2077,
       "position": 8.2,
-      "score": 138
+      "score": 139
     },
     "/en/varanasi-to-prayagraj-tempo-traveller": {
       "lang": "en",
@@ -21914,7 +21992,7 @@
     },
     "/en/varanasi-to-vindhyachal-taxi": {
       "lang": "en",
-      "title": "Varanasi to Vindhyachal Distance 2026: 65 KM, Taxi Fare & Travel Time",
+      "title": "Varanasi to Vindhyachal Distance 2026: 70 KM, Taxi Fare from ₹1,877",
       "anchor": "Varanasi to Vindhyachal Distance 2026",
       "category": "taxi",
       "productType": "route_taxi",
@@ -21924,7 +22002,7 @@
       "clicks": 30,
       "impressions": 6288,
       "position": 5.3,
-      "score": 315
+      "score": 316
     },
     "/en/varanasi-to-vindhyachal-tempo-traveller": {
       "lang": "en",
@@ -22540,7 +22618,7 @@
       "clicks": 0,
       "impressions": 40,
       "position": 13.5,
-      "score": 84
+      "score": 83
     },
     "/en/services/varanasi-safest-taxi-for-women": {
       "lang": "en",
@@ -23340,6 +23418,20 @@
       "position": 6.1,
       "score": 37
     },
+    "/hi/sorahia-mela-lakshmi-kund-varanasi-guide": {
+      "lang": "hi",
+      "title": "सोरहिया मेला वाराणसी 2026: लक्ष्मी कुंड महालक्ष्मी व्रत, जिउतिया स्नान व संपूर्ण यात्रा गाइड",
+      "anchor": "सोरहिया मेला वाराणसी 2026",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
+    },
     "/hi/sunrise-boat-ride-ganges": {
       "lang": "hi",
       "title": "वाराणसी सूर्योदय नाव यात्रा गाइड 2026 (Sunrise Boat Ride)",
@@ -23958,8 +24050,8 @@
     },
     "/hi/varanasi-to-prayagraj-taxi": {
       "lang": "hi",
-      "title": "वाराणसी से प्रयागराज टैक्सी किराया ₹2,500 | संगम कैब बुकिंग",
-      "anchor": "वाराणसी से प्रयागराज टैक्सी किराया ₹2,500",
+      "title": "वाराणसी से प्रयागराज टैक्सी किराया ₹2,388 | संगम कैब बुकिंग",
+      "anchor": "वाराणसी से प्रयागराज टैक्सी किराया ₹2,388",
       "category": "taxi",
       "productType": "route_taxi",
       "destination": null,
@@ -23968,7 +24060,7 @@
       "clicks": 0,
       "impressions": 803,
       "position": 7.9,
-      "score": 85
+      "score": 86
     },
     "/hi/varanasi-to-prayagraj-tempo-traveller": {
       "lang": "hi",
@@ -24056,7 +24148,7 @@
     },
     "/hi/varanasi-to-vindhyachal-taxi": {
       "lang": "hi",
-      "title": "वाराणसी से विंध्याचल दूरी 2026: 65 किमी, टैक्सी किराया और समय",
+      "title": "वाराणसी से विंध्याचल दूरी 2026: ~70 किमी, टैक्सी किराया ₹1,877 से",
       "anchor": "वाराणसी से विंध्याचल दूरी 2026",
       "category": "taxi",
       "productType": "route_taxi",
@@ -24066,7 +24158,7 @@
       "clicks": 85,
       "impressions": 10186,
       "position": 5.7,
-      "score": 608
+      "score": 610
     },
     "/hi/varanasi-to-vindhyachal-tempo-traveller": {
       "lang": "hi",
@@ -26754,7 +26846,7 @@
       "clicks": 0,
       "impressions": 7,
       "position": 7.1,
-      "score": 68
+      "score": 67
     },
     "/hi/city/jaipur/taxi/varanasi-to-jaipur-taxi": {
       "lang": "hi",
@@ -27944,7 +28036,7 @@
       "clicks": 0,
       "impressions": 22,
       "position": 9.4,
-      "score": 84
+      "score": 83
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-prayagraj-taxi": {
       "lang": "hi",
@@ -27958,7 +28050,7 @@
       "clicks": 0,
       "impressions": 72,
       "position": 11.6,
-      "score": 85
+      "score": 84
     },
     "/hi/city/varanasi/taxi/varanasi-airport-to-raj-ghat-taxi": {
       "lang": "hi",
@@ -28434,7 +28526,7 @@
       "clicks": 0,
       "impressions": 7,
       "position": 8.1,
-      "score": 83
+      "score": 82
     },
     "/hi/city/varanasi/tour-packages/same-day-varanasi-tour": {
       "lang": "hi",

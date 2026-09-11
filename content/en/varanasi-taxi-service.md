@@ -87,10 +87,13 @@ One of the most critical ground realities that first-time visitors must understa
 ### The Godowlia & Dashashwamedh No-Vehicle Zone
 Under Varanasi Traffic Police regulations, **all four-wheelers (taxis, private cars, and app cabs) are strictly barred from entering Godowlia Chowk, Dashashwamedh Ghat Road, and Sonarpura during peak hours (4:00 PM to 10:00 PM daily)**. During large festivals such as Dev Deepawali, Shivratri, and Kartik Purnima, these barricades operate around the clock.
 
+### Special Festival & Kund Fair Barricades
+During seasonal fairs like the 16-day [Sorahia Mela at Lakshmi Kund](/en/sorahia-mela-lakshmi-kund-varanasi-guide) (Luxa Road) and Shardiya [Nava Durga Yatra](/en/navratri-nava-durga-yatra-varanasi-guide), four-wheelers cannot enter Luxa or inner Chowk galis. Our drivers drop you at the exact accessible perimeters—such as **Gurubagh Crossing** (450m walk to Lakshmi Kund) or **Girjaghar**—eliminating confusion and avoiding traffic fines.
+
 If you book an uninformed driver or an app cab, you risk being abruptly dumped miles away when the police turn cars around.
 
 **How Varanasi Taxi Service Handles Your Ghat Transfer:**
-1. **Strategic Closest Drop Points**: Our chauffeurs drop you at the nearest authorized vehicle checkpoints—either the **Godowlia Barricade**, **Maidagin Crossing**, or **Sonarpura Circle**—just 250 to 350 meters from the riverfront.
+1. **Strategic Closest Drop Points**: Our chauffeurs drop you at the nearest authorized vehicle checkpoints—either the **Godowlia Barricade**, **Maidagin Crossing**, **Sonarpura Circle**, or **Gurubagh Crossing**—just 250 to 450 meters from your destination.
 2. **Authorized Coolie (Porter) Coordination**: If you are traveling with heavy luggage or elderly family members staying at riverside heritage havelis (such as BrijRama Palace, Guleria Kothi, or ghat guesthouses), our driver calls ahead and coordinates licensed local porters at the drop barricade to ferry your luggage directly to the hotel lobby.
 3. **Battery E-Rickshaw Transfer**: For guests who prefer not to walk the final stretch, we arrange quick, eco-friendly e-rickshaw transfers through the pedestrian bazaar.
 

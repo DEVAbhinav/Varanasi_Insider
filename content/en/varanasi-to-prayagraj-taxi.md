@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Prayagraj Taxi Fare from ₹2,500 | Book Sangam Cab"
+title: "Varanasi to Prayagraj Taxi Fare from ₹2,388 | Book Sangam Cab"
 slug: "varanasi-to-prayagraj-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-08-11"
+lastUpdated: "2026-09-11"
 author: "Kamal Nayan Singh"
 lang: en-IN
 featuredImage: "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg"
-metaTitle: "Varanasi to Prayagraj Taxi Fare ₹2,500 | Same-Day Sangam Cab"
-metaDescription: "Varanasi to Prayagraj taxi fare from ₹2,500 sedan one-way. Same-day Sangam cab, fuel & tolls in fixed quote. Book on WhatsApp +91 99354 74730."
+metaTitle: "Varanasi to Prayagraj Taxi Fare ₹2,388 | Same-Day Sangam Cab"
+metaDescription: "Varanasi to Prayagraj taxi fare from ₹2,388 sedan one-way (round-trip from ₹3,275). Same-day Sangam cab, fuel & tolls in fixed quote. Book on WhatsApp +91 99354 74730."
 description: "Book a Varanasi to Prayagraj taxi: fixed car-wise fares, same-day Triveni Sangam return, what’s included, and how to confirm your cab."
 keywords:
   - "varanasi to prayagraj taxi"
@@ -33,27 +33,27 @@ relatedPosts:
   - morning-boat-ride-varanasi-price
 faqSchema:
   - question: "How much is taxi fare from Varanasi to Prayagraj?"
-    answer: "Sedan taxi fare from Varanasi to Prayagraj is ₹2,500–₹2,800 one way and ₹4,500–₹5,000 for a same-day Sangam return. Ertiga is ₹3,200–₹3,600 one way; Innova Crysta ₹4,500–₹5,200. Fare includes fuel and driver. Sangam boat and ghat parking are extra."
+    answer: "Sedan taxi fare from Varanasi to Prayagraj is ₹2,388 one way and ₹3,275 for a same-day Sangam return. Ertiga is ₹3,313 one way (₹4,125 return); Innova Crysta ₹4,188 (₹5,375 return); 12-seater Tempo ₹5,875 (₹6,750 return). Fare includes fuel, driver, and tolls. Sangam boat and ghat parking are extra."
   - question: "How do I book a Varanasi to Prayagraj taxi?"
     answer: "WhatsApp or call +91 99354 74730 with your date, pickup point and group size. We confirm the car and a fixed all-inclusive fare in writing before you pay. No advance is needed for same-week travel; you pay the driver at the end of the trip."
   - question: "Can I visit Triveni Sangam and return to Varanasi the same day?"
-    answer: "Yes. Leave by 6 AM, reach Sangam by about 9 AM, finish boat snan and 2–3 temples by early afternoon, and be back in Varanasi by 6:30–7 PM. Same-day sedan return starts at ₹4,500 and includes waiting time within the package."
+    answer: "Yes. Leave by 6 AM, reach Sangam by about 9 AM, finish boat snan and 2–3 temples by early afternoon, and be back in Varanasi by 6:30–7 PM. Same-day sedan return starts at ₹3,275 and includes waiting time within the package."
   - question: "Is train or taxi better from Varanasi to Prayagraj for Sangam?"
     answer: "Train is cheaper per seat, but drops at Prayagraj Junction, about 7 km from Sangam, plus auto both ways. Taxi picks you up at the hotel and drops at Sangam ghat parking. For two or more people going for snan, taxi is usually simpler and close on per-head cost after transfers."
   - question: "What is included in the Prayagraj taxi fare?"
-    answer: "Fuel, driver allowance and hotel or airport pickup in Varanasi are included. There is no highway toll on the usual NH-19 stretch. Extra: Sangam boat (₹50–₹200 per person shared, or ₹500–₹800 private), ghat parking ₹50–₹100, and any pandit puja you arrange on the spot."
+    answer: "Fuel, driver allowance, tolls (typical ~₹230 one-way Lalanagar plaza covered in fixed fare) and hotel or airport pickup in Varanasi are included. Extra: Sangam boat (₹50–₹200 per person shared, or ₹500–₹800 private), ghat parking ₹50–₹100, and any pandit puja you arrange on the spot."
   - question: "What is the Prayagraj to Varanasi taxi fare?"
-    answer: "One-way return from Prayagraj to Varanasi matches the outbound sedan rate of ₹2,500–₹2,800. If you booked a same-day return from Varanasi, the car waits at the ghat and there is no separate waiting charge inside the package window."
+    answer: "One-way return from Prayagraj to Varanasi matches the outbound sedan rate of ₹2,388. If you booked a same-day return from Varanasi (₹3,275), the car waits at the ghat and there is no separate waiting charge inside the package window."
 ---
 
 # Varanasi to Prayagraj Taxi Fare & Booking
 
 > **TL;DR — book the Sangam cab, not a distance page:**
 >
-> - **Sedan** → ₹2,500–₹2,800 one way · same-day Sangam return ₹4,500–₹5,000
-> - **Included** → fuel, driver, Varanasi pickup — fixed in writing before you go
+> - **Sedan** → ₹2,388 one way · same-day Sangam return ₹3,275
+> - **Included** → fuel, driver, highway tolls, Varanasi pickup — fixed in writing before you go
 > - **Drop** → Sangam ghat parking (not the railway station)
-> - **Drive** → about 121 km on NH-19, 2.5–3 hours
+> - **Drive** → about 120–125 km on NH-19, 2.5–3 hours
 >
 > Group of 8+? See the [Prayagraj tempo traveller fare list](/en/varanasi-to-prayagraj-tempo-traveller).
 
@@ -63,13 +63,13 @@ faqSchema:
 
 | Vehicle | Capacity | One-way | Same-day return | Best for |
 |---|:---:|---:|---:|---|
-| **Sedan (Dzire/Etios)** | 4 | ₹2,500–₹2,800 | ₹4,500–₹5,000 | Couple, small family |
-| **Ertiga / 6-seater** | 6 | ₹3,200–₹3,600 | ₹5,500–₹6,200 | Family + bags |
-| **Innova Crysta** | 6–7 | ₹4,500–₹5,200 | ₹7,000–₹8,000 | Elders, extra comfort |
-| **12-seater Tempo** | 10–12 | ₹5,500–₹6,500 | ₹8,500 | Joint family |
-| **17-seater Tempo** | 15–17 | ₹7,000–₹8,000 | ₹11,000 | Large group |
+| **Sedan (Dzire/Etios)** | 4 | ₹2,388 | ₹3,275 | Couple, small family |
+| **Ertiga / 6-seater** | 6 | ₹3,313 | ₹4,125 | Family + bags |
+| **Innova Crysta** | 6–7 | ₹4,188 | ₹5,375 | Elders, extra comfort |
+| **12-seater Tempo** | 10–12 | ₹5,875 | ₹6,750 | Joint family |
+| **17-seater Tempo** | 15–17 | ₹6,375 | ₹7,750 | Large group |
 
-**Included:** fuel, driver meals, pickup/drop in Varanasi.
+**Included:** fuel, driver meals, highway tolls, pickup/drop in Varanasi.
 **Extra:** Sangam boat, ghat parking (₹50–₹100), optional pandit puja.
 Night pickup after 10 PM may add a small night charge — we confirm that in the quote.
 
@@ -79,11 +79,11 @@ Night pickup after 10 PM may add a small night charge — we confirm that in the
 
 | Detail | Info |
 |---|---|
-| **Sedan one-way** | ₹2,500–₹2,800 |
-| **Same-day return** | from ₹4,500 |
+| **Sedan one-way** | ₹2,388 |
+| **Same-day return** | from ₹3,275 |
 | **Typical drive** | 2.5–3 hours |
-| **Road** | NH-19 via Handia (about 121 km) |
-| **Highway toll** | None on the usual stretch |
+| **Road** | NH-19 via Handia (about 120–125 km) |
+| **Highway toll** | Included in fixed fare (~₹230 plaza) |
 | **Drop point** | Sangam ghat parking |
 | **Book** | WhatsApp / call +91 99354 74730 |
 
@@ -135,7 +135,7 @@ Your driver can point you to the usual boat steps. Puja is optional — take it 
 
 | Factor | Train | Taxi |
 |---|---|---|
-| **Seat cost** | from ~₹120–₹350 | whole car from ₹2,500 |
+| **Seat cost** | from ~₹120–₹350 | whole car from ₹2,388 (OW) / ₹3,275 (RT) |
 | **To Sangam** | Junction + auto ~7 km | direct ghat drop |
 | **Wet clothes / bags** | you haul them | stay in the locked car |
 | **Return** | fixed train time | leave when snan is done |
@@ -154,10 +154,10 @@ Your driver can point you to the usual boat steps. Puja is optional — take it 
 
 | Pickup | Sedan one-way | Same-day return |
 |---|---:|---:|
-| Cantonment / Junction | ₹2,500–₹2,800 | ₹4,500–₹5,000 |
-| Assi / Lanka / BHU | ₹2,500–₹2,800 | ₹4,500–₹5,000 |
-| VNS Airport | ₹2,500–₹2,800 | ₹4,500–₹5,000 |
-| Sarnath | ₹2,500–₹2,800 | ₹4,500–₹5,000 |
+| Cantonment / Junction | ₹2,388 | ₹3,275 |
+| Assi / Lanka / BHU | ₹2,388 | ₹3,275 |
+| VNS Airport | ₹2,388 | ₹3,275 |
+| Sarnath | ₹2,388 | ₹3,275 |
 
 Airport or early-morning ghat pickup is normal — say the time when you book.
 

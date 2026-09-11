@@ -78,7 +78,13 @@ function getCorrectedUrls() {
   for (const line of lines) {
     const trimmed = line.trim();
     if (trimmed.startsWith('https://') || trimmed.startsWith('http://')) {
-      corrected.add(trimmed.replace(/\/+$/, ''));
+      const normalized = trimmed.replace(/\/+$/, '');
+      corrected.add(normalized);
+      if (normalized.includes('/en/')) {
+        corrected.add(normalized.replace('/en/', '/hi/'));
+      } else if (normalized.includes('/hi/')) {
+        corrected.add(normalized.replace('/hi/', '/en/'));
+      }
     }
   }
   return corrected;
@@ -197,6 +203,9 @@ function findDiscrepancies() {
       const isTaxi = /taxi|cab/i.test(slug);
       const isTempo = /tempo-traveller/i.test(slug);
       if (!isTaxi && !isTempo) continue;
+
+      // Skip airport transfer & pickup routes as exceptions (handled with dedicated airport rates)
+      if (/airport/i.test(slug) || /airport/i.test(abs)) continue;
 
       const engine = routeFares[r.id];
       const title = fm.title || '';
