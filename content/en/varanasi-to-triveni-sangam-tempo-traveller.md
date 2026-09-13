@@ -1,10 +1,11 @@
 ---
 lang: en
-title: "Varanasi to Triveni Sangam Tempo Traveller ₹9,300 | Sunrise Snan"
-description: "Lock your private boat, priest concierge, and dressing tents for dawn snan. Crowd control, ORS halts, and elder care handled—reserve 2026 slots today."
+title: "Varanasi to Triveni Sangam Tempo Traveller from ₹5,875 | RT ₹6,750"
+metaTitle: "Varanasi to Triveni Sangam Tempo Traveller from ₹5,875 | Sunrise Snan"
+description: "Book Varanasi to Triveni Sangam tempo traveller from ₹5,875 one-way (round-trip ₹6,750 for 12-seater, ₹7,750 for 17-seater). Optional private boat & priest concierge available. Reserve 2026 slots today."
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-09-13
 tags: [triveni sangam, prayagraj, tempo traveller, snan, pilgrimage]
 keywords:
   - varanasi to triveni sangam tempo traveller
@@ -20,7 +21,7 @@ relatedPosts:
   - pilgrimage-yatra-tours-tempo-traveller-varanasi
 faqSchema:
   - question: "How much does a Varanasi to Triveni Sangam Tempo Traveller cost?"
-    answer: "A 12 seater Traveller with private Sangam boat and priest coordination costs ₹9,300 all-inclusive (vehicle, driver, tolls, parking, basic pooja setup). Larger 17 seaters are typically ₹10,500."
+    answer: "A 12 seater Tempo Traveller charter starts from ₹5,875 one-way and ₹6,750 for same-day round trip (including driver, fuel, and highway tolls). 17 seater is ₹6,375 one-way / ₹7,750 round trip. Optional full-service Sangam package with private boat and priest coordination is available at ₹9,300."
   - question: "Can you arrange prasad, pandit, and puja samagri at Sangam?"
     answer: "Yes. We pre-book a vetted priest who brings kalash, flowers, roli, janeu, and kurta for the main yajman. You only need to carry cloth for post-snan change and personal offerings."
   - question: "What time should we reach Sangam for sunrise snan?"
@@ -33,7 +34,7 @@ faqSchema:
 
 For many devotees, the essence of Prayagraj is the sacred confluence—*Triveni Sangam*—where the Ganga, Yamuna, and mystical Saraswati meet. Our specialised **Varanasi to Triveni Sangam Tempo Traveller** service is built for families, akharas, and small ashram groups who want a disciplined, guided snan without losing time haggling for boats or priests.
 
-> **Package Snapshot:** 12 seater Traveller · ₹9,300 inclusive · private boat for snan · verified priest · dressing tents · return to Varanasi by sunset.
+> **Package Snapshot:** 12 seater Traveller charter from **₹5,875 one-way / ₹6,750 same-day round-trip** (17 seater ₹7,750 RT) · all-inclusive vehicle, fuel, highway tolls · optional private boat & priest combo (₹9,300) · return to Varanasi by sunset.
 
 | ![Traveller convoy arriving at Prayagraj Sangam parking pre-dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Traveller convoy reaching Sangam parking") | ![Devotees boarding a private boat at Triveni Sangam](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg "Private boat boarding at Triveni Sangam") | ![Kalpavas camp lights along Sangam banks at night](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-river-boat-evening-p.jpeg "Evening ambience at Sangam ghats") |
 | --- | --- | --- |
@@ -62,13 +63,17 @@ For many devotees, the essence of Prayagraj is the sacred confluence—*Triveni 
 
 ## Triveni Sangam Tempo Traveller Fare Card
 
-| Package | Inclusions | Price |
+| Package / Vehicle | Inclusions | Fare (OW / RT) |
 | --- | --- | --- |
-| Standard Snan Charter (12 seater) | Traveller, driver, tolls, parking, private boat (8 pax), basic pooja kit, tea/snacks | ₹9,300 |
-| 17 Seater Group | Traveller, 2 boats (12 pax), extended itinerary | ₹10,500 |
+| **12-Seater Tempo Traveller (Charter)** | AC 12-seater, driver, fuel, highway tolls, Sangam parking | **₹5,875 (OW) / ₹6,750 (RT)** |
+| **17-Seater Tempo Traveller (Charter)** | AC 17-seater, driver, fuel, highway tolls, Sangam parking | **₹6,375 (OW) / ₹7,750 (RT)** |
+| **26-Seater Tempo Traveller (Charter)** | AC 26-seater, driver, fuel, highway tolls, Sangam parking | **₹7,250 (OW) / ₹8,750 (RT)** |
+| **Force Urbania (Luxury Charter)** | Luxury 13-seater, driver, fuel, highway tolls, parking | **₹8,125 (OW) / ₹9,250 (RT)** |
+| **Full Snan Concierge Combo (12-seater)** | 12-seater charter (RT) + private boat (8 pax) + verified priest + basic pooja kit | **₹9,300 (all-in)** |
+| **Full Snan Concierge Combo (17-seater)** | 17-seater charter (RT) + 2 boats (12 pax) + verified priest + extended itinerary | **₹10,500 (all-in)** |
 | Kalpavas Support (Multi-day) | Daily Traveller shuttle, tent city transfer, ration run | Custom quote |
 
-> **Note:** Makar Sankranti, Magh Purnima, and Amavasya snans attract surge pricing (₹1,200–₹1,500 extra) due to barricading and longer driver duty hours.
+> **Note:** Vehicle charter rates are strictly powered by our route pricing engine (12-seater ₹5,875 one-way / ₹6,750 same-day round-trip). Makar Sankranti, Magh Purnima, and Amavasya snans may attract peak barricade duty adjustments.
 
 ## EAAT Credentials for Triveni Sangam Pilgrimage
 
