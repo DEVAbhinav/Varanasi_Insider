@@ -23,7 +23,7 @@
     {
       "@type": "Product",
       "name": "Varanasi to Bodhgaya Tempo Traveller",
-      "description": "12-seater Maharaja Tempo Traveller from Varanasi to Bodhgaya (255 km, 5-6 hours). Same-day Buddhist pilgrimage: Mahabodhi Temple, Vishnupad Pind Daan, Great Buddha Statue.",
+      "description": "12, 17, 26-seater and Urbania Tempo Traveller from Varanasi to Bodhgaya (262 km, 5-6 hours). Same-day Buddhist pilgrimage: Mahabodhi Temple, Vishnupad Pind Daan, Great Buddha Statue.",
       "image": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-outside-front-p.jpeg",
       "brand": {
         "@type": "Brand",
@@ -31,31 +31,45 @@
       },
       "offers": {
         "@type": "AggregateOffer",
-        "lowPrice": "16000",
-        "highPrice": "24000",
+        "lowPrice": "12314",
+        "highPrice": "19388",
         "priceCurrency": "INR",
-        "offerCount": "3",
+        "offerCount": "5",
         "availability": "https://schema.org/InStock",
         "priceValidUntil": "2026-12-31",
         "offers": [
           {
             "@type": "Offer",
-            "name": "12-Seater Tempo Traveller (Same Day)",
-            "price": "16000",
+            "name": "12-Seater Tempo Traveller (One-Way)",
+            "price": "12314",
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
           {
             "@type": "Offer",
-            "name": "12-Seater Tempo Traveller (Overnight)",
-            "price": "18000",
+            "name": "12-Seater Tempo Traveller (Same Day Round-Trip)",
+            "price": "14148",
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
           {
             "@type": "Offer",
-            "name": "26-Seater Tempo Traveller",
-            "price": "24000",
+            "name": "17-Seater Tempo Traveller (Same Day Round-Trip)",
+            "price": "16244",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "26-Seater Tempo Traveller (Same Day Round-Trip)",
+            "price": "18340",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Force Urbania Luxury (Same Day Round-Trip)",
+            "price": "19388",
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           }
@@ -85,12 +99,12 @@
       },
       "distance": {
         "@type": "Distance",
-        "name": "255 km"
+        "name": "262 km"
       },
       "offers": {
         "@type": "Offer",
         "name": "Same-Day Pilgrimage Package",
-        "price": 16000,
+        "price": 12314,
         "priceCurrency": "INR",
         "url": "https://www.kashitaxi.in/en/varanasi-to-bodhgaya-tempo-traveller"
       }
@@ -103,7 +117,7 @@
           "name": "What is the distance from Varanasi to Bodhgaya by tempo traveller?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Varanasi to Bodhgaya is 255 km by road. A tempo traveller takes 5-6 hours via NH19 (Varanasi → Mohania → Gaya → Bodhgaya)."
+            "text": "Varanasi to Bodhgaya is 262 km by road. A tempo traveller takes 5-6 hours via NH19 (Varanasi → Mohania → Gaya → Bodhgaya)."
           }
         },
         {
@@ -111,7 +125,7 @@
           "name": "How much does a tempo traveller cost from Varanasi to Bodhgaya?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "12-seater Maharaja tempo traveller: ₹16,000 same-day, ₹18,000 overnight. 26-seater: ₹24,000. Includes driver, fuel, parking."
+            "text": "12-seater starts from ₹12,314 one-way and ₹14,148 same-day return. 17-seater is ₹16,244 return, 26-seater is ₹18,340, and Force Urbania is ₹19,388. Includes vehicle, driver, fuel, and NH19 tolls."
           }
         },
         {

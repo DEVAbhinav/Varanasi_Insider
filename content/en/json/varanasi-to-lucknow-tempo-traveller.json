@@ -24,7 +24,7 @@
       "@type": "Product",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-lucknow-tempo-traveller/#product",
       "name": "Varanasi to Lucknow Tempo Traveller (Corporate & Wedding Transfer)",
-      "description": "Book Varanasi to Lucknow Tempo Traveller for corporate or wedding group transfer. 320 km via Purvanchal Expressway, 5.5-6 hours. Wi-Fi, charging points, professional drivers.",
+      "description": "Book Varanasi to Lucknow Tempo Traveller for corporate or wedding group transfer. 308 km via Purvanchal Expressway, 5.5-6 hours. Wi-Fi, charging points, professional drivers.",
       "brand": {
         "@id": "https://www.kashitaxi.in#organization"
       },
@@ -33,30 +33,44 @@
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "lowPrice": "11000",
-        "highPrice": "16500",
-        "offerCount": "3",
+        "lowPrice": "14476",
+        "highPrice": "22792",
+        "offerCount": "5",
         "availability": "https://schema.org/InStock",
         "priceValidUntil": "2026-12-31",
         "offers": [
           {
             "@type": "Offer",
-            "name": "9 Seater Tempo to Lucknow",
-            "price": 11000,
+            "name": "12 Seater Tempo to Lucknow (One-Way)",
+            "price": 14476,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
           {
             "@type": "Offer",
-            "name": "12 Seater Tempo to Lucknow",
-            "price": 12500,
+            "name": "12 Seater Tempo to Lucknow (Same-Day Round Trip)",
+            "price": 16632,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
           {
             "@type": "Offer",
-            "name": "17 Seater Tempo to Lucknow",
-            "price": 16500,
+            "name": "17 Seater Tempo to Lucknow (Same-Day Round Trip)",
+            "price": 19096,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "26 Seater Tempo to Lucknow (Same-Day Round Trip)",
+            "price": 21560,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Force Urbania Luxury to Lucknow (Same-Day Round Trip)",
+            "price": 22792,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           }
@@ -79,7 +93,7 @@
           "name": "What is the Varanasi to Lucknow Tempo Traveller price?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "9 Seater at ₹11,000, 12 Seater at ₹12,500, and 17 Seater at ₹16,500 for one-way drop. Per km rates: 12 seater ₹23/km (min 340 km), 17 seater ₹26/km."
+            "text": "12 Seater starts from ₹14,476 one-way and ₹16,632 for same-day return. 17 Seater is ₹15,708 one-way / ₹19,096 return, and 26 Seater is ₹21,560 return."
           }
         },
         {
@@ -87,7 +101,7 @@
           "name": "How long is Varanasi to Lucknow by Tempo Traveller?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "320 km via Purvanchal Expressway takes 5.5–6 hours including one meal halt. Minor toll queues on weekends."
+            "text": "308 km via Purvanchal Expressway takes 5.5–6 hours including one meal halt. Minor toll queues on weekends."
           }
         },
         {

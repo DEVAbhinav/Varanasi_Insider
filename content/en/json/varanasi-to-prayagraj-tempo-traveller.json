@@ -33,30 +33,44 @@
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "lowPrice": "7500",
-        "highPrice": "12000",
-        "offerCount": "3",
+        "lowPrice": "5875",
+        "highPrice": "9250",
+        "offerCount": "5",
         "availability": "https://schema.org/InStock",
         "priceValidUntil": "2026-12-31",
         "offers": [
           {
             "@type": "Offer",
-            "name": "12 Seater Tempo Traveller to Prayagraj",
-            "price": 7500,
+            "name": "12 Seater Tempo Traveller to Prayagraj (One-Way)",
+            "price": 5875,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
           {
             "@type": "Offer",
-            "name": "12 Seater AC Premium with Sangam Boat",
-            "price": 8500,
+            "name": "12 Seater Tempo Traveller to Prayagraj (Same-Day Round Trip)",
+            "price": 6750,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
           {
             "@type": "Offer",
-            "name": "17 Seater Tempo Traveller to Prayagraj",
-            "price": 12000,
+            "name": "17 Seater Tempo Traveller to Prayagraj (Same-Day Round Trip)",
+            "price": 7750,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "26 Seater Tempo Traveller to Prayagraj (Same-Day Round Trip)",
+            "price": 8750,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Force Urbania Luxury to Prayagraj (Same-Day Round Trip)",
+            "price": 9250,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           }
@@ -79,7 +93,7 @@
           "name": "What is the Varanasi to Prayagraj Tempo Traveller price?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "12 Seater Tempo Traveller starts at ₹7,500 for same-day return. Premium package with Sangam boat ride at ₹8,500. 17 Seater available at ₹12,000."
+            "text": "12 Seater Tempo Traveller starts at ₹5,875 one-way and ₹6,750 for same-day return. 17 Seater is ₹6,375 one-way / ₹7,750 return, and 26 Seater is ₹8,750 return."
           }
         },
         {
@@ -103,7 +117,7 @@
           "name": "What is included in Prayagraj Tempo Traveller package?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Package includes AC Tempo Traveller, experienced driver, fuel, toll taxes, and parking. Sangam boat ride (₹500-800) extra unless premium package."
+            "text": "Package includes AC Tempo Traveller, experienced driver, fuel, and NH19 toll taxes. Sangam boat ride and priest dakshina are extra."
           }
         }
       ]

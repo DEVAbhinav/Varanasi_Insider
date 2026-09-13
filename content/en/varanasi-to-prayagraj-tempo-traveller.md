@@ -1,11 +1,11 @@
 ---
 lang: en
-title: "Varanasi to Prayagraj Tempo Traveller Price List 2026 | 12 & 17 Seater Fare"
-metaTitle: "Varanasi to Prayagraj Tempo Traveller Fare from ₹5,875 | 12 & 17 Seater"
-metaDescription: "Check Varanasi to Prayagraj tempo traveller price list 2026. 12 seater from ₹5,875 one-way (₹6,750 round-trip) & 17 seater from ₹6,375 (₹7,750 RT) with tolls, parking and driver included."
+title: "Varanasi to Prayagraj Tempo Traveller Fare ₹5,875 | 12 & 17 Seater [2026]"
+metaTitle: "Varanasi to Prayagraj Tempo Traveller Fare ₹5,875 | 12, 17 Seater"
+metaDescription: "Check Varanasi to Prayagraj tempo traveller price list 2026. 12 seater from ₹5,875 one-way / ₹6,750 same-day return, 17 seater from ₹6,375 / ₹7,750. Fuel, driver & tolls included."
 description: "The dedicated Kashi Taxi fare page for Varanasi to Prayagraj tempo traveller booking. Compare 12, 17, 26 seater and Urbania prices, inclusions, itinerary timing and group-fit details."
 date: 2026-07-15
-lastUpdated: 2026-09-13
+lastUpdated: "2026-09-13"
 tags:
   - prayagraj
   - allahabad
@@ -33,18 +33,18 @@ relatedPosts:
   - tour-package-from-varanasi
 faqSchema:
   - question: "What is the Varanasi to Prayagraj tempo traveller price list?"
-    answer: "For a same-day round trip from Varanasi, our 12 seater tempo traveller is ₹6,750 (one-way drop ₹5,875) and the 17 seater is ₹7,750 (one-way drop ₹6,375). We also provide 26 seater at ₹8,750 (round-trip) and luxury Force Urbania at ₹9,250. All fares include vehicle, driver, fuel, tolls, parking and UP state taxes."
+    answer: "Varanasi to Prayagraj 12-seater tempo traveller is ₹5,875 one-way and ₹6,750 for a same-day round trip. The 17-seater is ₹6,375 one-way (₹7,750 return), 26-seater is ₹7,250 (₹8,750 return), and Force Urbania is ₹8,125 (₹9,250 return). Fares include AC vehicle, driver, fuel, and NH19 toll taxes."
   - question: "Which seater is best for Prayagraj Sangam groups?"
-    answer: "A 12 seater is best for 8-11 pilgrims who want extra comfort and luggage space, while a 17 seater works better for 12-16 passengers or larger family groups. We help match the seat size to your luggage, elders and ritual timing."
+    answer: "A 12-seater is best for 8–11 pilgrims who want more space, while a 17-seater works better for 12–16 passengers or larger family groups. For larger groups of up to 25, the 26-seater offers maximum per-head value."
   - question: "Is the fare all-inclusive?"
-    answer: "Yes. The quoted fare includes the vehicle, experienced driver, fuel, highway tolls, parking and state taxes. Boat charges, puja costs, meals and overtime beyond the agreed plan are extra."
+    answer: "Yes. The quoted fare includes the AC tempo traveller, experienced highway driver, fuel, and NH19 toll taxes. Triveni Sangam boat charges, priest dakshina, meals, and special parking fees are extra."
   - question: "Can we do Sangam darshan and return the same day?"
-    answer: "Yes. With a 6:00 AM departure from Varanasi, most groups can cover Triveni Sangam, Bade Hanumanji, Alopi Devi and a food break in the same day, then return by evening."
+    answer: "Yes. With a 6:00 AM departure from Varanasi, most groups reach Sangam by 9:00 AM, complete Triveni Sangam snan, visit Bade Hanumanji and Alopi Devi, enjoy lunch, and comfortably return to Varanasi by 6:30–7:30 PM."
 ---
 
-# Varanasi to Prayagraj Tempo Traveller Price List 2026 | 12 & 17 Seater Fare
+# Varanasi to Prayagraj Tempo Traveller Fare & Price List [2026]
 
-> **TL;DR:** Varanasi to Prayagraj tempo traveller starts from **₹5,875 for a 12 seater one-way drop** and **₹6,750 for same-day round-trip**. The **17 seater is ₹6,375 one-way / ₹7,750 round-trip**, with driver, fuel, highway tolls, parking and taxes all included in writing.
+> **TL;DR:** Varanasi to Prayagraj tempo traveller starts from **₹5,875 one-way** and **₹6,750 same-day round trip** for a 12-seater Maharaja vehicle. 17-seater is **₹6,375 one-way / ₹7,750 return**, 26-seater is **₹7,250 / ₹8,750**, and luxury Force Urbania is **₹8,125 / ₹9,250**, covering vehicle, driver, fuel, and NH19 tolls.
 
 If your group is planning Triveni Sangam darshan from Varanasi and you need the **group-vehicle price first**, this is the right page. It is built for families, senior pilgrims, satsang groups, and friends who want one vehicle, one fare, and one clear Prayagraj schedule.
 
@@ -61,21 +61,21 @@ If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare in
 
 | Detail | Information |
 |---|---|
-| **Road distance** | About 125 km (one-way) |
+| **Road distance** | About 125 km |
 | **Drive time** | 2.5 to 3 hours each way |
 | **Usual route** | Varanasi -> Handia -> Prayagraj via NH19 |
-| **Best fit** | 8 to 26 pilgrims traveling together |
+| **Best fit** | 8 to 25 pilgrims traveling together |
 
 ## Varanasi to Prayagraj Tempo Traveller Price List
 
-| Vehicle | Seating Capacity | One-Way Drop Fare | Same-Day Round Trip Fare | Approx Cost Per Head (Round-Trip) | Vehicle Inclusions & Notes |
+| Vehicle | Capacity | One-Way Fare | Same-Day Return Fare | Approx Per-Head (RT) | Best For |
 |---|:---:|---:|---:|---:|---|
-| **12 Seater Tempo Traveller** | 11+1 | **₹5,875** | **₹6,750** | ~₹563 (full occupancy) | Push-back seats, AC, best comfort for families |
-| **17 Seater Tempo Traveller** | 16+1 | **₹6,375** | **₹7,750** | ~₹456 (full occupancy) | Ideal for medium groups, yatras & large families |
-| **26 Seater Tempo Traveller** | 25+1 | **₹7,250** | **₹8,750** | ~₹337 (full occupancy) | Maximum group savings for large satsang yatras |
-| **Luxury Force Urbania** | 13+1 | **₹8,125** | **₹9,250** | ~₹712 (full occupancy) | Premium recliner bucket seats, panoramic windows |
+| **12-Seater Tempo Traveller** | 8–11 pax | **₹5,875** | **₹6,750** | ₹614 (11 pax) | Families, seniors & small yatras |
+| **17-Seater Tempo Traveller** | 12–16 pax | **₹6,375** | **₹7,750** | ₹484 (16 pax) | Extended families & pilgrimage groups |
+| **26-Seater Tempo Traveller** | 18–25 pax | **₹7,250** | **₹8,750** | ₹350 (25 pax) | Large tour groups & satsang mandalis |
+| **Force Urbania (Luxury)** | 10–16 pax | **₹8,125** | **₹9,250** | ₹578 (16 pax) | Premium comfort & corporate retreats |
 
-*These are the latest confirmed fares for a Varanasi to Prayagraj tempo traveller based on our route pricing engine (125 km one-way, 250 km round-trip minimum billable floor).*
+These are the official confirmed fares matching Kashi Taxi's route pricing engine — the full breakdown is above.
 
 ## What Is Included In The Fare
 
@@ -89,10 +89,10 @@ If you need a general road-guide, train-vs-cab comparison, or sedan taxi fare in
 Your quoted Prayagraj tempo traveller fare includes:
 
 - private AC Tempo Traveller for the full trip
-- experienced driver familiar with Sangam access flow
-- fuel for the planned run
-- tolls and state taxes
-- Prayagraj parking
+- experienced highway driver familiar with Sangam access flow
+- fuel for the planned run (125 km one-way or 250 km round-trip)
+- NH19 toll taxes
+- door-to-door Varanasi pickup and drop
 - driver allowance
 
 Not included:
@@ -108,7 +108,7 @@ Not included:
 This guide is for you if:
 
 - your main question is **tempo traveller price**
-- you need a **12 seater, 17 seater, or larger tempo** for Prayagraj
+- you need a **12 seater or 17 seater** for Prayagraj
 - you are traveling as one group and want everyone in the same vehicle
 - you want a Sangam day trip from Varanasi without splitting into multiple cabs
 
@@ -141,7 +141,7 @@ Most groups prefer a same-day darshan plan like this:
 - **One vehicle, one schedule:** no split arrivals, no separate parking issues
 - **Better for elders:** easier rest-stop planning and everyone moves together
 - **Room for puja items and spare clothes:** useful for Sangam snan trips
-- **Per-head economics improve quickly:** starting at ~₹456 to ₹563 per head round-trip, the fare is significantly more economical than hiring multiple sedans or SUVs
+- **Per-head economics improve quickly:** once the vehicle is near full, the fare drops to ₹350–₹614 per person
 - **Cleaner pilgrimage flow:** one driver can manage pickup, halts and return timing cleanly
 
 ## Practical Booking Notes
@@ -150,7 +150,7 @@ Before booking, send these details on WhatsApp:
 
 - travel date
 - group size
-- whether you need 12 seater, 17 seater, 26 seater, or Urbania
+- whether you need 12, 17, or 26 seater
 - pickup point in Varanasi
 - whether elders or children are traveling
 - whether the plan is same-day return or extended
@@ -171,24 +171,24 @@ For that use case, go to [Varanasi to Prayagraj route and taxi fare guide](/en/v
 
 ### What is the fare for Varanasi to Prayagraj Tempo Traveller?
 
-The current group fare starts from **₹5,875 for a 12 seater one-way drop** (or **₹6,750 for same-day round trip**) and **₹6,375 for a 17 seater one-way** (or **₹7,750 round trip**), inclusive of driver, fuel, highway tolls, parking and taxes.
+The current fare starts from **₹5,875 one-way / ₹6,750 same-day return for a 12-seater** and **₹6,375 one-way / ₹7,750 return for a 17-seater**, inclusive of driver, fuel, tolls, and taxes.
 
 ### Is this the Varanasi to Prayagraj traveller price for a full round trip?
 
-Yes. The round-trip fare covers the complete same-day pilgrimage from Varanasi to Prayagraj and back based on the agreed itinerary.
+Yes. The ₹6,750 (12-seater) and ₹7,750 (17-seater) quoted fares are for the full same-day round trip from Varanasi to Prayagraj and back, based on the agreed itinerary.
 
 ### Which seater should I book?
 
-Book the 12 seater when you want more comfort for 8-11 pilgrims. Book the 17 seater when you need to move a 12-16 person group comfortably, or 26 seater for larger community yatras.
+Book the 12 seater when you want more comfort for 8-11 pilgrims. Book the 17 seater when you need to move a larger group of 12-16 passengers economically in one vehicle. For larger groups of up to 25, the 26-seater is available at ₹8,750 return.
 
 ### Can you arrange a direct tempo traveller drop to Prayagraj?
 
-Yes. Dedicated one-way drops are available (12 seater at ₹5,875, 17 seater at ₹6,375) without paying return vehicle charges.
+Yes, direct one-way drop is available from ₹5,875 for a 12-seater and ₹6,375 for a 17-seater.
 
 ## Book Your Prayagraj Tempo Traveller
 
 - Call: [+91 99354 74730](tel:+919935474730)
-- WhatsApp: [Book Prayagraj tempo traveller](https://wa.me/919935474730?text=Prayagraj%20tempo%20traveller%20price%20list)
+- WhatsApp: [Book Prayagraj tempo traveller](https://wa.me/919935474730?text=Prayagraj%20tempo%20traveller%20booking)
 - Need route-only fare first? See [Varanasi to Prayagraj taxi and travel guide](/en/varanasi-to-prayagraj-taxi)
 
 ## Related Pages
