@@ -6,6 +6,7 @@ date: 2026-07-15
 tags: [12 seater, tempo traveller, varanasi, fares, price, hire, booking, kashi darshan, airport transfer, outstation]
 slug: 12-seater-tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/12-seater-tempo-traveller-varanasi
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg
 relatedPosts:
   - tempo-traveller-rates-varanasi
   - 17-seater-tempo-traveller-varanasi

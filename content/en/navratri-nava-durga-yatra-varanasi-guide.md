@@ -26,6 +26,7 @@ tags:
   - kashi pilgrimage
   - festival transport
 relatedPosts:
+  - durga-puja-in-varanasi-pandals-guide-2026
   - varanasi-in-october-2026
   - best-time-to-visit-varanasi
   - guide-to-10-most-important-ghats-of-varanasi
@@ -138,11 +139,14 @@ Visiting Varanasi during Navratri offers two cultural spectacles beyond the pari
 ### 1. The Historic Durga Kund Navratri Mela
 Surrounding the 18th-century ochre-red **Maa Kushmanda Temple** at Durga Kund, a massive street fair runs throughout the festival. Hundreds of stalls sell sacred red chunris, wooden toys from Ramnagar, brass puja utensils, and fresh jalebis. It is vibrant, crowded, and safe for families, provided you secure wallets and keep children close.
 
-### 2. Varanasi's Historic Bengali Tola Durga Puja
-Varanasi has had an influential Bengali community since the 18th century, centered around **Bengali Tola, Pandey Ghat, and Sonarpura**. From Maha Shasthi to Maha Navami (16–19 October 2026), visit the traditional clay idols and experience authentic *Dhunuchi Naach* (incense dance) to the rhythm of the *Dhaak* drums:
-- **Sanatan Dharm Inter College (Nai Sarak):** Kashi's oldest traditional community pandal.
-- **Premier Club (Sigra):** Famous for intricate thematic craftsmanship and illuminations.
-- **Bengali Tola Community Puja:** Intimate, devotional, and free of commercial clutter.
+### 2. Varanasi's Historic Bengali Tola Durga Puja & Mega-Pandals
+Varanasi has had an influential Bengali community since the 18th century, centered around **Bengali Tola, Pandey Ghat, and Sonarpura**. From Maha Shasthi to Vijayadashami (15–20 October 2026), the city transforms into "Mini Bengal." Witness classical *Ekchala* idols, thunderous *Dhaak* drumming, midnight *Dhunuchi Naach*, and the emotional morning *Sindoor Khela*:
+- **Sanatan Dharm Inter College (Nai Sarak):** Kashi's grandest thematic marvel (80–100 ft structures and Chandannagar lighting).
+- **Hathua Market (Chetganj):** Reputed as UP's tallest architectural pandal.
+- **Premier Club (Sigra):** Renowned for Kumartuli clay sculpting and refined socio-cultural themes.
+- **Bengali Tola Community Pujas:** Pure 250-year-old traditional devotion, authentic sweets, and afternoon community bhog.
+
+> 🪔 *For detailed pandal-hopping walking circuits, police barricade drop points, daylight elderly timing, and night standby cabs, explore our dedicated [Varanasi Durga Puja 2026 Pandals & Logistics Guide](/en/durga-puja-in-varanasi-pandals-guide-2026).*
 
 ---
 

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "lastAudit": "2026-09-13",
+  "candidates": [
+    {
+      "canonical": "https://www.kashitaxi.in/en/12-seater-tempo-traveller-varanasi",
+      "source": "content/en/12-seater-tempo-traveller-varanasi.md",
+      "sourceSha256": "3278fbaebc26b9a9a2ca36b3ed5ccf325772790ac412504a340464a7b1f17afd",
+      "status": "completed_local",
+      "issue": "Generic OG/Twitter fallback and sedan schema image despite relevant existing vehicle photographs.",
+      "completedDate": "2026-09-13",
+      "changedFiles": [
+        "content/en/12-seater-tempo-traveller-varanasi.md",
+        "content/en/json/12-seater-tempo-traveller-varanasi.json"
+      ],
+      "beforeSha256": {
+        "content/en/12-seater-tempo-traveller-varanasi.md": "3278fbaebc26b9a9a2ca36b3ed5ccf325772790ac412504a340464a7b1f17afd",
+        "content/en/json/12-seater-tempo-traveller-varanasi.json": "3ea8695e189af4cfc67935290d3b501134e1e4c0cd3ed5b58c807c43a0eb1b20"
+      },
+      "afterSha256": {
+        "content/en/12-seater-tempo-traveller-varanasi.md": "b031853f14cecb7451366d48829f80e99e23e9b5fc0962d07047d646952c3f58",
+        "content/en/json/12-seater-tempo-traveller-varanasi.json": "195e97ce0701fb7fbab945565d47618e005a5bccf22f53814ea554f7b8302eaf"
+      },
+      "validation": [
+        "Luna high-effort worker: isolated npm run lint passed with one pre-existing _app.js warning",
+        "Isolated npm run build passed",
+        "Desktop and mobile browser checks passed; images loaded and no 390px overflow",
+        "Rendered JSON-LD, Open Graph and Twitter image references aligned; canonical and index/follow preserved",
+        "Live canonical remains pre-deployment and was not changed",
+        "No unrelated files changed by this run"
+      ],
+      "blockers": [
+        "Deployment not authorized or performed"
+      ],
+      "suggestedImage": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg"
+    }
+  ],
+  "runs": [
+    {
+      "date": "2026-09-13",
+      "mode": "short_isolated_pilot",
+      "pagesRead": 4,
+      "result": "passed scoped checks",
+      "checks": [
+        "npm run build exit 0",
+        "npm run lint exit 0 with existing warnings",
+        "Fresh production server on port 3197: Open Graph, Twitter and Product image references match",
+        "All rendered JSON-LD blocks parse",
+        "15 pre-existing edited files retain original SHA-256 fingerprints"
+      ],
+      "limitations": [
+        "No website edits applied or deployed",
+        "No image generation exercised; reused existing 1280x960 photo in pilot",
+        "No full mobile QA or external rich-result validation in shortened pilot"
+      ],
+      "findings": [
+        "Exclude merged/redirected source stubs",
+        "Inspect actual main-content images and lazy loading",
+        "Do not copy synthetic ratings from lib/ratingGenerator.js",
+        "Run build hooks outside working copy",
+        "Explicitly configure test ports"
+      ]
+    }
+  ]
+}

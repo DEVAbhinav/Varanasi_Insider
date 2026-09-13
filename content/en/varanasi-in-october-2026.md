@@ -24,6 +24,7 @@ tags:
   - weather
   - travel planning
 relatedPosts:
+  - durga-puja-in-varanasi-pandals-guide-2026
   - navratri-nava-durga-yatra-varanasi-guide
   - best-time-to-visit-varanasi
   - varanasi-transport-price-guide-2026
@@ -40,7 +41,7 @@ faqSchema:
 
 # A Local's Guide to Visiting Varanasi in October (2026)
 
-> **Calendar correction:** Sharad Navratri is **11–19 October 2026**, Dussehra is 20 October, and Diwali is **8 November 2026**. [Incredible India](https://www.incredibleindia.gov.in/en/festivals-and-events/navratri) · [Government of India holiday calendar](https://www.iirs.gov.in/holidaycalender)
+> **Calendar correction:** Sharad Navratri is **11–19 October 2026**, Durga Puja runs **15–20 October 2026**, Dussehra is 20 October, and Diwali is **8 November 2026**. [Incredible India](https://www.incredibleindia.gov.in/en/festivals-and-events/navratri) · [Government of India holiday calendar](https://www.iirs.gov.in/holidaycalender)
 
 As a local, I feel a special kind of excitement in the air when October arrives. The monsoon clouds have cleared, leaving behind a fresh, clean city and skies that are a brilliant blue. The **weather in Varanasi in October** is absolutely delightful—it's the official start of the pleasant season and the beginning of major festivities. The city sheds its humid monsoon cloak and drapes itself in a vibrant, celebratory spirit, building up to the grand spectacle of Diwali.
 
@@ -59,11 +60,13 @@ October marks the perfect transition from the wet monsoon to the cool winter. Th
 
 ---
 
-## A Month of Festivals: Navratri and the Diwali Build-Up
+## A Month of Festivals: Navratri, Durga Puja and the Diwali Build-Up
 
 October is all about festive energy. The entire city gets swept up in celebration, making it the most vibrant time of the year to visit.
 
 **Sharad Navratri (11 October – 19 October 2026):** The nine nights of Navratri in Kashi are celebrated through the sacred **Kashi Nava Durga Yatra**, where pilgrims visit nine distinct ancient stone shrines across the city—from Maa Shailputri near Marhia Ghat to Maa Kushmanda at Durga Kund. During this period, traffic police enforce "No-Vehicle Zones" between Godowlia and Chowk, making a hybrid strategy of AC cabs for outer shrines and private riverboats or walking for old-city shrines essential. For the full temple directory, last-mile access, crowd avoidance hours, and vrat food, explore our comprehensive [Navratri in Varanasi 2026: Kashi Nava Durga Yatra Guide](/en/navratri-nava-durga-yatra-varanasi-guide).
+
+**Durga Puja & Bengali Tola Carnivals (15 October – 20 October 2026):** Paralleling Navratri, Varanasi transforms into "Mini Bengal." Towering 80–100 ft theme pandals rise at Sanatan Dharm Inter College (Nai Sarak) and Hathua Market (Chetganj), while historic 250-year-old traditional *Ekchala* pujas, thunderous *Dhaak* drumming, *Dhunuchi Naach*, and joyous *Sindoor Khela* animate the alleys of Bengali Tola. Central arteries are under strict No-Vehicle lockdown from 4 PM to 4 AM. For walking circuits, daylight elderly visiting hours, eco-immersion sites, and night standby cabs, read our in-depth [Varanasi Durga Puja 2026 Pandals & Logistics Guide](/en/durga-puja-in-varanasi-pandals-guide-2026).
 
 **Dussehra & Bharat Milap (20–21 October 2026):** Dussehra concludes the festival on 20 October with massive Ravana Dahan spectacles at Lanka, Sigra, and Ramnagar, followed immediately by the historic [Bharat Milap at Nati Imli](/en/bharat-milap-nati-imli) on 21 October. Pre-booking your festival transit through our [Varanasi Festival Taxi Service](/en/book-taxi-varanasi-ramlila-dussehra) is critical to avoid peak-hour surge pricing and post-event stranding.
 
