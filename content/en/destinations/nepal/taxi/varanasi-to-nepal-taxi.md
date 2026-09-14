@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Nepal Taxi Fare from ₹8,500 | Cabs to Kathmandu, Lumbini & Pokhara"
+title: "Varanasi to Nepal Taxi Fare from ₹6,970 | Cabs to Kathmandu, Lumbini & Pokhara"
 slug: "varanasi-to-nepal-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-09-14"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Nepal Taxi Fare ₹8,500+ | Kathmandu & Lumbini Cabs"
-metaDescription: "Varanasi to Nepal taxi fare from ₹8,500. Outstation cabs to Sonauli border, Kathmandu, Lumbini and Pokhara. Fixed quotes on WhatsApp +91 99354 74730."
-description: "Book Varanasi to Nepal taxi from ₹8,500. Reliable outstation cabs to Sonauli border, Lumbini, Kathmandu, and Pokhara with border guidance and verified drivers."
+metaTitle: "Varanasi to Nepal Taxi Fare from ₹6,970 | Kathmandu & Lumbini Cabs"
+metaDescription: "Varanasi to Nepal taxi fare from ₹6,970 (Sonauli border) or Kathmandu from ₹18,990. Outstation cabs to Lumbini, Pokhara and Chitwan. WhatsApp +91 99354 74730."
+description: "Book Varanasi to Nepal taxi from ₹6,970. Reliable outstation cabs to Sonauli border, Lumbini, Kathmandu (from ₹18,990), and Pokhara with border guidance and verified drivers."
 keywords:
   - "varanasi to nepal taxi"
   - "varanasi to nepal taxi fare"

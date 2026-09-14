@@ -24,7 +24,7 @@
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-allahabad-tempo-traveller#trip",
       "name": "Varanasi to Allahabad Tempo Traveller Day Trip",
-      "description": "Private Tempo Traveller charter from Varanasi to Allahabad (Prayagraj) covering Sangam snan, heritage walk, and vetted priest support for ₹8,500.",
+      "description": "Private Tempo Traveller charter from Varanasi to Allahabad (Prayagraj) covering Sangam snan, heritage walk, and vetted priest support from ₹5,875.",
       "travelMode": "BUS",
       "itinerary": {
         "@type": "ItemList",
@@ -49,7 +49,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": 8500,
+        "price": 5875,
         "priceCurrency": "INR",
         "name": "Varanasi to Allahabad same-day Tempo Traveller package",
         "url": "https://www.kashitaxi.in/en/varanasi-to-allahabad-tempo-traveller"
@@ -85,7 +85,7 @@
           "name": "What is the cost of a Tempo Traveller from Varanasi to Allahabad?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "₹8,500 covers a 12 seater same-day charter including vehicle, driver, tolls, and parking. 17 seaters are typically ₹9,500."
+            "text": "Varanasi to Allahabad (Prayagraj) 12-seater tempo traveller is ₹5,875 one-way and ₹6,750 for a same-day round trip. The 17-seater is ₹6,375 one-way (₹7,750 return), 26-seater is ₹7,250 (₹8,750 return), and Force Urbania is ₹8,125 (₹9,250 return)."
           }
         },
         {
@@ -111,10 +111,10 @@
       "@id": "https://www.kashitaxi.in/en/varanasi-to-allahabad-tempo-traveller#webpage",
       "url": "https://www.kashitaxi.in/en/varanasi-to-allahabad-tempo-traveller",
       "name": "Varanasi to Allahabad Tempo Traveller Package",
-      "description": "Sangam snan and heritage-focused Tempo Traveller package from Varanasi to Allahabad with ₹8,500 transparent fare and priest coordination.",
+      "description": "Sangam snan and heritage-focused Tempo Traveller package from Varanasi to Allahabad with ₹5,875 transparent fare and priest coordination.",
       "inLanguage": "en-IN",
       "datePublished": "2026-09-03",
-      "dateModified": "2026-09-03",
+      "dateModified": "2026-09-14",
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",

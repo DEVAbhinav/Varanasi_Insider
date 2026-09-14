@@ -1,13 +1,13 @@
 ---
-title: "Varanasi to Allahabad Taxi - Now Prayagraj | ₹2,500 | Kashi Taxi"
+title: "Varanasi to Allahabad Taxi - Now Prayagraj | ₹2,388 | Kashi Taxi"
 slug: "varanasi-to-allahabad-taxi"
 date: "2026-07-15"
-lastUpdated: "2026-07-15"
+lastUpdated: "2026-09-14"
 author: "Kamal Nayan Singh"
 lang: en
-metaTitle: "Varanasi to Allahabad (Prayagraj) Taxi | ₹2,500 | Kashi Taxi"
-metaDescription: "Book Varanasi to Allahabad (now Prayagraj) taxi from ₹2,500. 120 km in 2.5 hours. Triveni Sangam, Kumbh Mela city. 24/7 booking."
-description: "Allahabad was officially renamed Prayagraj in 2018. Book Varanasi to Prayagraj (formerly Allahabad) taxi from ₹2,500. 120 km journey in 2.5 hours. Visit Triveni Sangam, Kumbh Mela city, Fort."
+metaTitle: "Varanasi to Allahabad (Prayagraj) Taxi | ₹2,388 | Kashi Taxi"
+metaDescription: "Book Varanasi to Allahabad (now Prayagraj) taxi from ₹2,388 (round-trip from ₹3,275). 120 km in 2.5 hours. Triveni Sangam, Kumbh Mela city. 24/7 booking."
+description: "Allahabad was officially renamed Prayagraj in 2018. Book Varanasi to Prayagraj (formerly Allahabad) taxi from ₹2,388 (round-trip from ₹3,275). 120 km journey in 2.5 hours. Visit Triveni Sangam, Kumbh Mela city, Fort."
 keywords:
   - "varanasi to allahabad taxi"
   - "allahabad cab varanasi"
@@ -29,7 +29,7 @@ faqSchema:
   - question: "Is Allahabad and Prayagraj the same city?"
     answer: "Yes! Allahabad was officially renamed Prayagraj in October 2018 by the Government of Uttar Pradesh. The city is home to Triveni Sangam (confluence of Ganga, Yamuna, Saraswati) and hosts Kumbh Mela."
   - question: "How much is taxi from Varanasi to Allahabad/Prayagraj?"
-    answer: "Taxi fare from Varanasi to Prayagraj (Allahabad) is ₹2,500-2,800 for sedan. Distance is 120 km, journey takes 2.5 hours via NH19."
+    answer: "Taxi fare from Varanasi to Prayagraj (Allahabad) starts from ₹2,388 for AC sedan (round-trip from ₹3,275). Ertiga is ₹3,313 and Innova Crysta is ₹4,188. Distance is 120–125 km via NH19."
 ---
 
 # Varanasi to Allahabad Taxi - City Now Called Prayagraj

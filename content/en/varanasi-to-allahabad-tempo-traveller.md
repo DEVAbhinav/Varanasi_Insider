@@ -1,10 +1,10 @@
 ---
 lang: en
-title: "Varanasi to Allahabad Tempo Traveller ₹8,500 | Sangam Day Trip"
-description: "Secure sunrise snan, Anand Bhavan heritage walk, and vetted priest support with our ₹8,500 Prayagraj charter. WhatsApp now for same-day confirmation."
+title: "Varanasi to Allahabad Tempo Traveller Fare ₹5,875 | Sangam Day Trip"
+description: "Book Varanasi to Allahabad (Prayagraj) tempo traveller from ₹5,875 one-way (₹6,750 round trip). Sangam snan, Anand Bhavan, vetted priest support. WhatsApp for same-day confirmation."
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-09-03
+lastUpdated: "2026-09-14"
 tags: [allahabad, prayagraj, tempo traveller, sangam darshan, heritage tour]
 keywords:
   - varanasi to allahabad tempo traveller
@@ -24,7 +24,7 @@ faqSchema:
   - question: "Is Allahabad different from Prayagraj for travel planning?"
     answer: "Allahabad is the former name of Prayagraj. Locals still call the city Allahabad, and heritage sites like Anand Bhavan and Khusro Bagh use the historical name. Our route planning covers the same city with emphasis on both Sangam rituals and colonial-era landmarks."
   - question: "What is the cost of a Tempo Traveller from Varanasi to Allahabad?"
-    answer: "₹8,500 covers a 12 seater Tempo Traveller for the Varanasi–Allahabad same-day circuit (vehicle, driver, tolls, parking). A 17 seater is typically ₹9,500."
+    answer: "Varanasi to Allahabad (Prayagraj) 12-seater tempo traveller is ₹5,875 one-way and ₹6,750 for a same-day round trip. The 17-seater is ₹6,375 one-way (₹7,750 return), 26-seater is ₹7,250 (₹8,750 return), and Force Urbania is ₹8,125 (₹9,250 return). Fares include AC vehicle, driver, fuel, and NH19 toll taxes."
   - question: "Can we include Anand Bhavan and Khusro Bagh in one day?"
     answer: "Yes. With a 7:00 AM start from Varanasi you can comfortably cover Sangam rituals, Bade Hanumanji, Anand Bhavan museum, Khusro Bagh gardens, and Cathedral of All Saints before returning by evening."
   - question: "Do you help with priests for Sangam snan?"
@@ -35,7 +35,7 @@ faqSchema:
 
 If you grew up calling the city Allahabad and still want your itinerary to reflect that nostalgic name, this page is for you. We design a **Varanasi to Allahabad Tempo Traveller** charter blending sacred Sangam snan, colonial heritage, and delicious street food without rushing elders or school groups. Having personally escorted multiple alumni batches and joint families on this exact circuit, the suggestions below are grounded in on-road experience.
 
-> **At a Glance:** 125 km one way · 2.5 hours · ₹8,500 all-inclusive 12 seater · curated heritage + pilgrimage stops · vetted Sangam priest assistance · lunch at Loknath or Civil Lines cafes.
+> **At a Glance:** 125 km one way · 2.5 hours · from ₹5,875 one-way / ₹6,750 same-day round trip (12 seater) · curated heritage + pilgrimage stops · vetted Sangam priest assistance · lunch at Loknath or Civil Lines cafes.
 
 | ![Tempo Traveller crossing the Naini bridge towards Prayagraj](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/prayagraj.jpg "Traveller crossing Naini bridge towards Prayagraj") | ![Devotees performing Triveni Sangam snan at sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg "Sunrise snan at Triveni Sangam") | ![Heritage Anand Bhavan mansion framed by trees](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAllahabad.png "Anand Bhavan heritage mansion") |
 | --- | --- | --- |
@@ -68,11 +68,12 @@ If you grew up calling the city Allahabad and still want your itinerary to refle
 
 ![Loknath lane chaat spread ready for lunch break](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/pink-sky-ghat-varanasi-l.jpeg "Loknath chaat and lunch break vibes")
 
-| Vehicle | Seats | Price (Same-Day) | Extras |
-| --- | --- | --- | --- |
-| 12 Seater Executive | 11+1 | ₹8,500 | Bottle water, sanitizer, on-board charging ports |
-| 17 Seater Standard | 16+1 | ₹9,500 | Bluetooth mic for guides, extra luggage rack |
-| Premium Urbania | 13 recliners | ₹15,500 | Captain seats, ambient lighting, personal AC vents |
+| Vehicle | Seats | One-Way | Round-Trip (Same-Day) | Extras |
+| --- | --- | --- | --- | --- |
+| 12 Seater Executive | 11+1 | ₹5,875 | ₹6,750 | Bottle water, sanitizer, on-board charging ports |
+| 17 Seater Standard | 16+1 | ₹6,375 | ₹7,750 | Bluetooth mic for guides, extra luggage rack |
+| 26 Seater Standard | 25+1 | ₹7,250 | ₹8,750 | Ample luggage space, mic system |
+| Premium Urbania | 13 recliners | ₹8,125 | ₹9,250 | Captain seats, ambient lighting, personal AC vents |
 
 All quotes include fuel, tolls, Prayagraj bridge fee, Sangam parking, and driver charges. GST invoice available for institutions.
 
