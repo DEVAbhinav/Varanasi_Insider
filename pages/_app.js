@@ -198,7 +198,7 @@ function MyApp({ Component, pageProps }) {
       <div className={`${lora.variable} ${sourceSans.variable} font-sans`}>
         <Component {...pageProps} />
       </div>
-      <MobileLeadPopup delay={30000} />
+      <MobileLeadPopup delay={50000} />
       <ExitIntentPopup />
     </>
   );

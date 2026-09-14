@@ -5,7 +5,7 @@ import * as gtag from '../../lib/gtag';
 import SidebarBookingWidget from '../BookingWidget/SidebarBookingWidget';
 import styles from './MobileLeadPopup.module.css';
 
-export default function MobileLeadPopup({ delay = 30000 }) {
+export default function MobileLeadPopup({ delay = 50000 }) {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
