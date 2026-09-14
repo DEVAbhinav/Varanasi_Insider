@@ -15,6 +15,7 @@ tags:
   - weather
   - travel planning
 relatedPosts:
+  - annapurna-swarna-darshan-annakut-varanasi-guide
   - best-time-to-visit-varanasi
   - varanasi-scams-to-avoid-2026
   - varanasi-transport-price-guide-2026
@@ -46,6 +47,18 @@ Here’s a quick look at the typical temperatures you can expect:
 
 *   **Daytime High:** Around 28°C (82°F)
 *   **Nighttime Low:** Around 15°C (59°F)
+
+---
+
+## Early November Highlight: Maa Annapurna Swarna Roop Darshan & Annakut (6–11 November 2026)
+
+Before the grand riverfront lights of Dev Deepawali, early November brings one of the holiest, most sought-after temple events in northern India: **Maa Annapurna Swarna Roop Darshan**.
+
+For 360 days of the year, the ancient solid-gold idol of Goddess Annapurna—alongside pure-gold murtis of Maa Lakshmi, Bhumi Devi, and Lord Shiva receiving alms—remains locked inside the first-floor vault of Shri Kashi Annapurna Mandir in Vishwanath Gali. 
+
+From **Dhanteras (Friday, 6 November 2026)** through **Bhai Dooj (Wednesday, 11 November 2026)**, the golden sanctuary opens to the public. Pilgrims stand in line to receive the sacred **Annapurna Khazana** (a blessed coin and consecrated rice grains kept in family cash boxes for year-round abundance) and to witness the massive **Annakut Mahotsav (56 Bhog & Laddoo Parvat)** on Tuesday, 10 November.
+
+During this week, Godowlia and Chowk are under strict police pedestrianization. To understand queue routes, avoid fake street coins, and arrange fixed perimeter cab drops at Benia Bagh, read our comprehensive [Maa Annapurna Swarna Roop Darshan & Annakut 2026 Guide](/en/annapurna-swarna-darshan-annakut-varanasi-guide).
 
 ---
 

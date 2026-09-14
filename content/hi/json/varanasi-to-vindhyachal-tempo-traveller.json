@@ -11,7 +11,7 @@
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-tempo-traveller#trip",
       "name": "वाराणसी से विंध्याचल त्रिकोण परिक्रमा टेम्पो ट्रैवलर",
-      "description": "मां विंध्यवासिनी, काली खोह और अष्टभुजा देवी दर्शन हेतु 8 घंटे का वाराणसी से विंध्याचल टेम्पो ट्रैवलर पैकेज (₹6,200)।",
+      "description": "मां विंध्यवासिनी, काली खोह और अष्टभुजा देवी दर्शन हेतु वाराणसी से विंध्याचल टेम्पो ट्रैवलर पैकेज (₹4,610 से शुरू, राउंड ट्रिप ₹5,220)।",
       "itinerary": {
         "@type": "ItemList",
         "itemListElement": [
@@ -51,7 +51,7 @@
       "offers": {
         "@type": "Offer",
         "priceCurrency": "INR",
-        "price": 6200,
+        "price": 4610,
         "url": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-tempo-traveller"
       },
       "provider": {
@@ -77,7 +77,7 @@
           "name": "किराया?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "12-सीटर के लिए ₹6,200, 17-सीटर के लिए ₹7,100।"
+            "text": "12-सीटर के लिए ₹4,610 वन-वे (राउंड ट्रिप ₹5,220), 17-सीटर के लिए ₹5,010 वन-वे (राउंड ट्रिप ₹6,020), 26-सीटर के लिए ₹5,710 / ₹6,820 और अर्बानिया के लिए ₹6,410 / ₹7,220।"
           }
         },
         {
@@ -116,7 +116,7 @@
         "url": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg"
       },
       "datePublished": "2026-09-03",
-      "dateModified": "2026-09-03",
+      "dateModified": "2026-09-14",
       "inLanguage": "hi-IN",
       "about": {
         "@id": "https://www.kashitaxi.in/hi/varanasi-to-vindhyachal-tempo-traveller#trip"

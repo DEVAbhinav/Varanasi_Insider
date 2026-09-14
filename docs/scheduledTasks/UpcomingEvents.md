@@ -53,13 +53,21 @@ This scheduled task periodically monitors and discovers major cultural, spiritua
   - `https://www.kashitaxi.in/hi/durga-puja-in-varanasi-pandals-guide-2026`
 - **Scope & Coverage:** Top mega-pandals (Sanatan Dharm Inter College, Hathua Market, Premier Club, Bhelupur), 250-year-old Bengali Tola heritage (*Dhaak*, *Dhunuchi Naach*, *Sindoor Khela*), Varanasi Traffic Police No-Vehicle Zone (4:00 PM – 4:00 AM), approved drop points (Maldahiya, Sigra, Bhelupur), senior citizen daytime visiting window (11:00 AM – 3:30 PM), NGT-compliant artificial pond idol immersions at Samne Ghat, full vehicle pricing CTA table, and `DURGA_PUJA` CTA widgets.
 
+### Run 4 — 2026-09-14: Maa Annapurna Swarna Roop Darshan & Annakut 2026
+- **Event:** Maa Annapurna Swarna Roop Darshan & Annakut Mahotsav (6–11 November 2026)
+- **Research Dossier:** `docs/annapurna-swarna-darshan-annakut-varanasi-research-2026.md`
+- **Canonical URLs:**
+  - `https://www.kashitaxi.in/en/annapurna-swarna-darshan-annakut-varanasi-guide`
+  - `https://www.kashitaxi.in/hi/annapurna-swarna-darshan-annakut-varanasi-guide`
+- **Scope & Coverage:** Annual 5-day opening of the pure solid-gold idol (Dhanteras to Bhai Dooj), distribution of sacred Annapurna Khazana (blessed coin and akshat) & street scam alert, Annakut Day 56 Bhog & Laddoo Parvat, separate queue mechanics in Vishwanath Gali from Kashi Vishwanath Corridor, invalidity of online Sugam Darshan tickets, police No-Vehicle Zone (Godowlia to Chowk), 4 approved perimeter drop points (Benia Bagh, Girjaghar, Maidagin, Bhelupur), senior citizen marble staircase reality, transparent fixed-fare festival taxi/tempo traveller pricing table, and `ANNAPURNA_ANNAKUT` CTA shortcodes.
+
 ---
 
 ## 3. Forward Event Pipeline (Next 30–60 Days Watchlist)
 
 1. **Chetganj Nakkataiya Lakkha Mela (Karwa Chauth Night, 29 October 2026):**
    - Iconic Banarasi street fair drawing hundreds of thousands of spectators to Chetganj for nighttime historical tableaux (chaukiyan) depicting Lakshman cutting Surpanakha's nose.
-2. **Dala Chhath Puja at Ganga Ghats (5–8 November 2026):**
+2. **Dala Chhath Puja at Ganga Ghats (13–16 November 2026):**
    - Massive sunset/sunrise arghya at Assi, Dashashwamedh, and Panchganga Ghats; strict riverbank restrictions, morning boat rules, and suburban family taxi transfers.
 3. **Dev Deepawali 2026 (Kartik Purnima, 24 November 2026):**
    - Varanasi's highest-demand single-night event. 1 million+ oil lamps across all 84 ghats.

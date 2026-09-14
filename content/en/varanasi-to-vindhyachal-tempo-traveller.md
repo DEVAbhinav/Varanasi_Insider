@@ -1,10 +1,10 @@
 ---
 lang: en
-title: "Varanasi to Vindhyachal Tempo Traveller | Navratri VIP Charter"
-description: "Beat festival queues with 5:30 AM departures, Trikon Parikrama priests, and elder-care kits. Transparent ₹6,200 fares—book your Maa Vindhyavasini darshan now."
+title: "Varanasi to Vindhyachal Tempo Traveller ₹4,610 | Navratri VIP Charter"
+description: "Beat festival queues with 5:30 AM departures, Trikon Parikrama priests, and elder-care kits. Transparent fares from ₹4,610 (round-trip ₹5,220)—book your Maa Vindhyavasini darshan now."
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-09-14
 tags: [vindhyachal, tempo traveller, shakti peeth, pilgrimage, trikon parikrama]
 keywords:
   - varanasi to vindhyachal tempo traveller
@@ -13,6 +13,8 @@ keywords:
   - navratri vindhyachal tempo traveller package
   - maa vindhyavasini darshan traveller fare
 slug: varanasi-to-vindhyachal-tempo-traveller
+metaTitle: "Varanasi to Vindhyachal Tempo Traveller from ₹4,610"
+metaDescription: "Book Varanasi to Vindhyachal 12/17/26 seater Tempo Traveller charter from ₹4,610 one-way (round-trip ₹5,220). Trikon Parikrama, Maa Vindhyavasini darshan: 99354 74730."
 relatedPosts:
   - travel-from-varanasi-to-vindhyachal
   - trikon-parikrama-vindhyachal-complete-guide
@@ -20,7 +22,7 @@ relatedPosts:
   - pilgrimage-yatra-tours-tempo-traveller-varanasi
 faqSchema:
   - question: "What is the fare for a Tempo Traveller from Varanasi to Vindhyachal?"
-    answer: "A 12 seater Tempo Traveller for an 8-hour Vindhyachal charter costs ₹6,200 inclusive of fuel, tolls, parking, and driver. Navratri or overnight extensions are billed at ₹7,200–₹7,800."
+    answer: "A 12 seater Tempo Traveller for Varanasi to Vindhyachal starts from ₹4,610 for a one-way drop and ₹5,220 for same-day round trip (including vehicle, driver, fuel, highway tolls). The 17 seater is ₹5,010 one-way / ₹6,020 round trip, the 26 seater is ₹5,710 / ₹6,820, and luxury Force Urbania is ₹6,410 / ₹7,220."
   - question: "How long does the Trikon Parikrama take?"
     answer: "Expect 2.5–3 hours to cover Maa Vindhyavasini, Kali Khoh, and Ashtabhuja temples with moderate queue. Departing Varanasi by 5:30 AM keeps you ahead of crowds."
   - question: "Do you arrange priests and VIP darshan passes?"
@@ -33,7 +35,7 @@ faqSchema:
 
 A visit to Maa Vindhyavasini, Kali Khoh, and Ashtabhuja completes the sacred triangle devotees call the *Trikon Parikrama*. Our **Varanasi to Vindhyachal Tempo Traveller** charter is tailored for families, women’s groups, and devotees who want a calm, well-organised darshan with reliable local support.
 
-> **Snapshot:** 70 km · 1.5 hours each way · ₹6,200 (12 seater) · priest coordination · crowd-control for Navratri rush.
+> **Snapshot:** 70 km · 1.5 hours each way · ₹4,610 one-way / ₹5,220 round trip (12 seater) · priest coordination · crowd-control for Navratri rush.
 
 | ![Maa Vindhyavasini temple entrance decked with marigold garlands](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal1.jpg "Maa Vindhyavasini temple entrance at sunrise") | ![Pilgrims performing aarti inside Kali Khoh cave temple](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Vindhyachal2.jpg "Kali Khoh cave aarti during parikrama") | ![Traveller parked near Vindhyachal parikrama start point](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_Side_Packglass_landscape_zoomed.jpeg "Traveller stationed for Vindhyachal parikrama") |
 | --- | --- | --- |
@@ -59,13 +61,14 @@ A visit to Maa Vindhyavasini, Kali Khoh, and Ashtabhuja completes the sacred tri
 
 ![Satvik prasad thali served at Vindhyachal bhojanalaya](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/sangam-600x400.jpeg "Satvik thali during Vindhyachal brunch halt")
 
-| Variant | Seats | Duration | Inclusions | Price |
-| --- | --- | --- | --- | --- |
-| 12 Seater Comfort | 11+1 | 8 hrs / 150 km | Traveller, driver, tolls, parking, water, priest coordination | ₹6,200 |
-| 17 Seater Family | 16+1 | 8 hrs / 150 km | Adds mic, extra luggage rack, helper | ₹7,100 |
-| Urbania Premium | 13 recliners | 9 hrs / 180 km | Recliners, mini-fridge, on-board snacks | ₹10,800 |
+| Variant | Seats | One-Way Drop | Same-Day Round Trip | Approx per-head (RT) | Best For |
+| --- | :---: | ---: | ---: | ---: | --- |
+| 12 Seater Comfort | 11+1 | ₹4,610 | ₹5,220 | about ₹435 | Families with elders, compact groups |
+| 17 Seater Family | 16+1 | ₹5,010 | ₹6,020 | about ₹354 | Multiple families, parikrama yatras |
+| 26 Seater Executive | 25+1 | ₹5,710 | ₹6,820 | about ₹262 | Large devotional sanghas |
+| Force Urbania Premium | 13 recliners | ₹6,410 | ₹7,220 | about ₹555 | High-comfort luxury pilgrimage |
 
-> Navratri surcharge ₹1,000 for extended queue time and additional coordinator.
+All charters include vehicle, driver allowance, fuel, and highway tolls calculated via our official route pricing engine. Optional Navratri crowd-management coordinator available upon request.
 
 ## EAAT Pillars for Vindhyachal Pilgrimage Operations
 

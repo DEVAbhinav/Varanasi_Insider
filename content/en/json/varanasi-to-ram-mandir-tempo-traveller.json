@@ -24,7 +24,7 @@
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller#trip",
       "name": "Varanasi to Ram Mandir Tempo Traveller Package",
-      "description": "Priority darshan Tempo Traveller charter from Varanasi to Ayodhya Ram Mandir with coordinator support, security briefings, and ₹14,500 starting fare.",
+      "description": "Priority darshan Tempo Traveller charter from Varanasi to Ayodhya Ram Mandir with coordinator support, security briefings, and ₹9,400 starting fare (round-trip ₹10,800).",
       "travelMode": "BUS",
       "itinerary": {
         "@type": "ItemList",
@@ -49,7 +49,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "price": 14500,
+        "price": 9400,
         "priceCurrency": "INR",
         "name": "Ram Mandir Tempo Traveller same-day package",
         "url": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller"
@@ -77,7 +77,7 @@
           "name": "What is the fare for a Varanasi to Ram Mandir Tempo Traveller?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A 12 seater Tempo Traveller for a Varanasi to Ram Mandir day trip is ₹14,500 all-inclusive; 17 seaters range ₹15,500–₹16,500 depending on festival demand."
+            "text": "A 12 seater Tempo Traveller for a Varanasi to Ram Mandir trip starts from ₹9,400 one-way and ₹10,800 for same-day round trip all-inclusive; 17 seaters are ₹10,200 one-way / ₹12,400 round trip, and 26 seaters are ₹11,600 / ₹14,000."
           }
         },
         {
@@ -111,10 +111,10 @@
       "@id": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller#webpage",
       "url": "https://www.kashitaxi.in/en/varanasi-to-ram-mandir-tempo-traveller",
       "name": "Varanasi to Ram Mandir Tempo Traveller Package",
-      "description": "Priority Ram Mandir darshan Tempo Traveller charter with vetted drivers, security tips, and ₹14,500 transparent pricing from Varanasi.",
+      "description": "Priority Ram Mandir darshan Tempo Traveller charter with vetted drivers, security tips, and ₹9,400 transparent pricing (round-trip ₹10,800) from Varanasi.",
       "inLanguage": "en-IN",
       "datePublished": "2026-09-03",
-      "dateModified": "2026-09-03",
+      "dateModified": "2026-09-14",
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",

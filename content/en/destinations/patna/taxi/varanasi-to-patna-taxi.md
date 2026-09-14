@@ -290,7 +290,7 @@ Popular eating areas include Bansi Vihar, Kaveri Restaurant, and Tandoor Hut. Fo
 
 ## Related Varanasi Taxi Routes & Services
 
-- [Varanasi to Gaya Taxi](/en/city/gaya/taxi/varanasi-to-gaya-taxi) - 115 km | 3 hrs | Pind-daan
+- [Varanasi to Gaya Taxi](/en/city/gaya/taxi/varanasi-to-gaya-taxi) - 250-255 km | 5.5-6 hrs | Pind-daan
 - [Varanasi to Bodhgaya Cab](/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi) - 234 km | 4 hrs | Buddhist circuit
 - [Varanasi to Lucknow Taxi](/en/city/lucknow/taxi/varanasi-to-lucknow-taxi) - 320 km | 6 hrs | UP capital
 - [Varanasi to Deoghar Taxi](/en/city/deoghar/taxi/varanasi-to-deoghar-taxi) - 460 km | 9-10 hrs | Baidyanath Jyotirlinga

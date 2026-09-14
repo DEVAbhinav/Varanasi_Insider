@@ -1,12 +1,14 @@
 {
   "version": 1,
-  "lastAudit": "2026-09-13",
+  "lastAudit": "2026-09-14",
   "candidates": [
     {
       "canonical": "https://www.kashitaxi.in/en/12-seater-tempo-traveller-varanasi",
       "source": "content/en/12-seater-tempo-traveller-varanasi.md",
       "sourceSha256": "3278fbaebc26b9a9a2ca36b3ed5ccf325772790ac412504a340464a7b1f17afd",
-      "status": "completed_local",
+      "status": "deployed_verified",
+      "deployedVerifiedDate": "2026-09-14",
+      "deploymentEvidence": "Live canonical returned the selected interior photo in Open Graph, Twitter and Product JSON-LD; canonical and index/follow preserved. Prior user-authorized master push included this change.",
       "issue": "Generic OG/Twitter fallback and sedan schema image despite relevant existing vehicle photographs.",
       "completedDate": "2026-09-13",
       "changedFiles": [
@@ -29,13 +31,48 @@
         "Live canonical remains pre-deployment and was not changed",
         "No unrelated files changed by this run"
       ],
-      "blockers": [
-        "Deployment not authorized or performed"
-      ],
+      "blockers": [],
       "suggestedImage": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg"
+    },
+    {
+      "canonical": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi",
+      "source": "content/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi.md",
+      "status": "completed_local",
+      "completedDate": "2026-09-14",
+      "issue": "Generic featured-image fallback despite suitable existing content photography.",
+      "resolution": "Added featuredImage pointing to an existing 1280x960 interior photograph. Preserved the existing Service image array, which already includes this image.",
+      "imageProvenance": "Existing Cloudinary photo already embedded visibly in the page; no image generation or upload.",
+      "suggestedImage": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg",
+      "changedFiles": ["content/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi.md"],
+      "beforeSha256": {"content/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi.md": "c6707816a982f70dfc57762496ab01e0e609b1700045f02e302f151275791613"},
+      "afterSha256": {"content/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi.md": "211c674bd87c4f0bc1ccca6bf1e3b543f0d4bdc48ddfd7909f304ecaf00c0823"},
+      "validation": [
+        "Luna high-effort worker reported isolated lint/build passed with existing warnings",
+        "Worker verified YAML/JSON parsing, diff check, rendered Open Graph/Twitter image alignment and canonical/robots preservation",
+        "Worker reported desktop/mobile DOM checks and 380px mobile overflow check passed",
+        "Parent reviewed the single-line diff and verified only the intended content file and maintenance log changed",
+        "Worker stopped its production server on port 4187 and closed its browser"
+      ],
+      "limitations": [
+        "Saved mobile screenshot is obscured by a booking modal; parent visual layout confirmation is limited. This change affects metadata only and reuses a previously inspected image.",
+        "Two unrelated lazy-loaded related images were not scrolled into view; this was not a full image audit",
+        "No deployment or external rich-result validation performed"
+      ]
     }
   ],
   "runs": [
+    {
+      "date": "2026-09-14",
+      "runId": "seo-20260914-034045",
+      "result": "One page-local featured-image correction completed; previous 12-seater correction verified deployed",
+      "workerModel": "gpt-5.6-luna",
+      "workerReasoningEffort": "high",
+      "workerLaunches": 1,
+      "websiteFilesChanged": 1,
+      "delivery": "completed_local; not committed or pushed",
+      "validationCopy": "/tmp/kashi-seo-validation.9KVjR3",
+      "nextAction": "Integrate the completed local edit; on the next run consider an untouched canonical page with a verified image gap."
+    },
     {
       "date": "2026-09-13",
       "mode": "short_isolated_pilot",

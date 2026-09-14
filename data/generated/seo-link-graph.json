@@ -2,7 +2,7 @@
   "gscDate": "2026-07-30",
   "gscMatched": 559,
   "gscAnchorMatched": 19,
-  "totalNodes": 632,
+  "totalNodes": 634,
   "footer": {
     "en": [
       {
@@ -479,7 +479,7 @@
           },
           {
             "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-            "label": "वाराणसी से विंध्याचल Tempo Traveller"
+            "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610"
           },
           {
             "href": "/hi/varanasi-to-lucknow-tempo-traveller",
@@ -767,6 +767,38 @@
       {
         "href": "/en/varanasi-to-lucknow-tempo-traveller",
         "label": "Varanasi to Lucknow Tempo Traveller Fare ₹14,476",
+        "reason": "related"
+      }
+    ],
+    "/en/annapurna-swarna-darshan-annakut-varanasi-guide": [
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
+        "reason": "book"
+      },
+      {
+        "href": "/en/packages/varanasi-tour-package",
+        "label": "Varanasi Tour Package 2026",
+        "reason": "book"
+      },
+      {
+        "href": "/en/varanasi-weather-guide",
+        "label": "Varanasi Weather Guide",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/kashi-vs-varanasi-vs-banaras",
+        "label": "Kashi vs Varanasi vs Banaras",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/jagannath-rath-yatra-varanasi-2026",
+        "label": "Jagannath Rath Yatra in Varanasi, 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/en/sarnath-timing-visit-guide",
+        "label": "Sarnath Temple Timing 2026",
         "reason": "related"
       }
     ],
@@ -6454,7 +6486,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -6463,8 +6495,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -6486,7 +6518,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -6495,8 +6527,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -6518,7 +6550,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -6527,8 +6559,40 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
+        "reason": "related"
+      }
+    ],
+    "/hi/annapurna-swarna-darshan-annakut-varanasi-guide": [
+      {
+        "href": "/hi/varanasi-airport-taxi-guide",
+        "label": "वाराणसी एयरपोर्ट टैक्सी गाइड",
+        "reason": "book"
+      },
+      {
+        "href": "/hi/varanasi-sunrise-time",
+        "label": "वाराणसी में सूर्योदय का समय 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/travel-from-varanasi-to-vindhyachal",
+        "label": "वाराणसी से विंध्याचल टैक्सी",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/sarnath-timing-visit-guide",
+        "label": "सारनाथ टाइमिंग 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/trikon-parikrama-vindhyachal-complete-guide",
+        "label": "विंध्याचल में त्रिकोण परिक्रमा",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/varanasi-in-monsoon-july-september-2026",
+        "label": "मानसून में वाराणसी",
         "reason": "related"
       }
     ],
@@ -7328,7 +7392,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       }
     ],
@@ -8177,7 +8241,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -8186,13 +8250,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -8214,7 +8278,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -8223,8 +8287,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -8246,7 +8310,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -8255,8 +8319,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -8278,7 +8342,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -8287,8 +8351,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -8534,7 +8598,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -8543,8 +8607,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -9110,7 +9174,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9119,8 +9183,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -9147,7 +9211,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9179,7 +9243,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9243,7 +9307,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9302,7 +9366,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9311,8 +9375,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -9329,7 +9393,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9338,13 +9402,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9398,7 +9462,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9407,8 +9471,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -9430,7 +9494,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9439,8 +9503,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -9462,17 +9526,17 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       },
       {
         "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
         "label": "Tempo Traveller बनाम कई कारें",
-        "reason": "related"
-      },
-      {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
         "reason": "related"
       }
     ],
@@ -9489,7 +9553,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9498,13 +9562,13 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       },
       {
-        "href": "/hi/varanasi-to-gaya-tempo-traveller",
-        "label": "वाराणसी से गया Tempo Traveller",
+        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
+        "label": "Tempo Traveller बनाम कई कारें",
         "reason": "related"
       }
     ],
@@ -9526,7 +9590,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9535,8 +9599,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -9590,7 +9654,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9599,8 +9663,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -9622,7 +9686,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9631,8 +9695,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -9659,7 +9723,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9696,7 +9760,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       }
     ],
@@ -9718,7 +9782,7 @@
       },
       {
         "href": "/hi/varanasi-to-vindhyachal-tempo-traveller",
-        "label": "वाराणसी से विंध्याचल Tempo Traveller",
+        "label": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
         "reason": "related"
       },
       {
@@ -9727,8 +9791,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -9823,8 +9887,8 @@
         "reason": "related"
       },
       {
-        "href": "/hi/tempo-traveller-vs-multiple-cars-varanasi",
-        "label": "Tempo Traveller बनाम कई कारें",
+        "href": "/hi/varanasi-to-ram-mandir-tempo-traveller",
+        "label": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
         "reason": "related"
       }
     ],
@@ -20080,6 +20144,20 @@
       "position": 7.3,
       "score": 29
     },
+    "/en/annapurna-swarna-darshan-annakut-varanasi-guide": {
+      "lang": "en",
+      "title": "Maa Annapurna Swarna Roop Darshan & Annakut 2026: Dates, Khazana, Queue Route & Cab Guide",
+      "anchor": "Maa Annapurna Swarna Roop Darshan & Annakut 2026",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
+    },
     "/en/ashoka-pillar-sarnath-guide": {
       "lang": "en",
       "title": "Ashoka Pillar Sarnath: Original Ashok Stambh, Lion Capital & Edicts Guide 2026",
@@ -21520,7 +21598,7 @@
       "clicks": 1,
       "impressions": 27,
       "position": 8.5,
-      "score": 88
+      "score": 87
     },
     "/en/varanasi-classical-music-heritage": {
       "lang": "en",
@@ -22014,8 +22092,8 @@
     },
     "/en/varanasi-to-ram-mandir-tempo-traveller": {
       "lang": "en",
-      "title": "Varanasi to Ram Mandir Tempo Traveller ₹14,500 | Priority Coach",
-      "anchor": "Varanasi to Ram Mandir Tempo Traveller ₹14,500",
+      "title": "Varanasi to Ram Mandir Tempo Traveller ₹9,400 | Priority Coach",
+      "anchor": "Varanasi to Ram Mandir Tempo Traveller ₹9,400",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -22024,7 +22102,7 @@
       "clicks": 0,
       "impressions": 20,
       "position": 14.6,
-      "score": 83
+      "score": 85
     },
     "/en/varanasi-to-sarnath-tempo-traveller": {
       "lang": "en",
@@ -22084,8 +22162,8 @@
     },
     "/en/varanasi-to-vindhyachal-tempo-traveller": {
       "lang": "en",
-      "title": "Varanasi to Vindhyachal Tempo Traveller | Navratri VIP Charter",
-      "anchor": "Varanasi to Vindhyachal Tempo Traveller",
+      "title": "Varanasi to Vindhyachal Tempo Traveller ₹4,610 | Navratri VIP Charter",
+      "anchor": "Varanasi to Vindhyachal Tempo Traveller ₹4,610",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -22094,7 +22172,7 @@
       "clicks": 2,
       "impressions": 220,
       "position": 5.5,
-      "score": 80
+      "score": 82
     },
     "/en/varanasi-tour-package-for-families": {
       "lang": "en",
@@ -22136,7 +22214,7 @@
       "clicks": 0,
       "impressions": 43,
       "position": 14.3,
-      "score": 80
+      "score": 79
     },
     "/en/varanasi-transport-price-guide-2026": {
       "lang": "en",
@@ -22206,7 +22284,7 @@
       "clicks": 1,
       "impressions": 27,
       "position": 8.6,
-      "score": 48
+      "score": 47
     },
     "/en/what-to-wear-in-varanasi": {
       "lang": "en",
@@ -22262,7 +22340,7 @@
       "clicks": 1,
       "impressions": 278,
       "position": 6.8,
-      "score": 78
+      "score": 77
     },
     "/en/packages/shradh-pind-daan-package-varanasi": {
       "lang": "en",
@@ -22810,6 +22888,20 @@
       "position": 7,
       "score": 28
     },
+    "/hi/annapurna-swarna-darshan-annakut-varanasi-guide": {
+      "lang": "hi",
+      "title": "मां अन्नपूर्णा स्वर्ण रूप दर्शन एवं अन्नकूट 2026: तारीखें, खजाना, कतार रूट व कैब गाइड",
+      "anchor": "मां अन्नपूर्णा स्वर्ण रूप दर्शन एवं अन्नकूट 2026",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
+    },
     "/hi/ashoka-pillar-sarnath-guide": {
       "lang": "hi",
       "title": "अशोक स्तंभ सारनाथ 2026: कहाँ है, क्या देखें और लायन कैपिटल क्यों महत्वपूर्ण है",
@@ -23228,7 +23320,7 @@
       "clicks": 0,
       "impressions": 80,
       "position": 7.6,
-      "score": 30
+      "score": 29
     },
     "/hi/kasi-tour-package": {
       "lang": "hi",
@@ -24184,8 +24276,8 @@
     },
     "/hi/varanasi-to-ram-mandir-tempo-traveller": {
       "lang": "hi",
-      "title": "वाराणसी से राम मंदिर Tempo Traveller ₹14,500 | प्रायोरिटी कोच",
-      "anchor": "वाराणसी से राम मंदिर Tempo Traveller ₹14,500",
+      "title": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400 | प्रायोरिटी कोच",
+      "anchor": "वाराणसी से राम मंदिर Tempo Traveller ₹9,400",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -24194,7 +24286,7 @@
       "clicks": 0,
       "impressions": 3,
       "position": 8,
-      "score": 83
+      "score": 85
     },
     "/hi/varanasi-to-sarnath-tempo-traveller": {
       "lang": "hi",
@@ -24254,8 +24346,8 @@
     },
     "/hi/varanasi-to-vindhyachal-tempo-traveller": {
       "lang": "hi",
-      "title": "वाराणसी से विंध्याचल Tempo Traveller | नवरात्रि विशेष",
-      "anchor": "वाराणसी से विंध्याचल Tempo Traveller",
+      "title": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610 | नवरात्रि विशेष",
+      "anchor": "वाराणसी से विंध्याचल Tempo Traveller ₹4,610",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -24264,7 +24356,7 @@
       "clicks": 2,
       "impressions": 89,
       "position": 8.1,
-      "score": 93
+      "score": 95
     },
     "/hi/varanasi-tour-package-for-families": {
       "lang": "hi",
@@ -25454,7 +25546,7 @@
       "clicks": 5,
       "impressions": 943,
       "position": 18.2,
-      "score": 117
+      "score": 116
     },
     "/en/city/varanasi/sightseeing/kashi-vishwanath-temple-ganga-aarti-spiritual-journey-2026": {
       "lang": "en",
@@ -26168,7 +26260,7 @@
       "clicks": 0,
       "impressions": 27,
       "position": 12.1,
-      "score": 84
+      "score": 83
     },
     "/en/city/varanasi/taxi/varanasi-airport-to-mughalsarai-taxi": {
       "lang": "en",
@@ -26476,7 +26568,7 @@
       "clicks": 0,
       "impressions": 47,
       "position": 20.9,
-      "score": 70
+      "score": 69
     },
     "/en/city/varanasi/taxi/varanasi-to-gaya-taxi-service": {
       "lang": "en",

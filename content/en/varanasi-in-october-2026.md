@@ -24,6 +24,7 @@ tags:
   - weather
   - travel planning
 relatedPosts:
+  - annapurna-swarna-darshan-annakut-varanasi-guide
   - durga-puja-in-varanasi-pandals-guide-2026
   - navratri-nava-durga-yatra-varanasi-guide
   - best-time-to-visit-varanasi
@@ -70,7 +71,7 @@ October is all about festive energy. The entire city gets swept up in celebratio
 
 **Dussehra & Bharat Milap (20–21 October 2026):** Dussehra concludes the festival on 20 October with massive Ravana Dahan spectacles at Lanka, Sigra, and Ramnagar, followed immediately by the historic [Bharat Milap at Nati Imli](/en/bharat-milap-nati-imli) on 21 October. Pre-booking your festival transit through our [Varanasi Festival Taxi Service](/en/book-taxi-varanasi-ramlila-dussehra) is critical to avoid peak-hour surge pricing and post-event stranding.
 
-**The Lead-up to Diwali (Diwali is on 8 November 2026):** Throughout October, you can feel the excitement building. Markets are buzzing, and the ghats start to get decorated. You get to witness the city preparing for its biggest festival of lights, which is a unique experience in itself.
+**The Lead-up to Diwali (Diwali is on 8 November 2026):** Throughout October, you can feel the excitement building. Markets are buzzing, and the ghats start to get decorated. You get to witness the city preparing for its biggest festival of lights, which is a unique experience in itself. Immediately following Diwali week, Kashi celebrates the once-a-year [Maa Annapurna Swarna Roop Darshan & Annakut Mahotsav](/en/annapurna-swarna-darshan-annakut-varanasi-guide) (6–11 November 2026), where the solid-gold temple opens and sacred Khazana coins are distributed.
 
 ![Ghats glowing with diyas during October evenings in Varanasi](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-ghat-boat-eve-p.jpeg "Evening lights on the ghats")
 

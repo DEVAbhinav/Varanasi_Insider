@@ -313,7 +313,7 @@ Via Sunauli Border:
 ## Related Varanasi Taxi Routes & Nepal Services
 
 - [Varanasi to Ayodhya](/en/varanasi-to-ayodhya-taxi) - 219 km | 4 hrs | Ram Mandir
-- [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 115 km | 3 hrs | Vishnupad Temple
+- [Varanasi to Gaya Tempo Traveller](/en/varanasi-to-gaya-tempo-traveller) - 250-255 km | 5.5-6 hrs | Vishnupad Temple
 - [Varanasi to Bodhgaya Taxi](/en/varanasi-to-bodhgaya-taxi-cost) - 234 km | 4 hrs | Buddhist circuit
 - [Varanasi to Kushinagar Taxi](/en/city/kushinagar/taxi/varanasi-to-kushinagar-taxi) - 245 km | 5-6 hrs | Buddha's Mahaparinirvana
 

@@ -17,6 +17,7 @@ tags:
   - booking tips
 slug: 9-vs-12-vs-17-seater-tempo-traveller-varanasi
 canonical: 'https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi'
+featuredImage: 'https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Temp-Travellar-Inside_Square_1by1.jpeg'
 author: Kamal Nayan Singh
 lastUpdated: 2026-07-15
 keywords:

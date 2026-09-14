@@ -33,30 +33,37 @@
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "lowPrice": "5500",
-        "highPrice": "8500",
-        "offerCount": "3",
+        "lowPrice": "4610",
+        "highPrice": "7220",
+        "offerCount": "4",
         "availability": "https://schema.org/InStock",
         "priceValidUntil": "2026-12-31",
         "offers": [
           {
             "@type": "Offer",
-            "name": "9 Seater Tempo to Vindhyachal",
-            "price": 5500,
-            "priceCurrency": "INR",
-            "availability": "https://schema.org/InStock"
-          },
-          {
-            "@type": "Offer",
             "name": "12 Seater Tempo to Vindhyachal",
-            "price": 6200,
+            "price": 4610,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
           {
             "@type": "Offer",
             "name": "17 Seater Tempo to Vindhyachal",
-            "price": 8500,
+            "price": 5010,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "26 Seater Tempo to Vindhyachal",
+            "price": 5710,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Force Urbania to Vindhyachal",
+            "price": 6410,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           }
@@ -79,7 +86,7 @@
           "name": "What is the Varanasi to Vindhyachal Tempo Traveller price?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "9 Seater at ₹5,500, 12 Seater at ₹6,200, and 17 Seater at ₹8,500 for 8-hour package including fuel, tolls, parking. Navratri or overnight at ₹7,200–₹8,800."
+            "text": "12 Seater starts from ₹4,610 one-way (₹5,220 same-day round trip), 17 Seater at ₹5,010 one-way (₹6,020 round trip), 26 Seater at ₹5,710 / ₹6,820, and Force Urbania at ₹6,410 / ₹7,220 including vehicle, driver allowance, fuel, and highway tolls."
           }
         },
         {

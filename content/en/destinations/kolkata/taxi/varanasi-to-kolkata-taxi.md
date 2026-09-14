@@ -266,7 +266,7 @@ We provide Varanasi to Kolkata taxi service, but we do not push it blindly. This
 
 ## Related Eastern India Taxi Routes
 
-- [Varanasi to Gaya Taxi](/en/city/gaya/taxi/varanasi-to-gaya-taxi) - 115 km | 2.5 hrs
+- [Varanasi to Gaya Taxi](/en/city/gaya/taxi/varanasi-to-gaya-taxi) - 250-255 km | 5.5-6 hrs
 - [Varanasi to Patna Taxi](/en/city/patna/taxi/varanasi-to-patna-taxi) - 240 km | 5 hrs
 - [Varanasi to Bodhgaya Cab](/en/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi) - 234 km | 5 hrs
 

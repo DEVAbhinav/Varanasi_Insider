@@ -44,7 +44,7 @@ relatedPosts:
 
 - [वाराणसी से अयोध्या टैक्सी](/hi/varanasi-to-ayodhya-taxi) — राम जन्मभूमि, ~219 किमी, ₹3,500 से
 - [वाराणसी से प्रयागराज टैक्सी](/hi/varanasi-to-prayagraj-taxi) — त्रिवेणी संगम, ~125 किमी, ₹2,500 से
-- [वाराणसी से गया टैक्सी](/hi/city/gaya/taxi/varanasi-to-gaya-taxi) — विष्णुपद व पिंडदान, ~115 किमी, ₹2,800 से
+- [वाराणसी से गया टैक्सी](/hi/city/gaya/taxi/varanasi-to-gaya-taxi) — विष्णुपद व पिंडदान, ~250 किमी, ₹4,800 से
 - [वाराणसी से बोधगया टैक्सी](/hi/city/bodhgaya/taxi/varanasi-to-bodhgaya-taxi) — महाबोधि मंदिर, ~234 किमी, ₹3,500 से
 - [वाराणसी से विंध्याचल टैक्सी](/hi/varanasi-to-vindhyachal-taxi) — विंध्यवासिनी शक्तिपीठ, ~65 किमी, ₹2,500 से
 - [वाराणसी से चित्रकूट टैक्सी](/hi/city/chitrakoot/taxi/varanasi-to-chitrakoot-taxi) — राम वनवास, ~250 किमी, ₹3,500 से

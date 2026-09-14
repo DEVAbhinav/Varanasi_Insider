@@ -1,10 +1,10 @@
 ---
 lang: en
-title: "Varanasi to Ram Mandir Tempo Traveller ₹14,500 | Priority Coach"
-description: "Book your Ayodhya charter now for Sugam Darshan slots, vetted drivers, and on-ground coordinator support—instant WhatsApp confirmation and senior-friendly halts."
+title: "Varanasi to Ram Mandir Tempo Traveller ₹9,400 | Priority Coach"
+description: "Book your Ayodhya charter from ₹9,400 one-way (round-trip ₹10,800) with Sugam Darshan slots, vetted drivers, and on-ground coordinator support—instant confirmation and senior-friendly halts."
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: 2026-09-14
 tags: [ram mandir, ayodhya yatra, tempo traveller, varanasi to ayodhya, pilgrimage]
 keywords:
   - varanasi to ram mandir tempo traveller
@@ -21,22 +21,22 @@ relatedPosts:
   - tempo-traveller-rates-varanasi
 faqSchema:
   - question: "What is the fare for a Varanasi to Ram Mandir Tempo Traveller?"
-    answer: "A 12 seater Tempo Traveller for Varanasi to Ram Mandir day trip is ₹14,500 all-inclusive (vehicle, driver, toll, parking, taxes). 17 seater quotes range ₹15,500–₹16,500 depending on festival dates."
+    answer: "A 12 seater Tempo Traveller for Varanasi to Ram Mandir starts from ₹9,400 for a one-way drop and ₹10,800 for same-day round trip all-inclusive (vehicle, driver, fuel, highway tolls). The 17 seater is ₹10,200 one-way / ₹12,400 round trip, the 26 seater is ₹11,600 / ₹14,000, and luxury Force Urbania is ₹13,000 / ₹14,800."
   - question: "How early should we leave Varanasi for Ram Mandir darshan?"
     answer: "Depart by 4:30–5:00 AM to clear Prayagraj bypass before commuter traffic. This helps you reach Ayodhya reporting zone by 9:30 AM, enter priority queue slots, and finish darshan before peak noon rush."
   - question: "Can you arrange Ram Mandir VIP or Sugam Darshan passes?"
     answer: "We guide you through the official Shri Ram Janmabhoomi Teerth Kshetra portal to block Sugam Darshan slots. Our Ayodhya coordinator helps seniors and differently abled pilgrims navigate security and frisking lanes."
   - question: "Is a same-day return comfortable for elders?"
     answer: "Yes when you build in rest halts every 90 minutes, carry light snacks, and use the Traveller's push-back seats. Families with 70+ elders often add a short afternoon nap window in the vehicle before departure."
-metaTitle: "Varanasi to Ayodhya Ram Mandir Tempo Traveller from ₹14,500"
-metaDescription: "Book Varanasi to Ayodhya Ram Mandir 12/17/26 seater Tempo Traveller charter from ₹14,500. Same-day & 2-day family packages with verified drivers: 99354 74730."
+metaTitle: "Varanasi to Ayodhya Ram Mandir Tempo Traveller from ₹9,400"
+metaDescription: "Book Varanasi to Ayodhya Ram Mandir 12/17/26 seater Tempo Traveller charter from ₹9,400 one-way (round-trip ₹10,800). Same-day & 2-day family packages with verified drivers: 99354 74730."
 ---
 
 # Varanasi to Ram Mandir Tempo Traveller Package (2026)
 
 Visiting Shri Ram Lala at Ayodhya is no longer an abstract dream—our ground team has been running daily pilgrim charters from Kashi ever since the consecration in January 2024. This dedicated \*Ram Mandir Tempo Traveller\* package is optimised around darshan slot logistics, verified parking at Ramkatha Parking-2, and senior-friendly queue navigation. Expect practical guidance from coordinators who have personally walked the new access corridors multiple times in 2026.
 
-> **Quick Summary:** Same-day return, 12- or 17-seater Traveller, ₹14,500 onwards, priority darshan briefing, vetted priest contact, and backup driver network for high-demand festival clusters (Ram Navami, Kartik Purnima, Deepotsav).
+> **Quick Summary:** Same-day return from ₹10,800 (one-way from ₹9,400), 12-, 17-, or 26-seater Traveller & Urbania luxury options, priority darshan briefing, vetted priest contact, and backup driver network.
 
 | ![Tempo Traveller queued near Ayodhya Ram Mandir access gate pre-dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus1.jpg "Pre-dawn arrival at Ram Mandir parking") | ![Pilgrims boarding premium Traveller for Ram Mandir darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus2.jpg "Premium Traveller ready for Ram Mandir darshan") | ![Ayodhya skyline over Saryu River at sunrise](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogAyodhya.jpg "Ayodhya sunrise over Saryu before darshan") |
 | --- | --- | --- |
@@ -66,13 +66,14 @@ Visiting Shri Ram Lala at Ayodhya is no longer an abstract dream—our ground te
 
 ## Ram Mandir Tempo Traveller Fare & Vehicle Options
 
-| Variant | Seats | Package (All-Inclusive) | Best For |
-| --- | --- | --- | --- |
-| 12-Seater Premium | 11+1 | ₹14,500 weekday · ₹15,500 festival | Families with elders, compact groups |
-| 17-Seater Standard | 16+1 | ₹15,500 weekday · ₹16,500 festival | Multiple families, bhajan mandali |
-| Urbania Luxury | 13 recliners | ₹21,500 (limited fleet) | High-comfort corporate/patron groups |
+| Variant | Seats | One-Way Drop | Same-Day Round Trip | Approx per-head (RT) | Best For |
+| --- | :---: | ---: | ---: | ---: | --- |
+| 12-Seater Premium | 11+1 | ₹9,400 | ₹10,800 | about ₹900 | Families with elders, compact groups |
+| 17-Seater Standard | 16+1 | ₹10,200 | ₹12,400 | about ₹730 | Multiple families, bhajan mandali |
+| 26-Seater Executive | 25+1 | ₹11,600 | ₹14,000 | about ₹540 | Large pilgrim groups, community yatras |
+| Force Urbania Luxury | 13 recliners | ₹13,000 | ₹14,800 | about ₹1,138 | High-comfort corporate/patron groups |
 
-All packages include fuel, toll, UP state tax, Ayodhya parking, driver allowance, chilled water, and onboard first-aid kit. GST invoice available on request.
+All packages include fuel, toll, UP state tax, driver allowance, chilled water, and onboard first-aid kit. Fares are powered by our official route pricing engine. GST invoice available on request.
 
 ## Ram Mandir Security & Documentation Checklist
 
@@ -116,7 +117,7 @@ All packages include fuel, toll, UP state tax, Ayodhya parking, driver allowance
 
 ## Book Your Ram Mandir Tempo Traveller
 
-- **Primary CTA:** Book Ram Mandir Darshan Coach (₹14,500)
+- **Primary CTA:** Book Ram Mandir Darshan Coach (from ₹9,400)
 - **Secondary CTA:** Request Sugam Darshan Assistance
 - Call: [+91 99354 74730](tel:+919935474730)
 - WhatsApp: https://wa.me/919935474730?text=Ram%20Mandir%20Tempo%20Traveller%20Booking
