@@ -1,18 +1,22 @@
 ---
 lang: en
-title: "Varanasi to Gaya Tempo Traveller | Pind Daan Escort 2026"
-description: "Plan Vishnupad Pind Daan with registered pandas, 2-day Traveller support, Bodh Gaya add-ons, and transparent ₹17.5k pricing. Reserve your ritual slot today."
+title: "Varanasi to Gaya Tempo Traveller Fare ₹11,844 | Pind Daan Escort [2026]"
+metaTitle: "Varanasi to Gaya Tempo Traveller Fare ₹11,844 | 12, 17 Seater"
+metaDescription: "Book Varanasi to Gaya tempo traveller from ₹11,844 one-way (₹13,608 round-trip). 12, 17, 26 seater & Urbania for Vishnupad Pind Daan with registered panda coordination."
+description: "Varanasi to Gaya Tempo Traveller service from ₹11,844 (round-trip ₹13,608). Vishnupad Pind Daan escort, Bodh Gaya extension, vetted pandas, AC comfort for elders."
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: "2026-09-15"
 tags: [gaya, pind daan, tempo traveller, pilgrimage, bodhgaya]
 keywords:
   - varanasi to gaya tempo traveller
+  - varanasi to gaya tempo traveller fare
   - pind daan tempo traveller package
   - vishnupad temple shuttle from varanasi
   - varanasi to gaya priest coordination
   - gaya bodh gaya tempo traveller fare
 slug: varanasi-to-gaya-tempo-traveller
+canonical: https://www.kashitaxi.in/en/varanasi-to-gaya-tempo-traveller
 relatedPosts:
   - varanasi-to-bodhgaya-tempo-traveller
   - varanasi-to-gaya-bodh-gaya-tour-package
@@ -20,11 +24,11 @@ relatedPosts:
   - tempo-traveller-rates-varanasi
 faqSchema:
   - question: "What is the fare for a Varanasi to Gaya Tempo Traveller?"
-    answer: "A 12 seater Tempo Traveller for a 2-day Varanasi–Gaya–Bodh Gaya circuit is typically ₹17,500 including 650 km billing, tolls, Bihar permit, parking, and driver allowance. Same-day whirlwind trips cost ₹15,000 but are not recommended for rituals."
+    answer: "Varanasi to Gaya 12-seater tempo traveller starts from ₹11,844 one-way and ₹13,608 for a round trip. The 17-seater is ₹12,852 one-way (₹15,624 return), 26-seater is ₹14,616 (₹17,640 return), and luxury Force Urbania is ₹16,380 (₹18,648 return). Fares include AC vehicle, highway driver, fuel, tolls, and inter-state permit."
   - question: "Can you arrange an authentic priest for Pind Daan at Vishnupad?"
     answer: "Yes. We work with registered Gayawal pandas who speak Hindi/English, disclose dakshina upfront, and guide you through all 16 steps of the ritual." 
   - question: "Is overnight stay compulsory?"
-    answer: "For a stress-free Pind Daan and Bodh Gaya visit, we strongly suggest one night in Gaya or Bodh Gaya. Same-day runs feel rushed and tiring for elders."
+    answer: "For a stress-free Pind Daan and Bodh Gaya visit, we strongly suggest one night in Gaya or Bodh Gaya. Same-day round trips (₹13,608 base vehicle charter) are possible with an early 4:30 AM start."
   - question: "Do you help with Mangla Gauri Shakti Peeth darshan?"
     answer: "Our coordinator plans the early morning Mangla Gauri climb with light snacks, headlamp, and crowd management during Shravan/navratri peaks."
 ---
@@ -36,7 +40,7 @@ Performing *Pind Daan* at Gaya is a sacred responsibility. Having escorted count
 | ![Traveller parked beside Gaya Vishnupad access lane at dawn](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaBus1.jpg "Traveller staged near Vishnupad Temple") | ![Gayawal priest assisting family with Pind Daan kit](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogGaya.png "Priest-guided Pind Daan preparations") | ![Local taxi support near Bodh Gaya monasteries for sightseeing add-on](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/GayaTaxi.jpg "Taxi support for Bodh Gaya extension") |
 | --- | --- | --- |
 
-> **Essentials:** 255 km each way · 2-day itinerary recommended · ₹17.5k all-inclusive 12 seater · Gayawal priest coordination · lodging assistance.
+> **Essentials:** 250 km each way · 1–2 day itinerary · from ₹11,844 one-way / ₹13,608 round-trip (12 seater) · Gayawal priest coordination · lodging assistance.
 
 ## Gaya & Bodh Gaya 2-Day Tempo Traveller Flow (Recommended)
 
@@ -66,13 +70,14 @@ Performing *Pind Daan* at Gaya is a sacred responsibility. Having escorted count
 
 ## Gaya Tempo Traveller Vehicle Options & Pricing
 
-| Variant | Seating | 2-Day Package | Notes |
-| --- | --- | --- | --- |
-| 12 Seater Deluxe | 11+1 | ₹17,500 | Includes tolls, Bihar permit, driver stay, ritual kit, water | 
-| 17 Seater Classic | 16+1 | ₹19,800 | Additional helper for luggage & ritual support |
-| Urbania Recliner | 13 | ₹24,500 | Recliners + mini pantry, good for seniors |
+| Vehicle | Seating | One-Way | Round-Trip | Inclusions & Extras |
+| --- | --- | --- | --- | --- |
+| 12 Seater Deluxe | 11+1 | ₹11,844 | ₹13,608 | AC, pushback seats, tolls, permit, driver allowance, water | 
+| 17 Seater Classic | 16+1 | ₹12,852 | ₹15,624 | Extra luggage carrier, mic system, ritual coordination |
+| 26 Seater Standard | 25+1 | ₹14,616 | ₹17,640 | Large family / satsang group comfort, dedicated baggage area |
+| Urbania Recliner | 13 | ₹16,380 | ₹18,648 | Individual AC vents, plush captain recliners, elderly comfort |
 
-> Hotel charges not included—choose from ₹1,200 (dharamshala AC) to ₹3,800 (3-star hotel). We can pre-pay on your behalf if desired.
+> Vehicle rates cover fuel, NH19 tolls, Bihar state permit, parking, and driver allowance. Hotel lodging and ritual dakshina are separate.
 
 ## EAAT Confidence for Gaya Pilgrimage Operations
 

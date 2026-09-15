@@ -1,18 +1,22 @@
 ---
 lang: en
-title: "Varanasi to Sarnath Tempo Traveller | 6-Hour Buddhist Circuit"
-description: "Charter an AC Traveller with ASI guide, museum fast-track entry, and curated vegetarian lunch stop—ideal for pilgrims, schools, and foreign guests. WhatsApp to confirm."
+title: "Varanasi to Sarnath Tempo Traveller Fare ₹2,236 | Buddhist Circuit [2026]"
+metaTitle: "Varanasi to Sarnath Tempo Traveller Fare ₹2,236 | 12 & 17 Seater"
+metaDescription: "Hire Varanasi to Sarnath tempo traveller from ₹2,236 one-way (₹2,472 round-trip). 12, 17, 26 seater & Urbania for Dhamek Stupa, Museum & Buddhist temples. WhatsApp now."
+description: "Book AC Tempo Traveller from Varanasi to Sarnath from ₹2,236 (round-trip ₹2,472). Dhamek Stupa, Mulagandha Kuti Vihara, museum visit with verified drivers."
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: "2026-09-15"
 tags: [sarnath, buddhist circuit, tempo traveller, varanasi sightseeing, heritage]
 keywords:
   - varanasi to sarnath tempo traveller
+  - varanasi to sarnath tempo traveller fare
   - sarnath half day tour tempo traveller
   - dhamek stupa tempo traveller package
   - sarnath museum guided tour from varanasi
   - buddhist pilgrims tempo traveller varanasi
 slug: varanasi-to-sarnath-tempo-traveller
+canonical: https://www.kashitaxi.in/en/varanasi-to-sarnath-tempo-traveller
 relatedPosts:
   - buddhist-circuit-tour-tempo-traveller-varanasi
   - tempo-traveller-varanasi
@@ -20,20 +24,20 @@ relatedPosts:
   - tempo-traveller-rates-varanasi
 faqSchema:
   - question: "What is the cost of hiring a Tempo Traveller from Varanasi to Sarnath?"
-    answer: "A 12 seater AC Traveller for a 6-hour Sarnath circuit costs ₹3,200 inclusive of driver, fuel, parking, and guide coordination. 17 seaters are ₹3,900."
+    answer: "A 12 seater AC Tempo Traveller for Varanasi to Sarnath costs ₹2,236 one-way and ₹2,472 for a round trip (including local sightseeing). The 17 seater is ₹2,436 one-way (₹2,872 return), 26 seater is ₹2,786 (₹3,272 return), and Force Urbania is ₹3,136 (₹3,472 return)."
   - question: "How long does a Sarnath tour take?"
-    answer: "A well-paced tour lasts 5–6 hours covering Dhamek Stupa, Mulagandha Kuti Vihara, Sarnath Museum, Chaukhandi Stupa, and Thai/Chinese monasteries."
+    answer: "A well-paced tour lasts 4–6 hours covering Dhamek Stupa, Mulagandha Kuti Vihara, Sarnath Museum, Chaukhandi Stupa, and Thai/Chinese monasteries."
   - question: "Do you provide licensed guides?"
     answer: "Yes. We work with ASI-licensed, English and Hindi speaking guides who can tailor the narrative for pilgrims, scholars, or school groups."
   - question: "Is the Tempo Traveller suitable for narrow Sarnath lanes?"
-    answer: "Yes. Roads are wide enough for 17 seaters. We schedule drop points close to each monument and keep the vehicle air-conditioned for quick respite from heat."
+    answer: "Yes. Roads are wide enough for 12, 17, and 26 seaters. We schedule drop points close to each monument and keep the vehicle air-conditioned for quick respite from heat."
 ---
 
 # Varanasi to Sarnath Tempo Traveller – Buddhist Heritage Shuttle
 
 Sarnath is where the Buddha delivered his first sermon. Whether you’re hosting a meditation retreat, an international delegation, or a school excursion, the right logistics can make the experience immersive instead of rushed. Our **Varanasi to Sarnath Tempo Traveller** package blends comfort, curated storytelling, and reliable timings.
 
-> **Quick Facts:** 10 km from Godowlia · 5–6 hour charter · ₹3,200 (12 seater) · ASI-licensed guides · chilled water, prayer shawls, and translation support.
+> **Quick Facts:** 10–12 km from Godowlia · 4–6 hour charter · from ₹2,236 one-way / ₹2,472 round-trip (12 seater) · ASI-licensed guides · chilled water, prayer shawls, and translation support.
 
 | ![Dhamek Stupa rising over manicured lawns at Sarnath](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/blogSarnath.png "Dhamek Stupa morning walk") | ![Meditation group boarding Traveller outside Mulagandha Kuti Vihara](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-side-l.jpeg "Traveller staged outside Mulagandha Kuti Vihara") | ![Traveller interior arranged with prayer shawls and water bottles](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_neon_inside.jpeg "Interior prepped for meditation group") |
 | --- | --- | --- |
@@ -64,13 +68,14 @@ Sarnath is where the Buddha delivered his first sermon. Whether you’re hosting
 
 ### Pricing Snapshot
 
-| Package | Duration | Inclusions | Price |
-| --- | --- | --- | --- |
-| Morning Half-Day (6 hrs) | 7 AM – 1 PM | Traveller, driver, parking, 1 chilled water bottle/person | ₹3,200 (12 seater) |
-| Full Day Add-On | 8 hrs | Adds Ramnagar Fort or BHU tour | ₹3,600 |
-| 17 Seater Upgrade | 6 hrs | Larger group (16 pax) | ₹3,900 |
+| Vehicle | Seating | One-Way | Round-Trip (Sightseeing) | Amenities & Extras |
+| --- | --- | --- | --- | --- |
+| 12 Seater Executive | 11+1 | ₹2,236 | ₹2,472 | AC, pushback seats, driver, parking, chilled water |
+| 17 Seater Standard | 16+1 | ₹2,436 | ₹2,872 | Microphone for guide, extra luggage space |
+| 26 Seater Standard | 25+1 | ₹2,786 | ₹3,272 | Best for school excursions and large delegations |
+| Force Urbania | 13 recliners | ₹3,136 | ₹3,472 | Plush captain seats, individual AC vents |
 
-> Guides charge ₹1,500 (English) and ₹1,200 (Hindi). We reserve them based on group profile.
+> Optional ASI guide charges: ₹1,500 (English) and ₹1,200 (Hindi).
 
 ## EAAT Commitment for Sarnath Buddhist Circuit Trips
 

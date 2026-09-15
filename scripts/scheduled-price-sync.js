@@ -214,13 +214,22 @@ function findDiscrepancies() {
       const h1Match = raw.match(/^#\s+(.+)$/m);
       const h1 = h1Match ? h1Match[1] : '';
 
-      const extractPrices = (str) =>
-        [...str.matchAll(/₹\s*([\d,]+)/g)].map(m => parseInt(m[1].replace(/,/g, ''), 10));
+      const extractPrices = (str) => {
+        if (!str) return [];
+        const matches = [];
+        for (const m of str.matchAll(/₹\s*([\d,]+(?:\.\d+)?)\s*(k\b)?/gi)) {
+          let num = parseFloat(m[1].replace(/,/g, ''));
+          if (m[2] && m[2].toLowerCase() === 'k') num = Math.round(num * 1000);
+          if (!isNaN(num)) matches.push(num);
+        }
+        return matches;
+      };
 
       const headlinePrices = [
         ...extractPrices(title),
         ...extractPrices(metaTitle),
         ...extractPrices(metaDesc),
+        ...extractPrices(fm.description),
         ...extractPrices(h1),
       ];
 
@@ -285,4 +294,4 @@ if (require.main === module) {
   findDiscrepancies();
 }
 
-module.exports = { findDiscrepancies, getCorrectedUrls };
+module.exports = { findDiscrepancies, getCorrectedUrls, mapUrlsToFiles };

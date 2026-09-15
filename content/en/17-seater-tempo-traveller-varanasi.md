@@ -12,6 +12,7 @@ keywords:
   - "17 seater tempo traveller rent varanasi"
 slug: 17-seater-tempo-traveller-varanasi
 canonical: https://www.kashitaxi.in/en/17-seater-tempo-traveller-varanasi
+featuredImage: https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg
 metaTitle: "17 Seater Tempo Traveller Varanasi ₹3,000+ | Hire Rates 2026"
 metaDescription: "Hire 17 seater tempo traveller in Varanasi: airport ₹3,000, local 8hr ₹6,000–₹6,500, outstation from ₹27/km. Groups, weddings, Ayodhya day trips. WhatsApp +91 99354 74730."
 lastUpdated: 2026-08-11

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastAudit": "2026-09-14",
+  "lastAudit": "2026-09-15",
   "candidates": [
     {
       "canonical": "https://www.kashitaxi.in/en/12-seater-tempo-traveller-varanasi",
@@ -37,7 +37,9 @@
     {
       "canonical": "https://www.kashitaxi.in/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi",
       "source": "content/en/9-vs-12-vs-17-seater-tempo-traveller-varanasi.md",
-      "status": "completed_local",
+      "status": "deployed_verified",
+      "deployedVerifiedDate": "2026-09-15",
+      "deploymentEvidence": "Live canonical contains the selected interior photograph in OG/Twitter and the Service image gallery, with canonical and index/follow preserved; user-authorized push previously confirmed commit feeab51 on master.",
       "completedDate": "2026-09-14",
       "issue": "Generic featured-image fallback despite suitable existing content photography.",
       "resolution": "Added featuredImage pointing to an existing 1280x960 interior photograph. Preserved the existing Service image array, which already includes this image.",

@@ -33,30 +33,37 @@
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "lowPrice": "2800",
-        "highPrice": "4500",
-        "offerCount": "3",
+        "lowPrice": "2236",
+        "highPrice": "3472",
+        "offerCount": "4",
         "availability": "https://schema.org/InStock",
         "priceValidUntil": "2026-12-31",
         "offers": [
           {
             "@type": "Offer",
-            "name": "9 Seater Tempo to Sarnath",
-            "price": 2800,
-            "priceCurrency": "INR",
-            "availability": "https://schema.org/InStock"
-          },
-          {
-            "@type": "Offer",
             "name": "12 Seater Tempo to Sarnath",
-            "price": 3200,
+            "price": 2236,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           },
           {
             "@type": "Offer",
             "name": "17 Seater Tempo to Sarnath",
-            "price": 4500,
+            "price": 2436,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "26 Seater Tempo to Sarnath",
+            "price": 2786,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Force Urbania to Sarnath",
+            "price": 3136,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock"
           }
@@ -79,7 +86,7 @@
           "name": "What is the Varanasi to Sarnath Tempo Traveller price?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "9 Seater at ₹2,800, 12 Seater at ₹3,200, and 17 Seater at ₹4,500 for 6-hour package. Includes driver, fuel, parking, and guide coordination."
+            "text": "12 Seater starts from ₹2,236 one-way (₹2,472 round-trip), 17 Seater from ₹2,436 (₹2,872 round-trip), 26 Seater from ₹2,786 (₹3,272 round-trip), and Force Urbania from ₹3,136 (₹3,472 return). Fares include AC vehicle, driver, parking, and fuel."
           }
         },
         {
