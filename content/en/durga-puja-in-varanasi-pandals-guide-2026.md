@@ -49,7 +49,7 @@ faqSchema:
 
 # Varanasi Durga Puja 2026: Pandals, Bengali Tola Traditions, Route Map & Cab Logistics
 
-> **Verified 2026 Festival Calendar:** Durga Puja in Varanasi begins on **Thursday, 15 October 2026** (Maha Shasthi / Bodhon) and culminates on **Tuesday, 20 October 2026** (Vijayadashami / Sindoor Khela & Visarjan Shobhayatra). It directly precedes the historic [Bharat Milap at Nati Imli](/en/bharat-milap-nati-imli) on 21 October and the 138-year-old Chetganj Nakkataiya Lakkha Mela on Karwa Chauth night (29 October).
+> **Verified 2026 Festival Calendar:** Durga Puja in Varanasi begins on **Thursday, 15 October 2026** (Maha Shasthi / Bodhon) and culminates on **Tuesday, 20 October 2026** (Vijayadashami / Sindoor Khela & Visarjan Shobhayatra). It directly precedes the historic [Bharat Milap at Nati Imli](/en/bharat-milap-nati-imli) on 21 October and the 139-year-old [Chetganj Nakkataiya Lakkha Mela](/en/chetganj-nakkataiya-lakkha-mela-varanasi-guide) on Karwa Chauth night (29 October).
 
 While travelers know Varanasi for its riverfront ghats and morning temple bells, every autumn the city transforms into **"Mini Bengal."** From the narrow stone alleys of Bengali Tola to the wide avenue of Chetganj, Varanasi erupts into a week-long celebration of sacred artistry, colossal multi-storey pandals, acoustic *Dhaak* drumming, and electric midnight street life.
 
@@ -258,7 +258,7 @@ Outdoor photography of the architectural facades and lighting displays is fully 
 The most authentic and intense Dhunuchi dances take place on **Maha Ashtami and Maha Navami evenings (around 07:30 PM to 09:30 PM)** at the traditional community pujas inside **Bengali Tola** and near **Sonarpura**. The raw percussion of the Dhaak drums combined with the fragrant clouds of frankincense creates an unforgettable spectacle.
 
 ### How does Durga Puja connect with other October festivals in Varanasi?
-Durga Puja runs in parallel with the grand [Kashi Nava Durga Yatra](/en/navratri-nava-durga-yatra-varanasi-guide) (11–19 October 2026). Following Vijayadashami on 20 October, the city celebrates the historic [Nati Imli Bharat Milap](/en/bharat-milap-nati-imli) on 21 October, and culminates in the famous Chetganj Nakkataiya Lakkha Mela on Karwa Chauth night (29 October).
+Durga Puja runs in parallel with the grand [Kashi Nava Durga Yatra](/en/navratri-nava-durga-yatra-varanasi-guide) (11–19 October 2026). Following Vijayadashami on 20 October, the city celebrates the historic [Nati Imli Bharat Milap](/en/bharat-milap-nati-imli) on 21 October, and culminates in the famous [Chetganj Nakkataiya Lakkha Mela](/en/chetganj-nakkataiya-lakkha-mela-varanasi-guide) on Karwa Chauth night (29 October).
 
 ---
 

@@ -1,18 +1,22 @@
 ---
 lang: en
-title: "Varanasi to Ayodhya Day Trip Traveller | 15-Hour Ram Mandir Plan"
-description: "Follow a proven sunrise-to-9PM itinerary covering Ram Mandir, Hanuman Garhi, Kanak Bhawan, and Saryu Aarti with ₹14,500 all-inclusive Traveller and wheelchair support."
+title: "Varanasi to Ayodhya Day Trip Traveller Fare ₹9,400 | 15-Hr Plan [2026]"
+metaTitle: "Varanasi to Ayodhya Day Trip Tempo Traveller from ₹9,400 | 12, 17 Seater"
+metaDescription: "Varanasi to Ayodhya day trip tempo traveller from ₹9,400 one-way (₹10,800 round-trip). 12, 17, 26 seater & Urbania for Ram Mandir darshan, Hanuman Garhi, Saryu Aarti."
+description: "Follow a proven sunrise-to-9PM itinerary covering Ram Mandir, Hanuman Garhi, Kanak Bhawan, and Saryu Aarti with ₹9,400 one-way / ₹10,800 round-trip Traveller and wheelchair support."
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: "2026-09-15"
 tags: [ayodhya, day trip, tempo traveller, pilgrimage, ram mandir]
 keywords:
   - varanasi to ayodhya day trip tempo traveller
+  - varanasi to ayodhya day trip tempo traveller fare
   - ayodhya day itinerary from varanasi
   - ram mandir same day tour
   - tempo traveller 1 day ayodhya package
   - varanasi to ayodhya travel time tempo traveller
 slug: varanasi-to-ayodhya-day-trip-tempo-traveller
+canonical: https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller
 relatedPosts:
   - varanasi-to-ayodhya-tempo-traveller
   - varanasi-to-ram-mandir-tempo-traveller
@@ -22,7 +26,7 @@ faqSchema:
   - question: "Can Ayodhya be covered comfortably in a single day from Varanasi?"
     answer: "Yes. With a 4:30–5:00 AM start you can complete Ram Mandir darshan, Hanuman Garhi, Kanak Bhawan, and Saryu Aarti before returning to Varanasi by 9:00 PM."
   - question: "What is the price of a Tempo Traveller day trip to Ayodhya?"
-    answer: "₹14,500 for a 12 seater all-inclusive package (vehicle, driver, tolls, parking). 17 seaters cost ₹15,500."
+    answer: "A 12-seater Tempo Traveller day trip starts from ₹10,800 for same-day round trip (₹9,400 one-way drop). The 17-seater is ₹12,400 round-trip (₹10,200 one-way), 26-seater is ₹14,000 round-trip (₹11,600 one-way), and luxury Force Urbania is ₹14,800 round-trip (₹13,000 one-way). Fares include AC vehicle, driver allowance, fuel, and highway tolls."
   - question: "Do you include meal stops in the day plan?"
     answer: "We schedule breakfast near Handia, lunch at trusted Ayodhya restaurants, and a tea break on the return leg. Special dietary requests are handled in advance."
   - question: "How do you manage senior citizens on this long day?"
@@ -31,11 +35,11 @@ faqSchema:
 
 # Varanasi to Ayodhya Day Trip Tempo Traveller Guide
 
-> **TL;DR:** Varanasi to Ayodhya day trip tempo traveller at ₹14,500 covers Ram Mandir, Hanuman Garhi, Kanak Bhawan, and Saryu Aarti in a 15-hour charter with wheelchair-ready support. Lock your slot by sharing headcount 48 hours out so we can pre-book wheelchairs and meal stops. Scroll for exact timeline, fleet options, and WhatsApp booking steps.
+> **TL;DR:** Varanasi to Ayodhya day trip tempo traveller starts from ₹9,400 one-way (₹10,800 round-trip for 12-seater) covering Ram Mandir, Hanuman Garhi, Kanak Bhawan, and Saryu Aarti in a 15-hour charter with wheelchair-ready support. Lock your slot by sharing headcount 48 hours out so we can pre-book wheelchairs and meal stops. Scroll for exact timeline, fleet options, and WhatsApp booking steps.
 
 Planning a sunrise-to-night pilgrimage from Kashi to Ayodhya? This page packages proven run sheets from the 60+ day trips we executed post Ram Mandir inauguration. Think of it as a logistics playbook—leave Varanasi before dawn, reach Ram Lala in time for morning darshan, savour prasadam, and still be back at Godowlia for bedtime.
 
-> **Quick Stats:** 220 km one way · 4.5 hours driving · 15-hour charter · ₹14,500 (12 seater) · 17 seater ₹15,500.
+> **Quick Stats:** 200 km one way · 4.5 hours driving · 15-hour charter · from ₹9,400 OW / ₹10,800 RT (12 seater) · 17 seater ₹10,200 OW / ₹12,400 RT.
 
 | ![Traveller rolling out of Varanasi before dawn for Ayodhya day trip](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus1.jpg "Pre-dawn departure for Ayodhya day trip") | ![Passengers relaxing inside premium Traveller cabin en route](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Comfortable cabin set for long-day pilgrimage") | ![Ayodhya Ram Mandir entrance lit up during evening darshan](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaTrain1.jpg "Ram Mandir entrance during golden hour") |
 | --- | --- | --- |
@@ -62,13 +66,14 @@ Planning a sunrise-to-night pilgrimage from Kashi to Ayodhya? This page packages
 
 ![Saryu riverfront illuminated during evening aarti](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/varanasi-evening-aarti-ritual-2025.jpg "Saryu riverfront evening aarti experience")
 
-| Variant | Seats | Inclusions | Price |
-| --- | --- | --- | --- |
-| 12 Seater Comfort | 11+1 | Traveller, driver, tolls, Ayodhya parking, water, pillows, sanitizer | ₹14,500 |
-| 17 Seater Family | 16+1 | Adds PA mic, extra luggage space, helper | ₹15,500 |
-| Urbania Premium | 13 recliners | Recliners, mini pantry, on-board snacks, 2 drivers | ₹21,000 |
+| Variant | Seats | One-Way | Round-Trip | Inclusions & Features |
+| --- | --- | --- | --- | --- |
+| 12 Seater Comfort | 11+1 | ₹9,400 | ₹10,800 | AC, pushback seats, tolls, parking, driver allowance, water |
+| 17 Seater Family | 16+1 | ₹10,200 | ₹12,400 | Extra luggage space, PA mic system, coordinator support |
+| 26 Seater Standard | 25+1 | ₹11,600 | ₹14,000 | Group / satsang pilgrimage, large luggage boot |
+| Urbania Premium | 13 recliners | ₹13,000 | ₹14,800 | Plush captain recliners, individual AC vents, senior comfort |
 
-> Booking includes ORS sachets, first-aid kit, devotional playlist, and emergency backup driver contact.
+> Booking includes vehicle, driver allowance, highway tolls, Ayodhya parking, fuel, water, ORS sachets, and first-aid kit. GST 5% if invoice needed.
 
 ## EAAT (Experience, Expertise, Authoritativeness, Trust) for Ayodhya Operations
 

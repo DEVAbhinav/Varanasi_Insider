@@ -24,6 +24,7 @@ tags:
   - weather
   - travel planning
 relatedPosts:
+  - chetganj-nakkataiya-lakkha-mela-varanasi-guide
   - annapurna-swarna-darshan-annakut-varanasi-guide
   - durga-puja-in-varanasi-pandals-guide-2026
   - navratri-nava-durga-yatra-varanasi-guide
@@ -42,7 +43,7 @@ faqSchema:
 
 # A Local's Guide to Visiting Varanasi in October (2026)
 
-> **Calendar correction:** Sharad Navratri is **11–19 October 2026**, Durga Puja runs **15–20 October 2026**, Dussehra is 20 October, and Diwali is **8 November 2026**. [Incredible India](https://www.incredibleindia.gov.in/en/festivals-and-events/navratri) · [Government of India holiday calendar](https://www.iirs.gov.in/holidaycalender)
+> **Calendar correction:** Sharad Navratri is **11–19 October 2026**, Durga Puja runs **15–20 October 2026**, Dussehra is 20 October, [Bharat Milap at Nati Imli](/en/bharat-milap-nati-imli) is 21 October, the historic [Chetganj Nakkataiya Lakkha Mela](/en/chetganj-nakkataiya-lakkha-mela-varanasi-guide) is on Karwa Chauth night (**29–30 October 2026**), and Diwali is **8 November 2026**. [Incredible India](https://www.incredibleindia.gov.in/en/festivals-and-events/navratri) · [Government of India holiday calendar](https://www.iirs.gov.in/holidaycalender)
 
 As a local, I feel a special kind of excitement in the air when October arrives. The monsoon clouds have cleared, leaving behind a fresh, clean city and skies that are a brilliant blue. The **weather in Varanasi in October** is absolutely delightful—it's the official start of the pleasant season and the beginning of major festivities. The city sheds its humid monsoon cloak and drapes itself in a vibrant, celebratory spirit, building up to the grand spectacle of Diwali.
 
@@ -70,6 +71,8 @@ October is all about festive energy. The entire city gets swept up in celebratio
 **Durga Puja & Bengali Tola Carnivals (15 October – 20 October 2026):** Paralleling Navratri, Varanasi transforms into "Mini Bengal." Towering 80–100 ft theme pandals rise at Sanatan Dharm Inter College (Nai Sarak) and Hathua Market (Chetganj), while historic 250-year-old traditional *Ekchala* pujas, thunderous *Dhaak* drumming, *Dhunuchi Naach*, and joyous *Sindoor Khela* animate the alleys of Bengali Tola. Central arteries are under strict No-Vehicle lockdown from 4 PM to 4 AM. For walking circuits, daylight elderly visiting hours, eco-immersion sites, and night standby cabs, read our in-depth [Varanasi Durga Puja 2026 Pandals & Logistics Guide](/en/durga-puja-in-varanasi-pandals-guide-2026).
 
 **Dussehra & Bharat Milap (20–21 October 2026):** Dussehra concludes the festival on 20 October with massive Ravana Dahan spectacles at Lanka, Sigra, and Ramnagar, followed immediately by the historic [Bharat Milap at Nati Imli](/en/bharat-milap-nati-imli) on 21 October. Pre-booking your festival transit through our [Varanasi Festival Taxi Service](/en/book-taxi-varanasi-ramlila-dussehra) is critical to avoid peak-hour surge pricing and post-event stranding.
+
+**Chetganj Nakkataiya Lakkha Mela (Karwa Chauth Night, 29–30 October 2026):** Closing out October's festive calendar, over 400,000 spectators pack the 2.5 km Chetganj corridor for one of Kashi's most spectacular historic night festivals. Established in 1887 by Baba Fateh Ram as a subversive act of defiance against the British Raj, the mela features moving multi-story tableaux (*Chaukiyan*), acrobatic performers suspended weightlessly in mid-air on mechanical spring-rods (*Laag-Vimaan*), blazing *banethi* fire-spinning, and competitive brass bands marching from midnight until 06:00 AM. With the entire Maldahiya–Chetganj corridor sealed into a strict No-Vehicle Zone from 6:00 PM to 6:00 AM, advance booking of designated perimeter drop cabs and balcony viewing spots is critical. For route maps, drop zones, and all-night food trails, read our complete [Chetganj Nakkataiya Mela 2026 Guide](/en/chetganj-nakkataiya-lakkha-mela-varanasi-guide).
 
 **The Lead-up to Diwali (Diwali is on 8 November 2026):** Throughout October, you can feel the excitement building. Markets are buzzing, and the ghats start to get decorated. You get to witness the city preparing for its biggest festival of lights, which is a unique experience in itself. Immediately following Diwali week, Kashi celebrates the once-a-year [Maa Annapurna Swarna Roop Darshan & Annakut Mahotsav](/en/annapurna-swarna-darshan-annakut-varanasi-guide) (6–11 November 2026), where the solid-gold temple opens and sacred Khazana coins are distributed.
 

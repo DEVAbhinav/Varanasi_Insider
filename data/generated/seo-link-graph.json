@@ -2,7 +2,7 @@
   "gscDate": "2026-07-30",
   "gscMatched": 559,
   "gscAnchorMatched": 19,
-  "totalNodes": 634,
+  "totalNodes": 636,
   "footer": {
     "en": [
       {
@@ -1343,6 +1343,38 @@
       {
         "href": "/en/12-seater-tempo-traveller-varanasi",
         "label": "12‑Seater Tempo Traveller in Varanasi",
+        "reason": "related"
+      }
+    ],
+    "/en/chetganj-nakkataiya-lakkha-mela-varanasi-guide": [
+      {
+        "href": "/",
+        "label": "Taxi Service in Varanasi",
+        "reason": "book"
+      },
+      {
+        "href": "/en/packages/varanasi-tour-package",
+        "label": "Varanasi Tour Package 2026",
+        "reason": "book"
+      },
+      {
+        "href": "/en/varanasi-weather-guide",
+        "label": "Varanasi Weather Guide",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/kashi-vs-varanasi-vs-banaras",
+        "label": "Kashi vs Varanasi vs Banaras",
+        "reason": "rescue"
+      },
+      {
+        "href": "/en/jagannath-rath-yatra-varanasi-2026",
+        "label": "Jagannath Rath Yatra in Varanasi, 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/en/sarnath-timing-visit-guide",
+        "label": "Sarnath Temple Timing 2026",
         "reason": "related"
       }
     ],
@@ -6757,6 +6789,38 @@
       }
     ],
     "/hi/best-time-to-visit-varanasi": [
+      {
+        "href": "/hi/varanasi-airport-taxi-guide",
+        "label": "वाराणसी एयरपोर्ट टैक्सी गाइड",
+        "reason": "book"
+      },
+      {
+        "href": "/hi/varanasi-sunrise-time",
+        "label": "वाराणसी में सूर्योदय का समय 2026",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/travel-from-varanasi-to-vindhyachal",
+        "label": "वाराणसी से विंध्याचल टैक्सी",
+        "reason": "rescue"
+      },
+      {
+        "href": "/hi/sarnath-timing-visit-guide",
+        "label": "सारनाथ टाइमिंग 2026",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/trikon-parikrama-vindhyachal-complete-guide",
+        "label": "विंध्याचल में त्रिकोण परिक्रमा",
+        "reason": "related"
+      },
+      {
+        "href": "/hi/varanasi-in-monsoon-july-september-2026",
+        "label": "मानसून में वाराणसी",
+        "reason": "related"
+      }
+    ],
+    "/hi/chetganj-nakkataiya-lakkha-mela-varanasi-guide": [
       {
         "href": "/hi/varanasi-airport-taxi-guide",
         "label": "वाराणसी एयरपोर्ट टैक्सी गाइड",
@@ -20396,6 +20460,20 @@
       "position": 11.7,
       "score": 89
     },
+    "/en/chetganj-nakkataiya-lakkha-mela-varanasi-guide": {
+      "lang": "en",
+      "title": "Chetganj Nakkataiya Mela 2026 Varanasi: Dates, Night Route, Tableaux & Cab Guide",
+      "anchor": "Chetganj Nakkataiya Mela 2026 Varanasi",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
+    },
     "/en/contact": {
       "lang": "en",
       "title": "Contact Kashi Taxi | 24×7 Helpline & Office Address",
@@ -21868,8 +21946,8 @@
     },
     "/en/varanasi-to-ayodhya-12-seater-tempo-traveller": {
       "lang": "en",
-      "title": "Varanasi to Ayodhya 12-Seater Traveller | Family Charter 2026",
-      "anchor": "Varanasi to Ayodhya 12-Seater Traveller",
+      "title": "Varanasi to Ayodhya 12-Seater Tempo Traveller Fare ₹9,400 | Charter [2026]",
+      "anchor": "Varanasi to Ayodhya 12-Seater Tempo Traveller Fare…",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -21878,12 +21956,12 @@
       "clicks": 4,
       "impressions": 170,
       "position": 4.9,
-      "score": 87
+      "score": 89
     },
     "/en/varanasi-to-ayodhya-day-trip-tempo-traveller": {
       "lang": "en",
-      "title": "Varanasi to Ayodhya Day Trip Traveller | 15-Hour Ram Mandir Plan",
-      "anchor": "Varanasi to Ayodhya Day Trip Traveller",
+      "title": "Varanasi to Ayodhya Day Trip Traveller Fare ₹9,400 | 15-Hr Plan [2026]",
+      "anchor": "Varanasi to Ayodhya Day Trip Traveller Fare ₹9,400",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -21892,7 +21970,7 @@
       "clicks": 1,
       "impressions": 152,
       "position": 34.8,
-      "score": 75
+      "score": 77
     },
     "/en/varanasi-to-ayodhya-taxi": {
       "lang": "en",
@@ -22298,7 +22376,7 @@
       "clicks": 73,
       "impressions": 9047,
       "position": 4.9,
-      "score": 475
+      "score": 474
     },
     "/en/where-to-stay-in-varanasi": {
       "lang": "en",
@@ -22985,6 +23063,20 @@
       "impressions": 894,
       "position": 7.3,
       "score": 26
+    },
+    "/hi/chetganj-nakkataiya-lakkha-mela-varanasi-guide": {
+      "lang": "hi",
+      "title": "चेतगंज नक्कटैया लक्खा मेला 2026 वाराणसी: तारीख, रात का रूट, लाग-विमान व कैब गाइड",
+      "anchor": "चेतगंज नक्कटैया लक्खा मेला 2026 वाराणसी",
+      "category": "guide",
+      "productType": "guide",
+      "destination": null,
+      "commercial": false,
+      "intent": null,
+      "clicks": 0,
+      "impressions": 0,
+      "position": null,
+      "score": 30
     },
     "/hi/contact": {
       "lang": "hi",
@@ -24062,12 +24154,12 @@
       "clicks": 1,
       "impressions": 61,
       "position": 7.1,
-      "score": 73
+      "score": 75
     },
     "/hi/varanasi-to-ayodhya-day-trip-tempo-traveller": {
       "lang": "hi",
-      "title": "वाराणसी से अयोध्या डे ट्रिप Tempo Traveller गाइड (15 घंटे)",
-      "anchor": "वाराणसी से अयोध्या डे ट्रिप Tempo Traveller गाइड…",
+      "title": "वाराणसी से अयोध्या डे ट्रिप Tempo Traveller गाइड | ₹9,400 से (15 घंटे)",
+      "anchor": "वाराणसी से अयोध्या डे ट्रिप Tempo Traveller गाइड",
       "category": "vehicle",
       "productType": "vehicle",
       "destination": null,
@@ -24076,7 +24168,7 @@
       "clicks": 0,
       "impressions": 113,
       "position": 5.3,
-      "score": 70
+      "score": 72
     },
     "/hi/varanasi-to-ayodhya-taxi": {
       "lang": "hi",

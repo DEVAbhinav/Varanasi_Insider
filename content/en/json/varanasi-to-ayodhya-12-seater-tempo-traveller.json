@@ -24,7 +24,7 @@
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller#trip",
       "name": "Varanasi to Ayodhya 12-Seater Tempo Traveller Charter",
-      "description": "Family-focused 12-seater Tempo Traveller from Varanasi to Ayodhya with seat-map guidance, cushions, luggage planning, and ₹14,500 all-inclusive fare.",
+      "description": "Family-focused 12-seater Tempo Traveller from Varanasi to Ayodhya with seat-map guidance, cushions, luggage planning, and transparent ₹9,400 one-way (₹10,800 round-trip) pricing.",
       "travelMode": "BUS",
       "itinerary": {
         "@type": "ItemList",
@@ -48,11 +48,29 @@
         ]
       },
       "offers": {
-        "@type": "Offer",
-        "price": 14500,
+        "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "name": "12-seater Ayodhya Tempo Traveller package",
-        "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller"
+        "lowPrice": "9400",
+        "highPrice": "10800",
+        "offerCount": "2",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "12-Seater Ayodhya One-Way Drop",
+            "price": 9400,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "12-Seater Ayodhya Same-Day Round Trip",
+            "price": 10800,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
       },
       "areaServed": [
         {
@@ -85,7 +103,7 @@
           "name": "What is the fare for a 12 seater Traveller from Varanasi to Ayodhya?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "₹14,500 all-inclusive for a same-day return covering vehicle, driver, tolls, parking, and basic refreshments."
+            "text": "A 12-seater Tempo Traveller from Varanasi to Ayodhya starts at ₹9,400 for a one-way drop and ₹10,800 for a same-day round trip (400 km billing). Fares include AC vehicle, driver allowance, fuel, and highway tolls."
           }
         },
         {
@@ -114,7 +132,7 @@
       "description": "Seat-map, fare, and comfort guide for 12-seater Tempo Traveller family charters from Varanasi to Ayodhya Ram Mandir.",
       "inLanguage": "en-IN",
       "datePublished": "2026-09-03",
-      "dateModified": "2026-09-03",
+      "dateModified": "2026-09-15",
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",

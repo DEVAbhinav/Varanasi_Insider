@@ -1,6 +1,6 @@
 # Travel Agent Varanasi - Complete Website Links
 
-**Total Pages:** 193 pages
+**Total Pages:** 195 pages
 **Last Updated:** October 12, 2026
 **Domain:** https://www.kashitaxi.in
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 📍 English Pages (EN) - 121 pages
+## 📍 English Pages (EN) - 122 pages
 
 ### Core Pages
 - **English Homepage** - https://www.kashitaxi.in/en/
@@ -112,7 +112,7 @@
 - **Sunrise Boat Ride** - https://www.kashitaxi.in/en/sunrise-boat-ride-ganges
 - **Sunrise Boat Ride Timings** - https://www.kashitaxi.in/en/varanasi-sunrise-boat-ride-timings
 
-### 🎉 Festivals & Events (22)
+### 🎉 Festivals & Events (23)
 - **Dev Deepawali 2026 Ultimate Guide** - https://www.kashitaxi.in/en/dev-deepawali-2026-varanasi-ultimate-guide
 - **Dev Deepawali Best Viewing Spots** - https://www.kashitaxi.in/en/dev-deepawali-best-viewing-spots-varanasi
 - **Dev Deepawali Boat Ride Pricing** - https://www.kashitaxi.in/en/dev-deepawali-boat-ride-pricing-guide-2026
@@ -134,6 +134,7 @@
 - **Navratri in Varanasi 2026 (Kashi Nava Durga)** - https://www.kashitaxi.in/en/navratri-nava-durga-yatra-varanasi-guide
 - **Sorahia Mela Varanasi 2026 (Lakshmi Kund)** - https://www.kashitaxi.in/en/sorahia-mela-lakshmi-kund-varanasi-guide
 - **Durga Puja in Varanasi 2026 (Pandals & Logistics)** - https://www.kashitaxi.in/en/durga-puja-in-varanasi-pandals-guide-2026
+- **Chetganj Nakkataiya Mela 2026** - https://www.kashitaxi.in/en/chetganj-nakkataiya-lakkha-mela-varanasi-guide
 - **Maa Annapurna Swarna Roop Darshan & Annakut 2026** - https://www.kashitaxi.in/en/annapurna-swarna-darshan-annakut-varanasi-guide
 
 ### 🕉️ Vindhyachal (7)
@@ -261,7 +262,7 @@
 - **Sunrise Boat Ride** - https://www.kashitaxi.in/hi/sunrise-boat-ride-ganges
 - **Sunrise Boat Ride Timings** - https://www.kashitaxi.in/hi/varanasi-sunrise-boat-ride-timings
 
-### 🎉 Festivals (हिंदी) (10)
+### 🎉 Festivals (हिंदी) (12)
 - **Dev Deepawali 2026** - https://www.kashitaxi.in/hi/dev-deepawali-2026-varanasi-ultimate-guide
 - **Dev Deepawali Best Viewing Spots** - https://www.kashitaxi.in/hi/dev-deepawali-best-viewing-spots-varanasi
 - **Dev Deepawali Boat Pricing** - https://www.kashitaxi.in/hi/dev-deepawali-boat-ride-pricing-guide-2026
@@ -272,6 +273,7 @@
 - **Navratri in Varanasi 2026 (काशी नवदुर्गा)** - https://www.kashitaxi.in/hi/navratri-nava-durga-yatra-varanasi-guide
 - **सोरहिया मेला व जिउतिया स्नान 2026 (लक्ष्मी कुंड)** - https://www.kashitaxi.in/hi/sorahia-mela-lakshmi-kund-varanasi-guide
 - **वाराणसी दुर्गा पूजा 2026 (पंडाल व दर्शन गाइड)** - https://www.kashitaxi.in/hi/durga-puja-in-varanasi-pandals-guide-2026
+- **चेतगंज नक्कटैया लक्खा मेला 2026** - https://www.kashitaxi.in/hi/chetganj-nakkataiya-lakkha-mela-varanasi-guide
 - **मां अन्नपूर्णा स्वर्ण रूप दर्शन एवं अन्नकूट 2026** - https://www.kashitaxi.in/hi/annapurna-swarna-darshan-annakut-varanasi-guide
 
 ### 🕉️ Vindhyachal (हिंदी) (5)

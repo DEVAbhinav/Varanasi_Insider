@@ -60,9 +60,53 @@
         "Two unrelated lazy-loaded related images were not scrolled into view; this was not a full image audit",
         "No deployment or external rich-result validation performed"
       ]
+    },
+    {
+      "canonical": "https://www.kashitaxi.in/en/17-seater-tempo-traveller-varanasi",
+      "source": "content/en/17-seater-tempo-traveller-varanasi.md",
+      "status": "deployed_verified",
+      "completedDate": "2026-09-15",
+      "deployedVerifiedDate": "2026-09-15",
+      "issue": "Generic featured image and an unrelated sedan photo in Product JSON-LD.",
+      "resolution": "Added the supported featuredImage field and aligned the Product image to an existing 1280x720 vehicle photo used in the page.",
+      "imageProvenance": "Existing Cloudinary image; visually inspected by Luna. No generation or upload.",
+      "suggestedImage": "https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo-Travellar_landscape_Village.jpeg",
+      "changedFiles": ["content/en/17-seater-tempo-traveller-varanasi.md", "content/en/json/17-seater-tempo-traveller-varanasi.json"],
+      "beforeSha256": {
+        "content/en/17-seater-tempo-traveller-varanasi.md": "fab025679631cbffc9862fcc8256096e91ab9d7f39237162376cdd65de32245a",
+        "content/en/json/17-seater-tempo-traveller-varanasi.json": "a7ec748cfc89362811910425e063807d525ba033a975b9b3c1415f4de974640b"
+      },
+      "afterSha256": {
+        "content/en/17-seater-tempo-traveller-varanasi.md": "eb15ff88e2a8f634e40fb90015e500ede5580e2665ee26787bead573a9830db2",
+        "content/en/json/17-seater-tempo-traveller-varanasi.json": "591cc521479bdaa26863d792b61d010bf30348c77fd3d487bf3abda39a39a37e"
+      },
+      "validation": [
+        "Luna high-effort worker: isolated lint and production build passed",
+        "Worker: selected image loaded, desktop/mobile checks passed without horizontal overflow, metadata/JSON-LD parsed and canonical/robots preserved",
+        "Parent reviewed the exact two-line patch, final file hashes and clean mobile screenshot",
+        "Parent verified selected image in live Open Graph, Twitter and Product JSON-LD with index/follow preserved",
+        "Worker stopped its temporary production server and browser"
+      ],
+      "deploymentEvidence": "Concurrent task included the exact edits in commit 815c2aa while this run was active. Live image references independently verified afterward. This SEO run did not commit, push or deploy.",
+      "limitations": [
+        "External rich-result validation not performed; no schema types or eligibility claims changed",
+        "Existing _app.js lint warning and validation-copy font HTTP 500 warnings remained",
+        "An existing third in-body photo Markdown syntax issue remains outside this metadata-only edit"
+      ]
     }
   ],
   "runs": [
+    {
+      "date": "2026-09-15",
+      "runId": "seo-20260915-033012",
+      "result": "17-seater featured/schema image corrected and verified live; prior comparison-page deployment reconciled",
+      "workerModel": "gpt-5.6-luna",
+      "workerReasoningEffort": "high",
+      "workerLaunches": 1,
+      "websiteFilesChanged": 2,
+      "delivery": "deployed_verified via concurrent task; this run performed no commit/push/deployment",
+      "nextAction": "Select an untouched canonical page with a verified image or content gap; do not repeat the completed vehicle-page image fixes."
+    },
     {
       "date": "2026-09-14",
       "runId": "seo-20260914-034045",

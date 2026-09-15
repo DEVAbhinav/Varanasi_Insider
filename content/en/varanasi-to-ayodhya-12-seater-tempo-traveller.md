@@ -1,18 +1,22 @@
 ---
 lang: en
-title: "Varanasi to Ayodhya 12-Seater Traveller | Family Charter 2026"
-description: "Seat-map your 8–12 pilgrim group with luggage hacks, ₹14,500 fare, cushions, and coordinator support for Ram Mandir darshan. Book instantly on WhatsApp."
+title: "Varanasi to Ayodhya 12-Seater Tempo Traveller Fare ₹9,400 | Charter [2026]"
+metaTitle: "Varanasi to Ayodhya 12-Seater Tempo Traveller Fare ₹9,400 | Return ₹10,800"
+metaDescription: "Book Varanasi to Ayodhya 12-seater tempo traveller from ₹9,400 one-way (₹10,800 round-trip). Pushback AC seating, Ram Mandir darshan coordination, luggage & elder comfort."
+description: "Seat-map your 8–12 pilgrim group with luggage hacks, ₹9,400 one-way (₹10,800 return) fare, cushions, and coordinator support for Ram Mandir darshan. Book instantly on WhatsApp."
 date: 2026-07-15
 author: "Kamal Nayan Singh"
-lastUpdated: 2026-07-15
+lastUpdated: "2026-09-15"
 tags: [ayodhya, tempo traveller, 12 seater, family travel, pilgrimage]
 keywords:
   - varanasi to ayodhya 12 seater tempo traveller
+  - varanasi to ayodhya 12 seater tempo traveller fare
   - 12 seater tempo traveller layout ayodhya
   - family ayodhya tour from varanasi
   - tempo traveller fare 12 seater ayodhya
   - ram mandir private charter 12 seater
 slug: varanasi-to-ayodhya-12-seater-tempo-traveller
+canonical: https://www.kashitaxi.in/en/varanasi-to-ayodhya-12-seater-tempo-traveller
 relatedPosts:
   - varanasi-to-ayodhya-tempo-traveller
   - varanasi-to-ayodhya-day-trip-tempo-traveller
@@ -22,7 +26,7 @@ faqSchema:
   - question: "How many passengers does a 12 seater Tempo Traveller fit comfortably?"
     answer: "Ideal for 8–11 passengers plus driver. Seats 1–2 elders easily with aisle access and rear luggage space for prasad." 
   - question: "What is the fare for a 12 seater Traveller from Varanasi to Ayodhya?"
-    answer: "₹14,500 all-inclusive for a same-day return (vehicle, driver, tolls, parking, basic refreshments)."
+    answer: "A 12-seater Tempo Traveller from Varanasi to Ayodhya starts at ₹9,400 for a one-way drop and ₹10,800 for a same-day round trip (400 km billing). Fares include AC vehicle, driver allowance, fuel, and highway tolls."
   - question: "Is there enough luggage space for prasad and shopping?"
     answer: "Yes. Rear boot accommodates 5–6 medium bags and we provide roof carrier if you want to carry suitcases or bulk prasad boxes."
   - question: "Do seats recline fully for elders to rest?"
@@ -31,11 +35,11 @@ faqSchema:
 
 # Varanasi to Ayodhya 12 Seater Tempo Traveller – Family Playbook
 
-> **TL;DR:** Varanasi to Ayodhya 12 seater tempo traveller runs ₹14,500 for 15 hours, covering Ram Mandir, Hanuman Garhi, and family-friendly stops with cushions, ORS, and coordinator support. Seat elders in Row 2 and pre-request roof carrier if you’re hauling prasad boxes. Scroll for seat map, sample timeline, and instant WhatsApp booking.
+> **TL;DR:** Varanasi to Ayodhya 12 seater tempo traveller starts at ₹9,400 one-way and ₹10,800 for a same-day round trip (400 km), covering Ram Mandir, Hanuman Garhi, and family-friendly stops with cushions, ORS, and coordinator support. Seat elders in Row 2 and pre-request roof carrier if you’re hauling prasad boxes. Scroll for seat map, sample timeline, and instant WhatsApp booking.
 
 Travelling with parents, kids, and maybe a family pandit? The 12 seater Tempo Traveller is the sweet spot—compact enough for Varanasi's lanes, spacious enough for elders to stretch, and economical compared to two Innovas. Below is a detailed look at how we customise the **Varanasi to Ayodhya 12 seater** experience.
 
-> **Key Specs:** 11 + driver seating · ₹14,500 same-day · 220 km one way · dual AC vents · ambient lighting · USB chargers.
+> **Key Specs:** 11 + driver seating · from ₹9,400 one-way / ₹10,800 same-day round trip · 200 km one way · dual AC vents · ambient lighting · USB chargers.
 
 | ![12-seater Traveller ready outside Ayodhya Ram Mandir parking](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/AyodhyaBus1.jpg "12-seater staged for family charter") | ![Interior view showing compact 12-seater layout with ambient lights](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/tempo-travellar-inside.jpeg "Comfortable 12-seater seating layout") | ![Close-up of cushioned seats with seatbelts and storage pockets](https://res.cloudinary.com/dkntlqbwr/image/upload/kashitaxi/kashitaxi/Tempo_travellar_seat_closup.jpeg "Seat detail with storage and belts") |
 | --- | --- | --- |
@@ -79,8 +83,10 @@ Row 4: 3 seats + rear luggage bay
 
 | Component | Amount |
 | --- | --- |
-| Base Package (15 hrs, 400 km) | ₹14,500 |
-| Extra Hour (beyond 15 hrs) | ₹450/hr |
+| Base One-Way Drop (200 km) | ₹9,400 |
+| Same-Day Round Trip (400 km) | ₹10,800 |
+| Extra Km (beyond package) | ₹24/km |
+| Extra Hour (beyond standard duty) | ₹450/hr |
 | Roof Carrier (if needed) | ₹300 |
 | 2nd Driver (overnight) | ₹1,200 |
 | Navratri/Peak Surcharge | ₹1,000 |

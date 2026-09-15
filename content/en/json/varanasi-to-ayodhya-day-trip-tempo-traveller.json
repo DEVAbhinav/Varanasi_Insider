@@ -24,7 +24,7 @@
       "@type": "Trip",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller#trip",
       "name": "Varanasi to Ayodhya Day Trip Tempo Traveller",
-      "description": "Sunrise-to-night Ram Mandir day trip from Varanasi with 12-seater Tempo Traveller, darshan coordination, wheelchair support, and ₹14,500 transparent pricing.",
+      "description": "Sunrise-to-night Ram Mandir day trip from Varanasi with 12-seater Tempo Traveller, darshan coordination, wheelchair support, and transparent ₹9,400 one-way / ₹10,800 round-trip pricing.",
       "travelMode": "BUS",
       "itinerary": {
         "@type": "ItemList",
@@ -48,11 +48,43 @@
         ]
       },
       "offers": {
-        "@type": "Offer",
-        "price": 14500,
+        "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "name": "All-inclusive Ayodhya day trip Tempo Traveller package",
-        "url": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller"
+        "lowPrice": "9400",
+        "highPrice": "14800",
+        "offerCount": "4",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "12 Seater Tempo Traveller Day Trip",
+            "price": 9400,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "17 Seater Tempo Traveller Day Trip",
+            "price": 10200,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "26 Seater Tempo Traveller Day Trip",
+            "price": 11600,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          },
+          {
+            "@type": "Offer",
+            "name": "Force Urbania Luxury Day Trip",
+            "price": 13000,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+          }
+        ]
       },
       "areaServed": [
         {
@@ -85,7 +117,7 @@
           "name": "What is the price of a Tempo Traveller day trip to Ayodhya?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "₹14,500 for a 12 seater all-inclusive package covering vehicle, driver, tolls, and parking. 17 seaters cost ₹15,500."
+            "text": "12-seater Tempo Traveller starts from ₹9,400 one-way and ₹10,800 for a same-day round trip. 17-seater is ₹10,200 one-way (₹12,400 round-trip), 26-seater is ₹11,600 (₹14,000 return), and Force Urbania is ₹13,000 (₹14,800 return) including AC vehicle, driver, tolls, and parking."
           }
         },
         {
@@ -114,7 +146,7 @@
       "description": "Step-by-step Ram Mandir day trip playbook with Tempo Traveller pricing, itinerary, and support for elders from Varanasi.",
       "inLanguage": "en-IN",
       "datePublished": "2026-09-03",
-      "dateModified": "2026-09-03",
+      "dateModified": "2026-09-15",
       "publisher": {
         "@id": "https://www.kashitaxi.in#organization",
         "@type": "Organization",
@@ -125,7 +157,7 @@
       "@type": "Product",
       "@id": "https://www.kashitaxi.in/en/varanasi-to-ayodhya-day-trip-tempo-traveller/#product",
       "name": "Varanasi to Ayodhya Day Trip - Ram Mandir Tempo Traveller",
-      "description": "Book Varanasi to Ayodhya day trip by tempo traveller. Ram Mandir darshan, Hanuman Garhi, Saryu Aarti. ₹14,500 all-inclusive, 12-seater, wheelchair support.",
+      "description": "Book Varanasi to Ayodhya day trip by tempo traveller. Ram Mandir darshan, Hanuman Garhi, Saryu Aarti. From ₹9,400 one-way / ₹10,800 round-trip, 12, 17, 26 seater & Urbania.",
       "brand": {
         "@id": "https://www.kashitaxi.in#organization"
       },
@@ -134,9 +166,9 @@
       "offers": {
         "@type": "AggregateOffer",
         "priceCurrency": "INR",
-        "lowPrice": "14500",
-        "highPrice": "16500",
-        "offerCount": "2",
+        "lowPrice": "9400",
+        "highPrice": "14800",
+        "offerCount": "4",
         "availability": "https://schema.org/InStock",
         "priceValidUntil": "2026-12-31"
       },

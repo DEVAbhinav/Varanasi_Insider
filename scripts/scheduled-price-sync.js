@@ -251,7 +251,7 @@ function findDiscrepancies() {
           break;
         }
       } else if (isTempo) {
-        const tempoVehicles = ['tempo-12', 'tempo-17', 'tempo-26'];
+        const tempoVehicles = ['tempo-12', 'tempo-17', 'tempo-26', 'urbania'];
         const validTempoPrices = tempoVehicles.flatMap(tid => [engine[tid].ow, engine[tid].rt]);
         const discrepancies = headlinePrices.filter(p => !validTempoPrices.includes(p) && p > 100);
         if (discrepancies.length > 0) {
